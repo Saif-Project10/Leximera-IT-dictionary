@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leximera — Modern Terminology Dictionary</title>
+  <meta name="description" content="Leximera is a premium, search-first terminology dictionary for advanced English words, meanings, and usage.">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="home">
+  <div class="page">
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Leximera home">
+        <svg class="brand-mark" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="2" y="2" width="40" height="40" rx="10" fill="var(--brand-ink)"/>
+          <path d="M13 14H31V30H13V14Z" stroke="var(--brand-paper)" stroke-width="2" fill="none"/>
+          <path d="M16 28L28 16" stroke="var(--brand-paper)" stroke-width="2" stroke-linecap="round"/>
+          <path d="M16 16L28 28" stroke="var(--brand-paper)" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+        </svg>
+        <span class="brand-name">Leximera</span>
+      </a>
+      <nav class="nav">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+          <span id="themeIcon" aria-hidden="true">◐</span>
+        </button>
+        <a class="nav-link" href="bookmarks.html">Bookmarks</a>
+        <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="contact.html">Contact</a>
+        <a class="nav-link" href="disclaimer.html">Disclaimer</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Precision vocabulary. Modern learning.</p>
+          <h1>Search-first dictionary for advanced terminology</h1>
+          <p class="lead">Explore 20,000+ words with full explanations, rich examples, and contextual usage guidance.</p>
+        </div>
+
+        <div class="search-panel" role="search">
+          <div class="search-box">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="searchInput" class="search-input" type="text" autocomplete="off" spellcheck="false" placeholder="Search word, meaning, synonym, or collocation...">
+            <button id="clearSearch" class="icon-btn" aria-label="Clear search">×</button>
+          </div>
+          <div id="suggestions" class="suggestions" aria-live="polite"></div>
+
+          <div class="filters">
+            <div class="filter-label">Quick alphabet</div>
+            <div id="alphabetFilter" class="alphabet"></div>
+          </div>
+
+          <div class="stats">
+            <div class="stat">
+              <div class="stat-value" id="totalWords">—</div>
+              <div class="stat-label">Total words</div>
+            </div>
+            <div class="stat">
+              <div class="stat-value" id="totalSynonyms">—</div>
+              <div class="stat-label">Synonyms</div>
+            </div>
+            <div class="stat">
+              <div class="stat-value" id="totalExamples">—</div>
+              <div class="stat-label">Examples</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="results" aria-live="polite">
+        <div class="section-head">
+          <h2>Search results</h2>
+          <div class="results-meta" id="resultsMeta">Start typing to discover words.</div>
+        </div>
+        <div id="resultsList" class="result-grid"></div>
+        <button id="loadMore" class="btn" type="button">Load more</button>
+      </section>
+
+      <section class="split">
+        <article class="card" id="wordOfDayCard">
+          <div class="card-head">
+            <h3>Word of the Day</h3>
+            <button id="refreshWord" class="icon-btn" aria-label="New word">↻</button>
+          </div>
+          <div id="wordOfDay"></div>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <h3>Recently viewed</h3>
+            <button id="clearRecent" class="ghost-btn" type="button">Clear</button>
+          </div>
+          <div id="recentList" class="mini-list"></div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>Leximera — modern terminology reference for focused learning.</div>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="bookmarks.html">Bookmarks</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="disclaimer.html">Disclaimer</a>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
