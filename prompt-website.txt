@@ -1,0 +1,167 @@
+Create a modern, high-performance terminology / dictionary website
+using ONLY the following technologies:
+
+✔ HTML
+✔ CSS
+✔ Vanilla JavaScript
+
+STRICTLY DO NOT use:
+✘ Bootstrap
+✘ Tailwind
+✘ Any CSS framework
+✘ Any JavaScript framework or library
+✘ Python
+✘ Node.js
+✘ Backend servers
+✘ Databases
+✘ External CDN resources
+
+Everything must be written from scratch using pure HTML, CSS, and Vanilla JavaScript only.
+
+--------------------------------------------------
+
+Branding & Identity (VERY IMPORTANT):
+
+1) Suggest a PERFECT, professional website name suitable for:
+   - Difficult English words
+   - Terminology
+   - Learning & education
+   The name should feel modern, intelligent, and premium.
+
+2) Create a custom LOGO using ONLY:
+   - Inline SVG (no images)
+   - Clean, minimal, scalable design
+   - Typography-based or symbolic mark
+   - No icon libraries
+
+3) Define a complete visual THEME:
+   - Primary color
+   - Secondary color
+   - Accent color
+   - Light mode palette
+   - Dark mode palette
+   - Reader-friendly, professional appearance
+
+--------------------------------------------------
+
+Data Source:
+
+I have a local file named `data.json` containing 20,000+ word objects.
+
+Each object includes:
+- word
+- meaning
+- shortMeaning
+- example
+- example2
+- example3
+- Explanation (LONG TEXT – MUST BE SHOWN COMPLETELY)
+- synonyms (array)
+- antonyms (array)
+- commonContext
+- usageTip
+
+IMPORTANT:
+The `explanation` field is detailed and educational.
+It must be displayed in FULL for each word (not summarized, not truncated),
+with a clean readable layout. It may be collapsible, but the full text must be available.
+
+--------------------------------------------------
+
+Core Constraints:
+
+- The website has NO categories
+- The experience must be SEARCH-FIRST and WORD-CENTRIC
+- Optimized for very large datasets (20,000+ items)
+- Fast on mobile and low-end devices
+- Fully responsive and accessible
+
+--------------------------------------------------
+
+Pages & Functionality:
+
+1) Home Page (index.html)
+- Minimal, modern hero layout
+- Large centered search bar as the main focus
+- Real-time search suggestions
+- Total word count display
+- “Word of the Day” section
+- Logo and branding clearly visible
+
+2) Search System
+- Search by:
+  - Word
+  - Meaning
+  - Synonyms
+- Highlight matching text
+- Alphabet filter (A–Z)
+- Debounced input handling for performance
+- Pagination or lazy loading (do NOT render all words at once)
+
+3) Word Detail Page (word.html)
+- JavaScript-based dynamic routing
+- SEO-friendly URL format:
+  /word.html?term=trivial
+
+The word detail page MUST display:
+
+- Word title (large and prominent)
+- Short meaning (highlighted)
+- Full meaning
+- Examples (up to 3)
+- FULL explanation text (clearly readable, expandable allowed)
+- Clickable synonyms and antonyms
+- Usage tip in a styled info box
+- Common context
+- Related words based on shared synonyms
+- Bookmark button for the word
+
+4) Bookmarks Page (REQUIRED)
+- Create a dedicated bookmarks page or section
+- Show all bookmarked words saved using localStorage
+- Each bookmarked word should be:
+  - Clickable
+  - Removable from bookmarks
+- Persist bookmarks across page reloads
+- Use the same theme and styling as the rest of the site
+
+5) Extra UX Features
+- Dark mode toggle
+- Recently viewed words (localStorage)
+- Smooth transitions and subtle animations
+- Mobile-first design approach
+
+--------------------------------------------------
+
+Technical Requirements:
+
+- Load data using fetch() from local JSON files
+- Write clean, modular, well-commented JavaScript
+- Optimize DOM rendering for large datasets
+- No backend logic of any kind
+- No third-party libraries or frameworks
+
+--------------------------------------------------
+
+Design Expectations:
+
+- World-class dictionary / reference quality
+- Minimal but premium visual style
+- Excellent typography for long reading sessions
+- Proper spacing, contrast, and hierarchy
+- Comparable to top learning and reference platforms
+
+--------------------------------------------------
+
+Final Deliverables:
+
+- index.html
+- word.html
+- bookmarks.html (or clearly defined bookmarks section)
+- style.css
+- script.js
+- Inline SVG logo
+- Clear explanation of:
+  - File structure
+  - Theme & branding choices
+  - Performance optimizations used
