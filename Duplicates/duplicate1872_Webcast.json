@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Webcast",
+    "meaning": "A video or audio broadcast sent over the internet",
+    "shortMeaning": "internet broadcast",
+    "example": "The CEO's speech was shared via a live webcast.",
+    "example2": "Thousands of people tuned in for the product launch webcast.",
+    "example3": "You can watch the recorded webcast if you missed the live event.",
+    "Explanation": "A webcast is very similar to a television or radio broadcast, but it is delivered using the internet. It can be a live event, like a concert or a meeting, or it can be available on demand. Webcasts allow people from all over the world to participate in an event without being there physically. They often include interactive features like chat rooms or polls. Many companies use webcasts for training employees or announcing financial results. It is a cost-effective way to reach a very large audience simultaneously.",
+    "synonyms": [
+      "livestream",
+      "online broadcast",
+      "webinar"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "webcast",
+    "verbForm": "webcast",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Corporate communications and media",
+    "usageTip": "Use 'webcast' when referring to a one-to-many broadcast over the internet.",
+    "commonMistake": "Confusing 'webcast' with a standard 'video call' (which is two-way).",
+    "collocations": [
+      "live webcast",
+      "corporate webcast",
+      "host a webcast"
+    ]
+  },
+  {
+    "word": "Webcast",
+    "meaning": "A live video or audio broadcast transmitted over the internet to a large, distributed public audience",
+    "shortMeaning": "internet video broadcast",
+    "example": "The technology corporation hosted a live webcast to demonstrate their upcoming software framework tool.",
+    "example2": "You can embed the community tech webcast player directly inside your education website layout container.",
+    "example3": "Thousands of global developers logged into the virtual meeting room to watch the annual project webcast.",
+    "Explanation": "The word 'webcast' combines 'web' and 'broadcast' to describe modern online streaming events. Unlike a personal video call between two friends, a webcast is a one-to-many communication channel designed to stream presentations, global conferences, or corporate announcements to thousands of concurrent online viewers simultaneously. Webcasts rely heavily on solid video streaming protocols, content delivery networks (CDNs), and high-performance server configurations to distribute high-definition media files smoothly with minimal buffering delay.",
+    "synonyms": [
+      "online broadcast",
+      "live stream",
+      "webinar",
+      "internet transmission"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "webcast",
+    "verbForm": "webcast",
+    "adjectiveForm": "webcasted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Global product release announcements, remote educational workshops, and digital media streaming systems",
+    "usageTip": "Use 'webcast' when describing large-scale, professional online presentations or video events broadcast to a wide public audience.",
+    "commonMistake": "Using 'webcast' to describe a standard two-way casual video chat session, which is properly called a video call or conference.",
+    "collocations": [
+      "live webcast",
+      "host a webcast",
+      "webcast a presentation"
+    ]
+  }
+]

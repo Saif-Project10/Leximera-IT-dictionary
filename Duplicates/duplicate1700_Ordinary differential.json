@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Ordinary differential",
+    "meaning": "Relating to equations that involve functions of only one variable and their derivatives",
+    "shortMeaning": "single-variable calculus",
+    "example": "An ordinary differential equation describes how a single value changes over time.",
+    "example2": "The growth of a bacterial colony is an ordinary differential process.",
+    "example3": "He studied ordinary differential equations to understand physics better.",
+    "Explanation": "Ordinary differential refers to a type of calculus used to describe change. In the real world, many things depend on just one factor (usually time). For example, the cooling of a cup of coffee or the falling of a ball. An 'ordinary' equation only has one independent variable. This makes them simpler to solve than 'partial' differential equations, which deal with many variables (like wind speed and temperature and humidity all at once). They are the foundation of engineering and physics, allowing us to build everything from bridges to electrical circuits by predicting how they will behave over time.",
+    "synonyms": [
+      "single-variable derivative",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "partial differential",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "ordinary differential",
+    "verbForm": "N/A",
+    "adjectiveForm": "ordinary differential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Calculus, physics, and engineering math",
+    "usageTip": "Use 'ordinary' to distinguish from 'partial' when you are dealing with only one source of change.",
+    "commonMistake": "Thinking 'ordinary' means 'easy'; these equations can still be very complex and difficult to solve.",
+    "collocations": [
+      "ordinary differential operator",
+      "ordinary differential problem",
+      "ordinary differential calculus"
+    ]
+  },
+  {
+    "word": "Ordinary differential",
+    "meaning": "An equation involving an unknown function of one variable and its derivatives",
+    "shortMeaning": "type of equation",
+    "example": "He solved the ordinary differential equation for the circuit.",
+    "example2": "The class focused on linear ordinary differential equations.",
+    "example3": "Ordinary differential equations are used in physics to model motion.",
+    "Explanation": "This term refers to a mathematical equation that relates a function of a single variable to one or more of its derivatives. It is a fundamental concept in calculus and engineering used to describe how systems change over time. Unlike partial differential equations, which involve multiple variables, this type strictly deals with functions of one independent variable. It is essential for modeling physical processes, population growth, and mechanical vibrations. Mastery of this concept is critical for students studying physics, mathematics, or advanced system analysis.",
+    "synonyms": [
+      "ODE",
+      "differential equation"
+    ],
+    "antonyms": [
+      "partial differential equation"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Mathematics, Physics, Engineering",
+    "usageTip": "Usually referred to as 'ODE' in technical settings.",
+    "commonMistake": "Confusing it with partial differential equations that have multiple variables.",
+    "collocations": [
+      "solve an ordinary differential equation",
+      "linear ordinary differential equation",
+      "system of ordinary differential equations"
+    ]
+  }
+]

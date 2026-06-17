@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Structure",
+    "meaning": "The arrangement of parts in a whole; a building or something constructed.",
+    "shortMeaning": "arrangement; building",
+    "example": "The company has a flat management structure.",
+    "example2": "The Eiffel Tower is a famous iron structure.",
+    "example3": "You need to add more structure to your essay.",
+    "Explanation": "Structure refers to how parts are organized to form a coherent whole. It can be physical (a bridge), organizational (a hierarchy), or abstract (the structure of an argument). It implies order, design, and interrelationship. As a verb, it means to arrange or organize. Good structure provides stability, clarity, and efficiency. In writing, structure helps readers follow ideas. In society, social structures shape behavior. It's a foundational concept in engineering, linguistics, sociology, and many other fields. Without structure, things tend to be chaotic.",
+    "synonyms": [
+      "framework",
+      "organization",
+      "construction",
+      "form",
+      "arrangement"
+    ],
+    "antonyms": [
+      "disorder",
+      "chaos",
+      "disorganization"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structural",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Buildings, organizations, sentences, data, society",
+    "usageTip": "Use as a noun for the organization itself, and as a verb for the act of organizing (structure your day).",
+    "commonMistake": "Using 'structure' only for buildings; it applies to any organized system.",
+    "collocations": [
+      "organizational structure",
+      "power structure",
+      "sentence structure",
+      "data structure"
+    ]
+  },
+  {
+    "word": "Structure",
+    "meaning": "The specific arrangement and organization of interconnected elements within an object, file, or coding system",
+    "shortMeaning": "organization or arrangement",
+    "example": "A well-defined folder structure makes it much easier to maintain large code repositories over time.",
+    "example2": "You must define the exact database structure before writing any backend processing code.",
+    "example3": "HTML provides the basic content structure for elements displayed across standard websites.",
+    "Explanation": "The word 'structure' acts as both a noun describing an arrangement and a verb meaning to build an arrangement. In computer science and web development, structure is vital. Data structures tell applications how to hold, organize, and access information efficiently. HTML layout structure gives meaning to web content so browsers can display it correctly. Without proper structural engineering, databases become slow, codebases become unreadable messes, and projects fail to scale smoothly. It is a critical foundational concept across all technological paths.",
+    "synonyms": [
+      "organization",
+      "arrangement",
+      "framework",
+      "architecture"
+    ],
+    "antonyms": [
+      "chaos",
+      "disorganization",
+      "mess"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structural",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "HTML document layouts, database tables setup, and project folder organization",
+    "usageTip": "Use 'structure' to explain the foundational skeleton or orderly blueprint holding an application together.",
+    "commonMistake": "Do not mix up 'structure' with 'style'; structure is how items are arranged, style is how they look visually.",
+    "collocations": [
+      "database structure",
+      "folder structure",
+      "structure your code"
+    ]
+  }
+]

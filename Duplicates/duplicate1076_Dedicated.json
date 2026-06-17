@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Dedicated",
+    "meaning": "Devoted to a task or purpose; exclusively allocated.",
+    "shortMeaning": "devoted; committed",
+    "example": "She is a dedicated teacher who cares about her students.",
+    "example2": "We have a dedicated server for this application.",
+    "example3": "He's dedicated to improving his skills.",
+    "Explanation": "'Dedicated' is an adjective with two related meanings. First, describing a person who is committed, devoted, or enthusiastic about something (dedicated worker). Second, describing something set aside for a specific purpose (dedicated line, dedicated funding). It's the past participle of 'dedicate' used as an adjective. It implies single-minded focus, loyalty, or exclusive allocation. It's a positive trait in people and a practical concept in resource allocation. It suggests reliability and purposefulness.",
+    "synonyms": [
+      "committed",
+      "devoted",
+      "enthusiastic",
+      "allocated"
+    ],
+    "antonyms": [
+      "uncommitted",
+      "apathetic",
+      "shared",
+      "multipurpose"
+    ],
+    "nounForm": "dedication",
+    "verbForm": "dedicate",
+    "adjectiveForm": "dedicated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Personnel, computing, funding, equipment",
+    "usageTip": "For people: 'dedicated employee'. For resources: 'dedicated line', 'dedicated funds'.",
+    "commonMistake": "Using 'dedicated' to mean simply 'hardworking'. It implies deeper commitment to a cause or purpose.",
+    "collocations": [
+      "dedicated professional",
+      "dedicated server",
+      "dedicated to"
+    ]
+  },
+  {
+    "word": "Dedicated",
+    "meaning": "Designed or reserved for a specific purpose",
+    "shortMeaning": "exclusive",
+    "example": "We use a dedicated server for the database.",
+    "example2": "The team has a dedicated resource for QA.",
+    "example3": "This is a dedicated line for high-speed traffic.",
+    "Explanation": "Dedicated means 'reserved solely for one thing'. In IT, this often refers to hardware (dedicated server) or personnel (dedicated team). It implies that the item is not shared, which provides better performance or focus. The verb is 'dedicate'. Use this to describe assets that are allocated exclusively to a specific project or application.",
+    "synonyms": [
+      "exclusive",
+      "reserved",
+      "specific"
+    ],
+    "antonyms": [
+      "shared",
+      "general",
+      "multi-purpose"
+    ],
+    "nounForm": "dedication",
+    "verbForm": "dedicate",
+    "adjectiveForm": "dedicated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Infrastructure, project staffing",
+    "usageTip": "Use when highlighting that a resource is not shared.",
+    "commonMistake": "Assuming 'dedicated' automatically means 'better' (it might just be more expensive).",
+    "collocations": [
+      "dedicated server",
+      "dedicated resource",
+      "dedicated team"
+    ]
+  }
+]

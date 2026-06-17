@@ -1,0 +1,87 @@
+[
+  {
+    "word": "Vascular",
+    "meaning": "Relating to the system of tubes (vessels) that carry blood or sap in animals and plants",
+    "shortMeaning": "relating to vessels",
+    "example": "Regular exercise is good for your vascular health.",
+    "example2": "Vascular plants have specialized tissues for transporting water.",
+    "example3": "The surgeon specializes in vascular surgery to fix blocked arteries.",
+    "Explanation": "The word 'vascular' comes from the Latin word for 'vessel.' In humans, it refers to the arteries and veins that circulate blood. In biology, it refers to the tissues in plants (xylem and phloem) that move nutrients. It is a medical and biological term. When something is described as 'vascular,' it means it has many blood vessels or is related to the circulatory system. Understanding vascular health is key to preventing heart disease and strokes. It is rarely used outside of medical or scientific contexts.",
+    "synonyms": [
+      "circulatory",
+      "veinous",
+      "arterial"
+    ],
+    "antonyms": [
+      "non-vascular"
+    ],
+    "nounForm": "vasculature",
+    "verbForm": "N/A",
+    "adjectiveForm": "vascular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, biology, and fitness",
+    "usageTip": "Use 'cardiovascular' when specifically talking about the heart and blood vessels together.",
+    "commonMistake": "Confusing 'vascular' with 'muscular.'",
+    "collocations": [
+      "vascular system",
+      "vascular disease",
+      "vascular tissue"
+    ]
+  },
+  {
+    "word": "Vascular",
+    "meaning": "Relating to the transport of fluids through vessels.",
+    "shortMeaning": "related to vessels",
+    "example": "The cooling system has a vascular network of pipes.",
+    "example2": "We compared the chip layout to a vascular structure.",
+    "example3": "The design follows a vascular path for liquid cooling.",
+    "Explanation": "Vascular relates to the structure of tubes or vessels that carry fluids. In engineering, this term is used to describe advanced cooling systems or micro-fluidic chips that mimic biological networks to efficiently distribute liquids for temperature control. It is an advanced, specialized term. It helps visualize how modern, dense hardware structures manage heat and energy. It is rarely used in standard web development contexts.",
+    "synonyms": [
+      "vessel-like",
+      "tubular"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "vessel",
+    "verbForm": "N/A",
+    "adjectiveForm": "vascular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware cooling, advanced engineering",
+    "usageTip": "Use this only when discussing complex fluid-based networks.",
+    "commonMistake": "Using it for non-fluid systems.",
+    "collocations": [
+      "vascular cooling",
+      "vascular structure",
+      "vascular network"
+    ]
+  },
+  {
+    "word": "Vascular",
+    "meaning": "Relating to the flow of fluids through vessels",
+    "shortMeaning": "fluid-carrying",
+    "example": "The cooling system uses a vascular network for heat dissipation.",
+    "example2": "Some designs mimic vascular structures to optimize cooling.",
+    "example3": "The network acts like a vascular system for the data.",
+    "Explanation": "The term 'vascular' refers to a system of tubes or vessels that carry fluids. In IT and engineering, it is often used metaphorically to describe complex, branching network layouts, cooling systems, or data distribution paths that resemble biological vascular structures. It highlights efficiency in moving resources throughout a system. It is a specific, somewhat advanced term used when drawing comparisons between engineering systems and biological efficiency.",
+    "synonyms": [
+      "tubular",
+      "circulatory",
+      "vessel-based"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "vasculature",
+    "verbForm": "N/A",
+    "adjectiveForm": "vascular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Engineering metaphors and system design",
+    "usageTip": "Use for metaphors about branching networks or cooling.",
+    "commonMistake": "Using 'vascular' for non-branching systems.",
+    "collocations": [
+      "vascular system",
+      "vascular network"
+    ]
+  }
+]

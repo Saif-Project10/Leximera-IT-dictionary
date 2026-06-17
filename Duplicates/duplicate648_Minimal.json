@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Minimal",
+    "meaning": "Of a minimum amount, quantity, or degree; very small",
+    "shortMeaning": "very little; smallest possible",
+    "example": "The design is simple with minimal decoration.",
+    "example2": "There was minimal damage after the storm.",
+    "example3": "He puts in minimal effort at work.",
+    "Explanation": "'Minimal' describes the smallest possible amount or degree of something. It is often used in a positive way to describe simplicity, efficiency, or lack of waste (e.g., minimalism in art). The noun form is 'minimum'. It is not the same as 'small'; it emphasizes being at the lowest limit. It's a common word in design, business, and everyday descriptions where less is considered more.",
+    "synonyms": [
+      "minimum",
+      "least",
+      "smallest",
+      "bare"
+    ],
+    "antonyms": [
+      "maximal",
+      "maximum",
+      "extensive",
+      "considerable"
+    ],
+    "nounForm": "minimum",
+    "verbForm": "minimize",
+    "adjectiveForm": "minimal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, effort, impact, cost",
+    "usageTip": "Use 'minimal' to emphasize that something is the smallest amount possible or necessary.",
+    "commonMistake": "Confusing 'minimal' (adjective) with 'minimum' (noun). You have 'minimal risk' (adjective) but 'a minimum of risk' (noun).",
+    "collocations": [
+      "minimal effort",
+      "minimal impact",
+      "minimal cost",
+      "minimal design"
+    ]
+  },
+  {
+    "word": "Minimal",
+    "meaning": "The smallest or least amount possible",
+    "shortMeaning": "very small",
+    "example": "The software requires minimal hardware resources.",
+    "example2": "There was minimal effort needed to set up the configuration.",
+    "example3": "We aim for minimal downtime during updates.",
+    "Explanation": "The word 'minimal' is used to describe something that is kept to the smallest necessary level. In IT, 'minimal' often refers to system requirements or the amount of code needed to accomplish a task. It emphasizes efficiency and simplicity by avoiding unnecessary extras. Being minimal is often a goal in design and development to keep systems fast and reliable. Always ensure that 'minimal' does not compromise the core functionality or security of your project.",
+    "synonyms": [
+      "smallest",
+      "least",
+      "lowest"
+    ],
+    "antonyms": [
+      "maximum",
+      "maximal",
+      "excessive"
+    ],
+    "nounForm": "minimum",
+    "verbForm": "N/A",
+    "adjectiveForm": "minimal",
+    "partOfSpeech": "adjective",
+    "commonContext": "System requirements and design optimization",
+    "usageTip": "Use 'minimal' when you want to highlight efficiency.",
+    "commonMistake": "Using 'minimal' to mean 'insufficient'; it just means the smallest amount that works.",
+    "collocations": [
+      "minimal effort",
+      "minimal downtime",
+      "minimal requirements"
+    ]
+  }
+]

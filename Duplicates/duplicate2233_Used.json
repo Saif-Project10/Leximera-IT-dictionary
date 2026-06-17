@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Used",
+    "meaning": "Previously employed or utilized by someone or something else.",
+    "shortMeaning": "second-hand/utilized",
+    "example": "We purchased used equipment for the test lab.",
+    "example2": "The memory capacity is fully used.",
+    "example3": "Check if the IP address is already used.",
+    "Explanation": "The word 'used' can mean either 'previously owned' (second-hand) or 'consumed' (like resources). In IT, this distinction is important. Used hardware saves money, but carries risks. 'Used' memory or storage means it is currently occupied. The verb is 'use'. Use it carefully, ensuring the context clarifies whether you are talking about hardware acquisition or resource consumption.",
+    "synonyms": [
+      "second-hand",
+      "utilized",
+      "occupied"
+    ],
+    "antonyms": [
+      "new",
+      "unused",
+      "free"
+    ],
+    "nounForm": "usage",
+    "verbForm": "use",
+    "adjectiveForm": "used",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Hardware procurement, system resource management",
+    "usageTip": "Use 'used' to describe both resource status and hardware history.",
+    "commonMistake": "Using 'used' when you mean 'useful'.",
+    "collocations": [
+      "used equipment",
+      "already used",
+      "fully used"
+    ]
+  },
+  {
+    "word": "Used",
+    "meaning": "Previously employed or owned by someone else",
+    "shortMeaning": "second-hand",
+    "example": "We bought some used hardware for the test lab.",
+    "example2": "The API was used by many external clients.",
+    "example3": "This is a used server, but it works fine.",
+    "Explanation": "Used describes equipment, software licenses, or data that has been previously employed. In IT, 'used' hardware can be a cost-effective way to set up testing environments or non-critical infrastructure. However, used components might have shorter lifespans or hidden wear and tear, so they should be carefully inspected. When used in the context of code or software, 'used' simply means that a function or variable has been accessed or called by another part of the program during its execution.",
+    "synonyms": [
+      "second-hand",
+      "pre-owned",
+      "utilized"
+    ],
+    "antonyms": [
+      "new",
+      "unused"
+    ],
+    "nounForm": "usage",
+    "verbForm": "use",
+    "adjectiveForm": "used",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Hardware and software usage",
+    "usageTip": "Clarify if you mean 'utilized' or 'second-hand'.",
+    "commonMistake": "Assuming used hardware is just as reliable as new hardware.",
+    "collocations": [
+      "used hardware",
+      "previously used",
+      "is used by"
+    ]
+  }
+]

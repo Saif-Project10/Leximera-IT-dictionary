@@ -1,0 +1,124 @@
+[
+  {
+    "word": "Zigzag",
+    "meaning": "A line or path that moves sharply from side to side",
+    "shortMeaning": "side-to-side path",
+    "example": "The mountain road followed a zigzag path to the top.",
+    "example2": "The lightning bolt made a bright zigzag across the sky.",
+    "example3": "I had to zigzag through the crowd to reach the exit.",
+    "Explanation": "Zigzag describes a pattern characterized by small, sharp turns in alternating directions. It is a common term used in geometry, art, and daily movement. In technology, it can refer to the way a printer head moves or how data is laid out in certain memory structures. It implies a non-linear but repetitive motion. The word can be used as a noun, an adjective, or a verb. It is very effective for describing any path that avoids a straight line in favor of multiple angles.",
+    "synonyms": [
+      "winding",
+      "crooked",
+      "serpentine"
+    ],
+    "antonyms": [
+      "straight",
+      "linear",
+      "direct"
+    ],
+    "nounForm": "zigzag",
+    "verbForm": "zigzag",
+    "adjectiveForm": "zigzag",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Design, navigation, and general description",
+    "usageTip": "Use 'zigzag' as a verb when someone is moving in an unpredictable, angled way.",
+    "commonMistake": "Thinking a zigzag must be random; it is often a very structured pattern.",
+    "collocations": [
+      "zigzag line",
+      "zigzag movement",
+      "zigzag shape"
+    ]
+  },
+  {
+    "word": "Zigzag",
+    "meaning": "Having a path with sharp turns back and forth",
+    "shortMeaning": "sharp turns",
+    "example": "The pattern follows a zigzag line.",
+    "example2": "He implemented a zigzag scanning algorithm.",
+    "example3": "The signal has a zigzag shape.",
+    "Explanation": "Zigzag describes a line or course that changes direction abruptly and repeatedly. In data compression or image processing (like JPEG), a zigzag scan order is used to reorder data into a more efficient format for encoding. It is a distinct visual or logical pattern. Recognizing and manipulating zigzag patterns is important in specific areas of math and image science. It's a simple term for a complex pattern.",
+    "synonyms": [
+      "crisscross",
+      "jagged"
+    ],
+    "antonyms": [
+      "straight",
+      "linear"
+    ],
+    "nounForm": "zigzag",
+    "verbForm": "zigzag",
+    "adjectiveForm": "zigzag",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "Image processing, data compression",
+    "usageTip": "Use this for data patterns that turn back and forth.",
+    "commonMistake": "Applying zigzag when a linear scan is required.",
+    "collocations": [
+      "zigzag scan",
+      "zigzag pattern",
+      "zigzag path"
+    ]
+  },
+  {
+    "word": "Zigzag",
+    "meaning": "A pattern or path that moves in a series of sharp, alternating angles.",
+    "shortMeaning": "sharp alternating path",
+    "example": "The path moved in a zigzag motion across the mountain.",
+    "example2": "He drew a zigzag line to mark the edge of the paper.",
+    "example3": "The data values show a zigzag trend rather than a steady line.",
+    "Explanation": "The term 'zigzag' describes a series of sharp turns in opposite directions. It is commonly used to describe shapes, patterns, or even the way data fluctuates on a graph. In IT, a 'zigzag' pattern might appear in performance monitoring or during specific algorithmic processes that shift back and forth. It implies instability or constant directional changes. While simple to describe, it is a very distinct geometric pattern that contrasts with smooth curves or straight lines.",
+    "synonyms": [
+      "crisscross",
+      "angled",
+      "jagged"
+    ],
+    "antonyms": [
+      "straight",
+      "smooth",
+      "linear"
+    ],
+    "nounForm": "zigzag",
+    "verbForm": "zigzag",
+    "adjectiveForm": "zigzag",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Geometry, data visualization, design",
+    "usageTip": "Use 'zigzag' to describe something that moves back and forth with sharp corners.",
+    "commonMistake": "Confusing it with a wave, which has smooth, rounded turns.",
+    "collocations": [
+      "zigzag pattern",
+      "zigzag line",
+      "zigzag movement"
+    ]
+  },
+  {
+    "word": "Zigzag",
+    "meaning": "A pattern or line that turns sharply alternative ways from left to right and right to left in rapid succession",
+    "shortMeaning": "sharp alternate turns pattern",
+    "example": "The designer added a creative zigzag border to separate the two sections of the website.",
+    "example2": "The user had to scroll in a zigzag manner to read through the unorganized layout.",
+    "example3": "The chart line went in a zigzag direction due to extreme stock price volatility.",
+    "Explanation": "The word 'zigzag' describes a geometric pattern or path filled with sharp, alternating angles. In UI design, zigzag patterns are frequently utilized as eye-catching borders, background decorations, or creative dividers between content cards. In text layout discussions, a 'zigzag pattern' might refer to alternating image and text placements down a page (e.g., image left, text right, then text left, image right). This helps keep web visitors engaged while reading long content sections.",
+    "synonyms": [
+      "crinkle pattern",
+      "zigzagging line",
+      "serpentine"
+    ],
+    "antonyms": [
+      "straight line",
+      "direct path",
+      "smooth curve"
+    ],
+    "nounForm": "zigzag",
+    "verbForm": "zigzag",
+    "adjectiveForm": "zigzag",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "UI pattern design, page layouts, graphic borders",
+    "usageTip": "Use 'zigzag' to describe alternating asymmetrical layout patterns that boost page aesthetics.",
+    "commonMistake": "Spelling it as two separate words like 'zig zag' instead of combining it into the single word 'zigzag'.",
+    "collocations": [
+      "zigzag pattern",
+      "zigzag border",
+      "zigzag layout"
+    ]
+  }
+]

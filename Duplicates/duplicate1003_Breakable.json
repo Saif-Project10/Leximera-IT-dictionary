@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Breakable",
+    "meaning": "Capable of being broken easily; fragile",
+    "shortMeaning": "easily broken, fragile",
+    "example": "Mark the box as 'breakable' before shipping the glasses.",
+    "example2": "Most ornaments are breakable, so handle with care.",
+    "example3": "The toy is not suitable for young children as it is breakable.",
+    "Explanation": "'Breakable' is an adjective describing objects that are likely to break or shatter if dropped, mishandled, or placed under stress. It is a practical warning label used on packages and for handling instructions. This word comes from the verb 'break'. It is synonymous with 'fragile' and 'delicate'. Knowing something is breakable encourages careful treatment. The opposite is 'unbreakable' or 'durable'. It is a useful word for safety, shipping, and everyday caution.",
+    "synonyms": [
+      "fragile",
+      "delicate",
+      "brittle",
+      "frail"
+    ],
+    "antonyms": [
+      "unbreakable",
+      "durable",
+      "sturdy",
+      "robust"
+    ],
+    "nounForm": "breakability",
+    "verbForm": "break",
+    "adjectiveForm": "breakable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shipping, handling instructions, product descriptions, safety",
+    "usageTip": "Use 'breakable' as a warning or description for items that can be easily damaged.",
+    "commonMistake": "Using it for people or abstract ideas. It's typically for physical objects.",
+    "collocations": [
+      "breakable items",
+      "highly breakable",
+      "handle breakables with care"
+    ]
+  },
+  {
+    "word": "Breakable",
+    "meaning": "Fragile; capable of being easily broken, damaged, or corrupted",
+    "shortMeaning": "Fragile",
+    "example": "This experimental software code is highly breakable and needs careful automated testing.",
+    "example2": "Please do not use breakable plastic items inside the server hardware room.",
+    "example3": "The security system looked strong but proved to be easily breakable by experts.",
+    "Explanation": "The word 'breakable' is an adjective that describes physical objects that shatter easily, like glass. Metaphorically, in software development, engineers use 'breakable' to describe unstable, fragile code or weak security encryption models that can easily fail, crash, or be cracked if unexpected inputs are processed. The underlying verb is 'break', and the noun form is 'breakability' or 'breakage'.",
+    "synonyms": [
+      "fragile",
+      "brittle",
+      "vulnerable"
+    ],
+    "antonyms": [
+      "unbreakable",
+      "durable",
+      "robust"
+    ],
+    "nounForm": "breakability",
+    "verbForm": "break",
+    "adjectiveForm": "breakable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software codebase stability, physical equipment safety, cryptographic security strength",
+    "usageTip": "Use 'breakable' to warn developers about fragile code structures or systems that lack robust error checking safety nets.",
+    "commonMistake": "Using 'breakable' to mean a system that is already broken; it only means it has the *potential* to break easily.",
+    "collocations": [
+      "breakable code",
+      "highly breakable",
+      "breakable items"
+    ]
+  }
+]

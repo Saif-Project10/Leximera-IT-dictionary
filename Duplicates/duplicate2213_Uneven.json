@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uneven",
+    "meaning": "Not regular, consistent, or balanced in performance or distribution",
+    "shortMeaning": "irregular",
+    "example": "The server load was uneven across the cluster.",
+    "example2": "The performance of the network was uneven during peak hours.",
+    "example3": "We noticed an uneven distribution of data in the hash table.",
+    "Explanation": "In IT, 'uneven' refers to a lack of balance or consistency in system behavior or resource allocation. For example, if one server does all the work while others stay idle, the load is uneven. This often leads to performance bottlenecks or hardware stress. Achieving a 'uniform' or 'even' state is usually the goal for developers and system administrators. It can also describe a messy or inconsistent dataset. Addressing unevenness is essential for scaling systems and optimizing resources.",
+    "synonyms": [
+      "irregular",
+      "unbalanced",
+      "inconsistent"
+    ],
+    "antonyms": [
+      "even",
+      "balanced",
+      "consistent"
+    ],
+    "nounForm": "unevenness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uneven",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration, performance tuning, data analysis",
+    "usageTip": "Use this to describe load balancing issues.",
+    "commonMistake": "Confusing 'uneven' with 'slow'.",
+    "collocations": [
+      "uneven load",
+      "uneven performance",
+      "uneven distribution"
+    ]
+  },
+  {
+    "word": "Uneven",
+    "meaning": "Not level, equal, or consistent",
+    "shortMeaning": "not equal",
+    "example": "The uneven performance of the server is worrying.",
+    "example2": "There is an uneven distribution of the workload.",
+    "example3": "The data quality is quite uneven.",
+    "Explanation": "The word 'uneven' describes a lack of consistency or balance. In IT, 'uneven' can refer to irregular performance speeds or an unbalanced distribution of tasks across a cluster of servers. It suggests that things are not as stable or as fair as they should be. It is a very useful word when you want to highlight a need for balancing or stabilizing a system. It is a clear and professional way to signal a lack of order.",
+    "synonyms": [
+      "unbalanced",
+      "irregular",
+      "inconsistent"
+    ],
+    "antonyms": [
+      "even",
+      "balanced",
+      "consistent"
+    ],
+    "nounForm": "unevenness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uneven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance and resource distribution",
+    "usageTip": "Use to point out inconsistency.",
+    "commonMistake": "Using 'uneven' to mean 'different' instead of 'inconsistent'.",
+    "collocations": [
+      "uneven performance",
+      "uneven distribution",
+      "highly uneven"
+    ]
+  }
+]

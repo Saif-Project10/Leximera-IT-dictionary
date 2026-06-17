@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Important",
+    "meaning": "Of great significance, value, or consequence; mattering a lot.",
+    "shortMeaning": "significant, mattering",
+    "example": "It is important to drink enough water every day.",
+    "example2": "She played an important role in the project's success.",
+    "example3": "This is an important meeting that will decide our future plans.",
+    "Explanation": "'Important' is a fundamental and frequently used adjective in English. It describes anything that has value, significance, or influence. Something important deserves attention and consideration. It can refer to people, events, ideas, or objects. The noun form is 'importance'. It is used in all levels of speech and writing. It's important to spell it correctly with the 'ant' at the end, not 'ent'. This word is essential for expressing priority and value.",
+    "synonyms": [
+      "significant",
+      "crucial",
+      "major",
+      "vital"
+    ],
+    "antonyms": [
+      "unimportant",
+      "insignificant",
+      "trivial",
+      "minor"
+    ],
+    "nounForm": "importance",
+    "verbForm": "N/A",
+    "adjectiveForm": "important",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday communication, work, education, planning",
+    "usageTip": "Use 'it is important to' + verb to give advice or state a key point.",
+    "commonMistake": "Misspelling as 'importent'.",
+    "collocations": [
+      "very important",
+      "important role",
+      "important decision",
+      "vitally important"
+    ]
+  },
+  {
+    "word": "Important",
+    "meaning": "Having great value, significance, or consequence",
+    "shortMeaning": "significant",
+    "example": "Security is the most important part of this project.",
+    "example2": "He highlighted several important findings in the report.",
+    "example3": "This is an important update for all users.",
+    "Explanation": "The word 'important' describes something that carries significant weight, value, or consequence. In IT, we use this to distinguish critical tasks from low-priority ones. Identifying 'important' work helps you manage your time and ensure that the core requirements are met first. It is a very general word, but in a technical context, it should always be used to focus attention on things that truly impact system performance, security, or project success. Don't label everything as important.",
+    "synonyms": [
+      "significant",
+      "crucial",
+      "essential"
+    ],
+    "antonyms": [
+      "unimportant",
+      "trivial",
+      "minor"
+    ],
+    "nounForm": "importance",
+    "verbForm": "N/A",
+    "adjectiveForm": "important",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, priorities, project work",
+    "usageTip": "Use 'important' for things that truly matter.",
+    "commonMistake": "Overusing 'important' so that nothing stands out.",
+    "collocations": [
+      "important task",
+      "highly important",
+      "most important"
+    ]
+  }
+]

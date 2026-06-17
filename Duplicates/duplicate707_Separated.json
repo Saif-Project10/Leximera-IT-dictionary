@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Separated",
+    "meaning": "1. Moved or set apart. 2. No longer living together as a couple.",
+    "shortMeaning": "apart; divided",
+    "example": "The living and dining areas are separated by a screen.",
+    "example2": "The teacher separated the two arguing students.",
+    "example3": "My parents are separated but not divorced.",
+    "Explanation": "'Separated' is the past participle of the verb 'separate'. It describes a state of being divided, disconnected, or set apart. It can be physical (separated rooms), social (separated groups), or relational (a separated couple). It implies a division that was once a whole or a connection that has been broken. The adjective form emphasizes the resulting state of division. The noun form is 'separation'.",
+    "synonyms": [
+      "divided",
+      "apart",
+      "disconnected",
+      "split"
+    ],
+    "antonyms": [
+      "joined",
+      "connected",
+      "together",
+      "united"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Relationships, space, groups, components",
+    "usageTip": "Use 'separated' to describe things or people that have been moved apart or are no longer together.",
+    "commonMistake": "Confusing 'separated' with 'separate' (the verb or adjective meaning 'apart'). 'Separated' often implies an action was taken to cause the division.",
+    "collocations": [
+      "separated at birth",
+      "legally separated",
+      "widely separated",
+      "get separated"
+    ]
+  },
+  {
+    "word": "Separated",
+    "meaning": "Divided or moved apart",
+    "shortMeaning": "divided",
+    "example": "The team was separated into two distinct groups.",
+    "example2": "The header and content were separated by a thin line.",
+    "example3": "He separated the data into multiple files.",
+    "Explanation": "Separated is the past tense or past participle of the verb 'separate.' It indicates that something has been moved, divided, or made apart. In tech, you might say data has been 'separated' for better processing. It implies an action has already taken place to split things. Using this word is useful in documentation or reports when explaining how a previous setup was changed to be more efficient or organized.",
+    "synonyms": [
+      "divided",
+      "split",
+      "partitioned"
+    ],
+    "antonyms": [
+      "merged",
+      "combined",
+      "attached"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Architecture, data processing, team management",
+    "usageTip": "Use 'separated' to describe the result of a dividing action.",
+    "commonMistake": "Confusing 'separated' with 'different' (separated implies a previous connection).",
+    "collocations": [
+      "separated by",
+      "separated into",
+      "fully separated"
+    ]
+  },
+  {
+    "word": "Separated",
+    "meaning": "Divided into distinct parts; kept apart",
+    "shortMeaning": "divided",
+    "example": "The application logic is separated from the user interface.",
+    "example2": "He separated the configuration settings into a new file.",
+    "example3": "The data is separated by commas in this CSV.",
+    "Explanation": "Separated is the state of having been divided or moved away from something else. It is often used to describe architectural patterns, like 'Separated Presentation', where the UI is kept distinct from the business logic. This makes the code cleaner and easier to test. If things are not separated correctly, they become tangled and hard to change. Separation is a foundational concept in scalable software engineering.",
+    "synonyms": [
+      "divided",
+      "isolated",
+      "detached"
+    ],
+    "antonyms": [
+      "unified",
+      "merged"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Coding architecture, data formatting",
+    "usageTip": "Use this to explain that you have split one thing into parts.",
+    "commonMistake": "Separating things unnecessarily, which adds complexity.",
+    "collocations": [
+      "separated by",
+      "logic separated",
+      "properly separated"
+    ]
+  }
+]

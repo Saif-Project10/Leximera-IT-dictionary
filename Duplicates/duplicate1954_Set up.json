@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Set up",
+    "meaning": "To prepare, install, or arrange something for use",
+    "shortMeaning": "arrange/install",
+    "example": "We need to set up the development environment.",
+    "example2": "She set up the new database yesterday.",
+    "example3": "It took a while to set up the server.",
+    "Explanation": "To 'set up' means to get something ready for use. This involves installing software, configuring settings, or organizing physical equipment. It is a very common task in any job. 'Setup' (as a noun) refers to the arrangement itself. For example, 'my workstation setup is perfect'. It implies preparation before starting actual work. Use this phrase for the initial stage of any project, from configuring a simple tool to building a large complex server environment.",
+    "synonyms": [
+      "install",
+      "configure",
+      "arrange"
+    ],
+    "antonyms": [
+      "dismantle",
+      "break down"
+    ],
+    "nounForm": "setup",
+    "verbForm": "set up",
+    "adjectiveForm": "setup",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Work, technology, organization",
+    "usageTip": "Use for the process of getting something ready.",
+    "commonMistake": "Confusing the noun 'setup' (one word) with the verb 'set up' (two words).",
+    "collocations": [
+      "set up the system",
+      "set up the environment",
+      "complete setup"
+    ]
+  },
+  {
+    "word": "Set up",
+    "meaning": "To install, configure, assemble, or prepare a hardware device or software program for use",
+    "shortMeaning": "install and configure systems",
+    "example": "The technician will set up the new workstation computers for the design team tomorrow.",
+    "example2": "It takes only ten minutes to set up a clean database connection using this modern tool.",
+    "example3": "We need to set up a meeting room online to discuss the upcoming code deployment.",
+    "Explanation": "The phrasal verb 'Set up' is one of the most widely used terms in IT. It encompasses the entire workflow of taking a raw asset—whether a computer tower, a software suite, a code library, or a local network—and performing the installation and settings adjustments required to make it fully operational. Setting up involves following installation wizards, typing parameters, adjusting default safety rules, and verifying that the final configuration runs smoothly. It lays the operational foundation for all subsequent digital tasks.",
+    "synonyms": [
+      "install",
+      "configure",
+      "prepare"
+    ],
+    "antonyms": [
+      "dismantle",
+      "uninstall",
+      "tear down"
+    ],
+    "nounForm": "setup",
+    "verbForm": "set up",
+    "adjectiveForm": "setup",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Software installation wizards, physical computer room assembly, initial app project configurations",
+    "usageTip": "Always write 'set up' as two words when using it as an action verb phrase (e.g., 'I will set up the server').",
+    "commonMistake": "Writing the verb phrase as a single word 'setup', which should only be used as a noun or adjective (e.g., 'Run the setup file').",
+    "collocations": [
+      "set up a server",
+      "set up an account",
+      "properly set up"
+    ]
+  }
+]

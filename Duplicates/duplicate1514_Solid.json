@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Solid",
+    "meaning": "Firm and stable in shape; not liquid or gas; reliable; of good quality.",
+    "shortMeaning": "firm; reliable; good quality",
+    "example": "Water becomes solid when it freezes into ice.",
+    "example2": "He gave a solid performance in the game.",
+    "example3": "We need solid evidence before making an accusation.",
+    "Explanation": "'Solid' is an adjective (and a noun in geometry/physics) with both literal and figurative meanings. Literally, it describes one of the three states of matter, characterized by structural rigidity. Figuratively, it means strong, reliable, substantial, or of excellent quality (solid work, solid friendship). The word is overwhelmingly positive in its figurative uses, suggesting dependability and worth. The noun form refers to a three-dimensional geometric shape or a substance in a solid state. It's a common word in science, everyday praise, and evaluations.",
+    "synonyms": [
+      "firm",
+      "hard",
+      "reliable",
+      "substantial",
+      "sound"
+    ],
+    "antonyms": [
+      "liquid",
+      "gas",
+      "unreliable",
+      "weak",
+      "flimsy"
+    ],
+    "nounForm": "solid, solidity",
+    "verbForm": "solidify",
+    "adjectiveForm": "solid",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Physics, geometry, performance, arguments, construction",
+    "usageTip": "In informal American English, 'solid' can mean great or excellent: 'That concert was solid!'",
+    "commonMistake": "Confusing 'solid' (firm) with 'stolid' (calm and dependable, but unemotional).",
+    "collocations": [
+      "solid foundation",
+      "solid gold",
+      "solid evidence",
+      "solid as a rock"
+    ]
+  },
+  {
+    "word": "Solid",
+    "meaning": "Reliable, stable, and well-made",
+    "shortMeaning": "stable",
+    "example": "We have a solid testing strategy in place.",
+    "example2": "The team delivered a solid, bug-free build.",
+    "example3": "He has a solid understanding of Python.",
+    "Explanation": "In IT, 'solid' is a very positive term meaning that something is dependable, stable, and performs exactly as expected. A 'solid' foundation means the code is well-structured and won't crash under pressure. It implies quality and reliability. In professional settings, saying an engineer has a 'solid' knowledge of a tool is high praise. It signifies that the work is not just functional but professional and trustworthy. It is the opposite of 'shaky' or 'fragile'.",
+    "synonyms": [
+      "reliable",
+      "stable",
+      "dependable"
+    ],
+    "antonyms": [
+      "fragile",
+      "unstable",
+      "shaky"
+    ],
+    "nounForm": "solidity",
+    "verbForm": "N/A",
+    "adjectiveForm": "solid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Professional feedback, software quality",
+    "usageTip": "Use 'solid' for work that is reliable and well-made.",
+    "commonMistake": "Confusing it with the 'SOLID' design principle (which is different).",
+    "collocations": [
+      "solid understanding",
+      "solid foundation",
+      "solid performance"
+    ]
+  },
+  {
+    "word": "Solid",
+    "meaning": "Hard, firm, and having a definite shape; also used to mean reliable.",
+    "shortMeaning": "firm or reliable",
+    "example": "The software architecture provides a solid foundation.",
+    "example2": "We need a solid plan before we start coding.",
+    "example3": "The state of the data remains solid.",
+    "Explanation": "The word 'solid' has two main meanings: one is physical (having a fixed shape) and the other is abstract (reliable or stable). In IT, it is very often used to describe code, infrastructure, or arguments that are robust and unlikely to fail. It implies high quality and dependability. There is no direct verb form, but the noun is 'solidity'. When describing a project, saying it has a 'solid base' is a high compliment. Ensure you use it to indicate that something is well-built or trustworthy.",
+    "synonyms": [
+      "stable",
+      "firm",
+      "reliable"
+    ],
+    "antonyms": [
+      "unstable",
+      "fragile",
+      "weak"
+    ],
+    "nounForm": "solidity",
+    "verbForm": "N/A",
+    "adjectiveForm": "solid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, planning, physical state",
+    "usageTip": "Use 'solid' to describe something that is reliable or well-made.",
+    "commonMistake": "Confusing 'solid' with 'hard' in every context.",
+    "collocations": [
+      "solid foundation",
+      "solid performance",
+      "solid state"
+    ]
+  }
+]

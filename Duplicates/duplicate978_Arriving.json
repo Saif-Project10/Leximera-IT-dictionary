@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Arriving",
+    "meaning": "Reaching a destination at the end of a journey.",
+    "shortMeaning": "reaching a destination",
+    "example": "The train is arriving at platform 4.",
+    "example2": "Guests will be arriving from 7 PM onwards.",
+    "example3": "After years of hard work, she felt she was finally arriving in her career.",
+    "Explanation": "'Arriving' is the present participle of the verb 'arrive'. It indicates the action of coming to a place, either physically (a location) or metaphorically (a state or achievement). It's used to describe imminent events (someone is arriving soon) or ongoing processes (people are arriving). The preposition 'at' is used for places, 'in' for cities/countries, and 'to' is generally incorrect ('arrive to' is a common mistake). It's a fundamental word for travel and progress.",
+    "synonyms": [
+      "coming",
+      "reaching",
+      "getting there"
+    ],
+    "antonyms": [
+      "departing",
+      "leaving",
+      "setting off"
+    ],
+    "nounForm": "arrival",
+    "verbForm": "arrive",
+    "adjectiveForm": "arriving",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Travel, events, milestones, success",
+    "usageTip": "Use 'arrive at' for a specific point (airport, decision). Use 'arrive in' for larger areas (city, country). Never 'arrive to' a place.",
+    "commonMistake": "Saying 'arrive to the station' instead of the correct 'arrive at the station'.",
+    "collocations": [
+      "newly arriving",
+      "arriving shortly",
+      "arriving at a conclusion"
+    ]
+  },
+  {
+    "word": "Arriving",
+    "meaning": "Reaching a destination, coming to a point, or entering a system",
+    "shortMeaning": "coming into a system or place",
+    "example": "The network monitors incoming data packets arriving at the server firewall.",
+    "example2": "We can see new notifications arriving in real-time via WebSockets.",
+    "example3": "The team has many new feature requests arriving from users every day.",
+    "Explanation": "The word 'arriving' describes the action of reaching a specific place, state, or processing system. In IT architecture, it is frequently used to track data streams, message queues, web traffic, or API requests entering a server or processing pipeline. It implies active movement toward an endpoint or consumer. It acts as a present participle verb or a descriptive participle adjective in data traffic reporting.",
+    "synonyms": [
+      "incoming",
+      "entering",
+      "approaching"
+    ],
+    "antonyms": [
+      "departing",
+      "leaving",
+      "exiting"
+    ],
+    "nounForm": "arrival",
+    "verbForm": "arrive",
+    "adjectiveForm": "arriving",
+    "partOfSpeech": "verb / present participle",
+    "commonContext": "Network traffic tracking, message queuing, real-time data streams",
+    "usageTip": "Use 'arriving' to describe data packets or asynchronous events as they enter a target system for processing.",
+    "commonMistake": "Spelling it with a single 'r' or confusing 'arriving traffic' with 'internal traffic' that is already inside the system.",
+    "collocations": [
+      "arriving packets",
+      "arriving data",
+      "arriving requests"
+    ]
+  }
+]

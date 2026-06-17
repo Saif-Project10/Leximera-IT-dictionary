@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Legal",
+    "meaning": "Relating to, permitted, or recognized by law",
+    "shortMeaning": "allowed by law",
+    "example": "You must seek legal advice before signing.",
+    "example2": "Is it legal to park here?",
+    "example3": "The company's legal department handles contracts.",
+    "Explanation": "'Legal' is a fundamental adjective describing anything connected with the law or in compliance with it. It is the opposite of 'illegal'. This word is used in countless contexts: legal rights, legal documents, legal action, legal age. It establishes boundaries of acceptable behavior as defined by a government or authority. The noun is 'legality'. Something being legal does not necessarily mean it is ethical, just that it is within the law. It's a critical concept for citizenship, business, and social order.",
+    "synonyms": [
+      "lawful",
+      "legitimate",
+      "authorized",
+      "permitted",
+      "judicial"
+    ],
+    "antonyms": [
+      "illegal",
+      "unlawful",
+      "illegitimate"
+    ],
+    "nounForm": "legality",
+    "verbForm": "legalize",
+    "adjectiveForm": "legal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, rights, documents, procedures, status",
+    "usageTip": "Use 'legal' to describe anything that is connected to the law or is allowed by it.",
+    "commonMistake": "Confusing 'legal' (allowed by law) with 'lawful' (often synonymous, but sometimes 'lawful' implies moral rightness).",
+    "collocations": [
+      "legal system",
+      "legal action",
+      "legal guardian"
+    ]
+  },
+  {
+    "word": "Legal",
+    "meaning": "Allowed or permitted by the rules, laws, or syntax",
+    "shortMeaning": "allowed",
+    "example": "A variable name starting with a number is not legal in this language.",
+    "example2": "The compiler checks if the code syntax is legal.",
+    "example3": "We must ensure all software licenses are legal.",
+    "Explanation": "In an IT context, 'legal' refers to anything that conforms to the rules, requirements, or syntax defined by a programming language, protocol, or software license. For example, a 'legal' syntax means the code will compile or run without errors, whereas 'illegal' syntax will cause an error. Beyond programming, it also refers to the compliance of software usage with copyright laws. It implies that the structure or action is valid and authorized within the defined system. It is a foundational concept for understanding error handling and security.",
+    "synonyms": [
+      "valid",
+      "permitted",
+      "allowable"
+    ],
+    "antonyms": [
+      "illegal",
+      "invalid",
+      "forbidden"
+    ],
+    "nounForm": "legality",
+    "verbForm": "N/A",
+    "adjectiveForm": "legal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming syntax and software licensing",
+    "usageTip": "Use 'legal' to describe code that follows language rules.",
+    "commonMistake": "Confusing 'legal' (valid) with 'correct' (logical).",
+    "collocations": [
+      "legal syntax",
+      "legal operation",
+      "legal document"
+    ]
+  }
+]

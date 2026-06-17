@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Streaming",
+    "meaning": "The process of delivering or receiving data continuously in real time.",
+    "shortMeaning": "delivering data flow",
+    "example": "Streaming music has replaced physical media for many people.",
+    "example2": "The server is optimized for high-quality video streaming.",
+    "example3": "Real-time data streaming is essential for stock markets.",
+    "Explanation": "The word 'streaming' is the active process of continuous data delivery. It is a defining feature of the modern internet. Unlike downloading, where you wait for the full content, streaming allows for immediate access. It involves complex protocols to manage data packets and ensure a smooth experience for the user, regardless of network variations. It is used for everything from entertainment to complex telemetry.",
+    "synonyms": [
+      "continuous transmission",
+      "broadcasting"
+    ],
+    "antonyms": [
+      "downloading",
+      "storing"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streaming",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Internet, media, and data systems",
+    "usageTip": "Use 'streaming' when discussing continuous data delivery.",
+    "commonMistake": "Thinking streaming is only for entertainment; it is also heavily used in industrial data.",
+    "collocations": [
+      "video streaming",
+      "data streaming",
+      "live streaming"
+    ]
+  },
+  {
+    "word": "Streaming",
+    "meaning": "The continuous transmission of data from a server to a client.",
+    "shortMeaning": "continuous data flow",
+    "example": "The network is optimized for video streaming.",
+    "example2": "He is streaming his coding session live.",
+    "example3": "Streaming technology has changed how we watch movies.",
+    "Explanation": "The word 'streaming' is the act of delivering content or data packets in a steady, continuous stream. It is a defining technology for modern internet services. Unlike downloading, streaming allows users to start viewing or interacting with data before the entire file arrives. It is a gerund used as a noun or verb. In software development, 'streaming' can also refer to continuous data ingestion in pipelines. It is a critical term for any application involving real-time communication, media, or heavy data monitoring.",
+    "synonyms": [
+      "broadcasting",
+      "transmission",
+      "flowing"
+    ],
+    "antonyms": [
+      "batching",
+      "downloading"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streaming",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Internet, media, network pipelines",
+    "usageTip": "Use 'streaming' for the technology of continuous delivery.",
+    "commonMistake": "Assuming 'streaming' is only for videos; it also applies to data.",
+    "collocations": [
+      "live streaming",
+      "streaming service",
+      "data streaming"
+    ]
+  }
+]

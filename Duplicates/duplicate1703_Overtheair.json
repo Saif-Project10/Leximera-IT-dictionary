@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Overtheair",
+    "meaning": "Transmitting data wirelessly through the air rather than through cables",
+    "shortMeaning": "wireless transmission",
+    "example": "The device received the configuration overtheair.",
+    "example2": "We use overtheair signals for television broadcasting.",
+    "example3": "The sensor sends data overtheair to the central hub.",
+    "Explanation": "The term 'overtheair' (often written as Over-the-Air or OTA) refers to any method of wireless communication. It covers technologies like Wi-Fi, Bluetooth, cellular data, and satellite signals. In the modern world, it is the primary way we interact with mobile devices and IoT (Internet of Things) sensors. It eliminates the need for physical connectors or cables. This convenience makes it essential for mobile computing and remote sensing technology.",
+    "synonyms": [
+      "wireless",
+      "radio transmission",
+      "OTA"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled",
+      "hardwired"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "overtheair",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Mobile devices, IoT, and broadcasting",
+    "usageTip": "Use this as an adjective to describe a wireless method of delivery.",
+    "commonMistake": "Writing it as three separate words without hyphens when used as an adjective.",
+    "collocations": [
+      "overtheair signal",
+      "overtheair transmission",
+      "overtheair communication"
+    ]
+  },
+  {
+    "word": "Overtheair",
+    "meaning": "Transmitted wirelessly over a network or signal",
+    "shortMeaning": "wireless transmission",
+    "example": "The device received an overtheair firmware update.",
+    "example2": "Overtheair updates are common for modern smartphones.",
+    "example3": "We enabled overtheair synchronization for all users.",
+    "Explanation": "The term 'overtheair' (often hyphenated) refers to the wireless delivery of data, software updates, or configurations to devices. It eliminates the need for physical cables or direct computer connections. It is a fundamental feature for IoT devices and mobile technology. While often written as 'over-the-air', in some technical contexts, it is written without spaces. The adjective form is 'over-the-air'. It describes the convenience and reach of modern connectivity.",
+    "synonyms": [
+      "wireless",
+      "remote",
+      "radio-based"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled",
+      "manual"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "over-the-air",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile devices, IoT, networking",
+    "usageTip": "Use it to describe automatic, remote updates.",
+    "commonMistake": "Forgetting the hyphen or treating it as a physical location.",
+    "collocations": [
+      "over-the-air update",
+      "over-the-air download",
+      "over-the-air deployment"
+    ]
+  }
+]

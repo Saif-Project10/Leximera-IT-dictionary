@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Abandoned",
+    "meaning": "Left completely and finally; deserted; given up entirely",
+    "shortMeaning": "left behind or given up",
+    "example": "They found an abandoned house in the woods.",
+    "example2": "He abandoned his attempt to climb the mountain due to bad weather.",
+    "example3": "The abandoned puppy was taken to a shelter.",
+    "Explanation": "'Abandoned' describes something or someone that has been left permanently, often in a state of neglect. It implies a complete withdrawal of support, care, or involvement. It can refer to physical places (abandoned buildings), projects (abandoned efforts), or ideas (abandoned hope). The verb 'abandon' suggests a decisive, sometimes reckless, act of leaving. The word carries a strong connotation of finality and often sadness or desolation.",
+    "synonyms": [
+      "deserted",
+      "forsaken",
+      "discarded",
+      "relinquished",
+      "vacated"
+    ],
+    "antonyms": [
+      "maintained",
+      "occupied",
+      "continued",
+      "adopted",
+      "kept"
+    ],
+    "nounForm": "abandonment",
+    "verbForm": "abandon",
+    "adjectiveForm": "abandoned",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Urban exploration, failed projects, pet rescue, emotional states",
+    "usageTip": "Use for situations where something is left with no intention of returning or resuming.",
+    "commonMistake": "Using 'abandoned' for temporary absence (e.g., 'I abandoned my desk for lunch' is too strong).",
+    "collocations": [
+      "abandoned building",
+      "abandoned car",
+      "abandoned project",
+      "feel abandoned"
+    ]
+  },
+  {
+    "word": "Abandoned",
+    "meaning": "Left behind permanently, discarded, or no longer maintained by its creator or owner",
+    "shortMeaning": "left unmaintained or discarded",
+    "example": "The website was full of broken links and looked completely abandoned.",
+    "example2": "We had to find an alternative library because the original open-source project was abandoned.",
+    "example3": "The system monitors abandoned shopping carts to send reminder emails to users.",
+    "Explanation": "The word 'abandoned' is used across general English and IT contexts to describe items left behind without care or maintenance. In software development, an abandoned project or repository means the original author no longer updates the code or fixes security bugs. In e-commerce, an abandoned cart refers to a situation where a user adds items to a digital cart but leaves the site without checking out. It is a versatile adjective that carries a sense of neglect or non-completion.",
+    "synonyms": [
+      "deserted",
+      "discarded",
+      "unmaintained",
+      "deprecated"
+    ],
+    "antonyms": [
+      "maintained",
+      "supported",
+      "active",
+      "occupied"
+    ],
+    "nounForm": "abandonment",
+    "verbForm": "abandon",
+    "adjectiveForm": "abandoned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Open-source software repos, e-commerce user behavior, unused code",
+    "usageTip": "Use 'abandoned' in software to warn others that a codebase is no longer receiving security updates or bug fixes.",
+    "commonMistake": "Using 'abandoned' when you mean 'paused'; a project is only abandoned if there is no intention to return to it.",
+    "collocations": [
+      "abandoned project",
+      "abandoned shopping cart",
+      "abandoned repository"
+    ]
+  }
+]

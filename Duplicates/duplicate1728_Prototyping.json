@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Prototyping",
+    "meaning": "The process of building a quick, preliminary version of a product or software",
+    "shortMeaning": "making a test version",
+    "example": "Prototyping helps us gather user feedback early in the project.",
+    "example2": "Rapid prototyping is common in agile software development.",
+    "example3": "We are currently prototyping the new user interface.",
+    "Explanation": "Prototyping is an experimental process where design teams turn ideas into tangible forms, from paper to digital. Its primary purpose is to test concepts and designs before investing in full-scale production. In software, a prototype might be a series of clickable screens or a basic version of an app. It allows developers to identify flaws, missing features, or user experience issues early on. It is not meant to be a finished product but a learning tool. Prototyping is essential for reducing project risks and ensuring user satisfaction.",
+    "synonyms": [
+      "modeling",
+      "mock-up",
+      "preliminary design"
+    ],
+    "antonyms": [
+      "final production",
+      "full-scale launch"
+    ],
+    "nounForm": "prototype",
+    "verbForm": "prototype",
+    "adjectiveForm": "prototypal",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Product design, UX/UI, and engineering",
+    "usageTip": "Use 'prototyping' to describe the 'action' of building a test version.",
+    "commonMistake": "Thinking a prototype must be a fully functional piece of software.",
+    "collocations": [
+      "rapid prototyping",
+      "low-fidelity prototyping",
+      "digital prototyping"
+    ]
+  },
+  {
+    "word": "Prototyping",
+    "meaning": "The overall process of building and testing early versions of a product",
+    "shortMeaning": "the act of making prototypes",
+    "example": "Prototyping is a key part of the software development life cycle.",
+    "example2": "The company spent three months on prototyping before they started manufacturing.",
+    "example3": "Good prototyping helps in identifying design flaws early on.",
+    "Explanation": "Prototyping is the bridge between an idea and the final product. It is a methodology used to explore possibilities, communicate designs, and validate requirements. It involves selecting the right level of 'fidelity'—a 'low-fidelity' prototype might be a sketch, while a 'high-fidelity' one might be a near-perfect simulation. Prototyping helps stakeholders understand what they are paying for before the full project is built. In IT, it is often associated with the 'Agile' methodology, where constant feedback is prioritized. It is not just about making a model; it's about the learning that happens during the process.",
+    "synonyms": [
+      "modeling",
+      "mocking up",
+      "drafting"
+    ],
+    "antonyms": [
+      "manufacturing",
+      "finalizing",
+      "mass production"
+    ],
+    "nounForm": "prototyping",
+    "verbForm": "prototype",
+    "adjectiveForm": "prototyping (used as a modifier)",
+    "partOfSpeech": "noun (gerund)",
+    "commonContext": "Product design, software engineering, and architecture",
+    "usageTip": "Use prototyping to reduce the risk of building something that nobody wants to use.",
+    "commonMistake": "Thinking prototyping is a waste of time; it actually saves time by preventing late-stage changes.",
+    "collocations": [
+      "rapid prototyping",
+      "software prototyping",
+      "prototyping tools"
+    ]
+  }
+]

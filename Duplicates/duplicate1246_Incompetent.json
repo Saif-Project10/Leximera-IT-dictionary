@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Incompetent",
+    "meaning": "Not having the necessary skills or knowledge to do something successfully",
+    "shortMeaning": "not competent, unskilled",
+    "example": "He was fired for being incompetent at his job.",
+    "example2": "The repair was done by an incompetent mechanic.",
+    "example3": "The judge ruled the witness was incompetent to testify.",
+    "Explanation": "'Incompetent' is a strongly negative adjective used to describe a person (or occasionally a system) that lacks the ability, skill, or qualification to perform a task properly. It implies failure and inadequacy. The noun is 'incompetence'. This word is used in professional, legal, and everyday critiques. Being labeled incompetent is a serious criticism that can damage a reputation. It is the opposite of 'competent' or 'capable'. The word often carries a sense of frustration with someone's inability to meet basic expectations.",
+    "synonyms": [
+      "incapable",
+      "unskilled",
+      "inept",
+      "unqualified",
+      "bungling"
+    ],
+    "antonyms": [
+      "competent",
+      "capable",
+      "skilled",
+      "proficient"
+    ],
+    "nounForm": "incompetence",
+    "verbForm": "N/A",
+    "adjectiveForm": "incompetent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work performance, professional services, legal judgments",
+    "usageTip": "Use 'incompetent' as a harsh criticism of someone's demonstrated lack of skill or ability in a specific area.",
+    "commonMistake": "Using it to mean 'inexperienced'. Incompetent implies a failure to perform despite the opportunity; inexperienced simply means lacking experience.",
+    "collocations": [
+      "incompetent management",
+      "totally incompetent",
+      "proved incompetent"
+    ]
+  },
+  {
+    "word": "Incompetent",
+    "meaning": "Lacking the necessary skills or knowledge to do a job",
+    "shortMeaning": "not good at the job",
+    "example": "The project failed due to incompetent management.",
+    "example2": "An incompetent developer might introduce serious security bugs.",
+    "example3": "We need to fix the incompetent implementation of the authentication system.",
+    "Explanation": "The word 'incompetent' is a very strong and harsh criticism of someone's or something's ability. Use it carefully. If you say a developer is incompetent, you are saying they are not fit for their role. In a professional setting, it is often better to describe the 'incompetent implementation' (the result) rather than the person, as it keeps the focus on the technical issue rather than attacking a person's character.",
+    "synonyms": [
+      "unskilled",
+      "inept",
+      "incapable"
+    ],
+    "antonyms": [
+      "competent",
+      "skilled",
+      "capable"
+    ],
+    "nounForm": "incompetence",
+    "verbForm": "N/A",
+    "adjectiveForm": "incompetent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, performance review",
+    "usageTip": "Use 'incompetent' only for severe issues; be careful of tone.",
+    "commonMistake": "Using 'incompetent' too easily; it causes offense.",
+    "collocations": [
+      "incompetent management",
+      "incompetent implementation",
+      "incompetent staff"
+    ]
+  }
+]

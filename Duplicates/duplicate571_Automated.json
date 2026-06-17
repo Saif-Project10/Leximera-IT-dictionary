@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Automated",
+    "meaning": "Operated by machines or computers with little or no human intervention.",
+    "shortMeaning": "done by machines automatically",
+    "example": "The factory has a fully automated assembly line.",
+    "example2": "I set up an automated email response for when I'm on vacation.",
+    "example3": "Automated testing runs our test suite every night.",
+    "Explanation": "Automated is the past participle of 'automate,' used as an adjective. It describes a process or system that uses technology to perform tasks that were previously done by people. Automation aims to increase efficiency, accuracy, and speed while reducing human error and cost. It's a cornerstone of modern industry, software development (CI/CD), and even home life (smart devices). A common mistake is assuming automation always leads to job loss; it often changes the nature of work. This word is central to discussions about technology, productivity, and the future of work.",
+    "synonyms": [
+      "mechanized",
+      "computerized",
+      "self-acting",
+      "robotic"
+    ],
+    "antonyms": [
+      "manual",
+      "hand-operated",
+      "human-driven"
+    ],
+    "nounForm": "automation",
+    "verbForm": "automate",
+    "adjectiveForm": "automated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Manufacturing, software, customer service, and everyday gadgets.",
+    "usageTip": "Use 'automated' to describe a system that performs tasks on its own based on rules or programming.",
+    "commonMistake": "Confusing 'automated' (the state) with 'automatic' (which can imply a mechanical, simpler trigger).",
+    "collocations": [
+      "fully automated",
+      "automated system",
+      "automated process"
+    ]
+  },
+  {
+    "word": "Automated",
+    "meaning": "Operated, controlled, or completed by electronic machines or software scripts instead of humans",
+    "shortMeaning": "done by software",
+    "example": "We set up automated data backups to run every night at two in the morning.",
+    "example2": "Automated security scanning tools find server framework gaps very quickly.",
+    "example3": "The deployment process is fully automated from the code repository to the cloud host.",
+    "Explanation": "The word 'automated' means using technology workflows to perform repetitive tasks with zero human work. In software engineering, automation is a vital goal because it prevents human typing errors, saves massive amounts of time, and handles boring tasks efficiently (like testing code or sending notification emails). The base verb is 'automate', and the core noun form is 'automation'. It is a key concept in DevOps tracking.",
+    "synonyms": [
+      "automatic",
+      "robotic",
+      "programmatic"
+    ],
+    "antonyms": [
+      "manual",
+      "handcrafted",
+      "human-operated"
+    ],
+    "nounForm": "automation",
+    "verbForm": "automate",
+    "adjectiveForm": "automated",
+    "partOfSpeech": "adjective / verb form",
+    "commonContext": "DevOps pipelines, background data backups, automated system testing templates",
+    "usageTip": "Use 'automated' to describe a process that handles workflows independently via software instructions.",
+    "commonMistake": "Using 'automated' when you mean 'automatic'; automated implies a manual process was turned digital, while automatic describes immediate mechanical actions.",
+    "collocations": [
+      "automated backup",
+      "automated testing",
+      "fully automated"
+    ]
+  }
+]

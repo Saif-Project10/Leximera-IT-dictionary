@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Mass",
+    "meaning": "Large quantity or volume",
+    "shortMeaning": "large quantity",
+    "example": "The system handles mass data processing.",
+    "example2": "We sent a mass email to all users.",
+    "example3": "The mass deployment was successful.",
+    "Explanation": "Mass refers to a large volume, quantity, or scale. In IT, you might hear about 'mass production' of hardware or 'mass data collection'. It implies an action that is performed on a massive group of items or people simultaneously. It is usually a precursor to 'scale', as it deals with handling large numbers efficiently. Be aware that it often implies a lack of individual customization.",
+    "synonyms": [
+      "large-scale",
+      "bulk",
+      "massive"
+    ],
+    "antonyms": [
+      "individual",
+      "small-scale"
+    ],
+    "nounForm": "mass",
+    "verbForm": "N/A",
+    "adjectiveForm": "mass",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Production, communications, data processing",
+    "usageTip": "Use 'mass' to emphasize volume or scale.",
+    "commonMistake": "Confusing 'mass' (volume) with 'mass' (weight/physics).",
+    "collocations": [
+      "mass data",
+      "mass email",
+      "mass deployment"
+    ]
+  },
+  {
+    "word": "Mass",
+    "meaning": "A large quantity, a large amount, or the bulk of something.",
+    "shortMeaning": "large amount",
+    "example": "The email server was overwhelmed by a mass of messages.",
+    "example2": "They are planning a mass migration of users to the new platform.",
+    "example3": "The mass of the data is stored in the cloud.",
+    "Explanation": "Mass refers to a significant size, quantity, or volume of items or data. It suggests something that is distributed or affects a large number of components. In physics, it is the quantity of matter in an object, but in computing, it is often used for operations involving thousands of files or users simultaneously. It highlights scale and collective action. It is often used to describe widespread impact.",
+    "synonyms": [
+      "bulk",
+      "quantity",
+      "volume"
+    ],
+    "antonyms": [
+      "minority",
+      "scarcity",
+      "individual"
+    ],
+    "nounForm": "mass",
+    "verbForm": "mass",
+    "adjectiveForm": "massive",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data management, General usage",
+    "usageTip": "Use 'mass' to emphasize the large scale of something.",
+    "commonMistake": "Using 'mass' when you mean 'most' as a quantifier.",
+    "collocations": [
+      "mass storage",
+      "mass production",
+      "mass communication"
+    ]
+  }
+]

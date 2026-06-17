@@ -1,0 +1,101 @@
+[
+  {
+    "word": "Conflict",
+    "meaning": "A serious disagreement or argument; a prolonged struggle.",
+    "shortMeaning": "disagreement, fight",
+    "example": "There is a conflict between management and employees over pay.",
+    "example2": "The novel explores the inner conflict of its main character.",
+    "example3": "His work schedule conflicts with his family time.",
+    "Explanation": "'Conflict' can be a noun or a verb. As a noun, it refers to a clash of interests, principles, or opinions. It can range from internal emotional struggles to international wars. As a verb, it means to be incompatible or at variance. Conflict is a natural part of human interaction and storytelling. While often viewed negatively, managed conflict can lead to growth, innovation, and resolution of problems. The adjective is 'conflicting'. Understanding the root cause of conflict is the first step to resolving it.",
+    "synonyms": [
+      "dispute",
+      "clash",
+      "fight",
+      "struggle",
+      "disagreement"
+    ],
+    "antonyms": [
+      "agreement",
+      "harmony",
+      "peace",
+      "accord"
+    ],
+    "nounForm": "conflict",
+    "verbForm": "conflict",
+    "adjectiveForm": "conflicting",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Relationships, war, literature, scheduling, psychology",
+    "usageTip": "As a verb, it's often used with 'with': 'The meeting conflicts with my appointment.'",
+    "commonMistake": "Pronouncing the verb and noun the same; the noun is often stressed on the first syllable (CON-flict), the verb on the second (con-FLICT).",
+    "collocations": [
+      "armed conflict",
+      "conflict of interest",
+      "in conflict with",
+      "resolve a conflict"
+    ]
+  },
+  {
+    "word": "Conflict",
+    "meaning": "A disagreement between people; or a situation where two things cannot both be true or exist at once",
+    "shortMeaning": "disagreement or clash",
+    "example": "There is a conflict between the two managers regarding the new budget.",
+    "example2": "A busy schedule can cause a conflict with your personal life.",
+    "example3": "We need to resolve this conflict before we can move forward.",
+    "Explanation": "Conflict is a clash. In a social sense, it is an argument or a fight. In a logical sense, it is an 'inconsistency'—like having two meetings at the same time (a 'scheduling conflict'). In any project, conflicts are natural. The key is 'Conflict Resolution'—finding a way to solve the problem so everyone can keep working. It is a very broad word used in history, psychology, business, and daily life.",
+    "synonyms": [
+      "clash",
+      "dispute",
+      "battle",
+      "friction"
+    ],
+    "antonyms": [
+      "agreement",
+      "harmony",
+      "peace",
+      "truce"
+    ],
+    "nounForm": "conflict",
+    "verbForm": "conflict",
+    "adjectiveForm": "conflicting",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Human relationships and logical problems",
+    "usageTip": "Identify the 'root cause' of a conflict to solve it effectively.",
+    "commonMistake": "Thinking 'conflict' is always bad; sometimes it leads to better ideas through debate.",
+    "collocations": [
+      "conflict of interest",
+      "resolve a conflict",
+      "inner conflict"
+    ]
+  },
+  {
+    "word": "Conflict",
+    "meaning": "When two or more things are different and cannot be used together easily",
+    "shortMeaning": "disagreement or clash",
+    "example": "The two software versions conflict with each other.",
+    "example2": "There is a conflict between the new update and the old drivers.",
+    "example3": "The schedules for the two meetings conflict.",
+    "Explanation": "In IT, a conflict usually happens when two programs or pieces of hardware try to use the same resource at the same time. This often leads to errors, crashes, or the system not working properly. It is common to see 'version conflicts' when different parts of a project use different libraries. To solve a conflict, a developer usually has to choose one version or merge the changes manually. It is a very common term in version control systems like Git.",
+    "synonyms": [
+      "clash",
+      "disagreement",
+      "mismatch"
+    ],
+    "antonyms": [
+      "agreement",
+      "harmony",
+      "compatibility"
+    ],
+    "nounForm": "conflict",
+    "verbForm": "conflict",
+    "adjectiveForm": "conflicting",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software versions, hardware resources, scheduling",
+    "usageTip": "Use 'conflict' when describing two settings or files that cause an error when combined.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "version conflict",
+      "merge conflict",
+      "resource conflict"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Session-managed",
+    "meaning": "Handled by tracking user activity during a session",
+    "shortMeaning": "tracking activity",
+    "example": "This feature is session-managed to ensure security.",
+    "example2": "Our login system is session-managed.",
+    "example3": "Session-managed data is cleared when the user leaves.",
+    "Explanation": "Something is 'session-managed' if it keeps track of a user's activities, settings, or authentication status while they are interacting with the application. A 'session' starts when a user logs in and ends when they log out or close the browser. Session management is vital for keeping users logged in as they navigate between different pages. It prevents the need to log in for every single click. Use this to describe how you track users during their visit to your platform.",
+    "synonyms": [
+      "state-managed",
+      "tracked"
+    ],
+    "antonyms": [
+      "stateless",
+      "unmanaged"
+    ],
+    "nounForm": "session management",
+    "verbForm": "manage",
+    "adjectiveForm": "session-managed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web authentication, state tracking",
+    "usageTip": "Use when describing how user activity is handled.",
+    "commonMistake": "Ignoring the fact that session-managed data can be a privacy concern.",
+    "collocations": [
+      "session-managed authentication",
+      "session-managed data",
+      "fully session-managed"
+    ]
+  },
+  {
+    "word": "Session-managed",
+    "meaning": "A system where the state and activity of a user are tracked and handled across multiple requests.",
+    "shortMeaning": "tracked session",
+    "example": "This is a session-managed web application.",
+    "example2": "In session-managed systems, you must handle timeout settings carefully.",
+    "example3": "The backend uses a session-managed approach to keep user profiles active.",
+    "Explanation": "The term 'session-managed' means the system remembers who the user is and what they have been doing as they move through different pages or screens. Because web connections (HTTP) are stateless, we use sessions to 'manage' state. It is an adjective. This is essential for features like logins, shopping carts, and personal settings. If not handled correctly, session management can become a security vulnerability.",
+    "synonyms": [
+      "stateful"
+    ],
+    "antonyms": [
+      "stateless"
+    ],
+    "nounForm": "session management",
+    "verbForm": "N/A",
+    "adjectiveForm": "session-managed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, security, user authentication",
+    "usageTip": "Use 'session-managed' to describe stateful applications.",
+    "commonMistake": "Assuming all web interactions are inherently session-managed.",
+    "collocations": [
+      "session-managed application",
+      "session-managed state",
+      "session-managed authentication"
+    ]
+  }
+]

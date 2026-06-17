@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Vectorial",
+    "meaning": "Relating to or involving vectors (quantities with direction and magnitude)",
+    "shortMeaning": "relating to vectors",
+    "example": "The software performs vectorial analysis to determine the object's path.",
+    "example2": "Vectorial graphics can be scaled infinitely without losing quality.",
+    "example3": "The robot uses vectorial sensors to detect movement direction.",
+    "Explanation": "The term 'vectorial' describes something that involves vectors—mathematical entities that have both a size and a specific direction. In IT and computer graphics, vectorial representations are preferred because they are defined by mathematical formulas rather than fixed pixels. This allows for smooth resizing and precise geometric calculations. It is a fundamental concept in fields like physics engines, 3D modeling, and geographic information systems. Understanding vectorial data is key to mastering modern graphic design and simulations.",
+    "synonyms": [
+      "directional",
+      "geometric"
+    ],
+    "antonyms": [
+      "scalar",
+      "raster"
+    ],
+    "nounForm": "vector",
+    "verbForm": "N/A",
+    "adjectiveForm": "vectorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graphics, physics, mathematics, engineering",
+    "usageTip": "Use 'vectorial' when discussing data that requires both magnitude and direction.",
+    "commonMistake": "Confusing 'vectorial' with 'raster' graphics, which are pixel-based.",
+    "collocations": [
+      "vectorial graphics",
+      "vectorial analysis",
+      "vectorial data"
+    ]
+  },
+  {
+    "word": "Vectorial",
+    "meaning": "Relating to vectors",
+    "shortMeaning": "vector-related",
+    "example": "The analysis focuses on the vectorial components.",
+    "example2": "Perform a vectorial calculation for the force.",
+    "example3": "The system stores data in a vectorial format.",
+    "Explanation": "The term 'vectorial' is used when discussing things related to vectors—quantities that have both magnitude and direction. It is often used in scientific computing, mathematics, and graphics processing. It is more precise than just saying 'vector-based'. Use it when you are discussing the properties of vectors in a technical report or scientific analysis. It adds a level of academic and professional precision to your writing.",
+    "synonyms": [
+      "directional",
+      "mathematical"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "vector",
+    "verbForm": "N/A",
+    "adjectiveForm": "vectorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics and scientific computing",
+    "usageTip": "Use when discussing vector properties.",
+    "commonMistake": "Using 'vectorial' for simple vector-based graphics (use 'vector-based' instead).",
+    "collocations": [
+      "vectorial components",
+      "vectorial format"
+    ]
+  }
+]

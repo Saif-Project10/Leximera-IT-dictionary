@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Controlling",
+    "meaning": "Trying to control or command other people or things.",
+    "shortMeaning": "wanting to control",
+    "example": "He has a very controlling management style.",
+    "example2": "She found her boyfriend's behavior to be overly controlling.",
+    "example3": "The controlling system regulates the temperature automatically.",
+    "Explanation": "The word 'controlling' primarily functions as an adjective describing a person (or sometimes a system) that exerts excessive authority or influence over others. It has a negative connotation when applied to people, implying a lack of freedom for others. In a technical sense, it can be neutral, describing a mechanism that regulates a process (e.g., a controlling device). The word comes from the verb 'control'. It's important to distinguish between the negative personal trait and the neutral technical function based on context.",
+    "synonyms": [
+      "domineering",
+      "authoritarian",
+      "overbearing",
+      "commanding",
+      "regulating"
+    ],
+    "antonyms": [
+      "submissive",
+      "passive",
+      "yielding"
+    ],
+    "nounForm": "control",
+    "verbForm": "control",
+    "adjectiveForm": "controlling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Personal relationships, management, engineering systems",
+    "usageTip": "When describing people, 'controlling' is usually negative. In engineering, it's a neutral descriptive term.",
+    "commonMistake": "Using 'controlful'—this is not a word; the correct adjective is 'controlling'.",
+    "collocations": [
+      "controlling interest",
+      "controlling behavior",
+      "controlling factor",
+      "controlling device"
+    ]
+  },
+  {
+    "word": "Controlling",
+    "meaning": "Having power or authority over something",
+    "shortMeaning": "governing",
+    "example": "The main script is controlling the data flow.",
+    "example2": "She is responsible for controlling project costs.",
+    "example3": "Controlling the input is key to security.",
+    "Explanation": "Controlling refers to the act of exercising authority or regulation over a process or object. The verb is 'control', and the noun is 'control'. It emphasizes an active, ongoing role in managing behavior. In programming, 'controlling' objects or threads is a common task. Use it to clearly identify which component or user is responsible for managing a particular workflow.",
+    "synonyms": [
+      "managing",
+      "directing",
+      "regulating"
+    ],
+    "antonyms": [
+      "passive",
+      "subordinate",
+      "following"
+    ],
+    "nounForm": "control",
+    "verbForm": "control",
+    "adjectiveForm": "controlling",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Programming, management, security",
+    "usageTip": "Use to define the active entity managing a system.",
+    "commonMistake": "Using 'controlling' when you mean 'monitoring' (passive).",
+    "collocations": [
+      "controlling access",
+      "controlling interest",
+      "controlling the flow"
+    ]
+  }
+]

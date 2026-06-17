@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Object oriented",
+    "meaning": "A style of programming based on the concept of 'objects' containing data and code",
+    "shortMeaning": "OOP-based",
+    "example": "Java and Python are popular object oriented languages.",
+    "example2": "The software was built using an object oriented approach to make it modular.",
+    "example3": "Object oriented systems are easier to scale for large teams.",
+    "Explanation": "Object oriented (OO) is a paradigm that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior. This approach focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. It relies on four main pillars: encapsulation, abstraction, inheritance, and polymorphism. This style is widely used because it mirrors how we think about the real world, making complex systems more manageable.",
+    "synonyms": [
+      "OO",
+      "class-based"
+    ],
+    "antonyms": [
+      "procedural",
+      "functional (in some contexts)"
+    ],
+    "nounForm": "object orientation",
+    "verbForm": "N/A",
+    "adjectiveForm": "object oriented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering and computer science",
+    "usageTip": "Use 'object oriented' when describing systems that use classes and instances.",
+    "commonMistake": "Assuming every language is object oriented; some are strictly procedural or functional.",
+    "collocations": [
+      "object oriented approach",
+      "object oriented concepts",
+      "object oriented system"
+    ]
+  },
+  {
+    "word": "Object oriented",
+    "meaning": "Based on the concept of 'objects' containing data and code",
+    "shortMeaning": "object-based",
+    "example": "We used an object oriented approach for this app.",
+    "example2": "Object oriented design improves reusability.",
+    "example3": "He is an expert in object oriented programming.",
+    "Explanation": "Object-oriented (OO) is a programming paradigm based on the concept of 'objects', which contain both data (attributes) and code (methods). Instead of just writing a long list of steps, you build a system of interacting objects that represent real-world things (like a 'User', 'Product', or 'Order'). This approach makes complex software easier to manage, scale, and reuse. It is the dominant style in modern software development.",
+    "synonyms": [
+      "modular",
+      "object-based"
+    ],
+    "antonyms": [
+      "procedural",
+      "functional"
+    ],
+    "nounForm": "OO design",
+    "verbForm": "N/A",
+    "adjectiveForm": "object-oriented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, software design",
+    "usageTip": "Use this to describe the core style of your code.",
+    "commonMistake": "Using OO terms when the design is actually purely procedural.",
+    "collocations": [
+      "object oriented design",
+      "object oriented programming"
+    ]
+  }
+]

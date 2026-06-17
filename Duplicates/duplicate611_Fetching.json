@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Fetching",
+    "meaning": "Attractive or pleasing in appearance",
+    "shortMeaning": "attractive, cute",
+    "example": "She wore a fetching hat to the garden party.",
+    "example2": "He gave her a fetching smile.",
+    "example3": "The puppy was very fetching with its big eyes.",
+    "Explanation": "'Fetching' is a somewhat old-fashioned or playful adjective used to describe someone or something that is charmingly attractive. It is not as strong as 'beautiful' or 'gorgeous', but suggests a pleasant, appealing look. It is often used in a lighthearted or complimentary way. The word comes from the verb 'fetch' (to go get), but its meaning as attractive is now separate. It's more common in British English and in literary contexts.",
+    "synonyms": [
+      "attractive",
+      "charming",
+      "cute",
+      "pretty"
+    ],
+    "antonyms": [
+      "unattractive",
+      "plain",
+      "unappealing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "fetch",
+    "adjectiveForm": "fetching",
+    "partOfSpeech": "adjective",
+    "commonContext": "Compliments on appearance, fashion, describing people/animals",
+    "usageTip": "Use 'fetching' as a polite and slightly formal way to say someone looks nice.",
+    "commonMistake": "Using it in very formal or technical writing where it may seem out of place.",
+    "collocations": [
+      "fetching outfit",
+      "fetching look",
+      "quite fetching"
+    ]
+  },
+  {
+    "word": "Fetching",
+    "meaning": "Retrieving data from a server or a specific location",
+    "shortMeaning": "retrieving",
+    "example": "The program is fetching data from the API.",
+    "example2": "He was fetching the files from the cloud storage.",
+    "example3": "The browser is fetching resources for the page.",
+    "Explanation": "In IT, 'fetching' refers to the process of requesting and receiving data from a remote source, such as a server or database. It is a standard operation in networking, web development, and file management. It is often used in the context of 'fetch requests' or 'fetching records'. The word is simple and precise for describing the act of getting something and bringing it to the local system.",
+    "synonyms": [
+      "retrieving",
+      "getting",
+      "downloading"
+    ],
+    "antonyms": [
+      "sending",
+      "uploading",
+      "storing"
+    ],
+    "nounForm": "fetch",
+    "verbForm": "fetch",
+    "adjectiveForm": "fetching",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Web development, networking, database operations",
+    "usageTip": "Use 'fetching' when data moves from a server to your application.",
+    "commonMistake": "Confusing 'fetching' with 'uploading' (which is sending).",
+    "collocations": [
+      "fetching data",
+      "fetching records",
+      "fetch request"
+    ]
+  }
+]

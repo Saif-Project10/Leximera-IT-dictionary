@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Regard",
+    "meaning": "Attention or consideration",
+    "shortMeaning": "attention/care",
+    "example": "The system acts without regard to user preferences.",
+    "example2": "Please keep this request in your regard for future planning.",
+    "example3": "The module works without regard for the underlying OS.",
+    "Explanation": "The word 'regard' means attention, consideration, or concern. The phrase 'without regard to' is very common in IT to describe how a system functions regardless of external factors. For example, 'The function runs without regard to the input type' means the input type does not matter. It is a formal way of saying that a piece of code or a system is independent of certain variables or constraints.",
+    "synonyms": [
+      "consideration",
+      "attention",
+      "notice"
+    ],
+    "antonyms": [
+      "disregard",
+      "neglect"
+    ],
+    "nounForm": "regard",
+    "verbForm": "regard",
+    "adjectiveForm": "regarding",
+    "partOfSpeech": "noun",
+    "commonContext": "Documentation, specifications",
+    "usageTip": "Use 'without regard to' to clarify what factors don't affect your code.",
+    "commonMistake": "Using 'disregard' when you mean 'not taking into account'.",
+    "collocations": [
+      "without regard to",
+      "pay regard to"
+    ]
+  },
+  {
+    "word": "Regard",
+    "meaning": "To consider, evaluate, or monitor a specific system component, design pattern, or programming practice in a certain way",
+    "shortMeaning": "consider or evaluate",
+    "example": "Experienced software engineers generally regard global variables as a poor programming practice.",
+    "example2": "You must regard data security as your highest priority when designing an e-commerce platform checkout flow.",
+    "example3": "We regard this open-source library as the most stable solution for handling date transformations.",
+    "Explanation": "The word 'regard' means to hold an opinion or evaluate something based on industry standards, performance, or security benchmarks. In software engineering discussions, team leaders and developers use this term when discussing how frameworks, patterns, or strategies are viewed by the global engineering community (e.g., regarding a specific database as unreliable for large-scale transaction volumes). It establishes context around architectural choices and helps engineers prioritize best practices over faster, less stable development methods during structural code design phases.",
+    "synonyms": [
+      "consider",
+      "view",
+      "evaluate"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "disregard"
+    ],
+    "nounForm": "regard",
+    "verbForm": "regard",
+    "adjectiveForm": "regarded",
+    "partOfSpeech": "verb",
+    "commonContext": "Code reviews, architectural planning, technology evaluations",
+    "usageTip": "Use 'regard' to describe standard industry opinions or team consensus about a technology, framework, or coding habit.",
+    "commonMistake": "Confusing the verb 'regard' with 'regardless', which is an adverb meaning in spite of everything.",
+    "collocations": [
+      "highly regard",
+      "regard as standard",
+      "regard as unsafe"
+    ]
+  }
+]

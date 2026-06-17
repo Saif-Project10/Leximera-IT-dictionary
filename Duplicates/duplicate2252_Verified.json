@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Verified",
+    "meaning": "Proven to be true or accurate",
+    "shortMeaning": "checked and proven",
+    "example": "The user's identity was verified via email.",
+    "example2": "All the results were verified by the software test suite.",
+    "example3": "Only verified accounts can access the admin portal.",
+    "Explanation": "The word 'verified' describes the state of something that has gone through a check and has been proven accurate, authentic, or correct. This is a critical step in IT, such as verifying login credentials, verifying software installation, or verifying data checksums. A 'verified' status provides confidence that the operation was successful and safe. It is often the final step before moving from development to production, or from unauthenticated access to an authorized state.",
+    "synonyms": [
+      "confirmed",
+      "validated",
+      "checked"
+    ],
+    "antonyms": [
+      "unverified",
+      "unconfirmed",
+      "invalidated"
+    ],
+    "nounForm": "verification",
+    "verbForm": "verify",
+    "adjectiveForm": "verified",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Authentication, testing, data integrity",
+    "usageTip": "Use 'verified' after a check has been performed.",
+    "commonMistake": "Confusing 'verified' with 'tested' (verified implies a pass).",
+    "collocations": [
+      "verified account",
+      "verified status",
+      "fully verified"
+    ]
+  },
+  {
+    "word": "Verified",
+    "meaning": "Checked and confirmed to be true or correct",
+    "shortMeaning": "confirmed",
+    "example": "The installation is now verified.",
+    "example2": "Use a verified account for access.",
+    "example3": "All dependencies were verified before deployment.",
+    "Explanation": "The word 'verified' means that a process or object has been subjected to checks and has passed them. It represents a completed state. In security, 'verified' users have provided proof of their identity. In development, 'verified' code has been tested to meet requirements. It is an important status label for management and security teams. Always clarify what standard was used to perform the verification.",
+    "synonyms": [
+      "confirmed",
+      "checked",
+      "validated"
+    ],
+    "antonyms": [
+      "unverified",
+      "unconfirmed",
+      "pending"
+    ],
+    "nounForm": "verification",
+    "verbForm": "verify",
+    "adjectiveForm": "verified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Status, security, and quality control",
+    "usageTip": "Use to indicate that a check is finished.",
+    "commonMistake": "Using 'verified' when the check is still pending.",
+    "collocations": [
+      "verified user",
+      "verified status",
+      "fully verified"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Long-winded",
+    "meaning": "(Of speech or writing) Continuing at tedious length; verbose",
+    "shortMeaning": "tediously long",
+    "example": "The speaker was so long-winded that many people left early.",
+    "example2": "He sent a long-winded email that could have been just three sentences.",
+    "example3": "I avoided asking him questions because of his long-winded answers.",
+    "Explanation": "Long-winded is an informal and vivid adjective. It describes communication that goes on and on, causing boredom or frustration for the audience. It often implies that the speaker or writer is unaware of or indifferent to the audience's dwindling attention. The image is of someone needing a long 'wind' or breath to get through their speech. It's a common and effective critique in everyday situations. It's more about the tedious, drawn-out experience for the listener than a technical count of words, though it overlaps heavily with 'verbose'.",
+    "synonyms": [
+      "verbose",
+      "wordy",
+      "prolix",
+      "rambling"
+    ],
+    "antonyms": [
+      "concise",
+      "succinct",
+      "brief",
+      "to the point"
+    ],
+    "nounForm": "long-windedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "long-winded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Informal criticism of speeches, stories, explanations, emails",
+    "usageTip": "A great informal word to describe a boring, overly long talk or piece of writing.",
+    "commonMistake": "Using it in very formal writing; 'verbose' or 'prolix' would be more appropriate there.",
+    "collocations": [
+      "long-winded speech",
+      "long-winded story",
+      "get long-winded"
+    ]
+  },
+  {
+    "word": "Long-winded",
+    "meaning": "Using too many words or taking too long to explain something",
+    "shortMeaning": "too wordy",
+    "example": "His long-winded explanation of the bug made it hard to follow.",
+    "example2": "Avoid long-winded comments in your code documentation.",
+    "example3": "She gave a long-winded presentation that bored the audience.",
+    "Explanation": "A 'long-winded' person or document is one that is unnecessarily verbose. It is a common critique in professional communication, especially in technical documentation or meetings. Clear and concise writing is preferred in IT because it allows developers to quickly grasp information. Being long-winded can lead to confusion because the actual point gets lost in too much detail. It is important to be direct and precise to ensure your message is understood efficiently.",
+    "synonyms": [
+      "verbose",
+      "wordy",
+      "rambling"
+    ],
+    "antonyms": [
+      "concise",
+      "brief",
+      "succinct"
+    ],
+    "nounForm": "long-windedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "long-winded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication and documentation",
+    "usageTip": "Use 'long-winded' to describe someone or something that talks too much.",
+    "commonMistake": "Using it for something 'complex'; complex is fine, but long-winded implies poor communication.",
+    "collocations": [
+      "long-winded explanation",
+      "long-winded speech",
+      "long-winded answer"
+    ]
+  }
+]

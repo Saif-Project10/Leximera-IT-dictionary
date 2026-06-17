@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unpredictable",
+    "meaning": "Something that cannot be known or guessed in advance",
+    "shortMeaning": "not predictable",
+    "example": "The weather in this city is very unpredictable.",
+    "example2": "A buggy program can have unpredictable results.",
+    "example3": "Hackers look for unpredictable patterns to avoid being caught.",
+    "Explanation": "When something is unpredictable, it lacks a consistent pattern. In IT, 'unpredictable behavior' is usually a bad thing, meaning a piece of software does different things every time it runs, often due to bugs or race conditions. However, in security and cryptography, unpredictability is a good thing. We want random number generators to be unpredictable so that passwords and encryption keys cannot be guessed by hackers. The word is used to describe systems that are complex, unstable, or intentionally random. Dealing with unpredictability is a major challenge in engineering and data science.",
+    "synonyms": [
+      "erratic",
+      "random",
+      "uncertain"
+    ],
+    "antonyms": [
+      "predictable",
+      "reliable",
+      "consistent"
+    ],
+    "nounForm": "unpredictability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unpredictable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, security, and debugging",
+    "usageTip": "Use 'unpredictable' to describe software that is acting strangely or encryption that is secure.",
+    "commonMistake": "Spelling it as 'unpredictible'.",
+    "collocations": [
+      "unpredictable behavior",
+      "unpredictable results",
+      "highly unpredictable"
+    ]
+  },
+  {
+    "word": "Unpredictable",
+    "meaning": "Not able to be foreseen or counted on",
+    "shortMeaning": "hard to foresee",
+    "example": "Network latency can be highly unpredictable.",
+    "example2": "The application shows unpredictable behavior under heavy load.",
+    "example3": "Unpredictable inputs can crash the entire system.",
+    "Explanation": "Unpredictable refers to performance or behavior that changes in ways you cannot anticipate. In software, this is a dangerous trait; you want systems to be predictable so you can guarantee performance and stability. Unpredictable results usually stem from race conditions, hidden bugs, or complex dependencies. Improving predictability is a major goal in robust software design, often achieved through testing and minimizing complexity.",
+    "synonyms": [
+      "unreliable",
+      "erratic",
+      "volatile"
+    ],
+    "antonyms": [
+      "predictable",
+      "reliable",
+      "consistent"
+    ],
+    "nounForm": "prediction",
+    "verbForm": "predict",
+    "adjectiveForm": "unpredictable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance testing, debugging, system reliability",
+    "usageTip": "Use this for systems that don't act the same way every time.",
+    "commonMistake": "Ignoring unpredictable bugs in the hope that they go away.",
+    "collocations": [
+      "unpredictable behavior",
+      "unpredictable result",
+      "highly unpredictable"
+    ]
+  },
+  {
+    "word": "Unpredictable",
+    "meaning": "Something that cannot be known or guessed in advance; inconsistent.",
+    "shortMeaning": "not guessable",
+    "example": "The hardware performance became unpredictable under high load.",
+    "example2": "Unpredictable bugs are the hardest to fix.",
+    "example3": "Network latency can be very unpredictable.",
+    "Explanation": "'Unpredictable' describes behaviors or outcomes that vary without a clear pattern. In software, unpredictable behavior often results from race conditions, memory leaks, or external environmental factors. If a system's behavior is unpredictable, it is difficult to test and maintain reliably. Developers strive for 'deterministic' behavior, which is the exact opposite of being unpredictable. This term is frequently used in debugging to explain why a program fails only sometimes.",
+    "synonyms": [
+      "erratic",
+      "inconsistent",
+      "unstable"
+    ],
+    "antonyms": [
+      "predictable",
+      "consistent",
+      "stable"
+    ],
+    "nounForm": "unpredictability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unpredictable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, system reliability",
+    "usageTip": "Use this when a system fails without a clear pattern.",
+    "commonMistake": "Using it to mean 'random', whereas 'unpredictable' often has hidden causes.",
+    "collocations": [
+      "unpredictable behavior",
+      "unpredictable results",
+      "unpredictable latency"
+    ]
+  }
+]

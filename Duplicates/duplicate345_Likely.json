@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Likely",
+    "meaning": "Such as well might happen or be true; probable.",
+    "shortMeaning": "probable",
+    "example": "It is likely to rain this afternoon.",
+    "example2": "She is the most likely candidate to win the election.",
+    "example3": "The most likely explanation is that he forgot.",
+    "Explanation": "'Likely' is an adjective and adverb used to express probability. It indicates that something has a good chance of occurring or being true. It is the opposite of 'unlikely'. It can be used before a noun ('a likely story') or with a verb ('He is likely to arrive soon'). As an adverb, it is mainly used in American English ('They will likely come'). It is a common, essential word for making predictions, assessing risks, and discussing possibilities in everyday life, business, and science.",
+    "synonyms": [
+      "probable",
+      "possible",
+      "anticipated",
+      "expected",
+      "prone"
+    ],
+    "antonyms": [
+      "unlikely",
+      "improbable",
+      "doubtful"
+    ],
+    "nounForm": "likelihood",
+    "verbForm": "N/A",
+    "adjectiveForm": "likely",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Predictions, weather, outcomes, statistics",
+    "usageTip": "Use 'It is likely that...' or 'He is likely to...' to express probability.",
+    "commonMistake": "Using 'liable' interchangeably with 'likely'; 'liable' often implies a negative consequence.",
+    "collocations": [
+      "very likely",
+      "most likely",
+      "likely to happen",
+      "in all likelihood"
+    ]
+  },
+  {
+    "word": "Likely",
+    "meaning": "Probable or expected to happen",
+    "shortMeaning": "probably",
+    "example": "It is likely that the server will crash if we don't scale.",
+    "example2": "This bug is likely caused by the recent code update.",
+    "example3": "The project is likely to be completed by Friday.",
+    "Explanation": "The word 'likely' is used to express probability or expectation. In technical discussions, it is used when analyzing logs, predicting performance bottlenecks, or assessing the cause of an error when absolute certainty is not yet possible. It is a professional way of saying something is probably true without claiming it is a fact. Using 'likely' helps in setting expectations during planning or troubleshooting. It suggests an educated guess based on available evidence rather than a random assumption.",
+    "synonyms": [
+      "probable",
+      "expected",
+      "plausible"
+    ],
+    "antonyms": [
+      "unlikely",
+      "improbable",
+      "doubtful"
+    ],
+    "nounForm": "likelihood",
+    "verbForm": "N/A",
+    "adjectiveForm": "likely",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Debugging and project estimation",
+    "usageTip": "Use to express a high degree of confidence without being 100% sure.",
+    "commonMistake": "Confusing 'likely' with 'like', which has a completely different meaning.",
+    "collocations": [
+      "most likely",
+      "highly likely",
+      "likely cause"
+    ]
+  }
+]

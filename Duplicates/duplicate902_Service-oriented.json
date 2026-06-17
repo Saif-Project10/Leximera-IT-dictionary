@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Service-oriented",
+    "meaning": "Focused on providing good service; having a nature aimed at helping others",
+    "shortMeaning": "focused on service",
+    "example": "She has a very service-oriented attitude in her job.",
+    "example2": "We are a service-oriented company, not a product company.",
+    "example3": "The course aims to develop service-oriented professionals.",
+    "Explanation": "'Service-oriented' is a compound adjective. It describes a person, business, or system whose primary focus is on providing high-quality service and help to customers or users. It's a key concept in business, hospitality, and IT (SOA - Service-Oriented Architecture). It contrasts with product-oriented or sales-oriented approaches. The hyphen is important for clarity. It conveys a philosophy of prioritizing customer needs.",
+    "synonyms": [
+      "customer-focused",
+      "helpful",
+      "client-centered"
+    ],
+    "antonyms": [
+      "product-oriented",
+      "self-serving",
+      "indifferent"
+    ],
+    "nounForm": "service orientation",
+    "verbForm": "N/A",
+    "adjectiveForm": "service-oriented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, hospitality, customer service, software design",
+    "usageTip": "Always use a hyphen when it comes before a noun (e.g., 'a service-oriented culture').",
+    "commonMistake": "Writing it as two separate words ('service oriented') when used as a compound adjective before a noun.",
+    "collocations": [
+      "service-oriented architecture",
+      "service-oriented approach",
+      "highly service-oriented"
+    ]
+  },
+  {
+    "word": "Service-oriented",
+    "meaning": "An architectural style where components provide services to other components",
+    "shortMeaning": "SOA architecture",
+    "example": "The platform is highly service-oriented.",
+    "example2": "We chose a service-oriented architecture for its flexibility.",
+    "example3": "A service-oriented approach is great for large systems.",
+    "Explanation": "'Service-oriented' (often SOA) is a design pattern where software components are organized as 'services'. Each service provides a specific function that can be accessed by other parts of the application or by other applications. This is designed for high interoperability and reuse. It is slightly different from modern microservices, but the core idea of modular services is the same. It is a powerful way to build complex, enterprise-level systems. Use this to describe large, modular, and collaborative software designs.",
+    "synonyms": [
+      "SOA",
+      "service-based"
+    ],
+    "antonyms": [
+      "monolithic"
+    ],
+    "nounForm": "SOA",
+    "verbForm": "N/A",
+    "adjectiveForm": "service-oriented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, enterprise systems",
+    "usageTip": "Use when discussing large-scale, modular software design.",
+    "commonMistake": "Thinking it is exactly the same as 'microservices'; SOA is a broader concept.",
+    "collocations": [
+      "service-oriented architecture",
+      "service-oriented design",
+      "service-oriented approach"
+    ]
+  },
+  {
+    "word": "Service-oriented",
+    "meaning": "An approach to design where functions are presented as services that can be used by other parts of the system.",
+    "shortMeaning": "designed for services",
+    "example": "The company adopted a service-oriented architecture (SOA) to improve connectivity.",
+    "example2": "Service-oriented design allows for better code reuse.",
+    "example3": "This API follows a strict service-oriented pattern.",
+    "Explanation": "The term 'service-oriented' refers to a software design philosophy where system components are defined as services that communicate over a network. It focuses on loose coupling, meaning services do not need to know the inner workings of each other to communicate. This makes systems highly flexible and easier to adapt to changing requirements. It is a foundational concept for distributed systems and enterprise software.",
+    "synonyms": [
+      "SOA",
+      "service-focused"
+    ],
+    "antonyms": [
+      "monolithic",
+      "tightly-coupled"
+    ],
+    "nounForm": "service-oriented architecture",
+    "verbForm": "N/A",
+    "adjectiveForm": "service-oriented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Enterprise systems, distributed computing",
+    "usageTip": "Use 'service-oriented' to describe systems built as a collection of services.",
+    "commonMistake": "Thinking service-oriented and service-based are exactly the same; SOA is a more formal architectural style.",
+    "collocations": [
+      "service-oriented architecture",
+      "service-oriented design",
+      "service-oriented approach"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Least recently",
+    "meaning": "Relating to the event or item that has not occurred or been used for the longest period of time.",
+    "shortMeaning": "oldest usage",
+    "example": "The computer clears the least recently used apps from the background to save battery.",
+    "example2": "Identify the least recently updated records for the database cleanup.",
+    "example3": "He was the least recently hired member of the senior staff.",
+    "Explanation": "The phrase 'least recently' focuses on the timeline of activity. It looks for the item with the oldest 'last-used' timestamp. In computing, this is vital for deciding what is 'stale' or no longer needed. Unlike 'least frequently', it doesn't care how many times an item was used in the past, only *when* it was last touched. This is a very natural way for humans and computers to organize things—we tend to forget or discard things we haven't used in a long time.",
+    "synonyms": [
+      "longest ago",
+      "oldest",
+      "stale"
+    ],
+    "antonyms": [
+      "most recently"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least recently",
+    "partOfSpeech": "adverbial phrase",
+    "commonContext": "Memory management and logs",
+    "usageTip": "Use this when you want to focus on 'time' rather than 'count'.",
+    "commonMistake": "Confusing it with 'least frequently'; an item can be used 100 times but still be the 'least recently' used if the last time was a year ago.",
+    "collocations": [
+      "least recently used",
+      "least recently accessed",
+      "least recently modified"
+    ]
+  },
+  {
+    "word": "Least recently",
+    "meaning": "Used in caching to remove items not used for the longest time",
+    "shortMeaning": "oldest access",
+    "example": "We implemented a least recently used cache strategy.",
+    "example2": "The system discards the least recently accessed pages.",
+    "example3": "Least recently used is a standard algorithm for memory.",
+    "Explanation": "Least recently is the core of the 'Least Recently Used' (LRU) algorithm, a very popular strategy for cache eviction. If the cache is full, the system removes the entry that has not been accessed for the longest time, assuming that if you haven't needed it lately, you probably won't need it soon. It is a highly efficient way to manage limited memory and is used everywhere from CPU caches to web browsers.",
+    "synonyms": [
+      "oldest access"
+    ],
+    "antonyms": [
+      "most recently used"
+    ],
+    "nounForm": "LRU",
+    "verbForm": "N/A",
+    "adjectiveForm": "least recently",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Caching, memory management, algorithms",
+    "usageTip": "Use this to explain how your software clears old data.",
+    "commonMistake": "Confusing LRU with LFU (Least Frequently Used).",
+    "collocations": [
+      "least recently used",
+      "LRU cache"
+    ]
+  }
+]

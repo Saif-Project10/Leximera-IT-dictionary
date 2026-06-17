@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Wake-on-LAN",
+    "meaning": "The hyphenated form of the term describing the remote power-on protocol",
+    "shortMeaning": "remote power-on protocol",
+    "example": "The administrator sent a wake-on-LAN signal to all the workstations.",
+    "example2": "Is your network card wake-on-LAN compatible?",
+    "example3": "Wake-on-LAN is a key part of automated IT maintenance.",
+    "Explanation": "This is simply the hyphenated spelling of the standard. It is often used as a compound adjective to describe hardware or software that supports the technology (e.g., 'wake-on-LAN hardware'). The function remains the same: using a broadcast packet to boot a machine. The use of hyphens is common in technical documentation to link the words together as a single concept. It ensures clarity when describing the specific protocol. Whether hyphenated or not, it always refers to the IEEE 802.3 standard related to remote power management.",
+    "synonyms": [
+      "WoL",
+      "remote-wake"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "wake-on-LAN",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Technical manuals and hardware labels",
+    "usageTip": "Use hyphens when using the term to modify another noun.",
+    "commonMistake": "Spelling it as 'Walk on LAN' which is incorrect.",
+    "collocations": [
+      "wake-on-LAN signal",
+      "wake-on-LAN packet",
+      "wake-on-LAN compatibility"
+    ]
+  },
+  {
+    "word": "Wake-on-LAN",
+    "meaning": "A feature that allows a computer to be turned on via a network message",
+    "shortMeaning": "remote start",
+    "example": "We use Wake-on-LAN to turn on servers for night maintenance.",
+    "example2": "Wake-on-LAN is disabled by default in the BIOS.",
+    "example3": "The Wake-on-LAN packet woke the sleeping machine.",
+    "Explanation": "Wake-on-LAN (WoL) is a standard protocol that allows an administrator to turn on a computer from a remote location by sending a special network signal (a 'magic packet'). This is incredibly useful for IT departments that need to perform updates on machines while the office is empty without keeping those machines running all night. Configuring Wake-on-LAN requires both software and BIOS/hardware support. It is a must-know term for systems administrators and help-desk staff managing large fleets of computers.",
+    "synonyms": [
+      "WoL"
+    ],
+    "antonyms": [
+      "manual power-on"
+    ],
+    "nounForm": "Wake-on-LAN",
+    "verbForm": "N/A",
+    "adjectiveForm": "Wake-on-LAN",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Network administration, remote management",
+    "usageTip": "Use this when planning remote server maintenance.",
+    "commonMistake": "Forgetting to enable WoL in the hardware settings.",
+    "collocations": [
+      "enable Wake-on-LAN",
+      "use Wake-on-LAN"
+    ]
+  }
+]

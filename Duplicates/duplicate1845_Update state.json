@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Update state",
+    "meaning": "To change the current condition or data of a program.",
+    "shortMeaning": "change program data",
+    "example": "When the user clicks the button, we need to update state to show the loading spinner.",
+    "example2": "In React, you should never update state directly; use the setter function.",
+    "example3": "The application will update state once the API call is successful.",
+    "Explanation": "In modern programming, 'state' represents what is happening in the app right now (e.g., 'is the user logged in?', 'what is in the shopping cart?'). To 'update state' means to change this information. When the state changes, the UI usually refreshes to show the new data. This is the core logic behind reactive frameworks like React, Vue, and Flutter. Managing how and when you update state is often the most difficult part of building complex user interfaces.",
+    "synonyms": [
+      "change state",
+      "set state",
+      "mutate state"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "state update",
+    "verbForm": "update state",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / phrase",
+    "commonContext": "Frontend development (React, Redux, Vue)",
+    "usageTip": "Use 'update state' when talking about how the UI responds to user actions.",
+    "commonMistake": "Updating state too often, which can cause the app to flicker or run slowly.",
+    "collocations": [
+      "update state hook",
+      "trigger update state",
+      "global update state"
+    ]
+  },
+  {
+    "word": "Update state",
+    "meaning": "To alter the internal data status or variable tracking parameters inside a running software application",
+    "shortMeaning": "change application data status",
+    "example": "When a user clicks the shopping cart item, we must update state metrics to show the item addition.",
+    "example2": "Never try to update state variables directly without utilizing the framework's reactive functions.",
+    "example3": "The search platform will update state options instantly as soon as a user enters a query term.",
+    "Explanation": "In frontend web development and user interface frameworks (like React or Vanilla JavaScript state engines), to 'update state' means modifying the core data variables that dictate what the user currently sees on their screen. Application state tracks conditions like whether a sidebar menu is open, if data is loading, or who is logged in. Updating this data correctly triggers the interface components to re-render, ensuring the layout matches the underlying data values.",
+    "synonyms": [
+      "modify application state",
+      "alter status variable values",
+      "refresh state tracking properties"
+    ],
+    "antonyms": [
+      "freeze state parameters",
+      "maintain immutable state"
+    ],
+    "nounForm": "state update",
+    "verbForm": "update state",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Frontend state management, interactive web interface building, and reactive event loop processing",
+    "usageTip": "Use 'update state' when describing how application logic modifies data variables to refresh what is displayed on a user interface screen.",
+    "commonMistake": "Mutating state variables directly in reactive frameworks, which prevents components from updating visually.",
+    "collocations": [
+      "update state values cleanly",
+      "function to update state",
+      "trigger state updates automatically"
+    ]
+  }
+]

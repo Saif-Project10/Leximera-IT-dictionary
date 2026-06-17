@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Self-signed",
+    "meaning": "A digital certificate signed by the creator instead of a authority",
+    "shortMeaning": "internally verified",
+    "example": "We use a self-signed certificate for the local test server.",
+    "example2": "Browsers warn you about self-signed certificates.",
+    "example3": "Don't use self-signed certs in production.",
+    "Explanation": "A self-signed certificate is one that is issued and signed by the same person or organization that is using it. Because there is no trusted third-party 'Certificate Authority' verifying the identity, browsers and operating systems treat them as untrusted. They are perfect for development and internal testing where speed and ease are more important than external security. However, they should never be used on a public-facing website because users will see a security warning.",
+    "synonyms": [
+      "untrusted",
+      "internal-certificate"
+    ],
+    "antonyms": [
+      "CA-signed",
+      "trusted",
+      "verified"
+    ],
+    "nounForm": "certificate",
+    "verbForm": "sign",
+    "adjectiveForm": "self-signed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web security, TLS, HTTPS",
+    "usageTip": "Use 'self-signed' to specify that you are the issuer and the user of the certificate.",
+    "commonMistake": "Using a self-signed certificate for a customer-facing website.",
+    "collocations": [
+      "self-signed certificate",
+      "self-signed SSL",
+      "generate self-signed"
+    ]
+  },
+  {
+    "word": "Self-signed",
+    "meaning": "An SSL certificate created by the user, not a third-party authority",
+    "shortMeaning": "unverified certificate",
+    "example": "We used a self-signed certificate for the local test server.",
+    "example2": "Browsers will show a warning for a self-signed site.",
+    "example3": "Do not use a self-signed cert for production apps.",
+    "Explanation": "A 'self-signed' certificate is an identity document used for encryption that you generate yourself instead of paying a trusted third-party 'Certificate Authority' (CA). While it provides encryption, it does not provide proof of identity. Because browsers cannot verify the issuer, they will show scary warnings to users. This is perfect for internal development, testing, and private lab environments, but it should never be used on a public-facing website, as it is a major security risk.",
+    "synonyms": [
+      "unsigned",
+      "homemade"
+    ],
+    "antonyms": [
+      "CA-signed",
+      "trusted",
+      "verified"
+    ],
+    "nounForm": "certificate",
+    "verbForm": "N/A",
+    "adjectiveForm": "self-signed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, SSL/TLS, web servers",
+    "usageTip": "Use only for internal development testing.",
+    "commonMistake": "Using a self-signed certificate on a production site.",
+    "collocations": [
+      "self-signed certificate",
+      "self-signed cert"
+    ]
+  }
+]

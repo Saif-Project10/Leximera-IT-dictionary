@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Telescopic",
+    "meaning": "Extending or able to be extended by sliding one part inside another.",
+    "shortMeaning": "extensible",
+    "example": "The hardware includes telescopic supports for stability.",
+    "example2": "The user interface has a telescopic menu for extra options.",
+    "example3": "The design uses a telescopic structure for portability.",
+    "Explanation": "The word 'telescopic' describes structures that consist of sliding sections. In IT, this is mostly used for physical equipment, like server racks or monitor arms that can be adjusted in length. Metaphorically, it can describe a design (like an interface or code structure) that can be collapsed to show only the basics or extended to show more detail. It is a useful word to describe adjustable, space-saving designs.",
+    "synonyms": [
+      "adjustable",
+      "extendable",
+      "collapsible"
+    ],
+    "antonyms": [
+      "fixed",
+      "rigid",
+      "static"
+    ],
+    "nounForm": "telescope",
+    "verbForm": "telescope",
+    "adjectiveForm": "telescopic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, UI design",
+    "usageTip": "Use 'telescopic' for adjustable, sliding structures.",
+    "commonMistake": "Confusing 'telescopic' with 'scalable'.",
+    "collocations": [
+      "telescopic support",
+      "telescopic design",
+      "telescopic structure"
+    ]
+  },
+  {
+    "word": "Telescopic",
+    "meaning": "Able to be extended or shortened by sliding parts, or related to a telescope",
+    "shortMeaning": "extending or telescope-related",
+    "example": "He used a telescopic pole to reach the high shelf.",
+    "example2": "The view through the telescopic lens was very clear.",
+    "example3": "The design features a telescopic arm.",
+    "Explanation": "The word 'telescopic' describes an object that can be made longer or shorter by sliding one part inside another. It can also refer to things that use the principles of a telescope (like zoom lenses). It is used to describe objects in hardware, mechanics, and photography. It is not generally used in software, though it could be used metaphorically for a feature that can be expanded. It implies a sliding or collapsing motion.",
+    "synonyms": [
+      "extendable",
+      "sliding",
+      "long-range"
+    ],
+    "antonyms": [
+      "fixed",
+      "rigid",
+      "static"
+    ],
+    "nounForm": "telescope",
+    "verbForm": "N/A",
+    "adjectiveForm": "telescopic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, mechanics, optics, photography",
+    "usageTip": "Use 'telescopic' for objects that slide to extend.",
+    "commonMistake": "Using it for something that 'folds' instead of 'slides'.",
+    "collocations": [
+      "telescopic lens",
+      "telescopic pole",
+      "telescopic arm"
+    ]
+  }
+]

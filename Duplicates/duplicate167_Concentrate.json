@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Concentrate",
+    "meaning": "To focus all one's attention or mental effort on a particular object or activity.",
+    "shortMeaning": "focus intensely",
+    "example": "You need to concentrate on your driving.",
+    "example2": "The orange juice is made from concentrate.",
+    "example3": "Population is concentrated in urban areas.",
+    "Explanation": "Concentrate has two main meanings. First, as a verb, it means to direct your mental energy and attention towards one thing, filtering out distractions. Second, as a noun, it refers to a substance that has been strengthened by the removal of other elements, like juice concentrate. The verb also means to gather or bring together in one place. A common mistake is not using the necessary preposition 'on' (concentrate on a task). It's different from 'focus' in that 'concentrate' often implies a more intense, effortful application of the mind. Using it correctly is key for talking about productivity and attention.",
+    "synonyms": [
+      "focus",
+      "center",
+      "engross",
+      "intensify"
+    ],
+    "antonyms": [
+      "distract",
+      "dissipate",
+      "wander"
+    ],
+    "nounForm": "concentration (mental focus); concentrate (substance)",
+    "verbForm": "concentrate",
+    "adjectiveForm": "concentrated",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Studying, working, chemistry, and demographics.",
+    "usageTip": "Always use 'concentrate on' something, not 'concentrate in' (for mental focus).",
+    "commonMistake": "Confusing the noun 'concentrate' (juice) with the general concept of 'concentration' (mental focus).",
+    "collocations": [
+      "concentrate hard",
+      "powers of concentration",
+      "fruit concentrate"
+    ]
+  },
+  {
+    "word": "Concentrate",
+    "meaning": "To focus all your attention or effort on a single task or object",
+    "shortMeaning": "focus",
+    "example": "It is hard to concentrate on coding when there is a lot of noise.",
+    "example2": "The developer needs to concentrate to solve the complex logic error.",
+    "example3": "Please concentrate on the main requirements of the project.",
+    "Explanation": "Concentrate means giving your full mental energy to one thing. In IT, concentration is vital for debugging, writing clean code, and learning new frameworks. It can also refer to gathering things in one place, like 'concentrating data' into a single server. Being able to concentrate deeply is often considered a 'superpower' for software engineers. It is the opposite of being distracted or multitasking.",
+    "synonyms": [
+      "focus",
+      "center",
+      "direct"
+    ],
+    "antonyms": [
+      "distract",
+      "scatter",
+      "disperse"
+    ],
+    "nounForm": "concentration",
+    "verbForm": "concentrate",
+    "adjectiveForm": "concentrated",
+    "partOfSpeech": "verb",
+    "commonContext": "Work productivity and deep thinking",
+    "usageTip": "Use 'concentrate on' followed by the task you are doing.",
+    "commonMistake": "Confusing 'concentrate' with 'meditate'; meditate is for relaxation, concentrate is for effort.",
+    "collocations": [
+      "concentrate on work",
+      "hard to concentrate",
+      "concentrate fully"
+    ]
+  }
+]

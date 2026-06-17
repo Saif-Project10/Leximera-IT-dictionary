@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Expensive",
+    "meaning": "Costing a lot of money.",
+    "shortMeaning": "costing a lot",
+    "example": "That restaurant is too expensive for me.",
+    "example2": "He bought her an expensive piece of jewelry.",
+    "example3": "Repairs turned out to be more expensive than anticipated.",
+    "Explanation": "'Expensive' is a common adjective describing something that has a high price. It is a relative term; what is expensive for one person may be affordable for another. It's often used in comparisons ('more expensive than'). The adverb is 'expensively'. It's a basic but essential word for shopping, budgeting, and describing commodities. While similar to 'costly', 'expensive' is more neutral and everyday, whereas 'costly' can imply a negative consequence beyond just money. The opposite is 'inexpensive' or 'cheap'.",
+    "synonyms": [
+      "costly",
+      "dear",
+      "high-priced"
+    ],
+    "antonyms": [
+      "cheap",
+      "inexpensive",
+      "affordable"
+    ],
+    "nounForm": "expensiveness",
+    "verbForm": "N/A",
+    "adjectiveForm": "expensive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shopping, services, lifestyle, repairs",
+    "usageTip": "Use 'expensive to' do something (e.g., 'It's expensive to live in this city').",
+    "commonMistake": "Saying 'expansive' instead of 'expensive'; they sound similar but mean very different things.",
+    "collocations": [
+      "very expensive",
+      "prohibitively expensive",
+      "expensive taste"
+    ]
+  },
+  {
+    "word": "Expensive",
+    "meaning": "Costing a lot of money",
+    "shortMeaning": "high cost",
+    "example": "Building a custom server from scratch can be very expensive.",
+    "example2": "We avoid expensive subscriptions to save on project costs.",
+    "example3": "The GPU was the most expensive part of the computer.",
+    "Explanation": "The word 'expensive' is used to describe items or services that require a large amount of money. In technical projects, 'expensive' can also refer to computational cost, such as an 'expensive operation' that takes a long time or a lot of system resources to perform. Always clarify whether you are talking about financial cost or computational cost to avoid confusion. It is a straightforward word used to denote high price or high resource consumption.",
+    "synonyms": [
+      "costly",
+      "pricey",
+      "dear"
+    ],
+    "antonyms": [
+      "cheap",
+      "inexpensive",
+      "affordable"
+    ],
+    "nounForm": "expense",
+    "verbForm": "N/A",
+    "adjectiveForm": "expensive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Finance, resource optimization, and procurement",
+    "usageTip": "Use 'expensive' for both money and high resource usage in code.",
+    "commonMistake": "Confusing 'expensive' with 'expansive' (size/scope).",
+    "collocations": [
+      "expensive operation",
+      "expensive hardware",
+      "too expensive"
+    ]
+  }
+]

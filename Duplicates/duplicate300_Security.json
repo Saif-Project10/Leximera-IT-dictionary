@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Security",
+    "meaning": "The state of being free from danger or threat; measures taken to ensure safety.",
+    "shortMeaning": "safety, protection",
+    "example": "Airport security is very strict.",
+    "example2": "Financial security is important for a happy retirement.",
+    "example3": "He works for a home security company.",
+    "Explanation": "The noun 'security' refers to both the feeling of being safe and the actual methods used to achieve safety. It is a broad term covering personal, national, financial, and cyber security. It is more about systems and a state of being than a single act (which is 'protection'). The adjective is 'secure'. A common mistake is confusing it with 'safety'; security often implies protection against deliberate threats (like crime or attack), while safety is broader, including accidental harm. It's a key concern for governments, businesses, and individuals.",
+    "synonyms": [
+      "Defense",
+      "Protection",
+      "Safety",
+      "Stability"
+    ],
+    "antonyms": [
+      "Danger",
+      "Insecurity",
+      "Risk",
+      "Vulnerability"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "noun",
+    "commonContext": "National defense, computers, finance, jobs, airports",
+    "usageTip": "Use 'security' for systems and measures (security guard, security software), and 'safety' for general freedom from harm.",
+    "commonMistake": "Using 'security' when talking about feeling emotionally safe; 'emotional security' is correct, but 'feeling secure' is more common.",
+    "collocations": [
+      "national security",
+      "social security",
+      "security check"
+    ]
+  },
+  {
+    "word": "Security",
+    "meaning": "The state of being protected from harm or loss",
+    "shortMeaning": "protection",
+    "example": "The security of our user data is our top priority.",
+    "example2": "We must implement stronger security for our cloud server.",
+    "example3": "The new update fixes several security vulnerabilities.",
+    "Explanation": "Security refers to the policies, practices, and technologies used to protect IT assets from threats. This includes guarding against unauthorized access, data theft, and system failure. It is a wide field covering everything from physical server locks to complex software encryption and network monitoring. Good security practices are essential to maintaining user trust and compliance with privacy laws. It is a continuous effort that evolves as new technical threats emerge.",
+    "synonyms": [
+      "protection",
+      "safeguard",
+      "defense"
+    ],
+    "antonyms": [
+      "vulnerability",
+      "insecurity",
+      "exposure"
+    ],
+    "nounForm": "security",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "noun",
+    "commonContext": "Infrastructure, data, compliance",
+    "usageTip": "Use as a core concept in system design.",
+    "commonMistake": "Treating security as a single checkbox instead of an ongoing effort.",
+    "collocations": [
+      "data security",
+      "network security",
+      "security vulnerability"
+    ]
+  }
+]

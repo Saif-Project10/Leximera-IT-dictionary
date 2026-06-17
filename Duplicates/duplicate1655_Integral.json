@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Integral",
+    "meaning": "In math, the area under a curve on a graph; or, something that is essential to a whole",
+    "shortMeaning": "essential or sum",
+    "example": "Privacy is an integral part of our software design.",
+    "example2": "The teacher showed us how to calculate the integral of a function.",
+    "example3": "The integral represents the total distance traveled based on speed.",
+    "Explanation": "The word 'integral' has two main uses. In mathematics, it is a core part of calculus used to calculate areas, volumes, and totals. For example, if you know the speed of a car at every second, the integral tells you the total distance it moved. In general English, 'integral' means something so important that the whole thing wouldn't work without it. In IT, we often say a database is 'integral' to an application. This dual meaning makes it a common word in both technical documentation and everyday professional speech.",
+    "synonyms": [
+      "essential",
+      "fundamental",
+      "summation"
+    ],
+    "antonyms": [
+      "peripheral",
+      "derivative",
+      "optional"
+    ],
+    "nounForm": "integral",
+    "verbForm": "integrate",
+    "adjectiveForm": "integral",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Calculus, engineering, and general business",
+    "usageTip": "Use 'integral' to emphasize that a component is necessary for the system to function.",
+    "commonMistake": "Confusing the math term 'integral' with 'integer' (a whole number).",
+    "collocations": [
+      "integral part",
+      "calculate an integral",
+      "integral role"
+    ]
+  },
+  {
+    "word": "Integral",
+    "meaning": "Necessary to make a whole complete; essential",
+    "shortMeaning": "Essential or fundamental",
+    "example": "Documentation is an integral part of our development process.",
+    "example2": "This feature is integral to the product design.",
+    "example3": "He is an integral member of the IT team.",
+    "Explanation": "The word 'integral' means something is a necessary, fundamental part of a larger whole. It is an adjective. In IT, you often say that security is 'integral' to the architecture, meaning you cannot have the architecture without it. It emphasizes that a component is not an optional add-on but a basic pillar. It is a strong, professional word used to express importance and necessity.",
+    "synonyms": [
+      "essential",
+      "fundamental",
+      "vital"
+    ],
+    "antonyms": [
+      "optional",
+      "non-essential",
+      "peripheral"
+    ],
+    "nounForm": "integrity",
+    "verbForm": "N/A",
+    "adjectiveForm": "integral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, team dynamics, design",
+    "usageTip": "Use when something is absolutely necessary for the whole.",
+    "commonMistake": "Confusing 'integral' with 'integrated'.",
+    "collocations": [
+      "integral part",
+      "integral to",
+      "highly integral"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Refusing",
+    "meaning": "Saying no to something; declining to accept or do something",
+    "shortMeaning": "saying no",
+    "example": "She is refusing to answer the question.",
+    "example2": "He kept refusing offers of help.",
+    "example3": "The machine is refusing to start.",
+    "Explanation": "'Refusing' is the present participle or gerund form of 'refuse'. It shows an ongoing action of denial or rejection. It can be used with people, animals, or even objects (figuratively). The tone can range from polite to firm. It's different from 'denying', which often means stating something is not true. 'Refusing' is about unwillingness to accept or comply.",
+    "synonyms": [
+      "declining",
+      "rejecting",
+      "turning down"
+    ],
+    "antonyms": [
+      "accepting",
+      "agreeing",
+      "consenting"
+    ],
+    "nounForm": "refusal",
+    "verbForm": "refuse",
+    "adjectiveForm": "refusing",
+    "partOfSpeech": "verb (present participle/gerund)",
+    "commonContext": "Offers, requests, commands, permissions",
+    "usageTip": "Use 'refusing' to describe the continuous act of saying no.",
+    "commonMistake": "Confusing 'refuse' (to decline) with 'refuse' (trash/garbage), which are homographs.",
+    "collocations": [
+      "refusing politely",
+      "refusing point-blank",
+      "refusing to cooperate"
+    ]
+  },
+  {
+    "word": "Refusing",
+    "meaning": "Declining to accept or perform something",
+    "shortMeaning": "declining",
+    "example": "The server is refusing to connect due to high load.",
+    "example2": "The user is refusing the permission request.",
+    "example3": "The system is refusing the invalid input.",
+    "Explanation": "The word 'refusing' describes the action of declining a request. In networking, if a server sends a 'connection refused' error, it means the server received the message but actively decided not to accept the connection. This is different from a 'connection timed out', where the message never got there. Understanding why a system is 'refusing' something is a key part of troubleshooting and error logging.",
+    "synonyms": [
+      "declining",
+      "rejecting",
+      "denying"
+    ],
+    "antonyms": [
+      "accepting",
+      "granting",
+      "permitting"
+    ],
+    "nounForm": "refusal",
+    "verbForm": "refuse",
+    "adjectiveForm": "refusing",
+    "partOfSpeech": "verb (gerund)",
+    "commonContext": "Error handling, networking",
+    "usageTip": "Use 'refusing' when a system explicitly says no to a request.",
+    "commonMistake": "Confusing 'refusing' (active denial) with 'failing' (inability to act).",
+    "collocations": [
+      "refusing connection",
+      "refusing input"
+    ]
+  }
+]

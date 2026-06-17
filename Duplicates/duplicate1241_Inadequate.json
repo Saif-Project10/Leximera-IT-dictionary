@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inadequate",
+    "meaning": "Not sufficient or good enough for a particular purpose",
+    "shortMeaning": "not enough, insufficient",
+    "example": "The emergency supplies were inadequate for a major disaster.",
+    "example2": "His explanation was wholly inadequate.",
+    "example3": "She felt inadequate for the job.",
+    "Explanation": "'Inadequate' is a negative adjective meaning lacking the quality or quantity required. It can describe resources, efforts, responses, or even a person's feelings of insufficiency. This word is used to highlight shortcomings and failures to meet standards or needs. The noun is 'inadequacy'. It is the opposite of 'adequate' or 'sufficient'. Identifying what is inadequate is the first step toward improvement. The word is common in evaluations, critiques, and personal reflections on capability or preparedness.",
+    "synonyms": [
+      "insufficient",
+      "deficient",
+      "lacking",
+      "unsatisfactory",
+      "poor"
+    ],
+    "antonyms": [
+      "adequate",
+      "sufficient",
+      "satisfactory",
+      "ample"
+    ],
+    "nounForm": "inadequacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "inadequate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resources, preparation, performance, feelings, systems",
+    "usageTip": "Use 'inadequate' to describe something that is not enough in amount, quality, or ability.",
+    "commonMistake": "Confusing 'inadequate' with 'inadvertent' (unintentional). They are different.",
+    "collocations": [
+      "inadequate funding",
+      "feel inadequate",
+      "grossly inadequate"
+    ]
+  },
+  {
+    "word": "Inadequate",
+    "meaning": "Not good enough for a specific purpose",
+    "shortMeaning": "not enough",
+    "example": "The current bandwidth is inadequate for the new video stream.",
+    "example2": "We received an inadequate amount of feedback to improve the UI.",
+    "example3": "The hardware performance was inadequate for high-load tasks.",
+    "Explanation": "The word 'inadequate' means something fails to meet a specific requirement or standard. It is not just about quantity; it is about quality and capacity as well. If a system crashes under load, the resources were inadequate. If documentation doesn't explain how to use a feature, the documentation is inadequate. It is a useful word in technical reports to explain why a project or piece of hardware failed to perform as expected.",
+    "synonyms": [
+      "insufficient",
+      "lacking",
+      "deficient"
+    ],
+    "antonyms": [
+      "adequate",
+      "sufficient",
+      "enough"
+    ],
+    "nounForm": "inadequacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "inadequate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance reviews, requirements, reporting",
+    "usageTip": "Use 'inadequate' to describe something that fails to meet a requirement.",
+    "commonMistake": "Using 'inadequate' when you mean 'broken' (broken means it doesn't work; inadequate means it is not enough).",
+    "collocations": [
+      "inadequate resources",
+      "inadequate performance",
+      "inadequate documentation"
+    ]
+  }
+]

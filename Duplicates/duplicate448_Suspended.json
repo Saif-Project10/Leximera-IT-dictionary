@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Suspended",
+    "meaning": "Temporarily prevented from continuing or being in force; hung from above",
+    "shortMeaning": "temporarily stopped; hung",
+    "example": "Services on this line are suspended due to engineering works.",
+    "example2": "He was suspended from school for three days.",
+    "example3": "A chandelier was suspended from the high ceiling.",
+    "Explanation": "The adjective/verb (past participle) 'suspended' has two primary meanings. First, it means officially halted or debarred temporarily, often as a punishment or precaution (suspended sentence, suspended from work). Second, it means hung or floating in a medium (suspended in air, suspended animation). The verb form is 'suspend'. In the context of activities, it implies a temporary stop with the possibility of resumption.",
+    "synonyms": [
+      "halted",
+      "interrupted",
+      "deferred",
+      "hung",
+      "dangling"
+    ],
+    "antonyms": [
+      "continued",
+      "resumed",
+      "reinstated",
+      "grounded"
+    ],
+    "nounForm": "suspension",
+    "verbForm": "suspend",
+    "adjectiveForm": "suspended",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Transport, discipline, law, physics, animation",
+    "usageTip": "For disciplinary action, use 'suspended from' (suspended from duty). For physical hanging, use 'suspended from' or 'suspended in'.",
+    "commonMistake": "Confusing 'suspended' (temporarily stopped) with 'expelled' (permanently removed).",
+    "collocations": [
+      "suspended animation",
+      "suspended sentence",
+      "suspended from duty",
+      "suspended in mid-air"
+    ]
+  },
+  {
+    "word": "Suspended",
+    "meaning": "Temporarily stopped, delayed, or hanging",
+    "shortMeaning": "stopped or hanging",
+    "example": "The account has been suspended due to policy violations.",
+    "example2": "The project is currently suspended until we get funding.",
+    "example3": "The lights are suspended from the ceiling.",
+    "Explanation": "The word 'suspended' has two main meanings: to temporarily stop an activity (like a service or account) or to hang something in the air. In an IT context, you will most often see it used for accounts, services, or processes that have been 'paused.' It implies that the state is not permanent—the goal is usually to bring it back later. It is a very standard term for service management and system status updates.",
+    "synonyms": [
+      "paused",
+      "halted",
+      "delayed"
+    ],
+    "antonyms": [
+      "active",
+      "resumed",
+      "continued"
+    ],
+    "nounForm": "suspension",
+    "verbForm": "suspend",
+    "adjectiveForm": "suspended",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Service management, accounts, physical construction",
+    "usageTip": "Use 'suspended' when an account or project is temporarily paused.",
+    "commonMistake": "Confusing 'suspended' (temporarily stopped) with 'cancelled' (permanently stopped).",
+    "collocations": [
+      "account suspended",
+      "project suspended",
+      "suspended service"
+    ]
+  },
+  {
+    "word": "Suspended",
+    "meaning": "Temporarily stopped or hanging",
+    "shortMeaning": "stopped or hanging",
+    "example": "The user account was suspended for security reasons.",
+    "example2": "The background process is currently suspended.",
+    "example3": "The ceiling-mounted cable is suspended by clips.",
+    "Explanation": "Suspended has two primary meanings. First, it means temporarily stopped (e.g., a service or account). Second, it means physically hanging in the air (e.g., a cable). In IT, you will mostly see it used for software processes or user permissions that have been put on hold. It is a common state in operating systems and account management. Always clarify whether you mean the physical or technical usage.",
+    "synonyms": [
+      "paused",
+      "stopped",
+      "hanging"
+    ],
+    "antonyms": [
+      "active",
+      "resumed",
+      "functioning"
+    ],
+    "nounForm": "suspension",
+    "verbForm": "suspend",
+    "adjectiveForm": "suspended",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Account management, process control, hardware installation",
+    "usageTip": "Use 'suspended' when something is put on hold temporarily.",
+    "commonMistake": "Confusing 'suspended' with 'terminated' (suspended can be restarted; terminated cannot).",
+    "collocations": [
+      "account suspended",
+      "process suspended",
+      "suspended service"
+    ]
+  }
+]

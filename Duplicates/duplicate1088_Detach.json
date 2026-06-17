@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Detach",
+    "meaning": "To separate or unfasten something from something else",
+    "shortMeaning": "separate, unfasten",
+    "example": "You can detach the keyboard from the tablet.",
+    "example2": "He tried to detach himself from the emotional situation.",
+    "example3": "Detach the form and return it in the envelope provided.",
+    "Explanation": "'Detach' is a verb meaning to disconnect or remove one part from a whole, either physically or emotionally. It implies a clean separation where things were once joined. In a physical sense, it's used for parts that are designed to come apart. In an emotional sense, it means to become less involved or affected. The opposite is 'attach'. The ability to detach is sometimes necessary for objective thinking or for functionality. It's a common word in instructions, psychology, and mechanics.",
+    "synonyms": [
+      "separate",
+      "disconnect",
+      "unfasten",
+      "remove"
+    ],
+    "antonyms": [
+      "attach",
+      "connect",
+      "fasten",
+      "join"
+    ],
+    "nounForm": "detachment",
+    "verbForm": "detach",
+    "adjectiveForm": "detachable",
+    "partOfSpeech": "verb",
+    "commonContext": "Instructions, mechanics, emotions, product features",
+    "usageTip": "Use 'detach' when something is designed to be separated or when someone removes themselves emotionally.",
+    "commonMistake": "Confusing 'detach' with 'attack'. They sound similar but are unrelated.",
+    "collocations": [
+      "detach yourself",
+      "detachable part",
+      "detach from"
+    ]
+  },
+  {
+    "word": "Detach",
+    "meaning": "To separate or disconnect something from something else",
+    "shortMeaning": "disconnect",
+    "example": "Please detach the power cable before opening the computer case.",
+    "example2": "You can detach the sidebar to give more room for the main editor.",
+    "example3": "The soldier had to detach himself from the group to scout ahead.",
+    "Explanation": "Detach means to physically or logically unfasten one thing from another. In hardware, you might detach a mouse or a screen. In software, you might detach a 'process' so it runs independently in the background, or detach a database from a server. It implies that the two items were originally connected or working together. It is a common command in many computer programs to move a window or a tab into its own separate space.",
+    "synonyms": [
+      "disconnect",
+      "separate",
+      "unfasten",
+      "remove"
+    ],
+    "antonyms": [
+      "attach",
+      "connect",
+      "fasten",
+      "join"
+    ],
+    "nounForm": "detachment",
+    "verbForm": "detach",
+    "adjectiveForm": "detached",
+    "partOfSpeech": "verb",
+    "commonContext": "Hardware, UI design, Linux processes",
+    "usageTip": "Use 'detach' when you want to describe an intentional separation.",
+    "commonMistake": "Confusing 'detach' with 'delete'; detaching doesn't destroy the item.",
+    "collocations": [
+      "detach a file",
+      "detach a process",
+      "detach the screen"
+    ]
+  }
+]

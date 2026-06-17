@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Trust-based",
+    "meaning": "Founded on or relying on trust between parties",
+    "shortMeaning": "relying on trust",
+    "example": "Their partnership is trust-based rather than contract-heavy.",
+    "example2": "We operate in a trust-based system where users report their own results.",
+    "example3": "A trust-based relationship between doctor and patient is essential.",
+    "Explanation": "The adjective 'trust-based' describes systems, relationships, or agreements where mutual trust is the primary mechanism ensuring cooperation and compliance, rather than formal rules, strict contracts, or intensive monitoring. It is a positive term suggesting efficiency, goodwill, and mutual respect. For example, some workplaces use trust-based vacation policies. In technology, 'trust-based security' might rely on user identity. However, it carries an inherent risk: if trust is broken, the system can fail. The term is increasingly popular in discussions about organizational culture, decentralized systems, and human-centered design.",
+    "synonyms": [
+      "reliant on trust",
+      "goodwill-based",
+      "honor system"
+    ],
+    "antonyms": [
+      "contract-based",
+      "distrustful",
+      "monitored",
+      "adversarial"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "trust-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Relationships, organizational culture, security models, decentralized systems",
+    "usageTip": "Use to highlight the role of trust as a foundational element, not just a component.",
+    "commonMistake": "Assuming 'trust-based' means no rules exist; there are usually underlying norms or consequences.",
+    "collocations": [
+      "trust-based relationship",
+      "trust-based system",
+      "trust-based model",
+      "trust-based approach"
+    ]
+  },
+  {
+    "word": "Trust-based",
+    "meaning": "Systems or models that rely on the established reputation or verification of an entity.",
+    "shortMeaning": "reputation-based",
+    "example": "This is a trust-based security model.",
+    "example2": "We use a trust-based system for internal access.",
+    "example3": "Transitioning from a trust-based to a zero-trust architecture is hard.",
+    "Explanation": "The term 'trust-based' describes a security or operational model where users or systems are given access because they are known or 'trusted' by the administrator. This is the traditional way many internal networks were managed. However, it is increasingly being replaced by 'zero-trust' models. There is no noun or verb form; it is used as a compound adjective. Always consider the security implications when choosing a trust-based approach.",
+    "synonyms": [
+      "reputation-based",
+      "permissioned"
+    ],
+    "antonyms": [
+      "zero-trust",
+      "untrusted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "trust-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, network administration, and protocols",
+    "usageTip": "Use 'trust-based' when describing legacy or internal security models.",
+    "commonMistake": "Using it for systems that verify every single transaction.",
+    "collocations": [
+      "trust-based model",
+      "trust-based security",
+      "trust-based system"
+    ]
+  },
+  {
+    "word": "Trust-based",
+    "meaning": "Relying on established confidence between parties",
+    "shortMeaning": "relying on trust",
+    "example": "The network connection is trust-based.",
+    "example2": "We use a trust-based security model for internal tools.",
+    "example3": "A trust-based system is faster but less secure.",
+    "Explanation": "Trust-based systems rely on the assumption that participants will follow rules without constant verification. In IT, this is common in internal networks where employees are trusted. However, it is becoming less popular compared to 'zero-trust' models. It is simpler to implement but carries higher risk if a user is compromised. Understanding the trust level of your architecture is vital for security planning.",
+    "synonyms": [
+      "relying on trust",
+      "trusted"
+    ],
+    "antonyms": [
+      "zero-trust",
+      "verified",
+      "untrusted"
+    ],
+    "nounForm": "trust",
+    "verbForm": "trust",
+    "adjectiveForm": "trust-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, networking, business",
+    "usageTip": "Use this when discussing security models that rely on user honesty.",
+    "commonMistake": "Ignoring the risks of a trust-based system in a public network.",
+    "collocations": [
+      "trust-based security",
+      "trust-based model",
+      "trust-based connection"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Severe",
+    "meaning": "Very intense, serious, or harsh",
+    "shortMeaning": "very serious",
+    "example": "We encountered a severe bug in the production environment.",
+    "example2": "The weather caused severe damage to the server room.",
+    "example3": "This is a severe security vulnerability.",
+    "Explanation": "The word 'severe' is used to describe something that is extremely serious or intense. It is often used in IT to rank the importance of a problem or 'bug'. A 'severe' bug is one that prevents the system from working and needs immediate attention. It is a strong word that demands urgency and focus. Avoid overusing it for small problems, as it should be reserved for situations that truly have a big, negative impact. It conveys a need for fast, decisive action.",
+    "synonyms": [
+      "critical",
+      "serious",
+      "intense"
+    ],
+    "antonyms": [
+      "minor",
+      "light",
+      "negligible"
+    ],
+    "nounForm": "severity",
+    "verbForm": "N/A",
+    "adjectiveForm": "severe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug reports, emergencies, damage",
+    "usageTip": "Use only for very serious problems.",
+    "commonMistake": "Using 'severe' for a minor mistake that isn't really urgent.",
+    "collocations": [
+      "severe bug",
+      "severe vulnerability",
+      "severe damage"
+    ]
+  },
+  {
+    "word": "Severe",
+    "meaning": "Extremely intense, serious, or critical, often used to describe errors or impacts.",
+    "shortMeaning": "critical/intense",
+    "example": "The system encountered a severe error and shut down.",
+    "example2": "This bug has a severe impact on user privacy.",
+    "example3": "We are facing severe latency issues this morning.",
+    "Explanation": "The word 'severe' describes a high level of intensity or gravity. In IT, 'severe' is a formal ranking for bugs, incidents, or security risks—usually higher than 'minor' or 'moderate'. It is an adjective. A 'severe' incident requires immediate attention and takes priority over almost all other tasks. The noun form is 'severity'. Always classify errors correctly to ensure that the most important issues are addressed first by your team.",
+    "synonyms": [
+      "critical",
+      "serious",
+      "intense"
+    ],
+    "antonyms": [
+      "minor",
+      "low",
+      "trivial"
+    ],
+    "nounForm": "severity",
+    "verbForm": "N/A",
+    "adjectiveForm": "severe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Incident management, bug tracking, security",
+    "usageTip": "Use 'severe' to describe critical issues that need urgent fixes.",
+    "commonMistake": "Overusing 'severe' for minor problems, which desensitizes the team.",
+    "collocations": [
+      "severe error",
+      "severe bug",
+      "severe impact"
+    ]
+  }
+]

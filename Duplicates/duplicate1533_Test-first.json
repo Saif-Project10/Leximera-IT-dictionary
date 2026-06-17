@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Test-first",
+    "meaning": "A software development approach where tests are written before the actual code is written",
+    "shortMeaning": "write tests before code",
+    "example": "Test-first development, like TDD, improves code quality.",
+    "example2": "The team adopted a test-first mindset for the new module.",
+    "example3": "In a test-first approach, you define success before you start coding.",
+    "Explanation": "'Test-first' is a specific methodology in software engineering, most famously embodied by Test-Driven Development (TDD). The core practice is to write an automated test for a new function or feature *before* writing the code that makes the test pass. This reverses the traditional 'code-then-test' order. The philosophy is that writing tests first clarifies requirements, designs cleaner interfaces, and ensures the code is testable from the start. It leads to fewer bugs and more maintainable code. The term is technical and primarily used by developers, agile coaches, and in software process discussions.",
+    "synonyms": [
+      "test-driven development (TDD)",
+      "test-led"
+    ],
+    "antonyms": [
+      "test-last",
+      "code-first"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, agile methodologies, programming",
+    "usageTip": "It's often part of the phrase 'test-first development' or 'test-first approach'.",
+    "commonMistake": "Confusing it with simply testing a lot; it's about the *order* of writing tests and code.",
+    "collocations": [
+      "test-first approach",
+      "test-first development",
+      "test-first methodology",
+      "test-first programming"
+    ]
+  },
+  {
+    "word": "Test-first",
+    "meaning": "Writing the test before the implementation code.",
+    "shortMeaning": "test before code",
+    "example": "Adopting a test-first strategy helps catch bugs early.",
+    "example2": "The team adopted a test-first policy for the new API.",
+    "example3": "Test-first ensures we meet all functional requirements.",
+    "Explanation": "Similar to test-driven, 'test-first' focuses on the sequence of operations. By defining how the code should behave *before* building it, you create a clear roadmap. This process forces you to think about interfaces, edge cases, and requirements before getting lost in implementation details. It is a highly effective way to improve code quality and developer discipline, even if you are not doing full TDD.",
+    "synonyms": [
+      "TDD"
+    ],
+    "antonyms": [
+      "test-last",
+      "test-after"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Development workflows",
+    "usageTip": "Use 'test-first' to describe planning via tests before coding.",
+    "commonMistake": "Treating 'test-first' as only for unit tests; it applies to all levels.",
+    "collocations": [
+      "test-first strategy",
+      "test-first approach"
+    ]
+  },
+  {
+    "word": "Test-first",
+    "meaning": "An approach where the testing plan or script is defined initially",
+    "shortMeaning": "start with tests",
+    "example": "Using a test-first method helps clarify requirements.",
+    "example2": "The project follows a strict test-first policy.",
+    "example3": "Test-first cycles are standard in our sprints.",
+    "Explanation": "Test-first is a philosophy where testing is prioritized at the beginning of the development cycle. It ensures that developers understand the goal before they start writing logic. It reduces ambiguity and ensures the final product is verifiable. It is very similar to TDD but can also refer to the broader planning of testing resources. It is highly recommended for complex features to ensure stability.",
+    "synonyms": [
+      "TDD",
+      "proactive testing"
+    ],
+    "antonyms": [
+      "test-last",
+      "development-led"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Development methodology, project management",
+    "usageTip": "Use this to describe the timing of your testing strategy.",
+    "commonMistake": "Thinking test-first is only about unit tests; it applies to integration and design too.",
+    "collocations": [
+      "test-first strategy",
+      "test-first approach",
+      "test-first cycle"
+    ]
+  }
+]

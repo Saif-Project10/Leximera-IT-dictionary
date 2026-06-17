@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Zeroized",
+    "meaning": "Erased by being replaced with zeros",
+    "shortMeaning": "erased by 0s",
+    "example": "The security device was zeroized after the intrusion.",
+    "everyone": "All data on the disk was zeroized for safety.",
+    "example3": "The crypto keys are zeroized upon tampering.",
+    "Explanation": "Zeroized describes a process, often in secure hardware, where sensitive data like encryption keys are overwritten with zeros to permanently erase them. This is a common feature in hardware security modules (HSMs) to prevent attackers from extracting secrets after a device is stolen or tampered with. It ensures total data destruction beyond recovery. It is a critical security function for high-sensitivity devices.",
+    "synonyms": [
+      "wiped",
+      "erased",
+      "cleared"
+    ],
+    "antonyms": [
+      "stored",
+      "preserved"
+    ],
+    "nounForm": "zeroization",
+    "verbForm": "zeroize",
+    "adjectiveForm": "zeroized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, data protection",
+    "usageTip": "Use this to describe complete hardware-level data erasure.",
+    "commonMistake": "Thinking simple deletion is the same as zeroizing.",
+    "collocations": [
+      "zeroized data",
+      "keys were zeroized",
+      "device zeroized"
+    ]
+  },
+  {
+    "word": "Zeroized",
+    "meaning": "A state where data in storage has been intentionally wiped or set to zero for security.",
+    "shortMeaning": "security wiped",
+    "example": "The sensitive data was zeroized after the session ended.",
+    "example2": "The drive was zeroized to ensure no recovery is possible.",
+    "example3": "Once the security key is zeroized, it cannot be recovered.",
+    "Explanation": "The term 'zeroized' refers to the process of overwriting information in memory or storage with zeros to prevent unauthorized access or data recovery. It is a strict security measure taken when disposing of hardware or protecting highly sensitive cryptographic keys. Once a device or key is zeroized, the original data is effectively destroyed and gone forever. This is different from just 'deleting' a file, which usually only removes the reference to the file. Zeroizing ensures the actual physical bits are gone.",
+    "synonyms": [
+      "wiped",
+      "securely erased"
+    ],
+    "antonyms": [
+      "retained",
+      "restored"
+    ],
+    "nounForm": "zeroization",
+    "verbForm": "zeroize",
+    "adjectiveForm": "zeroized",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data security, hardware disposal",
+    "usageTip": "Use 'zeroized' when you need to emphasize permanent and secure data destruction.",
+    "commonMistake": "Thinking zeroizing is reversible; once it is done, the data is permanently lost.",
+    "collocations": [
+      "zeroized memory",
+      "zeroized key",
+      "zeroized storage"
+    ]
+  }
+]

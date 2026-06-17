@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unified",
+    "meaning": "Made into or become a single unit; united.",
+    "shortMeaning": "made into one",
+    "example": "The party presented a unified front during the crisis.",
+    "example2": "The theory provides a unified explanation for all the data.",
+    "example3": "Germany was unified in 1990.",
+    "Explanation": "Unified describes things that have been combined or brought together to form a coherent whole. It implies harmony, coordination, and the absence of internal conflict. It can refer to groups of people (unified team), theories (unified field theory), or systems (unified command). The process is 'unification'. It's a positive word suggesting strength through unity. The opposite is 'divided', 'fragmented', or 'disunited'. It's a common goal in politics, science, and management, where bringing disparate parts together creates greater effectiveness and clarity.",
+    "synonyms": [
+      "united",
+      "combined",
+      "integrated",
+      "merged",
+      "consolidated"
+    ],
+    "antonyms": [
+      "divided",
+      "separated",
+      "disunited",
+      "fragmented"
+    ],
+    "nounForm": "unification",
+    "verbForm": "unify",
+    "adjectiveForm": "unified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Politics, teams, theories, systems, countries",
+    "usageTip": "Often used before nouns like 'theory', 'front', 'system', or 'approach'.",
+    "commonMistake": "Confusing 'unified' with 'uniform'. Unified means brought together as one; uniform means all the same.",
+    "collocations": [
+      "unified theory",
+      "unified command",
+      "unified front",
+      "unified system"
+    ]
+  },
+  {
+    "word": "Unified",
+    "meaning": "Combined into a single, cohesive system or platform",
+    "shortMeaning": "merged",
+    "example": "We moved to a unified communication platform for all teams.",
+    "example2": "A unified interface makes it easier to manage multiple services.",
+    "example3": "The company seeks a unified data strategy.",
+    "Explanation": "A 'unified' approach refers to bringing multiple disparate systems together to function as one. In IT, this usually simplifies management, reduces costs, and improves efficiency. For example, a 'unified dashboard' might show server metrics, network logs, and security alerts in one window. It is the opposite of 'siloed' (isolated) systems. Organizations often spend significant time and money trying to unify their infrastructure for better visibility and control. It is a highly positive, desirable state in software architecture.",
+    "synonyms": [
+      "integrated",
+      "centralized",
+      "consolidated"
+    ],
+    "antonyms": [
+      "fragmented",
+      "siloed",
+      "separated"
+    ],
+    "nounForm": "unity",
+    "verbForm": "unify",
+    "adjectiveForm": "unified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Enterprise architecture, software integration, management",
+    "usageTip": "Use this when proposing a project to merge different tools.",
+    "commonMistake": "Using 'unified' for things that are just 'connected' but not fully integrated.",
+    "collocations": [
+      "unified platform",
+      "unified approach",
+      "unified communication"
+    ]
+  },
+  {
+    "word": "Unified",
+    "meaning": "Brought together or organized into a single, cohesive unit.",
+    "shortMeaning": "combined",
+    "example": "We need a unified interface for all our internal tools.",
+    "example2": "The company moved to a unified communication system.",
+    "example3": "A unified platform simplifies the management of various services.",
+    "Explanation": "The concept of 'unified' involves merging separate parts into a single, efficient system. In technology, this is common in 'Unified Communications' or 'Unified Modeling Language' (UML). By creating a unified structure, developers reduce complexity and improve the user experience. It avoids the need to jump between multiple disjointed applications. It promotes consistency, better data flow, and easier maintenance across the entire IT infrastructure.",
+    "synonyms": [
+      "integrated",
+      "combined",
+      "cohesive"
+    ],
+    "antonyms": [
+      "divided",
+      "separate",
+      "fragmented"
+    ],
+    "nounForm": "unification",
+    "verbForm": "unify",
+    "adjectiveForm": "unified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems architecture and software design",
+    "usageTip": "Use this to describe integration of separate systems.",
+    "commonMistake": "Using 'unified' when you just mean 'connected'.",
+    "collocations": [
+      "unified platform",
+      "unified interface",
+      "unified communication"
+    ]
+  }
+]

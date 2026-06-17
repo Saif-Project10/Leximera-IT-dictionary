@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Least squares",
+    "meaning": "A mathematical method for finding the best-fitting curve by minimizing the sum of the squares of the differences between data points and the curve.",
+    "shortMeaning": "squared error minimization",
+    "example": "The least squares method is the standard way to perform linear regression.",
+    "example2": "By using least squares, we found a line that represents the trend of sales data.",
+    "example3": "The least squares approach assumes that the errors are normally distributed.",
+    "Explanation": "Least squares is the most famous optimization technique in statistics. When you have a bunch of dots on a graph, the 'least squares' line is the one where the total squared distance from the dots to the line is as small as possible. We square the distances so that negative errors don't cancel out positive ones. It is used in physics, engineering, and economics to predict future trends. It is very sensitive to outliers because squaring a large error makes it huge. It is the basis for most 'linear' models in data science.",
+    "synonyms": [
+      "Ordinary Least Squares",
+      "OLS",
+      "L2 norm"
+    ],
+    "antonyms": [
+      "least absolute deviation"
+    ],
+    "nounForm": "least squares",
+    "verbForm": "N/A",
+    "adjectiveForm": "least squares",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Linear regression and data fitting",
+    "usageTip": "Use least squares when your data is clean and follows a normal distribution.",
+    "commonMistake": "Using least squares on data with extreme outliers without cleaning them first.",
+    "collocations": [
+      "least squares method",
+      "ordinary least squares",
+      "least squares regression"
+    ]
+  },
+  {
+    "word": "Least squares",
+    "meaning": "A method to minimize the sum of squared residuals",
+    "shortMeaning": "statistical minimization",
+    "example": "We used ordinary least squares for linear regression.",
+    "example2": "Least squares helps us find the best fit for the data.",
+    "example3": "The error was calculated using a least squares approach.",
+    "Explanation": "Least squares is a standard mathematical method used to find the best fit for a set of data points by minimizing the sum of the squares of the errors (residuals). It is the foundation for linear regression and many other predictive models in machine learning and data science. While very powerful, it can be sensitive to outliers, so other methods (like 'least absolute') are sometimes used in specific cases.",
+    "synonyms": [
+      "OLS",
+      "least squares regression"
+    ],
+    "antonyms": [
+      "least absolute"
+    ],
+    "nounForm": "least squares",
+    "verbForm": "N/A",
+    "adjectiveForm": "least squares",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Statistics, machine learning, data science",
+    "usageTip": "Use this when explaining how your model fits to data.",
+    "commonMistake": "Thinking it is the only way to fit data.",
+    "collocations": [
+      "ordinary least squares",
+      "least squares regression"
+    ]
+  }
+]

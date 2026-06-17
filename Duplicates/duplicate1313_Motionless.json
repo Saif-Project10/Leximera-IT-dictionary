@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Motionless",
+    "meaning": "Not moving; completely still.",
+    "shortMeaning": "still, unmoving",
+    "example": "The cat sat motionless, waiting for the mouse.",
+    "example2": "The lake was calm and motionless in the morning.",
+    "example3": "He stood motionless with shock.",
+    "Explanation": "'Motionless' is an adjective that describes a complete absence of movement. It is stronger than 'still'. It often creates a vivid image in writing or speech, suggesting calm, tension, or suspense. The word is formed by adding the suffix '-less' (meaning 'without') to 'motion'. It is commonly used in descriptive writing about nature, people, or animals. It can convey peacefulness or, conversely, a tense, frozen state. The opposite is 'moving' or 'in motion'.",
+    "synonyms": [
+      "still",
+      "immobile",
+      "stationary",
+      "frozen"
+    ],
+    "antonyms": [
+      "moving",
+      "mobile",
+      "active"
+    ],
+    "nounForm": "motion",
+    "verbForm": "N/A",
+    "adjectiveForm": "motionless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Descriptions of scenes, suspense, meditation, nature",
+    "usageTip": "Use it for dramatic effect to emphasize a complete lack of movement.",
+    "commonMistake": "Using it to describe slow movement; it means no movement at all.",
+    "collocations": [
+      "lie motionless",
+      "stand motionless",
+      "remain motionless",
+      "perfectly motionless"
+    ]
+  },
+  {
+    "word": "Motionless",
+    "meaning": "Not moving; completely still",
+    "shortMeaning": "still",
+    "example": "The cursor remained motionless on the screen.",
+    "example2": "The hardware sensor detected a motionless state.",
+    "example3": "Keep the camera motionless for the sharpest photo.",
+    "Explanation": "Motionless describes something that is not changing its position or state. In the context of hardware sensors or robotics, detecting a 'motionless' state is key for energy saving or trigger events. In photography or UI design, keeping something motionless ensures stability and clarity. It is a straightforward term used whenever you need to indicate that there is an absence of physical or digital movement.",
+    "synonyms": [
+      "still",
+      "stationary",
+      "static"
+    ],
+    "antonyms": [
+      "moving",
+      "active",
+      "dynamic"
+    ],
+    "nounForm": "stillness",
+    "verbForm": "N/A",
+    "adjectiveForm": "motionless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sensors, photography, robotics",
+    "usageTip": "Use 'motionless' for sensors or steady states.",
+    "commonMistake": "Confusing 'motionless' with 'broken' (it just means not moving).",
+    "collocations": [
+      "motionless state",
+      "kept motionless"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Complete",
+    "meaning": "Having all necessary or normal parts, components, or steps; entire, finished.",
+    "shortMeaning": "whole; finished",
+    "example": "Please fill out the complete form.",
+    "example2": "The project is now complete.",
+    "example3": "He has a complete set of the author's works.",
+    "Explanation": "Complete is a versatile adjective and verb. As an adjective, it means total, whole, or lacking nothing. It can describe a physical set, a process that is finished, or a quality that is thorough ('complete silence'). As a verb, it means to finish making or doing something. A common mistake is confusing it with 'finish'; 'complete' often implies fulfilling all requirements to make something whole. The noun is 'completion.' This word is essential for indicating totality, perfection, and finality. In instructions, 'complete' is a key directive. It's a fundamental concept for understanding wholeness versus partialness.",
+    "synonyms": [
+      "entire",
+      "total",
+      "whole",
+      "finished",
+      "thorough"
+    ],
+    "antonyms": [
+      "incomplete",
+      "partial",
+      "unfinished",
+      "lacking"
+    ],
+    "nounForm": "completion",
+    "verbForm": "complete",
+    "adjectiveForm": "complete",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Forms, tasks, collections, descriptions, and processes.",
+    "usageTip": "Use 'complete' as an adjective before a noun to emphasize totality (the complete story). As a verb, it means to finish (complete the task).",
+    "commonMistake": "Saying 'more complete' – 'complete' is an absolute adjective; something is either complete or not. However, 'more complete' is used informally to mean 'more thorough.'",
+    "collocations": [
+      "complete stranger",
+      "complete with",
+      "complete failure"
+    ]
+  },
+  {
+    "word": "Complete",
+    "meaning": "Having all necessary parts; finished or total",
+    "shortMeaning": "finished or whole",
+    "example": "The installation is now complete, and the server is ready for production.",
+    "example2": "You must provide a complete documentation set for every software module.",
+    "example3": "The database contains a complete list of all registered users since 2010.",
+    "Explanation": "The word 'Complete' is a versatile adjective and verb. It means something has no missing parts or has reached the end of its lifecycle. In IT, it is used to describe successful builds, finalized data records, or full software packages. Because it is so broad, it is better to be specific (e.g., 'the migration is finished' vs. 'the migration is complete'). Make sure you distinguish between 'complete' (whole) and 'completed' (finished the action of).",
+    "synonyms": [
+      "finished",
+      "total",
+      "entire"
+    ],
+    "antonyms": [
+      "incomplete",
+      "partial",
+      "unfinished"
+    ],
+    "nounForm": "completion",
+    "verbForm": "complete",
+    "adjectiveForm": "complete",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project status, documentation, data sets",
+    "usageTip": "Use 'complete' to describe a package that has everything it needs to function.",
+    "commonMistake": "Overusing 'complete' when more specific words like 'finalized' or 'ready' would be clearer.",
+    "collocations": [
+      "complete set",
+      "project complete",
+      "complete list"
+    ]
+  },
+  {
+    "word": "Complete",
+    "meaning": "To finish making or doing something, or having all its parts",
+    "shortMeaning": "finish / whole",
+    "example": "You must complete the registration form to create an account.",
+    "example2": "The project is now complete and ready for the client.",
+    "example3": "The computer requires a complete set of drivers to work.",
+    "Explanation": "Complete means there is nothing left to do or nothing missing. In software, 'feature complete' means all the planned functions have been added, though there might still be bugs to fix. As a verb, it means the action of finishing. As an adjective, it describes the state of being finished. It is a very common word in task management, forms, and project status reports.",
+    "synonyms": [
+      "finish",
+      "finalize",
+      "entire"
+    ],
+    "antonyms": [
+      "incomplete",
+      "partial",
+      "start"
+    ],
+    "nounForm": "completion",
+    "verbForm": "complete",
+    "adjectiveForm": "complete",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Tasks, projects, and data entry",
+    "usageTip": "Use 'complete' when every part of a task is finished.",
+    "commonMistake": "Using 'complete' when 'finished' might sound more natural in casual talk.",
+    "collocations": [
+      "complete the task",
+      "complete set",
+      "successfully complete"
+    ]
+  }
+]

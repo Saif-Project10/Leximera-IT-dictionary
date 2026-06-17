@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Held",
+    "meaning": "Past tense of 'hold'; to have kept, contained, or organized an event. | Past tense and past participle of hold; kept or retained.",
+    "shortMeaning": "kept, contained, conducted",
+    "example": "The box held all her childhood treasures.",
+    "example2": "The meeting was held in the main conference room.",
+    "example3": "He held the position of manager for five years.",
+    "Explanation": "'Held' is the simple past tense and past participle of the verb 'hold'. It is an extremely common and versatile word. It can mean physically grasped, contained, possessed, maintained (a position or opinion), or organized (an event). Its meaning is entirely dependent on context. A common mistake is using 'holded', which is incorrect. 'Held' is irregular. It's a workhorse verb in English, used in countless idioms and constructions ('held accountable', 'held dear', 'held back'). It conveys a sense of possession, control, or continuity over time.",
+    "synonyms": [
+      "Conducted",
+      "Contained",
+      "Grasped",
+      "Gripped",
+      "Kept"
+    ],
+    "antonyms": [
+      "Canceled",
+      "Cancelled",
+      "Dropped",
+      "Released"
+    ],
+    "nounForm": "hold",
+    "verbForm": "hold",
+    "adjectiveForm": "held",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Physical action, events, positions, containers",
+    "usageTip": "For events, use the passive voice: 'The concert was held outdoors.'",
+    "commonMistake": "Creating the past tense as 'holded'. The correct forms are hold/held/held.",
+    "collocations": [
+      "held responsible",
+      "held annually",
+      "firmly held"
+    ]
+  },
+  {
+    "word": "Held",
+    "meaning": "Kept or maintained in a position or state",
+    "shortMeaning": "kept or maintained",
+    "example": "The database held the connection open for too long.",
+    "example2": "He held the position of senior developer for three years.",
+    "example3": "The data is held in a secure, encrypted folder.",
+    "Explanation": "The word 'held' is the past tense of 'hold'. In IT, it describes state management, data storage, or time. For example, a variable 'holds' a value, or a network socket is 'held open'. It is a simple but essential word for describing the status and location of data and processes. Ensure you use it to indicate that something is actively maintained or kept in a specific state by a system.",
+    "synonyms": [
+      "kept",
+      "maintained",
+      "contained"
+    ],
+    "antonyms": [
+      "released",
+      "dropped",
+      "lost"
+    ],
+    "nounForm": "hold",
+    "verbForm": "hold",
+    "adjectiveForm": "held",
+    "partOfSpeech": "verb",
+    "commonContext": "Data management, state, memory",
+    "usageTip": "Use 'held' to talk about what is stored or maintained.",
+    "commonMistake": "Confusing 'held' (kept) with 'halted' (stopped).",
+    "collocations": [
+      "held in memory",
+      "held open",
+      "held a position"
+    ]
+  }
+]

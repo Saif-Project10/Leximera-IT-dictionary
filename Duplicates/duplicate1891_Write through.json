@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Write through",
+    "meaning": "A storage method where data is written to both the cache and the main memory simultaneously",
+    "shortMeaning": "simultaneous cache/RAM writing",
+    "example": "The database was configured for write through to ensure data consistency.",
+    "example2": "Write through operations are safer but can be slower than other methods.",
+    "example3": "With write through, the cache is always in sync with the main storage.",
+    "Explanation": "Write through is a specific policy used in cache management (like CPU cache or disk cache). When a 'write' occurs, the data is updated in the fast cache and the slower main memory at the exact same time. This ensures that the main memory always has the most recent version of the data. The primary advantage is data reliability; if the power fails, the data is already safe in the main storage. However, because the system has to wait for the slower storage to finish, it can reduce overall performance. It is commonly used in systems where data integrity is more important than pure speed.",
+    "synonyms": [
+      "simultaneous writing",
+      "synchronous caching"
+    ],
+    "antonyms": [
+      "write back"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "write through",
+    "adjectiveForm": "write-through",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Computer architecture and database design",
+    "usageTip": "Use 'write through' in high-reliability systems like financial databases.",
+    "commonMistake": "Thinking 'write through' is faster than 'write back'; it is actually slower because of the double-write.",
+    "collocations": [
+      "write through policy",
+      "write through mode",
+      "write through operation"
+    ]
+  },
+  {
+    "word": "Write through",
+    "meaning": "A strategy where data is saved to cache and storage simultaneously",
+    "shortMeaning": "save to both",
+    "example": "Write through mode ensures data is always current.",
+    "example2": "We chose write through for better data reliability.",
+    "example3": "Write through is slower than write back.",
+    "Explanation": "A 'write through' cache strategy means that every time data is written to the cache, it is also immediately written to the main storage. This ensures that the main storage is always up to date and consistent, which is great for reliability. While it is safer than 'write back', it is also slower because every write operation must complete the save to the main storage. It is the preferred choice when data integrity is more important than raw speed.",
+    "synonyms": [
+      "simultaneous write"
+    ],
+    "antonyms": [
+      "write back",
+      "delayed write"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Memory, databases, storage",
+    "usageTip": "Use 'write through' when you need to emphasize data safety over absolute performance speed.",
+    "commonMistake": "Assuming write-through caching offers the fastest possible performance.",
+    "collocations": [
+      "write through cache",
+      "use write through",
+      "write through policy"
+    ]
+  },
+  {
+    "word": "Write through",
+    "meaning": "A caching technique where data is written to both the cache memory and the main storage device at the exact same time",
+    "shortMeaning": "simultaneous cache and disk saving",
+    "example": "A write through cache ensures that main memory always holds the newest data.",
+    "example2": "While safer, write through operations can slow down systems due to disk latency.",
+    "example3": "The developer selected a write through policy to ensure absolute data consistency.",
+    "Explanation": "In memory systems and computer architecture, 'write through' is a cache management strategy where any data update is written simultaneously to the fast cache storage and the slower underlying primary storage (such as main memory or disk storage). This approach prioritizes data safety and reliability over pure speed because it guarantees that the primary storage is always up-to-date. In the event of a crash, there is no risk of losing data that was stuck in temporary cache, making it the opposite of a 'write back' policy.",
+    "synonyms": [
+      "simultaneous writing",
+      "immediate cache sync",
+      "N/A"
+    ],
+    "antonyms": [
+      "write-back",
+      "deferred writing",
+      "N/A"
+    ],
+    "nounForm": "write-through cache",
+    "verbForm": "write through",
+    "adjectiveForm": "write-through",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Processor architecture, database design, storage area networks",
+    "usageTip": "Use this term when discussing systems where data security and immediate durability are more critical than speed.",
+    "commonMistake": "Thinking 'write through' means writing data directly to disk while bypassing the cache completely.",
+    "collocations": [
+      "write-through policy",
+      "write-through caching",
+      "write through data"
+    ]
+  }
+]

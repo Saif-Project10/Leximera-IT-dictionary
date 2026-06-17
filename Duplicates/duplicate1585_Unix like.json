@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Unix like",
+    "meaning": "An operating system that behaves similarly to the original Unix system",
+    "shortMeaning": "Unix-style",
+    "example": "Linux is the most famous Unix like operating system.",
+    "example2": "MacOS has a Unix like core called Darwin.",
+    "example3": "Many servers run on Unix like environments for stability.",
+    "Explanation": "The term 'Unix like' describes operating systems that follow the design principles and command-line structures of the original Unix developed at Bell Labs. These systems typically feature a hierarchical file system, a command-line shell, and the 'everything is a file' philosophy. While they may not be officially certified as 'Unix', they provide a similar environment for users and developers. This includes Linux, BSD, and even the foundation of macOS. Software written for one Unix like system can often be moved to another with very little change, making them highly portable and popular in the tech industry.",
+    "synonyms": [
+      "Unix-style",
+      "UNIX-compatible"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Unix-likeness",
+    "verbForm": "N/A",
+    "adjectiveForm": "Unix-like",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operating system discussions and server management",
+    "usageTip": "Use 'Unix-like' to refer to Linux or macOS when you are talking about their technical behavior.",
+    "commonMistake": "Thinking Linux *is* Unix; Linux is 'Unix-like' because it was built from scratch to act like Unix.",
+    "collocations": [
+      "Unix-like environment",
+      "Unix-like OS",
+      "Unix-like commands"
+    ]
+  },
+  {
+    "word": "Unix like",
+    "meaning": "An operating system that behaves like the Unix OS.",
+    "shortMeaning": "Unix-style OS",
+    "example": "Linux is a famous Unix like operating system.",
+    "example2": "The server environment is Unix like and supports bash scripts.",
+    "example3": "Unix like systems are popular among developers.",
+    "Explanation": "The term 'Unix like' (or Unix-like) refers to an OS that follows the standards and behavior of the original Unix system. These systems are highly stable, powerful, and excellent for development and server tasks. Because they share common command-line structures, developers find it easy to switch between them. Many modern systems, such as Linux and macOS, are Unix like, making them the standard choice for professional backend software environments.",
+    "synonyms": [
+      "Unix-based",
+      "POSIX-compliant"
+    ],
+    "antonyms": [
+      "Windows-based",
+      "non-Unix"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "Unix like",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operating systems and servers",
+    "usageTip": "Use to describe OS environments that feel familiar to Unix users.",
+    "commonMistake": "Calling Windows a Unix like system.",
+    "collocations": [
+      "Unix like system",
+      "Unix like OS",
+      "Unix like environment"
+    ]
+  }
+]

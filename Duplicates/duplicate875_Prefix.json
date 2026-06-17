@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Prefix",
+    "meaning": "A word, letter, or number placed before another to modify its meaning (e.g., 'un-' in 'unhappy').",
+    "shortMeaning": "word part added to the beginning",
+    "example": "The prefix 're-' means 'again', as in 'rewrite'.",
+    "example2": "In some countries, you must dial an international prefix before the number.",
+    "example3": "The title 'Dr.' is a prefix before a name.",
+    "Explanation": "In linguistics, a 'prefix' is an affix added to the beginning of a word to change its meaning (like 'pre-' meaning 'before'). In computing, it can refer to the start of a string or a namespace. In telecommunications, it's a set of digits dialed before a number. As a verb, 'to prefix' means to add something at the beginning. Understanding prefixes is a key strategy for decoding the meaning of unfamiliar words.",
+    "synonyms": [
+      "affix (specific type)",
+      "beginning",
+      "forepart"
+    ],
+    "antonyms": [
+      "suffix",
+      "ending"
+    ],
+    "nounForm": "prefix",
+    "verbForm": "prefix",
+    "adjectiveForm": "prefixed",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Grammar, computing, telecommunications",
+    "usageTip": "In language learning, knowing common prefixes (un-, dis-, re-, pre-) can help you guess the meanings of many words.",
+    "commonMistake": "Confusing 'prefix' with 'suffix' (added to the end of a word).",
+    "collocations": [
+      "phone prefix",
+      "common prefix",
+      "add a prefix",
+      "prefix 'un-'"
+    ]
+  },
+  {
+    "word": "Prefix",
+    "meaning": "A group of letters or numbers added to the beginning of a word or code to change its meaning",
+    "shortMeaning": "start of a word/code",
+    "example": "The prefix 'un-' changes 'happy' into 'unhappy'.",
+    "example2": "You must add a country prefix like '+92' before the phone number.",
+    "example3": "In programming, we often use a prefix to identify the type of a variable.",
+    "Explanation": "A prefix is a fundamental part of grammar and data labeling. In language, it is a syllable added to the front of a base word to create a new word with a different meaning. In technology, prefixes are used to categorize items or routes. For example, an IP address prefix helps routers know which part of the internet a packet belongs to. It acts as an identifier that provides immediate context. Understanding prefixes helps in learning new vocabulary and organizing technical data structures. It is the opposite of a suffix.",
+    "synonyms": [
+      "beginning",
+      "lead-in",
+      "initial"
+    ],
+    "antonyms": [
+      "suffix",
+      "end"
+    ],
+    "nounForm": "prefix",
+    "verbForm": "prefix",
+    "adjectiveForm": "prefixed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Linguistics, Networking, and Mathematics",
+    "usageTip": "Use 'prefix' to describe anything that comes at the very start of a sequence.",
+    "commonMistake": "Confusing a prefix with a suffix, which comes at the end.",
+    "collocations": [
+      "common prefix",
+      "prefix notation",
+      "country prefix"
+    ]
+  }
+]

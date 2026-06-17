@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Hash chain",
+    "meaning": "A sequence of hashes where each hash is created using the previous hash in the series",
+    "shortMeaning": "linked hash sequence",
+    "example": "The system used a hash chain to provide a secure login mechanism.",
+    "example2": "A hash chain can prove that a series of events occurred in a specific order.",
+    "example3": "Lamport's password scheme is a famous application of a hash chain.",
+    "Explanation": "A hash chain is created by repeatedly applying a hash function to an initial piece of data. Each link in the chain depends on the one before it, making it nearly impossible to alter the chain without detection. This structure is useful in creating one-time passwords and verifying chronological integrity. It is a building block for more complex structures like blockchains. Because of its sequential nature, it provides a strong proof of work or time.",
+    "synonyms": [
+      "hashing sequence",
+      "recursive hash",
+      "linked digest"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "hash chain",
+    "verbForm": "hash chain",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Cryptography and authentication",
+    "usageTip": "Use this when describing security protocols that involve repeated hashing.",
+    "commonMistake": "Confusing a simple hash chain with a full-scale blockchain.",
+    "collocations": [
+      "long hash chain",
+      "secure hash chain",
+      "create a hash chain"
+    ]
+  },
+  {
+    "word": "Hash chain",
+    "meaning": "A sequence of hashes where each hash is generated from the previous one",
+    "shortMeaning": "linked hash sequence",
+    "example": "Bitcoin uses a form of hash chain to link blocks together in the ledger.",
+    "example2": "A hash chain can be used for one-time password authentication.",
+    "example3": "The integrity of the entire list is protected by the hash chain.",
+    "Explanation": "A hash chain is produced by repeatedly applying a hash function to data. In its simplest form, you hash a value, then hash the result, then hash that result, and so on. In blockchain technology, this concept is used to link 'blocks' together. Each block contains the hash of the block before it. This creates a secure, unchangeable chain; if you change even one bit of data in an early block, every hash in the chain after it becomes invalid. It is also used in 'Lamport signatures' and some secure communication protocols to verify the order of events.",
+    "synonyms": [
+      "blockchain (related)",
+      "recursive hashing",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "hash chain",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Blockchain, cryptography, and authentication",
+    "usageTip": "Use this term when explaining how data can be securely linked and verified.",
+    "commonMistake": "Confusing a hash chain with a simple hash table.",
+    "collocations": [
+      "create a hash chain",
+      "verify a hash chain",
+      "secure hash chain"
+    ]
+  }
+]

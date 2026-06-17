@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Undervalued",
+    "meaning": "Considered less important or valuable than it is",
+    "shortMeaning": "not valued enough",
+    "example": "Security documentation is often an undervalued resource.",
+    "example2": "The developer's skills were undervalued by the firm.",
+    "example3": "Proper testing is often an undervalued part of development.",
+    "Explanation": "Undervalued refers to something that is not given the importance or credit it deserves. In IT, this often applies to 'invisible' work like documentation, testing, and system maintenance. While new feature development gets all the attention, the system will fail without the undervalued work of maintenance. Recognizing undervalued components or talent is important for long-term project success and team happiness.",
+    "synonyms": [
+      "underestimated",
+      "ignored",
+      "misjudged"
+    ],
+    "antonyms": [
+      "overvalued",
+      "overrated",
+      "appreciated"
+    ],
+    "nounForm": "undervaluation",
+    "verbForm": "undervalue",
+    "adjectiveForm": "undervalued",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, project planning",
+    "usageTip": "Use for things that deserve more attention.",
+    "commonMistake": "Confusing undervalued with 'cheap' (it just means ignored).",
+    "collocations": [
+      "often undervalued",
+      "severely undervalued",
+      "undervalued resource"
+    ]
+  },
+  {
+    "word": "Undervalued",
+    "meaning": "Rated at less than its true worth",
+    "shortMeaning": "low value",
+    "example": "This component is often undervalued by developers.",
+    "example2": "The importance of testing was undervalued.",
+    "example3": "Security is often an undervalued skill.",
+    "Explanation": "The word 'undervalued' implies that the true quality or importance of something is not being recognized or appreciated. In a technical team, certain tasks like documentation might be undervalued compared to writing new code. It often calls for a re-evaluation of perspectives. Using this word helps advocate for the significance of an item, skill, or service. It is useful in strategic discussions regarding team priorities.",
+    "synonyms": [
+      "underestimated",
+      "misjudged",
+      "discounted"
+    ],
+    "antonyms": [
+      "overvalued",
+      "overestimated",
+      "appreciated"
+    ],
+    "nounForm": "undervaluation",
+    "verbForm": "undervalue",
+    "adjectiveForm": "undervalued",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, team management, and assessment",
+    "usageTip": "Use this to point out importance that is ignored.",
+    "commonMistake": "Confusing 'undervalued' with 'cheap' (which refers to price).",
+    "collocations": [
+      "often undervalued",
+      "undervalued skill",
+      "widely undervalued"
+    ]
+  }
+]

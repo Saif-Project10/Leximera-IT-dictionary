@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Transposed",
+    "meaning": "Swapped the positions of two things",
+    "shortMeaning": "swapped positions",
+    "example": "The coordinates were transposed by mistake.",
+    "example2": "The columns in the database were transposed for the report.",
+    "example3": "He transposed the two function arguments in his code.",
+    "Explanation": "Transposed means to change the order or swap the positions of two or more items. In IT, this often happens with data matrices, arrays, or even accidentally in variable declarations. For example, transposing a matrix flips it over its diagonal. It is a common data manipulation task in data science and algorithm design. Being careful with the order of items is important to avoid bugs caused by swapping the wrong pieces of data.",
+    "synonyms": [
+      "swapped",
+      "reordered",
+      "reversed"
+    ],
+    "antonyms": [
+      "kept",
+      "maintained"
+    ],
+    "nounForm": "transposition",
+    "verbForm": "transpose",
+    "adjectiveForm": "transposed",
+    "partOfSpeech": "verb",
+    "commonContext": "Data analysis, mathematics, programming",
+    "usageTip": "Use this when swapping the positions of items in a sequence or matrix.",
+    "commonMistake": "Confusing it with 'transferred' which means moving something.",
+    "collocations": [
+      "transposed matrix",
+      "transposed order",
+      "incorrectly transposed"
+    ]
+  },
+  {
+    "word": "Transposed",
+    "meaning": "Swapped in position or order",
+    "shortMeaning": "swapped",
+    "example": "The rows and columns of the matrix were transposed.",
+    "example2": "He accidentally transposed the digits in the ID number.",
+    "example3": "The letters were transposed in the final output.",
+    "Explanation": "The word 'transposed' means to change the position or order of two or more things. In data analysis and matrix math, transposing is a common operation. It can also refer to a simple error where things get mixed up in order. It describes the physical or logical swapping of elements. It is the past participle of 'transpose'. It is common in math, coding, and basic data entry.",
+    "synonyms": [
+      "swapped",
+      "reordered",
+      "inverted"
+    ],
+    "antonyms": [
+      "kept",
+      "aligned"
+    ],
+    "nounForm": "transposition",
+    "verbForm": "transpose",
+    "adjectiveForm": "transposed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data manipulation, mathematics, coding",
+    "usageTip": "Use 'transposed' when swapping elements or rows/columns.",
+    "commonMistake": "Confusing it with 'transferred' (which means moved, not swapped).",
+    "collocations": [
+      "transposed matrix",
+      "transposed digits",
+      "transposed columns"
+    ]
+  }
+]

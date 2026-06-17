@@ -1,0 +1,54 @@
+[
+  {
+    "word": "Brute-force",
+    "meaning": "A trial-and-error method that uses sheer repetition to achieve a result",
+    "shortMeaning": "trial-and-error method",
+    "example": "The hacker used a brute-force attack to guess the password.",
+    "example2": "We solved the algorithm using a simple brute-force approach first.",
+    "example3": "A brute-force search checks every single possibility in the dataset.",
+    "Explanation": "The term 'brute-force' represents an approach relying on power and repetition rather than intelligence or strategy. In cybersecurity, a 'brute-force attack' involves automated software guessing thousands of password combinations until it finds the right one. In programming, a 'brute-force solution' checks every possible option to solve a problem. While reliable for small tasks, it is highly inefficient for large systems because it consumes massive computing power.",
+    "synonyms": [
+      "exhaustive",
+      "unrefined",
+      "trial-and-error"
+    ],
+    "antonyms": [
+      "optimized",
+      "efficient",
+      "strategic"
+    ],
+    "nounForm": "brute-force",
+    "verbForm": "brute-force",
+    "adjectiveForm": "brute-force",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Cybersecurity, password cracking, and algorithmic problem-solving",
+    "usageTip": "Use 'brute-force' to describe a straightforward but unoptimized way of solving a problem.",
+    "commonMistake": "Spelling it without the hyphen when using it as an adjective before a noun.",
+    "collocations": [
+      "brute-force attack",
+      "brute-force method",
+      "brute-force algorithm"
+    ]
+  },
+  {
+    "word": "Brute-force",
+    "meaning": "A method of solving a problem by trying every possible option until the right one is found",
+    "shortMeaning": "try every possibility",
+    "example": "A brute-force attack tries millions of passwords until it finds the correct one.",
+    "example2": "The mathematician used brute-force to solve the puzzle by testing every number.",
+    "example3": "Brute-force is slow but it will always find the answer if you have enough time.",
+    "Explanation": "Brute-force is the 'dumb' but 'sure' way to solve something. It doesn't use clever math; it just tries everything. In cybersecurity, 'Brute-force Attacks' are common, which is why we use 'Rate Limiting' (making people wait after 3 wrong tries). In programming, a brute-force algorithm is often the easiest to write but the slowest to run. It uses pure 'computational power' instead of smart logic.",
+    "synonyms": [
+      "exhaustive search",
+      "pure power",
+      "blind trial"
+    ],
+    "antonyms": [
+      "elegant solution",
+      "optimized algorithm"
+    ],
+    "commonContext": "Hacking, math, and basic algorithms",
+    "usageTip": "Protect your login pages from brute-force attacks by adding a 'Captcha' or a lock-out timer.",
+    "partOfSpeech": "noun / verb"
+  }
+]

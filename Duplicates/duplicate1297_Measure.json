@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Measure",
+    "meaning": "To ascertain the size, amount, or degree of something; a plan or course of action.",
+    "shortMeaning": "find size/amount; action step",
+    "example": "We need to measure the room for a new carpet.",
+    "example2": "The government introduced new measures to control inflation.",
+    "example3": "Success is not an accurate measure of happiness.",
+    "Explanation": "'Measure' is a verb and a noun central to science, mathematics, and planning. As a verb, it means to determine the magnitude, quantity, or capacity of something. As a noun, it can mean a unit or system of measurement (like a 'tape measure'), an action taken to achieve a purpose ('safety measures'), or a certain amount ('a measure of respect'). The phrase 'for good measure' means as an extra precaution. It's a foundational concept for quantification, evaluation, and proactive planning in virtually every field.",
+    "synonyms": [
+      "gauge",
+      "calculate",
+      "step"
+    ],
+    "antonyms": [
+      "estimate",
+      "guess"
+    ],
+    "nounForm": "measure, measurement",
+    "verbForm": "measure",
+    "adjectiveForm": "measurable",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Science, construction, cooking, policy",
+    "usageTip": "As a noun meaning 'action', it's often used in the plural (e.g., 'take measures to improve security').",
+    "commonMistake": "Confusing 'measure' (to find size) with 'treasure' (to value highly).",
+    "collocations": [
+      "tape measure",
+      "beyond measure",
+      "half measures"
+    ]
+  },
+  {
+    "word": "Measure",
+    "meaning": "To find the size, amount, or degree of something using a standard unit",
+    "shortMeaning": "finding size or amount",
+    "example": "We need to measure the dimensions of the server rack before ordering it.",
+    "example2": "You should measure the distance between the two routers.",
+    "example3": "The sensor is designed to measure temperature changes every second.",
+    "Explanation": "The word 'measure' refers to the action of determining the physical or abstract properties of an object or system. In IT, we measure everything from physical cable lengths to abstract concepts like system performance or data speed. It requires a tool (like a ruler or a software monitor) and a unit (like meters, bits, or seconds). Measuring is the first step in analyzing or improving any technical process. Without accurate measurement, it is impossible to manage or optimize systems effectively.",
+    "synonyms": [
+      "calculate",
+      "quantify",
+      "evaluate"
+    ],
+    "antonyms": [
+      "guess",
+      "estimate",
+      "ignore"
+    ],
+    "nounForm": "measurement",
+    "verbForm": "measure",
+    "adjectiveForm": "measurable",
+    "partOfSpeech": "verb",
+    "commonContext": "Science, engineering, daily life",
+    "usageTip": "Use 'measure' when you are looking for a specific, accurate value.",
+    "commonMistake": "Confusing 'measure' with 'estimate' (estimating is just a guess).",
+    "collocations": [
+      "measure carefully",
+      "measure progress",
+      "unit of measure"
+    ]
+  }
+]

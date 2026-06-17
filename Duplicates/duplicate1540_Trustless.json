@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Trustless",
+    "meaning": "Operating without the need for trust between parties, typically using cryptographic proofs instead",
+    "shortMeaning": "not requiring trust",
+    "example": "Blockchain enables trustless transactions between strangers.",
+    "example2": "The protocol is designed to be trustless and decentralized.",
+    "example3": "In a trustless system, code, not people, guarantees outcomes.",
+    "Explanation": "'Trustless' is a key technical term, especially in blockchain and cryptography. It does NOT mean 'untrustworthy'. Instead, it describes a system designed so that participants do not need to trust each other or a central authority. Security and correctness are enforced by cryptography, consensus algorithms, and transparent code. The system itself is trustworthy, eliminating the need for interpersonal trust. This is a radical concept for transactions and agreements. Outside of tech, it's rarely used because it's easily misunderstood. In tech contexts, it's a positive attribute meaning 'secure by design, not by faith'.",
+    "synonyms": [
+      "distrust-minimizing",
+      "cryptographically secure",
+      "self-verifying"
+    ],
+    "antonyms": [
+      "trust-based",
+      "trust-reliant",
+      "centralized"
+    ],
+    "nounForm": "trustlessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "trustless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Blockchain, cryptocurrency, distributed systems, cryptography",
+    "usageTip": "Always clarify that 'trustless' means the system removes the *need* for trust, not that it is untrustworthy.",
+    "commonMistake": "Interpreting 'trustless' as 'untrustworthy'; it means the opposite in its technical sense.",
+    "collocations": [
+      "trustless system",
+      "trustless transaction",
+      "trustless protocol",
+      "trustless environment"
+    ]
+  },
+  {
+    "word": "Trustless",
+    "meaning": "A system where no single party needs to be trusted to ensure security or correctness.",
+    "shortMeaning": "not requiring trust",
+    "example": "Blockchain is a trustless environment.",
+    "example2": "The protocol enables trustless transactions.",
+    "example3": "In a trustless setup, math replaces human trust.",
+    "Explanation": "The word 'trustless' means that you do not need to rely on the honesty of others to verify that a system is working correctly. It is a cornerstone of decentralized technology and blockchain. Instead of trusting an intermediary, users rely on cryptographic proof. It is an adjective. Note that 'trustless' does not mean 'untrustworthy'; it means the system is designed to function without needing human trust.",
+    "synonyms": [
+      "decentralized",
+      "verifiable",
+      "transparent"
+    ],
+    "antonyms": [
+      "trusted",
+      "centralized"
+    ],
+    "nounForm": "trustlessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "trustless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Blockchain, cryptocurrency, and decentralized protocols",
+    "usageTip": "Use 'trustless' to describe systems that rely on code rather than human reputation.",
+    "commonMistake": "Assuming 'trustless' means the system is insecure.",
+    "collocations": [
+      "trustless system",
+      "trustless environment",
+      "trustless transaction"
+    ]
+  },
+  {
+    "word": "Trustless",
+    "meaning": "A system where parties do not need to trust each other",
+    "shortMeaning": "no trust needed",
+    "example": "Blockchain is a trustless environment.",
+    "example2": "The protocol enables trustless transactions.",
+    "example3": "He designed a trustless authentication system.",
+    "Explanation": "Trustless refers to systems where security is provided by math, code, or protocols, not by individual trust. In a trustless environment, you verify facts independently rather than taking someone's word. It is a core feature of decentralized technologies. It does not mean you cannot trust the system; it means trust is unnecessary because verification is built-in. It is a key concept in modern finance and security.",
+    "synonyms": [
+      "decentralized",
+      "verifiable",
+      "self-governing"
+    ],
+    "antonyms": [
+      "trust-based",
+      "centralized"
+    ],
+    "nounForm": "trustlessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "trustless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Blockchain, cryptography, distributed systems",
+    "usageTip": "Use this when describing systems where verification is handled by protocols.",
+    "commonMistake": "Thinking 'trustless' means the system is unreliable; it is actually very secure.",
+    "collocations": [
+      "trustless environment",
+      "trustless protocol",
+      "trustless transaction"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Controlled",
+    "meaning": "Restrained, managed, or kept within limits.",
+    "shortMeaning": "restrained, managed",
+    "example": "The fire is now under controlled conditions.",
+    "example2": "She spoke in a calm and controlled voice.",
+    "example3": "The experiment must be done in a controlled environment.",
+    "Explanation": "'Controlled' is the past participle of the verb 'control', often used as an adjective. It describes something that is regulated, restrained, or done in a deliberate and careful manner. It can refer to emotions (controlled anger), scientific conditions (controlled variable), or processes (controlled access). It has a positive connotation of order, precision, and discipline. The opposite is 'uncontrolled' or 'chaotic'. It's a key concept in science, engineering, management, and personal conduct.",
+    "synonyms": [
+      "regulated",
+      "restrained",
+      "managed"
+    ],
+    "antonyms": [
+      "uncontrolled",
+      "wild",
+      "chaotic"
+    ],
+    "nounForm": "control",
+    "verbForm": "control",
+    "adjectiveForm": "controlled",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Science, emotions, security, experiments",
+    "usageTip": "Often used in compound terms like 'temperature-controlled', 'remote-controlled', or 'self-controlled'.",
+    "commonMistake": "Confusing 'controlled' (managed) with 'controlling' (exerting excessive control over others).",
+    "collocations": [
+      "controlled substance",
+      "controlled trial",
+      "strictly controlled"
+    ]
+  },
+  {
+    "word": "Controlled",
+    "meaning": "Managed or limited by specific rules or systems",
+    "shortMeaning": "regulated",
+    "example": "The experiment was conducted in a controlled environment.",
+    "example2": "We have controlled access to the production server.",
+    "example3": "Controlled updates reduce the risk of failure.",
+    "Explanation": "Controlled refers to something that is regulated to ensure consistency, safety, or security. It implies that there are limits or guidelines in place. The verb is 'control', and the noun is 'control'. In IT, controlled environments are essential for testing code to avoid unpredictable behavior. It is a sign of mature infrastructure and reliable processes when systems are 'controlled' rather than chaotic.",
+    "synonyms": [
+      "regulated",
+      "managed",
+      "monitored"
+    ],
+    "antonyms": [
+      "uncontrolled",
+      "random",
+      "free"
+    ],
+    "nounForm": "control",
+    "verbForm": "control",
+    "adjectiveForm": "controlled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, infrastructure, testing",
+    "usageTip": "Use to describe systems that are regulated and secure.",
+    "commonMistake": "Confusing 'controlled' with 'controllable' (one is currently managed, one is able to be).",
+    "collocations": [
+      "controlled environment",
+      "controlled access",
+      "controlled experiment"
+    ]
+  }
+]

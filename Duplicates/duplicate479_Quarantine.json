@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Quarantine",
+    "meaning": "A period of isolation imposed to prevent the spread of disease.",
+    "shortMeaning": "isolation for health",
+    "example": "Travelers from the region were placed in quarantine.",
+    "example2": "The sick dog was kept in quarantine at the vet.",
+    "example3": "You should quarantine new plants before adding them to your garden.",
+    "Explanation": "The noun and verb 'quarantine' specifically refers to the separation and restriction of movement of people or animals who may have been exposed to a contagious disease. It became a household word during the COVID-19 pandemic. It is a public health measure. The term can also be used in computing for isolating suspicious files. A common mistake is using it interchangeably with 'isolation'; quarantine is for those exposed but not yet sick, while isolation is for those who are infected. It's a temporary but mandatory measure for the greater good.",
+    "synonyms": [
+      "isolation",
+      "segregation",
+      "confinement"
+    ],
+    "antonyms": [
+      "integration",
+      "mixing",
+      "release"
+    ],
+    "nounForm": "quarantine",
+    "verbForm": "quarantine",
+    "adjectiveForm": "quarantined",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Public health, travel, veterinary, cybersecurity",
+    "usageTip": "Often used with 'in', 'under', or 'place in': 'under quarantine for 14 days'.",
+    "commonMistake": "Pronouncing it as 'quar-ant-teen'. The standard pronunciation is 'KWOR-uhn-teen'.",
+    "collocations": [
+      "mandatory quarantine",
+      "quarantine period",
+      "quarantine zone"
+    ]
+  },
+  {
+    "word": "Quarantine",
+    "meaning": "To isolate a suspicious or infected file, system, or network segment to prevent a virus or security threat from spreading to other parts",
+    "shortMeaning": "isolate security threats",
+    "example": "The antivirus software immediately moved the infected script into a secure quarantine folder.",
+    "example2": "The network security team decided to quarantine the compromised server from the rest of the internal network.",
+    "example3": "When a file is placed in quarantine, it cannot execute or cause harm to your operating system.",
+    "Explanation": "In cybersecurity and network infrastructure, 'quarantine' refers to a critical defense practice. When an antivirus engine or automated threat detection system identifies a file that exhibits malicious behavior or matches a known virus signature, it does not always delete it immediately. Instead, it places the file in a restricted, isolated digital vault called a quarantine area. This process completely strips away the file's execution privileges, ensuring it can do no harm to the operating system while giving security analysts the chance to inspect it. Similarly, entire network subnets can be quarantined if they show signs of an active ransomware infection.",
+    "synonyms": [
+      "isolate",
+      "segregate",
+      "lock down"
+    ],
+    "antonyms": [
+      "release",
+      "integrate",
+      "free"
+    ],
+    "nounForm": "quarantine",
+    "verbForm": "quarantine",
+    "adjectiveForm": "quarantined",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, network defense, antivirus system alerts",
+    "usageTip": "Use 'quarantine' when you want to describe isolating suspicious files or machines to stop potential infections safely.",
+    "commonMistake": "Thinking a quarantined file is completely deleted; it still exists on storage but is locked down so it cannot run.",
+    "collocations": [
+      "place in quarantine",
+      "quarantine folder",
+      "quarantine a system"
+    ]
+  }
+]

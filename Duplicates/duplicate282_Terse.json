@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Terse",
+    "meaning": "Sparing in the use of words; abrupt, often to the point of rudeness",
+    "shortMeaning": "abruptly brief",
+    "example": "He gave a terse 'no' in response to the request.",
+    "example2": "Her terse email made it clear she was angry.",
+    "example3": "The commander's orders were always terse and direct.",
+    "Explanation": "Terse means using very few words. While it shares brevity with 'succinct', 'terse' often carries a negative connotation of being curt, abrupt, or even rude due to a lack of warmth or courtesy. It can imply irritation or impatience. A terse reply might be accurate but feels unfriendly. In some contexts, like military commands or emergency situations, terseness is necessary and positive. Understanding the tone is key; 'terse' often describes a style of speaking or writing that feels clipped and dismissive.",
+    "synonyms": [
+      "curt",
+      "brusque",
+      "concise",
+      "laconic",
+      "abrupt"
+    ],
+    "antonyms": [
+      "verbose",
+      "wordy",
+      "expansive",
+      "polite",
+      "effusive"
+    ],
+    "nounForm": "terseness",
+    "verbForm": "N/A",
+    "adjectiveForm": "terse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Angry communication, formal commands, impatient replies",
+    "usageTip": "Often has a negative tone. Use 'concise' or 'succinct' for positive brevity.",
+    "commonMistake": "Using 'terse' as a compliment; it usually points to a lack of politeness.",
+    "collocations": [
+      "terse reply",
+      "terse statement",
+      "terse manner"
+    ]
+  },
+  {
+    "word": "Terse",
+    "meaning": "Brief, concise, and often lacking enough information.",
+    "shortMeaning": "too brief",
+    "example": "The error message was so terse that nobody understood it.",
+    "example2": "Avoid writing terse documentation; be clear instead.",
+    "example3": "His comments in the pull request were too terse.",
+    "Explanation": "The word 'terse' describes writing or speech that is very short, often to the point of being unfriendly or unclear. While conciseness is usually good in coding, 'terse' implies that the author left out necessary context, leaving the reader confused. A good technical communicator strikes a balance between being concise (avoiding fluff) and being clear (providing enough detail for the reader to succeed).",
+    "synonyms": [
+      "brief",
+      "curt",
+      "concise"
+    ],
+    "antonyms": [
+      "verbose",
+      "long-winded",
+      "detailed"
+    ],
+    "nounForm": "terseness",
+    "verbForm": "N/A",
+    "adjectiveForm": "terse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation and communication",
+    "usageTip": "Use 'terse' to describe writing that lacks enough detail.",
+    "commonMistake": "Confusing 'terse' with 'efficient'; efficient is good, terse is often bad.",
+    "collocations": [
+      "terse documentation",
+      "terse error message"
+    ]
+  },
+  {
+    "word": "Terse",
+    "meaning": "Brief, concise, and sometimes appearing rude",
+    "shortMeaning": "short and brief",
+    "example": "His terminal output was very terse.",
+    "example2": "She provided a terse explanation for the error.",
+    "example3": "Avoid being too terse in your documentation.",
+    "Explanation": "Terse describes language or code that is extremely short. While brevity is often good in coding, a terse comment or response can feel unfriendly or unclear. It implies that the speaker is not using enough words to explain themselves fully. In documentation, being too terse can confuse the reader. Aim for concise but complete communication to improve collaboration.",
+    "synonyms": [
+      "concise",
+      "brief",
+      "curt"
+    ],
+    "antonyms": [
+      "verbose",
+      "lengthy",
+      "wordy"
+    ],
+    "nounForm": "terseness",
+    "verbForm": "N/A",
+    "adjectiveForm": "terse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, code comments, team communication",
+    "usageTip": "Use this to describe writing that is too brief to be helpful.",
+    "commonMistake": "Confusing terse with concise; concise is positive, terse is often negative.",
+    "collocations": [
+      "terse reply",
+      "terse comment",
+      "terse description"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Glanceable",
+    "meaning": "Designed so that information can be understood very quickly with just a look",
+    "shortMeaning": "quickly readable",
+    "example": "Smartwatch faces need to be glanceable so users don't have to stop walking.",
+    "example2": "The dashboard design is glanceable, showing only the most important stats.",
+    "example3": "Glanceable icons help drivers use the navigation system safely.",
+    "Explanation": "The word 'glanceable' is a modern UI/UX design term used to describe information that is easy to digest in seconds. It is particularly important for mobile devices, smartwatches, and car interfaces where the user's attention is limited. To achieve glanceability, designers use high contrast, clear fonts, and simple icons. The goal is to minimize 'cognitive load,' meaning the user doesn't have to think hard to understand the data. It is a critical metric for successful modern interface design.",
+    "synonyms": [
+      "quick-read",
+      "scannable",
+      "intuitive"
+    ],
+    "antonyms": [
+      "dense",
+      "complex",
+      "unreadable"
+    ],
+    "nounForm": "glanceability",
+    "verbForm": "N/A",
+    "adjectiveForm": "glanceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UX Design, Mobile Apps, Wearable Tech",
+    "usageTip": "Use 'glanceable' to describe UI elements that don't require much reading.",
+    "commonMistake": "Confusing 'glanceable' with 'simple'; a complex graph can be glanceable if designed well.",
+    "collocations": [
+      "glanceable information",
+      "glanceable display",
+      "highly glanceable"
+    ]
+  },
+  {
+    "word": "Glanceable",
+    "meaning": "Easy to understand at a quick look",
+    "shortMeaning": "quickly readable",
+    "example": "The dashboard is designed to be glanceable.",
+    "example2": "We need glanceable data for the user's phone.",
+    "example3": "Glanceable widgets help users stay updated.",
+    "Explanation": "The term 'glanceable' is a perfect example of modern UI/UX design. It describes information that is so simple and well-laid-out that you can understand it in a single glance (like a watch face or a simple status bar). It is essential for mobile apps, smartwatches, and notifications. Good design reduces clutter to make sure that the most important information is always glanceable.",
+    "synonyms": [
+      "readable",
+      "clear",
+      "accessible"
+    ],
+    "antonyms": [
+      "complex",
+      "cluttered",
+      "dense"
+    ],
+    "nounForm": "glanceability",
+    "verbForm": "N/A",
+    "adjectiveForm": "glanceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, mobile apps, notifications",
+    "usageTip": "Use 'glanceable' to describe UI elements that are quick and easy to read.",
+    "commonMistake": "Thinking 'glanceable' means 'boring'; it means 'efficient'.",
+    "collocations": [
+      "glanceable UI",
+      "glanceable information",
+      "glanceable design"
+    ]
+  }
+]

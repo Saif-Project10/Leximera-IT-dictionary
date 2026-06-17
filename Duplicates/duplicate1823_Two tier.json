@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Two tier",
+    "meaning": "A system or architecture organized into two distinct levels.",
+    "shortMeaning": "two-level structure",
+    "example": "The company moved to a two tier pricing system.",
+    "example2": "The software follows a two tier model for faster processing.",
+    "example3": "The network has a two tier design for security.",
+    "Explanation": "The term 'two tier' describes any structure that is divided into two layers or levels. In technology, it often refers to a simple client-server setup. The first tier is usually the user interface, and the second tier is the data storage. It is considered simpler but less scalable than three tier architectures. This term can also apply to business models, such as two tier support teams.",
+    "synonyms": [
+      "dual-level",
+      "double-layered",
+      "two-step"
+    ],
+    "antonyms": [
+      "single tier",
+      "multi-tier",
+      "three tier"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two tier",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design, business hierarchy, and networking",
+    "usageTip": "Use 'two tier' to describe a direct connection between a client and a database.",
+    "commonMistake": "Assuming it is always inferior to three tier; sometimes it is faster for small apps.",
+    "collocations": [
+      "two tier system",
+      "two tier model",
+      "two tier hierarchy"
+    ]
+  },
+  {
+    "word": "Two tier",
+    "meaning": "A system architecture divided into two main layers, usually client and server.",
+    "shortMeaning": "two-layer structure",
+    "example": "The application uses a two tier client-server architecture.",
+    "example2": "Two tier systems are simple but often lack scalability.",
+    "example3": "We are migrating from a two tier to a three tier model.",
+    "Explanation": "A 'two tier' system is a basic software architecture consisting of a client and a server, where the client handles logic and the server handles data. It is popular for simple, small-scale applications. The term is an adjective. Note that it is often written as 'two-tier' with a hyphen when used as an adjective. This model is often contrasted with 'three tier' or 'multi-tier' architectures.",
+    "synonyms": [
+      "client-server",
+      "two-layer"
+    ],
+    "antonyms": [
+      "three-tier",
+      "multi-tier",
+      "monolithic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-tier",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture and system design",
+    "usageTip": "Use 'two tier' to describe simple client-server software designs.",
+    "commonMistake": "Confusing 'two tier' with high-performance scalable systems.",
+    "collocations": [
+      "two tier architecture",
+      "two tier system",
+      "two tier model"
+    ]
+  }
+]

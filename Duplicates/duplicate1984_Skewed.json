@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Skewed",
+    "meaning": "Distorted, biased, or slanted away from a normal or expected result.",
+    "shortMeaning": "distorted",
+    "example": "The results were skewed by the missing data.",
+    "example2": "The distribution of scores is heavily skewed.",
+    "example3": "We must fix the skewed view of our performance metrics.",
+    "Explanation": "The word 'skewed' means something is shifted or biased in a way that distorts its reality. In statistics and data analysis, 'skewed data' can give wrong impressions, leading to poor decisions. If your analysis is skewed, you have not looked at the full, accurate picture. It is a critical concept to grasp when cleaning data or preparing reports.",
+    "synonyms": [
+      "biased",
+      "distorted",
+      "slanted"
+    ],
+    "antonyms": [
+      "balanced",
+      "unbiased",
+      "symmetrical"
+    ],
+    "nounForm": "skew",
+    "verbForm": "skew",
+    "adjectiveForm": "skewed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Statistics and data analysis",
+    "usageTip": "Use 'skewed' to indicate data that does not represent the real trend fairly.",
+    "commonMistake": "Ignoring why the data is skewed instead of correcting for it.",
+    "collocations": [
+      "heavily skewed",
+      "skewed distribution",
+      "skewed results"
+    ]
+  },
+  {
+    "word": "Skewed",
+    "meaning": "Distorted, biased, or leaning to one side",
+    "shortMeaning": "distorted or biased",
+    "example": "The server logs show skewed data due to the timezone configuration error.",
+    "example2": "If the sample size is small, the results will be heavily skewed.",
+    "example3": "The performance report is skewed by the outliers in the dataset.",
+    "Explanation": "The word 'skewed' describes data or results that are inaccurate because they are weighted unfairly toward one side. In data analysis and IT reporting, skewed data can lead to wrong decisions if not addressed. It occurs when variables do not reflect the true balance of the system. Recognizing this state is essential for data integrity and accurate reporting. It is often used in the context of statistics or database outputs.",
+    "synonyms": [
+      "distorted",
+      "biased",
+      "slanted"
+    ],
+    "antonyms": [
+      "balanced",
+      "accurate",
+      "symmetrical"
+    ],
+    "nounForm": "skew",
+    "verbForm": "skew",
+    "adjectiveForm": "skewed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data analysis, reporting, statistics",
+    "usageTip": "Use 'skewed' when explaining why data results don't look neutral.",
+    "commonMistake": "Ignoring the fact that skewed data can ruin predictive models.",
+    "collocations": [
+      "heavily skewed",
+      "skewed distribution",
+      "skewed results"
+    ]
+  }
+]

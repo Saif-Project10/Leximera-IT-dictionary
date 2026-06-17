@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Susceptible",
+    "meaning": "Likely to be influenced or harmed by a particular thing.",
+    "shortMeaning": "vulnerable, prone",
+    "example": "Young children are more susceptible to certain infections.",
+    "example2": "He was susceptible to flattery and often made poor decisions because of it.",
+    "example3": "The material is susceptible to damage from sunlight.",
+    "Explanation": "The adjective 'susceptible' describes a person or thing that is easily affected, influenced, or harmed by something specific. It often has a negative connotation of weakness or lack of resistance. It is usually followed by 'to'. For example, a 'susceptible person' might get sick easily; a 'susceptible system' is easily hacked. The noun form is 'susceptibility'. It is a formal word common in medical, psychological, and technical contexts. It implies a inherent condition that makes one prone to something.",
+    "synonyms": [
+      "vulnerable",
+      "prone",
+      "liable",
+      "open",
+      "impressionable"
+    ],
+    "antonyms": [
+      "resistant",
+      "immune",
+      "invulnerable",
+      "impervious"
+    ],
+    "nounForm": "susceptibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "susceptible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, psychology, materials science, security",
+    "usageTip": "Always use 'susceptible to' something. 'She is susceptible to colds.'",
+    "commonMistake": "Confusing it with 'suspicious', which means distrustful.",
+    "collocations": [
+      "susceptible to",
+      "highly susceptible",
+      "susceptible individual",
+      "genetically susceptible"
+    ]
+  },
+  {
+    "word": "Susceptible",
+    "meaning": "Likely to be influenced or harmed by something",
+    "shortMeaning": "vulnerable",
+    "example": "Old software is more susceptible to cyberattacks.",
+    "example2": "The system is susceptible to errors during high load.",
+    "example3": "He is susceptible to distraction in loud environments.",
+    "Explanation": "The word 'susceptible' means that something is prone to being affected or damaged by a particular condition. In IT security, we often talk about systems being 'susceptible' to certain vulnerabilities. It doesn't mean the system *will* fail, but that it *could* fail if the condition occurs. It is an important word for risk assessment and planning. Using this term professionally shows you have identified potential weaknesses and are planning to mitigate them.",
+    "synonyms": [
+      "vulnerable",
+      "prone",
+      "sensitive"
+    ],
+    "antonyms": [
+      "resistant",
+      "immune",
+      "protected"
+    ],
+    "nounForm": "susceptibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "susceptible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, risk assessment, health",
+    "usageTip": "Use 'susceptible' to describe a weakness that needs to be addressed.",
+    "commonMistake": "Confusing 'susceptible' (prone to) with 'receptive' (open to ideas).",
+    "collocations": [
+      "susceptible to attack",
+      "susceptible to error",
+      "highly susceptible"
+    ]
+  },
+  {
+    "word": "Susceptible",
+    "meaning": "Easily affected or likely to be harmed",
+    "shortMeaning": "vulnerable",
+    "example": "The system is susceptible to phishing attacks.",
+    "example2": "Older software is often susceptible to known vulnerabilities.",
+    "example3": "Some devices are susceptible to electromagnetic interference.",
+    "Explanation": "Susceptible means that something can easily be damaged, affected, or influenced by a specific threat. In cybersecurity, it is the most common word for describing vulnerabilities. It is used to state that a system has a flaw that an attacker could exploit. Being 'susceptible' means you are at risk. It is a crucial term in security assessments and risk management reports.",
+    "synonyms": [
+      "vulnerable",
+      "prone",
+      "at risk"
+    ],
+    "antonyms": [
+      "immune",
+      "resistant",
+      "protected"
+    ],
+    "nounForm": "susceptibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "susceptible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, risk management, hardware safety",
+    "usageTip": "Use 'susceptible' to identify weaknesses that need fixing.",
+    "commonMistake": "Using 'susceptible' for something that is definitely broken (use 'vulnerable' for the risk, 'broken' for the state).",
+    "collocations": [
+      "susceptible to attack",
+      "susceptible to interference",
+      "high susceptibility"
+    ]
+  }
+]

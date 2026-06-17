@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Encrypt",
+    "meaning": "To convert information or data into a code, especially to prevent unauthorized access.",
+    "shortMeaning": "put into secret code",
+    "example": "You should encrypt your emails to protect sensitive information.",
+    "example2": "The messaging app encrypts all conversations end-to-end.",
+    "example3": "They encrypted the hard drive so no one could read the files.",
+    "Explanation": "To 'encrypt' is a technical verb from the field of cybersecurity. It means using a special algorithm (cipher) to turn readable data (plaintext) into an unreadable, scrambled format (ciphertext). The purpose is to protect the data's confidentiality. Only someone with the correct key or password can 'decrypt' it back to a readable form. In today's digital world, encryption is essential for protecting online banking, private messages, and personal data.",
+    "synonyms": [
+      "encode",
+      "cipher",
+      "scramble"
+    ],
+    "antonyms": [
+      "decrypt",
+      "decode",
+      "decipher"
+    ],
+    "nounForm": "encryption",
+    "verbForm": "encrypt",
+    "adjectiveForm": "encrypted",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, information technology, data privacy",
+    "usageTip": "Use 'encrypt' for the action of making data secret. Use 'encrypted' as an adjective to describe protected data.",
+    "commonMistake": "Confusing 'encrypt' with 'encode'. Encoding (like Base64) is for data transmission, not for secrecy.",
+    "collocations": [
+      "encrypt data",
+      "encrypt files",
+      "encrypt communications"
+    ]
+  },
+  {
+    "word": "Encrypt",
+    "meaning": "To convert data into a secret code to prevent unauthorized access",
+    "shortMeaning": "lock with a code",
+    "example": "You should always encrypt your passwords before storing them in a database.",
+    "example2": "The app uses end-to-end technology to encrypt your messages.",
+    "example3": "The bank will encrypt all transactions to keep them safe.",
+    "Explanation": "Encryption is the process of scrambling information so that only someone with a specific 'key' can read it. It is the foundation of digital security and privacy. When you 'encrypt' something, you turn 'plaintext' (readable) into 'ciphertext' (unreadable). This protects data from hackers if it is stolen or intercepted. Whether it is a hard drive, a website (HTTPS), or a chat app, encryption ensures that sensitive information remains private. It is a non-negotiable standard for modern technology.",
+    "synonyms": [
+      "scramble",
+      "cipher",
+      "secure",
+      "encode"
+    ],
+    "antonyms": [
+      "decrypt",
+      "decode",
+      "reveal"
+    ],
+    "nounForm": "encryption",
+    "verbForm": "encrypt",
+    "adjectiveForm": "encrypted",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, banking, and privacy",
+    "usageTip": "Use 'encrypted' as an adjective for a secure connection (e.g., 'an encrypted link').",
+    "commonMistake": "Confusing 'encrypt' with 'encode' (encoding is for format, encryption is for safety).",
+    "collocations": [
+      "encrypt data",
+      "fully encrypted",
+      "encrypt with a password"
+    ]
+  }
+]

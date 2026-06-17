@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Menu driven",
+    "meaning": "A type of program that is controlled by choosing options from a list (menu) rather than typing commands.",
+    "shortMeaning": "controlled by menus",
+    "example": "The old ATM used a simple menu driven system for withdrawals.",
+    "example2": "A menu driven interface is much easier for beginners than a command line.",
+    "example3": "Most modern appliances have a menu driven display.",
+    "Explanation": "A menu driven system is designed for ease of use. Instead of making the user memorize complex commands (like in a command-line interface), it presents a list of choices. The user simply selects an option using a mouse, keyboard, or touch. This approach is very common in ATMs, microwave ovens, and basic computer software. It guides the user through the process step-by-step. It limits what the user can do to only the options shown, which helps prevent errors. It is the opposite of 'command-driven' systems.",
+    "synonyms": [
+      "choice-based",
+      "menu-based"
+    ],
+    "antonyms": [
+      "command-driven",
+      "command-line"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "menu driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "User interfaces and basic electronics",
+    "usageTip": "Use this to describe software where the user picks from lists to get things done.",
+    "commonMistake": "Assuming all modern apps are menu driven; some are gesture-driven or voice-driven.",
+    "collocations": [
+      "menu driven program",
+      "menu driven software",
+      "menu driven approach"
+    ]
+  },
+  {
+    "word": "Menu driven",
+    "meaning": "An interface where the user chooses from a list of options",
+    "shortMeaning": "option-based UI",
+    "example": "The older software used a simple menu driven interface.",
+    "example2": "The installation wizard is entirely menu driven.",
+    "example3": "We need to update the menu driven navigation for the dashboard.",
+    "Explanation": "A 'menu driven' system is one where the user interaction is primarily guided by a menu of choices rather than by typing commands (a command-line interface). The user is 'driven' by the menu; they see a list of actions and select one, which then takes them to the next set of options. This style is very user-friendly for beginners because they don't have to memorize commands. It is a common design pattern for setup wizards, basic administrative tools, and older software interfaces.",
+    "synonyms": [
+      "option-based",
+      "guided"
+    ],
+    "antonyms": [
+      "command-line",
+      "scripted"
+    ],
+    "nounForm": "menu",
+    "verbForm": "N/A",
+    "adjectiveForm": "menu-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design and setup wizards",
+    "usageTip": "Use to describe interfaces that guide users through a series of choices.",
+    "commonMistake": "Confusing 'menu-driven' with 'automated' (some menu systems are not automated).",
+    "collocations": [
+      "menu-driven interface",
+      "menu-driven system"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Understandable",
+    "meaning": "Easy to comprehend or grasp",
+    "shortMeaning": "easy to follow",
+    "example": "The code comments make the logic very understandable.",
+    "example2": "Is the user manual understandable for beginners?",
+    "example3": "The documentation provides an understandable guide to setup.",
+    "Explanation": "Understandable refers to information or logic that is clear and easy to follow. In IT, 'understandable code' (clean code) is essential for collaboration, as others must be able to read and debug your work. If your documentation is understandable, users can set up and troubleshoot systems independently, reducing support costs. High-quality IT work is characterized by its clarity and the ease with which others can understand it.",
+    "synonyms": [
+      "clear",
+      "comprehensible",
+      "readable"
+    ],
+    "antonyms": [
+      "incomprehensible",
+      "confusing",
+      "vague"
+    ],
+    "nounForm": "understandability",
+    "verbForm": "N/A",
+    "adjectiveForm": "understandable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding, technical writing, UX",
+    "usageTip": "Use when praising well-written code or guides.",
+    "commonMistake": "Assuming that 'logical' code is automatically 'understandable'.",
+    "collocations": [
+      "easily understandable",
+      "highly understandable",
+      "make understandable"
+    ]
+  },
+  {
+    "word": "Understandable",
+    "meaning": "Able to be comprehended or interpreted",
+    "shortMeaning": "clear",
+    "example": "The code must be readable and understandable.",
+    "example2": "An understandable error message helps the user.",
+    "example3": "Her explanation was clear and understandable.",
+    "Explanation": "The word 'understandable' means that the logic or information can be grasped without excessive difficulty. In software, 'understandable' code is often called 'clean code'. It is a quality that reduces the need for documentation and simplifies debugging. It is used in both technical and general contexts. When something is understandable, it builds trust and allows for easier collaboration among team members.",
+    "synonyms": [
+      "clear",
+      "comprehensible",
+      "logical"
+    ],
+    "antonyms": [
+      "confusing",
+      "unclear",
+      "incomprehensible"
+    ],
+    "nounForm": "understandability",
+    "verbForm": "understand",
+    "adjectiveForm": "understandable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication and code quality",
+    "usageTip": "Use this to describe clarity in logic or design.",
+    "commonMistake": "Using 'understandable' to mean 'forgivable'.",
+    "collocations": [
+      "highly understandable",
+      "easily understandable",
+      "clear and understandable"
+    ]
+  }
+]

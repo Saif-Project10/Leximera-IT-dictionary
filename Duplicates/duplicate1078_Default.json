@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Default",
+    "meaning": "A preselected option used when no alternative is specified; failure to fulfill an obligation.",
+    "shortMeaning": "standard setting; failure to pay",
+    "example": "The software uses English as the default language.",
+    "example2": "The country risked default on its debt.",
+    "example3": "If you don't choose, the default option will be selected.",
+    "Explanation": "'Default' has two main meanings. In technology/settings, it's the preset option that applies unless changed. In finance/obligations, it's failure to repay a debt or fulfill a contract. As a verb, it means to fail to pay or to revert to a default setting. The technological meaning is more common in everyday use (default settings, default browser). The financial meaning is serious (loan default, sovereign default). Context usually makes the meaning clear. It's a crucial concept in user interface design and finance.",
+    "synonyms": [
+      "standard",
+      "preset",
+      "failure to pay",
+      "nonpayment"
+    ],
+    "antonyms": [
+      "custom",
+      "optional",
+      "payment",
+      "fulfillment"
+    ],
+    "nounForm": "default",
+    "verbForm": "default",
+    "adjectiveForm": "default",
+    "partOfSpeech": "noun, verb, adjective",
+    "commonContext": "Software settings, finance, contracts, user interfaces",
+    "usageTip": "In computing: 'default settings', 'by default'. In finance: 'in default', 'default on a loan'.",
+    "commonMistake": "Pronouncing it as 'dee-fault'. Correct pronunciation: 'dih-FAWLT'.",
+    "collocations": [
+      "by default",
+      "default setting",
+      "default on"
+    ]
+  },
+  {
+    "word": "Default",
+    "meaning": "A pre-selected option or value that is used if nothing else is chosen",
+    "shortMeaning": "pre-set value",
+    "example": "The system reverted to its default settings after the error.",
+    "example2": "You can change the default font in the preferences.",
+    "example3": "The default behavior of this button is to submit the form.",
+    "Explanation": "A 'default' is a standard setting or value that a computer program uses automatically. It ensures that a system can still function even if the user does not provide specific input. In software development, setting smart 'defaults' is a key part of good UI/UX design. It makes the application easier for beginners to use by providing a working starting point.",
+    "synonyms": [
+      "standard",
+      "preset",
+      "initial"
+    ],
+    "antonyms": [
+      "custom",
+      "specified",
+      "chosen"
+    ],
+    "nounForm": "default",
+    "verbForm": "default",
+    "adjectiveForm": "default",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software settings and configuration",
+    "usageTip": "Use 'default' to describe the 'out of the box' behavior.",
+    "commonMistake": "Assuming the user can't change the default.",
+    "collocations": [
+      "default settings",
+      "default value",
+      "factory default"
+    ]
+  },
+  {
+    "word": "Default",
+    "meaning": "A pre-selected option or a failure to fulfill an obligation",
+    "shortMeaning": "automatic setting or failure",
+    "example": "The default font for this document is Arial.",
+    "example2": "The company is in default on its loan payments.",
+    "example3": "The system will revert to default settings after the update.",
+    "Explanation": "The word 'default' has two primary uses in IT and finance. In computing, it refers to a setting or value automatically assigned by a program when no alternative is specified by the user. In finance or law, it refers to the failure to do something required, such as paying a debt. It is important to distinguish between these two contexts based on the surrounding text. The word can function as both a noun and a verb.",
+    "synonyms": [
+      "standard",
+      "preset",
+      "nonpayment",
+      "failure"
+    ],
+    "antonyms": [
+      "custom",
+      "manual",
+      "fulfillment",
+      "payment"
+    ],
+    "nounForm": "default",
+    "verbForm": "default",
+    "adjectiveForm": "default",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software settings and financial agreements",
+    "usageTip": "Use 'default' when talking about settings that come out of the box.",
+    "commonMistake": "Thinking 'default' only means a mistake; it often just means a standard choice.",
+    "collocations": [
+      "default setting",
+      "by default",
+      "default value"
+    ]
+  }
+]

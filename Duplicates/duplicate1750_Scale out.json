@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Scale out",
+    "meaning": "Adding more machines or nodes to a system to share the workload",
+    "shortMeaning": "horizontal scaling",
+    "example": "To handle the holiday traffic, we decided to scale out our web servers.",
+    "example2": "Cloud computing makes it very easy to scale out and scale in as needed.",
+    "example3": "The database can scale out by adding more nodes to the cluster.",
+    "Explanation": "Scale out, also known as horizontal scaling, involves adding more devices to a network instead of making one single device more powerful. For example, instead of buying one giant server, you buy five smaller ones and share the work between them. This is the preferred method for modern 'Cloud' and 'Big Data' systems because it is more cost-effective and provides better redundancy. If one machine fails, the others keep running. It is the opposite of 'scaling up'.",
+    "synonyms": [
+      "horizontal scaling",
+      "expand horizontally",
+      "cluster expansion"
+    ],
+    "antonyms": [
+      "scale in",
+      "scale up"
+    ],
+    "nounForm": "scaling out",
+    "verbForm": "scale out",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Cloud infrastructure and database management",
+    "usageTip": "Use this when you are adding *more* computers to a group.",
+    "commonMistake": "Using 'scale out' when you mean 'buying a bigger computer' (that is scale up).",
+    "collocations": [
+      "scale out horizontally",
+      "ability to scale out",
+      "scale out architecture"
+    ]
+  },
+  {
+    "word": "Scale out",
+    "meaning": "To increase system capacity by adding more separate servers or machines to a network cluster",
+    "shortMeaning": "add more machines",
+    "example": "The architecture plan says to scale out by adding three new backend server nodes.",
+    "example2": "It is often cheaper to scale out using multiple simple servers than buying one giant machine.",
+    "example3": "Cloud load balancers make it easy to scale out during sudden website traffic spikes.",
+    "Explanation": "The phrase 'Scale out' refers to horizontal scaling in system architecture. Instead of upgrading a single server's parts, scaling out means connecting completely new computers into a unified network cluster to share the processing workload. This is the preferred method for modern cloud companies because it allows near-infinite growth and ensures high availability. If one machine in a scaled-out cluster crashes, the other servers continue running the website smoothly without total downtime. It requires a load balancer to distribute incoming user traffic evenly.",
+    "synonyms": [
+      "scale horizontally",
+      "add server nodes",
+      "expand cluster"
+    ],
+    "antonyms": [
+      "scale in",
+      "scale up",
+      "shrink cluster"
+    ],
+    "nounForm": "horizontal scaling",
+    "verbForm": "scale out",
+    "adjectiveForm": "scaled-out",
+    "partOfSpeech": "phrase (verb + adverb)",
+    "commonContext": "Cloud infrastructure architecture, distributed databases, web hosting management",
+    "usageTip": "Use 'scale out' when explaining a plan that adds more server boxes to a cluster to manage user volume.",
+    "commonMistake": "Confusing 'scale out' with 'scale up'; scaling out adds more servers, while scaling up makes one server bigger.",
+    "collocations": [
+      "scale out horizontally",
+      "need to scale out",
+      "scale out cloud infrastructure"
+    ]
+  }
+]

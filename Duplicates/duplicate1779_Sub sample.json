@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Sub sample",
+    "meaning": "A smaller group of data points taken from a larger set for analysis",
+    "shortMeaning": "part of a sample",
+    "example": "We analyzed a sub sample of the survey results to get a quick estimate.",
+    "example2": "The sub sample must be diverse to represent the whole population fairly.",
+    "example3": "The researcher selected a sub sample of 100 users for the interview.",
+    "Explanation": "A sub sample is a subset of a larger sample or population. In statistics and data science, it is often too expensive or time-consuming to look at every single piece of data. Instead, researchers take a 'sample'. If that sample is still too big, they might take a 'sub sample'. The key is to ensure the sub sample is chosen randomly so that it still accurately reflects the characteristics of the larger group. If a sub sample is biased, the results of the analysis will be wrong.",
+    "synonyms": [
+      "subset",
+      "representative group"
+    ],
+    "antonyms": [
+      "whole population",
+      "full set"
+    ],
+    "nounForm": "subsample",
+    "verbForm": "subsample",
+    "adjectiveForm": "subsampled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Statistics, Research, and Data Science",
+    "usageTip": "Ensure your sub sample is large enough to be statistically significant.",
+    "commonMistake": "Picking only the 'easy' data points for a sub sample, which ruins the accuracy.",
+    "collocations": [
+      "random sub sample",
+      "sub sample size"
+    ]
+  },
+  {
+    "word": "Sub sample",
+    "meaning": "To collect or analyze a smaller, manageable subset of data points from a massive dataset",
+    "shortMeaning": "sample a smaller subset",
+    "example": "We can sub sample the high-resolution user logs to process them without crashing the server.",
+    "example2": "The monitoring tool will sub sample network packets during peak traffic hours.",
+    "example3": "Analysts often sub sample database records to quickly test their new predictive formulas.",
+    "Explanation": "The verb phrase 'sub sample' (frequently written as the single word 'subsample') refers to the process of extracting a smaller group of observations from a larger primary data collection. In data engineering, processing billions of rows of tracking metrics can be too slow or expensive. By sub sampling, engineers take a representative fraction to perform fast calculations, build quick prototypes, or run diagnostics while maintaining statistical accuracy.",
+    "synonyms": [
+      "downsample",
+      "extract subset",
+      "reduce data rate"
+    ],
+    "antonyms": [
+      "upsample",
+      "oversample"
+    ],
+    "nounForm": "subsample / subsampling",
+    "verbForm": "sub sample",
+    "adjectiveForm": "subsampled",
+    "partOfSpeech": "verb",
+    "commonContext": "Data analysis, machine learning pipelines, and log file processing",
+    "usageTip": "Use this phrase when you need to explain how you are shrinking a large dataset to speed up processing.",
+    "commonMistake": "Spelling it with a space when your coding environment explicitly requires the single-word function name.",
+    "collocations": [
+      "sub sample the data",
+      "sub sample randomly",
+      "sub sample strategy"
+    ]
+  }
+]

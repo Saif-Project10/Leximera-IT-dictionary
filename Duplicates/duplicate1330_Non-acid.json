@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Non-acid",
+    "meaning": "Not acidic; having a pH that is neutral or basic",
+    "shortMeaning": "not acidic",
+    "example": "This is a non-acid cleaner safe for marble surfaces.",
+    "example2": "For heartburn, he drinks non-acid juices.",
+    "example3": "The soil in this area is non-acid.",
+    "Explanation": "'Non-acid' is a compound adjective created by adding the prefix 'non-' to 'acid'. It simply means the absence of acidic properties. It is used in chemistry, cleaning products, food and beverage descriptions, and agriculture. It is a straightforward descriptive term. The hyphen is important for clarity, especially when placed before a noun. It is the opposite of 'acidic' or 'acid-forming'.",
+    "synonyms": [
+      "alkaline",
+      "basic",
+      "neutral"
+    ],
+    "antonyms": [
+      "acidic",
+      "acid"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-acid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Chemistry, food & drink, cleaning products, gardening",
+    "usageTip": "Use a hyphen, especially when it comes before the noun it modifies (non-acid solution).",
+    "commonMistake": "Writing it as 'nonacid' (one word without a hyphen), which is less common.",
+    "collocations": [
+      "non-acid food",
+      "non-acid pH",
+      "non-acid reflux"
+    ]
+  },
+  {
+    "word": "Non-acid",
+    "meaning": "In IT, implies data or a system not meeting strict ACID criteria",
+    "shortMeaning": "not strictly ACID",
+    "example": "The database uses a non-acid approach for high-speed writes.",
+    "example2": "Some NoSQL systems are non-acid by design.",
+    "example3": "This non-acid configuration favors availability over consistency.",
+    "Explanation": "ACID refers to the four properties of reliable database transactions: Atomicity, Consistency, Isolation, and Durability. A 'non-acid' system intentionally relaxes these rules—often to achieve faster performance or better scalability in distributed systems. While it makes the system faster, it means you have to handle data consistency issues at the application level. It is a trade-off that requires careful thought about how your data might become temporarily 'out of sync'.",
+    "synonyms": [
+      "BASE (Basically Available, Soft state, Eventual consistency)"
+    ],
+    "antonyms": [
+      "ACID"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-acid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database theory",
+    "usageTip": "Use 'non-acid' to describe databases that don't prioritize strict consistency.",
+    "commonMistake": "Using a non-acid database for financial records without understanding the consistency risks.",
+    "collocations": [
+      "non-acid database",
+      "non-acid transaction",
+      "non-acid design"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Tensile",
+    "meaning": "Relating to tension or the ability to be stretched.",
+    "shortMeaning": "related to stretching",
+    "example": "The cable's tensile strength is rated for heavy loads.",
+    "example2": "Tensile properties are important for hardware durability.",
+    "example3": "The structure is designed to handle tensile stress.",
+    "Explanation": "The word 'tensile' refers to forces that pull an object apart. While mostly used in mechanical engineering or hardware physics, it is used in IT when discussing the physical limits of server racks, cables, or hardware mounts. It is not common in software coding, but if you are working on IoT (Internet of Things) or robotics, you might encounter specifications involving tensile forces or ratings.",
+    "synonyms": [
+      "stretching",
+      "extensible"
+    ],
+    "antonyms": [
+      "compressive"
+    ],
+    "nounForm": "tension",
+    "verbForm": "N/A",
+    "adjectiveForm": "tensile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware and robotics",
+    "usageTip": "Use 'tensile' when describing hardware stretched by force.",
+    "commonMistake": "Using 'tensile' to describe abstract software stretchiness.",
+    "collocations": [
+      "tensile strength",
+      "tensile stress"
+    ]
+  },
+  {
+    "word": "Tensile",
+    "meaning": "Relating to tension or the ability to be stretched",
+    "shortMeaning": "stretching-related",
+    "example": "The cable has high tensile strength.",
+    "example2": "The material must withstand tensile forces.",
+    "example3": "He tested the tensile limit of the wire.",
+    "Explanation": "The word 'tensile' refers to tension, which is the force that pulls something. 'Tensile strength' is a key metric in materials science and hardware engineering, measuring how much stress a material can take before it breaks. It is rarely used in software but is common when discussing hardware, robotics, or structural components of IT equipment. It is a technical adjective. It describes a physical property.",
+    "synonyms": [
+      "stretching",
+      "elastic",
+      "tension-related"
+    ],
+    "antonyms": [
+      "compressive",
+      "rigid",
+      "inflexible"
+    ],
+    "nounForm": "tension",
+    "verbForm": "N/A",
+    "adjectiveForm": "tensile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware engineering, robotics, materials science",
+    "usageTip": "Use 'tensile' when talking about hardware materials and their strength.",
+    "commonMistake": "Confusing it with 'tensive', which is less commonly used.",
+    "collocations": [
+      "tensile strength",
+      "tensile force",
+      "tensile limit"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Polyfill",
+    "meaning": "Code that provides modern functionality in older browsers that don't natively support it.",
+    "shortMeaning": "backward compatibility code",
+    "example": "We included a polyfill for the fetch API to support Internet Explorer.",
+    "example2": "The polyfill implements Promises in browsers that lack them.",
+    "example3": "Babel includes polyfills for newer JavaScript features.",
+    "Explanation": "'Polyfill' is code that replicates modern APIs in older environments, allowing developers to use new features while maintaining backward compatibility. The term comes from 'polyfilla', a UK brand of spackling paste that fills holes in walls - similarly, polyfills fill gaps in browser implementations. For example, a polyfill might add support for ES6 features in ES5-only browsers. Polyfills differ from transpilers (which convert syntax) - polyfills add missing functionality at runtime. They are essential tools for web developers needing to support diverse browser environments while using modern web standards.",
+    "synonyms": [
+      "shim",
+      "fallback",
+      "compatibility layer"
+    ],
+    "antonyms": [
+      "native implementation",
+      "modern feature"
+    ],
+    "nounForm": "polyfill",
+    "verbForm": "polyfill",
+    "adjectiveForm": "polyfilled",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Web development, browser compatibility, JavaScript tooling",
+    "usageTip": "Use polyfills for missing APIs, use transpilers (like Babel) for syntax conversion.",
+    "commonMistake": "Confusing polyfills with transpilers. Polyfills add missing functions; transpilers convert newer syntax to older syntax.",
+    "collocations": [
+      "polyfill library",
+      "browser polyfill",
+      "polyfill service"
+    ]
+  },
+  {
+    "word": "Polyfill",
+    "meaning": "A piece of code used to provide modern features on older browsers that do not support them",
+    "shortMeaning": "compatibility code",
+    "example": "We had to add a polyfill for the 'fetch' API to support Internet Explorer.",
+    "example2": "Check if a polyfill is available for the new CSS feature you want to use.",
+    "example3": "Polyfills help developers use modern JavaScript while keeping old users happy.",
+    "Explanation": "A polyfill is like a 'patch' for an old browser. If you want to use a cool new feature that only works in Chrome, but some of your users still use old browsers, you use a polyfill. The polyfill checks if the feature exists. If not, it uses its own code to 'simulate' that feature. It 'fills' the 'gap' in the browser's capabilities. It is a common part of modern web development.",
+    "synonyms": [
+      "fallback",
+      "shim"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "polyfill",
+    "verbForm": "polyfill",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web development and browser compatibility",
+    "usageTip": "Use 'polyfill' when you need to make new code work on old software.",
+    "commonMistake": "Confusing 'polyfill' with 'library'; a polyfill specifically replaces a missing standard feature.",
+    "collocations": [
+      "JavaScript polyfill",
+      "add a polyfill",
+      "polyfill service"
+    ]
+  }
+]

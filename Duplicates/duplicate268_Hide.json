@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Hide",
+    "meaning": "To put or keep out of sight; to conceal",
+    "shortMeaning": "conceal",
+    "example": "Where did you hide the keys?",
+    "example2": "The sun hid behind the clouds.",
+    "example3": "You can't hide the truth forever.",
+    "Explanation": "The verb 'hide' is the base form meaning to prevent something from being seen or discovered. It is a simple, common, and versatile verb used for both physical objects and abstract things like feelings or information. Its past tense is 'hid', and past participle is 'hidden'. The noun form is 'hiding'. It is one of the most fundamental verbs in English for the concept of concealment.",
+    "synonyms": [
+      "conceal",
+      "cover",
+      "secrete",
+      "mask"
+    ],
+    "antonyms": [
+      "show",
+      "reveal",
+      "display",
+      "expose"
+    ],
+    "nounForm": "hiding",
+    "verbForm": "hide",
+    "adjectiveForm": "hidden",
+    "partOfSpeech": "verb",
+    "commonContext": "Games, secrets, emotions, objects",
+    "usageTip": "Can be used with or without an object: 'Hide!' (intransitive) vs. 'Hide the box.' (transitive).",
+    "commonMistake": "Confusing the past forms 'hid' and 'hidden'.",
+    "collocations": [
+      "hide and seek",
+      "hide from view",
+      "hide your feelings",
+      "go into hiding"
+    ]
+  },
+  {
+    "word": "Hide",
+    "meaning": "To put something in a place where it cannot be seen or found",
+    "shortMeaning": "conceal",
+    "example": "You can hide the taskbar to save screen space.",
+    "example2": "The animal will hide from its predators in the long grass.",
+    "example3": "The developer decided to hide the advanced settings from the main menu.",
+    "Explanation": "To 'hide' is to make something invisible or secret. In user interface design, we often 'hide' complex features so the screen doesn't look messy (clutter). In programming, 'data hiding' or 'information hiding' is a key concept where the internal details of an object are hidden from the outside to prevent errors. It can be a physical action or a digital setting. It is a very common word in everyday English and technical documentation. Its opposite is 'show' or 'reveal.'",
+    "synonyms": [
+      "conceal",
+      "obscure",
+      "cover"
+    ],
+    "antonyms": [
+      "reveal",
+      "show",
+      "expose"
+    ],
+    "nounForm": "hiding",
+    "verbForm": "hide",
+    "adjectiveForm": "hidden",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday life, UI design, and programming",
+    "usageTip": "Use 'hide' for things you want to make invisible or secret.",
+    "commonMistake": "Confusing 'hide' with 'delete' (hiding something means it is still there).",
+    "collocations": [
+      "hide and seek",
+      "hidden file",
+      "hide settings"
+    ]
+  }
+]

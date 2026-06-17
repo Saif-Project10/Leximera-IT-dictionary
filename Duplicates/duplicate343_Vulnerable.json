@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Vulnerable",
+    "meaning": "Exposed to the possibility of being attacked or harmed, physically or emotionally.",
+    "shortMeaning": "open to harm",
+    "example": "The coastal town is vulnerable to hurricanes.",
+    "example2": "She felt vulnerable sharing her personal story.",
+    "example3": "A computer without a firewall is vulnerable to hackers.",
+    "Explanation": "'Vulnerable' is an adjective describing a state of being unprotected and easily hurt. This hurt can be physical (from disease or attack), emotional (from criticism), or digital (from cyber attacks). It implies a weakness or a lack of defenses. The noun is 'vulnerability'. While often negative, showing vulnerability can also be a sign of courage and trust in personal relationships. It is a stronger and more emotional word than 'susceptible', often implying a more serious potential for harm.",
+    "synonyms": [
+      "exposed",
+      "defenseless",
+      "at risk",
+      "susceptible",
+      "unprotected"
+    ],
+    "antonyms": [
+      "invulnerable",
+      "protected",
+      "resilient",
+      "secure",
+      "strong"
+    ],
+    "nounForm": "vulnerability",
+    "verbForm": "N/A",
+    "adjectiveForm": "vulnerable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, emotions, ecology, child protection",
+    "usageTip": "Often followed by 'to': 'vulnerable to attack'.",
+    "commonMistake": "Using it to mean just 'weak'; vulnerability is about being open to harm from a specific source.",
+    "collocations": [
+      "vulnerable to",
+      "especially vulnerable",
+      "vulnerable position",
+      "protect the vulnerable"
+    ]
+  },
+  {
+    "word": "Vulnerable",
+    "meaning": "Exposed to the possibility of being attacked or harmed",
+    "shortMeaning": "at risk",
+    "example": "The legacy server is vulnerable to common malware.",
+    "example2": "Unpatched software is highly vulnerable to attacks.",
+    "example3": "We must secure the vulnerable data connections.",
+    "Explanation": "In cybersecurity, 'vulnerable' describes a system, network, or data set that has a weakness which an attacker could exploit. A vulnerability can be a missing patch, a weak password, or an unencrypted link. Being 'vulnerable' is a state of being at risk. IT security teams spend most of their time identifying and fixing these vulnerabilities to reduce risk. It is a central term in all cybersecurity conversations. Always assume your systems have some vulnerabilities and work to minimize them.",
+    "synonyms": [
+      "exposed",
+      "at risk",
+      "weak"
+    ],
+    "antonyms": [
+      "secure",
+      "hardened",
+      "protected"
+    ],
+    "nounForm": "vulnerability",
+    "verbForm": "N/A",
+    "adjectiveForm": "vulnerable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, system safety, data protection",
+    "usageTip": "Use 'vulnerable' to describe a lack of security.",
+    "commonMistake": "Confusing 'vulnerable' with 'compromised' (compromised means it was already attacked).",
+    "collocations": [
+      "highly vulnerable",
+      "vulnerable to attack"
+    ]
+  },
+  {
+    "word": "Vulnerable",
+    "meaning": "Susceptible to being attacked, damaged, or exploited.",
+    "shortMeaning": "at risk",
+    "example": "Outdated software is highly vulnerable to cyberattacks.",
+    "example2": "The network was left vulnerable due to a misconfiguration.",
+    "example3": "We patched the vulnerable code to protect the user data.",
+    "Explanation": "'Vulnerable' describes any aspect of a system that can be exploited by an attacker. This includes weak passwords, unpatched software, or insecure network configurations. In IT security, identifying what is vulnerable is the first step in protecting the system. A system can be vulnerable to many things—data breaches, denial-of-service, or unauthorized access. You must constantly monitor and patch to reduce your attack surface. It is a fundamental term in risk management.",
+    "synonyms": [
+      "exposed",
+      "at-risk",
+      "unsecured"
+    ],
+    "antonyms": [
+      "secure",
+      "hardened",
+      "protected"
+    ],
+    "nounForm": "vulnerability",
+    "verbForm": "N/A",
+    "adjectiveForm": "vulnerable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, system admin",
+    "usageTip": "Use this to describe security risks.",
+    "commonMistake": "Assuming 'vulnerable' means it has already been hacked.",
+    "collocations": [
+      "vulnerable to attack",
+      "vulnerable system",
+      "vulnerable point"
+    ]
+  }
+]

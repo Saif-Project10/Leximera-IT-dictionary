@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Untested",
+    "meaning": "Not having been tested to see how well it works or if it is safe",
+    "shortMeaning": "not tried out",
+    "example": "The theory remains untested.",
+    "example2": "They used an untested method, which was risky.",
+    "example3": "The new material is strong but untested in extreme cold.",
+    "Explanation": "The adjective 'untested' describes something that has not yet been subjected to a trial, experiment, or evaluation. It implies uncertainty about its performance, safety, or validity. It can be neutral (a new, untested idea) or carry a negative connotation of risk (an untested drug). The verb form is 'test'. It's a common word in science, engineering, and decision-making contexts.",
+    "synonyms": [
+      "unproven",
+      "unverified",
+      "unchecked",
+      "experimental"
+    ],
+    "antonyms": [
+      "tested",
+      "proven",
+      "verified",
+      "tried-and-true"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "test",
+    "adjectiveForm": "untested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Products, theories, methods, software, people",
+    "usageTip": "Often used to highlight a potential risk or an area requiring further evaluation.",
+    "commonMistake": "Confusing it with 'unsettled', which means not decided.",
+    "collocations": [
+      "untested theory",
+      "untested waters",
+      "untested assumption",
+      "remain untested"
+    ]
+  },
+  {
+    "word": "Untested",
+    "meaning": "Not subjected to tests or verification procedures.",
+    "shortMeaning": "not tested",
+    "example": "The patch was pushed to production while still untested.",
+    "example2": "Never deploy untested code to a live environment.",
+    "example3": "An untested algorithm might fail under high load.",
+    "Explanation": "The word 'untested' indicates that a piece of software, hardware, or logic has not undergone the necessary verification steps to ensure it works correctly. In IT, this is a significant risk factor as it can lead to bugs, crashes, or security vulnerabilities. The root verb is 'test'. Use this term as a warning against moving components into a live or production environment without proper quality assurance.",
+    "synonyms": [
+      "unverified",
+      "unchecked",
+      "unvalidated"
+    ],
+    "antonyms": [
+      "tested",
+      "verified",
+      "validated"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "untested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, quality assurance, and engineering",
+    "usageTip": "Use 'untested' to signal potential risk in software deployment.",
+    "commonMistake": "Ignoring the danger of untested code.",
+    "collocations": [
+      "untested code",
+      "untested software",
+      "remain untested"
+    ]
+  },
+  {
+    "word": "Untested",
+    "meaning": "Not yet examined or checked for performance or quality",
+    "shortMeaning": "not checked",
+    "example": "The code remains untested before the main release.",
+    "example2": "Do not deploy untested software to the live server.",
+    "example3": "The new security feature is currently untested.",
+    "Explanation": "Untested refers to any software, feature, or hardware that has not gone through a formal validation or testing process. In IT, using untested components is risky because it may lead to unpredictable bugs, crashes, or security vulnerabilities. Professional development cycles always include a testing phase to minimize these risks. Before a project reaches the final stage, all modules must be moved out of the untested state through rigorous quality assurance. Avoid relying on untested solutions in production environments.",
+    "synonyms": [
+      "unchecked",
+      "unverified",
+      "experimental"
+    ],
+    "antonyms": [
+      "tested",
+      "verified",
+      "validated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "untested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software quality assurance and deployment",
+    "usageTip": "Use it to highlight potential risks in a system.",
+    "commonMistake": "Assuming something works just because it was written.",
+    "collocations": [
+      "remains untested",
+      "untested code",
+      "untested software"
+    ]
+  }
+]

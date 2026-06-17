@@ -1,0 +1,52 @@
+[
+  {
+    "word": "Binary search",
+    "meaning": "An efficient algorithm that finds a value in a sorted list by repeatedly splitting the list in half",
+    "shortMeaning": "half-split search",
+    "example": "Binary search is much faster than looking through a list one by one.",
+    "example2": "You must sort the array before you can perform a binary search.",
+    "example3": "The computer used binary search to find the user's name in the large database.",
+    "Explanation": "Binary search is a 'divide and conquer' algorithm. It starts by looking at the middle element of a sorted list. If the middle element is not the target, it discards the half where the target cannot be and repeats the process on the remaining half. This makes it incredibly fast even for millions of items. However, the list *must* be sorted for this to work. If the list is unsorted, the algorithm will fail. It is a classic topic in coding interviews and a building block for many complex systems.",
+    "synonyms": [
+      "half-interval search",
+      "logarithmic search",
+      "binary chop"
+    ],
+    "antonyms": [
+      "linear search",
+      "sequential search",
+      "N/A"
+    ],
+    "nounForm": "binary search",
+    "verbForm": "binary search",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Algorithms and data structures",
+    "usageTip": "Only use binary search on lists that are already sorted.",
+    "commonMistake": "Trying to use binary search on a list that isn't sorted, which leads to wrong results.",
+    "collocations": [
+      "perform a binary search",
+      "binary search implementation",
+      "binary search complexity"
+    ]
+  },
+  {
+    "word": "Binary search",
+    "meaning": "A very fast algorithm for finding an item in a sorted list by repeatedly splitting the list in half",
+    "shortMeaning": "fast search algorithm",
+    "example": "Binary search is much faster than looking through a list one by one.",
+    "example2": "To use binary search, the list must be sorted first.",
+    "example3": "A binary search can find one item in a million in only 20 steps.",
+    "Explanation": "Imagine looking for a word in a dictionary. You open it in the middle; if the word is 'later,' you ignore the first half and open the second half in the middle. You keep doing this until you find it. This is a binary search. It is one of the most important concepts in computer science because it is incredibly efficient ($O(\\log n)$ complexity). It is used in databases and every high-performance search feature.",
+    "synonyms": [
+      "half-interval search",
+      "logarithmic search"
+    ],
+    "antonyms": [
+      "linear search"
+    ],
+    "commonContext": "Algorithms and data structures",
+    "usageTip": "Always sort your data if you plan to search through it many times using binary search.",
+    "partOfSpeech": "noun"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Ping sweep",
+    "meaning": "A network scanning technique used to discover which IP addresses in a range are active/live",
+    "shortMeaning": "IP discovery scan",
+    "example": "The administrator ran a ping sweep to map all the connected devices in the office.",
+    "example2": "An attacker might use a ping sweep to find targets before launching a full attack.",
+    "example3": "A ping sweep sends multiple ICMP requests to a series of IP addresses.",
+    "Explanation": "A ping sweep is like a digital 'roll call.' Instead of pinging just one computer, you ping every possible address in a range (for example, everything from 192.168.1.1 to 192.168.1.255). Any device that sends back a reply is marked as 'live.' This is a standard practice for network administrators to keep track of inventory. However, it is also a common first step for hackers (reconnaissance) to see which computers are online and vulnerable. Most modern security systems detect and alert when an unauthorized ping sweep is happening.",
+    "synonyms": [
+      "ICMP sweep",
+      "network discovery",
+      "IP range scan"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ping sweep",
+    "verbForm": "ping sweep",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Network administration and security auditing",
+    "usageTip": "Use a ping sweep to quickly find the IP address of a new printer or server on your network.",
+    "commonMistake": "Assuming a ping sweep will find *every* device; devices with firewalls may remain hidden by not replying.",
+    "collocations": [
+      "perform a ping sweep",
+      "unauthorized ping sweep",
+      "fast ping sweep"
+    ]
+  },
+  {
+    "word": "Ping sweep",
+    "meaning": "A technique used to find out which IP addresses in a range are active",
+    "shortMeaning": "network scanning",
+    "example": "The hacker used a ping sweep to find targets on the local network.",
+    "example2": "An admin might run a ping sweep to see which computers are turned on.",
+    "example3": "Firewalls can be configured to block a ping sweep to hide the network.",
+    "Explanation": "A ping sweep (also known as an ICMP sweep) involves sending ping requests to multiple IP addresses one after another. If a device responds, the scanner knows that IP is 'alive'. It is a common first step in network discovery. For administrators, it helps in mapping the network. For attackers, it helps identify which systems are available to be attacked. Because it can be noisy and easily detected by security software, it is often considered a basic scanning technique.",
+    "synonyms": [
+      "ICMP sweep",
+      "network discovery scan"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ping sweep",
+    "verbForm": "ping sweep",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / phrase",
+    "commonContext": "Cybersecurity and network administration",
+    "usageTip": "Use a ping sweep tool to quickly inventory all devices on your subnet.",
+    "commonMistake": "Thinking a ping sweep is the same as a port scan; a ping sweep only checks if the host is up.",
+    "collocations": [
+      "run a ping sweep",
+      "automated ping sweep",
+      "detect a ping sweep"
+    ]
+  }
+]

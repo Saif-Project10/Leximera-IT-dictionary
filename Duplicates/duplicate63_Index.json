@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Index",
+    "meaning": "An alphabetical list at the end of a book; a sign or measure of something; in computing, a data structure for fast retrieval | An alphabetical list of names, subjects, etc., with references to where they occur; a sign or measure of something.",
+    "shortMeaning": "list, indicator, or database structure",
+    "example": "Look up the topic in the book's index.",
+    "example2": "The stock market index fell by 2% today.",
+    "example3": "The database index speeds up search queries.",
+    "Explanation": "'Index' has several important meanings. In publishing, it's a list of topics with page references. In economics, it's a statistical measure (like CPI). In mathematics, it's a small number showing a power. In computing, it's a structure that improves database search speed. As a verb, it means to compile an index or arrange for fast retrieval. The plural is 'indexes' or 'indices' (more common in technical/mathematical contexts). Each meaning relates to organization and reference.",
+    "synonyms": [
+      "Catalog",
+      "Guide",
+      "Indicator",
+      "List",
+      "Register"
+    ],
+    "antonyms": [
+      "Disorganization",
+      "N/A",
+      "Random Arrangement"
+    ],
+    "nounForm": "index",
+    "verbForm": "index",
+    "adjectiveForm": "indexed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Books, finance, databases, mathematics, measurement",
+    "usageTip": "In finance/math, plural is often 'indices'. In general/publishing, 'indexes' is fine.",
+    "commonMistake": "Using 'index' to mean only a book's index; it has broader technical meanings.",
+    "collocations": [
+      "stock index",
+      "index finger",
+      "price index",
+      "create an index",
+      "index card"
+    ]
+  },
+  {
+    "word": "Index",
+    "meaning": "An alphabetical or numerical list used to find information quickly",
+    "shortMeaning": "reference list",
+    "example": "You can check the index at the back of the book to find the page on 'databases.'",
+    "example2": "The database uses an index on the 'User_ID' column to speed up searches.",
+    "example3": "The search engine will index our new website within a few days.",
+    "Explanation": "In general English, an 'index' is a guide at the back of a book. In IT, 'indexing' is a vital concept for performance. A database 'index' is like a shortcut that allows the server to find data without looking at every single row. Without an index, a search might take seconds; with an index, it takes milliseconds. In programming, an 'index' is the number that represents the position of an item in an array or list. It is a fundamental tool for organizing and retrieving information efficiently.",
+    "synonyms": [
+      "list",
+      "catalog",
+      "directory"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "index / indexing",
+    "verbForm": "index",
+    "adjectiveForm": "indexed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Databases, search engines, and arrays",
+    "usageTip": "Use an 'index' to make your search queries run much faster in a database.",
+    "commonMistake": "Indexing every single column in a database (this makes writing data very slow).",
+    "collocations": [
+      "database index",
+      "search engine index",
+      "index number"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Wordy",
+    "meaning": "Using or expressed in too many words; verbose",
+    "shortMeaning": "using too many words",
+    "example": "The essay was wordy and could be cut by half.",
+    "example2": "Avoid wordy phrases like 'at this point in time' instead of 'now'.",
+    "example3": "His explanations are often too wordy and confusing.",
+    "Explanation": "Wordy is a negative adjective describing language that is unnecessarily long and full of redundant or empty words. Wordy writing or speech is hard to follow, boring, and wastes the reader's or listener's time. It is the opposite of concise, succinct, or compact. Common causes include trying to sound impressive, poor editing, or not being clear on the main point. Editing for conciseness involves removing wordiness. It's a common critique in academic, business, and creative writing. The noun is 'wordiness'.",
+    "synonyms": [
+      "verbose",
+      "long-winded",
+      "prolix",
+      "rambling"
+    ],
+    "antonyms": [
+      "concise",
+      "succinct",
+      "terse",
+      "laconic"
+    ],
+    "nounForm": "wordiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "wordy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Writing critiques, editing, speech analysis",
+    "usageTip": "A useful word for giving constructive feedback on writing or presentations.",
+    "commonMistake": "Thinking a long piece is automatically wordy; it's about unnecessary length, not total length.",
+    "collocations": [
+      "wordy explanation",
+      "avoid being wordy",
+      "wordy and confusing"
+    ]
+  },
+  {
+    "word": "Wordy",
+    "meaning": "Containing too many words, making communication long and hard to follow.",
+    "shortMeaning": "long-winded",
+    "example": "The documentation is too wordy and hard to read.",
+    "example2": "Please rewrite the error message; it is very wordy.",
+    "example3": "A wordy explanation often leads to misunderstanding.",
+    "Explanation": "The word 'wordy' describes text, reports, or explanations that use unnecessary words, making them bloated. In IT, clear and concise communication is preferred, so a 'wordy' document can be a productivity killer. The noun form is 'wordiness'. Always try to get to the point quickly, especially in code comments and logs. If someone calls your work 'wordy', they are suggesting you should simplify and condense your writing.",
+    "synonyms": [
+      "long-winded",
+      "verbose",
+      "rambling"
+    ],
+    "antonyms": [
+      "concise",
+      "brief",
+      "clear"
+    ],
+    "nounForm": "wordiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "wordy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Writing, documentation, technical communication",
+    "usageTip": "Use 'wordy' to suggest that a text should be shortened.",
+    "commonMistake": "Using 'wordy' to mean 'complex' (wordy is about length, not just difficulty).",
+    "collocations": [
+      "too wordy",
+      "wordy explanation",
+      "wordy document"
+    ]
+  },
+  {
+    "word": "Wordy",
+    "meaning": "Containing too many words or unnecessarily long",
+    "shortMeaning": "too many words",
+    "example": "The documentation is a bit wordy and hard to read.",
+    "example2": "Try to make your report less wordy.",
+    "example3": "Avoid wordy explanations in your code comments.",
+    "Explanation": "A 'wordy' piece of writing or speech uses more words than necessary to express an idea. It makes communication inefficient and difficult to follow. In technical writing, being concise is preferred, so being called 'wordy' is usually a critique of your clarity. It is best to simplify sentences to improve readability. Using fewer words to deliver the same message is a key skill in professional and technical documentation.",
+    "synonyms": [
+      "verbose",
+      "long-winded",
+      "rambling"
+    ],
+    "antonyms": [
+      "concise",
+      "brief",
+      "succinct"
+    ],
+    "nounForm": "wordiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "wordy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Writing, documentation, communication",
+    "usageTip": "Use 'wordy' to criticize writing that needs to be shortened for clarity.",
+    "commonMistake": "Confusing 'wordy' with 'detailed' (wordy implies unnecessary fluff).",
+    "collocations": [
+      "wordy report",
+      "wordy documentation",
+      "less wordy"
+    ]
+  }
+]

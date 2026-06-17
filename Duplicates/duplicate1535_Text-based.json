@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Text-based",
+    "meaning": "Using or consisting only of text; not involving graphics, sound, or video",
+    "shortMeaning": "using only text",
+    "example": "Early computers used text-based interfaces like the command line.",
+    "example2": "It's a text-based adventure game from the 1980s.",
+    "example3": "We communicate mainly through text-based messages like email.",
+    "Explanation": "The adjective 'text-based' describes systems, interfaces, communication, or content that rely solely on written characters (letters, numbers, symbols). This contrasts with graphical, audio, or video-based media. Text-based interfaces (e.g., command lines, some email clients) are often faster and more efficient for expert users. Text-based communication (SMS, chat) is ubiquitous. In computing, 'text-based protocols' (like HTTP or SMTP) are human-readable. The term can imply simplicity, efficiency, or a lack of modern multimedia features, depending on context. It's a neutral descriptor of format.",
+    "synonyms": [
+      "character-based",
+      "non-graphical",
+      "ASCII-based"
+    ],
+    "antonyms": [
+      "graphical",
+      "GUI-based",
+      "multimedia",
+      "video-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "text-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing (interfaces, games), communication, data formats",
+    "usageTip": "Use it to describe the primary medium of a system or communication.",
+    "commonMistake": "Thinking 'text-based' means low-quality; it often means focused and efficient.",
+    "collocations": [
+      "text-based interface",
+      "text-based game",
+      "text-based communication",
+      "text-based file"
+    ]
+  },
+  {
+    "word": "Text-based",
+    "meaning": "Using text as the primary format for information or interaction.",
+    "shortMeaning": "using text",
+    "example": "The command-line interface is text-based.",
+    "example2": "We use a text-based format for our configuration files.",
+    "example3": "The communication protocol is text-based for readability.",
+    "Explanation": "The term 'text-based' describes anything that relies on characters (like ASCII or UTF-8) rather than binary or graphical formats. Text-based systems are often preferred because they are readable by humans, easy to edit, and highly portable. JSON, XML, and YAML are all popular text-based formats. While binary formats are faster, text-based ones are usually better for debugging and configuration.",
+    "synonyms": [
+      "textual",
+      "ASCII-based"
+    ],
+    "antonyms": [
+      "binary",
+      "graphical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "text-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data formats and interfaces",
+    "usageTip": "Use 'text-based' for formats that are readable by humans.",
+    "commonMistake": "Confusing 'text-based' with 'simple'; it can be very complex.",
+    "collocations": [
+      "text-based format",
+      "text-based interface"
+    ]
+  },
+  {
+    "word": "Text-based",
+    "meaning": "Consisting primarily of text rather than images or graphics",
+    "shortMeaning": "text only",
+    "example": "This is a text-based interface.",
+    "example2": "The logs are in a text-based format.",
+    "example3": "Text-based games were popular in the past.",
+    "Explanation": "Text-based describes systems or data that use text characters for information display. Command-line interfaces and plain text files are examples. These are often easier to parse and lighter on resources than visual formats. They are essential in IT for logging, scripting, and communication. Text-based systems are often more compatible across different platforms and environments.",
+    "synonyms": [
+      "plain text",
+      "character-based"
+    ],
+    "antonyms": [
+      "graphical",
+      "visual",
+      "UI-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "text-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Command line, logging, file formats",
+    "usageTip": "Use this for interfaces or data that rely on keyboard input/text output.",
+    "commonMistake": "Assuming text-based means it cannot have complex data structures.",
+    "collocations": [
+      "text-based interface",
+      "text-based format",
+      "text-based data"
+    ]
+  }
+]

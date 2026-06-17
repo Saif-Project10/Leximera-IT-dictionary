@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Self-calling",
+    "meaning": "(Of a function or process) Having the ability to call or invoke itself.",
+    "shortMeaning": "calls itself",
+    "example": "A recursive function is a self-calling function.",
+    "example2": "The program uses a self-calling algorithm to traverse the tree structure.",
+    "example3": "Be careful with self-calling code; without a proper exit condition, it will run forever.",
+    "Explanation": "Self-calling is a descriptive term for recursion in computer science. A self-calling function is one that, in its definition, includes a call to itself. This is a powerful technique for solving problems that can be broken down into smaller, identical sub-problems (like calculating factorials or traversing file directories). The 'self-' prefix clearly indicates the recursive nature. While 'recursive' is the standard term, 'self-calling' is a more intuitive description for those new to the concept. It highlights the potentially infinite loop if not controlled with a base case.",
+    "synonyms": [
+      "recursive",
+      "self-referential"
+    ],
+    "antonyms": [
+      "iterative",
+      "non-recursive",
+      "linear"
+    ],
+    "nounForm": "self-call",
+    "verbForm": "self-call",
+    "adjectiveForm": "self-calling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer programming, algorithms",
+    "usageTip": "A less common but perfectly clear synonym for 'recursive'. Used mostly in explanatory contexts.",
+    "commonMistake": "Using it outside of programming; it's a very specific technical term.",
+    "collocations": [
+      "self-calling function",
+      "self-calling routine",
+      "self-calling method"
+    ]
+  },
+  {
+    "word": "Self-calling",
+    "meaning": "A function or process that calls itself",
+    "shortMeaning": "recursive",
+    "example": "The self-calling function caused a stack overflow error.",
+    "example2": "Recursive logic is essentially self-calling.",
+    "example3": "Avoid infinite loops in self-calling routines.",
+    "Explanation": "Self-calling refers to a function or procedure that invokes itself during execution. In programming, this is commonly known as recursion. It is a powerful way to solve complex problems by breaking them down into smaller, similar sub-problems. However, if not handled correctly with a base case, it can lead to memory issues or crashes. It is a technical term used primarily when discussing algorithm design and function logic. Always include a termination condition to prevent endless loops.",
+    "synonyms": [
+      "recursive",
+      "self-invoking"
+    ],
+    "antonyms": [
+      "iterative",
+      "linear"
+    ],
+    "nounForm": "recursion",
+    "verbForm": "call",
+    "adjectiveForm": "self-calling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, algorithms, function logic",
+    "usageTip": "Use 'self-calling' to describe recursive functions in code documentation.",
+    "commonMistake": "Forgetting to set a base case, which leads to infinite loops.",
+    "collocations": [
+      "self-calling function",
+      "self-calling routine",
+      "self-calling logic"
+    ]
+  },
+  {
+    "word": "Self-calling",
+    "meaning": "A function that calls itself within its own code",
+    "shortMeaning": "recursive",
+    "example": "The self-calling function caused a stack overflow.",
+    "example2": "This self-calling algorithm processes deep trees efficiently.",
+    "example3": "Avoid infinite loops in your self-calling logic.",
+    "Explanation": "A 'self-calling' function is another term for a recursive function. This is a common programming concept where a function solves a problem by calling itself to break the problem into smaller, simpler pieces. While powerful, it requires careful design to ensure the code eventually reaches a 'base case' to stop; otherwise, the program will crash with a stack overflow error. It is used in algorithms like sorting or traversing complex structures like folders. It is a classic computer science technique.",
+    "synonyms": [
+      "recursive",
+      "self-invoking"
+    ],
+    "antonyms": [
+      "iterative"
+    ],
+    "nounForm": "recursion",
+    "verbForm": "self-call",
+    "adjectiveForm": "self-calling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, algorithms, data structures",
+    "usageTip": "Use 'recursive' in formal contexts and 'self-calling' for clarity.",
+    "commonMistake": "Forgetting the base case, leading to infinite loops.",
+    "collocations": [
+      "self-calling function",
+      "self-calling logic"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Neural",
+    "meaning": "Relating to a nerve or the nervous system",
+    "shortMeaning": "relating to nerves",
+    "example": "The accident caused neural damage.",
+    "example2": "Neural pathways in the brain are complex.",
+    "example3": "Scientists study neural activity.",
+    "Explanation": "'Neural' is a technical adjective primarily used in biology, medicine, and computer science (specifically in 'neural networks', which are inspired by the brain). It describes anything pertaining to neurons, which are the cells that carry information in the nervous system. It's a precise term, not used in everyday conversation about simple feelings (use 'nervous' instead). In computing, it has become extremely common due to advances in artificial intelligence.",
+    "synonyms": [
+      "nervous",
+      "neuronal"
+    ],
+    "antonyms": [
+      "muscular",
+      "skeletal"
+    ],
+    "nounForm": "neuron",
+    "verbForm": "N/A",
+    "adjectiveForm": "neural",
+    "partOfSpeech": "adjective",
+    "commonContext": "Neuroscience, medicine, artificial intelligence",
+    "usageTip": "In computing, it's almost always part of the term 'neural network'.",
+    "commonMistake": "Confusing 'neural' (biological/technical) with 'nervous' (emotional state).",
+    "collocations": [
+      "neural network",
+      "neural activity",
+      "neural tube"
+    ]
+  },
+  {
+    "word": "Neural",
+    "meaning": "Relating to neurons or a nervous system",
+    "shortMeaning": "neuron-related",
+    "example": "Neural networks are used in artificial intelligence.",
+    "example2": "The design is based on neural activity patterns.",
+    "example3": "Neural processing is inspired by the human brain.",
+    "Explanation": "The word 'neural' refers to things that relate to neurons or the nervous system. In IT, 'neural' is most commonly used in the context of 'neural networks'—a branch of AI that models computer systems after the way biological neurons work in a brain. It is the core of machine learning and deep learning. Understanding the concept of 'neural' is essential for anyone interested in modern artificial intelligence and data modeling. It suggests a non-linear, adaptive learning approach.",
+    "synonyms": [
+      "nerve-related",
+      "biological-inspired"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "neuron",
+    "verbForm": "N/A",
+    "adjectiveForm": "neural",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, machine learning, brain science",
+    "usageTip": "Use when discussing machine learning or brain-inspired AI.",
+    "commonMistake": "Confusing 'neural' with 'logical' (these are very different).",
+    "collocations": [
+      "neural network",
+      "neural processing",
+      "neural activity"
+    ]
+  }
+]

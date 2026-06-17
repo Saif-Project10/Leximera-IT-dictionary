@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Bidirectional",
+    "meaning": "Operating or moving in two directions.",
+    "shortMeaning": "working in two directions",
+    "example": "This is a bidirectional street with traffic flowing both ways.",
+    "example2": "The printer has bidirectional communication with the computer.",
+    "example3": "Bidirectional data flow allows for real-time updates.",
+    "Explanation": "'Bidirectional' is an adjective describing systems, communication, or movement that works in two opposite directions. In computing, it refers to data flow that goes both ways between devices. In traffic, it describes streets where vehicles travel in both directions. The prefix 'bi-' means two, and 'directional' refers to direction. It's a technical term common in engineering, computing, and urban planning. It's the opposite of 'unidirectional' (one-way).",
+    "synonyms": [
+      "two-way",
+      "duplex",
+      "reciprocal"
+    ],
+    "antonyms": [
+      "unidirectional",
+      "one-way",
+      "simplex"
+    ],
+    "nounForm": "bidirectionality",
+    "verbForm": "N/A",
+    "adjectiveForm": "bidirectional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, electronics, traffic engineering, communication systems",
+    "usageTip": "Often used with technical terms: 'bidirectional communication', 'bidirectional data bus', 'bidirectional street'.",
+    "commonMistake": "Confusing with 'bilateral', which means involving two sides/parties, not necessarily two directions.",
+    "collocations": [
+      "bidirectional communication",
+      "bidirectional flow",
+      "bidirectional printing"
+    ]
+  },
+  {
+    "word": "Bidirectional",
+    "meaning": "Operating or moving in two opposite directions simultaneously or fluidly",
+    "shortMeaning": "two-way",
+    "example": "WebSockets allow for bidirectional communication between the browser client and the backend server.",
+    "example2": "The developer configured a bidirectional data sync between the local database and the cloud.",
+    "example3": "This layout switch supports bidirectional text, handling both English and Arabic perfectly.",
+    "Explanation": "The word 'bidirectional' describes two-way systems. In modern web programming, bidirectional data binding (like in some JS frameworks) means data changes in the UI update the backend code instantly, and vice versa. Similarly, bidirectional streaming channels allow data to flow back and forth at the same time without waiting. The noun form is 'bidirectionality' and the adverb form is 'bidirectionally'. It maximizes system speed and communication.",
+    "synonyms": [
+      "two-way",
+      "dual-direction",
+      "reciprocal"
+    ],
+    "antonyms": [
+      "unidirectional",
+      "one-way"
+    ],
+    "nounForm": "bidirectionality",
+    "verbForm": "N/A",
+    "adjectiveForm": "bidirectional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network protocols, real-time data sync channels, and multilingual text layouts",
+    "usageTip": "Use 'bidirectional' when data, network signals, or text patterns flow back and forth in both directions freely.",
+    "commonMistake": "Confusing 'bidirectional' with 'binary'; binary means involving two items, while bidirectional means moving in two opposite paths.",
+    "collocations": [
+      "bidirectional communication",
+      "bidirectional data binding",
+      "bidirectional sync"
+    ]
+  }
+]

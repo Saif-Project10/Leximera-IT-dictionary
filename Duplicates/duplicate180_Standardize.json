@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Standardize",
+    "meaning": "To make things conform to a standard; to cause to be without variation.",
+    "shortMeaning": "make uniform",
+    "example": "The industry agreed to standardize plug sizes.",
+    "example2": "All reports must be standardized in format.",
+    "example3": "The goal is to standardize testing procedures across schools.",
+    "Explanation": "Standardize is a verb meaning to establish a common, consistent way of doing or producing something. It involves creating rules or specifications (standards) that everyone follows to ensure uniformity, quality, safety, and compatibility. The noun is 'standardization.' A common mistake is thinking it stifles creativity; while it enforces consistency in certain aspects, it often allows for innovation within the framework. This word is central in manufacturing, education, science, and technology. Using it correctly highlights efforts to create order, reliability, and interoperability in systems and products.",
+    "synonyms": [
+      "normalize",
+      "regulate",
+      "systematize",
+      "homogenize"
+    ],
+    "antonyms": [
+      "customize",
+      "individualize",
+      "diversify"
+    ],
+    "nounForm": "standardization",
+    "verbForm": "standardize",
+    "adjectiveForm": "standardized",
+    "partOfSpeech": "verb",
+    "commonContext": "Manufacturing, education, software development, and quality control.",
+    "usageTip": "Use 'standardize' when talking about making processes or products the same to ensure consistency.",
+    "commonMistake": "Believing 'standardized' means 'basic' or 'low quality'; it means 'consistent,' which can be of high quality.",
+    "collocations": [
+      "standardize procedures",
+      "standardized test",
+      "industry-standard"
+    ]
+  },
+  {
+    "word": "Standardize",
+    "meaning": "To make things agree with a single, accepted rule, format, design, or standard procedure",
+    "shortMeaning": "make uniform",
+    "example": "Our development team decided to standardize the coding style using a linter tool.",
+    "example2": "The company needs to standardize its API responses across all digital platforms.",
+    "example3": "It is easier to maintain systems when you standardize the hardware equipment.",
+    "Explanation": "The word 'standardize' means creating uniformity and consistency across systems, codebases, or workflows. In the IT industry, standardizing procedures ensures that multiple programmers can work on the same project without confusion. It involves adopting global specifications like W3C standards or ISO guidelines to ensure interoperability between different software. This process reduces errors, lowers training times, and makes system maintenance much more predictable. It helps businesses scale up their technology efficiently.",
+    "synonyms": [
+      "uniform",
+      "normalize",
+      "regulate",
+      "systematize"
+    ],
+    "antonyms": [
+      "customize",
+      "vary",
+      "differentiate",
+      "mix"
+    ],
+    "nounForm": "standardization",
+    "verbForm": "standardize",
+    "adjectiveForm": "standardized",
+    "partOfSpeech": "verb",
+    "commonContext": "Coding practices, API development, network configurations",
+    "usageTip": "Use 'standardize' when explaining how you are making different technical processes look and work the same way.",
+    "commonMistake": "Spelling it as 'standardise' in environments where American English ('standardize') is strictly required.",
+    "collocations": [
+      "standardize procedures",
+      "standardize code",
+      "global standardization"
+    ]
+  }
+]

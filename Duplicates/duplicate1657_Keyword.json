@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Keyword",
+    "meaning": "A significant word used to find information or a word with a special meaning in a program",
+    "shortMeaning": "search term / reserved word",
+    "example": "Using the right keyword will help you find the article on Google.",
+    "example2": "In Python, 'if' and 'else' are examples of a keyword.",
+    "example3": "The SEO expert suggested adding more keywords to the website content.",
+    "Explanation": "The term 'keyword' has two main meanings in IT. In Search Engine Optimization (SEO) and databases, a keyword is a word or phrase that describes the content of a page or a query. People use these to find what they need. In programming, a keyword (or 'reserved word') is a word that the language has set aside for its own use. For example, you cannot name a variable 'print' in some languages because it is a keyword used for a specific function. Keywords are the foundation of both finding information and building software logic. They are short, specific, and very powerful. Understanding keywords is vital for both marketers and developers.",
+    "synonyms": [
+      "search term",
+      "reserved word",
+      "tag"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "keyword",
+    "verbForm": "keyword (rarely used)",
+    "adjectiveForm": "keyworded",
+    "partOfSpeech": "noun",
+    "commonContext": "SEO, programming, and library science",
+    "usageTip": "In programming, always check the list of keywords before naming your variables to avoid errors.",
+    "commonMistake": "Overusing keywords on a website (keyword stuffing), which can actually hurt your search engine ranking.",
+    "collocations": [
+      "keyword research",
+      "programming keyword",
+      "target keyword"
+    ]
+  },
+  {
+    "word": "Keyword",
+    "meaning": "A significant word or phrase used to find information in a search engine or database",
+    "shortMeaning": "search term",
+    "example": "To improve your SEO, you must use the right keyword in your article.",
+    "example2": "Enter a keyword in the search bar to find the book you want.",
+    "example3": "In programming, 'if' and 'else' are reserved keywords.",
+    "Explanation": "A keyword is a word that acts as a 'key' to unlocking information. In SEO (Search Engine Optimization), keywords are the terms people type into Google. In programming, keywords (also called reserved words) are special words that the computer already understands, like 'function' or 'var'. You cannot use these as names for your own variables. Keywords are essential for organizing data and making it findable. Every website owner wants to rank for 'high-traffic' keywords. They are the building blocks of internet search.",
+    "synonyms": [
+      "search term",
+      "index word",
+      "reserved word"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "keyword",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "SEO, programming, and web search",
+    "usageTip": "Use 'keyword' when talking about search engines or code syntax.",
+    "commonMistake": "Confusing 'keywords' with 'tags' (though they are very similar).",
+    "collocations": [
+      "SEO keyword",
+      "reserved keyword",
+      "keyword research"
+    ]
+  }
+]

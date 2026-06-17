@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Deep merge",
+    "meaning": "A merge operation that recursively combines the contents of nested data structures, such as objects or dictionaries, rather than replacing them.",
+    "shortMeaning": "recursive merge of nested data",
+    "example": "The configuration system uses a deep merge to combine default settings with user overrides.",
+    "example2": "A deep merge of the two JSON objects preserved properties from both at all levels.",
+    "example3": "Use a deep merge utility when combining complex state objects in React.",
+    "Explanation": "In software development, particularly when working with configuration or state objects, a deep merge is a function that merges two data structures by going into their nested properties and combining them. If both objects have a property that is itself an object, the merge recurses into that object instead of simply replacing the entire property from one object with the other. This is crucial for preserving desired settings at multiple levels. It contrasts with a 'shallow merge,' which only combines the top-level properties. Understanding this term is key for developers working with complex data in JavaScript, Python, and other languages.",
+    "synonyms": [
+      "recursive merge",
+      "nested merge"
+    ],
+    "antonyms": [
+      "shallow merge",
+      "flat merge",
+      "overwrite"
+    ],
+    "nounForm": "deep merge",
+    "verbForm": "deep merge",
+    "adjectiveForm": "deep-merged",
+    "partOfSpeech": "noun phrase / verb",
+    "commonContext": "Programming, configuration management, and data structure manipulation.",
+    "usageTip": "Use this term when discussing merging algorithms for hierarchical data like JSON, YAML, or programming language objects.",
+    "commonMistake": "Assuming a standard 'Object.assign' in JavaScript does a deep merge; it performs a shallow merge.",
+    "collocations": [
+      "perform a deep merge",
+      "deep merge strategy",
+      "deep merge algorithm"
+    ]
+  },
+  {
+    "word": "Deep merge",
+    "meaning": "To combine two complex objects or structures by merging their nested properties",
+    "shortMeaning": "combine nested objects",
+    "example": "A deep merge is necessary when both configuration objects have nested settings.",
+    "example2": "The library provides a function to perform a deep merge of JSON data.",
+    "example3": "Be careful with a deep merge, as it can be slow for very large objects.",
+    "Explanation": "In programming, a 'shallow merge' only copies the top-level properties of an object. A 'deep merge' goes inside the object and merges the properties inside those properties (and so on). For example, if you have two user profiles with 'address' objects inside them, a deep merge will combine the street from one and the city from the other. It is essential for managing complex configurations or state in modern web applications. It ensures that no nested data is accidentally overwritten or lost.",
+    "synonyms": [
+      "recursive merge",
+      "deep copy merge"
+    ],
+    "antonyms": [
+      "shallow merge"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "deep merge",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "JavaScript objects and configuration management",
+    "usageTip": "Use deep merge when you want to combine settings without losing nested information.",
+    "commonMistake": "Using a shallow merge (like 'Object.assign') when you actually need a deep merge.",
+    "collocations": [
+      "perform a deep merge",
+      "deep merge objects",
+      "deep merge strategy"
+    ]
+  }
+]

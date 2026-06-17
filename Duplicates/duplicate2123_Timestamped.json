@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Timestamped",
+    "meaning": "Marked with the exact time of occurrence",
+    "shortMeaning": "marked with time",
+    "example": "All system logs must be timestamped for auditing.",
+    "example2": "The file is timestamped to show when it was created.",
+    "example3": "We use timestamped tokens for security.",
+    "Explanation": "Timestamped refers to data, files, or messages that have been tagged with the specific date and time they were created or modified. In IT, this is vital for audit trails, debugging logs, tracking events, and ensuring data consistency. A timestamp allows administrators to know exactly when an event occurred, which is crucial for troubleshooting system issues or investigating security breaches. It is a standard practice in database and log management.",
+    "synonyms": [
+      "time-labeled",
+      "dated"
+    ],
+    "antonyms": [
+      "untagged"
+    ],
+    "nounForm": "timestamp",
+    "verbForm": "timestamp",
+    "adjectiveForm": "timestamped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Logs, databases, security, auditing",
+    "usageTip": "Use to describe data tracking.",
+    "commonMistake": "Forgetting to synchronize clocks across servers before timestamping.",
+    "collocations": [
+      "timestamped log",
+      "timestamped file",
+      "ensure timestamped"
+    ]
+  },
+  {
+    "word": "Timestamped",
+    "meaning": "Marked with a time and date to track when an event occurred",
+    "shortMeaning": "time-marked",
+    "example": "All log files are timestamped for easy auditing.",
+    "example2": "The data packets are timestamped at the source.",
+    "example3": "He verified the file using its original timestamped record.",
+    "Explanation": "A timestamp is a sequence of characters that indicates the date and time when an event occurred. Being 'timestamped' is crucial for debugging, auditing, security, and data consistency. It allows developers to reconstruct events in the correct order. Whether in database records or secure transactions (digital signatures), timestamping provides proof of sequence. It is a fundamental tool for managing logs and verifying the history of data modifications.",
+    "synonyms": [
+      "marked",
+      "recorded",
+      "dated"
+    ],
+    "antonyms": [
+      "unmarked",
+      "anonymous",
+      "undated"
+    ],
+    "nounForm": "timestamp",
+    "verbForm": "timestamp",
+    "adjectiveForm": "timestamped",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Logs, databases, security, debugging",
+    "usageTip": "Use when explaining how you track the order of events.",
+    "commonMistake": "Assuming a timestamp is always the absolute current time; it can be set by the server.",
+    "collocations": [
+      "timestamped log",
+      "timestamped data",
+      "properly timestamped"
+    ]
+  }
+]

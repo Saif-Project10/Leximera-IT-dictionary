@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Terminal",
+    "meaning": "A program or device that provides a text-based interface for sending commands to a computer system.",
+    "shortMeaning": "text interface program/device",
+    "example": "He opened a terminal to update the server software.",
+    "example2": "The Linux terminal is a powerful tool for developers.",
+    "example3": "In the old days, users worked on physical terminals connected to a mainframe.",
+    "Explanation": "A terminal is a program (like Terminal.app on Mac or a terminal emulator) that gives you access to a command-line shell. Historically, it was a physical hardware device (a keyboard and screen). Today, it's mostly software. It's the window where you type commands. The word is often used interchangeably with 'command line' or 'console', though 'terminal' specifically refers to the application providing the interface, while the 'command line' is the interface itself. It's a central tool in software development and system management.",
+    "synonyms": [
+      "command line",
+      "console",
+      "shell",
+      "command prompt"
+    ],
+    "antonyms": [
+      "GUI application",
+      "graphical program"
+    ],
+    "nounForm": "terminal",
+    "verbForm": "N/A",
+    "adjectiveForm": "terminal",
+    "partOfSpeech": "noun",
+    "commonContext": "Software development, system administration, IT work",
+    "usageTip": "Commonly used in phrases like 'open a terminal', 'in the terminal', 'terminal window'.",
+    "commonMistake": "Confusing the software 'terminal' with other meanings like 'airport terminal' or 'terminal illness'.",
+    "collocations": [
+      "terminal window",
+      "terminal emulator",
+      "system terminal"
+    ]
+  },
+  {
+    "word": "Terminal",
+    "meaning": "A device or interface used to enter data or interact with a computer system.",
+    "shortMeaning": "command interface",
+    "example": "Open the terminal to run the script.",
+    "example2": "He manages the server via a remote terminal.",
+    "example3": "The terminal emulator supports multiple color schemes.",
+    "Explanation": "The word 'terminal' refers to the command-line interface (CLI) used to communicate with an operating system. In the past, it was a physical screen and keyboard; today, it is a software application (like Terminal, iTerm2, or PowerShell) that allows you to type commands. Using the terminal is a core skill for IT professionals, allowing for automation, fast system management, and deep access to files.",
+    "synonyms": [
+      "CLI",
+      "command-line",
+      "console"
+    ],
+    "antonyms": [
+      "GUI"
+    ],
+    "nounForm": "terminal",
+    "verbForm": "N/A",
+    "adjectiveForm": "terminal",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "OS management and programming",
+    "usageTip": "Use 'terminal' for CLI interactions.",
+    "commonMistake": "Confusing 'terminal' with the shell (like bash or zsh).",
+    "collocations": [
+      "open the terminal",
+      "terminal window",
+      "remote terminal"
+    ]
+  },
+  {
+    "word": "Terminal",
+    "meaning": "A device or program that allows input and output to a computer system",
+    "shortMeaning": "computer interface",
+    "example": "He opened the terminal to run the script.",
+    "example2": "The server terminal showed a connection error.",
+    "example3": "Developers often prefer the terminal for speed.",
+    "Explanation": "In IT, a terminal is an interface used to interact with a computer's operating system via text commands. It is a powerful tool for developers and system administrators. Unlike a graphical user interface, it relies entirely on keyboard input. Mastering the terminal is essential for managing files, running programs, and debugging code. Always ensure you are in the correct directory before executing commands.",
+    "synonyms": [
+      "console",
+      "interface",
+      "command line"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "terminal",
+    "verbForm": "N/A",
+    "adjectiveForm": "terminal",
+    "partOfSpeech": "noun",
+    "commonContext": "Software development, server management",
+    "usageTip": "Refer to it as the 'terminal' or 'command line' when working in a developer environment.",
+    "commonMistake": "Confusing it with 'client' or 'monitor'.",
+    "collocations": [
+      "open terminal",
+      "terminal window",
+      "run in terminal"
+    ]
+  }
+]

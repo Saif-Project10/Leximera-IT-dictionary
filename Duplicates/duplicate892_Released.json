@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Released",
+    "meaning": "Allowed to be free; made available to the public",
+    "shortMeaning": "set free, issued",
+    "example": "The prisoner was released after ten years.",
+    "example2": "The band released their new album yesterday.",
+    "example3": "The company released a statement about the incident.",
+    "Explanation": "'Released' is the past tense and past participle of 'release'. It has two main meanings: physically setting free (a person, animal, gas) and making something available (a movie, product, information). It often implies a formal or official action. In technology, it means launching software. It's important to distinguish from 'relieved', which is about feelings. 'Released' focuses on the action of freeing or issuing.",
+    "synonyms": [
+      "freed",
+      "issued",
+      "unleashed"
+    ],
+    "antonyms": [
+      "captured",
+      "withheld",
+      "confined"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "released",
+    "partOfSpeech": "verb (past tense/participle), adjective",
+    "commonContext": "Legal, entertainment, news, technology",
+    "usageTip": "Use 'released from' for being let out of a place (jail, hospital). Use 'released by' for the issuer.",
+    "commonMistake": "Confusing 'released' with 'relieved' (e.g., 'I felt released' instead of 'I felt relieved').",
+    "collocations": [
+      "newly released",
+      "released on bail",
+      "press release"
+    ]
+  },
+  {
+    "word": "Released",
+    "meaning": "Made available or distributed to users.",
+    "shortMeaning": "distributed",
+    "example": "The update was released to the public this morning.",
+    "example2": "We released the patch to fix the security flaw.",
+    "example3": "New versions are released monthly by the team.",
+    "Explanation": "'Released' refers to the action of pushing code or a product from the development environment to the public or production. When you say software is 'released', it is now accessible to whoever is supposed to use it. This process can range from a simple click to a complex deployment process involving servers, databases, and versioning. 'Released' is the official marker that a specific version is now out in the world.",
+    "synonyms": [
+      "deployed",
+      "published",
+      "launched"
+    ],
+    "antonyms": [
+      "unreleased",
+      "internal",
+      "withdrawn"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "released",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software distribution, updates, versioning",
+    "usageTip": "Use when talking about the transition from internal code to public availability.",
+    "commonMistake": "Confusing 'released' (the act) with 'available' (the state).",
+    "collocations": [
+      "released version",
+      "officially released",
+      "released to production"
+    ]
+  }
+]

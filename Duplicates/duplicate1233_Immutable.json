@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Immutable",
+    "meaning": "Unchanging over time or unable to be changed",
+    "shortMeaning": "unchangeable, fixed",
+    "example": "The laws of physics are considered immutable.",
+    "example2": "His love for her was an immutable fact.",
+    "example3": "The company's core values are immutable.",
+    "Explanation": "'Immutable' is a formal adjective, often used in philosophy, science, and law. It describes something that is permanent, constant, and not subject to alteration. This could refer to natural laws, fundamental truths, or steadfast principles. The word implies a strength and reliability that resists all change. The prefix 'im-' means 'not', and 'mutable' means 'changeable'. It is the opposite of 'changeable' or 'volatile'. Recognizing what is immutable can provide a stable foundation in a changing world. It's a word of certainty and permanence.",
+    "synonyms": [
+      "unchangeable",
+      "fixed",
+      "permanent",
+      "invariable",
+      "constant"
+    ],
+    "antonyms": [
+      "changeable",
+      "mutable",
+      "variable",
+      "flexible"
+    ],
+    "nounForm": "immutability",
+    "verbForm": "N/A",
+    "adjectiveForm": "immutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Laws of nature, philosophy, mathematics, core principles",
+    "usageTip": "Use 'immutable' in formal contexts to describe laws, truths, or principles that cannot and do not change.",
+    "commonMistake": "Pronouncing it as 'im-mute-able'. It's 'i-MYOO-tuh-bul'.",
+    "collocations": [
+      "immutable law",
+      "immutable fact",
+      "immutable truth"
+    ]
+  },
+  {
+    "word": "Immutable",
+    "meaning": "Unchangeable; fixed once created",
+    "shortMeaning": "unchangeable",
+    "example": "Strings in many languages are immutable once defined.",
+    "example2": "Immutable data structures help prevent bugs in concurrent code.",
+    "example3": "The system configuration is immutable after deployment.",
+    "Explanation": "The word 'immutable' refers to something that cannot be changed after it is created. In programming, immutable data types are highly valued because they make code safer and easier to debug, especially in multi-threaded environments. If you need to 'change' an immutable object, you instead create a new one. While this might seem less efficient at first, the benefits in stability and predictability are massive. Always prefer immutability for data that doesn't need to be modified.",
+    "synonyms": [
+      "unchangeable",
+      "fixed",
+      "permanent"
+    ],
+    "antonyms": [
+      "mutable",
+      "changeable",
+      "flexible"
+    ],
+    "nounForm": "immutability",
+    "verbForm": "N/A",
+    "adjectiveForm": "immutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, data structures",
+    "usageTip": "Use 'immutable' for data that should not change.",
+    "commonMistake": "Confusing 'immutable' with 'constant' (though they are related).",
+    "collocations": [
+      "immutable data",
+      "immutable structure",
+      "immutable state"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Serviceable",
+    "meaning": "Able to be repaired or used effectively",
+    "shortMeaning": "fixable/usable",
+    "example": "The old hardware is still serviceable.",
+    "example2": "The engine is easily serviceable by technicians.",
+    "example3": "We need to ensure the equipment is serviceable.",
+    "Explanation": "The word 'serviceable' describes something that can be repaired, maintained, or is in good enough condition to be used. In tech, it refers to equipment that can be fixed rather than just replaced when it breaks. It is a sign of good design. If something is not serviceable, it is often called 'disposable'. Use this word to talk about longevity, maintenance, and the ability to keep equipment or software functional over a long period. It implies practicality and good engineering.",
+    "synonyms": [
+      "fixable",
+      "repairable",
+      "functional"
+    ],
+    "antonyms": [
+      "broken",
+      "disposable",
+      "non-functional"
+    ],
+    "nounForm": "serviceability",
+    "verbForm": "N/A",
+    "adjectiveForm": "serviceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, engineering, maintenance",
+    "usageTip": "Use when talking about the ability to fix or maintain an item.",
+    "commonMistake": "Confusing it with 'service-oriented', which is about software architecture.",
+    "collocations": [
+      "highly serviceable",
+      "easily serviceable",
+      "serviceable equipment"
+    ]
+  },
+  {
+    "word": "Serviceable",
+    "meaning": "Capable of being repaired, maintained, or used for its intended purpose.",
+    "shortMeaning": "repairable/usable",
+    "example": "The hardware is still in a serviceable condition.",
+    "example2": "We need to ensure the old legacy system remains serviceable.",
+    "example3": "This cable is no longer serviceable due to the fraying.",
+    "Explanation": "The word 'serviceable' describes something that is in a state where it can be maintained, repaired, or is simply functional enough for use. In IT, it can refer to equipment that can still be fixed or software that still performs its job adequately. The noun form is 'serviceability'. It is often used in maintenance reports to indicate whether a device or system is worth keeping or needs to be replaced.",
+    "synonyms": [
+      "functional",
+      "repairable",
+      "usable"
+    ],
+    "antonyms": [
+      "unserviceable",
+      "broken",
+      "obsolete"
+    ],
+    "nounForm": "serviceability",
+    "verbForm": "N/A",
+    "adjectiveForm": "serviceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware maintenance, equipment lifecycle",
+    "usageTip": "Use 'serviceable' to describe hardware that can still be repaired.",
+    "commonMistake": "Confusing 'serviceable' with 'in-service' (being used).",
+    "collocations": [
+      "serviceable condition",
+      "remain serviceable",
+      "not serviceable"
+    ]
+  }
+]

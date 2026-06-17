@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Center",
+    "meaning": "The middle point or part of something; a place where a particular activity is focused. | The middle point or part; a place where a particular activity or service is concentrated.",
+    "shortMeaning": "middle, focal point",
+    "example": "The town center is always busy with shoppers.",
+    "example2": "Place the vase in the center of the table.",
+    "example3": "The research center is working on a cure for the disease.",
+    "Explanation": "The word 'center' (UK spelling: 'centre') has both a literal and figurative meaning. Literally, it is the exact middle of a space, circle, or object. Figuratively, it is a place or group that is the main focus of an activity or interest (e.g., a shopping center, a center of excellence). As a verb, it means to place in the middle or to focus on. It is a fundamental concept in geometry, design, and many areas of life. Being 'off-center' means not aligned or balanced.",
+    "synonyms": [
+      "Core",
+      "Focus",
+      "Heart",
+      "Hub",
+      "Middle"
+    ],
+    "antonyms": [
+      "Border",
+      "Edge",
+      "Margin",
+      "Periphery"
+    ],
+    "nounForm": "center",
+    "verbForm": "center",
+    "adjectiveForm": "central",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Geography, design, organizations, sports",
+    "usageTip": "In American English, use 'center'. In British English, use 'centre'.",
+    "commonMistake": "Confusing 'center' (the middle) with 'scent' (a smell) in spelling.",
+    "collocations": [
+      "city center",
+      "center of attention",
+      "community center",
+      "center yourself"
+    ]
+  },
+  {
+    "word": "Center",
+    "meaning": "The middle point of something or a place for a specific activity",
+    "shortMeaning": "middle or hub",
+    "example": "You need to center the logo on the webpage.",
+    "example2": "The data center houses thousands of physical servers.",
+    "example3": "Customer support is the center of our business strategy.",
+    "Explanation": "In IT, 'center' usually refers to two things: alignment and physical hubs. In web design, centering an element makes it look balanced. In infrastructure, a 'data center' is a massive building where servers are kept. It also refers to a main point of focus or control. It is a word that describes both physical locations and visual layout properties in CSS.",
+    "synonyms": [
+      "middle",
+      "hub",
+      "core"
+    ],
+    "antonyms": [
+      "edge",
+      "periphery",
+      "boundary"
+    ],
+    "nounForm": "center",
+    "verbForm": "center",
+    "adjectiveForm": "central",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Layout design and IT infrastructure",
+    "usageTip": "In CSS, use 'text-align: center' to move text to the middle.",
+    "commonMistake": "Spelling it as 'centre' (UK) vs 'center' (US); both are correct but stay consistent.",
+    "collocations": [
+      "data center",
+      "call center",
+      "center-aligned"
+    ]
+  }
+]

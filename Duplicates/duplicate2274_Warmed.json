@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Warmed",
+    "meaning": "Having been prepared or activated for a task",
+    "shortMeaning": "prepared",
+    "example": "The engine was warmed up before the test run.",
+    "example2": "The software cache was warmed to ensure fast responses.",
+    "example3": "Ensure the system is properly warmed before use.",
+    "Explanation": "Similar to 'warm,' 'warmed' refers to the process of preparing a system for heavy usage by pre-loading data or running tests. For example, 'warming the cache' means filling it with data before the site receives actual traffic, so the first users get fast responses. It is a common technique to optimize performance in web servers and databases. It signifies that the system has gone through a 'pre-activation' phase. Use this when discussing performance tuning and infrastructure preparation.",
+    "synonyms": [
+      "pre-heated",
+      "prepared",
+      "primed"
+    ],
+    "antonyms": [
+      "cold",
+      "unprepared"
+    ],
+    "nounForm": "warming",
+    "verbForm": "warm",
+    "adjectiveForm": "warmed",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Performance tuning, infrastructure preparation",
+    "usageTip": "Use 'warming the cache' to sound like an infrastructure expert.",
+    "commonMistake": "Forgetting to warm the system after a deployment.",
+    "collocations": [
+      "warmed up",
+      "warming the cache"
+    ]
+  },
+  {
+    "word": "Warmed",
+    "meaning": "The state of having been brought to a 'warm' (ready) condition.",
+    "shortMeaning": "made ready",
+    "example": "The database was warmed before the high-traffic event.",
+    "example2": "The backup system was fully warmed and ready.",
+    "example3": "He warmed the server by running a test script.",
+    "Explanation": "To have 'warmed' something in IT usually means performing a preparatory step to ensure it is ready to handle a heavy load. For example, 'warming' a cache means populating it with data before users arrive so they don't experience slow load times (cache warming). It is a strategic way to ensure performance remains stable during spikes. You 'warm' a system to avoid the performance penalty of a 'cold start'.",
+    "synonyms": [
+      "pre-loaded",
+      "pre-warmed",
+      "prepared"
+    ],
+    "antonyms": [
+      "cold-started"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "warm",
+    "adjectiveForm": "warmed",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Performance optimization, system prep",
+    "usageTip": "Use this for systems prepared before heavy usage.",
+    "commonMistake": "Thinking it just means 'heated'.",
+    "collocations": [
+      "cache warmed",
+      "system warmed",
+      "warmed up"
+    ]
+  }
+]

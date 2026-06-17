@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Imminent",
+    "meaning": "About to happen; impending",
+    "shortMeaning": "about to happen",
+    "example": "Dark clouds suggested that a storm was imminent.",
+    "example2": "They feared an imminent attack.",
+    "example3": "The imminent arrival of the guests caused a flurry of activity.",
+    "Explanation": "'Imminent' is an adjective describing something that is going to occur very soon, often within a short and predictable time frame. It usually refers to events, especially negative or significant ones (imminent danger, imminent departure). The word creates a sense of urgency and inevitability. It is more immediate than 'forthcoming' or 'upcoming'. The noun form is 'imminence'. Recognizing imminent threats or opportunities is crucial for timely action. It's a formal word common in news, warnings, and strategic planning.",
+    "synonyms": [
+      "impending",
+      "approaching",
+      "forthcoming",
+      "looming",
+      "at hand"
+    ],
+    "antonyms": [
+      "distant",
+      "remote",
+      "far-off",
+      "unlikely"
+    ],
+    "nounForm": "imminence",
+    "verbForm": "N/A",
+    "adjectiveForm": "imminent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Warnings, danger, arrivals, deadlines, events",
+    "usageTip": "Use 'imminent' for events that are clearly about to happen very soon, often with a sense of threat or importance.",
+    "commonMistake": "Confusing 'imminent' with 'eminent' (famous and respected). They are homophones but mean different things.",
+    "collocations": [
+      "imminent danger",
+      "imminent threat",
+      "imminent arrival"
+    ]
+  },
+  {
+    "word": "Imminent",
+    "meaning": "About to happen very soon",
+    "shortMeaning": "near",
+    "example": "The server crash seems imminent based on the logs.",
+    "example2": "We are bracing for an imminent update to the platform.",
+    "example3": "There is an imminent risk of data loss if we don't back up.",
+    "Explanation": "The word 'imminent' refers to an event, process, or change that is likely to occur very shortly. It carries a sense of urgency. In IT, we use 'imminent' to warn about critical system failures, impending security risks, or upcoming major changes. When you identify something as imminent, it means you must act quickly to prepare or prevent a negative outcome. Always take the word 'imminent' seriously in technical reports, as it signals a situation that requires immediate attention and planning.",
+    "synonyms": [
+      "near",
+      "approaching",
+      "impending"
+    ],
+    "antonyms": [
+      "distant",
+      "delayed",
+      "far-off"
+    ],
+    "nounForm": "imminence",
+    "verbForm": "N/A",
+    "adjectiveForm": "imminent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, performance, planning",
+    "usageTip": "Use 'imminent' for events that will happen soon.",
+    "commonMistake": "Confusing 'imminent' with 'prominent'.",
+    "collocations": [
+      "imminent crash",
+      "imminent risk",
+      "imminent update"
+    ]
+  }
+]

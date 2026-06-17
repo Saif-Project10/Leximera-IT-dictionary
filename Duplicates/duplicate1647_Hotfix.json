@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Hotfix",
+    "meaning": "A small, quick software update designed to fix a specific bug immediately",
+    "shortMeaning": "emergency patch",
+    "example": "The developers released a hotfix to stop the app from crashing on startup.",
+    "example2": "Applying a hotfix usually doesn't require a full system reboot.",
+    "example3": "We need a hotfix for this security hole before hackers exploit it.",
+    "Explanation": "A hotfix is a specialized type of software patch. It is 'hot' because it is applied to a system that is currently live or in production. Unlike a regular 'service pack' or 'update' which might include many new features, a hotfix usually only fixes one critical problem. It is made quickly to solve an emergency, like a security vulnerability or a massive bug. Because they are made fast, they sometimes aren't tested as much as regular updates. Once the emergency is over, the hotfix is usually included in the next regular software update. It is a common term in software support.",
+    "synonyms": [
+      "patch",
+      "quick fix",
+      "bug fix",
+      "emergency update"
+    ],
+    "antonyms": [
+      "feature update",
+      "major release"
+    ],
+    "nounForm": "hotfix",
+    "verbForm": "hotfix",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software development and IT support",
+    "usageTip": "Use 'hotfix' when you need to fix a critical bug right now without waiting for a scheduled update.",
+    "commonMistake": "Using a 'hotfix' to add new features; it should only be used to fix broken things.",
+    "collocations": [
+      "release a hotfix",
+      "apply hotfix",
+      "critical hotfix"
+    ]
+  },
+  {
+    "word": "Hotfix",
+    "meaning": "A single, cumulative package that includes information used to address a specific problem in a software product",
+    "shortMeaning": "bug-fixing patch",
+    "example": "Microsoft released a hotfix to stop the system from crashing after the last update.",
+    "example2": "Check if there is a hotfix available for this specific error.",
+    "example3": "We applied the hotfix and the problem was resolved immediately.",
+    "Explanation": "A 'hotfix' is the noun version of 'hot-fix'. It is the actual package of code that you download and install. Large software companies like Microsoft or Adobe often release hotfixes between their monthly updates to fix urgent security holes or bugs. A hotfix is usually meant for a very specific problem and is not intended for all users unless they are experiencing that exact issue. It is a professional term for a targeted software patch. It is a critical part of software maintenance.",
+    "synonyms": [
+      "patch",
+      "software fix",
+      "update"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "hotfix",
+    "verbForm": "hotfix",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "IT support and software maintenance",
+    "usageTip": "Use 'hotfix' as a noun when referring to the file or update itself.",
+    "commonMistake": "Confusing a hotfix with a 'service pack'—a hotfix is much smaller and more targeted.",
+    "collocations": [
+      "urgent hotfix",
+      "install hotfix",
+      "hotfix bundle"
+    ]
+  }
+]

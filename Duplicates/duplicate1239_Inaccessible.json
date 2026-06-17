@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Inaccessible",
+    "meaning": "Unable to be reached, approached, or used; difficult to understand",
+    "shortMeaning": "hard to reach or understand",
+    "example": "The fortress was built on an inaccessible cliff.",
+    "example2": "The professor's lecture was inaccessible to beginners.",
+    "example3": "The files are inaccessible without the correct password.",
+    "Explanation": "'Inaccessible' is an adjective describing something that cannot be accessed. This could be due to physical barriers (remote location), technical barriers (locked data), or intellectual barriers (complex language). The word is often used in critiques of design, writing, or planning that fails to consider users' needs. In the context of disability, inaccessible buildings violate laws. The prefix 'in-' means 'not'. It is the opposite of 'accessible'. Making the inaccessible accessible is a key principle of inclusive design and clear communication.",
+    "synonyms": [
+      "unreachable",
+      "unapproachable",
+      "unavailable",
+      "impenetrable"
+    ],
+    "antonyms": [
+      "accessible",
+      "reachable",
+      "available",
+      "approachable"
+    ],
+    "nounForm": "inaccessibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "inaccessible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Locations, information, buildings, writing, data",
+    "usageTip": "Use 'inaccessible' for places, information, or things that are very difficult or impossible to get to or use.",
+    "commonMistake": "Confusing 'inaccessible' with 'unaccessible'. 'Inaccessible' is the standard form.",
+    "collocations": [
+      "inaccessible to",
+      "largely inaccessible",
+      "remain inaccessible"
+    ]
+  },
+  {
+    "word": "Inaccessible",
+    "meaning": "Unable to be reached or opened",
+    "shortMeaning": "cannot be reached",
+    "example": "The server became inaccessible during the network maintenance.",
+    "example2": "A locked file or a bad URL makes the data inaccessible.",
+    "example3": "The UI design made certain buttons inaccessible to users.",
+    "Explanation": "The word 'inaccessible' refers to anything that cannot be reached or used. This can be due to a technical error (server down), a permission issue (no access rights), or a bad design (a user cannot find or click a button). In web development, ensuring 'accessibility' (making sites usable for everyone, including those with disabilities) is a top priority, so you will often talk about making things 'accessible' versus 'inaccessible'.",
+    "synonyms": [
+      "unreachable",
+      "unavailable",
+      "blocked"
+    ],
+    "antonyms": [
+      "accessible",
+      "reachable",
+      "open"
+    ],
+    "nounForm": "inaccessibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "inaccessible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, security, UI/UX",
+    "usageTip": "Use 'inaccessible' to describe errors or design flaws that prevent access.",
+    "commonMistake": "Confusing 'inaccessible' with 'deleted' (the item exists, but you can't get to it).",
+    "collocations": [
+      "inaccessible server",
+      "inaccessible data",
+      "make inaccessible"
+    ]
+  }
+]

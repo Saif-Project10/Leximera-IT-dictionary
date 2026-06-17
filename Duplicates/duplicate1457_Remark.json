@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Remark",
+    "meaning": "A spoken or written comment; to say something as a comment",
+    "shortMeaning": "comment",
+    "example": "He made a rude remark about her clothes.",
+    "example2": "I couldn't help but remark on how beautiful the garden was.",
+    "example3": "Her opening remarks were very funny.",
+    "Explanation": "'Remark' is both a noun and a verb. As a noun, it is a comment or statement, often casual or brief. As a verb, it means to say or write a comment. It's a neutral word, but the content of the remark can be positive, negative, or neutral. It's more formal than 'say' but less formal than 'observe' or 'comment'. It often implies that the comment is noteworthy in some way. 'Opening remarks' is a standard phrase for introductory comments at an event.",
+    "synonyms": [
+      "comment",
+      "observation",
+      "statement"
+    ],
+    "antonyms": [
+      "silence"
+    ],
+    "nounForm": "remark",
+    "verbForm": "remark",
+    "adjectiveForm": "remarkable (strikingly different)",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Conversations, speeches, meetings, criticism",
+    "usageTip": "As a verb, it's often followed by 'on' or 'upon' (remark on the weather).",
+    "commonMistake": "Confusing the noun 'remark' with 'remarker' (not a common word). A person who remarks is a 'commentator'.",
+    "collocations": [
+      "passing remark",
+      "casual remark",
+      "witty remark"
+    ]
+  },
+  {
+    "word": "Remark",
+    "meaning": "To say or write a brief comment, or a formal note expressing an observation",
+    "shortMeaning": "comment or note",
+    "example": "The senior engineer added a helpful remark inside the pull request review.",
+    "example2": "She made a remark about improving the UI responsiveness for smaller mobile devices.",
+    "example3": "Please review the audit report and read each remark carefully.",
+    "Explanation": "The word 'remark' works as a verb or a noun. In communication inside development teams, it describes a statement or written observation concerning a feature, asset, or design choice. In code review processes, engineers leave remarks to recommend modifications. It carries a slightly formal tone compared to standard words like comment or text message.",
+    "synonyms": [
+      "comment",
+      "observation",
+      "note"
+    ],
+    "antonyms": [
+      "silence",
+      "ignore"
+    ],
+    "nounForm": "remark",
+    "verbForm": "remark",
+    "adjectiveForm": "remarkable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Code code review forums, corporate meetings, and performance review evaluations",
+    "usageTip": "Use 'remark' to denote specific, observant professional feedback left on a product or system artifact.",
+    "commonMistake": "Confusing a 'remark' with a strict operational directive; it is often just an analytical observation.",
+    "collocations": [
+      "opening remark",
+      "leave a remark",
+      "valuable remark"
+    ]
+  }
+]

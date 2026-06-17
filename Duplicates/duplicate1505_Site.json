@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Site",
+    "meaning": "An area of ground on which something is located; a website.",
+    "shortMeaning": "location; website",
+    "example": "This is the site of the ancient temple.",
+    "example2": "I found the information on their official site.",
+    "example3": "They chose a site for the new school.",
+    "Explanation": "'Site' is a common noun with two dominant modern meanings. The traditional meaning is a physical location or piece of land where something is, was, or will be located (construction site, historic site). The digital meaning is a website, a location on the World Wide Web. The word is simple and essential for both real estate and the internet. The verb 'to site' means to locate or place something. Be careful not to confuse it with 'sight' (vision) or 'cite' (to quote). Context usually makes the meaning clear.",
+    "synonyms": [
+      "location",
+      "place",
+      "website",
+      "webpage"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "site",
+    "verbForm": "site",
+    "adjectiveForm": "sited",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Construction, history, internet",
+    "usageTip": "For the digital meaning, 'website' is more explicit, but 'site' is universally understood.",
+    "commonMistake": "Confusing 'site' (location) with 'sight' (something seen) or 'cite' (to reference).",
+    "collocations": [
+      "construction site",
+      "on site",
+      "site map",
+      "visit our site"
+    ]
+  },
+  {
+    "word": "Site",
+    "meaning": "A website domain location on the internet, or a physical geographic place hosting network hardware installations",
+    "shortMeaning": "website or physical tech location",
+    "example": "Our development team is working on a multi-page e-commerce site to sell premium organic dry fruits.",
+    "example2": "The system engineer visited the server site to replace an overheating backup data storage rack.",
+    "example3": "You must optimize all image files to ensure your new portfolio site loads rapidly on mobile screens.",
+    "Explanation": "The word 'Site' has two primary technical definitions. Most commonly, it is short for 'website'—a collection of connected web pages hosted on an internet server. In network engineering and corporate IT infrastructure, 'site' describes a physical location (such as a data center or field office) where networking hardware, servers, and routers are installed.",
+    "synonyms": [
+      "website",
+      "web platform",
+      "physical location"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "site",
+    "verbForm": "site (locate)",
+    "adjectiveForm": "site-specific",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web development hosting, physical data center inspections, and domain setup architectures",
+    "usageTip": "Use 'site' to describe web platforms or physical server deployment areas depending on your project context.",
+    "commonMistake": "Spelling it as 'cite' (which means to reference source documents) or 'sight' (which relates to physical human vision).",
+    "collocations": [
+      "e-commerce site",
+      "on-site support",
+      "site map structure"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Abandon",
+    "meaning": "To leave completely and finally; to give up control of; to cease to support or look after | To leave completely and finally; to give up control of.",
+    "shortMeaning": "leave permanently; give up",
+    "example": "They had to abandon the sinking ship.",
+    "example2": "He abandoned all hope of finding his lost ring.",
+    "example3": "The project was abandoned due to lack of funding.",
+    "Explanation": "Abandon is a strong verb meaning to desert or leave behind irrevocably. It implies a complete withdrawal of support, care, or involvement. It can be used for physical things (abandon a car), ideas (abandon a plan), or people (abandon a child). It often carries a negative connotation of irresponsibility or despair. As a noun (with a different pronunciation: uh-BAN-dun), it means a complete lack of inhibition (e.g., 'dance with abandon'). This dual meaning connects the idea of leaving restraint behind.",
+    "synonyms": [
+      "Desert",
+      "Forsake",
+      "Give Up",
+      "Leave",
+      "Quit",
+      "Relinquish"
+    ],
+    "antonyms": [
+      "Adopt",
+      "Continue",
+      "Keep",
+      "Maintain",
+      "Retain",
+      "Stay With"
+    ],
+    "nounForm": "abandonment",
+    "verbForm": "abandon",
+    "adjectiveForm": "abandoned",
+    "partOfSpeech": "verb",
+    "commonContext": "Emergency situations, failed projects, relationships, legal terms",
+    "usageTip": "As a verb, it's a strong word. Use 'leave' or 'stop' for less final situations.",
+    "commonMistake": "Confusing the verb 'abandon' with the noun 'abandon' (carefree feeling), which have different stresses.",
+    "collocations": [
+      "abandon ship",
+      "abandon the idea",
+      "reckless abandon (noun)"
+    ]
+  },
+  {
+    "word": "Abandon",
+    "meaning": "To stop doing something or to leave something completely",
+    "shortMeaning": "to leave or stop",
+    "example": "The developers decided to abandon the old project and start a new one.",
+    "example2": "You should not abandon your search for the bug in the code.",
+    "example3": "The system will abandon the task if it takes too long to respond.",
+    "Explanation": "In IT, abandon is often used when a process, project, or piece of code is no longer supported or continued. It implies a total stop rather than a temporary pause. When a software project is abandoned, it becomes 'abandonware'. In programming, it can refer to stopping a function execution due to an error. It is a strong word that suggests moving away from something permanently.",
+    "synonyms": [
+      "discard",
+      "quit",
+      "desert"
+    ],
+    "antonyms": [
+      "continue",
+      "maintain",
+      "keep"
+    ],
+    "nounForm": "abandonment",
+    "verbForm": "abandon",
+    "adjectiveForm": "abandoned",
+    "partOfSpeech": "verb",
+    "commonContext": "Software projects and process management",
+    "usageTip": "Use 'abandon' when a project or task is stopped permanently.",
+    "commonMistake": "Using 'abandon' when you only mean to 'pause' or 'postpone'.",
+    "collocations": [
+      "abandon a project",
+      "abandon a process",
+      "abandoned software"
+    ]
+  }
+]

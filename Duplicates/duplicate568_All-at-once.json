@@ -1,0 +1,66 @@
+[
+  {
+    "word": "All-at-once",
+    "meaning": "Happening or done at the same time; simultaneously.",
+    "shortMeaning": "simultaneously; in a single action",
+    "example": "The system updates all files all-at-once, not one by one.",
+    "example2": "Trying to learn everything all-at-once is overwhelming.",
+    "example3": "The lights came on all-at-once.",
+    "Explanation": "All-at-once is an adverbial phrase emphasizing simultaneity or a single, comprehensive action. It contrasts with doing things sequentially or in stages. It's often used to describe processes that are bulk, monolithic, or overwhelming. In software, it can describe a deployment strategy (as opposed to rolling updates). The hyphens are important when it precedes a noun ('an all-at-once approach'). A common mistake is writing it as three separate words when used as a compound modifier. This phrase is useful for highlighting the totality or immediacy of an action.",
+    "synonyms": [
+      "simultaneously",
+      "in one go",
+      "en masse",
+      "concurrently"
+    ],
+    "antonyms": [
+      "gradually",
+      "one at a time",
+      "sequentially",
+      "piecemeal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "all-at-once (before a noun)",
+    "partOfSpeech": "adverbial phrase / adjective",
+    "commonContext": "Describing processes, learning, deployments, and events.",
+    "usageTip": "Hyphenate when used as an adjective before a noun ('all-at-once deployment'). As an adverb, it can be written with or without hyphens, but hyphens add clarity.",
+    "commonMistake": "Confusing it with 'all of a sudden' (which means suddenly).",
+    "collocations": [
+      "do it all-at-once",
+      "all-at-once release",
+      "learn all-at-once"
+    ]
+  },
+  {
+    "word": "All-at-once",
+    "meaning": "Happening simultaneously or all at the same time rather than in separate steps",
+    "shortMeaning": "simultaneous",
+    "example": "The server attempted an all-at-once update of all connected devices.",
+    "example2": "An all-at-once migration of the database can cause temporary downtime.",
+    "example3": "The application loaded the entire dataset in an all-at-once operation.",
+    "Explanation": "The word 'all-at-once' is a compound adjective used before a noun to describe an event where everything happens together. In tech contexts, it represents bulk processing, big-bang deployments, or synchronous operations. This approach contrasts with incremental, step-by-step, or lazy loading methods. There is no specific noun or verb form for this exact hyphenated adjective, so 'N/A' is used. It helps clarify how data or processes are delivered.",
+    "synonyms": [
+      "simultaneous",
+      "concurrent",
+      "instantaneous"
+    ],
+    "antonyms": [
+      "gradual",
+      "incremental",
+      "step-by-step"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "all-at-once",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data processing, software deployment, and system loading methods",
+    "usageTip": "Always use hyphens when placing 'all-at-once' directly before a noun to modify it.",
+    "commonMistake": "Forgetting the hyphens when using it as a modifier before a noun.",
+    "collocations": [
+      "all-at-once upgrade",
+      "all-at-once download",
+      "all-at-once deployment"
+    ]
+  }
+]

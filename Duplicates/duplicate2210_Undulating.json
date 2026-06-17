@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Undulating",
+    "meaning": "Moving with a smooth, wave-like motion",
+    "shortMeaning": "wavy",
+    "example": "The graph shows an undulating pattern of traffic.",
+    "example2": "The monitor displayed an undulating screen artifact.",
+    "example3": "The sensor detects undulating pressure waves.",
+    "Explanation": "Undulating refers to a smooth, up-and-down motion like a wave. While rarely used to describe code, it is common when describing physical movement in sensors or patterns in data (like network congestion that rises and falls smoothly). It highlights a dynamic, cyclic change rather than a sharp spike or a flat line. Identifying undulating patterns in logs can help detect scheduled, cyclic activity in your network.",
+    "synonyms": [
+      "wavy",
+      "rising and falling",
+      "rolling"
+    ],
+    "antonyms": [
+      "flat",
+      "stable",
+      "constant"
+    ],
+    "nounForm": "undulation",
+    "verbForm": "undulate",
+    "adjectiveForm": "undulating",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, sensors",
+    "usageTip": "Use for wave-like data patterns.",
+    "commonMistake": "Confusing undulating with 'fluctuating' (which can be chaotic).",
+    "collocations": [
+      "undulating pattern",
+      "undulating signal",
+      "undulating traffic"
+    ]
+  },
+  {
+    "word": "Undulating",
+    "meaning": "Moving with a smooth, wave-like motion",
+    "shortMeaning": "wave-like",
+    "example": "The graph shows an undulating signal pattern.",
+    "example2": "He noticed an undulating motion in the data feed.",
+    "example3": "The interface features an undulating background animation.",
+    "Explanation": "The word 'undulating' describes a movement that rises and falls like a wave. In technical analysis, it describes a signal or a data trend that goes up and down consistently. It is also used in modern UI/UX design to describe smooth animations that have a natural, fluid feel. It is a more precise term than 'wavy' and sounds more professional in design documentation. It implies a sense of rhythm and continuous movement.",
+    "synonyms": [
+      "wavy",
+      "rolling",
+      "oscillating"
+    ],
+    "antonyms": [
+      "flat",
+      "straight",
+      "static"
+    ],
+    "nounForm": "undulation",
+    "verbForm": "undulate",
+    "adjectiveForm": "undulating",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design and signal processing",
+    "usageTip": "Use to describe wave-like movement in data or visuals.",
+    "commonMistake": "Confusing 'undulating' with 'shaking' (shaking is jerky).",
+    "collocations": [
+      "undulating signal",
+      "undulating motion",
+      "undulating pattern"
+    ]
+  }
+]

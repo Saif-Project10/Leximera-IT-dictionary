@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Supplied",
+    "meaning": "Provided with what is needed",
+    "shortMeaning": "provided",
+    "example": "The data was supplied by the client yesterday.",
+    "example2": "All the necessary tools were supplied in the kit.",
+    "example3": "She supplied the missing information to the team.",
+    "Explanation": "The word 'supplied' means that something was given or provided to satisfy a need or demand. It is a very common professional term. You use it when describing where resources, data, or components came from. It is a neutral, factual term that works well in any business or technical report. When you say something was 'supplied,' you are explaining the origin or provision of an item or service. It is a staple word in professional communication.",
+    "synonyms": [
+      "provided",
+      "furnished",
+      "delivered"
+    ],
+    "antonyms": [
+      "received",
+      "taken",
+      "withheld"
+    ],
+    "nounForm": "supply",
+    "verbForm": "supply",
+    "adjectiveForm": "supplied",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Logistics, project resources, data management",
+    "usageTip": "Use 'supplied' to explain who provided necessary assets.",
+    "commonMistake": "Confusing 'supplied' with 'supplied with' (e.g., 'supplied with tools' is correct).",
+    "collocations": [
+      "supplied by",
+      "data supplied",
+      "tools supplied"
+    ]
+  },
+  {
+    "word": "Supplied",
+    "meaning": "Provided or made available to someone",
+    "shortMeaning": "provided",
+    "example": "The power was supplied by a backup generator.",
+    "example2": "The company supplied all the necessary hardware for the team.",
+    "example3": "Data is supplied via a secure API.",
+    "Explanation": "Supplied is the past tense of 'supply', meaning to give or provide something. In IT, we often talk about 'power supplied to a device' or 'data supplied by a server'. It is a very common term for describing the source of resources. It is neutral and professional. It indicates that the item was provided from a source to a recipient. Use it whenever you need to identify where a resource comes from.",
+    "synonyms": [
+      "provided",
+      "given",
+      "delivered"
+    ],
+    "antonyms": [
+      "withheld",
+      "taken",
+      "removed"
+    ],
+    "nounForm": "supply",
+    "verbForm": "supply",
+    "adjectiveForm": "supplied",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Hardware, data feeds, resource management",
+    "usageTip": "Use 'supplied' to describe where resources or data originate.",
+    "commonMistake": "Using 'supplied' when you should use 'distributed' or 'allocated'.",
+    "collocations": [
+      "power supplied",
+      "data supplied",
+      "supplied by"
+    ]
+  }
+]

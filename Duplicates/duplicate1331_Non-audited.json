@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Non-audited",
+    "meaning": "Not having been officially examined or verified by an auditor",
+    "shortMeaning": "not officially checked (financial)",
+    "example": "The company released non-audited financial statements.",
+    "example2": "These are preliminary, non-audited figures.",
+    "example3": "Relying on non-audited data carries a risk.",
+    "Explanation": "'Non-audited' is an adjective used primarily in accounting, finance, and business. It describes financial information, reports, or statements that have not undergone a formal audit by an independent accountant. This means the numbers are presented but not certified as accurate and fair according to accounting standards. It signals to readers that the information is unaudited and may be subject to change or error. It is a crucial distinction for investors and regulators.",
+    "synonyms": [
+      "unaudited",
+      "unverified",
+      "unchecked"
+    ],
+    "antonyms": [
+      "audited",
+      "certified",
+      "verified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-audited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Financial reporting, corporate disclosures",
+    "usageTip": "Often used in official disclaimers on financial documents.",
+    "commonMistake": "Using it interchangeably with 'unaudited'—they mean the same, but 'unaudited' is slightly more common.",
+    "collocations": [
+      "non-audited report",
+      "non-audited results",
+      "non-audited information"
+    ]
+  },
+  {
+    "word": "Non-audited",
+    "meaning": "Not checked for accuracy or security compliance",
+    "shortMeaning": "not checked/verified",
+    "example": "The security logs remained non-audited for several months.",
+    "example2": "Do not trust non-audited code in production.",
+    "example3": "The finance module must be audited, not non-audited.",
+    "Explanation": "Being 'non-audited' means that a system, financial record, or codebase has not been thoroughly inspected by a qualified professional to ensure it meets safety, security, or regulatory standards. In the IT world, using non-audited third-party libraries is a significant security risk because they could contain hidden backdoors or vulnerabilities. Always prefer well-audited solutions for critical parts of your infrastructure to ensure the safety of your system and users.",
+    "synonyms": [
+      "unverified",
+      "uninspected"
+    ],
+    "antonyms": [
+      "audited",
+      "verified",
+      "checked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-audited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security and compliance",
+    "usageTip": "Use 'non-audited' to describe systems that haven't been reviewed.",
+    "commonMistake": "Deploying non-audited code; it is a major security liability.",
+    "collocations": [
+      "non-audited code",
+      "non-audited logs",
+      "remain non-audited"
+    ]
+  }
+]

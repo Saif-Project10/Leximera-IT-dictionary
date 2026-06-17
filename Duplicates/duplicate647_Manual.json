@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Manual",
+    "meaning": "1. Done with the hands. 2. A book of instructions.",
+    "shortMeaning": "by hand; instruction book",
+    "example": "Manual labor can be very tiring.",
+    "example2": "Refer to the user manual for setup instructions.",
+    "example3": "The car has a manual transmission.",
+    "Explanation": "'Manual' has two distinct but related meanings. As an adjective, it means relating to or done with the hands (opposite of 'automatic'). As a noun, it is a handbook or book of instructions. The word comes from the Latin 'manus' meaning 'hand'. It is common in technical contexts (manual work, manual gearbox) and for any product that comes with instructions. The adverb form is 'manually'.",
+    "synonyms": [
+      "hand-operated",
+      "physical",
+      "guidebook",
+      "handbook"
+    ],
+    "antonyms": [
+      "automatic",
+      "mental",
+      "digital"
+    ],
+    "nounForm": "manual",
+    "verbForm": "N/A",
+    "adjectiveForm": "manual",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Work, vehicles, machinery, instructions",
+    "usageTip": "Use 'manual' as an adjective for things done by hand, and as a noun for a book of instructions.",
+    "commonMistake": "Confusing a 'manual' (instructions) with a 'tutorial' (a lesson, often interactive).",
+    "collocations": [
+      "manual labor",
+      "instruction manual",
+      "manual transmission",
+      "do manually"
+    ]
+  },
+  {
+    "word": "Manual",
+    "meaning": "Done with hands or without automated tools",
+    "shortMeaning": "not automatic",
+    "example": "The system requires manual input from the user.",
+    "example2": "We need to replace this manual process with a script.",
+    "example3": "He provided a manual override code.",
+    "Explanation": "The word 'manual' describes any task that requires human effort rather than automation. In IT, 'manual' tasks are generally seen as time-consuming, error-prone, and inefficient, which is why automation is preferred. However, some tasks (like creative decisions or final approvals) are inherently manual. It is an important descriptor to distinguish between what the computer does and what the user must do.",
+    "synonyms": [
+      "hand-operated",
+      "non-automated",
+      "human-controlled"
+    ],
+    "antonyms": [
+      "automatic",
+      "automated",
+      "computerized"
+    ],
+    "nounForm": "manual",
+    "verbForm": "N/A",
+    "adjectiveForm": "manual",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Operations, processes, tasks",
+    "usageTip": "Use to highlight tasks that require human action.",
+    "commonMistake": "Assuming 'manual' always means 'bad'; it just means 'not automatic'.",
+    "collocations": [
+      "manual process",
+      "manual input",
+      "manual override"
+    ]
+  }
+]

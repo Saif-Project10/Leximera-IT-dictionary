@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Alternate",
+    "meaning": "1. Occurring by turns; every other. 2. A person who acts as a substitute.",
+    "shortMeaning": "every other; substitute",
+    "example": "We meet on alternate Tuesdays. (every other)",
+    "example2": "She is the team's alternate for the competition. (substitute)",
+    "example3": "Please use alternate routes during the road closure.",
+    "Explanation": "As an adjective, 'alternate' (pronounced ALL-ter-nut) means happening or following by turns (alternate days) or serving as a substitute (alternate route). As a noun (pronounced ALL-ter-nut), it means a substitute. Do not confuse it with 'alternative', which means another possibility or option. 'Alternate' implies a strict rotation between two things, while 'alternative' implies a choice. This distinction is important for precise communication in schedules and planning.",
+    "synonyms": [
+      "every other",
+      "rotating",
+      "substitute",
+      "backup"
+    ],
+    "antonyms": [
+      "consecutive",
+      "primary",
+      "main"
+    ],
+    "nounForm": "alternate (substitute)",
+    "verbForm": "alternate (to take turns)",
+    "adjectiveForm": "alternate",
+    "partOfSpeech": "adjective, noun, verb",
+    "commonContext": "Schedules, routes, sports, backups",
+    "usageTip": "Use 'alternate' as an adjective to mean 'every other' (alternate weeks) or 'substitute' (alternate plan).",
+    "commonMistake": "Confusing 'alternate' with 'alternative'. In American English, they are often used interchangeably, but 'alternative' is better for 'another option'.",
+    "collocations": [
+      "on alternate days",
+      "alternate route",
+      "first alternate",
+      "alternate between"
+    ]
+  },
+  {
+    "word": "Alternate",
+    "meaning": "Happening or following one after another in a repeated, turn-by-turn order; or serving as a substitute",
+    "shortMeaning": "every other or substitute",
+    "example": "The table rows use alternate colors like white and gray for better readability.",
+    "example2": "Please provide an alternate email address for password recovery.",
+    "example3": "The script runs on alternate days of the week to save resources.",
+    "Explanation": "The word 'alternate' has dual meanings depending on context: it can mean every second thing in a sequence, or it can mean a backup choice. In CSS and frontend styling, 'alternate' rows or elements are styled to create visual balance (zebra striping). The noun form is 'alternation' or 'alternative', and the verb form is 'alternate'. Understanding its dual usage helps developers design clear user choices and clean interfaces.",
+    "synonyms": [
+      "rotational",
+      "substitute",
+      "backup"
+    ],
+    "antonyms": [
+      "consecutive",
+      "continuous",
+      "primary"
+    ],
+    "nounForm": "alternation",
+    "verbForm": "alternate",
+    "adjectiveForm": "alternate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI design row patterns, system backups, and scheduling configurations",
+    "usageTip": "Use 'alternate' to describe things that take turns or serve as a direct backup choice.",
+    "commonMistake": "Confusing 'alternate' with 'alternative'; while they overlap as 'substitute', 'alternate' specifically carries the meaning of 'every other one'.",
+    "collocations": [
+      "alternate rows",
+      "alternate route",
+      "alternate choice"
+    ]
+  }
+]

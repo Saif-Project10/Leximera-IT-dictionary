@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Watermarked",
+    "meaning": "Having a faint image or text overlaid to prevent unauthorized use",
+    "shortMeaning": "marked",
+    "example": "The images are watermarked to protect the copyright.",
+    "example2": "He watermarked the document with his company name.",
+    "example3": "The software automatically adds a watermarked preview.",
+    "Explanation": "A 'watermark' is a faint design, logo, or text added to a digital file (like an image or PDF) to show who owns it or to discourage people from stealing it. 'Watermarked' describes the status of a file that has this overlay added. It is a standard tool for digital media protection and brand identification. In IT, this process is often automated by software when users export or share files. It is an important concept in digital rights management (DRM) and content creation workflows.",
+    "synonyms": [
+      "branded",
+      "stamped"
+    ],
+    "antonyms": [
+      "clean",
+      "unmarked"
+    ],
+    "nounForm": "watermark",
+    "verbForm": "watermark",
+    "adjectiveForm": "watermarked",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Content creation, media, copyright",
+    "usageTip": "Use when discussing copyright protection or branding.",
+    "commonMistake": "Thinking a watermark prevents all unauthorized sharing.",
+    "collocations": [
+      "digitally watermarked",
+      "watermarked image"
+    ]
+  },
+  {
+    "word": "Watermarked",
+    "meaning": "Having a faint design or logo embedded in an image or document",
+    "shortMeaning": "having a watermark",
+    "example": "The distributed images were watermarked to prevent copyright theft.",
+    "example2": "Every page of the document was watermarked with the company logo.",
+    "example3": "The video was watermarked with the creator's username.",
+    "Explanation": "To be 'watermarked' means that a visual identifier has been placed onto a digital asset or paper document to show ownership or branding. This is a common security and branding practice to prevent unauthorized use of media or sensitive information. In digital editing, it is often done using layers with low opacity. It is a static marker that remains visible while allowing the primary content to be seen underneath.",
+    "synonyms": [
+      "branded",
+      "identified",
+      "stamped"
+    ],
+    "antonyms": [
+      "clear",
+      "plain",
+      "unmarked"
+    ],
+    "nounForm": "watermark",
+    "verbForm": "watermark",
+    "adjectiveForm": "watermarked",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Digital rights, graphic design, and document security",
+    "usageTip": "Use this to describe content that contains an ownership identifier.",
+    "commonMistake": "Confusing a watermark with a meta-tag or hidden data.",
+    "collocations": [
+      "digitally watermarked",
+      "watermarked image",
+      "watermarked document"
+    ]
+  }
+]

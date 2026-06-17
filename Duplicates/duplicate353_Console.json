@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Console",
+    "meaning": "(Computing) A text-based interface for system management; a panel with controls. (General) A comfort someone in grief.",
+    "shortMeaning": "system interface; comfort; control panel",
+    "example": "The server error messages were displayed on the system console.",
+    "example2": "He tried to console his friend after the loss.",
+    "example3": "The pilot checked the instruments on the console.",
+    "Explanation": "In computing, a console is a special kind of terminal, often one with direct, low-level access to the operating system (like a system console). It's also used for interfaces in gaming (game console) or control rooms. As a verb (pronounced con-SOLE), it means to give comfort. The computing meaning overlaps heavily with 'terminal' and 'command line'. The key idea is a text-based interface for direct communication with a computer system, often used for critical administrative tasks where graphical interfaces might not be available or reliable.",
+    "synonyms": [
+      "terminal",
+      "command line",
+      "control panel",
+      "comfort (verb)"
+    ],
+    "antonyms": [
+      "GUI",
+      "graphical interface",
+      "upset (verb)"
+    ],
+    "nounForm": "console",
+    "verbForm": "console",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "System administration, gaming, aviation, emotional support",
+    "usageTip": "In IT, it's a noun (KON-sole). For comforting, it's a verb (kuhn-SOLE).",
+    "commonMistake": "Mispronouncing the verb form. Also, confusing the control panel meaning with the text interface meaning.",
+    "collocations": [
+      "system console",
+      "games console",
+      "console application"
+    ]
+  },
+  {
+    "word": "Console",
+    "meaning": "A physical device or a software interface used to control a computer or play games",
+    "shortMeaning": "control panel",
+    "example": "You can check for errors in the browser's developer console.",
+    "example2": "The PlayStation is a popular gaming console.",
+    "example3": "Type the command into the console to start the server.",
+    "Explanation": "A console can refer to two main things. First, it is a dedicated machine for video games, like an Xbox. Second, in programming, it is a text-based interface where you type commands (often called the 'Terminal' or 'Command Prompt'). Developers use the console to run scripts and see error messages. It is a direct way to talk to the computer without using a mouse. Understanding how to use the console is a vital skill for any coder. It provides a deeper level of control over the operating system and development tools.",
+    "synonyms": [
+      "terminal",
+      "control panel",
+      "interface"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "console",
+    "verbForm": "console",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Gaming, programming, system administration",
+    "usageTip": "Use 'console.log()' in JavaScript to print messages for debugging.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "gaming console",
+      "developer console",
+      "console command"
+    ]
+  }
+]

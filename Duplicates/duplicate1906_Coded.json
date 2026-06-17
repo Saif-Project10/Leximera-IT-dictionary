@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Coded",
+    "meaning": "Written in programming language or transformed into a code format",
+    "shortMeaning": "programmed or encrypted",
+    "example": "The functionality was coded over the weekend.",
+    "example2": "The secret message was coded to keep it safe.",
+    "example3": "Every logic piece was coded using strict quality standards.",
+    "Explanation": "The word 'coded' is the past tense of code. In software, it simply means something was written or programmed in a computer language. In cryptography, it means information was changed into a secret or coded format to hide its meaning from unauthorized parties. It is a fundamental term for the act of writing instructions for a machine to follow.",
+    "synonyms": [
+      "programmed",
+      "written",
+      "encrypted"
+    ],
+    "antonyms": [
+      "decoded",
+      "deciphered",
+      "unwritten"
+    ],
+    "nounForm": "code",
+    "verbForm": "code",
+    "adjectiveForm": "coded",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Software development, security, and general communications",
+    "usageTip": "Use 'coded' to explain that a feature or program has been implemented.",
+    "commonMistake": "Confusing 'coded' with 'compiled'; coding is writing, compiling is turning it into machine language.",
+    "collocations": [
+      "well coded",
+      "secretly coded",
+      "coded by team"
+    ]
+  },
+  {
+    "word": "Coded",
+    "meaning": "Written in a programming language or encrypted",
+    "shortMeaning": "programmed or encrypted",
+    "example": "The logic was coded in Python for better performance.",
+    "example2": "The messages are coded to ensure privacy during transit.",
+    "example3": "This part of the app was coded by the senior developer.",
+    "Explanation": "The term 'coded' can mean two things: either it is the act of writing computer software (programming), or it is the act of obscuring information (encoding/encryption). In IT, you usually know which one is meant by context. When you say 'a script is coded', you mean it was written. When you say 'data is coded', you might mean it is encoded. It is a versatile word that reflects the core work of IT professionals.",
+    "synonyms": [
+      "programmed",
+      "scripted",
+      "encrypted"
+    ],
+    "antonyms": [
+      "decoded",
+      "plain text",
+      "unprocessed"
+    ],
+    "nounForm": "code",
+    "verbForm": "code",
+    "adjectiveForm": "coded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Development, encryption",
+    "usageTip": "Use to describe software or encoded data.",
+    "commonMistake": "Confusing 'coded' (programming) with 'compiled' (the machine-ready version).",
+    "collocations": [
+      "coded in",
+      "properly coded",
+      "coded message"
+    ]
+  }
+]

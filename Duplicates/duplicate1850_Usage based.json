@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Usage based",
+    "meaning": "Depending on or calculated according to how much something is used",
+    "shortMeaning": "determined by use",
+    "example": "The company offers a usage based discount for customers who use less data.",
+    "example2": "Usage based insurance premiums are calculated using your driving habits.",
+    "example3": "Cloud computing often follows a usage based model.",
+    "Explanation": "The term 'usage based' describes a model where the cost, status, or level of service is directly tied to the amount of activity or consumption. Instead of a flat fee or a fixed rate, the user pays or is judged based on their actual consumption. This is common in utilities (like water and electricity) and is becoming the standard in modern IT services like cloud storage (AWS, Google Cloud). It is often seen as a fairer system because users only pay for what they actually need. It requires accurate tracking systems to monitor consumption in real-time.",
+    "synonyms": [
+      "consumption-based",
+      "metered",
+      "pay-as-you-go"
+    ],
+    "antonyms": [
+      "flat-rate",
+      "fixed",
+      "subscription-based"
+    ],
+    "nounForm": "usage",
+    "verbForm": "N/A",
+    "adjectiveForm": "usage-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Pricing models, insurance, and cloud services",
+    "usageTip": "Use 'usage-based' to describe plans where the bill changes every month based on activity.",
+    "commonMistake": "Confusing it with 'user-based', which refers to the number of people using the service.",
+    "collocations": [
+      "usage based model",
+      "usage based billing",
+      "usage based service"
+    ]
+  },
+  {
+    "word": "Usage based",
+    "meaning": "Determined by how much a service or resource is actually consumed",
+    "shortMeaning": "pay-as-you-go",
+    "example": "We switched to a usage based cloud pricing model.",
+    "example2": "The server logs track usage based statistics.",
+    "example3": "Usage based billing is common for SaaS providers.",
+    "Explanation": "Usage based refers to services or pricing structures where the cost or resource allocation is directly tied to how much the service is used. This is a common model for cloud computing, where you only pay for the storage or compute power that you actually consume. Usage based systems provide better flexibility for small companies that might not need dedicated, expensive infrastructure. Understanding your usage based consumption helps in optimizing costs and planning future hardware requirements effectively.",
+    "synonyms": [
+      "consumption-based",
+      "pay-as-you-go"
+    ],
+    "antonyms": [
+      "fixed-price",
+      "flat-rate"
+    ],
+    "nounForm": "usage",
+    "verbForm": "N/A",
+    "adjectiveForm": "usage-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing and billing",
+    "usageTip": "Use it when discussing flexible cloud pricing.",
+    "commonMistake": "Ignoring costs in a usage based model during high-traffic periods.",
+    "collocations": [
+      "usage based pricing",
+      "usage based model",
+      "usage based billing"
+    ]
+  }
+]

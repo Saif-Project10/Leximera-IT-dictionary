@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Insignificant",
+    "meaning": "Too small or unimportant to be worth consideration.",
+    "shortMeaning": "not important",
+    "example": "The difference in price was insignificant, so I chose the closer store.",
+    "example2": "He felt his contribution was insignificant compared to the team's effort.",
+    "example3": "The archaeological find was once thought to be insignificant.",
+    "Explanation": "'Insignificant' is a strong adjective meaning something has no real value, meaning, or influence. It implies that something can be safely ignored because it doesn't matter. It is often used in statistical, scientific, or formal contexts to describe negligible results. The noun form is 'insignificance'. It is more negative than 'minor', which can sometimes be neutral. Be careful to spell it correctly, as it is a long word.",
+    "synonyms": [
+      "Meaningless",
+      "Negligible",
+      "Trivial",
+      "Unimportant"
+    ],
+    "antonyms": [
+      "Important",
+      "Major",
+      "Notable",
+      "Significant"
+    ],
+    "nounForm": "insignificance",
+    "verbForm": "N/A",
+    "adjectiveForm": "insignificant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, details, contributions, amounts, feelings",
+    "usageTip": "Use 'insignificant' for things that are so small they have no effect or meaning.",
+    "commonMistake": "Confusing it with 'insufficient', which means 'not enough'.",
+    "collocations": [
+      "statistically insignificant",
+      "insignificant amount",
+      "seem insignificant"
+    ]
+  },
+  {
+    "word": "Insignificant",
+    "meaning": "Too small or unimportant to matter",
+    "shortMeaning": "not important",
+    "example": "The difference in speed is insignificant.",
+    "example2": "The bug was insignificant and didn't need a fix.",
+    "example3": "The impact on performance was insignificant.",
+    "Explanation": "The word 'insignificant' describes something that is so small it doesn't affect the final result. In IT, we often measure differences in load time or memory usage. If a change saves only a tiny amount of time, we call the impact 'insignificant'. This helps focus work on the things that actually matter rather than worrying about tiny details.",
+    "synonyms": [
+      "unimportant",
+      "trivial",
+      "minor"
+    ],
+    "antonyms": [
+      "significant",
+      "major",
+      "important"
+    ],
+    "nounForm": "insignificance",
+    "verbForm": "N/A",
+    "adjectiveForm": "insignificant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance analysis, debugging",
+    "usageTip": "Use when you want to dismiss minor issues.",
+    "commonMistake": "Calling something insignificant that actually impacts the user.",
+    "collocations": [
+      "insignificant impact",
+      "insignificant difference",
+      "insignificant bug"
+    ]
+  }
+]

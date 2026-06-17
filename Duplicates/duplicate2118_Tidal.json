@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Tidal",
+    "meaning": "Relating to or affected by tides (often metaphorically)",
+    "shortMeaning": "related to tides",
+    "example": "The system monitors tidal movements for research.",
+    "example2": "Network traffic can be tidal, rising and falling.",
+    "example3": "The data shows a tidal pattern of usage throughout the day.",
+    "Explanation": "Tidal literally refers to tides (the rising and falling of the sea). In IT, it is sometimes used metaphorically to describe recurring patterns that fluctuate in intensity, such as peak and off-peak network traffic or data flow. It implies a predictable, cyclic motion. It is not a standard technical term for hardware but is used in analytical contexts to describe patterns that rise and fall over time.",
+    "synonyms": [
+      "cyclic",
+      "fluctuating",
+      "periodic"
+    ],
+    "antonyms": [
+      "steady",
+      "constant"
+    ],
+    "nounForm": "tide",
+    "verbForm": "N/A",
+    "adjectiveForm": "tidal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, traffic patterns",
+    "usageTip": "Use primarily for traffic cycles.",
+    "commonMistake": "Using it to describe hardware (it is usually for data or traffic).",
+    "collocations": [
+      "tidal pattern",
+      "tidal movement",
+      "tidal flow"
+    ]
+  },
+  {
+    "word": "Tidal",
+    "meaning": "Relating to the rising and falling of tides; or moving in waves",
+    "shortMeaning": "wavelike",
+    "example": "The surge in server traffic had a tidal pattern.",
+    "example2": "Tidal forces are a natural phenomenon.",
+    "example3": "They monitored the tidal shifts in user demand.",
+    "Explanation": "The word 'tidal' technically refers to ocean tides, but in IT, it is sometimes used metaphorically to describe large, repeating waves of activity or data flow (like tidal traffic). It suggests something that is cyclic, massive, and powerful. It is not a standard technical term in most IT domains, so be careful to provide context if using it metaphorically. It implies a sense of scale and rhythm.",
+    "synonyms": [
+      "wavelike",
+      "cyclic",
+      "surging"
+    ],
+    "antonyms": [
+      "stable",
+      "constant"
+    ],
+    "nounForm": "tide",
+    "verbForm": "N/A",
+    "adjectiveForm": "tidal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network traffic metaphors, data science",
+    "usageTip": "Use 'tidal' only as a metaphor for large, cyclical data patterns.",
+    "commonMistake": "Using 'tidal' instead of 'cyclic' in standard technical writing.",
+    "collocations": [
+      "tidal traffic",
+      "tidal pattern",
+      "tidal shift"
+    ]
+  }
+]

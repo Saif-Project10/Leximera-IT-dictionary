@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Digital",
+    "meaning": "Using or relating to computer technology, especially the internet; representing data as numbers (0s and 1s)",
+    "shortMeaning": "relating to computers/internet",
+    "example": "We live in a digital age.",
+    "example2": "The camera takes both digital and film photos.",
+    "example3": "The company is undergoing a digital transformation.",
+    "Explanation": "'Digital' is one of the most important adjectives of the modern era. It describes technology that uses discrete values (digits), typically the binary system, as opposed to 'analog' continuous signals. It now broadly refers to anything involving computers, the internet, and electronic data. 'Digital' contrasts with 'physical' (digital vs. print). It underpins everything from communication to entertainment to business. The noun form is 'digit'. Being 'digital' is associated with modernity, speed, and connectivity. It's a defining characteristic of 21st-century life.",
+    "synonyms": [
+      "computerized",
+      "electronic",
+      "online",
+      "binary"
+    ],
+    "antonyms": [
+      "analog",
+      "physical",
+      "manual"
+    ],
+    "nounForm": "digit",
+    "verbForm": "digitize",
+    "adjectiveForm": "digital",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, marketing, media, photography, business",
+    "usageTip": "Use 'digital' to describe anything related to computers, the internet, or data stored electronically.",
+    "commonMistake": "Using 'digital' to mean only 'online'. It also refers to any technology that processes discrete data, even if not connected.",
+    "collocations": [
+      "digital technology",
+      "digital media",
+      "digital footprint"
+    ]
+  },
+  {
+    "word": "Digital",
+    "meaning": "Involving or relating to data represented as series of ones and zeros.",
+    "shortMeaning": "related to binary/computers",
+    "example": "We are moving from analog systems to a fully digital infrastructure.",
+    "example2": "Digital data can be easily copied and transmitted.",
+    "example3": "The digital landscape is changing faster than ever.",
+    "Explanation": "The word 'digital' is foundational to the field of computing. It refers to systems that store, process, or transmit information using binary code (0s and 1s). Anything in computing—files, networks, media, code—is digital. It stands in contrast to 'analog', which uses continuous signals. It is a broad term used everywhere in tech, from job titles to hardware specs. Understanding the digital/analog distinction is a core part of IT literacy.",
+    "synonyms": [
+      "binary",
+      "electronic",
+      "computerized"
+    ],
+    "antonyms": [
+      "analog"
+    ],
+    "nounForm": "Digitization",
+    "verbForm": "Digitize",
+    "adjectiveForm": "Digital",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everything in computing and technology",
+    "usageTip": "Use 'digital' to refer to anything computer-based or binary-encoded.",
+    "commonMistake": "Overusing it; you don't need to say 'digital computer' as 'computer' implies it.",
+    "collocations": [
+      "digital infrastructure",
+      "digital data",
+      "digital transformation"
+    ]
+  }
+]

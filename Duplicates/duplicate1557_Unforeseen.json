@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unforeseen",
+    "meaning": "Not anticipated or predicted; unexpected",
+    "shortMeaning": "unexpected",
+    "example": "Due to unforeseen circumstances, the event is postponed.",
+    "example2": "The project ran over budget because of unforeseen expenses.",
+    "example3": "They faced unforeseen difficulties during their journey.",
+    "Explanation": "The adjective 'unforeseen' describes events, circumstances, or consequences that were not seen or known in advance; they were surprises. It is a formal word often used in planning, project management, legal contexts, and explanations for delays or problems. While 'unexpected' is more general, 'unforeseen' often implies that the event *could* or *should* have been foreseen with better planning or insight, but wasn't. It's commonly used in the phrase 'due to unforeseen circumstances' as a polite or formal excuse. The word acknowledges that the future is uncertain and even the best plans can be disrupted.",
+    "synonyms": [
+      "unexpected",
+      "unanticipated",
+      "unpredicted",
+      "surprise"
+    ],
+    "antonyms": [
+      "foreseen",
+      "anticipated",
+      "expected",
+      "predicted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "foresee",
+    "adjectiveForm": "unforeseen",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, legal contracts, apologies, risk assessment",
+    "usageTip": "Often used to explain delays, cost overruns, or changes in plans.",
+    "commonMistake": "Using it for minor, trivial surprises; it's best for significant, disruptive events.",
+    "collocations": [
+      "unforeseen circumstances",
+      "unforeseen problems",
+      "unforeseen events",
+      "unforeseen cost"
+    ]
+  },
+  {
+    "word": "Unforeseen",
+    "meaning": "Not anticipated or planned for in advance",
+    "shortMeaning": "unplanned",
+    "example": "The project was delayed by unforeseen technical issues.",
+    "example2": "We implemented a buffer for unforeseen downtime.",
+    "example3": "Unforeseen consequences of the patch affected the database.",
+    "Explanation": "Similar to 'unexpected', 'unforeseen' refers to things that were not predicted when planning a project. In IT, this is very common in software development where bugs or infrastructure problems arise that were not accounted for in the initial design. Project managers use this word to explain why deadlines might be missed or why budgets might increase. A proactive team tries to identify as many risks as possible to reduce the number of unforeseen problems. It is a standard term in professional reports and status updates.",
+    "synonyms": [
+      "unanticipated",
+      "unplanned",
+      "surprising"
+    ],
+    "antonyms": [
+      "foreseen",
+      "anticipated",
+      "predicted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unforeseen",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, status reporting, risk analysis",
+    "usageTip": "Use this to explain project delays professionally.",
+    "commonMistake": "Using 'unforeseen' for errors that you should have planned for.",
+    "collocations": [
+      "unforeseen circumstances",
+      "unforeseen issues",
+      "due to unforeseen events"
+    ]
+  },
+  {
+    "word": "Unforeseen",
+    "meaning": "Not predicted or anticipated",
+    "shortMeaning": "unplanned",
+    "example": "We faced unforeseen challenges during the migration.",
+    "example2": "The project was delayed by unforeseen technical issues.",
+    "example3": "Plan for unforeseen risks in the budget.",
+    "Explanation": "The word 'unforeseen' is very similar to 'unexpected' but carries a sense of 'things we didn't plan for'. It is often used in project management to justify delays or budget overruns. It suggests that while you did your best to plan, some things are simply out of your control. It is a professional way to acknowledge issues without sounding like you were careless. It implies a requirement for better future planning.",
+    "synonyms": [
+      "unplanned",
+      "unanticipated",
+      "unpredicted"
+    ],
+    "antonyms": [
+      "foreseen",
+      "anticipated",
+      "planned"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "foresee",
+    "adjectiveForm": "unforeseen",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management and risk assessment",
+    "usageTip": "Use to explain setbacks in project plans.",
+    "commonMistake": "Using 'unforeseen' for errors that should have been planned for.",
+    "collocations": [
+      "unforeseen challenges",
+      "unforeseen issues",
+      "unforeseen risks"
+    ]
+  }
+]

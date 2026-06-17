@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Maintained",
+    "meaning": "Kept in good condition; stated to be true; continued at the same level",
+    "shortMeaning": "kept up; asserted",
+    "example": "The roads are well maintained.",
+    "example2": "She maintained that she was innocent.",
+    "example3": "He maintained a steady speed.",
+    "Explanation": "The verb (past tense) 'maintained' has three primary meanings. First, to keep something in good condition through regular care (maintain a car). Second, to state something strongly despite opposition (maintain a position). Third, to cause something to continue (maintain peace). It implies ongoing effort and consistency. The noun form is 'maintenance' for the first meaning. It's a versatile and common verb.",
+    "synonyms": [
+      "upkept",
+      "preserved",
+      "asserted",
+      "claimed",
+      "sustained"
+    ],
+    "antonyms": [
+      "neglected",
+      "abandoned",
+      "denied",
+      "dropped"
+    ],
+    "nounForm": "maintenance",
+    "verbForm": "maintain",
+    "adjectiveForm": "maintained",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Equipment, arguments, relationships, speed, silence",
+    "usageTip": "For the 'state as true' meaning, it is often followed by 'that': 'He maintained that it was an accident.'",
+    "commonMistake": "Confusing 'maintained' with 'obtained', which means acquired.",
+    "collocations": [
+      "well maintained",
+      "maintained contact",
+      "maintained a lead",
+      "hard to maintain"
+    ]
+  },
+  {
+    "word": "Maintained",
+    "meaning": "Kept in good condition or kept running",
+    "shortMeaning": "kept up",
+    "example": "The open-source library is actively maintained by the community.",
+    "example2": "A well-maintained database performs better.",
+    "example3": "He maintained the server configuration files.",
+    "Explanation": "The word 'maintained' means that something has been taken care of, updated, or preserved. In IT, saying a project is 'actively maintained' means developers are regularly fixing bugs and releasing updates. If a system is not maintained, it becomes vulnerable to security threats and obsolescence. It implies ongoing effort to ensure stability and relevance. It is the past participle form of 'maintain'.",
+    "synonyms": [
+      "upkept",
+      "supported",
+      "preserved"
+    ],
+    "antonyms": [
+      "abandoned",
+      "neglected",
+      "deprecated"
+    ],
+    "nounForm": "maintenance",
+    "verbForm": "maintain",
+    "adjectiveForm": "maintained",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Software projects, hardware, operations",
+    "usageTip": "Use to describe the status of a project or system.",
+    "commonMistake": "Confusing 'maintained' (still supported) with 'completed' (finished).",
+    "collocations": [
+      "actively maintained",
+      "well-maintained system",
+      "rarely maintained"
+    ]
+  }
+]

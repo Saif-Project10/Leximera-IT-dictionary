@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Starting",
+    "meaning": "Beginning to happen, do, or work on something.",
+    "shortMeaning": "beginning",
+    "example": "The starting date for the project is next Monday.",
+    "example2": "He is starting a new job tomorrow.",
+    "example3": "The engine is having starting problems.",
+    "Explanation": "'Starting' can be a gerund (noun), a present participle (adjective), or part of a continuous verb tense. It refers to the initial point or phase of an action, process, or event. As an adjective, it describes something related to the beginning, like a 'starting point'. It is an extremely common and versatile word. The base verb is 'to start'. It is neutral and can be used in almost any context involving a beginning.",
+    "synonyms": [
+      "beginning",
+      "commencing",
+      "initiating"
+    ],
+    "antonyms": [
+      "ending",
+      "finishing",
+      "concluding"
+    ],
+    "nounForm": "start",
+    "verbForm": "start",
+    "adjectiveForm": "starting / initial",
+    "partOfSpeech": "verb (gerund/participle), adjective",
+    "commonContext": "Projects, events, engines, races",
+    "usageTip": "Remember 'starting' is not a standalone noun like 'beginning'. You say 'the start of the race' or 'starting the race'.",
+    "commonMistake": "Incorrectly using 'start' instead of 'starting' in continuous tenses: 'I am start' should be 'I am starting'.",
+    "collocations": [
+      "starting point",
+      "starting lineup",
+      "starting tomorrow"
+    ]
+  },
+  {
+    "word": "Starting",
+    "meaning": "Beginning an operation or the initial point of an event.",
+    "shortMeaning": "beginning",
+    "example": "The starting point of the script is the main function.",
+    "example2": "Starting the server takes longer than usual today.",
+    "example3": "We are starting a new project in the next sprint.",
+    "Explanation": "The word 'starting' indicates the commencement of an action, process, or time period. In computing, it often refers to booting a system, initiating a program, or the first element in a sequence. It marks the transition from an inactive state to an active one. Being clear about what happens during the 'starting' phase is crucial for debugging, as many configuration errors occur precisely when a process is first launched.",
+    "synonyms": [
+      "commencing",
+      "beginning",
+      "initiating"
+    ],
+    "antonyms": [
+      "stopping",
+      "finishing",
+      "ending"
+    ],
+    "nounForm": "start",
+    "verbForm": "start",
+    "adjectiveForm": "starting",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Process management, project planning",
+    "usageTip": "Use 'starting' to describe the initiation of a task.",
+    "commonMistake": "Confusing 'starting' (the process) with 'startup' (the overall event).",
+    "collocations": [
+      "starting point",
+      "starting the process",
+      "starting soon"
+    ]
+  },
+  {
+    "word": "Starting",
+    "meaning": "Beginning a process or action",
+    "shortMeaning": "commencing",
+    "example": "The starting point for this project is the user requirements document.",
+    "example2": "We are starting the server deployment in five minutes.",
+    "example3": "The starting sequence checks for hardware connectivity.",
+    "Explanation": "The word 'starting' is a general term for the initiation of something. In IT, it can refer to the boot-up process of a device, the launch of an application, or the beginning of a work phase. It is an active term used to indicate the transition from inactive to active. It is often paired with 'point' or 'sequence' to denote the foundation of a process. It is a fundamental word used in almost all areas of computer science.",
+    "synonyms": [
+      "beginning",
+      "commencing",
+      "initiating"
+    ],
+    "antonyms": [
+      "ending",
+      "stopping",
+      "finishing"
+    ],
+    "nounForm": "start",
+    "verbForm": "start",
+    "adjectiveForm": "starting",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Processes, projects, hardware",
+    "usageTip": "Use 'starting' to clearly mark the beginning of a sequence.",
+    "commonMistake": "Confusing the 'starting state' with the 'running state'.",
+    "collocations": [
+      "starting point",
+      "starting sequence",
+      "starting up"
+    ]
+  }
+]

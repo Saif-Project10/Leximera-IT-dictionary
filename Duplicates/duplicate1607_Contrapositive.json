@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Contrapositive",
+    "meaning": "A logical statement formed by switching and negating the parts of an 'if-then' sentence",
+    "shortMeaning": "negated logical swap",
+    "example": "For the statement 'If it is raining, then the grass is wet,' the contrapositive is 'If the grass is not wet, then it is not raining.' ",
+    "example2": "The contrapositive of a true statement is always also true.",
+    "example3": "We used the contrapositive to simplify the logic of the code.",
+    "Explanation": "In logic, if you have a statement 'If P, then Q,' the contrapositive is 'If not Q, then not P.' This is a very important rule because a statement and its contrapositive are logically identical—if one is true, the other is 100% true as well. This is different from the 'inverse' or 'converse,' which might be false. Mathematicians use this to prove difficult theorems; if it's hard to prove the original statement, they prove the contrapositive instead. It is a key part of understanding how computer programs make decisions and how lawyers build arguments.",
+    "synonyms": [
+      "logical equivalent",
+      "N/A"
+    ],
+    "antonyms": [
+      "converse",
+      "inverse"
+    ],
+    "nounForm": "contrapositive",
+    "verbForm": "N/A",
+    "adjectiveForm": "contrapositive",
+    "partOfSpeech": "noun",
+    "commonContext": "Logic, geometry, and computer programming",
+    "usageTip": "Use the contrapositive to double-check your logic when writing complex 'if-else' statements in code.",
+    "commonMistake": "Confusing the 'contrapositive' with the 'converse' (If Q, then P), which is not necessarily true.",
+    "collocations": [
+      "contrapositive statement",
+      "prove the contrapositive",
+      "law of contrapositive"
+    ]
+  },
+  {
+    "word": "Contrapositive",
+    "meaning": "A logical statement formed by reversing and negating another",
+    "shortMeaning": "logical reverse",
+    "example": "The contrapositive of 'If A then B' is 'If not B then not A'.",
+    "example2": "Using the contrapositive helped prove the algorithm.",
+    "example3": "Understanding the contrapositive simplifies complex logic.",
+    "Explanation": "In formal logic, the contrapositive is a way to rephrase a statement without changing its truth value. It is very useful in mathematical proofs and complex programming logic. The noun form is 'contrapositive', and there is no verb form. It is a powerful tool to verify if logic is sound. It is often taught alongside logical implications and inverse statements.",
+    "synonyms": [
+      "logical inversion",
+      "converse negation"
+    ],
+    "antonyms": [
+      "inverse",
+      "converse"
+    ],
+    "nounForm": "contrapositive",
+    "verbForm": "N/A",
+    "adjectiveForm": "contrapositive",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Logic, mathematics, algorithm design",
+    "usageTip": "Use when you need to prove a statement by looking at its reverse negation.",
+    "commonMistake": "Confusing the contrapositive with the inverse.",
+    "collocations": [
+      "logical contrapositive",
+      "prove by contrapositive"
+    ]
+  }
+]

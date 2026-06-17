@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Exclude",
+    "meaning": "To deliberately leave someone or something out; to not allow in. | To deny someone access to a place, group, or privilege; to leave out.",
+    "shortMeaning": "leave out, not include",
+    "example": "The club can exclude people who don't follow the rules.",
+    "example2": "Please exclude nuts from the recipe because of my allergy.",
+    "example3": "The price excludes taxes and delivery charges.",
+    "Explanation": "The verb 'exclude' means to intentionally keep someone or something from being part of a group, activity, or total. It is the opposite of include. It is often used in formal contexts like rules, lists, and calculations. A common phrase is 'excluding tax'. It implies a conscious decision to omit. Do not confuse it with 'reject', which is a stronger refusal. 'Exclude' is about preventing entry or participation, not necessarily about disapproval.",
+    "synonyms": [
+      "Bar",
+      "Leave Out",
+      "Omit"
+    ],
+    "antonyms": [
+      "Admit",
+      "Include",
+      "Incorporate"
+    ],
+    "nounForm": "exclusion",
+    "verbForm": "exclude",
+    "adjectiveForm": "exclusive",
+    "partOfSpeech": "verb",
+    "commonContext": "Rules, lists, groups, statistics",
+    "usageTip": "Often used in formal writing to specify what is not part of a total (e.g., price excludes VAT).",
+    "commonMistake": "Confusing 'exclude' with 'reject'. You exclude someone from a list; you reject an application.",
+    "collocations": [
+      "exclude from",
+      "mutually exclude",
+      "exclude the possibility"
+    ]
+  },
+  {
+    "word": "Exclude",
+    "meaning": "To deliberately leave something or someone out",
+    "shortMeaning": "leave out",
+    "example": "You should exclude the 'temp' folder from the backup list.",
+    "example2": "The filter will exclude all results that are not in English.",
+    "example3": "Please exclude my name from the email CC list.",
+    "Explanation": "To 'exclude' is the opposite of 'include'. In IT, it is very common when setting up filters, searches, or backups. You might exclude certain files from a virus scan to save time, or exclude certain IP addresses from accessing a network for security. It is an intentional act of defining what does *not* belong in a specific group. It helps in narrowing down focus and saving resources.",
+    "synonyms": [
+      "omit",
+      "leave out",
+      "reject"
+    ],
+    "antonyms": [
+      "include",
+      "incorporate",
+      "add"
+    ],
+    "nounForm": "exclusion",
+    "verbForm": "exclude",
+    "adjectiveForm": "exclusive",
+    "partOfSpeech": "verb",
+    "commonContext": "Filtering, backup settings, and programming logic",
+    "usageTip": "Use 'exclude' when you want to make sure something is ignored or kept away.",
+    "commonMistake": "Using 'delete' when you just want to 'ignore' or 'exclude' something from a process.",
+    "collocations": [
+      "exclude from list",
+      "mutually exclude",
+      "exclude specific files"
+    ]
+  }
+]

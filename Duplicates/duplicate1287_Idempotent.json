@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Idempotent",
+    "meaning": "Describing an operation that can be applied multiple times without changing the result beyond the initial application.",
+    "shortMeaning": "multiple applications yield same result",
+    "example": "In REST APIs, GET requests should be idempotent.",
+    "example2": "Setting a value to 'true' is idempotent; doing it multiple times doesn't change the outcome.",
+    "example3": "HTTP PUT and DELETE methods are designed to be idempotent.",
+    "Explanation": "'Idempotent' is a crucial concept in distributed systems and API design. An idempotent operation produces the same result whether executed once or multiple times. This is essential for reliability in networks where requests might be retried. For example, charging a credit card is NOT idempotent (doing it twice charges twice), but retrieving data is idempotent. In mathematics, multiplying by zero is idempotent (0×0=0). In frontend development, understanding idempotency helps design predictable state updates and handle network retries safely. This property prevents side effects from duplicate operations.",
+    "synonyms": [
+      "repeatable",
+      "safe to retry",
+      "deterministic"
+    ],
+    "antonyms": [
+      "non-idempotent",
+      "state-changing"
+    ],
+    "nounForm": "idempotence",
+    "verbForm": "N/A",
+    "adjectiveForm": "idempotent",
+    "partOfSpeech": "adjective",
+    "commonContext": "API design, distributed systems, HTTP methods, database operations",
+    "usageTip": "Used to describe operations that can be safely retried without unexpected side effects.",
+    "commonMistake": "Confusing with 'idempotent' and 'indempotent' (misspelling). Correct spelling: idempotent.",
+    "collocations": [
+      "idempotent operation",
+      "idempotent request",
+      "idempotent function"
+    ]
+  },
+  {
+    "word": "Idempotent",
+    "meaning": "An operation that has the same effect whether executed once or multiple times",
+    "shortMeaning": "Repeatable without extra change",
+    "example": "The API endpoint is idempotent, so retries are safe.",
+    "example2": "Idempotent scripts are essential for automation.",
+    "example3": "Ensuring the function is idempotent prevents errors.",
+    "Explanation": "Idempotency is a critical property in computing, especially in APIs and automated configuration management. An idempotent action leaves the system in the same state after one call as it does after ten calls. It is an adjective. It is a key concept for robust software, as it allows for safe retries without unintended side effects like creating duplicate database entries or crashing the system.",
+    "synonyms": [
+      "repeatable",
+      "consistent"
+    ],
+    "antonyms": [
+      "non-idempotent",
+      "stateful"
+    ],
+    "nounForm": "idempotency",
+    "verbForm": "N/A",
+    "adjectiveForm": "idempotent",
+    "partOfSpeech": "adjective",
+    "commonContext": "API design, DevOps, automation",
+    "usageTip": "Use when discussing safe retry behavior.",
+    "commonMistake": "Assuming all API methods are naturally idempotent.",
+    "collocations": [
+      "idempotent operation",
+      "idempotent API",
+      "idempotent script"
+    ]
+  }
+]

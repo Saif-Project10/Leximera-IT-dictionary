@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Bury",
+    "meaning": "To put or hide something in the ground; to cover completely; to forget or stop thinking about",
+    "shortMeaning": "put underground; cover",
+    "example": "They decided to bury a time capsule in the garden.",
+    "example2": "The avalanche buried the village in snow.",
+    "example3": "He tried to bury his memories of the accident.",
+    "Explanation": "The verb 'bury' literally means to place a dead body in the earth or to put something underground. Figuratively, it means to cover something completely (buried in work) or to hide or suppress feelings, memories, or information. It implies a deep or complete concealment, often making retrieval difficult. The noun form is 'burial'. It's a strong verb used in both literal and metaphorical ways.",
+    "synonyms": [
+      "inter",
+      "entomb",
+      "cover",
+      "suppress"
+    ],
+    "antonyms": [
+      "exhume",
+      "unearth",
+      "reveal",
+      "expose"
+    ],
+    "nounForm": "burial",
+    "verbForm": "bury",
+    "adjectiveForm": "buried",
+    "partOfSpeech": "verb",
+    "commonContext": "Death, secrets, emotions, disasters",
+    "usageTip": "Figuratively, often used with 'in': 'buried in paperwork', 'buried her face in her hands'.",
+    "commonMistake": "Misspelling as 'berry' (the fruit).",
+    "collocations": [
+      "bury the dead",
+      "bury your head",
+      "buried treasure",
+      "buried under"
+    ]
+  },
+  {
+    "word": "Bury",
+    "meaning": "To put something under the ground or hide it deep inside something else",
+    "shortMeaning": "hide or cover",
+    "example": "They had to bury the fiber optic cables deep under the street.",
+    "example2": "Don't bury the important information at the bottom of the long email.",
+    "example3": "The treasure was buried on a deserted island.",
+    "Explanation": "Literally, to bury means to place something in the earth. Metaphorically, in IT or writing, it means to hide something where it is hard to find. For example, if a developer 'buries' a bug deep in the code, it becomes very difficult to debug. In UI design, you should never 'bury' the settings menu under five different clicks. The goal is usually to keep important things 'above ground' or visible to the user. Use it carefully to describe hidden or deep-seated issues.",
+    "synonyms": [
+      "inter",
+      "hide",
+      "conceal",
+      "submerge"
+    ],
+    "antonyms": [
+      "unearth",
+      "reveal",
+      "display"
+    ],
+    "nounForm": "burial",
+    "verbForm": "bury",
+    "adjectiveForm": "buried",
+    "partOfSpeech": "verb",
+    "commonContext": "Cabling, communication, and software organization",
+    "usageTip": "In professional writing, put the main point first so you don't bury the lead.",
+    "commonMistake": "Using 'bury' when you mean 'delete'; buried things still exist, they are just hidden.",
+    "collocations": [
+      "bury the lead",
+      "buried deep",
+      "buried cables"
+    ]
+  }
+]

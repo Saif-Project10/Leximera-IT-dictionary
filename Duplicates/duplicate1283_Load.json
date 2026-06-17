@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Load",
+    "meaning": "1. A heavy or bulky thing being carried. 2. The amount of work done by a person or machine. 3. To put a load on or into.",
+    "shortMeaning": "something carried or to put something on",
+    "example": "The truck carried a full load of bricks.",
+    "example2": "The washing machine has a full load.",
+    "example3": "Load the software onto your computer.",
+    "Explanation": "'Load' is a versatile noun and verb. As a noun, it refers to a burden, cargo, or the amount of something being carried or processed. In engineering, it's the force on a structure. In computing, it's the demand on a system. As a verb, it means to put a load onto something (load a truck) or into something (load a gun, load a program). The word is about weight, capacity, and the act of filling. Managing load is key to transportation, computing, and stress management. It's a very common word.",
+    "synonyms": [
+      "burden, cargo, weight (noun); fill, pack, charge (verb)"
+    ],
+    "antonyms": [
+      "unload, empty (verb)"
+    ],
+    "nounForm": "load",
+    "verbForm": "load",
+    "adjectiveForm": "loaded",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Transport, computing, work, washing, weapons",
+    "usageTip": "Use as a noun for the thing being carried or the amount of work. Use as a verb for the action of putting something in/on.",
+    "commonMistake": "Confusing 'load' with 'loaf' (bread). They sound similar.",
+    "collocations": [
+      "heavy load",
+      "workload",
+      "load the dishwasher"
+    ]
+  },
+  {
+    "word": "Load",
+    "meaning": "To transfer data or a program from storage into a computer's memory",
+    "shortMeaning": "bring data in",
+    "example": "It takes a few seconds to load the game on an older hard drive.",
+    "example2": "The browser needs to load the images before the page is fully visible.",
+    "example3": "The system will load the configuration file on startup.",
+    "Explanation": "To 'load' is the process of getting something ready to use. In technical terms, it usually means moving data from a slow place (like a hard disk) to a fast place (like RAM). This applies to everything: websites, apps, games, and operating systems. If a file is not loaded, the CPU cannot work with it. The 'load time' is a critical metric for user experience. In another context, 'load' can also refer to the amount of work a computer is doing (CPU load).",
+    "synonyms": [
+      "fetch",
+      "retrieve",
+      "initialize"
+    ],
+    "antonyms": [
+      "unload",
+      "save",
+      "eject"
+    ],
+    "nounForm": "load / loading",
+    "verbForm": "load",
+    "adjectiveForm": "loaded",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software performance, web browsing, and system startup",
+    "usageTip": "Use 'load' when talking about starting an app or opening a file.",
+    "commonMistake": "Confusing 'loading' (fetching data) with 'installing' (copying data to the disk).",
+    "collocations": [
+      "load time",
+      "loading screen",
+      "fully load"
+    ]
+  }
+]

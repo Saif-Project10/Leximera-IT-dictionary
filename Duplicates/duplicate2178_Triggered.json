@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Triggered",
+    "meaning": "Caused an event or process to start or happen.",
+    "shortMeaning": "activated",
+    "example": "The sensor triggered the alarm.",
+    "example2": "A sudden power surge triggered a system restart.",
+    "example3": "The update triggered an automatic backup.",
+    "Explanation": "The word 'triggered' is used when an action, event, or condition causes something else to begin immediately. In IT, this is common with databases, security systems, and scripts. It implies a direct cause-and-effect relationship. The root noun is 'trigger' and the base verb is 'trigger'. Use this word to explain how one event automatically launches another, which is a fundamental concept in event-driven programming.",
+    "synonyms": [
+      "activated",
+      "initiated",
+      "caused"
+    ],
+    "antonyms": [
+      "stopped",
+      "prevented",
+      "disabled"
+    ],
+    "nounForm": "trigger",
+    "verbForm": "trigger",
+    "adjectiveForm": "triggered",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Programming, hardware sensors, and databases",
+    "usageTip": "Use 'triggered' to describe an automatic response in a system.",
+    "commonMistake": "Using 'triggered' for slow or manual processes.",
+    "collocations": [
+      "triggered an event",
+      "triggered by",
+      "alarm triggered"
+    ]
+  },
+  {
+    "word": "Triggered",
+    "meaning": "Caused to start or to happen",
+    "shortMeaning": "started by an event",
+    "example": "The event was triggered by a mouse click.",
+    "example2": "The database update triggered an automated email.",
+    "example3": "The error was triggered by a null input.",
+    "Explanation": "Triggered describes an action that starts as a direct result of a specific event. In programming, triggers are used to automate responses to database changes or user interactions. It is a fundamental concept in event-driven architecture. When something is triggered, it implies an automatic, system-level reaction. Understanding what triggered a process is the first step in debugging complex systems.",
+    "synonyms": [
+      "initiated",
+      "activated",
+      "launched"
+    ],
+    "antonyms": [
+      "halted",
+      "stopped",
+      "prevented"
+    ],
+    "nounForm": "trigger",
+    "verbForm": "trigger",
+    "adjectiveForm": "triggered",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming, databases, automation",
+    "usageTip": "Use this to describe how one event starts another process.",
+    "commonMistake": "Assuming triggers are always visible to the user; they are often background processes.",
+    "collocations": [
+      "event triggered",
+      "automatically triggered",
+      "triggered by error"
+    ]
+  }
+]

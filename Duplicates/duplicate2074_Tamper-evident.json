@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tamper-evident",
+    "meaning": "Designed to show clearly if someone has interfered",
+    "shortMeaning": "shows interference",
+    "example": "We use tamper-evident stickers on our shipping boxes.",
+    "example2": "The database uses tamper-evident logs.",
+    "example3": "He checked that the seal was tamper-evident.",
+    "Explanation": "The term 'tamper-evident' means that any attempt to interfere with an object, seal, or data record will leave a clear, visible trace. Unlike 'tamper resistant', which tries to *stop* someone, 'tamper-evident' focuses on *revealing* that someone tried. This is vital for security where you need to know *if* a break-in occurred. In database technology, 'tamper-evident' logs ensure that you can detect if records were maliciously changed.",
+    "synonyms": [
+      "visible",
+      "clear",
+      "marked"
+    ],
+    "antonyms": [
+      "unmarked",
+      "concealed"
+    ],
+    "nounForm": "tampering",
+    "verbForm": "tamper",
+    "adjectiveForm": "tamper-evident",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, data integrity, physical logistics",
+    "usageTip": "Use when talking about detecting interference.",
+    "commonMistake": "Confusing 'tamper-evident' with 'tamper-resistant'.",
+    "collocations": [
+      "tamper-evident seal",
+      "tamper-evident logs"
+    ]
+  },
+  {
+    "word": "Tamper-evident",
+    "meaning": "Designed so that any unauthorized attempt to open or alter it is clearly visible",
+    "shortMeaning": "shows signs of change",
+    "example": "The package has a tamper-evident seal.",
+    "example2": "Digital logs are tamper-evident to track file changes.",
+    "example3": "We require tamper-evident labels on all equipment.",
+    "Explanation": "The word 'tamper-evident' describes a system or product that leaves clear signs of intrusion if someone tries to change it. Unlike 'tamper-resistant', which tries to stop the act, 'tamper-evident' focuses on making it impossible to hide the act. This is vital for auditing, chain of custody, and security logs. When something is tamper-evident, security teams can easily tell that a compromise has occurred. It is a standard requirement for high-security environments.",
+    "synonyms": [
+      "detectable",
+      "traceable",
+      "obvious"
+    ],
+    "antonyms": [
+      "undetectable",
+      "hidden"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "tamper-evident",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, auditing, logistics",
+    "usageTip": "Use when you need to prove that something has not been touched.",
+    "commonMistake": "Confusing 'tamper-evident' with 'tamper-proof'.",
+    "collocations": [
+      "tamper-evident seal",
+      "tamper-evident packaging",
+      "tamper-evident log"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Implicit",
+    "meaning": "Suggested or understood without being directly stated.",
+    "shortMeaning": "implied, not stated",
+    "example": "There was an implicit agreement that we would share the costs.",
+    "example2": "Her silence gave implicit consent.",
+    "example3": "Trust is implicit in a strong friendship.",
+    "Explanation": "Implicit describes something that is not expressed directly but can be inferred or understood from the situation, actions, or context. It is the opposite of 'explicit'. Implicit assumptions, rules, or biases are those we are not consciously aware of but that influence behavior. The word is important in communication, logic, and social sciences. An 'implicit guarantee' is one that is understood but not written. Recognizing implicit meanings is a key skill for effective communication and critical thinking.",
+    "synonyms": [
+      "implied",
+      "understood",
+      "tacit",
+      "unspoken",
+      "inferred"
+    ],
+    "antonyms": [
+      "explicit",
+      "stated",
+      "expressed",
+      "direct"
+    ],
+    "nounForm": "implicitness",
+    "verbForm": "imply",
+    "adjectiveForm": "implicit",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, agreements, assumptions, bias",
+    "usageTip": "Use 'implicit' for something that is not said but is clearly suggested.",
+    "commonMistake": "Confusing 'implicit' with 'explicit'. Remember: imPLicit = iMplied; exPLicit = exPressed.",
+    "collocations": [
+      "implicit understanding",
+      "implicit bias",
+      "implicit assumption",
+      "implicit trust"
+    ]
+  },
+  {
+    "word": "Implicit",
+    "meaning": "Suggested or understood without being directly stated",
+    "shortMeaning": "implied",
+    "example": "There is an implicit agreement that the code must be secure.",
+    "explanation": "He made an implicit assumption about the server's capacity.",
+    "example3": "The language has implicit rules that beginners often miss.",
+    "Explanation": "The word 'implicit' refers to something that is understood without being explicitly said or written down. In programming, 'implicit' can refer to things like type conversion, where the language handles a change in data type automatically without you having to write explicit commands. Understanding 'implicit' behaviors is crucial for mastering any language or system. Always be aware of implicit behaviors to avoid bugs that result from assumptions that are not clearly stated in your code.",
+    "synonyms": [
+      "implied",
+      "understood",
+      "tacit"
+    ],
+    "antonyms": [
+      "explicit",
+      "stated",
+      "clear"
+    ],
+    "nounForm": "implication",
+    "verbForm": "imply",
+    "adjectiveForm": "implicit",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, programming",
+    "usageTip": "Use 'implicit' for things understood but not said.",
+    "commonMistake": "Confusing 'implicit' with 'explicit'.",
+    "collocations": [
+      "implicit assumption",
+      "implicit rule",
+      "implicit conversion"
+    ]
+  }
+]

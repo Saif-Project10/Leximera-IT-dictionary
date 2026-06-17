@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Interrupt",
+    "meaning": "A signal that tells the CPU to stop its current task and handle something urgent",
+    "shortMeaning": "CPU alert",
+    "example": "A mouse click sends an interrupt to the processor to move the cursor.",
+    "example2": "Hardware failures can trigger a non-maskable interrupt.",
+    "example3": "The system became slow because it was receiving too many interrupts.",
+    "Explanation": "An interrupt is a hardware or software signal that demands immediate attention from the processor. When an interrupt occurs, the CPU 'pauses' what it is doing, saves its progress, and jumps to a specific piece of code called a 'handler'. This allows computers to be 'event-driven'. For instance, instead of the CPU constantly checking if a key has been pressed (which wastes power), the keyboard sends an interrupt only when a key is actually touched. This makes the system efficient and responsive to the real world.",
+    "synonyms": [
+      "signal",
+      "alert",
+      "trap"
+    ],
+    "antonyms": [
+      "polling"
+    ],
+    "nounForm": "interrupt",
+    "verbForm": "interrupt",
+    "adjectiveForm": "interrupted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computer architecture and embedded systems",
+    "usageTip": "Use 'interrupts' when discussing how hardware (like a network card) gets the CPU's attention.",
+    "commonMistake": "Thinking interrupts are 'errors'; they are normal and necessary for a computer to function.",
+    "collocations": [
+      "hardware interrupt",
+      "software interrupt",
+      "trigger an interrupt"
+    ]
+  },
+  {
+    "word": "Interrupt",
+    "meaning": "To stop something from happening for a short time",
+    "shortMeaning": "break the flow",
+    "example": "A power surge can interrupt the server's operation.",
+    "example2": "Please do not interrupt me while I am coding.",
+    "example3": "The video was interrupted by a loud advertisement.",
+    "Explanation": "In computing, an 'interrupt' is a signal to the processor that something needs immediate attention. For example, when you move your mouse, it sends an interrupt to the CPU. In daily life, it means breaking the flow of a conversation or a task. It is usually temporary. If an interruption is not handled correctly, it can lead to system crashes or lost data. It is a fundamental concept in hardware-software communication.",
+    "synonyms": [
+      "break",
+      "disturb",
+      "stop"
+    ],
+    "antonyms": [
+      "continue",
+      "resume",
+      "allow"
+    ],
+    "nounForm": "interruption",
+    "verbForm": "interrupt",
+    "adjectiveForm": "interrupted",
+    "partOfSpeech": "verb",
+    "commonContext": "Computer hardware, daily life, and network signals",
+    "usageTip": "In IT, use 'interrupt' to describe signals that get the CPU's attention.",
+    "commonMistake": "Using 'interrupt' when you mean 'stop permanently'.",
+    "collocations": [
+      "interrupt handler",
+      "sudden interrupt",
+      "interrupt a process"
+    ]
+  }
+]

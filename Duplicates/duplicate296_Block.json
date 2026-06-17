@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Block",
+    "meaning": "To stop something from moving, happening, or succeeding; a solid piece of material. | 1. A solid piece of hard material with flat sides. 2. To obstruct or prevent movement, progress, or action.",
+    "shortMeaning": "stop, obstruct",
+    "example": "The crowd blocked the entrance.",
+    "example2": "The government blocked the new law.",
+    "example3": "Children play with wooden blocks.",
+    "Explanation": "'Block' is a very common verb and noun. As a verb, it means to prevent movement, progress, or access. It is more casual and direct than 'obstruct'. It is widely used in sports (block a shot), technology (block a website), and everyday situations. As a noun, it means a solid piece of material or a large building. It's a short, powerful word. A common error is using it when a softer word like 'hinder' is more accurate. 'Block' suggests a complete stop. The phrasal verb 'block out' means to ignore or forget.",
+    "synonyms": [
+      "Chunk",
+      "Hinder",
+      "Obstacle (Noun); Obstruct, Hinder, Stop (Verb)",
+      "Obstruct",
+      "Stop"
+    ],
+    "antonyms": [
+      "Allow",
+      "Clear",
+      "Open",
+      "Opening, Gap (Noun); Allow, Facilitate (Verb)"
+    ],
+    "nounForm": "block",
+    "verbForm": "block",
+    "adjectiveForm": "blocked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Paths, sports, internet, city streets",
+    "usageTip": "In computing, you 'block' a user or a website to prevent contact or access.",
+    "commonMistake": "Saying 'blockade' instead of 'block'. A blockade is a military action to block supplies.",
+    "collocations": [
+      "block the way",
+      "mental block",
+      "city block"
+    ]
+  },
+  {
+    "word": "Block",
+    "meaning": "To stop something from moving or happening, or a solid piece of material",
+    "shortMeaning": "stop or a unit of data",
+    "example": "The firewall will block any unauthorized traffic from entering the network.",
+    "example2": "In programming, a 'code block' is a group of lines that run together.",
+    "example3": "Heavy traffic can block the main road for hours.",
+    "Explanation": "In IT, 'block' has two main meanings. As a verb, it means to prevent access (e.g., blocking a user). As a noun, it refers to a unit of storage or code. For example, a 'block' on a hard drive is a fixed-size chunk of data (usually 4KB). In languages like C++ or Java, code between `{ }` is called a block. In 'Blockchain,' it refers to a group of transactions linked together for security.",
+    "synonyms": [
+      "obstruct",
+      "halt",
+      "chunk",
+      "segment"
+    ],
+    "antonyms": [
+      "allow",
+      "permit",
+      "clear"
+    ],
+    "nounForm": "block",
+    "verbForm": "block",
+    "adjectiveForm": "blocked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Coding, cybersecurity, logistics, blockchain",
+    "usageTip": "Use 'try-catch' blocks to handle errors in your JavaScript code without crashing the app.",
+    "commonMistake": "Thinking a 'block' in a database is just one single piece of information; it usually contains many rows.",
+    "collocations": [
+      "block of code",
+      "building block",
+      "writer's block"
+    ]
+  }
+]

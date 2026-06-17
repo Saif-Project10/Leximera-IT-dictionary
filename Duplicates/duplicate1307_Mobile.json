@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Mobile",
+    "meaning": "Able to move or be moved freely and easily.",
+    "shortMeaning": "movable, portable",
+    "example": "She is very mobile since she bought a car.",
+    "example2": "A mobile phone allows you to communicate from anywhere.",
+    "example3": "The library has a mobile van that visits villages.",
+    "Explanation": "'Mobile' is an adjective describing something that can move or be moved. In modern English, it is most famously used in 'mobile phone' (often shortened to 'mobile'). It can also be a noun referring to a decorative structure that moves in the air (like a baby's mobile). The word comes from the Latin for 'movable'. It is used in technology, healthcare (mobile clinic), and to describe people's ability to travel. The opposite is 'immobile'.",
+    "synonyms": [
+      "movable",
+      "portable",
+      "traveling"
+    ],
+    "antonyms": [
+      "immobile",
+      "fixed",
+      "stationary"
+    ],
+    "nounForm": "mobile (as in sculpture or phone)",
+    "verbForm": "mobilize",
+    "adjectiveForm": "mobile",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Technology, transportation, art, healthcare",
+    "usageTip": "In British English, 'mobile' commonly means 'cell phone'. In American English, 'cell phone' is more common.",
+    "commonMistake": "Using 'mobile' only for phones; it has a broader meaning of being able to move.",
+    "collocations": [
+      "mobile phone",
+      "highly mobile",
+      "mobile home",
+      "mobile data"
+    ]
+  },
+  {
+    "word": "Mobile",
+    "meaning": "Able to be moved easily or designed for use on portable devices",
+    "shortMeaning": "portable",
+    "example": "The application is optimized for mobile users.",
+    "example2": "Mobile computing is a huge part of modern IT.",
+    "example3": "We need to ensure the website has a mobile interface.",
+    "Explanation": "In the modern IT world, 'mobile' almost always refers to smartphones, tablets, and the software that runs on them. Because these devices have smaller screens, touch interfaces, and limited processing power, they require specific design and development strategies (like responsive design). Designing for mobile is now often just as important, if not more important, than designing for traditional computers.",
+    "synonyms": [
+      "portable",
+      "handheld",
+      "flexible"
+    ],
+    "antonyms": [
+      "static",
+      "desktop",
+      "fixed"
+    ],
+    "nounForm": "mobility",
+    "verbForm": "N/A",
+    "adjectiveForm": "mobile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development and computing",
+    "usageTip": "Use 'mobile' for anything related to phones and portable devices.",
+    "commonMistake": "Assuming 'mobile' is just 'smaller desktop'; mobile design is fundamentally different.",
+    "collocations": [
+      "mobile app",
+      "mobile-first",
+      "mobile device"
+    ]
+  }
+]

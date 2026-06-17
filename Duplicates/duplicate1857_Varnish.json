@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Varnish",
+    "meaning": "A liquid that is painted onto wood or metal to give it a hard, shiny, protective surface",
+    "shortMeaning": "protective coating",
+    "example": "He applied a layer of varnish to the new wooden table.",
+    "example2": "The varnish protects the deck from rain and sun damage.",
+    "example3": "Make sure the first coat of varnish is dry before adding a second one.",
+    "Explanation": "Varnish is a clear, protective finish used primarily on wood. It dries to form a thin, hard film that resists water, scratches, and UV light. Unlike paint, varnish is usually transparent, allowing the natural grain of the wood to show through. In a metaphorical sense, 'to varnish' can mean to make something look better than it really is. In IT, 'Varnish' (with a capital V) is also the name of a very popular web accelerator, which is a completely different use of the word.",
+    "synonyms": [
+      "coating",
+      "glaze",
+      "finish"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "varnish",
+    "verbForm": "varnish",
+    "adjectiveForm": "varnished",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Carpentry, home improvement, and art",
+    "usageTip": "In a technical environment, clarify if you mean the protective liquid or the web software.",
+    "commonMistake": "Spelling it 'vernish' or confusing it with 'stain' (which changes the color of the wood).",
+    "collocations": [
+      "apply varnish",
+      "coat of varnish",
+      "clear varnish"
+    ]
+  },
+  {
+    "word": "Varnish",
+    "meaning": "A high-performance reverse proxy software tool used to speed up websites by caching web content dynamically",
+    "shortMeaning": "web caching proxy server",
+    "example": "We configured Varnish in front of our web server to reduce page load times for visitors.",
+    "example2": "The dev team uses Varnish to cache heavy database queries on our e-commerce site.",
+    "example3": "When the website traffic spiked, Varnish handled the server load without any issues.",
+    "Explanation": "In web infrastructure and system administration, 'Varnish' (specifically Varnish Cache) is a popular open-source software accelerator. It sits between website visitors and the backend application server. Varnish stores a copy of web pages in memory the first time they are requested. When another user requests the same page, Varnish serves the cached copy instantly, reducing server strain and speeding up page loads.",
+    "synonyms": [
+      "Varnish Cache",
+      "HTTP accelerator",
+      "reverse proxy cache"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Varnish",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Web server optimization, content delivery networks, and high-traffic web infrastructure",
+    "usageTip": "Capitalize 'Varnish' when referring to the specific server software tool, and use it in discussions about web caching.",
+    "commonMistake": "Confusing Varnish Cache with a traditional physical wood finish; in IT, it strictly refers to the server caching utility.",
+    "collocations": [
+      "Varnish Cache configuration",
+      "install Varnish",
+      "Varnish proxy server"
+    ]
+  }
+]

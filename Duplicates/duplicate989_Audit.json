@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Audit",
+    "meaning": "An official inspection of accounts, typically by an independent body; or to conduct such an inspection.",
+    "shortMeaning": "official financial inspection",
+    "example": "The company undergoes an annual financial audit.",
+    "example2": "Tax officials will audit his business records.",
+    "example3": "The university conducted an audit of its courses.",
+    "Explanation": "'Audit' is both a noun and a verb primarily related to the systematic review and examination of accounts, records, or processes to ensure accuracy and compliance. In business, it's crucial for financial transparency. It can also mean to attend a class informally without receiving credit. The word carries connotations of thoroughness, scrutiny, and verification. It's a formal term essential in accounting, finance, and quality assurance contexts.",
+    "synonyms": [
+      "inspection",
+      "examination",
+      "review",
+      "check"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "neglect"
+    ],
+    "nounForm": "audit",
+    "verbForm": "audit",
+    "adjectiveForm": "auditable",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Accounting, finance, quality control, education",
+    "usageTip": "In education, 'audit a class' means to attend without taking exams or receiving grades.",
+    "commonMistake": "Confusing 'audit' with 'edit'. They sound similar but audit is about inspection; edit is about correction.",
+    "collocations": [
+      "financial audit",
+      "internal audit",
+      "audit trail"
+    ]
+  },
+  {
+    "word": "Audit",
+    "meaning": "An official examination of records to check for accuracy or honesty",
+    "shortMeaning": "official check",
+    "example": "The company underwent a financial audit to ensure all taxes were paid.",
+    "example2": "You should perform a regular audit of your server logs for security.",
+    "example3": "The government will audit the bank's records next week.",
+    "Explanation": "An audit is a deep, formal review. While most people think of money and taxes, you can audit anything—like security, energy use, or data quality. It is a way to prove that a system is following the rules. In a 'security audit,' experts look for weaknesses in a network. It is usually done by someone independent to keep it fair. It provides a high level of trust and accountability.",
+    "synonyms": [
+      "inspection",
+      "review",
+      "examination"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "audit / auditor",
+    "verbForm": "audit",
+    "adjectiveForm": "audited",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Finance, cybersecurity, and law",
+    "usageTip": "Use 'audit' when you want to imply a very thorough and official check.",
+    "commonMistake": "Thinking an audit is only for finding mistakes; it is also for proving that things are correct.",
+    "collocations": [
+      "external audit",
+      "audit trail",
+      "perform an audit"
+    ]
+  }
+]

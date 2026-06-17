@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Data-driven",
+    "meaning": "Guided by or reliant on data analysis rather than intuition or tradition.",
+    "shortMeaning": "based on data analysis",
+    "example": "We use a data-driven approach to improve customer satisfaction.",
+    "example2": "Data-driven decision-making is now standard in modern businesses.",
+    "example3": "The marketing campaign was highly data-driven.",
+    "Explanation": "This compound adjective describes processes, decisions, or cultures that prioritize empirical data collected through measurement and analysis. It represents a shift towards objectivity and evidence in fields like business, science, and government. Being data-driven implies using metrics, analytics, and testing to inform actions and strategies. It is a buzzword synonymous with modern, efficient, and scientific management. The opposite would be 'opinion-driven' or 'anecdotal'.",
+    "synonyms": [
+      "evidence-based",
+      "analytics-based",
+      "metric-guided"
+    ],
+    "antonyms": [
+      "intuitive",
+      "speculative",
+      "anecdotal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "data-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business strategy, marketing, research, policy",
+    "usageTip": "Use 'data-driven' to describe any strategy or decision process that relies heavily on collected and analyzed data.",
+    "commonMistake": "Forgetting the hyphen when it is used as a compound adjective before a noun.",
+    "collocations": [
+      "data-driven decisions",
+      "data-driven culture",
+      "data-driven insights",
+      "become data-driven"
+    ]
+  },
+  {
+    "word": "Data-driven",
+    "meaning": "Guided by or based on data analysis rather than intuition or assumptions.",
+    "shortMeaning": "based on data",
+    "example": "We need a data-driven approach to optimize our web traffic.",
+    "example2": "Our marketing strategy is now fully data-driven.",
+    "example3": "A data-driven design ensures our decisions are accurate.",
+    "Explanation": "The term 'data-driven' describes a philosophy or process where decisions are made using empirical evidence and data analytics. In the IT and tech world, it means building software, products, or business models that adapt based on user behavior, logs, and performance metrics. It is the opposite of 'gut-feeling' decision-making. Being data-driven is highly valued in modern development teams to ensure constant improvement and accountability. It requires good logging and analytics tools.",
+    "synonyms": [
+      "evidence-based",
+      "analytical",
+      "data-led"
+    ],
+    "antonyms": [
+      "intuitive",
+      "guesswork-based"
+    ],
+    "nounForm": "Data",
+    "verbForm": "N/A",
+    "adjectiveForm": "Data-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, product development, and business strategy",
+    "usageTip": "Use this when explaining why a particular design or business decision was made.",
+    "commonMistake": "Using the term without actually having data to back up the decisions.",
+    "collocations": [
+      "data-driven approach",
+      "data-driven decision",
+      "data-driven design"
+    ]
+  }
+]

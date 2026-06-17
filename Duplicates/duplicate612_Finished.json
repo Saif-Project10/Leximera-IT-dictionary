@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Finished",
+    "meaning": "1. Completed or brought to an end. 2. Having a particular texture or appearance as a result of a manufacturing process.",
+    "shortMeaning": "completed, done",
+    "example": "I have finished my homework.",
+    "example2": "The finished product looked perfect.",
+    "example3": "He was finished as a player after the injury.",
+    "Explanation": "'Finished' is primarily the past participle of the verb 'finish'. As an adjective, it describes something that is complete. It can also describe a person who is no longer effective or successful. In manufacturing, it describes the final state of a surface (e.g., a polished finish). It's a very common word. Be careful: 'I am finished' can mean 'I am completed' (rare) or more commonly 'I have finished' (I am done).",
+    "synonyms": [
+      "completed",
+      "done",
+      "concluded",
+      "finalized"
+    ],
+    "antonyms": [
+      "unfinished",
+      "incomplete",
+      "ongoing"
+    ],
+    "nounForm": "finish",
+    "verbForm": "finish",
+    "adjectiveForm": "finished",
+    "partOfSpeech": "adjective",
+    "commonContext": "Tasks, projects, manufacturing, competitions",
+    "usageTip": "Use 'finished' to describe a task that is complete or a product that is ready.",
+    "commonMistake": "Saying 'I am finished' to mean 'I am tired' or 'I am doomed' – this is idiomatic but different from 'I have finished'.",
+    "collocations": [
+      "finished product",
+      "finished with",
+      "get finished",
+      "highly finished"
+    ]
+  },
+  {
+    "word": "Finished",
+    "meaning": "Completed or brought to an end",
+    "shortMeaning": "Complete",
+    "example": "The installation process is now finished.",
+    "example2": "He finished the code refactoring yesterday.",
+    "example3": "Is the database migration finished yet?",
+    "Explanation": "The word 'finished' signifies the completion of a task, process, or project. It is widely used in development and project management to indicate that no further work is required. It can be used as an adjective or the past tense of the verb 'finish'. It is a neutral term that works well in both formal reports and casual team updates. Ensure you distinguish it from 'done', though they are often interchangeable.",
+    "synonyms": [
+      "completed",
+      "done",
+      "ended"
+    ],
+    "antonyms": [
+      "unfinished",
+      "incomplete",
+      "started"
+    ],
+    "nounForm": "finish",
+    "verbForm": "finish",
+    "adjectiveForm": "finished",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project management and task status",
+    "usageTip": "Use 'finished' to confirm that an activity is done.",
+    "commonMistake": "Saying 'finished' when a process is only partially complete.",
+    "collocations": [
+      "finished product",
+      "finished work",
+      "successfully finished"
+    ]
+  }
+]

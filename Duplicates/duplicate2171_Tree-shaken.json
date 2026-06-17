@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Tree-shaken",
+    "meaning": "Removed unused code from a bundle to make it smaller",
+    "shortMeaning": "dead code removed",
+    "example": "The final build was tree-shaken to reduce the file size.",
+    "example2": "We use a bundler that supports tree-shaken modules.",
+    "example3": "Tree-shaken code is essential for faster web page loading.",
+    "Explanation": "Tree-shaking is a term in software development, especially for web apps, that means removing 'dead' or unused code from the final bundle. Imagine a tree where the trunk is your app and the branches are all the library functions; 'shaking' the tree makes the unused leaves (code) fall off. This makes the application lighter and faster to load in a browser. It is a highly important optimization technique in modern frontend development.",
+    "synonyms": [
+      "optimized",
+      "minified",
+      "pruned"
+    ],
+    "antonyms": [
+      "bloated",
+      "unoptimized"
+    ],
+    "nounForm": "tree-shaking",
+    "verbForm": "tree-shake",
+    "adjectiveForm": "tree-shaken",
+    "partOfSpeech": "verb",
+    "commonContext": "Frontend development, optimization",
+    "usageTip": "Use this to describe code optimization techniques for web bundles.",
+    "commonMistake": "Thinking it is about literal trees; it is purely a code optimization.",
+    "collocations": [
+      "tree-shaken bundle",
+      "tree-shaken code",
+      "enable tree-shaking"
+    ]
+  },
+  {
+    "word": "Tree-shaken",
+    "meaning": "A technique to remove unused code (dead code) from a software bundle",
+    "shortMeaning": "code removal",
+    "example": "The final bundle is tree-shaken to reduce file size.",
+    "example2": "He tree-shaken the project to optimize performance.",
+    "example3": "The build tool supports tree-shaken modules.",
+    "Explanation": "In modern web development, 'tree-shaking' is a process where the build tool 'shakes' the tree of your code to remove branches (code modules) that are not actually being used. It is a powerful optimization technique to make web apps load faster by reducing the size of the JavaScript bundle. It is highly technical and essential for performance engineering. It is usually used as a verb ('to tree-shake') or adjective.",
+    "synonyms": [
+      "optimized",
+      "pruned",
+      "minimized"
+    ],
+    "antonyms": [
+      "bloated",
+      "unoptimized"
+    ],
+    "nounForm": "tree-shaking",
+    "verbForm": "tree-shake",
+    "adjectiveForm": "tree-shaken",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Web development, performance optimization, JavaScript",
+    "usageTip": "Use 'tree-shaken' when discussing code size optimization.",
+    "commonMistake": "Thinking 'tree-shaking' happens automatically without configuration; it requires setup.",
+    "collocations": [
+      "tree-shaken bundle",
+      "tree-shaken module",
+      "well tree-shaken"
+    ]
+  }
+]

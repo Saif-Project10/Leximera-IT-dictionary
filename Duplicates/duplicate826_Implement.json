@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Implement",
+    "meaning": "To put a decision, plan, or system into effect.",
+    "shortMeaning": "put into effect",
+    "example": "The government will implement new tax laws next year.",
+    "example2": "We are implementing a new software system across the company.",
+    "example3": "It's one thing to make a policy, another to implement it successfully.",
+    "Explanation": "To implement is to execute or carry out a plan, policy, or system. It's the action phase following decision-making. Implementation involves practical steps, resource allocation, and management. The word is common in business, government, and project management. It's more formal than 'do' or 'carry out'. As a noun, an 'implement' is a tool or instrument (like a farm implement). This dual meaning is clear from context: you implement a plan with various implements. Successful implementation is often the hardest part of any project.",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "apply",
+      "enact",
+      "put into practice"
+    ],
+    "antonyms": [
+      "cancel",
+      "abandon",
+      "neglect",
+      "plan"
+    ],
+    "nounForm": "implementation / implement (tool)",
+    "verbForm": "implement",
+    "adjectiveForm": "implementable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Plans, policies, software, changes, strategies",
+    "usageTip": "As a verb, it's often used with abstract nouns like 'plan', 'policy', 'change', 'system'.",
+    "commonMistake": "Using 'implement' as a noun to mean 'employee'. An implement is a tool, not a person.",
+    "collocations": [
+      "implement a plan",
+      "implement changes",
+      "farm implement",
+      "difficult to implement"
+    ]
+  },
+  {
+    "word": "Implement",
+    "meaning": "To put a decision, plan, or piece of code into action; a tool",
+    "shortMeaning": "put into action",
+    "example": "We need to implement a new login system for the website.",
+    "example2": "The library has many tools to help you implement complex math functions.",
+    "example3": "He used a simple implement to open the computer case.",
+    "Explanation": "In IT, 'implement' is one of the most common verbs. It means to actually write the code to make a feature work. For example, 'I will implement the search feature today'. It is the step that comes after 'design' or 'plan'. In a business context, you might 'implement a policy'. As a noun, an 'implement' is just another word for a tool. For a developer, 'implementation' is the real-world application of an algorithm or an idea. It is the core work of a programmer. It transforms an abstract concept into a functioning system.",
+    "synonyms": [
+      "execute",
+      "apply",
+      "build"
+    ],
+    "antonyms": [
+      "ignore",
+      "cancel",
+      "halt"
+    ],
+    "nounForm": "implementation",
+    "verbForm": "implement",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software development and project management",
+    "usageTip": "Use 'implement' when you are talking about the actual creation of a feature or system.",
+    "commonMistake": "Confusing 'implement' with 'design'; design is the plan, implementation is the action.",
+    "collocations": [
+      "implement a feature",
+      "implement a strategy",
+      "successful implementation"
+    ]
+  }
+]

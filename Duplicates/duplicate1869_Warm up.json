@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Warm up",
+    "meaning": "To allow a system or device to reach its optimal operating temperature or state",
+    "shortMeaning": "pre-operational phase",
+    "example": "The laser printer needs a minute to warm up before it can print.",
+    "example2": "Let the engine warm up for a while in the cold weather.",
+    "example3": "The database needs to warm up its cache before it reaches full speed.",
+    "Explanation": "In technology, 'warming up' can be literal or figurative. Literally, many mechanical or electrical devices (like high-end projectors or old monitors) need to reach a certain heat level to function correctly. Figuratively, in software, a 'warm up' refers to a period where a system loads frequently used data into its fast memory (cache). When a server first starts, it might be slow because its memory is empty. As it 'warms up' by handling a few requests, it becomes much faster. This is why many IT systems have a 'warm up period' after a restart before they are considered fully ready for high traffic. It is a transition from an idle state to a high-performance state.",
+    "synonyms": [
+      "preheat",
+      "initialize",
+      "prepare"
+    ],
+    "antonyms": [
+      "cool down",
+      "shut down",
+      "idle"
+    ],
+    "nounForm": "warm-up",
+    "verbForm": "warm up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Hardware operation and software performance",
+    "usageTip": "As a verb, use two words: 'The system needs to warm up.'",
+    "commonMistake": "Thinking 'warming up' is only for engines; software and caches need it too.",
+    "collocations": [
+      "warm up period",
+      "warm up time",
+      "needs to warm up"
+    ]
+  },
+  {
+    "word": "Warm up",
+    "meaning": "To execute initial fake or minor requests against a newly deployed server or cache instance to prime its memory for fast performance",
+    "shortMeaning": "prime system before real traffic",
+    "example": "We wrote an automated startup script to warm up the database container cache before opening public web ports.",
+    "example2": "It is standard practice to warm up cloud server functions to prevent users from experiencing launch delays.",
+    "example3": "The tool will send test queries to warm up the search index logic across our application system.",
+    "Explanation": "The phrase 'warm up' describes the engineering practice of priming a software system before exposing it to live user traffic. When a web server or database reboots, its cache memory is empty ('cold'). If thousands of users hit the site immediately, performance lags as the system fetches data from slow storage. Running a warm-up script fills the cache with common assets and records, ensuring fast response times right from the start.",
+    "synonyms": [
+      "prime cache memory",
+      "initialize infrastructure nodes",
+      "pre-heat system assets"
+    ],
+    "antonyms": [
+      "leave cold",
+      "shut down instances"
+    ],
+    "nounForm": "warm-up routine",
+    "verbForm": "warm up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Server boot configurations, cloud performance tuning, database optimization steps",
+    "usageTip": "Use this phrase when detailing steps to prime a server or search index with dummy requests before launching to the public.",
+    "commonMistake": "Forgetting to warm up cloud microservices, which causes early visitors to experience lag due to cold-start delays.",
+    "collocations": [
+      "warm up the cache",
+      "script to warm up server",
+      "warm up database indexes"
+    ]
+  }
+]

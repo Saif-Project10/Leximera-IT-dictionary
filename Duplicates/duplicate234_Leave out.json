@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Leave out",
+    "meaning": "To not include someone or something; to omit.",
+    "shortMeaning": "omit, exclude",
+    "example": "Did you leave out any important details?",
+    "example2": "I felt left out when they didn't invite me.",
+    "example3": "She accidentally left out the sugar from the cake recipe.",
+    "Explanation": "'Leave out' is a phrasal verb with the same meaning as 'omit' or 'exclude'. It is more informal and common in everyday speech. It can be accidental or intentional. The feeling of being 'left out' is a common social experience. This phrase is separable: you can 'leave the details out' or 'leave out the details'. It's important to remember the particle 'out'. Do not confuse it with 'leave', which means to go away. 'Leave out' specifically focuses on the act of omission from a group, list, or activity.",
+    "synonyms": [
+      "omit",
+      "exclude",
+      "forget"
+    ],
+    "antonyms": [
+      "include",
+      "put in",
+      "add"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "leave out",
+    "adjectiveForm": "left out",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Conversation, lists, recipes, social situations",
+    "usageTip": "Often used in the passive voice to describe feelings: 'I felt left out.'",
+    "commonMistake": "Forgetting the particle 'out' and saying 'leave' which changes the meaning completely.",
+    "collocations": [
+      "feel left out",
+      "leave out details",
+      "accidentally leave out"
+    ]
+  },
+  {
+    "word": "Leave out",
+    "meaning": "To not include someone or something in an activity, list, or group",
+    "shortMeaning": "exclude",
+    "example": "Be careful not to leave out any important details in the report.",
+    "example2": "You can leave out the optional parameters in this function call.",
+    "example3": "Why did you leave out the CSS file from the project folder?",
+    "Explanation": "The phrase 'leave out' means to omit or exclude something. In programming, you might 'leave out' certain arguments if they are not required for a function to run. In documentation, leaving out key information can lead to confusion or errors for the user. It can be intentional (to simplify something) or accidental (a mistake). Understanding what can be safely left out and what must be included is a critical skill for developers and project managers alike.",
+    "synonyms": [
+      "omit",
+      "exclude",
+      "skip",
+      "miss out"
+    ],
+    "antonyms": [
+      "include",
+      "add",
+      "insert",
+      "contain"
+    ],
+    "nounForm": "omission",
+    "verbForm": "leave out",
+    "adjectiveForm": "left-out",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Writing, Coding, Lists, Groups",
+    "usageTip": "When debugging, try to 'leave out' parts of the code to see where the error is.",
+    "commonMistake": "Using 'leave out' when you mean 'delete'. 'Leave out' means it still exists but isn't included here.",
+    "collocations": [
+      "leave out a detail",
+      "leave out of the list",
+      "intentionally leave out"
+    ]
+  }
+]

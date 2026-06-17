@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Ready-made",
+    "meaning": "Made in advance for immediate use; not needing to be created from scratch. | Already prepared or available for immediate use; not made to order.",
+    "shortMeaning": "already made, convenient",
+    "example": "She bought a ready-made cake for the party.",
+    "example2": "The company uses ready-made components to speed up production.",
+    "example3": "He offered a ready-made solution to the problem.",
+    "Explanation": "The adjective 'ready-made' describes something that is already completed and available for use without further preparation or assembly. It applies to food, clothing, furniture, software components, and even ideas or solutions. It emphasizes convenience and time-saving. The term can sometimes have a slightly negative connotation, implying a lack of originality or customization (e.g., 'ready-made opinions'). It is the opposite of 'custom-made' or 'made-to-order'. In art, a 'readymade' is an ordinary object presented as a work of art.",
+    "synonyms": [
+      "Convenient",
+      "Instant",
+      "Off-The-Shelf",
+      "Pre-Made",
+      "Prefabricated"
+    ],
+    "antonyms": [
+      "Bespoke",
+      "Custom-Made",
+      "Homemade",
+      "Made-To-Order"
+    ],
+    "nounForm": "ready-made",
+    "verbForm": "N/A",
+    "adjectiveForm": "ready-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "Food, retail, manufacturing, software development",
+    "usageTip": "Often hyphenated, especially when used before a noun.",
+    "commonMistake": "Using it to describe something that is just 'ready'; ready-made implies it was made in advance for general use.",
+    "collocations": [
+      "ready-made meals",
+      "ready-made solution",
+      "buy ready-made",
+      "ready-made clothing"
+    ]
+  },
+  {
+    "word": "Ready-made",
+    "meaning": "Pre-built and available for immediate use",
+    "shortMeaning": "pre-built",
+    "example": "He used a ready-made library for the authentication.",
+    "example2": "The software comes with ready-made templates.",
+    "example3": "We don't need to build it; a ready-made solution exists.",
+    "Explanation": "A 'ready-made' solution or component is something that has already been built, tested, and packaged for you. Instead of spending time developing a complex feature from scratch, you can use a ready-made tool to save time and effort. While these are efficient, they may not perfectly fit your specific needs, so you have to decide if the trade-off between customization and speed is worth it. It is a common strategy in fast-paced environments.",
+    "synonyms": [
+      "off-the-shelf",
+      "pre-built",
+      "pre-packaged"
+    ],
+    "antonyms": [
+      "custom-built",
+      "bespoke"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "ready-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, Web design",
+    "usageTip": "Use when discussing pre-built tools or templates.",
+    "commonMistake": "Using a ready-made solution that doesn't actually meet your requirements.",
+    "collocations": [
+      "ready-made solution",
+      "ready-made template",
+      "ready-made library"
+    ]
+  }
+]

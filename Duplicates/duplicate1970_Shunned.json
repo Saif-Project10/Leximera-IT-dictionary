@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Shunned",
+    "meaning": "Persistently avoided or rejected.",
+    "shortMeaning": "avoided",
+    "example": "That legacy library is shunned by modern developers.",
+    "example2": "He shunned the new framework due to its lack of support.",
+    "example3": "Unsafe coding practices are shunned in this company.",
+    "Explanation": "The word 'shunned' is used when something is actively and consistently avoided or rejected because it is viewed negatively, outdated, or unsafe. In IT, developers might 'shun' certain technologies or patterns that are known to be bug-prone or inefficient. It is a strong term, indicating a deliberate decision to exclude or ignore a method, tool, or practice. It reflects a community's standards and best practices.",
+    "synonyms": [
+      "avoided",
+      "rejected",
+      "ignored"
+    ],
+    "antonyms": [
+      "embraced",
+      "adopted",
+      "preferred"
+    ],
+    "nounForm": "shunning",
+    "verbForm": "shun",
+    "adjectiveForm": "shunned",
+    "partOfSpeech": "verb",
+    "commonContext": "Development standards, technology trends",
+    "usageTip": "Use 'shunned' to describe tools or practices deliberately avoided.",
+    "commonMistake": "Using 'shunned' for something simply unknown (shunned implies rejection).",
+    "collocations": [
+      "shunned by",
+      "shunned practice",
+      "actively shunned"
+    ]
+  },
+  {
+    "word": "Shunned",
+    "meaning": "Avoided or ignored deliberately",
+    "shortMeaning": "avoided",
+    "example": "This technology was shunned by most developers.",
+    "example2": "He shunned the new platform due to security fears.",
+    "example3": "The legacy code was shunned in favor of modern solutions.",
+    "Explanation": "The word 'shunned' means to stay away from something because it is unwanted or untrusted. In technology, a software tool, library, or platform might be 'shunned' by the industry if it is perceived as insecure, buggy, or difficult to use. It indicates a strong rejection by a community or team. It is a powerful word to explain why a certain tool is not being used in a project.",
+    "synonyms": [
+      "avoided",
+      "rejected",
+      "ignored"
+    ],
+    "antonyms": [
+      "adopted",
+      "welcomed",
+      "embraced"
+    ],
+    "nounForm": "shunning",
+    "verbForm": "shun",
+    "adjectiveForm": "shunned",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Industry trends, team decisions",
+    "usageTip": "Use 'shunned' to describe tools that the industry actively avoids.",
+    "commonMistake": "Using 'shunned' for something that is simply unpopular.",
+    "collocations": [
+      "shunned by developers",
+      "shunned technology",
+      "actively shunned"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Programming",
+    "meaning": "The process of writing computer programs; or scheduling a series of events",
+    "shortMeaning": "writing code or scheduling",
+    "example": "She is learning Python programming.",
+    "example2": "The television programming for tonight is all news.",
+    "example3": "The conference programming includes several workshops.",
+    "Explanation": "'Programming' is the noun or gerund of the verb 'program'. Its dominant modern meaning is the activity of creating software by writing code. This is a highly skilled profession. The other meaning relates to organizing or scheduling a sequence of items, like TV shows or event agendas. Both meanings involve creating a structured plan (a program) for something to follow. The context makes it clear: tech vs. media/events. It's a central activity in the digital world.",
+    "synonyms": [
+      "coding",
+      "software development (tech)",
+      "scheduling"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "programming",
+    "verbForm": "program",
+    "adjectiveForm": "programmatic",
+    "partOfSpeech": "noun",
+    "commonContext": "Computer science, television/radio, event planning",
+    "usageTip": "In computing, 'coding' is a more casual synonym for 'programming'.",
+    "commonMistake": "Misspelling it as 'programing' (American English uses double 'm').",
+    "collocations": [
+      "computer programming",
+      "linear programming",
+      "programming language"
+    ]
+  },
+  {
+    "word": "Programming",
+    "meaning": "The process of writing computer instructions",
+    "shortMeaning": "writing code",
+    "example": "He has a deep interest in web programming.",
+    "example2": "Programming requires logical thinking and practice.",
+    "example3": "She learned a new programming language this year.",
+    "Explanation": "The word 'programming' refers to the activity of writing, testing, and debugging code to create software or automate tasks. It is the core of software engineering. The base verb is 'program'. It involves using languages to communicate instructions to a computer. Effective programming involves understanding logic, structure, and problem-solving. It is a continuous learning process as new languages and frameworks are always evolving. Always prioritize clean, readable, and maintainable code in your programming.",
+    "synonyms": [
+      "coding",
+      "development",
+      "scripting"
+    ],
+    "antonyms": [
+      "N/A",
+      "manual-tasking",
+      "unstructured-work"
+    ],
+    "nounForm": "program",
+    "verbForm": "program",
+    "adjectiveForm": "programmed",
+    "partOfSpeech": "noun",
+    "commonContext": "Software engineering, development",
+    "usageTip": "Use to talk about the activity of writing code.",
+    "commonMistake": "Confusing 'programming' (writing code) with 'computer science' (study of theory).",
+    "collocations": [
+      "web programming",
+      "programming language",
+      "learn programming"
+    ]
+  }
+]

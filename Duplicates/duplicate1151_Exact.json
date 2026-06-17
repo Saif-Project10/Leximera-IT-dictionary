@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Exact",
+    "meaning": "Not approximated in any way; precise; to demand and obtain something.",
+    "shortMeaning": "precise; demand",
+    "example": "What is the exact time?",
+    "example2": "He exacted a promise from her before leaving.",
+    "example3": "The work requires exact measurements.",
+    "Explanation": "'Exact' is an adjective and a verb. As an adjective, it means completely accurate, correct in every detail. It's the opposite of 'approximate'. As a verb, it's more formal and means to demand and get something, often payment, revenge, or obedience, typically using authority or force. The adjective is common in scientific, technical, and daily contexts where precision is key. The verb usage is less common and carries a sense of imposing a cost or penalty. The noun is 'exactness' or 'exaction'.",
+    "synonyms": [
+      "precise",
+      "accurate",
+      "demand"
+    ],
+    "antonyms": [
+      "approximate",
+      "inexact",
+      "vague"
+    ],
+    "nounForm": "exactness",
+    "verbForm": "exact",
+    "adjectiveForm": "exact",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Mathematics, science, descriptions, demands",
+    "usageTip": "As a verb, it's often followed by 'from' (e.g., 'exact revenge from someone').",
+    "commonMistake": "Confusing the adjective 'exact' (precise) with the verb 'extract' (to remove or obtain).",
+    "collocations": [
+      "ex opposite",
+      "to be exact",
+      "exact change"
+    ]
+  },
+  {
+    "word": "Exact",
+    "meaning": "Perfectly accurate and correct; precise",
+    "shortMeaning": "precise",
+    "example": "We need the exact coordinates for the location service.",
+    "example2": "The program must be exact in its calculations.",
+    "example3": "Can you give me an exact estimate of the time required?",
+    "Explanation": "Exact means there is no room for error. It is a critical requirement in programming where variables, syntax, and data types must be precise. If a system is not exact, it leads to bugs. It is very similar to 'precise', but 'exact' emphasizes correctness whereas 'precise' emphasizes fine detail. It is a necessary word for discussing specifications.",
+    "synonyms": [
+      "precise",
+      "accurate",
+      "correct"
+    ],
+    "antonyms": [
+      "approximate",
+      "vague",
+      "incorrect"
+    ],
+    "nounForm": "exactness",
+    "verbForm": "exact",
+    "adjectiveForm": "exact",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Mathematics, programming, specifications",
+    "usageTip": "Use 'exact' when you require zero deviation.",
+    "commonMistake": "Confusing 'exact' with 'approximate'.",
+    "collocations": [
+      "exact match",
+      "exact time",
+      "exact measurement"
+    ]
+  },
+  {
+    "word": "Exact",
+    "meaning": "Completely correct in every detail; precise",
+    "shortMeaning": "precise",
+    "example": "The exact location of the error was found in line 45.",
+    "example2": "We need the exact measurements before we buy the server rack.",
+    "example3": "His exact words were recorded during the meeting.",
+    "Explanation": "The word 'exact' refers to something that is 100% accurate without any mistakes or approximations. In coding, 'exact matches' are often required for strings or IDs to work. It is more intense than 'correct' because it implies a level of precision where even a tiny deviation is not allowed. Being exact is crucial in technical fields to prevent system failures. It is often used as an adjective to describe numbers, locations, or descriptions.",
+    "synonyms": [
+      "precise",
+      "accurate",
+      "specific"
+    ],
+    "antonyms": [
+      "approximate",
+      "vague",
+      "incorrect"
+    ],
+    "nounForm": "exactness",
+    "verbForm": "exact",
+    "adjectiveForm": "exact",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data entry, measurements, and debugging",
+    "usageTip": "Use 'exact' when there is no room for error or guessing.",
+    "commonMistake": "Using 'approximate' when you need something to be perfectly accurate.",
+    "collocations": [
+      "exact match",
+      "exact amount",
+      "exact location"
+    ]
+  }
+]

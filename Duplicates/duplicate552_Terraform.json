@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Terraform",
+    "meaning": "An open-source infrastructure as code software tool created by HashiCorp for building, changing, and versioning infrastructure safely and efficiently.",
+    "shortMeaning": "IaC tool",
+    "example": "We manage our cloud servers using Terraform scripts.",
+    "example2": "Terraform allows you to define infrastructure in a declarative configuration file.",
+    "example3": "Running 'terraform apply' provisions the resources defined in your code.",
+    "Explanation": "Terraform is a key tool in the DevOps world for Infrastructure as Code (IaC). Instead of manually clicking in a cloud provider's console, you write code (in HashiCorp Configuration Language - HCL) that describes your desired infrastructure (servers, databases, networks). Terraform then talks to cloud APIs to make the real infrastructure match your code. It manages state and can perform updates and destruction. A common mistake is storing Terraform state files in a non-shared location, causing team conflicts. It supports many providers (AWS, Azure, GCP, etc.) and is essential for reproducible, auditable, and scalable infrastructure management.",
+    "synonyms": [
+      "Infrastructure as Code tool",
+      "HashiCorp Terraform",
+      "N/A"
+    ],
+    "antonyms": [
+      "manual provisioning",
+      "GUI-based configuration",
+      "N/A"
+    ],
+    "nounForm": "Terraform",
+    "verbForm": "terraform",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun (proper)",
+    "commonContext": "Cloud infrastructure, DevOps, system administration",
+    "usageTip": "The code files have a '.tf' extension.",
+    "commonMistake": "Pronouncing it as 'Terra-form' like the planet. It's typically pronounced as one word: 'Terra-form'.",
+    "collocations": [
+      "Terraform configuration",
+      "Terraform state",
+      "Terraform provider"
+    ]
+  },
+  {
+    "word": "Terraform",
+    "meaning": "An open-source infrastructure-as-code software tool used to safely and predictably build, change, and improve cloud architecture using configuration files",
+    "shortMeaning": "infrastructure-as-code tool",
+    "example": "Our DevOps engineer uses Terraform to launch twenty secure server configurations instantly.",
+    "example2": "We define all our cloud networks inside Terraform files to keep track of changes.",
+    "example3": "Learning Terraform helps you manage complex AWS or Google Cloud infrastructure automatically.",
+    "Explanation": "The word 'Terraform' names a major industry-standard tool created by HashiCorp for Infrastructure as Code (IaC). Instead of manually clicking buttons in a cloud web dashboard to set up servers, databases, and networks, engineers write declaration configuration text files. Terraform reads these files and automatically builds the exact cloud infrastructure setup requested. This approach allows teams to version-control their physical server layouts on GitHub just like standard application source code, ensuring perfect replication.",
+    "synonyms": [
+      "Infrastructure as Code",
+      "cloud provisioning tool"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Terraform",
+    "verbForm": "terraform (metaphorical)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / proper noun",
+    "commonContext": "DevOps workflows, cloud architecture provisioning, system automation",
+    "usageTip": "Capitalize 'Terraform' when referring to the actual software tool used for provisioning cloud servers.",
+    "commonMistake": "Thinking Terraform is a cloud hosting provider; it is an automation tool that manages other hosting providers.",
+    "collocations": [
+      "terraform configuration",
+      "run terraform apply",
+      "terraform script"
+    ]
+  }
+]

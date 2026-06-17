@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Search",
+    "meaning": "To try to find something by looking carefully; an act of searching.",
+    "shortMeaning": "look for; act of looking",
+    "example": "I need to search for my missing keys.",
+    "example2": "The police conducted a search of the area.",
+    "example3": "Use the search bar to find a file on your computer.",
+    "Explanation": "'Search' is both a verb and a noun centered on the action of looking for something that is lost, hidden, or needed. In the digital age, 'search' is synonymous with using a search engine like Google. It implies a systematic or thorough effort. The phrase 'in search of' is common. It is a fundamental human activity and a core function of computers and the internet. The verb is often followed by 'for' (search for answers).",
+    "synonyms": [
+      "look for",
+      "seek",
+      "hunt",
+      "explore"
+    ],
+    "antonyms": [
+      "find",
+      "ignore",
+      "overlook"
+    ],
+    "nounForm": "search",
+    "verbForm": "search",
+    "adjectiveForm": "searching",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Looking for objects, online queries, investigations",
+    "usageTip": "Use 'search' as a verb with 'for' (search for information) or as a noun (begin your search).",
+    "commonMistake": "Saying 'search of' when you mean 'search for'. You conduct a search *of* a place *for* an object.",
+    "collocations": [
+      "search engine",
+      "in search of",
+      "search and rescue",
+      "search results"
+    ]
+  },
+  {
+    "word": "Search",
+    "meaning": "To look through a database, file system, or the internet to find specific information or files",
+    "shortMeaning": "look for information",
+    "example": "The application allows users to search for books by entering the author name or ISBN number.",
+    "example2": "You can search the entire source code directory for a specific variable name using the terminal.",
+    "example3": "The database index helps the application search millions of records in a fraction of a second.",
+    "Explanation": "The word 'Search' is a core action across all areas of computer science and daily technology use. It refers to the process of scanning through collections of data to locate matching items. Search functionalities can range from simple text matching to highly complex algorithmic operations. Implementing efficient search systems requires a good understanding of indexing, data structures, and query optimizations. It is one of the most frequent activities performed by software systems and end-users.",
+    "synonyms": [
+      "seek",
+      "query",
+      "lookup"
+    ],
+    "antonyms": [
+      "hide",
+      "ignore",
+      "N/A"
+    ],
+    "nounForm": "search",
+    "verbForm": "search",
+    "adjectiveForm": "searchable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Search bars, database queries, and file explorer tools",
+    "usageTip": "Use 'search' to describe the action of looking up entries in datasets, websites, or file systems.",
+    "commonMistake": "Confusing 'search' with 'sort', which rearranges the data order instead of finding specific items.",
+    "collocations": [
+      "search bar",
+      "search algorithm",
+      "search query"
+    ]
+  }
+]

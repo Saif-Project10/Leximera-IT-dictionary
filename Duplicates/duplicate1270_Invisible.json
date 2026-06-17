@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Invisible",
+    "meaning": "Unable to be seen; not visible to the eye.",
+    "shortMeaning": "not visible; unseen",
+    "example": "Bacteria are invisible to the naked eye.",
+    "example2": "She felt invisible in the crowded room.",
+    "example3": "There are invisible costs associated with home ownership.",
+    "Explanation": "'Invisible' is an adjective meaning not visible; unable to be seen. It describes things that cannot be perceived by sight, whether because they're too small, transparent, hidden, or non-physical. Literally invisible things include microscopic organisms, transparent objects, or things in darkness. Figuratively, invisible can mean unnoticed or unappreciated (invisible work). 'Invisible hand' in economics refers to unseen market forces. The noun is 'invisibility'. The concept challenges the idea that what can't be seen doesn't exist or matter. Many important things are invisible: air, emotions, systemic forces. The word emphasizes perception limitations.",
+    "synonyms": [
+      "unseen",
+      "hidden",
+      "imperceptible",
+      "unnoticeable"
+    ],
+    "antonyms": [
+      "visible",
+      "seen",
+      "apparent",
+      "noticeable"
+    ],
+    "nounForm": "invisibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "invisible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, perception, social issues, economics, magic",
+    "usageTip": "Literal: 'invisible ink'. Figurative: 'invisible burden', 'invisible work'. Economic: 'invisible hand'.",
+    "commonMistake": "Thinking invisible means nonexistent. Many real things are invisible (gases, microbes, forces).",
+    "collocations": [
+      "invisible ink",
+      "invisible hand",
+      "virtually invisible"
+    ]
+  },
+  {
+    "word": "Invisible",
+    "meaning": "Unable to be seen or detected in a given context",
+    "shortMeaning": "not visible",
+    "example": "The hidden files are invisible in the default folder view.",
+    "example2": "The background process runs as an invisible task to the user.",
+    "example3": "We added an invisible watermark to protect the digital document.",
+    "Explanation": "Something is invisible when it exists but is not perceivable to the eye or the user interface. In UI design, you might use 'invisible' elements for padding or layout purposes. In OS management, system files are often marked as invisible to prevent users from accidentally deleting them. Understanding visibility settings is essential for troubleshooting why files or UI elements might seem missing when they are actually active. It is a core concept in accessibility and file management.",
+    "synonyms": [
+      "hidden",
+      "unseen",
+      "concealed"
+    ],
+    "antonyms": [
+      "visible",
+      "apparent",
+      "obvious"
+    ],
+    "nounForm": "invisibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "invisible",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, file systems, and security",
+    "usageTip": "Use 'invisible' to describe elements that are present but not displayed.",
+    "commonMistake": "Confusing 'invisible' with 'non-existent'; the data is there, just hidden.",
+    "collocations": [
+      "invisible file",
+      "invisible element",
+      "invisible process"
+    ]
+  }
+]

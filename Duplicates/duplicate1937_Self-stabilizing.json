@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Self-stabilizing",
+    "meaning": "Able to return to a stable state after an error",
+    "shortMeaning": "fixing itself",
+    "example": "The algorithm is self-stabilizing after a network surge.",
+    "example2": "We designed the protocol to be self-stabilizing.",
+    "example3": "Self-stabilizing systems are highly resilient.",
+    "Explanation": "Self-stabilizing describes a system that can recover to a correct or 'stable' state automatically after experiencing a fault or error. This is a highly sought-after characteristic in distributed systems and networking. It means that even if a part of the system breaks or gets corrupted, the system detects the issue and corrects itself without requiring manual intervention. This adds a great layer of robustness and availability to critical infrastructure. It represents high-quality system engineering.",
+    "synonyms": [
+      "resilient",
+      "self-correcting",
+      "robust"
+    ],
+    "antonyms": [
+      "fragile",
+      "unstable",
+      "failure-prone"
+    ],
+    "nounForm": "stability",
+    "verbForm": "stabilize",
+    "adjectiveForm": "self-stabilizing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Distributed systems, engineering, networks",
+    "usageTip": "Use this to describe systems that automatically recover from corruption or errors.",
+    "commonMistake": "Assuming it can fix every possible type of failure.",
+    "collocations": [
+      "self-stabilizing algorithm",
+      "self-stabilizing system",
+      "self-stabilizing protocol"
+    ]
+  },
+  {
+    "word": "Self-stabilizing",
+    "meaning": "Able to return to a correct state after errors occur",
+    "shortMeaning": "resilient",
+    "example": "The algorithm is self-stabilizing despite network noise.",
+    "example2": "We need a self-stabilizing protocol for the distributed system.",
+    "example3": "The controller has a self-stabilizing error correction mechanism.",
+    "Explanation": "A 'self-stabilizing' system is one that can automatically fix itself and reach a correct, steady state even after it has been pushed into an incorrect state by faults, noise, or unexpected errors. This is the ultimate goal in reliable distributed systems. Instead of crashing, the system 'heals' itself. This requires significant design work but results in robust, error-resistant software. In critical infrastructure (like power grids or finance), self-stabilizing code is standard practice for uptime.",
+    "synonyms": [
+      "resilient",
+      "self-healing",
+      "robust"
+    ],
+    "antonyms": [
+      "unstable",
+      "brittle",
+      "error-prone"
+    ],
+    "nounForm": "stability",
+    "verbForm": "stabilize",
+    "adjectiveForm": "self-stabilizing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Distributed systems, networking, engineering",
+    "usageTip": "Use 'self-stabilizing' to describe high-reliability design.",
+    "commonMistake": "Overestimating how much a system can self-stabilize.",
+    "collocations": [
+      "self-stabilizing system",
+      "self-stabilizing protocol"
+    ]
+  }
+]

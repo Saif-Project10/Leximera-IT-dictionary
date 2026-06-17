@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Overflow",
+    "meaning": "To flow over the brim or limits; an excess that cannot be contained.",
+    "shortMeaning": "spill over, excess",
+    "example": "The river overflowed its banks after the heavy rain.",
+    "example2": "The concert was so popular that there was an overflow crowd outside.",
+    "example3": "The error was caused by a buffer overflow in the software.",
+    "Explanation": "'Overflow' can be a verb or a noun. As a verb, it means to spill over because a container is too full. As a noun, it refers to the excess liquid or the people/things that spill over into another area. In computing, a 'buffer overflow' is a serious security flaw. The word conveys a sense of abundance exceeding capacity. It can be literal (water) or metaphorical (emotions, crowds). The past tense is 'overflowed'. It's a vivid word for describing situations of excess.",
+    "synonyms": [
+      "spill over",
+      "flood",
+      "surplus",
+      "excess"
+    ],
+    "antonyms": [
+      "contain",
+      "hold",
+      "drought",
+      "lack"
+    ],
+    "nounForm": "overflow",
+    "verbForm": "overflow",
+    "adjectiveForm": "overflowing",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Floods, crowds, emotions, computing errors",
+    "usageTip": "Often followed by 'with' when metaphorical: 'overflowing with joy'.",
+    "commonMistake": "Confusing 'overflow' (spill over) with 'overfly' (to fly over).",
+    "collocations": [
+      "overflow with",
+      "overflow crowd",
+      "overflow valve",
+      "heart overflow"
+    ]
+  },
+  {
+    "word": "Overflow",
+    "meaning": "A situation where a calculation produces a result that is too large for the available storage space",
+    "shortMeaning": "exceeding capacity",
+    "example": "If you add 1 to the maximum integer value, an overflow occurs.",
+    "example2": "The water began to overflow from the tank.",
+    "example3": "The buffer overflow was exploited by the hacker to run malicious code.",
+    "Explanation": "In computing, every data type (like Integer or Float) has a specific size in memory. An overflow happens when a mathematical operation results in a value that exceeds that size. For example, if a variable can only hold numbers up to 255 and you try to store 256, it 'overflows' and usually wraps back around to zero. This can lead to serious logic errors or security vulnerabilities. It is a fundamental concept in low-level programming and cybersecurity.",
+    "synonyms": [
+      "spillover",
+      "excess",
+      "surplus"
+    ],
+    "antonyms": [
+      "underflow",
+      "shortage"
+    ],
+    "nounForm": "overflow",
+    "verbForm": "overflow",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Mathematics, memory management, and security",
+    "usageTip": "Use 'overflow' when talking about numbers or data exceeding their containers.",
+    "commonMistake": "Confusing 'overflow' with 'leak'; overflow is about size, leak is about not cleaning up memory.",
+    "collocations": [
+      "buffer overflow",
+      "stack overflow",
+      "integer overflow"
+    ]
+  }
+]

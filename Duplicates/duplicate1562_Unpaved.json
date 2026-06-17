@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unpaved",
+    "meaning": "Not covered with a hard, smooth surface like asphalt or concrete; having a natural surface of earth or gravel",
+    "shortMeaning": "not paved; dirt road",
+    "example": "The last mile to the cabin is on an unpaved road.",
+    "example2": "Children were playing in the unpaved alley.",
+    "example3": "The parking lot was unpaved and muddy after the rain.",
+    "Explanation": "The adjective 'unpaved' describes a road, path, or area whose surface is the natural ground (dirt, grass, gravel) rather than being covered with a manufactured surface like pavement, asphalt, or concrete. Unpaved roads are common in rural areas, on construction sites, or in developing regions. They are generally less durable, can become muddy or dusty, and are rougher to drive on than paved roads. The word is descriptive and neutral, though it can imply a lack of development, remoteness, or a rustic charm. It is the opposite of 'paved', 'asphalted', or 'tarmacked'.",
+    "synonyms": [
+      "dirt",
+      "gravel",
+      "unsealed",
+      "rough",
+      "earth"
+    ],
+    "antonyms": [
+      "paved",
+      "asphalted",
+      "tarmacked",
+      "sealed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "pave",
+    "adjectiveForm": "unpaved",
+    "partOfSpeech": "adjective",
+    "commonContext": "Transportation, rural description, construction",
+    "usageTip": "Use to specify the type of road surface, often highlighting potential difficulty or rustic setting.",
+    "commonMistake": "Confusing it with 'unpathed', which means having no path at all.",
+    "collocations": [
+      "unpaved road",
+      "unpaved path",
+      "unpaved driveway",
+      "unpaved surface"
+    ]
+  },
+  {
+    "word": "Unpaved",
+    "meaning": "Not covered with a hard surface; figurative for untested or rough paths",
+    "shortMeaning": "no surface",
+    "example": "We are heading into unpaved territory with this new framework.",
+    "example2": "The logic is on an unpaved path with no documentation.",
+    "example3": "He chose an unpaved approach to solving the algorithm problem.",
+    "Explanation": "Unpaved usually refers to roads, but in IT, it is a metaphor for a new, untested, or unconventional method. Using an 'unpaved' approach means you are doing something without following standard tutorials, frameworks, or best practices. It can be exciting for innovation but often comes with risks, bugs, and lack of community support. It is for those who like to experiment and build original solutions from the ground up.",
+    "synonyms": [
+      "untested",
+      "experimental",
+      "rough"
+    ],
+    "antonyms": [
+      "established",
+      "paved",
+      "standard"
+    ],
+    "nounForm": "pavement",
+    "verbForm": "pave",
+    "adjectiveForm": "unpaved",
+    "partOfSpeech": "adjective",
+    "commonContext": "Innovation, experimental coding",
+    "usageTip": "Use this to describe risky, non-standard project paths.",
+    "commonMistake": "Using 'unpaved' for 'dirty'; it means 'lacking standards'.",
+    "collocations": [
+      "unpaved path",
+      "unpaved territory",
+      "unpaved approach"
+    ]
+  },
+  {
+    "word": "Unpaved",
+    "meaning": "A term used metaphorically in IT to describe paths or methods that have not been explored or established.",
+    "shortMeaning": "not established",
+    "example": "We are walking on unpaved ground with this new technology.",
+    "example2": "This is an unpaved road in software development; there are no tutorials.",
+    "example3": "The startup was exploring unpaved markets.",
+    "Explanation": "While 'unpaved' literally refers to a road without asphalt, in IT, it is a metaphor for uncharted territory. It implies a situation, technology, or business path where no standard practices or frameworks exist yet. When developers work in 'unpaved' areas, they often have to invent their own solutions because no one has done it before. This involves high risk but also high innovation. It indicates a lack of 'best practices' or precedent in a specific area.",
+    "synonyms": [
+      "uncharted",
+      "untested",
+      "experimental"
+    ],
+    "antonyms": [
+      "paved",
+      "established",
+      "standardized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unpaved",
+    "partOfSpeech": "adjective",
+    "commonContext": "Innovation, R&D, new technologies",
+    "usageTip": "Use this to emphasize the lack of previous knowledge.",
+    "commonMistake": "Using it literally when you should be using 'experimental'.",
+    "collocations": [
+      "unpaved territory",
+      "unpaved path",
+      "unpaved technology"
+    ]
+  }
+]

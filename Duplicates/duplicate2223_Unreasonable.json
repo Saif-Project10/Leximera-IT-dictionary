@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unreasonable",
+    "meaning": "Not guided by logic; excessive",
+    "shortMeaning": "not logical",
+    "example": "The system requirement is unreasonable given our current budget.",
+    "example2": "He made an unreasonable request for a total code rewrite.",
+    "example3": "The error was caused by unreasonable data inputs.",
+    "Explanation": "Unreasonable is used to describe something that does not make sense logically or is beyond what is expected. In project management, this often describes unrealistic deadlines or scope changes that cannot be achieved with available resources. In coding, an unreasonable input is data that is completely out of the expected range, potentially leading to bugs. Defining what is reasonable is important for team communication and error handling.",
+    "synonyms": [
+      "illogical",
+      "irrational",
+      "excessive"
+    ],
+    "antonyms": [
+      "reasonable",
+      "logical",
+      "fair"
+    ],
+    "nounForm": "reason",
+    "verbForm": "reason",
+    "adjectiveForm": "unreasonable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, project requirements, input validation",
+    "usageTip": "Use this for unrealistic demands or invalid data.",
+    "commonMistake": "Confusing 'unreasonable' with 'difficult'; difficult is fine, unreasonable isn't.",
+    "collocations": [
+      "unreasonable request",
+      "unreasonable demand",
+      "unreasonable deadline"
+    ]
+  },
+  {
+    "word": "Unreasonable",
+    "meaning": "Going beyond the limits of what is fair, logical, or practical.",
+    "shortMeaning": "not logical",
+    "example": "Expecting a website rewrite in one day is unreasonable.",
+    "example2": "The resource requirements for this script are unreasonable.",
+    "example3": "It is unreasonable to ask for full access to the production DB.",
+    "Explanation": "The term 'unreasonable' is used to describe requests, deadlines, or resource demands that are impractical or unfair. In software development, setting unreasonable goals often leads to poor-quality code and team exhaustion. It suggests that the expectation lacks consideration for technical limitations or common logic. Developers often need to explain why a request is unreasonable using data or technical constraints. It is a subjective but critical term in professional communication.",
+    "synonyms": [
+      "impractical",
+      "irrational",
+      "excessive"
+    ],
+    "antonyms": [
+      "reasonable",
+      "fair",
+      "logical"
+    ],
+    "nounForm": "unreasonableness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unreasonable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, project planning",
+    "usageTip": "Use this to push back against impossible demands.",
+    "commonMistake": "Confusing it with 'impossible', as unreasonable tasks might be possible but not logical.",
+    "collocations": [
+      "unreasonable deadline",
+      "unreasonable demand",
+      "unreasonable expectations"
+    ]
+  }
+]

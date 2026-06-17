@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Premature",
+    "meaning": "Occurring or done before the proper or usual time; too early.",
+    "shortMeaning": "too early; hasty",
+    "example": "The baby was born premature.",
+    "example2": "It would be premature to celebrate before we see the final results.",
+    "example3": "His premature resignation surprised everyone.",
+    "Explanation": "Premature is an adjective describing something that happens too soon, often with negative consequences. It implies a lack of readiness, development, or appropriate timing. It can refer to birth, decisions, conclusions, or actions. The word carries a critical tone, suggesting that waiting would have been better. The noun is 'prematurity.' A common mistake is using it to simply mean 'early' without the negative connotation of being *too* early. This word is important in medicine, project management, and decision-making, warning against acting without sufficient information or preparation.",
+    "synonyms": [
+      "early",
+      "untimely",
+      "hasty",
+      "rash",
+      "ill-timed"
+    ],
+    "antonyms": [
+      "late",
+      "overdue",
+      "timely",
+      "mature"
+    ],
+    "nounForm": "prematurity",
+    "verbForm": "N/A",
+    "adjectiveForm": "premature",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine (premature birth), judgments, announcements, and actions.",
+    "usageTip": "Use 'premature' to criticize an action or event as happening before it is wise, safe, or appropriate.",
+    "commonMistake": "Pronouncing it as 'pre-ma-toor' – the correct pronunciation is 'PREE-muh-chur' or 'prem-uh-CHOOR.'",
+    "collocations": [
+      "premature death",
+      "premature aging",
+      "premature conclusion"
+    ]
+  },
+  {
+    "word": "Premature",
+    "meaning": "Happening or done too early; before the correct time.",
+    "shortMeaning": "too early",
+    "example": "Premature optimization can lead to messy and unreadable code.",
+    "example2": "Releasing the product now would be premature.",
+    "example3": "The system failure was caused by a premature shutdown.",
+    "Explanation": "Premature describes something that happens before it is ready or necessary. In IT, 'premature optimization' is a famous trap—it means spending time making code fast when it isn't even working correctly yet. It wastes time and creates complexity. Doing things prematurely usually leads to problems. It is better to ensure the work is ready before moving on to the next step. Wait until the time is right.",
+    "synonyms": [
+      "early",
+      "untimely",
+      "hasty"
+    ],
+    "antonyms": [
+      "timely",
+      "mature",
+      "deliberate"
+    ],
+    "nounForm": "prematureness",
+    "verbForm": "N/A",
+    "adjectiveForm": "premature",
+    "partOfSpeech": "adjective",
+    "commonContext": "Process, development, timing",
+    "usageTip": "Use 'premature' to warn against doing something before it's time.",
+    "commonMistake": "Thinking 'premature' only refers to time; it also refers to state.",
+    "collocations": [
+      "premature optimization",
+      "premature release",
+      "premature shutdown"
+    ]
+  }
+]

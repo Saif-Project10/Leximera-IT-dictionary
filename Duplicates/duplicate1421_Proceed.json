@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Proceed",
+    "meaning": "To begin or continue a course of action; to move forward.",
+    "shortMeaning": "go ahead, continue",
+    "example": "Please proceed to the next checkout counter.",
+    "example2": "After the interruption, the speaker proceeded with his lecture.",
+    "example3": "The lawsuit will proceed to trial next month.",
+    "Explanation": "To 'proceed' is a formal verb meaning to go forward, especially after a pause, or to carry on with an action. It is often used in official instructions, announcements, and legal contexts. It implies a sense of orderly progression. The noun form is 'proceeding' (often plural: proceedings, meaning events or legal actions). Do not confuse it with 'precede', which means 'to come before'. 'Proceed' is about moving ahead. It's a common word in aviation ('proceed to gate'), ceremonies, and any process with defined steps.",
+    "synonyms": [
+      "continue",
+      "go ahead",
+      "advance",
+      "carry on"
+    ],
+    "antonyms": [
+      "stop",
+      "halt",
+      "cease",
+      "discontinue"
+    ],
+    "nounForm": "proceeding, proceedings",
+    "verbForm": "proceed",
+    "adjectiveForm": "proceeding",
+    "partOfSpeech": "verb",
+    "commonContext": "Instructions, legal processes, formal events, travel",
+    "usageTip": "Often followed by 'with' (proceed with the plan) or 'to' + place/action (proceed to the exit, proceed to ask).",
+    "commonMistake": "Confusing 'proceed' (go forward) with 'precede' (come before).",
+    "collocations": [
+      "proceed with caution",
+      "proceed as planned",
+      "legal proceedings",
+      "proceed to the next step"
+    ]
+  },
+  {
+    "word": "Proceed",
+    "meaning": "To continue with an action or to move forward",
+    "shortMeaning": "continue or go ahead",
+    "example": "Please click 'Next' to proceed with the installation.",
+    "example2": "After the break, the meeting will proceed as planned.",
+    "example3": "You cannot proceed until you accept the terms and conditions.",
+    "Explanation": "The word 'proceed' is often used in formal instructions and software user interfaces (UI). It tells the user that one step is finished and they are ready for the next one. In programming logic, a function might only 'proceed' to the next line if a specific condition is met (like a user entering a correct password). It is a polite and professional way to say 'keep going' or 'start the next phase.' It is very common in wizards, checkout flows, and setup guides.",
+    "synonyms": [
+      "continue",
+      "advance",
+      "progress"
+    ],
+    "antonyms": [
+      "stop",
+      "halt",
+      "pause"
+    ],
+    "nounForm": "proceeds (money) / procedure",
+    "verbForm": "proceed",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Instructions, software UIs, and meetings",
+    "usageTip": "Use 'proceed' in UI buttons instead of 'Go' to sound more professional.",
+    "commonMistake": "Confusing 'proceed' with 'precede'; precede means to come before, proceed means to go forward.",
+    "collocations": [
+      "proceed with caution",
+      "proceed to checkout",
+      "duly proceed"
+    ]
+  }
+]

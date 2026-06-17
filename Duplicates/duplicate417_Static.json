@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Static",
+    "meaning": "Lacking movement, action, or change; stationary.",
+    "shortMeaning": "unchanging, stationary",
+    "example": "The stock price remained static for most of the day.",
+    "example2": "In physics, static electricity is a stationary charge.",
+    "example3": "A static website has fixed content, unlike a dynamic one.",
+    "Explanation": "Static describes a complete absence of change or movement. It can refer to physical objects (a static object), conditions (static pressure), or abstract concepts (a static society, static data). In computing, static means fixed at compile time (static typing) or not changing (static IP address). While sometimes desirable (static stability), it often has a negative connotation of stagnation, especially when contrasted with 'dynamic'. The word comes from Greek 'statikos' meaning 'causing to stand'. It's a key concept in many scientific and technical fields.",
+    "synonyms": [
+      "unchanging",
+      "fixed",
+      "stationary",
+      "stable",
+      "immobile"
+    ],
+    "antonyms": [
+      "dynamic",
+      "changing",
+      "moving",
+      "fluid",
+      "variable"
+    ],
+    "nounForm": "stasis",
+    "verbForm": "N/A",
+    "adjectiveForm": "static",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, computing, sociology, electricity",
+    "usageTip": "In everyday language, it often implies boredom or lack of progress. In tech, it's a neutral descriptor.",
+    "commonMistake": "Confusing 'static' (stationary) with 'stationery' (writing materials).",
+    "collocations": [
+      "static electricity",
+      "static IP",
+      "remained static"
+    ]
+  },
+  {
+    "word": "Static",
+    "meaning": "Fixed, unchanging, or determined before execution.",
+    "shortMeaning": "unchanging",
+    "example": "The website uses static content to improve load speeds.",
+    "example2": "Static analysis tools catch errors without running the code.",
+    "example3": "We assigned a static IP address to the server.",
+    "Explanation": "The word 'static' refers to things that are fixed and do not change. In programming, it can mean variables that retain their value or analysis performed on source code without executing it. In web development, 'static' content (like images or CSS) is sent to the browser exactly as it is, without server-side processing. 'Static' things are predictable and fast, but they lack the dynamic flexibility of systems that react to user input or real-time data.",
+    "synonyms": [
+      "fixed",
+      "unchanging",
+      "constant"
+    ],
+    "antonyms": [
+      "dynamic",
+      "changing",
+      "fluid"
+    ],
+    "nounForm": "stasis",
+    "verbForm": "N/A",
+    "adjectiveForm": "static",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, web design, networking",
+    "usageTip": "Use 'static' for things that are fixed and do not change.",
+    "commonMistake": "Confusing static content with cached content.",
+    "collocations": [
+      "static analysis",
+      "static IP",
+      "static content"
+    ]
+  },
+  {
+    "word": "Static",
+    "meaning": "Lacking movement, fixed, or unchangeable",
+    "shortMeaning": "fixed or unchanging",
+    "example": "The website uses static pages that never change their content.",
+    "example2": "Static assets like images and CSS files are easy to cache.",
+    "example3": "A static variable keeps its value throughout the program's life.",
+    "Explanation": "The word 'static' in IT refers to something that is fixed and does not change during the execution of a program or interaction. Static content is delivered exactly as it is stored on the server. Static variables in code are shared across all instances of a class. It is the opposite of 'dynamic,' which changes based on input. Understanding static versus dynamic is a fundamental concept in web and software development.",
+    "synonyms": [
+      "fixed",
+      "unchanging",
+      "constant"
+    ],
+    "antonyms": [
+      "dynamic",
+      "active",
+      "variable"
+    ],
+    "nounForm": "stasis",
+    "verbForm": "N/A",
+    "adjectiveForm": "static",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, programming",
+    "usageTip": "Use 'static' for content that does not need user interaction.",
+    "commonMistake": "Thinking static files cannot be updated; they just don't change automatically.",
+    "collocations": [
+      "static content",
+      "static variable",
+      "static page"
+    ]
+  }
+]

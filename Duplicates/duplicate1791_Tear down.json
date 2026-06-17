@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Tear down",
+    "meaning": "To take something apart to see how it works or to remove it",
+    "shortMeaning": "disassemble",
+    "example": "We need to tear down the old server rack to make room for new equipment.",
+    "example2": "The engineers will tear down the engine to find the fault.",
+    "example3": "The developer had to tear down the entire code module to fix the bug.",
+    "Explanation": "In a technical context, 'tear down' usually refers to disassembling a physical device or a software system. This is often done for maintenance, analysis, or decommissioning. When you tear something down, you carefully inspect each part. It is different from 'destroying' because the goal is often to understand or rebuild. In software, it might refer to cleaning up resources after a test or a session. It is a common practice in hardware engineering to see how competitors build their products.",
+    "synonyms": [
+      "disassemble",
+      "dismantle",
+      "deconstruct"
+    ],
+    "antonyms": [
+      "build",
+      "assemble",
+      "construct"
+    ],
+    "nounForm": "teardown",
+    "verbForm": "tear down",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Hardware engineering, software testing, and construction",
+    "usageTip": "Use 'tear down' when the intent is to inspect or clear out something.",
+    "commonMistake": "Confusing it with 'break down', which usually means something stopped working.",
+    "collocations": [
+      "tear down the system",
+      "complete tear down",
+      "physical tear down"
+    ]
+  },
+  {
+    "word": "Tear down",
+    "meaning": "To systematically dismantle a software architecture, clear a temporary cloud environment, or take apart a physical hardware device to inspect it",
+    "shortMeaning": "dismantle or deconstruct",
+    "example": "After the automated testing completes, the script will tear down the temporary testing database.",
+    "example2": "The hardware analyst had to tear down the new laptop to check its internal cooling fan components.",
+    "example3": "We need to tear down our old server infrastructure after migrating fully to the cloud hosting.",
+    "Explanation": "The phrase 'tear down' has distinct physical and logical meanings in IT. Physically, a hardware tear-down involves completely taking apart a device like a smartphone to analyze its motherboard and repairability score. Logically, in software testing frameworks, a 'teardown' function runs immediately after tests finish. Its job is to clean up memory, close database ports, and delete dummy files so the testing environment stays pristine and does not waste system resources. It represents clean decommissioning.",
+    "synonyms": [
+      "dismantle",
+      "decommission",
+      "destroy",
+      "disassemble"
+    ],
+    "antonyms": [
+      "set up",
+      "build",
+      "initialize",
+      "construct"
+    ],
+    "nounForm": "teardown",
+    "verbForm": "tear down",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Hardware analysis reviews, automated testing code loops, cloud resource cleaning",
+    "usageTip": "Write it as two words for the action ('tear down the server') and one word for the noun ('a hardware teardown video').",
+    "commonMistake": "Forgetting to include a tear down step in automated scripts, which leaves loose cloud resources running up bills.",
+    "collocations": [
+      "tear down environment",
+      "hardware tear down",
+      "tear down completely"
+    ]
+  }
+]

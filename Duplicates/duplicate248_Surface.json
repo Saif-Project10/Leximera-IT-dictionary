@@ -1,0 +1,103 @@
+[
+  {
+    "word": "Surface",
+    "meaning": "The outside or top layer of something; the apparent or superficial aspect of a situation.",
+    "shortMeaning": "outside layer",
+    "example": "The table has a smooth, polished surface.",
+    "example2": "The submarine rose to the surface.",
+    "example3": "On the surface, everything seemed fine, but there were problems underneath.",
+    "Explanation": "Surface is a noun (and also a verb) that refers to the outermost boundary of an object. Literally, it's what you can see and touch. Figuratively, it means the obvious or superficial aspect of something, as opposed to its deeper reality. The verb 'to surface' means to come to the top or to become apparent. A common mistake is using it only in its literal sense. The adjective is 'superficial' (for the figurative meaning). This word is crucial in geography, physics, art, and for describing situations where appearances differ from the truth.",
+    "synonyms": [
+      "exterior",
+      "outside",
+      "face",
+      "top",
+      "facade (figurative)"
+    ],
+    "antonyms": [
+      "interior",
+      "inside",
+      "core",
+      "depth",
+      "substance"
+    ],
+    "nounForm": "surface",
+    "verbForm": "surface",
+    "adjectiveForm": "surface (e.g., surface tension) / superficial",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Geography, physics, describing objects, and analyzing situations.",
+    "usageTip": "Use 'on the surface' to describe how something appears at first glance, before looking deeper.",
+    "commonMistake": "Saying 'surfaced' to mean 'appeared' in any context; it's best for things emerging from water or hidden information coming to light.",
+    "collocations": [
+      "scratch the surface",
+      "surface area",
+      "below the surface"
+    ]
+  },
+  {
+    "word": "Surface",
+    "meaning": "The outer layer or top of an object",
+    "shortMeaning": "outer layer",
+    "example": "The surface of the device is made of glass.",
+    "example2": "Surface tension is important in cooling small processors.",
+    "example3": "The issue only appeared on the surface of the application.",
+    "Explanation": "Surface refers to the exterior part of something. In IT, it can be physical (the casing of a laptop) or metaphorical (the user interface). When talking about 'surface area', it usually relates to heat dissipation in hardware. When talking about a 'surface-level issue', it means the problem is easy to see but not deep. Keep in mind the difference between physical hardware surfaces and abstract UI layers.",
+    "synonyms": [
+      "exterior",
+      "outside",
+      "layer"
+    ],
+    "antonyms": [
+      "core",
+      "interior",
+      "depth"
+    ],
+    "nounForm": "surface",
+    "verbForm": "surface",
+    "adjectiveForm": "superficial",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Hardware design, UI/UX, physics",
+    "usageTip": "Use 'surface' to talk about the exterior part of any system or object.",
+    "commonMistake": "Confusing 'surface' with 'interface' (though they are related).",
+    "collocations": [
+      "surface area",
+      "surface tension",
+      "on the surface"
+    ]
+  },
+  {
+    "word": "Surface",
+    "meaning": "The outermost boundary, top layer, or external face of a physical object, digital asset, or abstract concept",
+    "shortMeaning": "outermost layer",
+    "example": "The laptop has a smooth aluminum surface that feels premium to touch.",
+    "example2": "A hidden software bug will eventually surface during heavy load stress testing.",
+    "example3": "We need to clean the sensor surface to make sure it reads data inputs accurately.",
+    "Explanation": "The word 'surface' behaves as a noun, verb, and adjective. As a noun, it describes the exterior boundary of an object (e.g., screen surface, desk surface). In 3D graphics and web design, defining surface properties (like textures, reflectivity, and borders) creates visual realism. As a verb, 'surface' means to emerge or become visible after being hidden or deep underwater, such as an issue finally showing up in code execution logs. The adjective form is 'superficial'. It is highly utilized across physical engineering, math geometries, and conversational English.",
+    "synonyms": [
+      "exterior",
+      "outside",
+      "layer",
+      "emerge",
+      "appear"
+    ],
+    "antonyms": [
+      "interior",
+      "depth",
+      "core",
+      "sink",
+      "submerge"
+    ],
+    "nounForm": "surface / surfacing",
+    "verbForm": "surface",
+    "adjectiveForm": "superficial / surface-level",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "3D modeling textures, physical device hardware materials, and data issues emerging in production",
+    "usageTip": "Use 'surface' as a verb when an application bug or unexpected project complication suddenly reveals itself during development.",
+    "commonMistake": "Using 'surface' when you mean 'deeply analyze'; surface things only deal with the top, visible layer, not the inner core mechanics.",
+    "collocations": [
+      "smooth surface",
+      "bug begins to surface",
+      "surface area"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Restructure",
+    "meaning": "To organize a system, company, or thing in a new and different way to make it more effective.",
+    "shortMeaning": "organize in a new way",
+    "example": "The company had to restructure its debt to avoid bankruptcy.",
+    "example2": "The school board plans to restructure the curriculum.",
+    "example3": "After the merger, the entire department was restructured.",
+    "Explanation": "Restructure is a formal verb meaning to fundamentally change the architecture or framework of something. It implies a major overhaul, not just small adjustments. It's commonly used in business (corporate restructuring), finance (debt restructuring), and organizations. Restructuring is often done to improve efficiency, cut costs, adapt to new conditions, or solve serious problems. It can involve changing hierarchies, merging divisions, or redefining processes. The noun is 'restructuring'. It's a significant event that can be disruptive but aims for long-term improvement.",
+    "synonyms": [
+      "reorganize",
+      "overhaul",
+      "reform",
+      "reshape"
+    ],
+    "antonyms": [
+      "maintain",
+      "preserve",
+      "keep intact"
+    ],
+    "nounForm": "restructuring",
+    "verbForm": "restructure",
+    "adjectiveForm": "restructured",
+    "partOfSpeech": "verb",
+    "commonContext": "Business, finance, management, education reform",
+    "usageTip": "Used for large-scale, strategic changes to systems or organizations.",
+    "commonMistake": "Using it for minor changes; 'rearrange' or 'reorganize' is better for smaller-scale adjustments.",
+    "collocations": [
+      "corporate restructuring",
+      "restructure the company",
+      "debt restructuring"
+    ]
+  },
+  {
+    "word": "Restructure",
+    "meaning": "To reorganize the database schema, code modules, or project teams to make them more efficient",
+    "shortMeaning": "reorganize internal layout",
+    "example": "We need to restructure our database tables to support a higher volume of user data next year.",
+    "example2": "The development team decided to restructure the website folders for better clarity.",
+    "example3": "Restructuring the source code made it easier for new developers to understand the project.",
+    "Explanation": "The word 'Restructure' means changing the foundational arrangement or organization of an asset without destroying its purpose. In IT, you restructure database schemas by setting up better relationships between tables, or you restructure code files by shifting logic into cleaner directory trees. It is highly similar to refactoring but is often used for high-level data models, systemic architecture adjustments, or department team changes.",
+    "synonyms": [
+      "reorganize",
+      "rearrange",
+      "remodel layout"
+    ],
+    "antonyms": [
+      "leave disorganized",
+      "preserve structure",
+      "N/A"
+    ],
+    "nounForm": "restructuring",
+    "verbForm": "restructure",
+    "adjectiveForm": "restructured",
+    "partOfSpeech": "verb",
+    "commonContext": "Database schema updates, software design layouts, and project planning",
+    "usageTip": "Use 'restructure' when describing big reorganizations of code files, database architectures, or data models.",
+    "commonMistake": "Confusing it with deleting data; restructuring simply moves the existing components into a better layout system.",
+    "collocations": [
+      "restructure database tables",
+      "restructure the project layout",
+      "completely restructure code"
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Unnoticeable",
+    "meaning": "Not easily seen or noticed; inconspicuous",
+    "shortMeaning": "hard to notice",
+    "example": "The mended tear in the fabric was almost unnoticeable.",
+    "example2": "She made an unnoticeable exit from the party.",
+    "example3": "The difference in color is unnoticeable to most people.",
+    "Explanation": "'Unnoticeable' is an adjective describing something that does not attract attention or is very difficult to perceive. It is synonymous with 'inconspicuous' and often has a neutral or slightly positive connotation, especially when you want something to blend in. It is the opposite of 'noticeable' or 'conspicuous'. This word is used to describe minor changes, subtle features, or deliberate attempts to avoid being seen. It emphasizes a lack of visual or sensory impact.",
+    "synonyms": [
+      "inconspicuous",
+      "indiscernible",
+      "imperceptible"
+    ],
+    "antonyms": [
+      "noticeable",
+      "conspicuous",
+      "obvious",
+      "striking"
+    ],
+    "nounForm": "unnoticeability",
+    "verbForm": "notice",
+    "adjectiveForm": "unnoticeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing repairs, changes, appearances, or exits",
+    "usageTip": "Use 'unnoticeable' for things that are intentionally or naturally hard to see or detect.",
+    "commonMistake": "Confusing it with 'unnoticed', which means not seen (a past state), while 'unnoticeable' describes the inherent quality of being hard to see.",
+    "collocations": [
+      "virtually unnoticeable",
+      "unnoticeable difference",
+      "remain unnoticeable"
+    ]
+  },
+  {
+    "word": "Unnoticeable",
+    "meaning": "Too small or subtle to be seen or detected",
+    "shortMeaning": "very subtle",
+    "example": "The change in performance was almost unnoticeable to the user.",
+    "example2": "The background color shift is unnoticeable on this screen.",
+    "example3": "The slight delay is unnoticeable during standard operation.",
+    "Explanation": "Unnoticeable describes something that exists but is so subtle that a person or a monitoring tool would not detect it. In UI/UX, tiny design changes might be unnoticeable to the average user. In performance tuning, a very small latency might be unnoticeable in regular usage. It is often used to describe optimizations that don't change the experience much but might be beneficial in other ways, like energy savings.",
+    "synonyms": [
+      "subtle",
+      "imperceptible",
+      "inconspicuous"
+    ],
+    "antonyms": [
+      "noticeable",
+      "obvious",
+      "visible"
+    ],
+    "nounForm": "notice",
+    "verbForm": "notice",
+    "adjectiveForm": "unnoticeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, performance testing",
+    "usageTip": "Use this for changes that have no impact on the end user.",
+    "commonMistake": "Confusing it with 'irrelevant'; it's still there, just not seen.",
+    "collocations": [
+      "almost unnoticeable",
+      "virtually unnoticeable",
+      "completely unnoticeable"
+    ]
+  },
+  {
+    "word": "Unnoticeable",
+    "meaning": "Something that is so small or subtle that it cannot easily be seen or detected.",
+    "shortMeaning": "hard to see",
+    "example": "The difference in processing speed was unnoticeable.",
+    "example2": "The bug was unnoticeable until the system crashed.",
+    "example3": "She made an unnoticeable change to the CSS file.",
+    "Explanation": "The adjective 'unnoticeable' describes things that escape attention because they are tiny, subtle, or well-hidden. In IT, this often refers to minor UI adjustments, very small performance fluctuations, or background processes that do not impact the user experience. Because it is unnoticeable, it is often ignored during standard testing phases. If something is unnoticeable, it rarely causes immediate concern to the end-user. It is the opposite of 'obvious' or 'visible'.",
+    "synonyms": [
+      "imperceptible",
+      "subtle",
+      "inconspicuous"
+    ],
+    "antonyms": [
+      "noticeable",
+      "obvious",
+      "visible"
+    ],
+    "nounForm": "unnoticeability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unnoticeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, performance testing",
+    "usageTip": "Use this for subtle changes that don't affect output.",
+    "commonMistake": "Using it to describe something that is just 'hidden' instead of 'subtle'.",
+    "collocations": [
+      "unnoticeable change",
+      "unnoticeable difference",
+      "virtually unnoticeable"
+    ]
+  }
+]

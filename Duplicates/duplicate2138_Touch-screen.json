@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Touch-screen",
+    "meaning": "A display that can be controlled by touching the surface",
+    "shortMeaning": "touch-controlled screen",
+    "example": "The new kiosk has a large touch-screen interface.",
+    "example2": "She preferred using a laptop with a touch-screen.",
+    "example3": "The application is optimized for touch-screen devices.",
+    "Explanation": "A 'touch-screen' is a computer display that acts as an input device by sensing touch, usually from a finger or stylus. This technology is standard for smartphones, tablets, and many modern laptops. It allows for more intuitive interaction compared to a traditional mouse and keyboard. In development, designing for touch-screens requires different considerations, such as button size and gesture support. It is a ubiquitous term in modern technology that defines much of how we interact with software today.",
+    "synonyms": [
+      "touchscreen",
+      "interactive display"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "touch-screen",
+    "verbForm": "N/A",
+    "adjectiveForm": "touch-screen",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Hardware, user interface design, mobile development",
+    "usageTip": "Use 'touch-screen' to describe devices that respond to touch.",
+    "commonMistake": "Assuming all screens are touch-screens.",
+    "collocations": [
+      "touch-screen device",
+      "touch-screen interface",
+      "touch-screen monitor"
+    ]
+  },
+  {
+    "word": "Touch-screen",
+    "meaning": "A display that reacts to touch input from a finger or stylus",
+    "shortMeaning": "touch display",
+    "example": "The new interface is designed for touch-screen devices.",
+    "example2": "The touch-screen was unresponsive after the update.",
+    "example3": "We added touch-screen support to the kiosk application.",
+    "Explanation": "A 'touch-screen' is an input and output device that allows users to interact directly with software by touching the display. It has become a standard feature for tablets, phones, and many kiosks. When developing software, a 'touch-screen' interface requires larger buttons and different gesture handling compared to a mouse-and-keyboard setup. It is a key hardware-software integration point. Ensuring smooth touch interaction is a critical part of modern mobile UX design.",
+    "synonyms": [
+      "touch display",
+      "interactive screen"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "touch-screen",
+    "verbForm": "N/A",
+    "adjectiveForm": "touch-screen",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Hardware, UI/UX, mobile devices",
+    "usageTip": "Use when referring to displays that accept touch inputs.",
+    "commonMistake": "Ignoring touch targets sizes in software design.",
+    "collocations": [
+      "touch-screen device",
+      "touch-screen support",
+      "touch-screen interface"
+    ]
+  }
+]

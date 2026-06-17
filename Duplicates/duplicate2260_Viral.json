@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Viral",
+    "meaning": "Spreading very quickly through internet sharing",
+    "shortMeaning": "spreading fast",
+    "example": "The new app went viral within hours of its launch.",
+    "example2": "Viral marketing requires a strong social media strategy.",
+    "example3": "A viral bug caused the system to crash globally.",
+    "Explanation": "In IT, 'viral' refers to anything that spreads rapidly from user to user, like a popular app, a shared video, or a malicious exploit (like a computer virus). While often used for marketing success, 'viral' can also describe the uncontrollable spread of software bugs or malware across a network. Understanding the mechanics of viral spread is important for both social media success and cybersecurity defense. It highlights the power of interconnected networks.",
+    "synonyms": [
+      "popular",
+      "contagious",
+      "widespread"
+    ],
+    "antonyms": [
+      "contained",
+      "limited",
+      "isolated"
+    ],
+    "nounForm": "virus",
+    "verbForm": "N/A",
+    "adjectiveForm": "viral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social media, marketing, security",
+    "usageTip": "Use for things spreading quickly on the web.",
+    "commonMistake": "Confusing viral spread with intended communication.",
+    "collocations": [
+      "go viral",
+      "viral marketing",
+      "viral spread"
+    ]
+  },
+  {
+    "word": "Viral",
+    "meaning": "Spreading very quickly and widely, often via the internet.",
+    "shortMeaning": "spreading quickly",
+    "example": "The new app went viral within just a few days of launch.",
+    "example2": "Viral marketing can significantly boost user acquisition.",
+    "example3": "Ensure the server can handle a sudden viral load.",
+    "Explanation": "‘Viral’ describes content or software that spreads like a virus through social sharing. In business IT, this is a massive success, but it poses a challenge for system architects: a 'viral' hit can bring down servers if they aren't prepared for the sudden, exponential increase in traffic. IT teams must plan for scalability to ensure that if a product goes viral, the infrastructure can support the massive influx of new users without failing.",
+    "synonyms": [
+      "trending",
+      "widespread",
+      "popular"
+    ],
+    "antonyms": [
+      "unpopular",
+      "stagnant",
+      "limited"
+    ],
+    "nounForm": "virality",
+    "verbForm": "N/A",
+    "adjectiveForm": "viral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Digital marketing and server scalability",
+    "usageTip": "Use to describe explosive growth or popularity.",
+    "commonMistake": "Confusing it with 'malicious' (in the sense of a computer virus).",
+    "collocations": [
+      "viral marketing",
+      "go viral",
+      "viral content"
+    ]
+  }
+]

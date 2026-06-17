@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Undirected",
+    "meaning": "Not having a clear aim or instruction",
+    "shortMeaning": "no clear aim",
+    "example": "The research felt undirected and lacked focus.",
+    "example2": "Undirected development can lead to unnecessary features.",
+    "example3": "The probe sends undirected signals to the device.",
+    "Explanation": "Undirected refers to processes, people, or data that are not following a specific goal or clear path. In software projects, undirected development is dangerous as it consumes time without providing business value. In networking, an undirected signal or message might be broadcast to everyone rather than a specific destination. Clear objectives are necessary to prevent undirected effort and improve efficiency.",
+    "synonyms": [
+      "aimless",
+      "unfocused",
+      "uncontrolled"
+    ],
+    "antonyms": [
+      "directed",
+      "focused",
+      "goal-oriented"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "undirected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project planning, networking",
+    "usageTip": "Use when something lacks a clear destination or goal.",
+    "commonMistake": "Confusing undirected with 'random' (it just means not steered).",
+    "collocations": [
+      "undirected effort",
+      "undirected signals",
+      "remain undirected"
+    ]
+  },
+  {
+    "word": "Undirected",
+    "meaning": "Not having a specific target or guidance",
+    "shortMeaning": "no direction",
+    "example": "The scan produced undirected results.",
+    "example2": "He felt undirected during the project phase.",
+    "example3": "An undirected graph has no arrows on its edges.",
+    "Explanation": "The word 'undirected' has a technical meaning in graph theory, referring to connections that work both ways. In a general context, it means lacking a purpose or leadership. It describes a system or person that isn't moving toward a specific outcome. Understanding the difference between these two meanings is important. If you are talking about math, you are referring to a structure; if you are talking about work, you are referring to a lack of guidance.",
+    "synonyms": [
+      "aimless",
+      "unfocused",
+      "unstructured"
+    ],
+    "antonyms": [
+      "directed",
+      "guided",
+      "focused"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "undirected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Math, graph theory, and management",
+    "usageTip": "Use for graph structures or lack of purpose.",
+    "commonMistake": "Assuming 'undirected' always means 'poor performance'.",
+    "collocations": [
+      "undirected graph",
+      "undirected efforts",
+      "remain undirected"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Scramble",
+    "meaning": "To move quickly and with difficulty, often using your hands; to mix things together randomly",
+    "shortMeaning": "clamber, mix up",
+    "example": "The children scrambled up the rocky hill.",
+    "example2": "I'll scramble some eggs for breakfast.",
+    "example3": "Soldiers scrambled to their positions when the alarm sounded.",
+    "Explanation": "'Scramble' is a vivid verb with two main meanings. First, a hurried, awkward climb or movement. Second, to mix or jumble things (like eggs or messages for secrecy). In aviation/military contexts, it means to get planes airborne urgently. As a noun, it can mean a difficult climb or a disordered situation. The imagery is one of haste, disorder, or energetic struggle.",
+    "synonyms": [
+      "clamber",
+      "jumble",
+      "rush"
+    ],
+    "antonyms": [
+      "descend",
+      "order",
+      "arrange"
+    ],
+    "nounForm": "scramble",
+    "verbForm": "scramble",
+    "adjectiveForm": "scrambled",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Climbing, cooking (eggs), emergency response, communications",
+    "usageTip": "For eggs, 'scramble' means to cook while stirring. For movement, it implies using hands and feet.",
+    "commonMistake": "Confusing 'scramble' (mix/climb) with 'ramble' (walk or talk aimlessly).",
+    "collocations": [
+      "scramble for cover",
+      "scrambled eggs",
+      "scramble the signals"
+    ]
+  },
+  {
+    "word": "Scramble",
+    "meaning": "To deliberately mix up, jumble, or rearrange data strings to make them completely unreadable without permission",
+    "shortMeaning": "mix up data",
+    "example": "The system will scramble user password strings using a cryptographic hash before storing them.",
+    "example2": "If the file download breaks mid-way, it might scramble the internal code data completely.",
+    "example3": "You can use an obfuscator tool to scramble your JavaScript code logic before publishing it.",
+    "Explanation": "The word 'scramble' describes mixing elements up randomly or out of order. In technology, it can mean two things: first, code obfuscation, where developers scramble frontend code names to prevent competitors from stealing layouts easily. Second, it can describe accidental data corruption when file streams get broken during transmission. The noun form is 'scramble' or 'scrambler'. It implies moving from order to disorder.",
+    "synonyms": [
+      "jumble",
+      "obfuscate",
+      "mix up"
+    ],
+    "antonyms": [
+      "arrange",
+      "descramble",
+      "decode"
+    ],
+    "nounForm": "scramble / scrambler",
+    "verbForm": "scramble",
+    "adjectiveForm": "scrambled",
+    "partOfSpeech": "verb",
+    "commonContext": "Code obfuscation scripts, raw file corruption errors, and network security data masking",
+    "usageTip": "Use 'scramble' when describing mixing up data bits, characters, or variable names to protect files from prying eyes.",
+    "commonMistake": "Confusing 'scramble' with secure encryption; scrambling can sometimes be guessed easily, while encryption requires secure keys.",
+    "collocations": [
+      "scramble data blocks",
+      "scramble code files",
+      "automatically scramble"
+    ]
+  }
+]

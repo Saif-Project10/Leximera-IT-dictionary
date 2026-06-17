@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Key",
+    "meaning": "A small piece of metal that opens a lock; something that provides access or understanding; very important.",
+    "shortMeaning": "lock opener; crucial thing; very important",
+    "example": "I can't find my house key. (object)",
+    "example2": "Hard work is the key to success. (crucial factor)",
+    "example3": "She is a key member of the team. (important)",
+    "Explanation": "Key is a highly versatile word. As a noun, its primary meaning is the physical object for a lock. Figuratively, it means the essential part that explains or provides access to something else. As an adjective, it means of crucial importance. In music, a key is a group of notes. In computing, it refers to a button on a keyboard. The metaphorical uses are extremely common in business, education, and everyday language ('key player', 'key point'). Its meaning is almost always positive, emphasizing centrality and importance.",
+    "synonyms": [
+      "crucial",
+      "essential",
+      "vital",
+      "answer",
+      "code"
+    ],
+    "antonyms": [
+      "unimportant",
+      "peripheral",
+      "minor"
+    ],
+    "nounForm": "key",
+    "verbForm": "key (as in 'key in data')",
+    "adjectiveForm": "key",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Security, explanations, importance, music, computing",
+    "usageTip": "As an adjective, it always comes before the noun it describes (key issue, key person).",
+    "commonMistake": "Misspelling it as 'kee' or confusing the adjective with 'cay' (a small island).",
+    "collocations": [
+      "key factor",
+      "key point",
+      "key role",
+      "key in",
+      "shift key"
+    ]
+  },
+  {
+    "word": "Key",
+    "meaning": "Crucial, essential, or a piece of data used for identification or encryption",
+    "shortMeaning": "important or unique identifier",
+    "example": "This feature is key to the success of our application.",
+    "example2": "The primary key uniquely identifies each row in the table.",
+    "example3": "You need an API key to access the service.",
+    "Explanation": "The word 'key' has two main meanings: it is an adjective meaning 'essential' or 'crucial', and a noun meaning a unique identifier, a tool for locking/unlocking, or a code for encryption. In IT, it is most frequently used to talk about database keys (primary/foreign) or cryptographic keys (public/private). It is a foundational term across almost all fields of computing. It is important to distinguish which context it is being used in.",
+    "synonyms": [
+      "crucial",
+      "essential",
+      "identifier"
+    ],
+    "antonyms": [
+      "unimportant",
+      "insignificant"
+    ],
+    "nounForm": "key",
+    "verbForm": "key",
+    "adjectiveForm": "key",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Databases, cryptography, general importance",
+    "usageTip": "Understand whether 'key' refers to importance or a data identifier.",
+    "commonMistake": "Confusing database keys with cryptographic keys.",
+    "collocations": [
+      "primary key",
+      "API key",
+      "key factor"
+    ]
+  },
+  {
+    "word": "Key",
+    "meaning": "To enter information into a computer using a keyboard",
+    "shortMeaning": "enter data by typing",
+    "example": "Please key in your username and password to log in.",
+    "example2": "The clerk had to key in over a hundred names today.",
+    "example3": "Be careful when you key in the data, as mistakes are hard to fix later.",
+    "Explanation": "The verb 'key' (often used as 'key in') means to type data into a system. It comes from the word 'keyboard'. While we often just say 'type', 'key in' is very common in professional and office environments. It implies a formal process of data entry. You might 'key in' numbers into a spreadsheet or 'key in' a code to unlock a door. It is a functional word used to describe the interaction between a human and a computer. It is very common in user manuals and tutorials.",
+    "synonyms": [
+      "type",
+      "enter",
+      "input"
+    ],
+    "antonyms": [
+      "erase",
+      "delete",
+      "remove"
+    ],
+    "nounForm": "key / keyboard",
+    "verbForm": "key",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Data entry and user instructions",
+    "usageTip": "Use 'key in' when giving instructions for typing specific data.",
+    "commonMistake": "Using 'key' to mean 'type' for writing long essays; it's mostly for short data.",
+    "collocations": [
+      "key in data",
+      "key in a code",
+      "manually key in"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Page",
+    "meaning": "1. One side of a sheet of paper in a book, magazine, etc. 2. A young person who works as an attendant. 3. To call for someone over a public address system.",
+    "shortMeaning": "sheet in a book; to call for someone",
+    "example": "Please turn to page 45.",
+    "example2": "He worked as a page in the hotel.",
+    "example3": "They are paging Dr. Smith in the hospital.",
+    "Explanation": "As a noun, 'page' most commonly refers to a single side of paper in a collection. It is a unit of written content. The other meanings (attendant, calling someone) are less common but still used. As a verb, 'to page' means to summon someone via a speaker system or pager. In computing, a 'web page' is a single document on the internet. It's a simple, everyday word for readers, writers, and web users.",
+    "synonyms": [
+      "leaf",
+      "sheet",
+      "summon",
+      "call"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "page",
+    "verbForm": "page",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Books, websites, hotels, hospitals",
+    "usageTip": "Use 'page' as a noun for part of a book or website, and as a verb for calling someone over a speaker.",
+    "commonMistake": "Confusing 'page' (paper) with 'stage' (platform).",
+    "collocations": [
+      "web page",
+      "front page",
+      "turn the page",
+      "page through"
+    ]
+  },
+  {
+    "word": "Page",
+    "meaning": "A single document or screen of information, or to divide data into pieces",
+    "shortMeaning": "screen of info",
+    "example": "The home page of the website is loading very slowly.",
+    "example2": "The operating system needs to page the memory to the disk.",
+    "example3": "Check the next page for more search results.",
+    "Explanation": "A 'page' can be a physical sheet of paper, but in IT, it usually refers to a web page or a 'memory page'. In web development, it is a single HTML document. In operating systems, 'paging' is a memory management scheme that stores and retrieves data from secondary storage for use in main memory. It allows the system to handle more data than the actual RAM capacity allows. It is a core concept in computing.",
+    "synonyms": [
+      "sheet",
+      "screen",
+      "document"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "page",
+    "verbForm": "page",
+    "adjectiveForm": "paged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing and OS memory management",
+    "usageTip": "Use 'page' to refer to a specific view in an app or a block of memory.",
+    "commonMistake": "Confusing a 'web page' with a 'website' (a website is a collection of pages).",
+    "collocations": [
+      "web page",
+      "home page",
+      "page memory"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Restricted",
+    "meaning": "Limited in extent, number, scope, or action.",
+    "shortMeaning": "limited; controlled",
+    "example": "Access to the file is restricted to managers only.",
+    "example2": "He is on a restricted diet due to his health.",
+    "example3": "The news was published in a restricted circulation journal.",
+    "Explanation": "'Restricted' is an adjective describing something that has rules or limits placed on it. It implies control and a lack of freedom or availability. It is often used in official, legal, or security contexts (restricted area, restricted access). The verb form is 'restrict'. The word carries a neutral to slightly negative connotation, as it focuses on what is not allowed rather than what is permitted. It is the opposite of 'unrestricted' or 'open'.",
+    "synonyms": [
+      "limited",
+      "controlled",
+      "confined",
+      "regulated"
+    ],
+    "antonyms": [
+      "unrestricted",
+      "unlimited",
+      "open",
+      "free"
+    ],
+    "nounForm": "restriction",
+    "verbForm": "restrict",
+    "adjectiveForm": "restricted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, access control, diets, information",
+    "usageTip": "Use 'restricted' to describe something that has specific rules or limits preventing general use or access.",
+    "commonMistake": "Confusing 'restricted' with 'constricted'. 'Restricted' means limited by rules; 'constricted' means made narrower or tighter, often physically.",
+    "collocations": [
+      "restricted access",
+      "highly restricted",
+      "restricted area",
+      "restricted view"
+    ]
+  },
+  {
+    "word": "Restricted",
+    "meaning": "Limited in extent, number, scope, or action",
+    "shortMeaning": "limited",
+    "example": "Access to the server room is restricted to admins.",
+    "example2": "She is on a restricted diet for health reasons.",
+    "example3": "The feature is available for a restricted time only.",
+    "Explanation": "Restricted is an adjective used when something has boundaries or limitations placed upon it. In IT, 'restricted access' means only certain people or programs can use or see something for security purposes. It is often used to enforce safety, compliance, or exclusivity. Understanding restricted permissions is a key part of system security and data privacy. It tells the user or the system that there are rules in place that must be followed to avoid unauthorized actions.",
+    "synonyms": [
+      "limited",
+      "controlled",
+      "exclusive"
+    ],
+    "antonyms": [
+      "unrestricted",
+      "open",
+      "free"
+    ],
+    "nounForm": "restriction",
+    "verbForm": "restrict",
+    "adjectiveForm": "restricted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, access control, limitations",
+    "usageTip": "Use 'restricted' to describe anything with limited access or scope.",
+    "commonMistake": "Using 'restricted' to mean 'private' when 'protected' might be more accurate.",
+    "collocations": [
+      "restricted access",
+      "restricted area",
+      "restricted use"
+    ]
+  }
+]

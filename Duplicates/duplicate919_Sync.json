@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Sync",
+    "meaning": "Synchronization; operating in unison or agreement.",
+    "shortMeaning": "synchronization",
+    "example": "Make sure your watch is in sync with the official time.",
+    "example2": "The dancers moved in perfect sync.",
+    "example3": "I need to sync my phone with my computer.",
+    "Explanation": "'Sync' is a short, informal form of 'synchronize' or 'synchronization'. It means to make things happen at the same time, rate, or to make data consistent across devices. It is widely used in technology (syncing files) and general language (in sync). It can be a noun or a verb. The full words are more formal. 'Out of sync' means not matching. It's a very common word in the digital age. It implies harmony and coordination.",
+    "synonyms": [
+      "synchronize",
+      "harmonize",
+      "coordinate"
+    ],
+    "antonyms": [
+      "desync",
+      "disconnect",
+      "be out of sync"
+    ],
+    "nounForm": "sync / synchronization",
+    "verbForm": "sync / synchronize",
+    "adjectiveForm": "synced / synchronized",
+    "partOfSpeech": "noun, verb (informal)",
+    "commonContext": "Technology, music, dance, teamwork",
+    "usageTip": "In formal writing, use 'synchronize'. 'Sync' is acceptable in informal and technical contexts.",
+    "commonMistake": "Spelling it as 'sink' which is a different word. 'Sync' is short for synchronize.",
+    "collocations": [
+      "in sync",
+      "out of sync",
+      "sync up",
+      "sync data"
+    ]
+  },
+  {
+    "word": "Sync",
+    "meaning": "A short, casual term for synchronization, meaning to make files or data identical across two or more devices",
+    "shortMeaning": "make data identical",
+    "example": "Click the sync button to update your cloud files with your mobile phone data.",
+    "example2": "The background process will sync your contacts automatically every hour.",
+    "example3": "I need to sync my local repository with the remote server changes.",
+    "Explanation": "The word 'sync' is an everyday short form of 'synchronize' widely used in the IT industry. It refers to the process of keeping data consistent across multiple storage platforms or hardware units. For example, when you take a picture on your smartphone, it might sync to your cloud library instantly. Sync functions must compare timestamps, file sizes, and structural changes to ensure that the newest version replaces the old version without deleting user data. It helps users access up-to-date data across multiple interfaces seamlessly.",
+    "synonyms": [
+      "synchronize",
+      "align",
+      "match",
+      "coordinate"
+    ],
+    "antonyms": [
+      "desync",
+      "mismatch"
+    ],
+    "nounForm": "sync / synchronization",
+    "verbForm": "sync",
+    "adjectiveForm": "synced",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Cloud storage settings, software settings, and data management",
+    "usageTip": "Use 'sync' as a casual verb or noun in user interfaces, and 'synchronize' in formal technical documentation.",
+    "commonMistake": "Spelling the past tense as 'synched'; the standard technical spelling is usually 'synced'.",
+    "collocations": [
+      "auto sync",
+      "cloud sync",
+      "sync button"
+    ]
+  }
+]

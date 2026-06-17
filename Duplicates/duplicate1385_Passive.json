@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Passive",
+    "meaning": "Accepting or allowing what happens without active response; or (grammar) a verb form where the subject is acted upon",
+    "shortMeaning": "not active, or grammatical voice",
+    "example": "He played a passive role in the group project.",
+    "example2": "The sentence 'The ball was thrown' is in the passive voice.",
+    "example3": "She had a passive attitude toward her career.",
+    "Explanation": "'Passive' has two key uses. First, as a general adjective describing someone who does not take initiative, is submissive, or is inactive. Second, in grammar, the 'passive voice' is a construction where the subject receives the action (The window was broken). This contrasts with the active voice (Someone broke the window). The word often has a negative connotation when describing people, suggesting lack of engagement. In grammar, it's a neutral technical term.",
+    "synonyms": [
+      "inactive",
+      "submissive",
+      "compliant"
+    ],
+    "antonyms": [
+      "active",
+      "assertive",
+      "proactive"
+    ],
+    "nounForm": "passivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing behavior, grammar, electronics (passive components)",
+    "usageTip": "In writing advice, you are often told to 'avoid passive voice' for clearer, more direct sentences.",
+    "commonMistake": "Thinking all uses of 'to be' are passive voice. Only sentences where the subject is acted upon are passive.",
+    "collocations": [
+      "passive smoking",
+      "passive income",
+      "passive resistance"
+    ]
+  },
+  {
+    "word": "Passive",
+    "meaning": "Not taking an active or direct role; accepting what happens without resistance.",
+    "shortMeaning": "not active",
+    "example": "The device uses passive cooling to stay quiet.",
+    "example2": "He took a passive approach to project management.",
+    "example3": "Passive network components do not require an external power source.",
+    "Explanation": "The term 'passive' refers to something that does not initiate action or require power to function. In hardware, passive cooling uses heat sinks rather than fans. In networking, passive components transmit signals without boosting them. In management or software development, a 'passive' person or strategy might wait for instructions rather than taking initiative. The term is the opposite of 'active'. It is a versatile word used across both hardware engineering and workplace dynamics.",
+    "synonyms": [
+      "inactive",
+      "passive-receptive",
+      "submissive"
+    ],
+    "antonyms": [
+      "active",
+      "dynamic",
+      "aggressive"
+    ],
+    "nounForm": "passivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, networking, project management",
+    "usageTip": "Use 'passive' to describe things that do not consume energy or take direct action.",
+    "commonMistake": "Thinking 'passive' always implies laziness; in engineering, it often implies efficiency.",
+    "collocations": [
+      "passive cooling",
+      "passive component",
+      "passive monitoring"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Even",
+    "meaning": "Flat, smooth, level, or equal; also used for emphasis",
+    "shortMeaning": "level or equal",
+    "example": "Make sure the mounting surface is perfectly even.",
+    "example2": "The distribution of power must be even across all nodes.",
+    "example3": "We even decided to refactor the entire legacy codebase.",
+    "Explanation": "Even has multiple meanings: it can describe a flat surface, an equal distribution, or be used to add emphasis to a surprising fact. In design, it refers to balance or symmetry. In data processing, it means equal portions. As an intensifier, it helps highlight extreme cases. It is one of the most versatile words in the English language.",
+    "synonyms": [
+      "level",
+      "balanced",
+      "equal"
+    ],
+    "antonyms": [
+      "uneven",
+      "unbalanced",
+      "jagged"
+    ],
+    "nounForm": "evenness",
+    "verbForm": "even",
+    "adjectiveForm": "even",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Layout, math, distribution, emphasis",
+    "usageTip": "Use 'even' to compare things that are perfectly balanced.",
+    "commonMistake": "Confusing 'even' (adjective) with 'eventually' (adverb).",
+    "collocations": [
+      "even surface",
+      "even distribution",
+      "even if"
+    ]
+  },
+  {
+    "word": "Even",
+    "meaning": "Flat, level, equal, or divisible by the number two",
+    "shortMeaning": "flat or divisible by 2",
+    "example": "Make sure the distribution of traffic is even across all servers.",
+    "example2": "Six is an even number because it can be divided by two.",
+    "example3": "The floor must be even before we install the server racks.",
+    "Explanation": "The word 'even' has several uses in IT and general English. In mathematics, it refers to integers divisible by two (2, 4, 6...). In systems engineering, it refers to balance, such as an 'even load' on a processor. It can also mean a smooth or level surface. Clarity in context is important so the listener knows if you mean 'mathematically even' or 'balanced'.",
+    "synonyms": [
+      "level",
+      "balanced",
+      "uniform"
+    ],
+    "antonyms": [
+      "odd",
+      "uneven",
+      "irregular"
+    ],
+    "nounForm": "evenness",
+    "verbForm": "even out",
+    "adjectiveForm": "even",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Load balancing, mathematics, and hardware installation",
+    "usageTip": "Use 'even' when describing a state where everything is equal or steady.",
+    "commonMistake": "Using 'even' when you actually mean 'equal'; 'even' implies a distribution or a math category.",
+    "collocations": [
+      "even number",
+      "even distribution",
+      "even load"
+    ]
+  }
+]

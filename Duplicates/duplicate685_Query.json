@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Query",
+    "meaning": "A question, especially one expressing doubt; to ask a question.",
+    "shortMeaning": "question; to question",
+    "example": "If you have any queries, please contact our help desk.",
+    "example2": "The accountant queried the unusual expense.",
+    "example3": "The database query returned 100 results.",
+    "Explanation": "As a noun, a query is a formal or technical question, often one that seeks clarification or challenges something. As a verb, it means to ask a question or express doubt about something's accuracy. In computing, a 'query' is a request for data from a database. The word implies a need for information or verification. It's more formal than 'question' and is common in professional, academic, and technical contexts. To query something suggests a critical or investigative mindset.",
+    "synonyms": [
+      "question",
+      "inquiry",
+      "doubt",
+      "ask",
+      "challenge"
+    ],
+    "antonyms": [
+      "answer",
+      "response",
+      "accept"
+    ],
+    "nounForm": "query",
+    "verbForm": "query",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Customer service, computing, research, journalism",
+    "usageTip": "In IT, 'query' is both a noun (run a query) and a verb (query the database).",
+    "commonMistake": "Spelling it as 'querey' or 'quary'; remember it's 'query'.",
+    "collocations": [
+      "search query",
+      "frequently asked queries",
+      "query language",
+      "raise a query"
+    ]
+  },
+  {
+    "word": "Query",
+    "meaning": "A precise request for information or data made to a database, search engine, or data structure, typically written using specialized languages",
+    "shortMeaning": "request for data",
+    "example": "The backend developer wrote an optimized query to fetch user information based on their ID.",
+    "example2": "A poorly designed database query can cause the entire website to load slowly.",
+    "example3": "You can filter product listings by executing a custom query against the inventory system.",
+    "Explanation": "The word 'query' is an essential concept throughout software engineering and data management. It describes the formal method an application uses to speak to a database system to pull out, modify, or insert information. Instead of browsing data manually, applications write programmatic queries that ask specific questions (e.g., 'Give me all users who signed up in Karachi last week'). Designing highly optimized queries is a fundamental skill for developers, because slow, unindexed queries consume massive server resources and degrade user experience. The term also applies to the words users type into internet search engines to fetch relevant websites.",
+    "synonyms": [
+      "search request",
+      "database lookup",
+      "inquiry"
+    ],
+    "antonyms": [
+      "response",
+      "result",
+      "answer"
+    ],
+    "nounForm": "query",
+    "verbForm": "query",
+    "adjectiveForm": "queried",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Database interactions, application performance, search engines",
+    "usageTip": "Use 'query' as a noun when referring to the code string that requests data, and as a verb when describing the act of searching a database.",
+    "commonMistake": "Pronouncing or spelling it incorrectly, or confusing the query itself with the actual dataset returned by the database.",
+    "collocations": [
+      "execute a query",
+      "database query",
+      "optimize a query"
+    ]
+  }
+]

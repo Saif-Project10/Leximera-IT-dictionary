@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Rule-based",
+    "meaning": "Operating according to a set of explicit rules or conditions.",
+    "shortMeaning": "governed by rules",
+    "example": "Early expert systems were rule-based artificial intelligence.",
+    "example2": "The approval process is entirely rule-based, with no human discretion.",
+    "example3": "A rule-based approach is good for clear, predictable tasks.",
+    "Explanation": "'Rule-based' is a compound adjective describing systems, processes, or decisions that are determined by a fixed set of predefined rules. It contrasts with systems that use learning, intuition, or randomness. It is common in computing (rule-based systems), business (rule-based workflows), and law (rule-based judgments). The term implies predictability, transparency, and sometimes rigidity. If a process is rule-based, you can understand its output by knowing the input and the rules. It's a descriptive term for logical, deterministic operations.",
+    "synonyms": [
+      "deterministic",
+      "algorithmic",
+      "by the book"
+    ],
+    "antonyms": [
+      "discretionary",
+      "adaptive",
+      "heuristic",
+      "learning-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "rule-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, software, business logic, decision-making",
+    "usageTip": "Often hyphenated, especially before a noun: 'a rule-based engine'.",
+    "commonMistake": "Thinking rule-based systems are always simple; they can have very complex rule sets.",
+    "collocations": [
+      "rule-based system",
+      "rule-based reasoning",
+      "rule-based approach"
+    ]
+  },
+  {
+    "word": "Rule-based",
+    "meaning": "Functioning based on a set of predefined logic or rules.",
+    "shortMeaning": "logic-driven",
+    "example": "The spam filter is a classic rule-based system.",
+    "example2": "We implemented a rule-based engine to validate transactions.",
+    "example3": "Rule-based automation is easier to debug than AI.",
+    "Explanation": "A 'rule-based' system operates by following a specific list of instructions (if-then statements). It does not learn from data like machine learning models; instead, it executes tasks exactly as programmed. This makes it highly predictable, transparent, and easy to maintain. It is the foundation for many expert systems, firewalls, and data validation tools. When you need absolute consistency, a rule-based approach is often preferred over more complex, probabilistic methods.",
+    "synonyms": [
+      "logic-based",
+      "deterministic",
+      "programmed"
+    ],
+    "antonyms": [
+      "adaptive",
+      "probabilistic",
+      "machine-learning"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "rule-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, system design, logic",
+    "usageTip": "Use 'rule-based' to describe systems that rely on explicit programming.",
+    "commonMistake": "Assuming rule-based systems can learn like AI.",
+    "collocations": [
+      "rule-based system",
+      "rule-based engine",
+      "rule-based approach"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Code-based",
+    "meaning": "Relying on or defined by computer code; using programming as the primary method.",
+    "shortMeaning": "relying on code",
+    "example": "The new feature is code-based, allowing for greater customization.",
+    "example2": "A code-based configuration is easier to version control than a GUI-based one.",
+    "example3": "Their approach is strictly code-based, avoiding any manual steps.",
+    "Explanation": "'Code-based' is a compound adjective describing systems, configurations, or processes that are implemented and controlled through written programming code. This approach, as opposed to manual or GUI-based methods, offers advantages like reproducibility, version control, automation, and scalability. It is a core principle in modern software engineering, DevOps (infrastructure as code), and data science (notebooks). It emphasizes precision, automation, and the treatment of system definitions as software.",
+    "synonyms": [
+      "programmatic",
+      "scripted",
+      "automated"
+    ],
+    "antonyms": [
+      "manual",
+      "gui-based",
+      "clickops"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, DevOps, configuration management",
+    "usageTip": "Hyphenate when used before a noun. It's a positive term in tech, implying a modern, efficient approach.",
+    "commonMistake": "Using it to mean simply 'written in code'; it implies the code is the primary and definitive source.",
+    "collocations": [
+      "code-based approach",
+      "code-based configuration",
+      "code-based testing"
+    ]
+  },
+  {
+    "word": "Code-based",
+    "meaning": "Dependent on, or structured around, software programming",
+    "shortMeaning": "programmed or coded",
+    "example": "This automation system is entirely code-based.",
+    "example2": "We are moving away from manual setup to a code-based infrastructure.",
+    "example3": "The team adopted a code-based approach to data analysis.",
+    "Explanation": "The compound adjective 'code-based' describes any system, tool, or process whose configuration and behavior are defined by scripts or source code. This approach enables reproducibility, version control, and automation. By treating settings as code, teams can track changes over time and deploy consistent environments repeatedly. It represents the modern standard in DevOps, cloud management, and automated engineering workflows.",
+    "synonyms": [
+      "scripted",
+      "programmed",
+      "software-defined"
+    ],
+    "antonyms": [
+      "manual",
+      "hand-configured",
+      "graphical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, system configuration, and software engineering",
+    "usageTip": "Use 'code-based' when highlighting that manual work has been replaced by scripts or programming.",
+    "commonMistake": "Writing 'code based' without the hyphen; it should be hyphenated as a compound modifier.",
+    "collocations": [
+      "code-based solution",
+      "code-based configuration",
+      "code-based automation"
+    ]
+  }
+]

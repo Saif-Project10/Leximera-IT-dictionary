@@ -1,0 +1,86 @@
+[
+  {
+    "word": "Stop and wait",
+    "meaning": "A simple way of sending data where the sender waits for a signal before sending more",
+    "shortMeaning": "send-wait-send method",
+    "example": "Stop and wait is the simplest form of error control in networks.",
+    "example2": "The efficiency is low because the sender is often idle in stop and wait.",
+    "example3": "We used stop and wait for the basic data transfer experiment.",
+    "Explanation": "Stop and Wait is a protocol used in data communications to ensure reliable delivery of information. The basic idea is that the sender transmits one packet of data and then stops. It must wait for an acknowledgment (ACK) from the receiver before it can send the next packet. If the ACK doesn't arrive within a certain time, the sender assumes the data was lost and sends it again. While it is very easy to implement, it is not very efficient for high-speed networks because the sender spends a lot of time doing nothing while waiting.",
+    "synonyms": [
+      "alternating bit protocol"
+    ],
+    "antonyms": [
+      "sliding window protocol",
+      "pipelining"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "stop and wait",
+    "adjectiveForm": "stop-and-wait",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking and Data Communication",
+    "usageTip": "Use stop and wait in systems where simplicity is more important than speed.",
+    "commonMistake": "Confusing it with more complex protocols that send many packets at once.",
+    "collocations": [
+      "stop and wait flow control",
+      "stop and wait ARQ"
+    ]
+  },
+  {
+    "word": "Stop and wait",
+    "meaning": "A flow control method where a sender waits for an acknowledgement",
+    "shortMeaning": "wait for ack",
+    "example": "The protocol uses a stop and wait approach to ensure delivery.",
+    "example2": "Stop and wait is simple but can be slow for long distances.",
+    "example3": "We analyzed the latency in the stop and wait sequence.",
+    "Explanation": "In networking, 'stop and wait' is a fundamental protocol where the transmitter sends one data packet and waits for a response (acknowledgement) from the receiver before sending the next. If no confirmation arrives within a certain time, it retransmits the packet. This ensures reliability but limits throughput. It is one of the most basic flow control mechanisms. It is primarily used in low-complexity or error-prone environments.",
+    "synonyms": [
+      "acknowledgement protocol",
+      "simple flow control"
+    ],
+    "antonyms": [
+      "sliding window",
+      "asynchronous transmission"
+    ],
+    "nounForm": "stop-and-wait",
+    "verbForm": "N/A",
+    "adjectiveForm": "stop-and-wait",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, protocols",
+    "usageTip": "Use to describe a basic, reliable communication protocol.",
+    "commonMistake": "Confusing 'stop and wait' with high-performance protocols.",
+    "collocations": [
+      "stop and wait protocol",
+      "stop and wait sequence"
+    ]
+  },
+  {
+    "word": "Stop and wait",
+    "meaning": "A fundamental network data transmission protocol where the sender transmits one single packet and waits for an acknowledgment before sending the next",
+    "shortMeaning": "send-and-wait protocol",
+    "example": "The stop and wait protocol ensures data accuracy but can be slow over long distances.",
+    "example2": "If an acknowledgment is lost, the stop and wait system will timeout and resend the packet.",
+    "example3": "We studied the stop and wait flow control mechanism in our network engineering class.",
+    "Explanation": "The phrase 'stop and wait' describes the simplest form of flow control used in computer data networks. In this network architecture model, the sending machine sends one frame or packet of digital information across a link. It then stops completely and does nothing until it receives an acknowledgment (ACK) packet back from the destination. This mechanism prevents a fast sender from overwhelming a slow receiver. However, it results in low efficiency on high-speed lines due to idle latency times.",
+    "synonyms": [
+      "ping-pong protocol",
+      "single-packet flow control"
+    ],
+    "antonyms": [
+      "sliding window protocol",
+      "pipelining"
+    ],
+    "nounForm": "stop-and-wait protocol",
+    "verbForm": "stop and wait",
+    "adjectiveForm": "stop-and-wait",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Data communications, networking layer protocols, flow control",
+    "usageTip": "Use 'stop and wait' when describing basic error control and flow management in communication systems.",
+    "commonMistake": "Hyphenating the term when using it as a verb phrase instead of as an adjective modifier.",
+    "collocations": [
+      "stop and wait protocol",
+      "stop and wait flow control",
+      "stop and wait mechanism"
+    ]
+  }
+]

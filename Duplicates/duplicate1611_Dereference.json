@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Dereference",
+    "meaning": "The act of accessing the data stored at a specific memory address pointed to by a pointer.",
+    "shortMeaning": "accessing pointer data",
+    "example": "You must dereference the pointer to see the actual value of the integer.",
+    "example2": "In C++, you use the '*' operator to dereference a pointer.",
+    "example3": "Trying to dereference a 'null' pointer will cause the program to crash.",
+    "Explanation": "To understand 'dereference', first think of a 'pointer' as an envelope with an address written on it. The envelope isn't the house; it just tells you where the house is. 'Dereferencing' is like actually going to that address and walking inside the house. In programming languages like C or C++, pointers hold memory addresses. When you want to work with the data at that address, you 'dereference' it. It is a powerful but dangerous tool, as going to a 'wrong' address can break the whole computer program.",
+    "synonyms": [
+      "pointer access",
+      "indirect access",
+      "indirection"
+    ],
+    "antonyms": [
+      "reference"
+    ],
+    "nounForm": "dereference / dereferencing",
+    "verbForm": "dereference",
+    "adjectiveForm": "dereferenced",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Low-level programming (C, C++, Rust)",
+    "usageTip": "Always check if a pointer is 'null' (empty) before you try to dereference it.",
+    "commonMistake": "Confusing the pointer itself (the address) with the dereferenced value (the data at the address).",
+    "collocations": [
+      "dereference a pointer",
+      "null pointer dereference",
+      "safe dereferencing"
+    ]
+  },
+  {
+    "word": "Dereference",
+    "meaning": "In programming, to access the value or data that a pointer or reference points to",
+    "shortMeaning": "access pointer value",
+    "example": "You must dereference the pointer to get the actual integer value.",
+    "example2": "A null pointer exception occurs if you try to dereference a null reference.",
+    "example3": "In C++, you use the asterisk symbol to dereference a pointer.",
+    "Explanation": "Dereferencing is a fundamental concept in languages like C, C++, and Rust. A 'pointer' is like an address to a house; 'dereferencing' is like actually going inside the house to see what is there. When you dereference a pointer, you are telling the computer, 'Go to this memory address and give me the data stored there.' If the pointer is not pointing to a valid address (like a null pointer), the program will crash. Understanding this is vital for low-level memory management and debugging. Most modern high-level languages handle this for you automatically.",
+    "synonyms": [
+      "access value",
+      "follow pointer"
+    ],
+    "antonyms": [
+      "reference",
+      "address-of"
+    ],
+    "nounForm": "dereferencing",
+    "verbForm": "dereference",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, Memory management, C/C++",
+    "usageTip": "Use this term specifically when talking about pointers or memory addresses in code.",
+    "commonMistake": "Trying to dereference a null pointer, which leads to crashes.",
+    "collocations": [
+      "dereference a pointer",
+      "safe to dereference"
+    ]
+  }
+]

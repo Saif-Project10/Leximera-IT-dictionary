@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Burden",
+    "meaning": "1. A heavy load, literally or metaphorically. 2. Something that is worrisome or difficult to bear.",
+    "shortMeaning": "heavy load or responsibility",
+    "example": "Carrying the heavy box was a physical burden.",
+    "example2": "The debt was a huge financial burden on the family.",
+    "example3": "I don't want to be a burden to you.",
+    "Explanation": "'Burden' is a noun (and verb) with a strong negative connotation. It refers to something that is carried, whether a physical weight or an emotional, financial, or responsibility weight. It implies difficulty, oppression, or hardship. The verb 'to burden' means to load or trouble someone. Phrases like 'burden of proof' (legal) are common. This word is used in personal, social, and economic contexts to describe pressures that weigh people down. Reducing burdens is often a goal for well-being.",
+    "synonyms": [
+      "load, weight (literal); responsibility, onus, hassle (metaphorical)"
+    ],
+    "antonyms": [
+      "relief, aid, help, privilege"
+    ],
+    "nounForm": "burden",
+    "verbForm": "burden",
+    "adjectiveForm": "burdensome",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Personal struggles, finance, work, law, emotional talk",
+    "usageTip": "Use 'burden' for something heavy, difficult, or oppressive that someone has to carry or deal with.",
+    "commonMistake": "Pronouncing it as 'bur-denn'. It's 'BUR-dn'.",
+    "collocations": [
+      "financial burden",
+      "burden of proof",
+      "heavy burden"
+    ]
+  },
+  {
+    "word": "Burden",
+    "meaning": "A heavy load or a responsibility that is difficult to handle",
+    "shortMeaning": "heavy responsibility",
+    "example": "The high cost of server maintenance is a burden for the small startup.",
+    "example2": "He didn't want to be a burden to his teammates.",
+    "example3": "The heavy traffic on the network is a burden on the old hardware.",
+    "Explanation": "A burden can be physical, like a heavy box, or emotional, like a difficult duty. In a technical context, we often talk about 'computational burden' or 'administrative burden.' This refers to the amount of resources (CPU, memory, or time) required to perform a task. If a system has a high burden, it might run slowly or fail. Reducing the burden usually involves optimizing code or delegating tasks. The word carries a negative tone, suggesting that the effort is excessive or stressful.",
+    "synonyms": [
+      "load",
+      "strain",
+      "onus",
+      "weight"
+    ],
+    "antonyms": [
+      "relief",
+      "benefit",
+      "help"
+    ],
+    "nounForm": "burden",
+    "verbForm": "burden",
+    "adjectiveForm": "burdensome",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Finance, management, and system performance",
+    "usageTip": "Use 'burdensome' to describe a process that is too complicated or takes too much effort.",
+    "commonMistake": "Confusing 'burden' with 'duty'; a duty can be positive, but a burden is always heavy/hard.",
+    "collocations": [
+      "financial burden",
+      "heavy burden",
+      "tax burden"
+    ]
+  }
+]

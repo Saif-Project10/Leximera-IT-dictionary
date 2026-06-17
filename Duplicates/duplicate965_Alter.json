@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Alter",
+    "meaning": "To change or make different; to modify",
+    "shortMeaning": "change",
+    "example": "She had to alter her dress to make it fit.",
+    "example2": "The plans were altered at the last minute.",
+    "example3": "Nothing can alter the fact that we succeeded.",
+    "Explanation": "'Alter' is a verb meaning to make a change, usually a relatively small or specific one. It is often used for physical changes to objects (like clothes) or adjustments to plans, documents, or behavior. It is less dramatic than 'transform'. This word is common in both formal and informal contexts. The noun form is 'alteration'. It implies that the essential nature of the thing remains, but some details are different. It is a key word for tailors and editors.",
+    "synonyms": [
+      "change",
+      "modify",
+      "adjust",
+      "adapt"
+    ],
+    "antonyms": [
+      "keep",
+      "preserve",
+      "maintain",
+      "retain"
+    ],
+    "nounForm": "alteration",
+    "verbForm": "alter",
+    "adjectiveForm": "alterable",
+    "partOfSpeech": "verb",
+    "commonContext": "Clothing and tailoring, plans, documents, behavior",
+    "usageTip": "Use 'alter' for making partial changes or adjustments, not complete transformations.",
+    "commonMistake": "Confusing 'alter' with 'altar' (a religious table). They are homophones.",
+    "collocations": [
+      "alter dramatically",
+      "alter a plan",
+      "slightly alter"
+    ]
+  },
+  {
+    "word": "Alter",
+    "meaning": "To make a small change to something",
+    "shortMeaning": "change or modify",
+    "example": "You might need to alter the CSS to make the button look better on mobile.",
+    "example2": "The user decided to alter their profile settings.",
+    "example3": "We had to alter the database schema to include a new field.",
+    "Explanation": "Alter is a more formal way of saying 'change'. It usually implies a modification that doesn't completely replace the original item but makes it different in some way. In SQL, the `ALTER TABLE` command is used to add, delete, or modify columns in an existing table. It is a precise word for professional and technical edits.",
+    "synonyms": [
+      "modify",
+      "change",
+      "adjust"
+    ],
+    "antonyms": [
+      "preserve",
+      "maintain",
+      "N/A"
+    ],
+    "nounForm": "alteration",
+    "verbForm": "alter",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Databases, coding, and design",
+    "usageTip": "Use 'alter' when you are talking about structural or formal changes.",
+    "commonMistake": "Confusing 'alter' with 'altar' (a table used in religious ceremonies).",
+    "collocations": [
+      "alter table",
+      "alter the plan",
+      "N/A"
+    ]
+  }
+]

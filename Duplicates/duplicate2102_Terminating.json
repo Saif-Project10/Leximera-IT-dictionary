@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Terminating",
+    "meaning": "Ending something or bringing it to a close.",
+    "shortMeaning": "bringing to an end",
+    "example": "The script includes a terminating condition for the loop.",
+    "example2": "The user is terminating the session now.",
+    "example3": "We need a terminating character for the string.",
+    "Explanation": "The word 'terminating' is used for actions or elements that cause an end. A 'terminating condition' is the rule that tells a loop when to stop running. A 'terminating character' (like a null terminator in C) tells the computer where a block of text ends. It is an essential concept in logic and data handling—without a clear terminating point, you often end up with infinite loops or memory errors.",
+    "synonyms": [
+      "ending",
+      "stopping",
+      "finishing"
+    ],
+    "antonyms": [
+      "beginning",
+      "starting"
+    ],
+    "nounForm": "termination",
+    "verbForm": "terminate",
+    "adjectiveForm": "terminating",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Logic and data structures",
+    "usageTip": "Use 'terminating' for markers or conditions that end something.",
+    "commonMistake": "Forgetting the terminating character in string management.",
+    "collocations": [
+      "terminating condition",
+      "terminating character"
+    ]
+  },
+  {
+    "word": "Terminating",
+    "meaning": "The act of ending or bringing to a close",
+    "shortMeaning": "ending",
+    "example": "Terminating the database connection is necessary before closing.",
+    "example2": "He is currently terminating the redundant services.",
+    "example3": "The script handles the terminating sequence automatically.",
+    "Explanation": "Terminating describes the ongoing action of ending a process or connection. It is the present participle form of the verb terminate. In programming, it often appears in context of cleanup routines or teardown phases. Proper terminating procedures ensure that memory is freed and ports are closed correctly. Failure to handle the terminating phase can lead to memory leaks.",
+    "synonyms": [
+      "ending",
+      "stopping",
+      "finishing"
+    ],
+    "antonyms": [
+      "initiating",
+      "starting",
+      "beginning"
+    ],
+    "nounForm": "termination",
+    "verbForm": "terminate",
+    "adjectiveForm": "terminating",
+    "partOfSpeech": "verb (participle)",
+    "commonContext": "Programming logic, system maintenance",
+    "usageTip": "Use in contexts where an action is in the middle of being stopped.",
+    "commonMistake": "Forgetting to close resources when terminating a process.",
+    "collocations": [
+      "terminating connection",
+      "terminating process",
+      "terminating execution"
+    ]
+  }
+]

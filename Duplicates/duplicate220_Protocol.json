@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Protocol",
+    "meaning": "An official set of rules or procedures governing a situation or system | The official procedure or system of rules; or a set of rules for exchanging data between computers",
+    "shortMeaning": "official procedure",
+    "example": "Diplomatic protocol dictates how ambassadors should behave.",
+    "example2": "The lab follows a strict safety protocol.",
+    "example3": "HTTP is a communication protocol for the internet.",
+    "Explanation": "A protocol is a formal set of guidelines or rules. It ensures order, safety, and consistency in complex situations. Protocols are vital in diplomacy, science, medicine, and computing (like network protocols). They tell people exactly what to do and how to do it. Following protocol is often mandatory, not optional. The word implies formality and precision. It's different from a simple 'method' because it's usually officially established and documented.",
+    "synonyms": [
+      "Convention",
+      "Etiquette",
+      "Guideline",
+      "Procedure",
+      "Standard (Tech)"
+    ],
+    "antonyms": [
+      "Chaos",
+      "Disorder",
+      "Improvisation"
+    ],
+    "nounForm": "protocol",
+    "verbForm": "N/A",
+    "adjectiveForm": "protocol",
+    "partOfSpeech": "noun",
+    "commonContext": "Diplomacy, IT/networking, science labs, official ceremonies",
+    "usageTip": "Use 'protocol' for formal, often written, rules, especially in technical or official contexts.",
+    "commonMistake": "Using 'protocol' interchangeably with 'policy'; a protocol is more about specific steps, a policy is about principles.",
+    "collocations": [
+      "safety protocol",
+      "network protocol",
+      "breach of protocol"
+    ]
+  },
+  {
+    "word": "Protocol",
+    "meaning": "A formal set of rules for communication between systems",
+    "shortMeaning": "set of rules",
+    "example": "HTTP is the standard protocol for web communication.",
+    "example2": "The systems failed to communicate due to a protocol mismatch.",
+    "example3": "We need to define a new protocol for our API interactions.",
+    "Explanation": "A 'protocol' is a strictly defined set of rules that governs how two or more entities (computers, servers, applications) communicate with each other. It defines how data is formatted, how requests are made, and how errors are handled. Without protocols, the internet could not exist, as there would be no common language for devices to talk. Protocols are at the heart of networking, web development, and secure data exchange. They ensure that different systems can work together seamlessly.",
+    "synonyms": [
+      "standard",
+      "convention",
+      "rules"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "protocol",
+    "verbForm": "N/A",
+    "adjectiveForm": "protocollary",
+    "partOfSpeech": "noun",
+    "commonContext": "Networking, communications, API development",
+    "usageTip": "Always verify which version of a protocol is being used when troubleshooting connection issues.",
+    "commonMistake": "Confusing a protocol with a specific piece of software.",
+    "collocations": [
+      "network protocol",
+      "communication protocol",
+      "follow the protocol"
+    ]
+  }
+]

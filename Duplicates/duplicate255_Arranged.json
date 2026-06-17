@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Arranged",
+    "meaning": "Put into a proper order or into a correct or suitable sequence, position, or adjustment",
+    "shortMeaning": "put in order",
+    "example": "The books were arranged alphabetically by author.",
+    "example2": "We have arranged a meeting for next Tuesday.",
+    "example3": "She arranged the flowers beautifully in a vase.",
+    "Explanation": "The verb (past tense) and adjective 'arranged' means to have placed things in a specific, often neat or logical, order. It can also mean to have planned or organized an event or agreement. It is a very common word for describing order, planning, and preparation. The noun form is 'arrangement'. It is more about physical or chronological order than the broader planning implied by 'organized'.",
+    "synonyms": [
+      "ordered",
+      "organized",
+      "positioned",
+      "planned"
+    ],
+    "antonyms": [
+      "disarranged",
+      "disturbed",
+      "messed up"
+    ],
+    "nounForm": "arrangement",
+    "verbForm": "arrange",
+    "adjectiveForm": "arranged",
+    "partOfSpeech": "adjective / verb (past)",
+    "commonContext": "Furniture, meetings, music, sequences",
+    "usageTip": "Often used for events ('arranged a party') and physical order ('arranged in rows').",
+    "commonMistake": "Confusing 'arranged marriage' (planned by families) with 'organized marriage' (incorrect).",
+    "collocations": [
+      "arranged marriage",
+      "neatly arranged",
+      "arranged in order",
+      "pre-arranged"
+    ]
+  },
+  {
+    "word": "Arranged",
+    "meaning": "Organized, ordered, or placed in a specific, deliberate pattern or sequence",
+    "shortMeaning": "organized or ordered",
+    "example": "The database columns were neatly arranged in alphabetical order.",
+    "example2": "We arranged a meeting with the client to discuss the project milestone requirements.",
+    "example3": "The grid elements are arranged responsively to fit various screen sizes.",
+    "Explanation": "The word 'arranged' refers to setting things up in a structured order or making preparations for an event. In frontend web design, elements are arranged on a screen using layout systems like CSS Flexbox or CSS Grid. In data management, arrays and lists hold items arranged according to specific keys or indices. It is a common past-participle adjective used to describe the state of layout, data structures, or scheduled events.",
+    "synonyms": [
+      "organized",
+      "ordered",
+      "structured",
+      "aligned"
+    ],
+    "antonyms": [
+      "disordered",
+      "disorganized",
+      "scattered",
+      "random"
+    ],
+    "nounForm": "arrangement",
+    "verbForm": "arrange",
+    "adjectiveForm": "arranged",
+    "partOfSpeech": "adjective / past participle",
+    "commonContext": "UI element layouts, data structuring, project schedule planning",
+    "usageTip": "Use 'arranged' to describe things that have been systematically sorted or positioned according to a plan or system rule.",
+    "commonMistake": "Using 'arranged' when you mean 'sorted' in data contexts; sorted implies numerical/alphabetical order, while arranged is general.",
+    "collocations": [
+      "arranged neatly",
+      "alphabetically arranged",
+      "arranged elements"
+    ]
+  }
+]

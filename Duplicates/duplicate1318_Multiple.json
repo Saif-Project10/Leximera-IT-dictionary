@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Multiple",
+    "meaning": "Having or involving several parts, elements, or members; more than one.",
+    "shortMeaning": "many, several",
+    "example": "The problem has multiple causes.",
+    "example2": "She won multiple awards for her research.",
+    "example3": "The store has multiple locations across the city.",
+    "Explanation": "'Multiple' is an adjective meaning 'more than one' or 'many'. It emphasizes plurality and variety. In math, a 'multiple' of a number is what you get when you multiply that number by an integer (e.g., 10 is a multiple of 5). As an adjective, it is very common in both spoken and written English to indicate numerous instances or factors. It is more formal than 'many' but less formal than 'manifold'. The word is versatile and used in diverse fields from medicine to business.",
+    "synonyms": [
+      "many",
+      "numerous",
+      "several",
+      "various"
+    ],
+    "antonyms": [
+      "single",
+      "one",
+      "sole"
+    ],
+    "nounForm": "multiple (math)",
+    "verbForm": "multiply",
+    "adjectiveForm": "multiple",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Math, business, choices, causes, opportunities",
+    "usageTip": "Use it to emphasize that there are many separate items or reasons.",
+    "commonMistake": "Using 'multiple' for an uncountable quantity; it is for countable things.",
+    "collocations": [
+      "multiple choice",
+      "multiple times",
+      "multiple sclerosis",
+      "in multiple ways"
+    ]
+  },
+  {
+    "word": "Multiple",
+    "meaning": "Consisting of or involving many parts, people, or things",
+    "shortMeaning": "many",
+    "example": "The application supports multiple users simultaneously.",
+    "example2": "We have multiple servers to distribute the load.",
+    "example3": "The error was caused by multiple factors in the code.",
+    "Explanation": "The word 'multiple' is a general term meaning more than one. In IT, it is used to describe systems that handle concurrency, like 'multiple threads', 'multiple connections', or 'multiple processes'. It is a neutral term that simply indicates a count greater than one. It is fundamental in programming, where you frequently manage arrays, loops, and conditions that involve 'multiple' inputs or outputs. It is a precise way to avoid ambiguity about quantity without specifying the exact number.",
+    "synonyms": [
+      "many",
+      "various",
+      "numerous"
+    ],
+    "antonyms": [
+      "single",
+      "individual",
+      "unique"
+    ],
+    "nounForm": "multiple",
+    "verbForm": "N/A",
+    "adjectiveForm": "multiple",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and systems",
+    "usageTip": "Use 'multiple' when referring to more than one of something.",
+    "commonMistake": "Confusing 'multiple' with 'many' in formal technical documentation.",
+    "collocations": [
+      "multiple users",
+      "multiple instances",
+      "multiple servers"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Prototype",
+    "meaning": "A first or preliminary model of something from which later versions are developed",
+    "shortMeaning": "early model",
+    "example": "The engineers built a working prototype of the new engine.",
+    "example2": "We need to create a prototype to test the user interface.",
+    "example3": "The prototype was crude but proved the concept worked.",
+    "Explanation": "A 'prototype' is an early sample, model, or release of a product built to test a concept or process. It is a tangible, often rough, version used to learn, gather feedback, and identify problems before investing in full production. Prototyping is a key step in design thinking and engineering. The verb form is 'prototype' (to build a prototype). It allows for failure and learning at a low cost. It is not the final product.",
+    "synonyms": [
+      "model",
+      "mock-up",
+      "sample",
+      "draft",
+      "pilot"
+    ],
+    "antonyms": [
+      "final product",
+      "finished version",
+      "mass production"
+    ],
+    "nounForm": "prototype",
+    "verbForm": "prototype",
+    "adjectiveForm": "prototypical",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Product design, engineering, software development, manufacturing",
+    "usageTip": "Use for the first physical or functional model of an invention or product.",
+    "commonMistake": "Thinking a prototype must be perfect; its purpose is to be tested and improved.",
+    "collocations": [
+      "build a prototype",
+      "working prototype",
+      "prototype stage",
+      "test a prototype"
+    ]
+  },
+  {
+    "word": "Prototype",
+    "meaning": "An early, simple version of a product used to test an idea",
+    "shortMeaning": "early model",
+    "example": "We built a prototype of the app using Figma before we started writing code.",
+    "example2": "The engineers showed us a 3D-printed prototype of the new car engine.",
+    "example3": "The prototype had many bugs, but it proved that the core idea was working.",
+    "Explanation": "A prototype is a preliminary version of a final product. In software, it might just be a set of clickable images that show how the UI will look. In hardware, it might be a rough model made of cheap materials. The goal is not to make a perfect version, but to learn if the design works and to get feedback from users early. Prototyping saves time and money by finding mistakes before the expensive manufacturing or development phase begins. It is a key step in 'Design Thinking' and 'Agile' development methodologies. It allows for quick experimentation and failure.",
+    "synonyms": [
+      "mockup",
+      "pilot",
+      "sample"
+    ],
+    "antonyms": [
+      "final product",
+      "production version",
+      "finished work"
+    ],
+    "nounForm": "prototype",
+    "verbForm": "prototype",
+    "adjectiveForm": "prototypical",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "UI/UX design, engineering, and startups",
+    "usageTip": "Don't spend too much time making a prototype look perfect; focus on the functionality you want to test.",
+    "commonMistake": "Confusing a 'prototype' (which tests design) with a 'MVP' (which is a working product released to the public).",
+    "collocations": [
+      "build a prototype",
+      "working prototype",
+      "rapid prototype"
+    ]
+  }
+]

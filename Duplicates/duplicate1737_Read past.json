@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Read past",
+    "meaning": "A database operation where the system skips over records that are currently locked by other transactions",
+    "shortMeaning": "skipping locked records",
+    "example": "The query used a read past hint to avoid waiting for blocked rows.",
+    "example2": "Read past is useful for processing queues where you only want available items.",
+    "example3": "Implementing read past can significantly reduce transaction wait times.",
+    "Explanation": "The term 'read past' is primarily used in database management systems like SQL Server. It tells the database engine to skip rows that are locked by other sessions instead of waiting for them to be released. This is particularly effective in high-concurrency environments where waiting for locks would slow down the entire system. However, it means the result set might be incomplete because locked rows are excluded. It is a performance-tuning technique rather than a standard data retrieval method.",
+    "synonyms": [
+      "skip locked",
+      "non-blocking read"
+    ],
+    "antonyms": [
+      "wait for lock",
+      "blocking read"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "read past",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Database optimization and concurrency control",
+    "usageTip": "Use read past when you need immediate results and don't mind missing rows currently being updated.",
+    "commonMistake": "Thinking read past returns all rows; it actually ignores rows held by other users.",
+    "collocations": [
+      "read past hint",
+      "read past lock",
+      "database read past"
+    ]
+  },
+  {
+    "word": "Read past",
+    "meaning": "To look at or process data beyond a specific boundary, limit, or end-of-file marker",
+    "shortMeaning": "process beyond limits",
+    "example": "If a function attempts to read past the buffer size, a serious crash occurs.",
+    "example2": "The program was coded poorly and would often read past the end of the file.",
+    "example3": "The system should check data lengths carefully to avoid trying to read past memory limits.",
+    "Explanation": "The phrase 'Read past' is a technical programming term that describes an error or an operation going beyond set limits. It happens when software attempts to access data outside its allocated boundary, such as reading past the end of an array or file buffer. This is a common source of bugs, software crashes, and critical security vulnerabilities like buffer overruns. Developers use safety checks, length boundaries, and exceptions to prevent code from reading past valid memory blocks. Writing secure code requires strict control over how far read operations can go.",
+    "synonyms": [
+      "overrun",
+      "exceed boundaries",
+      "read beyond"
+    ],
+    "antonyms": [
+      "stop short",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "read past",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrase (verb + preposition)",
+    "commonContext": "Memory management, low-level programming, security auditing",
+    "usageTip": "Use 'read past' when explaining bugs where code tries to access data outside its defined boundaries.",
+    "commonMistake": "Using 'read past' as a regular reading phrase; in IT, it almost always implies a structural boundary error.",
+    "collocations": [
+      "read past the buffer",
+      "read past end of file",
+      "attempt to read past"
+    ]
+  }
+]

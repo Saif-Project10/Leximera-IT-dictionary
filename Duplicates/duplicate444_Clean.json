@@ -1,0 +1,101 @@
+[
+  {
+    "word": "Clean",
+    "meaning": "Free from dirt, marks, or stains; morally pure; or done neatly and completely.",
+    "shortMeaning": "free from dirt; complete",
+    "example": "Please wash your hands to keep them clean.",
+    "example2": "He made a clean break with his past.",
+    "example3": "The athlete has a clean record, with no doping violations.",
+    "Explanation": "Clean is a versatile adjective, verb, and adverb. Its core meaning is the absence of dirt, impurity, or contamination. It extends to moral purity (clean record), thoroughness (clean sweep), and precision (clean cut). As a verb, it means to make clean. It is one of the most basic and important words for hygiene, order, and ethics. A common mistake is confusing it with 'clear.' 'Clean' is about purity and absence of dirt; 'clear' is about transparency and unobstructedness. This word is foundational in health, housekeeping, sports, and character description.",
+    "synonyms": [
+      "spotless",
+      "immaculate",
+      "pure",
+      "hygienic",
+      "unblemished"
+    ],
+    "antonyms": [
+      "dirty",
+      "filthy",
+      "soiled",
+      "contaminated",
+      "impure"
+    ],
+    "nounForm": "cleanliness",
+    "verbForm": "clean",
+    "adjectiveForm": "clean",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Hygiene, housekeeping, character, sports, and thorough actions.",
+    "usageTip": "Use 'clean' for physical hygiene and moral purity. Use 'clear' for understanding, weather, or obstacles.",
+    "commonMistake": "Saying 'clean the blackboard' instead of 'erase the blackboard' or 'clean the whiteboard.'",
+    "collocations": [
+      "clean energy",
+      "clean shaven",
+      "come clean"
+    ]
+  },
+  {
+    "word": "Clean",
+    "meaning": "Free from dirt, marks, or unwanted matter, or code that is well-structured, readable, and easy to maintain",
+    "shortMeaning": "free from dirt or well-structured",
+    "example": "Please make sure your workstation is clean before leaving the office.",
+    "example2": "Writing clean code makes it much easier for other developers to debug.",
+    "example3": "The application has a clean user interface without unnecessary distractions.",
+    "Explanation": "The word 'clean' is a highly versatile term used as an adjective, verb, or adverb. In software development, 'clean code' is a foundational standard referring to source code that is elegant, readable, well-commented, and free of unnecessary complexity. In UI/UX design, a 'clean interface' utilizes whitespace effectively and avoids clutter. In daily physical life, it means hygienic and orderly. Striving for cleanliness in code and design reduces long-term maintenance costs and improves usability.",
+    "synonyms": [
+      "spotless",
+      "uncluttered",
+      "readable",
+      "elegant"
+    ],
+    "antonyms": [
+      "dirty",
+      "cluttered",
+      "messy",
+      "convoluted"
+    ],
+    "nounForm": "cleanliness",
+    "verbForm": "clean",
+    "adjectiveForm": "clean",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software engineering principles, UI/UX layouts, and office hygiene",
+    "usageTip": "Use 'clean' to describe code that follows best practices and is easy for others to read and maintain.",
+    "commonMistake": "Thinking 'clean code' means short code; sometimes clear, explicit code is longer but cleaner than short, tricky code.",
+    "collocations": [
+      "clean code",
+      "clean interface",
+      "clean architecture"
+    ]
+  },
+  {
+    "word": "Clean",
+    "meaning": "Free from errors, junk, or unnecessary components",
+    "shortMeaning": "neat and error-free",
+    "example": "Writing clean code makes it easier for other developers to read.",
+    "example2": "The virus scan showed that the computer is clean.",
+    "example3": "Make sure the data is clean before you run the analysis.",
+    "Explanation": "In the tech world, 'clean' is a high standard. 'Clean code' refers to code that is easy to understand, follows rules, and is not messy. A 'clean install' means wiping a computer and starting fresh without old files. 'Clean data' means information that doesn't have mistakes or duplicates. It represents quality and professionalism. Developers take pride in writing clean code because it reduces bugs and makes future work much faster.",
+    "synonyms": [
+      "pure",
+      "neat",
+      "tidy"
+    ],
+    "antonyms": [
+      "dirty",
+      "messy",
+      "corrupt"
+    ],
+    "nounForm": "cleanliness",
+    "verbForm": "clean",
+    "adjectiveForm": "clean",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming (code quality) and security",
+    "usageTip": "Strive for 'clean code' by using meaningful names and short functions.",
+    "commonMistake": "Thinking 'clean' only means 'no viruses'; it often refers to how the code is written.",
+    "collocations": [
+      "clean code",
+      "clean install",
+      "clean database"
+    ]
+  }
+]

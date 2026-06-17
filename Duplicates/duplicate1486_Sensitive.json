@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Sensitive",
+    "meaning": "Quick to detect or respond to slight changes; easily hurt or offended; requiring careful handling.",
+    "shortMeaning": "delicate, easily affected",
+    "example": "The device has a sensitive microphone that picks up quiet sounds.",
+    "example2": "He is very sensitive about his height.",
+    "example3": "This is a sensitive diplomatic issue.",
+    "Explanation": "'Sensitive' is an adjective with a range of meanings. It can describe physical responsiveness (sensitive skin), emotional vulnerability (a sensitive person), or the delicate nature of information or situations (sensitive data, sensitive topic). The word often requires careful usage because calling someone 'sensitive' can be either empathetic or critical. The noun is 'sensitivity'. It's a common word in psychology, technology, politics, and everyday relationships, highlighting areas that need tact, precision, or protection.",
+    "synonyms": [
+      "delicate",
+      "responsive",
+      "touchy",
+      "vulnerable"
+    ],
+    "antonyms": [
+      "insensitive",
+      "tough",
+      "obtuse",
+      "robust"
+    ],
+    "nounForm": "sensitivity",
+    "verbForm": "sensitivize",
+    "adjectiveForm": "sensitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotions, equipment, information, skin",
+    "usageTip": "Handle with care' is a common warning for things that are physically or figuratively sensitive.",
+    "commonMistake": "Using 'sensitive' to mean 'sensible' (reasonable). They are different words.",
+    "collocations": [
+      "highly sensitive",
+      "sensitive information",
+      "sensitive to light",
+      "sensitive issue"
+    ]
+  },
+  {
+    "word": "Sensitive",
+    "meaning": "Quick to detect or affected by small changes, or needing privacy",
+    "shortMeaning": "delicate or private",
+    "example": "The sensor is very sensitive to temperature changes.",
+    "example2": "Be careful with sensitive user information.",
+    "example3": "The data is highly sensitive and must be encrypted.",
+    "Explanation": "Sensitive has two common meanings in IT. First, it refers to hardware or software that detects tiny changes (like a high-quality sensor). Second, and very importantly, it refers to data (like passwords, emails, or personal ID numbers) that must be kept secret to prevent unauthorized access. When working with sensitive data, you are expected to follow strict security rules. Using this word correctly is vital for privacy, security compliance, and professional communication regarding data handling.",
+    "synonyms": [
+      "delicate",
+      "private",
+      "confidential"
+    ],
+    "antonyms": [
+      "insensitive",
+      "public",
+      "robust"
+    ],
+    "nounForm": "sensitivity",
+    "verbForm": "sense",
+    "adjectiveForm": "sensitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, hardware, privacy",
+    "usageTip": "Use 'sensitive' to warn others about data that needs special protection.",
+    "commonMistake": "Confusing 'sensitive' with 'sensory' (related to physical senses).",
+    "collocations": [
+      "sensitive data",
+      "sensitive information",
+      "highly sensitive"
+    ]
+  },
+  {
+    "word": "Sensitive",
+    "meaning": "Requiring special care, secrecy, or privacy",
+    "shortMeaning": "private",
+    "example": "This database contains highly sensitive personal data.",
+    "example2": "Sensitive information must be encrypted at rest.",
+    "example3": "The system is sensitive to small timing differences.",
+    "Explanation": "In IT, 'sensitive' data refers to any information that must be protected, such as passwords, personal IDs, or financial records. Handling sensitive information requires strict security measures like encryption, access controls, and logs. A data breach involving sensitive information can have serious legal and financial consequences. Additionally, in engineering, 'sensitive' can describe a system that reacts strongly to minor changes (e.g., 'the sensor is very sensitive'). Always identify which parts of your system store sensitive data.",
+    "synonyms": [
+      "private",
+      "confidential",
+      "critical"
+    ],
+    "antonyms": [
+      "public",
+      "non-sensitive",
+      "unimportant"
+    ],
+    "nounForm": "sensitivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "sensitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, data protection, engineering",
+    "usageTip": "Use 'sensitive' to warn about data that needs extra security.",
+    "commonMistake": "Misclassifying non-sensitive data as sensitive (it creates too much work).",
+    "collocations": [
+      "sensitive data",
+      "sensitive information"
+    ]
+  }
+]

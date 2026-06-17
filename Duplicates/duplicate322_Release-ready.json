@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Release-ready",
+    "meaning": "In a state where it can be released to customers or the public, having passed all necessary quality checks",
+    "shortMeaning": "ready to be released",
+    "example": "The software is release-ready; we just need to choose the launch date.",
+    "example2": "The release-ready version of the album was sent to the press.",
+    "example3": "The team declared the product release-ready after the final bug fix.",
+    "Explanation": "The adjective 'release-ready' specifically describes a product, software, or creative work that has completed its development cycle, including testing and polishing, and is now approved for distribution to end-users or the market. It is the final state before launch. This term is heavily used in software, entertainment, and publishing industries. It focuses on the act of releasing rather than just being ready for use.",
+    "synonyms": [
+      "launch-ready",
+      "ready for release",
+      "gold master (software)"
+    ],
+    "antonyms": [
+      "in development",
+      "unreleasable",
+      "pre-alpha"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "release-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, music, films, product launches",
+    "usageTip": "Common in project management and development teams to indicate a major milestone is reached.",
+    "commonMistake": "Thinking 'release-ready' means perfect; it means it meets the agreed standards for release, which may include known minor issues.",
+    "collocations": [
+      "release-ready build",
+      "release-ready code",
+      "declare release-ready"
+    ]
+  },
+  {
+    "word": "Release-ready",
+    "meaning": "Fully tested, stable, and ready for deployment to users.",
+    "shortMeaning": "ready to launch",
+    "example": "The code passed QA and is now release-ready.",
+    "example2": "We have a release-ready build for the beta testers.",
+    "example3": "The final audit ensures the package is release-ready.",
+    "Explanation": "'Release-ready' signifies that a product or feature has passed all necessary testing, bug fixing, and validation stages. It implies that the code is stable and safe for public or production use. It is a major milestone in any development project. If something is release-ready, it usually means there are no blocking bugs and the documentation is complete. It is the final gate before a version reaches the end-user.",
+    "synonyms": [
+      "stable",
+      "deployed-ready",
+      "finalized"
+    ],
+    "antonyms": [
+      "unstable",
+      "draft",
+      "in-development"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "release-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, software development, QA",
+    "usageTip": "Use to confirm that a project has passed all quality checks.",
+    "commonMistake": "Calling code release-ready when there are still open critical issues.",
+    "collocations": [
+      "release-ready build",
+      "release-ready code",
+      "mark as release-ready"
+    ]
+  }
+]

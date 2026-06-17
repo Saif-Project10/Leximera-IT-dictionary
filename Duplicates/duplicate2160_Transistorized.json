@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Transistorized",
+    "meaning": "Built or operated using transistors instead of older technology",
+    "shortMeaning": "using transistors",
+    "example": "Early computers were large until they became transistorized.",
+    "example2": "The circuit design was fully transistorized for better efficiency.",
+    "example3": "We are studying the history of transistorized hardware.",
+    "Explanation": "A device is transistorized if it uses transistors to manage electrical signals instead of older components like vacuum tubes. Transistors are the fundamental building blocks of modern electronics. By being transistorized, devices became smaller, faster, more reliable, and much more power-efficient. This shift was a major turning point in computing history. While the term is less common in modern software development, it is foundational knowledge for computer architecture.",
+    "synonyms": [
+      "electronic",
+      "solid-state"
+    ],
+    "antonyms": [
+      "mechanical",
+      "vacuum-tube based"
+    ],
+    "nounForm": "transistor",
+    "verbForm": "transistorize",
+    "adjectiveForm": "transistorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer hardware, history of computing",
+    "usageTip": "Use this when discussing hardware evolution or base-level electronics.",
+    "commonMistake": "Applying it to modern software code; it relates to physical hardware.",
+    "collocations": [
+      "transistorized circuit",
+      "transistorized hardware",
+      "fully transistorized"
+    ]
+  },
+  {
+    "word": "Transistorized",
+    "meaning": "Equipped or constructed with transistors instead of vacuum tubes",
+    "shortMeaning": "transistor-based",
+    "example": "The old radio was fully transistorized.",
+    "example2": "Transistorized circuits replaced older, bulky systems.",
+    "example3": "This is a simple, transistorized logic circuit.",
+    "Explanation": "The word 'transistorized' refers to the evolution of electronics from bulky vacuum tubes to small, efficient transistors. It was a major milestone in computing history. Today, almost all electronics are 'transistorized' at the microscopic level, so the word is usually used in historical or educational contexts. It describes the technology inside the device. It is essentially the foundation of modern semiconductor computing.",
+    "synonyms": [
+      "semiconductor-based",
+      "modern",
+      "solid-state"
+    ],
+    "antonyms": [
+      "vacuum-tube",
+      "obsolete"
+    ],
+    "nounForm": "transistor",
+    "verbForm": "transistorize",
+    "adjectiveForm": "transistorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Electronics history, computer engineering",
+    "usageTip": "Use 'transistorized' to describe older, solid-state electronic devices.",
+    "commonMistake": "Using it for modern computers (they are 'integrated circuits' now).",
+    "collocations": [
+      "transistorized circuit",
+      "transistorized device",
+      "fully transistorized"
+    ]
+  }
+]

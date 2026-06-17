@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Simplified",
+    "meaning": "Made less complex or easier to understand or perform.",
+    "shortMeaning": "made easier",
+    "example": "We simplified the authentication process for users.",
+    "example2": "The simplified version of the API is now available.",
+    "example3": "She simplified the complex algorithm into smaller parts.",
+    "Explanation": "The word 'simplified' refers to the process of reducing complexity. In IT, this might involve removing redundant code, flattening a complex database structure, or creating a more intuitive UI. Simplifying a system often improves performance and user satisfaction. It is a continuous process of refinement aimed at making technology more accessible and maintainable for everyone involved.",
+    "synonyms": [
+      "streamlined",
+      "clarified",
+      "reduced"
+    ],
+    "antonyms": [
+      "complicated",
+      "complex",
+      "elaborated"
+    ],
+    "nounForm": "simplification",
+    "verbForm": "simplify",
+    "adjectiveForm": "simplified",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Code refactoring and UI design",
+    "usageTip": "Use 'simplified' to describe a process that has been made easier.",
+    "commonMistake": "Over-simplifying to the point of losing critical functionality.",
+    "collocations": [
+      "simplified process",
+      "simplified view",
+      "greatly simplified"
+    ]
+  },
+  {
+    "word": "Simplified",
+    "meaning": "Made easier to understand or less complex",
+    "shortMeaning": "made easier",
+    "example": "We provided a simplified version of the manual for beginners.",
+    "example2": "The simplified architecture improved system speed.",
+    "example3": "He simplified the code by removing extra logic.",
+    "Explanation": "The word 'simplified' refers to something that has been made less complex. It is often the result of an improvement process in software or documentation. By removing unnecessary parts, a 'simplified' system becomes easier to maintain and use. The verb form is 'simplify', and the noun form is 'simplification'. It is a common goal in iterative software development.",
+    "synonyms": [
+      "streamlined",
+      "clarified",
+      "reduced"
+    ],
+    "antonyms": [
+      "complicated",
+      "expanded",
+      "elaborated"
+    ],
+    "nounForm": "simplification",
+    "verbForm": "simplify",
+    "adjectiveForm": "simplified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, code refactoring, system design",
+    "usageTip": "Use 'simplified' to describe improvements that make things easier.",
+    "commonMistake": "Confusing 'simplified' with 'lacking features'.",
+    "collocations": [
+      "simplified version",
+      "simplified view",
+      "simplified process"
+    ]
+  }
+]

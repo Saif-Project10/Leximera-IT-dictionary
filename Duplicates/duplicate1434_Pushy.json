@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Pushy",
+    "meaning": "Excessively or unpleasantly self-assertive or ambitious",
+    "shortMeaning": "aggressively assertive",
+    "example": "The pushy salesman wouldn't take no for an answer.",
+    "example2": "Her pushy parents wanted her to be a doctor.",
+    "example3": "Don't be so pushy; let others speak.",
+    "Explanation": "'Pushy' is an informal, negative adjective. It describes someone who tries too hard to get what they want, often in a way that is forceful, rude, or disregards others' feelings or boundaries. It's commonly used for salespeople, parents, or colleagues who are overly aggressive. The word comes from the verb 'push', suggesting they are metaphorically pushing others aside. While being assertive can be positive, 'pushy' crosses into unpleasant aggression. It's a subjective judgment.",
+    "synonyms": [
+      "aggressive",
+      "overbearing",
+      "forceful"
+    ],
+    "antonyms": [
+      "passive",
+      "unassertive",
+      "easygoing"
+    ],
+    "nounForm": "pushiness",
+    "verbForm": "push",
+    "adjectiveForm": "pushy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing annoying behavior in sales, social situations, parenting",
+    "usageTip": "It's always negative. Use 'assertive' for the positive version.",
+    "commonMistake": "Using it to describe simple confidence. 'Pushy' implies being annoying and too forceful.",
+    "collocations": [
+      "pushy behavior",
+      "pushy attitude",
+      "pushy mother"
+    ]
+  },
+  {
+    "word": "Pushy",
+    "meaning": "Describes behavior that is overly aggressive or demanding.",
+    "shortMeaning": "too aggressive",
+    "example": "The salesperson was too pushy, making us uncomfortable.",
+    "example2": "Avoid pushy marketing strategies in your app.",
+    "example3": "His pushy tone in code reviews discouraged the junior team.",
+    "Explanation": "'Pushy' describes someone (or an automated system) that is too aggressive, intrusive, or demanding. In IT, a 'pushy' system might constantly bombard the user with notifications, which is bad for UX. A 'pushy' teammate might demand code changes without discussion. It is generally a negative term that implies a lack of respect for the user's space or the team's professional culture. In both design and professional interactions, it is something to avoid.",
+    "synonyms": [
+      "aggressive",
+      "intrusive",
+      "demanding"
+    ],
+    "antonyms": [
+      "polite",
+      "respectful",
+      "passive"
+    ],
+    "nounForm": "pushiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "pushy",
+    "partOfSpeech": "adjective",
+    "commonContext": "UX design, team communication",
+    "usageTip": "Use when describing behavior that is overly aggressive.",
+    "commonMistake": "Confusing 'pushy' with 'assertive' (which is positive).",
+    "collocations": [
+      "pushy salesperson",
+      "too pushy",
+      "pushy notifications"
+    ]
+  }
+]

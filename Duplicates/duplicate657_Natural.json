@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Natural",
+    "meaning": "1. Existing in or derived from nature; not made by humans. 2. Normal or expected; based on inherent character.",
+    "shortMeaning": "from nature; normal",
+    "example": "She prefers natural ingredients in her food.",
+    "example2": "It's natural to feel nervous before a speech.",
+    "example3": "He has a natural talent for music.",
+    "Explanation": "'Natural' describes things that are part of the physical world (plants, weather) and not artificial. It also describes behaviors or qualities that are innate, normal, or not forced (a natural smile). The adverb is 'naturally'. The word often has positive connotations of purity, ease, and authenticity. It is a very broad and common adjective used in science, everyday life, and character descriptions.",
+    "synonyms": [
+      "normal",
+      "organic",
+      "innate",
+      "instinctive"
+    ],
+    "antonyms": [
+      "artificial",
+      "unnatural",
+      "abnormal",
+      "forced"
+    ],
+    "nounForm": "nature",
+    "verbForm": "naturalize",
+    "adjectiveForm": "natural",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, food, behavior, talent, resources",
+    "usageTip": "Use 'natural' for things that come from the world itself or for abilities/behaviors that are not learned.",
+    "commonMistake": "Confusing 'natural' with 'neutral'. 'Natural' means from nature; 'neutral' means not taking sides.",
+    "collocations": [
+      "natural resources",
+      "natural selection",
+      "come naturally",
+      "natural beauty"
+    ]
+  },
+  {
+    "word": "Natural",
+    "meaning": "Relating to human behavior or language, not artificial",
+    "shortMeaning": "non-artificial",
+    "example": "The interface feels natural to new users.",
+    "example2": "NLP models learn how to understand natural language.",
+    "example3": "It is a natural progression from basic to advanced coding.",
+    "Explanation": "In IT, 'natural' is most commonly used in 'natural language' (the language humans speak, like English or Urdu, as opposed to programming languages). A 'natural' interface is one that is intuitive, meaning it follows human logic so clearly that a user doesn't need to read a manual to understand it. When technology is described as 'natural', it means it bridges the gap between machine logic and human thinking, making the system easier and more familiar to use.",
+    "synonyms": [
+      "intuitive",
+      "human-like",
+      "organic"
+    ],
+    "antonyms": [
+      "artificial",
+      "forced",
+      "technical"
+    ],
+    "nounForm": "nature",
+    "verbForm": "N/A",
+    "adjectiveForm": "natural",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design and NLP",
+    "usageTip": "Use to describe things that feel intuitive or human-readable.",
+    "commonMistake": "Confusing 'natural' (human-like) with 'easy' (not all easy things are natural).",
+    "collocations": [
+      "natural language",
+      "natural interface"
+    ]
+  }
+]

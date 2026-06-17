@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Untracked",
+    "meaning": "Not tracked; not followed or recorded; (of land) not having paths or trails.",
+    "shortMeaning": "not monitored; pathless",
+    "example": "The package was untracked, so we don't know where it is.",
+    "example2": "They hiked into untracked wilderness.",
+    "example3": "Many minor expenses go untracked in the budget.",
+    "Explanation": "'Untracked' is an adjective with two main meanings. First, in logistics or data, it means not being monitored or recorded. Second, for terrain, it means lacking paths or signs of previous travel (like untouched snow). It comes from the verb 'track'. The word often implies a lack of oversight or exploration. In a digital age, being 'untracked' can be either a vulnerability or a privacy feature.",
+    "synonyms": [
+      "unmonitored",
+      "unrecorded",
+      "pathless"
+    ],
+    "antonyms": [
+      "tracked",
+      "monitored",
+      "recorded"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "track",
+    "adjectiveForm": "untracked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shipping, budgeting, wilderness, data",
+    "usageTip": "For packages, 'untracked' means no tracking number. For land, it means pristine, without trails.",
+    "commonMistake": "Confusing 'untracked' with 'untractable' (unmanageable).",
+    "collocations": [
+      "untracked shipment",
+      "untracked snow",
+      "remain untracked"
+    ]
+  },
+  {
+    "word": "Untracked",
+    "meaning": "Not being recorded, monitored, or kept in a tracking system.",
+    "shortMeaning": "not monitored",
+    "example": "Changes to the configuration were left untracked.",
+    "example2": "The package status remained untracked for days.",
+    "example3": "Ensure no user activity goes untracked.",
+    "Explanation": "The word 'untracked' means that something is occurring, but there is no system or log capturing its progress, history, or path. In version control or project management, leaving tasks or changes untracked leads to confusion and loss of oversight. The base verb is 'track'. Use this to highlight a gap in monitoring or logging. It is a critical issue in systems that require audit trails.",
+    "synonyms": [
+      "unmonitored",
+      "unrecorded",
+      "unlogged"
+    ],
+    "antonyms": [
+      "tracked",
+      "monitored",
+      "recorded"
+    ],
+    "nounForm": "tracking",
+    "verbForm": "track",
+    "adjectiveForm": "untracked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Version control, logging, and project tracking",
+    "usageTip": "Use 'untracked' to point out missing records or monitoring.",
+    "commonMistake": "Confusing it with 'untraceable', which implies a total loss of origin.",
+    "collocations": [
+      "untracked changes",
+      "untracked activity",
+      "remained untracked"
+    ]
+  },
+  {
+    "word": "Untracked",
+    "meaning": "Not being followed or recorded by a system",
+    "shortMeaning": "not recorded",
+    "example": "Changes to the file remained untracked by the version control system.",
+    "example2": "There are several untracked requests in the network logs.",
+    "example3": "Leaving resources untracked makes budget management difficult.",
+    "Explanation": "Untracked means that an item, file, or event is not being monitored or recorded by a tracking system. In development, files that are not added to a repository are called untracked files in tools like Git. If something is left untracked, it becomes invisible to the history of the project, which can lead to data loss or confusion among team members. Keeping accurate track of all resources is essential for project visibility and accountability. It is a state that developers actively work to resolve when preparing for a commit.",
+    "synonyms": [
+      "unrecorded",
+      "unmonitored",
+      "unregistered"
+    ],
+    "antonyms": [
+      "tracked",
+      "recorded",
+      "monitored"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "untracked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Version control and system monitoring",
+    "usageTip": "Use it when referring to files not included in source control.",
+    "commonMistake": "Forgetting that untracked files are not preserved in backups.",
+    "collocations": [
+      "untracked files",
+      "untracked changes",
+      "remained untracked"
+    ]
+  }
+]

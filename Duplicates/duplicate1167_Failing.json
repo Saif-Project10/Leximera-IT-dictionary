@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Failing",
+    "meaning": "A weakness or fault in character; or becoming weaker.",
+    "shortMeaning": "weakness; becoming weaker",
+    "example": "His main failing is his impatience.",
+    "example2": "Failing eyesight forced him to retire.",
+    "example3": "Failing to plan is planning to fail.",
+    "Explanation": "'Failing' serves as a noun (a fault or deficiency) and the present participle of 'fail'. As a noun, it means a shortcoming or weakness, especially in character. As a participle, it indicates the ongoing action of not succeeding or declining. The noun use is common in evaluations of people's weaknesses. The participle form appears in continuous tenses (is failing) and gerunds (failing is not an option). It's also used in the phrase 'failing that' meaning 'if that is not possible'. The word captures both permanent flaws and temporary declines.",
+    "synonyms": [
+      "weakness",
+      "shortcoming",
+      "fault",
+      "declining"
+    ],
+    "antonyms": [
+      "strength",
+      "virtue",
+      "succeeding",
+      "improving"
+    ],
+    "nounForm": "failing",
+    "verbForm": "fail",
+    "adjectiveForm": "failing",
+    "partOfSpeech": "noun, verb (participle)",
+    "commonContext": "Character assessment, health, performance, alternatives",
+    "usageTip": "As noun: 'one of his failings'. As participle: 'failing health', 'I am failing this class'.",
+    "commonMistake": "Confusing noun and verb uses. 'His failing is laziness' (noun) vs. 'He is failing the course' (verb).",
+    "collocations": [
+      "failing health",
+      "human failing",
+      "failing that"
+    ]
+  },
+  {
+    "word": "Failing",
+    "meaning": "The act of not succeeding or of becoming weak.",
+    "shortMeaning": "not succeeding",
+    "example": "The system is failing under high traffic.",
+    "example2": "He is failing to meet the project deadline.",
+    "example3": "I noticed the hard drive is failing.",
+    "Explanation": "The word 'failing' is the present participle of 'fail'. It indicates that a process or object is currently in the process of failing or is showing signs of weakness. Unlike 'failed' (which is final), 'failing' implies that the issue is currently ongoing. In technical support, identifying a 'failing' component early can prevent a total crash. It is an essential term for monitoring system performance and health.",
+    "synonyms": [
+      "weakening",
+      "breaking",
+      "dying"
+    ],
+    "antonyms": [
+      "succeeding",
+      "thriving"
+    ],
+    "nounForm": "failure",
+    "verbForm": "fail",
+    "adjectiveForm": "failing",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "System monitoring, performance",
+    "usageTip": "Use 'failing' for things that are currently breaking.",
+    "commonMistake": "Confusing it with 'failed' which describes a state that already ended.",
+    "collocations": [
+      "failing system",
+      "failing to respond",
+      "failing hard drive"
+    ]
+  }
+]

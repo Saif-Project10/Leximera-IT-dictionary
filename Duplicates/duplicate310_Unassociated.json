@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unassociated",
+    "meaning": "Not connected or linked with something else; having no association.",
+    "shortMeaning": "not linked or affiliated",
+    "example": "The witness was unassociated with either party in the case.",
+    "example2": "He was an unassociated researcher, not funded by any company.",
+    "example3": "These two ideas are unassociated in my mind.",
+    "Explanation": "Unassociated is a formal adjective meaning lacking any kind of connection, partnership, or affiliation. It is similar to 'unrelated' but often carries a more formal or institutional tone, particularly in legal, academic, or professional contexts. It emphasizes the absence of a formal tie or membership. The prefix 'un-' negates 'associated.' A common mistake is using it in casual conversation where 'unrelated' would be more natural. This word is useful for emphasizing objectivity or neutrality, such as when describing an unbiased third party or distinguishing between concepts that are truly separate in a classification system.",
+    "synonyms": [
+      "unaffiliated",
+      "unconnected",
+      "separate",
+      "independent",
+      "detached"
+    ],
+    "antonyms": [
+      "associated",
+      "affiliated",
+      "connected",
+      "related",
+      "linked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unassociated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legal testimony, academic research, professional conflicts of interest.",
+    "usageTip": "Use this term in formal writing to stress the lack of an official or meaningful connection.",
+    "commonMistake": "Overusing it; 'unrelated' is more common and understood in most contexts.",
+    "collocations": [
+      "unassociated with",
+      "completely unassociated",
+      "unassociated individual"
+    ]
+  },
+  {
+    "word": "Unassociated",
+    "meaning": "Not connected or linked to anything else.",
+    "shortMeaning": "not linked",
+    "example": "There are several unassociated files in the directory.",
+    "example2": "The errors seem to be unassociated with the update.",
+    "example3": "Keep the unassociated records separate.",
+    "Explanation": "Unassociated describes something that is not part of a larger group or linked to other entities. In databases and file systems, it refers to items that don't have a relationship with others, like an 'orphan' file. It is useful for describing isolated components in a system. When something is unassociated, it might mean it is unnecessary or can be safely deleted. It indicates a lack of logical or structural connection.",
+    "synonyms": [
+      "unconnected",
+      "independent",
+      "isolated"
+    ],
+    "antonyms": [
+      "associated",
+      "linked",
+      "connected"
+    ],
+    "nounForm": "association",
+    "verbForm": "associate",
+    "adjectiveForm": "unassociated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, file management, software logic",
+    "usageTip": "Use this for files or data that don't belong to any group.",
+    "commonMistake": "Using it for things that are just 'different'.",
+    "collocations": [
+      "unassociated file",
+      "unassociated record",
+      "remain unassociated"
+    ]
+  },
+  {
+    "word": "Unassociated",
+    "meaning": "Not connected or linked with anything else.",
+    "shortMeaning": "not linked",
+    "example": "These two files are unassociated with the main program.",
+    "example2": "The bug seems to be unassociated with the recent update.",
+    "example3": "We found some unassociated data in the database.",
+    "Explanation": "The word 'unassociated' describes items or data that do not have a relationship or link to a specific context. In database management, this might refer to records that are not linked to a parent table. In general IT, it means an item is 'standalone' or independent. Identifying unassociated files or code can help in cleaning up a system or finding orphan data. It is a useful term for describing system architecture.",
+    "synonyms": [
+      "unlinked",
+      "disconnected",
+      "independent"
+    ],
+    "antonyms": [
+      "associated",
+      "linked",
+      "connected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unassociated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data architecture and troubleshooting",
+    "usageTip": "Use 'unassociated' to describe data without a relationship.",
+    "commonMistake": "Confusing 'unassociated' with 'missing'.",
+    "collocations": [
+      "unassociated data",
+      "unassociated files",
+      "unassociated record"
+    ]
+  }
+]

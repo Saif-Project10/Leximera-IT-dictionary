@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unmonitored",
+    "meaning": "Not watched, observed, or checked over a period of time.",
+    "shortMeaning": "not watched or supervised",
+    "example": "Leaving the machine running unmonitored is a safety risk.",
+    "example2": "The experiment ran unmonitored for 24 hours.",
+    "example3": "Children should not have unmonitored access to the internet.",
+    "Explanation": "'Unmonitored' is the opposite of 'monitored'. It describes a situation, process, or access that occurs without any supervision, observation, or tracking. This can be neutral (an unmonitored trail), but often implies risk, as a lack of oversight can lead to problems going unnoticed. It is commonly used in contexts of safety, security, child welfare, and system administration. The prefix 'un-' means 'not', making the meaning clear.",
+    "synonyms": [
+      "unsupervised",
+      "unobserved",
+      "unchecked",
+      "unattended"
+    ],
+    "antonyms": [
+      "monitored",
+      "supervised",
+      "observed",
+      "tracked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "monitor",
+    "adjectiveForm": "unmonitored",
+    "partOfSpeech": "adjective",
+    "commonContext": "Safety, security, experiments, computing, parenting",
+    "usageTip": "Use 'unmonitored' to describe something that is happening without any watchful presence or system checks.",
+    "commonMistake": "Confusing 'unmonitored' with 'unmanned', which specifically means without a human crew.",
+    "collocations": [
+      "unmonitored access",
+      "left unmonitored",
+      "unmonitored system",
+      "run unmonitored"
+    ]
+  },
+  {
+    "word": "Unmonitored",
+    "meaning": "Not observed, tracked, or recorded by a system",
+    "shortMeaning": "not observed",
+    "example": "The server was left unmonitored over the weekend.",
+    "example2": "Unmonitored traffic can lead to security vulnerabilities.",
+    "example3": "We must ensure no critical process remains unmonitored.",
+    "Explanation": "Unmonitored means that there is no system in place to watch or log the activity of a service. In IT security and administration, being unmonitored is a major risk because issues could happen without anyone knowing. It is common to have monitoring tools check performance, traffic, and security status. When something is described as unmonitored, it is usually a call to action to implement tracking or oversight for that component.",
+    "synonyms": [
+      "unwatched",
+      "untracked",
+      "invisible"
+    ],
+    "antonyms": [
+      "monitored",
+      "observed",
+      "tracked"
+    ],
+    "nounForm": "monitor",
+    "verbForm": "monitor",
+    "adjectiveForm": "unmonitored",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, server maintenance, performance",
+    "usageTip": "Use this to highlight risks in systems without oversight.",
+    "commonMistake": "Assuming everything that is unmonitored is working fine.",
+    "collocations": [
+      "unmonitored traffic",
+      "unmonitored process",
+      "remain unmonitored"
+    ]
+  },
+  {
+    "word": "Unmonitored",
+    "meaning": "Something that is not being watched, tracked, or supervised by a system or person.",
+    "shortMeaning": "not watched",
+    "example": "An unmonitored server is a major security risk.",
+    "example2": "We cannot leave the network connection unmonitored.",
+    "example3": "The process ran in an unmonitored background state.",
+    "Explanation": "To be 'unmonitored' means that there is no oversight, tracking, or active surveillance taking place. In IT, this usually refers to system resources, networks, or user activity that lack logging or automated alerts. An unmonitored environment is dangerous because issues can go undetected for a long time. It is a common term in cybersecurity and system administration to highlight gaps in visibility. Always ensure critical infrastructure is properly monitored to prevent failure.",
+    "synonyms": [
+      "unwatched",
+      "unsupervised",
+      "untracked"
+    ],
+    "antonyms": [
+      "monitored",
+      "supervised",
+      "tracked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unmonitored",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration, security, network logs",
+    "usageTip": "Use this when discussing systems lacking active oversight.",
+    "commonMistake": "Thinking it implies 'offline' when the system is actually running.",
+    "collocations": [
+      "unmonitored access",
+      "unmonitored server",
+      "unmonitored activity"
+    ]
+  }
+]

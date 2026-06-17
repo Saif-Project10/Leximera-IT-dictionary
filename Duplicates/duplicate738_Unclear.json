@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unclear",
+    "meaning": "Not easy to see, hear, or understand; ambiguous.",
+    "shortMeaning": "not clear",
+    "example": "The instructions were unclear, so we made a mistake.",
+    "example2": "It is unclear whether she will attend the meeting.",
+    "example3": "The future of the project is still unclear.",
+    "Explanation": "Unclear describes something that is vague, confusing, or not well-defined. It can refer to communication (unclear explanation), situations (unclear outcome), or images (unclear photo). It's a common word for expressing confusion or a lack of certainty. The prefix 'un-' means 'not', so it's the direct opposite of 'clear'. It's a milder, more neutral word than 'confusing'. Seeking clarification is the typical response to something unclear. It's an essential word for identifying problems in understanding and communication.",
+    "synonyms": [
+      "vague",
+      "ambiguous",
+      "confusing",
+      "indistinct",
+      "hazy"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "distinct",
+      "understandable"
+    ],
+    "nounForm": "unclearness",
+    "verbForm": "clarify",
+    "adjectiveForm": "unclear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, rules, situations, images, intentions",
+    "usageTip": "Often used in the phrases 'it is unclear' or 'remain unclear' to express uncertainty.",
+    "commonMistake": "Using 'unclear' to mean 'unknown'. Something can be known but unclear (e.g., a known but confusing rule).",
+    "collocations": [
+      "unclear about",
+      "remain unclear",
+      "unclear picture",
+      "unclear wording"
+    ]
+  },
+  {
+    "word": "Unclear",
+    "meaning": "Difficult to understand or interpret",
+    "shortMeaning": "not clear",
+    "example": "The error message is unclear to most users.",
+    "example2": "Requirements were unclear, leading to development delays.",
+    "example3": "The instructions were unclear regarding the setup.",
+    "Explanation": "Unclear refers to information or concepts that lack transparency, logic, or sufficient explanation. In software development, unclear requirements are a frequent cause of bugs and rework. If documentation, code comments, or interface feedback is unclear, it prevents users or developers from performing tasks efficiently. Improving clarity is essential for maintainability and usability. Always strive to make technical communications simple and unambiguous.",
+    "synonyms": [
+      "vague",
+      "ambiguous",
+      "confusing"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "explicit"
+    ],
+    "nounForm": "unclearness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unclear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, communication, UI design",
+    "usageTip": "Use when information is hard to decipher.",
+    "commonMistake": "Assuming others understand jargon even if the intent is unclear.",
+    "collocations": [
+      "remains unclear",
+      "highly unclear",
+      "unclear instructions"
+    ]
+  },
+  {
+    "word": "Unclear",
+    "meaning": "Difficult to understand or not clearly defined.",
+    "shortMeaning": "not clear",
+    "example": "The instructions were unclear, so we made a mistake.",
+    "example2": "It is still unclear why the system crashed.",
+    "example3": "Please rewrite the code, as the logic is unclear.",
+    "Explanation": "The word 'unclear' is a polite but direct way to say that information is missing or confusing. In IT, 'unclear' documentation or requirements are a frequent cause of project delays. If a team member says something is unclear, it is an invitation to provide more detail or clarification. It is a very common term in feedback, reviews, and bug reports. It is the opposite of 'transparent' or 'well-defined'.",
+    "synonyms": [
+      "vague",
+      "ambiguous",
+      "confusing"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "precise"
+    ],
+    "nounForm": "unclearness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unclear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication and feedback",
+    "usageTip": "Use 'unclear' to ask for more information.",
+    "commonMistake": "Being too vague when you say something is 'unclear'.",
+    "collocations": [
+      "unclear instructions",
+      "remains unclear",
+      "unclear goals"
+    ]
+  }
+]

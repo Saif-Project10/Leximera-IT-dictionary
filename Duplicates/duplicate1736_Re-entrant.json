@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Re-entrant",
+    "meaning": "Describing code that can be interrupted and then safely called again before its previous execution is finished",
+    "shortMeaning": "interrupt-safe code",
+    "example": "A re-entrant function is necessary for safe multi-threaded programming.",
+    "example2": "Standard C library functions are not always re-entrant.",
+    "example3": "The developer made the interrupt handler re-entrant to avoid crashes.",
+    "Explanation": "Re-entrant code is a concept in advanced programming and operating systems. Imagine a function is running, and suddenly a more important task stops it to run the *same* function again. If the function uses 'global' variables, it might get confused and crash. A re-entrant function only uses its own 'local' data, so multiple versions of it can run at the same time without hurting each other. This is critical for systems that handle many tasks at once (concurrency). It is a hallmark of high-quality, stable code.",
+    "synonyms": [
+      "thread-safe (related)",
+      "recursive-safe",
+      "N/A"
+    ],
+    "antonyms": [
+      "non-reentrant",
+      "serial",
+      "N/A"
+    ],
+    "nounForm": "re-entrancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "re-entrant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Kernel programming and multi-threading",
+    "usageTip": "Check if a function is re-entrant before using it inside an interrupt or a thread.",
+    "commonMistake": "Thinking 'thread-safe' and 're-entrant' are exactly the same; re-entrancy is a stricter requirement.",
+    "collocations": [
+      "re-entrant code",
+      "re-entrant lock",
+      "fully re-entrant"
+    ]
+  },
+  {
+    "word": "Re-entrant",
+    "meaning": "Able to be safely interrupted and resumed without errors",
+    "shortMeaning": "resumable",
+    "example": "The function must be re-entrant to work with interrupts.",
+    "example2": "He wrote re-entrant code to avoid concurrency bugs.",
+    "example3": "A re-entrant function does not share global state.",
+    "Explanation": "A piece of code is 're-entrant' if it can be interrupted in the middle of its execution, safely called again by another process (or a recursive call), and still finish correctly without corrupting its data. This is a critical concept in multi-threaded and asynchronous programming. If code is not re-entrant, running it in a multi-threaded environment will lead to unpredictable bugs and crashes. Making code re-entrant requires avoiding global state and static variables.",
+    "synonyms": [
+      "interrupt-safe",
+      "thread-safe"
+    ],
+    "antonyms": [
+      "non-reentrant"
+    ],
+    "nounForm": "re-entrancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "re-entrant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Multi-threading, Embedded systems, OS design",
+    "usageTip": "Use when discussing thread safety and interrupts.",
+    "commonMistake": "Assuming all functions are re-entrant by default.",
+    "collocations": [
+      "re-entrant code",
+      "re-entrant function",
+      "re-entrant design"
+    ]
+  }
+]

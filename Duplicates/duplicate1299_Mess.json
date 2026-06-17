@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Mess",
+    "meaning": "A dirty or untidy state; a situation that is confused and full of problems.",
+    "shortMeaning": "untidy state; problematic situation",
+    "example": "Your room is a complete mess!",
+    "example2": "His financial affairs are in a mess.",
+    "example3": "I made a mess of the presentation.",
+    "Explanation": "'Mess' is a noun and a verb. As a noun, it primarily means a state of disorder or dirtiness, or a difficult, confused situation. As a verb ('mess up'), it means to make something dirty or untidy, or to spoil something. It's a very common informal word for describing chaos, both physical and situational. Phrases like 'mess with' (interfere with) and 'mess around' (behave foolishly) are also common. It's a simple, strong word for conveying a lack of order and control. The adjective is 'messy'.",
+    "synonyms": [
+      "disorder",
+      "chaos",
+      "jumble"
+    ],
+    "antonyms": [
+      "order",
+      "tidiness",
+      "neatness"
+    ],
+    "nounForm": "mess",
+    "verbForm": "mess",
+    "adjectiveForm": "messy",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Cleanliness, situations, mistakes, military dining",
+    "usageTip": "Often used in the phrase 'in a mess' (e.g., 'My life is in a mess').",
+    "commonMistake": "Saying 'a mess' to mean 'a lot' (e.g., 'I have a mess of work' is informal/colloquial).",
+    "collocations": [
+      "mess hall",
+      "make a mess",
+      "hot mess"
+    ]
+  },
+  {
+    "word": "Mess",
+    "meaning": "A state of confusion, untidiness, or a collection of errors",
+    "shortMeaning": "disorder",
+    "example": "The legacy code was such a mess that it was easier to start from scratch.",
+    "example2": "Trying to fix the bug without a plan created a huge mess in the database.",
+    "example3": "My desk is a mess, but I know where everything is.",
+    "Explanation": "In a professional IT environment, 'mess' is often used to describe disorganized code, poorly managed servers, or confusing data. A 'messy' codebase is one that is hard to read and easy to break. This is the opposite of 'clean code'. While it's an informal word, it is very common in developer discussions. It implies a lack of standards or a failure to follow best practices. Cleaning up a 'mess' usually involves refactoring or reorganizing data.",
+    "synonyms": [
+      "disorder",
+      "clutter",
+      "chaos"
+    ],
+    "antonyms": [
+      "order",
+      "neatness",
+      "cleanliness"
+    ],
+    "nounForm": "mess",
+    "verbForm": "N/A",
+    "adjectiveForm": "messy",
+    "partOfSpeech": "noun",
+    "commonContext": "General life, coding quality, and workplace organization",
+    "usageTip": "Use this word to describe something that lacks structure or has many mistakes.",
+    "commonMistake": "Using 'mess' as a verb (it is usually a noun, though 'mess up' is a verb).",
+    "collocations": [
+      "a total mess",
+      "clean up the mess",
+      "messy code"
+    ]
+  }
+]

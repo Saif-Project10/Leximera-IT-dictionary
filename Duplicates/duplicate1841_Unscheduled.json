@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unscheduled",
+    "meaning": "Happening at a time that was not planned or expected",
+    "shortMeaning": "unplanned",
+    "example": "The power outage was unscheduled and caused a lot of trouble.",
+    "example2": "We had an unscheduled meeting to discuss the emergency.",
+    "example3": "The pilot had to make an unscheduled stop due to the weather.",
+    "Explanation": "The word 'unscheduled' describes any event that occurs outside of a pre-arranged timetable. In a professional setting, unscheduled events are often seen as disruptions. For example, an unscheduled visit from a client might be stressful if the office isn't ready. In the context of technology and infrastructure, 'unscheduled' usually refers to problems or failures that require immediate attention. It is the opposite of 'routine' or 'planned.' Being able to handle unscheduled events effectively is a key part of project management and operational resilience.",
+    "synonyms": [
+      "unplanned",
+      "unexpected",
+      "spontaneous"
+    ],
+    "antonyms": [
+      "scheduled",
+      "planned",
+      "routine"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unscheduled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Time management and logistics",
+    "usageTip": "Use 'unscheduled' to describe something that happened without a prior appointment or plan.",
+    "commonMistake": "Confusing 'unscheduled' with 'rescheduled' (which means moved to a new time).",
+    "collocations": [
+      "unscheduled event",
+      "unscheduled break",
+      "unscheduled arrival"
+    ]
+  },
+  {
+    "word": "Unscheduled",
+    "meaning": "Not on the plan; occurring outside of a fixed time",
+    "shortMeaning": "no schedule",
+    "example": "The team had an unscheduled meeting to address the bug.",
+    "example2": "We avoid unscheduled releases to minimize downtime.",
+    "example3": "Unscheduled system tasks can impact overall performance.",
+    "Explanation": "Unscheduled refers to events or tasks that happen outside of the official plan or calendar. While sometimes necessary, frequent unscheduled tasks are a sign of poor planning or lack of control over project timelines. Unscheduled tasks interrupt workflow and often happen in response to urgent issues. Good management aims to minimize unscheduled interruptions so that developers can focus on planned, high-value tasks.",
+    "synonyms": [
+      "spontaneous",
+      "unexpected",
+      "impromptu"
+    ],
+    "antonyms": [
+      "scheduled",
+      "planned",
+      "organized"
+    ],
+    "nounForm": "schedule",
+    "verbForm": "schedule",
+    "adjectiveForm": "unscheduled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, workflow, maintenance",
+    "usageTip": "Use this for tasks that were not in the plan.",
+    "commonMistake": "Confusing 'unscheduled' with 'urgent'; not all unscheduled things are urgent.",
+    "collocations": [
+      "unscheduled task",
+      "unscheduled meeting",
+      "unscheduled release"
+    ]
+  },
+  {
+    "word": "Unscheduled",
+    "meaning": "Happening at a time that was not planned or prepared for.",
+    "shortMeaning": "not planned",
+    "example": "The server underwent unscheduled maintenance.",
+    "example2": "Unscheduled downtime is very expensive for services.",
+    "example3": "The team had an unscheduled meeting to address the outage.",
+    "Explanation": "'Unscheduled' indicates that an event, such as maintenance or a meeting, occurred outside of a formal schedule. In an IT organization, unscheduled events are often reactive measures to unexpected failures or crises. Reducing the frequency of unscheduled events is a primary goal of effective system administration and maintenance. It is often synonymous with an emergency or an interruption. It is distinct from 'unplanned' as it implies something that usually has a time slot, but this specific instance missed it.",
+    "synonyms": [
+      "unplanned",
+      "sudden",
+      "unexpected"
+    ],
+    "antonyms": [
+      "scheduled",
+      "planned",
+      "routine"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unscheduled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Server maintenance, project management",
+    "usageTip": "Use this for service interruptions.",
+    "commonMistake": "Confusing 'unscheduled' with 'postponed'.",
+    "collocations": [
+      "unscheduled maintenance",
+      "unscheduled downtime",
+      "unscheduled restart"
+    ]
+  }
+]

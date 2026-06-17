@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Ray-cast",
+    "meaning": "Calculating the intersection of a ray with objects in a scene",
+    "shortMeaning": "ray intersection",
+    "example": "The engine uses ray-cast to detect player movement.",
+    "example2": "He implemented a ray-cast to see if the target was hit.",
+    "example3": "The UI uses ray-cast to detect mouse clicks on 3D objects.",
+    "Explanation": "A 'ray-cast' is a technique used in 3D engines and physics simulations where a line (a ray) is 'shot' from a point into a scene to see what it hits. It is essential for everything from detecting collisions to determining line-of-sight in games and user interfaces. By calculating where the ray intersects with objects, the system can respond appropriately. It is a fundamental tool for interactivity and collision detection in 3D spaces.",
+    "synonyms": [
+      "ray-tracing",
+      "collision detection"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ray-cast",
+    "verbForm": "ray-cast",
+    "adjectiveForm": "ray-cast",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Game development, 3D engines",
+    "usageTip": "Use when talking about detecting hits or visibility in 3D.",
+    "commonMistake": "Using ray-casting for everything when simpler math could do it.",
+    "collocations": [
+      "ray-cast collision",
+      "perform ray-cast",
+      "ray-cast detection"
+    ]
+  },
+  {
+    "word": "Ray-cast",
+    "meaning": "To project a mathematical line into a virtual 3D space to detect object intersections",
+    "shortMeaning": "project line for collision detection",
+    "example": "Game engines ray-cast into the scene to see if a player's shot hits a target wall.",
+    "example2": "We can ray-cast from the camera position to determine what object the user clicked.",
+    "example3": "The developer learned how to ray-cast paths for basic physics calculations.",
+    "Explanation": "The verb phrase 'ray-cast' is a specialized term in 3D graphics development, game engines, and virtual reality interfaces. It works by shooting an invisible straight mathematical ray from a specific point in a specific direction. The system then checks which virtual shapes or surfaces that ray intersects with. It is widely used to handle user mouse clicks in 3D canvas spaces or calculate lighting paths.",
+    "synonyms": [
+      "project ray",
+      "line trace"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ray cast",
+    "verbForm": "ray-cast",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "3D web graphics, game programming, and canvas interaction",
+    "usageTip": "Use 'ray-cast' specifically when talking about geometry calculations in 3D spaces.",
+    "commonMistake": "Confusing 'ray-casting' with complete 'ray-tracing', which is a much heavier lighting technique.",
+    "collocations": [
+      "ray-cast a line",
+      "ray-cast algorithm",
+      "perform a ray-cast"
+    ]
+  }
+]

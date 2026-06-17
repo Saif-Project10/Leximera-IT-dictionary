@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Situational",
+    "meaning": "Relating to or dependent on a specific set of circumstances.",
+    "shortMeaning": "dependent on circumstances",
+    "example": "Our strategy is situational based on current traffic.",
+    "example2": "Situational awareness is important for security teams.",
+    "example3": "The code requires a situational change to work.",
+    "Explanation": "The word 'situational' describes something that changes based on the context. It means that there is no one-size-fits-all rule, and decisions must be adjusted to match the immediate situation. In business and security, 'situational awareness' is the ability to perceive and understand what is happening in your environment at any given time.",
+    "synonyms": [
+      "contextual",
+      "circumstantial"
+    ],
+    "antonyms": [
+      "universal",
+      "absolute",
+      "constant"
+    ],
+    "nounForm": "situation",
+    "verbForm": "N/A",
+    "adjectiveForm": "situational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Strategy and operations",
+    "usageTip": "Use 'situational' for things that depend on the context.",
+    "commonMistake": "Assuming a situational approach will provide a universal solution.",
+    "collocations": [
+      "situational awareness",
+      "situational strategy",
+      "situational analysis"
+    ]
+  },
+  {
+    "word": "Situational",
+    "meaning": "Relating to or dependent on a specific set of circumstances",
+    "shortMeaning": "context-dependent",
+    "example": "The system features situational awareness to detect network anomalies.",
+    "example2": "His reaction was purely situational based on the error code received.",
+    "example3": "We need a situational analysis of the current server load.",
+    "Explanation": "The word 'situational' implies that something is determined by or changes according to the specific context. In IT, this often refers to software that adapts its behavior based on user input, environmental conditions, or system status. It highlights that there is no one-size-fits-all solution for the problem. It is useful for describing complex diagnostic tools or adaptive algorithms. It is strictly an adjective.",
+    "synonyms": [
+      "contextual",
+      "conditional",
+      "contingent"
+    ],
+    "antonyms": [
+      "constant",
+      "fixed",
+      "universal"
+    ],
+    "nounForm": "situation",
+    "verbForm": "N/A",
+    "adjectiveForm": "situational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software logic, systems analysis, security",
+    "usageTip": "Use this when the outcome depends entirely on the current environment.",
+    "commonMistake": "Using 'situational' as a noun instead of an adjective.",
+    "collocations": [
+      "situational awareness",
+      "situational analysis",
+      "situational factor"
+    ]
+  }
+]

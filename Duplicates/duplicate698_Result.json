@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Result",
+    "meaning": "A consequence, effect, or outcome of an action, situation, or process.",
+    "shortMeaning": "outcome or effect",
+    "example": "The test results will be available tomorrow.",
+    "example2": "His success is a result of hard work.",
+    "example3": "The experiment produced an unexpected result.",
+    "Explanation": "A 'result' is what happens because of a cause. It is a neutral noun that can refer to the outcome of anything from a simple calculation to a major life event. In sports, 'the result' is the final score. The verb 'to result in' means to cause. The phrase 'as a result' is used to show consequence. It is an extremely common word in analysis, reporting, science, and everyday conversation to link actions to their outcomes.",
+    "synonyms": [
+      "outcome",
+      "consequence",
+      "effect",
+      "product"
+    ],
+    "antonyms": [
+      "cause",
+      "origin"
+    ],
+    "nounForm": "result",
+    "verbForm": "result (as in 'result in')",
+    "adjectiveForm": "resulting",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Exams, sports, science, business decisions",
+    "usageTip": "Use 'result' to talk about what happens at the end of a process or action.",
+    "commonMistake": "Confusing 'result' with 'reason'. The reason is the 'why'; the result is the 'what happened'.",
+    "collocations": [
+      "as a result",
+      "end result",
+      "final result",
+      "result in"
+    ]
+  },
+  {
+    "word": "Result",
+    "meaning": "The outcome, value, output, or data returned after running a computer program, function, or database query",
+    "shortMeaning": "output or outcome",
+    "example": "The search engine result page loaded in less than two hundred milliseconds.",
+    "example2": "The function returns a boolean result showing whether the user password is correct or not.",
+    "example3": "We need to check the test result to make sure there are no syntax errors left in the code.",
+    "Explanation": "The word 'Result' is a core term used across every single field of technology. It is the final data product or behavior that comes from an action. When you write a function, it outputs a result. When you type a query into SQL, the database displays a result set. When you run automated software testing tools, you get a pass/fail result. It represents the concrete answer produced by an execution step.",
+    "synonyms": [
+      "output",
+      "outcome",
+      "return value"
+    ],
+    "antonyms": [
+      "input",
+      "cause",
+      "source data"
+    ],
+    "nounForm": "result",
+    "verbForm": "result (used phraseology)",
+    "adjectiveForm": "resultant",
+    "partOfSpeech": "noun",
+    "commonContext": "Function outputs, database queries, and automated testing outcomes",
+    "usageTip": "Use 'result' to describe the data or changes that appear after a user or program runs an operation.",
+    "commonMistake": "Confusing 'result' with 'input', which is the starting data passed into a function before it runs.",
+    "collocations": [
+      "query result",
+      "test result",
+      "return a result"
+    ]
+  }
+]

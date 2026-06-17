@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Ad-hoc",
+    "meaning": "Created or done for a particular purpose as necessary, not planned in advance; improvised.",
+    "shortMeaning": "improvised, for a specific situation",
+    "example": "We formed an ad-hoc committee to deal with the emergency.",
+    "example2": "The team used an ad-hoc solution to fix the immediate problem.",
+    "example3": "Ad-hoc network connections are temporary and unplanned.",
+    "Explanation": "Ad-hoc is a Latin phrase used as an adjective meaning 'for this.' It describes something temporary, specific, and often improvised to solve an immediate problem, as opposed to something planned, permanent, or systematic. In computing, an 'ad-hoc network' is a decentralized wireless network. While ad-hoc solutions can be clever and timely, relying on them long-term can lead to disorganization (technical debt). The term often carries a slightly informal or makeshift connotation. It's important to recognize when an ad-hoc approach is appropriate versus when a structured solution is needed.",
+    "synonyms": [
+      "impromptu",
+      "improvised",
+      "makeshift",
+      "extemporary",
+      "stopgap"
+    ],
+    "antonyms": [
+      "planned",
+      "systematic",
+      "permanent",
+      "structured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "ad-hoc",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem-solving, meetings, committees, networking, and temporary fixes.",
+    "usageTip": "Usually hyphenated. Can be placed before a noun (ad-hoc meeting) or after a verb (the solution was ad-hoc).",
+    "commonMistake": "Spelling it as 'ad hoc' (two words) when used as an adjective before a noun; hyphenation is standard in that case.",
+    "collocations": [
+      "ad-hoc basis",
+      "ad-hoc solution",
+      "ad-hoc query"
+    ]
+  },
+  {
+    "word": "Ad-hoc",
+    "meaning": "Created or done for a specific purpose or immediate need without long-term planning",
+    "shortMeaning": "unplanned or temporary",
+    "example": "We formed an ad-hoc committee to fix the sudden security leak.",
+    "example2": "An ad-hoc network allows two devices to connect directly without a router.",
+    "example3": "The data analyst ran an ad-hoc query to check today's sales anomalies.",
+    "Explanation": "The phrase 'ad-hoc' comes from Latin and means 'for this specific purpose'. In IT, it describes quick solutions, networks, or database queries built on the spot to solve a sudden issue. These solutions are temporary and lack a formal, pre-planned architecture. An ad-hoc network connects devices on the fly, and ad-hoc code is written quickly without long-term code management goals. It remains an adjective or adverb.",
+    "synonyms": [
+      "impromptu",
+      "makeshift",
+      "temporary"
+    ],
+    "antonyms": [
+      "planned",
+      "structured",
+      "permanent"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "ad-hoc",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Wireless networking, database queries, urgent meetings",
+    "usageTip": "Use 'ad-hoc' to describe temporary fixes or quick systems made without a long-term plan.",
+    "commonMistake": "Spelling it without a hyphen or treating it as a permanent technical architecture.",
+    "collocations": [
+      "ad-hoc network",
+      "ad-hoc query",
+      "ad-hoc solution"
+    ]
+  }
+]

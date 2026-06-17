@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Syndicated",
+    "meaning": "Published or distributed across multiple channels",
+    "shortMeaning": "widely distributed",
+    "example": "The news feed is syndicated across several platforms.",
+    "example2": "We have a syndicated content strategy.",
+    "example3": "The data is syndicated to all our partner sites.",
+    "Explanation": "To be 'syndicated' means that content, data, or news is made available for distribution by multiple outlets. It is common in content management, where you write something once and it appears in many places (RSS feeds, partner websites, etc.). It is about reach and efficiency. If your system handles data that needs to be sent to various locations, it is part of a syndication process. Use this term to describe multi-channel distribution.",
+    "synonyms": [
+      "distributed",
+      "published",
+      "broadcast"
+    ],
+    "antonyms": [
+      "exclusive",
+      "centralized"
+    ],
+    "nounForm": "syndication",
+    "verbForm": "syndicate",
+    "adjectiveForm": "syndicated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Content management, data distribution",
+    "usageTip": "Use to describe multi-channel data or content delivery.",
+    "commonMistake": "Confusing 'syndicated' with 'shared'; syndication often implies a commercial or automated process.",
+    "collocations": [
+      "syndicated content",
+      "syndicated feed",
+      "syndicated data"
+    ]
+  },
+  {
+    "word": "Syndicated",
+    "meaning": "Distributed or published through multiple channels",
+    "shortMeaning": "distributed",
+    "example": "The news feed is syndicated across several websites.",
+    "example2": "We use a syndicated database to collect market information.",
+    "example3": "The content is syndicated via RSS.",
+    "Explanation": "Syndication is the process of taking content or data and distributing it to multiple recipients or platforms. In IT, this is common with RSS feeds, news aggregators, and distributed data sources. It allows a single source of truth to reach many endpoints automatically. It is a powerful concept for content management and data broadcasting. When you see a feed that updates automatically across sites, it is likely being syndicated.",
+    "synonyms": [
+      "distributed",
+      "published",
+      "broadcast"
+    ],
+    "antonyms": [
+      "isolated",
+      "centralized",
+      "unpublished"
+    ],
+    "nounForm": "syndication",
+    "verbForm": "syndicate",
+    "adjectiveForm": "syndicated",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Content management, web feeds, data distribution",
+    "usageTip": "Use when describing content appearing in multiple places.",
+    "commonMistake": "Confusing 'syndicated' with 'shared'; syndication often implies automated delivery.",
+    "collocations": [
+      "syndicated content",
+      "syndicated feed",
+      "data syndication"
+    ]
+  }
+]

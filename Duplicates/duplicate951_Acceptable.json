@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Acceptable",
+    "meaning": "Able to be agreed on; satisfactory, though not outstanding.",
+    "shortMeaning": "satisfactory; good enough",
+    "example": "Your work is acceptable, but you could do better.",
+    "example2": "Is this dress acceptable for a wedding?",
+    "example3": "The noise level was barely acceptable to the neighbors.",
+    "Explanation": "'Acceptable' is an adjective meaning good enough to be received or allowed. It sets a minimum standard. It is often faint praise, meaning something is just okay, not great. The verb is 'accept'. It is used in formal and informal contexts to judge quality, behavior, or standards. It's a very common word for setting boundaries and expectations. For example, 'acceptable use policy' defines what you can and cannot do.",
+    "synonyms": [
+      "satisfactory",
+      "adequate",
+      "passable",
+      "tolerable"
+    ],
+    "antonyms": [
+      "unacceptable",
+      "unsatisfactory",
+      "inadequate"
+    ],
+    "nounForm": "acceptability",
+    "verbForm": "accept",
+    "adjectiveForm": "acceptable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Quality control, social norms, behavior, standards",
+    "usageTip": "Often used with 'barely', 'perfectly', or 'socially' to modify the degree.",
+    "commonMistake": "Thinking 'acceptable' means 'good'. It usually means 'just good enough to avoid rejection'.",
+    "collocations": [
+      "perfectly acceptable",
+      "acceptable standard",
+      "acceptable behavior"
+    ]
+  },
+  {
+    "word": "Acceptable",
+    "meaning": "Capable of being agreed to, satisfactory, or meeting the minimum required standards",
+    "shortMeaning": "satisfactory or good enough",
+    "example": "A page load time of under two seconds is considered acceptable for modern e-commerce sites.",
+    "example2": "The client found the initial prototype layout to be acceptable.",
+    "example3": "We need to ensure the system error rate remains within acceptable limits.",
+    "Explanation": "The word 'acceptable' describes things that meet a baseline level of quality, performance, or correctness. In IT agreements, terms like 'Acceptable Use Policy' (AUP) define the rules regarding how users can legally interact with a network or service. In performance tuning, developers set acceptable thresholds for server response times, latency, and resource usage. It does not mean perfect or outstanding, but rather adequate and sufficient to get the job done.",
+    "synonyms": [
+      "satisfactory",
+      "adequate",
+      "passable",
+      "admissible"
+    ],
+    "antonyms": [
+      "unacceptable",
+      "unsatisfactory",
+      "intolerable",
+      "inadequate"
+    ],
+    "nounForm": "acceptability",
+    "verbForm": "accept",
+    "adjectiveForm": "acceptable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Service level agreements, website performance metrics, policy guidelines",
+    "usageTip": "Use 'acceptable' to describe performance levels or behaviors that meet standard baseline rules without being exceptional.",
+    "commonMistake": "Spelling it as 'acceptible' with an 'i' instead of an 'a'.",
+    "collocations": [
+      "acceptable performance",
+      "acceptable use policy",
+      "acceptable limits"
+    ]
+  }
+]

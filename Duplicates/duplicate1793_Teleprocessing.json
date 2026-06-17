@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Teleprocessing",
+    "meaning": "Using a computer system to process data from a distant location using communication lines",
+    "shortMeaning": "remote data processing",
+    "example": "The bank uses teleprocessing to handle transactions from different branches.",
+    "example2": "Early teleprocessing allowed mainframes to connect with remote terminals.",
+    "example3": "The company upgraded its teleprocessing capabilities to improve speed.",
+    "Explanation": "Teleprocessing is a term used in computing to describe the processing of data that is sent from a remote location. It involves a combination of telecommunications and data processing techniques. This allows users at different sites to interact with a central computer system. In modern IT, this concept has largely evolved into cloud computing and distributed networking. It was essential for early enterprise systems where central control was necessary.",
+    "synonyms": [
+      "remote processing",
+      "distributed processing",
+      "telecommunications computing"
+    ],
+    "antonyms": [
+      "local processing",
+      "offline processing",
+      "standalone processing"
+    ],
+    "nounForm": "teleprocessing",
+    "verbForm": "teleprocess",
+    "adjectiveForm": "teleprocessing",
+    "partOfSpeech": "noun",
+    "commonContext": "Mainframe computing and early networking",
+    "usageTip": "Use this term when discussing the historical development of remote computer access.",
+    "commonMistake": "Confusing it with simple data transfer; teleprocessing specifically involves 'processing' at the destination.",
+    "collocations": [
+      "teleprocessing monitor",
+      "teleprocessing network",
+      "centralized teleprocessing"
+    ]
+  },
+  {
+    "word": "Teleprocessing",
+    "meaning": "Processing data that is transmitted from a remote location.",
+    "shortMeaning": "remote-processing",
+    "example": "The legacy system uses teleprocessing to update the database.",
+    "example2": "Teleprocessing was common before high-speed local networks.",
+    "example3": "We are upgrading the old teleprocessing architecture.",
+    "Explanation": "Teleprocessing is an older term for data processing involving data transmission over a network. It dates back to the era of mainframe computing, where 'dumb terminals' were connected to a central processor via phone lines. While we now use 'cloud computing' or 'distributed systems', 'teleprocessing' is a foundational concept. It is mostly found in technical history, legacy system maintenance, or specific networking theory.",
+    "synonyms": [
+      "remote-processing",
+      "networked-data-processing"
+    ],
+    "antonyms": [
+      "local-processing",
+      "on-premises-processing"
+    ],
+    "nounForm": "teleprocessing",
+    "verbForm": "N/A",
+    "adjectiveForm": "teleprocessing",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Legacy systems, history, networking",
+    "usageTip": "Use 'teleprocessing' only when referring to historical or legacy systems.",
+    "commonMistake": "Using it instead of 'cloud processing' or 'distributed computing'.",
+    "collocations": [
+      "teleprocessing system",
+      "teleprocessing architecture",
+      "teleprocessing network"
+    ]
+  },
+  {
+    "word": "Teleprocessing",
+    "meaning": "The processing of data that is transmitted from one location to another via a telecommunications network",
+    "shortMeaning": "remote data processing",
+    "example": "The company uses teleprocessing for their distributed servers.",
+    "example2": "Early computers relied heavily on teleprocessing.",
+    "example3": "The teleprocessing system connects all regional offices.",
+    "Explanation": "The word 'teleprocessing' refers to data processing where the data and the computer are connected over a distance. It was a key concept in the development of modern networking. It involves sending raw data to a remote computer, which processes it and sends back the result. While modern cloud computing has changed how we do this, the term is still used in historical or specific enterprise architecture contexts. It is a noun.",
+    "synonyms": [
+      "remote processing",
+      "network processing",
+      "distributed computing"
+    ],
+    "antonyms": [
+      "local processing",
+      "standalone processing"
+    ],
+    "nounForm": "teleprocessing",
+    "verbForm": "teleprocess",
+    "adjectiveForm": "teleprocessing",
+    "partOfSpeech": "noun",
+    "commonContext": "Networking, history of computing, enterprise systems",
+    "usageTip": "Use 'teleprocessing' in technical or historical contexts regarding remote data systems.",
+    "commonMistake": "Confusing it with modern 'cloud computing'; teleprocessing is an older term.",
+    "collocations": [
+      "teleprocessing system",
+      "teleprocessing network",
+      "teleprocessing link"
+    ]
+  }
+]

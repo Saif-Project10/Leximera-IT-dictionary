@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Alternative",
+    "meaning": "One of two or more available possibilities; something that can be chosen instead of something else. | One of two or more available possibilities; a choice between mutually exclusive options.",
+    "shortMeaning": "another option",
+    "example": "We need to consider an alternative route due to the road closure.",
+    "example2": "Solar power is a clean alternative to fossil fuels.",
+    "example3": "If the first plan fails, we have an alternative ready.",
+    "Explanation": "An alternative is a different choice or option that can replace the standard or initial one. It implies the existence of at least one other viable path. The word is neutral but often carries a positive connotation of flexibility, problem-solving, or innovation (e.g., alternative energy, alternative medicine). It's important to note that 'alternative' suggests a substitution *between* options, while 'option' can be any possibility, not necessarily a replacement. The word is fundamental in decision-making, planning, and creative thinking.",
+    "synonyms": [
+      "Backup",
+      "Choice",
+      "Option",
+      "Replacement",
+      "Substitute"
+    ],
+    "antonyms": [
+      "Necessity",
+      "Only Option",
+      "Requirement",
+      "Standard"
+    ],
+    "nounForm": "alternative",
+    "verbForm": "N/A",
+    "adjectiveForm": "alternative",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Decision-making, problem-solving, energy sources, lifestyles, routes",
+    "usageTip": "As a noun, it's often followed by 'to' (an alternative to driving). As an adjective, it describes something non-traditional (alternative music).",
+    "commonMistake": "Saying 'alternate' when you mean 'alternative'. In American English, 'alternate' often means every other one (alternate days), while 'alternative' means another option.",
+    "collocations": [
+      "alternative to",
+      "alternative solution",
+      "alternative energy",
+      "no alternative"
+    ]
+  },
+  {
+    "word": "Alternative",
+    "meaning": "Another option, choice, or solution that can be selected instead of the current one",
+    "shortMeaning": "different choice",
+    "example": "If the primary server fails, the system switches to an alternative hosting provider.",
+    "example2": "We need to find an alternative method for processing payments online.",
+    "example3": "The developer suggested an alternative framework that is faster and lighter.",
+    "Explanation": "The word 'alternative' refers to a different choice available from a set of possibilities. In IT architecture, having alternative strategies, platforms, or paths ensures system redundancy and flexibility when things go wrong. The noun form is also 'alternative' and the adverb form is 'alternatively'. There is no direct verb form for 'alternative' itself, as the actions are covered by 'alternate'. It highlights system choices.",
+    "synonyms": [
+      "option",
+      "substitute",
+      "choice"
+    ],
+    "antonyms": [
+      "compulsory",
+      "mandatory",
+      "sole"
+    ],
+    "nounForm": "alternative",
+    "verbForm": "N/A",
+    "adjectiveForm": "alternative",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "System design, problem-solving discussions, and configuration selections",
+    "usageTip": "Use 'alternative' when offering an entirely different option or path to solve a single problem.",
+    "commonMistake": "Using 'alternative' when there are more than two choices; traditionally it meant one of two, but in modern tech, it can mean any available option.",
+    "collocations": [
+      "alternative solution",
+      "alternative approach",
+      "no alternative"
+    ]
+  }
+]

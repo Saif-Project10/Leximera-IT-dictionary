@@ -1,0 +1,64 @@
+[
+  {
+    "word": "More",
+    "meaning": "A greater or additional amount or degree",
+    "shortMeaning": "greater amount",
+    "example": "I need more time to finish this.",
+    "example2": "She has more experience than I do.",
+    "example3": "Would you like some more coffee?",
+    "Explanation": "'More' is the comparative form of 'much' and 'many'. It is used with uncountable and plural nouns to indicate a greater quantity. It is one of the most common words in English, essential for making comparisons. It can also be an adverb ('more quickly'). The opposite is 'less' (for uncountables) or 'fewer' (for countables). Its simplicity and frequency make it a foundational word for all learners.",
+    "synonyms": [
+      "additional",
+      "extra",
+      "greater",
+      "further"
+    ],
+    "antonyms": [
+      "less",
+      "fewer"
+    ],
+    "nounForm": "more",
+    "verbForm": "N/A",
+    "adjectiveForm": "more (comparative adjective/adverb)",
+    "partOfSpeech": "determiner, pronoun, adverb",
+    "commonContext": "Comparisons, quantities, requests",
+    "usageTip": "Use 'more' before nouns or with adjectives/adverbs to show a greater amount or degree.",
+    "commonMistake": "Using 'more' with adjectives that already have a comparative form (e.g., 'more better' is wrong; use 'better').",
+    "collocations": [
+      "more and more",
+      "more or less",
+      "what's more",
+      "once more"
+    ]
+  },
+  {
+    "word": "More",
+    "meaning": "A greater amount or degree of something",
+    "shortMeaning": "greater",
+    "example": "This solution is more efficient than the old one.",
+    "example2": "We need more memory to run the simulation.",
+    "example3": "The design is more user-friendly now.",
+    "Explanation": "The word 'more' is a comparative word used to indicate a larger quantity, degree, or intensity. It is fundamental for all comparative analysis in IT, such as saying one feature is 'more secure', 'more scalable', or 'more complex' than another. It is a foundational comparative tool. It is used constantly to describe improvements or increases in performance, resources, or complexity.",
+    "synonyms": [
+      "greater",
+      "additional",
+      "extra"
+    ],
+    "antonyms": [
+      "less",
+      "fewer"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "more",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "General comparisons, performance",
+    "usageTip": "Use 'more' for comparing qualities and quantities.",
+    "commonMistake": "Confusing 'more' (general) with specific units (like 'faster' or 'larger').",
+    "collocations": [
+      "more efficient",
+      "more scalable",
+      "need more"
+    ]
+  }
+]

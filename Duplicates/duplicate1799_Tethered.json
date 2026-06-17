@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Tethered",
+    "meaning": "Connected to another device, usually by a wire or a close wireless link",
+    "shortMeaning": "physically connected",
+    "example": "The VR headset must be tethered to a powerful PC to work.",
+    "example2": "The camera was tethered to the laptop for instant photo uploads.",
+    "example3": "A tethered device has limited movement but a very stable connection.",
+    "Explanation": "The word 'tethered' comes from the idea of tying an animal to a post. In technology, it means one device is connected to another to share resources like power, data, or internet. A classic example is 'tethering' a laptop to a smartphone to use its mobile data. Tethered connections are usually more reliable and faster than completely wireless ones. However, the downside is that the device is not truly mobile because it is 'tied' to the other machine. It is commonly used in photography, virtual reality, and mobile internet contexts.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "attached"
+    ],
+    "antonyms": [
+      "untethered",
+      "wireless",
+      "standalone"
+    ],
+    "nounForm": "tethering",
+    "verbForm": "tether",
+    "adjectiveForm": "tethered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile devices, photography, and VR",
+    "usageTip": "Use 'tethered' when a device relies on a physical or very close connection to function.",
+    "commonMistake": "Confusing 'tethered' with 'wired' only; it can also refer to a wireless hotspot link.",
+    "collocations": [
+      "tethered shooting",
+      "tethered connection",
+      "tethered VR"
+    ]
+  },
+  {
+    "word": "Tethered",
+    "meaning": "Connected or restricted to a specific device or network.",
+    "shortMeaning": "connected to something",
+    "example": "The device is tethered to the main server for data updates.",
+    "example2": "The headset must remain tethered to the PC for performance.",
+    "example3": "Do not leave the system tethered if you need portability.",
+    "Explanation": "The word 'tethered' describes a connection where one component is dependent on another to function. In networking, 'tethering' often refers to sharing a smartphone's internet connection with a laptop. In hardware, it means the device is physically or logically restricted to be near or connected to its host. It limits mobility but ensures the device has access to the resources or bandwidth of the host.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "bound"
+    ],
+    "antonyms": [
+      "unbound",
+      "portable",
+      "independent"
+    ],
+    "nounForm": "tether",
+    "verbForm": "tether",
+    "adjectiveForm": "tethered",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking and hardware",
+    "usageTip": "Use 'tethered' for connections that restrict mobility.",
+    "commonMistake": "Confusing 'tethered' (dependent) with 'connected' (often temporary).",
+    "collocations": [
+      "tethered device",
+      "tethered connection"
+    ]
+  },
+  {
+    "word": "Tethered",
+    "meaning": "Connected to another device to use its internet or power",
+    "shortMeaning": "physically connected",
+    "example": "The laptop is tethered to his mobile phone.",
+    "example2": "He worked while tethered to a hotspot.",
+    "example3": "Keep the device tethered during the update.",
+    "Explanation": "Tethered refers to connecting one electronic device to another, often to share an internet connection. It is commonly used when sharing a phone's data connection with a laptop. In some contexts, it can also refer to a device physically connected to a power source or a computer. The term is widely understood in networking and mobile computing. It suggests a dependent or temporary connection.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "coupled"
+    ],
+    "antonyms": [
+      "disconnected",
+      "wireless",
+      "unattached"
+    ],
+    "nounForm": "tether",
+    "verbForm": "tether",
+    "adjectiveForm": "tethered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile connectivity, networking",
+    "usageTip": "Use this when describing a device sharing another device's data.",
+    "commonMistake": "Confusing tethered with general Wi-Fi connectivity.",
+    "collocations": [
+      "tethered connection",
+      "tethered to phone",
+      "tethered device"
+    ]
+  }
+]

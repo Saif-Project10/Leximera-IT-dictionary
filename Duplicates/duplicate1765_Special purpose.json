@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Special purpose",
+    "meaning": "Designed or used for one specific job or task rather than for general use",
+    "shortMeaning": "single-task design",
+    "example": "A special purpose computer was built just to predict the weather.",
+    "example2": "This special purpose tool is only used for repairing fiber optic cables.",
+    "example3": "The room was designed for the special purpose of recording podcasts.",
+    "Explanation": "The term 'special purpose' describes anything that is customized for a single, unique function. In computing, a 'special purpose computer' (like a router or a calculator) is designed to do one thing very well, unlike a 'general purpose' computer (like a laptop) that can do many different things. Using special purpose tools often results in better efficiency and speed because the design doesn't have to account for unrelated tasks. It is common in industrial settings, high-end science, and hardware engineering where performance on a specific task is the only priority.",
+    "synonyms": [
+      "dedicated",
+      "specialized",
+      "bespoke"
+    ],
+    "antonyms": [
+      "general purpose",
+      "multi-purpose",
+      "versatile"
+    ],
+    "nounForm": "special purpose",
+    "verbForm": "N/A",
+    "adjectiveForm": "special-purpose",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Engineering, manufacturing, and hardware",
+    "usageTip": "Use this to describe something that does not have multiple functions.",
+    "commonMistake": "Confusing it with 'limited'; something special-purpose might be the most powerful in its field.",
+    "collocations": [
+      "special purpose vehicle",
+      "special purpose hardware",
+      "built for a special purpose"
+    ]
+  },
+  {
+    "word": "Special purpose",
+    "meaning": "Designed for one specific task rather than general use.",
+    "shortMeaning": "designed for one thing",
+    "example": "We use a special purpose computer for this simulation.",
+    "example2": "This special purpose software is for accounting only.",
+    "example3": "The special purpose device is optimized for data logging.",
+    "Explanation": "A 'special purpose' tool or system is built specifically for one function, unlike a 'general-purpose' system (like a standard laptop). 'Special purpose' tech is often faster, more efficient, and more reliable at its specific task because it isn't burdened by unnecessary features. Examples include ASIC chips, specialized scientific sensors, or dedicated hardware firewalls. It is an adjective phrase. Use it when describing hardware or software built for a unique, narrow application.",
+    "synonyms": [
+      "niche",
+      "dedicated",
+      "task-specific"
+    ],
+    "antonyms": [
+      "general-purpose",
+      "multi-purpose"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "special-purpose",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Hardware engineering, industrial software",
+    "usageTip": "Use 'special-purpose' for tools meant for one specific job.",
+    "commonMistake": "Assuming all special-purpose software is expensive.",
+    "collocations": [
+      "special purpose computer",
+      "special purpose device",
+      "special purpose software"
+    ]
+  }
+]

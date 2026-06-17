@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Incorrect",
+    "meaning": "Not in accordance with fact or truth; wrong",
+    "shortMeaning": "wrong, not correct",
+    "example": "Your answer is incorrect.",
+    "example2": "He was given incorrect directions and got lost.",
+    "example3": "It is incorrect to assume she will agree.",
+    "Explanation": "'Incorrect' is a common and direct adjective meaning wrong, mistaken, or inaccurate. It is the opposite of 'correct'. This word is used in education, testing, information sharing, and everyday correction. It is slightly more formal than 'wrong'. The noun is 'incorrectness'. Pointing out incorrect information is important for accuracy and learning. The word is neutral in tone but clearly identifies an error. It's a fundamental word for maintaining standards of truth and precision in communication and knowledge.",
+    "synonyms": [
+      "wrong",
+      "mistaken",
+      "erroneous",
+      "inaccurate",
+      "false"
+    ],
+    "antonyms": [
+      "correct",
+      "right",
+      "accurate",
+      "true"
+    ],
+    "nounForm": "incorrectness",
+    "verbForm": "N/A",
+    "adjectiveForm": "incorrect",
+    "partOfSpeech": "adjective",
+    "commonContext": "Answers, information, assumptions, procedures",
+    "usageTip": "Use 'incorrect' to state that something is factually wrong or not in accordance with rules.",
+    "commonMistake": "Using 'uncorrect'. The standard form is 'incorrect'.",
+    "collocations": [
+      "politically incorrect",
+      "incorrect spelling",
+      "prove incorrect"
+    ]
+  },
+  {
+    "word": "Incorrect",
+    "meaning": "Not correct; wrong",
+    "shortMeaning": "wrong",
+    "example": "The script exited because of an incorrect configuration file.",
+    "example2": "Please verify that the password you entered is not incorrect.",
+    "example3": "The output provided by the API was incorrect.",
+    "Explanation": "The word 'incorrect' is a direct, clear way to say that something is wrong. In programming, 'incorrect' is used for values, logic, or syntax. Unlike 'inaccurate' (which might mean slightly off), 'incorrect' means it is simply not the right answer. It is a standard, essential word for debugging and error handling.",
+    "synonyms": [
+      "wrong",
+      "erroneous",
+      "mistaken"
+    ],
+    "antonyms": [
+      "correct",
+      "right",
+      "accurate"
+    ],
+    "nounForm": "incorrectness",
+    "verbForm": "N/A",
+    "adjectiveForm": "incorrect",
+    "partOfSpeech": "adjective",
+    "commonContext": "Error messages, debugging, data validation",
+    "usageTip": "Use 'incorrect' for anything that is clearly wrong.",
+    "commonMistake": "Confusing 'incorrect' (wrong) with 'inaccurate' (imprecise).",
+    "collocations": [
+      "incorrect value",
+      "incorrect password",
+      "incorrect configuration"
+    ]
+  }
+]

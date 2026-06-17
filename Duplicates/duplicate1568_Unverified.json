@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unverified",
+    "meaning": "Not confirmed or substantiated; not checked for accuracy or truth",
+    "shortMeaning": "not confirmed",
+    "example": "The news story was based on unverified reports.",
+    "example2": "Do not share unverified information on social media.",
+    "example3": "His claims about the product remain unverified.",
+    "Explanation": "The adjective 'unverified' describes information, claims, accounts, or identities that have not yet been subjected to a process of verification—that is, checking to establish their truth, accuracy, or authenticity. In journalism, sharing unverified information is considered unethical because it can spread misinformation. In cybersecurity, an unverified user is one whose identity has not been confirmed. The term is neutral regarding the truth of the information; it simply states that proof is lacking. It is a cautionary word, urging skepticism and further checking. It is the opposite of 'verified', 'confirmed', or 'authenticated'.",
+    "synonyms": [
+      "unconfirmed",
+      "unsubstantiated",
+      "unchecked",
+      "uncorroborated"
+    ],
+    "antonyms": [
+      "verified",
+      "confirmed",
+      "substantiated",
+      "authenticated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "verify",
+    "adjectiveForm": "unverified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Journalism, research, cybersecurity, rumor control",
+    "usageTip": "Use as a warning label for information that should be treated with caution.",
+    "commonMistake": "Assuming 'unverified' means 'false'; it means 'not yet proven true or false'.",
+    "collocations": [
+      "unverified information",
+      "unverified claim",
+      "unverified report",
+      "unverified user"
+    ]
+  },
+  {
+    "word": "Unverified",
+    "meaning": "Not checked, confirmed, or validated for accuracy.",
+    "shortMeaning": "not confirmed",
+    "example": "The bug report is still unverified by the team.",
+    "example2": "Avoid using unverified user account information.",
+    "example3": "The installer includes many unverified third-party libraries.",
+    "Explanation": "The word 'unverified' means that the truth, validity, or status of something has not been officially confirmed. In IT, this is common in error reports, user identity, or software signatures. The base verb is 'verify'. It implies that while something might be true, you should not rely on it until it undergoes a verification process. It is a crucial step in maintaining quality and security.",
+    "synonyms": [
+      "unconfirmed",
+      "unvalidated",
+      "unchecked"
+    ],
+    "antonyms": [
+      "verified",
+      "confirmed",
+      "validated"
+    ],
+    "nounForm": "verification",
+    "verbForm": "verify",
+    "adjectiveForm": "unverified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Quality assurance, identity management, and debugging",
+    "usageTip": "Use 'unverified' to suggest that information needs more testing.",
+    "commonMistake": "Treating unverified information as fact.",
+    "collocations": [
+      "unverified information",
+      "unverified user",
+      "unverified report"
+    ]
+  },
+  {
+    "word": "Unverified",
+    "meaning": "Not yet proven or confirmed to be accurate",
+    "shortMeaning": "unconfirmed",
+    "example": "The bug report is still unverified by the support team.",
+    "example2": "Do not use unverified data for critical calculations.",
+    "example3": "The user provided an unverified email address.",
+    "Explanation": "Unverified means that the accuracy, identity, or truth of something has not been established through a confirmation process. In software development, unverified reports must be tested to see if they are reproducible. In data entry, unverified information should be treated with caution as it may be incorrect. Verification is a key step in ensuring quality and security in IT. Until information is verified, it should not be treated as a source of truth for critical system functions.",
+    "synonyms": [
+      "unconfirmed",
+      "unproven",
+      "unchecked"
+    ],
+    "antonyms": [
+      "verified",
+      "confirmed",
+      "proven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unverified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug reporting and data processing",
+    "usageTip": "Use it to show that you are still checking information.",
+    "commonMistake": "Treating unverified information as fact.",
+    "collocations": [
+      "unverified data",
+      "unverified report",
+      "remains unverified"
+    ]
+  }
+]

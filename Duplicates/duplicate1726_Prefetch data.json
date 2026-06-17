@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Prefetch data",
+    "meaning": "The actual information that is retrieved in advance and stored in a buffer",
+    "shortMeaning": "ahead-of-time data",
+    "example": "The system is currently loading prefetch data for the next level of the game.",
+    "example2": "Prefetch data must be validated before it is used by the application.",
+    "example3": "Clearing the prefetch data can help troubleshoot certain loading errors.",
+    "Explanation": "Prefetch data refers to the bytes, instructions, or files that are moved from a slow storage location to a faster one before they are explicitly requested. For example, when you hover over a link and the browser starts downloading the page content, that content is prefetch data. In a CPU, prefetch data consists of machine instructions that are likely to be executed next. This data is speculative; it might never actually be used if the program takes a different path (like an 'if' statement going the other way).",
+    "synonyms": [
+      "cached data",
+      "anticipatory data"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "prefetch data",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Web performance, Game development, Low-level computing",
+    "usageTip": "Use this when referring to the content itself rather than the process or the container.",
+    "commonMistake": "Thinking prefetch data is permanent; it is usually temporary and overwritten quickly.",
+    "collocations": [
+      "load prefetch data",
+      "prefetch data request",
+      "invalid prefetch data"
+    ]
+  },
+  {
+    "word": "Prefetch data",
+    "meaning": "To load data into a fast memory area before it is actually needed by the computer",
+    "shortMeaning": "load data early",
+    "example": "Modern browsers prefetch data from links to make pages load faster.",
+    "example2": "The CPU will prefetch data from the RAM to reduce waiting time.",
+    "example3": "We can prefetch data for the next screen while the user is still reading the current one.",
+    "Explanation": "Prefetching is a technique used to improve the speed of a computer or application. It works by predicting what data will be needed in the near future and moving it to a faster storage area (like a cache) in advance. This way, when the processor actually asks for the data, it is already there and ready to use. It is like a chef getting ingredients ready on the table before they start cooking. While it makes things faster, it can sometimes waste energy or bandwidth if the data is never actually used. It is a key concept in computer architecture and web performance.",
+    "synonyms": [
+      "load in advance",
+      "pre-load",
+      "anticipate data"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "prefetching",
+    "verbForm": "prefetch data",
+    "adjectiveForm": "prefetched",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Web Development, Computer Science, and Performance Tuning",
+    "usageTip": "Use this when you want to describe a system that prepares data ahead of time to save time later.",
+    "commonMistake": "Confusing it with 'caching'; caching saves data *after* it's used, while prefetching gets it *before*.",
+    "collocations": [
+      "instruction prefetch",
+      "link prefetching",
+      "data prefetcher"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Mark to market",
+    "meaning": "A way of valuing an asset based on its current market price rather than its original cost",
+    "shortMeaning": "current price valuation",
+    "example": "The bank had to mark to market its investments, which showed a loss because of the falling prices.",
+    "example2": "Mark to market gives a more realistic view of a company's current wealth.",
+    "example3": "The trader's profit is calculated daily using a mark to market approach.",
+    "Explanation": "Mark to market (MTM) is a rule in accounting and finance. Imagine you bought a house for $100,000. In 'cost accounting,' you always say it's worth $100,000. But in 'mark to market,' if the houses next door are now selling for $120,000, you change your record to say your house is worth $120,000. This is very common in the stock market. At the end of every day, brokers 'mark' your stocks to their closing price to see if you have enough money. It is more accurate for things that change price quickly, but it can make a company's bank account look very unstable during a market crash.",
+    "synonyms": [
+      "fair value accounting",
+      "MTM"
+    ],
+    "antonyms": [
+      "historical cost accounting"
+    ],
+    "nounForm": "mark-to-market",
+    "verbForm": "mark to market",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun phrase",
+    "commonContext": "Banking, trading, and corporate accounting",
+    "usageTip": "Use mark to market to get a 'real-time' understanding of your investment portfolio's value.",
+    "commonMistake": "Assuming mark to market is always 'better'; it can lead to panic selling when prices drop temporarily.",
+    "collocations": [
+      "mark to market losses",
+      "mark to market valuation",
+      "daily mark to market"
+    ]
+  },
+  {
+    "word": "Mark to market",
+    "meaning": "The act of recording the price or value of an asset based on the current market price.",
+    "shortMeaning": "updating to current market price",
+    "example": "The company had to mark to market its investment portfolio at the end of the quarter.",
+    "example2": "Financial institutions use this method to provide a realistic valuation of their assets.",
+    "example3": "The accountant explained how they mark to market the trading securities daily.",
+    "Explanation": "Mark to market is a standard accounting practice used to measure the fair value of accounts that can fluctuate over time. It provides a snapshot of an asset's worth based on what it would fetch in the current market. This approach is essential for transparency in finance and trading. It helps investors understand the current financial health of a company or fund. Consistent use of this method prevents hidden losses by forcing regular price adjustments.",
+    "synonyms": [
+      "fair value accounting",
+      "market valuation"
+    ],
+    "antonyms": [
+      "historical cost accounting"
+    ],
+    "nounForm": "mark-to-market",
+    "verbForm": "mark to market",
+    "adjectiveForm": "mark-to-market",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Finance, Accounting, Trading",
+    "usageTip": "Commonly used in financial reports and investment analysis.",
+    "commonMistake": "Ignoring the fact that it can lead to high volatility in reported earnings.",
+    "collocations": [
+      "mark to market accounting",
+      "mark to market valuation",
+      "daily mark to market"
+    ]
+  }
+]

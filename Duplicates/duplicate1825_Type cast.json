@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Type cast",
+    "meaning": "To manually change a piece of data from one type to another.",
+    "shortMeaning": "manual type change",
+    "example": "You need to type cast the string '10' into an integer to do math.",
+    "example2": "The compiler will complain if you don't type cast that pointer.",
+    "example3": "Be careful when you type cast, as you might lose data.",
+    "Explanation": "Type cast is the action of converting a variable from one data type to another. For example, converting a decimal (float) to a whole number (int). This is usually done by the programmer explicitly. In many languages, you put the desired type in parentheses before the variable. It is a powerful tool but can be dangerous if the types are not compatible. It is common when working with user input or different API responses.",
+    "synonyms": [
+      "cast",
+      "explicit conversion",
+      "type conversion"
+    ],
+    "antonyms": [
+      "type coercion",
+      "implicit conversion",
+      "N/A"
+    ],
+    "nounForm": "type cast",
+    "verbForm": "type cast",
+    "adjectiveForm": "type-cast",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "C++, Java, and low-level programming",
+    "usageTip": "Use 'type cast' when you are intentionally forcing a conversion.",
+    "commonMistake": "Casting a large number into a small type, which causes 'overflow'.",
+    "collocations": [
+      "explicit type cast",
+      "type cast to integer",
+      "perform a type cast"
+    ]
+  },
+  {
+    "word": "Type cast",
+    "meaning": "Changing a variable from one data type to another.",
+    "shortMeaning": "changing data type",
+    "example": "You need to type cast the integer to a string to display it.",
+    "example2": "The language allows you to type cast objects automatically.",
+    "example3": "He had to type cast the result to a float to get a decimal.",
+    "Explanation": "Type cast involves converting a value from one specific data type into another, such as turning a number into text. This is a common operation in programming languages to ensure that data is in the correct format for a specific function or calculation. It can be done implicitly by the compiler or explicitly by the programmer using special syntax. Incorrectly performing a type cast can lead to errors or unexpected data loss in your program. Always verify that your data is compatible before attempting to convert it.",
+    "synonyms": [
+      "type conversion",
+      "casting"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "type casting",
+    "verbForm": "type cast",
+    "adjectiveForm": "type-casted",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming and software development",
+    "usageTip": "Be careful with data loss during explicit casting.",
+    "commonMistake": "Trying to cast incompatible types like a string directly to an integer.",
+    "collocations": [
+      "explicit type cast",
+      "implicit type cast",
+      "type cast error"
+    ]
+  },
+  {
+    "word": "Type cast",
+    "meaning": "To manually convert a data variable value from one specific programming data type into another type explicitly",
+    "shortMeaning": "convert variable data types explicitly",
+    "example": "You must type cast the user text input string into a number before performing mathematical sums.",
+    "example2": "The compiler will throw an error if you do not type cast the object variable safely.",
+    "example3": "In backend web languages, developers type cast structures to maintain strict data format rules.",
+    "Explanation": "The phrase 'type cast' describes an explicit variable conversion action in software development. Computer variables exist as distinct types like strings, integers, booleans, or objects. Type casting occurs when a programmer forces the system to treat a variable of one type as if it belonged to a different type—such as converting the text character '5' into the mathematical value 5. It is a foundational concept in structured programming, error prevention, and API data management processes.",
+    "synonyms": [
+      "cast data types",
+      "convert explicitly",
+      "transform variable formats"
+    ],
+    "antonyms": [
+      "implicit conversion",
+      "coercion"
+    ],
+    "nounForm": "type casting",
+    "verbForm": "type cast",
+    "adjectiveForm": "type-cast",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Data processing logic, variable value sanitization, and backend software engineering",
+    "usageTip": "Use this phrase when talking about manually changing how a computer language interprets a variable's data format.",
+    "commonMistake": "Do not confuse programming 'type cast' with the theatrical acting term meaning to cast an actor in repetitive roles.",
+    "collocations": [
+      "type cast a string",
+      "explicitly type cast",
+      "type cast to integer"
+    ]
+  }
+]

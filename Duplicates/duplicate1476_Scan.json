@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Scan",
+    "meaning": "To look at all parts of something carefully in order to detect some feature; to convert a document into a digital image.",
+    "shortMeaning": "examine; digitize",
+    "example": "She scanned the crowd for her friend's face.",
+    "example2": "Please scan this document and email it to me.",
+    "example3": "The radar scans the sky for aircraft.",
+    "Explanation": "To 'scan' is a verb with two common modern meanings. The first is to look over quickly but thoroughly, searching for something specific. The second is to use a scanner to create a digital copy of a document or image. In medicine, a 'scan' (noun) is an image produced by a scanning machine (CT scan). The word implies a systematic, sweeping examination. It's a versatile word used in security, publishing, medicine, and computing. The noun form is 'scan'.",
+    "synonyms": [
+      "examine",
+      "skim",
+      "digitize",
+      "sweep"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "nounForm": "scan",
+    "verbForm": "scan",
+    "adjectiveForm": "scanned",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Security, digitization, medicine, reading",
+    "usageTip": "For reading, 'scan' means to look quickly for specific info. 'Skim' means to read quickly for general ideas.",
+    "commonMistake": "Confusing 'scan' (to digitize) with 'scam' (a fraudulent scheme).",
+    "collocations": [
+      "scan a document",
+      "body scan",
+      "scan the horizon",
+      "quick scan"
+    ]
+  },
+  {
+    "word": "Scan",
+    "meaning": "To quickly look through, read, or examine data, code, or physical codes to gather details",
+    "shortMeaning": "examine or read quickly",
+    "example": "The script will scan the entire text document to find target email addresses.",
+    "example2": "You can use your smartphone camera to scan the discount barcode.",
+    "example3": "The printer can scan physical pages and turn them into digital PDF files.",
+    "Explanation": "The word 'Scan' means to inspect a system or read a dataset quickly but systematically to find specific pieces of information. In computing, it applies to many areas: software can scan a directory file list, security tools can scan for virus definitions, and hardware tools can scan physical papers or paper tags. The main purpose of any scan operation is data extraction or verification. It provides a fast, automated way to process large volumes of information without manual searching, boosting digital workflow speeds.",
+    "synonyms": [
+      "examine",
+      "inspect",
+      "browse"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "glance away"
+    ],
+    "nounForm": "scanner / scan",
+    "verbForm": "scan",
+    "adjectiveForm": "scanned",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Document digitization, text pattern searches, everyday smartphone barcode reading",
+    "usageTip": "Use 'scan' when describing automated programs that review a file or dataset looking for particular entries.",
+    "commonMistake": "Spelling it as 'scaning' with a single 'n' in the continuous form; the correct spelling is 'scanning'.",
+    "collocations": [
+      "scan a document",
+      "scan code",
+      "quickly scan"
+    ]
+  }
+]

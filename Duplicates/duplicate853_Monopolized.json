@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Monopolized",
+    "meaning": "Taken exclusive possession or control of something; dominated.",
+    "shortMeaning": "took exclusive control of",
+    "example": "One company monopolized the entire market.",
+    "example2": "She monopolized the conversation, not letting anyone else speak.",
+    "example3": "His illness monopolized all of her attention.",
+    "Explanation": "This is the past tense or past participle of the verb 'monopolize'. In economics, it means to have exclusive control of a commodity or service. In social situations, it means to dominate a conversation or activity so that others cannot participate. The noun form is 'monopoly'. The word implies an unfair or excessive concentration of control, whether over markets, resources, or attention. Laws often exist to prevent companies from monopolizing markets.",
+    "synonyms": [
+      "dominated",
+      "cornered",
+      "hogged",
+      "controlled"
+    ],
+    "antonyms": [
+      "shared",
+      "distributed",
+      "relinquished"
+    ],
+    "nounForm": "monopoly",
+    "verbForm": "monopolize",
+    "adjectiveForm": "monopolized",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Economics, conversations, attention, resources",
+    "usageTip": "Use 'monopolized' to describe a situation where one entity has taken complete control, to the exclusion of others.",
+    "commonMistake": "Using 'monopolized' to simply mean 'had a lot of'. It implies exclusive or excessive control that prevents others from having any.",
+    "collocations": [
+      "monopolized the market",
+      "monopolized the discussion",
+      "effectively monopolized"
+    ]
+  },
+  {
+    "word": "Monopolized",
+    "meaning": "Controlled entirely by one person, company, or entity",
+    "shortMeaning": "dominated by one",
+    "example": "The processor was monopolized by a single background task.",
+    "example2": "A few large companies have monopolized the market.",
+    "example3": "The thread monopolized all available memory.",
+    "Explanation": "The word 'monopolized' means one entity has taken total control of a resource, excluding everyone else. In IT, a process that 'monopolizes' the CPU is one that is using all the processing power, preventing other programs from running smoothly. It describes a situation of imbalance. It is a strong, negative term because it implies that others are being unfairly blocked or limited by the one dominating entity.",
+    "synonyms": [
+      "dominated",
+      "controlled",
+      "occupied"
+    ],
+    "antonyms": [
+      "shared",
+      "distributed",
+      "open"
+    ],
+    "nounForm": "monopoly",
+    "verbForm": "monopolize",
+    "adjectiveForm": "monopolized",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "System resources, market analysis",
+    "usageTip": "Use to describe unfair dominance of a resource.",
+    "commonMistake": "Using 'monopolized' for simple high usage; it implies *complete* control.",
+    "collocations": [
+      "monopolized the CPU",
+      "monopolized the connection",
+      "completely monopolized"
+    ]
+  }
+]

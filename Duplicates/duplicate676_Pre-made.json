@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Pre-made",
+    "meaning": "Made or prepared in advance, before it is needed.",
+    "shortMeaning": "made beforehand",
+    "example": "I bought a pre-made pie crust from the store.",
+    "example2": "The company uses pre-made components in its assembly line.",
+    "example3": "She avoids pre-made meals and prefers to cook from scratch.",
+    "Explanation": "'Pre-made' describes something that has been manufactured, assembled, or cooked before the time of use or sale. It emphasizes convenience and time-saving. It's common for food (pre-made salads, sauces), software (pre-made templates), and products (pre-made furniture). It often contrasts with 'homemade' or 'custom-made', sometimes implying less freshness or personalization. The term is straightforward: 'pre' means before, so it's made before you get it. It's a practical word in retail, cooking, and product design.",
+    "synonyms": [
+      "ready-made",
+      "prepared",
+      "off-the-shelf",
+      "pre-packaged"
+    ],
+    "antonyms": [
+      "homemade",
+      "custom-made",
+      "made-to-order",
+      "from scratch"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "Food, retail, software, manufacturing",
+    "usageTip": "Often hyphenated, but can be written as one word ('premade').",
+    "commonMistake": "Confusing 'pre-made' with 'prefab'. Prefab usually refers to buildings; pre-made is more general.",
+    "collocations": [
+      "pre-made food",
+      "pre-made template",
+      "pre-made mix",
+      "pre-made decision"
+    ]
+  },
+  {
+    "word": "Pre-made",
+    "meaning": "Ready to use, having been made beforehand.",
+    "shortMeaning": "already finished",
+    "example": "We used a pre-made circuit for our prototype.",
+    "example2": "The developer provided a pre-made class for that functionality.",
+    "example3": "Pre-made food is a popular category in our cafeteria.",
+    "Explanation": "'Pre-made' is a general term for anything that is ready to use immediately. In coding, a pre-made function or module allows a developer to avoid reinventing the wheel. If you need a specific utility, it is always better to look for something pre-made rather than writing your own from scratch. It emphasizes saving time and relying on existing, proven solutions. It is a common alternative to saying 'off-the-shelf' or 'built-in'.",
+    "synonyms": [
+      "ready-made",
+      "pre-packaged",
+      "customary"
+    ],
+    "antonyms": [
+      "custom",
+      "bespoke",
+      "from-scratch"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "Development, general utility, hardware",
+    "usageTip": "Use to describe anything ready for immediate use.",
+    "commonMistake": "Thinking 'pre-made' is always lower quality than custom work.",
+    "collocations": [
+      "pre-made solution",
+      "pre-made module",
+      "use a pre-made version"
+    ]
+  }
+]

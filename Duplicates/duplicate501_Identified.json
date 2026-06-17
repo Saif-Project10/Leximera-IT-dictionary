@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Identified",
+    "meaning": "Recognized or established as being a particular person or thing.",
+    "shortMeaning": "recognized, named",
+    "example": "The witness identified the suspect in a police lineup.",
+    "example2": "Scientists have identified a new species of frog.",
+    "example3": "The main problem has been identified as a lack of communication.",
+    "Explanation": "The adjective 'identified' means having been recognized, named, or pinpointed. It is the past participle of 'identify'. The act of identification is crucial in science, security, problem-solving, and personal development. Once something is identified, it can be addressed, studied, or understood. In psychology, 'identifying with' someone means feeling you have things in common with them. The word implies a process of analysis or observation leading to a definitive conclusion about identity or cause.",
+    "synonyms": [
+      "recognized",
+      "named",
+      "pinpointed",
+      "diagnosed",
+      "established"
+    ],
+    "antonyms": [
+      "unidentified",
+      "anonymous",
+      "unknown",
+      "misidentified"
+    ],
+    "nounForm": "identification",
+    "verbForm": "identify",
+    "adjectiveForm": "identified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Crime, science, medicine, business analysis",
+    "usageTip": "Often followed by 'as': 'He was identified as the leader.'",
+    "commonMistake": "Using 'identified' when you mean 'found'; identification is about naming or recognizing what something is, not just locating it.",
+    "collocations": [
+      "identified by",
+      "clearly identified",
+      "positively identified",
+      "identified risk"
+    ]
+  },
+  {
+    "word": "Identified",
+    "meaning": "Recognized or proven to be a specific entity or error",
+    "shortMeaning": "Recognized",
+    "example": "We identified the root cause of the crash.",
+    "example2": "The user was identified by their unique ID.",
+    "example3": "The error was identified during the scan.",
+    "Explanation": "The word 'identified' means the process of recognition or naming has been completed. It is the past tense or past participle of 'identify'. In IT, it is used frequently in bug tracking, incident response, and security authentication. It signifies that the work of discovery is done and the subject is now known. It is a standard, professional term for reporting status.",
+    "synonyms": [
+      "recognized",
+      "discovered",
+      "pinpointed"
+    ],
+    "antonyms": [
+      "unidentified",
+      "unknown",
+      "hidden"
+    ],
+    "nounForm": "identity",
+    "verbForm": "identify",
+    "adjectiveForm": "identified",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Incident response, authentication",
+    "usageTip": "Use to confirm you know what something is.",
+    "commonMistake": "Using 'identified' when you are still in the middle of analysis.",
+    "collocations": [
+      "identified the issue",
+      "correctly identified",
+      "identified as"
+    ]
+  }
+]

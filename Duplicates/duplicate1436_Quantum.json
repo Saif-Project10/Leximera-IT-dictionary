@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Quantum",
+    "meaning": "A discrete quantity of energy; or a sudden significant change (quantum leap)",
+    "shortMeaning": "discrete energy amount or big jump",
+    "example": "In physics, a photon is a quantum of light.",
+    "example2": "The new technology represents a quantum leap forward.",
+    "example3": "Quantum mechanics is a complex theory.",
+    "Explanation": "'Quantum' is primarily a scientific term from physics, where it means the smallest possible discrete unit of any physical property (like energy). 'Quantum mechanics' is the theory describing nature at this tiny scale. In popular usage, 'quantum leap' has been adopted to mean a huge, sudden advance or change. The scientific meaning is about discrete packets; the popular meaning is about a large jump. It's a highly technical word that has entered general vocabulary through metaphor.",
+    "synonyms": [
+      "unit",
+      "amount (scientific)",
+      "breakthrough (in 'leap')"
+    ],
+    "antonyms": [
+      "continuum",
+      "incremental change"
+    ],
+    "nounForm": "quantum",
+    "verbForm": "quantize",
+    "adjectiveForm": "quantum",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Physics, technology, figurative language for big changes",
+    "usageTip": "In science, it's an adjective (quantum physics). In general use, it's often in 'quantum leap'.",
+    "commonMistake": "Using 'quantum' to just mean 'big'. Its core scientific meaning is about discrete, tiny units.",
+    "collocations": [
+      "quantum theory",
+      "quantum computing",
+      "quantum jump"
+    ]
+  },
+  {
+    "word": "Quantum",
+    "meaning": "Relating to a advanced field of physics that deals with particles at the smallest scales.",
+    "shortMeaning": "tiny-particle physics",
+    "example": "Quantum computing could revolutionize encryption.",
+    "example2": "He is researching quantum algorithms for faster search.",
+    "example3": "The hardware uses quantum mechanics to operate.",
+    "Explanation": "Quantum physics describes the behavior of matter at the tiniest, subatomic level. 'Quantum computing' applies these principles to solve problems that traditional computers cannot handle. It is a massive area of research in modern IT. While we are still in the early stages, quantum technology has the potential to break current security protocols or solve unsolvable data problems. It is a highly specialized, cutting-edge, and complex area of computer science.",
+    "synonyms": [
+      "subatomic",
+      "quantum-mechanical"
+    ],
+    "antonyms": [
+      "classical"
+    ],
+    "nounForm": "quantum",
+    "verbForm": "N/A",
+    "adjectiveForm": "quantum",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Computing, science, future tech",
+    "usageTip": "Use with caution; quantum technology is very new and specialized.",
+    "commonMistake": "Using 'quantum' as a buzzword for just 'very fast'.",
+    "collocations": [
+      "quantum computing",
+      "quantum algorithm",
+      "quantum physics"
+    ]
+  }
+]

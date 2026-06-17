@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Cease",
+    "meaning": "To bring or come to an end; to stop.",
+    "shortMeaning": "stop, end",
+    "example": "The rain finally ceased at dawn.",
+    "example2": "The company will cease operations next month.",
+    "example3": "Cease fire!",
+    "Explanation": "'Cease' is a formal verb meaning to stop an action or condition. It is stronger and more final than 'stop' and is often used in legal, official, or literary contexts (e.g., 'cease and desist', 'ceased to exist'). It can be used both transitively (cease something) and intransitively (something ceases). The noun is 'cessation'. It implies a complete and permanent halt. In everyday conversation, 'stop' is more common, but 'cease' adds a tone of authority or gravity.",
+    "synonyms": [
+      "stop",
+      "halt",
+      "terminate"
+    ],
+    "antonyms": [
+      "begin",
+      "start",
+      "continue"
+    ],
+    "nounForm": "cessation",
+    "verbForm": "cease",
+    "adjectiveForm": "ceaseless",
+    "partOfSpeech": "verb",
+    "commonContext": "Legal orders, warfare, formal announcements, processes",
+    "usageTip": "Use 'cease' in formal writing or when you want to emphasize a complete and final stop.",
+    "commonMistake": "Using 'cease' followed by the -ing form is less common; 'cease to exist' is more natural than 'cease existing'.",
+    "collocations": [
+      "cease to exist",
+      "cease production",
+      "never cease"
+    ]
+  },
+  {
+    "word": "Cease",
+    "meaning": "To bring or come to an end",
+    "shortMeaning": "stop",
+    "example": "The company decided to cease operations of the old app.",
+    "example2": "The error will cease once you update the drivers.",
+    "example3": "Support for this version will cease next month.",
+    "Explanation": "Cease is a formal word for 'stop'. It is often used in business and legal contexts within the tech industry. For instance, a 'cease and desist' letter is a legal order to stop doing something. It can also describe the end of a service or the stopping of a technical process. It sounds more permanent and official than the word 'stop'. In software lifecycles, it marks the end of support or development.",
+    "synonyms": [
+      "stop",
+      "halt",
+      "terminate"
+    ],
+    "antonyms": [
+      "start",
+      "continue",
+      "begin"
+    ],
+    "nounForm": "cessation",
+    "verbForm": "cease",
+    "adjectiveForm": "ceaseless",
+    "partOfSpeech": "verb",
+    "commonContext": "Legal, business, and software lifecycle",
+    "usageTip": "Use 'cease' in formal reports or legal documents instead of 'stop'.",
+    "commonMistake": "Using 'cease' for minor, temporary pauses; it usually implies a major end.",
+    "collocations": [
+      "cease and desist",
+      "cease to exist",
+      "cease operations"
+    ]
+  }
+]

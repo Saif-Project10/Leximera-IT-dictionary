@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unfathomable",
+    "meaning": "Impossible to understand or comprehend due to complexity",
+    "shortMeaning": "incomprehensible",
+    "example": "The legacy code was so complex it was almost unfathomable.",
+    "example2": "The scale of the data was unfathomable for our current servers.",
+    "example3": "His explanation of the algorithm was truly unfathomable.",
+    "Explanation": "The word 'unfathomable' describes something so deep or complex that it cannot be understood. In IT, this is often used when encountering 'spaghetti code' (poorly written, tangled code) that has no documentation, making it impossible for a developer to follow. While it is a strong word, it accurately captures the frustration of trying to reverse-engineer poorly designed software. It implies a lack of clarity or a degree of complexity that goes beyond human capability. Use it when describing truly chaotic technical environments.",
+    "synonyms": [
+      "incomprehensible",
+      "impenetrable",
+      "confusing"
+    ],
+    "antonyms": [
+      "understandable",
+      "clear",
+      "simple"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unfathomable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, system architecture, legacy systems",
+    "usageTip": "Use this to express that something is too complex to solve.",
+    "commonMistake": "Using 'unfathomable' for things that are just 'new' to you.",
+    "collocations": [
+      "unfathomable complexity",
+      "unfathomable code",
+      "truly unfathomable"
+    ]
+  },
+  {
+    "word": "Unfathomable",
+    "meaning": "Impossible to understand or fully grasp",
+    "shortMeaning": "too deep to understand",
+    "example": "The complexity of the legacy code is unfathomable.",
+    "example2": "The amount of data generated is unfathomable.",
+    "example3": "It is an unfathomable task to rewrite the entire kernel.",
+    "Explanation": "The word 'unfathomable' is a strong word used to describe something so vast or complex that it is hard to comprehend. In IT, it's often used to describe legacy systems that are so poorly documented and complicated that developers are afraid to touch them. While it's a dramatic word, it accurately describes the feeling of being overwhelmed by immense scale or complexity. Use it sparingly to maintain its impact.",
+    "synonyms": [
+      "incomprehensible",
+      "baffling",
+      "deep"
+    ],
+    "antonyms": [
+      "understandable",
+      "simple",
+      "clear"
+    ],
+    "nounForm": "unfathomability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unfathomable",
+    "partOfSpeech": "adjective",
+    "commonContext": "System complexity and massive scale",
+    "usageTip": "Use for extreme complexity or large scale.",
+    "commonMistake": "Using it for simple problems that are just annoying.",
+    "collocations": [
+      "unfathomable complexity",
+      "unfathomable amount",
+      "nearly unfathomable"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Telepresent",
+    "meaning": "Appearing to be present in a location via technology.",
+    "shortMeaning": "virtually-there",
+    "example": "The robot allowed the engineer to be telepresent at the site.",
+    "example2": "We use VR to create a telepresent experience for the team.",
+    "example3": "Telepresent technology makes remote visits possible.",
+    "Explanation": "Being 'telepresent' means using technology to interact with a location as if you were physically there. This goes beyond simple video calls; it includes robotics, VR, or augmented reality. A telepresent engineer might control a robotic arm to fix machinery, or a student might 'visit' a digital replica of a museum. It creates a feeling of 'being there' that makes remote interaction much more effective and natural.",
+    "synonyms": [
+      "virtually-present",
+      "remote-presence"
+    ],
+    "antonyms": [
+      "physically-absent",
+      "remote-only"
+    ],
+    "nounForm": "telepresence",
+    "verbForm": "N/A",
+    "adjectiveForm": "telepresent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Robotics, VR, collaboration",
+    "usageTip": "Use 'telepresent' for high-fidelity remote presence technology.",
+    "commonMistake": "Confusing 'telepresent' with a simple video call.",
+    "collocations": [
+      "telepresent robot",
+      "telepresent experience",
+      "telepresent technology"
+    ]
+  },
+  {
+    "word": "Telepresent",
+    "meaning": "The state of feeling as if one is in a different location through technology",
+    "shortMeaning": "feeling present remotely",
+    "example": "Virtual reality makes you feel telepresent in the simulation.",
+    "example2": "The system aims to create a telepresent experience for users.",
+    "example3": "He felt telepresent during the remote workshop.",
+    "Explanation": "The word 'telepresent' describes a sense of being in a location other than where your physical body actually is, usually achieved via technology like VR, teleconferencing, or robotics. It is about the 'feeling' of presence. It is a technical term used in human-computer interaction (HCI) and VR research. It is a relatively new term as our technologies get better at simulating reality. It contrasts with being 'absent' or simply 'remote'.",
+    "synonyms": [
+      "virtually present",
+      "connected",
+      "immersed"
+    ],
+    "antonyms": [
+      "remote",
+      "detached",
+      "absent"
+    ],
+    "nounForm": "telepresence",
+    "verbForm": "N/A",
+    "adjectiveForm": "telepresent",
+    "partOfSpeech": "adjective",
+    "commonContext": "VR, robotics, remote collaboration, HCI",
+    "usageTip": "Use 'telepresent' when talking about the immersive quality of remote technology.",
+    "commonMistake": "Confusing it with 'telepresence' (the noun for the technology itself).",
+    "collocations": [
+      "telepresent experience",
+      "telepresent system",
+      "sense of being telepresent"
+    ]
+  }
+]

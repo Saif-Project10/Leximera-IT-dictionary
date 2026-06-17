@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Typical",
+    "meaning": "Having the usual qualities or features of a particular group or thing.",
+    "shortMeaning": "normal or usual",
+    "example": "This is a typical error for beginners.",
+    "example2": "It was a typical sunny day in Karachi.",
+    "example3": "The meeting followed the typical schedule.",
+    "Explanation": "The word 'typical' refers to something that is standard or representative of its kind. It is used to describe behaviors, events, or items that align with common expectations. The noun form is 'typicality' and the adverb form is 'typically'. It is often used to characterize recurring patterns in development or daily life. In technical contexts, it helps define standard configurations or expected outcomes.",
+    "synonyms": [
+      "standard",
+      "normal",
+      "representative"
+    ],
+    "antonyms": [
+      "atypical",
+      "unusual",
+      "abnormal"
+    ],
+    "nounForm": "typicality",
+    "verbForm": "N/A",
+    "adjectiveForm": "typical",
+    "partOfSpeech": "adjective",
+    "commonContext": "General descriptions, technical specifications",
+    "usageTip": "Use 'typical' to point out that something follows a common pattern.",
+    "commonMistake": "Using 'typical' when you mean 'unique'.",
+    "collocations": [
+      "typical example",
+      "typical behavior",
+      "typical day"
+    ]
+  },
+  {
+    "word": "Typical",
+    "meaning": "Having the usual characteristics of a particular group or thing.",
+    "shortMeaning": "normal or average",
+    "example": "This is a typical error for a new programmer.",
+    "example2": "A typical response time for this server is 50 milliseconds.",
+    "example3": "The typical user experience has improved significantly.",
+    "Explanation": "The word typical describes something that represents the standard or most common version of something. It is used to indicate that an event, person, or object is expected or representative of its class. In IT, we often talk about typical configurations, typical performance, or typical workflows. It helps set expectations when troubleshooting or designing new systems. Being aware of typical outcomes helps identify anomalies that might need investigation.",
+    "synonyms": [
+      "standard",
+      "common",
+      "normal"
+    ],
+    "antonyms": [
+      "atypical",
+      "unusual",
+      "abnormal"
+    ],
+    "nounForm": "typicality",
+    "verbForm": "N/A",
+    "adjectiveForm": "typical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis and reporting",
+    "usageTip": "Use it to define benchmarks or normal behavior.",
+    "commonMistake": "Using it to imply that all instances are the same.",
+    "collocations": [
+      "typical behavior",
+      "typical scenario",
+      "typical example"
+    ]
+  }
+]

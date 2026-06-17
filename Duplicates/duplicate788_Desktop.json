@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Desktop",
+    "meaning": "1. The top surface of a desk. 2. A personal computer designed to sit on a desk. 3. The primary screen display on a computer.",
+    "shortMeaning": "desk surface; type of computer; main screen",
+    "example": "She cleared the papers off her desktop. (desk surface)",
+    "example2": "I prefer a desktop computer over a laptop for gaming. (type of computer)",
+    "example3": "Organize your files on the desktop for easy access. (computer screen)",
+    "Explanation": "In computing, 'desktop' has two related meanings. It refers to the type of computer (desktop computer) as opposed to a laptop. More commonly, it refers to the graphical user interface (GUI) screen that appears after you log in, containing icons, folders, and a taskbar. This is a metaphor for the top of a physical desk where you keep items you use often. The term is fundamental to everyday computer use, representing your digital workspace.",
+    "synonyms": [
+      "workstation",
+      "PC",
+      "GUI",
+      "home screen"
+    ],
+    "antonyms": [
+      "laptop",
+      "mobile interface"
+    ],
+    "nounForm": "desktop",
+    "verbForm": "N/A",
+    "adjectiveForm": "desktop (e.g., desktop application)",
+    "partOfSpeech": "noun, adjective",
+    "commonContext": "Computing, office work, technology",
+    "usageTip": "In tech contexts, 'desktop' usually means the main screen of your computer's operating system or a non-portable computer.",
+    "commonMistake": "Confusing 'desktop' (the screen) with 'taskbar' (the bar usually at the bottom of the desktop).",
+    "collocations": [
+      "desktop computer",
+      "desktop background",
+      "desktop icon",
+      "on the desktop"
+    ]
+  },
+  {
+    "word": "Desktop",
+    "meaning": "A computer for a desk or the main workspace on a screen",
+    "shortMeaning": "computer or workspace",
+    "example": "The desktop application is built with Electron.",
+    "example2": "I cleaned up my desktop icons to focus better.",
+    "example3": "He works primarily on a desktop workstation.",
+    "Explanation": "The word 'desktop' can refer to a physical computer (PC) or the graphical workspace on your screen where you manage files and apps. In IT development, a 'desktop application' is a program designed to run on operating systems like Windows, macOS, or Linux, rather than in a web browser. It is a foundational term in software development. Understand if you are talking about the hardware or the software environment.",
+    "synonyms": [
+      "workstation",
+      "PC",
+      "UI space"
+    ],
+    "antonyms": [
+      "mobile",
+      "web-based"
+    ],
+    "nounForm": "desktop",
+    "verbForm": "N/A",
+    "adjectiveForm": "desktop",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Computing, UI, and software",
+    "usageTip": "Use 'desktop' to differentiate from mobile or web apps.",
+    "commonMistake": "Confusing the OS 'desktop' with the hardware.",
+    "collocations": [
+      "desktop application",
+      "desktop environment",
+      "desktop shortcut"
+    ]
+  }
+]

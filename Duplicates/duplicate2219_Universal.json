@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Universal",
+    "meaning": "Applicable or functional in all situations or systems",
+    "shortMeaning": "all-purpose",
+    "example": "The new API provides a universal solution for data access.",
+    "example2": "We need a universal format for our documentation.",
+    "example3": "The plugin is designed to be universal across all platforms.",
+    "Explanation": "The term 'universal' describes technology, formats, or standards that work everywhere, regardless of the operating system, language, or environment. A 'universal' standard (like USB or JPEG) is extremely powerful because it eliminates compatibility issues. In software, aiming for 'universal' compatibility can be difficult but very rewarding for user adoption. If something is universal, it has no special requirements or barriers to entry. It is the gold standard for software tools and data formats that need to be truly flexible.",
+    "synonyms": [
+      "all-purpose",
+      "general",
+      "global"
+    ],
+    "antonyms": [
+      "specific",
+      "specialized",
+      "local"
+    ],
+    "nounForm": "universality",
+    "verbForm": "N/A",
+    "adjectiveForm": "universal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Standardization, software compatibility, design",
+    "usageTip": "Use this when proposing a standard that works for everyone.",
+    "commonMistake": "Overusing 'universal' for things that only work in a few places.",
+    "collocations": [
+      "universal standard",
+      "universal access",
+      "universal design"
+    ]
+  },
+  {
+    "word": "Universal",
+    "meaning": "Relating to all; used or understood by everyone or everywhere.",
+    "shortMeaning": "for everyone",
+    "example": "The new standard is designed for universal compatibility.",
+    "example2": "We need a universal solution that works on all browsers.",
+    "example3": "Universal access is a key goal for modern web design.",
+    "Explanation": "The term 'universal' describes something applicable across all contexts. In computing, 'universal' tools or protocols work regardless of the platform, language, or device. This is highly valuable because it saves time and resources. For example, a 'universal design' approach ensures a website is usable by people with different abilities and on different screen sizes. Striving for universal solutions helps build more inclusive and flexible software.",
+    "synonyms": [
+      "general",
+      "all-encompassing",
+      "global"
+    ],
+    "antonyms": [
+      "specific",
+      "limited",
+      "local"
+    ],
+    "nounForm": "universality",
+    "verbForm": "N/A",
+    "adjectiveForm": "universal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web standards and design",
+    "usageTip": "Use to emphasize broad compatibility.",
+    "commonMistake": "Using 'universal' when only a few cases are supported.",
+    "collocations": [
+      "universal compatibility",
+      "universal access",
+      "universal solution"
+    ]
+  }
+]

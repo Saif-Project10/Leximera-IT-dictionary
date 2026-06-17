@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Nervous",
+    "meaning": "Feeling anxious, worried, or slightly afraid; easily agitated",
+    "shortMeaning": "anxious, worried",
+    "example": "She felt nervous before her job interview.",
+    "example2": "The loud noise made the dog nervous.",
+    "example3": "He has a nervous temperament.",
+    "Explanation": "'Nervous' describes an emotional state of unease, often about something uncertain or threatening in the future. It can also describe a person's general disposition (a nervous person). It relates to the body's 'nerves', so it can have physical symptoms like shaking. Do not confuse it with 'angry' or 'excited', though excitement can include nervous feelings. It is a very common word in everyday English to describe pre-event jitters or general anxiety.",
+    "synonyms": [
+      "anxious",
+      "worried",
+      "apprehensive"
+    ],
+    "antonyms": [
+      "calm",
+      "relaxed",
+      "confident"
+    ],
+    "nounForm": "nervousness",
+    "verbForm": "N/A",
+    "adjectiveForm": "nervous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Before exams, presentations, social situations",
+    "usageTip": "Often followed by 'about' or 'of' (nervous about the test, nervous of heights).",
+    "commonMistake": "Saying 'nervous' to mean 'angry' (e.g., 'He made me nervous' does not mean 'He made me angry').",
+    "collocations": [
+      "nervous system",
+      "nervous breakdown",
+      "nervous laugh"
+    ]
+  },
+  {
+    "word": "Nervous",
+    "meaning": "Feeling worried, anxious, or uneasy",
+    "shortMeaning": "anxious",
+    "example": "He felt nervous before the final deployment.",
+    "example2": "Users are often nervous when trying a new interface.",
+    "example3": "The system performance made the developers nervous.",
+    "Explanation": "The word 'nervous' describes an emotional state of worry, anxiety, or unease. In IT, this feeling is common before major project launches, high-pressure deadlines, or when debugging critical production issues. While it is a human feeling, it can be useful to acknowledge it in team communication to manage stress. Avoid using 'nervous' to describe systems themselves (e.g., 'the system is nervous'), as it is meant for sentient beings or their feelings.",
+    "synonyms": [
+      "anxious",
+      "uneasy",
+      "apprehensive"
+    ],
+    "antonyms": [
+      "calm",
+      "confident",
+      "relaxed"
+    ],
+    "nounForm": "nervousness",
+    "verbForm": "N/A",
+    "adjectiveForm": "nervous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotions, work pressure, deadlines",
+    "usageTip": "Use to describe feelings of anxiety before important events.",
+    "commonMistake": "Using 'nervous' for machines or non-living systems.",
+    "collocations": [
+      "feel nervous",
+      "nervous about the launch",
+      "nervous energy"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stuffed",
+    "meaning": "Completely filled or packed; sometimes used for bloated systems.",
+    "shortMeaning": "filled or packed",
+    "example": "The database is stuffed with thousands of redundant entries.",
+    "example2": "The server memory is stuffed, causing performance issues.",
+    "example3": "Don't leave the function stuffed with unnecessary logic.",
+    "Explanation": "The word 'stuffed' means to be completely filled, usually to the point of being cramped or overloaded. In an IT context, it is often used negatively to describe systems that are bloated with too much data or code. Stuffed systems usually perform poorly. It suggests a lack of proper organization or maintenance, where things have just been piled in without thought.",
+    "synonyms": [
+      "packed",
+      "overloaded",
+      "filled"
+    ],
+    "antonyms": [
+      "empty",
+      "optimized",
+      "lean"
+    ],
+    "nounForm": "stuffing",
+    "verbForm": "stuff",
+    "adjectiveForm": "stuffed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System performance and data management",
+    "usageTip": "Use 'stuffed' to describe an system that is overloaded.",
+    "commonMistake": "Using it for a positive full state; it usually has a negative connotation of bloat.",
+    "collocations": [
+      "stuffed with data",
+      "stuffed memory"
+    ]
+  },
+  {
+    "word": "Stuffed",
+    "meaning": "Filled tightly or to capacity.",
+    "shortMeaning": "over-filled",
+    "example": "The buffer is stuffed with too many packets.",
+    "example2": "The JSON file was stuffed with redundant data.",
+    "example3": "The memory cache is stuffed to the limit.",
+    "Explanation": "The word 'stuffed' refers to something that is filled beyond its normal limit or capacity. In IT, we often talk about 'stuffing' a header, a message, or a memory buffer. This can be intentional (adding data for padding) or accidental (causing an overflow). The base verb is 'stuff'. It is an informal but descriptive term used to describe overcrowding of digital resources. Use it when you need to highlight that a resource is overly full or congested.",
+    "synonyms": [
+      "packed",
+      "crammed",
+      "filled"
+    ],
+    "antonyms": [
+      "empty",
+      "sparse",
+      "vacant"
+    ],
+    "nounForm": "stuffing",
+    "verbForm": "stuff",
+    "adjectiveForm": "stuffed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Buffers, memory, performance",
+    "usageTip": "Use 'stuffed' to describe an overly full buffer or data packet.",
+    "commonMistake": "Using 'stuffed' as a formal technical term; prefer 'overflowed'.",
+    "collocations": [
+      "stuffed buffer",
+      "bit stuffing",
+      "stuffed data"
+    ]
+  }
+]

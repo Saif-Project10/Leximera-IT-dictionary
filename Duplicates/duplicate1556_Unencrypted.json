@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unencrypted",
+    "meaning": "Not converted into a code to hide its original meaning; in plain, readable form",
+    "shortMeaning": "not encrypted; plain text",
+    "example": "Never send passwords in unencrypted emails.",
+    "example2": "The data was stored unencrypted on the server, which was a security risk.",
+    "example3": "HTTP traffic is unencrypted, unlike HTTPS.",
+    "Explanation": "'Unencrypted' is a critical adjective in cybersecurity and data privacy. It describes information (data, messages, files) that is stored or transmitted in its original, readable form without the protection of encryption. Encryption scrambles data into ciphertext using a key; unencrypted data is plaintext. Transmitting sensitive data like credit card numbers or passwords in an unencrypted state is extremely risky, as anyone intercepting it can read it easily. The term highlights a vulnerability or a failure to apply standard security measures. In many regulations, storing personal data unencrypted can be a compliance violation. It is the opposite of 'encrypted'.",
+    "synonyms": [
+      "plaintext",
+      "in the clear",
+      "unsecured",
+      "readable"
+    ],
+    "antonyms": [
+      "encrypted",
+      "ciphertext",
+      "secured",
+      "scrambled"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "encrypt",
+    "adjectiveForm": "unencrypted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, data protection, network communication",
+    "usageTip": "Almost always carries a negative connotation of risk and poor security practice.",
+    "commonMistake": "Thinking 'unencrypted' means 'not password-protected'; they are different concepts.",
+    "collocations": [
+      "unencrypted data",
+      "unencrypted connection",
+      "unencrypted file",
+      "unencrypted transmission"
+    ]
+  },
+  {
+    "word": "Unencrypted",
+    "meaning": "Not protected by a code or secret formula",
+    "shortMeaning": "not scrambled",
+    "example": "The email was sent in an unencrypted format, making it risky.",
+    "example2": "Always check if your connection is unencrypted before sharing data.",
+    "example3": "The database contained unencrypted passwords.",
+    "Explanation": "The term 'unencrypted' describes data that is stored or transmitted in plain text, meaning anyone who intercepts it can read it easily. In IT security, avoiding unencrypted data is a primary rule to prevent data breaches and unauthorized access. Encryption acts as a digital lock, so 'unencrypted' signifies that the lock is missing. It is a critical risk factor in cybersecurity and compliance audits. Always ensure sensitive communications use protocols like HTTPS or TLS to avoid this state.",
+    "synonyms": [
+      "plain-text",
+      "clear-text",
+      "unprotected"
+    ],
+    "antonyms": [
+      "encrypted",
+      "protected",
+      "secure"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unencrypted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, data transmission, networking",
+    "usageTip": "Use this to highlight security vulnerabilities.",
+    "commonMistake": "Thinking 'unencrypted' is safe because it is hidden.",
+    "collocations": [
+      "unencrypted data",
+      "unencrypted traffic",
+      "sent unencrypted"
+    ]
+  },
+  {
+    "word": "Unencrypted",
+    "meaning": "Not protected by a secret code or security layer",
+    "shortMeaning": "not secure",
+    "example": "It is dangerous to send unencrypted passwords.",
+    "example2": "The database contains unencrypted user records.",
+    "example3": "Always use a secure connection for unencrypted files.",
+    "Explanation": "The word 'unencrypted' describes data that has not been protected by a cryptographic method. If data is unencrypted, anyone who captures it can read it directly. This is a massive security risk in IT. 'Unencrypted' data is essentially 'open' data. It is a critical term for any security assessment or compliance audit. Always advocate for encrypting data that is moving over a network or stored on a disk.",
+    "synonyms": [
+      "unprotected",
+      "insecure",
+      "plaintext"
+    ],
+    "antonyms": [
+      "encrypted",
+      "protected",
+      "secure"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "encrypt",
+    "adjectiveForm": "unencrypted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and data protection",
+    "usageTip": "Use to highlight security risks of plain data.",
+    "commonMistake": "Thinking unencrypted is safe on a private network.",
+    "collocations": [
+      "unencrypted data",
+      "sending unencrypted",
+      "remain unencrypted"
+    ]
+  }
+]

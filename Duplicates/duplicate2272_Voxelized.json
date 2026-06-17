@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Voxelized",
+    "meaning": "Converted into 3D pixels (voxels)",
+    "shortMeaning": "3D-pixelated",
+    "example": "The 3D model was voxelized for better volume analysis.",
+    "example2": "Voxelized images are common in medical scanning.",
+    "example3": "We voxelized the terrain to simplify the physics engine.",
+    "Explanation": "A voxel is a 'volume element,' which is the 3D equivalent of a pixel (which is a 2D element). To be 'voxelized' means that a 3D object or model has been converted into a grid of these voxels. This process is used extensively in 3D gaming (like Minecraft), medical imaging, and scientific modeling because it simplifies volume-based calculations and physics. It is highly technical and specific to rendering or geometry software. If you work with 3D models or game engines, this is a very important concept.",
+    "synonyms": [
+      "pixelated",
+      "rasterized"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "voxel",
+    "verbForm": "voxelize",
+    "adjectiveForm": "voxelized",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "3D graphics, gaming, medical imaging",
+    "usageTip": "Use this when discussing 3D volume data.",
+    "commonMistake": "Confusing voxels with standard 2D pixels.",
+    "collocations": [
+      "voxelized data",
+      "voxelized model"
+    ]
+  },
+  {
+    "word": "Voxelized",
+    "meaning": "Represented as a grid of three-dimensional cubes (voxels).",
+    "shortMeaning": "converted to 3D grid",
+    "example": "The image was voxelized for the 3D printer.",
+    "example2": "We voxelized the scan to make it easier to process.",
+    "example3": "The terrain was voxelized in the game engine.",
+    "Explanation": "A voxel is the 3D equivalent of a pixel. Voxelization is the process of converting a continuous 3D model into a discrete grid of voxels, similar to how an image is broken into pixels. This is a standard process in game development (e.g., Minecraft), medical imaging, and 3D printing. Voxelized data is easier to manipulate in certain physics engines. Understanding voxelized representations is key for working with advanced graphics and spatial modeling tools.",
+    "synonyms": [
+      "3D-gridded",
+      "discretized"
+    ],
+    "antonyms": [
+      "continuous",
+      "smooth"
+    ],
+    "nounForm": "voxel",
+    "verbForm": "voxelize",
+    "adjectiveForm": "voxelized",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "3D modeling, game development, medical imaging",
+    "usageTip": "Use this to describe 3D volume grids.",
+    "commonMistake": "Confusing 'voxel' with 'pixel'.",
+    "collocations": [
+      "voxelized data",
+      "voxelized model",
+      "voxelized grid"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Runtime",
+    "meaning": "The period during which a program is executing; the environment in which software runs.",
+    "shortMeaning": "execution time; running environment",
+    "example": "The application has a fast runtime.",
+    "example2": "A runtime error occurred when the program tried to divide by zero.",
+    "example3": "The software requires a specific runtime to be installed.",
+    "Explanation": "'Runtime' is a noun used in computing. It has two related meanings. First, it refers to the time when a program is running, as opposed to compile-time (when it is being translated). Second, it refers to the collection of software (libraries, services) that a program needs to execute, like the Java Runtime Environment (JRE). The term is technical but essential for programmers and IT professionals. It distinguishes between errors that happen during development and those that happen when a user is actually using the program.",
+    "synonyms": [
+      "execution time",
+      "run-time environment"
+    ],
+    "antonyms": [
+      "compile-time",
+      "development time"
+    ],
+    "nounForm": "runtime",
+    "verbForm": "run",
+    "adjectiveForm": "runtime (as an attributive noun)",
+    "partOfSpeech": "noun",
+    "commonContext": "Programming, software execution, error messages",
+    "usageTip": "Often used as an adjective before nouns: 'runtime error', 'runtime performance'.",
+    "commonMistake": "Confusing 'runtime' (when a program runs) with 'run time' (the duration it runs, e.g., movie run time). In computing, it's often one word.",
+    "collocations": [
+      "runtime environment",
+      "runtime error",
+      "runtime library",
+      "at runtime"
+    ]
+  },
+  {
+    "word": "Runtime",
+    "meaning": "The period when a program is executing on a computer.",
+    "shortMeaning": "execution phase",
+    "example": "Runtime errors can crash the application unexpectedly.",
+    "example2": "The script failed during the runtime environment setup.",
+    "example3": "We need to optimize the runtime performance.",
+    "Explanation": "The 'runtime' is the timeframe during which a computer program is actually running. It is distinct from 'compile-time', which happens before the program starts. Runtime issues, such as errors or performance bottlenecks, occur while the user is interacting with the software. Most modern programming languages use a 'runtime environment' to provide essential services like memory management and garbage collection. Monitoring runtime behavior is critical for ensuring stable and fast software.",
+    "synonyms": [
+      "execution time",
+      "operating phase"
+    ],
+    "antonyms": [
+      "compile-time",
+      "design-time"
+    ],
+    "nounForm": "runtime",
+    "verbForm": "N/A",
+    "adjectiveForm": "runtime",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software development, debugging, performance tuning",
+    "usageTip": "Use 'runtime' to talk about events happening while software is active.",
+    "commonMistake": "Confusing 'runtime' with 'compile-time'.",
+    "collocations": [
+      "runtime error",
+      "runtime performance",
+      "runtime environment"
+    ]
+  }
+]

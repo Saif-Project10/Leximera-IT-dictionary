@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Regularize",
+    "meaning": "To make something regular, official, or according to rules.",
+    "shortMeaning": "make official or regular",
+    "example": "The government plans to regularize the status of undocumented workers.",
+    "example2": "We need to regularize the payment schedule.",
+    "example3": "The new manager regularized the reporting procedures.",
+    "Explanation": "Regularize means to bring something into conformity with a standard, rule, or law. It often refers to making an irregular or informal situation official and lawful. This could apply to immigration status, business practices, procedures, or patterns. The process involves establishing order, consistency, and legality. It's a formal word used in administrative, legal, and organizational contexts. The noun is 'regularization'. It implies a move from chaos or informality to structure and acceptance. It's the opposite of making something irregular.",
+    "synonyms": [
+      "standardize",
+      "normalize",
+      "systematize",
+      "legalize",
+      "formalize"
+    ],
+    "antonyms": [
+      "disrupt",
+      "irregularize",
+      "disorganize"
+    ],
+    "nounForm": "regularization",
+    "verbForm": "regularize",
+    "adjectiveForm": "regular",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, immigration, administration, business processes",
+    "usageTip": "Often used in contexts where something exists informally and needs to be made official or consistent.",
+    "commonMistake": "Confusing it with 'regulate'. To regulate is to control by rules; to regularize is to make something itself regular.",
+    "collocations": [
+      "regularize the situation",
+      "regularize status",
+      "regularize procedures"
+    ]
+  },
+  {
+    "word": "Regularize",
+    "meaning": "To introduce mathematical constraints or formatting patterns to data and models to prevent overfitting and ensure uniform processing",
+    "shortMeaning": "apply constraints to ensure uniformity",
+    "example": "Data scientists regularize machine learning models to ensure they perform reliably on unseen user datasets.",
+    "example2": "You should regularize your database input structures to clean up inconsistent addresses.",
+    "example3": "We must regularize our system logging templates across all application clusters for easier debugging.",
+    "Explanation": "The word 'regularize' is applied in machine learning algorithms, statistical model training, and advanced data structuring. In AI engineering, to regularize a model means adding a mathematical penalty to its complexity. This forces the model to remain simple, preventing a common issue called overfitting, where a system memorizes training files perfectly but fails in real-world use. In wider software contexts, regularizing means transforming chaotic, irregular datasets or code conventions into a standard, orderly pattern, establishing structural predictability across enterprise data systems.",
+    "synonyms": [
+      "standardize",
+      "normalize",
+      "constrain"
+    ],
+    "antonyms": [
+      "randomize",
+      "complicate",
+      "derange"
+    ],
+    "nounForm": "regularization",
+    "verbForm": "regularize",
+    "adjectiveForm": "regularized",
+    "partOfSpeech": "verb",
+    "commonContext": "Machine learning training, database standardizations, dataset formatting",
+    "usageTip": "Use 'regularize' when applying structural policies or mathematical constraints to bring consistency to models or raw data fields.",
+    "commonMistake": "Confusing 'regularize' with simple text editing; it represents a systematic structural or mathematical standardization process.",
+    "collocations": [
+      "regularize a model",
+      "regularize input data",
+      "regularize training algorithms"
+    ]
+  }
+]

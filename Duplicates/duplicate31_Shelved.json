@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Shelved",
+    "meaning": "Decided not to continue with a plan or project for the time being; placed on a shelf",
+    "shortMeaning": "postponed or stored",
+    "example": "The new product design was shelved due to budget cuts.",
+    "example2": "He shelved his plans to go back to school.",
+    "example3": "The old files were shelved in the basement archive.",
+    "Explanation": "'Shelved' means to delay or suspend work on something indefinitely. It comes from the idea of putting something on a shelf, out of active use. It doesn't always mean cancelled forever, but it is on hold with no set date to resume. It's a common business term for projects that are no longer a priority. It can also literally mean to place something on a shelf. The context makes the meaning clear.",
+    "synonyms": [
+      "postponed",
+      "paused",
+      "put on hold",
+      "suspended",
+      "delayed"
+    ],
+    "antonyms": [
+      "activated",
+      "prioritized",
+      "launched",
+      "resumed"
+    ],
+    "nounForm": "shelf",
+    "verbForm": "shelve",
+    "adjectiveForm": "shelved",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Project management, product development, personal plans, library storage",
+    "usageTip": "In business, it usually means a project is stopped, not just delayed for a short time.",
+    "commonMistake": "Confusing 'shelved' (delayed) with 'solved' (fixed).",
+    "collocations": [
+      "project was shelved",
+      "plan got shelved",
+      "indefinitely shelved",
+      "temporarily shelved"
+    ]
+  },
+  {
+    "word": "Shelved",
+    "meaning": "Put aside or delayed for future consideration.",
+    "shortMeaning": "delayed",
+    "example": "The development of that feature was shelved indefinitely.",
+    "example2": "We shelved the project until more resources were available.",
+    "example3": "All non-critical tasks were shelved to focus on the bug.",
+    "Explanation": "To 'shelve' a project or task means to pause it or set it aside with no immediate plans to work on it. In the context of software development, this is often done to prioritize higher-value tasks or due to changes in project scope. It is different from 'canceling' because it implies that the work might be resumed later. Shelving is a standard part of project management and workflow planning to maintain focus on critical deliverables.",
+    "synonyms": [
+      "postponed",
+      "delayed",
+      "put aside"
+    ],
+    "antonyms": [
+      "prioritized",
+      "accelerated",
+      "continued"
+    ],
+    "nounForm": "shelf",
+    "verbForm": "shelve",
+    "adjectiveForm": "shelved",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management, development planning",
+    "usageTip": "Use 'shelved' to indicate a pause or delay in development.",
+    "commonMistake": "Confusing 'shelved' with 'deleted' (shelved is temporary).",
+    "collocations": [
+      "shelved project",
+      "shelved indefinitely",
+      "shelved feature"
+    ]
+  },
+  {
+    "word": "Shelved",
+    "meaning": "Put aside or delayed for a later time",
+    "shortMeaning": "postponed",
+    "example": "The project was shelved due to budget cuts.",
+    "example2": "We shelved the old server for future testing.",
+    "example3": "All new features have been shelved for now.",
+    "Explanation": "The word 'shelved' describes a task, project, or item that is set aside and not actively worked on. It is a common professional term used to explain why work has stopped on a specific goal. Once something is shelved, it isn't necessarily canceled, but it is no longer a priority. It allows teams to focus on more urgent tasks. The item can be returned to later if resources become available.",
+    "synonyms": [
+      "postponed",
+      "delayed",
+      "deferred"
+    ],
+    "antonyms": [
+      "prioritized",
+      "active"
+    ],
+    "nounForm": "shelf",
+    "verbForm": "shelve",
+    "adjectiveForm": "shelved",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project management, resource allocation",
+    "usageTip": "Use 'shelved' to describe projects that are on hold but not canceled.",
+    "commonMistake": "Using 'shelved' to mean 'finished'.",
+    "collocations": [
+      "shelved project",
+      "shelved indefinitely",
+      "shelved for later"
+    ]
+  }
+]

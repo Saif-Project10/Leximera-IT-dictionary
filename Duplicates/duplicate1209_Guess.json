@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Guess",
+    "meaning": "To estimate or suppose without sufficient information to be sure.",
+    "shortMeaning": "estimate, suppose",
+    "example": "Can you guess how many marbles are in the jar?",
+    "example2": "I guess I'll see you tomorrow.",
+    "example3": "My guess is that it will rain later.",
+    "Explanation": "'Guess' is a common verb and noun for forming an opinion or giving an answer without knowing all the facts. It's a fundamental part of informal reasoning, games, and everyday conversation. As a verb, it's often used in the phrase 'I guess' to express hesitant agreement or assumption. The noun refers to the opinion or answer itself. While not as reliable as knowledge, educated guesses are valuable in problem-solving. It's a casual word, contrasting with more formal terms like 'hypothesize' or 'estimate'.",
+    "synonyms": [
+      "estimate",
+      "speculate",
+      "suppose"
+    ],
+    "antonyms": [
+      "know",
+      "prove",
+      "confirm"
+    ],
+    "nounForm": "guess",
+    "verbForm": "guess",
+    "adjectiveForm": "guessable",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Games, conversations, estimations, uncertainty",
+    "usageTip": "Use 'guess at' something when you are trying to find an answer (e.g., 'guess at the meaning').",
+    "commonMistake": "Saying 'I guest' instead of the past tense 'I guessed'.",
+    "collocations": [
+      "educated guess",
+      "wild guess",
+      "guess what"
+    ]
+  },
+  {
+    "word": "Guess",
+    "meaning": "To give an answer or opinion without being sure of the facts",
+    "shortMeaning": "educated guess",
+    "example": "I can only guess how long the repair will take.",
+    "example2": "The detective had to guess the suspect's next move.",
+    "example3": "Make a guess if you don't know the exact number.",
+    "Explanation": "A guess is an attempt to answer a question when you are not certain. In everyday life, we guess about the weather or people's feelings. In science and IT, we use 'educated guesses' (hypotheses) to start experiments. In programming, a 'guessing game' is a common beginner project. While a guess is not as good as a fact, it is often the starting point for discovery. It implies that there is a possibility of being wrong.",
+    "synonyms": [
+      "estimate",
+      "surmise",
+      "conjecture"
+    ],
+    "antonyms": [
+      "know",
+      "prove",
+      "calculate"
+    ],
+    "nounForm": "guess",
+    "verbForm": "guess",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "General conversation and problem solving",
+    "usageTip": "Use 'estimate' instead of 'guess' in professional reports to sound more serious.",
+    "commonMistake": "Confusing 'guess' with 'guest' (someone visiting your home).",
+    "collocations": [
+      "lucky guess",
+      "educated guess",
+      "wild guess"
+    ]
+  }
+]

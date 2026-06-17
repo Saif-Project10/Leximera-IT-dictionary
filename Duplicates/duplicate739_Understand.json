@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Understand",
+    "meaning": "To know the meaning of something; to grasp the nature or importance of.",
+    "shortMeaning": "comprehend",
+    "example": "Do you understand the question?",
+    "example2": "I understand how you feel.",
+    "example3": "He doesn't understand the seriousness of the situation.",
+    "Explanation": "To understand is to perceive the meaning, significance, or cause of something. It involves mental comprehension, empathy, or awareness. It's one of the most fundamental cognitive verbs. The irregular past tense is 'understood'. It's used in a wide range of contexts, from understanding languages and concepts to understanding people's feelings. Phrases like 'make yourself understood' are common. It's more than just knowing facts; it implies a deeper grasp of relationships and implications. Mutual understanding is a goal of most communication.",
+    "synonyms": [
+      "comprehend",
+      "grasp",
+      "see",
+      "follow",
+      "appreciate"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "misinterpret",
+      "confuse"
+    ],
+    "nounForm": "understanding",
+    "verbForm": "understand",
+    "adjectiveForm": "understandable",
+    "partOfSpeech": "verb",
+    "commonContext": "Learning, communication, empathy, instructions",
+    "usageTip": "Can be followed by a noun, a 'that' clause, or a question word (understand why, how, what).",
+    "commonMistake": "Saying 'I am understanding' for present state; the simple present 'I understand' is correct for a current fact.",
+    "collocations": [
+      "fully understand",
+      "difficult to understand",
+      "understand each other",
+      "come to understand"
+    ]
+  },
+  {
+    "word": "Understand",
+    "meaning": "To clearly perceive the intended meaning, operational logic, or foundational nature of a concept or system",
+    "shortMeaning": "comprehend clearly",
+    "example": "A student must practice logic exercises to fully understand asynchronous programming rules.",
+    "example2": "Do you understand how to arrange HTML elements to build a responsive website layout grid?",
+    "example3": "Reading clean system documentation makes it much easier to understand third-party web frameworks.",
+    "Explanation": "The word 'understand' is a cornerstone verb describing cognitive comprehension and intellectual mastery. In technology fields, understanding goes beyond just reading lines of text or memorizing a command string; it means grasping how data moves across a network, how a function processes an array, or why a UI design choice benefits real-world users. Achieving deep understanding enables developers to troubleshoot complex bugs confidently and build scalable, efficient systems.",
+    "synonyms": [
+      "comprehend",
+      "grasp",
+      "perceive",
+      "fathom"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "confuse",
+      "misinterpret",
+      "ignore"
+    ],
+    "nounForm": "understanding",
+    "verbForm": "understand",
+    "adjectiveForm": "understandable",
+    "partOfSpeech": "verb",
+    "commonContext": "Learning technical documentation, mastering programming concepts, and team engineering alignment",
+    "usageTip": "Use 'understand' to describe the mental state of clearly grasping functional rules, systems, or data structures.",
+    "commonMistake": "Using 'understand' when you simply mean 'memorize', since true understanding requires knowing how systems interact under the surface.",
+    "collocations": [
+      "understand the logic",
+      "easy to understand",
+      "clearly understand instructions"
+    ]
+  }
+]

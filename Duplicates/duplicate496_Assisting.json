@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Assisting",
+    "meaning": "Helping someone by providing support or aid.",
+    "shortMeaning": "helping, aiding",
+    "example": "The nurse is assisting the doctor with the surgery.",
+    "example2": "A grant is assisting the university with its research.",
+    "example3": "Thank you for assisting me with my luggage.",
+    "Explanation": "The present participle 'assisting' means giving help or support. It is a more formal synonym for 'helping'. An 'assistant' is a person who assists. In sports, an 'assist' is a pass that leads to a score. The verb 'assist' often implies a secondary, supportive role rather than taking the lead. It is widely used in professional, medical, legal, and everyday contexts. It conveys cooperation and teamwork. Assisting can range from providing physical help to offering information or resources.",
+    "synonyms": [
+      "helping",
+      "aiding",
+      "supporting",
+      "abetting",
+      "lending a hand"
+    ],
+    "antonyms": [
+      "hindering",
+      "obstructing",
+      "impeding",
+      "opposing"
+    ],
+    "nounForm": "assistance / assist",
+    "verbForm": "assist",
+    "adjectiveForm": "assistant",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Work, emergencies, sports, customer service",
+    "usageTip": "Often followed by 'in' or 'with': 'assisting in the project', 'assisting with the task'.",
+    "commonMistake": "Using 'assist' in very casual contexts where 'help' is more natural.",
+    "collocations": [
+      "assisting with",
+      "capable of assisting",
+      "thank you for assisting",
+      "police assisting"
+    ]
+  },
+  {
+    "word": "Assisting",
+    "meaning": "Giving help, support, or reinforcement to someone or something completing a task",
+    "shortMeaning": "helping or supporting",
+    "example": "The debugging tool is excellent at assisting developers in finding memory leaks.",
+    "example2": "He is assisting the senior architect in designing the web app's database.",
+    "example3": "There are automated tooltips assisting users as they fill out the complex form.",
+    "Explanation": "The word 'assisting' is the active present participle form of the verb assist. It describes the ongoing process of offering tools, data, or guidance to make a task smoother. In software design, features like code autocompletion, real-time error checking, and microcopy descriptions are actively assisting the end-user or developer, reducing mistakes and boosting productivity during system operations.",
+    "synonyms": [
+      "helping",
+      "supporting",
+      "aiding",
+      "facilitating"
+    ],
+    "antonyms": [
+      "hindering",
+      "blocking",
+      "obstructing",
+      "impeding"
+    ],
+    "nounForm": "assistance",
+    "verbForm": "assist",
+    "adjectiveForm": "assisting",
+    "partOfSpeech": "verb / present participle",
+    "commonContext": "Real-time user guidance features, cooperative coding tasks, tool designs",
+    "usageTip": "Use 'assisting' to describe active features, apps, or coworkers providing helpful support right now.",
+    "commonMistake": "Using 'assisting' when the tool does 100% of the work; assisting implies a secondary role helping a primary actor.",
+    "collocations": [
+      "actively assisting",
+      "assisting in development",
+      "assisting the user"
+    ]
+  }
+]

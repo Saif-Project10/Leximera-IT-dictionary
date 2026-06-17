@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Vanilla",
+    "meaning": "Something that is basic, standard, or has no extra features",
+    "shortMeaning": "plain/basic",
+    "example": "I am just using the vanilla version of the software without any plugins.",
+    "example2": "The developer prefers vanilla JavaScript over complex frameworks like React.",
+    "example3": "He bought the vanilla model of the car because it was the cheapest.",
+    "Explanation": "In IT and business, 'vanilla' is a slang term for the most basic or standard version of something. It comes from vanilla ice cream being the most basic flavor. For example, 'vanilla Android' refers to the operating system exactly as Google made it, without any extra skins or apps from companies like Samsung. It is often used to describe code that is written without external libraries. Using vanilla versions can be better for performance and compatibility since there are no unnecessary additions.",
+    "synonyms": [
+      "basic",
+      "standard",
+      "plain",
+      "unmodified"
+    ],
+    "antonyms": [
+      "customized",
+      "modified",
+      "enhanced"
+    ],
+    "nounForm": "vanilla",
+    "verbForm": "N/A",
+    "adjectiveForm": "vanilla",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, gaming, and consumer products",
+    "usageTip": "Use 'vanilla' to describe a product that hasn't been changed or customized.",
+    "commonMistake": "Thinking it is a negative term; sometimes 'vanilla' is preferred because it is faster and more stable.",
+    "collocations": [
+      "vanilla JavaScript",
+      "vanilla version",
+      "vanilla software"
+    ]
+  },
+  {
+    "word": "Vanilla",
+    "meaning": "Basic, standard, or without extra customizations.",
+    "shortMeaning": "basic version",
+    "example": "I prefer using the vanilla version of the software.",
+    "example2": "He installed a vanilla copy of the operating system.",
+    "example3": "Let's test this with the vanilla configuration first.",
+    "Explanation": "In tech, 'vanilla' is a common slang term for a product, software, or configuration that is standard and unmodified. It means the software is exactly as the developer released it, without plugins, skins, or custom settings. Developers often test with 'vanilla' versions to ensure that reported bugs aren't caused by custom modifications. It is a very widely understood term in open-source and gaming communities.",
+    "synonyms": [
+      "standard",
+      "original",
+      "default"
+    ],
+    "antonyms": [
+      "customized",
+      "modified",
+      "advanced"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "vanilla",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, gaming, configuration",
+    "usageTip": "Use this to describe software without modifications.",
+    "commonMistake": "Assuming everyone knows this slang.",
+    "collocations": [
+      "vanilla version",
+      "vanilla install",
+      "vanilla settings"
+    ]
+  },
+  {
+    "word": "Vanilla",
+    "meaning": "The standard, basic, or uncustomized version of something.",
+    "shortMeaning": "basic/standard",
+    "example": "We used a vanilla installation of the server.",
+    "example2": "The script runs on a vanilla version of the platform.",
+    "example3": "He prefers vanilla code without any external libraries.",
+    "Explanation": "In tech culture, 'vanilla' means the basic, original version of software or hardware without any modifications, plugins, or special settings. If you download a program and use it exactly as provided by the developer, you are using the 'vanilla' version. Developers often use this to isolate bugs, as they can be sure that the issue is not caused by extra modifications. It is a very common term in open-source development and gaming.",
+    "synonyms": [
+      "standard",
+      "basic",
+      "unmodified"
+    ],
+    "antonyms": [
+      "customized",
+      "modified",
+      "advanced"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "vanilla",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software and platform installations",
+    "usageTip": "Use 'vanilla' to refer to unmodified software.",
+    "commonMistake": "Confusing 'vanilla' with 'obsolete'.",
+    "collocations": [
+      "vanilla installation",
+      "vanilla code",
+      "vanilla version"
+    ]
+  }
+]

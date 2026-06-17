@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Unproxied",
+    "meaning": "Not passing through a proxy server; making a direct connection",
+    "shortMeaning": "not using a proxy",
+    "example": "For security testing, we made an unproxied connection to the service.",
+    "example2": "His browser was configured for unproxied access to the local network.",
+    "example3": "Unproxied traffic can reveal your real IP address.",
+    "Explanation": "'Unproxied' is a technical adjective from the field of networking and cybersecurity. A proxy server acts as an intermediary between a user's device and the internet, providing anonymity, caching, or filtering. 'Unproxied' traffic or access bypasses this intermediary, connecting directly to the target server or website. This can be faster but exposes the user's real IP address and location, reducing privacy and bypassing any filtering or security the proxy provides. The term is used by network administrators, security professionals, and developers when configuring network access or debugging connection issues. It describes a specific mode of network communication.",
+    "synonyms": [
+      "direct",
+      "non-proxied",
+      "bypassing proxy"
+    ],
+    "antonyms": [
+      "proxied",
+      "mediated",
+      "routed through proxy"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unproxied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network configuration, cybersecurity, web development",
+    "usageTip": "A term for IT professionals; not commonly used in everyday language.",
+    "commonMistake": "Using it to mean 'not represented by someone else' in a non-technical sense.",
+    "collocations": [
+      "unproxied request",
+      "unproxied traffic",
+      "unproxied access",
+      "unproxied connection"
+    ]
+  },
+  {
+    "word": "Unproxied",
+    "meaning": "Directly connected, bypassing a proxy server",
+    "shortMeaning": "no proxy",
+    "example": "The server request was unproxied and went directly to the destination.",
+    "example2": "Internal traffic is usually unproxied.",
+    "example3": "We discovered an unproxied connection that bypassed the firewall.",
+    "Explanation": "Unproxied means that data flow is happening directly between the client and the server, without going through a proxy. A proxy often hides the client's IP, filters content, or caches data. Unproxied connections are sometimes used for speed, but they can be a security risk if the proxy is meant to act as a shield. It is important to know whether your traffic is proxied or unproxied for network troubleshooting.",
+    "synonyms": [
+      "direct",
+      "unfiltered"
+    ],
+    "antonyms": [
+      "proxied",
+      "filtered"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "proxy",
+    "adjectiveForm": "unproxied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, security, connectivity",
+    "usageTip": "Use this when comparing traffic paths.",
+    "commonMistake": "Assuming all traffic goes through a proxy by default.",
+    "collocations": [
+      "unproxied connection",
+      "unproxied request",
+      "remain unproxied"
+    ]
+  },
+  {
+    "word": "Unproxied",
+    "meaning": "Refers to a connection or request that goes directly to the destination without passing through a proxy server.",
+    "shortMeaning": "direct connection",
+    "example": "Some requests must remain unproxied for security reasons.",
+    "example2": "The traffic is unproxied, so the server sees the real IP.",
+    "example3": "Check if the connection is proxied or unproxied.",
+    "Explanation": "An 'unproxied' request goes directly from the client to the server, bypassing any intermediary servers. In web architecture, proxies are often used for caching, filtering, or anonymizing traffic. When a connection is unproxied, the origin server communicates directly with the source. This is important for debugging issues where a proxy might be modifying headers or blocking requests. It is a term used mostly in networking and server configuration.",
+    "synonyms": [
+      "direct",
+      "unfiltered",
+      "direct-connect"
+    ],
+    "antonyms": [
+      "proxied",
+      "filtered",
+      "redirected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unproxied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, web infrastructure",
+    "usageTip": "Use this to describe direct connections in network troubleshooting.",
+    "commonMistake": "Assuming unproxied always means 'insecure'.",
+    "collocations": [
+      "unproxied request",
+      "unproxied connection",
+      "unproxied traffic"
+    ]
+  }
+]

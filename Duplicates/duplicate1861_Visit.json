@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Visit",
+    "meaning": "The act of going to see a person or a place",
+    "shortMeaning": "a short stay or call",
+    "example": "I plan to visit my parents during the weekend.",
+    "example2": "The website had over a million visits last month.",
+    "example3": "He paid a visit to the local library to do some research.",
+    "Explanation": "The word 'visit' can be used as both a noun and a verb. It describes the action of going somewhere for a short time. In the physical world, you visit friends or cities. In the digital world, a 'visit' occurs when a user lands on a webpage. In IT, tracking visits is essential for measuring the popularity of a website. It implies a temporary stay rather than a permanent move.",
+    "synonyms": [
+      "stay",
+      "call",
+      "stopover"
+    ],
+    "antonyms": [
+      "departure",
+      "exit",
+      "eviction"
+    ],
+    "nounForm": "visit / visitor",
+    "verbForm": "visit",
+    "adjectiveForm": "visiting",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Social life, travel, and web analytics",
+    "usageTip": "In web contexts, one 'visit' can include several page views.",
+    "commonMistake": "Using 'visit at' a place (correct: 'visit a place').",
+    "collocations": [
+      "pay a visit",
+      "frequent visit",
+      "website visit"
+    ]
+  },
+  {
+    "word": "Visit",
+    "meaning": "To systematically access a specific web URL address or touch a single data node during an algorithmic code iteration",
+    "shortMeaning": "access a page or data node",
+    "example": "Users can visit your public web interface to look up terms from the dictionary data file.",
+    "example2": "A recursive graph search function must visit each connected node exactly one time to find paths.",
+    "example3": "Our analytics script tracks how many unique users visit the pricing page layout every single day.",
+    "Explanation": "The word 'visit' has dual relevance in tech contexts. On the web tracking side, it describes a user opening a browser tab to access a specific website page. In computer science algorithms, 'to visit' means that a traversal loop or search function arrives at a specific node or index in a data structure to read or process its internal properties. Tracking visits helps engineers optimize UI performance for web traffic and ensure graph traversal code operates without infinite loops.",
+    "synonyms": [
+      "access",
+      "navigate to",
+      "touch node",
+      "hit URL"
+    ],
+    "antonyms": [
+      "skip node",
+      "avoid accessing"
+    ],
+    "nounForm": "visit / visitor",
+    "verbForm": "visit",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Web analytics metrics, tree traversal algorithms, internet browsing habits",
+    "usageTip": "Use 'visit' when describing either a person opening a web page or an algorithmic loop processing a specific data node.",
+    "commonMistake": "Conflating a single page 'visit' with a unique 'visitor' metric; one unique visitor can make multiple website visits over time.",
+    "collocations": [
+      "visit a web page",
+      "visit each node",
+      "track unique visits"
+    ]
+  }
+]

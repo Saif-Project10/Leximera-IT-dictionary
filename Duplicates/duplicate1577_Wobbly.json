@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Wobbly",
+    "meaning": "Tending to move unsteadily from side to side; shaky or unstable",
+    "shortMeaning": "unsteady; shaky",
+    "example": "The table is wobbly; we need to fix one leg.",
+    "example2": "Her voice was wobbly with emotion.",
+    "example3": "The toddler took a few wobbly steps.",
+    "Explanation": "The adjective 'wobbly' is an informal, descriptive word that vividly conveys unsteadiness, instability, or a tendency to shake. It can describe physical objects (a wobbly chair), parts of the body (wobbly knees from fear), sounds (a wobbly voice), or even abstract concepts like resolve ('my determination is feeling wobbly'). It often implies a temporary or fixable state of weakness. The word is onomatopoeic, sounding like the movement it describes. It's common in everyday speech and is less formal than synonyms like 'unstable' or 'precarious'. It can sometimes have a gentle, almost endearing quality, especially when describing a child's first steps.",
+    "synonyms": [
+      "unsteady",
+      "shaky",
+      "tottery",
+      "rickety",
+      "trembly"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "firm",
+      "solid"
+    ],
+    "nounForm": "wobble",
+    "verbForm": "wobble",
+    "adjectiveForm": "wobbly",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing furniture, physical state after exertion, emotions, informal speech",
+    "usageTip": "A great word for informal writing and speech to paint a clear picture of instability.",
+    "commonMistake": "Using it in very formal writing where 'unstable' or 'precarious' would be more appropriate.",
+    "collocations": [
+      "wobbly table",
+      "wobbly voice",
+      "feel wobbly",
+      "wobbly line"
+    ]
+  },
+  {
+    "word": "Wobbly",
+    "meaning": "Unstable or shaky, lacking firmness.",
+    "shortMeaning": "unstable",
+    "example": "The server rack feels wobbly on this uneven floor.",
+    "example2": "The software performance is quite wobbly under heavy load.",
+    "example3": "The connection is wobbly and frequently drops.",
+    "Explanation": "The word 'wobbly' describes something that is unsteady or shaky. In IT, it can refer to physical hardware (like a loose stand) or figurative instability (like performance spikes or frequent connection drops). The noun form is 'wobbliness'. While informal, it is a descriptive way to explain that a system or component is not solid or reliable. It is best to use more technical terms like 'unstable' in formal documentation.",
+    "synonyms": [
+      "unstable",
+      "shaky",
+      "unsteady"
+    ],
+    "antonyms": [
+      "stable",
+      "steady",
+      "firm"
+    ],
+    "nounForm": "wobbliness",
+    "verbForm": "wobble",
+    "adjectiveForm": "wobbly",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware stability, performance monitoring",
+    "usageTip": "Use 'wobbly' to describe physical or performance instability.",
+    "commonMistake": "Using 'wobbly' in formal technical specifications.",
+    "collocations": [
+      "wobbly connection",
+      "feels wobbly",
+      "wobbly performance"
+    ]
+  },
+  {
+    "word": "Wobbly",
+    "meaning": "Unsteady, shaking, or moving from side to side",
+    "shortMeaning": "unsteady",
+    "example": "The desk is a bit wobbly, so it shakes when I type.",
+    "example2": "The connection was wobbly and kept dropping.",
+    "example3": "He felt a bit wobbly after the long flight.",
+    "Explanation": "The word 'wobbly' describes something that lacks stability or balance. It can refer to physical objects like furniture, or abstract concepts like an unstable network or a shaky situation. If a software build or a system is 'wobbly', it means it is unreliable and prone to failing. While it is an informal word, it effectively communicates the sense of being fragile or insecure. It is often used to describe anything that should be steady but isn't.",
+    "synonyms": [
+      "unsteady",
+      "shaky",
+      "unstable"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "firm"
+    ],
+    "nounForm": "wobbliness",
+    "verbForm": "wobble",
+    "adjectiveForm": "wobbly",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physical objects, system stability, reliability",
+    "usageTip": "Use 'wobbly' to describe things that are not secure or stable.",
+    "commonMistake": "Using 'wobbly' in highly formal technical documentation.",
+    "collocations": [
+      "wobbly table",
+      "wobbly connection",
+      "wobbly start"
+    ]
+  }
+]

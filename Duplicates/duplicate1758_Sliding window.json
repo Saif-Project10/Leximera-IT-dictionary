@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Sliding window",
+    "meaning": "A fixed-size range or buffer that moves through a data set or over a time period",
+    "shortMeaning": "moving data range",
+    "example": "The application calculates the average temperature using a sliding window of five minutes.",
+    "example2": "A sliding window helps in processing continuous streams of data efficiently.",
+    "example3": "The graph shows data points based on a 24-hour sliding window.",
+    "Explanation": "The sliding window concept is used in data processing and networking to focus on a specific subset of data at a time. Instead of looking at the entire data set, the 'window' moves forward by a certain step, allowing the system to process chunks of data sequentially. This is very useful for real-time calculations like moving averages or detecting patterns in live streams. It helps manage memory usage because only the data within the window is active. It is a fundamental concept in signal processing and big data analysis.",
+    "synonyms": [
+      "moving window",
+      "rolling window",
+      "sliding buffer"
+    ],
+    "antonyms": [
+      "static window",
+      "fixed range"
+    ],
+    "nounForm": "sliding window",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Data analysis, networking, and statistics",
+    "usageTip": "Use a sliding window when you need to calculate statistics on the most recent data points in a stream.",
+    "commonMistake": "Thinking the window size changes; usually, the size remains fixed while its position moves.",
+    "collocations": [
+      "sliding window size",
+      "sliding window average",
+      "time-based sliding window"
+    ]
+  },
+  {
+    "word": "Sliding window",
+    "meaning": "A technique that processes a subset of data that moves over a larger dataset.",
+    "shortMeaning": "moving data subset",
+    "example": "The algorithm uses a sliding window to analyze recent trends.",
+    "example2": "The sliding window moves across the data stream.",
+    "example3": "A sliding window size of 10 was used for the average.",
+    "Explanation": "The 'sliding window' is a powerful data processing technique. You define a 'window' of a certain size (like 10 elements) and move it across your data, step by step, processing the information inside the window at each position. It is essential for analyzing time-series data, network traffic, or finding patterns in long strings. It is very memory-efficient compared to loading everything.",
+    "synonyms": [
+      "moving window"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "sliding window",
+    "verbForm": "N/A",
+    "adjectiveForm": "sliding-window",
+    "partOfSpeech": "noun",
+    "commonContext": "Data analysis and algorithms",
+    "usageTip": "Use 'sliding window' for analyzing data patterns incrementally.",
+    "commonMistake": "Selecting a window size that is too small or large for the data.",
+    "collocations": [
+      "sliding window technique",
+      "sliding window size",
+      "use a sliding window"
+    ]
+  },
+  {
+    "word": "Sliding window",
+    "meaning": "A technique used to process sequential data using a moving segment",
+    "shortMeaning": "moving data segment",
+    "example": "We used a sliding window algorithm to analyze the stream of incoming data.",
+    "example2": "The sliding window moves across the array to find the maximum sum.",
+    "example3": "Implement a sliding window to keep track of the last ten user requests.",
+    "Explanation": "A 'sliding window' is a fundamental computational technique used in algorithms and networking. It involves looking at a specific subset of data at one time and then 'sliding' that window forward to process the next set. This is efficient for searching, streaming, or flow control. It helps manage memory and processing power by focusing only on a limited portion of data. It is a standard concept in computer science.",
+    "synonyms": [
+      "moving segment",
+      "data window",
+      "rolling buffer"
+    ],
+    "antonyms": [
+      "static block",
+      "whole data",
+      "fixed segment"
+    ],
+    "nounForm": "sliding window",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Algorithms, data streams, networking",
+    "usageTip": "Use this to describe processing data in moving segments.",
+    "commonMistake": "Forgetting that the window size determines the performance.",
+    "collocations": [
+      "sliding window algorithm",
+      "sliding window size",
+      "apply sliding window"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Sloppy",
+    "meaning": "Messy, untidy, or careless; done without proper care",
+    "shortMeaning": "messy and careless",
+    "example": "He did a sloppy job of painting the fence.",
+    "example2": "Her handwriting is very sloppy.",
+    "example3": "Sloppy thinking led to major errors in the report.",
+    "Explanation": "The adjective 'sloppy' is an informal but common word meaning lacking care, neatness, or order. It can describe physical messiness (sloppy clothes, a sloppy room) or the poor quality of work due to carelessness (sloppy writing, sloppy workmanship). It is always a criticism. The noun form is 'sloppiness'. It's a vivid word for expressing disapproval of mess and carelessness.",
+    "synonyms": [
+      "messy",
+      "careless",
+      "untidy",
+      "slapdash"
+    ],
+    "antonyms": [
+      "neat",
+      "tidy",
+      "careful",
+      "meticulous"
+    ],
+    "nounForm": "sloppiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "sloppy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work, appearance, writing, housekeeping",
+    "usageTip": "Often used informally to criticize someone's lack of effort or precision.",
+    "commonMistake": "Using it in very formal writing; 'careless' or 'untidy' may be better.",
+    "collocations": [
+      "sloppy joe",
+      "sloppy work",
+      "sloppy handwriting",
+      "sloppy dress"
+    ]
+  },
+  {
+    "word": "Sloppy",
+    "meaning": "Careless, disorganized, or of low quality.",
+    "shortMeaning": "careless",
+    "example": "Sloppy code is hard to maintain and prone to bugs.",
+    "example2": "We fixed the sloppy documentation for the project.",
+    "example3": "Avoid sloppy habits like not naming variables clearly.",
+    "Explanation": "The word 'sloppy' describes work that is lazy or poorly done. It is the opposite of professional, high-quality development. Sloppy code often leads to technical debt, making it harder for other developers to read or work on. It is a term usually used as a critique of work that lacks attention to detail. Aim for clarity and precision to avoid being called 'sloppy'.",
+    "synonyms": [
+      "careless",
+      "disorganized",
+      "messy"
+    ],
+    "antonyms": [
+      "precise",
+      "meticulous",
+      "careful"
+    ],
+    "nounForm": "sloppiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "sloppy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code quality and professional conduct",
+    "usageTip": "Use 'sloppy' to describe work that shows a lack of effort.",
+    "commonMistake": "Taking it personally; it is a critique of the work, not the person.",
+    "collocations": [
+      "sloppy code",
+      "sloppy documentation",
+      "really sloppy"
+    ]
+  },
+  {
+    "word": "Sloppy",
+    "meaning": "Careless, messy, or lacking attention to detail",
+    "shortMeaning": "careless and messy",
+    "example": "Sloppy coding leads to bugs that are very hard to maintain.",
+    "example2": "The design was sloppy, with misaligned elements on the page.",
+    "example3": "He was criticized for his sloppy documentation of the new features.",
+    "Explanation": "The word 'sloppy' describes work that was done without care or professional rigor. In software development, it refers to code that is hard to read, poorly structured, or has many unnecessary errors. It suggests that the developer rushed or did not follow best practices. Being called 'sloppy' is a professional criticism that means you need to improve your attention to detail. It is an adjective that carries a negative tone.",
+    "synonyms": [
+      "careless",
+      "messy",
+      "unprofessional"
+    ],
+    "antonyms": [
+      "neat",
+      "precise",
+      "thorough"
+    ],
+    "nounForm": "sloppiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "sloppy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, design standards",
+    "usageTip": "Use this to describe poor workmanship or bad habits.",
+    "commonMistake": "Confusing it with 'lazy', which is about effort rather than quality.",
+    "collocations": [
+      "sloppy code",
+      "sloppy work",
+      "sloppy documentation"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Terrestrial",
+    "meaning": "Related to the Earth or land, as opposed to space or water.",
+    "shortMeaning": "earth-based",
+    "example": "The station receives both satellite and terrestrial television signals.",
+    "example2": "Scientists are studying terrestrial ecosystems to understand climate change.",
+    "example3": "Terrestrial animals live on land rather than in the sea.",
+    "Explanation": "The word 'terrestrial' comes from the Latin word for Earth. In the context of technology and communications, it refers to signals or networks that travel along the ground (using towers and cables) rather than through space (satellites). For example, your home Wi-Fi and cell phone towers are terrestrial. In biology, it simply means living on land. It is a formal word used to distinguish between different environments or methods of transmission. It is the opposite of 'celestial' (stars/space) and 'aquatic' (water).",
+    "synonyms": [
+      "earthly",
+      "land-based",
+      "ground-based"
+    ],
+    "antonyms": [
+      "satellite",
+      "celestial",
+      "aquatic"
+    ],
+    "nounForm": "terrestrial",
+    "verbForm": "N/A",
+    "adjectiveForm": "terrestrial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Biology and telecommunications",
+    "usageTip": "Use 'terrestrial' when you want to specify that a network or species is based on land/Earth.",
+    "commonMistake": "Confusing 'terrestrial' with 'territorial' (which means defending an area).",
+    "collocations": [
+      "terrestrial planet",
+      "terrestrial broadcast",
+      "terrestrial ecosystem"
+    ]
+  },
+  {
+    "word": "Terrestrial",
+    "meaning": "Related to the Earth; often used for network infrastructure that is on land.",
+    "shortMeaning": "related to Earth/land",
+    "example": "Terrestrial networks are faster than satellite links.",
+    "example2": "The ISP focuses on expanding its terrestrial fiber coverage.",
+    "example3": "Terrestrial data transmission is less affected by weather.",
+    "Explanation": "The word 'terrestrial' refers to anything grounded or on Earth. In networking, it distinguishes land-based infrastructure (fiber, cable, DSL) from satellite or airborne communications. Terrestrial networks are generally preferred for their lower latency and higher reliability compared to space-based alternatives. You might see this term when choosing a provider, as they advertise their terrestrial reach as a sign of quality.",
+    "synonyms": [
+      "land-based",
+      "ground-based"
+    ],
+    "antonyms": [
+      "satellite",
+      "aerial",
+      "space-based"
+    ],
+    "nounForm": "Earth",
+    "verbForm": "N/A",
+    "adjectiveForm": "terrestrial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking and infrastructure",
+    "usageTip": "Use 'terrestrial' for land-based network infrastructure.",
+    "commonMistake": "Confusing 'terrestrial' with 'geographical' (which is broader).",
+    "collocations": [
+      "terrestrial network",
+      "terrestrial fiber"
+    ]
+  },
+  {
+    "word": "Terrestrial",
+    "meaning": "Relating to the earth or existing on land",
+    "shortMeaning": "earth-related",
+    "example": "The project tracks terrestrial signals for research.",
+    "example2": "It is a terrestrial communication network.",
+    "example3": "The equipment is designed for terrestrial use.",
+    "Explanation": "Terrestrial refers to anything related to land or Earth. In technology and networking, it distinguishes land-based systems from space-based or satellite systems. It is commonly used in discussions regarding radio frequencies, broadcasting, and GPS signals. Understanding the distinction between terrestrial and satellite infrastructure is crucial for network planning. It is rarely used in software code but appears in infrastructure documentation.",
+    "synonyms": [
+      "earthly",
+      "land-based",
+      "ground-based"
+    ],
+    "antonyms": [
+      "satellite",
+      "extraterrestrial",
+      "space-based"
+    ],
+    "nounForm": "terrestrial",
+    "verbForm": "N/A",
+    "adjectiveForm": "terrestrial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, telecommunications, physical infrastructure",
+    "usageTip": "Use this to specify systems that are not satellite or aerial.",
+    "commonMistake": "Confusing it with universal or generic ground systems.",
+    "collocations": [
+      "terrestrial network",
+      "terrestrial signal",
+      "terrestrial antenna"
+    ]
+  }
+]

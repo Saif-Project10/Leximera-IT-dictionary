@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Integrate",
+    "meaning": "To combine one thing with another to form a whole; to bring into equal participation | To combine one thing with another to form a whole.",
+    "shortMeaning": "combine into a whole",
+    "example": "The new software must integrate with our existing systems.",
+    "example2": "Schools work to integrate students from diverse backgrounds.",
+    "example3": "He found it hard to integrate into the new community.",
+    "Explanation": "To 'integrate' means to bring parts together into a unified, functional whole. In technology, it's about making different systems work together. In society, it's about including people as equal members. The process is 'integration'. The goal is harmony and seamless function, not just simple addition. Successful integration requires planning and adaptation from all parts involved. The opposite is to segregate or separate.",
+    "synonyms": [
+      "Assimilate",
+      "Blend",
+      "Combine",
+      "Incorporate",
+      "Merge",
+      "Unify"
+    ],
+    "antonyms": [
+      "Disintegrate",
+      "Divide",
+      "Isolate",
+      "Segregate",
+      "Separate"
+    ],
+    "nounForm": "integration",
+    "verbForm": "integrate",
+    "adjectiveForm": "integrated",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology (system integration), social policy, business mergers, education",
+    "usageTip": "Often followed by 'into' (integrate into a team) or 'with' (integrate with other software).",
+    "commonMistake": "Confusing 'integrate' with 'interact' (to communicate); integration is deeper combination.",
+    "collocations": [
+      "fully integrate",
+      "integrate seamlessly",
+      "efforts to integrate",
+      "integrate technology"
+    ]
+  },
+  {
+    "word": "Integrate",
+    "meaning": "To combine two or more things so they work together as a single system",
+    "shortMeaning": "combine systems",
+    "example": "We need to integrate the new software with our existing database.",
+    "example2": "The goal is to integrate all department data into one dashboard.",
+    "example3": "It is difficult to integrate different brands of hardware seamlessly.",
+    "Explanation": "Integration is one of the most common tasks in IT. To integrate means to take separate parts—like different software programs or hardware components—and make them 'talk' to each other. For example, when a website lets you log in with your Google account, they have integrated Google's login system. It requires matching data formats and using APIs (Application Programming Interfaces). Success is measured by how smoothly the parts work together without the user noticing they are separate. It is the opposite of keeping things 'siloed' or isolated.",
+    "synonyms": [
+      "combine",
+      "merge",
+      "unify",
+      "incorporate"
+    ],
+    "antonyms": [
+      "separate",
+      "disconnect",
+      "detach",
+      "isolate"
+    ],
+    "nounForm": "integration",
+    "verbForm": "integrate",
+    "adjectiveForm": "integrated",
+    "partOfSpeech": "verb",
+    "commonContext": "Software Development, Business Systems, Management",
+    "usageTip": "Use 'integrate' when you want to sound professional about joining two technical systems.",
+    "commonMistake": "Using 'integrate' when you just mean 'add'. Integration implies a deeper connection where things work together.",
+    "collocations": [
+      "seamlessly integrate",
+      "integrate with",
+      "fully integrated"
+    ]
+  }
+]

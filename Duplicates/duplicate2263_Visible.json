@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Visible",
+    "meaning": "Able to be seen or noticed",
+    "shortMeaning": "can be seen",
+    "example": "The process is visible in the system task manager.",
+    "example2": "Make sure all error icons are visible to the user.",
+    "example3": "The hidden file is not visible without changing settings.",
+    "Explanation": "The term 'visible' describes anything that is physically or digitally perceivable. In user interfaces, ensuring that critical info is 'visible' is a core UX task. If a feature or status is not 'visible', users will struggle to understand what the system is doing. In system administration, some logs or files are 'hidden' by default, meaning they are not 'visible' unless specifically requested. Understanding what is and isn't 'visible' is vital for managing user expectations and security.",
+    "synonyms": [
+      "observable",
+      "apparent",
+      "perceivable"
+    ],
+    "antonyms": [
+      "invisible",
+      "hidden",
+      "obscured"
+    ],
+    "nounForm": "visibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "visible",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, file systems, monitoring",
+    "usageTip": "Use for things that are easy to see.",
+    "commonMistake": "Confusing visible with 'viewable' (viewable implies access, visible implies appearance).",
+    "collocations": [
+      "clearly visible",
+      "visible change",
+      "make visible"
+    ]
+  },
+  {
+    "word": "Visible",
+    "meaning": "Able to be seen; clearly apparent.",
+    "shortMeaning": "seen easily",
+    "example": "The status bar is visible at the bottom of the screen.",
+    "example2": "Ensure the error message is visible to the user.",
+    "example3": "The network traffic is now visible in the monitor dashboard.",
+    "Explanation": "‘Visible’ refers to the state of being displayed or accessible to perception. In software UI, 'visible' elements are those the user can interact with directly. In back-end systems, 'visible' might refer to whether a log, a process, or a packet is traceable by an admin. IT tasks often involve making hidden errors 'visible' through debugging tools so they can be fixed. It is a simple but critical term in defining user experience and system observability.",
+    "synonyms": [
+      "evident",
+      "noticeable",
+      "observable"
+    ],
+    "antonyms": [
+      "hidden",
+      "invisible",
+      "obscured"
+    ],
+    "nounForm": "visibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "visible",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design and system monitoring",
+    "usageTip": "Use to discuss what the user can see on the screen.",
+    "commonMistake": "Assuming everything you can see is also accessible to the user.",
+    "collocations": [
+      "clearly visible",
+      "visible change",
+      "visible output"
+    ]
+  }
+]

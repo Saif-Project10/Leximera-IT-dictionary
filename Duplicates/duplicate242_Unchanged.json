@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unchanged",
+    "meaning": "Not changed; remaining the same.",
+    "shortMeaning": "same, not altered",
+    "example": "His opinion remained unchanged despite the new evidence.",
+    "example2": "The old town has remained largely unchanged for centuries.",
+    "example3": "The price is unchanged from last year.",
+    "Explanation": "The adjective 'unchanged' is the opposite of 'changed'. It describes a state where no alteration has occurred. It is formed by adding the prefix 'un-' (meaning not) to 'changed'. It is a simple, clear word used in comparisons over time. It is often used with verbs like 'remain', 'stay', and 'leave'. A common mistake is using it for people's feelings in a way that sounds unnatural; 'unchanged' is better for situations, conditions, or objects. It emphasizes stability and lack of development, which can be positive or negative depending on context.",
+    "synonyms": [
+      "unaltered",
+      "the same",
+      "constant"
+    ],
+    "antonyms": [
+      "changed",
+      "altered",
+      "modified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Conditions, prices, opinions, landscapes",
+    "usageTip": "Often used after 'remain' or 'stay': 'The rules remain unchanged.'",
+    "commonMistake": "Using 'unchanged' to describe a person's character in everyday talk. 'He is the same' is more natural.",
+    "collocations": [
+      "remain unchanged",
+      "essentially unchanged",
+      "left unchanged"
+    ]
+  },
+  {
+    "word": "Unchanged",
+    "meaning": "Remaining the same; not altered",
+    "shortMeaning": "the same",
+    "example": "The configuration remained unchanged after the restart.",
+    "example2": "The system performance is unchanged since the update.",
+    "example3": "The settings were left unchanged by the migration.",
+    "Explanation": "Unchanged describes something that has not been modified or affected by an event. In software development, confirming that certain parts of a system remain unchanged during a build or migration is crucial for preventing regressions. If you expect a change, finding the result unchanged indicates a potential failure in the update script. It is a vital state to check during quality assurance and version control comparisons.",
+    "synonyms": [
+      "constant",
+      "same",
+      "unaltered"
+    ],
+    "antonyms": [
+      "changed",
+      "altered",
+      "modified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Testing, version control, configuration",
+    "usageTip": "Use when you expect no modification in an element.",
+    "commonMistake": "Assuming unchanged means 'correct' (it might be unchanged because the update failed).",
+    "collocations": [
+      "remained unchanged",
+      "left unchanged",
+      "completely unchanged"
+    ]
+  },
+  {
+    "word": "Unchanged",
+    "meaning": "Not modified; remaining exactly as before.",
+    "shortMeaning": "same as before",
+    "example": "The code remained unchanged after the review.",
+    "example2": "The configuration file was left unchanged.",
+    "example3": "The output value is unchanged by this process.",
+    "Explanation": "The word 'unchanged' is very common in programming and version control. It describes code or data that was not modified during a process or a specific period. Knowing what is 'unchanged' is as important as knowing what was altered when debugging. It helps identify what areas of a project are stable. It is a precise term used when comparing versions or reviewing changes. It is the opposite of 'modified' or 'updated'.",
+    "synonyms": [
+      "constant",
+      "stable",
+      "original"
+    ],
+    "antonyms": [
+      "changed",
+      "modified",
+      "updated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding and version control",
+    "usageTip": "Use 'unchanged' when comparing files or data.",
+    "commonMistake": "Using 'unchanged' for something that was actually broken.",
+    "collocations": [
+      "remained unchanged",
+      "left unchanged",
+      "completely unchanged"
+    ]
+  }
+]

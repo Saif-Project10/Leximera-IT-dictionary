@@ -1,0 +1,101 @@
+[
+  {
+    "word": "Like",
+    "meaning": "To find something pleasant or agreeable; similar to.",
+    "shortMeaning": "enjoy; similar",
+    "example": "I really like chocolate ice cream. (verb)",
+    "example2": "She looks like her mother. (preposition)",
+    "example3": "We could go to a movie or something like that. (conjunction/informal)",
+    "Explanation": "'Like' is one of the most common and versatile words in English. As a verb, it means to enjoy or have a preference for. As a preposition, it means 'similar to' or 'resembling'. Informally, it is used as a filler word or conjunction ('It was, like, amazing'). This informal use is common in speech but should be avoided in formal writing. The word is fundamental for making comparisons and expressing preferences. Its simplicity makes it essential for basic communication, but its many uses can confuse learners.",
+    "synonyms": [
+      "enjoy",
+      "appreciate",
+      "similar to",
+      "such as",
+      "resemble"
+    ],
+    "antonyms": [
+      "dislike",
+      "hate",
+      "unlike",
+      "different from"
+    ],
+    "nounForm": "like (as in 'likes and dislikes')",
+    "verbForm": "like",
+    "adjectiveForm": "like",
+    "partOfSpeech": "verb / preposition / conjunction (informal) / noun",
+    "commonContext": "Preferences, comparisons, informal speech",
+    "usageTip": "Use 'like' for similarity (preposition) and preference (verb). In formal writing, use 'such as' or 'as if' instead of the conjunction 'like'.",
+    "commonMistake": "Using 'like' instead of 'as' in formal comparisons (e.g., 'Do as I say', not 'Do like I say').",
+    "collocations": [
+      "look like",
+      "feel like",
+      "would like",
+      "something like"
+    ]
+  },
+  {
+    "word": "Like",
+    "meaning": "To have a preference for or to be similar to something else",
+    "shortMeaning": "similar or preference",
+    "example": "The syntax is like that of Python.",
+    "example2": "He doesn't like the new interface design.",
+    "example3": "Objects like strings and numbers are often used together.",
+    "Explanation": "The word 'like' has two main functions in IT. First, it expresses preference (e.g., 'I like this library'). Second, it is used for comparison (e.g., 'This code is like that one'). In database queries (SQL), 'LIKE' is an operator used to search for a specific pattern within a string (e.g., searching for names that 'like' a certain letter sequence). Because it is such a common word in English, make sure the context is clear so that it isn't confused with programming comparisons or simple sentiment.",
+    "synonyms": [
+      "similar to",
+      "resembling",
+      "prefer"
+    ],
+    "antonyms": [
+      "unlike",
+      "dislike",
+      "different from"
+    ],
+    "nounForm": "like",
+    "verbForm": "like",
+    "adjectiveForm": "like",
+    "partOfSpeech": "verb / preposition / adjective",
+    "commonContext": "General English and SQL queries",
+    "usageTip": "Use context to distinguish between the SQL operator and standard usage.",
+    "commonMistake": "Forgetting the wildcards when using the LIKE operator in SQL.",
+    "collocations": [
+      "LIKE operator",
+      "look like",
+      "is like"
+    ]
+  },
+  {
+    "word": "Like",
+    "meaning": "To find something pleasant or to be similar to something else",
+    "shortMeaning": "enjoy / similar to",
+    "example": "I like the way this new UI looks.",
+    "example2": "This function works like the one we used in the previous project.",
+    "example3": "Do you like working with Python or JavaScript more?",
+    "Explanation": "The word 'like' is one of the most common words in English. As a verb, it expresses a positive feeling or preference. As a preposition, it is used to compare two things that are similar. In programming, 'like' is often used in SQL queries (the LIKE operator) to search for patterns in text. For example, searching for names 'like A%' would find all names starting with A. It is a fundamental word for expressing opinions and making comparisons in every area of life and work.",
+    "synonyms": [
+      "enjoy",
+      "prefer",
+      "similar",
+      "resemble"
+    ],
+    "antonyms": [
+      "dislike",
+      "hate",
+      "different",
+      "unlike"
+    ],
+    "nounForm": "liking",
+    "verbForm": "like",
+    "adjectiveForm": "likable",
+    "partOfSpeech": "verb / preposition / conjunction",
+    "commonContext": "Daily Conversation, SQL Queries, Comparisons",
+    "usageTip": "Use 'like' for general similarity and 'as' when describing a specific role or function.",
+    "commonMistake": "Using 'like' when you should use 'such as' for examples in formal writing.",
+    "collocations": [
+      "something like",
+      "looks like",
+      "I would like"
+    ]
+  }
+]

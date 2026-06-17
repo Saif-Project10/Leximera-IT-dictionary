@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sticky",
+    "meaning": "Tending to hold onto data or users.",
+    "shortMeaning": "retaining",
+    "example": "The website has high user stickiness.",
+    "example2": "Sticky sessions ensure a user stays on the same server.",
+    "example3": "Sticky notes are useful for brainstorming features.",
+    "Explanation": "In IT, 'sticky' usually refers to 'stickiness', which is the ability of a website or app to retain users or a session's persistence. 'Sticky sessions' ensure a user stays connected to the same server to prevent session loss. 'User stickiness' measures how often a user returns to a platform. Being 'sticky' is generally a sign of a successful, engaging product, though it can complicate infrastructure design in distributed systems.",
+    "synonyms": [
+      "retaining",
+      "persistent",
+      "engaging"
+    ],
+    "antonyms": [
+      "transient",
+      "temporary",
+      "short-lived"
+    ],
+    "nounForm": "stickiness",
+    "verbForm": "stick",
+    "adjectiveForm": "sticky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web analytics, user retention, sessions",
+    "usageTip": "Use 'sticky' when discussing user retention or session persistence.",
+    "commonMistake": "Confusing 'sticky' (retaining) with 'slow' (difficult).",
+    "collocations": [
+      "sticky session",
+      "user stickiness",
+      "sticky features"
+    ]
+  },
+  {
+    "word": "Sticky",
+    "meaning": "Tending to stick; also describes content that keeps users engaged",
+    "shortMeaning": "tending to stay",
+    "example": "The website has sticky content that brings users back.",
+    "example2": "A sticky header stays on top while scrolling.",
+    "example3": "The session persistence makes the connection sticky.",
+    "Explanation": "In IT, 'sticky' has two main meanings. Physically, it refers to UI elements like headers or sidebars that remain fixed while the user scrolls. Metaphorically, 'sticky' describes web content or apps that are engaging and cause users to spend more time on them. It can also refer to 'sticky sessions' in networking, where a user is consistently routed to the same server. It is a highly positive attribute for marketing and UX.",
+    "synonyms": [
+      "engaging",
+      "fixed",
+      "adhesive"
+    ],
+    "antonyms": [
+      "evasive",
+      "floating",
+      "unstable"
+    ],
+    "nounForm": "stickiness",
+    "verbForm": "stick",
+    "adjectiveForm": "sticky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design, marketing, networking",
+    "usageTip": "Use to describe persistent UI elements or engaging content.",
+    "commonMistake": "Confusing 'sticky' (engaging) with 'cluttered' (messy).",
+    "collocations": [
+      "sticky header",
+      "sticky session",
+      "sticky content"
+    ]
+  }
+]

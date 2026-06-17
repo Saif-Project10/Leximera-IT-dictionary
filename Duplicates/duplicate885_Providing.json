@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Providing",
+    "meaning": "On the condition or understanding that; if; supplying.",
+    "shortMeaning": "on the condition that; supplying",
+    "example": "You can borrow the car, providing you fill the tank. (conjunction)",
+    "example2": "The company is providing free training. (supplying)",
+    "example3": "His job involves providing technical support.",
+    "Explanation": "'Providing' (or 'provided') can be a conjunction meaning 'on the condition that' or 'if', used to set a stipulation. More commonly, it is the present participle of the verb 'provide', which means to make available, supply, or give something needed. The word is extremely common in business, services, and everyday agreements. As a conjunction, it is slightly more formal than 'if'. The core idea is making something available, whether it's a physical object, a service, or a condition.",
+    "synonyms": [
+      "supplying",
+      "giving",
+      "furnishing",
+      "on condition that"
+    ],
+    "antonyms": [
+      "withholding",
+      "depriving"
+    ],
+    "nounForm": "provision",
+    "verbForm": "provide",
+    "adjectiveForm": "provided",
+    "partOfSpeech": "conjunction, verb (present participle/gerund)",
+    "commonContext": "Conditions, services, support, resources",
+    "usageTip": "Use 'providing' as a conjunction to mean 'if' or 'as long as'. Use it as a verb for the action of supplying.",
+    "commonMistake": "Using 'providing' as a conjunction in very formal writing where 'provided that' might be preferred.",
+    "collocations": [
+      "providing that",
+      "providing services",
+      "providing information",
+      "responsible for providing"
+    ]
+  },
+  {
+    "word": "Providing",
+    "meaning": "Supplying or making something available",
+    "shortMeaning": "supplying",
+    "example": "We are providing better security through this update.",
+    "example2": "The team is providing continuous support for the users.",
+    "example3": "Providing clear logs is key to successful debugging.",
+    "Explanation": "The word 'providing' is the active form of 'provide', describing the act of making a resource or capability available. In IT project descriptions, it highlights the *value* your system is delivering. Instead of saying 'The system has logging', saying 'Providing logging' focuses on the service or benefit. It is a very useful word in marketing, project updates, and documentation to emphasize the value being added by the team or the application.",
+    "synonyms": [
+      "supplying",
+      "offering",
+      "delivering"
+    ],
+    "antonyms": [
+      "withholding",
+      "denying"
+    ],
+    "nounForm": "provision",
+    "verbForm": "provide",
+    "adjectiveForm": "provided",
+    "partOfSpeech": "verb (gerund)",
+    "commonContext": "Project updates, documentation",
+    "usageTip": "Use 'providing' when emphasizing the value delivered by a feature.",
+    "commonMistake": "Overusing it in sentences; try mixing it with stronger verbs like 'enabling' or 'delivering'.",
+    "collocations": [
+      "providing support",
+      "providing clear information"
+    ]
+  }
+]

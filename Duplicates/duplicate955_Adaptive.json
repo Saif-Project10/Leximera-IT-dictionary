@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Adaptive",
+    "meaning": "Able to change or be changed to suit different conditions.",
+    "shortMeaning": "able to adjust",
+    "example": "Children have a highly adaptive learning ability.",
+    "example2": "The software uses adaptive algorithms to personalize content.",
+    "example3": "Adaptive radiation is a key concept in evolutionary biology.",
+    "Explanation": "'Adaptive' is an adjective. It describes the quality of being able to adjust to new conditions. It is a positive trait for systems, organisms, and people. In technology, 'adaptive' systems learn and change based on user input (adaptive learning, adaptive cruise control). In biology, it refers to traits that improve an organism's chance of survival. It is related to the verb 'adapt' but focuses on the capability or tendency to adapt. It's a modern, technical-sounding word.",
+    "synonyms": [
+      "adjustable",
+      "flexible",
+      "versatile",
+      "responsive"
+    ],
+    "antonyms": [
+      "inflexible",
+      "rigid",
+      "maladaptive"
+    ],
+    "nounForm": "adaptiveness / adaptability",
+    "verbForm": "adapt",
+    "adjectiveForm": "adaptive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, biology, psychology, learning",
+    "usageTip": "Often used in technical and scientific descriptions to describe systems that self-adjust.",
+    "commonMistake": "Confusing 'adaptive' with 'adaptable'. They are very similar, but 'adaptive' often describes an inherent quality, while 'adaptable' describes a capacity.",
+    "collocations": [
+      "adaptive behavior",
+      "adaptive technology",
+      "adaptive system"
+    ]
+  },
+  {
+    "word": "Adaptive",
+    "meaning": "Showing a capacity to change automatically based on varying inputs or conditions",
+    "shortMeaning": "automatically adjusting",
+    "example": "Adaptive bitrate streaming changes video quality based on internet speed.",
+    "example2": "Modern websites use adaptive layouts to render beautifully on any display size.",
+    "example3": "Adaptive security systems update their firewalls when new threats show up.",
+    "Explanation": "The word 'adaptive' describes systems that analyze their current environment and change their own behavior automatically. Unlike simple static systems, adaptive technology uses sensors, data feedback, or AI algorithms to improve performance in real time. For instance, adaptive streaming prevents video buffering by lowering quality when your connection drops. The verb form is 'adapt', and the noun form is 'adaptivity' or 'adaptation'.",
+    "synonyms": [
+      "self-adjusting",
+      "responsive",
+      "dynamic"
+    ],
+    "antonyms": [
+      "static",
+      "fixed",
+      "non-adaptive"
+    ],
+    "nounForm": "adaptivity / adaptation",
+    "verbForm": "adapt",
+    "adjectiveForm": "adaptive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Video streaming, web design, modern cyber defense",
+    "usageTip": "Use 'adaptive' when a system alters its behavior on its own based on real-time data inputs.",
+    "commonMistake": "Confusing 'adaptive' with 'adoptive' (which relates to adoption contexts).",
+    "collocations": [
+      "adaptive layout",
+      "adaptive streaming",
+      "adaptive learning"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Read uncommitted",
+    "meaning": "An isolation level that allows a transaction to read data that has not yet been saved or committed",
+    "shortMeaning": "reading unsaved data",
+    "example": "We set the transaction to read uncommitted for the reporting dashboard to gain speed.",
+    "example2": "Read uncommitted can lead to 'dirty reads' where the data might later disappear.",
+    "example3": "The database performance improved after switching to read uncommitted.",
+    "Explanation": "Read uncommitted is the lowest level of transaction isolation in a database. It allows a user to see changes made by other users even if those changes haven't been finalized (committed). While this is very fast because it doesn't wait for locks, it is risky. If the other user cancels their transaction (rollback), the data you read will be 'dirty'—meaning it technically never existed in the permanent database. It is mostly used for large-scale analytics where 100% accuracy is less important than speed.",
+    "synonyms": [
+      "dirty read",
+      "no-lock read"
+    ],
+    "antonyms": [
+      "read committed",
+      "serializable"
+    ],
+    "nounForm": "read uncommitted isolation",
+    "verbForm": "read uncommitted",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / adjective phrase",
+    "commonContext": "Database transactions and reporting",
+    "usageTip": "Only use read uncommitted when data accuracy is not critical, like for estimated counts.",
+    "commonMistake": "Using read uncommitted for financial transactions where accuracy is vital.",
+    "collocations": [
+      "read uncommitted level",
+      "set read uncommitted"
+    ]
+  },
+  {
+    "word": "Read uncommitted",
+    "meaning": "An isolation level in databases that allows a transaction to read data that has not been saved yet",
+    "shortMeaning": "read unsaved data",
+    "example": "Using read uncommitted isolation can lead to dirty reads in your database.",
+    "example2": "The configuration was set to read uncommitted to get the highest speed possible.",
+    "example3": "We avoid read uncommitted mode for financial data because accuracy is critical.",
+    "Explanation": "The term 'Read uncommitted' is a specific database isolation level concept. It allows a database transaction to read data changes made by another ongoing transaction, even if those changes have not been finalized or committed yet. This can result in a problem known as a 'dirty read', where data is read but later rolled back, making the read data completely invalid. While this mode offers maximum performance and zero locking delays, it lacks reliability and data consistency. It is generally used in scenarios where speed is more important than absolute data accuracy.",
+    "synonyms": [
+      "dirty read mode",
+      "uncommitted read",
+      "N/A"
+    ],
+    "antonyms": [
+      "read committed",
+      "serializable",
+      "repeatable read"
+    ],
+    "nounForm": "read uncommitted isolation",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / adjective",
+    "commonContext": "Database transactions, SQL configuration, data concurrency management",
+    "usageTip": "Use 'read uncommitted' when discussing database optimization strategies where absolute consistency can be sacrificed for speed.",
+    "commonMistake": "Using 'read uncommitted' in systems where financial or highly sensitive user data is handled.",
+    "collocations": [
+      "read uncommitted isolation level",
+      "set transaction to read uncommitted",
+      "allow read uncommitted"
+    ]
+  }
+]

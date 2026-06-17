@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inaccurate",
+    "meaning": "Not correct; containing mistakes or errors",
+    "shortMeaning": "not accurate, wrong",
+    "example": "The report was based on inaccurate data.",
+    "example2": "His description of events was highly inaccurate.",
+    "example3": "An inaccurate translation can change the meaning.",
+    "Explanation": "'Inaccurate' is a common adjective meaning not precise, correct, or true. It is the opposite of 'accurate'. This word is used to criticize information, statements, measurements, or work that contains errors. Inaccuracy can range from minor mistakes to major falsehoods. The noun is 'inaccuracy'. In science, journalism, and data analysis, striving to eliminate inaccuracies is crucial. The word is neutral in tone but points out a flaw. It's a fundamental word for quality control and fact-checking.",
+    "synonyms": [
+      "incorrect",
+      "wrong",
+      "erroneous",
+      "mistaken",
+      "imprecise"
+    ],
+    "antonyms": [
+      "accurate",
+      "correct",
+      "precise",
+      "exact"
+    ],
+    "nounForm": "inaccuracy",
+    "verbForm": "N/A",
+    "adjectiveForm": "inaccurate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Information, reports, descriptions, measurements, maps",
+    "usageTip": "Use 'inaccurate' to describe information, statements, or work that is not correct or contains errors.",
+    "commonMistake": "Using 'unaccurate'. The correct form is 'inaccurate'.",
+    "collocations": [
+      "wildly inaccurate",
+      "proven inaccurate",
+      "inaccurate information"
+    ]
+  },
+  {
+    "word": "Inaccurate",
+    "meaning": "Not correct or precise; containing errors",
+    "shortMeaning": "not correct",
+    "example": "The sensor returned inaccurate temperature readings.",
+    "example2": "Do not rely on inaccurate data for your reports.",
+    "example3": "An inaccurate calculation caused the system to fail.",
+    "Explanation": "The word 'inaccurate' means something is wrong, imprecise, or lacks truth. In IT, inaccurate data can lead to serious business consequences, such as bad decisions or system crashes. You might encounter inaccurate timestamps, inaccurate calculations, or inaccurate results from an API. It is important to validate data to ensure it is accurate before processing. Always seek to improve your accuracy in coding and documentation.",
+    "synonyms": [
+      "wrong",
+      "erroneous",
+      "imprecise"
+    ],
+    "antonyms": [
+      "accurate",
+      "precise",
+      "correct"
+    ],
+    "nounForm": "inaccuracy",
+    "verbForm": "N/A",
+    "adjectiveForm": "inaccurate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data quality, testing, software logic",
+    "usageTip": "Use 'inaccurate' to highlight errors in data or results.",
+    "commonMistake": "Using 'inaccurate' when you mean 'fake' (it just means wrong).",
+    "collocations": [
+      "inaccurate data",
+      "inaccurate result",
+      "inaccurate reading"
+    ]
+  }
+]

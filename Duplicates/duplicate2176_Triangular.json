@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Triangular",
+    "meaning": "Having the shape of a triangle or involving three sides/parties.",
+    "shortMeaning": "three-sided",
+    "example": "The network topology is triangular.",
+    "example2": "They formed a triangular partnership for the project.",
+    "example3": "The processor heat sink has a triangular base.",
+    "Explanation": "The word 'triangular' describes something shaped like a triangle, having three sides or three angles. In networking or business, it often describes relationships or connections between exactly three entities. It is rarely used as a verb. Its noun form is 'triangle'. Use this word precisely when you are describing geometric shapes or specific three-way interactions in a system.",
+    "synonyms": [
+      "three-sided",
+      "tripartite",
+      "trilateral"
+    ],
+    "antonyms": [
+      "linear",
+      "square",
+      "circular"
+    ],
+    "nounForm": "triangle",
+    "verbForm": "N/A",
+    "adjectiveForm": "triangular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Geometry, network design, and project management",
+    "usageTip": "Use 'triangular' to describe shapes or relationships involving three parts.",
+    "commonMistake": "Using it to describe more than three parties.",
+    "collocations": [
+      "triangular shape",
+      "triangular relationship",
+      "triangular grid"
+    ]
+  },
+  {
+    "word": "Triangular",
+    "meaning": "Having a shape or structure with three sides",
+    "shortMeaning": "three-sided",
+    "example": "The design pattern followed a triangular structure.",
+    "example2": "They used a triangular mesh for 3D modeling.",
+    "example3": "The data shows a triangular relationship between variables.",
+    "Explanation": "Triangular refers to a shape or organizational structure involving three components. In graphics, triangular meshes are the building blocks of 3D objects. In management or logic, it describes a relationship involving three distinct parties or points. It implies stability and balance, as triangles are geometrically strong. It is often used figuratively to describe complex relationships in networking or data modeling.",
+    "synonyms": [
+      "three-sided",
+      "tripartite"
+    ],
+    "antonyms": [
+      "linear",
+      "quadrilateral"
+    ],
+    "nounForm": "triangle",
+    "verbForm": "N/A",
+    "adjectiveForm": "triangular",
+    "partOfSpeech": "adjective",
+    "commonContext": "3D modeling, geometry, data visualization",
+    "usageTip": "Use this to describe 3D shapes or relationships between three entities.",
+    "commonMistake": "Using it for any shape with multiple points; it must be three.",
+    "collocations": [
+      "triangular mesh",
+      "triangular structure",
+      "triangular relationship"
+    ]
+  }
+]

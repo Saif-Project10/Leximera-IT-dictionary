@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Variable rate",
+    "meaning": "An interest rate or price that is not fixed and changes over time based on market conditions",
+    "shortMeaning": "changing rate",
+    "example": "He chose a variable rate mortgage because he hoped interest rates would drop.",
+    "example2": "The variable rate on the credit card went up this month.",
+    "example3": "Investors often weigh the risks of a variable rate against a fixed one.",
+    "Explanation": "A variable rate is a price or percentage that is tied to an index or market benchmark. In finance, it usually refers to interest rates on loans or mortgages. When the central bank changes interest rates, variable rates usually follow. This means your monthly payments could go up or down. In technology, it can refer to 'variable rate' data transfers or billing. It offers flexibility but also introduces risk because future costs are unpredictable. It is the opposite of a 'fixed rate'.",
+    "synonyms": [
+      "adjustable rate",
+      "floating rate",
+      "flexible rate"
+    ],
+    "antonyms": [
+      "fixed rate",
+      "static rate",
+      "constant rate"
+    ],
+    "nounForm": "rate",
+    "verbForm": "N/A",
+    "adjectiveForm": "variable-rate",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Finance, loans, and utility billing",
+    "usageTip": "Use this when describing a cost that is likely to change in the future.",
+    "commonMistake": "Assuming a variable rate will always stay low; it can increase significantly.",
+    "collocations": [
+      "variable rate mortgage",
+      "variable rate loan",
+      "variable rate investment"
+    ]
+  },
+  {
+    "word": "Variable rate",
+    "meaning": "A value that changes periodically or based on conditions",
+    "shortMeaning": "changing rate",
+    "example": "The network connection uses a variable rate for data transfer.",
+    "example2": "Some services offer a variable rate for cloud computing.",
+    "example3": "Adjust the polling interval for the variable rate.",
+    "Explanation": "A 'variable rate' refers to a frequency or speed that is not constant. In networking, it might refer to adaptive bitrate streaming. In business and cloud services, it often refers to costs that fluctuate based on usage or demand. It is important for systems to be designed to handle these fluctuations without failing. If your system depends on a variable rate, ensure you have monitoring tools to detect and manage those changes.",
+    "synonyms": [
+      "fluctuating rate",
+      "dynamic rate"
+    ],
+    "antonyms": [
+      "fixed rate",
+      "constant rate"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "variable-rate",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Networking, cloud pricing, and performance",
+    "usageTip": "Use for speeds or costs that change over time.",
+    "commonMistake": "Assuming a rate is constant when it is actually variable.",
+    "collocations": [
+      "handle variable rate",
+      "dynamic variable rate"
+    ]
+  }
+]

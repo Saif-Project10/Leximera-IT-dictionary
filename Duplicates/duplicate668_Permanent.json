@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Permanent",
+    "meaning": "Lasting or intended to last indefinitely without change",
+    "shortMeaning": "lasting forever; not temporary",
+    "example": "They made a permanent move to the countryside.",
+    "example2": "The accident left him with permanent damage.",
+    "example3": "Is the ink in this pen permanent?",
+    "Explanation": "'Permanent' is the opposite of 'temporary'. It describes something that is meant to last forever or for a very long time without changing. It can refer to situations (permanent residence), conditions (permanent injury), or objects (permanent marker). The noun form is 'permanence'. It is a strong, definitive word used in legal, personal, and technical contexts. It implies stability and finality.",
+    "synonyms": [
+      "lasting",
+      "enduring",
+      "eternal",
+      "fixed"
+    ],
+    "antonyms": [
+      "temporary",
+      "impermanent",
+      "fleeting",
+      "short-term"
+    ],
+    "nounForm": "permanence",
+    "verbForm": "permanentize (rare)",
+    "adjectiveForm": "permanent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Residency, damage, employment, features",
+    "usageTip": "Use 'permanent' for things that are not going to change or end in the foreseeable future.",
+    "commonMistake": "Using 'permanent' for things that are just long-lasting. 'Permanent' suggests no end is planned.",
+    "collocations": [
+      "permanent resident",
+      "permanent damage",
+      "permanent solution",
+      "semi-permanent"
+    ]
+  },
+  {
+    "word": "Permanent",
+    "meaning": "Intended to last or remain unchanged indefinitely.",
+    "shortMeaning": "lasting forever",
+    "example": "This is a permanent fix for the connection error.",
+    "example2": "We need permanent storage for our backup files.",
+    "example3": "The changes to the system configuration are permanent.",
+    "Explanation": "Permanent describes something that is not temporary. Once it is done or set, it is meant to stay that way for a long time. In IT, 'permanent storage' (like a hard drive) keeps data even when power is off, unlike 'temporary' RAM. When you talk about a 'permanent fix', you mean you have solved the root cause, not just patched it. It implies durability and reliability.",
+    "synonyms": [
+      "lasting",
+      "durable",
+      "indefinite"
+    ],
+    "antonyms": [
+      "temporary",
+      "transient",
+      "provisional"
+    ],
+    "nounForm": "permanence",
+    "verbForm": "N/A",
+    "adjectiveForm": "permanent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage, configuration, solutions",
+    "usageTip": "Use 'permanent' for things meant to last indefinitely.",
+    "commonMistake": "Confusing 'permanent' with 'consistent' (permanent is about time, consistent is about reliability).",
+    "collocations": [
+      "permanent storage",
+      "permanent solution",
+      "permanent change"
+    ]
+  }
+]

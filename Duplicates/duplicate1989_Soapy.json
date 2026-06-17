@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Soapy",
+    "meaning": "Used (often jokingly) to describe overly layered or complex code",
+    "shortMeaning": "overly complex",
+    "example": "That architectural design is too soapy.",
+    "example2": "The codebase is full of soapy layers.",
+    "example3": "Avoid soapy abstractions that are hard to debug.",
+    "Explanation": "The term 'soapy' is slang in some programming circles for code that has too many layers of abstraction, like a soap bubble with many thin, fragile layers. It is often meant negatively, implying that the code is 'slippery' (hard to follow) and 'bubbly' (lacking substance or over-engineered). It can be frustrating to work with because a simple change in one layer might break several others. It is an informal term used in peer discussions.",
+    "synonyms": [
+      "over-engineered",
+      "excessively layered",
+      "bloated"
+    ],
+    "antonyms": [
+      "simple",
+      "lean",
+      "straightforward"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "soapy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Informal code reviews, architectural critique",
+    "usageTip": "Use it as an informal way to critique over-complex code.",
+    "commonMistake": "Using it in formal documentation; it is not professional terminology.",
+    "collocations": [
+      "soapy code",
+      "soapy abstraction"
+    ]
+  },
+  {
+    "word": "Soapy",
+    "meaning": "Containing or covered with soap; also used to describe something overly flattering",
+    "shortMeaning": "soap-like or flattering",
+    "example": "The cleanup script removed the soapy residue from the disk.",
+    "example2": "The user provided a soapy review of the new tool.",
+    "example3": "Some legacy code has a soapy, unrefined structure.",
+    "Explanation": "While 'soapy' literally refers to the presence of soap, in IT it can be used colloquially to describe something that lacks substance or is overly 'slick' but superficial. It is rarely used in formal technical documentation but might appear in informal developer discussions. It implies something that is slippery or insincere. Be careful when using it as it may not be understood in a technical context.",
+    "synonyms": [
+      "foamy",
+      "slick",
+      "insincere"
+    ],
+    "antonyms": [
+      "dry",
+      "solid",
+      "sincere"
+    ],
+    "nounForm": "soap",
+    "verbForm": "N/A",
+    "adjectiveForm": "soapy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Informal description, UI feedback",
+    "usageTip": "Use 'soapy' literally for soap; use with caution otherwise.",
+    "commonMistake": "Using 'soapy' to describe code that is actually 'clean'.",
+    "collocations": [
+      "soapy residue",
+      "soapy texture",
+      "soapy feel"
+    ]
+  }
+]

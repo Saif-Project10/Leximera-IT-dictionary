@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Untidy",
+    "meaning": "Not neat or orderly; messy.",
+    "shortMeaning": "messy; not neat",
+    "example": "His room was always untidy, with clothes on the floor.",
+    "example2": "She had untidy handwriting that was hard to read.",
+    "example3": "The garden looked untidy and overgrown.",
+    "Explanation": "Untidy is an adjective specifically describing a lack of neatness in appearance. It is often used for physical spaces, personal appearance, or written work. It's less severe than 'disorganized' and focuses more on visual messiness rather than systemic failure. The verb is 'tidy,' and the noun is 'untidiness.' A common mistake is using it interchangeably with 'dirty'; untidy means messy, not necessarily unclean. This word is a common gentle criticism from parents, teachers, or roommates about keeping things in order. It's about aesthetics and basic order.",
+    "synonyms": [
+      "messy",
+      "disorderly",
+      "cluttered",
+      "sloppy",
+      "unkempt"
+    ],
+    "antonyms": [
+      "tidy",
+      "neat",
+      "orderly",
+      "organized"
+    ],
+    "nounForm": "untidiness",
+    "verbForm": "tidy",
+    "adjectiveForm": "untidy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Rooms, appearance, desks, and handwriting.",
+    "usageTip": "Use 'untidy' for visual messiness. Use 'disorganized' for a lack of system or planning.",
+    "commonMistake": "Saying 'untidy' to describe something that is dirty or soiled.",
+    "collocations": [
+      "untidy heap",
+      "untidy hair",
+      "look untidy"
+    ]
+  },
+  {
+    "word": "Untidy",
+    "meaning": "Not arranged neatly or in an orderly manner.",
+    "shortMeaning": "disorganized",
+    "example": "The code was quite untidy, making it hard to maintain.",
+    "example2": "An untidy directory structure leads to file loss.",
+    "example3": "Please clean up that untidy terminal session.",
+    "Explanation": "The word 'untidy' describes a lack of organization, structure, or neatness. In programming, 'untidy code' refers to code that is messy, lacks indentation, or is disorganized, which hurts readability. It is different from 'incorrect' because it may still function, but it is difficult for humans to work with. The noun form is 'untidiness'. Always strive for tidy code for better collaboration and debugging.",
+    "synonyms": [
+      "messy",
+      "disorganized",
+      "cluttered"
+    ],
+    "antonyms": [
+      "tidy",
+      "neat",
+      "organized"
+    ],
+    "nounForm": "untidiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "untidy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding style, file management, and UI",
+    "usageTip": "Use 'untidy' to describe messy, hard-to-read code or interfaces.",
+    "commonMistake": "Assuming untidy code is also non-functional.",
+    "collocations": [
+      "untidy code",
+      "untidy structure",
+      "untidy interface"
+    ]
+  },
+  {
+    "word": "Untidy",
+    "meaning": "Not organized or clean; messy",
+    "shortMeaning": "disorganized",
+    "example": "His code was quite untidy and hard to follow.",
+    "example2": "An untidy folder structure makes file management difficult.",
+    "example3": "The workspace looked untidy after the hardware project.",
+    "Explanation": "Untidy describes something that lacks order, structure, or cleanliness. In the context of IT, it often refers to poorly indented code, scattered file directories, or cluttered documentation. An untidy codebase is significantly harder for other developers to read and maintain, leading to technical debt over time. Maintaining a clean and organized approach is considered a best practice for professional developers. By cleaning up your work, you improve efficiency and reduce the likelihood of simple errors.",
+    "synonyms": [
+      "messy",
+      "disorganized",
+      "cluttered"
+    ],
+    "antonyms": [
+      "tidy",
+      "organized",
+      "clean"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "untidy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding style and file management",
+    "usageTip": "Use it to describe poor organization of code or data.",
+    "commonMistake": "Confusing 'untidy' with 'complex' code.",
+    "collocations": [
+      "untidy code",
+      "untidy directory",
+      "untidy structure"
+    ]
+  }
+]

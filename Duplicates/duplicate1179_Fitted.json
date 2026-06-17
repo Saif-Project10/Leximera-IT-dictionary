@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Fitted",
+    "meaning": "Made to fit a particular shape or space; or equipped.",
+    "shortMeaning": "made to fit; equipped",
+    "example": "The kitchen has fitted cabinets.",
+    "example2": "He fitted the pieces together perfectly.",
+    "example3": "The car is fitted with a navigation system.",
+    "Explanation": "'Fitted' is the past tense and past participle of 'fit', used as an adjective meaning designed to fit precisely or having been equipped with something. In clothing, 'fitted' means tailored to the body (fitted shirt). In furniture/cabinetry, it means built to fill a specific space (fitted wardrobe). It also means having been installed or equipped (fitted with alarms). The word suggests customization, precision, or completion of installation. In British English, 'fitted' is common for describing built-in furniture. The concept emphasizes tailored suitability rather than one-size-fits-all solutions.",
+    "synonyms": [
+      "tailored",
+      "custom-made",
+      "installed",
+      "equipped"
+    ],
+    "antonyms": [
+      "loose",
+      "ill-fitting",
+      "removed",
+      "unequipped"
+    ],
+    "nounForm": "fit",
+    "verbForm": "fit",
+    "adjectiveForm": "fitted",
+    "partOfSpeech": "adjective, verb (past tense/participle)",
+    "commonContext": "Clothing, furniture, equipment, installations",
+    "usageTip": "As adjective: 'fitted sheet', 'fitted kitchen'. As verb: 'fitted the part', 'have fitted'.",
+    "commonMistake": "American vs. British usage: Americans might say 'built-in cabinets'; British say 'fitted cabinets'.",
+    "collocations": [
+      "fitted kitchen",
+      "fitted carpet",
+      "fitted with"
+    ]
+  },
+  {
+    "word": "Fitted",
+    "meaning": "Designed or adjusted to fit a specific shape or requirement",
+    "shortMeaning": "Customized or adjusted",
+    "example": "The server was fitted with extra memory.",
+    "example2": "We fitted the algorithm to our dataset.",
+    "example3": "The cabinet is fitted for standard hardware.",
+    "Explanation": "The word 'fitted' describes something that has been specially adapted or installed to meet specific needs or measurements. In IT, it often refers to hardware modifications (e.g., 'fitted with a new GPU') or data modeling ('fitted to the data'). It is the past tense and past participle of 'fit'. It implies a precise, intentional action to ensure compatibility or optimal performance.",
+    "synonyms": [
+      "adjusted",
+      "adapted",
+      "customized"
+    ],
+    "antonyms": [
+      "mismatched",
+      "loose",
+      "unfitted"
+    ],
+    "nounForm": "fit",
+    "verbForm": "fit",
+    "adjectiveForm": "fitted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Hardware upgrades and data modeling",
+    "usageTip": "Use 'fitted' for things that have been carefully adjusted.",
+    "commonMistake": "Using 'fitted' where 'installed' or 'added' might be better.",
+    "collocations": [
+      "fitted with",
+      "fitted for",
+      "custom fitted"
+    ]
+  }
+]

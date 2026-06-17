@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Submit",
+    "meaning": "To present for consideration or judgment; to yield to authority.",
+    "shortMeaning": "present; yield",
+    "example": "Please submit your report by Friday.",
+    "example2": "The defendant decided to submit to the court's ruling.",
+    "example3": "You must submit an application online.",
+    "Explanation": "Submit has two primary meanings. The first is to hand over or present something (like a document or proposal) for review or decision. The second is to accept or yield to a superior force or authority. The first meaning is common in academic and professional settings. The second can be voluntary (submit to a search) or forced. The noun is 'submission'. The word comes from Latin roots meaning 'to place under'. Context clarifies whether it's about sending something in or giving in to someone.",
+    "synonyms": [
+      "present",
+      "hand in",
+      "offer",
+      "yield",
+      "surrender"
+    ],
+    "antonyms": [
+      "withdraw",
+      "resist",
+      "defy",
+      "reject"
+    ],
+    "nounForm": "submission",
+    "verbForm": "submit",
+    "adjectiveForm": "submissive",
+    "partOfSpeech": "verb",
+    "commonContext": "Applications, reports, proposals, authority, competitions",
+    "usageTip": "For documents, use 'submit to' a person or office. For yielding, use 'submit to' authority or pressure.",
+    "commonMistake": "Confusing 'submit' with 'admit'. Submit is to present or yield; admit is to confess or allow entry.",
+    "collocations": [
+      "submit an application",
+      "submit a request",
+      "submit to authority",
+      "submit electronically"
+    ]
+  },
+  {
+    "word": "Submit",
+    "meaning": "To send completed data or a completed digital file to a server, system, or authority for processing",
+    "shortMeaning": "send data for processing",
+    "example": "Users must click the button to submit their registration data to our backend.",
+    "example2": "Make sure to submit your open-source code contributions before the weekend deadline.",
+    "example3": "The app will validate the input fields automatically before it lets you submit.",
+    "Explanation": "The word 'submit' is an action verb used extensively in web applications and workflow management. It describes the precise moment data is transferred from a client's device or browser to a receiving server. It triggers actions like saving info to a database, processing payments, or running validations. In general tech workflows, it can also mean uploading a file or pushing a pull request to a shared repository for administrative review.",
+    "synonyms": [
+      "send",
+      "transmit",
+      "hand in",
+      "commit"
+    ],
+    "antonyms": [
+      "cancel",
+      "retain",
+      "withhold"
+    ],
+    "nounForm": "submission",
+    "verbForm": "submit",
+    "adjectiveForm": "submittable",
+    "partOfSpeech": "verb",
+    "commonContext": "Web forms, user interface buttons, git workflows, and assignment systems",
+    "usageTip": "Use 'submit' when data leaves the user interface to go to a processing server or database.",
+    "commonMistake": "Using 'submit' when data is only being saved locally on the device without being transmitted.",
+    "collocations": [
+      "submit a form",
+      "submit credentials",
+      "click to submit"
+    ]
+  }
+]

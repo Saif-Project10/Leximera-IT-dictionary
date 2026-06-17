@@ -1,0 +1,129 @@
+[
+  {
+    "word": "Slow",
+    "meaning": "Moving or operating at a low speed; not quick.",
+    "shortMeaning": "not fast",
+    "example": "The traffic was very slow this morning.",
+    "example2": "My computer is getting slow.",
+    "example3": "He's a slow reader, but he understands everything.",
+    "Explanation": "'Slow' is a basic adjective, adverb, and verb. As an adjective, it describes low speed or a lack of quickness. As an adverb, it means at a low speed (though 'slowly' is more common). As a verb, it means to reduce speed. The word is common in everyday descriptions of pace, whether of movement, thought, or processes. It is generally negative when describing performance but can be positive when describing a careful, deliberate approach ('slow and steady'). The opposite is 'fast' or 'quick'. It's one of the first descriptive words learned.",
+    "synonyms": [
+      "unhurried",
+      "leisurely",
+      "sluggish",
+      "gradual"
+    ],
+    "antonyms": [
+      "fast",
+      "quick",
+      "rapid",
+      "speedy"
+    ],
+    "nounForm": "slowness",
+    "verbForm": "slow",
+    "adjectiveForm": "slow",
+    "partOfSpeech": "adjective, adverb, verb",
+    "commonContext": "Speed, pace, performance, learning",
+    "usageTip": "In informal American English, 'slow' is often used as an adverb in commands: 'Drive slow!' (Formally, 'slowly' is preferred.)",
+    "commonMistake": "Confusing 'slow' (speed) with 'slough' (to shed skin) or 'slaw' (a salad).",
+    "collocations": [
+      "slow down",
+      "slow motion",
+      "slow progress",
+      "slow learner"
+    ]
+  },
+  {
+    "word": "Slow",
+    "meaning": "Moving or operating at a low speed; not fast.",
+    "shortMeaning": "not fast",
+    "example": "The database query is too slow for real-time apps.",
+    "example2": "A slow internet connection can ruin the user experience.",
+    "example3": "We are fixing the slow loading times.",
+    "Explanation": "The word 'slow' describes a lack of speed. In IT, 'slow' is usually a negative attribute that developers constantly try to fix through optimization. It can apply to hardware, network connections, or code execution. Identifying why something is 'slow'—whether it's the algorithm, database, or bandwidth—is the first step toward improving it.",
+    "synonyms": [
+      "sluggish",
+      "leisurely",
+      "delayed"
+    ],
+    "antonyms": [
+      "fast",
+      "quick",
+      "rapid"
+    ],
+    "nounForm": "slowness",
+    "verbForm": "slow",
+    "adjectiveForm": "slow",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Performance and speed",
+    "usageTip": "Use 'slow' to describe poor performance or speed.",
+    "commonMistake": "Confusing 'slow' with 'laggy' (lag is usually a specific network issue).",
+    "collocations": [
+      "slow response",
+      "too slow",
+      "very slow"
+    ]
+  },
+  {
+    "word": "Slow",
+    "meaning": "Not moving or operating quickly; taking a long time",
+    "shortMeaning": "not fast",
+    "example": "The database query is very slow during peak traffic hours.",
+    "example2": "His typing speed is slow compared to other developers.",
+    "example3": "We need to fix the slow page load time immediately.",
+    "Explanation": "The word 'slow' describes low speed in performance or processes. In IT, this refers to high latency, long processing times, or sluggish user interfaces. It is a critical metric because a slow system often leads to a bad user experience. Developers are constantly trying to optimize code to avoid slow performance. It is a simple but very important adjective in performance engineering.",
+    "synonyms": [
+      "sluggish",
+      "delayed",
+      "laggard"
+    ],
+    "antonyms": [
+      "fast",
+      "quick",
+      "rapid"
+    ],
+    "nounForm": "slowness",
+    "verbForm": "slow",
+    "adjectiveForm": "slow",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Performance testing, user experience",
+    "usageTip": "Use 'slow' to identify performance bottlenecks.",
+    "commonMistake": "Using 'slowly' as an adjective instead of an adverb.",
+    "collocations": [
+      "slow response",
+      "slow performance",
+      "very slow"
+    ]
+  },
+  {
+    "word": "Slow",
+    "meaning": "An application or database system that takes an excessive amount of time to respond, process queries, or load layout files",
+    "shortMeaning": "delayed application response performance",
+    "example": "If your frontend website images are uncompressed, pages will be slow to load on mobile connections.",
+    "example2": "The database query became very slow because the developer forgot to add proper index tracking rows.",
+    "example3": "We need to debug the backend processing loop to find out why server responses are slow.",
+    "Explanation": "The word 'Slow' describes performance delays in systems and applications. High latency, unoptimized code loops, oversized media assets, and missing database indexes can all cause slowness. Because slow response times often lead users to leave a site, tracking and resolving performance bottlenecks is an ongoing priority for development teams.",
+    "synonyms": [
+      "sluggish performance",
+      "lagging response",
+      "delayed execution"
+    ],
+    "antonyms": [
+      "fast execution",
+      "rapid processing",
+      "instant loading"
+    ],
+    "nounForm": "slowness",
+    "verbForm": "slow (reduce speed)",
+    "adjectiveForm": "slow",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Application performance optimization, user experience checking, and query runtime debugging",
+    "usageTip": "Use 'slow' to describe systems, pages, or database lookups that exceed acceptable performance response times.",
+    "commonMistake": "Assuming that a slow app is always caused by the network; unoptimized frontend code loops can also cause local performance lag.",
+    "collocations": [
+      "slow loading time",
+      "slow database query",
+      "slow performance speed"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Fresh",
+    "meaning": "1. Newly made or obtained; not stale. 2. Recently arrived or produced. 3. Cool and refreshing.",
+    "shortMeaning": "new, not stale, cool",
+    "example": "We bought fresh bread from the bakery.",
+    "example2": "The company needs fresh ideas.",
+    "example3": "Open the window for some fresh air.",
+    "Explanation": "'Fresh' is a very common and positive adjective. It primarily describes food that is recently harvested, caught, or made, and therefore at its best. It extends to mean new and different (fresh perspective), recently arrived (fresh recruits), clean and cool (fresh water, fresh air), or invigorated (feel fresh). The word opposes 'old', 'stale', and 'tired'. It suggests purity, vitality, and novelty. In slang, it can mean excellent or stylish. It's a versatile word used in daily life, business, and nature.",
+    "synonyms": [
+      "new",
+      "recent",
+      "crisp",
+      "cool",
+      "invigorating",
+      "unspoiled"
+    ],
+    "antonyms": [
+      "stale",
+      "old",
+      "rotten",
+      "warm",
+      "tired"
+    ],
+    "nounForm": "freshness",
+    "verbForm": "freshen",
+    "adjectiveForm": "fresh",
+    "partOfSpeech": "adjective",
+    "commonContext": "Food, air, ideas, start, people",
+    "usageTip": "Use 'fresh' for things that are new, recently produced, clean, or cool.",
+    "commonMistake": "Using 'fresh' to describe a person as rude or impudent (a secondary, informal meaning). Context is key.",
+    "collocations": [
+      "fresh fruit",
+      "fresh start",
+      "fresh air"
+    ]
+  },
+  {
+    "word": "Fresh",
+    "meaning": "Newly made, created, or recently acquired.",
+    "shortMeaning": "new",
+    "example": "We need to install a fresh copy of the operating system.",
+    "example2": "The developer pulled a fresh branch from the repository.",
+    "example3": "A fresh start is needed for this legacy code.",
+    "Explanation": "The word 'fresh' describes something that has just been produced or is in its original, clean state. In an IT context, it is commonly used to describe clean installations, new data, or starting a project without existing baggage. It implies that there are no remnants of previous versions or errors. It is a very common term for improving software reliability and environment consistency. Use it to distinguish between 'new' and 'already used' states.",
+    "synonyms": [
+      "new",
+      "recent",
+      "clean"
+    ],
+    "antonyms": [
+      "stale",
+      "old",
+      "corrupted"
+    ],
+    "nounForm": "freshness",
+    "verbForm": "freshen",
+    "adjectiveForm": "fresh",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software installs, data, environments",
+    "usageTip": "Use 'fresh' to describe a clean start.",
+    "commonMistake": "Confusing it with 'raw' data.",
+    "collocations": [
+      "fresh install",
+      "fresh start",
+      "fresh data"
+    ]
+  }
+]

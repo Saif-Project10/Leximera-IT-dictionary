@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Label",
+    "meaning": "A small piece of paper, fabric, or other material attached to an object to give information about it; to assign to a category",
+    "shortMeaning": "tag or to categorize",
+    "example": "Read the label on the medicine bottle.",
+    "example2": "People often label him as a troublemaker.",
+    "example3": "The record label signed a new artist.",
+    "Explanation": "'Label' is a common noun and verb. As a noun, it's a physical tag with information (like on a product). It can also mean a company that produces music (record label) or a brand. As a verb, it means to attach a label physically or, more often, to categorize or describe someone with a word or phrase (often simplistically or unfairly). Labeling can be helpful for organization but can also lead to stereotypes. The word is about identification and classification, both concrete and abstract.",
+    "synonyms": [
+      "tag, sticker, ticket (noun); categorize, classify, brand (verb)"
+    ],
+    "antonyms": [
+      "mislabel (verb)"
+    ],
+    "nounForm": "label",
+    "verbForm": "label",
+    "adjectiveForm": "labeled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Products, classification, music industry, stereotypes",
+    "usageTip": "Use as a noun for a physical tag. Use as a verb for categorizing people or things, often with 'as'.",
+    "commonMistake": "Spelling it as 'lable'. Remember: LA-BEL.",
+    "collocations": [
+      "warning label",
+      "private label",
+      "label as"
+    ]
+  },
+  {
+    "word": "Label",
+    "meaning": "A short name or tag given to a piece of data, a UI element, or a version of code",
+    "shortMeaning": "tag or name",
+    "example": "Every input field on a website should have a clear label.",
+    "example2": "We used a label to mark the version 1.0 release in Git.",
+    "example3": "The label in the email system helps you organize your messages.",
+    "Explanation": "A label is a small piece of text used to identify something. In HTML, the  tag tells the user what to type in a box (like 'Email' or 'Password'). In Gmail, labels are used instead of folders to organize mail. In Git, you might 'label' or 'tag' a specific point in time as a stable version. Labels help both humans and computers understand what different things are. They are essential for accessibility, as screen readers use labels to tell blind users what is on the screen. It is a very versatile word in IT.",
+    "synonyms": [
+      "tag",
+      "marker",
+      "identifier"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "label",
+    "verbForm": "label",
+    "adjectiveForm": "labeled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "HTML, Git, UI design, and Data organization",
+    "usageTip": "Use 'label' for identifying elements in a UI or organizing data.",
+    "commonMistake": "Confusing a 'label' with a 'description' (labels are shorter).",
+    "collocations": [
+      "HTML label",
+      "label a release",
+      "form label"
+    ]
+  }
+]

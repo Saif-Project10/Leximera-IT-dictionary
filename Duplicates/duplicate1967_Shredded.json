@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Shredded",
+    "meaning": "Destroyed by cutting into small pieces, usually data.",
+    "shortMeaning": "destroyed",
+    "example": "Sensitive files must be shredded before discarding the drive.",
+    "example2": "The data was shredded to ensure it could not be recovered.",
+    "example3": "He shredded the old documents after digitizing them.",
+    "Explanation": "In IT, 'shredding' refers to a secure data destruction process where files are overwritten multiple times to make them unrecoverable. This is essential for cybersecurity and data privacy. Simply deleting a file does not remove it from the storage medium, so 'shredding' ensures that sensitive information is permanently erased. It is a critical practice for maintaining data compliance and security when decommissioning hardware or disposing of sensitive data.",
+    "synonyms": [
+      "destroyed",
+      "erased",
+      "wiped"
+    ],
+    "antonyms": [
+      "preserved",
+      "saved",
+      "recovered"
+    ],
+    "nounForm": "shredding",
+    "verbForm": "shred",
+    "adjectiveForm": "shredded",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data security, privacy, hardware disposal",
+    "usageTip": "Use 'shredded' to describe permanent, secure data destruction.",
+    "commonMistake": "Thinking 'shredding' is just for paper (it applies to digital data).",
+    "collocations": [
+      "shredded data",
+      "securely shredded",
+      "files shredded"
+    ]
+  },
+  {
+    "word": "Shredded",
+    "meaning": "Torn into small pieces or destroyed",
+    "shortMeaning": "destroyed",
+    "example": "The sensitive documents were shredded before disposal.",
+    "example2": "The old disk data was shredded to prevent recovery.",
+    "example3": "He shredded the corrupted files.",
+    "Explanation": "The word 'shredded' means destroying something by tearing it into very small fragments. In IT, this refers to 'data shredding', which is a secure method of deleting files so they cannot be recovered by forensic software. Unlike standard deletion, which just removes the file pointer, shredding overwrites the physical data multiple times. It is a critical practice for data privacy and security.",
+    "synonyms": [
+      "destroyed",
+      "annihilated",
+      "wiped"
+    ],
+    "antonyms": [
+      "preserved",
+      "saved",
+      "stored"
+    ],
+    "nounForm": "shredder",
+    "verbForm": "shred",
+    "adjectiveForm": "shredded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, data privacy",
+    "usageTip": "Use 'shredded' when referring to secure data destruction.",
+    "commonMistake": "Confusing 'shredded' with 'deleted' (deletion is not always secure).",
+    "collocations": [
+      "shredded data",
+      "shredded files",
+      "securely shredded"
+    ]
+  }
+]

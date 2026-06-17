@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Careless",
+    "meaning": "Not giving enough attention or thought to avoiding harm or errors; negligent",
+    "shortMeaning": "not careful, negligent",
+    "example": "A careless mistake cost the team the game.",
+    "example2": "It was careless of me to leave the door unlocked.",
+    "example3": "He drove in a careless and dangerous manner.",
+    "Explanation": "'Careless' is a negative adjective meaning the opposite of 'careful'. It describes a lack of attention, concern, or effort, which leads to mistakes, accidents, or damage. This word is used to criticize actions or people for being thoughtless or sloppy. The adverb is 'carelessly'. Carelessness is often the cause of preventable problems. It can range from minor (a spelling error) to major (a safety hazard). The noun form is 'carelessness'. It is an important word for discussing responsibility and quality.",
+    "synonyms": [
+      "negligent",
+      "inattentive",
+      "reckless",
+      "sloppy"
+    ],
+    "antonyms": [
+      "careful",
+      "attentive",
+      "meticulous",
+      "cautious"
+    ],
+    "nounForm": "carelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "careless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Criticizing mistakes, accidents, work quality, safety",
+    "usageTip": "Use 'careless' to describe actions or people that show a lack of attention, resulting in errors or danger.",
+    "commonMistake": "Using it to mean 'without care' in an emotional sense. That's 'uncaring'. 'Careless' is about attention to task.",
+    "collocations": [
+      "careless mistake",
+      "careless driver",
+      "careless attitude"
+    ]
+  },
+  {
+    "word": "Careless",
+    "meaning": "Not giving enough attention to avoiding mistakes, damage, or errors; negligent",
+    "shortMeaning": "negligent or sloppy",
+    "example": "A careless typo in the configuration file caused the entire website to go offline.",
+    "example2": "Leaving API keys exposed on public GitHub repositories is a careless mistake.",
+    "example3": "The QA tester rejected the build due to multiple careless UI spacing bugs.",
+    "Explanation": "The word 'Careless' describes a lack of attention, effort, or professionalism that leads to errors. In software development, careless habits—such as skipping tests, copying unchecked code, or ignoring compiler warnings—often result in system vulnerabilities and software bugs. It carries a strongly negative meaning in professional environments, highlighting mistakes that could have been easily avoided with basic caution and code review practices.",
+    "synonyms": [
+      "negligent",
+      "reckless",
+      "sloppy"
+    ],
+    "antonyms": [
+      "careful",
+      "meticulous",
+      "thorough"
+    ],
+    "nounForm": "carelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "careless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug reports, code style critiques, incident post-mortems",
+    "usageTip": "Use 'careless' to emphasize mistakes that happened entirely due to laziness or lack of attention.",
+    "commonMistake": "Using 'careless' to describe complex logical bugs; it should only describe obvious, easily avoidable oversights.",
+    "collocations": [
+      "careless mistake",
+      "careless error",
+      "careless typo"
+    ]
+  }
+]

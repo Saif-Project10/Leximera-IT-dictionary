@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Dry run",
+    "meaning": "A practice session or a test of a process where you go through all the steps without doing the final action",
+    "shortMeaning": "practice test",
+    "example": "We did a dry run of the software update on a test server before applying it to the main one.",
+    "example2": "The space agency performed a dry run of the launch sequence.",
+    "example3": "Let's have a dry run of the presentation to check the timing.",
+    "Explanation": "A dry run is a way to test a plan or a piece of code for errors before it 'goes live'. In programming, it often refers to 'manual tracing', where a developer follows the code line by line with pen and paper to see what happens. In business, it might be a rehearsal of a big event. The term comes from the idea of running a fire drill without using real water (keeping it 'dry'). It is a crucial step in risk management because it helps catch mistakes that could be very expensive or dangerous in a real situation. It builds confidence and ensures that everyone knows their role.",
+    "synonyms": [
+      "rehearsal",
+      "trial run",
+      "test flight",
+      "practice"
+    ],
+    "antonyms": [
+      "live run",
+      "final execution",
+      "production launch"
+    ],
+    "nounForm": "dry run",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Software testing, events, and engineering",
+    "usageTip": "Always perform a dry run before making major changes to a live website or database.",
+    "commonMistake": "Skipping the dry run to save time; this often leads to more work later when things fail.",
+    "collocations": [
+      "conduct a dry run",
+      "successful dry run",
+      "dry run of the system"
+    ]
+  },
+  {
+    "word": "Dry run",
+    "meaning": "A practice session or a rehearsal of a process to check for problems before the actual event",
+    "shortMeaning": "practice session",
+    "example": "We should do a dry run of the presentation before the meeting tomorrow.",
+    "example2": "The engineers performed a dry run of the software update on a test server.",
+    "example3": "The space agency conducted a dry run of the launch sequence.",
+    "Explanation": "A dry run is a 'test' version of a real event. It is used to find bugs, mistakes, or timing issues before the official start. In software, it often means running code with 'dummy' data to see if it crashes. In public speaking, it means practicing your speech in front of a small audience. It helps reduce stress and improves the final quality of the work. It is an essential step in professional project management. No real resources are usually at risk during a dry run.",
+    "synonyms": [
+      "rehearsal",
+      "trial run",
+      "practice",
+      "walkthrough"
+    ],
+    "antonyms": [
+      "final event",
+      "live run",
+      "actual performance"
+    ],
+    "nounForm": "dry run",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Coding, presentations, and space missions",
+    "usageTip": "Use 'dry run' when you want to test a process without making any permanent changes.",
+    "commonMistake": "Confusing a 'dry run' with a 'final test'; a dry run is for practice, a final test is for approval.",
+    "collocations": [
+      "conduct a dry run",
+      "perform a dry run",
+      "successful dry run"
+    ]
+  }
+]

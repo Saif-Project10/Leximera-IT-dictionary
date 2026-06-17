@@ -1,0 +1,61 @@
+[
+  {
+    "word": "PKI",
+    "meaning": "A system of digital certificates and keys used to secure communication and prove identities over a network",
+    "shortMeaning": "Public Key Infrastructure",
+    "example": "The bank uses PKI to ensure that only authorized users can access the vault.",
+    "example2": "PKI is the technology that makes the padlock icon appear in your browser's address bar.",
+    "example3": "Every employee was issued a digital ID as part of the company's PKI system.",
+    "Explanation": "PKI (Public Key Infrastructure) is a set of roles, policies, and hardware/software needed to create, manage, and revoke digital certificates. It uses 'Asymmetric Encryption,' which involves two keys: a Public key (shared with everyone) and a Private key (kept secret). PKI ensures that when you send an encrypted message, only the intended recipient can read it. It also prevents 'Impersonation' by using a Trusted Authority to verify that a website or person is who they claim to be.",
+    "synonyms": [
+      "digital certificate system",
+      "encryption infrastructure"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "PKI",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity and web encryption (HTTPS)",
+    "usageTip": "Understand PKI if you want to set up secure VPNs or encrypted email systems for a business.",
+    "commonMistake": "Thinking the Public and Private keys are the same; they work as a pair but have different functions.",
+    "collocations": [
+      "PKI certificate",
+      "PKI implementation",
+      "managed PKI"
+    ]
+  },
+  {
+    "word": "PKI",
+    "meaning": "A system for managing digital certificates and public keys",
+    "shortMeaning": "public key infrastructure",
+    "example": "The company uses PKI to secure internal communications.",
+    "example2": "You need a valid PKI certificate for the server.",
+    "example3": "PKI ensures the authenticity of the identity.",
+    "Explanation": "PKI stands for 'Public Key Infrastructure'. It is a set of roles, policies, and hardware/software needed to create, manage, and revoke digital certificates. It is essential for encryption and secure web communications (HTTPS). A 'PKI certificate' verifies that a public key belongs to the entity it claims. It is a noun. Understanding PKI is crucial for any developer working with security, encryption, or web services. It provides the foundation for digital trust.",
+    "synonyms": [
+      "security infrastructure",
+      "certificate management",
+      "digital identity system"
+    ],
+    "antonyms": [
+      "N/A",
+      "unsecured",
+      "open-access"
+    ],
+    "nounForm": "PKI",
+    "verbForm": "N/A",
+    "adjectiveForm": "PKI-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity, encryption",
+    "usageTip": "Use 'PKI' when discussing certificate management.",
+    "commonMistake": "Thinking PKI is a single piece of software rather than a system.",
+    "collocations": [
+      "PKI certificate",
+      "PKI infrastructure",
+      "implementing PKI"
+    ]
+  }
+]

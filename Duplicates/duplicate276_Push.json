@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Push",
+    "meaning": "(Verb) To use force to move something away; to encourage or pressure someone; to promote something. (Noun) A determined effort.",
+    "shortMeaning": "apply force; encourage; big effort",
+    "example": "Push the door to open it.",
+    "example2": "My parents pushed me to study harder.",
+    "example3": "We need one final push to finish the campaign.",
+    "Explanation": "Push is an extremely versatile word. Physically, it means to exert force. Figuratively, it means to encourage, pressure, or promote aggressively. As a noun, it means a vigorous effort or campaign. It can be positive (pushing yourself to grow) or negative (pushing someone too far). Phrases like 'push through' (overcome), 'push for' (advocate), and 'push back' (resist) are very common. It conveys action, force, and determination. Understanding context is key to knowing if the push is physical, motivational, or promotional.",
+    "synonyms": [
+      "shove",
+      "propel",
+      "urge",
+      "promote",
+      "drive (noun)"
+    ],
+    "antonyms": [
+      "pull",
+      "discourage",
+      "hinder",
+      "give up"
+    ],
+    "nounForm": "push",
+    "verbForm": "push",
+    "adjectiveForm": "pushy",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physics, motivation, sales, final efforts",
+    "usageTip": "Often used with prepositions: push someone to do something, push for change, push against an idea.",
+    "commonMistake": "Being too 'pushy' (adjective) can be a negative trait, meaning overly aggressive in persuasion.",
+    "collocations": [
+      "big push",
+      "push the boundaries",
+      "push yourself"
+    ]
+  },
+  {
+    "word": "Push",
+    "meaning": "To upload local code commits to a remote shared repository, or to send server-initiated data payloads directly to client applications",
+    "shortMeaning": "upload code or data",
+    "example": "Do not forget to push your latest bug fixes to the remote repository before leaving.",
+    "example2": "The backend system will push real-time notifications to the users' smartphones.",
+    "example3": "You must resolve all local errors before you push your branches to GitHub.",
+    "Explanation": "The word 'push' holds two primary, powerful meanings across software infrastructure. First, in version control frameworks like Git, a push operation takes all verified code changes saved on a local developer machine and uploads them securely to a remote shared cloud hosting platform like GitHub or GitLab. This makes the code visible to the rest of the engineering team. Second, in architectural data communications, 'push' denotes a model where the server proactively transfers fresh data down to connected clients without waiting for those clients to ask for it. This technique powers live messaging applications, stock ticker interfaces, and immediate push notifications.",
+    "synonyms": [
+      "upload",
+      "transmit",
+      "deploy"
+    ],
+    "antonyms": [
+      "pull",
+      "fetch",
+      "download"
+    ],
+    "nounForm": "push notification / push request",
+    "verbForm": "push",
+    "adjectiveForm": "pushed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Git workflows, system architecture, mobile push notifications",
+    "usageTip": "Use 'push' when describing an active transfer of code or information outward from a local system or central server.",
+    "commonMistake": "Assuming a push command automatically fixes conflicts on the remote server; it will fail if the remote branch has unseen changes.",
+    "collocations": [
+      "push code",
+      "push notifications",
+      "push updates to"
+    ]
+  }
+]

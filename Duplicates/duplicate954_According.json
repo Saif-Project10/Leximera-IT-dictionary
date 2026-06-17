@@ -1,0 +1,63 @@
+[
+  {
+    "word": "According",
+    "meaning": "As stated by or in agreement with.",
+    "shortMeaning": "as stated by; in agreement with",
+    "example": "According to the weather report, it will rain today.",
+    "example2": "The books are arranged according to author.",
+    "example3": "He acted according to his principles.",
+    "Explanation": "'According' is a preposition that is almost always part of a phrase. 'According to' is used to cite a source of information (e.g., according to John). 'According as' is a less common conjunction. It shows conformity or correspondence. It is an extremely common word in spoken and written English for reporting what others say or for describing a system of organization. It is a neutral word that introduces information from another point of view.",
+    "synonyms": [
+      "as stated by",
+      "in accordance with",
+      "as per"
+    ],
+    "antonyms": [
+      "contrary to",
+      "despite"
+    ],
+    "nounForm": "accord",
+    "verbForm": "accord",
+    "adjectiveForm": "according",
+    "partOfSpeech": "preposition",
+    "commonContext": "Reporting information, rules, plans, systems",
+    "usageTip": "'According to' should be followed by a noun or pronoun: 'According to the plan...'",
+    "commonMistake": "Saying 'according to me' is grammatically possible but sounds odd. 'In my opinion' is more natural.",
+    "collocations": [
+      "according to plan",
+      "according to reports",
+      "according to size"
+    ]
+  },
+  {
+    "word": "According",
+    "meaning": "As stated by someone, or in a manner that matches a plan or condition",
+    "shortMeaning": "as stated by",
+    "example": "According to the system logs, the server crashed at midnight.",
+    "example2": "Everything went according to the deployment plan.",
+    "example3": "The data was sorted according to its timestamp.",
+    "Explanation": "The word 'according' is almost always followed by the word 'to' to form a prepositional phrase. It points to a source of information, like data logs, documentation, or an expert. It can also mean that actions are following a specific set of rules or arrangements. It is heavily used in IT for debugging reports and project tracking. There is no unique noun or adjective form for this word.",
+    "synonyms": [
+      "reported by",
+      "consistent with",
+      "per"
+    ],
+    "antonyms": [
+      "contrary to",
+      "disagreeing",
+      "opposing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "accord",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "preposition / participle",
+    "commonContext": "Data reporting, bug tracking, project updates",
+    "usageTip": "Always pair 'according' with 'to' when pointing out a source or rule.",
+    "commonMistake": "Writing 'according from' or 'according with' instead of 'according to'.",
+    "collocations": [
+      "according to data",
+      "according to plan",
+      "according to documentation"
+    ]
+  }
+]

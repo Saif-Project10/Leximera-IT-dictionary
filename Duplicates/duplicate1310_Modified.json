@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Modified",
+    "meaning": "Changed slightly, usually to improve something or make it more suitable.",
+    "shortMeaning": "changed, altered",
+    "example": "The recipe was modified to be gluten-free.",
+    "example2": "He drove a highly modified car with a powerful engine.",
+    "example3": "The plan was modified after receiving feedback.",
+    "Explanation": "'Modified' is the past tense and past participle of the verb 'modify'. It means something has been altered or adjusted. The change is usually not total but meant to improve, adapt, or customize. It is commonly used in science (genetically modified food), technology (modified software), and everyday situations (modified plans). As an adjective, it describes the state of having been changed. It is a neutral term focusing on the process of adjustment.",
+    "synonyms": [
+      "altered",
+      "adjusted",
+      "adapted",
+      "changed"
+    ],
+    "antonyms": [
+      "original",
+      "unmodified",
+      "unchanged"
+    ],
+    "nounForm": "modification",
+    "verbForm": "modify",
+    "adjectiveForm": "modified",
+    "partOfSpeech": "adjective, verb (past tense)",
+    "commonContext": "Recipes, vehicles, software, plans, biology",
+    "usageTip": "Often used in technical contexts like 'genetically modified organisms (GMOs)'.",
+    "commonMistake": "Thinking 'modified' means completely remade; it usually implies partial change.",
+    "collocations": [
+      "modified version",
+      "slightly modified",
+      "genetically modified",
+      "modified approach"
+    ]
+  },
+  {
+    "word": "Modified",
+    "meaning": "Changed, edited, or adjusted in some way",
+    "shortMeaning": "changed",
+    "example": "He modified the script to handle errors better.",
+    "example2": "The database was modified to add a new column.",
+    "example3": "We have modified the design based on feedback.",
+    "Explanation": "The word 'modified' is the past tense of 'modify'. It means that an edit or change has been applied to something. In IT, 'modified' is a state that often appears in version control systems (like Git), where it signifies that a file has been edited since the last version was saved. It describes the completed action of making a change. It is essential for tracking progress and understanding the evolution of a system.",
+    "synonyms": [
+      "changed",
+      "edited",
+      "adjusted"
+    ],
+    "antonyms": [
+      "original",
+      "unmodified",
+      "unchanged"
+    ],
+    "nounForm": "modification",
+    "verbForm": "modify",
+    "adjectiveForm": "modified",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Version control, programming, configuration",
+    "usageTip": "Use to describe an action of changing.",
+    "commonMistake": "Confusing 'modified' (changed) with 'corrupted' (broken).",
+    "collocations": [
+      "modified code",
+      "modified version",
+      "successfully modified"
+    ]
+  }
+]

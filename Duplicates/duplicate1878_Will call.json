@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Will call",
+    "meaning": "A place or system where customers pick up pre-purchased items",
+    "shortMeaning": "pickup point",
+    "example": "I'll pick up my tickets at the will call window.",
+    "example2": "The warehouse has a will call area for local contractors.",
+    "example3": "Please select 'will call' as your shipping method if you are picking up in person.",
+    "Explanation": "The term 'will call' refers to a delivery method where a customer buys something online or over the phone and picks it up at the physical location. It is commonly used for concert tickets, wholesale hardware, or retail orders. In a 'will call' system, the seller holds the item until the customer arrives and provides identification. It saves the customer money on shipping and allows for immediate possession. Businesses often have a dedicated 'will call' desk to separate these customers from walk-in shoppers. It is a standard term in logistics and retail operations. The name comes from 'the customer will call for the items'.",
+    "synonyms": [
+      "customer pickup",
+      "local pickup",
+      "pick-up point"
+    ],
+    "antonyms": [
+      "delivery",
+      "shipping",
+      "mail order"
+    ],
+    "nounForm": "will call",
+    "verbForm": "N/A",
+    "adjectiveForm": "will-call",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Ticketing, retail, and wholesale logistics",
+    "usageTip": "Use 'will call' specifically when the item is already paid for and just needs to be collected.",
+    "commonMistake": "Confusing 'will call' with 'layaway', where the item is held until it is paid for.",
+    "collocations": [
+      "will call window",
+      "will call area",
+      "pick up at will call"
+    ]
+  },
+  {
+    "word": "Will call",
+    "meaning": "A service where customers pick up items themselves",
+    "shortMeaning": "self pickup",
+    "example": "The hardware will be ready at the will call desk.",
+    "example2": "I selected the will call option for my server order.",
+    "example3": "Please visit the will call window to collect your parts.",
+    "Explanation": "'Will call' is a service designation often used in e-commerce or retail IT supply chains, where a buyer purchases an item online but collects it in person at a warehouse or store. This removes shipping delays and costs. In some software systems, 'will call' might be represented as an order status. It is a specific logistical term that ensures the system tracks order fulfillment without traditional shipping logistics. Ensure your e-commerce platform handles this status correctly.",
+    "synonyms": [
+      "pickup",
+      "collect",
+      "customer-collection"
+    ],
+    "antonyms": [
+      "delivery",
+      "shipping",
+      "courier"
+    ],
+    "nounForm": "will-call",
+    "verbForm": "N/A",
+    "adjectiveForm": "will-call",
+    "partOfSpeech": "noun",
+    "commonContext": "Logistics, e-commerce, order management",
+    "usageTip": "Use this term for order pickup services.",
+    "commonMistake": "Confusing it with a standard delivery service.",
+    "collocations": [
+      "will call desk",
+      "will call order",
+      "will call service"
+    ]
+  }
+]

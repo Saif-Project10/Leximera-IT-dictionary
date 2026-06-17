@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Raw",
+    "meaning": "Not cooked; in its natural state, not processed; painfully open or exposed.",
+    "shortMeaning": "uncooked, unprocessed, exposed",
+    "example": "She eats raw vegetables for lunch.",
+    "example2": "The data is still in its raw form and needs analysis.",
+    "example3": "His grief was still raw after the loss.",
+    "Explanation": "'Raw' is an adjective with several related meanings. The primary meaning is uncooked food. It extends to materials in an unprocessed state (raw data, raw materials). It can also describe emotions that are intense and unprotected (raw nerve, raw emotion) or skin that is sore and exposed (a raw wound). The word conveys a sense of being basic, untreated, and sometimes vulnerable. It's a common word in cooking, manufacturing, data science, and emotional description. The adverb is 'rawly' (rare).",
+    "synonyms": [
+      "uncooked",
+      "unprocessed",
+      "natural",
+      "exposed"
+    ],
+    "antonyms": [
+      "cooked",
+      "processed",
+      "refined",
+      "healed"
+    ],
+    "nounForm": "rawness",
+    "verbForm": "N/A",
+    "adjectiveForm": "raw",
+    "partOfSpeech": "adjective",
+    "commonContext": "Food, materials, data, emotions",
+    "usageTip": "'Raw talent' means natural, undeveloped ability. 'Raw deal' means unfair treatment.",
+    "commonMistake": "Confusing 'raw' (uncooked) with 'roar' (a loud sound).",
+    "collocations": [
+      "raw material",
+      "raw data",
+      "raw talent",
+      "raw emotion"
+    ]
+  },
+  {
+    "word": "Raw",
+    "meaning": "In an original, unprocessed, or natural state",
+    "shortMeaning": "unprocessed",
+    "example": "The sensor sends raw data to the server.",
+    "example2": "He analyzed the raw logs to find the error.",
+    "example3": "Raw materials for the software are the source code files.",
+    "Explanation": "The word 'raw' describes data or materials that have not been processed, cleaned, or formatted. Raw data is often messy and difficult to read, but it contains the complete information. Before data can be used for reports or visualizations, it usually needs to be 'cleaned' or 'parsed.' Working with raw data is very common in analytics, logging, and backend processing. It represents the starting point before any logic or transformation is applied.",
+    "synonyms": [
+      "unprocessed",
+      "unrefined",
+      "basic"
+    ],
+    "antonyms": [
+      "processed",
+      "refined",
+      "formatted"
+    ],
+    "nounForm": "raw",
+    "verbForm": "N/A",
+    "adjectiveForm": "raw",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, Backend, Logging",
+    "usageTip": "Use when discussing data before any transformation.",
+    "commonMistake": "Trying to present raw data to end-users (always format it first).",
+    "collocations": [
+      "raw data",
+      "raw logs",
+      "raw input"
+    ]
+  }
+]

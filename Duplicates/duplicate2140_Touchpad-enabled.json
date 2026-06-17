@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Touchpad-enabled",
+    "meaning": "Equipped with a touch-sensitive surface for cursor control",
+    "shortMeaning": "has a touchpad",
+    "example": "The new keyboard is touchpad-enabled for convenience.",
+    "example2": "We need a touchpad-enabled device for the presentation.",
+    "example3": "The laptop comes with a fully touchpad-enabled surface.",
+    "Explanation": "Being 'touchpad-enabled' means a device, usually a keyboard or controller, includes a built-in touchpad to control the cursor. This is common in media center keyboards or specialty industrial controllers where a mouse is not practical. It provides an all-in-one solution for input. This term is specific to hardware peripheral design. It highlights the integration of two distinct input methods into one device. It is a useful term for IT procurement or when specifying equipment for specific work environments.",
+    "synonyms": [
+      "touch-equipped"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "touchpad-enabled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware peripherals, input devices, ergonomics",
+    "usageTip": "Use this to describe all-in-one input peripherals.",
+    "commonMistake": "Using this for devices that only have a touchscreen.",
+    "collocations": [
+      "touchpad-enabled keyboard",
+      "touchpad-enabled controller"
+    ]
+  },
+  {
+    "word": "Touchpad-enabled",
+    "meaning": "Equipped with a built-in touch-sensitive pointing device",
+    "shortMeaning": "has a touchpad",
+    "example": "The laptop is touchpad-enabled for easier navigation.",
+    "example2": "Ensure your environment is touchpad-enabled before testing.",
+    "example3": "Many users prefer a touchpad-enabled setup over a mouse.",
+    "Explanation": "The term 'touchpad-enabled' indicates that a device has hardware that allows users to control the cursor using a flat, touch-sensitive area. This is a standard feature on most laptops and allows for multi-touch gestures like swiping, zooming, and scrolling. Being 'touchpad-enabled' means the operating system supports these specialized inputs via drivers. It is essential for portable computing. Most modern software UI designs must account for these navigation inputs.",
+    "synonyms": [
+      "trackpad-ready",
+      "pointing-enabled"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "touchpad",
+    "verbForm": "N/A",
+    "adjectiveForm": "touchpad-enabled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Laptops, hardware, input devices",
+    "usageTip": "Use to specify that a device supports touchpad input.",
+    "commonMistake": "Assuming all devices support advanced gestures.",
+    "collocations": [
+      "touchpad-enabled laptop",
+      "touchpad-enabled system",
+      "fully touchpad-enabled"
+    ]
+  }
+]

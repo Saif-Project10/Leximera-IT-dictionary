@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Async",
+    "meaning": "Short for asynchronous; not occurring at the same time; in computing, operations that do not block the execution of other tasks.",
+    "shortMeaning": "asynchronous; not happening simultaneously",
+    "example": "We use async/await in JavaScript to handle network requests without freezing the UI.",
+    "example2": "The team communicates mostly through async channels like email and chat.",
+    "example3": "Async programming improves the responsiveness of applications.",
+    "Explanation": "Async is a common abbreviation in programming and communication. In computing, it refers to a style of programming where operations (like reading a file or making a network call) can start and complete independently of the main program flow, preventing blocking. In work culture, 'async communication' means communication that doesn't require an immediate response (email vs. a meeting). It's the opposite of synchronous ('sync'). A common mistake is using it without explaining it in non-technical contexts. Understanding async concepts is key to efficient software and modern remote teamwork.",
+    "synonyms": [
+      "asynchronous"
+    ],
+    "antonyms": [
+      "sync",
+      "synchronous"
+    ],
+    "nounForm": "asynchronicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "async, asynchronous",
+    "partOfSpeech": "adjective (abbreviation)",
+    "commonContext": "Programming (JavaScript, Python), remote work communication.",
+    "usageTip": "In technical writing, 'asynchronous' is formal; 'async' is common in code, documentation, and informal discussion.",
+    "commonMistake": "Spelling it as 'asynch' – the common abbreviation is 'async.'",
+    "collocations": [
+      "async function",
+      "async work",
+      "async communication"
+    ]
+  },
+  {
+    "word": "Async",
+    "meaning": "A short, informal abbreviation for asynchronous, meaning tasks that run independently of the main program flow",
+    "shortMeaning": "not synchronous",
+    "example": "Using async functions prevents the user interface from freezing during API requests.",
+    "example2": "The developer added the async keyword before the JavaScript function declaration.",
+    "example3": "Async operations are vital for building responsive web applications.",
+    "Explanation": "The word 'async' is a highly common shorthand keyword used across modern programming languages like JavaScript, Python, and C#. It tells the system to start a task and immediately move to the next line of code without waiting for that task to finish. This is incredibly useful for network calls, database queries, or file actions that take time. It is the direct partner to the keyword 'await'. The formal adjective form is 'asynchronous'.",
+    "synonyms": [
+      "asynchronous",
+      "non-blocking",
+      "independent"
+    ],
+    "antonyms": [
+      "sync",
+      "synchronous",
+      "blocking"
+    ],
+    "nounForm": "asynchrony",
+    "verbForm": "N/A",
+    "adjectiveForm": "async / asynchronous",
+    "partOfSpeech": "adjective / programming keyword",
+    "commonContext": "Web development, API fetching, asynchronous programming",
+    "usageTip": "Use 'async' when writing code or talking casually with developers about non-blocking functions.",
+    "commonMistake": "Thinking 'async' code runs faster; it actually just prevents the main thread from locking up while waiting.",
+    "collocations": [
+      "async function",
+      "async await",
+      "async call"
+    ]
+  }
+]

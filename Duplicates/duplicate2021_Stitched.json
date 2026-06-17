@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stitched",
+    "meaning": "Joined or combined together to form a whole.",
+    "shortMeaning": "combined",
+    "example": "The panoramic photo was stitched from three separate images.",
+    "example2": "We stitched several microservices into a single user workflow.",
+    "example3": "The video clips were stitched together automatically.",
+    "Explanation": "The word 'stitched' means joining multiple smaller parts together to create a larger, unified whole. This is common in image editing (like panoramic photos) and software engineering (where different APIs or services are 'stitched' together to create a complex workflow). It implies careful work to make the join look seamless. It is a metaphor for integrating different components that were originally developed separately.",
+    "synonyms": [
+      "combined",
+      "joined",
+      "merged"
+    ],
+    "antonyms": [
+      "separated",
+      "split",
+      "disintegrated"
+    ],
+    "nounForm": "stitch",
+    "verbForm": "stitch",
+    "adjectiveForm": "stitched",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Image processing, integration, workflow",
+    "usageTip": "Use 'stitched' when combining parts into a seamless whole.",
+    "commonMistake": "Assuming 'stitched' data is always perfectly unified.",
+    "collocations": [
+      "stitched image",
+      "stitched together",
+      "stitched workflow"
+    ]
+  },
+  {
+    "word": "Stitched",
+    "meaning": "Joined together, often used for combining images or data",
+    "shortMeaning": "joined together",
+    "example": "The panorama software stitched the photos together.",
+    "example2": "Data from multiple sources was stitched into one report.",
+    "example3": "He stitched the audio tracks into a single file.",
+    "Explanation": "To 'stitch' in IT means to combine separate, smaller parts into a larger, continuous piece. It is frequently used in media processing for joining image frames or video clips. It is also used in data integration when joining disparate records from different databases. It implies a process of careful alignment to ensure a seamless final product. It is a critical technique for creating complex digital content from modular parts.",
+    "synonyms": [
+      "joined",
+      "combined",
+      "assembled"
+    ],
+    "antonyms": [
+      "split",
+      "separated",
+      "divided"
+    ],
+    "nounForm": "stitch",
+    "verbForm": "stitch",
+    "adjectiveForm": "stitched",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Media editing, data integration",
+    "usageTip": "Use when joining items to form a seamless whole.",
+    "commonMistake": "Confusing 'stitched' with 'merged' in database contexts.",
+    "collocations": [
+      "stitched images",
+      "stitched data"
+    ]
+  }
+]

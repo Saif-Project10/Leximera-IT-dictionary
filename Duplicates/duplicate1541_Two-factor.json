@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Two-factor",
+    "meaning": "Using two independent methods to verify a user's identity, typically a password and a code from a device",
+    "shortMeaning": "two-step verification",
+    "example": "Enable two-factor authentication on your email account for security.",
+    "example2": "The bank requires two-factor verification for online transfers.",
+    "example3": "A password and a fingerprint scan form a two-factor login.",
+    "Explanation": "'Two-factor' (or 2FA) is a security standard for access control. The 'factors' are categories of identity proof: something you know (password), something you have (phone, security key), and something you are (fingerprint). True two-factor authentication requires two *different* factors. This is much stronger than just two passwords (which are the same factor). It is a critical defense against password theft. The term is commonly used in cybersecurity for online accounts, banking, and corporate networks. It's a specific type of multi-factor authentication (MFA). It has become a best practice for personal and organizational digital security.",
+    "synonyms": [
+      "2FA",
+      "two-step verification",
+      "dual-factor"
+    ],
+    "antonyms": [
+      "single-factor",
+      "password-only"
+    ],
+    "nounForm": "two-factor authentication",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-factor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, online accounts, IT security policies",
+    "usageTip": "It's almost always used with 'authentication' or 'verification'.",
+    "commonMistake": "Calling any two-step login 'two-factor'; if both steps are knowledge-based (e.g., password + security question), it's not true 2FA.",
+    "collocations": [
+      "two-factor authentication",
+      "two-factor security",
+      "two-factor code",
+      "enable two-factor"
+    ]
+  },
+  {
+    "word": "Two-factor",
+    "meaning": "A security process requiring two different methods to verify identity.",
+    "shortMeaning": "dual verification",
+    "example": "You must enable two-factor authentication on your account.",
+    "example2": "Two-factor security adds an extra layer of protection.",
+    "example3": "Our login process uses two-factor verification via SMS.",
+    "Explanation": "The term 'two-factor' (often abbreviated as 2FA) is a security method that requires two independent types of credentials—usually something you know (a password) and something you have (a code sent to your phone). It is a standard best practice in modern security. It is an adjective. Always emphasize its importance for protecting sensitive data against password theft or hacking attempts.",
+    "synonyms": [
+      "2FA",
+      "multi-factor"
+    ],
+    "antonyms": [
+      "single-factor",
+      "password-only"
+    ],
+    "nounForm": "two-factor authentication",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-factor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, login systems, and authentication",
+    "usageTip": "Use 'two-factor' when discussing identity verification security.",
+    "commonMistake": "Confusing it with 'multi-factor' (which can be more than two).",
+    "collocations": [
+      "two-factor authentication",
+      "two-factor verification",
+      "enable two-factor"
+    ]
+  }
+]

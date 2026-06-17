@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Underutilized",
+    "meaning": "Not used to full capacity or potential",
+    "shortMeaning": "not fully used",
+    "example": "The server hardware is currently underutilized.",
+    "example2": "Many features of the software remain underutilized.",
+    "example3": "We have underutilized resources in the cloud cluster.",
+    "Explanation": "Underutilized refers to resources, capacity, or tools that are not being used to their full potential. In data center and cloud management, identifying underutilized servers is a key task for cost savings and efficiency. If a resource is underutilized, it might be a waste of money and power. Consolidating work to better-utilized hardware improves overall performance and helps lower the environmental footprint of IT operations.",
+    "synonyms": [
+      "wasted",
+      "unproductive",
+      "idle"
+    ],
+    "antonyms": [
+      "overutilized",
+      "busy",
+      "maximized"
+    ],
+    "nounForm": "underutilization",
+    "verbForm": "underutilize",
+    "adjectiveForm": "underutilized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource management, cost optimization",
+    "usageTip": "Use when something is not working at capacity.",
+    "commonMistake": "Assuming underutilized hardware is 'free' (it still has costs).",
+    "collocations": [
+      "heavily underutilized",
+      "underutilized resources",
+      "underutilized hardware"
+    ]
+  },
+  {
+    "word": "Underutilized",
+    "meaning": "Not being used to full capacity",
+    "shortMeaning": "partially used",
+    "example": "The server has many underutilized resources.",
+    "example2": "We have underutilized storage space available.",
+    "example3": "Identify underutilized features to remove them.",
+    "Explanation": "The word 'underutilized' means that a resource is present but not being used to its maximum potential. In IT resource management, identifying underutilized assets is a key way to save costs. It implies efficiency gains are possible. It is a common professional term used during audits or capacity planning. It is essentially saying 'we are paying for more than we are actually using'.",
+    "synonyms": [
+      "unused",
+      "wasted",
+      "underused"
+    ],
+    "antonyms": [
+      "overutilized",
+      "busy",
+      "maximized"
+    ],
+    "nounForm": "underutilization",
+    "verbForm": "underutilize",
+    "adjectiveForm": "underutilized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource management and efficiency",
+    "usageTip": "Use this when discussing efficiency and capacity.",
+    "commonMistake": "Using 'unused' when the item is actually being partially used.",
+    "collocations": [
+      "underutilized resource",
+      "highly underutilized",
+      "identify underutilized"
+    ]
+  }
+]

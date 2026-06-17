@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Mixed",
+    "meaning": "1. Consisting of different kinds or qualities. 2. Having both positive and negative feelings.",
+    "shortMeaning": "combined; varied",
+    "example": "The bag contained mixed nuts.",
+    "example2": "I have mixed feelings about moving to a new city.",
+    "example3": "The reviews for the movie were mixed.",
+    "Explanation": "The adjective 'mixed' describes something that is a combination of different elements. It can be neutral (mixed colors), positive (a mixed diet is healthy), or negative (mixed signals cause confusion). 'Mixed feelings' is a very common phrase meaning you are unsure because you see both good and bad aspects. It is the past participle of the verb 'mix'. It's a versatile word for describing anything not uniform.",
+    "synonyms": [
+      "combined",
+      "varied",
+      "assorted",
+      "blended"
+    ],
+    "antonyms": [
+      "pure",
+      "uniform",
+      "unmixed",
+      "same"
+    ],
+    "nounForm": "mix",
+    "verbForm": "mix",
+    "adjectiveForm": "mixed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Feelings, reactions, groups, materials",
+    "usageTip": "Use 'mixed' to describe something that contains a variety of different things or emotions.",
+    "commonMistake": "Using 'mixed' to mean 'confused'. A person is confused; a signal is mixed.",
+    "collocations": [
+      "mixed feelings",
+      "mixed results",
+      "mixed bag",
+      "mixed race"
+    ]
+  },
+  {
+    "word": "Mixed",
+    "meaning": "Consisting of different components or qualities combined together",
+    "shortMeaning": "combined",
+    "example": "The server room has a mixed environment of Windows and Linux.",
+    "example2": "The project had mixed results during the testing phase.",
+    "example3": "We use a mixed approach of automation and manual checks.",
+    "Explanation": "A 'mixed' environment or approach uses different technologies or methods simultaneously. In modern IT, 'mixed' environments (using multiple OS types or cloud providers) are extremely common because they let organizations pick the best tool for each specific job. However, it also adds complexity, as you need to manage the compatibility and communication between these different parts. Being comfortable in a mixed environment is a great skill for any IT professional.",
+    "synonyms": [
+      "combined",
+      "varied",
+      "blended"
+    ],
+    "antonyms": [
+      "consistent",
+      "uniform",
+      "pure"
+    ],
+    "nounForm": "mixture",
+    "verbForm": "mix",
+    "adjectiveForm": "mixed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Infrastructure and project management",
+    "usageTip": "Use 'mixed' to describe environments with different components.",
+    "commonMistake": "Confusing 'mixed' with 'messy'; mixed can be well-organized and efficient.",
+    "collocations": [
+      "mixed environment",
+      "mixed results",
+      "mixed approach"
+    ]
+  }
+]

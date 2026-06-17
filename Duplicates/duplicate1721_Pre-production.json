@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Pre-production",
+    "meaning": "The planning and preparation stage before the actual work or manufacturing begins",
+    "shortMeaning": "planning stage",
+    "example": "The movie spent two years in pre-production before filming started.",
+    "example2": "In software, pre-production is where we design the UI and the database.",
+    "example3": "We test our code in a pre-production environment that looks exactly like the real one.",
+    "Explanation": "Pre-production is the 'blueprint' phase. In software engineering, it often refers to a 'Staging' environment—a private server where the team tests the app to make sure it won't break when real users see it. In creative industries like gaming or film, it's about writing scripts, drawing concept art, and hiring the team. It is the cheapest time to fix mistakes. Once you move to 'Production' (the real thing), fixing errors becomes much more expensive and difficult. It is all about risk management.",
+    "synonyms": [
+      "planning phase",
+      "staging",
+      "preparation"
+    ],
+    "antonyms": [
+      "production",
+      "live environment",
+      "post-production"
+    ],
+    "nounForm": "pre-production",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-production",
+    "partOfSpeech": "noun",
+    "commonContext": "Software deployment, film, and game development",
+    "usageTip": "Use this to describe the 'rehearsal' or 'testing' phase of a project.",
+    "commonMistake": "Confusing pre-production with 'research'; research comes first, pre-production is the actual planning of the build.",
+    "collocations": [
+      "pre-production environment",
+      "pre-production phase",
+      "pre-production testing"
+    ]
+  },
+  {
+    "word": "Pre-production",
+    "meaning": "The phase before a final version or the full release of a system.",
+    "shortMeaning": "testing / staging phase",
+    "example": "The environment is currently in pre-production testing.",
+    "example2": "Check the code in the pre-production server first.",
+    "example3": "Pre-production bugs need to be fixed before the launch.",
+    "Explanation": "'Pre-production' refers to a stage of development where the application or product is near completion and is being tested in an environment that mimics the live environment as closely as possible. The goal is to catch any remaining issues so that the final launch goes smoothly. It is the last checkpoint before anything goes public. Engineers use this environment to ensure performance, security, and integration work perfectly.",
+    "synonyms": [
+      "staging",
+      "development-ready",
+      "pre-launch"
+    ],
+    "antonyms": [
+      "production",
+      "live",
+      "final"
+    ],
+    "nounForm": "pre-production",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-production",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Deployment, testing, release management",
+    "usageTip": "Use to describe an environment meant for final testing.",
+    "commonMistake": "Treating pre-production as a live, stable environment.",
+    "collocations": [
+      "pre-production environment",
+      "pre-production server",
+      "pre-production testing"
+    ]
+  }
+]

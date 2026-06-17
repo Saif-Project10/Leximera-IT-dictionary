@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Somatic",
+    "meaning": "Relating to the body as distinct from the mind",
+    "shortMeaning": "relating to the body",
+    "example": "The study focused on somatic symptoms of stress.",
+    "example2": "Somatic cells make up the body's tissues.",
+    "example3": "The therapy aims to release somatic tension.",
+    "Explanation": "The word 'somatic' refers to things that affect or relate to the physical body rather than the brain or mind. It is often used in medical, psychological, or biological contexts to describe physical sensations or conditions caused by psychological factors. In neuroscience and biology, it distinguishes body cells from reproductive cells. Understanding this term helps in describing physical reactions to mental states. It is a precise scientific term, not typically used in everyday casual conversation.",
+    "synonyms": [
+      "bodily",
+      "physical",
+      "corporeal"
+    ],
+    "antonyms": [
+      "mental",
+      "psychological",
+      "spiritual"
+    ],
+    "nounForm": "soma",
+    "verbForm": "N/A",
+    "adjectiveForm": "somatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, psychology, biology",
+    "usageTip": "Use 'somatic' when specifically referencing physical bodily sensations.",
+    "commonMistake": "Confusing 'somatic' with 'psychosomatic', which implies a mental cause for physical symptoms.",
+    "collocations": [
+      "somatic symptoms",
+      "somatic cells",
+      "somatic tension"
+    ]
+  },
+  {
+    "word": "Somatic",
+    "meaning": "Relating to the body, as distinct from the mind.",
+    "shortMeaning": "body-related",
+    "example": "The researchers studied the somatic effects of prolonged screen time.",
+    "example2": "Somatic awareness helps in ergonomics.",
+    "example3": "He complained of somatic symptoms like headaches.",
+    "Explanation": "The term 'somatic' is technical and relates to the physical body. In IT, this often appears in discussions about 'human-computer interaction' (HCI), ergonomics, or the physical health impacts of working at a computer (like back pain or eye strain). It distinguishes physical issues from mental or psychological ones. The word is not common in everyday coding but is important in fields like UX design, health tech, and office wellness programs. It is an adjective, and there is no common verb or noun form for general usage.",
+    "synonyms": [
+      "physical",
+      "bodily",
+      "corporeal"
+    ],
+    "antonyms": [
+      "psychological",
+      "mental",
+      "spiritual"
+    ],
+    "nounForm": "soma",
+    "verbForm": "N/A",
+    "adjectiveForm": "somatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Ergonomics, health tech, user experience",
+    "usageTip": "Use 'somatic' to talk about physical body sensations or issues.",
+    "commonMistake": "Confusing 'somatic' with 'automatic'.",
+    "collocations": [
+      "somatic symptoms",
+      "somatic feedback",
+      "somatic response"
+    ]
+  }
+]

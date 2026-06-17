@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Worsen",
+    "meaning": "To become or make worse.",
+    "shortMeaning": "become worse",
+    "example": "The weather is expected to worsen this afternoon.",
+    "example2": "His condition worsened overnight, requiring hospitalization.",
+    "example3": "The new policy could worsen the economic inequality.",
+    "Explanation": "Worsen is a straightforward verb meaning to deteriorate or decline in quality, condition, or situation. It is the direct opposite of 'improve'. It can be used transitively (something worsens a situation) or intransitively (a situation worsens). It's a useful word for describing negative trends in health, weather, relations, or performance. The word is neutral in tone but negative in meaning, simply stating a fact of decline. It's more formal than 'get worse'. The noun form is 'worsening'.",
+    "synonyms": [
+      "deteriorate",
+      "decline",
+      "exacerbate",
+      "aggravate",
+      "degenerate"
+    ],
+    "antonyms": [
+      "improve",
+      "better",
+      "ameliorate",
+      "alleviate"
+    ],
+    "nounForm": "worsening",
+    "verbForm": "worsen",
+    "adjectiveForm": "worse",
+    "partOfSpeech": "verb",
+    "commonContext": "Health, weather, conflict, economic conditions",
+    "usageTip": "Often used in news reports and medical contexts to describe a negative turn.",
+    "commonMistake": "Using 'worsen' as an adjective; the adjective is 'worse'. 'Worsen' is only a verb.",
+    "collocations": [
+      "rapidly worsen",
+      "worsen the problem",
+      "condition worsened"
+    ]
+  },
+  {
+    "word": "Worsen",
+    "meaning": "To make a situation, performance state, or software bug more severe, low-quality, or problematic than it was previously",
+    "shortMeaning": "make or become worse",
+    "example": "Adding uncompressed imagery files into your layout container will severely worsen website rendering speeds.",
+    "example2": "The system network congestion will worsen if we do not limit excessive API request intervals immediately.",
+    "example3": "Ignoring minor code warnings early in a project can worsen code reliability down the road.",
+    "Explanation": "The word 'worsen' is an analytical verb describing a downward trend in quality, stability, or efficiency. In software systems, a bad architectural modification can worsen a pre-existing memory leak, causing faster server crashes. In network topologies, external interference can worsen signal-to-noise ratios. It is an essential term during technical code health monitoring, post-mortem failure reports, and comparative system benchmark analyses.",
+    "synonyms": [
+      "deteriorate",
+      "aggravate",
+      "exacerbate",
+      "degrade",
+      "decline"
+    ],
+    "antonyms": [
+      "improve",
+      "better",
+      "ameliorate",
+      "enhance",
+      "optimize"
+    ],
+    "nounForm": "worsening",
+    "verbForm": "worsen",
+    "adjectiveForm": "worsened",
+    "partOfSpeech": "verb",
+    "commonContext": "Tracking software speed degradation, analyzing network signal drops, and reporting escalating system bugs",
+    "usageTip": "Use 'worsen' when describing a system metric, performance variable, or layout issue that is becoming more problematic.",
+    "commonMistake": "Confusing 'worsen' with 'decrease'; a decrease in server errors is actually a good trend, while worsening always implies a bad change.",
+    "collocations": [
+      "worsen the problem",
+      "performance will worsen",
+      "worsen under load conditions"
+    ]
+  }
+]

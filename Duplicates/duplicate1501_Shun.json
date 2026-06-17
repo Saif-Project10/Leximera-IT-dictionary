@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Shun",
+    "meaning": "To persistently avoid, ignore, or reject someone or something.",
+    "shortMeaning": "avoid, reject",
+    "example": "After the scandal, he was shunned by his colleagues.",
+    "example2": "She shuns publicity and rarely gives interviews.",
+    "example3": "They shun modern technology and live a simple life.",
+    "Explanation": "To 'shun' is a strong verb meaning to deliberately and consistently stay away from or refuse to accept someone or something. It implies social rejection, disapproval, or a conscious choice of avoidance. The word carries a sense of moral or social judgment—people are often shunned for violating norms. It is more active and severe than 'avoid'. The noun form is 'shunning'. It's a word found in discussions of social ostracism, personal principles, and subcultures that reject mainstream society.",
+    "synonyms": [
+      "avoid",
+      "eschew",
+      "ostracize",
+      "snub"
+    ],
+    "antonyms": [
+      "embrace",
+      "welcome",
+      "accept",
+      "seek"
+    ],
+    "nounForm": "shunning",
+    "verbForm": "shun",
+    "adjectiveForm": "shunned",
+    "partOfSpeech": "verb",
+    "commonContext": "Social rejection, personal choices, religious practices",
+    "usageTip": "Often used in passive voice to describe the person being avoided: 'He was shunned by the community.'",
+    "commonMistake": "Confusing 'shun' with 'shut' (to close).",
+    "collocations": [
+      "shun publicity",
+      "shun responsibility",
+      "shun someone's company",
+      "deliberately shun"
+    ]
+  },
+  {
+    "word": "Shun",
+    "meaning": "To deliberately avoid, bypass, or reject a legacy coding framework, outdated function, or unsafe network protocol rule",
+    "shortMeaning": "deliberately avoid outdated tools",
+    "example": "Modern web frontend developers choose to shun old tables for layout design, preferring flexbox configurations.",
+    "example2": "You should completely shun unencrypted HTTP link paths when managing user billing dashboards.",
+    "example3": "The engineering team voted to shun complex libraries in favor of clean vanilla JavaScript files.",
+    "Explanation": "While 'shun' is a literary word in everyday English, technical documentation and senior engineering articles use it to describe a collective, deliberate decision to reject or avoid problematic coding habits, deprecated software frameworks, or unsafe communication pathways. Choosing to shun obsolete mechanics ensures systems remain incredibly secure, fast, and easy for new developers to maintain.",
+    "synonyms": [
+      "avoid completely",
+      "reject usage",
+      "bypass patterns"
+    ],
+    "antonyms": [
+      "adopt",
+      "embrace",
+      "utilize"
+    ],
+    "nounForm": "shunning (rare in IT)",
+    "verbForm": "shun",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Coding best practice articles, framework architecture debates, and security compliance discussions",
+    "usageTip": "Use 'shun' when writing guide documents or technical feedback to strongly discourage the use of dangerous, slow, or outdated programming tools.",
+    "commonMistake": "Thinking 'shun' implies a computer system block rule; it refers instead to a human developer's intentional design choice to avoid bad methods.",
+    "collocations": [
+      "shun old practices",
+      "developers shun legacy tools",
+      "shun unsecure connections"
+    ]
+  }
+]

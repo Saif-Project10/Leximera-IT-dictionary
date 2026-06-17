@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Api-first",
+    "meaning": "A development philosophy where the API is designed and built as the first and most important product, before the user interface.",
+    "shortMeaning": "API as the primary product",
+    "example": "By taking an api-first approach, the team ensured the backend was solid before any frontend work began.",
+    "example2": "Api-first companies treat their API as a primary product for external developers.",
+    "example3": "The api-first strategy led to cleaner, more reusable code.",
+    "Explanation": "'Api-first' is a specific compound adjective within software methodology. It goes a step beyond 'api-driven' by insisting that the API is the first deliverable and the main contract for how the system will be used. This philosophy often involves designing the API specification (e.g., using OpenAPI) before writing any code for the server or client. It ensures the API is well-designed, consistent, and can support multiple client applications (web, mobile, etc.) from the start.",
+    "synonyms": [
+      "api-centric",
+      "api-led"
+    ],
+    "antonyms": [
+      "ui-first",
+      "code-first"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "api-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, product management, developer platforms",
+    "usageTip": "Hyphenate when used as an adjective before a noun. It emphasizes priority and sequence.",
+    "commonMistake": "Confusing 'api-first' with simply having an API. It's about the order and priority of design.",
+    "collocations": [
+      "api-first design",
+      "api-first strategy",
+      "api-first company"
+    ]
+  },
+  {
+    "word": "Api-first",
+    "meaning": "An approach where APIs are designed and built before developing the user interface",
+    "shortMeaning": "API-centered design",
+    "example": "The company adopted an API-first strategy to make integration easier for partners.",
+    "example2": "By using an API-first approach, our mobile and web teams worked simultaneously.",
+    "example3": "This product is completely API-first, meaning there is no default user interface.",
+    "Explanation": "The word 'API-first' describes a specific software development philosophy. Instead of building a product's visual interface first and adding code connections later, developers design the API first. This ensures that the underlying data and services are perfectly structured and accessible by any device, whether it is an iPhone, an Android phone, a smart watch, or a web browser. It is a compound adjective widely used in modern cloud-native software businesses.",
+    "synonyms": [
+      "API-centric",
+      "interface-first"
+    ],
+    "antonyms": [
+      "UI-first",
+      "monolithic-first"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "API-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product development strategies, cloud architecture, system design",
+    "usageTip": "Use 'API-first' when explaining that code-level connectivity is prioritized over visual user interfaces during construction.",
+    "commonMistake": "Thinking 'API-first' means you will never build a user interface; it just means the interface comes later.",
+    "collocations": [
+      "API-first design",
+      "API-first approach",
+      "API-first company"
+    ]
+  }
+]

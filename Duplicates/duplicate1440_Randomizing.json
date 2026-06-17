@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Randomizing",
+    "meaning": "Present participle of 'randomize'; making something random.",
+    "shortMeaning": "making random",
+    "example": "The program is responsible for randomizing the test questions.",
+    "example2": "By randomizing the order of participants, we avoid sequence bias.",
+    "example3": "She spent the afternoon randomizing the data samples.",
+    "Explanation": "'Randomizing' is the '-ing' form (present participle/gerund) of the verb 'randomize'. It describes the ongoing action of applying a random process to something. It is used in technical contexts where the method of randomization is being discussed or implemented. For instance, a researcher might talk about 'randomizing the subjects' as part of their experimental procedure. It emphasizes the active step of introducing randomness, which is a key part of rigorous methodology in science and data analysis.",
+    "synonyms": [
+      "making random",
+      "shuffling",
+      "scrambling"
+    ],
+    "antonyms": [
+      "ordering",
+      "systematizing",
+      "arranging"
+    ],
+    "nounForm": "randomization",
+    "verbForm": "randomize",
+    "adjectiveForm": "randomizing (as an adjective: a randomizing algorithm)",
+    "partOfSpeech": "verb (present participle), noun (gerund)",
+    "commonContext": "Research methodology, programming, data analysis",
+    "usageTip": "Used as a technical verb. 'We are randomizing the groups' is correct in a research context.",
+    "commonMistake": "Using it in a non-technical sense where 'mixing up' would suffice.",
+    "collocations": [
+      "randomizing the order",
+      "randomizing procedure",
+      "responsible for randomizing"
+    ]
+  },
+  {
+    "word": "Randomizing",
+    "meaning": "The process of making things random",
+    "shortMeaning": "shuffling",
+    "example": "The randomizing algorithm ensures fair distribution.",
+    "example2": "We are randomizing the order of items in the queue.",
+    "example3": "This randomizing function is key to our security.",
+    "Explanation": "Randomizing describes the action of creating randomness. A 'randomizing algorithm' is a piece of code that takes a predictable input and produces an unpredictable output. This is the heart of security keys, game mechanics, and fair shuffling systems. Without robust randomizing tools, computers would be completely predictable, which makes them easy targets for attacks.",
+    "synonyms": [
+      "shuffling",
+      "mixing"
+    ],
+    "antonyms": [
+      "sorting",
+      "ordering"
+    ],
+    "nounForm": "randomization",
+    "verbForm": "randomize",
+    "adjectiveForm": "randomizing",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming, security, algorithms",
+    "usageTip": "Use 'randomizing' to describe the code or process creating randomness.",
+    "commonMistake": "Using a weak randomizing function for security (this is dangerous).",
+    "collocations": [
+      "randomizing algorithm",
+      "randomizing function",
+      "randomizing the queue"
+    ]
+  }
+]

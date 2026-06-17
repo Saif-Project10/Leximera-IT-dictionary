@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Red team",
+    "meaning": "A group of security experts who attack a system to find weaknesses",
+    "shortMeaning": "ethical attackers",
+    "example": "The red team successfully bypassed the company's firewall during the test.",
+    "example2": "Hiring a red team helps companies prepare for real cyberattacks.",
+    "example3": "The red team's goal is to be as realistic as possible.",
+    "Explanation": "A red team is a group of ethical hackers or security professionals who simulate a real-world attack on an organization's digital or physical infrastructure. Unlike a standard security audit, red teaming is often unannounced to the rest of the staff. Their job is to find vulnerabilities, exploit them, and show the company where they are weak. This helps the organization improve its defenses. The name comes from military war games, where the attacking force was traditionally colored red. It is a proactive way to manage cybersecurity risks.",
+    "synonyms": [
+      "offensive security team",
+      "adversarial simulators"
+    ],
+    "antonyms": [
+      "blue team"
+    ],
+    "nounForm": "red teaming",
+    "verbForm": "red team",
+    "adjectiveForm": "red-team",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity and corporate risk management",
+    "usageTip": "Use 'red team' to refer to the group and 'red teaming' to refer to the activity.",
+    "commonMistake": "Thinking a red team is the same as a penetration test; red teaming is much broader and more realistic.",
+    "collocations": [
+      "red team assessment",
+      "red team member",
+      "red team operations"
+    ]
+  },
+  {
+    "word": "Red team",
+    "meaning": "An independent group that helps organizations test themselves by playing the role of an adversary or attacker",
+    "shortMeaning": "authorized cybersecurity attackers",
+    "example": "The company hired an external red team to simulate a cyberattack on their main financial servers.",
+    "example2": "After the red team breached the network, they provided a detailed report on security flaws.",
+    "example3": "The red team used advanced phishing techniques to test employee security awareness.",
+    "Explanation": "The term 'Red team' originates from military simulations but is now a standard term in cybersecurity. It refers to a group of ethical hackers or security experts who are authorized to attack an organization's digital infrastructure. Their goal is to find security vulnerabilities before actual malicious attackers do. They test real-world scenarios, physical security, and human behaviors. They work in contrast to the 'blue team,' who are the internal defenders protecting the system.",
+    "synonyms": [
+      "ethical attackers",
+      "penetration testers",
+      "adversary simulators"
+    ],
+    "antonyms": [
+      "blue team",
+      "defenders",
+      "N/A"
+    ],
+    "nounForm": "red teaming",
+    "verbForm": "red team (used contextually)",
+    "adjectiveForm": "red-team",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Cybersecurity, penetration testing, and risk assessment",
+    "usageTip": "Use this term when discussing aggressive security audits, offensive security simulations, or penetration testing.",
+    "commonMistake": "Thinking a red team is a group of malicious criminal hackers; they are actually authorized and helpful.",
+    "collocations": [
+      "red team exercise",
+      "hire a red team",
+      "red team assessment"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Catch",
+    "meaning": "To capture or seize something after pursuit; to discover unexpectedly; a hidden problem.",
+    "shortMeaning": "capture; discover; drawback",
+    "example": "Can you catch the ball?",
+    "example2": "I didn't catch what you said.",
+    "example3": "The deal sounds too good to be true—what's the catch?",
+    "Explanation": "'Catch' is an extremely common verb and noun with many meanings. As a verb, it primarily means to intercept and hold something moving. It also means to understand (catch the meaning), to get an illness, or to be on time for transportation. As a noun, it can mean an act of catching, a hidden drawback, or a quantity of fish. It's a foundational word in English with many phrasal verbs (catch up, catch on). Context is key to understanding its specific meaning.",
+    "synonyms": [
+      "capture",
+      "grab",
+      "understand"
+    ],
+    "antonyms": [
+      "drop",
+      "miss",
+      "release"
+    ],
+    "nounForm": "catch",
+    "verbForm": "catch",
+    "adjectiveForm": "catchy",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Sports, conversation, travel, deals",
+    "usageTip": "For understanding, it's often used in negative sentences (e.g., 'I didn't catch your name').",
+    "commonMistake": "Confusing 'catch' with 'capture'; 'capture' is more formal and often implies more effort or strategy.",
+    "collocations": [
+      "catch a cold",
+      "catch the bus",
+      "catch someone's eye"
+    ]
+  },
+  {
+    "word": "Catch",
+    "meaning": "To intercept an error or to capture something moving",
+    "shortMeaning": "intercept or grab",
+    "example": "The code uses a try-catch block to handle errors.",
+    "example2": "Did you catch the latest update on the project?",
+    "example3": "The firewall is designed to catch malicious traffic.",
+    "Explanation": "In programming, 'catch' is part of error handling. When a program does something wrong, it 'throws' an exception, and the code 'catches' it to prevent the whole app from crashing. It is a way of managing unexpected problems gracefully. Outside of code, it can mean understanding information or stopping a process. It is about stopping something from passing through or causing damage.",
+    "synonyms": [
+      "intercept",
+      "capture",
+      "seize"
+    ],
+    "antonyms": [
+      "release",
+      "miss",
+      "throw"
+    ],
+    "nounForm": "catch",
+    "verbForm": "catch",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming (error handling) and general communication",
+    "usageTip": "In coding, always 'catch' specific errors rather than all errors at once.",
+    "commonMistake": "Forgetting to write code to 'catch' an error, which leads to app crashes.",
+    "collocations": [
+      "catch an exception",
+      "try-catch block",
+      "catch a bug"
+    ]
+  }
+]

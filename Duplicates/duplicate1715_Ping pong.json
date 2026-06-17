@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Ping pong",
+    "meaning": "In IT, a technique or pattern where data or control alternates back and forth between two buffers or states",
+    "shortMeaning": "back-and-forth pattern",
+    "example": "The software uses a ping pong mechanism to manage the two memory buffers.",
+    "example2": "We implemented a ping pong strategy to ensure the display is always updated smoothly.",
+    "example3": "The communication between the two servers followed a ping pong pattern.",
+    "Explanation": "While it sounds like a game, 'ping pong' in IT refers to a specific logic pattern. The most common use is 'ping-pong buffering' (or double buffering). One buffer is being filled with data while the other is being read or displayed. Once the first is full, they 'swap' roles. This prevents the system from having to wait for data to be processed and ensures a continuous flow. It is widely used in video rendering, audio processing, and high-speed network communication to improve efficiency and reduce 'stutter' or lag.",
+    "synonyms": [
+      "alternating",
+      "double buffering",
+      "back-and-forth"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ping pong",
+    "verbForm": "ping pong",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Graphics rendering, audio processing, and buffer management",
+    "usageTip": "Use 'ping pong' to describe a system where two parts take turns doing the same job to save time.",
+    "commonMistake": "Using 'ping pong' only for the sport; in technical docs, it almost always refers to buffering or state switching.",
+    "collocations": [
+      "ping pong buffering",
+      "ping pong algorithm",
+      "ping pong effect"
+    ]
+  },
+  {
+    "word": "Ping pong",
+    "meaning": "Another name for table tennis, or a back-and-forth communication style",
+    "shortMeaning": "back-and-forth action",
+    "example": "The two servers are in a ping pong loop, sending data back and forth.",
+    "example2": "We played ping pong in the office breakroom.",
+    "example3": "The negotiation was a game of ping pong between the two lawyers.",
+    "Explanation": "While 'ping pong' is a physical sport, the term is used in IT to describe a 'ping-pong scheme' or 'ping-pong buffering'. This involves switching back and forth between two buffers so that while one is being processed, the other is being filled. In communication, it describes an inefficient situation where two people (or systems) keep sending short messages back and forth without resolving the issue. It captures the repetitive and oscillating nature of the movement.",
+    "synonyms": [
+      "table tennis",
+      "back-and-forth",
+      "oscillation"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ping pong",
+    "verbForm": "ping pong",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Sports, buffering techniques, and communication",
+    "usageTip": "Use 'ping pong' to describe an oscillating process that moves between two states.",
+    "commonMistake": "Assuming 'ping pong' only refers to the sport in a technical discussion.",
+    "collocations": [
+      "ping pong buffering",
+      "ping pong effect",
+      "play ping pong"
+    ]
+  }
+]

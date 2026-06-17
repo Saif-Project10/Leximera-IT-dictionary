@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Iterative",
+    "meaning": "Involving repetition of a process, with each cycle improving on the previous one | Relating to or involving repetition, especially to achieve refinement.",
+    "shortMeaning": "repeating and improving",
+    "example": "Design is an iterative process of prototyping and testing.",
+    "example2": "We used an iterative approach to develop the software.",
+    "example3": "Iterative learning helps solidify knowledge.",
+    "Explanation": "'Iterative' describes a method that works through cycles of doing, reviewing, and improving. Instead of trying to create a perfect final product in one attempt, you build it in stages, learning from each version. This is fundamental in agile software development, design thinking, and scientific research. It embraces feedback and change. The noun is 'iteration', meaning one cycle in this process. It contrasts with a linear, 'waterfall' approach.",
+    "synonyms": [
+      "Cyclic",
+      "Cyclical",
+      "Evolutionary",
+      "Incremental",
+      "Recurrent",
+      "Repetitive"
+    ],
+    "antonyms": [
+      "Final",
+      "Linear",
+      "Non-Repetitive",
+      "One-Off",
+      "One-Time",
+      "Sequential",
+      "Waterfall"
+    ],
+    "nounForm": "iteration",
+    "verbForm": "iterate",
+    "adjectiveForm": "iterative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, design, project management, learning methodologies",
+    "usageTip": "Use to describe a process that is cyclical and improves with each cycle.",
+    "commonMistake": "Thinking 'iterative' means simply 'repeating'; it specifically means repeating *to improve*.",
+    "collocations": [
+      "iterative process",
+      "iterative development",
+      "iterative design",
+      "iterative approach"
+    ]
+  },
+  {
+    "word": "Iterative",
+    "meaning": "Involving a process of repeating steps to improve a result",
+    "shortMeaning": "repetitive improvement",
+    "example": "We follow an iterative development process to improve the software over time.",
+    "example2": "The design of the UI was an iterative process based on user feedback.",
+    "example3": "Iterative testing helps us catch bugs early in the cycle.",
+    "Explanation": "The iterative approach is the cornerstone of modern software development (like Agile). Instead of trying to build the perfect product at once, you build small pieces, test them, learn from the results, and improve them in cycles. This is much safer and more efficient than a 'waterfall' approach where everything is done at once at the end. By making iterative improvements, you manage risk and ensure the product actually meets user needs by the time it is finished.",
+    "synonyms": [
+      "cyclical",
+      "repetitive",
+      "incremental"
+    ],
+    "antonyms": [
+      "one-shot",
+      "linear",
+      "static"
+    ],
+    "nounForm": "iteration",
+    "verbForm": "iterate",
+    "adjectiveForm": "iterative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development and project management",
+    "usageTip": "Use 'iterative' to describe any process that improves through repeated cycles.",
+    "commonMistake": "Confusing 'iterative' with 'recursive'; iterative is about cycles, recursive is a function calling itself.",
+    "collocations": [
+      "iterative process",
+      "iterative development",
+      "iterative improvement"
+    ]
+  }
+]

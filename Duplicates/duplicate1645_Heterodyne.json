@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Heterodyne",
+    "meaning": "A signal processing method that mixes two different frequencies to create a new frequency",
+    "shortMeaning": "mixing frequencies",
+    "example": "The radio receiver uses the heterodyne principle to tune into specific stations.",
+    "example2": "A heterodyne circuit shifts high-frequency signals to a lower, manageable range.",
+    "example3": "Engineers used a heterodyne approach to improve signal clarity.",
+    "Explanation": "Heterodyne is a fundamental concept in radio and communications. It works by combining an incoming signal with a signal produced by a local oscillator. This results in two new frequencies: the sum and the difference of the original two. Usually, the 'difference' frequency (called the Intermediate Frequency or IF) is used because it is easier to filter and amplify. This allows for high-quality reception without needing to tune every stage of the receiver. It is the basis for most modern radio and television receivers.",
+    "synonyms": [
+      "frequency mixing",
+      "beat frequency",
+      "superheterodyne"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "heterodyning",
+    "verbForm": "heterodyne",
+    "adjectiveForm": "heterodyne",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Radio engineering and telecommunications",
+    "usageTip": "Use this term when discussing how signals are converted from one frequency to another.",
+    "commonMistake": "Confusing 'heterodyne' with 'homodyne', which uses the same frequency rather than different ones.",
+    "collocations": [
+      "heterodyne receiver",
+      "heterodyne frequency",
+      "heterodyne principle"
+    ]
+  },
+  {
+    "word": "Heterodyne",
+    "meaning": "Mixing two different frequencies to create new ones",
+    "shortMeaning": "mixing frequencies",
+    "example": "The radio receiver uses a heterodyne circuit to tune in stations.",
+    "example2": "Heterodyne detection is crucial for wireless communications.",
+    "example3": "The signal was processed through a heterodyne mixer.",
+    "Explanation": "The term 'heterodyne' is used in telecommunications, radio engineering, and signal processing. It refers to the process of mixing two different signal frequencies together to produce a new, desired frequency. This is the underlying principle of how radios, TVs, and mobile phones work. It is purely electrical engineering and signal processing. You will not use this in standard web or application development unless you are working on hardware communications.",
+    "synonyms": [
+      "frequency-mixing"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "heterodyne",
+    "verbForm": "heterodyne",
+    "adjectiveForm": "heterodyne",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Telecommunications, radio, signal processing",
+    "usageTip": "Use 'heterodyne' when discussing signal frequency mixing.",
+    "commonMistake": "Using 'heterodyne' for software data mixing (use 'merge' or 'combine' instead).",
+    "collocations": [
+      "heterodyne detection",
+      "heterodyne mixer",
+      "heterodyne circuit"
+    ]
+  },
+  {
+    "word": "Heterodyne",
+    "meaning": "To combine two different radio frequencies to create a new frequency",
+    "shortMeaning": "mix frequencies",
+    "example": "The radio receiver uses a circuit to heterodyne the incoming signal.",
+    "example2": "In a superheterodyne receiver, we heterodyne the signal to a lower intermediate frequency.",
+    "example3": "The engineer explained how to heterodyne two signals without causing noise.",
+    "Explanation": "Heterodyning is a fundamental technique in signal processing and radio engineering. It involves mixing two different frequencies ($f1$ and $f2$) in a non-linear device. This process creates two new frequencies: the sum ($f1 + f2$) and the difference ($f1 - f2$). This is how almost all modern radios and TVs work; they take the high-frequency signal from the antenna and 'heterodyne' it down to a lower 'Intermediate Frequency' (IF) that is much easier for the electronic circuits to process. It is a technical term mostly used in hardware and telecommunications.",
+    "synonyms": [
+      "mix frequencies",
+      "signal mixing",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "heterodyning",
+    "verbForm": "heterodyne",
+    "adjectiveForm": "heterodyne",
+    "partOfSpeech": "verb",
+    "commonContext": "Radio engineering and telecommunications",
+    "usageTip": "Use 'heterodyne' when discussing the mixing of two radio or sound waves.",
+    "commonMistake": "Confusing 'heterodyne' with simple 'interference'.",
+    "collocations": [
+      "superheterodyne receiver",
+      "heterodyne frequency",
+      "heterodyne circuit"
+    ]
+  }
+]

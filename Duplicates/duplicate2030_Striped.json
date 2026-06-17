@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Striped",
+    "meaning": "Organized into segments or stripes for performance or redundancy, especially in storage.",
+    "shortMeaning": "organized in segments",
+    "example": "The disk array is striped to improve read speeds.",
+    "example2": "Data is striped across multiple physical drives.",
+    "example3": "A striped volume offers better performance than a single disk.",
+    "Explanation": "The term 'striped' is used in storage technology, like RAID. Striping means taking a piece of data and breaking it into blocks that are spread across several hard drives. This allows multiple drives to work together to read or write data simultaneously, significantly increasing speed. It is not for backup, but for performance. If one drive fails, the striped data is usually lost unless other redundancy (like mirroring) is used.",
+    "synonyms": [
+      "segmented",
+      "distributed"
+    ],
+    "antonyms": [
+      "mirrored",
+      "concentrated"
+    ],
+    "nounForm": "striping",
+    "verbForm": "stripe",
+    "adjectiveForm": "striped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Storage and RAID systems",
+    "usageTip": "Use 'striped' when referring to data distributed across disks for performance.",
+    "commonMistake": "Assuming striping provides backup (it does not; it only improves speed).",
+    "collocations": [
+      "striped volume",
+      "data striped",
+      "striped array"
+    ]
+  },
+  {
+    "word": "Striped",
+    "meaning": "Marked with lines; in storage, spread data across multiple disks.",
+    "shortMeaning": "lined or interleaved",
+    "example": "The storage system uses striped arrays for performance.",
+    "example2": "The UI design has a striped table background.",
+    "example3": "Data is striped across all available servers.",
+    "Explanation": "The word 'striped' has two meanings. In UI design, it means alternating colors (like a zebra pattern) for readability. In IT storage (RAID), it refers to the technique of splitting data into blocks and spreading them across multiple disks. This increases speed and reliability. The base verb is 'stripe'. When talking about storage, 'striped' is a highly technical term. Ensure the context is clear so people don't think you are talking about visual design when you mean storage architecture.",
+    "synonyms": [
+      "lined",
+      "interleaved",
+      "banded"
+    ],
+    "antonyms": [
+      "solid",
+      "uniform"
+    ],
+    "nounForm": "stripe",
+    "verbForm": "stripe",
+    "adjectiveForm": "striped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Storage systems, UI design",
+    "usageTip": "Use 'striped' for data spread across disks or visual line patterns.",
+    "commonMistake": "Using 'striped' to describe simple color gradients.",
+    "collocations": [
+      "striped array",
+      "striped data",
+      "striped table"
+    ]
+  }
+]

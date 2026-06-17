@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Start",
+    "meaning": "To begin an action or movement; the point in time or place where something begins.",
+    "shortMeaning": "begin; beginning",
+    "example": "Let's start the meeting. (verb)",
+    "example2": "It was a fresh start in a new city. (noun)",
+    "example3": "He got a good start in the race.",
+    "Explanation": "'Start' is a basic verb and noun for the beginning of anything. As a verb, it means to initiate action. As a noun, it's the initial part of an event, process, or journey. It's more common and slightly less formal than 'commence'. It's used in countless phrasal verbs: start up, start over, start out. In machinery, 'start' means to set in motion. The word implies a transition from inactivity to activity. It's one of the first verbs learners need, essential for talking about plans, processes, and timing.",
+    "synonyms": [
+      "begin",
+      "commence",
+      "initiate",
+      "onset",
+      "outset"
+    ],
+    "antonyms": [
+      "finish",
+      "end",
+      "stop",
+      "conclude"
+    ],
+    "nounForm": "start",
+    "verbForm": "start",
+    "adjectiveForm": "starting",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Events, projects, engines, races, journeys",
+    "usageTip": "Use 'start to do' or 'start doing' with little difference in meaning.",
+    "commonMistake": "Using 'start' with 'from'. Usually, we say 'start at' a time or 'start from' a place (e.g., start from scratch).",
+    "collocations": [
+      "start a business",
+      "from the start",
+      "head start",
+      "start engine"
+    ]
+  },
+  {
+    "word": "Start",
+    "meaning": "To begin an operation, boot a system, launch a program, or initiate a new project",
+    "shortMeaning": "begin",
+    "example": "You need to start the database service before launching the web server application.",
+    "example2": "Let us start the meeting by reviewing the current software bugs.",
+    "example3": "The automated backup script will start every night at midnight.",
+    "Explanation": "The word 'start' is a fundamental term used to describe the initiation of any technical process, service, or project. In operating systems, starting a service means loading it into active memory so it can handle incoming requests. It is used in user interfaces as a simple button label, like the classic Windows Start menu. In coding, many scripts include a start function to set up initial configurations. It marks the transition from an idle or off state to an active state.",
+    "synonyms": [
+      "launch",
+      "initiate",
+      "begin",
+      "boot"
+    ],
+    "antonyms": [
+      "stop",
+      "finish",
+      "terminate",
+      "end"
+    ],
+    "nounForm": "start / starter",
+    "verbForm": "start",
+    "adjectiveForm": "starting",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "System operations, coding functions, project management",
+    "usageTip": "Use 'start' for everyday software actions, but prefer 'initialize' or 'boot' for formal technical architecture.",
+    "commonMistake": "Using 'start' when 'reboot' or 'restart' is necessary to show that the system was already running.",
+    "collocations": [
+      "start a service",
+      "start menu",
+      "clean start"
+    ]
+  }
+]

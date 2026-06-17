@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Shifted",
+    "meaning": "Moved from one position, state, or focus to another.",
+    "shortMeaning": "moved or changed",
+    "example": "The load was shifted to a different server.",
+    "example2": "Development focus shifted to cloud-native technologies.",
+    "example3": "The bits were shifted left to perform a multiplication.",
+    "Explanation": "The word 'shifted' describes a transition or change in position or emphasis. In computer architecture, 'bitwise shift' is a specific operation where bits are moved left or right, which is fundamental for low-level data manipulation. In a broader project context, it signifies a pivot in strategy or resource allocation. It is a versatile term that covers everything from hardware-level data movement to organizational management shifts.",
+    "synonyms": [
+      "moved",
+      "transferred",
+      "pivoted"
+    ],
+    "antonyms": [
+      "maintained",
+      "fixed",
+      "stayed"
+    ],
+    "nounForm": "shift",
+    "verbForm": "shift",
+    "adjectiveForm": "shiftable",
+    "partOfSpeech": "verb",
+    "commonContext": "Data manipulation, project strategy, system load",
+    "usageTip": "Use 'shifted' when discussing movement or change in focus.",
+    "commonMistake": "Confusing a 'shift' with a 'swap'.",
+    "collocations": [
+      "shifted focus",
+      "bitwise shifted",
+      "load shifted"
+    ]
+  },
+  {
+    "word": "Shifted",
+    "meaning": "Moved or changed position, focus, or direction",
+    "shortMeaning": "moved",
+    "example": "The data shifted after the update.",
+    "example2": "We shifted our focus to mobile development.",
+    "example3": "The load shifted to the backup server.",
+    "Explanation": "The word 'shifted' indicates a change in position, state, or emphasis. In IT, it can describe data being moved, or a team changing its strategy. It represents a transition from one state to another. It is a versatile word used for both physical movement of equipment and abstract changes in business strategy or project requirements. It highlights a change in the current setup or approach.",
+    "synonyms": [
+      "moved",
+      "transferred",
+      "changed"
+    ],
+    "antonyms": [
+      "stayed",
+      "remained"
+    ],
+    "nounForm": "shift",
+    "verbForm": "shift",
+    "adjectiveForm": "shifted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project strategy, hardware, data handling",
+    "usageTip": "Use 'shifted' to explain a change in focus or position.",
+    "commonMistake": "Using 'shifted' when 'deleted' is more accurate.",
+    "collocations": [
+      "shifted focus",
+      "shifted responsibility",
+      "data shifted"
+    ]
+  }
+]

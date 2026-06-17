@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Indirect",
+    "meaning": "Not done or caused directly; not straightforward.",
+    "shortMeaning": "not direct",
+    "example": "We took an indirect route to avoid the traffic.",
+    "example2": "She made an indirect criticism of his management style.",
+    "example3": "Sunlight provides indirect lighting in this room.",
+    "Explanation": "Indirect describes a path, method, or communication that is not straight, immediate, or explicit. It involves an intermediary, a detour, or implied meaning. Indirect speech reports what someone said without using their exact words. Indirect costs are not directly tied to production. Indirect communication can be polite or evasive. The word often implies a roundabout way of achieving something. It's the opposite of 'direct'. In some contexts, indirectness is a virtue (diplomacy); in others, a vice (inefficiency).",
+    "synonyms": [
+      "roundabout",
+      "circuitous",
+      "implied",
+      "secondary",
+      "oblique"
+    ],
+    "antonyms": [
+      "direct",
+      "straightforward",
+      "explicit",
+      "immediate"
+    ],
+    "nounForm": "indirection",
+    "verbForm": "N/A",
+    "adjectiveForm": "indirect",
+    "partOfSpeech": "adjective",
+    "commonContext": "Routes, speech, costs, lighting, questions",
+    "usageTip": "In grammar, 'indirect speech' is also called 'reported speech'.",
+    "commonMistake": "Using 'indirect' to mean 'wrong'. It means not direct, not necessarily incorrect.",
+    "collocations": [
+      "indirect cost",
+      "indirect speech",
+      "indirect approach",
+      "indirect evidence"
+    ]
+  },
+  {
+    "word": "Indirect",
+    "meaning": "Not done in a direct or straightforward way",
+    "shortMeaning": "not direct",
+    "example": "We used an indirect approach to solve the memory leak.",
+    "example2": "The cause of the error was indirect.",
+    "example3": "Indirect light is better for the eyes than direct glare.",
+    "Explanation": "The word 'indirect' describes something that happens through a secondary route or is not the primary cause. In programming, 'indirect referencing' (pointers) is common. It is an adjective. Use this to describe methods that take a path around a problem rather than hitting it head-on. It is a valuable term for explaining complex, multi-step solutions where the cause and effect are not immediately connected.",
+    "synonyms": [
+      "circuitous",
+      "roundabout",
+      "secondary"
+    ],
+    "antonyms": [
+      "direct",
+      "straightforward",
+      "primary"
+    ],
+    "nounForm": "indirectness",
+    "verbForm": "N/A",
+    "adjectiveForm": "indirect",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem-solving, programming, networking",
+    "usageTip": "Use for roundabout methods or secondary causes.",
+    "commonMistake": "Confusing 'indirect' with 'incorrect'.",
+    "collocations": [
+      "indirect approach",
+      "indirect cause",
+      "indirect reference"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-segregated",
+    "meaning": "Not separated or divided, especially along racial, social, or gender lines.",
+    "shortMeaning": "not separated",
+    "example": "The school promotes a non-segregated learning environment for all children.",
+    "example2": "They fought for non-segregated public facilities.",
+    "example3": "The new policy aims to create a non-segregated workplace.",
+    "Explanation": "'Non-segregated' describes a state where people or things are not kept apart based on categories like race, gender, or class. It is often used in social, historical, and political contexts to discuss integration and equality. The term highlights inclusivity and the absence of enforced separation. It's the opposite of 'segregated', which implies systematic division.",
+    "synonyms": [
+      "integrated",
+      "unsegregated",
+      "mixed",
+      "inclusive"
+    ],
+    "antonyms": [
+      "segregated",
+      "separated",
+      "divided",
+      "exclusive"
+    ],
+    "nounForm": "non-segregation",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-segregated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social policy, education, civil rights",
+    "usageTip": "Use 'non-segregated' to describe environments or systems that are open and mixed.",
+    "commonMistake": "Using it to simply mean 'mixed'; it specifically opposes enforced social separation.",
+    "collocations": [
+      "non-segregated schools",
+      "non-segregated community",
+      "non-segregated facilities"
+    ]
+  },
+  {
+    "word": "Non-segregated",
+    "meaning": "Not separated into distinct groups or parts",
+    "shortMeaning": "not separated",
+    "example": "The data is currently stored in a non-segregated format.",
+    "example2": "We need to move from a non-segregated to a segmented database.",
+    "example3": "The non-segregated environment is prone to data leakage.",
+    "Explanation": "The term 'non-segregated' describes information or processes that are all mixed together rather than being isolated for security, performance, or management reasons. Segregation is a key security practice; keeping environments 'non-segregated' (like putting production data and test data on the same server) is often considered a high-risk practice in IT. It implies a lack of boundaries or clear organizational structure between different data entities.",
+    "synonyms": [
+      "mixed",
+      "unsegregated",
+      "unified"
+    ],
+    "antonyms": [
+      "segregated",
+      "isolated",
+      "separated"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "non-segregated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data security, networking, architecture",
+    "usageTip": "Use to describe a lack of boundaries.",
+    "commonMistake": "Confusing 'non-segregated' with 'accessible'; segregation is about control, not accessibility.",
+    "collocations": [
+      "non-segregated data",
+      "non-segregated environment",
+      "not segregated"
+    ]
+  }
+]

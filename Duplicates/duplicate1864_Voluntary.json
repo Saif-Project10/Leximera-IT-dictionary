@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Voluntary",
+    "meaning": "Done by choice or without being forced",
+    "shortMeaning": "done by choice",
+    "example": "Participation in the beta testing program is strictly voluntary.",
+    "example2": "The developer made a voluntary contribution to the open-source project.",
+    "example3": "She took a voluntary leave to finish her computer science degree.",
+    "Explanation": "The word 'voluntary' describes an action that is performed out of one's own free will. In a professional or technical context, it often refers to programs, updates, or tasks that are not mandatory. For instance, a 'voluntary update' is one that a user chooses to install rather than being forced by the system. It is also used in 'voluntary sectors' referring to non-profit organizations. It is important to distinguish this from 'automatic' or 'obligatory' actions.",
+    "synonyms": [
+      "optional",
+      "discretionary",
+      "intentional"
+    ],
+    "antonyms": [
+      "mandatory",
+      "compulsory",
+      "forced"
+    ],
+    "nounForm": "volunteer",
+    "verbForm": "volunteer",
+    "adjectiveForm": "voluntary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace policies and software agreements",
+    "usageTip": "Use 'voluntary' when you want to emphasize that someone has a choice to participate.",
+    "commonMistake": "Confusing 'voluntary' with 'free'; something can be voluntary but still have a cost.",
+    "collocations": [
+      "voluntary participation",
+      "voluntary disclosure",
+      "voluntary contribution"
+    ]
+  },
+  {
+    "word": "Voluntary",
+    "meaning": "Done by choice, not forced or required by system settings",
+    "shortMeaning": "optional",
+    "example": "Updates to the beta version are purely voluntary.",
+    "example2": "The user made a voluntary contribution of diagnostic data.",
+    "example3": "Participation in the survey is voluntary.",
+    "Explanation": "In IT, 'voluntary' describes an action that a user or a process performs by choice rather than by obligation. For example, 'voluntary data sharing' means the user has to explicitly turn on a setting to send information back to the developer. Designing systems to make features voluntary gives users control over their privacy and settings. This is a crucial concept in software design, especially regarding GDPR and other privacy regulations. Always be clear when a feature is mandatory versus voluntary for the user.",
+    "synonyms": [
+      "optional",
+      "chosen",
+      "discretionary"
+    ],
+    "antonyms": [
+      "mandatory",
+      "required",
+      "forced"
+    ],
+    "nounForm": "volition",
+    "verbForm": "N/A",
+    "adjectiveForm": "voluntary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software settings, privacy, user management",
+    "usageTip": "Use 'voluntary' when describing optional user settings.",
+    "commonMistake": "Making something mandatory while calling it voluntary.",
+    "collocations": [
+      "voluntary participation",
+      "voluntary choice"
+    ]
+  },
+  {
+    "word": "Voluntary",
+    "meaning": "Done or given by choice, without being forced.",
+    "shortMeaning": "by choice",
+    "example": "Participation in the beta test is voluntary.",
+    "example2": "He made a voluntary donation to the open-source project.",
+    "example3": "Users can opt into the voluntary feedback program.",
+    "Explanation": "Voluntary refers to an action taken out of one's own free will. In IT, this is often used in terms of software testing, user data sharing, or community support where users are not required to participate. Voluntary engagement usually leads to higher quality feedback compared to forced participation. Always ensure that 'voluntary' programs clearly state that users have the choice to opt-out. It is an important term for user privacy and project transparency.",
+    "synonyms": [
+      "optional",
+      "discretionary",
+      "chosen"
+    ],
+    "antonyms": [
+      "mandatory",
+      "compulsory",
+      "required"
+    ],
+    "nounForm": "volunteer",
+    "verbForm": "volunteer",
+    "adjectiveForm": "voluntary",
+    "partOfSpeech": "adjective",
+    "commonContext": "User experience, open-source, project management",
+    "usageTip": "Use this for tasks that the user can choose to do.",
+    "commonMistake": "Confusing 'voluntary' with 'free' (a voluntary action might cost money).",
+    "collocations": [
+      "voluntary participation",
+      "voluntary contribution",
+      "voluntary update"
+    ]
+  }
+]

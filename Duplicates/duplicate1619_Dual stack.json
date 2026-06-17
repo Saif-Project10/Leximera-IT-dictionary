@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Dual stack",
+    "meaning": "A networking method where a device uses both IPv4 and IPv6 protocols simultaneously",
+    "shortMeaning": "both IP versions",
+    "example": "The router is configured for dual stack so it can connect to old and new websites.",
+    "example2": "Dual stack is the most common way to transition from IPv4 to IPv6.",
+    "example3": "My internet provider uses a dual stack approach to ensure compatibility.",
+    "Explanation": "In networking, 'dual stack' refers to a computer or router that has both the old Internet Protocol (IPv4) and the new version (IPv6) running at the same time. Since the world is slowly moving away from the limited addresses of IPv4 to the massive range of IPv6, many systems need to support both during the transition period. A dual stack device can 'speak' both languages. If a website only supports IPv4, the device uses that; if it supports IPv6, it uses the newer, better version. This ensures that users don't lose access to any part of the internet.",
+    "synonyms": [
+      "IP dual stack",
+      "dual protocol stack"
+    ],
+    "antonyms": [
+      "single stack"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "dual stack",
+    "adjectiveForm": "dual-stack",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Network engineering and internet infrastructure",
+    "usageTip": "Use dual stack to future-proof your network without losing connection to old servers.",
+    "commonMistake": "Thinking dual stack 'merges' the two IPs; they actually run as two separate identities on one device.",
+    "collocations": [
+      "dual stack architecture",
+      "native dual stack",
+      "dual stack transition"
+    ]
+  },
+  {
+    "word": "Dual stack",
+    "meaning": "A network setup where devices can use both IPv4 and IPv6 protocols simultaneously",
+    "shortMeaning": "use both IP types",
+    "example": "Most modern routers use a dual stack approach to transition to the newer internet protocol.",
+    "example2": "The server was configured with a dual stack to support older and newer devices.",
+    "example3": "Dual stack ensures that users on both IPv4 and IPv6 can access the website.",
+    "Explanation": "The internet is moving from IPv4 (older) to IPv6 (newer) because we ran out of addresses. A dual stack system allows a computer or router to speak both 'languages'. This ensures that the device can communicate with anyone on the internet, regardless of which protocol they use. It is the most common way to handle the transition between the two protocols. It requires the device to have two separate IP addresses. Network administrators prefer this method because it is reliable. It prevents compatibility issues during the upgrade process.",
+    "synonyms": [
+      "IPv4/IPv6 transition",
+      "dual IP setup"
+    ],
+    "antonyms": [
+      "single stack"
+    ],
+    "nounForm": "dual stack",
+    "verbForm": "N/A",
+    "adjectiveForm": "dual-stack",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking and internet infrastructure",
+    "usageTip": "Use this when discussing how a network handles both old and new internet addresses.",
+    "commonMistake": "Thinking dual stack combines the two protocols; it actually runs them side-by-side.",
+    "collocations": [
+      "dual stack network",
+      "dual stack implementation",
+      "configure dual stack"
+    ]
+  }
+]

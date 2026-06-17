@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Untailored",
+    "meaning": "Not made or adjusted to fit a particular person or purpose; off-the-rack or generic",
+    "shortMeaning": "not customized; generic",
+    "example": "He wore an untailored suit that didn't fit well.",
+    "example2": "The untailored advice was not helpful for my specific situation.",
+    "example3": "The software provided an untailored solution that we had to adapt.",
+    "Explanation": "The adjective 'untailored' literally refers to clothing that has not been altered by a tailor to fit an individual's body. Figuratively, it extends to any solution, advice, plan, or product that is generic, standard, and not customized to meet specific needs or circumstances. It is similar to 'off-the-shelf' but emphasizes the lack of finishing touches or personal adjustment. The word often carries a slightly negative connotation, suggesting a poor fit or a lack of attention to detail. It is the opposite of 'tailored', 'customized', or 'bespoke'. It's used in fashion, business consulting, software, and services.",
+    "synonyms": [
+      "off-the-rack",
+      "generic",
+      "standard",
+      "unadjusted",
+      "ill-fitting"
+    ],
+    "antonyms": [
+      "tailored",
+      "customized",
+      "bespoke",
+      "made-to-measure",
+      "personalized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "tailor",
+    "adjectiveForm": "untailored",
+    "partOfSpeech": "adjective",
+    "commonContext": "Fashion, business solutions, services, criticism",
+    "usageTip": "Use to criticize something for being a poor fit, literally or figuratively.",
+    "commonMistake": "Confusing it with 'untainted', which means not contaminated.",
+    "collocations": [
+      "untailored suit",
+      "untailored approach",
+      "untailored report",
+      "untailored software"
+    ]
+  },
+  {
+    "word": "Untailored",
+    "meaning": "Not customized or adapted to fit specific needs or requirements.",
+    "shortMeaning": "not customized",
+    "example": "The software comes as an untailored, general-purpose solution.",
+    "example2": "An untailored security policy may leave gaps in protection.",
+    "example3": "They used an untailored script for the task.",
+    "Explanation": "The word 'untailored' means that something has not been modified or fine-tuned to suit a specific purpose, individual, or environment. It implies a generic state that might not be as efficient as a custom one. The verb is 'tailor'. While often used in fashion, in IT it describes software or configurations that are used in their original, default, or off-the-shelf state. Use this to explain when a solution is not optimized for a client's specific workflow.",
+    "synonyms": [
+      "generic",
+      "standard",
+      "uncustomized"
+    ],
+    "antonyms": [
+      "tailored",
+      "customized",
+      "adapted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "tailor",
+    "adjectiveForm": "untailored",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software customization, project management",
+    "usageTip": "Use 'untailored' to describe generic, off-the-shelf solutions.",
+    "commonMistake": "Confusing it with 'incomplete'.",
+    "collocations": [
+      "untailored solution",
+      "untailored approach",
+      "untailored software"
+    ]
+  },
+  {
+    "word": "Untailored",
+    "meaning": "Not customized or adapted to fit specific needs or requirements.",
+    "shortMeaning": "not customized",
+    "example": "The software is untailored and has many unused features.",
+    "example2": "We bought an untailored solution that we now have to customize.",
+    "example3": "The settings remained untailored for the local environment.",
+    "Explanation": "'Untailored' refers to something that is generic or 'off-the-shelf' rather than being specially designed for a specific user or scenario. In software, untailored products may include features that are unnecessary or miss specific capabilities needed for a niche use case. 'Tailoring' or customizing software makes it much more efficient for the target audience. If a solution is untailored, you will likely need to spend time configuring it to your needs.",
+    "synonyms": [
+      "generic",
+      "unmodified",
+      "standardized"
+    ],
+    "antonyms": [
+      "tailored",
+      "customized",
+      "adapted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "untailor",
+    "adjectiveForm": "untailored",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software customization, product selection",
+    "usageTip": "Use this for off-the-shelf products that need config.",
+    "commonMistake": "Thinking 'untailored' means it is incomplete.",
+    "collocations": [
+      "untailored solution",
+      "untailored software",
+      "remain untailored"
+    ]
+  }
+]

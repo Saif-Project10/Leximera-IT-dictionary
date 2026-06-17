@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Side",
+    "meaning": "1. A position to the left or right of an object, place, or central point. 2. One of two or more opposing groups or teams. 3. An aspect or feature.",
+    "shortMeaning": "edge; team; aspect",
+    "example": "Please write on one side of the paper only. (position)",
+    "example2": "Which side won the game? (team)",
+    "example3": "The plan has both good and bad sides. (aspect)",
+    "Explanation": "A 'side' is a boundary, surface, or perspective. It is an extremely common noun with spatial, social, and metaphorical meanings. You can have the side of a building, be on someone's side in an argument, or consider all sides of a story. The phrase 'side effect' is common in medicine. It's a versatile word for describing location, allegiance, and partial views of a whole. The adjective is 'side' (e.g., side door).",
+    "synonyms": [
+      "edge",
+      "flank",
+      "team",
+      "faction",
+      "aspect"
+    ],
+    "antonyms": [
+      "center",
+      "middle",
+      "front"
+    ],
+    "nounForm": "side",
+    "verbForm": "side (with)",
+    "adjectiveForm": "side",
+    "partOfSpeech": "noun, verb, adjective",
+    "commonContext": "Geometry, sports, arguments, location",
+    "usageTip": "Use 'side' to talk about a physical edge, a team in a competition, or one part of an issue.",
+    "commonMistake": "Confusing 'side' with 'site' (a location) or 'sight' (vision).",
+    "collocations": [
+      "side by side",
+      "on the side",
+      "side effect",
+      "take sides"
+    ]
+  },
+  {
+    "word": "Side",
+    "meaning": "A position, aspect, or edge of an object or argument.",
+    "shortMeaning": "edge or aspect",
+    "example": "The client-side code handles user interactions.",
+    "example2": "Consider both sides of the architectural design.",
+    "example3": "The server-side logic processes the database requests.",
+    "Explanation": "The word 'side' is crucial in computing for distinguishing between different execution environments, such as 'client-side' (browser) vs. 'server-side' (backend). It defines the perspective or the physical location of the code or data. It can also refer to different arguments in a debate or a technical design discussion. Understanding the 'side' of an operation is fundamental to understanding architecture, security, and data flow.",
+    "synonyms": [
+      "aspect",
+      "edge",
+      "perspective"
+    ],
+    "antonyms": [
+      "center",
+      "middle",
+      "core"
+    ],
+    "nounForm": "side",
+    "verbForm": "N/A",
+    "adjectiveForm": "side",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Client-server architecture, design, arguments",
+    "usageTip": "Use 'side' to differentiate environments or perspectives.",
+    "commonMistake": "Confusing client-side and server-side roles.",
+    "collocations": [
+      "client-side",
+      "server-side",
+      "side effect"
+    ]
+  }
+]

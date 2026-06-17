@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Partial",
+    "meaning": "Not complete or whole; favoring one side in a dispute; having a liking for | Not complete or whole; favoring one side over another; having a liking for",
+    "shortMeaning": "not complete; biased; liking",
+    "example": "We only have a partial list of attendees.",
+    "example2": "The judge was accused of being partial.",
+    "example3": "I'm very partial to chocolate ice cream.",
+    "Explanation": "The adjective 'partial' has three distinct meanings. First, it means existing only in part; incomplete. Second, it means biased or unfair. Third, it means having a strong liking for something. The context makes the meaning clear. The noun form for bias is 'partiality', and for incompleteness, it's 'part'. It's a versatile but potentially confusing word.",
+    "synonyms": [
+      "Biased",
+      "Fond Of",
+      "Incomplete",
+      "Unfair"
+    ],
+    "antonyms": [
+      "Complete",
+      "Impartial",
+      "Indifferent To",
+      "Total",
+      "Unbiased"
+    ],
+    "nounForm": "partiality / part",
+    "verbForm": "N/A",
+    "adjectiveForm": "partial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Information, justice, preferences",
+    "usageTip": "For the 'liking' meaning, use the phrase 'partial to': 'I am partial to old movies.'",
+    "commonMistake": "Using 'partial' to mean 'small' instead of 'incomplete'.",
+    "collocations": [
+      "partial view",
+      "partial payment",
+      "partial to",
+      "partial success"
+    ]
+  },
+  {
+    "word": "Partial",
+    "meaning": "Not complete or total",
+    "shortMeaning": "incomplete",
+    "example": "We have only partial support for the new API features.",
+    "example2": "The restoration was a partial success.",
+    "example3": "A partial update will be applied to the database.",
+    "Explanation": "The word 'partial' means that something is incomplete, involving only a part of the whole. In IT, this often refers to 'partial updates' (where not every record is changed), 'partial failures' (where part of the system works but some services are down), or 'partial indexing' (where only a subset of data is indexed). It is a crucial term for discussing system availability and deployment strategies where you might update one component before the rest.",
+    "synonyms": [
+      "incomplete",
+      "fractional",
+      "incomplete"
+    ],
+    "antonyms": [
+      "complete",
+      "total",
+      "full"
+    ],
+    "nounForm": "part",
+    "verbForm": "N/A",
+    "adjectiveForm": "partial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems management, data updates",
+    "usageTip": "Use 'partial' to define exactly what is and isn't affected by an operation.",
+    "commonMistake": "Being vague about what a 'partial' update actually includes.",
+    "collocations": [
+      "partial update",
+      "partial failure",
+      "partial support"
+    ]
+  }
+]

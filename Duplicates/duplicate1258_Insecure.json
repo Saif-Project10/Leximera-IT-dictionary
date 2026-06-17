@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Insecure",
+    "meaning": "Not confident or assured; uncertain; not safe or protected.",
+    "shortMeaning": "not confident; not safe",
+    "example": "She felt insecure about her appearance.",
+    "example2": "The ladder felt insecure, so I didn't climb it.",
+    "example3": "Insecure websites can be hacked easily.",
+    "Explanation": "'Insecure' is an adjective with two primary meanings. First, relating to a person's psychology: lacking self-confidence; anxious and unsure of oneself. Second, relating to objects or systems: not firm or fixed; liable to give way or fail, or not safe from attack or danger. The noun is 'insecurity'. It's a common word describing both emotional vulnerability and physical or digital vulnerability. In the modern context, 'insecure' often describes software, networks, or data that are not properly protected.",
+    "synonyms": [
+      "uncertain",
+      "unconfident",
+      "vulnerable"
+    ],
+    "antonyms": [
+      "confident",
+      "secure",
+      "safe"
+    ],
+    "nounForm": "insecurity",
+    "verbForm": "N/A",
+    "adjectiveForm": "insecure",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotions, safety, computing, structures",
+    "usageTip": "For feelings, use 'insecure about' something. For safety, 'insecure' describes the thing itself.",
+    "commonMistake": "Confusing 'insecure' (not confident) with 'insincere' (not genuine).",
+    "collocations": [
+      "feel insecure",
+      "financially insecure",
+      "insecure attachment"
+    ]
+  },
+  {
+    "word": "Insecure",
+    "meaning": "Not safe or protected from threats",
+    "shortMeaning": "unsafe",
+    "example": "The database uses an insecure connection.",
+    "example2": "We must fix the insecure login form.",
+    "example3": "An insecure network is a big risk for our data.",
+    "Explanation": "The word 'insecure' is a critical term in cybersecurity. It describes any system, connection, or storage that lacks proper protection. If your connection is 'insecure', someone can steal data while it moves across the internet. In IT, finding and fixing 'insecure' parts of your application is the highest priority. Never deploy an 'insecure' service to the public.",
+    "synonyms": [
+      "unsafe",
+      "vulnerable",
+      "unprotected"
+    ],
+    "antonyms": [
+      "secure",
+      "safe",
+      "protected"
+    ],
+    "nounForm": "insecurity",
+    "verbForm": "N/A",
+    "adjectiveForm": "insecure",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, networking, data protection",
+    "usageTip": "Use 'insecure' to flag dangerous security flaws.",
+    "commonMistake": "Ignoring security; 'insecure' is a clear warning sign of failure.",
+    "collocations": [
+      "insecure connection",
+      "insecure network",
+      "insecure data"
+    ]
+  }
+]

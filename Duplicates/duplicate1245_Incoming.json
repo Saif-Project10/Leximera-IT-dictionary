@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Incoming",
+    "meaning": "1. Arriving or coming in. 2. About to come into office.",
+    "shortMeaning": "arriving, about to start",
+    "example": "We are preparing for the incoming storm.",
+    "example2": "The incoming president will take office in January.",
+    "example3": "Check the incoming emails for their response.",
+    "Explanation": "'Incoming' is an adjective describing something that is in the process of arriving or is about to begin. It is often used for messages (incoming call), people (incoming students), weather (incoming tide), or leadership (incoming administration). The word suggests movement towards a point. It is the opposite of 'outgoing'. In military contexts, 'incoming!' is a warning of enemy fire. It's a dynamic word that focuses on the future arrival or start of something, creating a sense of anticipation or preparation.",
+    "synonyms": [
+      "arriving",
+      "approaching",
+      "entering",
+      "new",
+      "next"
+    ],
+    "antonyms": [
+      "outgoing",
+      "departing",
+      "leaving"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "come in",
+    "adjectiveForm": "incoming",
+    "partOfSpeech": "adjective",
+    "commonContext": "Calls, messages, flights, students, officials, threats",
+    "usageTip": "Use 'incoming' before a noun to describe something that is arriving or about to start.",
+    "commonMistake": "Using it as a verb. It is only an adjective.",
+    "collocations": [
+      "incoming call",
+      "incoming mail",
+      "incoming class"
+    ]
+  },
+  {
+    "word": "Incoming",
+    "meaning": "Arriving or coming in",
+    "shortMeaning": "arriving",
+    "example": "Incoming data is processed by the server every few seconds.",
+    "example2": "We have an incoming message from the client support portal.",
+    "example3": "Check the incoming queue for pending requests.",
+    "Explanation": "The word 'incoming' refers to something that is arriving, often data or requests in a system. It is very similar to 'inbound.' You will see it in queues, mailboxes, or data streams. It is a standard, neutral word used to describe the flow of information or tasks that you need to deal with.",
+    "synonyms": [
+      "arriving",
+      "inbound",
+      "entering"
+    ],
+    "antonyms": [
+      "outgoing",
+      "outbound",
+      "departing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "incoming",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, messaging, task management",
+    "usageTip": "Use 'incoming' to describe new information or tasks that have arrived.",
+    "commonMistake": "Confusing 'incoming' (arriving) with 'incoming' as a physical move.",
+    "collocations": [
+      "incoming data",
+      "incoming message",
+      "incoming request"
+    ]
+  }
+]

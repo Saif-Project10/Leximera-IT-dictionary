@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Uncommon",
+    "meaning": "Not occurring often; unusual or rare",
+    "shortMeaning": "rare, unusual",
+    "example": "Snow in this region is uncommon.",
+    "example2": "She has an uncommon talent for languages.",
+    "example3": "It's not uncommon for students to feel nervous before exams.",
+    "Explanation": "'Uncommon' is an adjective that describes something that is not frequent, typical, or ordinary. It sits between 'rare' (very unusual) and 'common'. It can have a neutral or positive connotation, suggesting something is special or noteworthy. The phrase 'not uncommon' is a common double negative that actually means 'fairly common'. This word is used in both everyday and formal language to describe frequency or typicality.",
+    "synonyms": [
+      "rare",
+      "unusual",
+      "infrequent",
+      "exceptional"
+    ],
+    "antonyms": [
+      "common",
+      "usual",
+      "frequent",
+      "ordinary"
+    ],
+    "nounForm": "uncommonness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncommon",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing frequency, talents, events, or characteristics",
+    "usageTip": "Use 'uncommon' for things that are unusual but not extremely rare. 'Not uncommon' means it happens fairly often.",
+    "commonMistake": "Thinking 'not uncommon' means rare. It actually means the opposite—it's quite common.",
+    "collocations": [
+      "uncommon sight",
+      "uncommon sense",
+      "not uncommon"
+    ]
+  },
+  {
+    "word": "Uncommon",
+    "meaning": "Rarely seen or experienced",
+    "shortMeaning": "not common",
+    "example": "It is not uncommon for servers to face spikes.",
+    "example2": "This bug is uncommon in modern releases.",
+    "example3": "The error code is highly uncommon.",
+    "Explanation": "Uncommon describes something that does not happen or appear very often. In technical support, identifying whether a problem is 'common' or 'uncommon' helps prioritize troubleshooting. Uncommon issues are often more complex and may indicate unique environment configurations. They require more in-depth investigation compared to common errors. Recognizing when something is uncommon can help focus resources effectively.",
+    "synonyms": [
+      "rare",
+      "infrequent",
+      "unusual"
+    ],
+    "antonyms": [
+      "common",
+      "frequent",
+      "typical"
+    ],
+    "nounForm": "uncommonness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncommon",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting, error reporting",
+    "usageTip": "Use to distinguish rare events from typical ones.",
+    "commonMistake": "Confusing uncommon with 'impossible'.",
+    "collocations": [
+      "not uncommon",
+      "highly uncommon",
+      "uncommon error"
+    ]
+  },
+  {
+    "word": "Uncommon",
+    "meaning": "Not occurring often or rare",
+    "shortMeaning": "rare",
+    "example": "Errors in this code are quite uncommon.",
+    "example2": "It is not uncommon to see bugs in early versions.",
+    "example3": "Finding a hardware failure is uncommon.",
+    "Explanation": "The word 'uncommon' refers to something that is not frequently found or experienced. In technical settings, it often describes situations or errors that rarely happen. It is important to distinguish it from 'rare', as 'uncommon' often implies something that might happen occasionally but not as a standard event. The term is straightforward and widely used in both technical and casual English. It effectively communicates that an event is outside the regular pattern.",
+    "synonyms": [
+      "rare",
+      "infrequent",
+      "unusual"
+    ],
+    "antonyms": [
+      "common",
+      "frequent",
+      "typical"
+    ],
+    "nounForm": "uncommonness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncommon",
+    "partOfSpeech": "adjective",
+    "commonContext": "General observation or data analysis",
+    "usageTip": "Use it to describe something that does not happen as a routine.",
+    "commonMistake": "Thinking it means 'impossible' instead of just 'rare'.",
+    "collocations": [
+      "uncommon occurrence",
+      "quite uncommon",
+      "relatively uncommon"
+    ]
+  }
+]

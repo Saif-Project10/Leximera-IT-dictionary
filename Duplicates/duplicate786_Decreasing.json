@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Decreasing",
+    "meaning": "Becoming less in size, amount, intensity, or number.",
+    "shortMeaning": "becoming less",
+    "example": "The noise level is decreasing now.",
+    "example2": "We are seeing decreasing support for the policy.",
+    "example3": "The company reported decreasing profits this quarter.",
+    "Explanation": "'Decreasing' is the present participle of the verb 'decrease'. As an adjective, it describes a downward trend—something that is going down over time. It is the opposite of 'increasing'. The word is neutral and factual, commonly used in statistics, science, business reports, and everyday observation to describe any kind of reduction. The noun form is 'decrease'. It is a fundamental concept for describing change.",
+    "synonyms": [
+      "diminishing",
+      "dropping",
+      "falling",
+      "declining"
+    ],
+    "antonyms": [
+      "increasing",
+      "growing",
+      "rising"
+    ],
+    "nounForm": "decrease",
+    "verbForm": "decrease",
+    "adjectiveForm": "decreasing",
+    "partOfSpeech": "adjective, verb (present participle)",
+    "commonContext": "Statistics, economics, volume, temperature",
+    "usageTip": "Use 'decreasing' to describe something that is going down in quantity or intensity.",
+    "commonMistake": "Using 'decreasingly' as an adjective. 'Decreasingly' is an adverb (e.g., 'It is decreasingly important').",
+    "collocations": [
+      "decreasing number",
+      "decreasingly popular",
+      "steadily decreasing",
+      "decreasing rate"
+    ]
+  },
+  {
+    "word": "Decreasing",
+    "meaning": "Becoming smaller in size, number, or intensity",
+    "shortMeaning": "falling",
+    "example": "The latency is decreasing after the fix.",
+    "example2": "Decreasing resources saved us money.",
+    "example3": "We are seeing a decreasing trend in errors.",
+    "Explanation": "Decreasing refers to the action of making or becoming less. The verb is 'decrease', and the noun is 'decrease'. It is a neutral term used in performance analysis and capacity planning. Always ensure the rate of decrease is monitored; if something is decreasing too fast, it could indicate a sudden failure or data loss.",
+    "synonyms": [
+      "reducing",
+      "lowering",
+      "falling"
+    ],
+    "antonyms": [
+      "increasing",
+      "rising",
+      "growing"
+    ],
+    "nounForm": "decrease",
+    "verbForm": "decrease",
+    "adjectiveForm": "decreasing",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Metrics, performance, planning",
+    "usageTip": "Use for any quantity that is going down.",
+    "commonMistake": "Using 'decreasing' for something that just fluctuates.",
+    "collocations": [
+      "decreasing latency",
+      "decreasing trend",
+      "decreasing errors"
+    ]
+  }
+]

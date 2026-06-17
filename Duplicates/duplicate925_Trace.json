@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Trace",
+    "meaning": "1. A very small amount or sign of something. 2. To find, discover, or follow the course of something.",
+    "shortMeaning": "tiny sign or to follow",
+    "example": "There wasn't a trace of evidence left.",
+    "example2": "The detective tried to trace the phone call.",
+    "example3": "She could trace her family history back 300 years.",
+    "Explanation": "'Trace' is both a noun and a verb, with related meanings. As a noun, it means a tiny remnant or indication. As a verb, it means to find the origin or path of something, or to copy by drawing over. This word is versatile, used in science, detective work, art, and genealogy. The context determines its part of speech. It implies careful observation or a minimal presence.",
+    "synonyms": [
+      "hint",
+      "vestige",
+      "track",
+      "find"
+    ],
+    "antonyms": [
+      "abundance",
+      "lot",
+      "lose"
+    ],
+    "nounForm": "trace",
+    "verbForm": "trace",
+    "adjectiveForm": "traceable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Scientific analysis, investigations, drawing, family history",
+    "usageTip": "As a verb, 'trace' often involves following a path or finding a source. As a noun, it means a tiny bit.",
+    "commonMistake": "Using 'trace' as a verb to mean 'draw from memory' instead of 'copy by following lines'.",
+    "collocations": [
+      "trace element",
+      "trace evidence",
+      "trace the source"
+    ]
+  },
+  {
+    "word": "Trace",
+    "meaning": "To find, follow, or track the origin, path, history, or development of something step-by-step",
+    "shortMeaning": "follow the path of",
+    "example": "Developers use logging libraries to trace the path of a user request through multiple microservices.",
+    "example2": "The detective tried to trace the source of the mysterious phone call.",
+    "example3": "You can trace the history of this old code module back to our very first product release in 2020.",
+    "Explanation": "The word 'trace' functions as a verb and a noun. As a verb, it means following a path or track from the beginning to the end, or backwards from the end to the starting point. In the software industry, tracing is a crucial debugging activity where engineers print out execution steps to see exactly where an error happens inside an application timeline. As a noun, it refers to a tiny visible mark, sign, or remnant left behind by something that passed by, or a detailed logs timeline. It is widely used across forensics, archaeology, computer programming, and everyday investigative discussions.",
+    "synonyms": [
+      "track",
+      "follow",
+      "detect",
+      "investigate",
+      "outline"
+    ],
+    "antonyms": [
+      "lose",
+      "ignore",
+      "neglect"
+    ],
+    "nounForm": "trace / tracer / tracing",
+    "verbForm": "trace",
+    "adjectiveForm": "traceable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Debugging software systems, historic research, tracking data origins, and forensic evidence tracking",
+    "usageTip": "In programming, use 'trace' logs when you want a deep, step-by-step breakdown of how data travels through your functions during execution.",
+    "commonMistake": "Confusing the verb 'trace' with 'copy'; while you can trace a drawing by drawing over it, in tech it means following an execution trail.",
+    "collocations": [
+      "trace the source",
+      "execution trace",
+      "traceable path"
+    ]
+  }
+]

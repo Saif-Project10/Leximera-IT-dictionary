@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Confirm",
+    "meaning": "To establish the truth, correctness, or validity of something; to make definite. | To establish the truth or correctness of something previously believed or suspected",
+    "shortMeaning": "verify or make sure",
+    "example": "Please confirm your attendance by Friday.",
+    "example2": "The experiment confirmed the scientist's theory.",
+    "example3": "Can you confirm the time of the flight?",
+    "Explanation": "Confirm is a verb that means to double-check and make something certain or officially true. It often involves providing evidence or giving formal approval. It is stronger than 'check'; it implies that after checking, the information is affirmed as correct. The noun form is 'confirmation.' A common mistake is using it when you simply mean to 'check' or 'look at' something, without the finality of verification. In business and travel, 'confirm' is used for finalizing arrangements. Using it correctly adds reliability and precision to your communication, showing that something has been settled or proven.",
+    "synonyms": [
+      "Affirm",
+      "Prove",
+      "Substantiate",
+      "Validate",
+      "Verify"
+    ],
+    "antonyms": [
+      "Contradict",
+      "Deny",
+      "Disprove",
+      "Refute"
+    ],
+    "nounForm": "confirmation",
+    "verbForm": "confirm",
+    "adjectiveForm": "confirmed",
+    "partOfSpeech": "verb",
+    "commonContext": "Bookings, appointments, theories, and official agreements.",
+    "usageTip": "Use 'confirm' when you need a final, definite answer or proof.",
+    "commonMistake": "Saying 'confirm to' instead of 'confirm that' (e.g., 'Please confirm that you will come').",
+    "collocations": [
+      "confirm a booking",
+      "written confirmation",
+      "confirm suspicions"
+    ]
+  },
+  {
+    "word": "Confirm",
+    "meaning": "To state that something is definitely true or to make an arrangement final",
+    "shortMeaning": "verify or finalize",
+    "example": "Please click the link in your email to confirm your account.",
+    "example2": "The tests will confirm if the bug has been fixed.",
+    "example3": "I would like to confirm our meeting for tomorrow at 2 PM.",
+    "Explanation": "Confirm is about removing doubt. In software, you 'confirm' an action (like deleting a file) so the computer knows you didn't click it by accident. In business, you 'confirm' an appointment to make sure both people are still coming. It is a very common word in digital life—confirming passwords, confirming purchases, and confirming identity. It provides a layer of certainty and security to our actions and communication.",
+    "synonyms": [
+      "verify",
+      "validate",
+      "check",
+      "approve"
+    ],
+    "antonyms": [
+      "deny",
+      "cancel",
+      "reject",
+      "contradict"
+    ],
+    "nounForm": "confirmation",
+    "verbForm": "confirm",
+    "adjectiveForm": "confirmed",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, software pop-ups, and science",
+    "usageTip": "Always 'confirm' important details in writing to avoid misunderstandings later.",
+    "commonMistake": "Using 'confirm' when you mean 'conform' (which means to follow rules).",
+    "collocations": [
+      "confirm an appointment",
+      "confirm a password",
+      "received a confirmation email"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Misinform",
+    "meaning": "To give someone false or inaccurate information",
+    "shortMeaning": "give wrong information",
+    "example": "The article misinformed the public about the health risks.",
+    "example2": "I'm afraid you've been misinformed; the meeting is tomorrow.",
+    "example3": "Spreading rumors is a way to misinform people.",
+    "Explanation": "The verb 'misinform' means to provide information that is not correct. It can be intentional (like disinformation) or unintentional (a mistake). The focus is on the act of conveying the wrong facts, regardless of intent. The noun form is 'misinformation' (false info spread regardless of intent) or 'disinformation' (deliberately false info). It's a key concept in media literacy and critical thinking.",
+    "synonyms": [
+      "mislead",
+      "give false info",
+      "misguide",
+      "deceive (through info)"
+    ],
+    "antonyms": [
+      "inform correctly",
+      "enlighten",
+      "set straight",
+      "educate"
+    ],
+    "nounForm": "misinformation",
+    "verbForm": "misinform",
+    "adjectiveForm": "misinformed",
+    "partOfSpeech": "verb",
+    "commonContext": "Media, gossip, education, customer service",
+    "usageTip": "Often used in the passive voice to correct someone: 'You are misinformed.'",
+    "commonMistake": "Confusing 'misinformation' (unintentional) with 'disinformation' (intentional).",
+    "collocations": [
+      "deliberately misinform",
+      "accidentally misinform",
+      "misinform the public"
+    ]
+  },
+  {
+    "word": "Misinform",
+    "meaning": "To give someone false or inaccurate information",
+    "shortMeaning": "give wrong info",
+    "example": "The outdated manual might misinform the new employees about the safety rules.",
+    "example2": "Malicious actors use social media to misinform the public during an election.",
+    "example3": "I didn't mean to misinform you; I thought the meeting was at 2 PM.",
+    "Explanation": "Misinformation is a major topic in the digital age. In IT, 'misinform' can happen through a technical error—like an old database showing the wrong price—or through a deliberate act by a person. If a system's documentation is not updated, it will misinform the developers who read it, leading to bugs. It is different from 'lying' because the person or system might not know the information is wrong. Ensuring that data is accurate and up-to-date is the best way to prevent misinforming users or colleagues.",
+    "synonyms": [
+      "misguide",
+      "mislead",
+      "give wrong facts"
+    ],
+    "antonyms": [
+      "inform",
+      "enlighten",
+      "educate"
+    ],
+    "nounForm": "misinformation",
+    "verbForm": "misinform",
+    "adjectiveForm": "misinformed",
+    "partOfSpeech": "verb",
+    "commonContext": "Documentation, news, social media, support",
+    "usageTip": "Use 'misinform' when the focus is on the wrong 'facts' being shared.",
+    "commonMistake": "Confusing 'misinform' with 'disinform'; disinformation is false info given on purpose to hurt someone.",
+    "collocations": [
+      "misinform the public",
+      "deliberately misinform",
+      "misinformed decision"
+    ]
+  }
+]

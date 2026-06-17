@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Pre-set",
+    "meaning": "Set or adjusted in advance.",
+    "shortMeaning": "set beforehand",
+    "example": "The oven has a pre-set temperature for baking bread.",
+    "example2": "The camera comes with several pre-set shooting modes.",
+    "example3": "The meeting time was pre-set in everyone's calendar.",
+    "Explanation": "'Pre-set' is an adjective describing something that has been configured or determined before it is used or before an event occurs. It implies convenience and a lack of need for user intervention at the moment of use. Common in technology and appliances, pre-set options simplify operation for common tasks. It can also refer to scheduled events. The hyphen is important to show it is a compound adjective. The verb form would be 'to preset'. It saves time and ensures consistency by using established defaults.",
+    "synonyms": [
+      "preconfigured",
+      "predetermined",
+      "prescheduled",
+      "default"
+    ],
+    "antonyms": [
+      "manual",
+      "customizable",
+      "unset",
+      "adjustable"
+    ],
+    "nounForm": "preset",
+    "verbForm": "preset",
+    "adjectiveForm": "pre-set",
+    "partOfSpeech": "adjective",
+    "commonContext": "Electronics, software, appliances, schedules",
+    "usageTip": "Often used before a noun: 'pre-set values', 'pre-installed' is a related term for software.",
+    "commonMistake": "Forgetting the hyphen, which can cause confusion (e.g., 'preset' vs. 'pre set').",
+    "collocations": [
+      "pre-set options",
+      "pre-set timer",
+      "pre-installed and pre-set",
+      "factory pre-set"
+    ]
+  },
+  {
+    "word": "Pre-set",
+    "meaning": "Set or established in advance.",
+    "shortMeaning": "set earlier",
+    "example": "The thermostat has a pre-set schedule for energy saving.",
+    "example2": "You can use the pre-set filters to quickly organize your files.",
+    "example3": "The password requirements are pre-set by the security policy.",
+    "Explanation": "The word pre-set describes something that has been configured or determined before usage. By providing pre-set values, developers can make systems easier for users who don't want to configure every single detail from scratch. These settings can often be overridden if the user wants custom results. It is a technique for balancing flexibility with ease of use. It helps ensure the system works predictably right out of the box.",
+    "synonyms": [
+      "predetermined",
+      "pre-configured",
+      "default"
+    ],
+    "antonyms": [
+      "custom",
+      "manual",
+      "variable"
+    ],
+    "nounForm": "preset",
+    "verbForm": "pre-set",
+    "adjectiveForm": "pre-set",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Configuration, software, settings",
+    "usageTip": "Use 'pre-set' for settings that the user can choose but are already configured.",
+    "commonMistake": "Confusing 'pre-set' with 'preset' (they are often used interchangeably).",
+    "collocations": [
+      "pre-set values",
+      "pre-set configuration",
+      "use pre-set"
+    ]
+  }
+]

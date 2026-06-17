@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Typed",
+    "meaning": "1. Having a specific data type assigned. 2. Entered using a keyboard.",
+    "shortMeaning": "categorized/written",
+    "example": "The language is strongly typed.",
+    "example2": "He typed the command into the terminal.",
+    "example3": "The variable must be typed during declaration.",
+    "Explanation": "The word 'typed' has two meanings in IT. The first is about assigning data types to variables (e.g., 'statically typed'). The second is the simple act of using a keyboard. The context usually makes it clear which one you mean. The base verb is 'type'. Understanding the distinction is key to professional communication. If you mean programming, say 'strongly typed'; if you mean the keyboard, use 'entered' or 'input'.",
+    "synonyms": [
+      "categorized",
+      "keyboard-entered"
+    ],
+    "antonyms": [
+      "untyped",
+      "vocalized"
+    ],
+    "nounForm": "type",
+    "verbForm": "type",
+    "adjectiveForm": "typed",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Programming and user interaction",
+    "usageTip": "Use 'typed' to describe variables in code or data entered at a keyboard.",
+    "commonMistake": "Confusing it with 'type' (the noun).",
+    "collocations": [
+      "strongly typed",
+      "weakly typed",
+      "typed the command"
+    ]
+  },
+  {
+    "word": "Typed",
+    "meaning": "To have data associated with a specific type, or to input via a keyboard.",
+    "shortMeaning": "data-assigned or keyboard-input",
+    "example": "Python is dynamically typed.",
+    "example2": "He typed the command into the terminal quickly.",
+    "example3": "The variable must be strongly typed for this function.",
+    "Explanation": "The word typed has two main meanings in an IT context. First, it refers to programming languages where every variable has a defined type, like integer or string, which is known as strong or static typing. Second, it refers to the act of using a keyboard to enter characters or commands into a computer system. Context is crucial to distinguish between these two meanings. In a development conversation, it almost always refers to data typing, while in support contexts, it refers to input.",
+    "synonyms": [
+      "entered",
+      "keyed-in",
+      "classified"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "typing",
+    "verbForm": "type",
+    "adjectiveForm": "typed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming and general computer usage",
+    "usageTip": "Clarify by context; data typing refers to structure, typing refers to input.",
+    "commonMistake": "Using the term without clarifying if it means data types or keyboard input.",
+    "collocations": [
+      "strongly typed",
+      "dynamically typed",
+      "typed in"
+    ]
+  }
+]

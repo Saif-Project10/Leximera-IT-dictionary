@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Weak",
+    "meaning": "Lacking the power to perform physically demanding tasks; lacking intensity; not convincing.",
+    "shortMeaning": "not strong; feeble",
+    "example": "He felt weak after being sick. (physically)",
+    "example2": "The argument had several weak points. (not convincing)",
+    "example3": "She spoke in a weak voice. (soft)",
+    "Explanation": "'Weak' is the opposite of 'strong'. It can describe physical strength, character, arguments, signals, or beverages (weak coffee). It generally has a negative connotation, implying a deficiency or vulnerability. The comparative is 'weaker'. It is a basic but important adjective for describing lack of power, force, or effectiveness in a wide range of contexts, from health and engineering to logic and taste.",
+    "synonyms": [
+      "feeble",
+      "frail",
+      "unconvincing",
+      "diluted"
+    ],
+    "antonyms": [
+      "strong",
+      "powerful",
+      "convincing",
+      "robust"
+    ],
+    "nounForm": "weakness",
+    "verbForm": "weaken",
+    "adjectiveForm": "weak",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, arguments, signals, materials, character",
+    "usageTip": "Use 'weak' to describe a lack of physical power, force, evidence, or intensity.",
+    "commonMistake": "Confusing 'weak' (not strong) with 'week' (seven days).",
+    "collocations": [
+      "weak point",
+      "feel weak",
+      "weak signal",
+      "weak password"
+    ]
+  },
+  {
+    "word": "Weak",
+    "meaning": "Lacking strength, effectiveness, or security",
+    "shortMeaning": "not strong",
+    "example": "A weak password can be easily guessed by attackers.",
+    "example2": "The signal strength is too weak to maintain a connection.",
+    "example3": "The team identified a weak spot in the firewall security.",
+    "Explanation": "In IT, weak is a negative descriptor for system components that fail to meet expected standards. A weak password or encryption algorithm is vulnerable to attack. A weak signal results in poor data transfer speeds. It is used to point out areas of fragility or vulnerability in code, infrastructure, or hardware design. Identifying weak points is essential for security auditing and performance tuning. Always seek to strengthen or replace anything labeled as weak.",
+    "synonyms": [
+      "vulnerable",
+      "fragile",
+      "insecure"
+    ],
+    "antonyms": [
+      "strong",
+      "robust",
+      "secure"
+    ],
+    "nounForm": "weakness",
+    "verbForm": "weaken",
+    "adjectiveForm": "weak",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, hardware connectivity",
+    "usageTip": "Use this to describe security gaps or performance issues.",
+    "commonMistake": "Failing to fix a 'weak' component until an actual failure occurs.",
+    "collocations": [
+      "weak password",
+      "weak signal",
+      "weak point"
+    ]
+  },
+  {
+    "word": "Weak",
+    "meaning": "Lacking strength, effectiveness, or security in a system",
+    "shortMeaning": "not strong",
+    "example": "The password you chose is too weak to be secure.",
+    "example2": "A weak signal strength causes the connection to drop frequently.",
+    "example3": "The system has a weak point in its authentication process.",
+    "Explanation": "In IT, 'weak' usually refers to insufficient security, poor signal quality, or lack of logical robustness. A weak password is easy to guess, while a weak signal means low connectivity. In coding, it can refer to types or references that are not strictly managed. Understanding this is essential for identifying vulnerabilities and performance bottlenecks in any system. It generally points to a need for reinforcement or strengthening.",
+    "synonyms": [
+      "vulnerable",
+      "insecure",
+      "feeble"
+    ],
+    "antonyms": [
+      "strong",
+      "secure",
+      "robust"
+    ],
+    "nounForm": "weakness",
+    "verbForm": "weaken",
+    "adjectiveForm": "weak",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, hardware, and networking",
+    "usageTip": "Use to describe system vulnerabilities or poor performance.",
+    "commonMistake": "Ignoring the term when evaluating network connectivity.",
+    "collocations": [
+      "weak password",
+      "weak signal",
+      "weak point"
+    ]
+  }
+]

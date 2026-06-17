@@ -1,0 +1,64 @@
+[
+  {
+    "word": "only",
+    "meaning": "Used to limit something to one person, thing, or group",
+    "shortMeaning": "just one",
+    "example": "This feature is only for premium members.",
+    "example2": "We only support modern web browsers.",
+    "example3": "He is the only developer working on this module.",
+    "Explanation": "The word 'only' acts as a modifier to specify exclusivity or limitation. In programming, it often appears in logic statements to restrict access or functionality. It is important to place it correctly in a sentence to avoid changing the intended meaning. While simple, it is one of the most powerful words for setting boundaries in technical documentation. It emphasizes that no others meet the criteria.",
+    "synonyms": [
+      "exclusively",
+      "solely",
+      "just"
+    ],
+    "antonyms": [
+      "also",
+      "inclusive",
+      "broadly"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "only",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Requirements, access control, logic",
+    "usageTip": "Use 'only' to clarify restrictions or exclusivity.",
+    "commonMistake": "Misplacing 'only' in a sentence leading to ambiguity.",
+    "collocations": [
+      "only available",
+      "only for",
+      "the only one"
+    ]
+  },
+  {
+    "word": "only",
+    "meaning": "And no one or nothing else; exclusively",
+    "shortMeaning": "exclusively",
+    "example": "This setting is only for administrators.",
+    "example2": "He is the only person who has the password.",
+    "example3": "I only want to save this one file.",
+    "Explanation": "The word 'only' is used to indicate exclusivity or a single instance. It means there is nothing else or no one else involved in the described situation. In programming and IT, it is often used to restrict access or define a specific scope for a command. It is a very versatile word and can act as an adverb, adjective, or conjunction depending on the sentence structure. It is essential for defining limits or rules clearly.",
+    "synonyms": [
+      "solely",
+      "exclusively",
+      "just"
+    ],
+    "antonyms": [
+      "many",
+      "multiple",
+      "inclusive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "only",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Rules, access control, specifications",
+    "usageTip": "Ensure you place 'only' close to the word it restricts to avoid ambiguity.",
+    "commonMistake": "Misplacing 'only' in a sentence, which changes the meaning (e.g., 'I only hit him' vs 'Only I hit him').",
+    "collocations": [
+      "read only",
+      "only available",
+      "only option"
+    ]
+  }
+]

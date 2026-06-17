@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Shallow",
+    "meaning": "Of little depth; not showing serious or careful thought.",
+    "shortMeaning": "not deep; superficial",
+    "example": "The children played in the shallow end of the pool.",
+    "example2": "He was criticized for his shallow analysis of the problem.",
+    "example3": "The river is quite shallow here, so we can wade across.",
+    "Explanation": "'Shallow' is an adjective with literal and figurative meanings. Literally, it describes water, containers, or spaces with little depth. Figuratively, it describes people, ideas, or conversations that lack depth, seriousness, or intellectual substance. The figurative use is often derogatory. The opposite, 'deep', is highly valued in both physical and intellectual contexts. The word is straightforward and common in everyday descriptions of both geography and character. The noun form is 'shallowness'.",
+    "synonyms": [
+      "superficial",
+      "slight",
+      "skin-deep",
+      "empty"
+    ],
+    "antonyms": [
+      "deep",
+      "profound",
+      "thoughtful"
+    ],
+    "nounForm": "shallowness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shallow",
+    "partOfSpeech": "adjective",
+    "commonContext": "Water, personality, analysis, breathing",
+    "usageTip": "Often used pejoratively to criticize a lack of intellectual or emotional depth.",
+    "commonMistake": "Confusing 'shallow' (not deep) with 'hollow' (empty inside).",
+    "collocations": [
+      "shallow water",
+      "shallow breathing",
+      "shallow person",
+      "shallow dish"
+    ]
+  },
+  {
+    "word": "Shallow",
+    "meaning": "Lacking depth, or superficial",
+    "shortMeaning": "not deep",
+    "example": "The analysis was too shallow for our needs.",
+    "example2": "The learning curve is shallow.",
+    "example3": "We need to go deeper; this explanation is too shallow.",
+    "Explanation": "The word 'shallow' is used to describe something that lacks depth, either physically or metaphorically. In tech and professional work, a 'shallow' analysis means it only looks at the surface and misses important, complex details. A 'shallow' learning curve is actually a good thing, as it means something is easy to learn. Context is everything here! Use this word to describe when more effort or detail is needed, or conversely, when something is simple and easy to pick up.",
+    "synonyms": [
+      "superficial",
+      "surface-level"
+    ],
+    "antonyms": [
+      "deep",
+      "profound",
+      "thorough"
+    ],
+    "nounForm": "shallowness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shallow",
+    "partOfSpeech": "adjective",
+    "commonContext": "Analysis, learning, design",
+    "usageTip": "Use when criticizing the lack of depth in work.",
+    "commonMistake": "Assuming 'shallow' is always negative; a shallow learning curve is positive.",
+    "collocations": [
+      "shallow analysis",
+      "shallow learning curve",
+      "shallow understanding"
+    ]
+  },
+  {
+    "word": "Shallow",
+    "meaning": "Lacking depth, either physically or in terms of complexity or detail.",
+    "shortMeaning": "not deep",
+    "example": "The storage depth for this array is very shallow.",
+    "example2": "The initial investigation was quite shallow.",
+    "example3": "This shallow hierarchy makes the navigation easy.",
+    "Explanation": "The word 'shallow' means not deep. In physical terms, it can describe disk space or a small data structure depth. Figuratively, it describes a 'shallow' analysis or a 'shallow' object hierarchy, where the level of complexity or detail is minimal. It is an adjective. The noun form is 'shallowness'. In programming, a 'shallow copy' is a very common term, meaning a copy that does not copy internal sub-objects. Use the term to point out a lack of depth where complexity is expected.",
+    "synonyms": [
+      "superficial",
+      "flat",
+      "not deep"
+    ],
+    "antonyms": [
+      "deep",
+      "profound",
+      "complex"
+    ],
+    "nounForm": "shallowness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shallow",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data structure, analysis, storage",
+    "usageTip": "Use 'shallow' to describe lack of depth or detail.",
+    "commonMistake": "Confusing 'shallow' (simple) with 'easy'.",
+    "collocations": [
+      "shallow hierarchy",
+      "shallow copy",
+      "shallow analysis"
+    ]
+  }
+]

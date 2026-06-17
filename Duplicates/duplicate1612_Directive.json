@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Directive",
+    "meaning": "An official instruction or a command that tells someone or something what to do",
+    "shortMeaning": "official instruction",
+    "example": "The manager issued a new directive regarding remote work.",
+    "example2": "In programming, a directive tells the compiler how to process the code.",
+    "example3": "The government issued a safety directive for all airlines.",
+    "Explanation": "A directive is a formal order or instruction. In a business context, it is a high-level command from management. In computer science, specifically in programming (like C++ or Angular), a directive is a special piece of code that gives instructions to the compiler or the framework. For instance, it might tell the software to include a certain library or change the way a web page looks. Directives are meant to be followed strictly. They provide a way to control behavior without changing the core logic of a system.",
+    "synonyms": [
+      "instruction",
+      "command",
+      "order",
+      "guideline"
+    ],
+    "antonyms": [
+      "suggestion",
+      "request"
+    ],
+    "nounForm": "directive",
+    "verbForm": "direct",
+    "adjectiveForm": "directive",
+    "partOfSpeech": "noun",
+    "commonContext": "Business management and software development",
+    "usageTip": "Use this word when the instruction is official and mandatory.",
+    "commonMistake": "Confusing a 'directive' (an order) with a 'direction' (a path or way).",
+    "collocations": [
+      "management directive",
+      "compiler directive",
+      "issue a directive"
+    ]
+  },
+  {
+    "word": "Directive",
+    "meaning": "An official instruction or order given by someone in authority",
+    "shortMeaning": "official instruction",
+    "example": "The manager issued a new directive regarding remote work.",
+    "example2": "The team must follow the directive given by the CEO.",
+    "example3": "They received a directive to improve security protocols.",
+    "Explanation": "A 'directive' is a formal or authoritative command meant to guide behavior or procedure. It is often used in corporate, government, or organizational settings to clarify rules or expectations. Unlike general advice, a directive is meant to be binding or strictly followed. It is a noun, though it can sometimes act as an adjective describing something meant to direct. It is essential for understanding policy implementation.",
+    "synonyms": [
+      "order",
+      "command",
+      "instruction"
+    ],
+    "antonyms": [
+      "suggestion",
+      "advice",
+      "request"
+    ],
+    "nounForm": "directive",
+    "verbForm": "N/A",
+    "adjectiveForm": "directive",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Workplace, government, policy",
+    "usageTip": "Use 'directive' when referring to formal instructions from leadership.",
+    "commonMistake": "Treating it as a verb; it is primarily a noun.",
+    "collocations": [
+      "issue a directive",
+      "follow a directive",
+      "new directive"
+    ]
+  }
+]

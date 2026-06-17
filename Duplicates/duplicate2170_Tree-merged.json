@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Tree-merged",
+    "meaning": "Combined data from different tree structures",
+    "shortMeaning": "combined tree data",
+    "example": "The configuration files were tree-merged to create a unified settings object.",
+    "example2": "We tree-merged the two directory hierarchies.",
+    "example3": "The algorithm handles tree-merged data sets efficiently.",
+    "Explanation": "Tree-merged refers to the process of combining or integrating two or more tree-structured data sets into one. This is common when dealing with version control (like merging branches in Git) or combining complex configuration objects. It requires matching nodes and handling conflicts where the same path might exist in both trees. It is a more complex task than merging flat lists because the relationship between parent and child must be maintained correctly during the merge.",
+    "synonyms": [
+      "combined",
+      "integrated",
+      "unified"
+    ],
+    "antonyms": [
+      "separated",
+      "split"
+    ],
+    "nounForm": "tree-merging",
+    "verbForm": "tree-merge",
+    "adjectiveForm": "tree-merged",
+    "partOfSpeech": "verb",
+    "commonContext": "Data integration, version control",
+    "usageTip": "Use this when describing the integration of hierarchical data.",
+    "commonMistake": "Assuming merging trees is the same as merging simple lists.",
+    "collocations": [
+      "tree-merged data",
+      "tree-merged hierarchy",
+      "efficiently tree-merged"
+    ]
+  },
+  {
+    "word": "Tree-merged",
+    "meaning": "Combining two or more hierarchical tree structures into one",
+    "shortMeaning": "combined hierarchies",
+    "example": "The system allows tree-merged data sets.",
+    "example2": "He tree-merged the configurations to simplify the setup.",
+    "example3": "The tree-merged output is easier to analyze.",
+    "Explanation": "The term 'tree-merged' describes the action or result of joining two separate hierarchical structures (trees) into a single, unified tree. This is common in database integration, Git version control (merging branches), or data cleaning where similar structures need to be combined. It requires specific logic to ensure the hierarchy remains logical and valid. It is a technical compound adjective.",
+    "synonyms": [
+      "combined",
+      "integrated",
+      "unified"
+    ],
+    "antonyms": [
+      "split",
+      "separated"
+    ],
+    "nounForm": "tree-merging",
+    "verbForm": "tree-merge",
+    "adjectiveForm": "tree-merged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Git, database design, configuration management",
+    "usageTip": "Use 'tree-merged' when talking about combining two hierarchical structures.",
+    "commonMistake": "Using 'merged' without considering the hierarchy (tree-merging is complex).",
+    "collocations": [
+      "tree-merged data",
+      "tree-merged output",
+      "successfully tree-merged"
+    ]
+  }
+]

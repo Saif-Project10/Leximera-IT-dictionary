@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Occupied",
+    "meaning": "1. Being used by someone; not free. 2. Busy and focused on an activity.",
+    "shortMeaning": "in use; busy",
+    "example": "The bathroom is occupied. (Meaning 1)",
+    "example2": "She was occupied with her work and didn't hear the phone. (Meaning 2)",
+    "example3": "The enemy-occupied territory was finally liberated.",
+    "Explanation": "'Occupied' is the adjective form of the verb 'occupy'. Its main meanings relate to use and engagement. A seat, room, or phone line is occupied if someone is using it. A person is occupied if they are busy with a task. In a military context, it means controlled by an enemy force. The word implies that space, time, or attention is taken.",
+    "synonyms": [
+      "in use, engaged, busy, taken, full"
+    ],
+    "antonyms": [
+      "vacant, empty, free, idle, unoccupied"
+    ],
+    "nounForm": "occupation",
+    "verbForm": "occupy",
+    "adjectiveForm": "occupied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Restrooms, seats, people's time, military zones",
+    "usageTip": "Use 'occupied' for physical spaces (a room) or mental states (a busy mind).",
+    "commonMistake": "Using 'busy' for rooms; 'occupied' is better for physical spaces like bathrooms.",
+    "collocations": [
+      "fully occupied",
+      "occupied territory",
+      "mentally occupied"
+    ]
+  },
+  {
+    "word": "Occupied",
+    "meaning": "Being used or filled by someone or something",
+    "shortMeaning": "in use",
+    "example": "The CPU is currently occupied with a heavy process.",
+    "example2": "The memory slot is occupied by a 16GB stick.",
+    "example3": "The resource is occupied and unavailable.",
+    "Explanation": "The word 'occupied' means that a resource is in use and cannot be shared or used by something else. In computing, this often refers to hardware slots, memory addresses, or CPU cycles. If a system resource is 'occupied', any other process trying to use it must wait until it is freed. It is a core concept in multi-threaded programming and resource management, where you must ensure processes do not collide when competing for the same 'occupied' resources.",
+    "synonyms": [
+      "in use",
+      "busy",
+      "taken"
+    ],
+    "antonyms": [
+      "free",
+      "empty",
+      "available"
+    ],
+    "nounForm": "occupancy",
+    "verbForm": "occupy",
+    "adjectiveForm": "occupied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware and resource management",
+    "usageTip": "Use 'occupied' when a hardware or software resource is busy.",
+    "commonMistake": "Confusing 'occupied' with 'locked' (locked implies access restriction).",
+    "collocations": [
+      "resource occupied",
+      "occupied memory"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Pass by value",
+    "meaning": "A method of passing data to a function where the function receives a completely separate copy of the data",
+    "shortMeaning": "passing a data copy",
+    "example": "Integers are usually passed by value in most programming languages.",
+    "example2": "If you pass by value, the original variable remains unchanged even if the function modifies the copy.",
+    "example3": "Pass by value is safer because it prevents accidental changes to the original data.",
+    "Explanation": "Pass by value is a common way to send information to functions. When a variable is passed by value, the computer creates a brand new copy of that data in a different memory location. The function works only on that copy. Once the function finishes, the copy is destroyed, and the original variable remains exactly as it was. This provides 'isolation', making the code easier to understand and debug because you don't have to worry about functions changing your variables behind your back. It is the default for simple data types like numbers and booleans.",
+    "synonyms": [
+      "call by value"
+    ],
+    "antonyms": [
+      "pass by reference"
+    ],
+    "nounForm": "pass by value",
+    "verbForm": "pass by value",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / verb phrase",
+    "commonContext": "Programming and function design",
+    "usageTip": "Use pass by value when you want to ensure that your original data cannot be modified by a function.",
+    "commonMistake": "Passing very large datasets by value, which can make the program slow due to heavy copying.",
+    "collocations": [
+      "pass by value default",
+      "pass argument by value",
+      "pass by value semantics"
+    ]
+  },
+  {
+    "word": "Pass by value",
+    "meaning": "A method of passing data to a function where the function gets a completely new copy of the variable's value",
+    "shortMeaning": "pass a copy of data",
+    "example": "If you pass by value, the original variable remains unchanged even if the function modifies the data.",
+    "example2": "In many languages, simple types like integers are usually passed by value.",
+    "example3": "Pass by value is safer because it prevents accidental changes to the original data.",
+    "Explanation": "Using the notebook example again, 'pass by value' is like taking a photocopy of a page and giving it to someone. They can draw or write whatever they want on the photocopy, but your original notebook at home stays exactly the same. This is safe because your original data is protected. However, it can be slow if the 'page' is actually a massive book because the computer has to spend time making a perfect copy of everything.",
+    "synonyms": [
+      "call by value",
+      "copy passing"
+    ],
+    "antonyms": [
+      "pass by reference"
+    ],
+    "nounForm": "pass-by-value",
+    "verbForm": "pass by value",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Computer programming and function calls",
+    "usageTip": "Use 'pass by value' when you want to ensure the function does not mess up your original data.",
+    "commonMistake": "Assuming that modifying a variable inside a function will always change it globally.",
+    "collocations": [
+      "pass by value in Java",
+      "pass an integer by value",
+      "value vs reference"
+    ]
+  }
+]

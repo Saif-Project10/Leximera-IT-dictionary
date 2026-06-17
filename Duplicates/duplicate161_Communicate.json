@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Communicate",
+    "meaning": "To share or exchange information, news, ideas, or feelings.",
+    "shortMeaning": "share information",
+    "example": "It is important to communicate clearly in a team.",
+    "example2": "Animals communicate through sounds and movements.",
+    "example3": "The manager communicated the new policy to the staff.",
+    "Explanation": "Communicate is the act of conveying meaning from one person or group to another. This can happen through speech, writing, gestures, or behavior. Effective communication is key in all aspects of life, from personal relationships to business. The word emphasizes the process of making something known or understood. A common mistake is forgetting that communication is a two-way process involving both sending and receiving messages. Also, some confuse it with just 'talking,' but communication can be non-verbal. The noun is 'communication,' which is a broader term for the entire system or process.",
+    "synonyms": [
+      "convey",
+      "express",
+      "transmit",
+      "inform"
+    ],
+    "antonyms": [
+      "withhold",
+      "conceal",
+      "suppress"
+    ],
+    "nounForm": "communication",
+    "verbForm": "communicate",
+    "adjectiveForm": "communicative",
+    "partOfSpeech": "verb",
+    "commonContext": "Conversations, business, relationships, and technology.",
+    "usageTip": "Use 'communicate with' someone, not 'communicate to' someone for two-way interaction.",
+    "commonMistake": "Using 'communicate' to mean only speaking, ignoring listening and non-verbal cues.",
+    "collocations": [
+      "communicate effectively",
+      "difficulty communicating",
+      "communicate a message"
+    ]
+  },
+  {
+    "word": "Communicate",
+    "meaning": "To share or exchange information, ideas, or data",
+    "shortMeaning": "share information",
+    "example": "The two devices need to communicate with each other over Wi-Fi.",
+    "example2": "A good developer must be able to communicate complex ideas to non-tech people.",
+    "example3": "The error message fails to communicate what actually went wrong.",
+    "Explanation": "Communication in IT happens in two ways: between people and between machines. Human communication involves explaining technical concepts, writing documentation, and working in teams. Machine communication involves 'protocols' where two computers send data back and forth. If two systems cannot 'communicate', it usually means there is a network problem or a mismatch in their 'language' (data format). Clear communication is the key to successful software projects and stable networks.",
+    "synonyms": [
+      "interact",
+      "exchange",
+      "convey"
+    ],
+    "antonyms": [
+      "isolate",
+      "ignore",
+      "withhold"
+    ],
+    "nounForm": "communication",
+    "verbForm": "communicate",
+    "adjectiveForm": "communicative",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking and project management",
+    "usageTip": "Use clear protocols like JSON or XML to help different systems communicate easily.",
+    "commonMistake": "Assuming machines will communicate automatically without a shared protocol.",
+    "collocations": [
+      "communicate clearly",
+      "wireless communication",
+      "direct communication"
+    ]
+  }
+]

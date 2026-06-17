@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-orchestrated",
+    "meaning": "Not carefully planned or arranged to achieve a particular effect.",
+    "shortMeaning": "not planned",
+    "example": "The protest was a spontaneous, non-orchestrated event.",
+    "example2": "The meeting felt natural and non-orchestrated.",
+    "example3": "Her reaction was genuine and non-orchestrated.",
+    "Explanation": "'Non-orchestrated' describes actions, events, or reactions that happen naturally without prior planning or staging. It is often used to emphasize authenticity, spontaneity, or a lack of manipulation. This word is useful in contexts like social events, artistic performances, or personal interactions where genuineness is valued. It contrasts with 'orchestrated', which implies a controlled and planned effort.",
+    "synonyms": [
+      "spontaneous",
+      "unplanned",
+      "genuine",
+      "unrehearsed"
+    ],
+    "antonyms": [
+      "orchestrated",
+      "planned",
+      "staged",
+      "contrived"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-orchestrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social events, discussions, authentic behavior",
+    "usageTip": "Use 'non-orchestrated' to emphasize that something happened naturally, without a hidden plan.",
+    "commonMistake": "Using it to mean 'chaotic'; it means 'unplanned', not necessarily disorganized.",
+    "collocations": [
+      "non-orchestrated response",
+      "non-orchestrated event",
+      "non-orchestrated meeting"
+    ]
+  },
+  {
+    "word": "Non-orchestrated",
+    "meaning": "Not managed or coordinated by a central automated system",
+    "shortMeaning": "not managed centrally",
+    "example": "The services are running in a non-orchestrated manner.",
+    "example2": "We need to migrate from a non-orchestrated to an orchestrated setup.",
+    "example3": "This is a non-orchestrated deployment of manual scripts.",
+    "Explanation": "The term 'non-orchestrated' means that a system or set of tasks is not being controlled by an automated orchestrator (like Kubernetes or a workflow engine). Each task or service likely runs independently, or it is managed manually by engineers. While simpler for tiny projects, 'non-orchestrated' systems become difficult to maintain at scale because there is no central mechanism to ensure they all work together or recover from failures automatically.",
+    "synonyms": [
+      "manual",
+      "unmanaged",
+      "decentralized"
+    ],
+    "antonyms": [
+      "orchestrated",
+      "automated",
+      "managed"
+    ],
+    "nounForm": "orchestration",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-orchestrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, system management, deployment",
+    "usageTip": "Use to describe manual or independent service execution.",
+    "commonMistake": "Thinking non-orchestrated is 'better'; it usually implies more manual work.",
+    "collocations": [
+      "non-orchestrated deployment",
+      "non-orchestrated services",
+      "remains non-orchestrated"
+    ]
+  }
+]

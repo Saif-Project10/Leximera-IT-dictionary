@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Teacher-student",
+    "meaning": "A relationship or interaction based on instruction and learning.",
+    "shortMeaning": "educational",
+    "example": "The teacher-student dynamic works well in mentorship programs.",
+    "example2": "We modeled the interaction on a teacher-student relationship.",
+    "example3": "The online portal supports a teacher-student flow of information.",
+    "Explanation": "The term 'teacher-student' describes a relationship defined by one party providing knowledge and the other party receiving it. In IT, this is used for mentorship systems, educational apps, or even in AI architectures (like 'knowledge distillation', where a large 'teacher' model trains a smaller 'student' model). It emphasizes the transfer of expertise and the structured growth of the learner.",
+    "synonyms": [
+      "mentor-mentee",
+      "instructional"
+    ],
+    "antonyms": [
+      "peer-to-peer",
+      "collaborative"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "teacher-student",
+    "partOfSpeech": "adjective",
+    "commonContext": "Education, AI modeling, mentorship",
+    "usageTip": "Use 'teacher-student' for structured learning interactions.",
+    "commonMistake": "Assuming all IT interactions must be peer-to-peer.",
+    "collocations": [
+      "teacher-student relationship",
+      "teacher-student model",
+      "teacher-student dynamic"
+    ]
+  },
+  {
+    "word": "Teacher-student",
+    "meaning": "A relationship or interaction based on instruction and learning",
+    "shortMeaning": "mentor-mentee",
+    "example": "The teacher-student dynamic is important in IT training.",
+    "example2": "We established a teacher-student model for knowledge transfer.",
+    "example3": "He values the teacher-student interaction in his coding classes.",
+    "Explanation": "The phrase 'teacher-student' describes a relationship focused on one person learning from another's expertise. In the IT industry, this is often seen in mentorship, pair programming, or corporate training programs. It fosters growth and ensures that technical skills are shared effectively within a team. It is essential for on-boarding new developers or explaining complex systems. This relationship is built on guidance, feedback, and mutual respect.",
+    "synonyms": [
+      "mentor-mentee",
+      "instructor-trainee",
+      "coach-apprentice"
+    ],
+    "antonyms": [
+      "independent",
+      "peer-to-peer"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "teacher-student",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Training, mentorship, learning",
+    "usageTip": "Use to define the relationship of learning.",
+    "commonMistake": "Using it to describe equal peer relationships.",
+    "collocations": [
+      "teacher-student relationship",
+      "teacher-student model",
+      "teacher-student interaction"
+    ]
+  }
+]

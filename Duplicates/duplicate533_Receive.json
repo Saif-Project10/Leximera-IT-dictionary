@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Receive",
+    "meaning": "To be given, presented with, or paid something; to accept something sent or communicated.",
+    "shortMeaning": "be given or accept",
+    "example": "Did you receive my email?",
+    "example2": "She will receive an award for her charity work.",
+    "example3": "The radio cannot receive signals in this tunnel.",
+    "Explanation": "Receive is a common verb meaning to get or accept something that is given, sent, or transmitted. The subject is the passive recipient of the action. It covers a wide range: receiving a gift, a message, a visitor, medical treatment, or a broadcast signal. The noun is 'receipt' (for goods) or 'reception' (for signals or welcome). A common mistake is spelling it as 'recieve' (the correct order is 'i' before 'e' except after 'c'). This word is fundamental for communication, transactions, and interactions, indicating the act of taking in something offered or sent.",
+    "synonyms": [
+      "get",
+      "obtain",
+      "acquire",
+      "accept",
+      "collect"
+    ],
+    "antonyms": [
+      "give",
+      "send",
+      "transmit",
+      "donate"
+    ],
+    "nounForm": "receipt, reception",
+    "verbForm": "receive",
+    "adjectiveForm": "received",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, awards, hospitality, and technology.",
+    "usageTip": "Use 'receive' when you are the one getting something. Use 'accept' when you agree to take it (you can receive something without accepting it, like a gift you don't want).",
+    "commonMistake": "Misspelling as 'recieve.' Remember: 'i before e, except after c' – here it's after c, so 'ei.'",
+    "collocations": [
+      "receive support",
+      "receive treatment",
+      "warmly receive"
+    ]
+  },
+  {
+    "word": "Receive",
+    "meaning": "To get, accept, or take something that is sent or given",
+    "shortMeaning": "get something",
+    "example": "The client computer will receive a data packet from the server.",
+    "example2": "Did you receive the confirmation email for your account setup?",
+    "example3": "The system is configured to receive automatic updates every midnight.",
+    "Explanation": "The word 'receive' is a fundamental term in daily communication and computer networking. In technology, it describes a device or system taking in data, signals, or inputs from an external source. It is the exact opposite of transmitting or sending. The noun form is 'receiver' or 'reception'. It is important to remember the grammar rule 'i before e except after c' when spelling this word.",
+    "synonyms": [
+      "get",
+      "accept",
+      "obtain"
+    ],
+    "antonyms": [
+      "send",
+      "transmit",
+      "give"
+    ],
+    "nounForm": "receiver",
+    "verbForm": "receive",
+    "adjectiveForm": "receivable",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking, email communication, and data transmission",
+    "usageTip": "Use 'receive' whenever a system or person takes in incoming data or items.",
+    "commonMistake": "Spelling it as 'recieve' by putting the 'i' before the 'e'.",
+    "collocations": [
+      "receive data",
+      "receive an email",
+      "receive a signal"
+    ]
+  }
+]

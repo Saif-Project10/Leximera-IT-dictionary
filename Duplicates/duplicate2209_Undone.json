@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Undone",
+    "meaning": "Not completed or brought back to a previous state",
+    "shortMeaning": "not finished or reversed",
+    "example": "The change cannot be undone after the commit.",
+    "example2": "Much work remains undone for the release.",
+    "example3": "The error was undone by the rollback script.",
+    "Explanation": "Undone can mean 'not finished' (incomplete) or 'reversed' (returning to a previous state). In IT, the ability to 'undo' a mistake is a critical safety feature of software (like Ctrl+Z or rollbacks). Understanding whether a task is 'undone' (unfinished) or needs to be 'undone' (reversed) is essential for communication in a development team. Always use version control to ensure you can safely undo errors.",
+    "synonyms": [
+      "incomplete",
+      "reversed",
+      "unfilled"
+    ],
+    "antonyms": [
+      "completed",
+      "done",
+      "finished"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "undo",
+    "adjectiveForm": "undone",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Version control, development, error recovery",
+    "usageTip": "Use for unfinished work or reversed actions.",
+    "commonMistake": "Assuming all changes can be easily undone.",
+    "collocations": [
+      "left undone",
+      "cannot be undone",
+      "work is undone"
+    ]
+  },
+  {
+    "word": "Undone",
+    "meaning": "Not finished or reversed",
+    "shortMeaning": "incomplete",
+    "example": "There is still much work left undone.",
+    "example2": "The last command can be easily undone.",
+    "example3": "He left the configuration undone.",
+    "Explanation": "The word 'undone' means incomplete or reversed. It is very common in software applications that provide an 'undo' button. It means the action or task has not been completed or has been reverted to a previous state. It is a very simple and clear term used by both developers and users. It serves well for status reporting on tasks or for describing functional features of an interface.",
+    "synonyms": [
+      "incomplete",
+      "finished",
+      "reversed"
+    ],
+    "antonyms": [
+      "done",
+      "completed",
+      "finalized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "undo",
+    "adjectiveForm": "undone",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Task management and UI actions",
+    "usageTip": "Use to describe incomplete tasks or reversed actions.",
+    "commonMistake": "Using 'undone' to mean 'failed'.",
+    "collocations": [
+      "work left undone",
+      "action was undone",
+      "remain undone"
+    ]
+  }
+]

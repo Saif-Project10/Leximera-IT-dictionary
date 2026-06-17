@@ -1,0 +1,59 @@
+[
+  {
+    "word": "TensorFlow",
+    "meaning": "A free, open-source software library for machine learning and artificial intelligence, developed by Google.",
+    "shortMeaning": "Google's ML library",
+    "example": "The research team built their neural network model using TensorFlow.",
+    "example2": "TensorFlow's ecosystem includes tools for deployment on mobile and edge devices.",
+    "example3": "TensorFlow 2.0 made the API more user-friendly with eager execution by default.",
+    "Explanation": "TensorFlow is one of the most popular frameworks for building and training machine learning models, especially deep learning models. Its name comes from the 'tensors' (multi-dimensional arrays) that flow through the computational graph it defines. It provides a comprehensive, flexible ecosystem of tools, libraries, and community resources. It can run on CPUs, GPUs, and specialized TPUs (Tensor Processing Units). While it has a steeper learning curve than some newer frameworks, its power and scalability make it an industry standard. Knowledge of TensorFlow is a highly valuable skill in data science and AI engineering roles.",
+    "synonyms": [
+      "TF"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "TensorFlow",
+    "verbForm": "N/A",
+    "adjectiveForm": "TensorFlow-based",
+    "partOfSpeech": "noun (proper noun)",
+    "commonContext": "Machine learning, deep learning, artificial intelligence research.",
+    "usageTip": "Often abbreviated as 'TF' in conversation and code. Refer to models built with it as 'TensorFlow models.'",
+    "commonMistake": "Confusing it with PyTorch; they are competing frameworks with different design philosophies (static vs. dynamic graphs historically).",
+    "collocations": [
+      "TensorFlow model",
+      "TensorFlow library",
+      "using TensorFlow"
+    ]
+  },
+  {
+    "word": "TensorFlow",
+    "meaning": "An open-source software library for machine learning and artificial intelligence developed by Google",
+    "shortMeaning": "AI/ML software library",
+    "example": "We are building our AI model using TensorFlow.",
+    "example2": "He learned how to use TensorFlow for deep learning.",
+    "example3": "TensorFlow is very popular among AI researchers.",
+    "Explanation": "The word 'TensorFlow' is a proper noun, specifically the name of a very popular library created by Google. It provides tools for developers to create, train, and deploy machine learning models. It is fundamental to modern AI development. It is not an adjective or a verb, but a specific brand/tool name. People often say they are 'using TensorFlow' or 'TensorFlow-based'. It is widely used in tech industry job requirements and AI projects.",
+    "synonyms": [
+      "AI framework",
+      "ML library",
+      "deep learning tool"
+    ],
+    "antonyms": [
+      "N/A",
+      "non-AI tool"
+    ],
+    "nounForm": "TensorFlow",
+    "verbForm": "N/A",
+    "adjectiveForm": "TensorFlow-based",
+    "partOfSpeech": "noun",
+    "commonContext": "AI, machine learning, deep learning, software development",
+    "usageTip": "Use 'TensorFlow' as the name of the tool, often capitalized as written.",
+    "commonMistake": "Misspelling it as 'Tensorflow' (case sensitivity matters in code).",
+    "collocations": [
+      "TensorFlow library",
+      "TensorFlow model",
+      "TensorFlow framework"
+    ]
+  }
+]

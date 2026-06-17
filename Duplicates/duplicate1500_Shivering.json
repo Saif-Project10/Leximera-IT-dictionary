@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Shivering",
+    "meaning": "Shaking slightly and uncontrollably as a result of being cold, frightened, or excited.",
+    "shortMeaning": "trembling from cold or fear",
+    "example": "He came in from the snow, shivering and wet.",
+    "example2": "She was shivering with anticipation before her performance.",
+    "example3": "A shivering fit overtook him as the fever set in.",
+    "Explanation": "'Shivering' is the present participle of the verb 'shiver', used as an adjective or in continuous tenses. It specifically refers to the rapid, slight trembling of the body, most often caused by cold but also by strong emotions like fear or excitement. It is an involuntary physical reaction. The word is very descriptive and common in narratives to convey a character's physical state and, by extension, their emotional or environmental condition. The noun form is 'shiver'.",
+    "synonyms": [
+      "trembling",
+      "quaking",
+      "shuddering",
+      "chattering (teeth)"
+    ],
+    "antonyms": [
+      "steady",
+      "warm",
+      "calm"
+    ],
+    "nounForm": "shiver",
+    "verbForm": "shiver",
+    "adjectiveForm": "shivering",
+    "partOfSpeech": "adjective, verb (present participle)",
+    "commonContext": "Cold weather, fear, illness, excitement",
+    "usageTip": "Often used with 'with': shivering with cold, shivering with fear.",
+    "commonMistake": "Confusing 'shivering' (from cold/fear) with 'quivering' (which can be from any emotion and is often finer).",
+    "collocations": [
+      "shivering cold",
+      "shivering uncontrollably",
+      "left shivering",
+      "start shivering"
+    ]
+  },
+  {
+    "word": "Shivering",
+    "meaning": "A slight, involuntary shaking or flickering.",
+    "shortMeaning": "vibrating",
+    "example": "The low-quality video showed a shivering effect.",
+    "example2": "His mouse hand was shivering during the intense game.",
+    "example3": "The screen showed a shivering motion due to interference.",
+    "Explanation": "While 'shivering' primarily relates to cold or fear in humans, in technical terms, it can describe small, involuntary oscillations or flickering in signals, images, or mechanical parts. It is generally an undesirable state caused by hardware interference, signal loss, or rendering errors. It describes a motion that is quick, slight, and often erratic. It should not be confused with 'trembling', which often implies a more controlled or intentional reaction to emotion.",
+    "synonyms": [
+      "shaking",
+      "vibrating",
+      "flickering"
+    ],
+    "antonyms": [
+      "stable",
+      "steady",
+      "calm"
+    ],
+    "nounForm": "shiver",
+    "verbForm": "shiver",
+    "adjectiveForm": "shivering",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Hardware, video rendering, signal interference",
+    "usageTip": "Use 'shivering' to describe erratic, slight vibrations.",
+    "commonMistake": "Confusing 'shivering' with 'buffering' in video.",
+    "collocations": [
+      "shivering motion",
+      "shivering effect",
+      "shivering signal"
+    ]
+  },
+  {
+    "word": "Shivering",
+    "meaning": "Shaking due to cold or intense emotion",
+    "shortMeaning": "shaking",
+    "example": "The user was shivering due to the cold server room.",
+    "example2": "The machine made a shivering sound before failing.",
+    "example3": "He stood shivering in the testing lab.",
+    "Explanation": "The word 'shivering' describes an involuntary shaking of the body caused by cold or fear. While not a standard technical term, it is used in IT contexts to describe hardware that vibrates due to mechanical issues or to explain physical reactions in users working in cold environments. It implies a lack of stability. Be careful to distinguish this from technical 'vibrations' or 'jitter'.",
+    "synonyms": [
+      "shaking",
+      "quaking",
+      "trembling"
+    ],
+    "antonyms": [
+      "steady",
+      "calm"
+    ],
+    "nounForm": "shiver",
+    "verbForm": "shiver",
+    "adjectiveForm": "shivering",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Environment, physical state",
+    "usageTip": "Use 'shivering' for human reactions to cold or mechanical hardware jitter.",
+    "commonMistake": "Using 'shivering' to describe professional software jitter (use 'latency').",
+    "collocations": [
+      "shivering from cold",
+      "shivering hands",
+      "shivering machine"
+    ]
+  }
+]

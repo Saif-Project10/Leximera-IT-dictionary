@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unencoded",
+    "meaning": "Not converted into a different format",
+    "shortMeaning": "raw or plain",
+    "example": "The data is sent in an unencoded format.",
+    "example2": "The database contains unencoded passwords, which is unsafe.",
+    "example3": "The video stream remains unencoded to save CPU.",
+    "Explanation": "Unencoded means data remains in its original, plain form rather than being converted into an encrypted or compressed format. In IT security, sending sensitive information like passwords or personal data in an unencoded state is a severe vulnerability. Encryption (a form of encoding) is required for protection. Always check if your data should be encoded before transmission or storage to maintain confidentiality and integrity.",
+    "synonyms": [
+      "raw",
+      "plain",
+      "unencrypted"
+    ],
+    "antonyms": [
+      "encoded",
+      "encrypted",
+      "compressed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unencoded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, data transmission",
+    "usageTip": "Use for raw data that needs protection.",
+    "commonMistake": "Storing sensitive unencoded data in a public database.",
+    "collocations": [
+      "unencoded data",
+      "send unencoded",
+      "unencoded format"
+    ]
+  },
+  {
+    "word": "Unencoded",
+    "meaning": "Not changed into a different format for storage or transmission",
+    "shortMeaning": "not encoded",
+    "example": "The file was sent as unencoded text.",
+    "example2": "Unencoded data can be easily read by anyone.",
+    "example3": "Check if the input is unencoded or raw.",
+    "Explanation": "The word 'unencoded' refers to data that is in its raw, original format. Encoding is the process of converting data for security, storage, or transmission (e.g., Base64 or UTF-8). Unencoded data is often faster to process but lacks protection. When working with sensitive information, always ensure it is encoded or encrypted. 'Unencoded' clearly indicates that the data is 'plain' and 'raw'.",
+    "synonyms": [
+      "raw",
+      "plain",
+      "unconverted"
+    ],
+    "antonyms": [
+      "encoded",
+      "converted",
+      "processed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "encode",
+    "adjectiveForm": "unencoded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage and network transmission",
+    "usageTip": "Use for raw or plain text data.",
+    "commonMistake": "Confusing 'unencoded' with 'unencrypted'.",
+    "collocations": [
+      "unencoded data",
+      "send unencoded",
+      "raw unencoded"
+    ]
+  }
+]

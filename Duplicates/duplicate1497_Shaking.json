@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Shaking",
+    "meaning": "Moving with quick, short movements back and forth or up and down.",
+    "shortMeaning": "trembling, vibrating",
+    "example": "His hands were shaking from the cold.",
+    "example2": "The earthquake left the ground shaking for minutes.",
+    "example3": "She was shaking with anger.",
+    "Explanation": "'Shaking' is the present participle of the verb 'shake', used as an adjective or in continuous verb tenses. It describes an ongoing state of vibration or tremor. It can be caused by physical forces (an engine shaking), emotional states (shaking with fear), or medical conditions. The word creates a vivid image of instability and movement. It's a common descriptive word in both everyday language and writing to convey a lack of steadiness, whether literal or figurative. The noun form is 'shake'.",
+    "synonyms": [
+      "trembling",
+      "quivering",
+      "vibrating",
+      "shuddering"
+    ],
+    "antonyms": [
+      "steady",
+      "still",
+      "calm",
+      "stable"
+    ],
+    "nounForm": "shake",
+    "verbForm": "shake",
+    "adjectiveForm": "shaking",
+    "partOfSpeech": "adjective, verb (present participle)",
+    "commonContext": "Emotions, cold, physical reactions, earthquakes",
+    "usageTip": "Often used with 'with' to indicate the cause: shaking with laughter, shaking with rage.",
+    "commonMistake": "Confusing 'shaking' (ongoing action) with 'shaky' (a characteristic state).",
+    "collocations": [
+      "shaking hands",
+      "shaking voice",
+      "shaking uncontrollably",
+      "still shaking"
+    ]
+  },
+  {
+    "word": "Shaking",
+    "meaning": "Moving back and forth quickly and with force",
+    "shortMeaning": "vibrating",
+    "example": "The server room floor was shaking during the construction.",
+    "example2": "The table was shaking, making it hard to type.",
+    "example3": "His hands were shaking from the intense pressure.",
+    "Explanation": "The word 'shaking' describes a physical movement that is fast, repetitive, and often involuntary or caused by an external force. It can apply to objects, body parts, or large systems. It usually suggests instability or distress. In tech, if a piece of hardware is 'shaking', it is usually a bad sign that needs maintenance. Use this word to describe physical motion that is irregular and undesirable. It is a clear and evocative word for describing instability.",
+    "synonyms": [
+      "vibrating",
+      "trembling",
+      "quivering"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "firm"
+    ],
+    "nounForm": "shake",
+    "verbForm": "shake",
+    "adjectiveForm": "shaking",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Hardware, physical stability, emotions",
+    "usageTip": "Use to describe an undesirable vibration or movement.",
+    "commonMistake": "Confusing 'shaking' with 'moving' (which is broader and smoother).",
+    "collocations": [
+      "shaking table",
+      "shaking hands",
+      "shaking room"
+    ]
+  },
+  {
+    "word": "Shaking",
+    "meaning": "A continuous vibrating or unstable movement.",
+    "shortMeaning": "vibrating",
+    "example": "The server rack was shaking during the maintenance.",
+    "example2": "The monitor image is shaking because of a bad cable.",
+    "example3": "The mouse pointer was shaking on the screen.",
+    "Explanation": "The word 'shaking' refers to an unsteady or vibrating motion. In IT, this usually signals a physical problem—like loose hardware, electrical interference, or external vibrations affecting equipment. It can also describe a UI element that vibrates to show an error (like a wrong password shake animation). The base verb is 'shake'. It is rarely a positive thing in an IT context, as it typically indicates instability or a mechanical failure.",
+    "synonyms": [
+      "vibrating",
+      "shivering",
+      "quivering"
+    ],
+    "antonyms": [
+      "steady",
+      "stable"
+    ],
+    "nounForm": "shake",
+    "verbForm": "shake",
+    "adjectiveForm": "shaking",
+    "partOfSpeech": "verb (gerund) / adjective",
+    "commonContext": "Hardware, physical stability, UI animations",
+    "usageTip": "Use 'shaking' to describe unstable movement.",
+    "commonMistake": "Confusing a hardware issue with a software glitch.",
+    "collocations": [
+      "shaking screen",
+      "shaking hardware",
+      "shaking motion"
+    ]
+  }
+]

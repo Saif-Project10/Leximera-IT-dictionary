@@ -1,0 +1,51 @@
+[
+  {
+    "word": "Buffer",
+    "meaning": "A temporary storage area for data while it is being moved from one place to another.",
+    "shortMeaning": "temporary data storage",
+    "example": "The video stopped to fill the buffer because the internet was slow.",
+    "example2": "A printer uses a buffer to store the document before printing it.",
+    "example3": "Keyboard input is often stored in a buffer until the CPU can process it.",
+    "Explanation": "A buffer acts as a 'waiting room' for data. It helps manage the difference in speed between a data producer and a data consumer. For example, when streaming a movie, the player downloads a few seconds of video into a buffer so the playback stays smooth even if the connection fluctuates. Buffers are used in hard drives, networks, and between software applications. Without buffers, systems would have to wait for every tiny piece of data, making them very slow. They are essential for modern computing and telecommunications.",
+    "synonyms": [
+      "cache",
+      "storage",
+      "temporary area"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "buffer",
+    "verbForm": "buffer",
+    "adjectiveForm": "buffered",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Hardware, networking, and streaming",
+    "usageTip": "Use 'buffer' to describe any middle-ground storage used for speed balancing.",
+    "commonMistake": "Using 'buffer' and 'cache' interchangeably; a buffer is for moving data, a cache is for frequent access.",
+    "collocations": [
+      "circular buffer",
+      "video buffer",
+      "data buffer"
+    ]
+  },
+  {
+    "word": "Buffer",
+    "meaning": "Something that lessens the impact of a force, or a temporary storage area",
+    "shortMeaning": "cushion / temporary storage",
+    "example": "The trees act as a buffer against the strong winds.",
+    "example2": "You should keep some extra money as a buffer for unexpected costs.",
+    "example3": "Wait a moment; the video is still loading in the buffer.",
+    "Explanation": "A buffer is a 'cushion.' In real life, it protects you from shocks. In computers, a 'buffer' is a small part of memory that holds data while it is being moved from one place to another. For example, when you watch a YouTube video, the computer downloads a few seconds ahead and stores it in the 'buffer' so the video doesn't stop if your internet slows down for a second.",
+    "synonyms": [
+      "cushion",
+      "shield",
+      "temporary storage"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "commonContext": "General safety, finance, and data streaming",
+    "usageTip": "Use buffers in your code to handle data that arrives faster than it can be processed.",
+    "partOfSpeech": "noun / verb"
+  }
+]

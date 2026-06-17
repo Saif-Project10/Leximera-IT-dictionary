@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Decentralized",
+    "meaning": "Distributed away from a central authority or location.",
+    "shortMeaning": "distributed; not centralized",
+    "example": "The company has a decentralized management structure.",
+    "example2": "Blockchain technology enables decentralized digital currencies.",
+    "example3": "A decentralized network is more resistant to failure.",
+    "Explanation": "'Decentralized' is an adjective describing systems, organizations, or networks where control, functions, or components are distributed rather than concentrated in a single central point. It's the opposite of centralized. In technology, decentralized systems (like blockchain) distribute data across many nodes. In business, decentralized organizations give more autonomy to local branches. The concept emphasizes resilience, autonomy, and reduced single points of failure. The verb is 'decentralize'. It's become increasingly important in discussions about technology, governance, and organizational design.",
+    "synonyms": [
+      "distributed",
+      "dispersed",
+      "diffused",
+      "localized"
+    ],
+    "antonyms": [
+      "centralized",
+      "concentrated",
+      "unified"
+    ],
+    "nounForm": "decentralization",
+    "verbForm": "decentralize",
+    "adjectiveForm": "decentralized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, management, governance, networks",
+    "usageTip": "Often used with words like 'system', 'network', 'organization', 'authority'.",
+    "commonMistake": "Confusing with 'decentered' which means off-center physically. Decentralized refers to distribution of control.",
+    "collocations": [
+      "decentralized network",
+      "decentralized system",
+      "decentralized authority"
+    ]
+  },
+  {
+    "word": "Decentralized",
+    "meaning": "Controlled by multiple points rather than one central authority",
+    "shortMeaning": "distributed",
+    "example": "Blockchain is a decentralized ledger technology.",
+    "example2": "We moved to a decentralized network architecture.",
+    "example3": "Decentralized systems are more resilient to failure.",
+    "Explanation": "Decentralized systems spread authority, data, or computing power across multiple nodes. This reduces the risk of a single point of failure and increases autonomy. The verb is 'decentralize', and the noun is 'decentralization'. This concept is central to P2P networks, blockchain, and modern microservices. It contrasts with centralized architectures where one node dictates all operations.",
+    "synonyms": [
+      "distributed",
+      "autonomous",
+      "peer-to-peer"
+    ],
+    "antonyms": [
+      "centralized",
+      "monolithic",
+      "hierarchical"
+    ],
+    "nounForm": "decentralization",
+    "verbForm": "decentralize",
+    "adjectiveForm": "decentralized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, blockchain, architecture",
+    "usageTip": "Use to describe systems without a central head.",
+    "commonMistake": "Confusing it with 'distributed' (a system can be distributed but still centralized).",
+    "collocations": [
+      "decentralized network",
+      "decentralized system",
+      "fully decentralized"
+    ]
+  }
+]

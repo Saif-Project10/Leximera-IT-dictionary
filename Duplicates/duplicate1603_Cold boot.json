@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Cold boot",
+    "meaning": "The process of starting a computer that has been completely turned off",
+    "shortMeaning": "starting from power-off",
+    "example": "A cold boot takes longer than waking the computer from sleep mode.",
+    "example2": "I had to perform a cold boot because the system was completely frozen.",
+    "example3": "During a cold boot, the system clears its temporary memory (RAM).",
+    "Explanation": "A cold boot happens when you press the power button on a computer that has no power running through it. This is different from a 'warm boot' (restarting). During a cold boot, the computer performs a series of self-checks called POST (Power-On Self-Test). It then loads the operating system from the hard drive or SSD into the RAM. Because the RAM was empty, the computer starts with a 'fresh' state. This often fixes deep system errors or software glitches that persist during a simple restart.",
+    "synonyms": [
+      "hard boot",
+      "cold start",
+      "power cycle"
+    ],
+    "antonyms": [
+      "warm boot",
+      "soft boot",
+      "reboot",
+      "sleep mode"
+    ],
+    "nounForm": "cold boot",
+    "verbForm": "cold boot",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / verb",
+    "commonContext": "Troubleshooting, hardware maintenance, and daily use",
+    "usageTip": "Use 'cold boot' when you need to emphasize that the power was fully cut and restored.",
+    "commonMistake": "Confusing 'cold boot' with just 'restarting' the software.",
+    "collocations": [
+      "perform a cold boot",
+      "require a cold boot",
+      "after a cold boot"
+    ]
+  },
+  {
+    "word": "Cold boot",
+    "meaning": "The process of starting a computer that is completely turned off",
+    "shortMeaning": "hard restart",
+    "example": "You might need a cold boot to clear the corrupted memory.",
+    "example2": "A cold boot takes longer than waking the PC from sleep.",
+    "example3": "Performing a cold boot solved the hardware recognition issue.",
+    "Explanation": "A cold boot (or hard boot) happens when you turn on a computer from a state where it had no power. This process clears the RAM entirely and resets all hardware components. It is different from a 'warm boot' (restarting via software), which might not clear all errors. Cold booting is often the first step in troubleshooting persistent system issues. It ensures that the operating system starts from a completely clean state.",
+    "synonyms": [
+      "hard boot",
+      "power-on",
+      "cold start"
+    ],
+    "antonyms": [
+      "warm boot",
+      "soft reboot",
+      "sleep mode"
+    ],
+    "nounForm": "cold boot",
+    "verbForm": "cold boot",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Troubleshooting and hardware",
+    "usageTip": "Use 'cold boot' when you want to emphasize a complete power cycle.",
+    "commonMistake": "Confusing a 'cold boot' with just turning the monitor off.",
+    "collocations": [
+      "perform a cold boot",
+      "require a cold boot",
+      "cold boot time"
+    ]
+  }
+]

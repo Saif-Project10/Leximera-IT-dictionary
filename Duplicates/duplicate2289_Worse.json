@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Worse",
+    "meaning": "Of lower quality, more severe, or more unsatisfactory than something else.",
+    "shortMeaning": "not as good",
+    "example": "The performance is worse than it was before the update.",
+    "example2": "The situation got worse after we rebooted.",
+    "example3": "Using this approach leads to worse outcomes.",
+    "Explanation": "The word 'worse' is the comparative form of 'bad'. In IT, it is used to compare metrics, performance, or bug severity. If a change results in 'worse' outcomes, it means it is a negative impact compared to the original state. Understanding the difference between 'bad' and 'worse' is key to managing project quality. It is often used in performance reports to show trends.",
+    "synonyms": [
+      "inferior",
+      "poorer",
+      "lower-quality"
+    ],
+    "antonyms": [
+      "better",
+      "improved",
+      "superior"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "worse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance analysis, comparisons, troubleshooting",
+    "usageTip": "Use 'worse' when comparing two states to show decline.",
+    "commonMistake": "Confusing 'worse' (the comparison) with 'worst' (the extreme).",
+    "collocations": [
+      "much worse",
+      "getting worse",
+      "worse than before"
+    ]
+  },
+  {
+    "word": "Worse",
+    "meaning": "Lower in quality, more unpleasant, or more severe",
+    "shortMeaning": "lower quality",
+    "example": "The new update is worse than the previous one.",
+    "example2": "The situation got worse after the server crash.",
+    "example3": "This error is worse than the one we had yesterday.",
+    "Explanation": "The word 'worse' is the comparative form of 'bad'. It is used to compare two things or states and indicate that one is of lower quality or more negative than the other. In software, it describes performance degradation or increased severity of bugs. It is a critical term for evaluation and comparison. When analyzing technical issues, you often use 'worse' to highlight how performance or stability has declined over time.",
+    "synonyms": [
+      "inferior",
+      "poorer",
+      "more severe"
+    ],
+    "antonyms": [
+      "better",
+      "improved",
+      "superior"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "worse",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Comparison, performance analysis, status updates",
+    "usageTip": "Use 'worse' when comparing two things to show one has a lower quality.",
+    "commonMistake": "Using 'worser', which is grammatically incorrect.",
+    "collocations": [
+      "gets worse",
+      "much worse",
+      "worse performance"
+    ]
+  }
+]

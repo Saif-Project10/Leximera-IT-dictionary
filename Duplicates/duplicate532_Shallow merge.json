@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Shallow merge",
+    "meaning": "Identical to a flat merge; a merge that only combines the top-level properties of objects or elements.",
+    "shortMeaning": "merge only at top level",
+    "example": "JavaScript's Object.assign() performs a shallow merge.",
+    "example2": "A shallow merge of the state objects caused issues because nested state was overwritten.",
+    "example3": "Use a shallow merge when you want to completely replace sub-objects.",
+    "Explanation": "Shallow merge is the most common synonym for 'flat merge' in programming parlance, especially in JavaScript. It means copying the enumerable own properties from one or more source objects to a target object. If a property is a reference to an object, the reference is copied, not the object itself (a 'shallow copy'). Therefore, the nested objects are shared between the original and the merged result. This is a critical concept because it can lead to unintended side-effects if you modify a nested object after a shallow merge. Understanding shallow vs. deep operations is fundamental for working correctly with complex data in many programming languages.",
+    "synonyms": [
+      "flat merge",
+      "top-level copy"
+    ],
+    "antonyms": [
+      "deep merge",
+      "deep copy",
+      "recursive merge"
+    ],
+    "nounForm": "shallow merge",
+    "verbForm": "shallow merge",
+    "adjectiveForm": "shallow-merged",
+    "partOfSpeech": "noun phrase / verb",
+    "commonContext": "JavaScript, Python, and other programming languages where object copying is common.",
+    "usageTip": "In JavaScript contexts, 'shallow merge' is the more commonly used term than 'flat merge.'",
+    "commonMistake": "Thinking a shallow merge creates independent copies of nested objects; it copies references, so nested objects are still shared.",
+    "collocations": [
+      "shallow merge operation",
+      "default shallow merge",
+      "shallow merge vs deep merge"
+    ]
+  },
+  {
+    "word": "Shallow merge",
+    "meaning": "To combine structural object records by only copying their first-level property references instead of copying deeply nested data objects",
+    "shortMeaning": "copy first-level object properties",
+    "example": "A shallow merge in vanilla JavaScript can be achieved easily using the object spread operator.",
+    "example2": "Be careful when you use a shallow merge, because nested arrays will still share the same memory link.",
+    "example3": "The application used a shallow merge to update the primary user profile setting records quickly.",
+    "Explanation": "This phrase describes a fundamental data management mechanism in computer programming, especially in languages like JavaScript and Python. When you merge two data objects together using a shallow approach, the system only duplicates the outermost properties. If those properties contain deeper objects or arrays inside them, the system merely copies the memory pointer, not the actual inner values. This makes shallow merges lightning fast but risky if you mutate inner values down the line.",
+    "synonyms": [
+      "surface copy merge",
+      "shallow clone combine",
+      "N/A"
+    ],
+    "antonyms": [
+      "deep merge",
+      "deep clone",
+      "N/A"
+    ],
+    "nounForm": "shallow merge",
+    "verbForm": "shallow merge",
+    "adjectiveForm": "shallow-merged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "State management arrays, JavaScript object manipulations, and structural data updates",
+    "usageTip": "Use 'shallow merge' when you combine configuration variables that do not have complex, deeply nested layers inside them.",
+    "commonMistake": "Expecting nested arrays to separate after a shallow merge; modifying an inner array will affect both objects.",
+    "collocations": [
+      "perform a shallow merge",
+      "shallow merge objects",
+      "shallow merge behavior"
+    ]
+  }
+]

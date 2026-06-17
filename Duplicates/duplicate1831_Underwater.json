@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Underwater",
+    "meaning": "Below the surface of the water",
+    "shortMeaning": "under the sea/water",
+    "example": "The internet is connected globally by massive underwater cables.",
+    "example2": "Underwater sensors can detect earthquakes and tsunamis.",
+    "example3": "The drone can record high-quality video underwater.",
+    "Explanation": "In technology, 'underwater' primarily refers to the environment where specialized hardware must function beneath the sea or other bodies of water. This is a very difficult environment for IT because water blocks most radio signals (like Wi-Fi and GPS) and the pressure can crush normal electronics. Therefore, underwater technology uses sound waves (sonar) instead of radio waves for communication. The most important 'underwater' tech for the world is the 'submarine cable network,' which carries 99% of all international internet traffic across the oceans. These cables are heavily armored to survive salt, sharks, and anchors. It is a field of engineering that combines marine biology, physics, and computer science.",
+    "synonyms": [
+      "submerged",
+      "undersea",
+      "subaqueous"
+    ],
+    "antonyms": [
+      "above water",
+      "surface"
+    ],
+    "nounForm": "underwater",
+    "verbForm": "N/A",
+    "adjectiveForm": "underwater",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Marine technology, internet infrastructure, and environmental monitoring",
+    "usageTip": "Use this to describe equipment or cables that are specifically made to work in the ocean.",
+    "commonMistake": "Thinking underwater cables are thin like your phone charger; they are often as thick as a tree trunk.",
+    "collocations": [
+      "underwater cable",
+      "underwater drone",
+      "underwater environment"
+    ]
+  },
+  {
+    "word": "Underwater",
+    "meaning": "Literally beneath water, or figuratively struggling",
+    "shortMeaning": "below water",
+    "example": "The fiber cable runs underwater across the ocean.",
+    "example2": "The project is underwater due to unexpected bugs.",
+    "example3": "The server room is at risk of flooding from underwater leaks.",
+    "Explanation": "Underwater refers to something physically submerged or, metaphorically, to a state of being overwhelmed with work or problems. In global networking, 'underwater' cables are the backbone of the internet. Metaphorically, if a team is 'underwater', they are struggling to meet deadlines or cope with a massive load. Both usages are relevant in IT: one for global infrastructure and one for daily project management.",
+    "synonyms": [
+      "submerged",
+      "swamped",
+      "overwhelmed"
+    ],
+    "antonyms": [
+      "dry",
+      "manageable",
+      "on-top"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "underwater",
+    "partOfSpeech": "adjective",
+    "commonContext": "Infrastructure, project management",
+    "usageTip": "Use for fiber cables or when a team is overwhelmed.",
+    "commonMistake": "Using 'underwater' for 'cloud' services (they are unrelated).",
+    "collocations": [
+      "underwater cable",
+      "project is underwater",
+      "underwater infrastructure"
+    ]
+  },
+  {
+    "word": "Underwater",
+    "meaning": "Functioning beneath water or in a state of high debt",
+    "shortMeaning": "below water",
+    "example": "The internet cable runs across the underwater terrain.",
+    "example2": "He felt underwater with all these tasks.",
+    "example3": "The data center has specialized underwater cooling.",
+    "Explanation": "The word 'underwater' primarily describes physical location, such as fiber optic cables lying under the sea. In business or project management slang, it can also mean being 'drowned' in work or debt. In technical contexts, stick to the physical meaning unless you are using it in a project management meeting to describe being overwhelmed. It is a specific term that is rarely used ambiguously in serious documentation.",
+    "synonyms": [
+      "submerged",
+      "subaqueous",
+      "sinking"
+    ],
+    "antonyms": [
+      "above-water",
+      "dry",
+      "floating"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "underwater",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physical hardware and project status",
+    "usageTip": "Use for physical immersion in water.",
+    "commonMistake": "Using 'underwater' in technical papers to mean 'behind schedule'.",
+    "collocations": [
+      "underwater cable",
+      "underwater cooling",
+      "underwater data"
+    ]
+  }
+]

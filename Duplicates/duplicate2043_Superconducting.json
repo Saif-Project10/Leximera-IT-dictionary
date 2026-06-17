@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Superconducting",
+    "meaning": "Having the property of zero electrical resistance",
+    "shortMeaning": "zero electrical resistance",
+    "example": "The magnet uses a superconducting material to reach high fields.",
+    "example2": "Superconducting wires allow for efficient power transmission.",
+    "example3": "Cooling the system is required for superconducting properties.",
+    "Explanation": "The term 'superconducting' refers to materials that allow electricity to flow through them with zero resistance. This means there is no energy loss as heat. Usually, this state is only achieved at extremely cold temperatures. Superconducting technology is vital for MRI machines, particle accelerators, and future high-efficiency power grids. It is a specific term in physics and electrical engineering. Understanding this term requires knowledge of material properties and thermodynamics.",
+    "synonyms": [
+      "zero-resistance",
+      "superconductive"
+    ],
+    "antonyms": [
+      "resistive",
+      "non-superconducting"
+    ],
+    "nounForm": "superconductor",
+    "verbForm": "N/A",
+    "adjectiveForm": "superconducting",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, electrical engineering, advanced hardware",
+    "usageTip": "Use 'superconducting' when discussing materials that lose resistance at low temperatures.",
+    "commonMistake": "Thinking anything that conducts well is 'superconducting'; it specifically refers to zero resistance.",
+    "collocations": [
+      "superconducting magnet",
+      "superconducting material",
+      "superconducting wire"
+    ]
+  },
+  {
+    "word": "Superconducting",
+    "meaning": "The property of conducting electricity with zero resistance",
+    "shortMeaning": "zero-resistance conduction",
+    "example": "The superconducting material allows electricity to flow without loss.",
+    "example2": "Superconducting magnets are essential for MRI machines.",
+    "example3": "Scientists are developing new superconducting wires for power grids.",
+    "Explanation": "Superconducting describes a state of matter where electricity flows perfectly without any energy loss. This usually happens at extremely low, cryogenic temperatures. In IT and hardware, this is vital for high-speed processors and high-precision sensors. It is a critical concept in physics and materials science applied to hardware. Note that this is different from a regular conductor, which always has some electrical resistance.",
+    "synonyms": [
+      "zero-resistance",
+      "superconductive"
+    ],
+    "antonyms": [
+      "insulating",
+      "resistive"
+    ],
+    "nounForm": "superconductivity",
+    "verbForm": "superconduct",
+    "adjectiveForm": "superconducting",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, hardware engineering, quantum computing",
+    "usageTip": "Use 'superconducting' to describe materials that handle electricity perfectly.",
+    "commonMistake": "Thinking that all materials can become superconducting at room temperature.",
+    "collocations": [
+      "superconducting magnet",
+      "superconducting cable",
+      "superconducting state"
+    ]
+  }
+]

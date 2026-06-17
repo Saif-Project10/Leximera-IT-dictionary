@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Short-selling",
+    "meaning": "A financial practice of betting against the value of an asset.",
+    "shortMeaning": "betting against value",
+    "example": "Traders are short-selling the tech company's stock.",
+    "example2": "Short-selling carries high risks for inexperienced investors.",
+    "example3": "The market volatility increased due to aggressive short-selling.",
+    "Explanation": "Short-selling is a financial strategy where an investor borrows shares, sells them, and hopes to buy them back later at a lower price. It is used to profit from a price decline. While primarily a finance term, it appears in IT business contexts when discussing public company stocks or market trends affecting tech sectors. It is complex and often viewed as a controversial or high-risk strategy in the financial world.",
+    "synonyms": [
+      "shorting",
+      "betting against",
+      "bearish trade"
+    ],
+    "antonyms": [
+      "buying",
+      "investing long",
+      "holding"
+    ],
+    "nounForm": "short-selling",
+    "verbForm": "short-sell",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Finance, market analysis, stock trading",
+    "usageTip": "Use 'short-selling' to describe bearish financial strategies.",
+    "commonMistake": "Assuming short-selling is the same as basic selling.",
+    "collocations": [
+      "aggressive short-selling",
+      "short-selling strategy",
+      "risk of short-selling"
+    ]
+  },
+  {
+    "word": "Short-selling",
+    "meaning": "Selling borrowed assets to profit from a price decline",
+    "shortMeaning": "betting against prices",
+    "example": "He engaged in short-selling during the market crash.",
+    "example2": "Short-selling is a common financial trading strategy.",
+    "example3": "Understanding short-selling is vital for fintech developers.",
+    "Explanation": "Short-selling is a trading strategy where an investor borrows assets, sells them, and hopes to buy them back later at a lower price to return to the lender. The profit is the difference between the selling and buying price. This term appears frequently in financial software and market-related IT platforms. It is a highly complex financial concept that requires careful mathematical implementation in software systems.",
+    "synonyms": [
+      "betting against",
+      "shorting"
+    ],
+    "antonyms": [
+      "long-buying",
+      "investing"
+    ],
+    "nounForm": "short",
+    "verbForm": "short-sell",
+    "adjectiveForm": "short-selling",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Finance, trading, fintech development",
+    "usageTip": "Use 'short-selling' when referring to the financial trading strategy.",
+    "commonMistake": "Assuming short-selling is just like normal investing.",
+    "collocations": [
+      "short-selling strategy",
+      "short-selling market",
+      "risk of short-selling"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Flutter",
+    "meaning": "An open-source UI software development kit created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "shortMeaning": "cross-platform UI toolkit",
+    "example": "We chose Flutter to develop our app for both iOS and Android simultaneously.",
+    "example2": "Flutter uses the Dart programming language.",
+    "example3": "Hot reload in Flutter allows for very fast development cycles.",
+    "Explanation": "Flutter is Google's answer to cross-platform mobile development. Unlike frameworks that wrap web views (hybrid apps), Flutter compiles to native ARM code, providing performance close to truly native apps. Its key feature is a rich set of pre-designed widgets that are highly customizable. Flutter's hot reload feature is beloved by developers for instant UI updates. A common mistake is comparing it directly to React Native without understanding their architectural differences (Flutter uses its own rendering engine, while React Native uses native components). It's gained massive popularity for its performance, consistency, and developer experience.",
+    "synonyms": [
+      "Flutter SDK",
+      "Google's UI toolkit",
+      "N/A"
+    ],
+    "antonyms": [
+      "native development",
+      "platform-specific SDK",
+      "N/A"
+    ],
+    "nounForm": "Flutter",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun (proper)",
+    "commonContext": "Mobile app development, cross-platform development",
+    "usageTip": "Often mentioned with 'Dart' (its programming language) and compared to 'React Native'.",
+    "commonMistake": "Thinking Flutter is only for mobile. It also supports web and desktop (Windows, macOS, Linux).",
+    "collocations": [
+      "build with Flutter",
+      "Flutter app",
+      "Flutter developer"
+    ]
+  },
+  {
+    "word": "Flutter",
+    "meaning": "An open-source UI software development kit created by Google",
+    "shortMeaning": "UI framework",
+    "example": "I am learning Flutter to build apps for both Android and iOS.",
+    "example2": "Flutter uses the Dart programming language for development.",
+    "example3": "The performance of the Flutter app was very smooth on mobile devices.",
+    "Explanation": "In the IT world, Flutter is a famous framework used for building cross-platform applications. This means you can write code once and run it on mobile, web, and desktop. It is known for its 'widgets' which allow developers to create beautiful user interfaces easily. It also features 'Hot Reload', which lets developers see changes in code instantly. It is currently one of the most popular tools for frontend mobile developers.",
+    "synonyms": [
+      "UI toolkit",
+      "development framework",
+      "cross-platform SDK"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Flutter",
+    "verbForm": "N/A",
+    "adjectiveForm": "Flutter-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Mobile app development and UI design",
+    "usageTip": "Use 'Flutter' when referring to the specific Google framework for app building.",
+    "commonMistake": "Confusing Flutter with a programming language; remember, Flutter is the framework, Dart is the language.",
+    "collocations": [
+      "Flutter developer",
+      "Flutter app",
+      "Flutter widget"
+    ]
+  }
+]

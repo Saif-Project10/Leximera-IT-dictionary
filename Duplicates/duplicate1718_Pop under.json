@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Pop under",
+    "meaning": "A type of web advertisement that opens in a new window behind the current browser window",
+    "shortMeaning": "hidden ad",
+    "example": "I didn't notice the pop under until I closed my main browser window.",
+    "example2": "Pop unders are considered less annoying but more 'sneaky' than pop ups.",
+    "example3": "The website uses pop under ads to generate revenue.",
+    "Explanation": "A pop under is a form of online advertising. Unlike a 'pop up' that appears right in front of your face, a pop under stays hidden behind your active window. You usually only see it once you finish your work and close your browser. Advertisers use them because they don't interrupt the user's immediate experience, which might lead to a higher 'click-through' rate later. However, many users find them intrusive and deceptive. Most modern browsers have built-in features to block these just like they block pop ups.",
+    "synonyms": [
+      "under-window ad",
+      "hidden advertisement",
+      "background ad"
+    ],
+    "antonyms": [
+      "pop up",
+      "banner ad"
+    ],
+    "nounForm": "pop under",
+    "verbForm": "pop under",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Web advertising and browsing",
+    "usageTip": "Use this to describe an ad that hides itself until you close your current window.",
+    "commonMistake": "Calling it a 'pop up' when it actually appeared behind the window.",
+    "collocations": [
+      "pop under advertisement",
+      "block pop unders",
+      "pop under script"
+    ]
+  },
+  {
+    "word": "Pop under",
+    "meaning": "An advertisement or window that opens behind the main browser window",
+    "shortMeaning": "hidden background window",
+    "example": "I didn't notice the ad because it was a pop under that appeared behind my browser.",
+    "example2": "Many users find pop under ads less annoying than pop ups, but they are still intrusive.",
+    "example3": "The website was blocked because it tried to open multiple pop under windows.",
+    "Explanation": "A 'pop under' is a type of window that opens automatically on a website but stays hidden behind your current window. You usually only see it after you close your main browser window. This is often used for advertisements or tracking. It is considered a 'sneaky' way to show content because it doesn't interrupt what you are doing immediately. Most modern browsers have built-in tools to block these because they can be used for malicious purposes. They are less common today than they were in the early 2000s.",
+    "synonyms": [
+      "background window",
+      "hidden ad"
+    ],
+    "antonyms": [
+      "pop up"
+    ],
+    "nounForm": "pop-under",
+    "verbForm": "pop under",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Web browsing, online advertising, and cybersecurity",
+    "usageTip": "Use this term specifically for windows that appear *behind* the active window.",
+    "commonMistake": "Calling it a 'pop up'; pop ups appear in *front* of the active window.",
+    "collocations": [
+      "pop under advertisement",
+      "block pop unders",
+      "pop under script"
+    ]
+  }
+]

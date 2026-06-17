@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Interrupted",
+    "meaning": "Having the continuity broken; stopped temporarily.",
+    "shortMeaning": "broken in continuity",
+    "example": "The broadcast was interrupted by a news bulletin.",
+    "example2": "Sorry I interrupted your conversation.",
+    "example3": "Her education was interrupted by the war.",
+    "Explanation": "'Interrupted' is the past tense and past participle of 'interrupt', used as an adjective meaning broken in continuity, stopped temporarily, or having intrusions. It describes processes, activities, or states that were stopped and then possibly resumed. Conversations get interrupted, sleep gets interrupted, services get interrupted. The word implies an external force breaking continuity. Some interruptions are brief (phone call), others lengthy (war). The noun is 'interruption'. Interrupted things are incomplete or disturbed in their natural flow. While some interruptions are necessary, others are rude or problematic. The word captures the experience of broken continuity common in modern life.",
+    "synonyms": [
+      "disrupted",
+      "disturbed",
+      "broken",
+      "halted"
+    ],
+    "antonyms": [
+      "continuous",
+      "uninterrupted",
+      "steady",
+      "ongoing"
+    ],
+    "nounForm": "interruption",
+    "verbForm": "interrupt",
+    "adjectiveForm": "interrupted",
+    "partOfSpeech": "adjective, verb (past tense/participle)",
+    "commonContext": "Conversations, sleep, service, processes, education",
+    "usageTip": "As adjective: 'interrupted sleep'. As verb: 'He interrupted me', 'The service was interrupted'.",
+    "commonMistake": "Confusing with 'interpreted' (understood or explained). They sound similar but are different.",
+    "collocations": [
+      "interrupted sleep",
+      "frequently interrupted",
+      "interrupted by"
+    ]
+  },
+  {
+    "word": "Interrupted",
+    "meaning": "Stopped or broken in continuity",
+    "shortMeaning": "stopped",
+    "example": "The file download was interrupted by a network error.",
+    "example2": "He was interrupted while writing the critical code.",
+    "example3": "The system processes were interrupted to save memory.",
+    "Explanation": "The word 'interrupted' means that an ongoing process or signal has been stopped before it reached completion. In hardware, an 'interrupt' is a signal that tells the processor to pause its current work and handle an urgent task. Whether it's a person being distracted or a computer program being halted by a system error, 'interrupted' implies an unexpected or forced break. Always design your systems to handle being 'interrupted' gracefully, ensuring that data is saved and processes can resume.",
+    "synonyms": [
+      "stopped",
+      "paused",
+      "broken"
+    ],
+    "antonyms": [
+      "continuous",
+      "completed",
+      "resumed"
+    ],
+    "nounForm": "interruption",
+    "verbForm": "interrupt",
+    "adjectiveForm": "interrupted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Networking, hardware, workflow",
+    "usageTip": "Use 'interrupted' for a forced break.",
+    "commonMistake": "Confusing 'interrupted' with 'terminated' (terminated is final).",
+    "collocations": [
+      "interrupted process",
+      "interrupted download",
+      "network interrupted"
+    ]
+  }
+]

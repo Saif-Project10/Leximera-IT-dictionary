@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Recurring",
+    "meaning": "Occurring again periodically or repeatedly.",
+    "shortMeaning": "happening again, repeating",
+    "example": "She has a recurring dream about flying.",
+    "example2": "The software subscription is a recurring monthly charge.",
+    "example3": "This is a recurring problem that we need to solve permanently.",
+    "Explanation": "'Recurring' is the present participle of the verb 'recur', used as an adjective. It describes something that happens multiple times, often at regular intervals. It is common in finance (recurring payment), medicine (recurring symptom), and general problem-solving (recurring issue). The word emphasizes the pattern of repetition. The noun form is 'recurrence'. It is different from 'reoccurring', which is a synonym but less commonly used. 'Recurring' suggests a more established pattern of repetition.",
+    "synonyms": [
+      "repeating",
+      "periodic",
+      "regular",
+      "persistent"
+    ],
+    "antonyms": [
+      "one-time",
+      "single",
+      "isolated",
+      "unique"
+    ],
+    "nounForm": "recurrence",
+    "verbForm": "recur",
+    "adjectiveForm": "recurring",
+    "partOfSpeech": "adjective",
+    "commonContext": "Dreams, payments, problems, events",
+    "usageTip": "Often used before nouns like 'theme', 'problem', 'charge', 'nightmare'.",
+    "commonMistake": "Spelling it as 'reoccuring' (the correct form is 'recurring' or 'reoccurring').",
+    "collocations": [
+      "recurring dream",
+      "recurring revenue",
+      "recurring decimal",
+      "recurring issue"
+    ]
+  },
+  {
+    "word": "Recurring",
+    "meaning": "Occurring repeatedly or periodically",
+    "shortMeaning": "happening again",
+    "example": "We have a recurring meeting every Monday.",
+    "example2": "The recurring bill is charged automatically.",
+    "example3": "Check the recurring task list.",
+    "Explanation": "The word 'recurring' is very similar to 'recurrent', meaning it happens repeatedly. The base verb is 'recur'. It is often used for scheduled events, like a recurring task or calendar item. While 'recurrent' is often used for problems, 'recurring' is more neutral and often relates to planned activities or cycles. Using 'recurring' helps differentiate between unexpected bugs (recurrent) and scheduled events (recurring).",
+    "synonyms": [
+      "periodic",
+      "repeated",
+      "regular"
+    ],
+    "antonyms": [
+      "rare",
+      "one-time",
+      "occasional"
+    ],
+    "nounForm": "recurrence",
+    "verbForm": "recur",
+    "adjectiveForm": "recurring",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Scheduling, tasks, calendar",
+    "usageTip": "Use for things that are planned to happen repeatedly.",
+    "commonMistake": "Confusing 'recurring' with 'constant' (it has pauses in between).",
+    "collocations": [
+      "recurring task",
+      "recurring meeting",
+      "recurring payment"
+    ]
+  }
+]

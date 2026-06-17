@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Wasted",
+    "meaning": "Used inefficiently or lost without producing value",
+    "shortMeaning": "inefficient",
+    "example": "A lot of memory is wasted by this poorly optimized code.",
+    "example2": "The developer's time was wasted due to missing requirements.",
+    "example3": "Prevent wasted compute resources by shutting down idle servers.",
+    "Explanation": "In IT, 'wasted' refers to resources (time, money, CPU power, RAM) that have been consumed without yielding a useful result. Wasted resources are a major problem in cloud computing where you are billed for idle time. Optimizing for efficiency means reducing 'wasted' effort and space. This is a common focus of software engineering and cloud cost-management. It's a negative term used when critiquing systems that are not lean, fast, or well-structured.",
+    "synonyms": [
+      "unused",
+      "spent",
+      "lost"
+    ],
+    "antonyms": [
+      "optimized",
+      "saved",
+      "efficient"
+    ],
+    "nounForm": "waste",
+    "verbForm": "waste",
+    "adjectiveForm": "wasted",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Performance engineering, cloud management, optimization",
+    "usageTip": "Use to point out areas for cost reduction.",
+    "commonMistake": "Using 'wasted' when you mean 'broken'.",
+    "collocations": [
+      "wasted resources",
+      "wasted time",
+      "prevent wasted"
+    ]
+  },
+  {
+    "word": "Wasted",
+    "meaning": "Used or spent carelessly or without achieving a useful result",
+    "shortMeaning": "used poorly",
+    "example": "He realized he had wasted hours debugging the wrong script.",
+    "example2": "Allocating memory to that task was a wasted effort.",
+    "example3": "The potential of the new hardware was wasted due to bad software.",
+    "Explanation": "The term 'wasted' refers to resources, time, or energy that did not produce the desired outcome. In IT, this often refers to inefficient code, memory leaks, or idle hardware that consumes power without performing useful tasks. It suggests a lack of optimization or poor planning. Understanding this term helps in evaluating efficiency and performance metrics. It is used to highlight areas where improvements can prevent resource depletion.",
+    "synonyms": [
+      "misused",
+      "squandered",
+      "inefficient"
+    ],
+    "antonyms": [
+      "saved",
+      "optimized",
+      "efficient"
+    ],
+    "nounForm": "waste",
+    "verbForm": "waste",
+    "adjectiveForm": "wasted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance optimization and resource management",
+    "usageTip": "Use 'wasted' to describe inefficiency in systems or time.",
+    "commonMistake": "Using 'wasted' to describe broken hardware instead of 'faulty'.",
+    "collocations": [
+      "wasted time",
+      "wasted space",
+      "wasted potential"
+    ]
+  }
+]

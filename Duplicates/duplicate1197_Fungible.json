@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Fungible",
+    "meaning": "Able to replace or be replaced by another identical item; mutually interchangeable",
+    "shortMeaning": "interchangeable, replaceable",
+    "example": "Money is fungible—a $10 bill can be exchanged for another $10 bill.",
+    "example2": "Oil, wheat, and gold are considered fungible commodities.",
+    "example3": "In law, fungible goods are not unique.",
+    "Explanation": "'Fungible' is a specialized adjective, most common in law, finance, and economics. It describes goods or assets where individual units are essentially identical and therefore interchangeable. Money, grains, and shares of the same company are fungible. This is the opposite of 'non-fungible' (unique, like a painting or a house). The concept is crucial for trading commodities and understanding cryptocurrencies (fungible vs. non-fungible tokens). It's a precise term that clarifies whether something's value is in its specific identity or its generic type.",
+    "synonyms": [
+      "interchangeable",
+      "replaceable",
+      "exchangeable"
+    ],
+    "antonyms": [
+      "non-fungible",
+      "unique",
+      "irreplaceable"
+    ],
+    "nounForm": "fungibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "fungible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, finance, economics, commodities, cryptocurrencies",
+    "usageTip": "Use 'fungible' when talking about items that are not unique and can be substituted for one another without loss of value.",
+    "commonMistake": "Using it to mean 'capable of growing fungus'. That is unrelated.",
+    "collocations": [
+      "fungible assets",
+      "fungible goods",
+      "fungible tokens"
+    ]
+  },
+  {
+    "word": "Fungible",
+    "meaning": "Able to be replaced or swapped with something identical.",
+    "shortMeaning": "interchangeable",
+    "example": "Digital tokens are often designed to be fungible.",
+    "example2": "In this database, these records are not fungible.",
+    "example3": "Cash is a prime example of a fungible asset.",
+    "Explanation": "The term 'fungible' is used to describe items that are interchangeable because each unit is identical in value and nature to another. It is a very popular term in cryptocurrency and economics. In IT, if you have assets or data points that can be swapped without changing the outcome of your program, they are fungible. It is an adjective that describes interchangeability. It is a key term in smart contract design.",
+    "synonyms": [
+      "interchangeable",
+      "replaceable",
+      "equivalent"
+    ],
+    "antonyms": [
+      "non-fungible",
+      "unique"
+    ],
+    "nounForm": "fungibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "fungible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Crypto, economics, data structures",
+    "usageTip": "Use 'fungible' when things can be swapped.",
+    "commonMistake": "Confusing 'fungible' with 'versatile' (which means adaptable).",
+    "collocations": [
+      "fungible token",
+      "fungible asset",
+      "fungible resource"
+    ]
+  }
+]

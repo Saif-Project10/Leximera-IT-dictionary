@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Restrict",
+    "meaning": "To limit or control the size, amount, or range of something",
+    "shortMeaning": "limit, control",
+    "example": "Doctors restrict his salt intake because of his blood pressure.",
+    "example2": "The park restricts camping to designated areas.",
+    "example3": "Some websites are restricted in certain countries.",
+    "Explanation": "'Restrict' is a verb that means to put limits on something. It implies rules, regulations, or physical boundaries that control access, freedom, or quantity. It's often used in legal, dietary, and technological contexts. The noun is 'restriction'. It has a more formal and imposing tone than 'limit'. It suggests an external authority imposing the limitation, rather than a self-imposed one.",
+    "synonyms": [
+      "limit",
+      "confine",
+      "curb"
+    ],
+    "antonyms": [
+      "allow",
+      "permit",
+      "free"
+    ],
+    "nounForm": "restriction",
+    "verbForm": "restrict",
+    "adjectiveForm": "restricted",
+    "partOfSpeech": "verb",
+    "commonContext": "Laws, diets, access control, internet",
+    "usageTip": "Use 'restrict to' when specifying the limit (e.g., 'restrict access to members').",
+    "commonMistake": "Using 'restrict' when 'prevent' (to stop completely) is the intended meaning.",
+    "collocations": [
+      "restrict growth",
+      "highly restricted",
+      "restrict oneself to"
+    ]
+  },
+  {
+    "word": "Restrict",
+    "meaning": "To limit access, control traffic, or place boundaries on data permissions within a network or app",
+    "shortMeaning": "limit or control access",
+    "example": "We must restrict access to the administration panel by requiring two-factor authentication.",
+    "example2": "The firewall is set to restrict dangerous incoming traffic from unknown IP addresses.",
+    "example3": "You can restrict user accounts so they can only view data but cannot delete it.",
+    "Explanation": "The word 'Restrict' is used in cybersecurity, data permissions, and network engineering. It means setting up rules that stop unauthorized users, programs, or network packets from entering specific sections of an application or folder system. Restricting access is a fundamental security practice that protects sensitive files, prevents user errors, and ensures that everyone only views the data necessary for their specific job role.",
+    "synonyms": [
+      "limit",
+      "constrain",
+      "block access"
+    ],
+    "antonyms": [
+      "allow",
+      "permit",
+      "grant full access"
+    ],
+    "nounForm": "restriction",
+    "verbForm": "restrict",
+    "adjectiveForm": "restrictive",
+    "partOfSpeech": "verb",
+    "commonContext": "User permissions, cybersecurity rules, and network firewalls",
+    "usageTip": "Use 'restrict' when explaining rules that limit data access, bandwidth speeds, or user privileges.",
+    "commonMistake": "Spelling it as 'restric' without the 't', or using it when you mean completely deleting an account.",
+    "collocations": [
+      "restrict user access",
+      "restrict bandwidth usage",
+      "restrict by IP address"
+    ]
+  }
+]

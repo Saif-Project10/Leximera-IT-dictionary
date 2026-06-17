@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Delayed",
+    "meaning": "Made to be late or slow; postponed to a later time. | Made late; postponed to a later time.",
+    "shortMeaning": "made late; postponed",
+    "example": "The flight was delayed due to bad weather.",
+    "example2": "We delayed our decision until we had more information.",
+    "example3": "There will be a delayed broadcast of the ceremony.",
+    "Explanation": "Delayed is the past participle of the verb 'delay,' commonly used as an adjective. It describes something that is happening later than planned or expected. It often implies an external cause for the lateness (e.g., traffic, technical issues). As a verb, 'to delay' means to cause to be late or to postpone. A common mistake is using it interchangeably with 'late'; 'delayed' often implies a process or event was *made* late, while 'late' simply describes the state. This word is key in transportation, project management, and communication regarding schedules.",
+    "synonyms": [
+      "Behind Schedule",
+      "Deferred",
+      "Held Up",
+      "Late",
+      "Postponed",
+      "Put Off"
+    ],
+    "antonyms": [
+      "Accelerated",
+      "Advanced",
+      "Early",
+      "Expedited",
+      "On Time",
+      "Prompt"
+    ],
+    "nounForm": "delay",
+    "verbForm": "delay",
+    "adjectiveForm": "delayed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Travel, projects, events, and responses.",
+    "usageTip": "Use 'delayed' as an adjective to describe plans or services that are running behind schedule.",
+    "commonMistake": "Saying 'The train is delayed for 30 minutes' instead of 'The train is delayed by 30 minutes' or 'There is a 30-minute delay.'",
+    "collocations": [
+      "delayed flight",
+      "delayed gratification",
+      "delayed reaction"
+    ]
+  },
+  {
+    "word": "Delayed",
+    "meaning": "Occurring later than intended or expected",
+    "shortMeaning": "late",
+    "example": "The project launch was delayed by one week.",
+    "example2": "There was a delayed response from the server.",
+    "example3": "He apologized for the delayed email.",
+    "Explanation": "The word 'delayed' means something happened after the scheduled time. It is a common part of project management and communication. In computing, 'delayed response' or 'latency' is a technical issue. Always communicate a 'delayed' update to the user early to maintain trust. Being honest about a delay is always better than ignoring it.",
+    "synonyms": [
+      "postponed",
+      "late",
+      "behind schedule"
+    ],
+    "antonyms": [
+      "prompt",
+      "on-time",
+      "early"
+    ],
+    "nounForm": "delay",
+    "verbForm": "delay",
+    "adjectiveForm": "delayed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project management and system latency",
+    "usageTip": "Use 'delayed' for things that are behind schedule.",
+    "commonMistake": "Using 'delayed' when you mean 'cancelled'.",
+    "collocations": [
+      "project delayed",
+      "delayed response",
+      "unavoidable delay"
+    ]
+  }
+]

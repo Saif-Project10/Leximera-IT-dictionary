@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Assumption-based",
+    "meaning": "Founded on or derived from assumptions rather than proven facts.",
+    "shortMeaning": "based on suppositions",
+    "example": "Their strategy was assumption-based and collapsed when market conditions changed.",
+    "example2": "We must avoid making assumption-based decisions in critical projects.",
+    "example3": "The report was criticized for its assumption-based conclusions.",
+    "Explanation": "'Assumption-based' is a compound adjective, typically used with a negative connotation. It describes reasoning, decisions, plans, or models that rely heavily on unproven assumptions. It warns that the foundation is not solid because the assumptions may be wrong. In fields like science, engineering, and business planning, being assumption-based is a weakness because it introduces risk. The goal is to be 'evidence-based' or 'data-driven' instead.",
+    "synonyms": [
+      "speculative",
+      "presumptive",
+      "theoretical"
+    ],
+    "antonyms": [
+      "evidence-based",
+      "fact-based",
+      "empirical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "assumption-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Criticism of plans, risk analysis, research methodology",
+    "usageTip": "Hyphenate when used before a noun. It's often used to point out a flaw in reasoning.",
+    "commonMistake": "Using it as a neutral term; it usually implies a criticism or a risk.",
+    "collocations": [
+      "assumption-based reasoning",
+      "assumption-based model",
+      "highly assumption-based"
+    ]
+  },
+  {
+    "word": "Assumption-based",
+    "meaning": "Built upon or guided by premises, estimates, or theories that have not been fully verified with data",
+    "shortMeaning": "reliant on unproven theories",
+    "example": "An assumption-based project deadline usually results in delays and team stress.",
+    "example2": "The initial network design was assumption-based because we lacked real traffic statistics.",
+    "example3": "We need to replace our assumption-based planning with data-driven system insights.",
+    "Explanation": "The compound adjective 'assumption-based' describes workflows, systems, architectures, or schedules created using guesses or expectations rather than solid facts or verified metrics. In tech project management, building an assumption-based timeline without consulting the developers often causes critical project failures. Moving from assumption-based models to data-backed models is a core goal of modern agile engineering. It operates as a descriptive compound adjective.",
+    "synonyms": [
+      "speculative",
+      "theoretical",
+      "hypothetical",
+      "guess-reliant"
+    ],
+    "antonyms": [
+      "data-driven",
+      "evidence-backed",
+      "verified",
+      "empirical"
+    ],
+    "nounForm": "assumption",
+    "verbForm": "N/A",
+    "adjectiveForm": "assumption-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Early project planning stages, estimation meetings, speculative design models",
+    "usageTip": "Use 'assumption-based' to caution your development team that a certain plan or estimate lacks concrete data validation.",
+    "commonMistake": "Writing it without a hyphen or utilizing it when you actually mean a plan is fully backed by real user research.",
+    "collocations": [
+      "assumption-based planning",
+      "assumption-based model",
+      "assumption-based estimate"
+    ]
+  }
+]

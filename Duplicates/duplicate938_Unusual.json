@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unusual",
+    "meaning": "Not habitually or commonly occurring or done; remarkable.",
+    "shortMeaning": "not common; strange",
+    "example": "It's unusual for him to be late.",
+    "example2": "She has an unusual talent for remembering names.",
+    "example3": "We saw an unusual bird in the garden.",
+    "Explanation": "'Unusual' is a common adjective meaning not typical or ordinary. It can have a neutral or positive connotation (interesting, unique) or sometimes a slightly negative one (odd). It's less strong than 'strange' or 'weird'. It's used to describe things that stand out from the norm. The noun form is 'unusualness'. It's a versatile word for daily conversation to point out something that catches your attention.",
+    "synonyms": [
+      "uncommon",
+      "atypical",
+      "exceptional"
+    ],
+    "antonyms": [
+      "usual",
+      "common",
+      "ordinary"
+    ],
+    "nounForm": "unusualness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unusual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Weather, behavior, appearances, events",
+    "usageTip": "Use 'unusual for' someone to do something (e.g., 'It's unusual for her to complain').",
+    "commonMistake": "Using 'unusual' to mean 'bad'; it simply means not common, which can be good or bad.",
+    "collocations": [
+      "highly unusual",
+      "unusual circumstances",
+      "nothing unusual"
+    ]
+  },
+  {
+    "word": "Unusual",
+    "meaning": "Not common, standard, or expected in a given situation.",
+    "shortMeaning": "not normal",
+    "example": "The server logs show unusual patterns today.",
+    "example2": "It is unusual for this system to crash on startup.",
+    "example3": "The error message contains unusual characters.",
+    "Explanation": "The word 'unusual' is used to highlight things that deviate from the standard baseline of performance or behavior. In monitoring and security, 'unusual activity' is often the first sign of a problem or an attack. The noun form is 'unusualness'. Use this word to describe behavior that warrants investigation because it falls outside of the expected norm for a system or process.",
+    "synonyms": [
+      "abnormal",
+      "unexpected",
+      "rare"
+    ],
+    "antonyms": [
+      "usual",
+      "normal",
+      "standard"
+    ],
+    "nounForm": "unusualness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unusual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Monitoring, security, and troubleshooting",
+    "usageTip": "Use 'unusual' to draw attention to suspicious or unexpected events.",
+    "commonMistake": "Assuming 'unusual' always means 'malicious'.",
+    "collocations": [
+      "unusual activity",
+      "unusual pattern",
+      "unusual error"
+    ]
+  },
+  {
+    "word": "Unusual",
+    "meaning": "Not common, normal, or expected",
+    "shortMeaning": "not normal",
+    "example": "This is an unusual error message for this application.",
+    "example2": "There was an unusual spike in network traffic today.",
+    "example3": "The system behavior is quite unusual after the update.",
+    "Explanation": "Unusual describes events, patterns, or items that deviate from the standard or expected behavior. In IT systems, monitoring for unusual activity is a critical part of anomaly detection and security. An unusual pattern, like high CPU usage at midnight, often indicates a problem, a security breach, or a misconfigured scheduled task. Recognizing what is unusual helps engineers perform root cause analysis and maintain system health. It effectively signals that further investigation is required to ensure everything is operating correctly.",
+    "synonyms": [
+      "abnormal",
+      "unexpected",
+      "rare"
+    ],
+    "antonyms": [
+      "usual",
+      "common",
+      "normal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unusual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data monitoring and security",
+    "usageTip": "Use it to trigger alerts for investigation.",
+    "commonMistake": "Ignoring unusual signs instead of investigating them.",
+    "collocations": [
+      "unusual activity",
+      "unusual error",
+      "unusual behavior"
+    ]
+  }
+]

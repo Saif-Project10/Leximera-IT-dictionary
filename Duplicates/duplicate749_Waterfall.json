@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Waterfall",
+    "meaning": "1. A stream of water falling from a height. 2. A sequential (non-iterative) design process, often used in software development.",
+    "shortMeaning": "falling water; sequential process",
+    "example": "We hiked to see the beautiful waterfall. (natural)",
+    "example2": "The project followed a strict waterfall methodology. (process)",
+    "example3": "Waterfall charts are used in finance to show cumulative effects.",
+    "Explanation": "Literally, a waterfall is a natural cascade of water. In business and software development, 'Waterfall' refers to a linear, sequential project management methodology where each phase must be completed before the next begins (e.g., Requirements -> Design -> Implementation). It is often contrasted with Agile methodologies. The metaphor implies a steady, one-way flow downwards, with little room for going back. The word is important in both nature and management discussions.",
+    "synonyms": [
+      "cascade",
+      "falls",
+      "linear process",
+      "sequential model"
+    ],
+    "antonyms": [
+      "agile",
+      "iterative process"
+    ],
+    "nounForm": "waterfall",
+    "verbForm": "N/A",
+    "adjectiveForm": "waterfall (e.g., waterfall model)",
+    "partOfSpeech": "noun",
+    "commonContext": "Nature, project management, software development",
+    "usageTip": "In a business context, 'waterfall' describes an old-fashioned, rigid project approach where you cannot easily go back to a previous stage.",
+    "commonMistake": "Thinking the 'waterfall model' is flexible. It is known for its inflexibility once a phase is complete.",
+    "collocations": [
+      "waterfall model",
+      "waterfall methodology",
+      "Niagara Falls",
+      "waterfall chart"
+    ]
+  },
+  {
+    "word": "Waterfall",
+    "meaning": "A linear, sequential software development model",
+    "shortMeaning": "linear model",
+    "example": "We used the waterfall model for the stable legacy project.",
+    "example2": "Waterfall is often contrasted with modern agile development.",
+    "example3": "The waterfall approach is rigid but easy to plan.",
+    "Explanation": "The 'waterfall' model is a traditional software development approach where you complete each phase (planning, analysis, design, code, test) one after another, like water flowing over a cliff. Because you don't go back to previous phases easily, it's very structured and requires clear upfront requirements. While common in the past, it's now often criticized for being too rigid for modern web projects. It's still used in industries where safety and formal compliance are required. It's a fundamental term in project management history.",
+    "synonyms": [
+      "linear",
+      "sequential"
+    ],
+    "antonyms": [
+      "agile",
+      "iterative",
+      "scrum"
+    ],
+    "nounForm": "waterfall",
+    "verbForm": "N/A",
+    "adjectiveForm": "waterfall",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Project management, software development",
+    "usageTip": "Use this when explaining project methodology choices.",
+    "commonMistake": "Assuming waterfall is always the 'wrong' choice.",
+    "collocations": [
+      "waterfall model",
+      "waterfall approach"
+    ]
+  },
+  {
+    "word": "Waterfall",
+    "meaning": "A linear and sequential software development model",
+    "shortMeaning": "sequential development",
+    "example": "The company decided to use the Waterfall model for this project.",
+    "example2": "Waterfall is often contrasted with Agile development.",
+    "example3": "In a Waterfall project, testing happens only after coding is done.",
+    "Explanation": "The 'Waterfall' model is a traditional approach where development flows steadily downwards through phases like requirements, design, implementation, and maintenance. Each phase must be completed before the next one begins, making it difficult to go back and change requirements later. While less flexible than modern Agile methods, it is still used in projects with strict, unchanging requirements. It is a fundamental concept in software engineering lifecycle discussions.",
+    "synonyms": [
+      "linear model",
+      "sequential model"
+    ],
+    "antonyms": [
+      "Agile",
+      "iterative",
+      "spiral"
+    ],
+    "nounForm": "Waterfall",
+    "verbForm": "N/A",
+    "adjectiveForm": "waterfall",
+    "partOfSpeech": "noun",
+    "commonContext": "Software development lifecycles",
+    "usageTip": "Use 'Waterfall' when discussing rigid, structured project management.",
+    "commonMistake": "Expecting flexibility in a Waterfall project similar to Agile.",
+    "collocations": [
+      "Waterfall model",
+      "Waterfall methodology",
+      "traditional Waterfall"
+    ]
+  }
+]

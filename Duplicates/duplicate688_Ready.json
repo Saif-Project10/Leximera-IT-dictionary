@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Ready",
+    "meaning": "Prepared for an action or situation; available for immediate use.",
+    "shortMeaning": "prepared",
+    "example": "Dinner is ready.",
+    "example2": "Are you ready to leave?",
+    "example3": "Keep your passport ready for inspection.",
+    "Explanation": "Ready describes a state of full preparation or willingness. It can apply to people (ready to go), objects (ready-to-eat meals), or situations (ready for action). It implies that no further waiting or preparation is needed. It's a positive, proactive word. The verb form is 'ready' as well (to ready something means to prepare it). It's used in many common phrases: 'get ready', 'ready, set, go', 'at the ready'. It's a fundamental concept for planning, efficiency, and prompt response in daily life and emergencies.",
+    "synonyms": [
+      "prepared",
+      "set",
+      "available",
+      "willing",
+      "ripe"
+    ],
+    "antonyms": [
+      "unprepared",
+      "unready",
+      "unavailable"
+    ],
+    "nounForm": "readiness",
+    "verbForm": "ready",
+    "adjectiveForm": "ready",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Meals, travel, events, military, sports",
+    "usageTip": "Often followed by 'for' (ready for school) or an infinitive (ready to start).",
+    "commonMistake": "Saying 'I am ready to home' is wrong; say 'I am ready to go home' or 'I am ready for home'.",
+    "collocations": [
+      "get ready",
+      "ready-made",
+      "ready to go",
+      "combat ready"
+    ]
+  },
+  {
+    "word": "Ready",
+    "meaning": "Prepared for immediate use or action",
+    "shortMeaning": "prepared",
+    "example": "The server is ready to accept new connections.",
+    "example2": "The code is ready for the production deployment.",
+    "example3": "He is ready to start the debugging process.",
+    "Explanation": "Being 'ready' means all necessary tasks, dependencies, or conditions have been met for an action to begin. In IT, a project being 'ready' implies that testing, documentation, and configuration are complete. It is a critical milestone in any project lifecycle. Use this term to signal that you have completed your preparation and the system or task is good to go. It reduces uncertainty and helps teams coordinate their next steps.",
+    "synonyms": [
+      "prepared",
+      "set",
+      "equipped"
+    ],
+    "antonyms": [
+      "unprepared",
+      "not ready"
+    ],
+    "nounForm": "readiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, Operations",
+    "usageTip": "Use when everything is set for a task.",
+    "commonMistake": "Declaring something ready before verifying all tests pass.",
+    "collocations": [
+      "ready for production",
+      "ready to use",
+      "system is ready"
+    ]
+  },
+  {
+    "word": "Ready",
+    "meaning": "Completely prepared, available, and fit for immediate action or use",
+    "shortMeaning": "prepared for action",
+    "example": "The software update is now ready to be installed on all systems.",
+    "example2": "Please let me know when the development server is ready for deployment.",
+    "example3": "The green status light shows that the network connection is ready.",
+    "Explanation": "The word 'Ready' indicates a state of complete preparation where an object, person, or system is fully capable of executing a task. In software applications, components often emit a 'ready' event or status to signal that they have finished loading resources and are open for user interaction. It implies that all preparatory work, pre-checks, and loading screens are complete. Ensuring a system is truly ready prevents errors caused by premature user actions. It is a highly common state indicator across user interfaces and API endpoints.",
+    "synonyms": [
+      "prepared",
+      "available",
+      "set"
+    ],
+    "antonyms": [
+      "unready",
+      "unprepared",
+      "busy"
+    ],
+    "nounForm": "readiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "System status messages, event handlers, deployment planning",
+    "usageTip": "Use 'ready' to clearly communicate that a service, environment, or asset is open for immediate use.",
+    "commonMistake": "Confusing 'ready' with 'completed'; a system can be completed but not yet ready or deployed.",
+    "collocations": [
+      "ready for use",
+      "ready to install",
+      "system is ready"
+    ]
+  }
+]

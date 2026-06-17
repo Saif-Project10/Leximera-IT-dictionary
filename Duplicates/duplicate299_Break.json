@@ -1,0 +1,55 @@
+[
+  {
+    "word": "Break",
+    "meaning": "To separate into pieces suddenly or violently; to fail to obey a rule; a pause or rest.",
+    "shortMeaning": "smash, disobey, pause",
+    "example": "Be careful not to break the glass.",
+    "example2": "If you break the law, you could go to jail.",
+    "example3": "Let's take a short break.",
+    "Explanation": "The verb and noun 'break' is one of the most common and versatile words in English. As a verb, it means to cause something to separate into pieces, or to not follow a rule. As a noun, it means a pause or an opportunity. It is used in countless phrases (break a leg, break the ice, break down). A common mistake is confusing the past tense 'broke' with the past participle 'broken'. Because it's so common, its meaning is highly dependent on context. It's a short, powerful word for disruption, damage, or interruption.",
+    "synonyms": [
+      "shatter",
+      "violate",
+      "rest"
+    ],
+    "antonyms": [
+      "mend",
+      "obey",
+      "continue"
+    ],
+    "nounForm": "break",
+    "verbForm": "break",
+    "adjectiveForm": "broken",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Objects, rules, work, relationships",
+    "usageTip": "For a pause from work, use 'take a break'. For damaging something, use 'break something'.",
+    "commonMistake": "Using 'brake' (for stopping a vehicle) instead of 'break'.",
+    "collocations": [
+      "break the law",
+      "lunch break",
+      "break down"
+    ]
+  },
+  {
+    "word": "Break",
+    "meaning": "To separate into pieces, to stop working, or to take a short rest",
+    "shortMeaning": "crack / stop / rest",
+    "example": "Be careful not to break the glass screen.",
+    "example2": "The developers will take a coffee break after the meeting.",
+    "example3": "In a loop, the 'break' statement stops the code from running further.",
+    "Explanation": "Break is a very versatile word. Physically, it means damage. Chronologically, it means a pause. In programming, 'break' is a keyword used to exit a loop (like `for` or `while`) immediately. It 'breaks' the flow of the program. It is an essential control statement that prevents 'infinite loops' which can crash a computer.",
+    "synonyms": [
+      "fracture",
+      "pause",
+      "exit"
+    ],
+    "antonyms": [
+      "fix",
+      "continue",
+      "join"
+    ],
+    "commonContext": "General life, workplace habits, and coding logic",
+    "usageTip": "In JavaScript, use 'break' to stop a loop as soon as you find the data you are looking for.",
+    "partOfSpeech": "verb / noun"
+  }
+]

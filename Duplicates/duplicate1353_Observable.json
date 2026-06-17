@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Observable",
+    "meaning": "Able to be seen or noticed.",
+    "shortMeaning": "able to be seen",
+    "example": "There was no observable difference between the two samples.",
+    "example2": "The effects of the medicine are observable within an hour.",
+    "example3": "Bird migration is an observable natural phenomenon.",
+    "Explanation": "'Observable' is an adjective used in both everyday and scientific language. It describes anything that can be perceived, typically through sight, but also through other senses or measurement. In science, 'observable' facts are the basis of evidence. This word stresses that something is not hidden or theoretical, but apparent to an observer.",
+    "synonyms": [
+      "perceptible",
+      "noticeable",
+      "visible",
+      "discernible"
+    ],
+    "antonyms": [
+      "unobservable",
+      "imperceptible",
+      "hidden",
+      "invisible"
+    ],
+    "nounForm": "observable (also used as a noun in science)",
+    "verbForm": "observe",
+    "adjectiveForm": "observable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, research, everyday observation",
+    "usageTip": "Use 'observable' to emphasize that something can be seen or measured as evidence.",
+    "commonMistake": "Confusing it with 'observed'; 'observable' means 'can be seen', not 'has been seen'.",
+    "collocations": [
+      "directly observable",
+      "observable behavior",
+      "observable universe"
+    ]
+  },
+  {
+    "word": "Observable",
+    "meaning": "Able to be noticed, seen, or measured",
+    "shortMeaning": "noticeable",
+    "example": "The change in performance is easily observable.",
+    "example2": "We added observable logs to track the request flow.",
+    "example3": "The error has no observable impact on the user.",
+    "Explanation": "An 'observable' is something that can be detected, measured, or monitored. In software development, especially in reactive programming, an 'observable' is a specific object that sends out notifications when data changes. Being 'observable' is crucial for debugging and monitoring systems, as it allows developers to watch the state of an application in real-time. If a system is not observable, it becomes very difficult to diagnose issues because you cannot see what is happening inside.",
+    "synonyms": [
+      "noticeable",
+      "detectable",
+      "visible"
+    ],
+    "antonyms": [
+      "hidden",
+      "invisible",
+      "unnoticed"
+    ],
+    "nounForm": "observability",
+    "verbForm": "observe",
+    "adjectiveForm": "observable",
+    "partOfSpeech": "adjective",
+    "commonContext": "System monitoring and reactive programming",
+    "usageTip": "Use 'observable' to describe metrics or data that can be watched.",
+    "commonMistake": "Confusing 'observable' (can be watched) with 'observed' (is being watched).",
+    "collocations": [
+      "observable change",
+      "observable pattern",
+      "highly observable"
+    ]
+  }
+]

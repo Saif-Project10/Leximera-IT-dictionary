@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Clash",
+    "meaning": "A violent confrontation or disagreement; a mismatch of colors or styles.",
+    "shortMeaning": "violent conflict, mismatch",
+    "example": "Police clashed with protesters in the city center.",
+    "example2": "There was a clash of personalities between the two leaders.",
+    "example3": "That purple tie clashes horribly with your red shirt.",
+    "Explanation": "The word 'clash' implies a sudden, noisy, and often violent conflict. It can be physical (clashing swords), social (clashing cultures), or ideological (clashing opinions). It also has a specific meaning in fashion and design, referring to colors or patterns that look ugly together because they conflict visually. As a verb, it means to come into conflict. It suggests an immediate, direct, and often dramatic opposition. It is a more intense and immediate word than 'conflict'.",
+    "synonyms": [
+      "conflict",
+      "fight",
+      "battle",
+      "disagree",
+      "mismatch"
+    ],
+    "antonyms": [
+      "harmonize",
+      "match",
+      "agree",
+      "blend"
+    ],
+    "nounForm": "clash",
+    "verbForm": "clash",
+    "adjectiveForm": "clashing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Violence, opinions, schedules, colors, cultures",
+    "usageTip": "Use 'clash with' for both conflicts and mismatches: 'clash with police', 'clash with the decor'.",
+    "commonMistake": "Using it only for physical fights; it is commonly used for arguments and aesthetic mismatches.",
+    "collocations": [
+      "clash with",
+      "culture clash",
+      "clash of titans",
+      "avoid a clash"
+    ]
+  },
+  {
+    "word": "Clash",
+    "meaning": "A conflict or mismatch between two things that cannot exist together",
+    "shortMeaning": "conflict",
+    "example": "There is a software clash between the antivirus and the new game.",
+    "example2": "The colors on the website clash, making it hard to read.",
+    "example3": "A schedule clash meant the meeting had to be moved.",
+    "Explanation": "In tech, a 'clash' often refers to a compatibility issue. This happens when two pieces of software try to use the same resource at the same time, leading to a crash or error (e.g., a port clash). It also applies to UI/UX design when colors or fonts don't look good together. In project management, it can refer to conflicting ideas or timelines. Resolving a clash usually requires choosing one priority or finding a compromise.",
+    "synonyms": [
+      "conflict",
+      "mismatch",
+      "collision"
+    ],
+    "antonyms": [
+      "harmony",
+      "agreement",
+      "match"
+    ],
+    "nounForm": "clash",
+    "verbForm": "clash",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software compatibility and design",
+    "usageTip": "Use 'clash' to describe two settings that are fighting each other.",
+    "commonMistake": "Thinking 'clash' only means people fighting; in IT it's usually about code or hardware.",
+    "collocations": [
+      "software clash",
+      "color clash",
+      "schedule clash"
+    ]
+  }
+]

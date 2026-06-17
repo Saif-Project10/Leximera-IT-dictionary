@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Tracked",
+    "meaning": "Monitored or followed the progress of something",
+    "shortMeaning": "monitored",
+    "example": "All customer interactions are tracked in the CRM.",
+    "example2": "We tracked the performance of the server during the peak hour.",
+    "example3": "The bug was tracked using a ticketing system.",
+    "Explanation": "The word 'tracked' means that something has been monitored or recorded. In professional IT environments, almost everything—time, bugs, data changes, and user clicks—is 'tracked' to provide insight and accountability. Using this word implies you have collected data over time. It is a fundamental verb in project management and software operations. Be aware that 'tracked' can sometimes imply surveillance, so consider your audience when using it in a personnel context.",
+    "synonyms": [
+      "monitored",
+      "logged",
+      "recorded"
+    ],
+    "antonyms": [
+      "ignored",
+      "untouched"
+    ],
+    "nounForm": "track",
+    "verbForm": "track",
+    "adjectiveForm": "tracked",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Project management, analytics, system monitoring",
+    "usageTip": "Use this when you have evidence of how something moved or changed.",
+    "commonMistake": "Confusing 'tracked' with 'traced'.",
+    "collocations": [
+      "tracked changes",
+      "tracked in real-time",
+      "tracked by system"
+    ]
+  },
+  {
+    "word": "Tracked",
+    "meaning": "Monitored, followed, or logged over a period",
+    "shortMeaning": "monitored",
+    "example": "All user actions are tracked for security purposes.",
+    "example2": "The bug was tracked in the issue management system.",
+    "example3": "The project timeline is tracked weekly.",
+    "Explanation": "The word 'tracked' means that something is being kept under observation or logged for record-keeping. In IT, this applies to everything from bug reports (tracked in tools like Jira) to performance metrics (tracked in monitoring dashboards). Being tracked implies consistency—it is not a one-time check but an ongoing process. Tracking ensures transparency, allows for historical data analysis, and helps identify trends in system health or team productivity. It is vital for maintaining professional standards.",
+    "synonyms": [
+      "monitored",
+      "logged",
+      "followed"
+    ],
+    "antonyms": [
+      "ignored",
+      "unmonitored"
+    ],
+    "nounForm": "track",
+    "verbForm": "track",
+    "adjectiveForm": "tracked",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Project management, logging, metrics",
+    "usageTip": "Use when something is being watched or logged.",
+    "commonMistake": "Using 'tracked' for something that was only checked once.",
+    "collocations": [
+      "tracked changes",
+      "tracked in Jira",
+      "tracked daily"
+    ]
+  }
+]

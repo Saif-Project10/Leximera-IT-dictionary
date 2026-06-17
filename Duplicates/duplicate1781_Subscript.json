@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Subscript",
+    "meaning": "A small character or symbol written slightly below the normal line of text",
+    "shortMeaning": "lower-set character",
+    "example": "In the chemical formula for water (H2O), the '2' is a subscript.",
+    "example2": "Mathematical arrays often use a subscript to identify specific elements.",
+    "example3": "You can format text as a subscript in most word processing software.",
+    "Explanation": "Subscripts are used in many fields including chemistry, math, and programming. In coding, a subscript often refers to the index number used to access an item in a list (like list[0]). In chemistry, it indicates the number of atoms in a molecule. They are smaller than standard text and sit at the bottom edge of the line. This is the opposite of a 'superscript', which sits above the line. In web design, the HTML tag <sub> is used to create them.",
+    "synonyms": [
+      "index",
+      "inferior character",
+      "sub-index"
+    ],
+    "antonyms": [
+      "superscript"
+    ],
+    "nounForm": "subscript",
+    "verbForm": "subscript",
+    "adjectiveForm": "subscripted",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Mathematics, chemistry, and array indexing",
+    "usageTip": "Use 'subscript' to describe characters that indicate position or quantity in formulas.",
+    "commonMistake": "Confusing 'subscript' with 'superscript' (which is used for exponents like x²).",
+    "collocations": [
+      "subscript notation",
+      "array subscript",
+      "set as subscript"
+    ]
+  },
+  {
+    "word": "Subscript",
+    "meaning": "A small character or symbol written slightly below the regular text line baseline",
+    "shortMeaning": "lowered small character",
+    "example": "In HTML, you use the  tag to render a chemical formula subscript properly.",
+    "example2": "The mathematical formula uses a subscript to identify specific matrix coordinates.",
+    "example3": "Make sure the database index notation is formatted as a small subscript.",
+    "Explanation": "A 'subscript' is a typographic character set slightly below the standard text line. It is smaller than normal text and is widely used in scientific formulas (like the '2' in H₂O), mathematical notations, and programming index discussions. In web design, formatting subscripts accurately ensures that technical articles and dashboards look clear, readable, and highly professional. The corresponding HTML tag is `<sub>`.",
+    "synonyms": [
+      "lowered character",
+      "bottom index"
+    ],
+    "antonyms": [
+      "superscript"
+    ],
+    "nounForm": "subscript",
+    "verbForm": "N/A",
+    "adjectiveForm": "subscripted",
+    "partOfSpeech": "noun",
+    "commonContext": "Text formatting, mathematical data displays, and HTML layout structure",
+    "usageTip": "Use 'subscript' when discussing characters that need to drop below the text line, like chemical bases.",
+    "commonMistake": "Confusing 'subscript' with 'superscript', which places text above the line (like exponents).",
+    "collocations": [
+      "subscript notation",
+      "HTML subscript tag",
+      "array subscript"
+    ]
+  }
+]

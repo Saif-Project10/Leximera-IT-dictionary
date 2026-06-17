@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Siloed",
+    "meaning": "Isolated or separated from others, especially within an organization where departments do not share information.",
+    "shortMeaning": "isolated in separate groups",
+    "example": "The company's departments are too siloed, which hurts innovation.",
+    "example2": "Siloed data prevents us from getting a complete customer view.",
+    "example3": "He worked in a siloed team with little contact with other groups.",
+    "Explanation": "'Siloed' is a business and organizational metaphor derived from tall, isolated farm silos used for storing grain. It describes a state where groups, teams, or systems operate independently without communicating or collaborating with others. This is generally seen as a negative condition that leads to inefficiency, duplicated effort, and missed opportunities. The verb is 'to silo'. The concept is important in discussions about corporate culture, IT systems, and knowledge management.",
+    "synonyms": [
+      "isolated",
+      "compartmentalized",
+      "separated",
+      "insular"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected",
+      "collaborative",
+      "unified"
+    ],
+    "nounForm": "silo",
+    "verbForm": "silo",
+    "adjectiveForm": "siloed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business management, corporate culture, IT infrastructure",
+    "usageTip": "Use 'siloed' critically to describe a lack of communication and collaboration between teams or systems.",
+    "commonMistake": "Spelling it as 'silowed'. The correct past participle is 'siloed'.",
+    "collocations": [
+      "siloed departments",
+      "siloed thinking",
+      "siloed information",
+      "break down silos"
+    ]
+  },
+  {
+    "word": "Siloed",
+    "meaning": "Isolated or separated from other systems or teams.",
+    "shortMeaning": "isolated",
+    "example": "The department is siloed, making collaboration difficult.",
+    "example2": "Siloed data prevents a comprehensive view of the customer.",
+    "example3": "We need to break down siloed systems to integrate our services.",
+    "Explanation": "In IT and business, 'siloed' refers to data, systems, or teams that operate in isolation, unable to share information or cooperate effectively. This 'silo effect' creates fragmentation, hinders efficiency, and leads to inconsistencies. Breaking down silos is a major goal in modern DevOps, data warehousing, and organizational management. It requires unified data standards, collaborative culture, and integrated tools to ensure everyone sees the same information.",
+    "synonyms": [
+      "isolated",
+      "fragmented",
+      "segregated"
+    ],
+    "antonyms": [
+      "integrated",
+      "collaborative",
+      "unified"
+    ],
+    "nounForm": "silo",
+    "verbForm": "silo",
+    "adjectiveForm": "siloed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, DevOps, management",
+    "usageTip": "Use 'siloed' to describe systems that cannot interact.",
+    "commonMistake": "Ignoring the cultural aspect of silos (it's not just technical).",
+    "collocations": [
+      "siloed data",
+      "siloed systems",
+      "break down silos"
+    ]
+  },
+  {
+    "word": "Siloed",
+    "meaning": "Isolated or kept separate from other parts of a system",
+    "shortMeaning": "isolated",
+    "example": "The department data is siloed and cannot be accessed by others.",
+    "example2": "We need to break down siloed information systems.",
+    "example3": "Siloed teams often struggle with communication.",
+    "Explanation": "To be 'siloed' means that data, teams, or technology are isolated and cannot interact with the rest of the organization. This often creates inefficient workflows because information cannot flow freely between departments. In IT, 'siloed data' is a major challenge for integration projects. The verb is 'silo', and the noun is 'silo'. It is generally used negatively to describe poor integration.",
+    "synonyms": [
+      "isolated",
+      "segregated",
+      "separated"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected",
+      "unified"
+    ],
+    "nounForm": "silo",
+    "verbForm": "silo",
+    "adjectiveForm": "siloed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Organizational structure, data management",
+    "usageTip": "Use 'siloed' to describe systems that don't communicate with each other.",
+    "commonMistake": "Using 'siloed' to describe things that are just 'stored' properly.",
+    "collocations": [
+      "siloed data",
+      "siloed teams",
+      "break down silos"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Releasing",
+    "meaning": "Allowing to escape, be free, or become available; issuing (a product, information, etc.)",
+    "shortMeaning": "setting free or issuing",
+    "example": "The company is releasing a new smartphone next month.",
+    "example2": "Releasing the bird from the cage was a kind act.",
+    "example3": "The act of releasing the documents caused a scandal.",
+    "Explanation": "'Releasing' is the present participle or gerund of the verb 'release'. It covers actions like setting something/someone free from confinement, making information public, issuing a product for sale, or letting go of a physical hold (releasing the brake). It implies a controlled act of letting something out or making it available. In entertainment and tech, 'releasing' a movie, song, or software update is a major event. It's about moving from a state of being held to being accessible.",
+    "synonyms": [
+      "freeing",
+      "issuing",
+      "unleashing"
+    ],
+    "antonyms": [
+      "capturing",
+      "withholding",
+      "restraining"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "released",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Product launches, animal welfare, information disclosure, music/film",
+    "usageTip": "Often followed by an object (release a prisoner, release an album).",
+    "commonMistake": "Confusing 'releasing' with 'relieving'. You release a catch; you relieve pain or a person from duty.",
+    "collocations": [
+      "releasing pressure",
+      "releasing soon",
+      "releasing a statement"
+    ]
+  },
+  {
+    "word": "Releasing",
+    "meaning": "The process of making software or data available.",
+    "shortMeaning": "making available",
+    "example": "The team is currently releasing the v2.0 update.",
+    "example2": "Releasing code too quickly can lead to bugs.",
+    "example3": "We are releasing new features in small batches.",
+    "Explanation": "'Releasing' is the act of putting code, data, or content out into the world. It is the core activity of release management in IT. This involves testing, versioning, deployment, and sometimes rollback planning. 'Releasing' is not just about the code; it is about communication, documentation, and making sure the change doesn't break existing systems. It is one of the most critical responsibilities for dev teams.",
+    "synonyms": [
+      "deploying",
+      "launching",
+      "distributing"
+    ],
+    "antonyms": [
+      "developing",
+      "withdrawing"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "releasing",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Deployment, DevOps, product management",
+    "usageTip": "Use when describing the activity of pushing updates.",
+    "commonMistake": "Focusing only on the code and ignoring the user impact of releasing.",
+    "collocations": [
+      "releasing updates",
+      "releasing features",
+      "the process of releasing"
+    ]
+  }
+]

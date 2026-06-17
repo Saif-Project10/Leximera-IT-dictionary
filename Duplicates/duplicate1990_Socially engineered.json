@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Socially engineered",
+    "meaning": "Manipulated by tricking humans into disclosing secrets",
+    "shortMeaning": "human-tricked",
+    "example": "The user was socially engineered into sharing their password.",
+    "example2": "Socially engineered attacks are very hard to prevent.",
+    "example3": "The breach was caused by a socially engineered email.",
+    "Explanation": "A 'socially engineered' attack is one where a hacker tricks a human being into doing something, like giving away a password or clicking a link, instead of attacking the software itself. It is a psychological hack. Since people are often the weakest point in security, these attacks are highly effective. Security teams use training and phishing simulations to help people recognize and resist being socially engineered. It is not about code vulnerabilities, but about human trust.",
+    "synonyms": [
+      "manipulated",
+      "tricked",
+      "deceived"
+    ],
+    "antonyms": [
+      "secure",
+      "trained",
+      "aware"
+    ],
+    "nounForm": "social engineering",
+    "verbForm": "socially engineer",
+    "adjectiveForm": "socially engineered",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cyber security, fraud, security training",
+    "usageTip": "Use this for security threats targeting human trust.",
+    "commonMistake": "Confusing it with technical code hacking.",
+    "collocations": [
+      "socially engineered attack",
+      "avoid being socially engineered"
+    ]
+  },
+  {
+    "word": "Socially engineered",
+    "meaning": "Manipulated into revealing sensitive information through social tactics",
+    "shortMeaning": "tricked by manipulation",
+    "example": "The employee was socially engineered into giving up his password.",
+    "example2": "Socially engineered attacks are becoming more common.",
+    "example3": "He was socially engineered by a fake support email.",
+    "Explanation": "Social engineering is a type of cyberattack that focuses on human psychology rather than technical exploits. It involves manipulating individuals into performing actions or divulging confidential data. Being 'socially engineered' means the victim was deceived by an attacker posing as a trustworthy entity. It is a critical topic in security training. Education is the primary defense against these types of human-focused threats.",
+    "synonyms": [
+      "manipulated",
+      "tricked",
+      "deceived"
+    ],
+    "antonyms": [
+      "protected",
+      "secure",
+      "alert"
+    ],
+    "nounForm": "social engineering",
+    "verbForm": "socially engineer",
+    "adjectiveForm": "socially engineered",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, threat awareness",
+    "usageTip": "Use to describe attacks targeting human behavior.",
+    "commonMistake": "Thinking social engineering requires complex software coding.",
+    "collocations": [
+      "socially engineered attack",
+      "socially engineered trap"
+    ]
+  }
+]

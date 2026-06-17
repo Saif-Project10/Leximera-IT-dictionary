@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Set-theoretic",
+    "meaning": "Related to the mathematical study of sets",
+    "shortMeaning": "set math related",
+    "example": "The model uses set-theoretic approaches.",
+    "example2": "This is a set-theoretic definition.",
+    "Explanation": "The term 'set-theoretic' relates to 'set theory', which is the branch of mathematics that studies collections of objects. It is used in computer science to define databases, logic, and data structures. When you say something is 'set-theoretic', you mean it is based on the principles of set theory, such as unions, intersections, and complements. This is highly technical and usually found in academic or advanced research contexts. Use this when discussing the mathematical foundations of data or logic systems.",
+    "synonyms": [
+      "mathematical",
+      "logical"
+    ],
+    "antonyms": [
+      "empirical"
+    ],
+    "nounForm": "set theory",
+    "verbForm": "N/A",
+    "adjectiveForm": "set-theoretic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics, logic, database design",
+    "usageTip": "Use only in technical or mathematical discussions.",
+    "commonMistake": "Using it for general organization when 'logical' or 'ordered' fits better.",
+    "collocations": [
+      "set-theoretic approach",
+      "set-theoretic definition",
+      "set-theoretic model"
+    ]
+  },
+  {
+    "word": "Set-theoretic",
+    "meaning": "Relating to the mathematical study of sets.",
+    "shortMeaning": "based on set theory",
+    "example": "The query uses set-theoretic operations.",
+    "example2": "Set-theoretic logic helps in database query optimization.",
+    "example3": "This data structure is built on set-theoretic principles.",
+    "Explanation": "The term 'set-theoretic' refers to mathematical operations and logic based on the study of sets (like intersection, union, and difference). In IT, this is essential for database management, where SQL queries perform set operations on tables of data. It is an adjective. Understanding this logic allows you to write efficient code and queries. It is a technical term used in advanced database design and formal language theory",
+    "synonyms": [
+      "mathematical",
+      "logical"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "set theory",
+    "verbForm": "N/A",
+    "adjectiveForm": "set-theoretic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, logic, mathematics",
+    "usageTip": "Use 'set-theoretic' to describe logic based on set theory.",
+    "commonMistake": "Using this term to describe simple lists or arrays.",
+    "collocations": [
+      "set-theoretic operations",
+      "set-theoretic logic",
+      "set-theoretic principles"
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "word": "Separate",
+    "meaning": "Forming or viewed as a unit apart or by itself; not joined or connected. | To cause to move or be apart; not joined or connected.",
+    "shortMeaning": "apart; not joined",
+    "example": "They have separate bank accounts.",
+    "example2": "Please separate the recyclables from the trash.",
+    "example3": "The garage is separate from the house.",
+    "Explanation": "Separate can be an adjective, verb, or noun. As an adjective (pronounced SEP-rit), it means distinct, individual, or not connected. As a verb (SEP-uh-rate), it means to cause to move or be apart. It emphasizes individuality and division. A common mistake is misspelling it as 'seperate.' The concept is fundamental to categorization, organization, and personal boundaries. 'Separate but equal' is a famous (and discredited) phrase. In cooking, to 'separate eggs' means to divide yolks from whites. This word is essential for clear communication about distinction, division, and independence in both physical and abstract contexts.",
+    "synonyms": [
+      "Detached",
+      "Disconnect",
+      "Distinct",
+      "Divide",
+      "Divided",
+      "Individual",
+      "Isolated",
+      "Split"
+    ],
+    "antonyms": [
+      "Combine",
+      "Combined",
+      "Connect",
+      "Connected",
+      "Join",
+      "Joined",
+      "Together",
+      "Unite",
+      "United"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Relationships, organization, law, and everyday tasks.",
+    "usageTip": "As an adjective, use 'separate from' (e.g., 'Keep this separate from that'). As a verb, use 'separate into' or 'separate from.'",
+    "commonMistake": "Misspelling as 'seperate'. Remember: 'There's a rat in separate.'",
+    "collocations": [
+      "separate entity",
+      "go our separate ways",
+      "separate the wheat from the chaff"
+    ]
+  },
+  {
+    "word": "Separate",
+    "meaning": "Existing apart from others",
+    "shortMeaning": "apart",
+    "example": "Please keep your work and personal files in separate folders.",
+    "example2": "The database runs on a separate server.",
+    "example3": "Each project needs a separate workspace.",
+    "Explanation": "Separate describes something that is distinct, apart, or not connected to something else. In IT, we often put things in separate locations, servers, or accounts to keep them organized and secure. For example, keeping production data in a separate environment from development data is a standard security practice. Understanding the need to keep components separate helps in creating clean, reliable systems. It implies clear boundaries and organization.",
+    "synonyms": [
+      "distinct",
+      "apart",
+      "disconnected"
+    ],
+    "antonyms": [
+      "joined",
+      "integrated",
+      "united"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Organization, security, file systems",
+    "usageTip": "Use 'separate' to clarify when something is not part of another thing.",
+    "commonMistake": "Confusing 'separate' with 'separable' (separable is the capacity to be split).",
+    "collocations": [
+      "separate server",
+      "keep separate",
+      "separate folder"
+    ]
+  },
+  {
+    "word": "Separate",
+    "meaning": "Existing or kept apart; distinct",
+    "shortMeaning": "apart",
+    "example": "Please store the user data in a separate folder.",
+    "example2": "We need a separate instance for testing purposes.",
+    "example3": "The code uses separate files for CSS and JavaScript.",
+    "Explanation": "Separate describes items that are not connected or mixed. In IT, we often use separate databases, servers, or files to maintain security and organization. Keeping development and production environments separate is a standard rule to prevent accidental data loss. Using separate entities helps minimize conflict and simplifies debugging when something goes wrong. Always keep important things distinct to improve management.",
+    "synonyms": [
+      "distinct",
+      "independent",
+      "disconnected"
+    ],
+    "antonyms": [
+      "combined",
+      "connected",
+      "mixed"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "File management, environments",
+    "usageTip": "Use 'separate' to emphasize distinct parts or instances.",
+    "commonMistake": "Mixing production and test environments.",
+    "collocations": [
+      "separate file",
+      "separate instance",
+      "keep separate"
+    ]
+  },
+  {
+    "word": "Separate",
+    "meaning": "To isolate code sections, divide database columns, or split up mixed application layout files",
+    "shortMeaning": "divide or isolate elements",
+    "example": "It is best practice to separate your structural HTML styles from your layout CSS logic.",
+    "example2": "The developer chose to separate raw user records from general application logs databases.",
+    "example3": "You must use a comma to separate different string parameters inside your JSON files.",
+    "Explanation": "The verb 'Separate' is fundamental to clean software design. It means isolating distinct architectural parts, data fields, or code instructions from one another. By separating application layers—like keeping raw data separate from interface presentation styles—developers ensure their codebases are clean, organized, manageable, and easy to scale without generating messy logic conflicts.",
+    "synonyms": [
+      "divide",
+      "isolate",
+      "disconnect",
+      "split"
+    ],
+    "antonyms": [
+      "combine",
+      "merge",
+      "integrate",
+      "mix"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separate",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "File structures, database schema organization, and clean code formatting routines",
+    "usageTip": "Use 'separate' to define the physical or structural splitting of system parts to ensure clean isolation.",
+    "commonMistake": "Spelling it as 'seperate' with an 'e' in the middle, which is an incredibly frequent typing error.",
+    "collocations": [
+      "separate code blocks",
+      "separate data tables",
+      "keep completely separate"
+    ]
+  }
+]

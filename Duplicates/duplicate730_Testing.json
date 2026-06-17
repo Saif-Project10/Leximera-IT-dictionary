@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Testing",
+    "meaning": "The act of subjecting something to a test; difficult and stressful.",
+    "shortMeaning": "carrying out tests; difficult",
+    "example": "The product is still in the testing phase. (noun)",
+    "example2": "It was a testing time for the whole family. (adjective)",
+    "example3": "Software testing is a critical part of development.",
+    "Explanation": "Testing is the noun form of the verb 'test', referring to the process of evaluating something. In development, it's a crucial stage before release. As an adjective, 'testing' means challenging someone's patience or abilities, putting them under strain. This dual meaning connects the idea of a trial with the experience of difficulty. A 'testing situation' is one that pushes limits. The word is central to quality assurance in many industries and is also used in everyday language to describe tough experiences.",
+    "synonyms": [
+      "evaluation",
+      "trialing",
+      "difficult",
+      "challenging",
+      "trying"
+    ],
+    "antonyms": [
+      "acceptance",
+      "easy",
+      "straightforward"
+    ],
+    "nounForm": "testing",
+    "verbForm": "test",
+    "adjectiveForm": "testing",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Quality control, software development, difficult periods",
+    "usageTip": "As a noun, it's often part of compound terms (beta testing, stress testing). As an adjective, it describes situations.",
+    "commonMistake": "Using 'testing' only as a verb form (present participle). Remember it's also a noun and adjective.",
+    "collocations": [
+      "rigorous testing",
+      "testing time",
+      "testing environment",
+      "user testing"
+    ]
+  },
+  {
+    "word": "Testing",
+    "meaning": "The process of evaluating software to find bugs or ensure quality.",
+    "shortMeaning": "evaluating quality",
+    "example": "Unit testing is a critical part of our workflow.",
+    "example2": "We are currently in the testing phase of the project.",
+    "example3": "Automated testing saves us hours every week.",
+    "Explanation": "The word 'testing' refers to the entire practice of verifying software behavior. It ranges from manual UI exploration to complex automated unit, integration, and end-to-end tests. Testing is not a 'final step'; it is a continuous activity that runs alongside development. A good testing strategy covers as many edge cases as possible to build a robust, reliable, and user-friendly product.",
+    "synonyms": [
+      "QA",
+      "verification",
+      "validation"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "testing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Quality assurance and development",
+    "usageTip": "Use 'testing' to describe the practice of verifying software.",
+    "commonMistake": "Neglecting testing until the very end, which is very costly.",
+    "collocations": [
+      "automated testing",
+      "testing phase",
+      "unit testing"
+    ]
+  },
+  {
+    "word": "Testing",
+    "meaning": "The process of investigating software to ensure it works correctly",
+    "shortMeaning": "process of checking",
+    "example": "Automated testing saves a lot of time.",
+    "example2": "He is currently involved in unit testing.",
+    "example3": "Testing is a crucial part of our workflow.",
+    "Explanation": "Testing is the systematic process of checking software for errors and ensuring it meets business requirements. It covers various types like unit testing, integration testing, and stress testing. It is the core activity of quality assurance teams and responsible developers. Proper testing prevents failures that could be costly. It is an ongoing cycle throughout the life of the application.",
+    "synonyms": [
+      "checking",
+      "verification",
+      "validation"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "testing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Quality assurance, software life cycle",
+    "usageTip": "Use it to refer to the whole process of checking your code.",
+    "commonMistake": "Ignoring the importance of documentation while performing testing.",
+    "collocations": [
+      "automated testing",
+      "unit testing",
+      "software testing"
+    ]
+  }
+]

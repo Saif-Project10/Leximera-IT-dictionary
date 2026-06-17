@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Constant",
+    "meaning": "Happening continuously or repeatedly over a period of time; unchanging.",
+    "shortMeaning": "always happening",
+    "example": "The constant noise from the construction site was annoying.",
+    "example2": "She was a constant source of support for her friends.",
+    "example3": "The speed of light is a constant in physics.",
+    "Explanation": "'Constant' is a very useful adjective. It describes something that does not stop or change. It can have a neutral meaning (a constant temperature), a positive meaning (constant love), or a negative meaning (constant interruptions). In mathematics and science, a 'constant' (noun) is a fixed value. The word emphasizes persistence and reliability, whether good or bad. It is stronger than 'frequent', which means happening often but not necessarily without pause. Understanding what is constant in a situation helps identify stability or ongoing problems.",
+    "synonyms": [
+      "continual",
+      "continuous",
+      "unchanging",
+      "persistent"
+    ],
+    "antonyms": [
+      "variable",
+      "intermittent",
+      "inconstant",
+      "occasional"
+    ],
+    "nounForm": "constancy / constant",
+    "verbForm": "N/A",
+    "adjectiveForm": "constant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing ongoing situations, science, relationships, complaints",
+    "usageTip": "Use it for things that are steady and do not vary over time.",
+    "commonMistake": "Confusing it with 'consistent', which means always behaving or happening in a similar way.",
+    "collocations": [
+      "constant companion",
+      "constant pressure",
+      "constant reminder",
+      "constant speed"
+    ]
+  },
+  {
+    "word": "Constant",
+    "meaning": "Occurring continuously over a period of time; or a value that does not change",
+    "shortMeaning": "continuous or unchanging",
+    "example": "The constant changes in the project requirements made it difficult to finish on time.",
+    "example2": "In programming, a constant is a variable that cannot be reassigned.",
+    "example3": "The server faces constant traffic throughout the day.",
+    "Explanation": "The word 'constant' has two meanings. In a general sense, it means something that happens all the time (like 'constant noise'). In programming, it refers to a specific piece of data whose value is defined once and then never allowed to change. Using constants for settings (like URLs or maximum limits) is a 'best practice' because it prevents accidental errors where a value might be changed by mistake. It is an essential concept for writing stable and secure code.",
+    "synonyms": [
+      "continuous",
+      "fixed",
+      "unchanging"
+    ],
+    "antonyms": [
+      "variable",
+      "changing",
+      "fluctuating"
+    ],
+    "nounForm": "constant",
+    "verbForm": "N/A",
+    "adjectiveForm": "constant",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Programming, time management, math",
+    "usageTip": "Use 'constant' to describe values in your code that should never change during runtime.",
+    "commonMistake": "Confusing 'constant' with 'continuous'; continuous is about time, constant is about stability or fixed values.",
+    "collocations": [
+      "constant value",
+      "constant traffic",
+      "constant effort"
+    ]
+  }
+]

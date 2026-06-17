@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Secure web",
+    "meaning": "The part of the internet that uses encryption protocols to protect user data and privacy",
+    "shortMeaning": "safe internet",
+    "example": "The transition to a secure web has made online shopping much safer.",
+    "example2": "Browsers now warn users when they are not on the secure web.",
+    "example3": "A secure web requires websites to have valid digital certificates.",
+    "Explanation": "The 'Secure Web' refers to the ecosystem of websites that use HTTPS instead of HTTP. On the secure web, all communication between your browser and the website is encrypted. This means that if you are using public Wi-Fi at a coffee shop, others cannot see what you are doing on those sites. Modern browsers like Chrome and Firefox now push for a '100% secure web,' where every single site is encrypted. This concept also involves protecting users from malicious sites and ensuring that the identity of the website owner is verified.",
+    "synonyms": [
+      "encrypted web",
+      "HTTPS-only web"
+    ],
+    "antonyms": [
+      "cleartext web",
+      "unsecured web"
+    ],
+    "nounForm": "web security",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure web (e.g., secure web browsing)",
+    "partOfSpeech": "noun",
+    "commonContext": "Internet standards and general browsing",
+    "usageTip": "Use this term to talk about the general state of a safe internet.",
+    "commonMistake": "Thinking a site on the 'secure web' is 100% safe from scams; it only means the connection is encrypted.",
+    "collocations": [
+      "secure web browsing",
+      "secure web connection",
+      "secure web standards"
+    ]
+  },
+  {
+    "word": "Secure web",
+    "meaning": "Communication over the internet using encryption",
+    "shortMeaning": "encrypted web",
+    "example": "Secure web browsing uses the HTTPS protocol.",
+    "example2": "We are hosting a secure web application.",
+    "example3": "Always check for the lock icon in your secure web browser.",
+    "Explanation": "The term 'secure web' refers to websites and applications that encrypt communications between the user's browser and the server, typically using HTTPS (TLS/SSL). This prevents third parties from eavesdropping on data being sent, such as passwords or personal information. 'Secure web browsing' is the practice of navigating the internet using these encrypted connections. It is a standard requirement for all professional and personal web applications today.",
+    "synonyms": [
+      "HTTPS",
+      "encrypted web",
+      "safe web"
+    ],
+    "antonyms": [
+      "insecure web",
+      "HTTP",
+      "unencrypted"
+    ],
+    "nounForm": "web security",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Web browsing, cyber security",
+    "usageTip": "Use 'secure web' to describe encrypted internet communication.",
+    "commonMistake": "Confusing 'secure web' with 'ad-free' or 'private'; it refers specifically to encryption.",
+    "collocations": [
+      "secure web browsing",
+      "secure web application",
+      "secure web connection"
+    ]
+  },
+  {
+    "word": "Secure web",
+    "meaning": "Web browsing protected by encryption (HTTPS)",
+    "shortMeaning": "protected web access",
+    "example": "Always ensure you are using a secure web connection for banking.",
+    "example2": "Our site is served over a secure web protocol.",
+    "example3": "The browser displays a lock icon for secure web pages.",
+    "Explanation": "A secure web environment uses protocols like HTTPS (Hypertext Transfer Protocol Secure) to encrypt the data sent between the browser and the web server. This protects sensitive information, such as login credentials and financial details, from being intercepted by third parties. In IT, developing for a secure web is standard practice; any site handling user data must implement these security layers to ensure trust and protect the user.",
+    "synonyms": [
+      "HTTPS",
+      "encrypted web"
+    ],
+    "antonyms": [
+      "insecure web",
+      "HTTP",
+      "unencrypted web"
+    ],
+    "nounForm": "security",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web browsing, security, networking",
+    "usageTip": "Use for web interactions using HTTPS.",
+    "commonMistake": "Thinking a secure web page guarantees the site is trustworthy.",
+    "collocations": [
+      "secure web browsing",
+      "secure web connection",
+      "use a secure web"
+    ]
+  }
+]

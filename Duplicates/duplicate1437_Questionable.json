@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Questionable",
+    "meaning": "Doubtful as to truth or quality; not clearly right or honest",
+    "shortMeaning": "doubtful, dubious",
+    "example": "The company's accounting practices are questionable.",
+    "example2": "He made a questionable decision to drive in the storm.",
+    "example3": "The origins of the money were questionable.",
+    "Explanation": "'Questionable' is an adjective that casts doubt or suspicion on something. It suggests that something may not be true, proper, legal, or of good quality. It is more diplomatic than directly calling something 'bad' or 'false'. It invites scrutiny. It can describe actions, decisions, motives, sources, or quality. It's a useful word for expressing criticism without being overly harsh. The implication is that there are good reasons to question the thing in question.",
+    "synonyms": [
+      "dubious",
+      "debatable",
+      "suspect"
+    ],
+    "antonyms": [
+      "unquestionable",
+      "indisputable",
+      "certain"
+    ],
+    "nounForm": "question",
+    "verbForm": "question",
+    "adjectiveForm": "questionable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Ethics, decisions, sources, quality",
+    "usageTip": "Often used to soften criticism. Instead of 'That's wrong,' say 'That's questionable.'",
+    "commonMistake": "Using it to mean 'asking a question'. That's 'questioning'.",
+    "collocations": [
+      "highly questionable",
+      "morally questionable",
+      "questionable judgment"
+    ]
+  },
+  {
+    "word": "Questionable",
+    "meaning": "Doubtful, suspicious, or not clearly correct",
+    "shortMeaning": "suspicious",
+    "example": "The security of this script is questionable.",
+    "example2": "There was questionable logic in the code provided.",
+    "example3": "His claims about system speed are questionable.",
+    "Explanation": "Questionable describes something that creates doubt or seems untrustworthy. In IT, if a feature or code block is questionable, it suggests it might not work as intended or could be a security risk. It implies you should double-check before relying on it. Being skeptical of questionable inputs is a key part of building secure software. It is a polite way to suggest that something needs more verification.",
+    "synonyms": [
+      "doubtful",
+      "suspicious",
+      "uncertain"
+    ],
+    "antonyms": [
+      "certain",
+      "reliable",
+      "trusted"
+    ],
+    "nounForm": "questionability",
+    "verbForm": "N/A",
+    "adjectiveForm": "questionable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code review, security, evaluation",
+    "usageTip": "Use 'questionable' to flag things that look wrong or need validation.",
+    "commonMistake": "Using 'questionable' too aggressively; it is better to be constructive.",
+    "collocations": [
+      "questionable logic",
+      "questionable source",
+      "questionable reliability"
+    ]
+  }
+]

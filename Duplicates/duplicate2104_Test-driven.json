@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Test-driven",
+    "meaning": "Following the practice of writing tests before writing the actual code.",
+    "shortMeaning": "tests come first",
+    "example": "We use a test-driven development (TDD) approach.",
+    "example2": "Test-driven code is generally more stable.",
+    "example3": "He is a strong advocate for test-driven practices.",
+    "Explanation": "The term 'test-driven' refers to the software methodology known as Test-Driven Development (TDD). In this cycle, you write a test, see it fail, write only enough code to make it pass, and then refactor. This ensures your code is always tested, modular, and designed to meet requirements from day one. While it takes longer to set up, it significantly reduces the number of bugs that reach production.",
+    "synonyms": [
+      "TDD-based"
+    ],
+    "antonyms": [
+      "code-first"
+    ],
+    "nounForm": "TDD",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development methodology",
+    "usageTip": "Use 'test-driven' to describe the TDD methodology.",
+    "commonMistake": "Thinking test-driven means just running tests at the end.",
+    "collocations": [
+      "test-driven development",
+      "test-driven approach"
+    ]
+  },
+  {
+    "word": "Test-driven",
+    "meaning": "A development process where tests are written before the code",
+    "shortMeaning": "tests before code",
+    "example": "Our team follows a test-driven approach.",
+    "example2": "Test-driven development improves software reliability.",
+    "example3": "He prefers a test-driven strategy for new features.",
+    "Explanation": "Test-driven development, or TDD, is a technique where developers write a test case for a feature before writing the actual code. This ensures that the code meets the requirements from the start. It leads to better design, fewer bugs, and easier maintenance. Although it takes more time upfront, it saves significant time during debugging. It is a fundamental practice in modern software engineering.",
+    "synonyms": [
+      "TDD",
+      "test-first"
+    ],
+    "antonyms": [
+      "code-first",
+      "ad-hoc"
+    ],
+    "nounForm": "test-driven development",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, quality assurance",
+    "usageTip": "Use as a modifier for development processes or methodologies.",
+    "commonMistake": "Calling it test-driven when only writing tests after the code is finished.",
+    "collocations": [
+      "test-driven development",
+      "test-driven approach",
+      "test-driven workflow"
+    ]
+  }
+]

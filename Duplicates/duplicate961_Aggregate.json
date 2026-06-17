@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Aggregate",
+    "meaning": "1. A whole formed by combining several separate elements. 2. To collect or combine into a single group or total.",
+    "shortMeaning": "total or to combine",
+    "example": "The aggregate score determined the winner.",
+    "example2": "We need to aggregate data from all departments.",
+    "example3": "Sand and gravel are types of aggregate used in construction.",
+    "Explanation": "'Aggregate' is both a noun and a verb, central to data, economics, and construction. As a noun, it refers to a total amount formed by adding parts together. As a verb, it means to collect items into a whole. In construction, 'aggregate' is a material like sand mixed with cement. This word implies a process of bringing disparate elements together to form a unified sum or mass. It is a formal term often used in technical reports.",
+    "synonyms": [
+      "total",
+      "sum",
+      "combination (noun); combine, accumulate (verb)"
+    ],
+    "antonyms": [
+      "individual",
+      "component",
+      "separate (verb)"
+    ],
+    "nounForm": "aggregate",
+    "verbForm": "aggregate",
+    "adjectiveForm": "aggregate",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Statistics, economics, finance, construction, data analysis",
+    "usageTip": "Use 'aggregate' when talking about combined totals, especially in technical or business contexts.",
+    "commonMistake": "Pronouncing it incorrectly. It's AG-gri-gut (noun/adj) or AG-gri-gate (verb).",
+    "collocations": [
+      "in the aggregate",
+      "aggregate demand",
+      "data aggregation"
+    ]
+  },
+  {
+    "word": "Aggregate",
+    "meaning": "A total formed by combining several separate pieces of data or elements",
+    "shortMeaning": "combined total",
+    "example": "The dashboard displays the aggregate monthly traffic of all our sites.",
+    "example2": "We need to aggregate the error logs from all three database servers.",
+    "example3": "The aggregate data shows an increase in mobile app downloads.",
+    "Explanation": "The word 'aggregate' functions as a noun, verb, and adjective. In database management, data science, and IT reporting, it is a highly technical concept. It involves gathering multiple individual rows of data or statistics and combining them to form a single summary value, such as a sum, average, or total count. SQL features 'aggregate functions' like SUM() or AVG() to achieve this. It helps engineers and analysts understand high-level trends without getting lost in individual data points.",
+    "synonyms": [
+      "total",
+      "combined",
+      "cumulative"
+    ],
+    "antonyms": [
+      "individual",
+      "separated",
+      "detailed"
+    ],
+    "nounForm": "aggregate / aggregation",
+    "verbForm": "aggregate",
+    "adjectiveForm": "aggregate",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "Database queries, data science analytics, and network bandwidth calculations",
+    "usageTip": "Use 'aggregate' when you are combining many smaller metrics or data records into a single summary view.",
+    "commonMistake": "Confusing 'aggregate' with 'average'; an average is just one specific type of aggregate value.",
+    "collocations": [
+      "aggregate data",
+      "aggregate functions",
+      "aggregate value"
+    ]
+  },
+  {
+    "word": "Aggregate",
+    "meaning": "To collect multiple items or pieces of data into a single group",
+    "shortMeaning": "collect together",
+    "example": "The website will aggregate news from many different sources into one feed.",
+    "example2": "We need to aggregate the sales data to see the total for the year.",
+    "example3": "The app allows users to aggregate all their social media accounts in one place.",
+    "Explanation": "Aggregation is a fundamental concept in data science and software development. It involves taking individual data points and combining them—often by summing, averaging, or grouping them. For example, a weather app might 'aggregate' temperature data from thousands of sensors to give an average for a city. It turns a lot of small information into one big, useful piece of information. An 'aggregator' website (like Reddit or Google News) works by bringing content from other places into one view. It is essential for reporting and analytics.",
+    "synonyms": [
+      "combine",
+      "collect",
+      "group"
+    ],
+    "antonyms": [
+      "separate",
+      "disperse",
+      "divide"
+    ],
+    "nounForm": "aggregation",
+    "verbForm": "aggregate",
+    "adjectiveForm": "aggregate",
+    "partOfSpeech": "verb / noun / adjective",
+    "commonContext": "Data analysis and Web services",
+    "usageTip": "Use 'aggregate' when you are bringing different data points together to analyze them.",
+    "commonMistake": "Confusing 'aggregate' with 'average' (average is just one type of aggregation).",
+    "collocations": [
+      "data aggregation",
+      "news aggregator",
+      "aggregate total"
+    ]
+  }
+]

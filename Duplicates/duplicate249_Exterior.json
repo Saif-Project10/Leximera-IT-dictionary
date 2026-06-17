@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Exterior",
+    "meaning": "The outer surface or structure of something; the outside appearance.",
+    "shortMeaning": "outside part",
+    "example": "The exterior of the house was painted white.",
+    "example2": "Despite a rough exterior, he is very gentle.",
+    "example3": "The camera is designed to withstand harsh exterior conditions.",
+    "Explanation": "Exterior is a noun and adjective that specifically refers to the outer part of something. It is often used in contrast with 'interior.' As a noun, it means the outside appearance or facade. As an adjective, it describes something on the outside (exterior wall). It is more formal than 'outside' and is commonly used in architecture, design, and descriptions of people's demeanor. A common mistake is pronouncing it incorrectly (stress on the second syllable: ek-STEER-ee-er). Using 'exterior' adds precision when distinguishing between the outer and inner aspects of an object, building, or person.",
+    "synonyms": [
+      "outside",
+      "surface",
+      "facade",
+      "appearance"
+    ],
+    "antonyms": [
+      "interior",
+      "inside",
+      "core"
+    ],
+    "nounForm": "exterior",
+    "verbForm": "N/A",
+    "adjectiveForm": "exterior",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Architecture, car design, personal demeanor, and film sets.",
+    "usageTip": "Use 'exterior' as a more formal or technical term for the outside of something, especially buildings and objects.",
+    "commonMistake": "Confusing 'exterior' (outside) with 'external' (often meaning coming from outside a system or group).",
+    "collocations": [
+      "exterior design",
+      "hard exterior",
+      "building exterior"
+    ]
+  },
+  {
+    "word": "Exterior",
+    "meaning": "The outer surface or part of something",
+    "shortMeaning": "outside part",
+    "example": "The exterior of the server casing is made of brushed aluminum.",
+    "example2": "Check the exterior cables for any damage.",
+    "example3": "The design focuses on the exterior appearance of the device.",
+    "Explanation": "The word 'exterior' refers to the outer side or surface. In physical computing or hardware design, 'exterior' refers to the case or the outer shell. In software, this is rarely used, but when discussing hardware, it is the standard term. It contrasts with 'interior' or 'internal'. It focuses on physical visibility and protection from the outside environment. Always use it when discussing physical hardware components or the outer layout of a structure.",
+    "synonyms": [
+      "outer",
+      "outside",
+      "external"
+    ],
+    "antonyms": [
+      "interior",
+      "internal",
+      "inside"
+    ],
+    "nounForm": "exterior",
+    "verbForm": "N/A",
+    "adjectiveForm": "exterior",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Hardware engineering, physical design, and site maintenance",
+    "usageTip": "Use 'exterior' for the outer part of a physical object.",
+    "commonMistake": "Using 'exterior' to describe something digital (use 'interface' or 'frontend' instead).",
+    "collocations": [
+      "exterior design",
+      "exterior casing",
+      "exterior wall"
+    ]
+  }
+]

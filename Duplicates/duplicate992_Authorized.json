@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Authorized",
+    "meaning": "Having official permission or approval.",
+    "shortMeaning": "officially permitted",
+    "example": "Only authorized personnel may enter this area.",
+    "example2": "She is an authorized dealer for the product.",
+    "example3": "Make sure you use an authorized version of the software.",
+    "Explanation": "'Authorized' is an adjective describing something or someone that has been given official permission or approval. It implies legitimacy and formal sanction. The opposite is 'unauthorized'. It's commonly used in security contexts (authorized access), business (authorized dealer), and legal matters (authorized representative). The verb form is 'authorize'. It's a word that establishes boundaries and indicates who or what has been officially approved.",
+    "synonyms": [
+      "approved",
+      "permitted",
+      "sanctioned",
+      "licensed"
+    ],
+    "antonyms": [
+      "unauthorized",
+      "unapproved",
+      "prohibited",
+      "illegal"
+    ],
+    "nounForm": "authorization",
+    "verbForm": "authorize",
+    "adjectiveForm": "authorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, business, legal documents, access control",
+    "usageTip": "Often appears before nouns like 'personnel', 'dealer', 'representative', or 'access'.",
+    "commonMistake": "Spelling as 'authorised' (British) vs. 'authorized' (American). Both are correct in their respective dialects.",
+    "collocations": [
+      "authorized user",
+      "authorized signature",
+      "fully authorized"
+    ]
+  },
+  {
+    "word": "Authorized",
+    "meaning": "Having official permission or approval to do something or access a resource",
+    "shortMeaning": "having official permission",
+    "example": "Only authorized technicians are allowed to enter the physical server data room.",
+    "example2": "The system admin authorized the new cloud budget allocation yesterday.",
+    "example3": "This security key grants authorized access to internal company repositories.",
+    "Explanation": "The word 'authorized' means that permission has been granted to a verified person or application to perform specific actions. In IT security, after you prove who you are (authentication), the system checks if you are 'authorized' to view specific sensitive directories. This prevents data leaks. The base verb is 'authorize', and the noun form is 'authorization'. It is key for setting up security walls.",
+    "synonyms": [
+      "permitted",
+      "approved",
+      "sanctioned"
+    ],
+    "antonyms": [
+      "unauthorized",
+      "banned",
+      "forbidden"
+    ],
+    "nounForm": "authorization",
+    "verbForm": "authorize",
+    "adjectiveForm": "authorized",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Access control layers, security profiles, corporate administrative approvals",
+    "usageTip": "Use 'authorized' to describe actions or individuals that have passed permission safety checks.",
+    "commonMistake": "Mixing up 'authorized' with 'authenticated'; a guest user can be authenticated but still not authorized to edit files.",
+    "collocations": [
+      "authorized access",
+      "authorized user",
+      "officially authorized"
+    ]
+  }
+]

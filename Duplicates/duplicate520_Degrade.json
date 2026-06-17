@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Degrade",
+    "meaning": "To treat or regard someone with disrespect; to cause something to become worse in quality.",
+    "shortMeaning": "disrespect, deteriorate",
+    "example": "It is wrong to degrade someone for their mistakes.",
+    "example2": "Sunlight can degrade the quality of plastic over time.",
+    "example3": "The video's resolution was degraded by compression.",
+    "Explanation": "The verb 'degrade' has a strong human meaning (to lower in dignity, to insult) and a material meaning (to break down or reduce in quality). It implies a movement from a higher to a lower state. The noun is 'degradation'. A common mistake is using it only for environmental contexts (land degradation). It applies to morals, materials, performance, and data. It often carries a negative moral judgment when applied to people. In science, it's a neutral term for chemical or physical breakdown. It's a powerful word for describing decline with a sense of insult or damage.",
+    "synonyms": [
+      "demean",
+      "deteriorate",
+      "debase"
+    ],
+    "antonyms": [
+      "dignify",
+      "improve",
+      "enhance"
+    ],
+    "nounForm": "degradation",
+    "verbForm": "degrade",
+    "adjectiveForm": "degraded",
+    "partOfSpeech": "verb",
+    "commonContext": "Environment, human rights, materials, signal quality",
+    "usageTip": "In human contexts, it's very negative: 'language that degrades women'. In technical contexts, it's descriptive: 'the signal degrades over distance'.",
+    "commonMistake": "Confusing 'degrade' with 'downgrade'. 'Downgrade' is to lower a rank or version; 'degrade' is to insult or cause deterioration.",
+    "collocations": [
+      "degrade performance",
+      "degrade rapidly",
+      "morally degrade"
+    ]
+  },
+  {
+    "word": "Degrade",
+    "meaning": "To lower the quality, status, or value of something",
+    "shortMeaning": "to lower quality",
+    "example": "The signal will degrade if the cable is too long.",
+    "example2": "Using harsh chemicals can degrade the plastic over time.",
+    "example3": "The poor working conditions began to degrade the morale of the staff.",
+    "Explanation": "To 'degrade' means to cause a reduction in the level or quality of something. In IT, 'signal degradation' refers to the loss of data quality as it travels. In environmental science, 'biodegradable' means something can be broken down naturally. It can also refer to treating a person with disrespect, lowering their social status. It is a very common term in engineering and social sciences to describe a downward trend in performance or respect.",
+    "synonyms": [
+      "deteriorate",
+      "corrupt",
+      "demean",
+      "weaken"
+    ],
+    "antonyms": [
+      "upgrade",
+      "enhance",
+      "honor",
+      "improve"
+    ],
+    "nounForm": "degradation",
+    "verbForm": "degrade",
+    "adjectiveForm": "degraded",
+    "partOfSpeech": "verb",
+    "commonContext": "Electronics, environment, and social interactions",
+    "usageTip": "Use 'degrade' when talking about a slow loss of quality or performance.",
+    "commonMistake": "Confusing 'degrade' with 'downgrade' (which is usually a deliberate choice).",
+    "collocations": [
+      "degrade the environment",
+      "signal degradation",
+      "degrade performance"
+    ]
+  }
+]

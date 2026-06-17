@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Indifferent",
+    "meaning": "Having no particular interest or sympathy; unconcerned; neither good nor bad.",
+    "shortMeaning": "unconcerned; mediocre",
+    "example": "He was indifferent to the suffering of others.",
+    "example2": "The food was of indifferent quality.",
+    "example3": "She gave an indifferent shrug when asked for her opinion.",
+    "Explanation": "'Indifferent' is an adjective with two main shades of meaning. The first and most common is a lack of interest, care, or concern—apathy. The second is a neutral quality that is not very good; mediocre. It's important to interpret from context. Being called indifferent is usually a criticism when referring to attitude, suggesting coldness or detachment. When describing quality, it's a lukewarm assessment. The noun is 'indifference'. It's a word that describes a middle ground of non-engagement or non-excellence.",
+    "synonyms": [
+      "unconcerned",
+      "apathetic",
+      "mediocre"
+    ],
+    "antonyms": [
+      "concerned",
+      "enthusiastic",
+      "excellent"
+    ],
+    "nounForm": "indifference",
+    "verbForm": "N/A",
+    "adjectiveForm": "indifferent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Attitudes, quality, performance, reactions",
+    "usageTip": "Use 'indifferent to' something (e.g., 'indifferent to politics', 'indifferent to pain').",
+    "commonMistake": "Confusing 'indifferent' (not caring) with 'different' (not the same).",
+    "collocations": [
+      "remain indifferent",
+      "seemingly indifferent",
+      "indifferent shrug"
+    ]
+  },
+  {
+    "word": "Indifferent",
+    "meaning": "Having no particular interest or concern",
+    "shortMeaning": "not caring",
+    "example": "The system is indifferent to the file's original name.",
+    "example2": "He seemed indifferent to the new project goals.",
+    "example3": "The algorithm is indifferent to the data order.",
+    "Explanation": "The word 'indifferent' means that something does not make a difference, or that a person does not have an opinion. In technical terms, if a process is 'indifferent' to a variable, it means the variable does not affect the output. It is an adjective. In human contexts, it means lacking interest. Use this term to show where a variable or a person has no impact or preference.",
+    "synonyms": [
+      "unconcerned",
+      "neutral",
+      "apathetic"
+    ],
+    "antonyms": [
+      "interested",
+      "concerned",
+      "biased"
+    ],
+    "nounForm": "indifference",
+    "verbForm": "N/A",
+    "adjectiveForm": "indifferent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data logic, neutral behavior",
+    "usageTip": "Use when something has no impact on a process.",
+    "commonMistake": "Confusing 'indifferent' with 'different'.",
+    "collocations": [
+      "indifferent to",
+      "remain indifferent",
+      "seem indifferent"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Fingerprint",
+    "meaning": "A unique identifier derived from data or an object; in computing, a hash value that uniquely identifies a file, certificate, or device.",
+    "shortMeaning": "unique identifying mark",
+    "example": "The SSL certificate's fingerprint is used to verify its authenticity.",
+    "example2": "Each device has a unique hardware fingerprint.",
+    "example3": "The fingerprint of the malware sample matched known threats in the database.",
+    "Explanation": "Fingerprint is a metaphor for a unique and identifying characteristic. In computing, it usually refers to a hash value (like a checksum or digest) that acts as a short, practically unique identifier for a larger set of data. For example, an SSH host key fingerprint, a file hash, or a browser/device fingerprint used for tracking. It implies uniqueness and identifiability. Unlike a simple checksum for error detection, a fingerprint is often used for identification and verification purposes (e.g., verifying you're connecting to the right server). The term connects the digital concept to the physical uniqueness of human fingerprints.",
+    "synonyms": [
+      "hash",
+      "digest",
+      "unique ID",
+      "signature (in context)"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "fingerprint",
+    "verbForm": "fingerprint",
+    "adjectiveForm": "fingerprinted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, digital forensics, network administration, and tracking.",
+    "usageTip": "Use 'fingerprint' when the hash is being used to identify something uniquely, not just check for errors.",
+    "commonMistake": "Confusing 'fingerprint' with 'digital signature.' A fingerprint is a hash; a digital signature is an encrypted fingerprint that proves origin.",
+    "collocations": [
+      "digital fingerprint",
+      "take a fingerprint",
+      "fingerprint matching"
+    ]
+  },
+  {
+    "word": "Fingerprint",
+    "meaning": "A unique identifier for a piece of digital data or a physical person",
+    "shortMeaning": "unique ID",
+    "example": "The browser fingerprint can be used to track users without cookies.",
+    "example2": "Each file has a digital fingerprint called a hash value.",
+    "example3": "The police took the suspect's fingerprint at the station.",
+    "Explanation": "In the digital world, a fingerprint is a unique string of characters (often a hash) that represents a file or a system configuration. Just like a human fingerprint is unique, a digital fingerprint ensures that data has not been changed. It is used in cybersecurity to verify file integrity and in advertising to identify specific devices. Digital fingerprinting is a powerful tool for security but also a concern for user privacy. It allows systems to recognize returning users without traditional login methods.",
+    "synonyms": [
+      "identifier",
+      "signature",
+      "hash"
+    ],
+    "antonyms": [
+      "duplicate",
+      "generic",
+      "N/A"
+    ],
+    "nounForm": "fingerprint",
+    "verbForm": "fingerprint",
+    "adjectiveForm": "fingerprinted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, forensics, and device tracking",
+    "usageTip": "Use 'fingerprint' when you need to describe a unique signature for data or devices.",
+    "commonMistake": "Thinking a digital fingerprint is an actual photo of a thumb; it is usually a mathematical code.",
+    "collocations": [
+      "digital fingerprint",
+      "device fingerprinting",
+      "browser fingerprint"
+    ]
+  }
+]

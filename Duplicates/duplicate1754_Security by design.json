@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Security by design",
+    "meaning": "An approach to software and hardware development that builds security in from the very beginning",
+    "shortMeaning": "built-in security",
+    "example": "By following security by design, the developers avoided many common vulnerabilities.",
+    "example2": "Security by design is cheaper than trying to fix security flaws after the product is finished.",
+    "example3": "The new operating system was built with security by design as its core philosophy.",
+    "Explanation": "Security by design is a philosophy that ensures security is considered at every phase of a project's lifecycle, rather than being added as an afterthought. This means that during the initial design and coding stages, developers think about how to protect data, how to verify users, and how to prevent attacks. It involves principles like 'least privilege' and 'minimizing the attack surface'. By integrating security early, the final product is inherently more robust and less likely to require emergency patches later on. It is a standard requirement in modern software engineering.",
+    "synonyms": [
+      "secure-by-design",
+      "intrinsic security",
+      "embedded security"
+    ],
+    "antonyms": [
+      "security as an afterthought",
+      "bolt-on security"
+    ],
+    "nounForm": "security by design",
+    "verbForm": "N/A",
+    "adjectiveForm": "security-by-design (as in 'a security-by-design approach')",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Software Development Life Cycle (SDLC) and Engineering",
+    "usageTip": "Advocate for security by design during the planning phase of any new IT project.",
+    "commonMistake": "Thinking security by design only applies to code; it also applies to physical architecture and business processes.",
+    "collocations": [
+      "adopt security by design",
+      "security by design framework"
+    ]
+  },
+  {
+    "word": "Security by design",
+    "meaning": "Incorporating security features from the very start of development",
+    "shortMeaning": "security from the start",
+    "example": "We adopted a security-by-design approach for the new app.",
+    "example2": "Security by design ensures our software is resilient.",
+    "example3": "Applying security by design reduces long-term maintenance costs.",
+    "Explanation": "Security by design is a software development philosophy where security is baked into every stage, from initial planning and architecture to coding and testing, rather than added as an afterthought. This approach drastically reduces vulnerabilities and ensures that the final product is inherently more robust. It is a best practice that every modern development team should follow to build trust and protect user data effectively from day one.",
+    "synonyms": [
+      "proactive security",
+      "integrated security"
+    ],
+    "antonyms": [
+      "reactive security",
+      "security as an afterthought"
+    ],
+    "nounForm": "security",
+    "verbForm": "N/A",
+    "adjectiveForm": "security-by-design",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Architecture, development, best practices",
+    "usageTip": "Use to describe proactive security planning.",
+    "commonMistake": "Adding security features at the end instead of the start.",
+    "collocations": [
+      "security-by-design approach",
+      "implement security-by-design"
+    ]
+  }
+]

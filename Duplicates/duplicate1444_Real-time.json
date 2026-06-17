@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Real-time",
+    "meaning": "Relating to a system in which input data is processed almost immediately, providing results that guide current activity.",
+    "shortMeaning": "immediate, live",
+    "example": "The app provides real-time traffic updates.",
+    "example2": "They had a real-time video conversation.",
+    "example3": "The system requires real-time data processing to function.",
+    "Explanation": "'Real-time' is a compound adjective (often hyphenated) used in computing and technology. It describes processes that happen instantaneously, with negligible delay between input and output. This is critical for applications like live streaming, online gaming, air traffic control, and stock trading. The term has also entered general language to mean 'live' or 'as it happens' (real-time reporting). It contrasts with processes that have a delay (batch processing). It's a key concept in the modern world of instant communication and data.",
+    "synonyms": [
+      "live",
+      "instantaneous",
+      "immediate"
+    ],
+    "antonyms": [
+      "delayed",
+      "recorded",
+      "offline"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "real-time",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, communications, broadcasting, finance",
+    "usageTip": "Often hyphenated, especially before a noun. Can be written as 'real time' in some contexts (e.g., 'in real time').",
+    "commonMistake": "Using it to describe something that is just fast, rather than having effectively zero delay.",
+    "collocations": [
+      "real-time data",
+      "real-time communication",
+      "real-time strategy",
+      "in real time"
+    ]
+  },
+  {
+    "word": "Real-time",
+    "meaning": "Happening immediately as events occur, without delay",
+    "shortMeaning": "instantaneous",
+    "example": "The dashboard updates the data in real-time.",
+    "example2": "Real-time communication is essential for chat apps.",
+    "example3": "The server provides real-time notifications.",
+    "Explanation": "The term 'real-time' refers to systems or processes that respond to input immediately. There is virtually no delay between an action and the system's reaction. In computing, this is vital for tasks like streaming, live monitoring, and gaming. It requires high-speed processing and efficient networking. The noun form is 'real-time', though it is most commonly used as an adjective. It is often confused with 'fast', but 'real-time' specifically means live and synchronized.",
+    "synonyms": [
+      "instant",
+      "live",
+      "immediate"
+    ],
+    "antonyms": [
+      "delayed",
+      "buffered",
+      "offline"
+    ],
+    "nounForm": "real-time",
+    "verbForm": "N/A",
+    "adjectiveForm": "real-time",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "System monitoring, communications",
+    "usageTip": "Use when describing tasks that happen without any storage or delay.",
+    "commonMistake": "Thinking 'real-time' just means 'fast'; it must be instantaneous.",
+    "collocations": [
+      "real-time data",
+      "real-time updates",
+      "real-time processing"
+    ]
+  }
+]

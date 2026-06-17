@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Veiled",
+    "meaning": "Hidden, obscured, or not clearly expressed",
+    "shortMeaning": "hidden or masked",
+    "example": "The error message was a veiled reference to a server overload.",
+    "example2": "The developer made a veiled threat to delete the repo.",
+    "example3": "The true purpose of the script was veiled by encryption.",
+    "Explanation": "The word 'veiled' means to cover or obscure something. In an IT context, it is often used when information is partially hidden, intentionally vague, or encrypted to prevent unauthorized access. A 'veiled' system or message is not fully open to the user, often to maintain security or privacy. It suggests that while something is present, it is not explicitly stated or shown. When troubleshooting, look past 'veiled' descriptions to find the underlying technical root cause.",
+    "synonyms": [
+      "obscured",
+      "hidden",
+      "masked"
+    ],
+    "antonyms": [
+      "explicit",
+      "clear",
+      "open"
+    ],
+    "nounForm": "veil",
+    "verbForm": "veil",
+    "adjectiveForm": "veiled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, documentation, communication",
+    "usageTip": "Use 'veiled' to describe something masked or not openly stated.",
+    "commonMistake": "Using it for 'encrypted' when the data is simply missing.",
+    "collocations": [
+      "veiled reference",
+      "veiled intent",
+      "veiled message"
+    ]
+  },
+  {
+    "word": "Veiled",
+    "meaning": "Hidden, obscured, or partially covered",
+    "shortMeaning": "hidden",
+    "example": "The true purpose of the feature was veiled.",
+    "email2": "The developer added a veiled warning in the code.",
+    "example3": "The internal complexity is veiled by a clean API.",
+    "Explanation": "The word 'veiled' implies that something is not clearly visible or easily understood. In IT, it often refers to complexity that is hidden behind an abstraction or a clean interface. While 'veiled' can be neutral, it can also have a negative connotation, suggesting that something is intentionally being kept secret or obscure. Use it to describe things that are hidden or shielded from the user's view.",
+    "synonyms": [
+      "hidden",
+      "obscured",
+      "masked"
+    ],
+    "antonyms": [
+      "clear",
+      "transparent",
+      "exposed"
+    ],
+    "nounForm": "veil",
+    "verbForm": "veil",
+    "adjectiveForm": "veiled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Abstraction and security",
+    "usageTip": "Use to describe hidden complexity or obscure intent.",
+    "commonMistake": "Using 'veiled' when 'abstracted' would be more professional.",
+    "collocations": [
+      "veiled complexity",
+      "veiled warning"
+    ]
+  }
+]

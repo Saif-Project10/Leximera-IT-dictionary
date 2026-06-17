@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Sequence",
+    "meaning": "A particular order in which related things follow each other.",
+    "shortMeaning": "order, series",
+    "example": "The numbers are in ascending sequence.",
+    "example2": "The film's opening sequence is very dramatic.",
+    "example3": "He explained the sequence of events that led to the accident.",
+    "Explanation": "A 'sequence' is a noun referring to a set of related items arranged in a specific order. The order is often chronological, logical, or based on size. Sequences are fundamental in mathematics, storytelling, genetics (DNA sequence), and computing. The verb is 'sequence' (to arrange in order). The word helps us understand processes, tell stories coherently, and analyze patterns. Breaking something down into its sequence of steps is a common problem-solving technique. It's a word for structured order.",
+    "synonyms": [
+      "order",
+      "series",
+      "succession",
+      "chain"
+    ],
+    "antonyms": [
+      "disorder",
+      "jumble",
+      "randomness"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequential",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Math, film, events, instructions, biology",
+    "usageTip": "In film, a 'sequence' is a series of scenes that form a distinct narrative unit.",
+    "commonMistake": "Confusing 'sequence' (an ordered series) with 'series' (which may or may not imply a strict order).",
+    "collocations": [
+      "in sequence",
+      "sequence of numbers",
+      "opening sequence",
+      "follow a sequence"
+    ]
+  },
+  {
+    "word": "Sequence",
+    "meaning": "An ordered arrangement of data records, or to arrange execution operations in a specific sequential order",
+    "shortMeaning": "ordered data array / arrange items in order",
+    "example": "The system processing script must execute the instruction blocks in a precise logical sequence.",
+    "example2": "You can view the animation sequence transition frames inside your layout code.",
+    "example3": "We need to sequence the dictionary terms alphabetically inside our data arrays.",
+    "Explanation": "The word 'sequence' functions as both a noun (an ordered list or chain of events) and a verb (the act of organizing items in order). In computing fields, maintaining correct sequence structures is vital. Whether handling network packet delivery sequences, visual frontend transitions, or arranging alphanumeric database items, proper sequencing guarantees operations execute predictably without synchronization glitches.",
+    "synonyms": [
+      "order",
+      "series",
+      "progression / arrange",
+      "sort"
+    ],
+    "antonyms": [
+      "random layout",
+      "disorder",
+      "jumble"
+    ],
+    "nounForm": "sequence / sequencing",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequential",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Asynchronous code ordering, data array sorting loops, and animation timeline frames",
+    "usageTip": "Use 'sequence' to define step-by-step logic flows or ordered sets of elements within software configurations.",
+    "commonMistake": "Assuming array sequence arrays always auto-sort themselves without explicit sorting logic functions.",
+    "collocations": [
+      "correct execution sequence",
+      "animation sequence",
+      "sequence data values"
+    ]
+  }
+]

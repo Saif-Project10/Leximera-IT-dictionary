@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Register",
+    "meaning": "To put your name on an official list or record; to show or express a feeling",
+    "shortMeaning": "officially sign up",
+    "example": "You must register for the course online by Friday.",
+    "example2": "Her face registered surprise when she heard the news.",
+    "example3": "Please register your new appliance for the warranty.",
+    "Explanation": "'Register' is a versatile verb and noun. As a verb, it primarily means to enroll or record officially. It can also mean to show an emotion or reading on a device. As a noun, it refers to the official list itself or the range of a voice or instrument. In different contexts, it has specific meanings, like a cash register. Pay attention to the context to understand its use.",
+    "synonyms": [
+      "enroll",
+      "record",
+      "sign up"
+    ],
+    "antonyms": [
+      "deregister",
+      "withdraw",
+      "erase"
+    ],
+    "nounForm": "registration, register",
+    "verbForm": "register",
+    "adjectiveForm": "registered",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Education, events, emotions, machinery",
+    "usageTip": "As a verb, use 'register for' an event or 'register with' an organization.",
+    "commonMistake": "Misspelling it as 'registar' or 'registerate'.",
+    "collocations": [
+      "register to vote",
+      "cash register",
+      "register a complaint"
+    ]
+  },
+  {
+    "word": "Register",
+    "meaning": "To formally record, configure, or declare a new component, route, library, or account into a central computing tracking module",
+    "shortMeaning": "record or declare a component",
+    "example": "You must register the new login route in your backend server file so the API can handle it.",
+    "example2": "New users can fill out the interactive signup form to register an account on our platform.",
+    "example3": "The framework will fail to run if you forget to register your custom middleware components.",
+    "Explanation": "The word 'register' is a cornerstone action across all programming languages, web routers, and software architectures. It denotes the formal process of making a system module, plugin, or component known to a central core framework. For instance, when writing a backend API application, creating a new route logic is insufficient; you must explicitly register that route path inside the central app routing file. This tells the server to look out for matching incoming network requests. It also refers to standard user registration procedures, where visitor identity records are securely written to database tables.",
+    "synonyms": [
+      "enroll",
+      "record",
+      "declare"
+    ],
+    "antonyms": [
+      "unregister",
+      "deregister",
+      "remove"
+    ],
+    "nounForm": "registration / register",
+    "verbForm": "register",
+    "adjectiveForm": "registered",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Backend route routing, database setups, dependency injections, signup systems",
+    "usageTip": "Use 'register' when you are adding a piece of code, module, or user profile into a central management list so the system can track it.",
+    "commonMistake": "Forgetting to register dependencies or components, which causes 'not found' or instantiation runtime errors.",
+    "collocations": [
+      "register a route",
+      "register an account",
+      "register a component"
+    ]
+  }
+]

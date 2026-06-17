@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Significant",
+    "meaning": "Sufficiently great or important to be worthy of attention; having a noticeable effect. | Sufficiently great or important to be worthy of attention; having a particular meaning.",
+    "shortMeaning": "notably important",
+    "example": "There was a significant increase in sales after the new advertisement.",
+    "example2": "Her research made a significant contribution to the field of medicine.",
+    "example3": "He gave me a significant look, hinting that I should be quiet.",
+    "Explanation": "'Significant' is a powerful adjective meaning something is important enough to be noticed or to have an effect. It is often used in formal, academic, or business contexts. In statistics, a 'significant result' is one unlikely to be due to chance. It can also mean 'meaningful' or 'expressive', as in a 'significant glance'. The noun form is 'significance'. It is stronger than 'important' in many contexts, implying measurable or noteworthy impact.",
+    "synonyms": [
+      "Considerable",
+      "Important",
+      "Meaningful",
+      "Notable"
+    ],
+    "antonyms": [
+      "Insignificant",
+      "Minor",
+      "Negligible",
+      "Trivial",
+      "Unimportant"
+    ],
+    "nounForm": "significance",
+    "verbForm": "signify",
+    "adjectiveForm": "significant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, research, business, communication",
+    "usageTip": "In formal writing, 'significant' is often preferred over 'important' to convey a stronger, more measurable impact.",
+    "commonMistake": "Using 'significant' to just mean 'big' without the implication of importance or consequence.",
+    "collocations": [
+      "significant difference",
+      "significant impact",
+      "statistically significant",
+      "highly significant"
+    ]
+  },
+  {
+    "word": "Significant",
+    "meaning": "Large enough to be noticed or have an impact.",
+    "shortMeaning": "important",
+    "example": "We observed a significant decrease in system latency.",
+    "example2": "This is a significant improvement over the previous version.",
+    "example3": "There was a significant bug that required immediate attention.",
+    "Explanation": "The word 'significant' indicates that a change, bug, or improvement is large or important enough to require attention or action. In data analysis and business metrics, it is often used to describe statistical importance. It distinguishes important developments from minor, everyday noise. Always quantify what makes something 'significant' when possible, as it is a relative term that depends on context.",
+    "synonyms": [
+      "important",
+      "notable",
+      "substantial"
+    ],
+    "antonyms": [
+      "insignificant",
+      "minor",
+      "negligible"
+    ],
+    "nounForm": "significance",
+    "verbForm": "N/A",
+    "adjectiveForm": "significant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance analysis, bugs, project updates",
+    "usageTip": "Use 'significant' to highlight important findings.",
+    "commonMistake": "Using 'significant' without providing data to back it up.",
+    "collocations": [
+      "significant improvement",
+      "significant bug",
+      "significant impact"
+    ]
+  },
+  {
+    "word": "Significant",
+    "meaning": "Important, large, or noticeable enough to matter",
+    "shortMeaning": "important",
+    "example": "There was a significant improvement in system speed.",
+    "example2": "The bug caused a significant loss of data.",
+    "example3": "This is a significant change in the network architecture.",
+    "Explanation": "The word 'significant' denotes something that is of enough importance or scale to be noticed. In IT reporting, this usually refers to metrics, errors, or performance changes. It helps distinguish between minor issues and major events. The noun form is 'significance', and the adverb form is 'significantly'. It is often used in professional reports to emphasize the impact of a result.",
+    "synonyms": [
+      "substantial",
+      "meaningful",
+      "notable"
+    ],
+    "antonyms": [
+      "insignificant",
+      "minor",
+      "trivial"
+    ],
+    "nounForm": "significance",
+    "verbForm": "N/A",
+    "adjectiveForm": "significant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Reporting, data analysis, performance metrics",
+    "usageTip": "Use 'significant' when talking about results that really matter.",
+    "commonMistake": "Using 'significant' for things that are actually small or trivial.",
+    "collocations": [
+      "significant impact",
+      "significant increase",
+      "statistically significant"
+    ]
+  }
+]

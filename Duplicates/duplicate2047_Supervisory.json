@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Supervisory",
+    "meaning": "Having the function of overseeing, managing, or directing",
+    "shortMeaning": "managing or overseeing",
+    "example": "The software has a supervisory role in the system.",
+    "example2": "She has supervisory control over the database updates.",
+    "example3": "The supervisory board reviews the project progress.",
+    "Explanation": "The word 'supervisory' describes any tool, system, or person that has the authority to manage, check, or direct other parts of a system. A 'supervisory' system monitors other subsystems to ensure everything is working correctly. It implies a hierarchy where the supervisor is in charge of overseeing the work of others. It is commonly used in IT, management, and industrial control systems (like SCADA). It is a professional and functional term.",
+    "synonyms": [
+      "managerial",
+      "oversight",
+      "directing"
+    ],
+    "antonyms": [
+      "subordinate",
+      "operational"
+    ],
+    "nounForm": "supervisor",
+    "verbForm": "supervise",
+    "adjectiveForm": "supervisory",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, industrial controls, IT systems",
+    "usageTip": "Use 'supervisory' when talking about systems that monitor or control others.",
+    "commonMistake": "Using 'supervisory' to mean 'doing the work' (it means *overseeing* the work).",
+    "collocations": [
+      "supervisory control",
+      "supervisory role",
+      "supervisory system"
+    ]
+  },
+  {
+    "word": "Supervisory",
+    "meaning": "Relating to the management, monitoring, or oversight of a process",
+    "shortMeaning": "management-related",
+    "example": "The supervisory system monitors the server uptime.",
+    "example2": "He has a supervisory role in the IT department.",
+    "example3": "SCADA stands for Supervisory Control and Data Acquisition.",
+    "Explanation": "Supervisory refers to the act of overseeing or monitoring a system or process. In IT, 'supervisory systems' (like SCADA) are used to manage industrial hardware, networks, or processes. It implies a higher level of control that tracks status and makes management decisions. It is common in industrial IT and human resources. Use this word when referring to management software or managerial responsibilities.",
+    "synonyms": [
+      "managerial",
+      "monitoring",
+      "oversight"
+    ],
+    "antonyms": [
+      "subordinate",
+      "operational",
+      "executing"
+    ],
+    "nounForm": "supervisor",
+    "verbForm": "supervise",
+    "adjectiveForm": "supervisory",
+    "partOfSpeech": "adjective",
+    "commonContext": "Industrial IT, management, SCADA systems",
+    "usageTip": "Use 'supervisory' when talking about monitoring software or management roles.",
+    "commonMistake": "Confusing 'supervisory' with 'supervision' (which is the noun).",
+    "collocations": [
+      "supervisory system",
+      "supervisory control",
+      "supervisory role"
+    ]
+  }
+]

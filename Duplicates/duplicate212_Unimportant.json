@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Unimportant",
+    "meaning": "Not important; lacking in significance or value.",
+    "shortMeaning": "not significant",
+    "example": "The details are unimportant; just focus on the main idea.",
+    "example2": "He considered the award unimportant compared to his team's success.",
+    "example3": "It's an unimportant decision, so don't stress about it.",
+    "Explanation": "'Unimportant' is a direct and common adjective. It is the straightforward opposite of 'important'. It states clearly that something does not matter or hold value. It is less formal than 'insignificant' or 'negligible' and can be used in everyday conversation. It does not carry the extra negative judgment that 'petty' sometimes does. The word is formed by adding the prefix 'un-' (meaning 'not') to the word 'important', making its meaning very easy to understand.",
+    "synonyms": [
+      "insignificant",
+      "trivial",
+      "minor",
+      "inconsequential"
+    ],
+    "antonyms": [
+      "important",
+      "significant",
+      "major",
+      "critical"
+    ],
+    "nounForm": "unimportance",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimportant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday conversation, prioritization, details",
+    "usageTip": "Use 'unimportant' as a simple, clear way to say something does not matter.",
+    "commonMistake": "Overusing it in formal writing where a more precise synonym might be better.",
+    "collocations": [
+      "seem unimportant",
+      "relatively unimportant",
+      "unimportant detail"
+    ]
+  },
+  {
+    "word": "Unimportant",
+    "meaning": "Lacking significance or impact on a system",
+    "shortMeaning": "insignificant",
+    "example": "The log files are currently unimportant for our investigation.",
+    "example2": "These minor UI changes are unimportant to the core functionality.",
+    "example3": "Don't ignore unimportant tasks entirely; they may matter later.",
+    "Explanation": "The word 'unimportant' is used to prioritize tasks, data, or events. In IT, we often have to filter out 'noise'—unimportant data—to focus on what really matters for system health. For example, some log entries are informative but unimportant for solving a major crash. Knowing what is unimportant is as valuable as knowing what is critical. However, be careful not to label something unimportant that might be useful for future audits or debugging. It is a relative term that depends heavily on the current project's goals.",
+    "synonyms": [
+      "insignificant",
+      "minor",
+      "irrelevant"
+    ],
+    "antonyms": [
+      "important",
+      "critical",
+      "significant"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimportant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, troubleshooting, data filtering",
+    "usageTip": "Use this when prioritizing tasks.",
+    "commonMistake": "Labeling security alerts as 'unimportant'.",
+    "collocations": [
+      "relatively unimportant",
+      "seemingly unimportant"
+    ]
+  },
+  {
+    "word": "Unimportant",
+    "meaning": "Lacking importance or significance.",
+    "shortMeaning": "not important",
+    "example": "Discard any unimportant log messages to reduce clutter.",
+    "example2": "The developer filtered out unimportant warnings in the console.",
+    "example3": "We should focus on critical bugs rather than unimportant issues.",
+    "Explanation": "Something is 'unimportant' if it does not affect the core functionality, performance, or security of a project. In IT, distinguishing between important and unimportant tasks is crucial for time management. Developers often mark low-priority tasks or minor display issues as unimportant. Regularly clearing out unimportant data or code helps keep a project clean and easy to navigate, allowing the team to focus on meaningful objectives.",
+    "synonyms": [
+      "insignificant",
+      "trivial",
+      "minor"
+    ],
+    "antonyms": [
+      "important",
+      "critical",
+      "essential"
+    ],
+    "nounForm": "unimportance",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimportant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug tracking and project management",
+    "usageTip": "Use this to prioritize tasks effectively.",
+    "commonMistake": "Ignoring unimportant errors that might be signs of larger issues.",
+    "collocations": [
+      "unimportant detail",
+      "unimportant task",
+      "unimportant warning"
+    ]
+  }
+]

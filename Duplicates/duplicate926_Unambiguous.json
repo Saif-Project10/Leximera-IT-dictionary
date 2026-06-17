@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unambiguous",
+    "meaning": "Clear and having only one possible meaning; not open to interpretation",
+    "shortMeaning": "clear, not ambiguous",
+    "example": "Please give unambiguous instructions to avoid confusion.",
+    "example2": "The contract language was unambiguous.",
+    "example3": "Her answer was an unambiguous 'no'.",
+    "Explanation": "'Unambiguous' is an adjective that describes language, instructions, or signals that are perfectly clear and cannot be misunderstood. It is the opposite of 'ambiguous'. This word is crucial in legal, technical, and safety contexts where clarity is vital. Being unambiguous leaves no room for doubt or multiple interpretations. It is a formal word, often used in writing. Striving for unambiguous communication prevents errors.",
+    "synonyms": [
+      "clear",
+      "definite",
+      "unequivocal",
+      "explicit"
+    ],
+    "antonyms": [
+      "ambiguous",
+      "vague",
+      "unclear",
+      "equivocal"
+    ],
+    "nounForm": "unambiguity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unambiguous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legal documents, instructions, technical writing, contracts",
+    "usageTip": "Use 'unambiguous' to emphasize that something is crystal clear and leaves no room for confusion.",
+    "commonMistake": "Misspelling as 'unambigious' (missing the 'u' after 'g').",
+    "collocations": [
+      "unambiguous statement",
+      "unambiguous direction",
+      "unambiguous evidence"
+    ]
+  },
+  {
+    "word": "Unambiguous",
+    "meaning": "Having only one possible meaning; clear and definite.",
+    "shortMeaning": "very clear",
+    "example": "The instructions must be unambiguous to avoid errors.",
+    "example2": "We provided an unambiguous definition for the variable.",
+    "example3": "His code was simple and unambiguous.",
+    "Explanation": "Unambiguous means something is so clear that it cannot be misinterpreted. In programming, writing unambiguous code or requirements is a key skill. It eliminates guesswork and prevents bugs that arise from misunderstandings. An unambiguous statement is precise and leaves no room for confusion. It is the opposite of 'vague'. Achieving this level of clarity is a hallmark of a great software developer.",
+    "synonyms": [
+      "clear",
+      "definite",
+      "explicit"
+    ],
+    "antonyms": [
+      "ambiguous",
+      "vague",
+      "unclear"
+    ],
+    "nounForm": "unambiguity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unambiguous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, requirements documentation",
+    "usageTip": "Use this to describe clean, clear, and logical code or requirements.",
+    "commonMistake": "Believing a statement is unambiguous when others find it confusing.",
+    "collocations": [
+      "unambiguous instructions",
+      "unambiguous meaning",
+      "remains unambiguous"
+    ]
+  },
+  {
+    "word": "Unambiguous",
+    "meaning": "Clear and having only one possible meaning.",
+    "shortMeaning": "very clear",
+    "example": "The instructions for the API are unambiguous.",
+    "example2": "We need an unambiguous definition of the variable requirements.",
+    "example3": "His feedback was unambiguous and very helpful.",
+    "Explanation": "In software development, being 'unambiguous' is a critical goal for documentation and code. If something is unambiguous, there is no chance for it to be misunderstood. It means that there is only one way to interpret the information. This helps prevent bugs and miscommunication between team members. Using this word suggests a high standard of clarity in your technical work.",
+    "synonyms": [
+      "clear",
+      "definite",
+      "precise"
+    ],
+    "antonyms": [
+      "ambiguous",
+      "vague",
+      "unclear"
+    ],
+    "nounForm": "unambiguity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unambiguous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, requirements, and coding",
+    "usageTip": "Use this to describe well-defined requirements.",
+    "commonMistake": "Confusing 'unambiguous' with 'short'.",
+    "collocations": [
+      "unambiguous requirements",
+      "unambiguous instructions",
+      "unambiguous meaning"
+    ]
+  }
+]

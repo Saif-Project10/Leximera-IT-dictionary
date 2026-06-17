@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Inefficient",
+    "meaning": "Not achieving maximum productivity; wasting time or resources.",
+    "shortMeaning": "wasteful, not productive",
+    "example": "The old heating system is very inefficient.",
+    "example2": "His inefficient work habits meant he often stayed late.",
+    "example3": "The process is inefficient and needs to be redesigned.",
+    "Explanation": "'Inefficient' is an adjective describing systems, processes, or people that do not make the best use of resources (time, energy, money). It implies waste and a failure to achieve potential output. The opposite is 'efficient'. It's a common criticism in business, engineering, and management, where improving efficiency is a key goal. The noun is 'inefficiency'. It's a practical, often negative word used to identify areas for improvement. It can also describe machines or methods that are outdated or poorly designed.",
+    "synonyms": [
+      "wasteful",
+      "unproductive",
+      "ineffective"
+    ],
+    "antonyms": [
+      "efficient",
+      "productive",
+      "effective"
+    ],
+    "nounForm": "inefficiency",
+    "verbForm": "N/A",
+    "adjectiveForm": "inefficient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, energy use, work habits, systems",
+    "usageTip": "Often used with 'highly', 'terribly', or 'notoriously' to emphasize the waste.",
+    "commonMistake": "Confusing 'inefficient' (wasteful) with 'insufficient' (not enough).",
+    "collocations": [
+      "grossly inefficient",
+      "inefficient use of",
+      "inefficient market"
+    ]
+  },
+  {
+    "word": "Inefficient",
+    "meaning": "Wasting time, energy, or resources",
+    "shortMeaning": "wasteful",
+    "example": "The database query was inefficient and slow.",
+    "example2": "We need to fix the inefficient memory usage.",
+    "example3": "Inefficient processes are slowing down the whole team.",
+    "Explanation": "The word 'inefficient' describes a process or system that consumes too many resources (time, memory, electricity) to perform its job. Unlike 'ineffective' (which means it doesn't work), 'inefficient' means it works, but at a high cost. It is an adjective. Identifying 'inefficient' code is a key developer skill. Use it when you are optimizing systems to make them lean, fast, and cost-effective.",
+    "synonyms": [
+      "wasteful",
+      "slow",
+      "suboptimal"
+    ],
+    "antonyms": [
+      "efficient",
+      "optimized",
+      "fast"
+    ],
+    "nounForm": "inefficiency",
+    "verbForm": "N/A",
+    "adjectiveForm": "inefficient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, optimization, coding",
+    "usageTip": "Use to describe processes that waste resources.",
+    "commonMistake": "Confusing 'inefficient' with 'ineffective'.",
+    "collocations": [
+      "inefficient code",
+      "inefficient process",
+      "inefficient memory usage"
+    ]
+  }
+]

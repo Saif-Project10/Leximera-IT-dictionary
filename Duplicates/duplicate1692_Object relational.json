@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Object relational",
+    "meaning": "Relating to the bridge between object-oriented code and relational database tables",
+    "shortMeaning": "code-to-database link",
+    "example": "The project uses an object relational strategy to store user data.",
+    "example2": "Object relational tools help translate classes into SQL tables.",
+    "example3": "There is often a 'mismatch' in the object relational design that needs to be fixed.",
+    "Explanation": "The term 'object relational' refers to the technology that connects two different worlds: the 'Object' world of programming (like Java or C#) and the 'Relational' world of databases (like MySQL or Oracle). In code, we use hierarchies and lists; in databases, we use flat tables and keys. Because these two styles don't fit perfectly together, we need 'object relational' techniques to map the data correctly. It is a major area of work for backend developers to ensure that data flows smoothly and safely between the app and its permanent storage.",
+    "synonyms": [
+      "OR mapping"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "object relational mapping",
+    "verbForm": "N/A",
+    "adjectiveForm": "object relational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database architecture and backend engineering",
+    "usageTip": "Use 'object relational' when describing the layer of your app that talks to the database.",
+    "commonMistake": "Thinking that objects and tables are the same thing; they are fundamentally different structures.",
+    "collocations": [
+      "object relational impedance mismatch",
+      "object relational tool",
+      "object relational technology"
+    ]
+  },
+  {
+    "word": "Object relational",
+    "meaning": "Relating to the mapping between objects and database records",
+    "shortMeaning": "data-mapping",
+    "example": "We use an object relational bridge for data.",
+    "example2": "Object relational models connect apps to databases.",
+    "example3": "The system follows an object relational pattern.",
+    "Explanation": "'Object relational' describes the bridge between object-oriented code (where data is structured as objects) and relational databases (where data is structured as tables and rows). An 'object relational' system manages this mapping so the developer doesn't have to write custom code to convert objects into table entries. This is the technology behind ORM (Object-Relational Mapping). It is essential for modern database-driven applications.",
+    "synonyms": [
+      "mapping-based",
+      "database-mapped"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ORM",
+    "verbForm": "N/A",
+    "adjectiveForm": "object relational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, development",
+    "usageTip": "Use this for explaining how code connects to databases.",
+    "commonMistake": "Confusing it with pure object-oriented code.",
+    "collocations": [
+      "object relational model",
+      "object relational mapping"
+    ]
+  }
+]

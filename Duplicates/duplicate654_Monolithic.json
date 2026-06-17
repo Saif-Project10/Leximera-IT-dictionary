@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Monolithic",
+    "meaning": "1. Formed from a single large block of stone. 2. Massive, solid, and uniform; lacking diversity or flexibility.",
+    "shortMeaning": "massive and uniform",
+    "example": "The ancient monolithic statues are awe-inspiring.",
+    "example2": "The company had a monolithic structure that resisted change.",
+    "example3": "He opposed the monolithic power of the government.",
+    "Explanation": "'Monolithic' literally describes something made from one piece of stone, like an obelisk. Metaphorically, it describes organizations, systems, or structures that are huge, uniform, and inflexible. It often has a negative connotation, suggesting something is too big and rigid to adapt. In software, a 'monolithic application' is one built as a single, indivisible unit (opposite of 'microservices'). It's a descriptive word used in criticism or awe.",
+    "synonyms": [
+      "massive",
+      "uniform",
+      "inflexible",
+      "solid"
+    ],
+    "antonyms": [
+      "modular",
+      "diverse",
+      "flexible",
+      "fragmented"
+    ],
+    "nounForm": "monolith",
+    "verbForm": "N/A",
+    "adjectiveForm": "monolithic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, criticism of organizations, software design",
+    "usageTip": "Use 'monolithic' to describe something that is huge, solid, and seems impossible to change or break apart.",
+    "commonMistake": "Using it simply to mean 'big'. It carries a strong sense of uniformity and rigidity.",
+    "collocations": [
+      "monolithic structure",
+      "monolithic corporation",
+      "monolithic culture",
+      "monolithic application"
+    ]
+  },
+  {
+    "word": "Monolithic",
+    "meaning": "Built as a single, large, indivisible piece; often refers to software architecture",
+    "shortMeaning": "one large part",
+    "example": "The application is currently a monolithic system, making updates slow.",
+    "example2": "They are breaking up the monolithic backend into microservices.",
+    "example3": "Monolithic software is hard to scale independently.",
+    "Explanation": "The word 'monolithic' describes software architecture where the entire system is built as one single, large, interconnected unit. Everything is tightly coupled; if one part needs to be changed, the entire application often needs to be rebuilt and redeployed. While easy to build initially, it becomes difficult to scale, maintain, or update as it grows. This is why many teams are moving from 'monolithic' architectures to modular or 'microservices' architectures.",
+    "synonyms": [
+      "unified",
+      "all-in-one"
+    ],
+    "antonyms": [
+      "modular",
+      "microservices-based",
+      "decoupled"
+    ],
+    "nounForm": "monolith",
+    "verbForm": "N/A",
+    "adjectiveForm": "monolithic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, system design",
+    "usageTip": "Use when describing large, tightly coupled systems.",
+    "commonMistake": "Assuming 'monolithic' is always bad; it is often the simplest and best choice for small projects.",
+    "collocations": [
+      "monolithic architecture",
+      "monolithic system",
+      "break up the monolith"
+    ]
+  }
+]

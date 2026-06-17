@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Shaky",
+    "meaning": "Shaking or trembling; not firm or stable; not confident.",
+    "shortMeaning": "unsteady, unstable",
+    "example": "She felt a bit shaky after not eating all day.",
+    "example2": "The table is shaky; one leg is shorter than the others.",
+    "example3": "He gave a shaky performance in the interview.",
+    "Explanation": "'Shaky' is an adjective describing something that is physically unsteady, insecure, or performed with uncertainty. It can apply to objects (a shaky ladder), people (feeling shaky), or abstract things (shaky evidence, a shaky understanding). The word often implies weakness, unreliability, or a lack of confidence. It's more of a permanent or characteristic state than 'shaking', which is an active motion. The adverb is 'shakily'. It's a common word for describing anything that isn't solid or assured.",
+    "synonyms": [
+      "unsteady",
+      "wobbly",
+      "tremulous",
+      "uncertain"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "firm",
+      "confident"
+    ],
+    "nounForm": "shakiness",
+    "verbForm": "shake",
+    "adjectiveForm": "shaky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, structures, confidence, arguments",
+    "usageTip": "Can describe the start of something: 'off to a shaky start'.",
+    "commonMistake": "Using 'shaky' to describe fast movement; it's about instability, not speed.",
+    "collocations": [
+      "shaky voice",
+      "shaky ground",
+      "shaky hands",
+      "feel shaky"
+    ]
+  },
+  {
+    "word": "Shaky",
+    "meaning": "Unstable, uncertain, or likely to fail",
+    "shortMeaning": "unstable",
+    "example": "The project's foundation is a bit shaky.",
+    "example2": "The team gave a shaky presentation.",
+    "example3": "Our initial results are looking shaky.",
+    "Explanation": "The word 'shaky' is an informal but very common term for describing something that is not solid, reliable, or certain. In business, a 'shaky' plan is one that probably won't succeed. In engineering, a 'shaky' connection is one that is loose. It conveys a sense of doubt and vulnerability. Use this word to explain why you are worried about the future of a project or the quality of a piece of work. It is more expressive and subjective than 'unstable'.",
+    "synonyms": [
+      "unstable",
+      "uncertain",
+      "weak"
+    ],
+    "antonyms": [
+      "solid",
+      "stable",
+      "reliable"
+    ],
+    "nounForm": "shake",
+    "verbForm": "shake",
+    "adjectiveForm": "shaky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Progress, plans, reliability",
+    "usageTip": "Use when expressing concern about the quality or certainty of something.",
+    "commonMistake": "Confusing it with 'shaking'; 'shaky' is often metaphorical.",
+    "collocations": [
+      "shaky start",
+      "shaky foundation",
+      "shaky results"
+    ]
+  },
+  {
+    "word": "Shaky",
+    "meaning": "Not stable, insecure, or likely to fail.",
+    "shortMeaning": "unstable",
+    "example": "The performance of the new build is a bit shaky.",
+    "example2": "The network connection is shaky at best.",
+    "example3": "Their argument for this architecture is shaky.",
+    "Explanation": "The word 'shaky' is an informal term describing something that is unstable, unreliable, or insecure. In IT, 'shaky performance' or a 'shaky connection' means the system is prone to errors or failure. It suggests that while it works now, it is not robust. It is often used to express doubt about the longevity or stability of a solution. For formal documentation, prefer terms like 'unstable' or 'inconsistent'.",
+    "synonyms": [
+      "unstable",
+      "unreliable",
+      "inconsistent"
+    ],
+    "antonyms": [
+      "stable",
+      "reliable",
+      "solid"
+    ],
+    "nounForm": "shakiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shaky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, stability, networking",
+    "usageTip": "Use 'shaky' in informal conversations about performance.",
+    "commonMistake": "Using 'shaky' in a professional technical specification.",
+    "collocations": [
+      "shaky performance",
+      "shaky connection",
+      "shaky foundation"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Shaded",
+    "meaning": "Dimmed, colored, or protected from light",
+    "shortMeaning": "dimmed/colored",
+    "example": "The graph uses shaded areas to show progress.",
+    "example2": "The button is shaded to indicate it's disabled.",
+    "example3": "The background was shaded for better readability.",
+    "Explanation": "The word 'shaded' means that an area has been darkened or colored differently to distinguish it from the rest. In UI design, shading is often used to create depth or to show that an item is 'pressed' or 'inactive'. It can also refer to using different background colors to make tables easier to read. It is a visual tool to guide the user's eye and improve usability. Use this when describing design elements that help organize information or create a specific visual effect.",
+    "synonyms": [
+      "darkened",
+      "tinted",
+      "dimmed"
+    ],
+    "antonyms": [
+      "highlighted",
+      "bright",
+      "clear"
+    ],
+    "nounForm": "shade",
+    "verbForm": "shade",
+    "adjectiveForm": "shaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, graphics",
+    "usageTip": "Use to describe visual elements that are darkened or colored.",
+    "commonMistake": "Confusing 'shaded' with 'shadowed', which implies a 3D effect.",
+    "collocations": [
+      "shaded area",
+      "shaded background",
+      "shaded table"
+    ]
+  },
+  {
+    "word": "Shaded",
+    "meaning": "Having a darker tone or blocked from light; often used in UI design to create depth.",
+    "shortMeaning": "darker tone",
+    "example": "The inactive buttons are shaded in light gray.",
+    "example2": "The background was shaded to differentiate the sections.",
+    "example3": "We used a shaded effect to highlight the selected menu item.",
+    "Explanation": "The word 'shaded' describes areas or elements that have a lower brightness or a darkened color applied. In UI design, shading is used to create visual hierarchy, depth, or to indicate that an element is disabled or inactive. It is an adjective. The base verb is 'shade'. Proper use of shading makes user interfaces look cleaner and more intuitive. Over-shading can make designs look muddy or cluttered, so it should be used sparingly.",
+    "synonyms": [
+      "darkened",
+      "tinted",
+      "dimmed"
+    ],
+    "antonyms": [
+      "bright",
+      "highlighted",
+      "light"
+    ],
+    "nounForm": "shade",
+    "verbForm": "shade",
+    "adjectiveForm": "shaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, graphics",
+    "usageTip": "Use 'shaded' to describe elements with lower brightness.",
+    "commonMistake": "Using 'shaded' when you mean 'blurred'.",
+    "collocations": [
+      "shaded background",
+      "shaded button",
+      "shaded region"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tenanted",
+    "meaning": "Occupied or filled, often used in multi-tenant architecture.",
+    "shortMeaning": "occupied",
+    "example": "The server environment is tenanted by multiple clients.",
+    "example2": "We provide tenanted solutions for enterprise SaaS.",
+    "example3": "Each tenanted space must remain isolated for security.",
+    "Explanation": "The term 'tenanted' relates to multi-tenancy, where a single instance of software or infrastructure serves multiple users or organizations. Each 'tenant' has their own isolated data and settings, but they share the same backend resources. This is the foundation of cloud computing and SaaS. Managing tenanted environments requires careful security to ensure one client cannot access the data of another.",
+    "synonyms": [
+      "occupied",
+      "filled"
+    ],
+    "antonyms": [
+      "vacant",
+      "unoccupied"
+    ],
+    "nounForm": "tenancy",
+    "verbForm": "tenant",
+    "adjectiveForm": "tenanted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing and SaaS",
+    "usageTip": "Use 'tenanted' to discuss multi-user software architectures.",
+    "commonMistake": "Confusing 'tenanted' (occupied) with 'tenant' (the user itself).",
+    "collocations": [
+      "multi-tenanted system",
+      "tenanted environment"
+    ]
+  },
+  {
+    "word": "Tenanted",
+    "meaning": "Occupied by a person, group, or process; in computing, used in multi-tenancy",
+    "shortMeaning": "occupied",
+    "example": "The cloud server is multi-tenanted.",
+    "example2": "This virtual machine is tenanted by a secure client.",
+    "example3": "The building was fully tenanted before the upgrade.",
+    "Explanation": "The word 'tenanted' means occupied or held by a user or process. In computing, specifically cloud computing, 'multi-tenancy' is a common architecture where multiple users ('tenants') share the same infrastructure. 'Tenanted' describes that a piece of software or hardware is currently in use by a specific client. While the general meaning relates to property, the IT meaning is specific to shared resources. It emphasizes occupancy.",
+    "synonyms": [
+      "occupied",
+      "inhabited",
+      "filled"
+    ],
+    "antonyms": [
+      "vacant",
+      "unoccupied",
+      "empty"
+    ],
+    "nounForm": "tenant",
+    "verbForm": "tenant",
+    "adjectiveForm": "tenanted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cloud computing, architecture, real estate",
+    "usageTip": "Use 'tenanted' to describe systems that are occupied by specific users.",
+    "commonMistake": "Assuming it only applies to real estate; it is common in cloud tech.",
+    "collocations": [
+      "multi-tenanted",
+      "tenanted server",
+      "tenanted space"
+    ]
+  }
+]

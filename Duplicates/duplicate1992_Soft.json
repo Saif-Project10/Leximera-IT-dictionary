@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Soft",
+    "meaning": "Not hard, rigid, or permanent; easily changed",
+    "shortMeaning": "flexible",
+    "example": "We use a soft limit for the file upload size.",
+    "example2": "Soft skills are just as important as technical ones.",
+    "example3": "The transition was a soft launch.",
+    "Explanation": "In IT, 'soft' usually implies something that is not strictly enforced, permanent, or hardware-based. A 'soft limit' can be exceeded, a 'soft delete' hides data but keeps it in the DB, and 'soft skills' are social abilities. It contrasts with 'hard', which implies rigidity or permanence. Understanding the difference between hard and soft terms is crucial for system design, as they determine how users and systems interact with rules and constraints.",
+    "synonyms": [
+      "flexible",
+      "adjustable",
+      "non-permanent"
+    ],
+    "antonyms": [
+      "hard",
+      "rigid",
+      "fixed"
+    ],
+    "nounForm": "softness",
+    "verbForm": "N/A",
+    "adjectiveForm": "soft",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems engineering, project management",
+    "usageTip": "Use 'soft' for flexible or non-enforced rules.",
+    "commonMistake": "Thinking 'soft' always means 'weak'; it often means 'flexible'.",
+    "collocations": [
+      "soft limit",
+      "soft delete",
+      "soft launch"
+    ]
+  },
+  {
+    "word": "Soft",
+    "meaning": "Not hard; easy to bend, or not intense",
+    "shortMeaning": "gentle or malleable",
+    "example": "The soft light makes the interface look better.",
+    "example3": "He made a soft copy of the document.",
+    "example2": "The system gave a soft warning instead of an error.",
+    "Explanation": "The word 'soft' can describe physical texture or, in IT, something that is intangible or flexible, like software. It is often used to contrast with 'hard' (e.g., software vs hardware, soft skills vs technical skills). In interface design, it can refer to subtle animations or colors. It implies ease, flexibility, and non-rigidity. Always consider if you mean the opposite of 'hard' or the opposite of 'intense'.",
+    "synonyms": [
+      "gentle",
+      "flexible",
+      "intangible"
+    ],
+    "antonyms": [
+      "hard",
+      "rigid",
+      "harsh"
+    ],
+    "nounForm": "softness",
+    "verbForm": "soften",
+    "adjectiveForm": "soft",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, software, soft skills",
+    "usageTip": "Use 'soft' to describe non-physical or flexible aspects.",
+    "commonMistake": "Confusing 'soft' (software) with 'hard' (hardware).",
+    "collocations": [
+      "soft copy",
+      "soft skills",
+      "soft light"
+    ]
+  }
+]

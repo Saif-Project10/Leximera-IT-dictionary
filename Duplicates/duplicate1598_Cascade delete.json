@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Cascade delete",
+    "meaning": "A database feature where deleting a 'parent' record automatically deletes all related 'child' records.",
+    "shortMeaning": "automatic related deletion",
+    "example": "If you delete a customer's account, cascade delete will also remove all their orders.",
+    "example2": "Be careful with cascade delete, as it can erase a lot of data very quickly.",
+    "example3": "We enabled cascade delete to keep the database clean and avoid orphan records.",
+    "Explanation": "Cascade delete is a rule used in relational databases (SQL) to maintain 'referential integrity.' Usually, data is linked: an 'Author' has many 'Books.' If you delete the Author but keep the Books, the Books become 'orphans' (they have no owner), which causes errors. With cascade delete, the database says: 'If the Author goes, the Books go too.' This is very convenient for developers because they don't have to write code to delete every single related item manually. However, it is dangerous—if you accidentally delete a top-level category, you might lose thousands of related rows instantly. It is usually set up during the database design phase using 'Foreign Key' constraints.",
+    "synonyms": [
+      "cascading deletion",
+      "automatic cleanup"
+    ],
+    "antonyms": [
+      "restrict delete",
+      "set null"
+    ],
+    "nounForm": "delete / deletion",
+    "verbForm": "cascade delete",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "SQL databases and backend development",
+    "usageTip": "Only use cascade delete for data that truly 'belongs' to the parent and has no use without it.",
+    "commonMistake": "Enabling it on critical data without a confirmation step in the user interface.",
+    "collocations": [
+      "on delete cascade",
+      "foreign key cascade delete",
+      "enable cascade delete"
+    ]
+  },
+  {
+    "word": "Cascade delete",
+    "meaning": "A database feature that deletes child records when a parent record is deleted",
+    "shortMeaning": "automatic linked deletion",
+    "example": "If you delete a customer, a cascade delete will remove all their orders.",
+    "example2": "We enabled cascade delete to keep the database clean of orphaned data.",
+    "example3": "Be careful with cascade delete, as it can remove a lot of data at once.",
+    "Explanation": "Cascade delete is a specific database constraint used to maintain data integrity. When two tables are linked, deleting a row in the main table can leave 'orphan' rows in the linked table. Cascade delete solves this by automatically removing those linked rows. While helpful, it can be dangerous if not used carefully because it might delete data you wanted to keep. It ensures that the relationships between data stay consistent without manual work.",
+    "synonyms": [
+      "recursive delete",
+      "automatic deletion"
+    ],
+    "antonyms": [
+      "restrict delete",
+      "N/A"
+    ],
+    "nounForm": "cascade delete",
+    "verbForm": "cascade delete",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Relational databases (SQL)",
+    "usageTip": "Use this only when you are sure the related data is no longer needed.",
+    "commonMistake": "Forgetting that cascade delete is active and losing important child data.",
+    "collocations": [
+      "enable cascade delete",
+      "on delete cascade",
+      "foreign key cascade"
+    ]
+  }
+]

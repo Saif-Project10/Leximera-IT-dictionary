@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Single-pass",
+    "meaning": "Describing a process that is completed in one continuous sequence without revisiting earlier stages.",
+    "shortMeaning": "done in one go",
+    "example": "The compiler uses a single-pass algorithm to translate the code.",
+    "example2": "For efficiency, the data cleaning script is designed as a single-pass operation.",
+    "example3": "This is a single-pass reading of the document; we won't go back.",
+    "Explanation": "Single-pass is a technical adjective, often used in computing and data processing. It means an algorithm or process reads its input data exactly once, from start to finish, without needing to loop back. This is very efficient for memory and speed but imposes constraints—the process must make decisions with only the data seen so far. It contrasts with multi-pass algorithms that require several iterations. The term can be used metaphorically for any task designed to be completed in one uninterrupted attempt. It emphasizes efficiency and linear flow.",
+    "synonyms": [
+      "one-pass",
+      "streaming",
+      "sequential in one go"
+    ],
+    "antonyms": [
+      "multi-pass",
+      "iterative",
+      "recursive"
+    ],
+    "nounForm": "single pass",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-pass",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer algorithms, data processing, compiler design",
+    "usageTip": "Almost exclusively used in technical contexts, especially programming.",
+    "commonMistake": "Using it in everyday language where 'one-time' or 'straight-through' would be clearer.",
+    "collocations": [
+      "single-pass compiler",
+      "single-pass algorithm",
+      "single-pass operation"
+    ]
+  },
+  {
+    "word": "Single-pass",
+    "meaning": "Processing data in one continuous operation or traversal.",
+    "shortMeaning": "processed once",
+    "example": "The algorithm uses a single-pass approach to filter data.",
+    "example2": "A single-pass compiler is faster but less efficient at optimization.",
+    "example3": "The file is read in a single-pass to save memory.",
+    "Explanation": "The term 'single-pass' refers to an efficient processing method where data is read and acted upon only once. This is generally faster than multi-pass methods, which require multiple traversals over the same dataset. Single-pass algorithms are highly valued when working with massive streams of data or limited memory, as they minimize input/output overhead and processing time.",
+    "synonyms": [
+      "one-pass",
+      "single-traversal"
+    ],
+    "antonyms": [
+      "multi-pass",
+      "multi-traversal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-pass",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms and data processing",
+    "usageTip": "Use 'single-pass' to describe efficient, one-time data processing.",
+    "commonMistake": "Expecting the same level of optimization from single-pass as from multi-pass.",
+    "collocations": [
+      "single-pass algorithm",
+      "single-pass compiler",
+      "single-pass processing"
+    ]
+  }
+]

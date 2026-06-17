@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Blatant",
+    "meaning": "Done openly and unashamedly; obvious, without any attempt to conceal",
+    "shortMeaning": "obvious and shameless",
+    "example": "It was a blatant lie that anyone could see through.",
+    "example2": "He showed a blatant disregard for the rules.",
+    "example3": "The advertising was a blatant attempt to mislead customers.",
+    "Explanation": "'Blatant' is a strongly negative adjective. It describes something bad (like a lie, injustice, or error) that is so obvious and brazen that it is offensive. There is no subtlety or attempt to hide it. This word is often used to express anger or criticism. It implies a kind of arrogance in the wrongdoing. It is more intense than 'obvious'. The adverb is 'blatantly'. Use it when you want to emphasize the shameless openness of a negative action.",
+    "synonyms": [
+      "flagrant",
+      "glaring",
+      "obvious",
+      "unconcealed"
+    ],
+    "antonyms": [
+      "subtle",
+      "concealed",
+      "discreet",
+      "hidden"
+    ],
+    "nounForm": "blatancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "blatant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Criticizing lies, unfairness, cheating, or obvious errors",
+    "usageTip": "Use 'blatant' to describe a bad action that is done openly and without any shame.",
+    "commonMistake": "Using it for neutral or positive obviousness. It's almost always negative.",
+    "collocations": [
+      "blatant lie",
+      "blatant disregard",
+      "blatantly obvious"
+    ]
+  },
+  {
+    "word": "Blatant",
+    "meaning": "Very obvious and clear, usually describing bad, offensive, or improper behavior",
+    "shortMeaning": "Obvious misconduct",
+    "example": "Copying someone else's website source code entirely is a blatant act of plagiarism.",
+    "example2": "The system detected a blatant attempt to bypass the server firewall setup.",
+    "example3": "There was a blatant error in the project budget calculation that everyone missed.",
+    "Explanation": "The word 'blatant' is an adjective used to describe an action or error that is so open and obvious that it cannot be hidden or ignored. It usually carries a negative tone, often pointing toward bad behavior, cheating, security breaches, or major careless mistakes. In software teams, a blatant violation of coding style guidelines or security policies is easily spotted during standard code review cycles.",
+    "synonyms": [
+      "obvious",
+      "flagrant",
+      "glaring"
+    ],
+    "antonyms": [
+      "subtle",
+      "hidden",
+      "secret"
+    ],
+    "nounForm": "blatancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "blatant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security reviews, code quality audits, behavioral evaluations",
+    "usageTip": "Use 'blatant' only when describing an obvious mistake or negative action that is hard to defend or hide.",
+    "commonMistake": "Using 'blatant' to describe a positive or neutral obvious fact; use 'evident' or 'clear' instead.",
+    "collocations": [
+      "blatant lie",
+      "blatant error",
+      "blatant violation"
+    ]
+  }
+]

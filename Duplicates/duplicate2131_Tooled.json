@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tooled",
+    "meaning": "Equipped or prepared with the necessary instruments or software",
+    "shortMeaning": "equipped",
+    "example": "The team was fully tooled for the upcoming project.",
+    "example2": "He tooled his workstation with the latest hardware.",
+    "example3": "We are well-tooled for this type of problem.",
+    "Explanation": "The word 'tooled' means to have provided oneself or a system with the necessary tools, machinery, or software to complete a task. In an IT environment, saying a team is 'tooled up' means they have the correct compilers, IDEs, debugging tools, and access permissions required to build or maintain software. It implies preparation and readiness. It is a common professional term used to describe resource allocation and environment setup. Do not confuse this with physical factory tooling, though the usage is derived from that original meaning.",
+    "synonyms": [
+      "equipped",
+      "prepared",
+      "furnished"
+    ],
+    "antonyms": [
+      "unprepared",
+      "lacking"
+    ],
+    "nounForm": "tool",
+    "verbForm": "tool",
+    "adjectiveForm": "tooled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Resource management, software development environments",
+    "usageTip": "Use 'tooled up' to sound like an industry professional.",
+    "commonMistake": "Using 'tooled' to mean 'skilled'—it refers to equipment, not talent.",
+    "collocations": [
+      "fully tooled",
+      "tooled up",
+      "properly tooled"
+    ]
+  },
+  {
+    "word": "Tooled",
+    "meaning": "Equipped with the necessary software or hardware tools",
+    "shortMeaning": "prepared",
+    "example": "The team was well-tooled for the upcoming migration.",
+    "example2": "He tooled the workstation for high-speed coding.",
+    "example3": "We need to ensure the environment is correctly tooled.",
+    "Explanation": "To be 'tooled' means to have the correct setup, software, and hardware configurations ready to perform a specific job. In an IT company, 'tooled' refers to the environment or the personnel having the right utilities to succeed. It implies preparedness. Before starting a big project, you want to ensure your infrastructure and your developers are 'tooled' properly to avoid delays later on. It is a professional way to say you are ready.",
+    "synonyms": [
+      "equipped",
+      "prepared",
+      "set up"
+    ],
+    "antonyms": [
+      "unprepared",
+      "unqualified",
+      "naked"
+    ],
+    "nounForm": "tooling",
+    "verbForm": "tool",
+    "adjectiveForm": "tooled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "DevOps, workspace, project setup",
+    "usageTip": "Use to describe preparedness for a technical task.",
+    "commonMistake": "Using 'tooled' to describe someone who is 'tricked' (in slang); keep it professional.",
+    "collocations": [
+      "well-tooled",
+      "properly tooled",
+      "tooled environment"
+    ]
+  }
+]

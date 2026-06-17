@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Mediocre",
+    "meaning": "Of only moderate quality; not very good.",
+    "shortMeaning": "average, ordinary",
+    "example": "The restaurant received mediocre reviews.",
+    "example2": "He was a mediocre student who did just enough to pass.",
+    "example3": "We were disappointed by the film's mediocre plot.",
+    "Explanation": "'Mediocre' is an adjective describing something that is neither good nor bad but rather average or unexceptional. It has a negative connotation, implying that something is not good enough, that it fails to rise above the ordinary. It's a damning criticism in contexts where excellence is expected, like art, cuisine, or performance. The noun is 'mediocrity'. It's a useful word for expressing disappointment with something that is not terrible but is decidedly unimpressive. It sits between 'poor' and 'good' on a scale of quality.",
+    "synonyms": [
+      "ordinary",
+      "average",
+      "indifferent"
+    ],
+    "antonyms": [
+      "excellent",
+      "outstanding",
+      "exceptional"
+    ],
+    "nounForm": "mediocrity",
+    "verbForm": "N/A",
+    "adjectiveForm": "mediocre",
+    "partOfSpeech": "adjective",
+    "commonContext": "Reviews, performance, quality, achievements",
+    "usageTip": "Often used to express mild but definite disappointment.",
+    "commonMistake": "Pronouncing it as 'med-i-oker'; the correct pronunciation is 'mee-dee-OH-ker'.",
+    "collocations": [
+      "decidedly mediocre",
+      "mediocre at best",
+      "talent for mediocrity"
+    ]
+  },
+  {
+    "word": "Mediocre",
+    "meaning": "Only of moderate or average quality; not very good",
+    "shortMeaning": "average or below par",
+    "example": "The app's performance was mediocre and needed optimization.",
+    "example2": "He provided a mediocre response that lacked detail.",
+    "example3": "Avoid accepting mediocre code in your project.",
+    "Explanation": "The word 'mediocre' describes work or products that are not bad enough to be failures but not good enough to be successful. It suggests a lack of effort, quality, or ambition. In IT, using 'mediocre' tools or delivering 'mediocre' results can lead to technical debt or poor user experiences. It is a critical assessment used when reviewing code quality or team output, highlighting that the standard needs to be higher. Aiming for anything 'mediocre' is usually the path to project failure.",
+    "synonyms": [
+      "average",
+      "unimpressive",
+      "second-rate"
+    ],
+    "antonyms": [
+      "excellent",
+      "outstanding",
+      "superior"
+    ],
+    "nounForm": "mediocrity",
+    "verbForm": "N/A",
+    "adjectiveForm": "mediocre",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, performance evaluation, and quality",
+    "usageTip": "Use to describe quality that is not up to professional standards.",
+    "commonMistake": "Confusing 'mediocre' (lack of quality) with 'average' (neutral statistic).",
+    "collocations": [
+      "mediocre performance",
+      "mediocre quality",
+      "avoid mediocre code"
+    ]
+  }
+]

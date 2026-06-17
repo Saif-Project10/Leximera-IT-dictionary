@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Defer",
+    "meaning": "To postpone or delay something; to submit to or acknowledge the authority of another.",
+    "shortMeaning": "postpone, yield",
+    "example": "He decided to defer his university admission for a year.",
+    "example2": "I defer to your expertise on this matter.",
+    "example3": "Payment can be deferred for six months.",
+    "Explanation": "The verb 'defer' has two distinct meanings. First, to put off to a later time (similar to postpone). Second, to yield respectfully to someone else's opinion or authority. The first meaning is common in formal contexts (deferred payment, deferred admission). The second meaning shows humility and respect. A common mistake is confusing it with 'infer' (to deduce). 'Defer' is about delaying or yielding. It's a more formal word than 'put off'. The noun form is 'deferment' or 'deference' depending on the meaning.",
+    "synonyms": [
+      "postpone",
+      "delay",
+      "submit"
+    ],
+    "antonyms": [
+      "expedite",
+      "advance",
+      "insist"
+    ],
+    "nounForm": "deferment / deference",
+    "verbForm": "defer",
+    "adjectiveForm": "deferred",
+    "partOfSpeech": "verb",
+    "commonContext": "Finance, education, decision-making, respect",
+    "usageTip": "For delaying, use 'defer to' a later date. For yielding, use 'defer to' a person.",
+    "commonMistake": "Using 'defer' to mean 'refer'. To refer is to direct someone to a different source.",
+    "collocations": [
+      "defer payment",
+      "defer to someone",
+      "defer a decision"
+    ]
+  },
+  {
+    "word": "Defer",
+    "meaning": "To put something off until a later time",
+    "shortMeaning": "to postpone",
+    "example": "The committee decided to defer the decision until next week.",
+    "example2": "You can choose to defer your taxes to the next fiscal year.",
+    "example3": "The software will defer the update if the user is busy.",
+    "Explanation": "To 'defer' means to delay an action or an event to a future date. It is a formal way of saying 'postpone'. In a different context, it can also mean to yield to someone else's opinion out of respect, though the 'postpone' meaning is more common in IT and business. In programming, deferring a task means scheduling it to run after other operations are complete. It is a useful word for professional scheduling and logic flow.",
+    "synonyms": [
+      "postpone",
+      "delay",
+      "suspend",
+      "adjourn"
+    ],
+    "antonyms": [
+      "advance",
+      "expedite",
+      "continue",
+      "hurry"
+    ],
+    "nounForm": "deferment",
+    "verbForm": "defer",
+    "adjectiveForm": "deferred",
+    "partOfSpeech": "verb",
+    "commonContext": "Meetings, finance, and programming logic",
+    "usageTip": "Use 'defer' in formal writing instead of 'put off'.",
+    "commonMistake": "Confusing 'defer' with 'differ' (to be different).",
+    "collocations": [
+      "defer a payment",
+      "defer a decision",
+      "deferred action"
+    ]
+  }
+]

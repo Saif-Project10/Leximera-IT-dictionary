@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Decommission",
+    "meaning": "To take a piece of equipment, facility, or ship out of active service, often permanently.",
+    "shortMeaning": "take out of service",
+    "example": "The government plans to decommission the old nuclear power plant.",
+    "example2": "The navy ship was decommissioned after 40 years of service.",
+    "example3": "They will decommission the legacy servers once the migration is complete.",
+    "Explanation": "'Decommission' is a formal verb used for retiring complex systems from active use. It implies an official, planned process to shut down operations safely and often involves dismantling or repurposing. It's commonly used for military equipment (ships, planes), industrial facilities (power plants), and outdated technology (servers). The noun form is 'decommissioning'. This process usually includes environmental cleanup, data deletion, and asset disposal. It's the final step in an asset's lifecycle.",
+    "synonyms": [
+      "retire",
+      "mothball",
+      "take out of service",
+      "dismantle"
+    ],
+    "antonyms": [
+      "commission",
+      "activate",
+      "deploy",
+      "put into service"
+    ],
+    "nounForm": "decommissioning",
+    "verbForm": "decommission",
+    "adjectiveForm": "decommissioned",
+    "partOfSpeech": "verb",
+    "commonContext": "Military, industry, IT infrastructure, energy",
+    "usageTip": "Often used in the passive voice: 'The system was decommissioned.'",
+    "commonMistake": "Using it for simple actions like turning off a computer; it implies a permanent, formal retirement.",
+    "collocations": [
+      "decommission a plant",
+      "decommission a ship",
+      "decommission legacy systems",
+      "planned decommission"
+    ]
+  },
+  {
+    "word": "Decommission",
+    "meaning": "To formally take a system, server, or software out of active service",
+    "shortMeaning": "retire a system",
+    "example": "We plan to decommission the old server next month.",
+    "example2": "The company decided to decommission the legacy software in favor of a cloud solution.",
+    "example3": "Decommissioning old hardware helps reduce maintenance costs.",
+    "Explanation": "This is a professional term used when a technology has reached the end of its life. Decommissioning involves more than just turning a machine off; it usually includes backing up data, informing users, and safely deleting sensitive information. It is a planned, formal process. You might decommission a database, a physical server, or an entire department's software tool. It is a critical part of the 'Software Development Life Cycle' (SDLC) or hardware management.",
+    "synonyms": [
+      "retire",
+      "shutdown",
+      "withdraw"
+    ],
+    "antonyms": [
+      "commission",
+      "activate",
+      "install"
+    ],
+    "nounForm": "decommissioning",
+    "verbForm": "decommission",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "IT infrastructure and enterprise software management",
+    "usageTip": "Use this term for large-scale systems or hardware rather than small files.",
+    "commonMistake": "Using 'delete' when you mean 'decommission' a whole service.",
+    "collocations": [
+      "decommission a server",
+      "safely decommission",
+      "decommissioning process"
+    ]
+  }
+]

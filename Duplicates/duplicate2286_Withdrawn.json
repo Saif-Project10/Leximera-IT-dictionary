@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Withdrawn",
+    "meaning": "Removed, retracted, or pulled back from a service or availability.",
+    "shortMeaning": "removed",
+    "example": "The software update was withdrawn due to a critical bug.",
+    "example2": "He has withdrawn his application for the position.",
+    "example3": "The support for this version was withdrawn last year.",
+    "Explanation": "The word 'withdrawn' describes something that is taken back or removed from a public offering or system. In IT, a product or update might be 'withdrawn' if it causes problems or if a newer version renders it obsolete. The base verb is 'withdraw'. It signals that the item is no longer supported or available for use. This is common in lifecycle management, where companies stop supporting old hardware or software.",
+    "synonyms": [
+      "removed",
+      "retracted",
+      "cancelled"
+    ],
+    "antonyms": [
+      "released",
+      "available",
+      "offered"
+    ],
+    "nounForm": "withdrawal",
+    "verbForm": "withdraw",
+    "adjectiveForm": "withdrawn",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Software support, product management, updates",
+    "usageTip": "Use 'withdrawn' when explaining why something is no longer available.",
+    "commonMistake": "Using 'withdrawn' for something that was merely 'delayed'.",
+    "collocations": [
+      "withdrawn from service",
+      "product withdrawn",
+      "withdrawn the offer"
+    ]
+  },
+  {
+    "word": "Withdrawn",
+    "meaning": "Removed, taken back, or being shy and quiet",
+    "shortMeaning": "removed or quiet",
+    "example": "The software update was withdrawn due to a bug.",
+    "example2": "He has become very withdrawn since he lost his job.",
+    "example3": "The offer was withdrawn after the deadline.",
+    "Explanation": "The word 'withdrawn' has two primary meanings. In a technical or formal sense, it means an item, product, or proposal has been removed or retracted from availability. In a personal sense, it describes someone who is socially quiet, reserved, or keeps to themselves. In IT, a 'withdrawn' feature or product is one no longer supported or sold. It is important to contextually distinguish between these two very different meanings when using the word.",
+    "synonyms": [
+      "retracted",
+      "removed",
+      "reserved"
+    ],
+    "antonyms": [
+      "released",
+      "available",
+      "outgoing"
+    ],
+    "nounForm": "withdrawal",
+    "verbForm": "withdraw",
+    "adjectiveForm": "withdrawn",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Product management, software support, behavior",
+    "usageTip": "Use 'withdrawn' to describe software features that are no longer available or people who are reserved.",
+    "commonMistake": "Confusing the past tense 'withdrew' with the past participle 'withdrawn'.",
+    "collocations": [
+      "withdrawn from sale",
+      "withdrawn update",
+      "withdrawn personality"
+    ]
+  }
+]

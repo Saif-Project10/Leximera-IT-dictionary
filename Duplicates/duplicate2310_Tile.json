@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tile",
+    "meaning": "A small, rectangular block used in UI or image processing",
+    "shortMeaning": "UI block",
+    "example": "The dashboard displays data in a grid of tiles.",
+    "example2": "The map application uses tiles to load images quickly.",
+    "example3": "He resized the tile to fit the mobile screen.",
+    "Explanation": "A 'tile' is a common UI/UX element in modern design, often serving as a clickable button or an information container. In graphics and mapping, tiling refers to breaking a large image into smaller, manageable parts for faster rendering. 'Tiling' is a technique used in web development to repeat a background image efficiently. It is a visual-heavy term that signifies modularity and orderly arrangement of information on a screen.",
+    "synonyms": [
+      "block",
+      "panel",
+      "widget"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "tile",
+    "verbForm": "tile",
+    "adjectiveForm": "tiled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "UI/UX design, graphics, web layout",
+    "usageTip": "Use when describing grid-based design components or image rendering.",
+    "commonMistake": "Confusing a 'tile' with a standard 'card'; tiles are usually part of a grid.",
+    "collocations": [
+      "dashboard tile",
+      "tiled layout",
+      "map tiles"
+    ]
+  },
+  {
+    "word": "Tile",
+    "meaning": "To arrange window frames, user interface panels, or image textures in a continuous grid layout without overlaps",
+    "shortMeaning": "arrange in non-overlapping grid",
+    "example": "Advanced operating systems allow developers to tile multiple terminal code screens side by side.",
+    "example2": "The web browser will tile the small background graphic to fill the massive monitor space.",
+    "example3": "Using a grid system makes it exceptionally easy to tile product preview cards across a page.",
+    "Explanation": "The word 'tile' functions as a noun, adjective, and an active arrangement verb. As a verb, it means organizing multiple graphic windows, data panels, or image assets across a digital screen space so they sit edge-to-edge in a clean, non-overlapping grid structure. This is highly popular in data dashboards, dashboard management applications, window-manager systems, and web design textures where a small background image repeats smoothly to cover an entire viewport backdrop.",
+    "synonyms": [
+      "grid arrange",
+      "repeat seamlessly",
+      "pattern display"
+    ],
+    "antonyms": [
+      "cascade",
+      "overlap"
+    ],
+    "nounForm": "tile / tiling",
+    "verbForm": "tile",
+    "adjectiveForm": "tiled",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "User interface dashboard layouts, CSS background properties, and developer window management",
+    "usageTip": "Use 'tile' when explaining how a design repeats an image or positions windows side-by-side in a grid pattern.",
+    "commonMistake": "Confusing 'tile' layouts with 'cascade' layouts, where windows overlay on top of each other diagonally.",
+    "collocations": [
+      "tiled layout",
+      "tile windows across",
+      "tiled background image"
+    ]
+  }
+]

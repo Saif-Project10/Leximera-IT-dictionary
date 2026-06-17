@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Non-relational",
+    "meaning": "Databases that do not use tables/rows (e.g., NoSQL)",
+    "shortMeaning": "NoSQL database",
+    "example": "We use a non-relational database to store our unstructured logs.",
+    "example2": "The project shifted to a non-relational model for better scaling.",
+    "example3": "Non-relational databases are great for rapid data changes.",
+    "Explanation": "Also known as NoSQL, 'non-relational' databases are designed for data that does not fit neatly into rows and columns. They can store documents, key-value pairs, or graphs, making them highly flexible. They are often used for Big Data, real-time analytics, and content management where the schema needs to change often. Unlike relational databases, they favor horizontal scaling and speed over strict ACID consistency. Choosing between relational and non-relational depends on your data structure and scalability needs.",
+    "synonyms": [
+      "NoSQL",
+      "unstructured"
+    ],
+    "antonyms": [
+      "relational",
+      "SQL"
+    ],
+    "nounForm": "NoSQL",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-relational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management and Big Data",
+    "usageTip": "Use 'non-relational' for NoSQL database systems.",
+    "commonMistake": "Assuming non-relational databases are always better; they lack some of the powerful data integrity features of SQL.",
+    "collocations": [
+      "non-relational database",
+      "non-relational model",
+      "non-relational storage"
+    ]
+  },
+  {
+    "word": "Non-relational",
+    "meaning": "Not based on a table-based (SQL) structure",
+    "shortMeaning": "not SQL-based",
+    "example": "We use a non-relational database for our unstructured data.",
+    "example2": "MongoDB is a popular non-relational storage solution.",
+    "example3": "The project needs a non-relational structure for high flexibility.",
+    "Explanation": "The term 'non-relational' refers to data storage models that do not use rows, columns, and foreign keys (SQL tables). These are often called 'NoSQL' databases. They store data as documents, key-value pairs, or graphs. 'Non-relational' systems are excellent for data that is changing rapidly or does not fit neatly into a rigid, structured table format. It is a critical choice in modern software design regarding how you manage information.",
+    "synonyms": [
+      "NoSQL",
+      "document-oriented"
+    ],
+    "antonyms": [
+      "relational",
+      "SQL-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-relational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, storage, big data",
+    "usageTip": "Use when comparing NoSQL to SQL.",
+    "commonMistake": "Thinking non-relational is 'worse' than relational; they just serve different needs.",
+    "collocations": [
+      "non-relational database",
+      "non-relational storage",
+      "non-relational model"
+    ]
+  }
+]

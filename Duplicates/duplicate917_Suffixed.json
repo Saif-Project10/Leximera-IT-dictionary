@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Suffixed",
+    "meaning": "Having a suffix added to the end of it.",
+    "shortMeaning": "with a suffix added",
+    "example": "The word 'happiness' is formed from 'happy' suffixed with '-ness'.",
+    "example2": "In the list, the verbs are suffixed with '-ing'.",
+    "example3": "The filename must be suffixed with '.txt' for the program to read it.",
+    "Explanation": "'Suffixed' is the past participle of the verb 'suffix'. In linguistics and computing, it means to add letters or a code to the end of a word or string. It is a technical term. The opposite is 'prefixed'. As an adjective, it describes something that has a suffix. It is not a common word in everyday English but is important in specific fields. Understanding this word helps in learning grammar and programming.",
+    "synonyms": [
+      "appended",
+      "added to the end"
+    ],
+    "antonyms": [
+      "prefixed"
+    ],
+    "nounForm": "suffix",
+    "verbForm": "suffix",
+    "adjectiveForm": "suffixed",
+    "partOfSpeech": "verb (past participle), adjective",
+    "commonContext": "Linguistics, grammar, computer programming, file naming",
+    "usageTip": "Usually used in passive voice or as an adjective: 'The word is suffixed' or 'a suffixed form'.",
+    "commonMistake": "Confusing 'suffixed' with 'suffocated'. They sound different and have unrelated meanings.",
+    "collocations": [
+      "suffixed with",
+      "suffixed by",
+      "suffixed form"
+    ]
+  },
+  {
+    "word": "Suffixed",
+    "meaning": "Added to the end of a string or file name",
+    "shortMeaning": "added to the end",
+    "example": "The file name is suffixed with the date.",
+    "example2": "New logs are suffixed with a timestamp.",
+    "example3": "Variable names are often suffixed with their type.",
+    "Explanation": "The term 'suffixed' means an element (like a character or word) has been added to the very end of another. In IT, we use this constantly: filenames (e.g., `image_final.png` is suffixed with `.png`), versioning, or creating unique identifiers. It is a simple but important way to organize data or prevent naming conflicts. Understanding how to handle 'suffixed' data is essential for writing scripts that automate file management or data processing tasks.",
+    "synonyms": [
+      "appended",
+      "attached"
+    ],
+    "antonyms": [
+      "prefixed",
+      "front-loaded"
+    ],
+    "nounForm": "suffix",
+    "verbForm": "suffix",
+    "adjectiveForm": "suffixed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "File management, scripting",
+    "usageTip": "Use 'suffixed' for items added to the end.",
+    "commonMistake": "Confusing it with 'prefixed' (added to the beginning).",
+    "collocations": [
+      "suffixed file",
+      "suffixed variable"
+    ]
+  }
+]

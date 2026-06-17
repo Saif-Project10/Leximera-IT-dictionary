@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Write once",
+    "meaning": "A storage method where data can be recorded only one time and never changed",
+    "shortMeaning": "one-time recording",
+    "example": "The archive was stored on a write once medium to ensure data integrity.",
+    "example2": "Standard CD-R discs are examples of write once technology.",
+    "example3": "The 'write once' property prevents accidental deletion of logs.",
+    "Explanation": "The term 'write once' refers to data storage media or processes that allow data to be written to the storage surface only a single time. Once the data is recorded, it becomes permanent and can only be read, not modified or erased. This is often referred to as WORM (Write Once, Read Many). It is highly valuable for legal records, financial audits, and permanent archives where proof of original data is required. In software, it can also refer to variables that are assigned a value once and then become constants. It provides a high level of security against tampering.",
+    "synonyms": [
+      "WORM",
+      "non-rewritable",
+      "permanent recording"
+    ],
+    "antonyms": [
+      "rewritable",
+      "erasable",
+      "mutable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "write once",
+    "adjectiveForm": "write-once",
+    "partOfSpeech": "adjective / verb phrase",
+    "commonContext": "Data archiving and storage media",
+    "usageTip": "Use 'write once' when discussing long-term backups that must remain unchanged.",
+    "commonMistake": "Confusing 'write once' with 'read-only'; read-only means you can't write at all, while write-once allows the initial recording.",
+    "collocations": [
+      "write once medium",
+      "write once technology",
+      "write once memory"
+    ]
+  },
+  {
+    "word": "Write once",
+    "meaning": "Data can be saved only one time and not changed",
+    "shortMeaning": "saved once only",
+    "example": "The CD-R uses write once technology.",
+    "example2": "This media is a write once storage device.",
+    "example3": "Write once storage is great for long-term archiving.",
+    "Explanation": "A 'write once' device or format (like CD-R or WORM drives) allows data to be recorded only a single time. Once written, the data cannot be modified, erased, or overwritten. This is useful for creating permanent backups, archival storage, or protecting data from tampering. It is the opposite of 'rewritable' media. It is an important concept in compliance and security, where preventing data modification is a key requirement.",
+    "synonyms": [
+      "non-rewritable",
+      "permanent storage"
+    ],
+    "antonyms": [
+      "rewritable",
+      "erasable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "write-once",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage media, archiving, security",
+    "usageTip": "Use 'write once' to describe storage media that cannot be changed after data is saved.",
+    "commonMistake": "Trying to treat write-once media like a regular USB drive.",
+    "collocations": [
+      "write once media",
+      "write once storage",
+      "write once technology"
+    ]
+  },
+  {
+    "word": "Write once",
+    "meaning": "A type of storage media or data storage policy where data can be recorded only one time and never modified or erased",
+    "shortMeaning": "record data exactly once",
+    "example": "Optical discs like CD-R are write once media used for permanent archiving.",
+    "example2": "The security system stores logs on a write once drive to prevent tampering.",
+    "example3": "We use a write once data policy for audit trails to maintain compliance.",
+    "Explanation": "The phrase 'write once' describes a fundamental storage concept, often abbreviated as WORM (Write Once, Read Many). Once data is written onto this type of media or architecture, the hardware or software physically or logically locks the sectors, preventing any future modification, rewriting, or deletion. This makes it an ideal option for data archiving, creating legal backups, and maintaining secure system audit logs that must be protected against malicious tampering or accidental loss.",
+    "synonyms": [
+      "non-rewritable",
+      "permanent recording",
+      "WORM"
+    ],
+    "antonyms": [
+      "rewritable",
+      "reusable storage",
+      "erasable"
+    ],
+    "nounForm": "write-once storage",
+    "verbForm": "write once",
+    "adjectiveForm": "write-once",
+    "partOfSpeech": "adjective / verb phrase",
+    "commonContext": "Data storage, archival technology, cybersecurity compliance",
+    "usageTip": "Use a hyphen when 'write-once' acts as an adjective directly modifying a noun, like 'write-once media'.",
+    "commonMistake": "Confusing 'write once' with the programming phrase 'write once, run anywhere' (WORA), which refers to cross-platform code compatibility.",
+    "collocations": [
+      "write-once media",
+      "write-once storage",
+      "write once read many"
+    ]
+  }
+]

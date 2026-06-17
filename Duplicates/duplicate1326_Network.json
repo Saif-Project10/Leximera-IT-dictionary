@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Network",
+    "meaning": "A group or system of interconnected people or things; to interact with others to exchange information",
+    "shortMeaning": "interconnected system",
+    "example": "She has a large professional network.",
+    "example2": "The computer network crashed.",
+    "example3": "It's important to network at industry events.",
+    "Explanation": "'Network' is a highly versatile word. As a noun, it can refer to social connections, technological infrastructure (internet, TV), or any interconnected structure (roads, neurons). As a verb, it means to make professional or social contacts. In the digital age, its usage has expanded significantly. The concept emphasizes relationships and the flow of information, resources, or support. It's a key term in business, technology, and sociology.",
+    "synonyms": [
+      "web",
+      "system",
+      "grid"
+    ],
+    "antonyms": [
+      "isolate",
+      "disconnection",
+      "singularity"
+    ],
+    "nounForm": "network",
+    "verbForm": "network",
+    "adjectiveForm": "networked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, business, social media, telecommunications",
+    "usageTip": "As a verb, it is often used in the context of career development (e.g., 'network with colleagues').",
+    "commonMistake": "Using 'network' only as a noun and forgetting its common use as a verb.",
+    "collocations": [
+      "social network",
+      "network security",
+      "network of friends"
+    ]
+  },
+  {
+    "word": "Network",
+    "meaning": "A group of two or more computer systems linked together",
+    "shortMeaning": "connected systems",
+    "example": "The office network went down, so we couldn't access the internet.",
+    "example2": "Social networks allow people to stay connected globally.",
+    "example3": "We need to secure the home network with a strong password.",
+    "Explanation": "A network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data. The most famous example of a network is the Internet. Networks can be small (LAN) or spread across the world (WAN). Beyond hardware, the term is also used for social connections or neural networks in AI. Understanding how data travels through a network (via packets and protocols) is a core part of IT knowledge.",
+    "synonyms": [
+      "web",
+      "system",
+      "grid"
+    ],
+    "antonyms": [
+      "isolation",
+      "disconnection"
+    ],
+    "nounForm": "network",
+    "verbForm": "network",
+    "adjectiveForm": "networked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computers, social media, and professional links",
+    "usageTip": "As a verb, 'network' means to meet people who might be useful to your career.",
+    "commonMistake": "Using 'the internet' and 'the network' interchangeably; a network can exist without the internet.",
+    "collocations": [
+      "local area network",
+      "network security",
+      "neural network"
+    ]
+  }
+]

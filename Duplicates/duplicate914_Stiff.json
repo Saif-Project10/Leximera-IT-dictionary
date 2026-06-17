@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Stiff",
+    "meaning": "Firm, hard, or not easily bent; not relaxed.",
+    "shortMeaning": "hard to bend; rigid",
+    "example": "The new shoes were stiff and uncomfortable.",
+    "example2": "He felt stiff after the long flight.",
+    "example3": "She gave a stiff smile, showing she was nervous.",
+    "Explanation": "'Stiff' is primarily an adjective. Its basic meaning is rigid and difficult to bend or move. It can describe physical objects, body parts (from soreness), or mannerisms (formal and unfriendly). It can also mean severe or strong, as in a 'stiff penalty'. It is a common word with a wide range of uses. The noun form 'stiffness' refers to the condition of being stiff. It often has a slightly negative connotation.",
+    "synonyms": [
+      "rigid",
+      "inflexible",
+      "tight",
+      "formal"
+    ],
+    "antonyms": [
+      "flexible",
+      "limp",
+      "relaxed",
+      "loose"
+    ],
+    "nounForm": "stiffness",
+    "verbForm": "stiffen",
+    "adjectiveForm": "stiff",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing materials, body pain, competition, behavior",
+    "usageTip": "For muscles, 'stiff' means sore. For objects, it means hard to bend. For people, it can mean unfriendly.",
+    "commonMistake": "Confusing 'stiff' with 'hard'. A 'stiff' neck is sore and tight; a 'hard' neck is physically solid like rock.",
+    "collocations": [
+      "stiff competition",
+      "stiff neck",
+      "stiff breeze"
+    ]
+  },
+  {
+    "word": "Stiff",
+    "meaning": "Rigid, inflexible, or difficult to change.",
+    "shortMeaning": "inflexible",
+    "example": "The stiff design makes future updates difficult.",
+    "example2": "His coding style is too stiff for modern collaborative projects.",
+    "example3": "The framework feels stiff and hard to customize.",
+    "Explanation": "The word 'stiff' describes something that is inflexible, rigid, and resistant to change or movement. In software, 'stiff' architecture is bad because it cannot easily adapt to new requirements or user needs. Modern development focuses on 'flexible' or 'agile' systems, while 'stiff' systems feel old-fashioned and frustrating to work with. If a component feels 'stiff', it likely needs to be refactored to be more modular and adaptable.",
+    "synonyms": [
+      "rigid",
+      "inflexible",
+      "unyielding"
+    ],
+    "antonyms": [
+      "flexible",
+      "agile",
+      "malleable"
+    ],
+    "nounForm": "stiffness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stiff",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, architecture, styling",
+    "usageTip": "Use 'stiff' to describe inflexible architecture or code.",
+    "commonMistake": "Confusing 'stiff' (inflexible) with 'strict' (precise).",
+    "collocations": [
+      "stiff architecture",
+      "stiff design",
+      "stiff code"
+    ]
+  },
+  {
+    "word": "Stiff",
+    "meaning": "Not easily bent; also used to describe rigid or formal systems",
+    "shortMeaning": "rigid or formal",
+    "example": "The old code is stiff and hard to modify.",
+    "example2": "He gave a stiff, formal presentation.",
+    "example3": "The hardware has a stiff frame design.",
+    "Explanation": "The word 'stiff' describes something that lacks flexibility. In software development, it is used to describe code that is difficult to change or extend due to poor architecture. It implies a lack of adaptability. While useful in hardware for structural integrity, in software, 'stiff' is usually a critique of maintainability. It suggests that a more modular or refactored approach is needed to improve the system's longevity.",
+    "synonyms": [
+      "rigid",
+      "inflexible",
+      "formal"
+    ],
+    "antonyms": [
+      "flexible",
+      "adaptable",
+      "loose"
+    ],
+    "nounForm": "stiffness",
+    "verbForm": "stiffen",
+    "adjectiveForm": "stiff",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code architecture, hardware, communication",
+    "usageTip": "Use to describe lack of flexibility in code or systems.",
+    "commonMistake": "Confusing 'stiff' with 'stable' in a software context.",
+    "collocations": [
+      "stiff code",
+      "stiff architecture"
+    ]
+  }
+]

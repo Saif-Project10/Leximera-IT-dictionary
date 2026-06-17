@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Noticeable",
+    "meaning": "Easily seen or noticed; clear and apparent.",
+    "shortMeaning": "easy to see",
+    "example": "There was a noticeable improvement in her grades after she started tutoring.",
+    "example2": "The stain on his shirt was very noticeable.",
+    "example3": "A noticeable change in temperature occurs at night.",
+    "Explanation": "'Noticeable' is an adjective that describes something that attracts attention because it is different, clear, or significant. It is used to talk about changes, differences, or features that are obvious to an observer. The word is common in everyday English to point out things that stand out. It's important for giving descriptions and feedback.",
+    "synonyms": [
+      "obvious",
+      "evident",
+      "conspicuous",
+      "perceptible"
+    ],
+    "antonyms": [
+      "unnoticeable",
+      "inconspicuous",
+      "hidden",
+      "imperceptible"
+    ],
+    "nounForm": "noticeability",
+    "verbForm": "notice",
+    "adjectiveForm": "noticeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday observation, reporting changes, giving feedback",
+    "usageTip": "Use 'noticeable' to describe something that is clearly different or can be easily seen.",
+    "commonMistake": "Misspelling it as 'noticable'; remember the 'e' from 'notice'.",
+    "collocations": [
+      "noticeable difference",
+      "noticeable improvement",
+      "highly noticeable"
+    ]
+  },
+  {
+    "word": "Noticeable",
+    "meaning": "Easy to see, hear, or perceive",
+    "shortMeaning": "easy to see",
+    "example": "There was a noticeable delay in the network.",
+    "example2": "The improvement in speed is quite noticeable.",
+    "example3": "Small changes are not noticeable to the user.",
+    "Explanation": "The word 'noticeable' describes something that is significant enough to be detected by someone. In IT, 'noticeable' describes impacts that affect user experience (e.g., a lag that feels annoying) or system health (e.g., a spike that is obvious on a graph). It is a measure of impact: if a change is 'noticeable', it is large enough to matter to a person or to the system's performance metrics.",
+    "synonyms": [
+      "perceptible",
+      "evident",
+      "obvious"
+    ],
+    "antonyms": [
+      "unnoticeable",
+      "subtle",
+      "invisible"
+    ],
+    "nounForm": "notice",
+    "verbForm": "notice",
+    "adjectiveForm": "noticeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, UI/UX, diagnostics",
+    "usageTip": "Use when impact is easily perceived.",
+    "commonMistake": "Using 'noticeable' for things that require deep data analysis; 'noticeable' should be immediate.",
+    "collocations": [
+      "noticeable improvement",
+      "noticeable delay",
+      "noticeable change"
+    ]
+  }
+]

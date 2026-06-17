@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Associated",
+    "meaning": "Connected with something else; linked or related",
+    "shortMeaning": "connected or linked",
+    "example": "The risks associated with smoking are well-known.",
+    "example2": "She works for a company associated with the tech industry.",
+    "example3": "The smell of rain is often associated with freshness.",
+    "Explanation": "'Associated' describes a connection or relationship between two things. It can be a direct link (a person associated with a company) or a mental connection (an idea associated with a feeling). The verb is 'associate'. It is a very common word in academic, professional, and everyday language to discuss connections, causes, and effects. It is more formal than 'linked with' or 'connected to'.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "related",
+      "affiliated",
+      "allied"
+    ],
+    "antonyms": [
+      "unrelated",
+      "unconnected",
+      "dissociated",
+      "separate"
+    ],
+    "nounForm": "association",
+    "verbForm": "associate",
+    "adjectiveForm": "associated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics (associated risks), business (associated companies), psychology (associated ideas)",
+    "usageTip": "Often followed by 'with' (problems associated with aging).",
+    "commonMistake": "Using it to mean 'caused by'; association implies connection, not necessarily causation.",
+    "collocations": [
+      "closely associated",
+      "commonly associated",
+      "associated with",
+      "associated risks"
+    ]
+  },
+  {
+    "word": "Associated",
+    "meaning": "Connected, linked, or related to a particular idea, object, system, or dataset",
+    "shortMeaning": "connected or linked",
+    "example": "Each user account has an associated email address stored in the database lookup table.",
+    "example2": "High latency is often associated with poor server routing configurations.",
+    "example3": "The developer cleared the cache and all its associated temporary files.",
+    "Explanation": "The word 'associated' describes a clear, logical link between two or more assets, entries, or concepts. In relational databases, rows in one table can be associated with rows in another table using foreign keys. In daily technical analysis, specific performance issues are often associated with particular codebase errors or network hardware constraints. It helps clearly define dependencies and references across architectures. It acts as a past-participle adjective or verb.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "related",
+      "affiliated"
+    ],
+    "antonyms": [
+      "disconnected",
+      "unrelated",
+      "independent",
+      "detached"
+    ],
+    "nounForm": "association",
+    "verbForm": "associate",
+    "adjectiveForm": "associated",
+    "partOfSpeech": "adjective / past participle",
+    "commonContext": "Relational database links, symptom analysis logs, digital file dependencies",
+    "usageTip": "Use 'associated' when you need to emphasize that an asset or file belongs to or is tied directly to another master entry.",
+    "commonMistake": "Using 'associated' to mean identical; two associated files are related, but they are still distinct separate items.",
+    "collocations": [
+      "associated data",
+      "associated costs",
+      "closely associated"
+    ]
+  }
+]

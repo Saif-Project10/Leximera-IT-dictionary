@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Up",
+    "meaning": "1. Towards a higher place or position. 2. In a state of increased activity, intensity, or completion. 3. Out of bed.",
+    "shortMeaning": "higher; increased; awake",
+    "example": "Please look up at the sky. (direction)",
+    "example2": "Turn the volume up. (increase)",
+    "example3": "She is usually up by 7 a.m. (awake)",
+    "Explanation": "'Up' is a fundamental adverb, preposition, adjective, and even verb. Its core meaning relates to higher position or increase. It forms countless phrasal verbs (give up, set up, clean up) and idioms ('up in the air', 'on the up and up'). It can describe being awake, finished (time's up), or even broken (the computer is up). Its simplicity and versatility make it one of the most frequently used words in English, essential for describing direction, state, and change.",
+    "synonyms": [
+      "upward",
+      "higher",
+      "awake",
+      "raised"
+    ],
+    "antonyms": [
+      "down",
+      "lower",
+      "asleep"
+    ],
+    "nounForm": "ups and downs",
+    "verbForm": "up (to increase)",
+    "adjectiveForm": "up",
+    "partOfSpeech": "adverb, preposition, adjective, verb",
+    "commonContext": "Direction,状态, time, completion",
+    "usageTip": "Use 'up' to indicate movement to a higher place, an increase in something, or being awake and active.",
+    "commonMistake": "Using 'up' redundantly with other verbs (e.g., 'raise up'). 'Raise' already means 'lift up'.",
+    "collocations": [
+      "up to",
+      "up and down",
+      "wake up",
+      "end up"
+    ]
+  },
+  {
+    "word": "Up",
+    "meaning": "A state of functioning, running, or active connectivity.",
+    "shortMeaning": "running/active",
+    "example": "The server has been up for thirty days.",
+    "example2": "Is the database up and running?",
+    "example3": "The link status is marked as up.",
+    "Explanation": "In IT, 'up' is used to describe a service, server, or link that is active and functional. It is the opposite of 'down'. When you say a system is 'up', you mean it is responding and available to users. It is an adjective or adverb. Always use 'up' in the context of system status or uptime. A system that is 'up' is fulfilling its intended purpose without interruptions.",
+    "synonyms": [
+      "active",
+      "functional",
+      "online"
+    ],
+    "antonyms": [
+      "down",
+      "offline",
+      "inactive"
+    ],
+    "nounForm": "uptime",
+    "verbForm": "N/A",
+    "adjectiveForm": "up",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "System monitoring, networking, and server maintenance",
+    "usageTip": "Use 'up' to describe the status of a live service.",
+    "commonMistake": "Confusing 'up' (status) with 'up' (direction).",
+    "collocations": [
+      "up and running",
+      "system is up",
+      "server is up"
+    ]
+  },
+  {
+    "word": "Up",
+    "meaning": "Operational, functioning, or in a higher position",
+    "shortMeaning": "functioning",
+    "example": "The server is back up and running now.",
+    "example2": "We are trying to bring the database back up.",
+    "example3": "Is the website up for everyone?",
+    "Explanation": "In an IT context, up means that a system, service, or server is active and fully functional. It is the opposite of 'down'. Maintaining high availability means keeping your services up as much as possible, often referred to as uptime. Monitoring tools are designed to alert administrators immediately if a service goes down so it can be brought back up quickly. When someone asks if a site is up, they want to know if it is reachable over the network.",
+    "synonyms": [
+      "operational",
+      "running",
+      "functional"
+    ],
+    "antonyms": [
+      "down",
+      "offline",
+      "broken"
+    ],
+    "nounForm": "uptime",
+    "verbForm": "N/A",
+    "adjectiveForm": "up",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Server and network status",
+    "usageTip": "Use it to confirm service availability.",
+    "commonMistake": "Confusing 'up' with 'online' in specific hardware contexts.",
+    "collocations": [
+      "up and running",
+      "back up",
+      "stay up"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Import",
+    "meaning": "1. To bring goods or services into a country from abroad. 2. Significance or importance.",
+    "shortMeaning": "bring in from abroad or significance",
+    "example": "The country imports most of its oil.",
+    "example2": "This is a matter of great import.",
+    "example3": "You can import data from a spreadsheet.",
+    "Explanation": "'Import' is a verb and a noun with two distinct meanings. The primary meaning is commercial: to bring products into a country. The secondary, more formal meaning is 'importance' or 'significance'. In computing, 'import' means to bring data into a program from another source. The commercial meaning is the opposite of 'export'. The word of 'importance' is used in formal writing. Context makes the meaning clear. It's a fundamental term in international trade, data management, and formal discourse.",
+    "synonyms": [
+      "bring in, introduce (verb); significance, importance, consequence (noun)"
+    ],
+    "antonyms": [
+      "export, send out (verb); unimportance, triviality (noun)"
+    ],
+    "nounForm": "import",
+    "verbForm": "import",
+    "adjectiveForm": "imported",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "International trade, computing, formal writing",
+    "usageTip": "As a verb, use for bringing goods/data in. As a noun for 'importance', it's formal: 'an issue of some import'.",
+    "commonMistake": "Pronouncing the noun and verb the same. Often, the verb is im-PORT, and the noun (for importance) is IM-port.",
+    "collocations": [
+      "import duties",
+      "import data",
+      "of great import"
+    ]
+  },
+  {
+    "word": "Import",
+    "meaning": "To bring files, data, or code from an outside source into your current project",
+    "shortMeaning": "bring in data/code",
+    "example": "You need to import the 'math' library to use square root functions.",
+    "example2": "The user can import their contacts from a CSV file into the app.",
+    "example3": "Make sure to import the correct CSS file for the layout.",
+    "Explanation": "In IT, 'import' is a very common action. In programming, you 'import' a library to use tools that someone else wrote. In data management, you 'import' a file (like an Excel sheet) to move information into a database. It is the opposite of 'export', which means sending data out. Importing allows you to reuse code and move data between different software programs easily.",
+    "synonyms": [
+      "bring in",
+      "load",
+      "include"
+    ],
+    "antonyms": [
+      "export",
+      "remove",
+      "exclude"
+    ],
+    "nounForm": "import",
+    "verbForm": "import",
+    "adjectiveForm": "imported",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming and data management",
+    "usageTip": "Only import the specific parts of a library you need to keep your app fast.",
+    "commonMistake": "Importing the same file twice, which can cause errors or slow down the system.",
+    "collocations": [
+      "import a file",
+      "import statement",
+      "import data"
+    ]
+  }
+]

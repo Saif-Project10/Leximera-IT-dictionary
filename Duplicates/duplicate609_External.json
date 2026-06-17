@@ -1,0 +1,67 @@
+[
+  {
+    "word": "External",
+    "meaning": "Belonging to, located on, or coming from the outside",
+    "shortMeaning": "on the outside",
+    "example": "The external walls of the house need painting.",
+    "example2": "The company hired an external consultant for advice.",
+    "example3": "She tries not to be affected by external pressures.",
+    "Explanation": "'External' is the opposite of 'internal'. It describes things that are on the outside of a defined boundary, like a body, an organization, or a country. In medicine, 'external' injuries are on the skin's surface. In business, 'external' factors are outside the company's control. It is a formal adjective commonly used in technical, medical, and business writing to distinguish between inside and outside influences or locations.",
+    "synonyms": [
+      "outer",
+      "outside",
+      "exterior",
+      "outward"
+    ],
+    "antonyms": [
+      "internal",
+      "inner",
+      "inside",
+      "interior"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "external",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, business, computing, anatomy",
+    "usageTip": "Use 'external' to describe something coming from or situated on the outside.",
+    "commonMistake": "Using 'external' when 'extraneous' (irrelevant or unrelated) is meant.",
+    "collocations": [
+      "external factors",
+      "external hard drive",
+      "external appearance",
+      "external audit"
+    ]
+  },
+  {
+    "word": "External",
+    "meaning": "Coming from outside a system or organization",
+    "shortMeaning": "from outside",
+    "example": "We use an external hard drive for data backups.",
+    "example2": "The system must be integrated with an external API.",
+    "example3": "External factors might affect our project timeline.",
+    "Explanation": "The word 'external' refers to anything that exists outside of a specific system or boundary. In programming, 'external' files or services are ones that you interact with but do not control directly. It is a vital term for system architecture and security. Everything outside your direct control is 'external'. Always make a clear distinction between what is 'internal' (within your system) and 'external' (outside of it) to ensure clean design.",
+    "synonyms": [
+      "outside",
+      "foreign",
+      "outer"
+    ],
+    "antonyms": [
+      "internal",
+      "inside",
+      "domestic"
+    ],
+    "nounForm": "externality",
+    "verbForm": "N/A",
+    "adjectiveForm": "external",
+    "partOfSpeech": "adjective",
+    "commonContext": "API integration, hardware, and project management",
+    "usageTip": "Use 'external' for anything outside the core system or team.",
+    "commonMistake": "Confusing 'external' (from outside) with 'exterior' (the outer surface).",
+    "collocations": [
+      "external API",
+      "external drive",
+      "external factors"
+    ]
+  }
+]

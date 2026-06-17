@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Superheterodyne",
+    "meaning": "A type of radio receiver that uses frequency mixing to improve sensitivity",
+    "shortMeaning": "type of radio receiver",
+    "example": "Most modern radios use a superheterodyne circuit design.",
+    "example2": "The superheterodyne receiver is known for its selectivity.",
+    "example3": "He learned about superheterodyne architecture in class.",
+    "Explanation": "The word 'superheterodyne' describes a specific method of radio signal reception. It works by converting the incoming radio frequency to a lower, intermediate frequency, making it much easier to process and filter. This architecture is the foundation for almost all modern radio, television, and satellite receivers. It is a highly technical term within telecommunications and signal engineering. Understanding this term helps in grasping how signals are tuned, filtered, and cleaned of background noise.",
+    "synonyms": [
+      "frequency-mixing receiver"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "superheterodyne",
+    "verbForm": "N/A",
+    "adjectiveForm": "superheterodyne",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Radio technology, telecommunications, signal engineering",
+    "usageTip": "Use 'superheterodyne' when discussing radio receiver circuit architectures.",
+    "commonMistake": "Pronouncing it incorrectly (it is super-hetero-dyne); it is a legacy term for radio receivers.",
+    "collocations": [
+      "superheterodyne receiver",
+      "superheterodyne circuit",
+      "superheterodyne design"
+    ]
+  },
+  {
+    "word": "Superheterodyne",
+    "meaning": "A type of radio receiver that uses frequency mixing to process signals",
+    "shortMeaning": "frequency-mixing receiver",
+    "example": "The radio uses a superheterodyne circuit to improve selectivity.",
+    "example2": "Most modern receivers are based on the superheterodyne principle.",
+    "example3": "He studied the schematics of a classic superheterodyne design.",
+    "Explanation": "Superheterodyne is a specific architecture for radio receivers. It works by mixing an incoming signal with a locally generated frequency to produce a fixed intermediate frequency. This makes filtering and amplification much easier and more precise. It is a foundational concept in radio communications and signal processing. While complex, it is the standard method for signal reception in wireless technologies. It is not common in general IT, but very important in telecommunications.",
+    "synonyms": [
+      "heterodyne",
+      "receiver design"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "superheterodyne",
+    "verbForm": "N/A",
+    "adjectiveForm": "superheterodyne",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telecommunications, radio frequency (RF) engineering",
+    "usageTip": "Use this only when discussing radio or signal receiver hardware.",
+    "commonMistake": "Misspelling the term, as it is quite long and technical.",
+    "collocations": [
+      "superheterodyne receiver",
+      "superheterodyne circuit",
+      "superheterodyne principle"
+    ]
+  }
+]

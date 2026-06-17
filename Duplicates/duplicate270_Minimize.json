@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Minimize",
+    "meaning": "To reduce something to the smallest possible amount or degree; to represent something as less important than it is",
+    "shortMeaning": "reduce; make seem small",
+    "example": "We need to minimize the risk of injury.",
+    "example2": "He minimized his role in the project's success.",
+    "example3": "Click the button to minimize the window on your screen.",
+    "Explanation": "The verb 'minimize' has two related meanings. First, to actually make something as small as possible. Second, to downplay or make something seem less significant or serious than it really is, often to avoid blame or concern. In computing, it means to shrink a window to an icon. The noun form is 'minimization'. It's a common word in business, computing, and everyday conversation.",
+    "synonyms": [
+      "reduce",
+      "lessen",
+      "downplay",
+      "belittle"
+    ],
+    "antonyms": [
+      "maximize",
+      "exaggerate",
+      "amplify",
+      "highlight"
+    ],
+    "nounForm": "minimization",
+    "verbForm": "minimize",
+    "adjectiveForm": "minimal",
+    "partOfSpeech": "verb",
+    "commonContext": "Risk, costs, problems, computer windows",
+    "usageTip": "Be careful: 'minimize a problem' can mean to actually reduce it or to downplay its importance.",
+    "commonMistake": "Confusing it with 'minimise' (British spelling variation).",
+    "collocations": [
+      "minimize risk",
+      "minimize costs",
+      "minimize the impact",
+      "minimize a window"
+    ]
+  },
+  {
+    "word": "Minimize",
+    "meaning": "To reduce something to the smallest possible amount or degree",
+    "shortMeaning": "reduce to minimum",
+    "example": "We need to minimize the number of background processes to save battery life.",
+    "example2": "Click the button in the top right corner to minimize the window.",
+    "example3": "Our team works hard to minimize the risk of data breaches.",
+    "Explanation": "The word 'minimize' is used in many different ways in IT. In a User Interface (UI), it means hiding a window into the taskbar so it is out of the way. In a business or technical sense, it means reducing something negative, like costs, errors, or security risks. In programming, you might want to minimize the amount of memory your application uses. It is about efficiency and making things as small or as infrequent as possible. It is a very common term in both technical and general conversations.",
+    "synonyms": [
+      "lessen",
+      "decrease",
+      "curtail"
+    ],
+    "antonyms": [
+      "maximize",
+      "increase",
+      "expand"
+    ],
+    "nounForm": "minimization",
+    "verbForm": "minimize",
+    "adjectiveForm": "minimal",
+    "partOfSpeech": "verb",
+    "commonContext": "UI design, risk management, performance optimization",
+    "usageTip": "Use 'minimize' for reducing negatives or for hiding windows in a GUI.",
+    "commonMistake": "Confusing 'minimize' with 'minify'; 'minify' is for code files, 'minimize' is for general reduction.",
+    "collocations": [
+      "minimize window",
+      "minimize risk",
+      "minimize downtime"
+    ]
+  }
+]

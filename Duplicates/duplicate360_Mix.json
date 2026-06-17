@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Mix",
+    "meaning": "To combine two or more substances or things together so that they become a single mass; a combination of different things. | To combine two or more substances or things together so that they become one.",
+    "shortMeaning": "combine; combination",
+    "example": "Mix the flour and eggs to make a batter.",
+    "example2": "The party had a fun mix of people from different backgrounds.",
+    "example3": "Don't mix bleach and ammonia; it creates toxic fumes.",
+    "Explanation": "Mix is a very common verb and noun. As a verb, it means to combine ingredients or elements, either by stirring or simply putting together. As a noun, it refers to the resulting combination. It can be used literally (mixing paint) or figuratively (a mix of emotions). A 'good mix' implies a pleasing or effective combination. The word is fundamental in cooking, chemistry, art, music (a sound mix), and social contexts. Understanding what mixes well and what doesn't is key in many fields.",
+    "synonyms": [
+      "Amalgamate",
+      "Assortment (Noun)",
+      "Blend",
+      "Combine",
+      "Stir"
+    ],
+    "antonyms": [
+      "Divide",
+      "Purify",
+      "Separate",
+      "Unmix"
+    ],
+    "nounForm": "mix",
+    "verbForm": "mix",
+    "adjectiveForm": "mixed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Cooking, chemistry, music production, social groups",
+    "usageTip": "Often used with 'up' (mix up) meaning to confuse, or 'in' (mix in) meaning to add.",
+    "commonMistake": "Confusing 'mix' (general combining) with 'blend' (to mix smoothly into a uniform substance).",
+    "collocations": [
+      "mix together",
+      "mix and match",
+      "cake mix"
+    ]
+  },
+  {
+    "word": "Mix",
+    "meaning": "To combine two or more different things together",
+    "shortMeaning": "combine",
+    "example": "You can mix different programming languages in a single project using microservices.",
+    "example2": "Don't mix personal and business files on the same computer.",
+    "example3": "The designer will mix different fonts to create a modern look.",
+    "Explanation": "In a technical sense, 'mix' refers to integration. You might mix data from two different databases to create a report. In audio and video editing, 'mixing' is the process of combining different sound tracks (like music and voice) into one final file. In UI design, you might mix colors or styles. However, sometimes mixing is bad—like 'mixing concerns' in code, which means putting the logic and the design in the same file, making it hard to manage. A 'mix' should be intentional and organized to be effective.",
+    "synonyms": [
+      "blend",
+      "mingle",
+      "combine"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "isolate"
+    ],
+    "nounForm": "mixture",
+    "verbForm": "mix",
+    "adjectiveForm": "mixed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Data integration, audio editing, design, coding",
+    "usageTip": "Use 'mix' for combining things, but be careful of 'mixing' things that should stay separate.",
+    "commonMistake": "Using 'mix' for 'mess'; a mix is usually intentional, a mess is accidental.",
+    "collocations": [
+      "mix and match",
+      "mix data",
+      "marketing mix"
+    ]
+  }
+]

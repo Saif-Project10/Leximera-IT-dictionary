@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Recover",
+    "meaning": "To return to a normal state of health, mind, or strength; to regain possession or control of something.",
+    "shortMeaning": "get back, heal",
+    "example": "It took her months to recover from the surgery.",
+    "example2": "The company managed to recover its losses by the end of the year.",
+    "example3": "Data recovery software can sometimes recover deleted files.",
+    "Explanation": "The verb 'recover' means to get back something lost or to return to a normal condition after a setback. It is used for health (recover from an illness), finance (recover money), emotions (recover from a shock), and data (recover files). It implies a process of retrieval or healing. The noun is 'recovery'. A common mistake is spelling it as 'recouver'. It suggests active effort and resilience. It's a positive word indicating that a loss or bad state is not permanent. It focuses on the return to a previous, better state.",
+    "synonyms": [
+      "recuperate",
+      "retrieve",
+      "bounce back"
+    ],
+    "antonyms": [
+      "deteriorate",
+      "lose",
+      "worsen"
+    ],
+    "nounForm": "recovery",
+    "verbForm": "recover",
+    "adjectiveForm": "recovered",
+    "partOfSpeech": "verb",
+    "commonContext": "Health, finance, computing, sports",
+    "usageTip": "Often followed by 'from' when talking about an illness or problem: 'recover from the flu'.",
+    "commonMistake": "Using 'recover' for improving beyond the original state. That's 'surpass' or 'exceed'. Recover means to get back to normal.",
+    "collocations": [
+      "recover quickly",
+      "recover consciousness",
+      "economic recovery"
+    ]
+  },
+  {
+    "word": "Recover",
+    "meaning": "To get back to a normal, healthy, or functional state after facing an issue or error",
+    "shortMeaning": "get back to normal",
+    "example": "The application took a few seconds to recover from the sudden network disconnection.",
+    "example2": "An IT technician can help you recover files that were accidentally deleted from the trash bin.",
+    "example3": "The server managed to recover quickly after the power outage occurred.",
+    "Explanation": "The word 'recover' means returning to an original good state. In computer architecture, it means restoring broken connections, pulling data back from damage, or system auto-healing after encountering crashes. It forms the base of terms like 'Disaster Recovery' (DR). The noun form is 'recovery'. It highlights a system's resilience and capacity to fix itself or be restored safely.",
+    "synonyms": [
+      "restore",
+      "retrieve",
+      "bounce back"
+    ],
+    "antonyms": [
+      "lose",
+      "fail",
+      "deteriorate"
+    ],
+    "nounForm": "recovery",
+    "verbForm": "recover",
+    "adjectiveForm": "recoverable",
+    "partOfSpeech": "verb",
+    "commonContext": "System crashes, file retrieval, and database disaster management",
+    "usageTip": "Use 'recover' when a system returns to stable working conditions after an error event.",
+    "commonMistake": "Using 'recover' when you mean to discover or find something completely new.",
+    "collocations": [
+      "recover deleted files",
+      "recover from crash",
+      "disaster recovery plan"
+    ]
+  }
+]

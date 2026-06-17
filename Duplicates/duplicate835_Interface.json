@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Interface",
+    "meaning": "A point where two systems, subjects, or organizations meet and interact; a user interface. | A point where two systems, subjects, or organizations meet and interact; the way a user interacts with a computer. | A point where two systems, subjects, or people meet and interact; often a screen for user interaction.",
+    "shortMeaning": "point of interaction; UI",
+    "example": "The software has a user-friendly interface.",
+    "example2": "There needs to be better interface between the research and development departments.",
+    "example3": "The brain-computer interface is a new technology.",
+    "Explanation": "An interface is a boundary or shared surface across which two separate components of a system exchange information. In computing, it's what allows users to interact with a machine (graphical user interface - GUI). More broadly, it's any point of interaction between systems, disciplines, or people. As a verb, it means to interact or coordinate. The word is central to technology design, where a good interface is intuitive and efficient. It's also used in science and business to describe collaborative boundaries. Effective interfaces are crucial for communication and functionality.",
+    "synonyms": [
+      "Boundary",
+      "Connection",
+      "Dashboard",
+      "Front End",
+      "Link"
+    ],
+    "antonyms": [
+      "Barrier",
+      "Disconnect",
+      "Disconnection",
+      "Isolation",
+      "Separation"
+    ],
+    "nounForm": "interface",
+    "verbForm": "interface",
+    "adjectiveForm": "interfacial",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, engineering, communication, biology",
+    "usageTip": "As a verb, it's often used with 'with' (the system interfaces with the database).",
+    "commonMistake": "Using 'interface' as a fancy word for 'talk to'. It's more technical, referring to systems interacting.",
+    "collocations": [
+      "user interface",
+      "interface design",
+      "interface with",
+      "graphical interface"
+    ]
+  },
+  {
+    "word": "Interface",
+    "meaning": "A point where two systems, subjects, organizations, etc., meet and interact",
+    "shortMeaning": "connection point",
+    "example": "The user interface of this application is very easy to navigate.",
+    "example2": "We are designing a new interface for the mobile version.",
+    "example3": "The API acts as an interface between the server and the app.",
+    "Explanation": "In IT, 'interface' is a fundamental concept. It usually refers to the User Interface (UI), which is what people see on the screen. However, it also refers to an 'Interface' in programming, which is a set of rules for how different software components should interact. Basically, an interface is a bridge. It allows two different things to communicate without needing to know exactly how the other works. It is a critical part of both design and development.",
+    "synonyms": [
+      "boundary",
+      "bridge",
+      "connection"
+    ],
+    "antonyms": [
+      "separation",
+      "gap",
+      "N/A"
+    ],
+    "nounForm": "interface",
+    "verbForm": "interface",
+    "adjectiveForm": "interfacial",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software design, hardware ports, and programming",
+    "usageTip": "Use 'UI' for user-facing screens and 'Interface' for technical connection points.",
+    "commonMistake": "Thinking 'interface' only refers to what the user sees; it also applies to code and hardware.",
+    "collocations": [
+      "user interface",
+      "graphical interface",
+      "programming interface"
+    ]
+  }
+]

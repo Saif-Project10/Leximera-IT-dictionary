@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Selective",
+    "meaning": "Choosing only the best or most suitable from a group",
+    "shortMeaning": "choosing carefully",
+    "example": "The filter is highly selective, showing only relevant files.",
+    "example2": "He is very selective about which plugins he installs.",
+    "example3": "The database uses a selective query to save memory.",
+    "Explanation": "Selective describes the quality of being careful about what is picked or included. In IT, a selective process helps improve performance by reducing the amount of data processed or displayed. It implies a high standard or a specific criterion for inclusion. Being selective can save time and resources by focusing only on what is necessary. It is a useful trait for both developers writing efficient code and users organizing their digital workflows.",
+    "synonyms": [
+      "discriminating",
+      "choosy",
+      "picky"
+    ],
+    "antonyms": [
+      "indiscriminate",
+      "random",
+      "all-inclusive"
+    ],
+    "nounForm": "selectivity",
+    "verbForm": "select",
+    "adjectiveForm": "selective",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data filtering, decision making, preferences",
+    "usageTip": "Use 'selective' to emphasize that only some items were picked based on a criteria.",
+    "commonMistake": "Confusing 'selective' with 'optional' (they are different concepts).",
+    "collocations": [
+      "selective filter",
+      "be selective",
+      "selective attention"
+    ]
+  },
+  {
+    "word": "Selective",
+    "meaning": "The ability to choose only what is needed or desired",
+    "shortMeaning": "choosy",
+    "example": "The API provides selective access to the database.",
+    "example2": "He was selective about which logs he saved.",
+    "example3": "The tool uses a selective sync to save space.",
+    "Explanation": "Being 'selective' means making careful choices rather than picking everything. In IT, this is often used to optimize resources, such as 'selective syncing' where you only copy specific folders, or 'selective loading' where only necessary parts of a page are fetched. It is a sign of efficient design and thoughtful resource management. Being selective helps reduce noise, save storage space, and improve system performance. It is a positive trait in both coding and system administration.",
+    "synonyms": [
+      "discriminating",
+      "particular",
+      "careful"
+    ],
+    "antonyms": [
+      "indiscriminate",
+      "random",
+      "all-inclusive"
+    ],
+    "nounForm": "selectivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "selective",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource management, optimization, data handling",
+    "usageTip": "Use 'selective' when describing a process that excludes unnecessary items.",
+    "commonMistake": "Confusing 'selective' with 'exclusive'.",
+    "collocations": [
+      "selective sync",
+      "selective access",
+      "highly selective"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Unrolled",
+    "meaning": "Expanded from a compact form; in code, repeating a loop",
+    "shortMeaning": "expanded loop",
+    "example": "The loop was unrolled to improve performance during execution.",
+    "example2": "We unrolled the configuration to make it more readable.",
+    "example3": "An unrolled loop can make the code larger but faster.",
+    "Explanation": "Unrolled has two meanings. In optimization, loop unrolling is a technique where you replace a loop with multiple copies of the code to avoid loop overhead. This can make code run faster but increases its size. In general, it means spreading out something that was previously compact. It is an advanced optimization step used when performance is more critical than code size. It is rarely done manually nowadays.",
+    "synonyms": [
+      "expanded",
+      "unpacked"
+    ],
+    "antonyms": [
+      "rolled",
+      "compressed"
+    ],
+    "nounForm": "unrolling",
+    "verbForm": "unroll",
+    "adjectiveForm": "unrolled",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Code optimization, performance tuning",
+    "usageTip": "Use this when talking about loop optimization techniques.",
+    "commonMistake": "Confusing 'unrolled' with 'unpacked'; they have different technical meanings.",
+    "collocations": [
+      "unrolled loop",
+      "code unrolling",
+      "manually unrolled"
+    ]
+  },
+  {
+    "word": "Unrolled",
+    "meaning": "Refers to a loop that has been expanded into multiple separate operations to improve speed.",
+    "shortMeaning": "loop expanded",
+    "example": "The compiler unrolled the loop to reduce overhead.",
+    "example2": "Manually unrolled loops can sometimes increase performance.",
+    "example3": "The logic was unrolled to avoid branching delays.",
+    "Explanation": "'Unrolling' is an optimization technique where a loop is replaced by several copies of the loop body. This avoids the overhead of the loop control (incrementing, comparing) at each iteration. While unrolling can make code faster, it also makes the code larger and less maintainable. It is typically performed automatically by compilers rather than manually by developers. It is a low-level technique used in high-performance computing.",
+    "synonyms": [
+      "expanded",
+      "linearized"
+    ],
+    "antonyms": [
+      "rolled",
+      "looped",
+      "compressed"
+    ],
+    "nounForm": "unrolling",
+    "verbForm": "unroll",
+    "adjectiveForm": "unrolled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Compiler optimization, performance tuning",
+    "usageTip": "Use this to describe loop optimization.",
+    "commonMistake": "Assuming loop unrolling always leads to faster code, as it can cause cache misses.",
+    "collocations": [
+      "unrolled loop",
+      "code unrolling",
+      "compiler unrolled"
+    ]
+  }
+]

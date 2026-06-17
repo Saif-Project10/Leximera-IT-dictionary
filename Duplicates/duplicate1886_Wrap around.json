@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Wrap around",
+    "meaning": "When something reaches the end and starts again at the beginning",
+    "shortMeaning": "circular restart",
+    "example": "In some old games, if you go off the right side of the screen, you wrap around to the left side.",
+    "example2": "The text will wrap around the image automatically.",
+    "example3": "When the counter hits 99, it will wrap around to 0.",
+    "Explanation": "Wrap around is a common concept in computing and math. It describes a circular behavior. For example, if you have a number limit and you go past it, the system resets to zero. In user interfaces, it refers to text or cursor movement that returns to the start when the boundary is reached. In graphics, it allows for infinite scrolling backgrounds. It is a way to handle limits without causing an error, by simply cycling back to the beginning of the range.",
+    "synonyms": [
+      "loop",
+      "cycle",
+      "circularity"
+    ],
+    "antonyms": [
+      "overflow",
+      "stop",
+      "end"
+    ],
+    "nounForm": "wraparound",
+    "verbForm": "wrap around",
+    "adjectiveForm": "wraparound",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming, gaming, and word processing",
+    "usageTip": "Use this to describe anything that loops back to the start once it hits the edge.",
+    "commonMistake": "Confusing 'wrap around' with 'overflow'; an overflow might crash, but a wrap around just restarts.",
+    "collocations": [
+      "wrap around the edge",
+      "integer wrap around",
+      "automatic wrap around"
+    ]
+  },
+  {
+    "word": "Wrap around",
+    "meaning": "To loop entirely around an edge boundaries layer, or an adjustment that allows data text or items to roll back to the start position continuously",
+    "shortMeaning": "loop around edge boundaries continuously",
+    "example": "The slider gallery component layout will wrap around to the first image when a user clicks next on the final slide.",
+    "example2": "If the string text is too long for the card layout width, configure it to wrap around onto a new row line.",
+    "example3": "The algorithmic counter will wrap around to zero as soon as it exceeds the maximum allowed array size parameter.",
+    "Explanation": "The phrase 'wrap around' applies to visual layout design behaviors and low-level data structures. Visual layout design behaviors rely on wrap around rules to let long paragraphs flow onto subsequent lines gracefully instead of breaking out of card borders. In user experience interfaces like carousels or image galleries, it enables infinite looping models where stepping past the final item smoothly loads the first element. In computing math, it describes numeric overflow loops where a value wraps back to its minimum boundary limit.",
+    "synonyms": [
+      "loop back to start",
+      "flow onto next line",
+      "encircle boundaries"
+    ],
+    "antonyms": [
+      "terminate at edge",
+      "stop at boundary limit",
+      "clip layout text"
+    ],
+    "nounForm": "wraparound",
+    "verbForm": "wrap around",
+    "adjectiveForm": "wraparound",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Configuring infinite slider gallery layouts, text flow row management, and data boundary arithmetic loops",
+    "usageTip": "Use 'wrap around' when describing elements or numeric counters looping seamlessly back to the start upon hitting a boundary edge.",
+    "commonMistake": "Writing the action phrase as a single word 'wraparound' when it is acting as the operational verb inside your description sentence.",
+    "collocations": [
+      "wrap around to the beginning",
+      "allow text to wrap around",
+      "infinite wrap around effect"
+    ]
+  }
+]

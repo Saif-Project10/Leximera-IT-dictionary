@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Third-party",
+    "meaning": "A person or company besides the two main parties involved in a situation, especially a contract or dispute",
+    "shortMeaning": "an external party",
+    "example": "We hired a third-party auditor to review our finances.",
+    "example2": "The app uses third-party cookies to track users.",
+    "example3": "The insurance covers damage caused by a third-party.",
+    "Explanation": "The adjective 'third-party' is used extensively in law, business, and technology to describe an entity that is not directly involved in the primary relationship or transaction between two other parties. This external party is often independent, providing services, verification, or products. In software, 'third-party' libraries or apps are created by developers other than the platform's original vendor. In insurance, 'third-party liability' covers damage to others. The term emphasizes externality and often implies a degree of independence, but also potential risk or lack of direct control. It is almost always hyphenated.",
+    "synonyms": [
+      "external",
+      "independent",
+      "outside",
+      "non-affiliated"
+    ],
+    "antonyms": [
+      "first-party",
+      "in-house",
+      "internal",
+      "direct"
+    ],
+    "nounForm": "third party",
+    "verbForm": "N/A",
+    "adjectiveForm": "third-party",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, business contracts, software, insurance, politics",
+    "usageTip": "Use it to distinguish between the main participants and an outside entity.",
+    "commonMistake": "Writing it as two words ('third party') when used as an adjective before a noun (should be hyphenated: 'third-party software').",
+    "collocations": [
+      "third-party software",
+      "third-party vendor",
+      "third-party verification",
+      "third-party risk"
+    ]
+  },
+  {
+    "word": "Third-party",
+    "meaning": "An entity other than the primary parties involved",
+    "shortMeaning": "external party",
+    "example": "We used a third-party tool for data encryption.",
+    "example2": "Third-party software may not be fully supported.",
+    "example3": "Security risks often arise from third-party plugins.",
+    "Explanation": "Third-party refers to any individual, company, or software not directly part of the primary contract or the main system creator. In IT, this includes external vendors, consultants, software libraries, or API services. Using third-party components is common to save time, but it introduces risks like security vulnerabilities or dependency issues. It is important to vet third-party solutions thoroughly before integrating them into a production environment. Always check their reliability and security practices.",
+    "synonyms": [
+      "external",
+      "independent",
+      "outsourced"
+    ],
+    "antonyms": [
+      "in-house",
+      "internal",
+      "proprietary"
+    ],
+    "nounForm": "third party",
+    "verbForm": "N/A",
+    "adjectiveForm": "third-party",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, security, business",
+    "usageTip": "Use when referring to products or people outside your company.",
+    "commonMistake": "Assuming third-party software is always safe to install.",
+    "collocations": [
+      "third-party software",
+      "third-party vendor",
+      "third-party library"
+    ]
+  }
+]

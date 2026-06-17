@@ -1,0 +1,93 @@
+[
+  {
+    "word": "WebSocket",
+    "meaning": "A communications protocol that provides full-duplex (two-way) communication channels over a single, long-lived TCP connection, enabling real-time data flow between a client and server.",
+    "shortMeaning": "real-time two-way connection",
+    "example": "A chat application uses WebSocket to instantly push new messages to all users.",
+    "example2": "A live sports score website updates without refreshing, thanks to WebSocket.",
+    "example3": "The server sends a notification to the user's browser via an open WebSocket connection.",
+    "Explanation": "WebSocket solves a key limitation of HTTP: the need for the client to always initiate requests. It establishes a persistent, bidirectional connection after an initial HTTP 'handshake'. Once open, both the server and client can send messages to each other at any time, with very low overhead. This is perfect for applications requiring real-time updates, such as chat, live feeds, multiplayer games, and collaborative editing tools. It's more efficient than older techniques like HTTP polling (repeatedly asking the server for updates). WebSocket is a standardized protocol supported by all modern browsers.",
+    "synonyms": [
+      "full-duplex protocol",
+      "real-time socket",
+      "persistent connection"
+    ],
+    "antonyms": [
+      "HTTP request/response",
+      "stateless connection",
+      "polling"
+    ],
+    "nounForm": "WebSocket",
+    "verbForm": "N/A",
+    "adjectiveForm": "WebSocket (as in WebSocket connection)",
+    "partOfSpeech": "noun",
+    "commonContext": "Real-time web applications, chat, notifications, financial tickers, gaming",
+    "usageTip": "Often used with 'a' or 'the' (e.g., 'open a WebSocket', 'over the WebSocket'). The protocol is 'ws://' or 'wss://' (secure).",
+    "commonMistake": "Using WebSocket for all client-server communication. It's ideal for real-time push, but traditional HTTP/REST is better for one-off requests.",
+    "collocations": [
+      "WebSocket connection",
+      "open/close a WebSocket",
+      "WebSocket server",
+      "send over WebSocket",
+      "WebSocket API"
+    ]
+  },
+  {
+    "word": "WebSocket",
+    "meaning": "Protocol for full-duplex communication over a single TCP connection",
+    "shortMeaning": "two-way connection",
+    "example": "The chat app uses a WebSocket connection to send messages instantly.",
+    "example2": "WebSockets enable real-time updates without page refreshes.",
+    "example3": "We established a WebSocket between the client and server.",
+    "Explanation": "A WebSocket is a protocol that provides a persistent, two-way (full-duplex) connection between a client (like a web browser) and a server. Unlike traditional HTTP where the client must ask for data, WebSockets allow the server to push information immediately. This is ideal for things like live stock updates, multiplayer games, or chat services. It significantly reduces the overhead of repeatedly requesting information. It is crucial for interactive, high-performance web applications.",
+    "synonyms": [
+      "two-way socket",
+      "real-time connection"
+    ],
+    "antonyms": [
+      "HTTP request-response"
+    ],
+    "nounForm": "WebSocket",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Web development, real-time apps",
+    "usageTip": "Use this for features needing instant push from the server.",
+    "commonMistake": "Using WebSockets for everything instead of standard HTTP.",
+    "collocations": [
+      "WebSocket connection",
+      "WebSocket server",
+      "establish WebSocket"
+    ]
+  },
+  {
+    "word": "WebSocket",
+    "meaning": "A communication protocol for full-duplex connections over a single TCP connection",
+    "shortMeaning": "two-way connection",
+    "example": "The real-time notification system uses a WebSocket connection.",
+    "example2": "WebSockets are faster than constant HTTP polling.",
+    "example3": "Open a WebSocket to stream live stock prices to the dashboard.",
+    "Explanation": "A 'WebSocket' provides a persistent, full-duplex connection between a client (like a browser) and a server. Unlike traditional HTTP requests which are one-way and request-response based, WebSockets allow data to flow continuously in both directions. This makes them ideal for applications requiring live updates, such as chat apps, games, or financial dashboards. It reduces the overhead of repeatedly opening new HTTP connections.",
+    "synonyms": [
+      "socket",
+      "bidirectional connection"
+    ],
+    "antonyms": [
+      "HTTP request",
+      "polling",
+      "unidirectional"
+    ],
+    "nounForm": "WebSocket",
+    "verbForm": "N/A",
+    "adjectiveForm": "WebSocket-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Web communications and backend development",
+    "usageTip": "Use when discussing live, bidirectional data streaming.",
+    "commonMistake": "Assuming WebSockets are just an alternative to HTTP, not an addition.",
+    "collocations": [
+      "WebSocket connection",
+      "WebSocket API",
+      "open a WebSocket"
+    ]
+  }
+]

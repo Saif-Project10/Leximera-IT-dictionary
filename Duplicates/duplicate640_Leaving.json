@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Leaving",
+    "meaning": "The act of going away from a place.",
+    "shortMeaning": "act of departing",
+    "example": "His leaving was a surprise to everyone.",
+    "example2": "I saw her leaving the building.",
+    "example3": "The leaving ceremony was very emotional.",
+    "Explanation": "Leaving is the present participle and gerund form of the verb 'leave'. As a gerund (noun), it refers to the act or instance of departure. As a present participle, it is used in continuous verb tenses (is leaving) or as an adjective (the leaving train). It captures the moment or process of going away. It often carries an emotional weight, especially when referring to people leaving jobs, homes, or lives. It's a simple word that is fundamental to describing transitions and goodbyes.",
+    "synonyms": [
+      "departure",
+      "going",
+      "exit",
+      "parting",
+      "withdrawal"
+    ],
+    "antonyms": [
+      "arrival",
+      "coming",
+      "entrance"
+    ],
+    "nounForm": "leaving",
+    "verbForm": "leave",
+    "adjectiveForm": "leaving",
+    "partOfSpeech": "noun / adjective / verb (present participle)",
+    "commonContext": "Departures, goodbyes, resignations",
+    "usageTip": "As a noun, it's often used with possessive forms (his leaving, their leaving).",
+    "commonMistake": "Using 'leaving' as a main verb without an auxiliary (e.g., 'He leaving now' is wrong; say 'He is leaving now').",
+    "collocations": [
+      "early leaving",
+      "leaving party",
+      "without leaving",
+      "process of leaving"
+    ]
+  },
+  {
+    "word": "Leaving",
+    "meaning": "The act of departing or remaining behind",
+    "shortMeaning": "departing or remaining",
+    "example": "He is leaving the company next week.",
+    "example2": "The user is leaving the site without saving.",
+    "example3": "Leaving the terminal open is a security risk.",
+    "Explanation": "The word 'leaving' has two main meanings: moving away from a location (departing) or allowing something to stay in its current state (remaining). In IT, you often discuss users 'leaving' a page, or the importance of not 'leaving' credentials exposed. It is a simple, versatile word that you will use in almost every conversation related to user behavior or system administration.",
+    "synonyms": [
+      "departing",
+      "exiting",
+      "abandoning"
+    ],
+    "antonyms": [
+      "arriving",
+      "entering",
+      "saving"
+    ],
+    "nounForm": "leave",
+    "verbForm": "leave",
+    "adjectiveForm": "leaving",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "User experience, security, workflow",
+    "usageTip": "Use 'leaving' to describe when a user exits an application.",
+    "commonMistake": "Leaving too many things open or running (security risk).",
+    "collocations": [
+      "leaving the site",
+      "leaving system",
+      "leaving data"
+    ]
+  }
+]

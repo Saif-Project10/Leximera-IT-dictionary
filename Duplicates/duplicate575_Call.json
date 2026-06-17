@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Call",
+    "meaning": "To give someone or something a name; to telephone; to shout; to request or order someone to come.",
+    "shortMeaning": "name; phone; shout; request",
+    "example": "What do you call this flower?",
+    "example2": "I'll call you tomorrow.",
+    "example3": "The referee made a bad call.",
+    "Explanation": "Call is an extremely common verb and noun with many meanings. Core meanings include: to name, to telephone, to cry out, to summon, to predict (call an election), and to visit. In programming, a 'function call' invokes a procedure. As a noun, it can mean a decision, a demand, or a short visit. Its versatility makes it essential but sometimes vague. A common mistake is using it without a clear context. Phrasal verbs like 'call off,' 'call for,' and 'call on' are ubiquitous. This word is foundational for communication and description.",
+    "synonyms": [
+      "name",
+      "telephone",
+      "shout",
+      "summon",
+      "visit"
+    ],
+    "antonyms": [
+      "dismiss",
+      "ignore",
+      "whisper"
+    ],
+    "nounForm": "call",
+    "verbForm": "call",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Communication, sports, programming, and everyday life.",
+    "usageTip": "Context is everything. 'Call a meeting' (arrange), 'call a name' (shout), 'call a function' (execute in code).",
+    "commonMistake": "Saying 'I gave him a call' vs. 'I called him' – both are fine, the first is slightly more informal.",
+    "collocations": [
+      "phone call",
+      "close call",
+      "call it a day"
+    ]
+  },
+  {
+    "word": "Call",
+    "meaning": "To invoke or execute a function, method, or procedure in programming, or to initiate a voice or video communication",
+    "shortMeaning": "invoke a function or initiate a communication",
+    "example": "The developer called the function to process the user's input.",
+    "example2": "She called her colleague over the phone to discuss the project update.",
+    "example3": "The program called the database query method to retrieve the required records.",
+    "Explanation": "In programming, a call refers to the act of invoking a function, method, or procedure so that the code within it is executed. When a call is made, program control transfers to the called routine, executes it, and typically returns to the point after the call. In everyday language, a call refers to initiating voice or video communication. In IT contexts, the word is heavily used in API calls, function calls, and remote procedure calls. A call may pass arguments and receive a return value. Understanding the difference between calling a function and defining one is fundamental in all programming languages.",
+    "synonyms": [
+      "invoke",
+      "execute",
+      "trigger"
+    ],
+    "antonyms": [
+      "define",
+      "declare"
+    ],
+    "nounForm": "call",
+    "verbForm": "call",
+    "adjectiveForm": "callable",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, telecommunications, API usage, software development",
+    "usageTip": "Use 'call' when invoking a function or method in code, or when initiating a communication session.",
+    "commonMistake": "Confusing defining a function with calling it; defining creates the function, while calling executes it.",
+    "collocations": [
+      "function call",
+      "API call",
+      "call a method"
+    ]
+  }
+]

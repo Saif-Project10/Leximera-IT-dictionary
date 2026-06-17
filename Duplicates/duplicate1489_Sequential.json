@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Sequential",
+    "meaning": "Following in a logical order or sequence.",
+    "shortMeaning": "in order, consecutive",
+    "example": "Please number the pages in sequential order.",
+    "example2": "The instructions must be followed in sequential steps.",
+    "example3": "The data is stored in sequential access files.",
+    "Explanation": "'Sequential' is an adjective describing things that follow one after another in a clear, ordered way. It emphasizes that the order matters and that step B comes after step A. It is common in instructions, data processing, storytelling, and any process where order is critical. The adverb is 'sequentially'. The word is the opposite of 'random' or 'simultaneous'. In computing, 'sequential access' means data must be read in the order it was written (like a tape), unlike 'random access' (like a RAM).",
+    "synonyms": [
+      "consecutive",
+      "successive",
+      "ordered",
+      "serial"
+    ],
+    "antonyms": [
+      "random",
+      "simultaneous",
+      "non-sequential",
+      "out of order"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Instructions, data storage, processes, lists",
+    "usageTip": "Often used before nouns like 'order', 'processing', 'logic', 'file'.",
+    "commonMistake": "Using it to mean 'frequent'; it's about order, not frequency.",
+    "collocations": [
+      "sequential order",
+      "sequential processing",
+      "sequential logic",
+      "sequential art"
+    ]
+  },
+  {
+    "word": "Sequential",
+    "meaning": "Following a logical order or sequence",
+    "shortMeaning": "in order",
+    "example": "The program processes the files in sequential order.",
+    "example2": "Sequential processing is slower than parallel processing.",
+    "example3": "He set up a sequential execution of the scripts.",
+    "Explanation": "Sequential describes a process where one step follows another in a fixed order. You cannot do step two until step one is finished. In contrast, 'parallel' means doing multiple things at once. Sequential is the most basic and common way computers handle tasks, though it can be slow for large jobs. It is easy to write and debug because it is predictable. Using this term helps in discussions about performance and how systems handle workloads.",
+    "synonyms": [
+      "consecutive",
+      "ordered",
+      "linear"
+    ],
+    "antonyms": [
+      "parallel",
+      "concurrent",
+      "random"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "N/A",
+    "adjectiveForm": "sequential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, processing, logic",
+    "usageTip": "Use 'sequential' when describing tasks that must happen one after another.",
+    "commonMistake": "Confusing 'sequential' (order) with 'parallel' (doing things at once).",
+    "collocations": [
+      "sequential order",
+      "sequential processing",
+      "sequential access"
+    ]
+  },
+  {
+    "word": "Sequential",
+    "meaning": "Following a logical order or sequence",
+    "shortMeaning": "following an order",
+    "example": "The processor handles tasks in sequential order.",
+    "example2": "We moved from random access to sequential data reading.",
+    "example3": "Sequential processing is sometimes slower than parallel processing.",
+    "Explanation": "Sequential refers to things that follow one after another. In computing, sequential access means reading data from start to finish, like a tape, versus random access. While sequential operations are often easier to design, they can be slower because you cannot skip ahead. Understanding when to use sequential versus parallel processing is a major part of optimizing software performance and system architecture.",
+    "synonyms": [
+      "consecutive",
+      "serial",
+      "ordered"
+    ],
+    "antonyms": [
+      "parallel",
+      "random"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, algorithms",
+    "usageTip": "Use 'sequential' to describe things done in a fixed order.",
+    "commonMistake": "Assuming sequential processes are always the most efficient.",
+    "collocations": [
+      "sequential access",
+      "sequential processing",
+      "in sequential order"
+    ]
+  }
+]

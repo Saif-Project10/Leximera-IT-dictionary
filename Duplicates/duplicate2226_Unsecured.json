@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unsecured",
+    "meaning": "Lacking safety measures; exposed to threats",
+    "shortMeaning": "not safe",
+    "example": "An unsecured database is a major security risk.",
+    "example2": "We identified an unsecured port on the server.",
+    "example3": "Unsecured networks should never be used for sensitive data.",
+    "Explanation": "Unsecured describes any asset, service, or connection that lacks security controls like encryption, passwords, or firewalls. Unsecured resources are wide open to hackers, data theft, and unauthorized access. Ensuring that all assets are 'secured' is a fundamental responsibility in IT. Anything described as unsecured must be fixed immediately by adding security layers to prevent potential exploitation.",
+    "synonyms": [
+      "vulnerable",
+      "exposed",
+      "unsafe"
+    ],
+    "antonyms": [
+      "secured",
+      "protected",
+      "safe"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "unsecured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, networking, data protection",
+    "usageTip": "Use this for systems that need immediate security updates.",
+    "commonMistake": "Ignoring warnings about unsecured connections.",
+    "collocations": [
+      "unsecured database",
+      "unsecured port",
+      "unsecured network"
+    ]
+  },
+  {
+    "word": "Unsecured",
+    "meaning": "Lacking proper safety, encryption, or access controls, leaving data at risk.",
+    "shortMeaning": "not safe",
+    "example": "An unsecured database is a target for hackers.",
+    "example2": "Data sent over an unsecured connection can be intercepted.",
+    "example3": "Please ensure all Wi-Fi networks are not left unsecured.",
+    "Explanation": "'Unsecured' means that something is vulnerable to unauthorized access or theft. This is a critical term in networking and data security. An unsecured server, file, or communication channel lacks the protective layers (like passwords, firewalls, or encryption) needed to keep information safe. In modern computing, leaving anything 'unsecured' is considered a major failure of best practices. Always prioritize securing your endpoints and data transmissions.",
+    "synonyms": [
+      "vulnerable",
+      "exposed",
+      "unprotected"
+    ],
+    "antonyms": [
+      "secured",
+      "protected",
+      "safe"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unsecure",
+    "adjectiveForm": "unsecured",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, networking",
+    "usageTip": "Use this to describe security risks.",
+    "commonMistake": "Confusing 'unsecured' (lack of protection) with 'not locked' (a specific state).",
+    "collocations": [
+      "unsecured connection",
+      "unsecured network",
+      "unsecured database"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Preceding",
+    "meaning": "Coming before something in time, order, or position.",
+    "shortMeaning": "previous, earlier",
+    "example": "Please review the preceding chapter before the lecture.",
+    "example2": "The preceding month had record-breaking sales.",
+    "example3": "In the preceding paragraph, the author introduced the main argument.",
+    "Explanation": "'Preceding' is an adjective meaning 'that came just before'. It is formal and is often used in written English, such as in reports, books, and legal documents, to refer to something mentioned earlier. It is a more precise alternative to 'previous' or 'last' when you want to emphasize the direct sequence. The verb form is 'precede'. It helps to create clear connections between ideas or events in a sequence. It is commonly placed before the noun it describes.",
+    "synonyms": [
+      "previous",
+      "prior",
+      "foregoing",
+      "former"
+    ],
+    "antonyms": [
+      "following",
+      "succeeding",
+      "subsequent",
+      "next"
+    ],
+    "nounForm": "precedence",
+    "verbForm": "precede",
+    "adjectiveForm": "preceding",
+    "partOfSpeech": "adjective",
+    "commonContext": "Writing, documentation, sequences, lists",
+    "usageTip": "Often used in phrases like 'the preceding day' or 'in the preceding section'.",
+    "commonMistake": "Confusing 'preceding' (before) with 'proceeding' (going forward or legal process).",
+    "collocations": [
+      "preceding year",
+      "immediately preceding",
+      "preceding paragraph",
+      "preceding event"
+    ]
+  },
+  {
+    "word": "Preceding",
+    "meaning": "Coming before something in time, order, or position.",
+    "shortMeaning": "coming before",
+    "example": "The preceding section explains how the system works.",
+    "example2": "Look at the preceding code block for the configuration.",
+    "example3": "In the preceding year, we focused on scaling our infrastructure.",
+    "Explanation": "The word preceding is used to refer to something that happened or was placed just before the current item. It is a formal, precise way to direct someone's attention backward in a document or a history of events. Instead of saying 'the thing before this', you use 'the preceding item'. It is very common in technical documentation to link ideas together clearly. It ensures the reader can easily follow the sequence of information.",
+    "synonyms": [
+      "previous",
+      "prior",
+      "foregoing"
+    ],
+    "antonyms": [
+      "following",
+      "succeeding",
+      "next"
+    ],
+    "nounForm": "precedence",
+    "verbForm": "precede",
+    "adjectiveForm": "preceding",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, order, time",
+    "usageTip": "Use 'preceding' to point readers back to information they just read.",
+    "commonMistake": "Confusing 'preceding' with 'proceeding'.",
+    "collocations": [
+      "preceding section",
+      "preceding chapter",
+      "preceding event"
+    ]
+  }
+]

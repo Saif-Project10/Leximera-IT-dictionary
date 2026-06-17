@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Request scoped",
+    "meaning": "Describes something that only exists for the duration of a single HTTP request",
+    "shortMeaning": "lives only during one request",
+    "example": "The database connection is request scoped to ensure it is closed after the page loads.",
+    "example2": "Request scoped variables are not shared between different users.",
+    "example3": "Using request scoped storage is a safe way to handle temporary user data.",
+    "Explanation": "In programming, 'scoped' refers to how long a variable or object stays in memory. If something is 'request scoped', it is created when a user makes a request and is destroyed as soon as the response is sent back. This is very important for security and memory management because it prevents data from one user leaking to another. It also ensures that the server doesn't run out of RAM by keeping old data around. This concept is commonly used in frameworks like Spring or Java EE. It is the opposite of 'session scoped' or 'application scoped'.",
+    "synonyms": [
+      "short-lived",
+      "request-specific",
+      "per-request"
+    ],
+    "antonyms": [
+      "session scoped",
+      "application scoped",
+      "global"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "request scoped",
+    "partOfSpeech": "adjective",
+    "commonContext": "Memory management and web framework configuration",
+    "usageTip": "Use request scoped beans to keep user-specific data isolated and safe.",
+    "commonMistake": "Storing persistent data in a request scoped variable, as it will be lost immediately.",
+    "collocations": [
+      "request scoped bean",
+      "request scoped object",
+      "request scoped lifecycle"
+    ]
+  },
+  {
+    "word": "Request scoped",
+    "meaning": "Living only for the duration of a single web request",
+    "shortMeaning": "limited to one request",
+    "example": "This variable is request scoped, so it resets every time.",
+    "example2": "We use request scoped beans in our web application.",
+    "example3": "Is the user data request scoped or session scoped?",
+    "Explanation": "In web development, 'request scoped' describes the lifecycle of an object or variable. It means that the data exists from the moment a user sends a request to the server until the server finishes sending the response. Once the request is done, the data is destroyed. This is critical for managing memory and ensuring data privacy. The term is very common in frameworks like Java Spring or similar web application architectures.",
+    "synonyms": [
+      "temporary",
+      "transient",
+      "short-lived"
+    ],
+    "antonyms": [
+      "persistent",
+      "session-scoped",
+      "global"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "request-scoped",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, application server architecture",
+    "usageTip": "Use 'request scoped' to explain how long a variable lasts.",
+    "commonMistake": "Confusing it with 'session scoped', which lasts for many requests.",
+    "collocations": [
+      "request scoped variable",
+      "request scoped bean",
+      "request scoped data"
+    ]
+  }
+]

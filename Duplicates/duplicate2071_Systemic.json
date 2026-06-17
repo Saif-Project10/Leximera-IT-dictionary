@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Systemic",
+    "meaning": "Relating to or affecting the whole system",
+    "shortMeaning": "wide-ranging",
+    "example": "The failure was systemic, affecting the entire network.",
+    "example2": "We have identified a systemic flaw in the architecture.",
+    "example3": "Systemic changes are needed to improve performance.",
+    "Explanation": "The word 'systemic' means that a condition or issue is spread throughout the entire system, rather than being isolated to one small part. If a problem is systemic, it means the whole design or structure might be wrong. It is a very serious term. Use it to distinguish large-scale, deep-rooted issues from small, local bugs. Because it implies a broad scope, it should be used only when you are certain the entire system is impacted.",
+    "synonyms": [
+      "structural",
+      "widespread",
+      "deep-rooted"
+    ],
+    "antonyms": [
+      "local",
+      "isolated",
+      "surface-level"
+    ],
+    "nounForm": "system",
+    "verbForm": "N/A",
+    "adjectiveForm": "systemic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, performance, enterprise systems",
+    "usageTip": "Use for large-scale, deep-rooted issues.",
+    "commonMistake": "Using 'systemic' when you just mean 'hard-to-fix'; systemic means the *scope* is large.",
+    "collocations": [
+      "systemic flaw",
+      "systemic risk",
+      "systemic problem"
+    ]
+  },
+  {
+    "word": "Systemic",
+    "meaning": "Relating to the whole system rather than just one part",
+    "shortMeaning": "whole-system",
+    "example": "The bug represents a systemic failure in the architecture.",
+    "example2": "We are facing systemic issues with our database design.",
+    "example3": "Systemic risk is high in distributed networks.",
+    "Explanation": "Unlike 'systematic' (which describes a method), 'systemic' describes an issue or property that affects the entire system. It implies that the problem is rooted deep within the structure or environment, rather than being an isolated incident. Identifying systemic problems is vital for large-scale engineering because they require architectural changes rather than quick patches. It is a powerful, serious term that highlights deep-seated technical challenges.",
+    "synonyms": [
+      "structural",
+      "comprehensive",
+      "foundational"
+    ],
+    "antonyms": [
+      "localized",
+      "isolated",
+      "superficial"
+    ],
+    "nounForm": "system",
+    "verbForm": "N/A",
+    "adjectiveForm": "systemic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, large-scale systems, failure analysis",
+    "usageTip": "Use to describe problems that permeate the entire system.",
+    "commonMistake": "Confusing it with 'systematic' (methodical).",
+    "collocations": [
+      "systemic failure",
+      "systemic risk",
+      "systemic issue"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Resistant",
+    "meaning": "Offering resistance to something; not affected or harmed by something.",
+    "shortMeaning": "opposing, not affected",
+    "example": "This fabric is resistant to stains.",
+    "example2": "The bacteria have become resistant to the antibiotic.",
+    "example3": "He was resistant to the idea of moving to a new city.",
+    "Explanation": "The adjective 'resistant' describes something that withstands, opposes, or is not harmed by a particular force, condition, or change. It implies an active or passive ability to repel or endure. It is commonly used in science (disease-resistant plants), materials (water-resistant watches), and psychology (change-resistant attitudes). The noun form is 'resistance'. It is the opposite of 'susceptible'. Being resistant can be a positive trait (like disease resistance) or a negative one (like being resistant to helpful new ideas).",
+    "synonyms": [
+      "impervious",
+      "immune",
+      "tough",
+      "opposed",
+      "hardy"
+    ],
+    "antonyms": [
+      "susceptible",
+      "vulnerable",
+      "prone",
+      "accepting"
+    ],
+    "nounForm": "resistance",
+    "verbForm": "resist",
+    "adjectiveForm": "resistant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, materials, psychology, agriculture",
+    "usageTip": "Always followed by 'to': 'resistant to heat', 'resistant to change'.",
+    "commonMistake": "Confusing 'resistant' (adjective) with 'resistance' (noun).",
+    "collocations": [
+      "water resistant",
+      "drug resistant",
+      "heat resistant",
+      "resistant to"
+    ]
+  },
+  {
+    "word": "Resistant",
+    "meaning": "Not easily damaged or affected by something",
+    "shortMeaning": "not affected",
+    "example": "The hardware is resistant to heat.",
+    "example2": "The code is resistant to common injection attacks.",
+    "example3": "Water-resistant casing protects the sensor.",
+    "Explanation": "The word 'resistant' means something can withstand a specific type of stress, harm, or influence. In IT, it can refer to physical resistance (e.g., heat-resistant materials) or digital resistance (e.g., 'attack-resistant' code). The noun form is 'resistance'. Unlike 'resilient', which focuses on recovery, 'resistant' focuses on preventing damage from happening in the first place. It is a critical concept in hardware protection and cyber security.",
+    "synonyms": [
+      "impervious",
+      "proof",
+      "immune"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "susceptible"
+    ],
+    "nounForm": "resistance",
+    "verbForm": "resist",
+    "adjectiveForm": "resistant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware engineering, cyber security",
+    "usageTip": "Use 'resistant' to talk about preventing damage from a specific source.",
+    "commonMistake": "Confusing 'resistant' with 'resilient'; resistant avoids, resilient recovers.",
+    "collocations": [
+      "water resistant",
+      "heat resistant",
+      "resistant to attacks"
+    ]
+  }
+]

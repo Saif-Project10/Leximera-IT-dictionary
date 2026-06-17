@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Neighboring",
+    "meaning": "Located next to or very near another place",
+    "shortMeaning": "next to, adjacent",
+    "example": "We invited families from the neighboring towns.",
+    "example2": "The fire spread to neighboring buildings.",
+    "example3": "They have good relations with their neighboring country.",
+    "Explanation": "'Neighboring' is an adjective used to describe places that are situated close to each other, sharing a border or being in the immediate vicinity. It is the standard spelling in American English (British English often uses 'neighbouring'). It is commonly used in geographic, political, and social contexts. It implies proximity and often interaction or mutual influence. It is more specific than 'nearby' as it often suggests a shared boundary.",
+    "synonyms": [
+      "adjacent",
+      "adjoining",
+      "bordering"
+    ],
+    "antonyms": [
+      "distant",
+      "far-off",
+      "remote"
+    ],
+    "nounForm": "neighbor",
+    "verbForm": "neighbor",
+    "adjectiveForm": "neighboring",
+    "partOfSpeech": "adjective",
+    "commonContext": "Geography, international relations, local community",
+    "usageTip": "Always comes before the noun it describes (e.g., 'neighboring state').",
+    "commonMistake": "Spelling it as 'neighbouring' in American English contexts.",
+    "collocations": [
+      "neighboring village",
+      "neighboring rooms",
+      "neighboring states"
+    ]
+  },
+  {
+    "word": "Neighboring",
+    "meaning": "Situated next to or near something",
+    "shortMeaning": "nearby",
+    "example": "The neighboring server rack shares the power supply.",
+    "example2": "Changes to one module affected all neighboring components.",
+    "example3": "The data is stored on neighboring blocks in the database.",
+    "Explanation": "The word 'neighboring' describes objects, servers, or components that are situated next to each other. It implies a direct physical or logical connection or placement. In networking or architecture, understanding how neighboring components interact is essential for troubleshooting interference or dependency issues. It is a clear term to establish the relative position of items within a system. Use it to clarify spatial or logical groupings of items.",
+    "synonyms": [
+      "adjacent",
+      "nearby",
+      "neighbor"
+    ],
+    "antonyms": [
+      "distant",
+      "remote"
+    ],
+    "nounForm": "neighbor",
+    "verbForm": "neighbor",
+    "adjectiveForm": "neighboring",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, networking, databases",
+    "usageTip": "Use when discussing components that are adjacent to each other.",
+    "commonMistake": "Confusing 'neighboring' with 'associated' (which means connected but not necessarily near).",
+    "collocations": [
+      "neighboring server",
+      "neighboring node",
+      "neighboring block"
+    ]
+  }
+]

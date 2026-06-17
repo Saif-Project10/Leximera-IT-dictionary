@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Snatch",
+    "meaning": "To seize something quickly or eagerly; a short period of time or fragment.",
+    "shortMeaning": "grab quickly; short period",
+    "example": "The thief snatched her purse and ran.",
+    "example2": "I managed to snatch a few hours of sleep.",
+    "example3": "He heard only snatches of their conversation.",
+    "Explanation": "To 'snatch' is a verb meaning to take something abruptly, often with a quick, forceful movement. It implies speed and lack of ceremony, sometimes with an element of theft. As a noun, it means a small, incomplete part of something (a snatch of song) or a brief period of time (in snatches). The verb often has a negative connotation of stealing or taking unfairly. The noun is neutral. It's a vivid word for quick, opportunistic actions and for things experienced only partially or intermittently.",
+    "synonyms": [
+      "grab",
+      "seize",
+      "steal",
+      "fragment"
+    ],
+    "antonyms": [
+      "give",
+      "release",
+      "whole",
+      "entirety"
+    ],
+    "nounForm": "snatch",
+    "verbForm": "snatch",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Theft, quick actions, conversations, sleep",
+    "usageTip": "The phrase 'snatch victory from the jaws of defeat' means to win at the last moment when loss seemed certain.",
+    "commonMistake": "Confusing 'snatch' (to grab) with 'snack' (a small meal).",
+    "collocations": [
+      "snatch away",
+      "snatch a glimpse",
+      "snatch of time",
+      "snatch and run"
+    ]
+  },
+  {
+    "word": "Snatch",
+    "meaning": "To quickly seize or take something suddenly, or an unauthorized capture of data packets",
+    "shortMeaning": "seize quickly or capture data",
+    "example": "Malicious scripts can snatch sensitive session tokens from unencrypted browsers.",
+    "example2": "He managed to snatch the last available domain name before it expired.",
+    "example3": "A hacker might attempt to snatch user credentials during an unencrypted login process.",
+    "Explanation": "The word 'snatch' means to grab something swiftly, eagerly, or unexpectedly. In technical contexts, it is sometimes used metaphorically to describe a fast, unauthorized grab of digital resources. This includes actions like capturing data tokens, claiming expiring domain names, or pulling information out of a stream before security blocks it. It emphasizes speed, urgency, and an opportunistic approach. It can operate as both an active verb and a descriptive noun.",
+    "synonyms": [
+      "grab",
+      "seize",
+      "intercept",
+      "clutch"
+    ],
+    "antonyms": [
+      "release",
+      "give",
+      "drop",
+      "return"
+    ],
+    "nounForm": "snatch",
+    "verbForm": "snatch",
+    "adjectiveForm": "snatched",
+    "partOfSpeech": "verb",
+    "commonContext": "Domain name bidding, session hijacking discussions, and resource racing",
+    "usageTip": "Use 'snatch' to highlight an aggressive, high-speed acquisition of data or assets.",
+    "commonMistake": "Confusing 'snatch' with a slow, planned data download process.",
+    "collocations": [
+      "snatch data",
+      "snatch a victory",
+      "snatch assets"
+    ]
+  }
+]

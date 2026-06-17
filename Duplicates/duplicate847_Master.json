@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Master",
+    "meaning": "1. A person who has control or authority. 2. Someone very skilled. 3. An original from which copies are made.",
+    "shortMeaning": "person in control; expert; original",
+    "example": "The dog obeyed its master. (owner)",
+    "example2": "He is a master of chess. (expert)",
+    "example3": "Keep the master copy of the document safe. (original)",
+    "Explanation": "'Master' is a versatile noun, verb, and adjective. As a noun, it denotes control (master of a house), high skill (a master craftsman), or an original version (master recording). As a verb, it means to gain complete knowledge or skill ('master a language'). As an adjective, it means main or controlling ('master plan', 'master switch'). The word implies dominance, expertise, and originality. Its usage regarding people can be seen as archaic or hierarchical in modern contexts.",
+    "synonyms": [
+      "expert",
+      "ruler",
+      "original",
+      "controller"
+    ],
+    "antonyms": [
+      "servant",
+      "amateur",
+      "copy",
+      "novice"
+    ],
+    "nounForm": "master",
+    "verbForm": "master",
+    "adjectiveForm": "master",
+    "partOfSpeech": "noun, verb, adjective",
+    "commonContext": "Skills, control, recordings, plans",
+    "usageTip": "Use 'master' as a verb for becoming highly skilled, and as a noun for an expert or an original version.",
+    "commonMistake": "Using 'master' in a way that is insensitive to its historical connotations of ownership and dominance over people.",
+    "collocations": [
+      "master copy",
+      "master plan",
+      "master of",
+      "master the art"
+    ]
+  },
+  {
+    "word": "Master",
+    "meaning": "The main, controlling entity in a system",
+    "shortMeaning": "controlling unit",
+    "example": "The master node controls the cluster.",
+    "example2": "Change the setting on the master controller.",
+    "example3": "The master database syncs to the slaves.",
+    "Explanation": "In IT architecture, 'master' describes the primary component that dictates the behavior or tasks of other subordinate components (often called 'slaves' or 'workers'). This model is common in databases, networking, and clusters. The master unit handles coordination, traffic distribution, and overall state. Note that the industry is increasingly moving towards more neutral terms like 'Primary' and 'Replica', but 'master' remains deeply embedded in legacy systems and documentation.",
+    "synonyms": [
+      "controller",
+      "primary",
+      "lead"
+    ],
+    "antonyms": [
+      "slave",
+      "worker",
+      "replica"
+    ],
+    "nounForm": "master",
+    "verbForm": "master",
+    "adjectiveForm": "master",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "System architecture, databases, networking",
+    "usageTip": "Use 'master' for established architecture discussions.",
+    "commonMistake": "Not knowing the modern alternative ('primary').",
+    "collocations": [
+      "master node",
+      "master database",
+      "master controller"
+    ]
+  },
+  {
+    "word": "Master",
+    "meaning": "To learn a skill thoroughly or a primary device/system that controls others.",
+    "shortMeaning": "to learn or to control",
+    "example": "It took him years to master the JavaScript language.",
+    "example2": "The master node controls the activities of the worker nodes.",
+    "example3": "She is trying to master the art of UI/UX design.",
+    "Explanation": "Master has two common meanings: gaining deep knowledge of a subject, and acting as the main controller in a master-slave architecture. As a verb, it signifies achieving proficiency. As a noun, it describes a system that directs others. It implies leadership, authority, and high levels of expertise. Understanding the technical context is important when using this word.",
+    "synonyms": [
+      "expert",
+      "controller",
+      "authority"
+    ],
+    "antonyms": [
+      "novice",
+      "subordinate",
+      "slave"
+    ],
+    "nounForm": "mastery",
+    "verbForm": "master",
+    "adjectiveForm": "master",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Education, Computing, Management",
+    "usageTip": "Use 'master' as a noun for systems and as a verb for skills.",
+    "commonMistake": "Confusing the controller role with a peer.",
+    "collocations": [
+      "master node",
+      "master skill",
+      "master control"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Merge",
+    "meaning": "To combine or cause to combine to form a single entity.",
+    "shortMeaning": "combine, blend",
+    "example": "The two lanes of traffic merge into one.",
+    "example2": "The small bank merged with a larger national one.",
+    "example3": "The colors in the sunset merged into a beautiful orange hue.",
+    "Explanation": "To 'merge' is to blend or combine two or more things so thoroughly that they become one, often losing their individual identities. It implies a smooth, often seamless integration. It is commonly used in business (company mergers), traffic (merging lanes), and computing (merging files or code). The noun form is 'merger'. It is similar to 'unite' but often used in more technical or corporate contexts. It suggests a process of flowing together rather than just being joined.",
+    "synonyms": [
+      "Amalgamate",
+      "Blend",
+      "Combine",
+      "Fuse",
+      "Unite"
+    ],
+    "antonyms": [
+      "Diverge",
+      "Divide",
+      "Separate",
+      "Split"
+    ],
+    "nounForm": "merger",
+    "verbForm": "merge",
+    "adjectiveForm": "merged",
+    "partOfSpeech": "verb",
+    "commonContext": "Business, traffic, data, colors",
+    "usageTip": "In driving, 'merge' means to blend smoothly into another lane of moving traffic.",
+    "commonMistake": "Using 'merge' when you mean 'join'; merging implies a deeper integration.",
+    "collocations": [
+      "merge with",
+      "merge into",
+      "company merger",
+      "merge lanes"
+    ]
+  },
+  {
+    "word": "Merge",
+    "meaning": "To combine two or more separate things into one single thing",
+    "shortMeaning": "combine together",
+    "example": "The two small companies decided to merge to become a larger corporation.",
+    "example2": "In Git, we merge the 'feature branch' back into the 'main branch' when the work is done.",
+    "example3": "Drivers must be careful when they merge into highway traffic.",
+    "Explanation": "Merging is a very common action in business, driving, and coding. In a business merge, two companies join together to share resources. In driving, it means moving from one lane into another smoothly. In IT, merging is a daily task for developers. They write code in a separate area (branch) and then 'merge' it into the main project. This requires checking for 'conflicts' where two people might have changed the same line of code. It is about bringing different parts together to make a whole.",
+    "synonyms": [
+      "combine",
+      "unite",
+      "join",
+      "blend"
+    ],
+    "antonyms": [
+      "separate",
+      "split",
+      "divide"
+    ],
+    "nounForm": "merger",
+    "verbForm": "merge",
+    "adjectiveForm": "merged",
+    "partOfSpeech": "verb",
+    "commonContext": "Business, Programming (Git), Traffic",
+    "usageTip": "Use 'merge' when you want to emphasize that two things have become one.",
+    "commonMistake": "Confusing 'merge' (combining) with 'acquire' (one company buying another).",
+    "collocations": [
+      "merge branches",
+      "merge lanes",
+      "business merger"
+    ]
+  }
+]

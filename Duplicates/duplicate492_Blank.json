@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Blank",
+    "meaning": "Not written or printed on; empty; showing no expression, understanding, or interest. | 1. Empty or plain, with no writing, marks, or decoration. 2. Showing no expression, emotion, or understanding.",
+    "shortMeaning": "empty, without marks",
+    "example": "Please write your answer on a blank sheet of paper.",
+    "example2": "He gave me a blank look when I mentioned the deadline.",
+    "example3": "The screen went blank after the power surge.",
+    "Explanation": "The adjective 'blank' primarily describes a surface without any marks, writing, or decoration. A 'blank page' is ready for writing. Figuratively, it describes a person's face or mind showing no emotion, thought, or recognition ('a blank stare', 'my mind went blank'). It can also mean complete or absolute ('blank refusal'). As a noun, it is an empty space to be filled in a form, or a cartridge without a bullet. It is a versatile word used in everyday, artistic, and technical contexts.",
+    "synonyms": [
+      "Clear",
+      "Empty",
+      "Expressionless",
+      "Plain",
+      "Unmarked",
+      "Vacant"
+    ],
+    "antonyms": [
+      "Animated",
+      "Expressive",
+      "Filled",
+      "Full",
+      "Inscribed",
+      "Marked"
+    ],
+    "nounForm": "blank",
+    "verbForm": "blank (out)",
+    "adjectiveForm": "blank",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Paper, forms, expressions, screens, memory",
+    "usageTip": "Use 'blank' for something intended to be filled (a blank form) and 'empty' for a container with nothing in it.",
+    "commonMistake": "Saying 'blank paper' when you mean 'blank sheet of paper' or just 'paper'.",
+    "collocations": [
+      "blank check",
+      "blank stare",
+      "draw a blank",
+      "fill in the blank"
+    ]
+  },
+  {
+    "word": "Blank",
+    "meaning": "Empty; clear of any writing, images, marks, or data values",
+    "shortMeaning": "Empty",
+    "example": "The application showed a blank white screen because the javascript code crashed.",
+    "example2": "Please do not leave the password input field blank when signing up.",
+    "example3": "The system generated a blank document due to a database sync issue.",
+    "Explanation": "The word 'blank' refers to a complete absence of content, text, data, or marks on a surface or within a digital container. In computer programming and database design, a blank field is different from a field that contains an explicit zero or a 'null' marker. A blank space often refers to user input fields left untouched. Managing blank values carefully prevents application validation errors, software bugs, and unexpected system crashes.",
+    "synonyms": [
+      "empty",
+      "bare",
+      "void"
+    ],
+    "antonyms": [
+      "filled",
+      "marked",
+      "populated"
+    ],
+    "nounForm": "blankness",
+    "verbForm": "blank",
+    "adjectiveForm": "blank",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "User interfaces, form fields, document processing",
+    "usageTip": "Use 'blank' when describing spaces, screens, or document inputs that have no text or characters in them.",
+    "commonMistake": "Confusing a 'blank' space with a 'null' data value in backend code logic.",
+    "collocations": [
+      "blank screen",
+      "blank space",
+      "leave blank"
+    ]
+  }
+]

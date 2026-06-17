@@ -1,0 +1,87 @@
+[
+  {
+    "word": "Test-last",
+    "meaning": "A traditional software development approach where code is written first and tests are written afterward",
+    "shortMeaning": "write tests after code",
+    "example": "Many legacy projects were built using a test-last process.",
+    "example2": "Shifting from test-last to test-first was challenging for the team.",
+    "example3": "In test-last, testing often becomes an afterthought.",
+    "Explanation": "'Test-last' describes the conventional sequence in software development: developers write the functional code first and then, later (often just before release), write tests to verify it works. This approach is contrasted with the more modern 'test-first' or Test-Driven Development (TDD). Critics argue that test-last can lead to poorly tested code, design that is hard to test, and treating testing as a separate, less important phase. However, it is still a common practice, especially in less formal or time-pressured environments. The term is used in discussions comparing software development methodologies.",
+    "synonyms": [
+      "traditional testing",
+      "code-first testing"
+    ],
+    "antonyms": [
+      "test-first",
+      "test-driven development (TDD)"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-last",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, discussions of engineering practices",
+    "usageTip": "Often used critically to highlight the drawbacks of delaying test creation.",
+    "commonMistake": "Assuming 'test-last' means no testing is done; it means testing happens after coding.",
+    "collocations": [
+      "test-last approach",
+      "test-last development",
+      "test-last mentality",
+      "test-last vs test-first"
+    ]
+  },
+  {
+    "word": "Test-last",
+    "meaning": "Writing the implementation code before the tests.",
+    "shortMeaning": "test after code",
+    "example": "Test-last development is still common in many teams.",
+    "example2": "While test-last is easier, it often misses edge cases.",
+    "example3": "We are moving away from test-last workflows.",
+    "Explanation": "The term 'test-last' refers to the traditional, less disciplined way of coding where tests are written only after the feature is finished. While this allows for rapid prototyping, it often leads to code that is hard to test because it was not designed with testing in mind. Tests written test-last are often 'after-thoughts' and may not provide as much coverage as tests written test-first.",
+    "synonyms": [
+      "code-first"
+    ],
+    "antonyms": [
+      "test-first",
+      "test-driven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-last",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development workflows",
+    "usageTip": "Use 'test-last' to describe the traditional coding workflow.",
+    "commonMistake": "Underestimating the difficulty of testing code built without tests in mind.",
+    "collocations": [
+      "test-last development",
+      "test-last approach"
+    ]
+  },
+  {
+    "word": "Test-last",
+    "meaning": "A process where testing happens only after coding is complete",
+    "shortMeaning": "test after coding",
+    "example": "The legacy code used a test-last approach.",
+    "example2": "He is moving away from the test-last methodology.",
+    "example3": "Test-last development often leads to missed edge cases.",
+    "Explanation": "Test-last refers to the traditional, less modern approach of writing tests only after the software has been developed. While common in older projects, it often results in bugs that are difficult to isolate because the tests aren't baked into the design process. It often makes code harder to refactor because there is no safety net of tests early on. Modern teams typically avoid this for mission-critical applications.",
+    "synonyms": [
+      "traditional development"
+    ],
+    "antonyms": [
+      "test-first",
+      "TDD"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "test-last",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legacy systems, software development life cycle",
+    "usageTip": "Use this to describe older or non-agile development cycles.",
+    "commonMistake": "Assuming test-last is effective for complex, changing requirements.",
+    "collocations": [
+      "test-last development",
+      "test-last approach",
+      "test-last methodology"
+    ]
+  }
+]

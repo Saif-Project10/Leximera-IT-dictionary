@@ -1,0 +1,75 @@
+{
+  "total_words_available": 27842,
+  "json_files_per_batch": 25,
+  "total_batches": 12,
+  "total_json_files": 300,
+  "file_numbering": "Continuous (1 to 300)",
+  "file_type": "JSON with [ ] brackets (empty array)",
+  "file_content": "[\n\n]",
+  "note": "Line 1: [, Line 2: empty (paste data here), Line 3: ]",
+  "folder_structure": {
+    "main_folder": "MCQs_JSON_Batches",
+    "batches": [
+      {
+        "batch_num": 1,
+        "json_files": 25,
+        "file_numbers": "1 to 25"
+      },
+      {
+        "batch_num": 2,
+        "json_files": 25,
+        "file_numbers": "26 to 50"
+      },
+      {
+        "batch_num": 3,
+        "json_files": 25,
+        "file_numbers": "51 to 75"
+      },
+      {
+        "batch_num": 4,
+        "json_files": 25,
+        "file_numbers": "76 to 100"
+      },
+      {
+        "batch_num": 5,
+        "json_files": 25,
+        "file_numbers": "101 to 125"
+      },
+      {
+        "batch_num": 6,
+        "json_files": 25,
+        "file_numbers": "126 to 150"
+      },
+      {
+        "batch_num": 7,
+        "json_files": 25,
+        "file_numbers": "151 to 175"
+      },
+      {
+        "batch_num": 8,
+        "json_files": 25,
+        "file_numbers": "176 to 200"
+      },
+      {
+        "batch_num": 9,
+        "json_files": 25,
+        "file_numbers": "201 to 225"
+      },
+      {
+        "batch_num": 10,
+        "json_files": 25,
+        "file_numbers": "226 to 250"
+      },
+      {
+        "batch_num": 11,
+        "json_files": 25,
+        "file_numbers": "251 to 275"
+      },
+      {
+        "batch_num": 12,
+        "json_files": 25,
+        "file_numbers": "276 to 300"
+      }
+    ]
+  }
+}

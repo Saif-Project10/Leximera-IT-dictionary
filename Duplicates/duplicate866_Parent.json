@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Parent",
+    "meaning": "A father or mother; an organization that owns or controls smaller ones.",
+    "shortMeaning": "father or mother; source organization",
+    "example": "My parents live in Canada.",
+    "example2": "The parent company is based in Germany.",
+    "example3": "Good parenting requires patience.",
+    "Explanation": "A parent is primarily a biological or adoptive mother or father. This role involves raising and nurturing a child. Figuratively, a 'parent' organization is the main company that controls subsidiaries. In computing, a 'parent directory' is the one containing the current folder. The word implies origin, source, and responsibility. As a verb, 'to parent' means to act as a parent. The concept of parenting is central to family life and child development. The word is simple but carries profound social, emotional, and biological significance.",
+    "synonyms": [
+      "mother/father",
+      "guardian",
+      "progenitor",
+      "source",
+      "headquarters"
+    ],
+    "antonyms": [
+      "child",
+      "offspring",
+      "subsidiary"
+    ],
+    "nounForm": "parent",
+    "verbForm": "parent",
+    "adjectiveForm": "parental",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Family, business, computing, biology",
+    "usageTip": "As a noun, it's often used in the plural ('parents') to refer to both mother and father.",
+    "commonMistake": "Using 'parent' only for humans. Animals have parents, and companies have parent organizations.",
+    "collocations": [
+      "parent company",
+      "single parent",
+      "parent-teacher association",
+      "parent directory"
+    ]
+  },
+  {
+    "word": "Parent",
+    "meaning": "The source or origin of something, or the main element that contains others",
+    "shortMeaning": "main/source",
+    "example": "The 'div' tag is the parent of the 'p' tag in this HTML.",
+    "example2": "The parent process must stay active until the child process finished.",
+    "example3": "A child can inherit traits from its parent.",
+    "Explanation": "In IT, 'parent' describes a relationship between two things. In HTML/CSS, a parent element contains other elements (children). In operating systems, a 'parent process' is one that starts another 'child process'. In Version Control (like Git), a 'parent commit' is the version that came before the current one. It always implies a hierarchy or a timeline where the parent comes first or is 'higher' than the child.",
+    "synonyms": [
+      "source",
+      "origin",
+      "root"
+    ],
+    "antonyms": [
+      "child",
+      "descendant"
+    ],
+    "nounForm": "parent",
+    "verbForm": "parent (rarely used)",
+    "adjectiveForm": "parental",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Coding (HTML/CSS), OS processes, and Git",
+    "usageTip": "Use 'parent' to describe an element that contains another element.",
+    "commonMistake": "Confusing 'parent' with 'ancestor' (ancestor can be a grandparent or higher).",
+    "collocations": [
+      "parent element",
+      "parent process",
+      "parent directory"
+    ]
+  }
+]

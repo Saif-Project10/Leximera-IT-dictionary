@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unpacked",
+    "meaning": "Removed from a container or format; decompressed",
+    "shortMeaning": "taken out",
+    "example": "The archive must be unpacked before running the installation.",
+    "example2": "The system unpacked the compressed packet for analysis.",
+    "example3": "Once the data is unpacked, it consumes more disk space.",
+    "Explanation": "Unpacked means the act of taking data out of a compressed or packaged state. In IT, this usually refers to decompressing files from formats like ZIP, TAR, or GZ. It is a necessary step to access the actual contents of the software or data. Once unpacked, files are usually larger and ready for execution or editing. It is a fundamental process in software installation and file distribution.",
+    "synonyms": [
+      "decompressed",
+      "extracted",
+      "opened"
+    ],
+    "antonyms": [
+      "packed",
+      "compressed",
+      "zipped"
+    ],
+    "nounForm": "unpacking",
+    "verbForm": "unpack",
+    "adjectiveForm": "unpacked",
+    "partOfSpeech": "verb",
+    "commonContext": "File compression, software installation",
+    "usageTip": "Use this when explaining the step of decompressing files.",
+    "commonMistake": "Confusing 'unpacked' with 'installed'; unpacking is just the first step.",
+    "collocations": [
+      "unpacked file",
+      "ready to be unpacked",
+      "successfully unpacked"
+    ]
+  },
+  {
+    "word": "Unpacked",
+    "meaning": "The state of data or software that has been extracted from a compressed or bundled format.",
+    "shortMeaning": "extracted",
+    "example": "Once the file is unpacked, you can run the installer.",
+    "example2": "The system unpacked the library into the temporary folder.",
+    "example3": "Check the size of the file after it has been unpacked.",
+    "Explanation": "'Unpacked' refers to the process of extracting content from a compressed archive, such as a ZIP or TAR file. In software deployment, applications are often distributed in packed formats to save space and are unpacked on the destination machine. It is a necessary step before installation or execution can occur. If the data remains packed, the operating system cannot read the internal files directly. It essentially means the contents are now accessible in their original, usable state.",
+    "synonyms": [
+      "extracted",
+      "decompressed",
+      "unzipped"
+    ],
+    "antonyms": [
+      "packed",
+      "compressed",
+      "zipped"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unpack",
+    "adjectiveForm": "unpacked",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software installation, file compression",
+    "usageTip": "Use this for files that are ready to use after extraction.",
+    "commonMistake": "Confusing 'unpacked' with 'uninstalled'.",
+    "collocations": [
+      "unpacked file",
+      "unpacked data",
+      "successfully unpacked"
+    ]
+  }
+]

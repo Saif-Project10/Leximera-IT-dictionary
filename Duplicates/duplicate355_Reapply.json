@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Reapply",
+    "meaning": "To apply something again.",
+    "shortMeaning": "apply again",
+    "example": "You need to reapply sunscreen every two hours.",
+    "example2": "He decided to reapply for the job the following year.",
+    "example3": "The painter will reapply the coat after the first one dries.",
+    "Explanation": "Reapply is a straightforward verb formed by adding the prefix 're-' (meaning again) to 'apply'. It means to put something on again, submit a request again, or implement a rule again. It's common in contexts like skincare (reapply lotion), job hunting (reapply for a position), or software (reapply a filter). It implies a repetition of an action that was done previously. The noun form is 'reapplication'. It's a practical word that describes a common need in many areas of life and work.",
+    "synonyms": [
+      "apply again",
+      "put on again",
+      "resubmit"
+    ],
+    "antonyms": [
+      "remove",
+      "withdraw",
+      "take off"
+    ],
+    "nounForm": "reapplication",
+    "verbForm": "reapply",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Jobs, skincare, coatings, settings, policies",
+    "usageTip": "Often used with 'for' when talking about applications: 'reapply for a visa', 'reapply to university'.",
+    "commonMistake": "Misspelling it as 're-apply' (the hyphen is often omitted in modern usage).",
+    "collocations": [
+      "reapply for",
+      "reapply sunscreen",
+      "reapply settings"
+    ]
+  },
+  {
+    "word": "Reapply",
+    "meaning": "To apply a setting, fix, patch, or request again to a system or component",
+    "shortMeaning": "apply again",
+    "example": "You need to reapply the CSS styles after updating the website theme.",
+    "example2": "The administrator had to reapply the security update after the server reset.",
+    "example3": "If the connection fails, the script will automatically reapply the settings.",
+    "Explanation": "The word 'Reapply' means to execute or put a configuration, style, patch, or application into effect for a second time. This is common when a system reset, code update, or crash clears out previously configured changes. For example, in frontend development, changing an element's class might require you to reapply specific design layouts or animation states. It ensures that required configurations are kept active even after changes occur in the surrounding environment. Automated tools often handle this to keep systems uniform.",
+    "synonyms": [
+      "re-implement",
+      "enforce again",
+      "redo application"
+    ],
+    "antonyms": [
+      "remove",
+      "undo",
+      "cancel"
+    ],
+    "nounForm": "reapplication",
+    "verbForm": "reapply",
+    "adjectiveForm": "reapplied",
+    "partOfSpeech": "verb",
+    "commonContext": "System administration, CSS layout adjustments, software updates",
+    "usageTip": "Use 'reapply' when a rule, style, or patch was already applied once but needs to be put back on.",
+    "commonMistake": "Confusing 'reapply' with 'reply', which means to answer a message or email.",
+    "collocations": [
+      "reapply settings",
+      "reapply a patch",
+      "automatically reapply"
+    ]
+  }
+]

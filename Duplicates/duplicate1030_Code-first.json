@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Code-first",
+    "meaning": "A development approach where the data model or API is defined in code first, from which a database schema or client library is automatically generated.",
+    "shortMeaning": "define model in code first",
+    "example": "Using a code-first ORM, we defined our classes and the database tables were created automatically.",
+    "example2": "The code-first approach to API design involves writing the spec in code before implementation.",
+    "example3": "Code-first development can speed up early iteration.",
+    "Explanation": "'Code-first' is a specific compound adjective in software development, particularly in database design (Entity Framework) and API design (OpenAPI/Swagger). It means you write your data model or API specification as code (e.g., C# classes, Python classes), and then use tools to generate the database schema or server stubs from that code. This contrasts with 'database-first' (design DB then generate code) or 'design-first' (write API spec in YAML/JSON first). It prioritizes developer convenience and keeps the model definition in the programming language.",
+    "synonyms": [
+      "model-first (in some contexts)"
+    ],
+    "antonyms": [
+      "database-first",
+      "design-first"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software frameworks, ORM, API development",
+    "usageTip": "Always hyphenate. It's a technical methodology term, not a general phrase.",
+    "commonMistake": "Using it interchangeably with 'api-first'; they are related but not the same. Code-first is about generating from programming language code.",
+    "collocations": [
+      "code-first approach",
+      "code-first entity framework",
+      "code-first development"
+    ]
+  },
+  {
+    "word": "Code-first",
+    "meaning": "Designing software by writing code before building models or databases",
+    "shortMeaning": "coding before design",
+    "example": "We used a code-first approach to develop the API.",
+    "example2": "Many developers prefer the code-first method for database design.",
+    "example3": "Code-first development allows for faster prototyping.",
+    "Explanation": "The 'code-first' method is a development strategy where the developer defines the application logic through code before generating the database schema or visual models. This is highly popular in frameworks like Entity Framework. The code acts as the source of truth, and the database architecture is created automatically from the classes. It provides more control to developers and keeps design closely tied to the code implementation.",
+    "synonyms": [
+      "programming-first",
+      "development-led",
+      "N/A"
+    ],
+    "antonyms": [
+      "database-first",
+      "model-first",
+      "design-first"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-first",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database design, API development, and software frameworks",
+    "usageTip": "Use 'code-first' to describe a workflow where developers define the data model in code.",
+    "commonMistake": "Using 'code-first' for general planning; it specifically refers to data/model generation workflows.",
+    "collocations": [
+      "code-first development",
+      "code-first approach",
+      "code-first design"
+    ]
+  }
+]

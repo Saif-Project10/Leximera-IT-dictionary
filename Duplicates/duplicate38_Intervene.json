@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Intervene",
+    "meaning": "To come between two people or things, especially to prevent something bad or to help solve a problem",
+    "shortMeaning": "step in to help or prevent",
+    "example": "The teacher had to intervene when the students started arguing.",
+    "example2": "The government may intervene to stabilize the economy.",
+    "example3": "He was too shy to intervene in their private conversation.",
+    "Explanation": "To 'intervene' means to intentionally get involved in a situation to change its course. This is often done to stop a conflict, prevent a negative outcome, or provide assistance. It implies an active role taken by an outside party. The word is commonly used in contexts like mediation, crisis management, and healthcare. It's important to note that intervention is usually deliberate and aimed at improvement, not mere interference.",
+    "synonyms": [
+      "interfere",
+      "step in",
+      "mediate",
+      "intercede"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "overlook",
+      "avoid"
+    ],
+    "nounForm": "intervention",
+    "verbForm": "intervene",
+    "adjectiveForm": "intervening",
+    "partOfSpeech": "verb",
+    "commonContext": "Conflict resolution, emergencies, government action, counseling",
+    "usageTip": "Often followed by 'in' (intervene in a dispute) or 'to' (intervene to stop the fight).",
+    "commonMistake": "Using 'intervene' negatively to mean 'interfere annoyingly'. While similar, 'intervene' is usually for a good reason.",
+    "collocations": [
+      "intervene directly",
+      "intervene militarily",
+      "intervene on behalf of",
+      "time to intervene"
+    ]
+  },
+  {
+    "word": "Intervene",
+    "meaning": "To get involved in a situation to change what is happening",
+    "shortMeaning": "step in",
+    "example": "The manager had to intervene when the two developers disagreed on the architecture.",
+    "example2": "The system will intervene automatically if the temperature gets too high.",
+    "example3": "Government agencies often intervene to regulate the tech market.",
+    "Explanation": "Intervene means to intentionally enter a situation to influence its outcome or stop something bad from happening. In IT, this often refers to manual or automated actions taken to fix a process or conflict. It suggests a proactive approach to solving a problem before it escalates further. It is commonly used in professional, legal, and technical environments. Be sure not to confuse it with 'interfere', which usually has a negative meaning.",
+    "synonyms": [
+      "intercede",
+      "mediate",
+      "step in"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "leave alone"
+    ],
+    "nounForm": "intervention",
+    "verbForm": "intervene",
+    "adjectiveForm": "interventional",
+    "partOfSpeech": "verb",
+    "commonContext": "Management, conflict resolution, automated systems",
+    "usageTip": "Use 'intervene' when someone or something enters a situation to improve it.",
+    "commonMistake": "Using 'interfere' when you mean a helpful or necessary 'intervene'.",
+    "collocations": [
+      "intervene in a dispute",
+      "manually intervene",
+      "divine intervention"
+    ]
+  }
+]

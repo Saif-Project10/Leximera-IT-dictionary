@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Decay",
+    "meaning": "The process of rotting or becoming gradually worse.",
+    "shortMeaning": "rot, decline",
+    "example": "The old wooden house was in a state of decay.",
+    "example2": "Tooth decay is caused by sugar and bacteria.",
+    "example3": "The empire fell into decay after the war.",
+    "Explanation": "The noun and verb 'decay' refers to a slow, natural process of deterioration or decomposition. It can be physical (organic matter rotting), structural (buildings falling apart), or abstract (moral decay, decay of skills). It implies a change from a better to a worse state over time. The adjective is 'decayed'. A common mistake is using it for sudden breakage; decay is gradual. It is often used in science (radioactive decay), dentistry, and descriptions of decline. It carries a somewhat negative, melancholic feeling.",
+    "synonyms": [
+      "decomposition",
+      "rot",
+      "deterioration"
+    ],
+    "antonyms": [
+      "growth",
+      "flourishing",
+      "preservation"
+    ],
+    "nounForm": "decay",
+    "verbForm": "decay",
+    "adjectiveForm": "decayed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Biology, buildings, teeth, physics, societies",
+    "usageTip": "Often used with 'into' or 'in a state of': 'The fruit decayed into mush.', 'The building is in decay.'",
+    "commonMistake": "Confusing 'decay' with 'decrease'. Decay involves rotting or declining in quality, not just quantity.",
+    "collocations": [
+      "tooth decay",
+      "urban decay",
+      "radioactive decay"
+    ]
+  },
+  {
+    "word": "Decay",
+    "meaning": "The process of slowly rotting or becoming weaker and less useful",
+    "shortMeaning": "slow rot or decline",
+    "example": "The old server hardware began to decay after ten years of use.",
+    "example2": "Code decay happens when software is not updated to work with new systems.",
+    "example3": "The radioactive substance will decay over thousands of years.",
+    "Explanation": "In IT, 'code decay' (also called 'software rot') is a real problem. It doesn't mean the code literally rots, but rather that it becomes harder to use because the environment around it changes. For example, if a website was written for an old browser and never updated, it will eventually stop working. Similarly, 'data decay' refers to information becoming outdated or incorrect over time. Keeping a system healthy requires constant maintenance to prevent this natural decline. Decay is a slow process that can be ignored until it's too late.",
+    "synonyms": [
+      "rot",
+      "deteriorate",
+      "decline"
+    ],
+    "antonyms": [
+      "growth",
+      "improvement",
+      "preservation"
+    ],
+    "nounForm": "decay",
+    "verbForm": "decay",
+    "adjectiveForm": "decaying",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software maintenance, biology, and physics",
+    "usageTip": "Use 'decay' to describe things that are getting worse because they are being ignored.",
+    "commonMistake": "Thinking code decay is caused by a virus; it's actually caused by a lack of updates.",
+    "collocations": [
+      "code decay",
+      "data decay",
+      "radioactive decay"
+    ]
+  }
+]

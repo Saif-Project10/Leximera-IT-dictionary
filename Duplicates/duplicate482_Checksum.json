@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Checksum",
+    "meaning": "A small-sized block of data derived from another block of data, used to detect errors that may have been introduced during transmission or storage.",
+    "shortMeaning": "error-detection code",
+    "example": "Always verify the checksum of a downloaded file to ensure it hasn't been corrupted.",
+    "example2": "The system calculates a checksum for each data packet before sending it.",
+    "example3": "The MD5 checksum of the two files was different, indicating they were not identical.",
+    "Explanation": "A checksum is a fundamental concept in computing and data integrity. It's a numeric value calculated from a set of data using an algorithm (like MD5, SHA-256). Even a tiny change in the original data (a single bit) will produce a completely different checksum. By comparing the checksum of received data with the checksum of the original, you can verify the data's integrity. Checksums are used for verifying file downloads, ensuring data hasn't been tampered with, and in networking protocols. They are a simple form of a 'fingerprint' for data. Understanding checksums is key to ensuring reliability in digital systems.",
+    "synonyms": [
+      "hash sum",
+      "digest",
+      "fingerprint (in context)"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "checksum",
+    "verbForm": "checksum (to calculate a checksum)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "File verification, data transmission, cybersecurity, and software distribution.",
+    "usageTip": "Use 'checksum' when talking about verifying that data has not been accidentally altered.",
+    "commonMistake": "Thinking a checksum verifies authenticity (who sent it); it only verifies integrity (that it's unchanged). A digital signature is needed for authenticity.",
+    "collocations": [
+      "calculate a checksum",
+      "verify the checksum",
+      "checksum mismatch"
+    ]
+  },
+  {
+    "word": "Checksum",
+    "meaning": "A small block of data derived from another block of data to detect errors",
+    "shortMeaning": "integrity digit",
+    "example": "The downloader verified the file's checksum.",
+    "example2": "A different checksum means the file was changed or corrupted.",
+    "example3": "MD5 is a common algorithm used to create a checksum.",
+    "Explanation": "A checksum is like a digital fingerprint for a file. It is created by running a mathematical algorithm over the data. When the file is sent or stored, the checksum is sent with it. The receiver runs the same algorithm and compares the result. If the checksums match, the data is likely intact. If they don't, the data was corrupted. It is widely used in networking, file sharing, and software distribution to ensure integrity.",
+    "synonyms": [
+      "hash",
+      "fingerprint",
+      "check value"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "checksum",
+    "verbForm": "checksum (rare)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Data integrity and file security",
+    "usageTip": "Use 'checksum' when you need to prove a file hasn't been tampered with.",
+    "commonMistake": "Thinking a checksum is a form of encryption (it doesn't hide data).",
+    "collocations": [
+      "verify checksum",
+      "md5 checksum",
+      "checksum mismatch"
+    ]
+  }
+]

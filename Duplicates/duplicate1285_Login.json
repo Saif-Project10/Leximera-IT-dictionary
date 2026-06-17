@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Login",
+    "meaning": "The process or credentials used to gain access to a computer system or website",
+    "shortMeaning": "access credentials or the act of signing in",
+    "example": "Enter your username and password to complete the login.",
+    "example2": "I forgot my login details.",
+    "example3": "The login page is not loading.",
+    "Explanation": "'Login' (also written as 'log-in') is a noun and adjective referring to the credentials (username/password) or the process of signing into a secured system. In computing, it is the point of entry for a user. The verb form is 'log in' (two words). A 'login' is required for personalized access and security. The word is a staple of digital life. Issues with login are common tech support problems. It represents the gateway between public and private digital spaces. It's a modern essential term.",
+    "synonyms": [
+      "sign-in, access, credentials"
+    ],
+    "antonyms": [
+      "logout, sign-out"
+    ],
+    "nounForm": "login",
+    "verbForm": "log in",
+    "adjectiveForm": "login",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Computing, websites, applications, security",
+    "usageTip": "Use 'login' as a noun for the credentials or process. Use 'log in' (verb) for the action: 'Please log in.'",
+    "commonMistake": "Using 'login' as a verb (e.g., 'Login here'). The verb is two words: 'log in'.",
+    "collocations": [
+      "login screen",
+      "login failed",
+      "secure login"
+    ]
+  },
+  {
+    "word": "Login",
+    "meaning": "The process or credential to enter a system",
+    "shortMeaning": "accessing a system",
+    "example": "Use your email for the login process.",
+    "example2": "He forgot his login password for the portal.",
+    "example3": "The login page requires two-factor authentication.",
+    "Explanation": "Login is the act of entering a system or the set of credentials (username/password) used to gain access. It is the primary security barrier for most software. It ensures that only authorized users can interact with the system or data. 'Login' is both a noun (the page or the credentials) and a verb (the act of signing in). It is important to keep login information secure to prevent unauthorized access. It is a fundamental part of user account management.",
+    "synonyms": [
+      "sign-in",
+      "access",
+      "authentication"
+    ],
+    "antonyms": [
+      "logout",
+      "sign-out"
+    ],
+    "nounForm": "login",
+    "verbForm": "login (or log in)",
+    "adjectiveForm": "login",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security, accounts, user systems",
+    "usageTip": "Use 'log in' as a verb and 'login' as a noun/adjective.",
+    "commonMistake": "Mixing up the verb (log in) with the noun (login).",
+    "collocations": [
+      "login page",
+      "login credentials",
+      "successful login"
+    ]
+  }
+]

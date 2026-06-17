@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Substitute",
+    "meaning": "A person or thing that takes the place of another; to use something instead.",
+    "shortMeaning": "replacement; to replace",
+    "example": "Tofu can be a substitute for meat in many recipes. (noun)",
+    "example2": "The teacher was ill, so a substitute took the class.",
+    "example3": "You can substitute honey for sugar. (verb)",
+    "Explanation": "A substitute is a replacement that serves the same function as the original, often temporarily or in a pinch. As a verb, it means to use something in place of another. Substitutes are common in sports (substitute player), cooking (ingredient substitution), and work (substitute teacher). The word implies that the replacement is not the first choice but is acceptable. The key idea is interchangeability for a specific purpose. It's a practical word for dealing with absence, shortage, or preference.",
+    "synonyms": [
+      "replacement",
+      "stand-in",
+      "proxy",
+      "swap",
+      "replace"
+    ],
+    "antonyms": [
+      "original",
+      "permanent"
+    ],
+    "nounForm": "substitute",
+    "verbForm": "substitute",
+    "adjectiveForm": "substitute",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Sports, cooking, education, emergencies",
+    "usageTip": "Use the pattern 'substitute A for B' (meaning replace B with A) or 'substitute B with A'.",
+    "commonMistake": "Saying 'substitute with' when you mean 'substitute for'. 'Substitute for' is more common and clearer.",
+    "collocations": [
+      "substitute teacher",
+      "sugar substitute",
+      "act as a substitute",
+      "substitute player"
+    ]
+  },
+  {
+    "word": "Substitute",
+    "meaning": "To use something in place of something else",
+    "shortMeaning": "replacement",
+    "example": "You can substitute MySQL with PostgreSQL.",
+    "example2": "The function substitutes the variable with a value.",
+    "example3": "We need a substitute for the deprecated library.",
+    "Explanation": "The word 'substitute' means to swap one thing for another. In programming, we often 'substitute' variables in templates or swap out libraries that are no longer supported. This is a common part of refactoring and modernization. It is important to ensure the new item actually performs the same function; otherwise, the system will break. When discussing a substitute, always mention why the switch was made to help team members understand the logic behind the change.",
+    "synonyms": [
+      "replace",
+      "swap",
+      "exchange"
+    ],
+    "antonyms": [
+      "keep",
+      "maintain",
+      "retain"
+    ],
+    "nounForm": "substitution",
+    "verbForm": "substitute",
+    "adjectiveForm": "substitutable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Coding, refactoring, library management",
+    "usageTip": "Use 'substitute' when replacing one thing with another.",
+    "commonMistake": "Assuming all substitutes behave identically.",
+    "collocations": [
+      "substitute for",
+      "variable substitution"
+    ]
+  },
+  {
+    "word": "Substitute",
+    "meaning": "To replace one system component, data value, or text string with another valid alternative",
+    "shortMeaning": "replace with alternative",
+    "example": "The script will substitute all empty spaces with hyphens in the web URL.",
+    "example2": "You can substitute a mock database object during testing to speed up code execution.",
+    "example3": "If that font is missing, the browser will substitute a generic sans-serif font instead.",
+    "Explanation": "The word 'substitute' means swapping one element out for another that can perform the same role. In text processing, algorithms substitute specific letters or strings using regular expressions. In system engineering, developers substitute mock components during testing phases to avoid changing live data. It implies flexibility and fallback options, ensuring that a system keeps running smoothly even if an original piece is unavailable.",
+    "synonyms": [
+      "replace",
+      "swap",
+      "exchange",
+      "alternate"
+    ],
+    "antonyms": [
+      "retain",
+      "keep permanent"
+    ],
+    "nounForm": "substitute / substitution",
+    "verbForm": "substitute",
+    "adjectiveForm": "substituted",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "String manipulation code, software testing procedures, and font fallback styling",
+    "usageTip": "Use 'substitute' when one component takes over the responsibilities of another component temporarily or conditionally.",
+    "commonMistake": "Using 'substitute' without specifying what is being removed, which creates vague instructions.",
+    "collocations": [
+      "substitute value",
+      "string substitution",
+      "substitute component"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Irrelevant",
+    "meaning": "Not connected with or relevant to something.",
+    "shortMeaning": "not relevant",
+    "example": "His comments were completely irrelevant to the discussion.",
+    "example2": "That fact is irrelevant to the case.",
+    "example3": "Age is irrelevant when it comes to talent.",
+    "Explanation": "Irrelevant describes information, details, or opinions that have no bearing on the matter at hand. They are off-topic, immaterial, or unimportant to the current context. The word is a common criticism in debates, analysis, and conversations to dismiss points that don't contribute. The prefix 'ir-' (a form of 'in-') means 'not', so it's the opposite of 'relevant'. In a world of information overload, identifying what is irrelevant is a crucial skill for focus and efficiency. It's a stronger dismissal than 'unimportant' in a specific context.",
+    "synonyms": [
+      "unrelated",
+      "immaterial",
+      "extraneous",
+      "inapplicable",
+      "beside the point"
+    ],
+    "antonyms": [
+      "relevant",
+      "pertinent",
+      "applicable",
+      "germane"
+    ],
+    "nounForm": "irrelevance",
+    "verbForm": "N/A",
+    "adjectiveForm": "irrelevant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Arguments, data, information, details, comments",
+    "usageTip": "Often followed by 'to' (irrelevant to the issue).",
+    "commonMistake": "Saying 'irrevelant' instead of 'irrelevant'. Remember it's 'ir-rele-vant'.",
+    "collocations": [
+      "completely irrelevant",
+      "irrelevant information",
+      "irrelevant detail",
+      "become irrelevant"
+    ]
+  },
+  {
+    "word": "Irrelevant",
+    "meaning": "Not connected to the current topic or situation",
+    "shortMeaning": "not important or relevant",
+    "example": "The legacy code is now irrelevant to the current project requirements.",
+    "example2": "Please filter out all irrelevant data points from the dataset.",
+    "example3": "His comments were irrelevant to the main discussion about database performance.",
+    "Explanation": "Information is 'irrelevant' when it does not contribute to solving the problem at hand. In data science, removing irrelevant data (feature selection) is essential to improve algorithm accuracy and performance. In a meeting or discussion, keeping things relevant helps reach a decision faster. If you find yourself spending too much time on something that doesn't impact your goal, it might be irrelevant. Always evaluate if the information you have is truly helping your specific objective.",
+    "synonyms": [
+      "unrelated",
+      "extraneous",
+      "inapplicable"
+    ],
+    "antonyms": [
+      "relevant",
+      "significant",
+      "pertinent"
+    ],
+    "nounForm": "irrelevance",
+    "verbForm": "N/A",
+    "adjectiveForm": "irrelevant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis and communication",
+    "usageTip": "Use 'irrelevant' to point out information that should be ignored.",
+    "commonMistake": "Dismissing useful information as irrelevant too quickly.",
+    "collocations": [
+      "irrelevant data",
+      "irrelevant information",
+      "irrelevant to"
+    ]
+  }
+]

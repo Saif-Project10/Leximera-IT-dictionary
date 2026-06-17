@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Right shift",
+    "meaning": "A mathematical operation that moves the bits of a binary number to the right",
+    "shortMeaning": "bit-shifting right",
+    "example": "A right shift by one position is an easy way to divide a number by two.",
+    "example2": "In C++, the '>>' operator is used for a right shift.",
+    "example3": "Be careful with the sign bit when performing a right shift on negative numbers.",
+    "Explanation": "Right shift is a 'bitwise' operation used in low-level programming. Computers store numbers as 1s and 0s (bits). When you perform a right shift, you move every bit to the right and drop the last one. For example, the binary for 8 is `1000`. If you shift it right by one, it becomes `0100`, which is 4. This is a very fast way for a computer to do division. There are two types: 'Logical' (fills the empty space with 0) and 'Arithmetic' (keeps the positive/negative sign). It is used in graphics, cryptography, and performance-critical code.",
+    "synonyms": [
+      "bitwise right shift",
+      "binary shift"
+    ],
+    "antonyms": [
+      "left shift"
+    ],
+    "nounForm": "right shift",
+    "verbForm": "right shift",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computer science, assembly language, and low-level C programming",
+    "usageTip": "Use right shift for high-speed math if you are working on a system with limited power, like a tiny chip.",
+    "commonMistake": "Forgetting that right shifting an odd number will lose the 'remainder' (e.g., 7 shifted right becomes 3).",
+    "collocations": [
+      "arithmetic right shift",
+      "logical right shift",
+      "right shift operator"
+    ]
+  },
+  {
+    "word": "Right shift",
+    "meaning": "A bitwise operation that shifts all the binary bits of a digital value to the right by a specified number of positions, dividing the number",
+    "shortMeaning": "bitwise shift right operation",
+    "example": "Performing a right shift by one position on a binary number effectively divides its decimal value by two.",
+    "example2": "The low-level graphics script uses a right shift operator to process color values quickly.",
+    "example3": "You can use the double greater-than symbol to execute a bitwise right shift in JavaScript.",
+    "Explanation": "The term 'right shift' refers to a low-level bitwise operation used in computer science, cryptography, algorithms, and microchip optimizations. It moves every binary digit (0 or 1) in a number to the right by a given number of spaces. Bits that slide past the rightmost edge are discarded, while new bits are added on the left side. In programming, a right shift is used as a fast mathematical trick to perform integer division by powers of two, making it highly useful for performance-critical engines like video rendering pipelines.",
+    "synonyms": [
+      "bitwise right shift",
+      "binary shift right",
+      "N/A"
+    ],
+    "antonyms": [
+      "left shift",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "right shift / right shift operator",
+    "verbForm": "right shift",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Bitwise operations, binary math algorithms, graphics processing optimization",
+    "usageTip": "Use 'right shift' when explaining binary data modifications or optimized low-level calculations that require dividing integers quickly.",
+    "commonMistake": "Confusing a standard right shift with a zero-fill right shift, which handles negative number bit signatures differently.",
+    "collocations": [
+      "bitwise right shift",
+      "right shift operator",
+      "execute a right shift"
+    ]
+  }
+]

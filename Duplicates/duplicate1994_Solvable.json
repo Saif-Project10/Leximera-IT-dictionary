@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Solvable",
+    "meaning": "Able to be fixed or answered",
+    "shortMeaning": "fixable",
+    "example": "The error log suggests this is a solvable issue.",
+    "example2": "We identified a solvable bug in the kernel.",
+    "example3": "Is the performance problem solvable?",
+    "Explanation": "The word 'solvable' means that a problem can be fixed or an answer can be found. In IT, identifying whether a technical challenge is 'solvable' is part of risk assessment. Some problems are 'solvable' (like a code bug), while others might be 'unsolvable' given current hardware limitations or physical laws. Being able to correctly judge if a project's obstacles are solvable is a key skill for any technical leader or problem-solver. It requires understanding the system's capabilities.",
+    "synonyms": [
+      "fixable",
+      "resolvable",
+      "answerable"
+    ],
+    "antonyms": [
+      "unsolvable",
+      "impossible"
+    ],
+    "nounForm": "solvability",
+    "verbForm": "solve",
+    "adjectiveForm": "solvable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug fixing, problem-solving, project management",
+    "usageTip": "Use 'solvable' for technical bugs or challenges.",
+    "commonMistake": "Thinking 'solvable' means 'easy'; it just means there is an answer.",
+    "collocations": [
+      "solvable issue",
+      "solvable problem"
+    ]
+  },
+  {
+    "word": "Solvable",
+    "meaning": "Able to be solved or fixed.",
+    "shortMeaning": "can be fixed",
+    "example": "This bug is complex but definitely solvable.",
+    "example2": "The math problem is not solvable with current tools.",
+    "example3": "We listed all the solvable issues in the report.",
+    "Explanation": "The word 'solvable' describes a problem, riddle, or issue that has a solution or can be corrected. In IT, developers often categorize tickets or bugs into 'solvable' and 'unsolvable' based on resources or technical limitations. It is an adjective derived from the verb 'solve'. Using this word shows that you have analyzed a situation and believe a remedy exists. It is a positive and proactive term in troubleshooting and system design. Ensure you clearly identify the 'how' when discussing why something is solvable.",
+    "synonyms": [
+      "fixable",
+      "resolvable",
+      "decipherable"
+    ],
+    "antonyms": [
+      "unsolvable",
+      "impossible",
+      "unfixable"
+    ],
+    "nounForm": "solvability",
+    "verbForm": "solve",
+    "adjectiveForm": "solvable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem-solving, bug fixing, math",
+    "usageTip": "Use 'solvable' to express that a solution exists.",
+    "commonMistake": "Thinking 'solvable' applies only to math; it applies to bugs too.",
+    "collocations": [
+      "easily solvable",
+      "solvable problem",
+      "theoretically solvable"
+    ]
+  }
+]

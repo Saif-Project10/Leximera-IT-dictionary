@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Reserve",
+    "meaning": "To arrange for something to be kept for a particular person or purpose; to retain a right or power.",
+    "shortMeaning": "book, keep back",
+    "example": "I'd like to reserve a table for two at 8 pm.",
+    "example2": "The company reserves the right to change these terms.",
+    "example3": "We must reserve some supplies for the winter.",
+    "Explanation": "The verb 'reserve' means to secure something in advance for exclusive use at a future time. It is used for booking tickets, tables, rooms, etc. It also means to keep back or hold for a special purpose. The noun 'reserve' can mean a supply, a quiet manner, or a military force. A common mistake is confusing it with 'preserve', which means to maintain in its original state. 'Reserve' is about claiming or holding for future use. It implies planning and foresight. It's a standard word in hospitality, law, and resource management.",
+    "synonyms": [
+      "book",
+      "set aside",
+      "keep"
+    ],
+    "antonyms": [
+      "use immediately",
+      "cancel",
+      "relinquish"
+    ],
+    "nounForm": "reserve",
+    "verbForm": "reserve",
+    "adjectiveForm": "reserved",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Restaurants, travel, law, resources",
+    "usageTip": "Use 'reserve' for bookings. Use 'set aside' for more general saving of resources or time.",
+    "commonMistake": "Saying 'I made a reservation' (correct) vs. 'I reserved a reservation' (redundant).",
+    "collocations": [
+      "reserve a seat",
+      "nature reserve",
+      "in reserve"
+    ]
+  },
+  {
+    "word": "Reserve",
+    "meaning": "To save, secure, or set aside a resource for a specific user, process, or future use",
+    "shortMeaning": "set aside for use",
+    "example": "Cloud platforms allow you to reserve virtual machines for a year to reduce hosting costs.",
+    "example2": "The database system will reserve a pool of connections to handle sudden traffic peaks.",
+    "example3": "You can reserve your domain name early before launching your official web application.",
+    "Explanation": "The word 'reserve' means keeping resources locked or allocated exclusively for a particular entity. In network routing and computing architecture, memory or bandwidth reservations prevent system starvation by guaranteeing that an essential service has its allocated resources when needed. The noun form is 'reservation'. It acts as an assurance of availability.",
+    "synonyms": [
+      "allocate",
+      "set aside",
+      "withhold"
+    ],
+    "antonyms": [
+      "release",
+      "share",
+      "distribute"
+    ],
+    "nounForm": "reservation",
+    "verbForm": "reserve",
+    "adjectiveForm": "reserved",
+    "partOfSpeech": "verb",
+    "commonContext": "Cloud resource allocation, database settings, and domain registration",
+    "usageTip": "Use 'reserve' when an application locks a resource exclusively so that other systems cannot take it.",
+    "commonMistake": "Confusing 'reserve' with 'preserve'; reserve means setting aside for use, preserve means keeping from damage.",
+    "collocations": [
+      "reserve resources",
+      "reserve an instance",
+      "reserved keywords"
+    ]
+  }
+]

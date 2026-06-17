@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Software engineering",
+    "meaning": "The systematic application of engineering principles to the development of software.",
+    "shortMeaning": "professional software creation",
+    "example": "Software engineering focuses on building reliable and efficient systems.",
+    "example2": "He decided to get a degree in software engineering.",
+    "example3": "Software engineering involves more than just writing code; it involves rigorous testing.",
+    "Explanation": "Software engineering is a disciplined branch of computer science that deals with the design, development, and maintenance of software. Unlike casual programming, software engineering applies mathematical and scientific principles to ensure that the final product is reliable, scalable, and safe to use. It covers everything from project management to quality assurance. Professionals in this field use specific tools and methodologies to handle large-scale, complex projects that are too big for a single person to manage alone.",
+    "synonyms": [
+      "software systems engineering",
+      "technical software development",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "software engineer",
+    "verbForm": "engineer software",
+    "adjectiveForm": "software engineering",
+    "partOfSpeech": "noun",
+    "commonContext": "Academic studies and professional careers",
+    "usageTip": "Use 'software engineering' when referring to the formal and scientific side of building software.",
+    "commonMistake": "Confusing software engineering with computer science; CS is more about theory, SE is more about practice.",
+    "collocations": [
+      "software engineering degree",
+      "principles of software engineering",
+      "software engineering best practices"
+    ]
+  },
+  {
+    "word": "Software engineering",
+    "meaning": "The application of engineering to the design and building of software",
+    "shortMeaning": "building software",
+    "example": "She is studying software engineering at the university.",
+    "example2": "Software engineering requires planning, testing, and design.",
+    "example3": "Good software engineering makes systems maintainable.",
+    "Explanation": "Software engineering is more than just coding; it is the systematic, disciplined approach to developing, operating, and maintaining software. It involves requirements analysis, architecture, testing, project management, and quality control. Software engineers think about the entire lifecycle, ensuring that the final product is reliable, scalable, and secure. It is a broad field that combines computer science, engineering principles, and management skills. It is the standard professional approach for any enterprise-level project.",
+    "synonyms": [
+      "software development",
+      "programming",
+      "system design"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "software engineering",
+    "verbForm": "N/A",
+    "adjectiveForm": "software-engineering",
+    "partOfSpeech": "noun",
+    "commonContext": "Professional development, academics, industry",
+    "usageTip": "Use 'software engineering' for the professional field/process.",
+    "commonMistake": "Thinking it is just a synonym for 'writing code'.",
+    "collocations": [
+      "software engineering team",
+      "software engineering principles"
+    ]
+  },
+  {
+    "word": "Software engineering",
+    "meaning": "The application of engineering to the design and development of software",
+    "shortMeaning": "designing software",
+    "example": "He is studying software engineering at the university.",
+    "example2": "Software engineering involves planning, coding, and testing.",
+    "example3": "Good software engineering follows standard principles.",
+    "Explanation": "Software engineering is a systematic approach to creating software. It encompasses the entire lifecycle, from gathering requirements and designing architecture to coding, testing, and maintenance. It is more than just programming; it focuses on scalability, reliability, and project management. It requires knowledge of algorithms, data structures, and best practices. It is a formal discipline within the field of computer science.",
+    "synonyms": [
+      "software development",
+      "programming",
+      "coding"
+    ],
+    "antonyms": [
+      "hardware engineering",
+      "manual labor"
+    ],
+    "nounForm": "software engineer",
+    "verbForm": "N/A",
+    "adjectiveForm": "software engineering",
+    "partOfSpeech": "noun",
+    "commonContext": "Career, development process, IT",
+    "usageTip": "Use to describe the formal process of building software.",
+    "commonMistake": "Reducing software engineering to only writing code.",
+    "collocations": [
+      "software engineering degree",
+      "software engineering principles"
+    ]
+  }
+]

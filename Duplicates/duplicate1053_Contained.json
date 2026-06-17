@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Contained",
+    "meaning": "1. Held within limits; kept under control. 2. Included as part of something.",
+    "shortMeaning": "under control or included",
+    "example": "The fire was quickly contained by firefighters.",
+    "example2": "The document contained confidential data.",
+    "example3": "She spoke with contained anger.",
+    "Explanation": "'Contained' is the past tense and past participle of 'contain', and is often used as an adjective. As an adjective, it describes something that is restrained, controlled, or not allowed to spread (like a fire or emotion). It can also simply mean that something was included. The word suggests successful limitation. A 'self-contained' person or unit is independent and complete. In a positive sense, being contained can show discipline; in a negative sense, it might suggest repressed feelings. It is about managed boundaries.",
+    "synonyms": [
+      "restrained",
+      "controlled, limited (adj); held, included (verb form)"
+    ],
+    "antonyms": [
+      "unleashed",
+      "uncontrolled, spreading (adj); released, excluded (verb form)"
+    ],
+    "nounForm": "container",
+    "verbForm": "contain",
+    "adjectiveForm": "contained",
+    "partOfSpeech": "adjective / verb (past tense/participle)",
+    "commonContext": "Emergency situations, emotions, documents, descriptions",
+    "usageTip": "Use 'contained' as an adjective to describe something that is under control and not spreading.",
+    "commonMistake": "Using 'contained' to mean 'happy' or 'satisfied'. That's 'contented'.",
+    "collocations": [
+      "well-contained",
+      "self-contained",
+      "contained within"
+    ]
+  },
+  {
+    "word": "Contained",
+    "meaning": "Held or kept within limits or a specific area",
+    "shortMeaning": "kept inside",
+    "example": "The error was contained within a single module.",
+    "example2": "The virus spread was contained by the firewall.",
+    "example3": "All necessary files are contained in this folder.",
+    "Explanation": "To be contained means to be restricted to a specific scope or location. In software development, this often refers to isolated processes, variables, or error handling. It implies that something does not affect external systems. The verb form is 'contain', and the noun form is 'containment'. It is essential for modular design and security practices to ensure failures stay local.",
+    "synonyms": [
+      "enclosed",
+      "restricted",
+      "limited"
+    ],
+    "antonyms": [
+      "unrestricted",
+      "exposed",
+      "spread"
+    ],
+    "nounForm": "containment",
+    "verbForm": "contain",
+    "adjectiveForm": "contained",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Coding, security, data management",
+    "usageTip": "Use this word when talking about isolating parts of a system.",
+    "commonMistake": "Using 'contained' when you mean 'included' in a general, non-isolated way.",
+    "collocations": [
+      "well contained",
+      "fully contained",
+      "contained within"
+    ]
+  }
+]

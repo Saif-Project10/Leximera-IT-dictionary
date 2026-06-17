@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Fragile",
+    "meaning": "Easily broken, damaged, or destroyed; delicate. | Easily broken or damaged; delicate",
+    "shortMeaning": "easily broken",
+    "example": "The package was marked 'Fragile' because it contained glassware.",
+    "example2": "After her illness, she was in a fragile state of health.",
+    "example3": "The peace agreement between the two countries is fragile.",
+    "Explanation": "'Fragile' describes something that is not strong and can be easily harmed. This can be physical (like a thin glass), emotional (a fragile person's feelings), or situational (a fragile peace). It implies a need for gentle, careful handling. It is stronger than 'delicate' in suggesting the likelihood of breaking. The word is often seen on shipping labels. Understanding what is fragile helps us act with caution and care, whether with objects or people.",
+    "synonyms": [
+      "Breakable",
+      "Brittle",
+      "Delicate",
+      "Frail",
+      "Vulnerable"
+    ],
+    "antonyms": [
+      "Durable",
+      "Resilient",
+      "Robust",
+      "Strong",
+      "Sturdy"
+    ],
+    "nounForm": "fragility",
+    "verbForm": "N/A",
+    "adjectiveForm": "fragile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shipping, health, emotions, delicate objects, unstable situations",
+    "usageTip": "Use it for things that will clearly break if handled roughly.",
+    "commonMistake": "Confusing it with 'frangible', which is a more technical term.",
+    "collocations": [
+      "handle with care, fragile",
+      "fragile ego",
+      "fragile ecosystem",
+      "fragile health"
+    ]
+  },
+  {
+    "word": "Fragile",
+    "meaning": "Easily broken or damaged; lacking stability",
+    "shortMeaning": "easily broken",
+    "example": "The old codebase is very fragile and breaks with every change.",
+    "edge cases": "Handling fragile data requires extreme care during migration.",
+    "example3": "The server setup was too fragile to handle the increased load.",
+    "Explanation": "The word 'fragile' describes anything that is delicate, unstable, or easily broken. In IT, 'fragile code' refers to code that is so poorly written or documented that changing one part causes unexpected issues in other parts. It is a sign of poor design. Fragile systems are high-risk because they cannot withstand stress or updates. Aim to build 'robust' systems instead of 'fragile' ones. It is a term used to identify design weaknesses that need to be addressed.",
+    "synonyms": [
+      "delicate",
+      "brittle",
+      "unstable"
+    ],
+    "antonyms": [
+      "robust",
+      "durable",
+      "stable"
+    ],
+    "nounForm": "fragility",
+    "verbForm": "N/A",
+    "adjectiveForm": "fragile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code quality, system design, and security",
+    "usageTip": "Use 'fragile' to criticize code or systems that break easily.",
+    "commonMistake": "Confusing 'fragile' (easily broken) with 'agile' (flexible and fast).",
+    "collocations": [
+      "fragile code",
+      "fragile system",
+      "fragile design"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Fragmented",
+    "meaning": "Broken or separated into many small, disconnected parts",
+    "shortMeaning": "broken into pieces",
+    "example": "The old vase lay fragmented on the floor.",
+    "example2": "His memories of the event were fragmented.",
+    "example3": "The market is highly fragmented with many small companies.",
+    "Explanation": "'Fragmented' describes a state of being broken apart, either physically or conceptually. It often implies a lack of unity, coherence, or wholeness. It can refer to broken objects, disjointed memories, divided markets, or data stored in non-contiguous pieces (in computing). The verb form is 'fragment'. It usually has a negative connotation, suggesting inefficiency or incompleteness.",
+    "synonyms": [
+      "broken",
+      "disconnected",
+      "splintered",
+      "divided"
+    ],
+    "antonyms": [
+      "unified",
+      "whole",
+      "coherent",
+      "intact"
+    ],
+    "nounForm": "fragmentation",
+    "verbForm": "fragment",
+    "adjectiveForm": "fragmented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Memory, markets, data storage, society",
+    "usageTip": "Use 'fragmented' to describe something that is in pieces or lacks a central, unifying structure.",
+    "commonMistake": "Using 'fragmented' to mean simply 'different' rather than 'broken apart'.",
+    "collocations": [
+      "fragmented market",
+      "fragmented memory",
+      "highly fragmented",
+      "fragmented society"
+    ]
+  },
+  {
+    "word": "Fragmented",
+    "meaning": "Broken into many small or separate pieces",
+    "shortMeaning": "broken into parts",
+    "example": "The storage drive is fragmented, which slows down file access.",
+    "example2": "The team's efforts were fragmented, leading to confusion.",
+    "example3": "We need to combine our fragmented data into one source.",
+    "Explanation": "The word 'fragmented' means split into pieces that no longer work well together. In IT, 'disk fragmentation' happens when files are spread out in many small pieces on a drive, slowing down performance. Socially or organizationally, a 'fragmented team' is one where people are not communicating or working towards the same goal. It is a negative state that indicates a lack of unity or efficiency. Use it to identify problems that need to be consolidated or fixed.",
+    "synonyms": [
+      "broken",
+      "divided",
+      "scattered"
+    ],
+    "antonyms": [
+      "unified",
+      "consolidated",
+      "integrated"
+    ],
+    "nounForm": "fragmentation",
+    "verbForm": "fragment",
+    "adjectiveForm": "fragmented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, teamwork, and system organization",
+    "usageTip": "Use 'fragmented' to describe data or teams that are disorganized.",
+    "commonMistake": "Using 'fragmented' when you mean 'fractured' (which is more physical).",
+    "collocations": [
+      "fragmented data",
+      "disk fragmentation",
+      "fragmented team"
+    ]
+  }
+]

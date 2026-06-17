@@ -1,0 +1,62 @@
+[
+  {
+    "word": "OAuth",
+    "meaning": "An open-standard authorization protocol that allows applications to get limited access to a user's data on another service, without sharing the user's password.",
+    "shortMeaning": "delegated access authorization",
+    "example": "The app asks, 'Sign in with Facebook'—this uses OAuth to get your basic profile info.",
+    "example2": "A travel app uses OAuth to read your Google Calendar to suggest trips.",
+    "example3": "OAuth tokens have scopes that define what data an app can access.",
+    "Explanation": "OAuth (pronounced 'oh-auth') is not an authentication protocol (proving who you are), but an *authorization* protocol (granting permission). It lets you give one application permission to interact with another on your behalf, without giving away your password. You've likely seen it as 'Login with Google/Facebook/Github'. The key components are the Resource Owner (user), the Client (the app requesting access), the Authorization Server (issues tokens), and the Resource Server (holds the data). OAuth 2.0 is the current standard. It's crucial for secure API access and modern web app integrations.",
+    "synonyms": [
+      "delegated authorization framework",
+      "access delegation protocol"
+    ],
+    "antonyms": [
+      "password sharing",
+      "full credential delegation",
+      "uncontrolled access"
+    ],
+    "nounForm": "OAuth",
+    "verbForm": "N/A",
+    "adjectiveForm": "OAuth (as in OAuth flow)",
+    "partOfSpeech": "noun",
+    "commonContext": "Web APIs, social logins, third-party app integrations, mobile apps",
+    "usageTip": "Specify the version, usually 'OAuth 2.0'. Remember it's for *authorization*, not authentication (though it's often used in login flows).",
+    "commonMistake": "Saying 'OAuth authentication'. While used in login, its primary purpose is authorization. OpenID Connect is the layer on top that handles authentication.",
+    "collocations": [
+      "OAuth 2.0",
+      "OAuth token",
+      "OAuth flow",
+      "OAuth client",
+      "OAuth scope"
+    ]
+  },
+  {
+    "word": "OAuth",
+    "meaning": "An open standard for access delegation (authorization)",
+    "shortMeaning": "login standard",
+    "example": "We use the OAuth flow for user authentication.",
+    "example2": "The app authenticates via an OAuth token.",
+    "example3": "Configure the OAuth settings in the dashboard.",
+    "Explanation": "'OAuth' (Open Authorization) is the industry-standard protocol for letting a user grant a third-party application access to their data without giving away their password. For example, when you 'Sign in with Google' on a website, that is an OAuth flow in action. It is incredibly secure and user-friendly. Understanding how to manage OAuth tokens and flows is a required skill for modern web and mobile developers building integrated platforms.",
+    "synonyms": [
+      "authorization",
+      "token-based login"
+    ],
+    "antonyms": [
+      "password-login"
+    ],
+    "nounForm": "OAuth",
+    "verbForm": "authorize",
+    "adjectiveForm": "OAuth-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Security, web apps, authentication",
+    "usageTip": "Use OAuth instead of asking users for their credentials.",
+    "commonMistake": "Confusing 'authentication' (who you are) with 'authorization' (what you can do).",
+    "collocations": [
+      "OAuth flow",
+      "OAuth token",
+      "OAuth provider"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Weaken",
+    "meaning": "To make or become weaker in power, intensity, or physical strength.",
+    "shortMeaning": "make weaker",
+    "example": "The storm is expected to weaken by tomorrow.",
+    "example2": "Adding water will weaken the flavor of the juice.",
+    "example3": "His illness weakened his immune system.",
+    "Explanation": "'Weaken' is a verb that describes the process of losing strength or becoming less strong. It can be transitive (weaken something) or intransitive (something weakens). It applies to physical strength, structures, arguments, resolve, currencies, and more. It's the opposite of 'strengthen'. It's a neutral word describing a decline, which can be positive (weakening a hurricane) or negative (weakening an economy). It's a common word in news and analysis.",
+    "synonyms": [
+      "enfeeble",
+      "diminish",
+      "undermine"
+    ],
+    "antonyms": [
+      "strengthen",
+      "fortify",
+      "bolster"
+    ],
+    "nounForm": "weakness",
+    "verbForm": "weaken",
+    "adjectiveForm": "weak",
+    "partOfSpeech": "verb",
+    "commonContext": "Health, storms, arguments, economies, materials",
+    "usageTip": "Often used in the continuous form to describe an ongoing process (e.g., 'The economy is weakening').",
+    "commonMistake": "Confusing 'weaken' (verb) with 'weak' (adjective).",
+    "collocations": [
+      "weaken the case",
+      "weaken considerably",
+      "weaken the structure"
+    ]
+  },
+  {
+    "word": "Weaken",
+    "meaning": "To reduce the strength, intensity, security, or overall effectiveness of a system, structure, or signal",
+    "shortMeaning": "reduce strength or security",
+    "example": "Using weak passwords will severely weaken the overall defensive layout of your web application.",
+    "example2": "Too many inline styling overrides can weaken the structural hierarchy of your main CSS codebase.",
+    "example3": "Long network distances and poor copper cables will inevitably weaken the Wi-Fi signal frequency.",
+    "Explanation": "The word 'weaken' is a highly descriptive verb used to explain a decline in power, stability, or integrity. In the IT security domain, bad implementation practices—like hardcoding API access keys—will directly weaken a platform's encryption defenses, exposing it to malicious cyber attacks. In network engineering, physical interference or low-grade hardware wires can weaken electronic transmission signals. It is a vital word for describing negative changes in performance, logic stability, or infrastructure safety during technical audits.",
+    "synonyms": [
+      "diminish",
+      "compromise",
+      "dilute",
+      "undermine"
+    ],
+    "antonyms": [
+      "strengthen",
+      "fortify",
+      "reinforce",
+      "boost"
+    ],
+    "nounForm": "weakness",
+    "verbForm": "weaken",
+    "adjectiveForm": "weakened",
+    "partOfSpeech": "verb",
+    "commonContext": "Evaluating security system flaws, network signal degradation, and software architecture reviews",
+    "usageTip": "Use 'weaken' when you want to describe a systematic reduction in performance, safety, or structural code durability.",
+    "commonMistake": "Confusing the verb 'weaken' with the noun 'weakness', which describes the literal vulnerability itself.",
+    "collocations": [
+      "weaken security defenses",
+      "weaken the signal",
+      "weaken code integrity"
+    ]
+  }
+]

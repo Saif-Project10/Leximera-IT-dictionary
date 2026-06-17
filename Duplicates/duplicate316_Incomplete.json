@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Incomplete",
+    "meaning": "Not having all the necessary or appropriate parts; not finished",
+    "shortMeaning": "not whole; not finished",
+    "example": "The puzzle is still incomplete.",
+    "example2": "Our information is incomplete, so we cannot decide yet.",
+    "example3": "He handed in an incomplete application.",
+    "Explanation": "The adjective 'incomplete' means lacking some part or element, or not brought to a final end. It describes something that is unfinished or partial. It is a neutral descriptive term used for tasks, information, sets, and processes. The noun form is 'incompleteness'. It's a common word in administrative, academic, and everyday contexts to indicate that something is not yet ready or whole.",
+    "synonyms": [
+      "Deficient",
+      "Lacking",
+      "Partial",
+      "Uncompleted",
+      "Unfinished"
+    ],
+    "antonyms": [
+      "Complete",
+      "Entire",
+      "Finished",
+      "Whole"
+    ],
+    "nounForm": "incompleteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "incomplete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Tasks, forms, data, projects, collections",
+    "usageTip": "Often used on forms or in school: 'Incomplete - please fill out all sections.'",
+    "commonMistake": "Confusing it with 'uncompleted', which is less common and means not finished.",
+    "collocations": [
+      "incomplete information",
+      "incomplete pass",
+      "mark as incomplete",
+      "incomplete set"
+    ]
+  },
+  {
+    "word": "Incomplete",
+    "meaning": "Not finished; lacking some parts",
+    "shortMeaning": "not finished",
+    "example": "The code is still incomplete and requires more testing.",
+    "example2": "We received an incomplete set of instructions for the installation.",
+    "example3": "An incomplete project cannot be deployed to production.",
+    "Explanation": "The word 'incomplete' means that something is missing parts or hasn't been finished. In IT, 'incomplete data' is a common problem in databases where some fields are empty. 'Incomplete code' is code that doesn't fulfill its requirements. Recognizing when something is incomplete is essential for managing project timelines and quality.",
+    "synonyms": [
+      "unfinished",
+      "partial",
+      "lacking"
+    ],
+    "antonyms": [
+      "complete",
+      "finished",
+      "full"
+    ],
+    "nounForm": "incompleteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "incomplete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, data validation, development",
+    "usageTip": "Use 'incomplete' to describe tasks or data that are not fully finished.",
+    "commonMistake": "Assuming 'incomplete' data is still usable (it usually needs cleaning).",
+    "collocations": [
+      "incomplete data",
+      "incomplete code",
+      "incomplete project"
+    ]
+  }
+]

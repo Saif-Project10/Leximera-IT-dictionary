@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Toggled",
+    "meaning": "Switched between two different states or settings",
+    "shortMeaning": "switched",
+    "example": "The feature was toggled on in the system settings.",
+    "example2": "He toggled between the two open applications.",
+    "example3": "Make sure the privacy mode is toggled correctly.",
+    "Explanation": "The term 'toggled' refers to the action of flipping a switch, button, or software setting between two modes, such as 'on' and 'off'. In IT, it is very common to 'toggle' settings in a control panel or GUI (Graphical User Interface). When a setting is 'toggled', it usually changes the behavior of the program instantly. It implies a binary choice where you alternate between states rather than choosing from a list of many options. Remember that 'toggled' specifically refers to the action of switching, not the state itself.",
+    "synonyms": [
+      "switched",
+      "alternated",
+      "flipped"
+    ],
+    "antonyms": [
+      "fixed",
+      "locked",
+      "static"
+    ],
+    "nounForm": "toggle",
+    "verbForm": "toggle",
+    "adjectiveForm": "toggled",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Software settings, interface design, hardware buttons",
+    "usageTip": "Use this when describing a UI element that switches a feature on or off.",
+    "commonMistake": "Using 'toggled' to describe a permanent setting change.",
+    "collocations": [
+      "toggled on",
+      "toggled off",
+      "toggled between"
+    ]
+  },
+  {
+    "word": "Toggled",
+    "meaning": "Switched between two states, usually on and off",
+    "shortMeaning": "switched",
+    "example": "He toggled the debug mode on.",
+    "example2": "The button can be toggled to show or hide the sidebar.",
+    "example3": "I toggled the settings and the error disappeared.",
+    "Explanation": "A 'toggle' is a UI control or a programmatic flag that flips between two states (e.g., True/False, On/Off, Visible/Hidden). 'Toggled' is the action of switching this state. It is a ubiquitous term in software, from simple checkbox switches to complex feature flags that turn capabilities on or off in a production environment. It is a simple, binary way to manage state within an application or system configuration.",
+    "synonyms": [
+      "switched",
+      "flipped",
+      "swapped"
+    ],
+    "antonyms": [
+      "fixed",
+      "locked",
+      "static"
+    ],
+    "nounForm": "toggle",
+    "verbForm": "toggle",
+    "adjectiveForm": "toggled",
+    "partOfSpeech": "verb",
+    "commonContext": "UI design, programming logic, settings",
+    "usageTip": "Use when describing a binary state change.",
+    "commonMistake": "Using 'toggled' for multiple-choice switches; it is for two states only.",
+    "collocations": [
+      "toggled on",
+      "toggled off",
+      "easily toggled"
+    ]
+  }
+]

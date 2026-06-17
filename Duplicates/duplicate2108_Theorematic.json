@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Theorematic",
+    "meaning": "Relating to or based on theorems; formal or mathematical.",
+    "shortMeaning": "based on theorems",
+    "example": "The proof relies on theorematic foundations.",
+    "example2": "We need a theorematic approach to prove the algorithm's correctness.",
+    "example3": "The logic is rooted in theorematic principles.",
+    "Explanation": "The word 'theorematic' is a rare, formal term used in mathematical logic to describe something based on theorems—statements that have been proved to be true. You will rarely use this in everyday development. It is reserved for high-level research, formal verification of critical software, or academic papers where you are proving that an algorithm always works under certain conditions.",
+    "synonyms": [
+      "formal",
+      "mathematical",
+      "logical"
+    ],
+    "antonyms": [
+      "empirical",
+      "experimental"
+    ],
+    "nounForm": "theorem",
+    "verbForm": "N/A",
+    "adjectiveForm": "theorematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Formal verification and research",
+    "usageTip": "Use only in highly formal or mathematical proofs.",
+    "commonMistake": "Using this as a synonym for 'proven'; it is more specific.",
+    "collocations": [
+      "theorematic foundation",
+      "theorematic approach"
+    ]
+  },
+  {
+    "word": "Theorematic",
+    "meaning": "Relating to a theorem or following a mathematical rule",
+    "shortMeaning": "rule-based",
+    "example": "His approach was purely theorematic.",
+    "example2": "The logic follows a theorematic structure.",
+    "example3": "These algorithms have a theorematic basis.",
+    "Explanation": "Theorematic relates to theorems, which are proven logical statements. It describes an approach that relies heavily on mathematical proofs or established laws. In IT, this often applies to algorithm design, cryptography, and logic systems. It implies a high degree of mathematical rigor. It is less common than 'theoretical' and usually indicates a focus on formal proof rather than just general theory.",
+    "synonyms": [
+      "logical",
+      "mathematical",
+      "proven"
+    ],
+    "antonyms": [
+      "empirical",
+      "experimental"
+    ],
+    "nounForm": "theorem",
+    "verbForm": "N/A",
+    "adjectiveForm": "theorematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, cryptography, algorithms",
+    "usageTip": "Use this when discussing formal, proven foundations.",
+    "commonMistake": "Using it for simple ideas; it should only be used for rigorous proofs.",
+    "collocations": [
+      "theorematic foundation",
+      "theorematic approach",
+      "theorematic structure"
+    ]
+  }
+]

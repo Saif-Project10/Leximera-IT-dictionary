@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tree-structured",
+    "meaning": "Organized in a hierarchy with branches",
+    "shortMeaning": "hierarchical structure",
+    "example": "The data is stored in a tree-structured format.",
+    "example2": "We designed a tree-structured database for better searching.",
+    "example3": "The file system is tree-structured by default.",
+    "Explanation": "Tree-structured means that data is organized in a hierarchy, similar to the structure of a tree. This includes a top root node and various child nodes branching off. This is the standard way that directories and file systems are organized on computers. It is also common for XML or JSON data. The main benefit is that it allows for very quick navigation and organized storage of related information. It makes complex data easier to manage and understand.",
+    "synonyms": [
+      "hierarchical",
+      "organized"
+    ],
+    "antonyms": [
+      "flat",
+      "unstructured"
+    ],
+    "nounForm": "tree-structure",
+    "verbForm": "N/A",
+    "adjectiveForm": "tree-structured",
+    "partOfSpeech": "adjective",
+    "commonContext": "File systems, data storage, JSON/XML",
+    "usageTip": "Use this to describe any data organized with branches.",
+    "commonMistake": "Confusing it with a graph; a tree is a specific type of graph.",
+    "collocations": [
+      "tree-structured data",
+      "tree-structured format",
+      "tree-structured hierarchy"
+    ]
+  },
+  {
+    "word": "Tree-structured",
+    "meaning": "Organized in a hierarchy resembling a tree",
+    "shortMeaning": "hierarchical",
+    "example": "The data is stored in a tree-structured format.",
+    "example2": "The menu uses a tree-structured navigation.",
+    "example3": "He prefers a tree-structured database for this project.",
+    "Explanation": "The word 'tree-structured' describes data that follows a hierarchy. As mentioned earlier, 'trees' are fundamental in IT. When something is 'tree-structured', it means it has a root, branches, and nodes. It is used to describe XML, JSON, file systems, and decision flows. It is a very descriptive term that immediately tells the reader how the data is organized. It is synonymous with 'hierarchical'.",
+    "synonyms": [
+      "hierarchical",
+      "nested",
+      "organized"
+    ],
+    "antonyms": [
+      "flat",
+      "linear"
+    ],
+    "nounForm": "tree-structure",
+    "verbForm": "N/A",
+    "adjectiveForm": "tree-structured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, UI design, database design",
+    "usageTip": "Use 'tree-structured' for data that needs a clear hierarchy.",
+    "commonMistake": "Using it to describe simple lists (which are linear, not tree-structured).",
+    "collocations": [
+      "tree-structured data",
+      "tree-structured format",
+      "tree-structured navigation"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Supercritical",
+    "meaning": "Relating to a state of matter beyond its critical point",
+    "shortMeaning": "beyond critical state",
+    "example": "The turbine runs using supercritical carbon dioxide.",
+    "example2": "Supercritical fluids have properties of both gases and liquids.",
+    "example3": "The process requires a supercritical pressure environment.",
+    "Explanation": "In thermodynamics and physics, the term 'supercritical' refers to a substance that is at a temperature and pressure above its critical point. In this state, the distinction between liquid and gas disappears. This is highly useful in industrial processes like extraction, power generation, and chemical analysis. Because supercritical fluids can dissolve materials like a liquid but diffuse like a gas, they are very efficient for clean energy and extraction technologies. It is a technical term used in chemical engineering.",
+    "synonyms": [
+      "highly critical",
+      "exceeding critical limits"
+    ],
+    "antonyms": [
+      "subcritical"
+    ],
+    "nounForm": "supercriticality",
+    "verbForm": "N/A",
+    "adjectiveForm": "supercritical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Thermodynamics, chemical engineering, industrial processes",
+    "usageTip": "Use 'supercritical' when talking about fluids at high temperatures and pressures.",
+    "commonMistake": "Confusing 'supercritical' with 'very important' (in common language); it is a technical scientific term.",
+    "collocations": [
+      "supercritical fluid",
+      "supercritical pressure",
+      "supercritical state"
+    ]
+  },
+  {
+    "word": "Supercritical",
+    "meaning": "Exceeding a critical threshold, often in temperature and pressure",
+    "shortMeaning": "above critical state",
+    "example": "The reaction reached a supercritical phase during the experiment.",
+    "example2": "Supercritical fluids have unique properties between gas and liquid.",
+    "example3": "The reactor must be monitored to stay within safe limits, avoiding a supercritical condition.",
+    "Explanation": "The term 'supercritical' refers to a substance or system that has crossed its critical point. In fluids, it means the substance acts like both a gas and a liquid. In nuclear physics, it refers to a chain reaction that grows. It is a precise technical term used in engineering and physics. Ensure you understand the specific domain (fluids vs. nuclear) before using it. It implies moving past a standard limit or threshold.",
+    "synonyms": [
+      "critical",
+      "extreme",
+      "exceeding"
+    ],
+    "antonyms": [
+      "subcritical",
+      "stable",
+      "normal"
+    ],
+    "nounForm": "supercriticality",
+    "verbForm": "N/A",
+    "adjectiveForm": "supercritical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Chemical engineering, thermodynamics, nuclear physics",
+    "usageTip": "Use 'supercritical' when discussing states beyond the normal boiling or pressure limits.",
+    "commonMistake": "Using 'supercritical' to just mean 'very important' (that would be 'crucial').",
+    "collocations": [
+      "supercritical fluid",
+      "supercritical point",
+      "supercritical extraction"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Ample",
+    "meaning": "Enough or more than enough; plentiful",
+    "shortMeaning": "plentiful, enough",
+    "example": "We have ample time to finish the project.",
+    "example2": "The hotel room was ample for our family.",
+    "example3": "There is ample evidence to support the claim.",
+    "Explanation": "'Ample' is an adjective with a positive connotation, meaning there is a sufficient or abundant quantity of something. It suggests not just 'enough', but often a comfortable or generous amount. This word is used to describe time, space, evidence, opportunity, and resources. It is more formal than 'enough' or 'a lot of'. Using 'ample' can convey satisfaction and lack of worry about scarcity. It is the opposite of 'insufficient' or 'meager'. It implies adequacy without excess.",
+    "synonyms": [
+      "sufficient",
+      "plentiful",
+      "abundant",
+      "generous"
+    ],
+    "antonyms": [
+      "insufficient",
+      "inadequate",
+      "scarce",
+      "meager"
+    ],
+    "nounForm": "ampleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "ample",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing time, space, evidence, supplies",
+    "usageTip": "Use 'ample' before a noun to indicate a plentiful amount: 'ample parking', 'ample reason'.",
+    "commonMistake": "Using 'ample' to describe countable items awkwardly. It's best for uncountable nouns (time, evidence) or space.",
+    "collocations": [
+      "ample opportunity",
+      "ample space",
+      "ample proof"
+    ]
+  },
+  {
+    "word": "Ample",
+    "meaning": "More than enough, abundant, or fully sufficient for a specific need",
+    "shortMeaning": "plenty",
+    "example": "Make sure the server has ample disk space before starting the database backup.",
+    "example2": "The new office provides ample room for the growing engineering team.",
+    "example3": "The developer had ample time to test the application before the launch.",
+    "Explanation": "The word 'ample' indicates a comfortable surplus of something, meaning there is no risk of a shortage. In IT operations, ensuring ample resources—such as memory, bandwidth, processing power, or timeline padding—prevents operational emergencies, system overloads, and team burnout. The noun form is 'ampleness' or 'amplitude' (depending on context), and the adverb form is 'amply'. There is no direct verb form.",
+    "synonyms": [
+      "abundant",
+      "plentiful",
+      "sufficient"
+    ],
+    "antonyms": [
+      "scarce",
+      "insufficient",
+      "meager"
+    ],
+    "nounForm": "ampleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "ample",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource allocation, capacity planning, and project scheduling",
+    "usageTip": "Use 'ample' to describe storage, memory, or time windows that comfortably exceed the minimum requirements.",
+    "commonMistake": "Confusing 'ample' with 'average'; 'ample' means more than average, providing a safe buffer.",
+    "collocations": [
+      "ample space",
+      "ample time",
+      "ample resources"
+    ]
+  }
+]

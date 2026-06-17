@@ -1,0 +1,214 @@
+[
+  {
+    "word": "based",
+    "meaning": "Using something as a foundation or starting point",
+    "shortMeaning": "founded on",
+    "example": "The decision was based on thorough data analysis.",
+    "example2": "Our application is based on a microservices architecture.",
+    "example3": "The plugin is based on an open-source library.",
+    "Explanation": "The word 'based' is frequently used in IT to describe the underlying technology or logic of a system. It indicates the primary framework or data source from which a software product is built. Using a solid foundation ensures that the system is stable and scalable. It is essential to communicate what a platform is based on to help other developers understand the dependencies and core structure. This term is a cornerstone of technical documentation.",
+    "synonyms": [
+      "founded",
+      "built",
+      "grounded"
+    ],
+    "antonyms": [
+      "unsupported",
+      "unfounded"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, development, logic",
+    "usageTip": "Use 'based' to clarify technical foundations.",
+    "commonMistake": "Often misused when 'on the basis of' would be clearer.",
+    "collocations": [
+      "based on",
+      "platform-based",
+      "cloud-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Created using a specific foundation or starting point",
+    "shortMeaning": "foundationally derived",
+    "example": "This software is based on open-source libraries.",
+    "example2": "Our strategy is based on user behavior analysis.",
+    "example3": "The new operating system is based on Linux.",
+    "Explanation": "The word 'based' indicates the foundation or core technology used to develop a system. When something is 'based' on something else, it implies a dependency or heritage. This is very common in IT when discussing frameworks, platforms, or decision-making processes. The verb form is 'base', and the noun form is 'basis'. It explains the origin or the underlying structure of a product or idea.",
+    "synonyms": [
+      "founded",
+      "derived",
+      "built"
+    ],
+    "antonyms": [
+      "independent",
+      "unrelated",
+      "originless"
+    ],
+    "nounForm": "basis",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, development, decision-making",
+    "usageTip": "Use 'based' to explain the origin or core technology of a project.",
+    "commonMistake": "Overusing 'based' when 'using' or 'built with' might be clearer.",
+    "collocations": [
+      "based on",
+      "web-based",
+      "cloud-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Using something as a foundation or starting point",
+    "shortMeaning": "founded on",
+    "example": "The application is based on a modern framework.",
+    "example2": "Decisions are based on user feedback.",
+    "example3": "Our software is based in Karachi.",
+    "Explanation": "The word 'based' indicates the foundation or the origin of a concept, project, or organization. In IT, we frequently use it to explain the tech stack ('based on PHP and MySQL'). It shows what the project relies on to function. It is a very versatile word that helps clarify dependencies. Using it correctly helps others understand the origin and the logic behind your technical choices.",
+    "synonyms": [
+      "founded",
+      "built",
+      "centered"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System architecture, project origin",
+    "usageTip": "Use 'based on' to describe what your project is built upon.",
+    "commonMistake": "Incorrectly using 'base' instead of 'based'.",
+    "collocations": [
+      "based on",
+      "web-based",
+      "data-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Using something as a foundation or starting point",
+    "shortMeaning": "founded on",
+    "example": "The application is based on a modern framework.",
+    "example2": "Decisions are based on user feedback.",
+    "example3": "Our software is based in Karachi.",
+    "Explanation": "The word 'based' indicates the foundation or the origin of a concept, project, or organization. In IT, we frequently use it to explain the tech stack ('based on PHP and MySQL'). It shows what the project relies on to function. It is a very versatile word that helps clarify dependencies. Using it correctly helps others understand the origin and the logic behind your technical choices.",
+    "synonyms": [
+      "founded",
+      "built",
+      "centered"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System architecture, project origin",
+    "usageTip": "Use 'based on' to describe what your project is built upon.",
+    "commonMistake": "Incorrectly using 'base' instead of 'based'.",
+    "collocations": [
+      "based on",
+      "web-based",
+      "data-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Founded on or using something as a starting point",
+    "shortMeaning": "founded on",
+    "example": "The software is based on open-source code.",
+    "example2": "His decision was based on the performance data.",
+    "example3": "Cloud-based solutions are very popular today.",
+    "Explanation": "The word 'based' indicates the foundation or the underlying framework of a system or idea. In IT, it is very common to see phrases like 'browser-based' or 'AI-based' to define how a technology functions or where it operates. It connects an idea or tool to its source or primary mechanism. It is a fundamental term for describing architecture, platforms, and methodologies. Proper usage helps clarify the technical basis of a solution.",
+    "synonyms": [
+      "grounded",
+      "centered",
+      "founded"
+    ],
+    "antonyms": [
+      "unsupported",
+      "groundless",
+      "random"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software architecture, platforms, methodology",
+    "usageTip": "Use 'based on' to explain what something relies upon.",
+    "commonMistake": "Using 'base on' instead of 'based on'.",
+    "collocations": [
+      "based on",
+      "cloud-based",
+      "AI-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Having as a foundation or starting point",
+    "shortMeaning": "founded on",
+    "example": "This software is based on open-source code.",
+    "example2": "His theory is based on recent research.",
+    "example3": "The app is based in a secure cloud environment.",
+    "Explanation": "The word 'based' is a very common adjective used to describe what something is built upon or where it is located. In IT, it's used to describe technology stacks (e.g., 'Java-based'), foundations (e.g., 'data-based'), or company locations. It implies that the thing relies on the foundation mentioned. It is almost always followed by 'on' or 'in'. It is essential for describing how systems are built. It is the past participle of 'base'.",
+    "synonyms": [
+      "founded",
+      "built",
+      "derived"
+    ],
+    "antonyms": [
+      "unfounded",
+      "original",
+      "unsupported"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Technology stacks, research, business",
+    "usageTip": "Use 'based on' to describe foundations and 'based in' for locations.",
+    "commonMistake": "Failing to include the preposition 'on' or 'in'.",
+    "collocations": [
+      "based on",
+      "based in",
+      "data-based"
+    ]
+  },
+  {
+    "word": "based",
+    "meaning": "Having as a foundation or starting point",
+    "shortMeaning": "founded on",
+    "example": "This software is based on open-source code.",
+    "example2": "His theory is based on recent research.",
+    "example3": "The app is based in a secure cloud environment.",
+    "Explanation": "The word 'based' is a very common adjective used to describe what something is built upon or where it is located. In IT, it's used to describe technology stacks (e.g., 'Java-based'), foundations (e.g., 'data-based'), or company locations. It implies that the thing relies on the foundation mentioned. It is almost always followed by 'on' or 'in'. It is essential for describing how systems are built. It is the past participle of 'base'.",
+    "synonyms": [
+      "founded",
+      "built",
+      "derived"
+    ],
+    "antonyms": [
+      "unfounded",
+      "original",
+      "unsupported"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Technology stacks, research, business",
+    "usageTip": "Use 'based on' to describe foundations and 'based in' for locations.",
+    "commonMistake": "Failing to include the preposition 'on' or 'in'.",
+    "collocations": [
+      "based on",
+      "based in",
+      "data-based"
+    ]
+  }
+]

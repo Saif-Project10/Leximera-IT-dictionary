@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Image-based",
+    "meaning": "Relying on or consisting of images.",
+    "shortMeaning": "using images",
+    "example": "The website uses an image-based navigation system.",
+    "example2": "Image-based advertising often appeals to emotions.",
+    "example3": "N/A",
+    "Explanation": "'Image-based' is an adjective describing systems, content, or approaches that primarily use images rather than text or other media. In computing, image-based backup creates a complete copy of a drive as an image file. In marketing, image-based campaigns use visuals to convey messages. In education, image-based learning uses pictures to teach. The hyphen connects the words when used before nouns. With the rise of visual culture and social media platforms like Instagram (literally 'instant telegram' but functionally image-based), image-based communication has become increasingly important. The term contrasts with 'text-based' or 'audio-based' approaches.",
+    "synonyms": [
+      "visual",
+      "pictorial",
+      "graphic-based",
+      "photo-centric"
+    ],
+    "antonyms": [
+      "text-based",
+      "verbal",
+      "audio-based",
+      "numeric"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "image-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, marketing, social media, education",
+    "usageTip": "Hyphenated when used before a noun: 'image-based system'. Can be separate after verb: 'The approach is image based.'",
+    "commonMistake": "Omitting the hyphen when it's needed before a noun: 'image based content' should be 'image-based content'.",
+    "collocations": [
+      "image-based content",
+      "image-based search",
+      "image-based advertising"
+    ]
+  },
+  {
+    "word": "Image-based",
+    "meaning": "Systems or processes that rely primarily on images",
+    "shortMeaning": "Based on images",
+    "example": "The AI is an image-based model.",
+    "example2": "We use an image-based backup for quick recovery.",
+    "example3": "Image-based authentication is gaining popularity.",
+    "Explanation": "The term 'image-based' refers to anything that uses images as its primary data source or operating unit. In IT, this includes image processing AI, GUI-based software (like image-based installers), or disk imaging for backups. It is an adjective. This distinction is important because image-based systems are often significantly more compute-intensive than text-based ones. It is a standard term in computer vision and sysadmin workflows.",
+    "synonyms": [
+      "visual",
+      "picture-based"
+    ],
+    "antonyms": [
+      "text-based",
+      "code-based"
+    ],
+    "nounForm": "image",
+    "verbForm": "N/A",
+    "adjectiveForm": "image-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, computer vision, backups",
+    "usageTip": "Use when the core functionality relies on images.",
+    "commonMistake": "Confusing 'image-based' with 'GUI-based'.",
+    "collocations": [
+      "image-based backup",
+      "image-based model",
+      "image-based authentication"
+    ]
+  }
+]

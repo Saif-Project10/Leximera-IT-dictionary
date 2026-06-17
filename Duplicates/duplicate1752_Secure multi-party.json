@@ -1,0 +1,86 @@
+[
+  {
+    "word": "Secure multi-party",
+    "meaning": "Relating to a system where multiple parties can interact without seeing each other's private data",
+    "shortMeaning": "private collaboration",
+    "example": "The bank uses a secure multi-party environment to calculate risk with other firms.",
+    "example2": "Secure multi-party systems are becoming essential for healthcare research.",
+    "example3": "They set up a secure multi-party framework for the joint venture.",
+    "Explanation": "The term 'secure multi-party' describes a scenario or environment where two or more organizations or individuals need to work together on a task. The key challenge is that they do not want to share their raw, private data with one another. This term is often used as a precursor to specific technical methods like computation. It implies that security and privacy are maintained throughout the interaction. It is very common in fields where data sensitivity is high, such as finance, government, or medical research.",
+    "synonyms": [
+      "collaborative security",
+      "distributed privacy"
+    ],
+    "antonyms": [
+      "single-party",
+      "centralized"
+    ],
+    "nounForm": "secure multi-party system",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure multi-party",
+    "partOfSpeech": "adjective",
+    "commonContext": "Joint data processing and privacy tech",
+    "usageTip": "Use this as a descriptor for collaborative projects involving sensitive data.",
+    "commonMistake": "Thinking it means all parties can see all data.",
+    "collocations": [
+      "secure multi-party environment",
+      "secure multi-party setup"
+    ]
+  },
+  {
+    "word": "Secure multi-party",
+    "meaning": "A protocol allowing multiple parties to compute a result without revealing their private input",
+    "shortMeaning": "private collaboration",
+    "example": "The research team used secure multi-party computation.",
+    "example2": "Secure multi-party protocols protect sensitive data.",
+    "example3": "We are implementing a secure multi-party system.",
+    "Explanation": "The term 'secure multi-party' refers to advanced cryptographic protocols (often abbreviated as SMPC) where multiple entities can work together to perform a calculation on their collective data without any party seeing the private information of the others. It is highly important in privacy-preserving data analysis, finance, and voting systems. It ensures that the result is correct while keeping the individual data points completely private.",
+    "synonyms": [
+      "privacy-preserving",
+      "collaborative computing"
+    ],
+    "antonyms": [
+      "transparent",
+      "open-access"
+    ],
+    "nounForm": "multi-party computation",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure multi-party",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cryptography, data privacy",
+    "usageTip": "Use this to describe collaborative data processing that keeps inputs private.",
+    "commonMistake": "Thinking it is the same as simple encrypted storage.",
+    "collocations": [
+      "secure multi-party computation",
+      "secure multi-party protocol"
+    ]
+  },
+  {
+    "word": "Secure multi-party",
+    "meaning": "A protocol for computing a function while keeping inputs private",
+    "shortMeaning": "privacy-preserving computation",
+    "example": "The bank uses secure multi-party computation for fraud analysis.",
+    "example2": "Secure multi-party protocols protect sensitive user data during processing.",
+    "example3": "We are researching secure multi-party methods to improve privacy.",
+    "Explanation": "Secure multi-party computation (SMPC) is an advanced cryptographic technique that allows multiple parties to jointly compute a result from their combined inputs without ever revealing the inputs themselves. It is highly important in privacy-preserving data analysis, allowing companies to collaborate on statistics without sharing raw customer data. It is a specialized, complex field of IT security that is gaining importance as data privacy regulations become more strict across the world.",
+    "synonyms": [
+      "private computation",
+      "secure collaboration"
+    ],
+    "antonyms": [
+      "public computation",
+      "unprotected collaboration"
+    ],
+    "nounForm": "SMPC",
+    "verbForm": "N/A",
+    "adjectiveForm": "secure multi-party",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cryptography, data privacy, security",
+    "usageTip": "Use in the context of privacy-preserving data.",
+    "commonMistake": "Confusing it with simple multi-user access.",
+    "collocations": [
+      "secure multi-party computation",
+      "secure multi-party protocol"
+    ]
+  }
+]

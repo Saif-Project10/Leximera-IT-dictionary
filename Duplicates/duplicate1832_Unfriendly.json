@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unfriendly",
+    "meaning": "Difficult to use, understand, or interact with",
+    "shortMeaning": "hard to use",
+    "example": "The old command-line system was quite unfriendly to new users.",
+    "example2": "An unfriendly website layout can drive customers away.",
+    "example3": "His tone during the technical support call was very unfriendly.",
+    "Explanation": "In a technical context, 'unfriendly' usually refers to software or hardware that is not 'user-friendly.' This means the design is confusing, the instructions are missing, or the interface is ugly and hard to navigate. An unfriendly system requires a lot of training or technical knowledge to operate. Developers try to avoid 'unfriendly' designs by focusing on User Experience (UX). It can also describe the behavior of a person or a system that refuses to share information or cooperate with other systems (e.g., 'an unfriendly API').",
+    "synonyms": [
+      "hostile",
+      "difficult",
+      "counter-intuitive"
+    ],
+    "antonyms": [
+      "friendly",
+      "user-friendly",
+      "welcoming"
+    ],
+    "nounForm": "unfriendliness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unfriendly",
+    "partOfSpeech": "adjective",
+    "commonContext": "User interface design, customer service, and software reviews",
+    "usageTip": "Use this to describe a product that makes the user feel frustrated or confused.",
+    "commonMistake": "Thinking 'unfriendly' only refers to a person's personality; in IT, it's mostly about usability.",
+    "collocations": [
+      "unfriendly user interface",
+      "unfriendly environment",
+      "unfriendly software"
+    ]
+  },
+  {
+    "word": "Unfriendly",
+    "meaning": "Difficult to use, understand, or interact with",
+    "shortMeaning": "not user-friendly",
+    "example": "The command-line interface was very unfriendly for beginners.",
+    "example2": "We fixed the unfriendly UI design.",
+    "example3": "The error messages were cold and unfriendly.",
+    "Explanation": "In IT, 'unfriendly' describes technology that provides a poor user experience. This includes complex interfaces, confusing menus, or cryptic error messages that don't explain how to solve a problem. The goal of modern UX/UI design is to make technology 'friendly'—easy, intuitive, and welcoming. If a tool is unfriendly, users will likely find an alternative. It is a common critique in usability testing and product feedback sessions. When something is described as unfriendly, it is a call to action for improvement.",
+    "synonyms": [
+      "difficult",
+      "complex",
+      "hostile"
+    ],
+    "antonyms": [
+      "user-friendly",
+      "intuitive",
+      "helpful"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unfriendly",
+    "partOfSpeech": "adjective",
+    "commonContext": "UX/UI design, software usability, user feedback",
+    "usageTip": "Use this to critique software that is hard to use.",
+    "commonMistake": "Using 'unfriendly' to describe software that is just 'powerful'.",
+    "collocations": [
+      "user-unfriendly",
+      "unfriendly interface",
+      "unfriendly experience"
+    ]
+  },
+  {
+    "word": "Unfriendly",
+    "meaning": "Not easy to use or pleasant to interact with",
+    "shortMeaning": "not user-friendly",
+    "example": "The old dashboard is very user-unfriendly.",
+    "example2": "He found the command-line interface quite unfriendly.",
+    "example3": "An unfriendly system design leads to more user errors.",
+    "Explanation": "In IT, 'unfriendly' usually refers to 'user-unfriendly' interfaces. It means a system is hard to learn, navigate, or understand. A good system should be 'user-friendly' or intuitive. If a system is described as unfriendly, it is usually a strong signal that it needs a design overhaul or better documentation. It is a direct and impactful way to voice concerns about usability and user experience.",
+    "synonyms": [
+      "difficult",
+      "unpleasant",
+      "non-intuitive"
+    ],
+    "antonyms": [
+      "friendly",
+      "intuitive",
+      "easy"
+    ],
+    "nounForm": "unfriendliness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unfriendly",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX and usability",
+    "usageTip": "Use to critique poor interface design.",
+    "commonMistake": "Confusing 'unfriendly' (software) with 'rude' (a person).",
+    "collocations": [
+      "user-unfriendly",
+      "quite unfriendly",
+      "unfriendly interface"
+    ]
+  }
+]

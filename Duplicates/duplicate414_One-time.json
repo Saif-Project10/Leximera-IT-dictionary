@@ -1,0 +1,66 @@
+[
+  {
+    "word": "One-time",
+    "meaning": "Happening, done, or made only once.",
+    "shortMeaning": "single occurrence",
+    "example": "This is a one-time offer that won't be repeated.",
+    "example2": "He made a one-time donation to the charity.",
+    "example3": "Setting up the account requires a one-time password sent to your phone.",
+    "Explanation": "One-time is an adjective that clearly specifies a single instance. It emphasizes uniqueness and non-repeatability. This can be positive (a one-time opportunity), neutral (a one-time setup fee), or negative (a one-time mistake). It's useful in business, finance, and everyday language to set clear expectations that something is not recurring. The hyphen is important to distinguish it from the phrase 'one time' (as in 'I told you one time'). It's a simple, effective word for communicating singularity.",
+    "synonyms": [
+      "single",
+      "sole",
+      "non-recurring",
+      "unique"
+    ],
+    "antonyms": [
+      "recurring",
+      "repetitive",
+      "regular",
+      "frequent"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "one-time",
+    "partOfSpeech": "adjective",
+    "commonContext": "Offers, payments, events, actions",
+    "usageTip": "Always hyphenated when used as an adjective before a noun.",
+    "commonMistake": "Writing it as two words when it's acting as a compound adjective ('a one-time event').",
+    "collocations": [
+      "one-time payment",
+      "one-time event",
+      "one-time use"
+    ]
+  },
+  {
+    "word": "One-time",
+    "meaning": "Happening or paid only once",
+    "shortMeaning": "single-use",
+    "example": "This is a one-time setup fee.",
+    "example2": "He generated a one-time password for the login.",
+    "example3": "The data migration is a one-time event.",
+    "Explanation": "The term 'one-time' describes an event, payment, or password that occurs or is valid exactly one time. In security, 'one-time' is essential for passwords (OTP) to prevent replay attacks. In business, it refers to costs that you don't have to pay every month, unlike recurring subscriptions. Understanding the difference between 'one-time' and 'recurring' is critical for project budgeting and security architecture. It represents an action that has no future repetition.",
+    "synonyms": [
+      "single",
+      "non-recurring",
+      "unique"
+    ],
+    "antonyms": [
+      "recurring",
+      "repeated",
+      "ongoing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "one-time",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, finance, project management",
+    "usageTip": "Use to clarify that something will not be repeated.",
+    "commonMistake": "Confusing 'one-time' with 'temporary' (it might be permanent, just done once).",
+    "collocations": [
+      "one-time password",
+      "one-time fee",
+      "one-time event"
+    ]
+  }
+]

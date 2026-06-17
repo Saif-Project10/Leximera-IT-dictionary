@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Wraparound",
+    "meaning": "Encircling or covering something; often refers to text or layout.",
+    "shortMeaning": "encircling",
+    "example": "The text features a wraparound design.",
+    "example2": "We implemented a wraparound security layer.",
+    "example3": "The screen has a wraparound interface.",
+    "Explanation": "The word 'wraparound' describes something that surrounds or covers another object. In software, it might refer to text that 'wraps' to the next line or a design that covers the full edge of a screen. It can also be metaphorical, such as a 'wraparound' policy that covers every aspect of a system. The noun form is 'wrap'. Use this term to describe features that are designed to surround or enclose content.",
+    "synonyms": [
+      "encircling",
+      "enclosing",
+      "wrapping"
+    ],
+    "antonyms": [
+      "linear",
+      "isolated"
+    ],
+    "nounForm": "wrap",
+    "verbForm": "wrap",
+    "adjectiveForm": "wraparound",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, interface, text formatting",
+    "usageTip": "Use 'wraparound' when discussing design that surrounds an element.",
+    "commonMistake": "Thinking 'wraparound' is only for text.",
+    "collocations": [
+      "wraparound design",
+      "wraparound text",
+      "wraparound layout"
+    ]
+  },
+  {
+    "word": "Wraparound",
+    "meaning": "Going around or enclosing something",
+    "shortMeaning": "enclosing",
+    "example": "The monitor features a wraparound screen design.",
+    "example2": "The text uses a wraparound effect in the editor.",
+    "example3": "He wore wraparound glasses to protect his eyes.",
+    "Explanation": "A 'wraparound' describes something that extends around the edges or sides of an object. In design, it is used for screens or displays that curve around the viewer to create an immersive experience. In text editing or UI, it refers to text that moves to the next line when it reaches the edge of the container. It is a common term in UI/UX and hardware design to indicate an all-encompassing or edge-to-edge layout approach.",
+    "synonyms": [
+      "enveloping",
+      "enclosing"
+    ],
+    "antonyms": [
+      "flat",
+      "straight",
+      "open"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "wraparound",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, hardware, display technology",
+    "usageTip": "Use 'wraparound' for designs or features that curve or extend around an object.",
+    "commonMistake": "Using 'wraparound' for things that are just 'covering' rather than 'extending around'.",
+    "collocations": [
+      "wraparound screen",
+      "wraparound design",
+      "wraparound text"
+    ]
+  }
+]

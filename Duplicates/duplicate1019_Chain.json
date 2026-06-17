@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Chain",
+    "meaning": "A series of connected metal links; a connected series of things or events; a group of associated businesses.",
+    "shortMeaning": "connected series; store group",
+    "example": "He wore a gold chain around his neck.",
+    "example2": "A chain of events led to the accident.",
+    "example3": "She works for a large hotel chain.",
+    "Explanation": "'Chain' is a noun and a verb. As a noun, its primary meanings are: 1) a flexible series of linked metal rings, 2) a sequence of connected things (mountains, ideas, stores), and 3) a restraint or confinement. As a verb, it means to fasten or confine with a chain. The imagery is one of connection, sequence, and sometimes restriction. It's a common metaphor for interconnectedness ('supply chain', 'chain reaction') and for business franchises ('chain store').",
+    "synonyms": [
+      "series",
+      "sequence",
+      "fetter"
+    ],
+    "antonyms": [
+      "disconnection",
+      "isolated unit"
+    ],
+    "nounForm": "chain",
+    "verbForm": "chain",
+    "adjectiveForm": "chained",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Jewelry, business, chemistry, restraints",
+    "usageTip": "For businesses, use 'a chain of' (e.g., 'a chain of supermarkets'). For events, 'a chain of' or 'chain reaction'.",
+    "commonMistake": "Using 'chain' to mean 'change'; they are different words.",
+    "collocations": [
+      "food chain",
+      "chain reaction",
+      "chain store"
+    ]
+  },
+  {
+    "word": "Chain",
+    "meaning": "A series of connected things or events linked together",
+    "shortMeaning": "connected series",
+    "example": "The supply chain was disrupted by the storm.",
+    "example2": "A chain of events led to the system failure.",
+    "example3": "We need to link these servers in a secure chain.",
+    "Explanation": "A chain represents a sequence where each part depends on the one before it. In IT, this could refer to a chain of commands, a certificate chain, or data structures. It implies that if one link breaks, the whole sequence might fail. This concept is fundamental in security, logic, and networking. It can be used both as a physical object and a metaphorical concept.",
+    "synonyms": [
+      "sequence",
+      "series",
+      "string"
+    ],
+    "antonyms": [
+      "disconnection",
+      "isolation",
+      "fragment"
+    ],
+    "nounForm": "chain",
+    "verbForm": "chain",
+    "adjectiveForm": "chained",
+    "partOfSpeech": "noun",
+    "commonContext": "Logic, security, and supply management",
+    "usageTip": "Use 'chain' to describe things that are logically or physically linked.",
+    "commonMistake": "Using 'chain' when 'group' or 'list' might be more accurate for unlinked items.",
+    "collocations": [
+      "chain of command",
+      "supply chain",
+      "certificate chain"
+    ]
+  }
+]

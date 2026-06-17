@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Cancel",
+    "meaning": "To decide that a planned event will not happen; to invalidate.",
+    "shortMeaning": "call off; invalidate",
+    "example": "They had to cancel the picnic due to rain.",
+    "example2": "I need to cancel my dental appointment.",
+    "example3": "The bank agreed to cancel the late fee.",
+    "Explanation": "To cancel is to call off or annul something that was scheduled or authorized. It's a common verb for events, subscriptions, orders, and agreements. In recent years, 'cancel culture' refers to withdrawing support from public figures after objectionable behavior. The word implies a reversal of a previous decision. It can be temporary (cancel a meeting) or permanent (cancel a contract). The past tense is 'cancelled' (British) or 'canceled' (American). It's a fundamental word for managing plans and commitments.",
+    "synonyms": [
+      "call off",
+      "annul",
+      "revoke",
+      "abort",
+      "scrap"
+    ],
+    "antonyms": [
+      "confirm",
+      "schedule",
+      "proceed with",
+      "uphold"
+    ],
+    "nounForm": "cancellation",
+    "verbForm": "cancel",
+    "adjectiveForm": "cancelled",
+    "partOfSpeech": "verb",
+    "commonContext": "Events, subscriptions, orders, contracts, culture",
+    "usageTip": "Often followed by the thing being cancelled (cancel the flight, cancel my subscription).",
+    "commonMistake": "Spelling the past tense. In American English, it's 'canceled' with one 'l'; in British English, it's 'cancelled'.",
+    "collocations": [
+      "cancel culture",
+      "cancel an order",
+      "cancel out",
+      "cancel subscription"
+    ]
+  },
+  {
+    "word": "Cancel",
+    "meaning": "To stop, abort, or reverse a planned or ongoing action, process, or request",
+    "shortMeaning": "stop or abort an action or process",
+    "example": "The user cancelled the file upload after realizing the wrong file was selected.",
+    "example2": "She cancelled the API request when the response took too long.",
+    "example3": "The system automatically cancelled the transaction after detecting a duplicate entry.",
+    "Explanation": "To cancel means to stop, nullify, or reverse something that was planned, in progress, or already submitted. In software, cancelling can refer to aborting a running process, closing a dialog without saving, or terminating a network request. In business, it can mean ending a subscription, appointment, or contract. Proper cancellation handling in software is important to release resources, avoid incomplete transactions, and provide clear user feedback. Implementing cancellation tokens in asynchronous programming allows operations to be gracefully stopped without causing errors or leaving systems in an inconsistent state.",
+    "synonyms": [
+      "abort",
+      "terminate",
+      "revoke"
+    ],
+    "antonyms": [
+      "confirm",
+      "execute",
+      "proceed"
+    ],
+    "nounForm": "cancellation",
+    "verbForm": "cancel",
+    "adjectiveForm": "cancelled",
+    "partOfSpeech": "verb",
+    "commonContext": "Software UI, API handling, subscriptions, transactions, project management",
+    "usageTip": "Use 'cancel' when stopping an operation, request, or plan before or during its execution.",
+    "commonMistake": "Cancelling an operation without properly cleaning up resources or notifying the user, which can leave the system in an inconsistent state.",
+    "collocations": [
+      "cancel request",
+      "cancel subscription",
+      "cancel operation"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Wired",
+    "meaning": "Connected by physical cables rather than wireless signals",
+    "shortMeaning": "cable-connected",
+    "example": "The office uses a wired network for better security and speed.",
+    "example2": "My wired mouse never runs out of battery.",
+    "example3": "Is your internet connection wired or wireless?",
+    "Explanation": "The term 'wired' refers to any device or system that uses physical cables (like copper or fiber optics) to communicate or receive power. In the world of IT, wired connections (like Ethernet) are generally considered more stable and faster than wireless connections (like Wi-Fi). They are also more secure because an intruder would need physical access to the cable to intercept the data. 'Wired' can also describe a person who is very excited or has had too much caffeine, but in IT, it's about cables.",
+    "synonyms": [
+      "cabled",
+      "hardwired",
+      "connected"
+    ],
+    "antonyms": [
+      "wireless",
+      "cordless",
+      "unplugged"
+    ],
+    "nounForm": "wiring",
+    "verbForm": "wire",
+    "adjectiveForm": "wired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, peripherals, and electronics",
+    "usageTip": "Use a wired connection if you need the lowest possible latency for gaming.",
+    "commonMistake": "Assuming 'wired' always means 'old'; many modern high-speed systems must be wired.",
+    "collocations": [
+      "wired network",
+      "wired connection",
+      "wired headphones"
+    ]
+  },
+  {
+    "word": "Wired",
+    "meaning": "Connected using physical cables or wires.",
+    "shortMeaning": "physically connected",
+    "example": "The server room is fully wired for high-speed internet.",
+    "example2": "Wired connections are generally more stable than wireless ones.",
+    "example3": "The new hardware was wired incorrectly.",
+    "Explanation": "The word 'wired' refers to hardware, networks, or devices that rely on physical cables to communicate or receive power. In the context of networks, 'wired' usually implies Ethernet connectivity. The base verb is 'wire'. While modern tech is shifting toward wireless, wired connections remain the standard for high-security and high-performance environments due to their reliability and interference resistance. It is the opposite of wireless connectivity.",
+    "synonyms": [
+      "connected",
+      "cabled",
+      "plugged-in"
+    ],
+    "antonyms": [
+      "wireless",
+      "unplugged"
+    ],
+    "nounForm": "wire",
+    "verbForm": "wire",
+    "adjectiveForm": "wired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, hardware, electrical setup",
+    "usageTip": "Use 'wired' to clarify that a device uses a physical cable.",
+    "commonMistake": "Confusing 'wired' (connected) with 'hardwired' (permanently fixed).",
+    "collocations": [
+      "wired connection",
+      "hard wired",
+      "wired network"
+    ]
+  },
+  {
+    "word": "Wired",
+    "meaning": "Connected by or using wires, or alert and full of energy",
+    "shortMeaning": "connected or alert",
+    "example": "The computer is wired to the network.",
+    "example2": "He felt very wired after drinking too much coffee.",
+    "example3": "The building is wired for high-speed internet.",
+    "Explanation": "The term 'wired' has two main meanings in IT and general use. First, it refers to hardware or systems physically connected using cables. Second, it describes a person who is highly energetic or agitated, often due to caffeine. In networking, 'wired' distinguishes physical connections from wireless ones. It is a common adjective for describing infrastructure and personal states of alertness. Ensure you know the context, as the technical and emotional meanings are quite different.",
+    "synonyms": [
+      "connected",
+      "cabled",
+      "alert"
+    ],
+    "antonyms": [
+      "wireless",
+      "disconnected",
+      "lethargic"
+    ],
+    "nounForm": "wire",
+    "verbForm": "wire",
+    "adjectiveForm": "wired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, hardware, personal energy",
+    "usageTip": "Use 'wired' to describe physical network connections or feeling overly energetic.",
+    "commonMistake": "Using 'wired' when you mean 'wireless' in networking contexts.",
+    "collocations": [
+      "wired network",
+      "wired connection",
+      "feeling wired"
+    ]
+  }
+]

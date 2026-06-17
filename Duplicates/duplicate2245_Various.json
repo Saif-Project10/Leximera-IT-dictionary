@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Various",
+    "meaning": "Having many different features or types.",
+    "shortMeaning": "several types",
+    "example": "We encountered various errors during the installation.",
+    "example2": "There are various ways to approach this algorithm.",
+    "example3": "Various departments have access to the server.",
+    "Explanation": "Various is used to indicate that there is more than one type or instance of something. It is a very common word in technical writing for listing items or causes. It is simple but effective for indicating that you are aware of multiple possibilities. Always ensure that the items listed under 'various' are actually different from each other. It is a general term that helps avoid naming every single item in a large group.",
+    "synonyms": [
+      "several",
+      "diverse",
+      "multiple"
+    ],
+    "antonyms": [
+      "single",
+      "uniform"
+    ],
+    "nounForm": "variety",
+    "verbForm": "N/A",
+    "adjectiveForm": "various",
+    "partOfSpeech": "adjective",
+    "commonContext": "General communication, lists",
+    "usageTip": "Use this to refer to many different items without naming them all.",
+    "commonMistake": "Overusing it to avoid being specific.",
+    "collocations": [
+      "various reasons",
+      "various errors",
+      "various methods"
+    ]
+  },
+  {
+    "word": "Various",
+    "meaning": "Of several different types or kinds",
+    "shortMeaning": "many different",
+    "example": "The script handles various file types.",
+    "example2": "We tested it under various conditions.",
+    "example3": "There are various ways to solve this problem.",
+    "Explanation": "The word 'various' is used to suggest that there are many different options or instances. It is a very common word in documentation and technical writing to imply that a solution or a situation is not limited to just one item. It is similar to 'varied' but focuses more on the existence of multiple items rather than the diversity of the items themselves. It is a standard term that is clear and easy for readers to understand.",
+    "synonyms": [
+      "diverse",
+      "different",
+      "assorted"
+    ],
+    "antonyms": [
+      "single",
+      "uniform"
+    ],
+    "nounForm": "variety",
+    "verbForm": "vary",
+    "adjectiveForm": "various",
+    "partOfSpeech": "adjective",
+    "commonContext": "General discussion and technical documentation",
+    "usageTip": "Use when referencing multiple options or items.",
+    "commonMistake": "Using 'various' when only two options exist (use 'both' or 'different').",
+    "collocations": [
+      "various reasons",
+      "various types",
+      "various ways"
+    ]
+  }
+]

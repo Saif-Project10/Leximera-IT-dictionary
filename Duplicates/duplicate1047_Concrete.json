@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Concrete",
+    "meaning": "1. A building material made from a mixture of cement, sand, and water that hardens. 2. Definite and specific; based on facts, not ideas or guesses.",
+    "shortMeaning": "building material or definite",
+    "example": "The sidewalk is made of concrete.",
+    "example2": "We need concrete evidence, not just theories.",
+    "example3": "Do you have any concrete plans for the weekend?",
+    "Explanation": "'Concrete' is a noun and an adjective with very different but common meanings. As a noun, it's the hard, grey material used in construction. As an adjective, it means something is real, tangible, and specific—the opposite of 'abstract' or 'vague'. This adjective is crucial in discussions where clarity and evidence are needed. For example, 'concrete examples' help explain abstract concepts. The word embodies solidity, both physically and in thought.",
+    "synonyms": [
+      "cement (noun); specific, definite, tangible, solid (adj)"
+    ],
+    "antonyms": [
+      "abstract, vague, theoretical, indefinite (adj)"
+    ],
+    "nounForm": "concrete",
+    "verbForm": "concrete (to cover with concrete)",
+    "adjectiveForm": "concrete",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Construction, discussions of evidence, plans, examples",
+    "usageTip": "As an adjective, use 'concrete' to emphasize that something is specific and based on real facts.",
+    "commonMistake": "Confusing 'concrete' (specific) with 'specific'. 'Concrete' often implies tangible or real, not just detailed.",
+    "collocations": [
+      "concrete evidence",
+      "concrete plans",
+      "reinforced concrete"
+    ]
+  },
+  {
+    "word": "Concrete",
+    "meaning": "Existing in a physical or specific form; not abstract",
+    "shortMeaning": "real or specific",
+    "example": "We need concrete plans to meet the deadline.",
+    "example2": "The bug report lacked concrete examples of the error.",
+    "example3": "Translate the conceptual design into a concrete implementation.",
+    "Explanation": "Concrete refers to things that are specific, tangible, or real, rather than theoretical. In IT, moving from a 'conceptual' phase to a 'concrete' phase means you are now writing real code or building real hardware. Concrete details (like specific error logs or timestamps) are necessary for effective troubleshooting. The noun form is 'concreteness'.",
+    "synonyms": [
+      "specific",
+      "real",
+      "tangible"
+    ],
+    "antonyms": [
+      "abstract",
+      "theoretical",
+      "vague"
+    ],
+    "nounForm": "concreteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "concrete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Planning, Troubleshooting",
+    "usageTip": "Use 'concrete' when you want to emphasize specific, actionable details.",
+    "commonMistake": "Confusing 'concrete' with 'complex'.",
+    "collocations": [
+      "concrete plans",
+      "concrete examples"
+    ]
+  },
+  {
+    "word": "Concrete",
+    "meaning": "Something that is specific, real, and clear rather than general or abstract",
+    "shortMeaning": "specific / real",
+    "example": "We need a concrete plan before we start the development.",
+    "example2": "Please provide concrete examples of how this feature will work.",
+    "example3": "The developer made concrete progress on the login page today.",
+    "Explanation": "In communication and IT, 'concrete' is the opposite of 'abstract'. If a plan is abstract, it is just a vague idea. If it is concrete, it has dates, tasks, and specific names. In programming, 'concrete classes' are actual templates you can use to create objects, while 'abstract classes' are just concepts. Using concrete language helps avoid confusion in team meetings and technical documentation. It makes ideas feel solid and actionable.",
+    "synonyms": [
+      "specific",
+      "tangible",
+      "definite"
+    ],
+    "antonyms": [
+      "abstract",
+      "vague",
+      "general"
+    ],
+    "nounForm": "concreteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "concrete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Planning, documentation, and object-oriented programming",
+    "usageTip": "Use 'concrete' when you want to ask for specific details or proof.",
+    "commonMistake": "Confusing 'concrete' (the building material) with 'concrete' (specific information) in text.",
+    "collocations": [
+      "concrete evidence",
+      "concrete example",
+      "concrete plan"
+    ]
+  }
+]

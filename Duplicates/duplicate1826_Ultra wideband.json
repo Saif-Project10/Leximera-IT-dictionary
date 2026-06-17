@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Ultra wideband",
+    "meaning": "A radio technology that uses very low energy for short-range, high-bandwidth communication",
+    "shortMeaning": "short-range high-speed radio",
+    "example": "Apple's AirTags use ultra wideband to find your keys precisely.",
+    "example2": "Ultra wideband is much more accurate than Bluetooth for finding locations.",
+    "example3": "Many modern cars use ultra wideband for keyless entry.",
+    "Explanation": "Ultra wideband (UWB) is a wireless communication protocol that operates at very high frequencies. It works by sending billions of tiny pulses every second. Because it uses a wide range of frequencies, it can transmit a lot of data quickly over short distances. Its most famous use today is 'spatial awareness'—allowing devices like phones to know exactly where other devices are (within centimeters). This makes it perfect for indoor navigation and secure unlocking of doors. It is also very difficult to interfere with or hack. It is becoming a standard feature in high-end smartphones and IoT devices.",
+    "synonyms": [
+      "UWB",
+      "impulse radio"
+    ],
+    "antonyms": [
+      "narrowband"
+    ],
+    "nounForm": "ultra wideband",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultra-wideband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Smartphones, tracking devices, and wireless networking",
+    "usageTip": "Use UWB when you need precise location tracking inside a building where GPS fails.",
+    "commonMistake": "Thinking UWB is just a faster version of Wi-Fi; its main advantage is precise distance measurement.",
+    "collocations": [
+      "ultra wideband chip",
+      "ultra wideband precision",
+      "ultra wideband signal"
+    ]
+  },
+  {
+    "word": "Ultra wideband",
+    "meaning": "A radio technology that uses a very low energy level for short-range, high-bandwidth communication.",
+    "shortMeaning": "wireless tech",
+    "example": "Ultra wideband is used for precise location tracking.",
+    "example2": "Many modern devices now support ultra wideband connectivity.",
+    "example3": "The data transfer via ultra wideband is very efficient.",
+    "Explanation": "Ultra wideband, often abbreviated as UWB, is a wireless communication protocol. Unlike standard Wi-Fi or Bluetooth, it operates over a large frequency spectrum with very low power. It is excellent for tasks that require high security and exact distance measurement. You will often see it used in smart locks, car keys, and indoor navigation systems. It is a specialized technical term primarily used in hardware and wireless networking fields.",
+    "synonyms": [
+      "UWB",
+      "wideband radio",
+      "high-speed wireless"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "ultra wideband",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultra wideband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Wireless communication and IoT hardware",
+    "usageTip": "Used mainly as a technical noun for specific wireless protocols.",
+    "commonMistake": "Confusing it with standard Wi-Fi technology.",
+    "collocations": [
+      "ultra wideband technology",
+      "ultra wideband signal",
+      "use ultra wideband"
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Traditional",
+    "meaning": "Following long-established customs, beliefs, or methods.",
+    "shortMeaning": "following old customs",
+    "example": "We had a traditional wedding with all the family rituals.",
+    "example2": "He practices traditional medicine.",
+    "example3": "The restaurant serves traditional Italian food.",
+    "Explanation": "Traditional describes something that has been passed down through generations and is considered the norm or the original way. It can apply to culture, art, food, values, or techniques. It often contrasts with 'modern', 'innovative', or 'non-traditional'. The word can have positive connotations (stability, heritage) or negative ones (resistance to change). It's a key concept in sociology, anthropology, and cultural studies. Understanding traditions helps understand a society's identity. The noun is 'tradition'. It's a common word in discussions about culture and change.",
+    "synonyms": [
+      "conventional",
+      "customary",
+      "classic",
+      "established",
+      "historic"
+    ],
+    "antonyms": [
+      "modern",
+      "innovative",
+      "progressive",
+      "unconventional"
+    ],
+    "nounForm": "tradition",
+    "verbForm": "N/A",
+    "adjectiveForm": "traditional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Culture, ceremonies, food, clothing, values",
+    "usageTip": "Often used to describe methods or styles that have been used for a long time and are seen as authentic.",
+    "commonMistake": "Thinking 'traditional' always means 'old-fashioned' in a negative way. It can simply mean 'classic' or 'authentic'.",
+    "collocations": [
+      "traditional values",
+      "traditional method",
+      "traditional music",
+      "highly traditional"
+    ]
+  },
+  {
+    "word": "Traditional",
+    "meaning": "Following older, long-established methods or technologies",
+    "shortMeaning": "established",
+    "example": "We moved away from traditional hardware to cloud computing.",
+    "example2": "Traditional programming languages are still very popular.",
+    "example3": "His approach was too traditional for this modern project.",
+    "Explanation": "In IT, 'traditional' usually refers to methods, technologies, or architectures that have been standard for a long time but are now being replaced by newer, often more agile or cloud-based solutions. Examples include on-premise servers (traditional) versus cloud servers, or waterfall development (traditional) versus agile. It is not always negative, as it can imply reliability and maturity. However, it often signals that a system might be legacy and due for an update. Use it to contrast old techniques with new innovations.",
+    "synonyms": [
+      "conventional",
+      "established",
+      "classic"
+    ],
+    "antonyms": [
+      "modern",
+      "innovative",
+      "agile"
+    ],
+    "nounForm": "tradition",
+    "verbForm": "N/A",
+    "adjectiveForm": "traditional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software evolution, IT history, architecture",
+    "usageTip": "Use this to describe older, proven technologies.",
+    "commonMistake": "Using 'traditional' to mean 'bad'.",
+    "collocations": [
+      "traditional approach",
+      "traditional methods",
+      "traditional IT"
+    ]
+  },
+  {
+    "word": "Traditional",
+    "meaning": "Following established, older ways of doing things",
+    "shortMeaning": "old-school",
+    "example": "They moved from traditional servers to cloud-based systems.",
+    "example2": "Traditional development cycles are being replaced by Agile.",
+    "example3": "Some tasks still require traditional manual methods.",
+    "Explanation": "The word 'traditional' refers to long-standing practices or technologies that have been used for a long time. In the fast-paced IT world, 'traditional' often contrasts with modern, agile, or innovative methods. While 'traditional' approaches (like the Waterfall model) may be considered slow, they are often reliable, well-understood, and suitable for stable, long-term projects. Being 'traditional' is not necessarily a bad thing, but it implies a slower pace of change compared to newer industry standards.",
+    "synonyms": [
+      "conventional",
+      "standard",
+      "legacy"
+    ],
+    "antonyms": [
+      "modern",
+      "agile",
+      "innovative"
+    ],
+    "nounForm": "tradition",
+    "verbForm": "N/A",
+    "adjectiveForm": "traditional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Methods, history, development",
+    "usageTip": "Use to refer to older or established ways of doing work.",
+    "commonMistake": "Using 'traditional' to mean 'outdated' without considering reliability.",
+    "collocations": [
+      "traditional approach",
+      "traditional server",
+      "traditional development"
+    ]
+  }
+]

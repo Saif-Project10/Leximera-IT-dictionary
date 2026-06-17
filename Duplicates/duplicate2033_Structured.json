@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Structured",
+    "meaning": "Organized into a clear, logical, or consistent format.",
+    "shortMeaning": "organized",
+    "example": "The database uses structured data for better search performance.",
+    "example2": "We follow a structured approach to project development.",
+    "example3": "JSON is a popular format for structured data exchange.",
+    "Explanation": "The word 'structured' describes information or processes that are organized in a way that is easily readable by machines or humans. Structured data, such as tables or JSON, is easy to index and search. A structured approach to work means having a plan, clear steps, and predictable results. Structured formats are the backbone of efficient data management and reliable software development.",
+    "synonyms": [
+      "organized",
+      "formatted",
+      "logical"
+    ],
+    "antonyms": [
+      "unstructured",
+      "random",
+      "chaotic"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structured",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management and processes",
+    "usageTip": "Use 'structured' to describe well-organized data or processes.",
+    "commonMistake": "Confusing 'structured' (organized) with 'complex' (intricate).",
+    "collocations": [
+      "structured data",
+      "structured approach",
+      "well-structured code"
+    ]
+  },
+  {
+    "word": "Structured",
+    "meaning": "Organized according to a clear plan or format",
+    "shortMeaning": "organized",
+    "example": "The data is stored in a structured format like SQL.",
+    "example2": "We need a more structured approach to code reviews.",
+    "example3": "Structured programming makes the logic easier to trace.",
+    "Explanation": "In IT, 'structured' refers to information or processes that are organized with rigid rules. A 'structured' database (like MySQL) requires data to be in specific columns and rows. This makes it very easy to search and manage but less flexible than 'unstructured' data (like text files). 'Structured' also applies to development methodologies and coding styles that follow set standards. This discipline is the foundation of clean, professional code. Always aim for structured designs for complex projects.",
+    "synonyms": [
+      "organized",
+      "formatted",
+      "ordered"
+    ],
+    "antonyms": [
+      "unstructured",
+      "chaotic",
+      "random"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management, coding, project management",
+    "usageTip": "Use 'structured' for data that has a strict format.",
+    "commonMistake": "Using structured data when a flexible format is better.",
+    "collocations": [
+      "structured data",
+      "structured programming"
+    ]
+  },
+  {
+    "word": "Structured",
+    "meaning": "Organized in a logical, formal, or predefined way.",
+    "shortMeaning": "organized",
+    "example": "We use structured data for SEO.",
+    "example2": "The project follows a structured approach.",
+    "example3": "The output is returned as structured JSON.",
+    "Explanation": "The word 'structured' means that data or processes are organized into a strict format, making them easy for computers to read. SQL is a classic example of 'Structured Query Language'. Unlike unstructured data (like free-form text), structured data has clear fields and relationships. It is the past participle of 'structure' and acts as an adjective. It is a fundamental term in IT because computers thrive on order. Use it whenever you are talking about formatted or organized information.",
+    "synonyms": [
+      "organized",
+      "formatted",
+      "ordered"
+    ],
+    "antonyms": [
+      "unstructured",
+      "random",
+      "chaotic"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structured",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data, programming, databases",
+    "usageTip": "Use 'structured' for data that has a defined format.",
+    "commonMistake": "Confusing 'structured' (a format) with 'simple'.",
+    "collocations": [
+      "structured data",
+      "structured query language",
+      "highly structured"
+    ]
+  }
+]

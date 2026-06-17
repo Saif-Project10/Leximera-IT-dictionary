@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Symptomatic",
+    "meaning": "Serving as a sign or symptom of something else",
+    "shortMeaning": "showing signs",
+    "example": "These errors are symptomatic of a deeper memory leak.",
+    "example2": "The slow speed is symptomatic of server overload.",
+    "example3": "Frequent crashes are symptomatic of poor code quality.",
+    "Explanation": "The word 'symptomatic' means that an observation is a sign or evidence of a larger problem. In IT, when you see a symptom—like a system slowing down—it is 'symptomatic' of an underlying root cause, such as a lack of resources. It is a vital word for diagnostics and debugging because it helps you connect surface-level observations to hidden system issues. It is not the problem itself, but rather the proof that a problem exists.",
+    "synonyms": [
+      "indicative",
+      "suggestive",
+      "characteristic"
+    ],
+    "antonyms": [
+      "unrelated",
+      "distinct"
+    ],
+    "nounForm": "symptom",
+    "verbForm": "N/A",
+    "adjectiveForm": "symptomatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, diagnostics, analysis",
+    "usageTip": "Use to link a surface issue to a deeper cause.",
+    "commonMistake": "Using 'symptomatic' to describe the root cause itself.",
+    "collocations": [
+      "symptomatic of",
+      "symptomatic error",
+      "symptomatic behavior"
+    ]
+  },
+  {
+    "word": "Symptomatic",
+    "meaning": "Acting as a sign or indication of a problem",
+    "shortMeaning": "indicative",
+    "example": "Slow load times are symptomatic of server congestion.",
+    "example2": "Errors were symptomatic of a failing drive.",
+    "example3": "The bug was symptomatic of poor testing processes.",
+    "Explanation": "In IT, 'symptomatic' is used to identify external behaviors that point to an underlying technical issue. When something is 'symptomatic', it is a clue that helps in debugging or diagnosis. It bridges the gap between what you observe (a symptom) and the actual root cause. It is a very useful word for professional technical communication, especially when reporting bugs or analyzing system health. Always look for the 'cause' behind the 'symptomatic' behavior.",
+    "synonyms": [
+      "indicative",
+      "suggestive",
+      "characteristic"
+    ],
+    "antonyms": [
+      "unrelated",
+      "normal",
+      "non-indicative"
+    ],
+    "nounForm": "symptom",
+    "verbForm": "N/A",
+    "adjectiveForm": "symptomatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, system analysis, troubleshooting",
+    "usageTip": "Use to connect a surface issue to a deeper cause.",
+    "commonMistake": "Using it to describe the cause itself, rather than the indicator of the cause.",
+    "collocations": [
+      "symptomatic of",
+      "symptomatic behavior",
+      "symptomatic error"
+    ]
+  }
+]

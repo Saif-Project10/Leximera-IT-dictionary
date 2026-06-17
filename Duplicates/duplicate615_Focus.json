@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Focus",
+    "meaning": "1. The center of interest or activity. 2. The clear and sharp quality of an image. 3. To concentrate attention or effort.",
+    "shortMeaning": "center of attention; to concentrate",
+    "example": "The focus of the meeting was on sales.",
+    "example2": "The camera automatically adjusts the focus.",
+    "example3": "You need to focus on your studies.",
+    "Explanation": "'Focus' is a key word in many fields. As a noun, it means the main point or the sharpness of a lens. As a verb, it means to direct your attention or resources towards something. The past tense is 'focused' (also 'focussed'). It is essential in discussions about goals, photography, science, and personal productivity. Being able to 'focus' is a critical skill for success in many areas.",
+    "synonyms": [
+      "concentration",
+      "center",
+      "heart",
+      "priority"
+    ],
+    "antonyms": [
+      "distraction",
+      "periphery",
+      "unfocus"
+    ],
+    "nounForm": "focus",
+    "verbForm": "focus",
+    "adjectiveForm": "focused",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Work, study, photography, goals, meetings",
+    "usageTip": "Use 'focus' as a verb when you mean to concentrate, and as a noun for the main subject.",
+    "commonMistake": "Using 'focus on' incorrectly (e.g., 'Focus in the problem' instead of 'Focus on the problem').",
+    "collocations": [
+      "main focus",
+      "focus group",
+      "focus on",
+      "lose focus"
+    ]
+  },
+  {
+    "word": "Focus",
+    "meaning": "The main point of interest or the act of giving all your attention to something",
+    "shortMeaning": "attention or center",
+    "example": "We need to focus on fixing the security bugs first.",
+    "example2": "The focus of today's meeting is the new website layout.",
+    "example3": "Click the input field to bring it into focus so you can type.",
+    "Explanation": "Focus can be used in two ways in IT. First, it refers to human attention—concentrating on a specific task. Second, in UI/UX design, 'focus' refers to which element on the screen is currently active (like a blinking cursor in a text box). When an element has 'focus', it receives input from the keyboard. Managing focus is vital for accessibility, ensuring users can navigate a site using only a keyboard.",
+    "synonyms": [
+      "concentration",
+      "center",
+      "priority"
+    ],
+    "antonyms": [
+      "distraction",
+      "neglect",
+      "blur"
+    ],
+    "nounForm": "focus",
+    "verbForm": "focus",
+    "adjectiveForm": "focused",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Productivity, UI design, and photography",
+    "usageTip": "In web dev, use 'focus' to describe the state of an input element.",
+    "commonMistake": "Using 'focus' only for eyes; in tech, it's a technical state of a user interface component.",
+    "collocations": [
+      "input focus",
+      "focus area",
+      "stay focused"
+    ]
+  }
+]

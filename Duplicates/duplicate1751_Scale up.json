@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Scale up",
+    "meaning": "Making a single machine more powerful by adding more RAM, CPU, or storage",
+    "shortMeaning": "vertical scaling",
+    "example": "We need to scale up the database server because it is running out of memory.",
+    "example2": "Scaling up is often easier but more expensive than scaling out.",
+    "example3": "The administrator decided to scale up the virtual machine to 16GB of RAM.",
+    "Explanation": "Scale up, or vertical scaling, means increasing the capacity of an existing piece of hardware. Instead of adding more servers, you make the one you have 'bigger'. For example, if your computer is slow, you might add more RAM—that is scaling up. This is usually the first step for small businesses because it doesn't require complex software changes. However, there is always a limit to how much a single machine can be improved, and it can be very expensive at high levels.",
+    "synonyms": [
+      "vertical scaling",
+      "upgrade hardware",
+      "increase capacity"
+    ],
+    "antonyms": [
+      "scale down",
+      "scale out"
+    ],
+    "nounForm": "scaling up",
+    "verbForm": "scale up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Server upgrades and local hardware management",
+    "usageTip": "Use this when you are making *one* computer stronger.",
+    "commonMistake": "Using 'scale up' to mean adding more users without changing hardware.",
+    "collocations": [
+      "scale up vertically",
+      "scale up strategy",
+      "need to scale up"
+    ]
+  },
+  {
+    "word": "Scale up",
+    "meaning": "To increase system capacity by adding more power, RAM, or CPU cores to a single existing server",
+    "shortMeaning": "make one machine bigger",
+    "example": "We decided to scale up our database server by upgrading its RAM memory to sixty-four gigabytes.",
+    "example2": "Scaling up is a quick fix, but a single server has physical size limits.",
+    "example3": "The administrator will scale up the virtual machine using the cloud dashboard interface.",
+    "Explanation": "The phrase 'Scale up' refers to vertical scaling in infrastructure management. It means making a single server stronger by installing faster processors, larger hard drives, or extra memory sticks. While scaling up is very easy to do because it does not require changes to your website's code structure, it has a major drawback: a single machine can only hold so much hardware before hitting a physical limit. Additionally, if that single upgraded machine suffers a hardware failure, the entire website goes offline instantly.",
+    "synonyms": [
+      "scale vertically",
+      "upgrade hardware",
+      "increase server size"
+    ],
+    "antonyms": [
+      "scale down",
+      "scale out",
+      "N/A"
+    ],
+    "nounForm": "vertical scaling",
+    "verbForm": "scale up",
+    "adjectiveForm": "scaled-up",
+    "partOfSpeech": "phrase (verb + adverb)",
+    "commonContext": "Database server upgrades, virtual machine configurations, initial cloud infrastructure steps",
+    "usageTip": "Use 'scale up' when you are addressing performance bottlenecks by making a single computer box more powerful.",
+    "commonMistake": "Using 'scale up' when you are actually adding separate new backup servers to your company network.",
+    "collocations": [
+      "scale up vertically",
+      "scale up hardware",
+      "choose to scale up"
+    ]
+  }
+]

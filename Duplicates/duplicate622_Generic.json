@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Generic",
+    "meaning": "Characteristic of or relating to a class or group of things; not specific or branded",
+    "shortMeaning": "general; not branded",
+    "example": "She bought the generic brand of medicine to save money.",
+    "example2": "His criticism was too generic to be helpful.",
+    "example3": "The description was very generic: 'a tall man'.",
+    "Explanation": "'Generic' means something is not specific to any particular brand, person, or instance. It describes the common characteristics shared by all members of a category. While similar to 'general', 'generic' often has a slightly negative connotation of being nondescript, plain, or lacking individuality (like generic products). In a positive sense, it can mean universal. It's a common word in marketing, law, and everyday description.",
+    "synonyms": [
+      "general",
+      "universal",
+      "non-specific",
+      "unbranded"
+    ],
+    "antonyms": [
+      "specific",
+      "particular",
+      "branded",
+      "unique"
+    ],
+    "nounForm": "genericity",
+    "verbForm": "N/A",
+    "adjectiveForm": "generic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Products, descriptions, medicine, language",
+    "usageTip": "Use 'generic' for products without a brand name, or for descriptions that lack specific details.",
+    "commonMistake": "Using 'generic' as a noun (e.g., 'a generic') to mean a generic product – this is informal.",
+    "collocations": [
+      "generic brand",
+      "generic term",
+      "generic version",
+      "generic name"
+    ]
+  },
+  {
+    "word": "Generic",
+    "meaning": "Common, standard, or not specific to a brand or context",
+    "shortMeaning": "standard or basic",
+    "example": "The error message is too generic to be helpful.",
+    "example2": "We used a generic function for the task.",
+    "example3": "Avoid using generic names for variables.",
+    "Explanation": "The word 'generic' means something that is not unique or specific. In software, a 'generic error' is one that doesn't explain the problem clearly. In programming, 'generic programming' is a style where code is written in a way that works for many types of data. While sometimes used as a negative (meaning boring or vague), it is also a powerful technical concept for creating reusable, flexible code.",
+    "synonyms": [
+      "standard",
+      "common",
+      "vague"
+    ],
+    "antonyms": [
+      "specific",
+      "unique",
+      "custom"
+    ],
+    "nounForm": "genericity",
+    "verbForm": "N/A",
+    "adjectiveForm": "generic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, UI/UX, documentation",
+    "usageTip": "Use 'generic' to describe standard, non-specific, or reusable items.",
+    "commonMistake": "Using 'generic' to sound negative when it is actually a useful programming pattern.",
+    "collocations": [
+      "generic error",
+      "generic function",
+      "too generic"
+    ]
+  }
+]

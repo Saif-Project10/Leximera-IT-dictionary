@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Insufficient",
+    "meaning": "Not enough; inadequate.",
+    "shortMeaning": "not enough",
+    "example": "There was insufficient evidence to convict him.",
+    "example2": "His income is insufficient to support a family.",
+    "example3": "The measures taken were insufficient to prevent the disaster.",
+    "Explanation": "'Insufficient' is a formal adjective meaning not sufficient or adequate in amount, quality, or degree. It's used to point out a shortfall or deficiency. It is the opposite of 'sufficient' or 'adequate'. The noun is 'insufficiency'. It's a common word in legal, academic, and technical contexts where precise thresholds matter (insufficient funds, insufficient data). It's a neutral, factual way to state that something falls below a required standard or need. It often implies that more is needed to achieve a goal.",
+    "synonyms": [
+      "inadequate",
+      "deficient",
+      "lacking"
+    ],
+    "antonyms": [
+      "sufficient",
+      "adequate",
+      "enough"
+    ],
+    "nounForm": "insufficiency",
+    "verbForm": "N/A",
+    "adjectiveForm": "insufficient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Evidence, resources, information, preparation",
+    "usageTip": "Often followed by 'for' (insufficient for the task) or 'to' (insufficient to prove).",
+    "commonMistake": "Confusing 'insufficient' (not enough) with 'inefficient' (wasteful).",
+    "collocations": [
+      "insfficient funds",
+      "insufficient reason",
+      "insufficiently prepared"
+    ]
+  },
+  {
+    "word": "Insufficient",
+    "meaning": "Not enough of something required",
+    "shortMeaning": "Not enough",
+    "example": "The server has insufficient memory for the task.",
+    "example2": "Insufficient permissions caused the error.",
+    "example3": "We have insufficient data to make a decision.",
+    "Explanation": "The word 'insufficient' means that the available amount of something (resources, time, data) is below the required level. It is an adjective. In IT, it is a common error indicator, such as 'insufficient memory' or 'insufficient disk space'. It implies a hard constraint that must be addressed, usually by increasing resources or changing configuration settings to lower requirements.",
+    "synonyms": [
+      "inadequate",
+      "lacking",
+      "scarce"
+    ],
+    "antonyms": [
+      "sufficient",
+      "adequate",
+      "ample"
+    ],
+    "nounForm": "insufficiency",
+    "verbForm": "N/A",
+    "adjectiveForm": "insufficient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Errors, resource management",
+    "usageTip": "Use when a resource is below the needed level.",
+    "commonMistake": "Using 'insufficient' when you actually mean 'empty'.",
+    "collocations": [
+      "insufficient memory",
+      "insufficient permissions",
+      "insufficient data"
+    ]
+  }
+]

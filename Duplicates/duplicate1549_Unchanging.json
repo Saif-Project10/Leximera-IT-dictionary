@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Unchanging",
+    "meaning": "Remaining the same; not changing or varying; constant",
+    "shortMeaning": "not changing; constant",
+    "example": "Her love for music has been unchanging throughout her life.",
+    "example2": "The unchanging routine of his days bored him.",
+    "example3": "The landscape appeared unchanging for miles.",
+    "Explanation": "'Unchanging' is an adjective that describes a state of permanence, stability, or lack of alteration over time. It can be used positively to describe steadfast principles, reliable qualities, or eternal truths. It can also be used negatively to describe monotony, stagnation, or resistance to necessary change. The word emphasizes duration and consistency. It is more absolute than 'stable' or 'consistent', suggesting a complete absence of change. In a world where change is constant, describing something as unchanging makes a strong statement about its nature. It is the opposite of 'changing', 'variable', or 'dynamic'.",
+    "synonyms": [
+      "constant",
+      "unvarying",
+      "stable",
+      "permanent",
+      "immutable"
+    ],
+    "antonyms": [
+      "changing",
+      "variable",
+      "fluctuating",
+      "dynamic",
+      "ephemeral"
+    ],
+    "nounForm": "unchangingness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanging",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing character, traditions, landscapes, scientific constants",
+    "usageTip": "Use for things that truly do not change over long periods, not just short-term stability.",
+    "commonMistake": "Confusing it with 'unchanged', which means not having been changed (yet) but could be.",
+    "collocations": [
+      "unchanging nature",
+      "unchanging truth",
+      "unchanging landscape",
+      "seemingly unchanging"
+    ]
+  },
+  {
+    "word": "Unchanging",
+    "meaning": "Not changing or developing",
+    "shortMeaning": "not altering",
+    "example": "The protocol relies on an unchanging set of rules.",
+    "example2": "Some hardware requires unchanging voltage levels.",
+    "example3": "The constant variable provides an unchanging reference.",
+    "Explanation": "Unchanging refers to something that is fixed and does not fluctuate. In IT, this often refers to constants in programming, hardcoded values, or core protocols that remain static over long periods. While software is usually dynamic, specific components like configuration templates or core algorithms may need to be unchanging to ensure consistent system behavior. It implies reliability and predictability for critical system operations.",
+    "synonyms": [
+      "static",
+      "constant",
+      "fixed"
+    ],
+    "antonyms": [
+      "dynamic",
+      "changing",
+      "variable"
+    ],
+    "nounForm": "unchangingness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanging",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, protocols, logic",
+    "usageTip": "Use to describe elements that must stay the same.",
+    "commonMistake": "Confusing unchanging (by design) with 'unchanged' (by chance).",
+    "collocations": [
+      "unchanging rule",
+      "unchanging constant",
+      "unchanging value"
+    ]
+  },
+  {
+    "word": "Unchanging",
+    "meaning": "Never changing; always staying the same.",
+    "shortMeaning": "always constant",
+    "example": "The rules of this protocol are unchanging.",
+    "example2": "He prefers an unchanging layout for his workstation.",
+    "example3": "Some core values of the system remain unchanging.",
+    "Explanation": "While 'unchanged' refers to a specific instance of something not being altered, 'unchanging' refers to a quality of something that is designed to stay constant over time. It suggests stability and reliability. In software, 'unchanging' might refer to a system architecture or a fundamental protocol that is meant to endure. It is a strong, positive word in engineering. It represents the foundation upon which other changes are built.",
+    "synonyms": [
+      "fixed",
+      "constant",
+      "static"
+    ],
+    "antonyms": [
+      "changeable",
+      "variable",
+      "dynamic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unchanging",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture and design principles",
+    "usageTip": "Use 'unchanging' for things that are meant to be permanent.",
+    "commonMistake": "Confusing 'unchanging' with 'stubborn'.",
+    "collocations": [
+      "unchanging rules",
+      "unchanging principles",
+      "remain unchanging"
+    ]
+  }
+]

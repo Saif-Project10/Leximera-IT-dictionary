@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Hypermedia",
+    "meaning": "An extension of hypertext that includes not just text, but images, video, and audio links",
+    "shortMeaning": "interactive multi-media",
+    "example": "The modern web is a hypermedia system because it combines text with interactive videos.",
+    "example2": "Hypermedia allows for a much richer learning experience than a simple textbook.",
+    "example3": "The game's menu is an example of hypermedia, using sound and animation as links.",
+    "Explanation": "Hypermedia is the logical evolution of 'hypertext.' While hypertext is just text with links, hypermedia includes any kind of media—graphics, audio, video, and plain text—that are all connected. For example, on a news site, you might click on an image to play a video, or click a sound icon to hear a translation. It makes the digital world 'non-linear' and 'interactive.' In software engineering, 'hypermedia' is also a technical term used in API design (REST), where the server tells the client what it can do next by sending links along with the data.",
+    "synonyms": [
+      "interactive media",
+      "multimedia linking"
+    ],
+    "antonyms": [
+      "linear media",
+      "static text"
+    ],
+    "nounForm": "hypermedia",
+    "verbForm": "N/A",
+    "adjectiveForm": "hypermedia",
+    "partOfSpeech": "noun",
+    "commonContext": "Web development, education, and digital art",
+    "usageTip": "Think of hypermedia as a 'choose-your-own-adventure' book that includes movies and sounds.",
+    "commonMistake": "Confusing 'multimedia' with 'hypermedia'; multimedia is just many types of media together, but hypermedia means they are *linked* and clickable.",
+    "collocations": [
+      "hypermedia system",
+      "hypermedia environment",
+      "adaptive hypermedia"
+    ]
+  },
+  {
+    "word": "Hypermedia",
+    "meaning": "Media that includes hyperlinks to other information",
+    "shortMeaning": "Linked digital media",
+    "example": "The API uses hypermedia to link related resources.",
+    "example2": "Hypermedia allows users to navigate information easily.",
+    "example3": "Modern web apps rely on hypermedia for navigation.",
+    "Explanation": "Hypermedia extends the concept of hypertext by including not just text, but also graphics, audio, and video that are connected via links. It is a core concept in RESTful API design, where hypermedia controls provide the client with navigation paths. It functions as a noun. It is essential for creating dynamic, discoverable, and interconnected web applications in modern software development.",
+    "synonyms": [
+      "interactive media",
+      "linked content"
+    ],
+    "antonyms": [
+      "static media"
+    ],
+    "nounForm": "hypermedia",
+    "verbForm": "N/A",
+    "adjectiveForm": "hypermedia",
+    "partOfSpeech": "noun",
+    "commonContext": "Web architecture, REST APIs",
+    "usageTip": "Use to describe content or interfaces that use links for navigation.",
+    "commonMistake": "Confusing hypermedia with simple multimedia.",
+    "collocations": [
+      "hypermedia links",
+      "hypermedia API",
+      "hypermedia format"
+    ]
+  }
+]

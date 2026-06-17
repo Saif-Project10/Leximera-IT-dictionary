@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Event-driven",
+    "meaning": "A programming paradigm where the flow of the program is determined by events such as user actions, sensor outputs, or messages.",
+    "shortMeaning": "responding to events",
+    "example": "Graphical user interfaces are typically event-driven.",
+    "example2": "The application uses an event-driven architecture to handle real-time data.",
+    "example3": "In event-driven programming, you write code that reacts to specific events.",
+    "Explanation": "'Event-driven' is a compound adjective used primarily in computer science and software engineering. It describes systems, programs, or architectures that are designed to respond to external events (like a mouse click, a keystroke, or a message arrival) rather than following a predetermined sequential flow. This paradigm is fundamental to modern interactive applications, web development, and distributed systems. It allows for responsive and non-blocking program behavior. It's a key technical concept for understanding how most software you interact with works.",
+    "synonyms": [
+      "reactive",
+      "message-driven"
+    ],
+    "antonyms": [
+      "procedural",
+      "sequential",
+      "batch-driven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "event-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, programming, system design",
+    "usageTip": "Always hyphenate. It's a technical descriptor for a style of programming or system design.",
+    "commonMistake": "Using it in a non-technical context to mean 'caused by events'; its meaning is specific to computing.",
+    "collocations": [
+      "event-driven programming",
+      "event-driven architecture",
+      "event-driven system"
+    ]
+  },
+  {
+    "word": "Event-driven",
+    "meaning": "A style of programming where the flow is determined by user actions or messages",
+    "shortMeaning": "reacting to messages",
+    "example": "JavaScript is a classic example of an event-driven language.",
+    "example2": "Our microservices use an event-driven design to stay decoupled.",
+    "example3": "Event-driven systems are better for scalable environments.",
+    "Explanation": "Event-driven refers to a software architecture where the system continuously waits for events (like clicks, keypresses, or network messages) to trigger functions. It allows different parts of a system to communicate without being tightly coupled. This is standard in UI design and serverless computing. It is vital for building complex, interactive applications that can handle many concurrent users.",
+    "synonyms": [
+      "reactive",
+      "message-oriented"
+    ],
+    "antonyms": [
+      "synchronous",
+      "procedural"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "event-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, UI/UX, microservices",
+    "usageTip": "Use when describing how an entire application handles flow.",
+    "commonMistake": "Confusing 'event-driven' with 'polling' (which is proactive).",
+    "collocations": [
+      "event-driven architecture",
+      "event-driven design",
+      "event-driven model"
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unidentified",
+    "meaning": "Not recognized or known; not identified.",
+    "shortMeaning": "unknown",
+    "example": "An unidentified flying object (UFO) was reported last night.",
+    "example2": "The victim remains unidentified.",
+    "example3": "The call came from an unidentified number.",
+    "Explanation": "The adjective 'unidentified' describes a person or thing whose name, nature, or origin is not known. It is used in contexts of mystery, investigation, and anonymity. 'Unidentified' objects or people are subjects of curiosity or concern until they are identified. It is a common term in news reports (unidentified body), aviation (unidentified aircraft), and everyday life (unidentified caller). It emphasizes a lack of knowledge that is often sought to be resolved. The verb is 'identify'. It is more mysterious than 'unlabeled'.",
+    "synonyms": [
+      "unknown",
+      "unnamed",
+      "anonymous",
+      "mysterious",
+      "incognito"
+    ],
+    "antonyms": [
+      "identified",
+      "known",
+      "named",
+      "recognized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "identify",
+    "adjectiveForm": "unidentified",
+    "partOfSpeech": "adjective",
+    "commonContext": "News, aviation, mysteries, emergencies",
+    "usageTip": "Famously used in the acronym UFO (Unidentified Flying Object).",
+    "commonMistake": "Using it for inanimate objects that are simply unlabeled; 'unidentified' implies an active effort to know the identity has failed.",
+    "collocations": [
+      "unidentified body",
+      "unidentified object",
+      "unidentified caller",
+      "remain unidentified"
+    ]
+  },
+  {
+    "word": "Unidentified",
+    "meaning": "Not recognized, labeled, or verified",
+    "shortMeaning": "unknown",
+    "example": "The security team found an unidentified device on the network.",
+    "fantasy2": "An unidentified error occurred during the system scan.",
+    "example3": "Many unidentified processes were running in the background.",
+    "Explanation": "In IT, 'unidentified' refers to hardware, software, or network connections that are active but not known to the administrator. This is a common security concern. For instance, an unidentified device on your corporate Wi-Fi could be an intruder. Similarly, an unidentified file could be a virus. You should always investigate and identify anything that is running on your system to maintain security. It is a standard term used in threat monitoring and system health reporting. Always treat unidentified items with suspicion until proven otherwise.",
+    "synonyms": [
+      "unknown",
+      "unrecognized",
+      "anonymous"
+    ],
+    "antonyms": [
+      "identified",
+      "known",
+      "recognized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unidentified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network security, threat intelligence, system auditing",
+    "usageTip": "Use this when reporting suspicious network activity.",
+    "commonMistake": "Ignoring unidentified alerts in system logs.",
+    "collocations": [
+      "unidentified device",
+      "unidentified process",
+      "unidentified error"
+    ]
+  },
+  {
+    "word": "Unidentified",
+    "meaning": "Not recognized or not able to be named or identified.",
+    "shortMeaning": "unknown",
+    "example": "The network detected an unidentified device connected to the router.",
+    "example2": "The error was caused by an unidentified process in the background.",
+    "example3": "The folder contained several unidentified files.",
+    "Explanation": "The term 'unidentified' is used when something is present but its nature, origin, or purpose is unknown. In IT, this often applies to hardware, network connections, or software processes that do not match known records. It can also refer to objects in a program that haven't been categorized yet. Security teams look for unidentified activity as a potential sign of a breach. Once identified, the object is typically documented and managed.",
+    "synonyms": [
+      "unknown",
+      "unrecognized",
+      "anonymous"
+    ],
+    "antonyms": [
+      "identified",
+      "recognized",
+      "labeled"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "identify",
+    "adjectiveForm": "unidentified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network security and system troubleshooting",
+    "usageTip": "Use 'unidentified' to highlight a lack of information.",
+    "commonMistake": "Confusing it with 'unauthorized', which implies permission issues.",
+    "collocations": [
+      "unidentified device",
+      "unidentified process",
+      "unidentified error"
+    ]
+  }
+]

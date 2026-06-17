@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Simplex",
+    "meaning": "A communication mode where data flows in only one direction.",
+    "shortMeaning": "one-way communication",
+    "example": "A television broadcast system is a typical simplex connection.",
+    "example2": "The sensor sends data using a simplex channel.",
+    "example3": "Simplex communication does not support receiving data.",
+    "Explanation": "The term 'simplex' describes a transmission mode where a signal is sent in one direction only, with no return path. It is common in hardware devices like keyboards, monitors, or simple sensors that only send information to a controller. It differs from duplex, which allows two-way communication. It is a fundamental concept in networking and hardware communication protocols.",
+    "synonyms": [
+      "one-way",
+      "unidirectional"
+    ],
+    "antonyms": [
+      "duplex",
+      "bidirectional"
+    ],
+    "nounForm": "simplex",
+    "verbForm": "N/A",
+    "adjectiveForm": "simplex",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking and hardware communication",
+    "usageTip": "Use 'simplex' when referring to unidirectional data transfer.",
+    "commonMistake": "Confusing 'simplex' with 'half-duplex' (which can go both ways but not simultaneously).",
+    "collocations": [
+      "simplex channel",
+      "simplex mode",
+      "simplex transmission"
+    ]
+  },
+  {
+    "word": "Simplex",
+    "meaning": "Communication in only one direction",
+    "shortMeaning": "one-way comms",
+    "example": "The radio transmission is a simplex channel.",
+    "example2": "In a simplex system, data cannot flow back.",
+    "example3": "Simplex mode is used for basic sensor monitoring.",
+    "Explanation": "A 'simplex' system allows communication in only one direction, like a radio broadcast where the receiver cannot talk back to the sender. This is distinct from 'duplex' systems, which allow two-way communication. It is a technical term used in networking and telecommunications hardware. There is no common verb or noun form beyond the term itself. It is a very specific type of data link.",
+    "synonyms": [
+      "one-way",
+      "unidirectional"
+    ],
+    "antonyms": [
+      "duplex",
+      "bidirectional",
+      "two-way"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "simplex",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Networking, telecommunications",
+    "usageTip": "Use 'simplex' specifically for one-way communication hardware.",
+    "commonMistake": "Confusing 'simplex' with 'simple' (they have different meanings).",
+    "collocations": [
+      "simplex channel",
+      "simplex communication",
+      "simplex mode"
+    ]
+  }
+]

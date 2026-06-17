@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Compiled",
+    "meaning": "Collected and put together information, data, or material from various sources into a list, report, or book",
+    "shortMeaning": "gathered into one",
+    "example": "The data was compiled from hundreds of surveys.",
+    "example2": "She compiled a list of recommended books.",
+    "example3": "The report was compiled by a team of experts.",
+    "Explanation": "The verb (past tense) and adjective 'compiled' refers to the action of gathering information from different places and assembling it into a single, organized whole, like a list, report, or database. It implies research, selection, and synthesis. In computing, it means to translate source code into machine code. The noun form is 'compilation'. It's a common word in research, publishing, and software.",
+    "synonyms": [
+      "assembled",
+      "gathered",
+      "collected",
+      "amassed"
+    ],
+    "antonyms": [
+      "scattered",
+      "dispersed",
+      "dissipated"
+    ],
+    "nounForm": "compilation",
+    "verbForm": "compile",
+    "adjectiveForm": "compiled",
+    "partOfSpeech": "adjective / verb (past)",
+    "commonContext": "Research, reports, statistics, software, music albums",
+    "usageTip": "Often followed by 'from': 'compiled from various sources'.",
+    "commonMistake": "Using 'complied' (meaning obeyed) instead of 'compiled'.",
+    "collocations": [
+      "compiled by",
+      "compiled data",
+      "compiled a report",
+      "compiled list"
+    ]
+  },
+  {
+    "word": "Compiled",
+    "meaning": "Transformed from human-readable source code into a machine-readable format",
+    "shortMeaning": "processed code",
+    "example": "The C++ program must be compiled before it can be run on the server.",
+    "example2": "We compiled the entire application into a single executable file for easy distribution.",
+    "example3": "The compiler errors occurred while the code was being compiled during the build process.",
+    "Explanation": "The word 'Compiled' describes the state of code that has been turned into binary or machine-level instructions by a compiler. This is a fundamental concept in languages like C, C++, or Java. It is a past-tense verb or descriptive adjective. Compiled programs generally run much faster than interpreted scripts because they are optimized for the hardware. It is important to know if a project is 'compiled' or 'interpreted' when choosing debugging tools. Do not confuse it with simply 'saving' or 'gathering' files.",
+    "synonyms": [
+      "processed",
+      "built",
+      "executable"
+    ],
+    "antonyms": [
+      "interpreted",
+      "source",
+      "unprocessed"
+    ],
+    "nounForm": "compilation",
+    "verbForm": "compile",
+    "adjectiveForm": "compiled",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Software engineering, build processes, compiler theory",
+    "usageTip": "Use 'compiled' to refer to code that has successfully passed through the compiler.",
+    "commonMistake": "Using 'compiled' for languages like Python, which are typically interpreted.",
+    "collocations": [
+      "compiled code",
+      "compiled language",
+      "successfully compiled"
+    ]
+  }
+]

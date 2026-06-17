@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Subtle",
+    "meaning": "Not obvious, loud, or easy to notice; delicate and precise.",
+    "shortMeaning": "not obvious",
+    "example": "There was a subtle change in his tone of voice that suggested he was unhappy.",
+    "example2": "The painting uses subtle shades of blue and grey.",
+    "example3": "The joke was so subtle that many people missed it.",
+    "Explanation": "The word 'subtle' describes something that is not blatant or direct. It refers to slight differences, fine details, or indirect hints that require careful observation or thought to perceive. It can apply to tastes, smells, colors, changes, humor, or influences. For example, a subtle flavor is not strong but complex. A subtle hint is not clear but suggestive. It often has a positive connotation, implying sophistication or cleverness. The opposite is 'obvious' or 'blatant'. Understanding subtlety is important for appreciating art, communication, and social interactions.",
+    "synonyms": [
+      "slight",
+      "delicate",
+      "understated",
+      "nuanced"
+    ],
+    "antonyms": [
+      "obvious",
+      "blatant",
+      "clear",
+      "strong"
+    ],
+    "nounForm": "subtlety",
+    "verbForm": "N/A",
+    "adjectiveForm": "subtle",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing differences, art, flavors, communication, changes",
+    "usageTip": "Use it to describe things that are not immediately apparent but can be noticed with attention.",
+    "commonMistake": "Spelling it incorrectly (e.g., 'suttle'). Remember the silent 'b'.",
+    "collocations": [
+      "subtle difference",
+      "subtle hint",
+      "subtle flavor",
+      "subtle change"
+    ]
+  },
+  {
+    "word": "Subtle",
+    "meaning": "Hard to notice, delicate, or not obvious",
+    "shortMeaning": "not obvious",
+    "example": "The bug had a subtle effect on the UI.",
+    "example2": "Use subtle gradients for a luxury look.",
+    "example3": "It is a subtle change, but very important.",
+    "Explanation": "The word 'subtle' describes something that is small, refined, or difficult to see at first glance. In UI/UX, 'subtle' effects (like soft shadows or tiny transitions) make an app look premium and professional. In debugging, 'subtle' bugs are the most dangerous because they don't cause a system crash immediately but slowly corrupt data or cause weird behavior over time. Developing a good eye for 'subtle' details is what separates an amateur developer from an expert professional.",
+    "synonyms": [
+      "delicate",
+      "faint",
+      "refined"
+    ],
+    "antonyms": [
+      "obvious",
+      "clear",
+      "blatant"
+    ],
+    "nounForm": "subtlety",
+    "verbForm": "N/A",
+    "adjectiveForm": "subtle",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, debugging",
+    "usageTip": "Use 'subtle' for things that are not clearly visible.",
+    "commonMistake": "Thinking 'subtle' means 'not important'.",
+    "collocations": [
+      "subtle design",
+      "subtle bug"
+    ]
+  }
+]

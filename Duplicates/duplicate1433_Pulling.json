@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Pulling",
+    "meaning": "Exerting force to move something towards oneself; or attracting",
+    "shortMeaning": "tugging or attracting",
+    "example": "He was pulling the heavy cart.",
+    "example2": "The new show is pulling large audiences.",
+    "example3": "Stop pulling my leg! (teasing)",
+    "Explanation": "'Pulling' is the present participle of the verb 'pull'. Its basic meaning is to use force to move something closer or in a specific direction. It has many phrasal verb uses (pull out, pull over, pull through). Figuratively, it can mean to attract (pull a crowd) or to strain (pull a muscle). It's a very common action verb. The opposite is 'pushing'. It's used in countless physical and metaphorical contexts in everyday English.",
+    "synonyms": [
+      "tugging",
+      "dragging",
+      "attracting"
+    ],
+    "antonyms": [
+      "pushing",
+      "repelling"
+    ],
+    "nounForm": "pull",
+    "verbForm": "pull",
+    "adjectiveForm": "pulling",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Physical actions, marketing, sports injuries",
+    "usageTip": "Often used with an object (pull a door, pull a cord).",
+    "commonMistake": "Confusing 'pull' with 'draw'. 'Pull' is more physical force; 'draw' can be more gentle or metaphorical.",
+    "collocations": [
+      "pulling power",
+      "pulling together",
+      "pulling out"
+    ]
+  },
+  {
+    "word": "Pulling",
+    "meaning": "The act of requesting data or fetching it from a repository.",
+    "shortMeaning": "requesting data",
+    "example": "The script is pulling data from the API every five minutes.",
+    "example2": "He is currently pulling the latest changes from the master branch.",
+    "example3": "Pulling logs manually is very time-consuming.",
+    "Explanation": "In IT, 'pulling' means actively retrieving something. It is very common in version control (git pull) and data integration. You are telling a remote system, 'give me your data now'. It differs from 'pushing', where you send data to another place. Understanding the direction of data flow (push vs. pull) is a fundamental skill for system administration, networking, and software development workflows.",
+    "synonyms": [
+      "fetching",
+      "retrieving",
+      "requesting"
+    ],
+    "antonyms": [
+      "pushing",
+      "sending"
+    ],
+    "nounForm": "pull",
+    "verbForm": "pull",
+    "adjectiveForm": "pulling",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Version control, data integration",
+    "usageTip": "Use when talking about retrieving information from a repository.",
+    "commonMistake": "Mixing up the direction of 'pulling' and 'pushing'.",
+    "collocations": [
+      "pulling data",
+      "pulling changes",
+      "pulling from repository"
+    ]
+  }
+]

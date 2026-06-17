@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stationary",
+    "meaning": "Not moving; fixed in one position.",
+    "shortMeaning": "not moving",
+    "example": "The security camera is stationary, monitoring one door.",
+    "example2": "Keep the server rack stationary to prevent cable tension.",
+    "example3": "The robot is stationary while it processes the object.",
+    "Explanation": "The word 'stationary' describes something that does not move. In IT, this can refer to fixed hardware, servers that do not change location, or elements in a user interface that stay in place (like a pinned navigation bar). Being stationary makes maintenance easier and reduces risks associated with physical movement, such as cable disconnections or component vibration. It is important to distinguish this from 'static', which refers to unchanging properties rather than physical position.",
+    "synonyms": [
+      "fixed",
+      "still",
+      "motionless"
+    ],
+    "antonyms": [
+      "mobile",
+      "moving",
+      "portable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "stationary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, UI design, robotics",
+    "usageTip": "Use 'stationary' to describe items that do not move.",
+    "commonMistake": "Confusing 'stationary' (fixed) with 'stationery' (writing supplies).",
+    "collocations": [
+      "stationary camera",
+      "stationary position",
+      "stationary object"
+    ]
+  },
+  {
+    "word": "Stationary",
+    "meaning": "Not moving; staying in one place",
+    "shortMeaning": "not moving",
+    "example": "The server remains stationary in its rack within the data center.",
+    "example2": "The stationary camera captures the entrance of the office.",
+    "example3": "A stationary object is easy to track in computer vision.",
+    "Explanation": "The word 'stationary' describes something that is not in motion. In IT, this usually refers to hardware or devices that are fixed in location, like servers, sensors, or office equipment. It is the opposite of 'mobile' or 'portable' hardware. Understanding which devices are stationary helps in planning network topology and security. It is a straightforward adjective used to define physical constraints of equipment.",
+    "synonyms": [
+      "fixed",
+      "immobile",
+      "still"
+    ],
+    "antonyms": [
+      "mobile",
+      "portable",
+      "moving"
+    ],
+    "nounForm": "station",
+    "verbForm": "N/A",
+    "adjectiveForm": "stationary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, IoT, security",
+    "usageTip": "Use 'stationary' to describe equipment that does not change its location.",
+    "commonMistake": "Confusing it with 'stationery' (office supplies like paper).",
+    "collocations": [
+      "stationary server",
+      "stationary device",
+      "stationary position"
+    ]
+  }
+]

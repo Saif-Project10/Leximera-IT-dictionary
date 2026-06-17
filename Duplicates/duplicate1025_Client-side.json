@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Client-side",
+    "meaning": "Referring to operations or processes that are performed on the user's own computer or device rather than on a remote server.",
+    "shortMeaning": "on the user's device",
+    "example": "Client-side validation checks data in the web browser before sending it to the server.",
+    "example2": "JavaScript is a common language for client-side scripting.",
+    "example3": "The game's graphics are rendered client-side for better performance.",
+    "Explanation": "'Client-side' is an adjective used in computing, especially web development. It describes code, processing, or storage that happens on the 'client'—the end-user's device (like a laptop or phone). This is opposed to 'server-side', which happens on a remote computer. Client-side tasks include rendering web pages, validating form input, and running interactive features. It improves responsiveness but relies on the user's device capabilities and can be less secure for sensitive operations.",
+    "synonyms": [
+      "front-end",
+      "browser-side"
+    ],
+    "antonyms": [
+      "server-side",
+      "back-end"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-side",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, software architecture, networking",
+    "usageTip": "Always hyphenate. It's a key technical distinction in how applications are built and where work is done.",
+    "commonMistake": "Using 'client-side' to refer to business relationships; it's a technical term about where code runs.",
+    "collocations": [
+      "client-side rendering",
+      "client-side cache",
+      "client-side code"
+    ]
+  },
+  {
+    "word": "Client-side",
+    "meaning": "Occurring or executing on the user's local device or web browser rather than on the remote web server",
+    "shortMeaning": "happening in the browser or local app",
+    "example": "We used JavaScript to perform client-side validation on the email form field.",
+    "example2": "Client-side performance depends heavily on the user's local CPU power.",
+    "example3": "The client-side code is entirely visible to anyone who inspects the webpage.",
+    "Explanation": "The word 'client-side' is an essential adjective in web development. It refers to everything that takes place directly in the user's web browser. Languages like HTML, CSS, and Vanilla JavaScript are executed client-side. Performing operations client-side results in a fast, responsive user experience since it cuts down on server wait times. However, security-critical tasks like password verification must never rely solely on client-side logic, because users can modify code running in their own browser.",
+    "synonyms": [
+      "frontend",
+      "local execution",
+      "browser-side"
+    ],
+    "antonyms": [
+      "server-side",
+      "backend"
+    ],
+    "nounForm": "client",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-side",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Frontend web development, UI interactions, and browser performance optimization",
+    "usageTip": "Use 'client-side' when discussing UI changes, animations, or form validations that happen instantly in the browser.",
+    "commonMistake": "Trusting client-side validation for security purposes; malicious users can easily bypass client-side code.",
+    "collocations": [
+      "client-side validation",
+      "client-side scripting",
+      "client-side framework"
+    ]
+  }
+]

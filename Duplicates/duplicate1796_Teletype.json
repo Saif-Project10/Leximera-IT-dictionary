@@ -1,0 +1,120 @@
+[
+  {
+    "word": "Teletype",
+    "meaning": "An old machine used for sending and receiving typed messages over a wire",
+    "shortMeaning": "typing telegraph",
+    "example": "News agencies used a teletype to send stories to newspapers.",
+    "example2": "The computer room was filled with the loud clicking of the teletype.",
+    "example3": "The teletype machine printed the weather report automatically.",
+    "Explanation": "Teletype, often called a TTY, is an electromechanical typewriter that communicates over a network. It was used long before modern computer monitors existed to input data and print output. In the early days of computing, users typed commands on a teletype and read the computer's response on paper. The term 'TTY' is still used in modern operating systems like Linux to refer to terminal windows. It represents the foundation of text-based human-computer interaction.",
+    "synonyms": [
+      "teleprinter",
+      "teletypewriter",
+      "TTY"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "teletype",
+    "verbForm": "teletype",
+    "adjectiveForm": "teletype",
+    "partOfSpeech": "noun",
+    "commonContext": "Historical computing and communication",
+    "usageTip": "Use 'TTY' when referring to modern software terminal emulators in a technical context.",
+    "commonMistake": "Thinking it is a modern printer; it is an input/output communication device.",
+    "collocations": [
+      "teletype machine",
+      "teletype terminal",
+      "teletype network"
+    ]
+  },
+  {
+    "word": "Teletype",
+    "meaning": "A machine used to send and receive typed messages over a network.",
+    "shortMeaning": "typed-network-msg",
+    "example": "The system was originally built using a teletype interface.",
+    "example2": "We still see the 'tty' abbreviation in Linux terminal commands.",
+    "example3": "The teletype was the standard way to input commands.",
+    "Explanation": "A 'teletype' (or TTY) is a classic electromechanical machine that was used to send and receive text over a network. It is the direct ancestor of the modern computer terminal. In modern Linux and Unix, 'tty' refers to the terminal interface. While the hardware is obsolete, the concept and the 'tty' abbreviation are very much alive in command-line interfaces. Understanding teletype helps in understanding the basics of terminal I/O.",
+    "synonyms": [
+      "TTY",
+      "terminal",
+      "teleprinter"
+    ],
+    "antonyms": [
+      "GUI",
+      "graphical-interface"
+    ],
+    "nounForm": "teletype",
+    "verbForm": "N/A",
+    "adjectiveForm": "teletype",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "History, Linux/Unix, command-line",
+    "usageTip": "Use 'teletype' when discussing terminal history or the 'tty' command.",
+    "commonMistake": "Confusing 'teletype' with a modern keyboard.",
+    "collocations": [
+      "teletype machine",
+      "teletype interface",
+      "tty command"
+    ]
+  },
+  {
+    "word": "Teletype",
+    "meaning": "An electronic device used to send and receive typed messages over a network",
+    "shortMeaning": "typed messaging device",
+    "example": "They communicated using a teletype machine.",
+    "example2": "The logs were printed on a teletype terminal.",
+    "example3": "Modern email is the successor to teletype.",
+    "Explanation": "The word 'teletype' (or TTY) refers to an electromechanical machine used to send and receive text messages via wire. It was essentially an early remote printer/keyboard setup. In modern computing (like Linux/Unix), you will still see references to 'tty' when dealing with terminal sessions. The word is used both for the physical machine and as a descriptor for text-based terminal sessions. It is foundational to the history of computer communication.",
+    "synonyms": [
+      "terminal",
+      "teleprinter",
+      "messaging device"
+    ],
+    "antonyms": [
+      "N/A",
+      "graphical interface"
+    ],
+    "nounForm": "teletype",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Computing history, operating systems (Unix/Linux), telecommunications",
+    "usageTip": "Use 'teletype' (or 'tty') when referring to text-based terminal sessions.",
+    "commonMistake": "Ignoring its history; it's an old term still used in modern OS.",
+    "collocations": [
+      "teletype machine",
+      "teletype terminal",
+      "tty session"
+    ]
+  },
+  {
+    "word": "Teletype",
+    "meaning": "An early electromechanical typewriter device used to send and receive typed text messages over simple communication channels",
+    "shortMeaning": "early text terminal",
+    "example": "Modern computer terminals still use the abbreviation TTY, which stands for teletype hardware.",
+    "example2": "The museum displays an old teletype machine used for processing telegram communications.",
+    "example3": "Early developers used a teletype device to type input code commands directly into mainframes.",
+    "Explanation": "The word 'teletype' refers to historical terminal hardware that laid the groundwork for modern command-line user interfaces. In early computing, there were no monitor screens; instead, developers typed inputs into a teletype keyboard, and the computer printed out responses on real rolls of paper. Today, Linux operating systems still inherit this architecture via virtual terminals known as 'TTY' (Teletypewriter). Understanding this legacy helps web developers grasp how text data streams behave inside backend shell terminals.",
+    "synonyms": [
+      "teletypewriter",
+      "TTY",
+      "teleprinter"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "teletype / teletypewriter",
+    "verbForm": "teletype",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Linux terminal systems, computing history, command-line interfaces",
+    "usageTip": "Mention 'teletype' when explaining the history of command-line terminals and the origin of the Linux 'tty' command.",
+    "commonMistake": "Thinking 'teletype' is a modern software application; it is an ancient physical hardware machine concept.",
+    "collocations": [
+      "teletype terminal",
+      "old teletype machine",
+      "teletype system output"
+    ]
+  }
+]

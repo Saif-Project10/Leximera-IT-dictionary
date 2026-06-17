@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unexpected",
+    "meaning": "Not planned, predicted, or normal behavior for a system",
+    "shortMeaning": "surprising",
+    "example": "The system shut down due to an unexpected error.",
+    "example2": "Unexpected traffic caused the website to crash.",
+    "example3": "We handled the unexpected input with a custom exception.",
+    "Explanation": "In IT, 'unexpected' refers to any event that deviates from the normal operating parameters. This includes crashes, bugs, sudden spikes in traffic, or unhandled user inputs. Designing software to handle the 'unexpected' is a sign of robust programming. When you write code, you should always expect the unexpected by using error handling blocks like 'try-catch'. Being prepared for these occurrences minimizes downtime and improves the overall reliability of the application. It is a fundamental aspect of fault-tolerant design.",
+    "synonyms": [
+      "unforeseen",
+      "unpredicted",
+      "abnormal"
+    ],
+    "antonyms": [
+      "expected",
+      "planned",
+      "normal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unexpected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, system reliability, error handling",
+    "usageTip": "Use this when reporting bugs or system failures.",
+    "commonMistake": "Ignoring the possibility of unexpected inputs.",
+    "collocations": [
+      "unexpected error",
+      "unexpected behavior",
+      "unexpected shutdown"
+    ]
+  },
+  {
+    "word": "Unexpected",
+    "meaning": "Not expected; surprising",
+    "shortMeaning": "surprising",
+    "example": "The program crashed due to an unexpected error.",
+    "example2": "He encountered unexpected results during the test.",
+    "example3": "An unexpected reboot caused some data loss.",
+    "Explanation": "The word 'unexpected' is standard in IT for describing events that were not foreseen. An 'unexpected error' is a classic term for bugs or issues that were not covered by existing code logic. It implies that the system behavior went outside the planned parameters. It is important to log unexpected events to improve system robustness. This word is essential in incident reports to describe why a failure occurred.",
+    "synonyms": [
+      "surprising",
+      "unforeseen",
+      "unplanned"
+    ],
+    "antonyms": [
+      "expected",
+      "planned",
+      "predicted"
+    ],
+    "nounForm": "unexpectedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unexpected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Error handling and system incidents",
+    "usageTip": "Use for errors or events that were not anticipated.",
+    "commonMistake": "Using 'unexpected' for everything when 'unplanned' is more precise.",
+    "collocations": [
+      "unexpected error",
+      "unexpected result",
+      "unexpected behavior"
+    ]
+  }
+]

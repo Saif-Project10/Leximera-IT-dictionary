@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Serverless",
+    "meaning": "A cloud computing model where the cloud provider manages the server infrastructure and dynamically allocates resources only when a piece of code is executed.",
+    "shortMeaning": "cloud model without managing servers",
+    "example": "They built the image processing feature using a serverless function.",
+    "example2": "Serverless computing can reduce costs for applications with variable traffic.",
+    "example3": "AWS Lambda is a popular serverless platform.",
+    "Explanation": "'Serverless' is a somewhat misleading term—servers are still involved, but the developer does not see, manage, or provision them. You write code (often as small functions), and the cloud provider runs it in response to events (like an HTTP request or file upload). You pay only for the compute time you consume. It eliminates the need to plan capacity and manage operating systems. It's ideal for event-driven, sporadic workloads and building microservices.",
+    "synonyms": [
+      "Function as a Service (FaaS)"
+    ],
+    "antonyms": [
+      "serverful",
+      "bare-metal",
+      "traditional hosting"
+    ],
+    "nounForm": "Serverless",
+    "verbForm": "N/A",
+    "adjectiveForm": "serverless",
+    "partOfSpeech": "adjective / noun (technical term)",
+    "commonContext": "Cloud computing, event-driven applications, backend development",
+    "usageTip": "Use it to describe an architecture where you focus on code, not servers. Often paired with 'functions' or 'computing'.",
+    "commonMistake": "Thinking serverless means no servers. It means no server *management* for the developer.",
+    "collocations": [
+      "serverless architecture",
+      "serverless function",
+      "go serverless"
+    ]
+  },
+  {
+    "word": "Serverless",
+    "meaning": "Cloud computing model where the cloud provider manages server allocation",
+    "shortMeaning": "no server management",
+    "example": "We moved our API to a serverless architecture.",
+    "example2": "Serverless functions are great for scaling automatically.",
+    "example3": "The cost of serverless is based on usage.",
+    "Explanation": "The term 'serverless' is a bit confusing because servers are still used, but the developer doesn't have to manage or configure them. The cloud provider handles the infrastructure, and code is run in response to events. This allows developers to focus only on their code. It is highly scalable and cost-effective because you only pay when your code actually runs. It is a very popular modern trend in web development. Remember that 'serverless' means 'no manual server management'.",
+    "synonyms": [
+      "FaaS",
+      "cloud-native"
+    ],
+    "antonyms": [
+      "dedicated server",
+      "on-premise"
+    ],
+    "nounForm": "serverless computing",
+    "verbForm": "N/A",
+    "adjectiveForm": "serverless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, architecture",
+    "usageTip": "Use to explain that you don't need to manage server hardware.",
+    "commonMistake": "Thinking there are literally no servers involved.",
+    "collocations": [
+      "serverless architecture",
+      "serverless function",
+      "serverless computing"
+    ]
+  },
+  {
+    "word": "Serverless",
+    "meaning": "A cloud computing model where the cloud provider manages the infrastructure, so the developer does not need to manage servers.",
+    "shortMeaning": "no server management",
+    "example": "We deployed our backend code to a serverless environment.",
+    "example2": "Serverless architecture can reduce operational costs significantly.",
+    "example3": "The function runs in a serverless container when triggered.",
+    "Explanation": "The word 'serverless' is a bit misleading; there are still servers involved, but they are completely handled by the cloud service provider (like AWS Lambda or Google Cloud Functions). The developer only writes and uploads code, which is then executed on-demand. This model is highly scalable and event-driven. It is a popular choice for microservices and API backends. It shifts the focus from managing hardware to writing functional logic.",
+    "synonyms": [
+      "managed-infrastructure",
+      "event-driven",
+      "cloud-native"
+    ],
+    "antonyms": [
+      "server-based",
+      "on-premise"
+    ],
+    "nounForm": "serverless computing",
+    "verbForm": "N/A",
+    "adjectiveForm": "serverless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, software architecture",
+    "usageTip": "Use 'serverless' when discussing modern cloud deployment models.",
+    "commonMistake": "Thinking 'serverless' means there is absolutely no physical server involved.",
+    "collocations": [
+      "serverless architecture",
+      "serverless function",
+      "serverless computing"
+    ]
+  }
+]

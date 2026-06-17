@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Brittle",
+    "meaning": "Hard but liable to break or shatter easily; fragile",
+    "shortMeaning": "hard and easily broken",
+    "example": "Be careful with that old book—the pages are brittle.",
+    "example2": "Brittle bones are a concern for the elderly.",
+    "example3": "The plastic became brittle in the cold.",
+    "Explanation": "'Brittle' is an adjective describing a material that is inflexible and snaps under pressure rather than bending. It often applies to dry, old, or cold substances like certain plastics, bones, glass, or leaves. It has a negative connotation of weakness due to hardness. It is different from 'flexible' or 'ductile'. The word can also describe a person's manner as stiff and harsh. In computing, 'brittle code' is code that breaks easily when changed. It conveys a lack of resilience.",
+    "synonyms": [
+      "fragile",
+      "breakable",
+      "crisp",
+      "delicate"
+    ],
+    "antonyms": [
+      "flexible",
+      "resilient",
+      "strong",
+      "ductile"
+    ],
+    "nounForm": "brittleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "brittle",
+    "partOfSpeech": "adjective",
+    "commonContext": "Materials science, aging objects, health (bones), personality",
+    "usageTip": "Use 'brittle' for hard, dry things that shatter or crack easily when force is applied.",
+    "commonMistake": "Confusing 'brittle' with 'fragile'. Brittle specifically means hard and breakable; fragile can be soft and breakable.",
+    "collocations": [
+      "brittle bones",
+      "brittle plastic",
+      "brittle demeanor"
+    ]
+  },
+  {
+    "word": "Brittle",
+    "meaning": "Hard but easily broken, cracked, or damaged",
+    "shortMeaning": "easily broken",
+    "example": "Old plastic parts of the computer case become brittle.",
+    "example2": "The legacy code is brittle and breaks with any new update.",
+    "example3": "Dry glass is brittle and must be handled with care.",
+    "Explanation": "The word 'brittle' physically describes materials like glass or old plastic that fracture easily under stress. In software engineering, 'brittle code' refers to software that is poorly written or fragile, meaning a minor change in one place causes unexpected failures elsewhere. It highlights a lack of flexibility and durability. Understanding this metaphor helps engineers describe technical debt and fragile architectures accurately.",
+    "synonyms": [
+      "fragile",
+      "breakable",
+      "delicate"
+    ],
+    "antonyms": [
+      "flexible",
+      "tough",
+      "durable"
+    ],
+    "nounForm": "brittleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "brittle",
+    "partOfSpeech": "adjective",
+    "commonContext": "Material science, hardware degradation, and fragile software code",
+    "usageTip": "Use 'brittle' metaphorically to describe software architecture that breaks easily upon updates.",
+    "commonMistake": "Confusing 'brittle' with 'weak'; something brittle can be hard, but it lacks flexibility.",
+    "collocations": [
+      "brittle code",
+      "brittle material",
+      "brittle structure"
+    ]
+  }
+]

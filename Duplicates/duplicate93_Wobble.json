@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Wobble",
+    "meaning": "To move unsteadily from side to side; to shake or tremble.",
+    "shortMeaning": "move unsteadily",
+    "example": "The table wobbles because one leg is shorter.",
+    "example2": "The jelly on the plate wobbled as she carried it.",
+    "example3": "His voice wobbled with emotion as he gave the speech.",
+    "Explanation": "'Wobble' can be a verb or a noun. As a verb, it describes a slight, often rhythmic, back-and-forth or side-to-side rocking movement. This movement suggests instability—something is not firmly fixed or balanced. It can be physical (a wobbly chair) or metaphorical (wobbling in one's resolve). As a noun, it refers to the unsteady movement itself or a moment of uncertainty. It's a somewhat informal, onomatopoeic word that sounds like the movement it describes. It's common in everyday descriptions of faulty furniture or temporary instability.",
+    "synonyms": [
+      "shake",
+      "rock",
+      "teeter",
+      "quiver"
+    ],
+    "antonyms": [
+      "stand firm",
+      "stabilize",
+      "steady"
+    ],
+    "nounForm": "wobble",
+    "verbForm": "wobble",
+    "adjectiveForm": "wobbly",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Describing unstable objects, voice fluctuations, lack of balance",
+    "usageTip": "Often used to describe objects that are not stable on their base.",
+    "commonMistake": "Confusing it with 'waddle', which is a way of walking (like a duck).",
+    "collocations": [
+      "wobble slightly",
+      "have a wobble",
+      "wobble on its axis",
+      "wobble board"
+    ]
+  },
+  {
+    "word": "Wobble",
+    "meaning": "To rock unsteadily from side to side, or a fluctuating instability within a data signal or visual component animation",
+    "shortMeaning": "shake unsteadily from side to side",
+    "example": "If the fan unit hardware chassis is loose, it will wobble loudly and cause structural damage over time.",
+    "example2": "The CSS code includes a subtle hover keyframe effect that makes the notification card layout wobble.",
+    "example3": "A loose cable connection can cause the monitor screen display signal to wobble and blink unexpectedly.",
+    "Explanation": "The word 'wobble' applies to both physical unsteadiness and digital animation properties. Mechanically, it describes unbalanced hardware components shaking or vibrating unevenly—like an improperly mounted fan or an unaligned disc drive tracking system. In modern front-end layout web development, 'wobble' refers to specialized visual shake feedback effects applied via stylesheets to alert users about validation failures, such as shaking an input field box if a password string is entered incorrectly.",
+    "synonyms": [
+      "shake",
+      "oscillate unsteadily",
+      "fluctruate",
+      "rock",
+      "quiver"
+    ],
+    "antonyms": [
+      "remain steady",
+      "stabilize",
+      "stay rigid"
+    ],
+    "nounForm": "wobble",
+    "verbForm": "wobble",
+    "adjectiveForm": "wobbly",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physical hardware unit mechanics, CSS hover alert animations, and electronic signal frequency deviations",
+    "usageTip": "Use 'wobble' when describing physical shaking due to structural instability or UI shake animation effects meant for feedback.",
+    "commonMistake": "Confusing 'wobble' with 'spin'; spinning describes smooth rotational movement around an axis while wobbling is off-balance shaking.",
+    "collocations": [
+      "wobble unsteadily",
+      "cause the layout to wobble",
+      "noticeable physical wobble"
+    ]
+  }
+]

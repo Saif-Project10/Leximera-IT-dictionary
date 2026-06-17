@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Reference",
+    "meaning": "The action of mentioning or alluding to something; a source of information; a person who can vouch for your character.",
+    "shortMeaning": "mention; source; recommender",
+    "example": "He made a reference to a famous movie in his speech.",
+    "example2": "Use the dictionary as a reference for correct spelling.",
+    "example3": "She listed her former boss as a reference on her job application.",
+    "Explanation": "'Reference' is a common noun and verb. As a noun, it has three main meanings: an allusion or mention, a source of information (like a book), or a person who recommends you. As a verb, it means to mention or cite a source. The word is fundamental in academic writing (citations), job hunting (references), and everyday conversation (making a reference to something). It's about pointing to something else for authority, explanation, or support. The adjective is 'referential'.",
+    "synonyms": [
+      "citation",
+      "allusion",
+      "source",
+      "recommendation"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "reference",
+    "verbForm": "reference",
+    "adjectiveForm": "referential",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Academia, employment, writing, conversation",
+    "usageTip": "In a CV/resume, 'references available upon request' is a common phrase.",
+    "commonMistake": "Confusing 'reference' (source) with 'reverence' (deep respect).",
+    "collocations": [
+      "in reference to",
+      "reference point",
+      "reference letter",
+      "for reference"
+    ]
+  },
+  {
+    "word": "Reference",
+    "meaning": "A link, pointer, or mention that points to a specific memory location, data object, or documentation",
+    "shortMeaning": "pointer or data link",
+    "example": "The code threw a null pointer exception because the variable reference was empty.",
+    "example2": "You can keep this documentation file on your desktop as a quick reference guide.",
+    "example3": "The variable passes data by reference instead of creating a full separate copy.",
+    "Explanation": "The word 'Reference' has key meanings in both programming and everyday IT communication. In programming (like C++ or Java), a reference is a variable that points directly to the memory address of another object. Modifying the reference alters the original data directly. In general technical work, a reference is an informational guide, documentation page, or manual that engineers read to understand how a complex framework works.",
+    "synonyms": [
+      "pointer",
+      "citation",
+      "documentation guide"
+    ],
+    "antonyms": [
+      "value (in coding context)",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "reference",
+    "verbForm": "reference",
+    "adjectiveForm": "referential",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Memory management in coding, user manuals, and API guides",
+    "usageTip": "Use it as a noun for guides/memory pointers, or as a verb meaning to cite or call a specific function.",
+    "commonMistake": "Confusing 'pass by reference' (sharing memory addresses) with 'pass by value' (sharing data copies) in programming.",
+    "collocations": [
+      "quick reference guide",
+      "null reference error",
+      "pass by reference"
+    ]
+  }
+]

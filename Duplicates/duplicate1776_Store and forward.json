@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Store and forward",
+    "meaning": "A communication method where data is sent to an intermediate station, kept there, and then sent to the final destination",
+    "shortMeaning": "save then send",
+    "example": "Email is a classic example of a store and forward system.",
+    "example2": "The store and forward method ensures data is not lost if the destination is offline.",
+    "example3": "SMS messages use store and forward technology.",
+    "Explanation": "Store and forward is a way of moving data across a network. Instead of a direct, live connection between the sender and receiver, the data stops at a middle point. This middle point 'stores' the data until the next part of the path is ready, and then 'forwards' it. This is very useful if the receiver's computer is turned off or the network is busy. It guarantees that the message will eventually arrive, even if it takes a little longer. It is the basis for email and many messaging systems.",
+    "synonyms": [
+      "relay",
+      "buffering",
+      "intermediate storage"
+    ],
+    "antonyms": [
+      "real-time communication",
+      "direct transmission"
+    ],
+    "nounForm": "store and forward",
+    "verbForm": "store and forward",
+    "adjectiveForm": "store-and-forward",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, email, and messaging systems",
+    "usageTip": "Use this term when explaining how data is handled when a direct connection isn't available.",
+    "commonMistake": "Thinking 'store and forward' is a brand; it is a general networking concept.",
+    "collocations": [
+      "store and forward mechanism",
+      "store and forward network",
+      "store and forward capability"
+    ]
+  },
+  {
+    "word": "Store and forward",
+    "meaning": "A technique where data is stored before being sent to the next node",
+    "shortMeaning": "store then send",
+    "example": "Email servers use a store and forward model.",
+    "example2": "The router uses store and forward switching for accuracy.",
+    "example3": "Store and forward systems are good for intermittent networks.",
+    "Explanation": "The 'store and forward' technique is used in networking where a data packet is fully received and stored in a buffer before being forwarded to its destination. This allows the system to check for errors before transmission, improving reliability. It is common in message switching and email systems where instantaneous connection is not guaranteed. It provides a more robust data delivery compared to 'cut-through' switching methods.",
+    "synonyms": [
+      "packet buffering",
+      "delayed forwarding"
+    ],
+    "antonyms": [
+      "cut-through",
+      "real-time transmission"
+    ],
+    "nounForm": "store-and-forward",
+    "verbForm": "N/A",
+    "adjectiveForm": "store-and-forward",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, communications, email",
+    "usageTip": "Use to describe a reliable but slightly slower data forwarding method.",
+    "commonMistake": "Confusing store and forward with direct real-time switching.",
+    "collocations": [
+      "store and forward switching",
+      "store and forward model"
+    ]
+  },
+  {
+    "word": "Store and forward",
+    "meaning": "A telecommunications technique where data packets are completely received, verified for errors, stored temporarily, and then transmitted to the next node",
+    "shortMeaning": "verify-store-resend routing",
+    "example": "A store and forward switch inspects the entire network frame before sending it out.",
+    "example2": "Email systems naturally use store and forward methods to deliver messages reliably.",
+    "example3": "The satellite data network relies on store and forward nodes due to intermittent connections.",
+    "Explanation": "The phrase 'store and forward' refers to a classic data routing mechanism used in network switches and communication systems. Unlike cut-through switching which forwards data instantly, a store-and-forward system waits until the entire data packet has arrived. It stores the block in a buffer, checks the Frame Check Sequence (FCS) for corruption errors, and drops damaged data. If the packet is clean, it forwards it to the next destination. This method ensures high network integrity but introduces slight latency overheads.",
+    "synonyms": [
+      "packet-switching routing",
+      "buffered forwarding"
+    ],
+    "antonyms": [
+      "cut-through switching",
+      "real-time streaming"
+    ],
+    "nounForm": "store-and-forward system",
+    "verbForm": "store and forward",
+    "adjectiveForm": "store-and-forward",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Network switches, mail transfer protocols, satellite links",
+    "usageTip": "Use 'store and forward' when highlighting network architectures that prioritize absolute data accuracy over raw speed.",
+    "commonMistake": "Hyphenating the expression when it functions as an active verb phrase rather than an adjective.",
+    "collocations": [
+      "store and forward switch",
+      "store and forward mechanism",
+      "store and forward network"
+    ]
+  }
+]

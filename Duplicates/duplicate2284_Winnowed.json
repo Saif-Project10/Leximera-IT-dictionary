@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Winnowed",
+    "meaning": "Selected or filtered out, leaving only the best or most important parts.",
+    "shortMeaning": "filtered",
+    "example": "The massive dataset was winnowed down to just the relevant entries.",
+    "example2": "He winnowed through the search results to find the answer.",
+    "example3": "The potential candidates were winnowed to a final list of three.",
+    "Explanation": "The word 'winnowed' refers to the process of removing unwanted or less important items from a larger group. In data management or programming, it describes refining a large collection of information until only what is necessary remains. The base verb is 'winnow'. This term suggests careful, deliberate selection, often used in professional contexts like hiring or technical analysis. It implies that the items removed were essentially 'chaff' or irrelevant data.",
+    "synonyms": [
+      "filtered",
+      "refined",
+      "sifted"
+    ],
+    "antonyms": [
+      "expanded",
+      "included",
+      "gathered"
+    ],
+    "nounForm": "winnowing",
+    "verbForm": "winnow",
+    "adjectiveForm": "winnowed",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Data analysis, decision making, research",
+    "usageTip": "Use 'winnowed' when you have narrowed down a large set of data.",
+    "commonMistake": "Confusing it with 'widened' because of the similar sound.",
+    "collocations": [
+      "winnowed down",
+      "winnowed list",
+      "winnowed information"
+    ]
+  },
+  {
+    "word": "Winnowed",
+    "meaning": "Filtered or refined to remove unwanted parts",
+    "shortMeaning": "filtered",
+    "example": "We winnowed the dataset to focus on relevant trends.",
+    "example2": "The list of candidates was winnowed down to three.",
+    "example3": "I winnowed the search results to find the answer.",
+    "Explanation": "To 'winnow' is to sort through a large set of data or items to separate the valuable from the worthless. In IT, this refers to the data cleaning process, where noise is removed from a dataset to ensure higher quality analysis. It is a critical step in machine learning and data science. It is the past participle form of the verb 'winnow'. Using this term demonstrates a precise approach to data management and quality control.",
+    "synonyms": [
+      "filtered",
+      "refined",
+      "sorted"
+    ],
+    "antonyms": [
+      "cluttered",
+      "unprocessed",
+      "raw"
+    ],
+    "nounForm": "winnowing",
+    "verbForm": "winnow",
+    "adjectiveForm": "winnowed",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Data analysis, research, filtering",
+    "usageTip": "Use it when discussing data cleaning or selection processes.",
+    "commonMistake": "Using it interchangeably with just 'delete' (winnowing implies selecting the best).",
+    "collocations": [
+      "winnowed data",
+      "winnowed list",
+      "winnowed results"
+    ]
+  }
+]

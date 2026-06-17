@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Flagged",
+    "meaning": "Marked with a flag or tag for attention; brought to notice for a specific reason.",
+    "shortMeaning": "marked for attention",
+    "example": "The system flagged the transaction as potentially fraudulent.",
+    "example2": "The editor flagged several spelling errors in the document.",
+    "example3": "Important emails are flagged with a red icon.",
+    "Explanation": "The adjective 'flagged' comes from the practice of using a physical flag to mark something. In modern usage, it means something has been electronically or mentally tagged for special attention, review, or follow-up. It is common in software (flagged emails), content moderation (flagged posts), and quality control. The verb is 'flag'. Flagging is a proactive way to ensure important or problematic items are not overlooked. It can also mean becoming tired or weakening ('his energy flagged').",
+    "synonyms": [
+      "marked",
+      "tagged",
+      "highlighted",
+      "noted",
+      "brought to attention"
+    ],
+    "antonyms": [
+      "unflagged",
+      "ignored",
+      "overlooked",
+      "passed over"
+    ],
+    "nounForm": "flag",
+    "verbForm": "flag",
+    "adjectiveForm": "flagged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Email software, moderation systems, reviewing, sports (penalties)",
+    "usageTip": "In digital contexts, 'flagged' usually means marked for follow-up, not necessarily that there's a problem.",
+    "commonMistake": "Thinking 'flagged' always means 'wrong' or 'bad'; it can just mean 'important'.",
+    "collocations": [
+      "flagged for review",
+      "flagged down",
+      "flagged as spam",
+      "automatically flagged"
+    ]
+  },
+  {
+    "word": "Flagged",
+    "meaning": "Marked for attention, review, or as having a specific status",
+    "shortMeaning": "Marked",
+    "example": "The security system flagged the suspicious activity.",
+    "example2": "He flagged the email as urgent.",
+    "example3": "The compiler flagged several warnings.",
+    "Explanation": "The term 'flagged' means that something has been marked so that it is easily noticed. This is standard terminology in email, ticketing systems, and compiler output. It implies that the marked item requires some action or further review. It is used as a verb (past tense) or an adjective. It is a very helpful term for organizing tasks, tracking bugs, or monitoring data security.",
+    "synonyms": [
+      "marked",
+      "tagged",
+      "highlighted"
+    ],
+    "antonyms": [
+      "ignored",
+      "unmarked"
+    ],
+    "nounForm": "flag",
+    "verbForm": "flag",
+    "adjectiveForm": "flagged",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Bug tracking, email, and security monitoring",
+    "usageTip": "Use 'flagged' to indicate something needs review.",
+    "commonMistake": "Using it to mean 'deleted' or 'fixed'.",
+    "collocations": [
+      "flagged for review",
+      "flagged as spam",
+      "automatically flagged"
+    ]
+  }
+]

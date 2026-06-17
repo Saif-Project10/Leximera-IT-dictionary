@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sketch",
+    "meaning": "A simple, quick drawing; a short, rough plan or description",
+    "shortMeaning": "quick drawing, outline",
+    "example": "He drew a sketch of the suspect's face.",
+    "example2": "She gave us a brief sketch of her plans.",
+    "example3": "The comedy show featured several short sketches.",
+    "Explanation": "'Sketch' is both a noun and a verb. As a noun, it's a rough drawing or a brief outline/description. In performance, it's a short, humorous scene. As a verb, it means to make such a drawing or outline. It implies something not fully detailed or finished, serving as a preliminary study or a concise representation. It's a foundational step in art, writing, and planning, capturing the essence before refinement.",
+    "synonyms": [
+      "drawing",
+      "outline",
+      "draft"
+    ],
+    "antonyms": [
+      "final version",
+      "detailed painting",
+      "elaboration"
+    ],
+    "nounForm": "sketch",
+    "verbForm": "sketch",
+    "adjectiveForm": "sketchy",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Art, design, planning, comedy",
+    "usageTip": "Use 'sketch out' as a phrasal verb to mean 'describe roughly' (e.g., 'She sketched out her ideas').",
+    "commonMistake": "Confusing 'sketch' (a drawing) with 'scheme' (a plan or plot).",
+    "collocations": [
+      "rough sketch",
+      "sketch pad",
+      "character sketch"
+    ]
+  },
+  {
+    "word": "Sketch",
+    "meaning": "To draw a fast rough layout diagram of a webpage user interface or a preliminary database schema layout",
+    "shortMeaning": "draw rough initial design layouts",
+    "example": "Before writing any CSS styles, it is best to sketch the website layout grid wireframes on a piece of paper.",
+    "example2": "The team lead decided to sketch the application workflow on the office whiteboard during our brainstorming session.",
+    "example3": "I always sketch out my database entity relationship tables before creating actual SQL migrations.",
+    "Explanation": "The word 'Sketch' refers to creating an initial, non-detailed structural drawing. In UI/UX design and frontend web development, sketching is a key exploratory phase. Designers sketch wireframes on paper or digital canvases to arrange elements like headers, text grids, and buttons. This provides a low-fidelity visual draft before moving to digital tools like Figma or writing code blocks.",
+    "synonyms": [
+      "draft wireframes",
+      "outline visual concepts",
+      "mock up designs"
+    ],
+    "antonyms": [
+      "finalize production code",
+      "complete interface layouts",
+      "N/A"
+    ],
+    "nounForm": "sketch",
+    "verbForm": "sketch",
+    "adjectiveForm": "sketchy (contextually unreliable)",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "UI/UX mockup phases, database relational plotting, and team brainstorming sessions",
+    "usageTip": "Use 'sketch' when planning a website structure or database relations before starting any coding work.",
+    "commonMistake": "Skipping the sketch phase and jumping straight into code, which often leads to confusing user interfaces and disorganized logic structures.",
+    "collocations": [
+      "sketch a wireframe",
+      "sketch out ideas",
+      "rough design sketch"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Selected",
+    "meaning": "Chosen carefully from a larger group as being the best or most suitable",
+    "shortMeaning": "carefully chosen",
+    "example": "Only selected candidates will be called for an interview.",
+    "example2": "She selected a blue dress for the party.",
+    "example3": "The article contains selected highlights from the report.",
+    "Explanation": "'Selected' is the past tense and past participle of the verb 'select'. As an adjective, it describes something that has been chosen from a number of possibilities, usually implying a careful or discerning choice. It suggests a process of discrimination to pick out the most appropriate or high-quality items. The noun form is 'selection'. It is a very common word in shopping, recruitment, and content curation.",
+    "synonyms": [
+      "chosen",
+      "picked",
+      "elected",
+      "handpicked"
+    ],
+    "antonyms": [
+      "rejected",
+      "unselected",
+      "discarded"
+    ],
+    "nounForm": "selection",
+    "verbForm": "select",
+    "adjectiveForm": "selected",
+    "partOfSpeech": "adjective / verb (past)",
+    "commonContext": "Shopping, hiring, competitions, editing",
+    "usageTip": "As an adjective, it often comes before a noun: 'selected works', 'selected items on sale'.",
+    "commonMistake": "Using 'selected' when 'chosen' is meant, but 'selected' often implies more care.",
+    "collocations": [
+      "carefully selected",
+      "selected few",
+      "pre-selected",
+      "selected works"
+    ]
+  },
+  {
+    "word": "Selected",
+    "meaning": "Chosen from a group",
+    "shortMeaning": "chosen",
+    "example": "The selected files were copied to the server.",
+    "example2": "He selected the wrong option in the menu.",
+    "example3": "Only the selected items will be deleted.",
+    "Explanation": "The word 'selected' is the past participle of 'select' (the verb). It describes items that have been specifically picked from a larger set. In software interfaces, 'selecting' items is a core user action. In programming, 'selected' data is the subset of information that a script or user wants to perform an action on. The noun is 'selection'. It is a basic but essential term used in every aspect of computer interfaces and data processing.",
+    "synonyms": [
+      "chosen",
+      "picked",
+      "highlighted"
+    ],
+    "antonyms": [
+      "excluded",
+      "ignored",
+      "omitted"
+    ],
+    "nounForm": "selection",
+    "verbForm": "select",
+    "adjectiveForm": "selected",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "User interface, data processing",
+    "usageTip": "Use 'selected' for items the user has consciously chosen.",
+    "commonMistake": "Confusing 'selected' with 'filtered' (filtered is usually automatic; selected is usually manual).",
+    "collocations": [
+      "selected items",
+      "selected options",
+      "selected files"
+    ]
+  },
+  {
+    "word": "Selected",
+    "meaning": "Chosen from a group of options",
+    "shortMeaning": "chosen",
+    "example": "He selected the best algorithm for the task.",
+    "example2": "The user selected multiple files to upload.",
+    "example3": "The selected data was moved to the backup folder.",
+    "Explanation": "The word 'selected' indicates that an item or option has been picked from a larger set. In IT, this often refers to user actions in an interface, such as clicking a file or choosing a setting. It can also refer to software or data that an administrator has intentionally opted to include in a process. The process of selection is central to user experience design, as it drives how users interact with applications. Ensure that the 'selected' state is always clearly visible to the user.",
+    "synonyms": [
+      "chosen",
+      "picked",
+      "opted"
+    ],
+    "antonyms": [
+      "deselected",
+      "unselected",
+      "ignored"
+    ],
+    "nounForm": "selection",
+    "verbForm": "select",
+    "adjectiveForm": "selected",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI/UX design, data processing, system configuration",
+    "usageTip": "Use 'selected' to describe items a user has picked.",
+    "commonMistake": "Confusing 'selected' with 'filtered' (filtered means the rest are hidden).",
+    "collocations": [
+      "selected file",
+      "user selected",
+      "selected option"
+    ]
+  }
+]

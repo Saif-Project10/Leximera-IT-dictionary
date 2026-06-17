@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tested",
+    "meaning": "Having undergone evaluation to verify performance or correctness.",
+    "shortMeaning": "evaluated",
+    "example": "The system has been thoroughly tested for security flaws.",
+    "example2": "Use only tested and approved libraries.",
+    "example3": "The build was tested against the requirements.",
+    "Explanation": "The word 'tested' means that someone or something has run the code through a series of scenarios to ensure it works as expected. In IT, 'tested' is a threshold for production readiness. A 'tested' system provides confidence to users and stakeholders. It is important to distinguish between 'tested' (it passed) and 'tested' (we ran some checks)—the difference lies in the coverage and quality of those tests.",
+    "synonyms": [
+      "verified",
+      "validated",
+      "checked"
+    ],
+    "antonyms": [
+      "untested",
+      "experimental"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "tested",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Quality assurance and releases",
+    "usageTip": "Use 'tested' to confirm that verification has been completed.",
+    "commonMistake": "Assuming 'tested' means 'bug-free'; it just means the bugs were not found.",
+    "collocations": [
+      "thoroughly tested",
+      "tested in production"
+    ]
+  },
+  {
+    "word": "Tested",
+    "meaning": "Verified that a system or feature works correctly",
+    "shortMeaning": "verified",
+    "example": "The patch has been tested on all browsers.",
+    "example2": "We have not yet tested this function.",
+    "example3": "Well-tested code is more reliable in production.",
+    "Explanation": "Tested refers to code or systems that have undergone a verification process to ensure they work as intended. It implies that bugs were checked and scenarios were run to confirm stability. Tested code is a requirement for deployment in any professional environment. It provides confidence to the team and the stakeholders. Always document the environments where the code was tested.",
+    "synonyms": [
+      "verified",
+      "validated",
+      "checked"
+    ],
+    "antonyms": [
+      "untested",
+      "unchecked"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "tested",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Quality assurance, deployment, debugging",
+    "usageTip": "Use 'tested' to confirm a process or feature is safe to use.",
+    "commonMistake": "Claiming code is tested when only a small portion has been verified.",
+    "collocations": [
+      "thoroughly tested",
+      "well-tested",
+      "not yet tested"
+    ]
+  }
+]

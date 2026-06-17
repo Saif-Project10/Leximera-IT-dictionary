@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Aggressive",
+    "meaning": "Ready or likely to attack or confront; characterized by forcefulness and intensity.",
+    "shortMeaning": "forceful and confrontational",
+    "example": "The dog became aggressive when approached by a stranger.",
+    "example2": "The company launched an aggressive marketing campaign to win new customers.",
+    "example3": "His aggressive style of play helped him win the match.",
+    "Explanation": "'Aggressive' is an adjective with both negative and positive connotations. Negatively, it describes hostile, violent, or bullying behavior. Positively, in business or sports, it can mean being assertive, energetic, and determined to succeed. The context determines whether it is seen as a bad trait (aggressive insults) or a good one (aggressive sales strategy). It's important to be aware of this dual meaning. The noun form is 'aggression'. It's a strong word that should be used carefully.",
+    "synonyms": [
+      "hostile",
+      "assertive",
+      "forceful",
+      "combative"
+    ],
+    "antonyms": [
+      "passive",
+      "peaceful",
+      "submissive",
+      "gentle"
+    ],
+    "nounForm": "aggression",
+    "verbForm": "N/A",
+    "adjectiveForm": "aggressive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Behavior, business strategy, sports, medicine (aggressive cancer)",
+    "usageTip": "Consider your audience; calling a person 'aggressive' is often an insult, but praising a 'strategy' as aggressive can be a compliment.",
+    "commonMistake": "Assuming it is always negative. In finance, 'aggressive growth' is a positive term.",
+    "collocations": [
+      "aggressive behavior",
+      "aggressive growth",
+      "aggressive approach",
+      "aggressive driving"
+    ]
+  },
+  {
+    "word": "Aggressive",
+    "meaning": "Behaving in a highly forceful, competitive, or intensive manner",
+    "shortMeaning": "forceful or intensive",
+    "example": "The antivirus software uses an aggressive scanning algorithm.",
+    "example2": "The tech company set an aggressive timeline for the app launch.",
+    "example3": "Our system features aggressive caching to optimize load times.",
+    "Explanation": "The word 'aggressive' has a unique meaning in IT compared to regular English. Instead of meaning angry or violent, it describes highly intensive, rigorous, or proactive system settings or business strategies. For example, 'aggressive caching' means a system saves web pages deeply to maximize speed, even if it risks showing old content. An 'aggressive compiler optimization' pushes code execution to its absolute limit. It implies high risk, high reward, and heavy resource usage.",
+    "synonyms": [
+      "intensive",
+      "rigorous",
+      "forceful"
+    ],
+    "antonyms": [
+      "conservative",
+      "mild",
+      "passive"
+    ],
+    "nounForm": "aggressiveness / aggression",
+    "verbForm": "N/A",
+    "adjectiveForm": "aggressive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software optimization levels, security scanning, and project schedules",
+    "usageTip": "Use 'aggressive' to describe code optimizations or software features that run at maximum intensity.",
+    "commonMistake": "Thinking 'aggressive' always means something bad or destructive in software; it often means highly optimized.",
+    "collocations": [
+      "aggressive caching",
+      "aggressive optimization",
+      "aggressive timeline"
+    ]
+  }
+]

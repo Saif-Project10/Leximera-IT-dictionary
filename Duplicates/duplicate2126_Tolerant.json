@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Tolerant",
+    "meaning": "Able to endure or work correctly despite difficult conditions or errors",
+    "shortMeaning": "enduring",
+    "example": "The network is fault-tolerant, meaning it stays up during hardware failure.",
+    "example2": "This software is tolerant of minor user input errors.",
+    "example3": "A tolerant system can handle high variance in data.",
+    "Explanation": "In computing, 'tolerant' describes the ability of a system to maintain functionality when facing faults, errors, or unexpected inputs. This is often associated with 'fault tolerance', which is a critical aspect of high-availability systems. Being tolerant means the system doesn't crash immediately when something goes wrong but instead manages or compensates for the issue. This is a positive trait for any robust software architecture. Do not use 'tolerant' to describe a person's personality unless discussing their IT habits.",
+    "synonyms": [
+      "resilient",
+      "robust",
+      "enduring"
+    ],
+    "antonyms": [
+      "sensitive",
+      "fragile",
+      "brittle"
+    ],
+    "nounForm": "tolerance",
+    "verbForm": "tolerate",
+    "adjectiveForm": "tolerant",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, software design, networking",
+    "usageTip": "Use 'tolerant' to describe systems that handle errors gracefully.",
+    "commonMistake": "Confusing 'tolerant' with 'tolerant' in a social sense.",
+    "collocations": [
+      "fault-tolerant",
+      "error-tolerant",
+      "highly tolerant"
+    ]
+  },
+  {
+    "word": "Tolerant",
+    "meaning": "Able to endure or work properly despite errors or variations",
+    "shortMeaning": "resilient",
+    "example": "The system is fault-tolerant and continues working after crashes.",
+    "example2": "The API is tolerant of malformed requests.",
+    "example3": "Build an error-tolerant user interface.",
+    "Explanation": "Being 'tolerant' in software means the system can survive or handle unexpected inputs, high loads, or component failures without completely breaking. 'Fault tolerance' is a high-standard goal in engineering. A tolerant system manages issues gracefully rather than crashing. It is a mark of high-quality, robust design that anticipates and mitigates potential problems, providing a stable experience for the end user even in non-ideal conditions.",
+    "synonyms": [
+      "resilient",
+      "robust",
+      "durable"
+    ],
+    "antonyms": [
+      "fragile",
+      "intolerant",
+      "unstable"
+    ],
+    "nounForm": "tolerance",
+    "verbForm": "tolerate",
+    "adjectiveForm": "tolerant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software reliability, engineering, data processing",
+    "usageTip": "Use to describe a system that handles errors well.",
+    "commonMistake": "Using 'tolerant' when you mean 'flexible'; tolerant focuses on error handling.",
+    "collocations": [
+      "fault-tolerant",
+      "error-tolerant",
+      "tolerant of faults"
+    ]
+  }
+]

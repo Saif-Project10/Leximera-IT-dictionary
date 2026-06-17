@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Set",
+    "meaning": "A collection of distinct objects or a group of related items",
+    "shortMeaning": "a collection",
+    "example": "We have a set of tools for development.",
+    "example2": "He created a set of rules for the project.",
+    "example3": "The data is stored in a set.",
+    "Explanation": "A 'set' is a collection of unique items. In mathematics and programming, a set does not allow duplicate values. It is a fundamental concept for organizing data. Beyond math, a set can just mean a group of related things, like a 'set of instructions'. It is one of the most basic and versatile words in English. Use it to describe any group where you want to highlight the items as a single, coherent unit. Always ensure the context clarifies if you mean the mathematical or general definition.",
+    "synonyms": [
+      "collection",
+      "group",
+      "assortment"
+    ],
+    "antonyms": [
+      "individual",
+      "single item"
+    ],
+    "nounForm": "set",
+    "verbForm": "set",
+    "adjectiveForm": "set",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming, mathematics, everyday life",
+    "usageTip": "Use when you want to group related items together.",
+    "commonMistake": "Confusing it with 'list' in programming; sets don't allow duplicates.",
+    "collocations": [
+      "set of data",
+      "set of instructions",
+      "data set"
+    ]
+  },
+  {
+    "word": "Set",
+    "meaning": "A collection of distinct objects or values, or the act of putting something into a specific state.",
+    "shortMeaning": "collection/configure",
+    "example": "The set of permissions was updated.",
+    "example2": "Please set the configuration variable to true.",
+    "example3": "We have a large set of test cases.",
+    "Explanation": "The word 'set' has two main meanings: as a noun, it is a collection of unique items; as a verb, it means to configure or assign a value. In programming, sets are data structures that do not allow duplicates. As a verb, it is one of the most common IT actions (e.g., 'set the password', 'set the timer'). The flexibility of the word means context is critical. It is a fundamental term in almost every IT discipline, from math to hardware configuration.",
+    "synonyms": [
+      "collection",
+      "configure",
+      "assign"
+    ],
+    "antonyms": [
+      "unset",
+      "clear"
+    ],
+    "nounForm": "set",
+    "verbForm": "set",
+    "adjectiveForm": "set",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming, mathematics, configuration",
+    "usageTip": "Use 'set' when creating a configuration or defining a collection.",
+    "commonMistake": "Confusing it with 'setting' (noun).",
+    "collocations": [
+      "set up",
+      "set the value",
+      "data set"
+    ]
+  },
+  {
+    "word": "Set",
+    "meaning": "To assign a value to a variable property, or an abstract collection of unique, non-repeating data elements",
+    "shortMeaning": "assign value / unique data collection",
+    "example": "You must set the visibility variable parameter to true inside your page script files.",
+    "example2": "A JavaScript Set object automatically deletes duplicate values from your data list array.",
+    "example3": "We need to set custom header metadata before executing our network request rows.",
+    "Explanation": "The word 'set' has two distinct, vital meanings in programming. As a verb, it represents assigning a specific value or attribute flag to an active code variable or object property (e.g., setting an e-commerce item price). As a noun, it defines an abstract data structure that holds only unique, non-repeating data elements, making it ideal for tracking unique identifiers or filtering duplicates from raw data pools.",
+    "synonyms": [
+      "assign",
+      "configure / collection",
+      "unique array string"
+    ],
+    "antonyms": [
+      "clear value / array with duplicates"
+    ],
+    "nounForm": "set",
+    "verbForm": "set",
+    "adjectiveForm": "set",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Variable configuration steps, unique data filtering operations, and system environment styling setups",
+    "usageTip": "Use the verb 'set' for data value assignments and the noun 'Set' when discussing lists that must reject duplicate values.",
+    "commonMistake": "Trying to access items in a data 'Set' using index numbers like `mySet[0]`; unique Sets require specialized tracking methods.",
+    "collocations": [
+      "set value attribute",
+      "javascript set object",
+      "set environment variables"
+    ]
+  }
+]

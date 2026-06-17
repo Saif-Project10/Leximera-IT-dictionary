@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Fail-fast",
+    "meaning": "Another way to write 'fail fast'; an adjective describing a system that stops on errors",
+    "shortMeaning": "error-sensitive",
+    "example": "We used a fail-fast iterator in our Java program to avoid data corruption.",
+    "example2": "The fail-fast nature of the tool makes it great for debugging.",
+    "example3": "A fail-fast system is easier to maintain in the long run.",
+    "Explanation": "Fail-fast (with a hyphen) is often used as an adjective to describe a specific type of component or behavior in a computer program. For example, a 'fail-fast iterator' is a tool that goes through a list of data; if another part of the program changes that list while the iterator is working, the iterator immediately throws an error. This prevents the program from getting 'confused' or using old data. This term is very common in the documentation for languages like Java and C++. It is a badge of 'quality' for many developer tools because it saves hours of time that would otherwise be spent searching for 'ghost bugs'. It is a precise technical descriptor.",
+    "synonyms": [
+      "crash-early",
+      "error-prone detection"
+    ],
+    "antonyms": [
+      "fail-safe",
+      "non-fail-fast"
+    ],
+    "nounForm": "fail-fast",
+    "verbForm": "N/A",
+    "adjectiveForm": "fail-fast",
+    "partOfSpeech": "adjective",
+    "commonContext": "API design and software documentation",
+    "usageTip": "Look for 'fail-fast' features in libraries when building data-sensitive applications.",
+    "commonMistake": "Thinking 'fail-fast' means the software is low quality; it actually means it is high quality.",
+    "collocations": [
+      "fail-fast iterator",
+      "fail-fast behavior",
+      "fail-fast system"
+    ]
+  },
+  {
+    "word": "Fail-fast",
+    "meaning": "A system that reports a failure immediately rather than trying to proceed.",
+    "shortMeaning": "stop on error",
+    "example": "Our new process is designed to be fail-fast.",
+    "example2": "We implemented a fail-fast mechanism in the code.",
+    "example3": "Fail-fast systems help identify bugs quickly.",
+    "Explanation": "The 'fail-fast' philosophy in software development ensures that if an error occurs, the system stops immediately and reports it. This prevents the error from propagating and causing more damage or invalid data down the line. It makes debugging much easier because you know exactly where the issue started. It is an adjective that describes an architectural design principle. It is highly valued in modern agile development.",
+    "synonyms": [
+      "quick-failure",
+      "immediate-error-reporting"
+    ],
+    "antonyms": [
+      "fault-tolerant",
+      "resilient"
+    ],
+    "nounForm": "failure",
+    "verbForm": "fail",
+    "adjectiveForm": "fail-fast",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, system architecture",
+    "usageTip": "Use 'fail-fast' when describing design patterns that catch errors early.",
+    "commonMistake": "Confusing it with 'fail-safe' (which keeps running).",
+    "collocations": [
+      "fail-fast design",
+      "fail-fast mechanism",
+      "fail-fast system"
+    ]
+  }
+]

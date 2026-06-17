@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Evidence based",
+    "meaning": "An approach where decisions are made based on proven data and facts",
+    "shortMeaning": "supported by facts",
+    "example": "Our IT security strategy is evidence based and uses historical data.",
+    "example2": "The doctor provided an evidence based treatment plan.",
+    "example3": "We need an evidence based argument to convince the manager.",
+    "Explanation": "The term 'evidence based' means that you aren't just guessing or following a 'gut feeling'. Instead, you are looking at hard data, research, or past results to make a choice. In IT, this might mean choosing a software tool because a study showed it is the fastest, rather than just because it's popular. This approach is highly valued in professional environments because it reduces risk. It involves collecting information, analyzing it, and then applying the findings. It is commonly used in medicine, science, and business management. It ensures that actions are justified by reality.",
+    "synonyms": [
+      "data-driven",
+      "fact-based",
+      "proven"
+    ],
+    "antonyms": [
+      "anecdotal",
+      "guesswork",
+      "unsupported"
+    ],
+    "nounForm": "evidence",
+    "verbForm": "N/A",
+    "adjectiveForm": "evidence based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, medicine, and research",
+    "usageTip": "Use this to add authority to your claims or decisions.",
+    "commonMistake": "Using 'evidence based' when you only have one single example (that's anecdotal).",
+    "collocations": [
+      "evidence based research",
+      "evidence based decision",
+      "evidence based approach"
+    ]
+  },
+  {
+    "word": "Evidence based",
+    "meaning": "See 'Evidence-based' (The hyphen is preferred)",
+    "shortMeaning": "data-supported",
+    "example": "The decision was evidence based.",
+    "example2": "We follow an evidence based approach to development.",
+    "example3": "The strategy is evidence based and proven.",
+    "Explanation": "Evidence based describes anything that relies on scientific or empirical data rather than guesses. Using evidence is the foundation of professional research and high-quality software engineering. While sometimes written without a hyphen, it is grammatically better to use 'evidence-based' when used as an adjective modifying a noun. It shows that you value truth and performance over intuition.",
+    "synonyms": [
+      "data-driven",
+      "fact-based"
+    ],
+    "antonyms": [
+      "guess-based",
+      "speculative"
+    ],
+    "nounForm": "evidence",
+    "verbForm": "N/A",
+    "adjectiveForm": "evidence-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, business decisions",
+    "usageTip": "Always try to hyphenate when placing it before a noun.",
+    "commonMistake": "Using 'evidence based' as an adjective without a hyphen.",
+    "collocations": [
+      "evidence based approach",
+      "evidence based decision"
+    ]
+  }
+]

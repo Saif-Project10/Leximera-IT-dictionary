@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Subgraph",
+    "meaning": "A portion of a graph that consists of a subset of its vertices and edges",
+    "shortMeaning": "part of a graph",
+    "example": "To analyze the social network, we looked at a subgraph representing only one city.",
+    "example2": "A subgraph must follow the same rules as the original graph.",
+    "example3": "The algorithm finds the largest complete subgraph within the data.",
+    "Explanation": "In mathematics and computer science, a 'graph' is a collection of points (vertices) and lines connecting them (edges). A subgraph is simply a smaller piece of that larger picture. For example, if a graph represents all the roads in a country, a subgraph could represent just the roads in a single town. Subgraphs are used to simplify complex problems, such as finding a specific community within a large social network or a specific path in a computer network. They are essential in data science and network analysis.",
+    "synonyms": [
+      "sub-network",
+      "partial graph"
+    ],
+    "antonyms": [
+      "supergraph"
+    ],
+    "nounForm": "subgraph",
+    "verbForm": "N/A",
+    "adjectiveForm": "subgraph-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Graph theory, data science, and network mapping",
+    "usageTip": "Use 'subgraph' when you are isolating a specific section of a larger network to study it.",
+    "commonMistake": "Thinking a subgraph can contain edges that weren't in the original graph; it can only use what already exists.",
+    "collocations": [
+      "induced subgraph",
+      "connected subgraph",
+      "subgraph isomorphism"
+    ]
+  },
+  {
+    "word": "Subgraph",
+    "meaning": "A subset of the vertices and edges of a larger graph.",
+    "shortMeaning": "graph part",
+    "example": "We isolated a subgraph to simplify the search algorithm.",
+    "example2": "The analysis focuses on a specific subgraph of the social network.",
+    "example3": "A subgraph represents only a portion of the total nodes.",
+    "Explanation": "In data structures and network theory, a 'graph' is a set of points (nodes/vertices) connected by lines (edges). A 'subgraph' is simply any graph that is contained entirely within a larger one. It is a critical concept in network analysis, social media link analysis, and optimization problems. It is a noun. Using a subgraph allows developers to run complex algorithms on a smaller, manageable set of data while preserving the relationships between the original nodes.",
+    "synonyms": [
+      "subset of graph",
+      "part of network"
+    ],
+    "antonyms": [
+      "full graph",
+      "parent graph"
+    ],
+    "nounForm": "subgraph",
+    "verbForm": "N/A",
+    "adjectiveForm": "subgraph",
+    "partOfSpeech": "noun",
+    "commonContext": "Graph theory, networking, data structures",
+    "usageTip": "Use 'subgraph' when talking about a slice of a larger network.",
+    "commonMistake": "Confusing a 'subgraph' with a 'cluster' (a subgraph is a mathematical concept).",
+    "collocations": [
+      "isolated subgraph",
+      "connected subgraph",
+      "subgraph analysis"
+    ]
+  }
+]

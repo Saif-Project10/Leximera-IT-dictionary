@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Sprint-based",
+    "meaning": "Organized around short, intense periods of focused work, especially in agile project management",
+    "shortMeaning": "using short work cycles",
+    "example": "The software team uses a sprint-based development methodology.",
+    "example2": "Our project timeline is sprint-based, with deliverables every two weeks.",
+    "example3": "Sprint-based planning helps us adapt quickly to changes.",
+    "Explanation": "'Sprint-based' is a compound adjective derived from Agile and Scrum methodologies. It describes a process or system that is divided into fixed, short timeframes called 'sprints', typically lasting 1-4 weeks. Each sprint aims to complete a set amount of work. This approach is common in software development but is now used in other industries for project management. It emphasizes iterative progress, regular review, and adaptability. The focus is on delivering incremental value rather than one final product at the end.",
+    "synonyms": [
+      "iterative",
+      "agile",
+      "scrum-based"
+    ],
+    "antonyms": [
+      "waterfall",
+      "linear",
+      "long-cycle"
+    ],
+    "nounForm": "sprint",
+    "verbForm": "sprint",
+    "adjectiveForm": "sprint-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, software development, Agile frameworks",
+    "usageTip": "Use it to describe a workflow or methodology, not a physical activity.",
+    "commonMistake": "Confusing it with the athletic term 'sprint', which means to run fast.",
+    "collocations": [
+      "sprint-based approach",
+      "sprint-based workflow",
+      "sprint-based development",
+      "sprint-based planning"
+    ]
+  },
+  {
+    "word": "Sprint-based",
+    "meaning": "Structured around the Agile 'sprint' cycle",
+    "shortMeaning": "Agile workflow",
+    "example": "Our team uses a sprint-based workflow.",
+    "example2": "A sprint-based schedule keeps us on track.",
+    "example3": "The project is sprint-based, with reviews every two weeks.",
+    "Explanation": "The term 'sprint-based' describes an Agile development methodology where work is broken into short, fixed-length time periods called 'sprints'. During each sprint, a team focuses on delivering a specific set of features. After the sprint, they review progress and plan the next one. It is excellent for keeping teams moving fast and ensuring consistent output. Use this term to explain your team's project management style. It signals that you are working in an iterative, fast-moving environment.",
+    "synonyms": [
+      "Agile",
+      "iterative"
+    ],
+    "antonyms": [
+      "waterfall",
+      "long-term fixed"
+    ],
+    "nounForm": "sprint",
+    "verbForm": "N/A",
+    "adjectiveForm": "sprint-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Agile project management, teamwork",
+    "usageTip": "Use to describe your team's rhythm of work.",
+    "commonMistake": "Confusing 'sprint-based' with 'unplanned'; it is actually very structured.",
+    "collocations": [
+      "sprint-based workflow",
+      "sprint-based schedule",
+      "sprint-based project"
+    ]
+  }
+]

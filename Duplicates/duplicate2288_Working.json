@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Working",
+    "meaning": "Currently functioning, active, or engaged in a task.",
+    "shortMeaning": "functional/active",
+    "example": "The system is finally working as expected.",
+    "example2": "Is the new script working on the production server?",
+    "example3": "We are currently working on a performance fix.",
+    "Explanation": "The word 'working' means that something is performing its job or a person is busy with a task. The base verb is 'work'. In IT, it is the simplest way to describe a system that is operational. 'Working' is often used in contrast to 'broken'. It can also refer to the ongoing state of a developer finishing a task. It is a universal, essential word for troubleshooting and status updates.",
+    "synonyms": [
+      "functional",
+      "operating",
+      "active"
+    ],
+    "antonyms": [
+      "broken",
+      "failed",
+      "offline"
+    ],
+    "nounForm": "work",
+    "verbForm": "work",
+    "adjectiveForm": "working",
+    "partOfSpeech": "adjective / verb (participle)",
+    "commonContext": "System status, development, troubleshooting",
+    "usageTip": "Use 'working' to confirm that a service is functioning.",
+    "commonMistake": "Overusing 'working' instead of more specific terms like 'online' or 'operational'.",
+    "collocations": [
+      "is working",
+      "still working",
+      "working properly"
+    ]
+  },
+  {
+    "word": "Working",
+    "meaning": "Operating correctly or currently engaged in a task",
+    "shortMeaning": "functioning or active",
+    "example": "The printer is finally working properly.",
+    "example2": "He is working on a new web project.",
+    "example3": "Is this code working as expected?",
+    "Explanation": "The word 'working' refers to the state of functioning or the act of performing a job. When an IT system is 'working', it means it is operational and free of errors. Alternatively, it describes a person actively busy with tasks. It is a very versatile word used to describe system health, development progress, or personal activity. It is standard for check-ins or status updates. Always ensure the context clearly differentiates between system status and human activity.",
+    "synonyms": [
+      "operational",
+      "functioning",
+      "busy"
+    ],
+    "antonyms": [
+      "broken",
+      "non-functional",
+      "idle"
+    ],
+    "nounForm": "work",
+    "verbForm": "work",
+    "adjectiveForm": "working",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System status, project management, jobs",
+    "usageTip": "Use 'working' to confirm that a system is functional or that you are busy with tasks.",
+    "commonMistake": "Assuming 'working' implies the system is performing perfectly (it only means it functions).",
+    "collocations": [
+      "working correctly",
+      "working on a project",
+      "working prototype"
+    ]
+  }
+]

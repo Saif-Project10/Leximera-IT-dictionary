@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Testable",
+    "meaning": "Capable of being tested, usually implies a good, modular design.",
+    "shortMeaning": "can be tested",
+    "example": "Keep the functions simple to make the code testable.",
+    "example2": "The legacy code is not easily testable.",
+    "example3": "We refactored the module to make it more testable.",
+    "Explanation": "The word 'testable' is a high compliment in software development. It means the code is well-structured, modular, and does not have too many hidden dependencies. If something is 'testable', it means you can easily write unit tests for it. If code is 'not testable', it usually indicates that it is too tightly coupled to other parts of the system and needs a rewrite to improve its quality.",
+    "synonyms": [
+      "verifiable",
+      "modular"
+    ],
+    "antonyms": [
+      "untestable",
+      "complex",
+      "spaghetti"
+    ],
+    "nounForm": "testability",
+    "verbForm": "N/A",
+    "adjectiveForm": "testable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code quality and design",
+    "usageTip": "Use 'testable' to describe clean, modular, well-designed code.",
+    "commonMistake": "Confusing 'testable' with 'tested'; it just means you *can* test it.",
+    "collocations": [
+      "highly testable",
+      "make it testable"
+    ]
+  },
+  {
+    "word": "Testable",
+    "meaning": "Able to be verified or validated by a test",
+    "shortMeaning": "can be tested",
+    "example": "The code should be written to be easily testable.",
+    "example2": "Small, modular functions are highly testable.",
+    "example3": "We need to make this feature more testable.",
+    "Explanation": "Testable means that a piece of software or logic can be checked against expected results. If code is testable, it is usually decoupled and follows clear design patterns. Code that is hard to test often indicates hidden complexity or poor architecture. Making your code testable is a key skill for professional developers. It involves dependency injection, clear inputs/outputs, and isolated logic.",
+    "synonyms": [
+      "verifiable",
+      "measurable",
+      "validatable"
+    ],
+    "antonyms": [
+      "untestable",
+      "opaque"
+    ],
+    "nounForm": "testability",
+    "verbForm": "N/A",
+    "adjectiveForm": "testable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, coding best practices",
+    "usageTip": "Use this to evaluate code structure and maintainability.",
+    "commonMistake": "Thinking that everything is equally testable; some systems are inherently harder to verify.",
+    "collocations": [
+      "highly testable",
+      "make code testable",
+      "testable components"
+    ]
+  }
+]

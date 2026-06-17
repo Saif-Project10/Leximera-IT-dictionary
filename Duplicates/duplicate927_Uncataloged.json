@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Uncataloged",
+    "meaning": "Not listed or recorded in a catalog or systematic list",
+    "shortMeaning": "not listed in a catalog",
+    "example": "The library has a room full of uncataloged books.",
+    "example2": "Many artifacts in the museum's basement remain uncataloged.",
+    "example3": "The uncataloged data was difficult for researchers to find.",
+    "Explanation": "'Uncataloged' is an adjective describing items that have not been formally entered into a catalog, database, or inventory system. This is common in libraries, museums, archives, and data management. Being uncataloged makes items hard to find and access systematically. The word is the opposite of 'cataloged' or 'indexed'. It highlights a gap in organization. The spelling 'uncatalogued' is also correct, but 'uncataloged' is common in American English.",
+    "synonyms": [
+      "unlisted",
+      "unrecorded",
+      "unindexed"
+    ],
+    "antonyms": [
+      "cataloged",
+      "listed",
+      "indexed",
+      "recorded"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "catalog",
+    "adjectiveForm": "uncataloged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Libraries, museums, data management, archives",
+    "usageTip": "Use 'uncataloged' to describe physical or digital items that lack a formal entry in a searchable list.",
+    "commonMistake": "Using it to describe something simply lost, rather than specifically not entered into a system.",
+    "collocations": [
+      "uncataloged collection",
+      "uncataloged items",
+      "remain uncataloged"
+    ]
+  },
+  {
+    "word": "Uncataloged",
+    "meaning": "Not included in a catalog, list, or index.",
+    "shortMeaning": "not listed",
+    "example": "Many uncataloged items were found in the storage.",
+    "example2": "The database contains many uncataloged files.",
+    "example3": "We need to organize the uncataloged documentation.",
+    "Explanation": "Uncataloged means that something has not been formally registered or added to an official list. In IT, this can refer to files that aren't indexed, software components not in a repository, or hardware that isn't in an asset inventory. Being uncataloged makes finding and tracking items difficult. It suggests that the item is hidden or ignored within a larger system. Keeping an up-to-date catalog is vital for organization.",
+    "synonyms": [
+      "unindexed",
+      "unlisted",
+      "unregistered"
+    ],
+    "antonyms": [
+      "cataloged",
+      "indexed",
+      "registered"
+    ],
+    "nounForm": "catalog",
+    "verbForm": "catalog",
+    "adjectiveForm": "uncataloged",
+    "partOfSpeech": "adjective",
+    "commonContext": "File management, asset management",
+    "usageTip": "Use this when talking about missing records in a list.",
+    "commonMistake": "Confusing 'uncataloged' with 'lost'.",
+    "collocations": [
+      "uncataloged file",
+      "uncataloged item",
+      "remained uncataloged"
+    ]
+  },
+  {
+    "word": "Uncataloged",
+    "meaning": "Not included in a list, library, or database.",
+    "shortMeaning": "not listed",
+    "example": "Many items in the archive remain uncataloged.",
+    "example2": "We found some uncataloged resources in the server.",
+    "example3": "The new files were left uncataloged by mistake.",
+    "Explanation": "When something is 'uncataloged', it means it is missing from the master list or index. In technical libraries or large databases, being uncataloged means the resources cannot be easily found or searched. This leads to wasted time and organization issues. Teams often have projects specifically to update these lists. It implies a need for better organization and inventory management. It is a common administrative term in large IT systems.",
+    "synonyms": [
+      "unindexed",
+      "unlisted",
+      "unorganized"
+    ],
+    "antonyms": [
+      "cataloged",
+      "indexed",
+      "listed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncataloged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database and archive management",
+    "usageTip": "Use this to describe data missing from your index.",
+    "commonMistake": "Confusing 'uncataloged' with 'lost'.",
+    "collocations": [
+      "uncataloged items",
+      "uncataloged files",
+      "remain uncataloged"
+    ]
+  }
+]

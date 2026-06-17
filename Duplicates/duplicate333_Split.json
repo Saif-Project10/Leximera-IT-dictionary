@@ -1,0 +1,101 @@
+[
+  {
+    "word": "Split",
+    "meaning": "To break or divide into parts, especially along a length.",
+    "shortMeaning": "divide, separate",
+    "example": "She split the log with an axe.",
+    "example2": "The group split into two teams.",
+    "example3": "They decided to split the bill equally.",
+    "Explanation": "'Split' is a common verb meaning to divide something forcefully or along a natural line. It can be physical (splitting wood), social (splitting up a group), or financial (splitting costs). The past tense and past participle are also 'split'. As a noun, it means a division or separation (e.g., a split in a political party). It is also used in gymnastics and bowling. The word suggests a clear, often sharp division. 'To split hairs' means to argue about tiny details.",
+    "synonyms": [
+      "divide",
+      "separate",
+      "cleave",
+      "break",
+      "share"
+    ],
+    "antonyms": [
+      "join",
+      "unite",
+      "merge",
+      "combine"
+    ],
+    "nounForm": "split",
+    "verbForm": "split",
+    "adjectiveForm": "split",
+    "partOfSpeech": "verb / noun / adjective",
+    "commonContext": "Wood, groups, money, opinions",
+    "usageTip": "The past tense is 'split', NOT 'splitted'. 'He split the apple yesterday.'",
+    "commonMistake": "Using 'split up' only for romantic breakups; it can mean any group separating.",
+    "collocations": [
+      "split up",
+      "split the difference",
+      "split second",
+      "split decision"
+    ]
+  },
+  {
+    "word": "Split",
+    "meaning": "To break or separate into two or more parts",
+    "shortMeaning": "divide",
+    "example": "We need to split the large file into smaller pieces.",
+    "example2": "The team decided to split the task among themselves.",
+    "example3": "The screen was split into two separate windows.",
+    "Explanation": "The word 'split' means to divide something that was originally one whole into smaller, distinct parts. It is a very common action in programming, whether you are splitting strings, splitting database tables, or splitting a project workload. It can describe a physical action or a logical one. When something is 'split', it often makes management easier because smaller parts are easier to handle. Ensure you specify what is being split and into how many parts to avoid confusion.",
+    "synonyms": [
+      "divide",
+      "separate",
+      "segment"
+    ],
+    "antonyms": [
+      "combine",
+      "join",
+      "merge"
+    ],
+    "nounForm": "split",
+    "verbForm": "split",
+    "adjectiveForm": "split",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data management, programming, teamwork",
+    "usageTip": "Use for dividing something into manageable sections.",
+    "commonMistake": "Forgetting that 'split' is both the past and present tense.",
+    "collocations": [
+      "split the data",
+      "split the screen",
+      "split the work"
+    ]
+  },
+  {
+    "word": "Split",
+    "meaning": "To divide a single string, database, or file into multiple separate components based on a rule",
+    "shortMeaning": "divide data components",
+    "example": "You can split the full name string into first name and last name arrays.",
+    "example2": "The database administrator decided to split the large table to boost performance.",
+    "example3": "We need to split the large network into smaller, manageable subnets.",
+    "Explanation": "In IT, 'split' is a versatile concept used across programming, databases, and network engineering to describe division. In coding, a split function takes a string and cuts it into an array of smaller substrings using a delimiter like a comma or space. In database administration, splitting a database or table helps balance read and write loads across servers. In network management, splitting helps segment traffic for better security. In all cases, splitting converts a complex, bulky data structure into smaller, more efficient parts.",
+    "synonyms": [
+      "divide",
+      "separate",
+      "segment",
+      "partition"
+    ],
+    "antonyms": [
+      "join",
+      "merge",
+      "combine",
+      "concatenate"
+    ],
+    "nounForm": "split / splitter",
+    "verbForm": "split",
+    "adjectiveForm": "split",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "String manipulation, database design, and network subnetting",
+    "usageTip": "Specify the delimiter or rule when explaining how you intend to split data.",
+    "commonMistake": "Forgetting that splitting an empty string or using the wrong delimiter can return unexpected empty arrays.",
+    "collocations": [
+      "split a string",
+      "split database",
+      "split function"
+    ]
+  }
+]

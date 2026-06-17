@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Exclusive",
+    "meaning": "1. Limited to a specific person, group, or area; not shared. 2. High-class and expensive; not easily available.",
+    "shortMeaning": "limited to only some; not shared",
+    "example": "The interview was an exclusive for our magazine.",
+    "example2": "The club is very exclusive and has a long waiting list.",
+    "example3": "They have exclusive rights to sell the product.",
+    "Explanation": "'Exclusive' often implies rarity, privilege, or restriction. It can describe something available only to certain people (an exclusive club) or an agreement that prevents working with others (an exclusive contract). In journalism, an 'exclusive' is a story reported by only one source. The opposite is 'inclusive'. The word carries connotations of both desirability and limitation, depending on the context.",
+    "synonyms": [
+      "restricted",
+      "select",
+      "private",
+      "sole"
+    ],
+    "antonyms": [
+      "inclusive",
+      "open",
+      "shared",
+      "common"
+    ],
+    "nounForm": "exclusivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "exclusive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, media, social clubs, high-end products",
+    "usageTip": "Use 'exclusive' for things that are limited, private, or not shared with others.",
+    "commonMistake": "Using 'exclusive' to mean 'expensive' only, when it primarily means 'limited access'.",
+    "collocations": [
+      "exclusive interview",
+      "exclusive rights",
+      "mutually exclusive",
+      "exclusive offer"
+    ]
+  },
+  {
+    "word": "Exclusive",
+    "meaning": "Limited to a specific person, group, or object; not shared",
+    "shortMeaning": "restricted",
+    "example": "This feature is exclusive to our premium users.",
+    "example2": "We have exclusive access to the API data.",
+    "example3": "The lock makes this resource exclusive to one process.",
+    "Explanation": "Exclusive means that something is reserved for a specific use or audience. It can also describe 'mutually exclusive' events, where two things cannot happen at the same time. This is a vital concept in multithreading and resource locking. It provides control and security. Use it when you want to highlight ownership or restriction.",
+    "synonyms": [
+      "restricted",
+      "sole",
+      "private"
+    ],
+    "antonyms": [
+      "inclusive",
+      "public",
+      "shared"
+    ],
+    "nounForm": "exclusion",
+    "verbForm": "exclude",
+    "adjectiveForm": "exclusive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, multithreading, business strategy",
+    "usageTip": "Use 'exclusive' for resources locked to one user.",
+    "commonMistake": "Confusing it with 'expensive'.",
+    "collocations": [
+      "exclusive access",
+      "mutually exclusive",
+      "exclusive rights"
+    ]
+  }
+]

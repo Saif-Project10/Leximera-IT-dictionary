@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unpartitioned",
+    "meaning": "Not divided into separate parts or sections",
+    "shortMeaning": "not divided into parts",
+    "example": "The hard drive was unpartitioned, so we had to create volumes before use.",
+    "example2": "The large, unpartitioned hall felt empty and impersonal.",
+    "example3": "An unpartitioned dataset is harder to manage and query efficiently.",
+    "Explanation": "The adjective 'unpartitioned' is used in technical and general contexts to describe something that exists as a single, undivided unit. In computing, it most commonly refers to a storage device (like a hard disk) that has not been logically divided into separate sections called partitions. Each partition can have its own file system and act like a separate drive. An unpartitioned disk cannot be used until it is partitioned. More generally, it can describe any space, data, or group that hasn't been segmented. The term is neutral but often implies a need for organization or separation to improve usability, management, or performance.",
+    "synonyms": [
+      "undivided",
+      "whole",
+      "single",
+      "non-partitioned"
+    ],
+    "antonyms": [
+      "partitioned",
+      "divided",
+      "segmented",
+      "sectioned"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "partition",
+    "adjectiveForm": "unpartitioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer storage, data management, architecture",
+    "usageTip": "In IT, it's a specific state of a disk that needs to be addressed during setup.",
+    "commonMistake": "Thinking an unpartitioned disk is broken; it's just not formatted for use.",
+    "collocations": [
+      "unpartitioned disk",
+      "unpartitioned space",
+      "unpartitioned table (in databases)",
+      "unpartitioned room"
+    ]
+  },
+  {
+    "word": "Unpartitioned",
+    "meaning": "Not divided into separate sections or logical drives",
+    "shortMeaning": "no sections",
+    "example": "The new hard drive arrived as unpartitioned space.",
+    "example2": "You must create a partition because the disk is currently unpartitioned.",
+    "example3": "The system cannot store files on unpartitioned memory.",
+    "Explanation": "Unpartitioned refers to storage space (like a hard disk or memory) that has not been divided into logical segments. Operating systems require partitions to manage file systems effectively. An unpartitioned drive is essentially 'raw' space that the computer cannot use for saving files until it is formatted and partitioned. It is a state that typically occurs with new hardware or after deleting all existing data volumes on a drive.",
+    "synonyms": [
+      "raw",
+      "undivided",
+      "unallocated"
+    ],
+    "antonyms": [
+      "partitioned",
+      "divided",
+      "formatted"
+    ],
+    "nounForm": "partition",
+    "verbForm": "partition",
+    "adjectiveForm": "unpartitioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage, hardware, operating systems",
+    "usageTip": "Use this to describe new storage that needs setup.",
+    "commonMistake": "Thinking an unpartitioned drive is ready for immediate file storage.",
+    "collocations": [
+      "unpartitioned space",
+      "unpartitioned drive",
+      "remains unpartitioned"
+    ]
+  },
+  {
+    "word": "Unpartitioned",
+    "meaning": "Refers to a storage space that has not been divided into separate logical segments.",
+    "shortMeaning": "no partitions",
+    "example": "The hard drive had a large chunk of unpartitioned space.",
+    "example2": "You must create a partition in the unpartitioned area to use it.",
+    "example3": "The OS installer could not detect the unpartitioned disk.",
+    "Explanation": "'Unpartitioned' means that a storage device, like a hard drive, is acting as a single, raw entity rather than having logical divisions. Before an OS can store files on a disk, the disk usually needs to be partitioned and formatted. Unpartitioned space cannot be assigned a drive letter or file system until a partition is defined. This state is common when setting up a new, factory-fresh drive. It is a technical term used primarily in disk management and OS installation.",
+    "synonyms": [
+      "raw",
+      "undivided",
+      "unallocated"
+    ],
+    "antonyms": [
+      "partitioned",
+      "divided",
+      "allocated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unpartitioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Disk management, OS installation",
+    "usageTip": "Use this for raw disk space that isn't ready for use.",
+    "commonMistake": "Assuming it means the drive is broken or corrupt.",
+    "collocations": [
+      "unpartitioned space",
+      "unpartitioned drive",
+      "unpartitioned disk"
+    ]
+  }
+]

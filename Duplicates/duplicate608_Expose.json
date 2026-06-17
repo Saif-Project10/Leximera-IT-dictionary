@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Expose",
+    "meaning": "1. To make something visible by uncovering it. 2. To reveal the truth about something, especially something wrong or secret. 3. To subject someone to an influence or experience.",
+    "shortMeaning": "reveal or uncover",
+    "example": "He pulled back the curtain to expose the beautiful view.",
+    "example2": "The journalist worked to expose the corruption.",
+    "example3": "Children should not be exposed to violent movies.",
+    "Explanation": "The verb 'expose' has a core meaning of making something hidden become seen or known. This can be neutral (exposing film to light) or negative (exposing a lie). It can also mean putting someone at risk (expose to danger) or introducing them to something new (expose to art). The noun form is 'exposure'. It is a strong verb often used in journalism, photography, and discussions of risk.",
+    "synonyms": [
+      "reveal",
+      "uncover",
+      "disclose",
+      "show"
+    ],
+    "antonyms": [
+      "cover",
+      "conceal",
+      "hide",
+      "protect"
+    ],
+    "nounForm": "exposure",
+    "verbForm": "expose",
+    "adjectiveForm": "exposed",
+    "partOfSpeech": "verb",
+    "commonContext": "Journalism, photography, safety, science",
+    "usageTip": "Use 'expose' when something hidden is revealed, often to the public or to a risk.",
+    "commonMistake": "Confusing 'expose' with 'explode'. They are not related.",
+    "collocations": [
+      "expose the truth",
+      "expose to danger",
+      "expose a secret",
+      "overexpose"
+    ]
+  },
+  {
+    "word": "Expose",
+    "meaning": "To reveal something that was hidden or to put something in a vulnerable position",
+    "shortMeaning": "reveal or uncover",
+    "example": "The report will expose the truth about the company.",
+    "example2": "Do not expose your password to anyone.",
+    "example3": "The API will expose the data to the frontend.",
+    "Explanation": "To 'expose' something means to make it visible or accessible. In web development, we 'expose' certain data through an API so other programs can read it. In security, 'exposure' is a bad thing, meaning a secret (like a key or password) has been leaked. It can also mean being physically uncovered, like exposing skin to the sun. It often carries a sense of making something vulnerable or bringing a secret to light.",
+    "synonyms": [
+      "reveal",
+      "uncover",
+      "disclose"
+    ],
+    "antonyms": [
+      "hide",
+      "cover",
+      "protect"
+    ],
+    "nounForm": "exposure",
+    "verbForm": "expose",
+    "adjectiveForm": "exposed",
+    "partOfSpeech": "verb",
+    "commonContext": "Security, journalism, and programming",
+    "usageTip": "Use 'expose' when making internal data available to the outside world.",
+    "commonMistake": "Using 'expose' for something that was never hidden.",
+    "collocations": [
+      "expose a bug",
+      "expose a secret",
+      "data exposure"
+    ]
+  }
+]

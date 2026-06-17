@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Unscramble",
+    "meaning": "To restore something from a mixed-up or confused state to its original order; to solve a jumbled puzzle.",
+    "shortMeaning": "solve a jumble",
+    "example": "Can you unscramble these letters to form a word?",
+    "example2": "The technician worked to unscramble the corrupted data.",
+    "example3": "It took me an hour to unscramble the mystery.",
+    "Explanation": "'Unscramble' is a verb that means to make something clear or orderly again after it has been mixed up. It is commonly used for word games, puzzles, and fixing scrambled information like codes or signals. The 'un-' prefix means to reverse the action of scrambling. It implies a process of decoding or rearranging. It's a fun and practical word used in both leisure activities and technical contexts.",
+    "synonyms": [
+      "decode",
+      "decipher",
+      "untangle"
+    ],
+    "antonyms": [
+      "scramble",
+      "jumble",
+      "mix up"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unscramble",
+    "adjectiveForm": "unscrambled",
+    "partOfSpeech": "verb",
+    "commonContext": "Word games, puzzles, data recovery, communications",
+    "usageTip": "Use 'unscramble' when talking about finding order in a deliberate or accidental mix-up.",
+    "commonMistake": "Confusing it with 'unravel', which is more about untangling threads or solving mysteries.",
+    "collocations": [
+      "unscramble a word",
+      "unscramble the message",
+      "unscramble eggs (idiomatic for impossible)"
+    ]
+  },
+  {
+    "word": "Unscramble",
+    "meaning": "To restore disorganized, jumbled, or confused data packets back into their proper readable arrangement",
+    "shortMeaning": "restore disorganized data layout",
+    "example": "Our communication script must unscramble the data packets that arrived out of order over the network.",
+    "example2": "The decryption software module helps engineers unscramble tracking logs after a system glitch.",
+    "example3": "It is nearly impossible to unscramble password keys without possessing the proper security tokens.",
+    "Explanation": "The word 'unscramble' means to reorder, clarify, or fix data that has become jumbled, chaotic, or intentionally mixed up. In networking contexts, packets traveling over different routing paths frequently arrive mixed up. The receiver interface must unscramble them using sequence index markers to rebuild the file data smoothly. It can also describe debugging efforts to read chaotic, malformed server files.",
+    "synonyms": [
+      "rearrange correctly",
+      "decode chaotic text",
+      "reorder layout rows",
+      "disentangle"
+    ],
+    "antonyms": [
+      "scramble",
+      "jumble",
+      "muddle",
+      "confuse"
+    ],
+    "nounForm": "unscrambler",
+    "verbForm": "unscramble",
+    "adjectiveForm": "unscrambled",
+    "partOfSpeech": "verb",
+    "commonContext": "Network packet ordering, file restoration systems, and debugging broken log transmissions",
+    "usageTip": "Use 'unscramble' when describing the physical or logical restoration of data packages that became disordered during transit.",
+    "commonMistake": "Confusing 'unscramble' with standard cryptography decryption; unscrambling focuses on structural alignment, not key decryption.",
+    "collocations": [
+      "unscramble data packages",
+      "unscramble code messages",
+      "automatically unscramble"
+    ]
+  }
+]

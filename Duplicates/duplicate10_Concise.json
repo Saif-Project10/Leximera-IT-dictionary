@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Concise",
+    "meaning": "Giving a lot of information clearly and in a few words; brief but comprehensive",
+    "shortMeaning": "short and clear",
+    "example": "Please keep your report concise and to the point.",
+    "example2": "His explanation was clear and concise.",
+    "example3": "A concise summary is often more useful than a long document.",
+    "Explanation": "'Concise' means expressing much in few words. It is a highly valued quality in business and technical writing. It is not just about being short (which is 'brief'), but about being short while still being complete and effective. A concise person avoids unnecessary words. The noun form is 'conciseness' or 'concision'. Striving for conciseness helps improve clarity and respect for the reader's time.",
+    "synonyms": [
+      "Brief",
+      "Compact",
+      "Pithy",
+      "Succinct",
+      "Terse"
+    ],
+    "antonyms": [
+      "Lengthy",
+      "Long-Winded",
+      "Rambling",
+      "Verbose",
+      "Wordy"
+    ],
+    "nounForm": "conciseness, concision",
+    "verbForm": "N/A",
+    "adjectiveForm": "concise",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business emails, reports, summaries, instructions, presentations",
+    "usageTip": "Use to describe communication that is both short and effectively informative.",
+    "commonMistake": "Thinking 'concise' means leaving out important details; it means including only the important ones.",
+    "collocations": [
+      "clear and concise",
+      "concise report",
+      "concise language",
+      "concise answer"
+    ]
+  },
+  {
+    "word": "Concise",
+    "meaning": "Giving a lot of information clearly and in a few words",
+    "shortMeaning": "brief and clear",
+    "example": "The documentation should be concise to ensure users read it.",
+    "example2": "He provided a concise summary of the project status.",
+    "example3": "Concise code is often easier to maintain.",
+    "Explanation": "Concise describes communication that is brief, clear, and avoids unnecessary fluff. In IT, concise documentation, clean code, and effective error messages are highly valued because they save time and reduce confusion. It does not mean being incomplete, just being efficient. The noun form is 'conciseness'. Striving for conciseness is a key skill for technical writers and developers.",
+    "synonyms": [
+      "brief",
+      "succinct",
+      "short"
+    ],
+    "antonyms": [
+      "wordy",
+      "long-winded",
+      "verbose"
+    ],
+    "nounForm": "conciseness",
+    "verbForm": "N/A",
+    "adjectiveForm": "concise",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, Programming",
+    "usageTip": "Always aim for concise communication in technical settings.",
+    "commonMistake": "Thinking 'concise' means 'short at the expense of accuracy'.",
+    "collocations": [
+      "concise summary",
+      "concise code"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Semantic",
+    "meaning": "Relating to the meaning of language or symbols",
+    "shortMeaning": "related to meaning",
+    "example": "HTML5 uses semantic tags like  and .",
+    "example2": "The search engine performed a semantic analysis of the query.",
+    "example3": "Semantic errors are hard to find because the code is valid but wrong.",
+    "Explanation": "Semantic relates to the actual meaning of information rather than its format or structure. In web development, semantic tags help browsers and search engines understand what the content is about (e.g., this is a navigation bar, not just a div). In AI, semantic search looks at the intent behind a user's words. Semantic errors in programming happen when the syntax is fine, but the logic does not do what you actually intended. Understanding semantics is key to making technology 'smart'.",
+    "synonyms": [
+      "meaningful",
+      "interpretive",
+      "logical"
+    ],
+    "antonyms": [
+      "syntactic",
+      "superficial",
+      "meaningless"
+    ],
+    "nounForm": "semantics",
+    "verbForm": "N/A",
+    "adjectiveForm": "semantic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, search engines, AI",
+    "usageTip": "Use 'semantic' to distinguish between 'how it looks' and 'what it means'.",
+    "commonMistake": "Confusing 'semantic' (meaning) with 'syntactic' (the rules of structure).",
+    "collocations": [
+      "semantic HTML",
+      "semantic search",
+      "semantic error"
+    ]
+  },
+  {
+    "word": "Semantic",
+    "meaning": "Related to the meaning of words or data structures",
+    "shortMeaning": "meaning-related",
+    "example": "The search engine uses semantic analysis to understand queries.",
+    "example2": "Semantic HTML tags like  help accessibility.",
+    "example3": "This is a semantic error, not a syntax error.",
+    "Explanation": "In IT, 'semantic' refers to the underlying meaning of information, not just the code's grammar. A semantic error happens when the code is written correctly (it follows the syntax rules) but does not do what you actually want it to do (e.g., adding instead of subtracting). In web development, semantic HTML uses tags that explain what the content is (like  or ) rather than just how it looks. This is crucial for search engines (SEO) and screen readers for the visually impaired.",
+    "synonyms": [
+      "meaningful",
+      "logical"
+    ],
+    "antonyms": [
+      "syntactic",
+      "arbitrary"
+    ],
+    "nounForm": "semantics",
+    "verbForm": "N/A",
+    "adjectiveForm": "semantic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, search engines, web design",
+    "usageTip": "Use 'semantic' when referring to the actual meaning of code.",
+    "commonMistake": "Confusing 'semantic error' with 'syntax error'.",
+    "collocations": [
+      "semantic HTML",
+      "semantic analysis"
+    ]
+  }
+]

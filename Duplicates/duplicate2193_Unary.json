@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Unary",
+    "meaning": "Involving only one single operand or variable.",
+    "shortMeaning": "single operand",
+    "example": "The increment operator is a unary operator.",
+    "example2": "A unary operation works on one value.",
+    "example3": "He implemented a unary function for the calculation.",
+    "Explanation": "In computer science, 'unary' refers to an operation or function that requires only one input or operand. For example, the negation operator '-' is a unary operator because it works on a single number. It is a fundamental concept in logic and programming. It is distinct from binary, which requires two inputs. Understanding unary vs. binary operations is important when learning how compilers interpret code.",
+    "synonyms": [
+      "single-operand"
+    ],
+    "antonyms": [
+      "binary",
+      "ternary"
+    ],
+    "nounForm": "unary",
+    "verbForm": "N/A",
+    "adjectiveForm": "unary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, mathematics, logic",
+    "usageTip": "Use this when discussing operators that take a single argument.",
+    "commonMistake": "Confusing 'unary' with 'unique'.",
+    "collocations": [
+      "unary operator",
+      "unary function",
+      "unary operation"
+    ]
+  },
+  {
+    "word": "Unary",
+    "meaning": "Involving only one component, operand, or variable.",
+    "shortMeaning": "having one part",
+    "example": "The minus sign is a common unary operator in programming.",
+    "example2": "A unary operation works on a single value.",
+    "example3": "We need to define a unary function for this input.",
+    "Explanation": "The word 'unary' is a technical term used in mathematics and computer science. A unary operation is one that requires only one input value, unlike binary operations which require two. For example, negation (turning a number negative) is a unary operation because it only needs the number itself. Understanding unary operators is essential for learning basic programming and logic. It is a very specific term used in computer architecture.",
+    "synonyms": [
+      "single",
+      "monadic",
+      "one-part"
+    ],
+    "antonyms": [
+      "binary",
+      "multiple",
+      "dual"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics and programming",
+    "usageTip": "Use 'unary' to describe operators that take only one input.",
+    "commonMistake": "Confusing 'unary' with 'binary'.",
+    "collocations": [
+      "unary operator",
+      "unary operation",
+      "unary function"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Attribute",
+    "meaning": "A quality or feature regarded as characteristic of someone or something; or to regard something as being caused by.",
+    "shortMeaning": "characteristic; or to credit as cause",
+    "example": "Kindness is her best attribute. (noun)",
+    "example2": "She attributes her success to hard work. (verb)",
+    "example3": "The sculpture is attributed to a famous artist. (verb)",
+    "Explanation": "'Attribute' has two distinct uses. As a noun, it means a characteristic or quality. As a verb, it means to regard something as being caused by or belonging to someone/something. The pronunciation differs: AT-trib-ute (noun) and a-TRIB-ute (verb). It's an important word in analysis, description, and attribution of credit or cause. Understanding context is key to knowing which meaning applies.",
+    "synonyms": [
+      "characteristic",
+      "quality",
+      "ascribe",
+      "credit"
+    ],
+    "antonyms": [
+      "discredit",
+      "dissociate"
+    ],
+    "nounForm": "attribute",
+    "verbForm": "attribute",
+    "adjectiveForm": "attributable",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Personality traits, analysis, art history, success factors",
+    "usageTip": "As a verb, always used with 'to': 'attribute the quote to Shakespeare'.",
+    "commonMistake": "Mispronouncing the noun and verb forms. Remember the stress pattern changes.",
+    "collocations": [
+      "key attribute",
+      "attribute to",
+      "personal attribute"
+    ]
+  },
+  {
+    "word": "Attribute",
+    "meaning": "A quality or feature that is part of a person or thing",
+    "shortMeaning": "feature or quality",
+    "example": "Patience is an important attribute for a good teacher.",
+    "example2": "The software allows you to change the file attribute to read-only.",
+    "example3": "Each product in the JSON has a 'price' attribute.",
+    "Explanation": "When used as a noun, an attribute is a characteristic. In computer science and HTML, attributes provide extra information about an element (like 'src' in an image tag). In database design, attributes are the columns that describe an entity. It helps in categorizing and defining the nature of an object. It is a very common term in programming and data management. It answers the question 'What are its properties?'",
+    "synonyms": [
+      "trait",
+      "characteristic",
+      "property"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "attribute",
+    "verbForm": "attribute",
+    "adjectiveForm": "attributive",
+    "partOfSpeech": "noun",
+    "commonContext": "Programming, database design, and character descriptions",
+    "usageTip": "In HTML or JSON, think of attributes as the 'key-value' pairs that describe an object.",
+    "commonMistake": "Confusing 'attribute' (noun) with 'attribute' (verb), which have different pronunciations.",
+    "collocations": [
+      "file attribute",
+      "html attribute",
+      "key attribute"
+    ]
+  }
+]

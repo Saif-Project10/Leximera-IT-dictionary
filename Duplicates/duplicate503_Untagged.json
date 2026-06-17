@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Untagged",
+    "meaning": "Not labeled or marked with a tag.",
+    "shortMeaning": "not labeled",
+    "example": "The untagged luggage was held at the airport.",
+    "example2": "In the photo library, many old pictures remain untagged.",
+    "example3": "The untagged fish were released back into the river.",
+    "Explanation": "The adjective 'untagged' simply means lacking a tag. A tag is a label, especially one that is attached by a string or wire. Untagged items are unlabeled, which can make them difficult to identify, track, or categorize. In social media, an 'untagged' photo is one where you are not identified by name. In research, untagged animals haven't been marked for study. It is a neutral, descriptive term often used in logistics, inventory, and data management to indicate a missing identifier.",
+    "synonyms": [
+      "unlabeled",
+      "unmarked",
+      "unidentified",
+      "uncategorized"
+    ],
+    "antonyms": [
+      "tagged",
+      "labeled",
+      "marked",
+      "identified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "tag",
+    "adjectiveForm": "untagged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Luggage, inventory, photography, social media, research",
+    "usageTip": "Specifically refers to the absence of a 'tag', which is often a physical or digital label attached for identification.",
+    "commonMistake": "Using it interchangeably with 'unmarked'; 'untagged' specifically implies the absence of a tag, which is a type of label.",
+    "collocations": [
+      "untagged items",
+      "untagged photos",
+      "leave untagged",
+      "untagged data"
+    ]
+  },
+  {
+    "word": "Untagged",
+    "meaning": "Not marked or identified with a tag or metadata label.",
+    "shortMeaning": "no tag",
+    "example": "The network traffic remained untagged in the switch.",
+    "example2": "Untagged files were moved to the archive folder.",
+    "example3": "The developer forgot to include an untagged variant.",
+    "Explanation": "The word 'untagged' describes items, such as data packets, documents, or objects, that lack an associated tag or identifier. In networking, untagged traffic is the default traffic that does not belong to a specific VLAN. In file management, it refers to items that have not been categorized. The base noun is 'tag' and the verb is 'tag'. Use this term to highlight the absence of classification in a system.",
+    "synonyms": [
+      "unlabeled",
+      "unmarked",
+      "unclassified"
+    ],
+    "antonyms": [
+      "tagged",
+      "labeled",
+      "marked"
+    ],
+    "nounForm": "tag",
+    "verbForm": "tag",
+    "adjectiveForm": "untagged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, file organization, and data classification",
+    "usageTip": "Use 'untagged' when describing assets that lack specific labels.",
+    "commonMistake": "Assuming untagged always means 'broken' in a network context.",
+    "collocations": [
+      "untagged traffic",
+      "untagged file",
+      "untagged data"
+    ]
+  },
+  {
+    "word": "Untagged",
+    "meaning": "Items or data that lack descriptive labels or metadata tags.",
+    "shortMeaning": "no tags",
+    "example": "The images are currently untagged.",
+    "example2": "Search cannot find these files because they are untagged.",
+    "example3": "Please ensure the new posts are not left untagged.",
+    "Explanation": "'Untagged' means that an object, file, or piece of data has not been marked with identifying tags. Tags are metadata used to categorize and organize digital assets. When data is untagged, it becomes very difficult to filter or search for it within a large system. Adding tags makes information discoverable, while leaving it untagged makes it nearly invisible in an organized repository. It is a common state for new data.",
+    "synonyms": [
+      "unlabeled",
+      "unclassified",
+      "unidentified"
+    ],
+    "antonyms": [
+      "tagged",
+      "labeled",
+      "categorized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "untag",
+    "adjectiveForm": "untagged",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data organization, digital libraries",
+    "usageTip": "Use this when data cannot be found easily.",
+    "commonMistake": "Confusing 'untagged' (metadata) with 'unmarked' (physical label).",
+    "collocations": [
+      "untagged file",
+      "untagged content",
+      "remain untagged"
+    ]
+  }
+]

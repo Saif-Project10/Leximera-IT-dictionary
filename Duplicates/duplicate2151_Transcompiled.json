@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Transcompiled",
+    "meaning": "Converted source code from one programming language to another",
+    "shortMeaning": "source to source conversion",
+    "example": "The JavaScript code was transcompiled from TypeScript.",
+    "example2": "Many developers use tools to ensure the code is transcompiled correctly.",
+    "example3": "The build process includes a step where the code is transcompiled.",
+    "Explanation": "Transcompilation, often called source-to-source compilation, is the process of turning code from one high-level language into another high-level language. This is popular in web development, for example, converting modern TypeScript into older, browser-compatible JavaScript. Unlike traditional compilers that turn code into machine language, this keeps the code in a human-readable high-level state. It is an essential part of modern frontend build pipelines. It allows developers to use new features while maintaining compatibility.",
+    "synonyms": [
+      "transpiled",
+      "converted",
+      "translated"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "transcompilation",
+    "verbForm": "transcompile",
+    "adjectiveForm": "transcompiled",
+    "partOfSpeech": "verb",
+    "commonContext": "Web development, language tools",
+    "usageTip": "Use this when moving between high-level programming languages.",
+    "commonMistake": "Confusing it with standard compilation which goes to machine code.",
+    "collocations": [
+      "transcompiled code",
+      "transcompiled output",
+      "automatic transcompilation"
+    ]
+  },
+  {
+    "word": "Transcompiled",
+    "meaning": "Converted from one programming language to another of similar abstraction level",
+    "shortMeaning": "source-to-source",
+    "example": "The legacy code was transcompiled to modern JavaScript.",
+    "example2": "We use a tool that has transcompiled our project.",
+    "example3": "The transcompiled code needs manual review for performance.",
+    "Explanation": "The term 'transcompiled' (or often 'transpiled') refers to the process of translating source code from one high-level language to another. Unlike compiling, which usually goes from high-level to low-level (machine code), transcompiling keeps the output at a high-level. This is very common in web development, for example, converting TypeScript to JavaScript or modern ES6 to older JS versions. It allows developers to use modern features while maintaining compatibility with older systems.",
+    "synonyms": [
+      "transpiled",
+      "converted",
+      "translated"
+    ],
+    "antonyms": [
+      "compiled"
+    ],
+    "nounForm": "transcompilation",
+    "verbForm": "transcompile",
+    "adjectiveForm": "transcompiled",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Software development, compilers, web development",
+    "usageTip": "Use when converting code between high-level languages.",
+    "commonMistake": "Using 'compiled' for code-to-code conversion.",
+    "collocations": [
+      "transcompiled code",
+      "transcompiled project",
+      "automatically transcompiled"
+    ]
+  }
+]

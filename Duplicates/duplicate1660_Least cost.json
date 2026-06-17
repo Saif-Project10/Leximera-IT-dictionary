@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Least cost",
+    "meaning": "Relating to the path, method, or choice that requires the minimum amount of money or resources.",
+    "shortMeaning": "cheapest option",
+    "example": "The software automatically selects the least cost path for the data packets.",
+    "example2": "We conducted a least cost analysis to decide between two cloud providers.",
+    "example3": "Least cost manufacturing is essential for staying competitive in the market.",
+    "Explanation": "The 'least cost' principle is used in optimization and economics. It simply means choosing the option that uses the fewest resources (money, time, or energy). In computer networking, this refers to 'routing', where a router picks the 'cheapest' link to send data. In business, it's about minimizing expenses while maintaining quality. It is a primary goal in logistics and supply chain management. Every automated decision system usually has a 'least cost' rule built into its logic.",
+    "synonyms": [
+      "minimum cost",
+      "lowest expense",
+      "most economical"
+    ],
+    "antonyms": [
+      "most expensive",
+      "highest cost"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least cost",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logistics, networking, and business strategy",
+    "usageTip": "Use this term when comparing different routes or strategies based on price.",
+    "commonMistake": "Assuming 'least cost' always means 'best'; sometimes the cheapest path is the slowest or least reliable.",
+    "collocations": [
+      "least cost routing",
+      "least cost analysis",
+      "least cost path"
+    ]
+  },
+  {
+    "word": "Least cost",
+    "meaning": "The option that requires the lowest expenditure",
+    "shortMeaning": "cheapest option",
+    "example": "We performed a least cost analysis for the infrastructure.",
+    "example2": "The routing algorithm uses a least cost path.",
+    "example3": "Our goal is a least cost implementation.",
+    "Explanation": "Least cost describes an approach or selection process where the main objective is to minimize financial expenditure or resource consumption. In networking, a 'least cost' routing algorithm tries to find the path between two points that consumes the fewest resources (e.g., bandwidth or money). It is a standard term in economics, operations research, and system design optimization.",
+    "synonyms": [
+      "lowest cost",
+      "cheapest",
+      "most economical"
+    ],
+    "antonyms": [
+      "highest cost",
+      "most expensive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least cost",
+    "partOfSpeech": "adjective",
+    "commonContext": "Routing, budget planning, optimization",
+    "usageTip": "Use 'least cost' to sound professional in budget discussions.",
+    "commonMistake": "Focusing only on least cost and ignoring quality.",
+    "collocations": [
+      "least cost analysis",
+      "least cost path",
+      "least cost routing"
+    ]
+  }
+]

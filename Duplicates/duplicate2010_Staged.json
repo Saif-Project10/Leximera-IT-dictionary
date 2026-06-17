@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Staged",
+    "meaning": "Organized in distinct steps or planned in an environment",
+    "shortMeaning": "step-by-step",
+    "example": "The rollout will be staged over several weeks.",
+    "example2": "We have a staged environment for testing.",
+    "example3": "The project is staged into three distinct phases.",
+    "Explanation": "The word 'staged' can mean divided into phases, or placed in a 'staging' environment before going live. A 'staged rollout' releases a feature to a small group first to check for bugs before everyone gets it. A 'staging environment' is a perfect copy of the live site where testing happens. Both meanings imply a careful, controlled, step-by-step approach. It is a very professional word used to indicate caution, control, and quality assurance. Always use it when you want to show that you are being careful.",
+    "synonyms": [
+      "planned",
+      "phased",
+      "prepared"
+    ],
+    "antonyms": [
+      "instant",
+      "direct",
+      "uncontrolled"
+    ],
+    "nounForm": "staging",
+    "verbForm": "stage",
+    "adjectiveForm": "staged",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Deployment, testing, project management",
+    "usageTip": "Use to describe careful, step-by-step releases.",
+    "commonMistake": "Confusing 'staged' (phased) with 'staged' (fake/set up).",
+    "collocations": [
+      "staged rollout",
+      "staging environment",
+      "staged deployment"
+    ]
+  },
+  {
+    "word": "Staged",
+    "meaning": "Organized or carried out in specific phases or steps",
+    "shortMeaning": "planned in phases",
+    "example": "The migration to the cloud was staged over several months.",
+    "example2": "We used a staged deployment to ensure minimal disruption.",
+    "example3": "The update was staged in the testing environment before production.",
+    "Explanation": "The word 'staged' implies that a process is broken down into deliberate, sequential parts. In IT project management and deployment, staging allows for testing each component before the final release. This minimizes risks and allows for easier troubleshooting. It is a professional way to describe careful, step-by-step progress. It ensures that the transition between states is controlled and predictable.",
+    "synonyms": [
+      "phased",
+      "scheduled",
+      "planned"
+    ],
+    "antonyms": [
+      "immediate",
+      "unplanned",
+      "simultaneous"
+    ],
+    "nounForm": "stage",
+    "verbForm": "stage",
+    "adjectiveForm": "staged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, software deployment",
+    "usageTip": "Use 'staged' to emphasize a planned, controlled approach.",
+    "commonMistake": "Thinking 'staged' always implies something fake; in IT, it means organized.",
+    "collocations": [
+      "staged deployment",
+      "staged migration",
+      "staged approach"
+    ]
+  }
+]

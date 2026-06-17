@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Comment",
+    "meaning": "A spoken or written remark expressing an opinion or reaction.",
+    "shortMeaning": "a remark",
+    "example": "He made a positive comment about her presentation.",
+    "example2": "Please leave a comment below the article.",
+    "example3": "The teacher's comments helped improve my essay.",
+    "Explanation": "A comment is a brief statement that gives an opinion, observation, or explanation. It's a common word in everyday conversation, online discussions, and professional feedback. Comments can be formal or informal. The verb form means to make such a remark. It's important to note that a comment is not necessarily a full analysis; it's often a quick input. Avoid confusing it with 'commend,' which means to praise formally. Understanding this difference helps in clear communication, especially in writing and online platforms where comments are frequent.",
+    "synonyms": [
+      "remark",
+      "observation",
+      "note",
+      "statement"
+    ],
+    "antonyms": [
+      "silence",
+      "N/A"
+    ],
+    "nounForm": "comment",
+    "verbForm": "comment",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Online forums, discussions, feedback, and casual conversation.",
+    "usageTip": "Use 'comment on' something, not 'comment about' in formal writing (e.g., 'She commented on the plan').",
+    "commonMistake": "Confusing 'comment' with 'commend' (to praise).",
+    "collocations": [
+      "no comment",
+      "public comment",
+      "comment section"
+    ]
+  },
+  {
+    "word": "Comment",
+    "meaning": "A note in the source code that is ignored by the computer but helpful for humans",
+    "shortMeaning": "code note",
+    "example": "You should add a comment to explain why this complex logic is needed.",
+    "example2": "Users can leave a comment at the bottom of the blog post.",
+    "example3": "The developer had to comment out the old code to test the new feature.",
+    "Explanation": "In programming, a 'comment' is text written inside a file that the compiler or interpreter does not run. Its only purpose is to explain to other people (or yourself in the future) what the code is doing. Good comments make code much easier to maintain. You can also 'comment out' code, which means turning actual instructions into comments so they don't run. Outside of code, it refers to the feedback users leave on websites or apps.",
+    "synonyms": [
+      "note",
+      "annotation",
+      "feedback"
+    ],
+    "antonyms": [
+      "code",
+      "instruction"
+    ],
+    "nounForm": "comment / commentary",
+    "verbForm": "comment / comment out",
+    "adjectiveForm": "commentary",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming (documentation) and social interaction",
+    "usageTip": "Write comments that explain 'why' something is being done, not just 'what' the code is.",
+    "commonMistake": "Writing too many obvious comments or leaving messy 'commented out' code in production.",
+    "collocations": [
+      "add a comment",
+      "comment out code",
+      "user comment"
+    ]
+  }
+]

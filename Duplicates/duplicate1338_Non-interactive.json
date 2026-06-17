@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Non-interactive",
+    "meaning": "Not involving interaction; not allowing for two-way communication or input",
+    "shortMeaning": "no interaction",
+    "example": "The lecture was a non-interactive, one-hour monologue.",
+    "example2": "This is a non-interactive video tutorial.",
+    "example3": "The kiosk was in non-interactive demo mode.",
+    "Explanation": "'Non-interactive' describes a process, medium, or system where the user, viewer, or participant is a passive receiver of information, with no opportunity to respond, control, or influence the flow. This contrasts with interactive experiences like video games, workshops, or live Q&A sessions. It can be a neutral description (a TV broadcast) or a negative one (a boring class). It's commonly used in education, computing, and media design.",
+    "synonyms": [
+      "passive",
+      "one-way",
+      "static"
+    ],
+    "antonyms": [
+      "interactive",
+      "participatory",
+      "responsive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "interact",
+    "adjectiveForm": "non-interactive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Education, software design, presentations, media",
+    "usageTip": "Use to describe content where the audience cannot click, respond, or change the outcome.",
+    "commonMistake": "Using it to mean 'not interesting'. Something can be interesting but still non-interactive (e.g., a gripping movie).",
+    "collocations": [
+      "non-interactive mode",
+      "non-interactive content",
+      "non-interactive session"
+    ]
+  },
+  {
+    "word": "Non-interactive",
+    "meaning": "A system that doesn't need or expect human input during operation",
+    "shortMeaning": "not needing input",
+    "example": "The batch script is non-interactive and runs in the background.",
+    "example2": "Avoid non-interactive designs for user-focused apps.",
+    "example3": "The server runs non-interactive tasks during off-peak hours.",
+    "Explanation": "A 'non-interactive' process is one designed to run start-to-finish without needing a person to click buttons, type text, or answer prompts. These are the workhorses of IT—background jobs, data processing tasks, and automation scripts all run in a non-interactive mode. Building non-interactive systems is a key skill because it allows you to automate everything, freeing up human time for higher-level tasks and ensuring that processes can run overnight or on a schedule.",
+    "synonyms": [
+      "automated",
+      "background",
+      "unattended"
+    ],
+    "antonyms": [
+      "interactive"
+    ],
+    "nounForm": "automation",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-interactive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation and task scheduling",
+    "usageTip": "Use 'non-interactive' for background tasks that don't require user input.",
+    "commonMistake": "Trying to run an interactive script in a non-interactive environment; the script will hang forever.",
+    "collocations": [
+      "non-interactive script",
+      "non-interactive process",
+      "non-interactive task"
+    ]
+  }
+]

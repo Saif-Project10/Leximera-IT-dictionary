@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Surveillance",
+    "meaning": "The act of watching or monitoring someone or something",
+    "shortMeaning": "monitoring",
+    "example": "The building uses video surveillance for security.",
+    "example2": "The system provides constant network surveillance.",
+    "example3": "He is in charge of data surveillance and privacy.",
+    "Explanation": "The word 'surveillance' refers to the close observation of a person, group, or system, typically to monitor for security or suspicious activity. In the IT context, it can refer to 'network surveillance' or 'data surveillance' to track performance or detect cyber threats. Because the word carries implications of privacy and ethics, it should be used carefully. It is a formal, serious word. Make sure the context (security vs. privacy) is clear when using it.",
+    "synonyms": [
+      "monitoring",
+      "observation",
+      "watching"
+    ],
+    "antonyms": [
+      "privacy",
+      "freedom"
+    ],
+    "nounForm": "surveillance",
+    "verbForm": "N/A",
+    "adjectiveForm": "surveillance",
+    "partOfSpeech": "noun",
+    "commonContext": "Security, networking, ethics",
+    "usageTip": "Use 'surveillance' for professional monitoring, but be mindful of privacy connotations.",
+    "commonMistake": "Using 'surveillance' for routine performance monitoring (use 'tracking' or 'monitoring' instead).",
+    "collocations": [
+      "video surveillance",
+      "network surveillance",
+      "constant surveillance"
+    ]
+  },
+  {
+    "word": "Surveillance",
+    "meaning": "The act of closely monitoring someone or something",
+    "shortMeaning": "monitoring",
+    "example": "The network is under constant surveillance for security threats.",
+    "example2": "Surveillance cameras are used to protect the data center.",
+    "example3": "Traffic surveillance helps manage network congestion.",
+    "Explanation": "Surveillance refers to continuous observation or monitoring. In IT, it usually relates to network security (monitoring traffic) or physical security (cameras in a server room). It implies a systematic approach to watching for problems or unauthorized access. It is a serious term often associated with security and privacy. Ensure you use it in the correct legal and ethical context when discussing data monitoring.",
+    "synonyms": [
+      "monitoring",
+      "observation",
+      "watch"
+    ],
+    "antonyms": [
+      "privacy",
+      "disregard",
+      "neglect"
+    ],
+    "nounForm": "surveillance",
+    "verbForm": "N/A",
+    "adjectiveForm": "surveillance",
+    "partOfSpeech": "noun",
+    "commonContext": "Network security, physical security, IT administration",
+    "usageTip": "Use 'surveillance' for systematic monitoring of security.",
+    "commonMistake": "Confusing 'surveillance' with 'supervision' (surveillance is about watching; supervision is about managing).",
+    "collocations": [
+      "surveillance camera",
+      "network surveillance",
+      "constant surveillance"
+    ]
+  }
+]

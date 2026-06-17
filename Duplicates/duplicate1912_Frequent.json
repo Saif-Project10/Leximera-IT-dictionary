@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Frequent",
+    "meaning": "Happening or doing something often",
+    "shortMeaning": "happens often",
+    "example": "Frequent updates are necessary to maintain system security.",
+    "example2": "The user is a frequent visitor to the dashboard.",
+    "example3": "Frequent errors indicate a bug in the code.",
+    "Explanation": "The word 'frequent' simply means something occurs many times or at short intervals. It is a common word for describing the rate of events. In IT, you might speak of 'frequent releases', 'frequent updates', or 'frequent crashes'. It is a neutral term for frequency. Always pair it with the event you are describing. It doesn't imply if the occurrence is good or bad, just how often it happens. Use it to set expectations or analyze trends.",
+    "synonyms": [
+      "common",
+      "constant",
+      "recurrent"
+    ],
+    "antonyms": [
+      "rare",
+      "infrequent",
+      "seldom"
+    ],
+    "nounForm": "frequency",
+    "verbForm": "frequent",
+    "adjectiveForm": "frequent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Reporting, scheduling, and error analysis",
+    "usageTip": "Use 'frequent' to describe how often something happens.",
+    "commonMistake": "Confusing 'frequent' (adjective) with 'frequency' (noun).",
+    "collocations": [
+      "frequent updates",
+      "frequent visitor",
+      "frequent errors"
+    ]
+  },
+  {
+    "word": "Frequent",
+    "meaning": "Happening often or repeatedly",
+    "shortMeaning": "often",
+    "example": "Frequent updates are necessary for keeping the app secure.",
+    "example2": "He is a frequent visitor to the local library.",
+    "example3": "The website experienced frequent crashes during the peak hour.",
+    "Explanation": "The word 'frequent' describes the rate or density of an occurrence. If something happens many times in a short period, it is frequent. In IT, we talk about 'Frequent Itemsets' in data mining or 'frequent backups' in system administration. As a verb (pronounced differently), 'to frequent' means to visit a place often. It is a common adjective used to describe habits, patterns, and system behaviors. It is the opposite of 'rare' or 'seldom'.",
+    "synonyms": [
+      "common",
+      "repeated",
+      "recurrent"
+    ],
+    "antonyms": [
+      "rare",
+      "infrequent",
+      "occasional"
+    ],
+    "nounForm": "frequency",
+    "verbForm": "frequent",
+    "adjectiveForm": "frequent",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Statistics, habits, and system logs",
+    "usageTip": "Use 'frequent' to describe things that happen regularly.",
+    "commonMistake": "Using 'frequency' (the noun) when you need an adjective (frequent).",
+    "collocations": [
+      "frequent flyer",
+      "frequent occurrence",
+      "frequent contact"
+    ]
+  }
+]

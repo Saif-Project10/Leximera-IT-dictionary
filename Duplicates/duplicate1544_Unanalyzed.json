@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unanalyzed",
+    "meaning": "Not examined or studied in detail; not subjected to analysis",
+    "shortMeaning": "not analyzed",
+    "example": "The data remained unanalyzed for months.",
+    "example2": "He made a decision based on unanalyzed assumptions.",
+    "example3": "A pile of unanalyzed samples sat in the lab.",
+    "Explanation": "The adjective 'unanalyzed' describes information, data, materials, or ideas that have not been broken down and studied systematically to understand their nature, structure, or meaning. It is a neutral state-of-being word, often used in scientific, business, or intellectual contexts to indicate pending work or a potential source of insight. Leaving something unanalyzed can imply a missed opportunity or a lack of resources. The word is straightforward, formed by adding the prefix 'un-' to the past participle 'analyzed'. It highlights a gap between raw information and derived understanding.",
+    "synonyms": [
+      "unexamined",
+      "unstudied",
+      "unprocessed",
+      "raw"
+    ],
+    "antonyms": [
+      "analyzed",
+      "examined",
+      "studied",
+      "processed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "analyze",
+    "adjectiveForm": "unanalyzed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, data science, decision-making, criticism",
+    "usageTip": "Often used to point out a lack of due diligence or a backlog of work.",
+    "commonMistake": "Confusing it with 'unanalyzable', which means impossible to analyze.",
+    "collocations": [
+      "unanalyzed data",
+      "unanalyzed sample",
+      "unanalyzed risk",
+      "left unanalyzed"
+    ]
+  },
+  {
+    "word": "Unanalyzed",
+    "meaning": "Not yet examined or studied in detail.",
+    "shortMeaning": "not checked",
+    "example": "We have a large pile of unanalyzed data.",
+    "example2": "The logs remain unanalyzed for this week.",
+    "example3": "The results are currently unanalyzed.",
+    "Explanation": "Unanalyzed means that data, code, or information has been collected but has not yet been processed or studied. In the context of IT, it is very common to have unanalyzed logs or databases. Once the data is analyzed, it provides insights, but while unanalyzed, it is just raw information. It implies that work is still needed to understand the contents. This is a common state for data in early development phases.",
+    "synonyms": [
+      "unprocessed",
+      "unexamined",
+      "raw"
+    ],
+    "antonyms": [
+      "analyzed",
+      "processed",
+      "studied"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "analyze",
+    "adjectiveForm": "unanalyzed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, logs, research",
+    "usageTip": "Use this when talking about data that is waiting for processing.",
+    "commonMistake": "Confusing it with 'ignored'.",
+    "collocations": [
+      "unanalyzed data",
+      "unanalyzed logs",
+      "remains unanalyzed"
+    ]
+  },
+  {
+    "word": "Unanalyzed",
+    "meaning": "Not examined or studied in detail.",
+    "shortMeaning": "not checked",
+    "example": "The raw data remains unanalyzed for now.",
+    "example2": "We have many unanalyzed logs from the server.",
+    "example3": "An unanalyzed report is not useful for decision making.",
+    "Explanation": "The term 'unanalyzed' means that something has not yet been processed or studied. In data science and IT, this usually refers to datasets or log files that are sitting in a folder but have not been queried or inspected. It indicates a state of 'work in progress' where the potential value is locked. Once the data is analyzed, it becomes actionable information. This is a common status for raw data in big data projects.",
+    "synonyms": [
+      "unprocessed",
+      "unexamined",
+      "unstudied"
+    ],
+    "antonyms": [
+      "analyzed",
+      "processed",
+      "studied"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unanalyzed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science and database management",
+    "usageTip": "Use 'unanalyzed' to describe raw, untouched data.",
+    "commonMistake": "Using 'unanalyzed' for data that is incorrect.",
+    "collocations": [
+      "unanalyzed data",
+      "unanalyzed logs",
+      "remain unanalyzed"
+    ]
+  }
+]

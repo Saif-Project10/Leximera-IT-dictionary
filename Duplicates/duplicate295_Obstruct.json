@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Obstruct",
+    "meaning": "To block or get in the way of something.",
+    "shortMeaning": "block, hinder",
+    "example": "A fallen tree obstructed the road.",
+    "example2": "He was accused of obstructing justice.",
+    "example3": "Don't obstruct the emergency exit.",
+    "Explanation": "The verb 'obstruct' means to physically block a path, passage, or view, or to deliberately prevent a process from happening. It is stronger than 'hinder'; it implies a more complete blockage. It is commonly used in legal contexts (obstructing an officer) and physical descriptions. The noun is 'obstruction'. It has a negative connotation, suggesting something is wrongfully in the way. A common mistake is confusing it with 'abstract', which is unrelated. 'Obstruct' is an active verb, often implying intention, especially in non-physical contexts.",
+    "synonyms": [
+      "Bar",
+      "Block",
+      "Hamper",
+      "Hinder",
+      "Impede"
+    ],
+    "antonyms": [
+      "Aid",
+      "Assist",
+      "Clear",
+      "Facilitate",
+      "Unblock"
+    ],
+    "nounForm": "obstruction",
+    "verbForm": "obstruct",
+    "adjectiveForm": "obstructive",
+    "partOfSpeech": "verb",
+    "commonContext": "Paths, justice, views, processes",
+    "usageTip": "In law, 'obstruction of justice' is a serious crime involving interference with legal proceedings.",
+    "commonMistake": "Confusing 'obstruct' (to block) with 'abstract' (theoretical).",
+    "collocations": [
+      "obstruct the view",
+      "obstruct justice",
+      "deliberately obstruct"
+    ]
+  },
+  {
+    "word": "Obstruct",
+    "meaning": "To block a path or to prevent something from happening",
+    "shortMeaning": "block",
+    "example": "A fallen tree will obstruct the road.",
+    "example2": "The firewall might obstruct the connection to the server.",
+    "example3": "Do not obstruct the investigation by hiding evidence.",
+    "Explanation": "Obstruct means to get in the way. It can be a physical blockage, like a chair in a doorway, or a non-physical one, like a law that blocks progress. In IT, we use it when a process is stopped by an error or a security setting. For example, a pop-up might obstruct the view of a website. It usually carries a negative tone, as it stops things from moving smoothly.",
+    "synonyms": [
+      "block",
+      "hinder",
+      "impede"
+    ],
+    "antonyms": [
+      "clear",
+      "help",
+      "assist"
+    ],
+    "nounForm": "obstruction",
+    "verbForm": "obstruct",
+    "adjectiveForm": "obstructive",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking, physical space, and law",
+    "usageTip": "Use 'obstruct' when something is physically or logically in the way.",
+    "commonMistake": "Confusing 'obstruct' with 'destroy'; obstructing just stops movement, it doesn't break the object.",
+    "collocations": [
+      "obstruct a view",
+      "obstruct progress",
+      "obstruct the signal"
+    ]
+  }
+]

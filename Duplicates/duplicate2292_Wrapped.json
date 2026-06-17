@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Wrapped",
+    "meaning": "Enclosed or covered in something; often used for data encapsulation.",
+    "shortMeaning": "enclosed",
+    "example": "The request is wrapped in a secure envelope.",
+    "example2": "Data is wrapped in JSON format for the API.",
+    "example3": "The logic is wrapped in a try-catch block.",
+    "Explanation": "The word 'wrapped' means that something is enclosed or encapsulated within another structure. In coding, you 'wrap' code in a function, or you 'wrap' data in a packet or container. The base verb is 'wrap'. This is a fundamental concept in abstraction and security, where you shield the inner content by wrapping it in an outer layer. It allows the system to handle the content in a specific, standardized way.",
+    "synonyms": [
+      "encapsulated",
+      "enclosed",
+      "covered"
+    ],
+    "antonyms": [
+      "unwrapped",
+      "exposed"
+    ],
+    "nounForm": "wrap",
+    "verbForm": "wrap",
+    "adjectiveForm": "wrapped",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Programming, networking, data formatting",
+    "usageTip": "Use 'wrapped' when discussing data encapsulation.",
+    "commonMistake": "Forgetting to unwrap data when processing it.",
+    "collocations": [
+      "wrapped in",
+      "wrapped code",
+      "wrapped data"
+    ]
+  },
+  {
+    "word": "Wrapped",
+    "meaning": "Covered or enclosed in material, or finished",
+    "shortMeaning": "covered or finished",
+    "example": "The cables are wrapped in protective plastic.",
+    "example2": "The project is finally wrapped up for the year.",
+    "example3": "The data is wrapped in a JSON format.",
+    "Explanation": "To 'wrap' something means to cover it or surround it. In IT, 'wrapping' often refers to placing data or code within a container (like an API wrapper) to change how it is interacted with or to protect it. It also informally means to finish a task ('wrap up'). Understanding 'wrapping' as a technical concept is vital for working with APIs, packaging software, or organizing cable management for neatness and safety.",
+    "synonyms": [
+      "covered",
+      "enclosed",
+      "finished"
+    ],
+    "antonyms": [
+      "unwrapped",
+      "exposed",
+      "open"
+    ],
+    "nounForm": "wrap",
+    "verbForm": "wrap",
+    "adjectiveForm": "wrapped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data structures, project management, hardware",
+    "usageTip": "Use 'wrapped' for data in containers or finishing a project.",
+    "commonMistake": "Confusing 'wrapped' (the past tense) with 'rap' (a style of music or a quick knock).",
+    "collocations": [
+      "wrapped in",
+      "wrap up",
+      "wrapped data"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Impose",
+    "meaning": "To force something to be accepted or put in place.",
+    "shortMeaning": "force upon",
+    "example": "The judge imposed a heavy fine on the company.",
+    "example2": "Parents should not impose their own dreams on their children.",
+    "example3": "I don't want to impose, but could I stay for one night?",
+    "Explanation": "To impose is to establish or apply something, often authority, a rule, a burden, or one's presence, in an unwelcome or authoritative way. It implies exerting power or influence over others without their consent. It can be negative (impose sanctions, impose one's will) or a polite expression of not wanting to be a burden ('I don't want to impose'). The word comes from Latin 'imponere', meaning 'to place upon'. It's a key verb in law, politics, and social interactions where power dynamics are involved.",
+    "synonyms": [
+      "levy",
+      "enforce",
+      "inflict",
+      "burden",
+      "apply"
+    ],
+    "antonyms": [
+      "remove",
+      "lift",
+      "withdraw",
+      "free"
+    ],
+    "nounForm": "imposition",
+    "verbForm": "impose",
+    "adjectiveForm": "imposed",
+    "partOfSpeech": "verb",
+    "commonContext": "Laws, taxes, will, burdens, visits",
+    "usageTip": "Often used with 'on' or 'upon' (impose a tax on, impose on your hospitality).",
+    "commonMistake": "Using 'impose' to mean 'suggest'. Impose is stronger, meaning to force or place a burden.",
+    "collocations": [
+      "impose sanctions",
+      "impose a ban",
+      "impose on someone",
+      "impose order"
+    ]
+  },
+  {
+    "word": "Impose",
+    "meaning": "To force a rule, a penalty, or a limit on a system or a person",
+    "shortMeaning": "force a rule",
+    "example": "The firewalls impose strict rules on which traffic can enter the network.",
+    "example2": "Governments may impose new laws on data privacy next year.",
+    "example3": "We should not impose too many restrictions on our developers.",
+    "Explanation": "To 'impose' means to apply something firmly, whether it is liked or not. In IT, a system might 'impose' a time limit on a user's session for security. A database might 'impose' a limit on how much text you can type into a field. It often refers to 'constraints' (rules) that keep a system organized or safe. It is a more formal and forceful word than 'suggest' or 'add'.",
+    "synonyms": [
+      "enforce",
+      "dictate",
+      "apply"
+    ],
+    "antonyms": [
+      "remove",
+      "lift",
+      "waive"
+    ],
+    "nounForm": "imposition",
+    "verbForm": "impose",
+    "adjectiveForm": "imposing",
+    "partOfSpeech": "verb",
+    "commonContext": "Rules, security, and laws",
+    "usageTip": "Use 'impose' when a rule is mandatory and cannot be ignored.",
+    "commonMistake": "Using 'impose' for a choice; it is only for things that are forced.",
+    "collocations": [
+      "impose a limit",
+      "impose a fine",
+      "impose restrictions"
+    ]
+  }
+]

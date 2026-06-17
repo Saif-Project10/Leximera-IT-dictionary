@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Cover",
+    "meaning": "To place something over or in front of an object; also, something that covers.",
+    "shortMeaning": "to put over; a lid or top",
+    "example": "Please cover the food with plastic wrap. (verb)",
+    "example2": "The book has a beautiful blue cover. (noun)",
+    "example3": "Her insurance will cover the cost of repairs. (verb)",
+    "Explanation": "Cover is an extremely versatile word with many meanings as both a verb and a noun. The core idea is protection or concealment. As a verb, it can mean to place a layer on top, to include or deal with (as in 'the report covers three topics'), to travel a distance, or to provide insurance. As a noun, it's the thing that provides shelter or concealment, like a lid, a book's cover, or shelter from the weather. The context is essential for understanding its specific meaning.",
+    "synonyms": [
+      "conceal",
+      "protect",
+      "lid",
+      "top",
+      "include"
+    ],
+    "antonyms": [
+      "uncover",
+      "expose",
+      "reveal"
+    ],
+    "nounForm": "cover",
+    "verbForm": "cover",
+    "adjectiveForm": "covered",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Protection, insurance, books, journalism, travel",
+    "usageTip": "Think of the basic meaning 'to put something over something else'. Most other meanings extend from this idea.",
+    "commonMistake": "Confusing 'cover' with 'discover'. 'Discover' means to find for the first time.",
+    "collocations": [
+      "front cover",
+      "cover letter",
+      "cover story",
+      "provide cover",
+      "cover costs"
+    ]
+  },
+  {
+    "word": "Cover",
+    "meaning": "To put something over another thing, or to include a topic",
+    "shortMeaning": "overlay or include",
+    "example": "Make sure to cover the server rack to protect it from dust.",
+    "example2": "The new course will cover all the basics of JavaScript.",
+    "example3": "The warranty does not cover accidental damage.",
+    "Explanation": "Covering can be physical, like placing a lid on a box, or conceptual, like including a subject in a talk. In IT, a manual might 'cover' how to set up a network. It also means protection; an insurance policy 'covers' certain risks. In coding, 'test coverage' refers to how much of your code is actually checked by your tests. It is a very broad word that is used in almost every situation. Whether you are talking about a book 'cover' or a 'coverage' area for a cell tower, the idea is about spreading over or including something.",
+    "synonyms": [
+      "include",
+      "overlay",
+      "protect"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose",
+      "exclude"
+    ],
+    "nounForm": "cover / coverage",
+    "verbForm": "cover",
+    "adjectiveForm": "covered",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Education, protection, documentation",
+    "usageTip": "Use 'cover' when you want to say that a lesson or a book includes a specific topic.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "front cover",
+      "insurance cover",
+      "test coverage"
+    ]
+  }
+]

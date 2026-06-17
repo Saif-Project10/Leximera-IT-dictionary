@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uncovered",
+    "meaning": "Not protected or not included in scope",
+    "shortMeaning": "not covered",
+    "example": "Many edge cases remain uncovered by our tests.",
+    "example2": "The uncovered port was a security vulnerability.",
+    "example3": "The report left many critical issues uncovered.",
+    "Explanation": "Uncovered means something has been left exposed, unprotected, or omitted from a scope. In testing, 'uncovered code' is code that has not been executed by test suites, indicating a gap in quality. In security, an 'uncovered port' is a hole for attackers. Recognizing what is uncovered helps prioritize development, security auditing, and test coverage improvements to ensure the whole system is safe and reliable.",
+    "synonyms": [
+      "exposed",
+      "omitted",
+      " unprotected"
+    ],
+    "antonyms": [
+      "covered",
+      "protected",
+      "included"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "uncover",
+    "adjectiveForm": "uncovered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Testing, security, documentation",
+    "usageTip": "Use to describe gaps in testing or safety.",
+    "commonMistake": "Ignoring uncovered code during releases.",
+    "collocations": [
+      "uncovered code",
+      "leave uncovered",
+      "remains uncovered"
+    ]
+  },
+  {
+    "word": "Uncovered",
+    "meaning": "Not protected, hidden, or dealt with",
+    "shortMeaning": "not hidden / not protected",
+    "example": "The security vulnerability was left uncovered.",
+    "example2": "He uncovered the secret logic in the source code.",
+    "example3": "The testing plan left several modules uncovered.",
+    "Explanation": "The word 'uncovered' has two meanings. First, it means revealed or discovered, such as 'he uncovered the bug'. Second, it can mean not protected or not included in a plan, such as 'that scenario was uncovered by our tests'. In IT, it is very common to use it in the context of 'test coverage', where it means parts of the code have not been checked. The context of the sentence will help clarify which meaning is intended.",
+    "synonyms": [
+      "revealed",
+      "exposed",
+      "unprotected"
+    ],
+    "antonyms": [
+      "covered",
+      "protected",
+      "hidden"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "uncover",
+    "adjectiveForm": "uncovered",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, research, and software testing",
+    "usageTip": "Pay attention to context to distinguish 'found' vs 'not included'.",
+    "commonMistake": "Using 'uncovered' for 'not discovered' when it usually means 'found'.",
+    "collocations": [
+      "uncovered bug",
+      "uncovered risk",
+      "left uncovered"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Two phase",
+    "meaning": "Consisting of two distinct stages or parts",
+    "shortMeaning": "double-stage",
+    "example": "The project will be completed in a two phase process.",
+    "example2": "The experiment used a two phase approach to ensure accuracy.",
+    "example3": "The motor operates on a two phase electrical system.",
+    "Explanation": "The term 'two phase' describes any process, system, or mechanism that happens in two separate steps. In computing, it often refers to 'Two-Phase Commit,' a protocol used in databases to ensure that all parts of a transaction are completed successfully. In engineering, it might refer to electrical power or a physical state of matter. The idea is that the first phase must be completed or verified before the second phase begins. This structure provides a safety net or a logical break in a workflow. It is a common way to organize complex tasks into more manageable halves.",
+    "synonyms": [
+      "two-step",
+      "dual-stage",
+      "bipartite"
+    ],
+    "antonyms": [
+      "single-phase",
+      "continuous",
+      "multi-phase"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-phase",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, databases, and physics",
+    "usageTip": "Use 'two phase' when you want to emphasize that something is split into two logical parts.",
+    "commonMistake": "Confusing 'two phase' with 'two-faced' (which refers to a person being dishonest).",
+    "collocations": [
+      "two phase commit",
+      "two phase project",
+      "two phase cooling"
+    ]
+  },
+  {
+    "word": "Two phase",
+    "meaning": "A process that occurs in two distinct, sequential steps.",
+    "shortMeaning": "in two steps",
+    "example": "The migration process is a two phase project.",
+    "example2": "We are implementing a two phase commit protocol for the database.",
+    "example3": "The research study had a two phase approach to data collection.",
+    "Explanation": "The term two phase describes a system or process designed to happen in two stages. In computer science, this often refers to protocols where the first phase is preparation and the second is execution or completion. This structure ensures that a process is completed reliably, especially when involving distributed systems or complex updates. It is vital for maintaining data integrity and preventing partial failures during sensitive operations. Using a two phase strategy helps organize complex workflows into manageable parts.",
+    "synonyms": [
+      "dual-stage",
+      "bipartite",
+      "two-step"
+    ],
+    "antonyms": [
+      "single-phase",
+      "continuous"
+    ],
+    "nounForm": "two-phase process",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-phase",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, database transactions, engineering",
+    "usageTip": "Use when describing processes that have a clear split.",
+    "commonMistake": "Assuming it means two separate things rather than two stages of one thing.",
+    "collocations": [
+      "two phase commit",
+      "two phase locking",
+      "two phase approach"
+    ]
+  }
+]

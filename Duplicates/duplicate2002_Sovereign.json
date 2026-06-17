@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sovereign",
+    "meaning": "Having absolute power or control, or being independent",
+    "shortMeaning": "independent",
+    "example": "The country is a sovereign nation.",
+    "example2": "Users should have sovereign control over their own data.",
+    "example3": "A sovereign cloud allows data to stay within borders.",
+    "Explanation": "The word 'sovereign' means possessing supreme power, independence, or self-governance. In technology, 'data sovereignty' is a major concept where individuals or countries demand that their data must remain under their own control and comply with their own laws, even if stored elsewhere. It implies the right to be free from external interference. Using this term signals a high priority for privacy, independence, and legal compliance. It is a very strong and serious word in international business and digital policy.",
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "supreme"
+    ],
+    "antonyms": [
+      "dependent",
+      "controlled",
+      "subject"
+    ],
+    "nounForm": "sovereignty",
+    "verbForm": "N/A",
+    "adjectiveForm": "sovereign",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data privacy, law, international policy",
+    "usageTip": "Use 'sovereign' when discussing total control over digital assets.",
+    "commonMistake": "Using 'sovereign' to mean 'monarch' only (it also means independent).",
+    "collocations": [
+      "data sovereignty",
+      "sovereign control",
+      "sovereign nation"
+    ]
+  },
+  {
+    "word": "Sovereign",
+    "meaning": "Having total control or independent authority.",
+    "shortMeaning": "independent",
+    "example": "The company wants to maintain sovereign control over its data.",
+    "example2": "Digital sovereign identity is a growing field.",
+    "example3": "We need sovereign cloud infrastructure for security.",
+    "Explanation": "The word 'sovereign' means supreme power or independence. In modern IT, especially in data privacy and cloud computing, 'data sovereignty' means that data is subject to the laws of the country where it is stored. This is a very important legal and technical concept for global businesses. It suggests that a user or entity has complete ownership and control. It is an adjective and a noun. It is often used in political and legal contexts related to technology policy and security.",
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "self-governing"
+    ],
+    "antonyms": [
+      "dependent",
+      "controlled",
+      "subject"
+    ],
+    "nounForm": "sovereignty",
+    "verbForm": "N/A",
+    "adjectiveForm": "sovereign",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Cloud computing, data privacy, law",
+    "usageTip": "Use 'sovereign' to talk about data control and legal jurisdiction.",
+    "commonMistake": "Using 'sovereign' to mean 'powerful' in a general sense.",
+    "collocations": [
+      "data sovereignty",
+      "sovereign cloud",
+      "sovereign control"
+    ]
+  }
+]

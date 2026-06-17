@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Speed dial",
+    "meaning": "A phone feature that allows a user to call a specific number by pressing only one or two buttons",
+    "shortMeaning": "quick call",
+    "example": "I put my mother's number on speed dial so I can reach her quickly.",
+    "example2": "Emergency services should be on everyone's speed dial list.",
+    "example3": "The old office phone had ten different speed dial buttons.",
+    "Explanation": "Speed dial is a shortcut feature found on almost all telecommunication devices, including landlines and smartphones. It allows a user to assign a frequently called phone number to a specific key or a short sequence of keys. This saves the time and effort of looking up a contact or typing in a long number. While modern smartphones use 'Favorites' or 'Widgets', the concept of speed dial remains a standard term. It is particularly useful for emergency situations or for elderly users.",
+    "synonyms": [
+      "quick dial",
+      "shortcut dialing",
+      "hotkey"
+    ],
+    "antonyms": [
+      "manual dialing"
+    ],
+    "nounForm": "speed dial",
+    "verbForm": "speed dial",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Telephony and contact management",
+    "usageTip": "Use 'on speed dial' to describe someone you contact very frequently.",
+    "commonMistake": "Sometimes confused with 'redial', which only calls the last number you dialed.",
+    "collocations": [
+      "assign a speed dial",
+      "set up speed dial",
+      "on speed dial"
+    ]
+  },
+  {
+    "word": "Speed dial",
+    "meaning": "A software or phone feature that allows a user to place a call or message by pressing a single shortcut key",
+    "shortMeaning": "shortcut calling feature",
+    "example": "You can add your most frequent technical support contacts to your speed dial.",
+    "example2": "The VoIP application allows users to configure up to ten speed dial keys.",
+    "example3": "She pressed the speed dial button to immediately contact the network administrator.",
+    "Explanation": "The term 'speed dial' refers to a function built into communication hardware and software that maps a full phone number or contact identifier to a short key sequence. This saves time and reduces dialing errors for frequently contacted people. In modern IT contexts, it is commonly found in VoIP applications, enterprise communication tools like Microsoft Teams, and customer service dashboards. It improves workflow efficiency by removing the need to search through large directories. It functions as a simple database lookup where a single digit triggers a larger string of data.",
+    "synonyms": [
+      "quick dial",
+      "shortcut dialing",
+      "one-touch dialing"
+    ],
+    "antonyms": [
+      "manual dialing"
+    ],
+    "nounForm": "speed dial",
+    "verbForm": "speed-dial",
+    "adjectiveForm": "speed-dial",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "VoIP software, mobile devices, and office communication systems",
+    "usageTip": "Use this to describe setting up shortcuts for quick communication with contacts.",
+    "commonMistake": "Writing it as two words when using it as a verb; it should be hyphenated as 'speed-dial'.",
+    "collocations": [
+      "set up speed dial",
+      "assign to speed dial",
+      "speed dial shortcut"
+    ]
+  }
+]

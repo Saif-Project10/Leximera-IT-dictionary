@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Watermark",
+    "meaning": "A recognizable image or pattern on paper or digital media to prevent copying",
+    "shortMeaning": "identification mark",
+    "example": "The photographer added a digital watermark to her photos before uploading them.",
+    "example2": "Old banknotes have a watermark that can only be seen when held up to the light.",
+    "example3": "The draft document was labeled with a large 'CONFIDENTIAL' watermark.",
+    "Explanation": "A watermark is a faint design or text placed over an image, document, or video. In the physical world, it is created during the paper-making process. In the digital world, it is a transparent layer added to files to protect copyright or show the status of a document (like 'Draft' or 'Sample'). Watermarks are essential for photographers and artists to prevent people from using their work without permission. They can be visible or nearly invisible to the human eye.",
+    "synonyms": [
+      "brand",
+      "stamp",
+      "digital signature",
+      "overlay"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "watermark",
+    "verbForm": "watermark",
+    "adjectiveForm": "watermarked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Copyright protection, banking, and document security",
+    "usageTip": "Use a watermark to protect your intellectual property online.",
+    "commonMistake": "Placing a watermark where it can be easily cropped out of the image.",
+    "collocations": [
+      "digital watermark",
+      "visible watermark",
+      "remove a watermark"
+    ]
+  },
+  {
+    "word": "Watermark",
+    "meaning": "A recognizable text string or faint image pattern embedded into paper or digital files to prove ownership or identify authenticity",
+    "shortMeaning": "ownership identification mark",
+    "example": "The design platform automatically places a subtle watermark on preview images to protect the artist's layout.",
+    "example2": "Official government certificates often contain a physical or digital watermark to prevent illegal forgery.",
+    "example3": "You can add a text watermark behind your application's premium content grid.",
+    "Explanation": "The word 'watermark' originates from traditional paper manufacturing where faint designs were pressed into wet sheets to identify the maker. In modern technology, it represents a visible or invisible layer of identifying data placed over digital files like documents, videos, and images. Watermarks are commonly used by digital artists, photographers, and corporate brands to protect intellectual property, prevent unauthorized distribution, and declare legal copyright ownership across public web layouts.",
+    "synonyms": [
+      "identifying mark",
+      "stamp",
+      "logo overlay",
+      "copyright mark"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "watermark",
+    "verbForm": "watermark",
+    "adjectiveForm": "watermarked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Digital asset protection, copyright management, and secure document creation workflows",
+    "usageTip": "Use 'watermark' when discussing semi-transparent logos or text strings added to assets for protection or branding purposes.",
+    "commonMistake": "Assuming a watermark completely blocks text copy actions; it is a visual or metadata identifier, not an access block restriction.",
+    "collocations": [
+      "digital watermark",
+      "visible watermark",
+      "add a watermark"
+    ]
+  }
+]

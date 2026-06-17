@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Respect",
+    "meaning": "1. A feeling of deep admiration for someone or something. 2. Due regard for the feelings, wishes, or rights of others. 3. A particular aspect or detail.",
+    "shortMeaning": "admiration; consideration; specific aspect",
+    "example": "She has great respect for her teachers. (admiration)",
+    "example2": "Please show respect for other people's opinions. (consideration)",
+    "example3": "In many respects, the plan is excellent. (aspects)",
+    "Explanation": "'Respect' is a core social and moral concept. As a noun, it means admiration or polite consideration. As a verb, it means to admire or to treat with consideration. The phrase 'with respect to' means 'concerning'. It is a positive word essential for describing healthy relationships, both personal and professional. Showing respect is a fundamental rule in most cultures. The adjective form is 'respectful', and the adverb is 'respectfully'.",
+    "synonyms": [
+      "admiration",
+      "esteem",
+      "honor",
+      "consideration"
+    ],
+    "antonyms": [
+      "disrespect",
+      "contempt",
+      "scorn"
+    ],
+    "nounForm": "respect",
+    "verbForm": "respect",
+    "adjectiveForm": "respectful",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Relationships, manners, discussions, analysis",
+    "usageTip": "Use 'respect' to talk about treating someone well or admiring them. Use 'in this respect' to mean 'in this aspect'.",
+    "commonMistake": "Confusing 'respect' with 'aspect'. You can say 'in all respects' (all aspects), but not 'in all respects of the plan'.",
+    "collocations": [
+      "with respect",
+      "respect for",
+      "in every respect",
+      "pay respect"
+    ]
+  },
+  {
+    "word": "Respect",
+    "meaning": "To admire, treat politely, or follow and adhere strictly to a rule, protocol, or standard constraint",
+    "shortMeaning": "honor or adhere to",
+    "example": "Web scraping scripts must respect the terms set inside a website's robots.txt file.",
+    "example2": "Modern responsive designs respect user preferences like system dark mode settings.",
+    "example3": "The developer was praised because his clean code structure respects industry layout guidelines.",
+    "Explanation": "While 'respect' typically describes human courtesy, in software design and API integrations, it describes how a program interacts with standard protocols, boundary constraints, and user privacy states. For instance, an application that respects privacy APIs will stop tracking metrics if a user toggles a 'Do Not Track' preference. Adhering to these set rules prevents app bans and software breaking.",
+    "synonyms": [
+      "honor",
+      "adhere to",
+      "comply with"
+    ],
+    "antonyms": [
+      "violate",
+      "ignore",
+      "disregard"
+    ],
+    "nounForm": "respect",
+    "verbForm": "respect",
+    "adjectiveForm": "respectful",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "API standard compliances, user privacy toggles, and robots.txt configurations",
+    "usageTip": "Use 'respect' when describing code designed to adapt to and honor user device preferences or industry guidelines.",
+    "commonMistake": "Thinking 'respect' only describes workplace relationships; systems must respect protocol constraints as well.",
+    "collocations": [
+      "respect user privacy",
+      "respect robots.txt",
+      "earned respect"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Untrusted",
+    "meaning": "Not reliable or safe; potentially dangerous in a computer system.",
+    "shortMeaning": "not safe",
+    "example": "The browser blocked the website because it came from an untrusted source.",
+    "example2": "You should never run untrusted code on your personal computer.",
+    "example3": "The server treats all incoming user input as untrusted data.",
+    "Explanation": "In IT security, 'untrusted' describes any person, software, or data that hasn't been verified. For instance, an 'untrusted certificate' means the system cannot verify who owns a website. Developers are taught to treat all user input as untrusted to prevent hacking attempts like SQL injection. If a piece of software is untrusted, it is often kept in a 'sandbox' where it cannot harm the rest of the system. This term is vital for zero-trust security models.",
+    "synonyms": [
+      "unreliable",
+      "suspicious",
+      "unverified"
+    ],
+    "antonyms": [
+      "trusted",
+      "verified",
+      "authenticated"
+    ],
+    "nounForm": "untrustworthiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "untrusted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, networking, and programming",
+    "usageTip": "Always use this word when describing data that hasn't been checked for viruses or errors.",
+    "commonMistake": "Assuming 'untrusted' means 'broken'; it just means its safety is not guaranteed.",
+    "collocations": [
+      "untrusted source",
+      "untrusted code",
+      "untrusted connection"
+    ]
+  },
+  {
+    "word": "Untrusted",
+    "meaning": "Not considered reliable or secure for use in a specific environment.",
+    "shortMeaning": "not reliable",
+    "example": "Do not execute code from an untrusted source.",
+    "example2": "The browser marked the website as untrusted.",
+    "example3": "Inputs from untrusted users must be sanitized.",
+    "Explanation": "The word 'untrusted' refers to entities, networks, or inputs that lack valid verification or certificates. In cybersecurity, this is a central concept; everything outside your controlled network is often treated as 'untrusted'. The base verb is 'trust'. Using untrusted data or code is a major security risk. Always treat inputs from such sources with high suspicion and apply strict validation and sanitization techniques.",
+    "synonyms": [
+      "unverified",
+      "suspect",
+      "unreliable"
+    ],
+    "antonyms": [
+      "trusted",
+      "verified",
+      "secure"
+    ],
+    "nounForm": "trust",
+    "verbForm": "trust",
+    "adjectiveForm": "untrusted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, networking, and input validation",
+    "usageTip": "Use 'untrusted' to emphasize security risks regarding external sources.",
+    "commonMistake": "Assuming everything inside a local network is trusted.",
+    "collocations": [
+      "untrusted source",
+      "untrusted input",
+      "untrusted network"
+    ]
+  },
+  {
+    "word": "Untrusted",
+    "meaning": "Not considered safe or reliable by a system or user",
+    "shortMeaning": "not safe",
+    "example": "The system blocked the untrusted connection.",
+    "example2": "Always avoid running scripts from an untrusted source.",
+    "example3": "The network considers this device to be untrusted.",
+    "Explanation": "Untrusted describes a network, device, or source that has not been verified for security. In computing, untrusted inputs or sources are treated as potential threats because they might contain malware or malicious code. Security frameworks like Zero Trust assume everything is untrusted by default until proven otherwise. If your system flags something as untrusted, it is a warning to restrict its access to sensitive resources. This is a primary method for maintaining system integrity in distributed environments.",
+    "synonyms": [
+      "suspicious",
+      "unverified",
+      "risky"
+    ],
+    "antonyms": [
+      "trusted",
+      "verified",
+      "safe"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "untrusted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network security and access control",
+    "usageTip": "Use it when discussing threats or security policies.",
+    "commonMistake": "Ignoring warnings about untrusted sources.",
+    "collocations": [
+      "untrusted source",
+      "untrusted connection",
+      "untrusted input"
+    ]
+  }
+]

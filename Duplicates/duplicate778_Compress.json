@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Compress",
+    "meaning": "To press or squeeze something so that it takes up less space.",
+    "shortMeaning": "squeeze into less space",
+    "example": "You can compress the files into a ZIP folder.",
+    "example2": "The machine compresses trash to reduce its volume.",
+    "example3": "She compressed her lips in disapproval.",
+    "Explanation": "The verb 'compress' means to reduce the volume or size of something by applying pressure. In computing, data compression reduces file sizes for storage or transmission. In physics, gases can be compressed. Figuratively, it can mean to shorten a period or text. The noun form is 'compression'. It's a practical word about efficiency, often used in technology, medicine (compression bandage), and everyday tasks like packing.",
+    "synonyms": [
+      "compact",
+      "condense",
+      "squeeze",
+      "press"
+    ],
+    "antonyms": [
+      "expand",
+      "decompress",
+      "stretch"
+    ],
+    "nounForm": "compression",
+    "verbForm": "compress",
+    "adjectiveForm": "compressed",
+    "partOfSpeech": "verb",
+    "commonContext": "Computing, waste management, physics, medicine",
+    "usageTip": "Use 'compress' when talking about making something physically smaller or reducing digital file size.",
+    "commonMistake": "Confusing 'compress' with 'compress' (the noun for a pad applied to an injury) – they are spelled the same but pronounced slightly differently.",
+    "collocations": [
+      "compress files",
+      "compress data",
+      "compress air",
+      "highly compressed"
+    ]
+  },
+  {
+    "word": "Compress",
+    "meaning": "To squeeze something to make it smaller or take up less space",
+    "shortMeaning": "make smaller",
+    "example": "You can compress the spring by pushing down on it.",
+    "example2": "We need to compress the schedule to finish the project on time.",
+    "example3": "The machine will compress the trash into small cubes.",
+    "Explanation": "In a physical sense, to compress is to apply pressure to reduce the volume of an object. In a non-technical project sense, it means to shorten a timeline or 'compress the schedule'. In these contexts, the goal is to make things more compact or efficient. However, it often implies a level of stress or tension, as forcing something into a smaller space or time can be difficult. It is a very common verb in engineering and management.",
+    "synonyms": [
+      "squeeze",
+      "shrink",
+      "contract"
+    ],
+    "antonyms": [
+      "expand",
+      "stretch",
+      "release"
+    ],
+    "nounForm": "compression",
+    "verbForm": "compress",
+    "adjectiveForm": "compressed",
+    "partOfSpeech": "verb",
+    "commonContext": "Engineering, physics, and project management",
+    "usageTip": "Use 'compress' when talking about physical objects or time management.",
+    "commonMistake": "Confusing 'compress' with 'condense' (though they are similar, condense often implies turning gas to liquid).",
+    "collocations": [
+      "compress the schedule",
+      "compressed air",
+      "compress a spring"
+    ]
+  }
+]

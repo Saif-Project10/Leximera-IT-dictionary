@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Included",
+    "meaning": "Contained as part of a whole; comprising",
+    "shortMeaning": "contained within",
+    "example": "Is breakfast included in the price of the room?",
+    "example2": "Everyone is included in the invitation.",
+    "example3": "The kit included all necessary tools.",
+    "Explanation": "'Included' is the past tense and past participle of the verb 'include', and is frequently used as an adjective. It describes something that is part of a larger set or group. This word is extremely common in listings, descriptions, and offers to specify what is part of a package or deal. It provides clarity about contents and boundaries. The opposite is 'excluded'. In grammar, 'including' is used to introduce examples, while 'included' often comes after the noun. It's a basic but essential word for specification.",
+    "synonyms": [
+      "contained",
+      "comprised",
+      "incorporated",
+      "enclosed"
+    ],
+    "antonyms": [
+      "excluded",
+      "omitted",
+      "left out"
+    ],
+    "nounForm": "inclusion",
+    "verbForm": "include",
+    "adjectiveForm": "included",
+    "partOfSpeech": "adjective / verb (past tense/participle)",
+    "commonContext": "Packages, prices, lists, groups, sets",
+    "usageTip": "Use 'included' after a noun to state what is part of something: 'Tax and service are included.'",
+    "commonMistake": "Using 'included' to start a list (e.g., 'Included are:'). It's better to use 'Included in the package are:' or 'The package includes:'.",
+    "collocations": [
+      "all included",
+      "included in the price",
+      "not included"
+    ]
+  },
+  {
+    "word": "Included",
+    "meaning": "Contained as part of a larger whole",
+    "shortMeaning": "part of the group",
+    "example": "The new documentation is included in the project repository.",
+    "example2": "Is the database backup included in the daily automated tasks?",
+    "example3": "All requested features were included in the latest update.",
+    "Explanation": "The word 'included' is a very common term for describing what is present within a file, document, software package, or project. It is the opposite of 'excluded.' Always be precise about what is included, especially in project scopes or technical specifications, to avoid misunderstandings between stakeholders.",
+    "synonyms": [
+      "contained",
+      "enclosed",
+      "comprised"
+    ],
+    "antonyms": [
+      "excluded",
+      "omitted",
+      "missing"
+    ],
+    "nounForm": "inclusion",
+    "verbForm": "include",
+    "adjectiveForm": "included",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project scope, documentation, software packaging",
+    "usageTip": "Use 'included' to verify that components or features are present.",
+    "commonMistake": "Assuming something is included without verifying the documentation.",
+    "collocations": [
+      "included in",
+      "is included",
+      "features included"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Analog",
+    "meaning": "1. Relating to or using signals or information represented by a continuously variable physical quantity. 2. Not digital.",
+    "shortMeaning": "non-digital, continuous",
+    "example": "I prefer the warm sound of analog recordings.",
+    "example2": "A traditional watch with hands is an analog device.",
+    "example3": "The transition from analog to digital TV is complete.",
+    "Explanation": "'Analog' (also spelt 'analogue') is primarily an adjective in the context of technology. It describes systems that use continuous signals (like the groove on a vinyl record or the hands on a clock) as opposed to digital systems that use discrete numbers (0s and 1s). It can also mean something that is similar or comparable to something else. In a nostalgic sense, 'analog' refers to older, physical technologies. It represents a different way of processing information than the now-dominant digital method.",
+    "synonyms": [
+      "non-digital",
+      "continuous",
+      "traditional"
+    ],
+    "antonyms": [
+      "digital",
+      "discrete"
+    ],
+    "nounForm": "analog (or analogue)",
+    "verbForm": "N/A",
+    "adjectiveForm": "analog",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, electronics, audio, video, comparisons",
+    "usageTip": "Use 'analog' to describe older technology (clocks, vinyl records, film cameras) or any continuous (non-digital) signal.",
+    "commonMistake": "Confusing 'analog' (technology) with 'analogue' (a thing comparable to another). In US English, 'analog' is common for both.",
+    "collocations": [
+      "analog signal",
+      "analog clock",
+      "analog vs. digital"
+    ]
+  },
+  {
+    "word": "Analog",
+    "meaning": "Relating to signals or information represented by a continuously variable physical quantity rather than discrete digital values",
+    "shortMeaning": "continuous signal",
+    "example": "Old television sets used analog signals instead of digital streams.",
+    "example2": "An analog watch uses moving mechanical hands to show the passing of time.",
+    "example3": "The sensor converts analog real-world temperature data into digital code.",
+    "Explanation": "The word 'analog' refers to physical or electronic systems that measure information continuously (like a wave). This stands in direct contrast to 'digital' systems, which break information down into discrete binary code (0s and 1s). Tech workers handle analog concepts when dealing with microphones, physical sensors, and real-world inputs that must undergo conversion to be understood by a computer. The noun form is also 'analog'.",
+    "synonyms": [
+      "continuous",
+      "linear",
+      "non-digital"
+    ],
+    "antonyms": [
+      "digital",
+      "binary",
+      "discrete"
+    ],
+    "nounForm": "analog",
+    "verbForm": "N/A",
+    "adjectiveForm": "analog",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Signal processing, electronics, hardware engineering, and sound capture",
+    "usageTip": "Use 'analog' when contrasting continuous real-world waves or mechanical parts with digital screen data.",
+    "commonMistake": "Spelling it as 'analogue' is correct in British English, but 'analog' is the preferred standard form in global computing and technology text.",
+    "collocations": [
+      "analog signal",
+      "analog converter",
+      "analog device"
+    ]
+  }
+]

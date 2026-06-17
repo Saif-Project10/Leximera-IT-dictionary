@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Affix",
+    "meaning": "1. To stick, attach, or fasten something to something else. 2. (In grammar) a prefix or suffix added to a word.",
+    "shortMeaning": "attach or a word part",
+    "example": "Please affix your signature to the document.",
+    "example2": "The stamp was affixed to the envelope.",
+    "example3": "'Un-' is a common affix meaning 'not'.",
+    "Explanation": "'Affix' has two distinct meanings. As a verb, it is a formal term meaning to attach physically (like a stamp) or metaphorically (like a signature). As a noun in linguistics, it refers to a word element like a prefix (un-happy) or suffix (happi-ness) that changes a word's meaning. The verb usage is common in official instructions. It's more formal than 'stick' or 'attach'. Understanding affixes helps in learning vocabulary and word formation.",
+    "synonyms": [
+      "attach",
+      "fasten",
+      "stick",
+      "append (verb); prefix, suffix (noun)"
+    ],
+    "antonyms": [
+      "detach",
+      "remove",
+      "separate (verb)"
+    ],
+    "nounForm": "affix (linguistics), affixation",
+    "verbForm": "affix",
+    "adjectiveForm": "affixed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Official documents, mailing, linguistics, grammar",
+    "usageTip": "As a verb, use 'affix' in formal writing for attaching. As a noun, it's a technical term in language study.",
+    "commonMistake": "Using 'affix' as a noun to mean any attachment, not specifically a linguistic one. In general English, it's mainly a verb.",
+    "collocations": [
+      "affix a stamp",
+      "affix a label",
+      "grammatical affix"
+    ]
+  },
+  {
+    "word": "Affix",
+    "meaning": "To attach or stick something to another thing",
+    "shortMeaning": "attach",
+    "example": "Please affix the barcode label to the back of the laptop.",
+    "example2": "You must affix your signature at the bottom of the contract.",
+    "example3": "The technician will affix the heat sink to the processor using thermal paste.",
+    "Explanation": "Affix means to physically attach something. In IT hardware, this could be labels, parts, or protective films. In language, an 'affix' is a prefix or suffix added to a word. In a digital sense, it can mean adding a digital signature to a file. It is a precise word for the act of joining two things together so they stay. It is common in hardware assembly instructions and legal documents. It implies a permanent or semi-permanent attachment.",
+    "synonyms": [
+      "attach",
+      "fasten",
+      "stick"
+    ],
+    "antonyms": [
+      "detach",
+      "remove",
+      "separate"
+    ],
+    "nounForm": "affixation",
+    "verbForm": "affix",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Hardware assembly and Legal documents",
+    "usageTip": "Use 'affix' when you need to be specific about attaching a label or signature.",
+    "commonMistake": "Using 'affix' when 'add' or 'insert' is more appropriate for software.",
+    "collocations": [
+      "affix a label",
+      "affix a signature",
+      "N/A"
+    ]
+  }
+]

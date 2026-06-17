@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Hydrophilic",
+    "meaning": "A substance that is 'water-loving' and mixes easily with water",
+    "shortMeaning": "water-attracting",
+    "example": "Sugar is a hydrophilic substance because it dissolves easily in water.",
+    "example2": "The hydrophilic part of the soap molecule attracts the water.",
+    "example3": "Cotton is hydrophilic, which is why it absorbs sweat so well.",
+    "Explanation": "Hydrophilic substances have a chemical structure that allows them to form bonds with water molecules. Most things that dissolve in water, like salt, sugar, and many medicines, are hydrophilic. In biology, cell membranes have hydrophilic 'heads' that face the water inside and outside the cell. In the textile industry, hydrophilic coatings are added to clothes to make them more breathable and comfortable. If something is hydrophilic, it will usually 'wet' easily rather than letting water bead up on its surface.",
+    "synonyms": [
+      "water-soluble",
+      "absorbent"
+    ],
+    "antonyms": [
+      "hydrophobic"
+    ],
+    "nounForm": "hydrophilicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "hydrophilic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Chemistry, biology, and materials science",
+    "usageTip": "Use this to describe anything that 'likes' or 'soaks up' water.",
+    "commonMistake": "Thinking all 'liquids' are hydrophilic; oil is a liquid but it hates water.",
+    "collocations": [
+      "hydrophilic substance",
+      "highly hydrophilic",
+      "hydrophilic property"
+    ]
+  },
+  {
+    "word": "Hydrophilic",
+    "meaning": "Attracted to water; mixing well with water",
+    "shortMeaning": "water-loving",
+    "example": "The component uses a hydrophilic coating.",
+    "example2": "Hydrophilic materials absorb moisture easily.",
+    "example3": "This surface is hydrophilic.",
+    "Explanation": "The word 'hydrophilic' is used in material science and hardware engineering. A hydrophilic surface attracts water, meaning it gets wet easily. In some IT applications, this is good (for cleaning), but in hardware, this can be bad because it draws moisture to the circuit boards. It is important to know if your materials are hydrophilic if you are designing equipment for high-humidity or outdoor use.",
+    "synonyms": [
+      "water-attracting"
+    ],
+    "antonyms": [
+      "hydrophobic"
+    ],
+    "nounForm": "hydrophilicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "hydrophilic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Material science, hardware engineering",
+    "usageTip": "Use this to describe materials that attract moisture.",
+    "commonMistake": "Confusing it with hydrophobic (water-repelling).",
+    "collocations": [
+      "hydrophilic coating",
+      "hydrophilic material",
+      "hydrophilic surface"
+    ]
+  }
+]

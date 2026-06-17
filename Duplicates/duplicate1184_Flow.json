@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Flow",
+    "meaning": "To move along in a steady, continuous stream; the act of flowing",
+    "shortMeaning": "move steadily like a liquid",
+    "example": "Rivers flow into the sea.",
+    "example2": "Traffic was flowing smoothly on the highway.",
+    "example3": "She tried to improve the flow of her writing.",
+    "Explanation": "'Flow' is a versatile verb and noun describing smooth, continuous movement. It can refer to liquids, air, traffic, electricity, ideas, or conversation. A good 'flow' suggests ease, efficiency, and lack of interruption. The word is used in both literal (water flow) and metaphorical (workflow) contexts. Achieving a state of flow in psychology means being fully immersed in an activity. It's a fundamental concept in physics, engineering, and daily life, representing natural, uninterrupted progression.",
+    "synonyms": [
+      "stream",
+      "pour",
+      "run",
+      "circulate",
+      "proceed"
+    ],
+    "antonyms": [
+      "stop",
+      "stagnate",
+      "block",
+      "interrupt"
+    ],
+    "nounForm": "flow",
+    "verbForm": "flow",
+    "adjectiveForm": "flowing",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Rivers, traffic, electricity, conversation, processes",
+    "usageTip": "Use 'flow' for any smooth, continuous movement, either physical or abstract.",
+    "commonMistake": "Confusing 'flow' with 'flower'. They sound similar but are different.",
+    "collocations": [
+      "cash flow",
+      "flow of information",
+      "go with the flow"
+    ]
+  },
+  {
+    "word": "Flow",
+    "meaning": "The smooth movement of something, or a state of deep concentration",
+    "shortMeaning": "movement / focus",
+    "example": "The river's flow was very strong after the rain.",
+    "example2": "I was in a state of flow and didn't notice the time passing.",
+    "example3": "The data flow between the server and the app must be optimized.",
+    "Explanation": "Physically, 'flow' refers to liquids or air moving steadily. Mentally, 'flow' (or being 'in the zone') is a psychological state where a person is so focused on a task that they lose track of time and self-consciousness. In IT, 'Data Flow' or 'Workflow' describes how information or tasks move through a system from start to finish. Good design ensures that a user's 'flow' through a website is not interrupted by confusing menus or slow loading times. It's about being continuous and unobstructed.",
+    "synonyms": [
+      "stream",
+      "current",
+      "continuity"
+    ],
+    "antonyms": [
+      "stagnation",
+      "blockage",
+      "interruption"
+    ],
+    "nounForm": "flow",
+    "verbForm": "flow",
+    "adjectiveForm": "flowing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Hydraulics, psychology, and data management",
+    "usageTip": "Try to achieve 'flow' when coding by removing all distractions.",
+    "commonMistake": "Confusing 'flow' with 'overflow'; overflow is when there is too much of something.",
+    "collocations": [
+      "workflow",
+      "data flow",
+      "cash flow"
+    ]
+  }
+]

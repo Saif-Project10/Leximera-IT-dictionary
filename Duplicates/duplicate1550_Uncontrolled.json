@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Uncontrolled",
+    "meaning": "Not controlled, restrained, or regulated; wild or unrestrained",
+    "shortMeaning": "not controlled; wild",
+    "example": "The fire spread rapidly in uncontrolled conditions.",
+    "example2": "He broke into uncontrolled laughter.",
+    "example3": "Uncontrolled growth of the tumor was a major concern.",
+    "Explanation": "The adjective 'uncontrolled' describes a situation, process, or emotion that is not under command, management, or restraint. This lack of control can lead to dangerous, chaotic, or excessive outcomes, such as an uncontrolled descent, uncontrolled anger, or uncontrolled population growth. It often carries a negative connotation, implying risk, danger, or undesirability. In scientific experiments, an 'uncontrolled variable' is one that is not accounted for, potentially spoiling results. The word suggests a force or behavior operating freely, without the checks that would make it safe, predictable, or productive.",
+    "synonyms": [
+      "unrestrained",
+      "unchecked",
+      "wild",
+      "runaway",
+      "rampant"
+    ],
+    "antonyms": [
+      "controlled",
+      "restrained",
+      "regulated",
+      "managed",
+      "checked"
+    ],
+    "nounForm": "lack of control",
+    "verbForm": "control",
+    "adjectiveForm": "uncontrolled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing fires, emotions, growth, experiments, vehicles",
+    "usageTip": "Almost always has a negative implication of danger or disorder.",
+    "commonMistake": "Using it neutrally; it typically describes a problematic state.",
+    "collocations": [
+      "uncontrolled fire",
+      "uncontrolled anger",
+      "uncontrolled growth",
+      "uncontrolled variable"
+    ]
+  },
+  {
+    "word": "Uncontrolled",
+    "meaning": "Not managed or kept in check",
+    "shortMeaning": "out of check",
+    "example": "Uncontrolled growth of logs filled the disk.",
+    "example2": "The script led to uncontrolled data changes.",
+    "example3": "Uncontrolled access poses a major security risk.",
+    "Explanation": "Uncontrolled describes a process, resource, or input that lacks oversight or restriction. In IT, uncontrolled events (like memory leaks or uncontrolled API access) can cause severe instability and security breaches. Management, monitoring, and validation are the tools used to turn uncontrolled processes into controlled ones. Failure to control these elements usually leads to system failure or data loss. Always monitor critical metrics.",
+    "synonyms": [
+      "unmanaged",
+      "unchecked",
+      "unregulated"
+    ],
+    "antonyms": [
+      "controlled",
+      "managed",
+      "regulated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncontrolled",
+    "partOfSpeech": "adjective",
+    "commonContext": "System stability, security, administration",
+    "usageTip": "Use when something is causing issues due to lack of oversight.",
+    "commonMistake": "Failing to recognize uncontrolled processes before they cause a crash.",
+    "collocations": [
+      "uncontrolled access",
+      "uncontrolled growth",
+      "remains uncontrolled"
+    ]
+  },
+  {
+    "word": "Uncontrolled",
+    "meaning": "Not kept under supervision or restriction",
+    "shortMeaning": "without control",
+    "example": "Uncontrolled inputs can lead to system crashes.",
+    "example2": "The experiment results were lost due to uncontrolled variables.",
+    "example3": "He faced an uncontrolled loop in the script.",
+    "Explanation": "The word 'uncontrolled' describes a situation where there is no management or oversight. In technical terms, it often results in errors or chaotic behavior. For instance, an uncontrolled loop will continue to run until the system memory is exhausted. It is crucial to have controls in place to manage flow and data processing. Using this word usually alerts the reader that a potential hazard exists due to the lack of regulation.",
+    "synonyms": [
+      "unregulated",
+      "unchecked",
+      "unmanaged"
+    ],
+    "antonyms": [
+      "controlled",
+      "regulated",
+      "managed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "uncontrol",
+    "adjectiveForm": "uncontrolled",
+    "partOfSpeech": "adjective",
+    "commonContext": "System stability and variable management",
+    "usageTip": "Use to describe risks arising from lack of limits.",
+    "commonMistake": "Using 'uncontrolled' to mean 'unseen' instead of 'not regulated'.",
+    "collocations": [
+      "uncontrolled variable",
+      "uncontrolled loop",
+      "uncontrolled error"
+    ]
+  }
+]

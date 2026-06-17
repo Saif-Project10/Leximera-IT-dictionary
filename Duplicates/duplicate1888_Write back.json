@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Write back",
+    "meaning": "A method where data is written to a fast temporary storage (cache) and updated on the main disk later",
+    "shortMeaning": "delayed writing",
+    "example": "Write back caching improves performance by reducing the number of times we access the slow disk.",
+    "example2": "The controller uses write back to speed up the application's response time.",
+    "example3": "In a write back system, data can be lost if the power fails before the sync.",
+    "Explanation": "Write back is a performance-boosting strategy. When a program wants to save data, the computer puts it into the high-speed 'cache' memory and tells the program 'Done!'. It doesn't wait to write it to the slow main hard drive right away. Instead, it waits until the computer is less busy to do the actual saving. While this makes everything feel much faster, it is riskier. If the computer crashes before the data is 'written back' to the main disk, that information might be lost forever.",
+    "synonyms": [
+      "write-behind",
+      "caching",
+      "N/A"
+    ],
+    "antonyms": [
+      "write-through",
+      "direct write",
+      "N/A"
+    ],
+    "nounForm": "write back",
+    "verbForm": "write back",
+    "adjectiveForm": "write-back",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "CPU caching and RAID controller settings",
+    "usageTip": "Use this when speed is more important than absolute safety in your storage settings.",
+    "commonMistake": "Confusing it with 'write-through'; write-through updates both cache and disk at the same time.",
+    "collocations": [
+      "write back cache",
+      "write back policy",
+      "enable write back"
+    ]
+  },
+  {
+    "word": "Write back",
+    "meaning": "A strategy where data is updated in cache first",
+    "shortMeaning": "cache first update",
+    "example": "The controller uses a write back cache for better speed.",
+    "example2": "Write back is faster but riskier than write through.",
+    "example3": "Configure the system to use write back mode.",
+    "Explanation": "A 'write back' (or write-back) cache is a technique where write operations are performed to the cache memory first, and the actual main storage is updated later. This significantly improves performance because writing to cache is much faster than writing to main storage. However, if the system loses power before the cache is synced, data might be lost. It is a common optimization in hardware and storage controllers but requires careful implementation to prevent data loss.",
+    "synonyms": [
+      "delayed write",
+      "buffered write"
+    ],
+    "antonyms": [
+      "write through",
+      "immediate write"
+    ],
+    "nounForm": "write back",
+    "verbForm": "write back",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Memory architecture, storage performance",
+    "usageTip": "Use 'write back' when talking about caching strategies that prioritize speed over instant updates.",
+    "commonMistake": "Ignoring the risk of data loss inherent in write-back caching.",
+    "collocations": [
+      "write back cache",
+      "enable write back",
+      "write back mode"
+    ]
+  },
+  {
+    "word": "Write back",
+    "meaning": "A caching method where data is written only to the cache memory first, and copied to main storage later",
+    "shortMeaning": "cache first storage later",
+    "example": "A write back cache improves performance by reducing immediate disk operations.",
+    "example2": "The system will write back the modified data blocks during idle CPU cycles.",
+    "example3": "Using a write back strategy speeds up applications but carries a small risk of data loss.",
+    "Explanation": "In computer architecture and memory management, 'write back' refers to a specific cache updating strategy. When the processor modifies data, the change is initially recorded only in the fast cache memory rather than the slower main storage or database. The main storage is updated later, either at scheduled intervals or when the data block is about to be replaced in the cache. This minimizes latency and boosts overall system speed, though it introduces a risk of data loss if a system failure occurs before the cache syncs with the main disk.",
+    "synonyms": [
+      "write-deferred",
+      "copy-back",
+      "cached writing"
+    ],
+    "antonyms": [
+      "write-through",
+      "immediate writing",
+      "N/A"
+    ],
+    "nounForm": "write-back cache",
+    "verbForm": "write back",
+    "adjectiveForm": "write-back",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Hardware architecture, caching mechanisms, system performance",
+    "usageTip": "Contrast 'write back' with 'write through' to clarify caching behaviors in technical discussions.",
+    "commonMistake": "Confusing 'write back' with replying to an email or message in an IT context.",
+    "collocations": [
+      "write-back policy",
+      "write-back caching",
+      "write back data"
+    ]
+  }
+]

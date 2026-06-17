@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Typographic",
+    "meaning": "Relating to the style, arrangement, or appearance of printed or displayed text.",
+    "shortMeaning": "related to text design",
+    "example": "The designer made a typographic change to the heading.",
+    "example2": "Poor typographic choices can make text hard to read.",
+    "example3": "The book features excellent typographic layout.",
+    "Explanation": "The word 'typographic' relates to the art and technique of arranging type. It focuses on fonts, spacing, and the visual presentation of characters. It is frequently used in web development and UI design when discussing font readability or hierarchy. The noun form is 'typography', and it is closely related to design aesthetics. Proper usage ensures that text is not only legible but also visually appealing for the user.",
+    "synonyms": [
+      "textual",
+      "printed",
+      "graphical"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "typography",
+    "verbForm": "N/A",
+    "adjectiveForm": "typographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graphic design, web development, publishing",
+    "usageTip": "Use this to describe visual aspects of text, not the content itself.",
+    "commonMistake": "Confusing it with a simple spelling error.",
+    "collocations": [
+      "typographic design",
+      "typographic error",
+      "typographic style"
+    ]
+  },
+  {
+    "word": "Typographic",
+    "meaning": "Relating to the style or appearance of text.",
+    "shortMeaning": "text style related",
+    "example": "The layout had several typographic errors.",
+    "example2": "Good typographic design makes the documentation easier to read.",
+    "example3": "He adjusted the typographic settings in the CSS file.",
+    "Explanation": "Typographic refers to the way text looks, including fonts, spacing, and arrangement. In IT, this often relates to front-end development, document formatting, or UI/UX design. It focuses on visual clarity and aesthetic quality rather than the content itself. Proper typographic choices are essential for user-friendly interfaces. Poor typographic choices can make a website or application feel unprofessional and difficult to navigate.",
+    "synonyms": [
+      "stylistic",
+      "font-related"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "typography",
+    "verbForm": "N/A",
+    "adjectiveForm": "typographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development and UI/UX design",
+    "usageTip": "Focus on the visual representation of characters.",
+    "commonMistake": "Confusing typography with layout or general design.",
+    "collocations": [
+      "typographic error",
+      "typographic design",
+      "typographic style"
+    ]
+  }
+]

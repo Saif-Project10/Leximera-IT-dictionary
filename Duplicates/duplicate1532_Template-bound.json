@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Template-bound",
+    "meaning": "Restricted or limited by the use of a fixed template; lacking flexibility or originality due to a rigid format",
+    "shortMeaning": "limited by a template",
+    "example": "The old software was template-bound and couldn't handle unique cases.",
+    "example2": "Her initial designs were creative, but the final report felt template-bound.",
+    "example3": "We need to avoid a template-bound approach to problem-solving.",
+    "Explanation": "The adjective 'template-bound' is often used in a critical sense to describe work, processes, or thinking that is overly constrained by a pre-existing template or standard format. While templates provide consistency and efficiency, being 'template-bound' suggests a negative consequence: stifled creativity, inability to adapt to exceptions, and producing generic, uninspired results. It's common in discussions about document creation, software design, website builders, and bureaucratic processes. The term warns against letting a useful tool become a restrictive cage that prevents innovation and tailored solutions.",
+    "synonyms": [
+      "rigid",
+      "formulaic",
+      "cookie-cutter",
+      "inflexible"
+    ],
+    "antonyms": [
+      "flexible",
+      "customizable",
+      "free-form",
+      "original"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "template-bound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, document creation, web development, criticism of processes",
+    "usageTip": "Use it to criticize a lack of flexibility, not merely the use of a template.",
+    "commonMistake": "Thinking all template use is bad; it's the inability to deviate that is problematic.",
+    "collocations": [
+      "template-bound system",
+      "template-bound thinking",
+      "template-bound design",
+      "feel template-bound"
+    ]
+  },
+  {
+    "word": "Template-bound",
+    "meaning": "Restricted by or tied to a specific template structure.",
+    "shortMeaning": "template-tied",
+    "example": "The system is template-bound and hard to customize.",
+    "example2": "We need to break out of our template-bound workflow.",
+    "example3": "The code is template-bound, making updates slow.",
+    "Explanation": "Being 'template-bound' means that a system or task is limited by the constraints of a predefined template. While templates are great for speed and consistency, they can become a problem if they are too rigid. When a system is 'template-bound', any requirement that falls outside the template is difficult to implement. This is a common issue in content management systems or UI frameworks that are not flexible enough.",
+    "synonyms": [
+      "constrained",
+      "restricted",
+      "template-dependent"
+    ],
+    "antonyms": [
+      "flexible",
+      "customizable",
+      "dynamic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "template-bound",
+    "partOfSpeech": "adjective",
+    "commonContext": "CMS, UI design, software engineering",
+    "usageTip": "Use 'template-bound' for overly rigid systems.",
+    "commonMistake": "Confusing 'template-bound' with 'structured' (structure is good, bound is bad).",
+    "collocations": [
+      "template-bound system",
+      "template-bound workflow",
+      "template-bound code"
+    ]
+  }
+]

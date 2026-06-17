@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Non-functional",
+    "meaning": "Relating to quality attributes like speed, security, and scalability",
+    "shortMeaning": "quality attributes",
+    "example": "Latency is a key non-functional requirement for our app.",
+    "example2": "The team is focused on non-functional testing this week.",
+    "example3": "Non-functional needs are as important as user features.",
+    "Explanation": "While functional requirements describe *what* a system does, 'non-functional' requirements describe *how* it performs. This includes performance, security, reliability, maintainability, and usability. Even if your software has all the correct features, it will fail if it is too slow, insecure, or constantly crashes. Non-functional attributes are often harder to measure but are critical for the long-term success and user satisfaction of any IT project.",
+    "synonyms": [
+      "quality attribute",
+      "performance characteristic"
+    ],
+    "antonyms": [
+      "functional"
+    ],
+    "nounForm": "non-functional requirement",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-functional",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design and project management",
+    "usageTip": "Use 'non-functional' for requirements about system performance or quality.",
+    "commonMistake": "Ignoring non-functional requirements until the project is almost finished.",
+    "collocations": [
+      "non-functional requirements",
+      "non-functional testing",
+      "non-functional attribute"
+    ]
+  },
+  {
+    "word": "Non-functional",
+    "meaning": "Relating to quality attributes like speed, security, and scalability",
+    "shortMeaning": "quality attributes",
+    "example": "Latency is a key non-functional requirement for our app.",
+    "example2": "The team is focused on non-functional testing this week.",
+    "example3": "Non-functional needs are as important as user features.",
+    "Explanation": "While functional requirements describe *what* a system does, 'non-functional' requirements describe *how* it performs. This includes performance, security, reliability, maintainability, and usability. Even if your software has all the correct features, it will fail if it is too slow, insecure, or constantly crashes. Non-functional attributes are often harder to measure but are critical for the long-term success and user satisfaction of any IT project.",
+    "synonyms": [
+      "quality attribute",
+      "performance characteristic"
+    ],
+    "antonyms": [
+      "functional"
+    ],
+    "nounForm": "non-functional requirement",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-functional",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design and project management",
+    "usageTip": "Use 'non-functional' for requirements about system performance or quality.",
+    "commonMistake": "Ignoring non-functional requirements until the project is almost finished.",
+    "collocations": [
+      "non-functional requirements",
+      "non-functional testing",
+      "non-functional attribute"
+    ]
+  }
+]

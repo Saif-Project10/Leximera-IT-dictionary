@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Crawling",
+    "meaning": "Moving slowly on hands and knees; in computing, systematically browsing websites to index them",
+    "shortMeaning": "moving slowly or scanning websites",
+    "example": "The baby was crawling across the floor.",
+    "example2": "Search engines use bots for crawling the web.",
+    "example3": "Traffic was crawling along the highway during rush hour.",
+    "Explanation": "'Crawling' has literal and technical meanings. Literally, it means moving close to the ground on hands and knees, or moving very slowly. Technically, in computing, 'web crawling' is the process where search engine programs (crawlers or spiders) systematically browse the internet to discover and index web pages. The technical meaning extends the idea of slow, methodical movement through a space. Both meanings convey gradual, thorough progression through an area or dataset.",
+    "synonyms": [
+      "creeping",
+      "inching",
+      "scanning",
+      "indexing",
+      "moving slowly"
+    ],
+    "antonyms": [
+      "running",
+      "flying",
+      "skipping"
+    ],
+    "nounForm": "crawl",
+    "verbForm": "crawl",
+    "adjectiveForm": "crawling",
+    "partOfSpeech": "verb (present participle) / adjective",
+    "commonContext": "Child development, web technology, traffic, animal movement",
+    "usageTip": "In tech context, it's 'web crawling' or 'crawling websites'. Literally, it's physical movement.",
+    "commonMistake": "Confusing 'crawling' with 'scraping'—crawling discovers pages, scraping extracts data from them.",
+    "collocations": [
+      "web crawling",
+      "crawling with insects",
+      "crawl space",
+      "crawling traffic"
+    ]
+  },
+  {
+    "word": "Crawling",
+    "meaning": "Moving slowly, or the process of indexing web pages by a bot",
+    "shortMeaning": "moving or indexing slowly",
+    "example": "The internet connection was crawling today.",
+    "example2": "Google is crawling our new blog posts.",
+    "example3": "He was crawling under the desk to fix the wires.",
+    "Explanation": "The word 'crawling' is the continuous form of crawl. It describes a slow pace or the automated task of a search engine indexing content. It is widely used in IT to describe the activity of web crawlers or bots. In general English, it describes slow physical movement. Ensure you distinguish between the technical process of a bot and the physical act of moving on the ground.",
+    "synonyms": [
+      "creeping",
+      "inching",
+      "indexing"
+    ],
+    "antonyms": [
+      "running",
+      "dashing",
+      "racing"
+    ],
+    "nounForm": "crawl",
+    "verbForm": "crawl",
+    "adjectiveForm": "crawling",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "SEO, web infrastructure, and movement",
+    "usageTip": "Use 'crawling' to discuss the active process of search engine bots.",
+    "commonMistake": "Confusing 'crawling' with 'scraped' when referring to data extraction.",
+    "collocations": [
+      "crawling speed",
+      "search engine crawling",
+      "crawling data"
+    ]
+  }
+]

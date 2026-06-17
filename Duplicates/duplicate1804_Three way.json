@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Three way",
+    "meaning": "A process involving three distinct parts or participants",
+    "shortMeaning": "triple-part",
+    "example": "The system requires a three way verification process.",
+    "example2": "A three way merge was needed to resolve the code conflicts.",
+    "example3": "The communication was set up as a three way interaction.",
+    "Explanation": "In IT, 'three way' refers to a connection or comparison that involves three elements. The most famous use is in the 'three-way handshake' of networking. It can also refer to a 'three-way merge' in version control like Git, where the computer compares two different versions of a file against a common ancestor to combine them. It implies a more complex interaction than a simple 'two-way' or direct exchange. It is a common descriptive term used across networking, security, and software development.",
+    "synonyms": [
+      "tripartite",
+      "triple"
+    ],
+    "antonyms": [
+      "two-way",
+      "bilateral",
+      "unilateral"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "three-way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, Git/Version control, and Security",
+    "usageTip": "Always use a hyphen ('three-way') when it describes a noun coming after it.",
+    "commonMistake": "Confusing a 'three-way merge' with a 'two-way merge'; the third part (the ancestor) is critical.",
+    "collocations": [
+      "three way handshake",
+      "three way merge",
+      "three way comparison"
+    ]
+  },
+  {
+    "word": "Three way",
+    "meaning": "Involving three parties or directions; often used for handshakes or switches",
+    "shortMeaning": "three-directional",
+    "example": "The TCP protocol uses a three way handshake to connect.",
+    "example2": "We installed a three way switch for the server room lights.",
+    "example3": "The three way merge resolved the code conflict.",
+    "Explanation": "The term 'three way' describes a process or device with three points of connection or directions. The most famous IT example is the 'three way handshake' in networking (SYN, SYN-ACK, ACK). It is also used in version control for 'three way merges' (two branches and a common ancestor). It is a precise technical term. Always provide the specific context, as 'three way' can mean different things in networking, version control, or electrical work.",
+    "synonyms": [
+      "three-sided",
+      "tri-party"
+    ],
+    "antonyms": [
+      "two-way",
+      "one-way"
+    ],
+    "nounForm": "three-way",
+    "verbForm": "N/A",
+    "adjectiveForm": "three-way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, version control, electrical engineering",
+    "usageTip": "Use 'three way' when referring to specific standard protocols like TCP handshakes.",
+    "commonMistake": "Confusing 'three way' with 'three tiered'.",
+    "collocations": [
+      "three way handshake",
+      "three way merge",
+      "three way switch"
+    ]
+  }
+]

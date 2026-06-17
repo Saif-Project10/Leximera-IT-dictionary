@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Delay",
+    "meaning": "A situation where something happens later than planned; to make something late.",
+    "shortMeaning": "lateness; to make late",
+    "example": "The flight was subject to a two-hour delay. (noun)",
+    "example2": "Heavy traffic may delay your arrival. (verb)",
+    "example3": "Please do not delay in sending your application.",
+    "Explanation": "Delay refers to the act of postponing or the period of time by which something is made late. As a verb, it means to cause to be slow or late. As a noun, it is the instance of being delayed. Delays can be caused by external factors (weather, traffic) or by a person's decision to postpone. In transportation and project management, managing delays is critical. The word often carries a negative connotation of frustration or inconvenience. It's a common word in daily life, travel, and business.",
+    "synonyms": [
+      "postponement",
+      "hold-up",
+      "setback",
+      "postpone",
+      "hold up"
+    ],
+    "antonyms": [
+      "advance",
+      "expedite",
+      "hasten",
+      "punctuality"
+    ],
+    "nounForm": "delay",
+    "verbForm": "delay",
+    "adjectiveForm": "delayed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Travel, projects, schedules, transportation",
+    "usageTip": "As a verb, it can be transitive (delay something) or intransitive (don't delay).",
+    "commonMistake": "Using 'postpone' interchangeably with 'delay'. 'Postpone' is more deliberate, while 'delay' can be accidental.",
+    "collocations": [
+      "long delay",
+      "without delay",
+      "flight delay",
+      "cause a delay"
+    ]
+  },
+  {
+    "word": "Delay",
+    "meaning": "A period of time when someone or something is late",
+    "shortMeaning": "to make late",
+    "example": "The flight was subject to a two-hour delay due to fog.",
+    "example2": "Don't delay your visit to the doctor if you feel sick.",
+    "example3": "There was a slight delay in the network response.",
+    "Explanation": "A 'delay' is when something happens later than expected or planned. As a verb, it means to slow something down or put it off. In computing, 'network delay' (latency) is the time it takes for data to travel from one point to another. Delays are often seen as negative, but in some cases, they are intentional, like a 'delay' effect in music. It is one of the most common words used in travel, technology, and daily planning. It implies a pause in progress.",
+    "synonyms": [
+      "postponement",
+      "lag",
+      "pause",
+      "holdup"
+    ],
+    "antonyms": [
+      "advance",
+      "speed",
+      "promptness",
+      "haste"
+    ],
+    "nounForm": "delay",
+    "verbForm": "delay",
+    "adjectiveForm": "delayed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Travel, computing, and everyday life",
+    "usageTip": "Use 'delay' when you are talking about being late or slowing something down.",
+    "commonMistake": "Confusing 'delay' with 'defer'; delay is often accidental, defer is usually planned.",
+    "collocations": [
+      "without delay",
+      "long delay",
+      "time delay"
+    ]
+  }
+]

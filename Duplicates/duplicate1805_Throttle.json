@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Throttle",
+    "meaning": "To intentionally slow down the speed of a process or data transfer",
+    "shortMeaning": "limit speed",
+    "example": "The ISP may throttle your internet connection during peak hours.",
+    "example2": "The system began to throttle the CPU to prevent overheating.",
+    "example3": "The application was designed to throttle requests to the server.",
+    "Explanation": "The word 'throttle' in IT refers to the regulation of speed or flow within a system. It is commonly used when a service provider limits bandwidth or when hardware slows down to save energy. This mechanism ensures that a system does not become overwhelmed or damaged by excessive load. It acts as a safety valve for both software performance and hardware longevity. Understanding throttling is crucial for managing network traffic and system stability.",
+    "synonyms": [
+      "limit",
+      "restrict",
+      "regulate"
+    ],
+    "antonyms": [
+      "accelerate",
+      "boost",
+      "unleash"
+    ],
+    "nounForm": "throttling",
+    "verbForm": "throttle",
+    "adjectiveForm": "throttled",
+    "partOfSpeech": "verb",
+    "commonContext": "Network management and hardware performance",
+    "usageTip": "Use 'throttle' when describing a deliberate reduction in speed or capacity.",
+    "commonMistake": "Confusing 'throttle' with 'crash'; a throttled system is still working, just slower.",
+    "collocations": [
+      "bandwidth throttling",
+      "CPU throttling",
+      "throttle speed"
+    ]
+  },
+  {
+    "word": "Throttle",
+    "meaning": "To intentionally slow down the speed of a process, data transfer rate, or API request execution frequency",
+    "shortMeaning": "intentionally restrict speed",
+    "example": "The API gateway will throttle incoming requests if a user exceeds their monthly subscription tier.",
+    "example2": "Internet providers sometimes throttle bandwidth speeds during peak hours to avoid network crashes.",
+    "example3": "The mobile processor will automatically throttle its clock speed to prevent the hardware from overheating.",
+    "Explanation": "In modern technology, 'throttle' functions as both a verb and a noun. It describes the intentional restriction or capping of performance speeds to protect hardware resources or manage limited network data lines. For instance, web applications throttle user access to prevent malicious denial-of-service (DoS) attacks from crashing backend databases. It creates a stable, predictable, and fair environment for all users connecting to a single shared system.",
+    "synonyms": [
+      "limit",
+      "restrict",
+      "cap",
+      "choke"
+    ],
+    "antonyms": [
+      "accelerate",
+      "unloose",
+      "boost",
+      "unrestrict"
+    ],
+    "nounForm": "throttle / throttling",
+    "verbForm": "throttle",
+    "adjectiveForm": "throttled",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "API rate limiting, network data management, and hardware thermal protection control",
+    "usageTip": "Use 'throttle' when describing an active, deliberate policy designed to slow down data or hardware speeds for protection.",
+    "commonMistake": "Thinking that throttling is always a system error; it is often a planned safety feature built by systems engineers.",
+    "collocations": [
+      "throttle API requests",
+      "bandwidth throttling",
+      "automatically throttle"
+    ]
+  }
+]

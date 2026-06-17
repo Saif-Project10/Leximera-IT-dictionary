@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Least absolute",
+    "meaning": "Relating to a mathematical method that minimizes the sum of the absolute differences between observed and predicted values.",
+    "shortMeaning": "minimum absolute difference",
+    "example": "The least absolute approach is less sensitive to outliers than the least squares method.",
+    "example2": "We used a least absolute criteria to find the median of the dataset.",
+    "example3": "Least absolute calculations are common in robust statistical modeling.",
+    "Explanation": "In statistics, 'least absolute' refers to an optimization strategy. When fitting a line to data, we want to minimize the error. While 'least squares' squares the errors, 'least absolute' simply looks at the absolute distance. This makes the method 'robust', meaning it doesn't get pulled away by one or two very wrong data points (outliers). It is a fundamental concept in regression analysis. It is mathematically harder to solve than least squares but often provides more realistic results for noisy real-world data.",
+    "synonyms": [
+      "L1 norm",
+      "absolute error minimization"
+    ],
+    "antonyms": [
+      "least squares"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least absolute",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematical modeling and data science",
+    "usageTip": "Choose a 'least absolute' method if your data has many extreme values (outliers).",
+    "commonMistake": "Assuming it is the same as 'least squares'; they treat large errors very differently.",
+    "collocations": [
+      "least absolute deviation",
+      "least absolute shrinkage",
+      "least absolute error"
+    ]
+  },
+  {
+    "word": "Least absolute",
+    "meaning": "A method to minimize absolute errors in data analysis",
+    "shortMeaning": "minimizing absolute errors",
+    "example": "We used least absolute deviations for our model.",
+    "example2": "Least absolute regression is robust to outliers.",
+    "example3": "The algorithm is based on a least absolute approach.",
+    "Explanation": "Least absolute refers to a statistical method used in regression analysis. Unlike methods that square the errors, this approach minimizes the sum of the absolute values of the differences. It is often preferred when the data contains significant outliers because it is less sensitive to them than the 'least squares' method. It is a common term in data science, advanced statistics, and predictive modeling.",
+    "synonyms": [
+      "LAD",
+      "absolute error minimization"
+    ],
+    "antonyms": [
+      "least squares"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least absolute",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data science, mathematics",
+    "usageTip": "Use this when discussing robust regression techniques.",
+    "commonMistake": "Confusing it with 'least squares' (which squares the error).",
+    "collocations": [
+      "least absolute deviation",
+      "least absolute regression"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Downgraded",
+    "meaning": "Reduced to a lower grade, rank, or level of importance.",
+    "shortMeaning": "reduced in status",
+    "example": "The hurricane was downgraded to a tropical storm.",
+    "example2": "The hotel's rating was downgraded after the poor inspection.",
+    "example3": "Due to budget cuts, his role was downgraded to part-time.",
+    "Explanation": "To be 'downgraded' means to be assigned a lower classification, status, or priority. It is similar to 'demoted' but is used more broadly for objects, forecasts, and systems, not just people. For example, credit ratings, software versions, and travel alerts can be downgraded. It implies a reassessment leading to a less favorable categorization. The verb is 'downgrade'. It often has negative financial or operational consequences. It is a common term in finance, meteorology, and IT.",
+    "synonyms": [
+      "demoted",
+      "lowered",
+      "reduced",
+      "devalued",
+      "relegated"
+    ],
+    "antonyms": [
+      "upgraded",
+      "promoted",
+      "enhanced",
+      "improved"
+    ],
+    "nounForm": "downgrade",
+    "verbForm": "downgrade",
+    "adjectiveForm": "downgraded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Finance, weather, hotels, technology, employment",
+    "usageTip": "Often followed by 'to': 'downgraded to a warning' or 'downgraded from version 2.0 to 1.5'.",
+    "commonMistake": "Using it interchangeably with 'outdated'; downgrading is an active change of status, not just becoming old.",
+    "collocations": [
+      "downgraded to",
+      "credit downgrade",
+      "downgraded version",
+      "force a downgrade"
+    ]
+  },
+  {
+    "word": "Downgraded",
+    "meaning": "Reduced in status, rank, or quality.",
+    "shortMeaning": "lowered in quality/rank",
+    "example": "The security threat level was downgraded to medium.",
+    "example2": "He downgraded the software version due to compatibility issues.",
+    "example3": "The server's priority was downgraded during the maintenance window.",
+    "Explanation": "Downgraded means making something less important, less powerful, or of lower quality than it was before. It can refer to software—installing an older version—or to status, such as lowering the importance of a bug or a priority level. It implies a step backward. It is often used in IT when a new update causes bugs, forcing teams to go back to a stable older version. It represents a negative or remedial change to an existing state.",
+    "synonyms": [
+      "lowered",
+      "degraded",
+      "reverted"
+    ],
+    "antonyms": [
+      "upgraded",
+      "improved",
+      "promoted"
+    ],
+    "nounForm": "downgrade",
+    "verbForm": "downgrade",
+    "adjectiveForm": "downgraded",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Software versioning, system administration, management",
+    "usageTip": "Use 'downgraded' when reverting or lowering a standard.",
+    "commonMistake": "Using 'downgraded' for 'deleted' (it means moved to a lower level, not removed).",
+    "collocations": [
+      "downgraded version",
+      "downgraded priority",
+      "downgraded threat"
+    ]
+  }
+]

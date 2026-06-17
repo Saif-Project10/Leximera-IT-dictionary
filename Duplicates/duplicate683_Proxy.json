@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Proxy",
+    "meaning": "The authority to represent someone else; a person or thing acting as a substitute.",
+    "shortMeaning": "substitute; representative",
+    "example": "You can vote by proxy if you cannot attend the meeting.",
+    "example2": "The server acts as a proxy for client requests.",
+    "example3": "He used his wealth as a proxy for success.",
+    "Explanation": "A proxy is a person authorized to act for another, or a thing used to represent something else. In meetings, a 'proxy vote' is cast by one person on behalf of another. In computing, a 'proxy server' is an intermediary between a user and the internet. In statistics, a 'proxy variable' indirectly measures an unobservable factor. The word comes from 'procuracy', meaning the function of managing another's affairs. It's a formal term for substitution or representation, common in legal, corporate, and technical contexts.",
+    "synonyms": [
+      "substitute",
+      "representative",
+      "agent",
+      "surrogate",
+      "stand-in"
+    ],
+    "antonyms": [
+      "principal",
+      "original"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "N/A",
+    "adjectiveForm": "proxy",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Voting, computing, law, finance",
+    "usageTip": "Often used in the phrase 'by proxy' or as an adjective (proxy server, proxy war).",
+    "commonMistake": "Pronouncing it as 'prox-ee'. The correct pronunciation is 'PROK-see'.",
+    "collocations": [
+      "proxy server",
+      "proxy vote",
+      "proxy war",
+      "marriage by proxy"
+    ]
+  },
+  {
+    "word": "Proxy",
+    "meaning": "An intermediary between two systems",
+    "shortMeaning": "intermediary",
+    "example": "The reverse proxy manages incoming traffic for the web server.",
+    "example2": "We use a proxy to access blocked websites.",
+    "example3": "The proxy server adds a layer of security between the user and our app.",
+    "Explanation": "A 'proxy' is an intermediary agent that takes requests from a client, performs them (or forwards them), and returns the results. Proxies are used for security (hiding internal IPs), caching (storing popular data to speed up access), and load balancing (distributing traffic). There are two main types: 'forward proxies' (for client-side needs) and 'reverse proxies' (for server-side needs). Understanding proxy architecture is critical for network security and scalability in modern web applications.",
+    "synonyms": [
+      "intermediary",
+      "relay",
+      "gateway"
+    ],
+    "antonyms": [
+      "direct-connection"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "proxy",
+    "adjectiveForm": "proxy",
+    "partOfSpeech": "noun",
+    "commonContext": "Networking, security, web development",
+    "usageTip": "Clearly distinguish between 'forward' and 'reverse' proxies to avoid confusion.",
+    "commonMistake": "Confusing proxying with VPN; they are similar but handle data differently.",
+    "collocations": [
+      "reverse proxy",
+      "proxy server",
+      "use a proxy"
+    ]
+  },
+  {
+    "word": "Proxy",
+    "meaning": "A person or a system that acts as a middleman for someone else",
+    "shortMeaning": "middleman",
+    "example": "The company uses a web proxy to block dangerous websites.",
+    "example2": "If you cannot attend the meeting, you can send a proxy to vote for you.",
+    "example3": "The proxy server hides your real IP address from the website you are visiting.",
+    "Explanation": "A proxy is something that represents something else. In networking, a 'Proxy Server' is a computer that sits between your computer and the internet. When you request a website, the request goes to the proxy first, and the proxy gets the website for you. This is used for security (blocking bad sites), privacy (hiding your location), or speed (caching). In a legal or business sense, a proxy is a person who has the authority to act on your behalf. The core idea is always the same: someone or something acting in place of another. It's a fundamental concept in both technology and law.",
+    "synonyms": [
+      "intermediary",
+      "agent",
+      "representative"
+    ],
+    "antonyms": [
+      "direct connection",
+      "principal (in law)",
+      "N/A"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "proxy (act as a proxy)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Web browsing, corporate security, and voting",
+    "usageTip": "Use a proxy when you want to access a website that is restricted in your region.",
+    "commonMistake": "Confusing a 'proxy' with a 'VPN'; a VPN encrypts all your traffic, while a proxy usually only handles web requests.",
+    "collocations": [
+      "proxy server",
+      "vote by proxy",
+      "reverse proxy"
+    ]
+  }
+]

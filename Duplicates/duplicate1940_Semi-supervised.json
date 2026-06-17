@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Semi-supervised",
+    "meaning": "A machine learning approach using some labeled and some unlabeled data",
+    "shortMeaning": "partly labeled data",
+    "example": "We used semi-supervised learning to train the classifier.",
+    "example2": "The model performs better with a semi-supervised approach.",
+    "example3": "Semi-supervised methods save time on data labeling.",
+    "Explanation": "Semi-supervised learning is a technique in AI where the model is trained on a small amount of labeled data (data with correct answers) and a large amount of unlabeled data. This is useful because labeling data is expensive and time-consuming. By using both types, the model can learn the general patterns from the big pile of unlabeled info and use the few labeled ones to get the 'right' answer. It is a very effective way to build models efficiently.",
+    "synonyms": [
+      "hybrid-labeled",
+      "partly supervised"
+    ],
+    "antonyms": [
+      "supervised",
+      "unsupervised"
+    ],
+    "nounForm": "learning",
+    "verbForm": "supervise",
+    "adjectiveForm": "semi-supervised",
+    "partOfSpeech": "adjective",
+    "commonContext": "Artificial intelligence, machine learning",
+    "usageTip": "Use this term when discussing training strategies that balance label cost vs. volume.",
+    "commonMistake": "Confusing it with 'supervised' (fully labeled) or 'unsupervised' (no labels).",
+    "collocations": [
+      "semi-supervised learning",
+      "semi-supervised model",
+      "semi-supervised approach"
+    ]
+  },
+  {
+    "word": "Semi-supervised",
+    "meaning": "Machine learning using both labeled and unlabeled data",
+    "shortMeaning": "mixed-learning",
+    "example": "We used semi-supervised learning to train the model.",
+    "example2": "Semi-supervised methods are cost-effective for large datasets.",
+    "example3": "The model performs well in semi-supervised tasks.",
+    "Explanation": "In machine learning, 'semi-supervised' learning is a technique that uses a small amount of labeled data (data where the answer is known) and a large amount of unlabeled data (data without labels). It is very useful because labeling large amounts of data is expensive and time-consuming. By using both, the computer can learn patterns from the small labeled set and apply them to the much larger unlabeled set. This is a powerful, efficient way to train AI models for complex tasks.",
+    "synonyms": [
+      "mixed-learning"
+    ],
+    "antonyms": [
+      "supervised",
+      "unsupervised"
+    ],
+    "nounForm": "learning",
+    "verbForm": "N/A",
+    "adjectiveForm": "semi-supervised",
+    "partOfSpeech": "adjective",
+    "commonContext": "Machine learning, AI, data science",
+    "usageTip": "Use when describing training data strategies.",
+    "commonMistake": "Assuming semi-supervised is as accurate as fully supervised.",
+    "collocations": [
+      "semi-supervised learning",
+      "semi-supervised model"
+    ]
+  }
+]

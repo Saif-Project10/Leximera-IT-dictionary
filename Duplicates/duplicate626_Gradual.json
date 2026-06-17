@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Gradual",
+    "meaning": "Happening slowly over a long period; step-by-step.",
+    "shortMeaning": "slow and steady",
+    "example": "We saw a gradual improvement in her test scores.",
+    "example2": "The hill had a gradual slope, easy to climb.",
+    "example3": "The company is planning a gradual shift to remote work.",
+    "Explanation": "Gradual describes a process that occurs in small stages over time, not suddenly. It implies a gentle, steady progression. This word is positive when describing positive change (improvement) and neutral or negative for other changes. It's the opposite of 'sudden', 'abrupt', or 'drastic'. It's often used in contexts like learning, recovery, change management, and natural processes. The adverb 'gradually' is very common. Understanding something happens gradually helps set realistic expectations about the time required.",
+    "synonyms": [
+      "slow",
+      "steady",
+      "progressive",
+      "incremental",
+      "piecemeal"
+    ],
+    "antonyms": [
+      "sudden",
+      "abrupt",
+      "rapid",
+      "drastic"
+    ],
+    "nounForm": "gradualness",
+    "verbForm": "N/A",
+    "adjectiveForm": "gradual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Change, progress, learning, slopes, processes",
+    "usageTip": "Use it to describe changes that happen little by little, not all at once.",
+    "commonMistake": "Confusing 'gradual' with 'graduated', which means marked with steps or having received a degree.",
+    "collocations": [
+      "gradual process",
+      "gradual change",
+      "gradual increase",
+      "gradual decline"
+    ]
+  },
+  {
+    "word": "Gradual",
+    "meaning": "Happening slowly and by small degrees",
+    "shortMeaning": "Slowly changing",
+    "example": "We are seeing a gradual increase in server performance.",
+    "example2": "The gradual rollout ensures minimal user disruption.",
+    "example3": "We need a gradual transition to the new database.",
+    "Explanation": "The word 'gradual' describes a change that occurs in small, consistent increments rather than all at once. This is vital in IT rollouts, where updates are often released gradually to detect bugs early. It implies steady progress. It functions as an adjective. It is a very clear, professional term that helps manage expectations regarding the speed of change or system updates. Avoid it when describing immediate or explosive changes.",
+    "synonyms": [
+      "slow",
+      "incremental",
+      "steady"
+    ],
+    "antonyms": [
+      "abrupt",
+      "sudden",
+      "instant"
+    ],
+    "nounForm": "graduality",
+    "verbForm": "N/A",
+    "adjectiveForm": "gradual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Deployment and system transitions",
+    "usageTip": "Use 'gradual' to describe slow, controlled progress.",
+    "commonMistake": "Using 'gradual' for things that happen too fast.",
+    "collocations": [
+      "gradual rollout",
+      "gradual increase",
+      "gradual transition"
+    ]
+  }
+]

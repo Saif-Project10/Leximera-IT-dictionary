@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Match",
+    "meaning": "To be equal or corresponding; to find something that is like another; a contest in a game | A contest in a game or sport; a thing that corresponds or is equal to another; to light a fire.",
+    "shortMeaning": "be the same; go together; game",
+    "example": "The paint color should match the curtains.",
+    "example2": "Can you match this sock with its pair?",
+    "example3": "They went to watch a football match.",
+    "Explanation": "'Match' is a word with multiple common meanings. As a verb, it means to correspond or be similar, or to put two similar things together. As a noun, it can mean a contest or game (common in British English), or a small stick for lighting a fire. It's a very versatile word. The context usually makes the meaning clear. The verb is used often in fashion, design, and data.",
+    "synonyms": [
+      "Coordinate",
+      "Correspond",
+      "Equal",
+      "Game"
+    ],
+    "antonyms": [
+      "Clash",
+      "Contrast",
+      "Differ",
+      "Mismatch"
+    ],
+    "nounForm": "match",
+    "verbForm": "match",
+    "adjectiveForm": "matching",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Clothing, colors, sports, data comparison",
+    "usageTip": "In American English, 'game' is more common for sports; 'match' is used for tennis, boxing, etc.",
+    "commonMistake": "Confusing the verb 'match' with the noun for a sports event.",
+    "collocations": [
+      "perfect match",
+      "football match",
+      "match the description",
+      "matching set"
+    ]
+  },
+  {
+    "word": "Match",
+    "meaning": "To correspond, pair together, or to be equal or similar.",
+    "shortMeaning": "to pair or correspond",
+    "example": "The colors match perfectly in the new website design.",
+    "example2": "We need to match the password entered with the one in the database.",
+    "example3": "The data fields must match for the import to succeed.",
+    "Explanation": "Match means to be compatible or to successfully connect two things. It implies that two elements are equal or fit well together. It is a common word in programming for comparing strings, values, or objects. It is also used in design to describe colors or fonts that work well together. Consistency and verification are the core themes when using this word.",
+    "synonyms": [
+      "pair",
+      "correspond",
+      "fit"
+    ],
+    "antonyms": [
+      "mismatch",
+      "differ",
+      "clash"
+    ],
+    "nounForm": "match",
+    "verbForm": "match",
+    "adjectiveForm": "matching",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming, Design, Daily life",
+    "usageTip": "Use 'match' to check if two things are the same.",
+    "commonMistake": "Forgetting that 'match' in code often implies case-sensitivity.",
+    "collocations": [
+      "perfect match",
+      "match criteria",
+      "match found"
+    ]
+  }
+]

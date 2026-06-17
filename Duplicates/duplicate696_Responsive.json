@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Responsive",
+    "meaning": "Reacting quickly and positively; answering readily.",
+    "shortMeaning": "quick to react or answer",
+    "example": "The company was very responsive to customer feedback.",
+    "example2": "A good teacher is responsive to students' needs.",
+    "example3": "The website is fully responsive on mobile devices.",
+    "Explanation": "'Responsive' describes something or someone that reacts appropriately and in a timely manner. In web design, 'responsive' specifically means a website that adapts its layout to different screen sizes (phones, tablets, desktops). The noun form is 'responsiveness'. It is a highly positive adjective in both personal interactions (a responsive friend) and technology (responsive design, responsive interface). It implies attentiveness and adaptability.",
+    "synonyms": [
+      "reactive",
+      "sensitive",
+      "adaptable",
+      "quick to respond"
+    ],
+    "antonyms": [
+      "unresponsive",
+      "slow",
+      "insensitive",
+      "static"
+    ],
+    "nounForm": "responsiveness",
+    "verbForm": "respond",
+    "adjectiveForm": "responsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Customer service, web design, relationships, medicine",
+    "usageTip": "In modern web development, 'responsive design' is a mandatory feature, ensuring sites work well on all devices.",
+    "commonMistake": "Using 'responsive' to simply mean 'fast'. It also implies appropriateness and adaptability, not just speed.",
+    "collocations": [
+      "responsive design",
+      "highly responsive",
+      "responsive to",
+      "responsive layout"
+    ]
+  },
+  {
+    "word": "Responsive",
+    "meaning": "Reacting quickly and positively to something",
+    "shortMeaning": "reacting quickly",
+    "example": "The new website is very responsive on mobile devices.",
+    "example2": "The support team was responsive to our urgent request.",
+    "example3": "A responsive design adjusts to different screen sizes.",
+    "Explanation": "Responsive is used to describe something that reacts quickly to input or a changing environment. In technology, a 'responsive design' is a layout that changes its size and structure based on the screen it is viewed on (mobile, tablet, desktop). Outside of design, a person or team is called responsive if they answer emails or messages promptly. It implies efficiency and agility. It is a critical term in modern software development to describe how interfaces should behave.",
+    "synonyms": [
+      "reactive",
+      "agile",
+      "quick"
+    ],
+    "antonyms": [
+      "unresponsive",
+      "slow",
+      "passive"
+    ],
+    "nounForm": "responsiveness",
+    "verbForm": "respond",
+    "adjectiveForm": "responsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design, communication, performance",
+    "usageTip": "Use 'responsive' to describe UI that adapts well or people who reply quickly.",
+    "commonMistake": "Confusing 'responsive' with 'responsible' (accountable).",
+    "collocations": [
+      "responsive design",
+      "be responsive to",
+      "highly responsive"
+    ]
+  }
+]

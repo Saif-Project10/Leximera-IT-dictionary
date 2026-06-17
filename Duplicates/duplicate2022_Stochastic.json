@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stochastic",
+    "meaning": "Involving a random process or chance.",
+    "shortMeaning": "random",
+    "example": "The simulation uses a stochastic model to predict weather.",
+    "example2": "Stochastic processes are common in financial modeling.",
+    "example3": "We added some stochastic noise to test the system robustness.",
+    "Explanation": "The word 'stochastic' describes processes that are governed by random variables and probability. Unlike deterministic systems, where the same input always produces the same output, stochastic systems show variation. This is crucial in simulation, machine learning, and optimization where you need to model real-world uncertainty. While a stochastic model might be hard to predict, it is often more realistic and useful than a purely fixed, deterministic one.",
+    "synonyms": [
+      "random",
+      "probabilistic",
+      "chance-based"
+    ],
+    "antonyms": [
+      "deterministic",
+      "fixed",
+      "predictable"
+    ],
+    "nounForm": "stochasticity",
+    "verbForm": "N/A",
+    "adjectiveForm": "stochastic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Simulation, machine learning, statistics",
+    "usageTip": "Use 'stochastic' for systems involving probability and chance.",
+    "commonMistake": "Confusing 'stochastic' with 'completely chaotic'.",
+    "collocations": [
+      "stochastic model",
+      "stochastic process",
+      "stochastic noise"
+    ]
+  },
+  {
+    "word": "Stochastic",
+    "meaning": "Involving a random probability distribution or pattern",
+    "shortMeaning": "random or probabilistic",
+    "example": "The algorithm uses a stochastic process to model growth.",
+    "example2": "Stochastic models help predict complex market behavior.",
+    "example3": "We added stochastic noise to the training dataset.",
+    "Explanation": "The term 'stochastic' refers to systems or processes that involve elements of chance or randomness. It is the opposite of 'deterministic', where every action has a predictable outcome. In machine learning and simulation, stochastic methods are used to explore possibilities or manage complexity. Understanding stochasticity is vital for developers working in AI, financial modeling, or network simulations. It helps in creating systems that can handle unpredictable real-world inputs.",
+    "synonyms": [
+      "probabilistic",
+      "random",
+      "unpredictable"
+    ],
+    "antonyms": [
+      "deterministic",
+      "fixed",
+      "certain"
+    ],
+    "nounForm": "stochasticity",
+    "verbForm": "N/A",
+    "adjectiveForm": "stochastic",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, simulation, mathematics",
+    "usageTip": "Use to describe systems that rely on probability.",
+    "commonMistake": "Using 'stochastic' as a synonym for 'random' without context.",
+    "collocations": [
+      "stochastic process",
+      "stochastic model"
+    ]
+  }
+]

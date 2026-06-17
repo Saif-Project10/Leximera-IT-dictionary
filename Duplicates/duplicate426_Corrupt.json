@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Corrupt",
+    "meaning": "To cause someone or something to become dishonest or immoral; to damage or spoil data on a computer.",
+    "shortMeaning": "make dishonest, spoil data",
+    "example": "Power can corrupt even good people.",
+    "example2": "The virus corrupted the files on my hard drive.",
+    "example3": "The official was accused of corrupt practices.",
+    "Explanation": "The verb 'corrupt' means to negatively change something from a pure, honest, or proper state to a ruined, dishonest, or faulty one. It can apply to people (moral corruption), data (file corruption), or systems (political corruption). The adjective describes something in that state. It's a strong word with serious implications. A common mistake is using it for minor errors; corruption implies a fundamental breakdown of integrity or function. In computing, corrupted data is often unusable. The noun is 'corruption'. It's a word often used in discussions of ethics and technology.",
+    "synonyms": [
+      "debase",
+      "spoil",
+      "taint"
+    ],
+    "antonyms": [
+      "purify",
+      "improve",
+      "cleanse"
+    ],
+    "nounForm": "corruption",
+    "verbForm": "corrupt",
+    "adjectiveForm": "corrupt",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Politics, morality, computer files, language",
+    "usageTip": "In tech, say a file is 'corrupted', not 'corrupt' (though both are understood). 'Corrupt' as an adjective often describes people.",
+    "commonMistake": "Confusing 'corrupt' (dishonest) with 'erupt' (to explode).",
+    "collocations": [
+      "corrupt official",
+      "corrupt file",
+      "absolutely corrupt"
+    ]
+  },
+  {
+    "word": "Corrupt",
+    "meaning": "Damaged or having errors so that it does not function correctly",
+    "shortMeaning": "damaged/broken",
+    "example": "The file was corrupt and could not be opened.",
+    "example2": "Data can become corrupt during a bad download.",
+    "example3": "He had to fix the corrupt database table.",
+    "Explanation": "In IT, 'corrupt' describes data or files that have been altered or damaged, making them unreadable or unusable. This can happen due to power failures, interrupted downloads, or software bugs. When a file is 'corrupt', you cannot use it until it is fixed or replaced. It is a very common term in technical support and system administration for identifying broken files.",
+    "synonyms": [
+      "damaged",
+      "broken",
+      "unusable"
+    ],
+    "antonyms": [
+      "intact",
+      "valid",
+      "functional"
+    ],
+    "nounForm": "corruption",
+    "verbForm": "corrupt",
+    "adjectiveForm": "corrupt",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data storage, files, and databases",
+    "usageTip": "Use 'corrupt' when a file is broken and cannot be opened.",
+    "commonMistake": "Confusing 'corrupt' with 'infected' (a file can be corrupt but not have a virus).",
+    "collocations": [
+      "corrupt file",
+      "corrupt data",
+      "become corrupt"
+    ]
+  },
+  {
+    "word": "Corrupt",
+    "meaning": "To damage something so that it no longer works correctly, or to be dishonest",
+    "shortMeaning": "damage or dishonest",
+    "example": "A power cut can corrupt the files on your hard drive.",
+    "example2": "The virus was designed to corrupt the operating system.",
+    "example3": "The corrupt official was arrested for taking bribes.",
+    "Explanation": "In IT, 'corrupt' is most often used to describe data that has become unreadable or broken. This happens when a file is saved incorrectly or a disk is damaged. A corrupt file cannot be opened by software. In a social context, 'corrupt' describes someone (like a politician) who uses their power for selfish gain or illegal activities. Whether digital or human, corruption means a loss of integrity. It is a serious term that implies something that was once good or functional is now broken or bad. Repairing corruption often requires backups or specialized tools.",
+    "synonyms": [
+      "damage",
+      "distort",
+      "debase"
+    ],
+    "antonyms": [
+      "fix",
+      "clean",
+      "purify"
+    ],
+    "nounForm": "corruption",
+    "verbForm": "corrupt",
+    "adjectiveForm": "corrupt",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "File systems, politics, databases",
+    "usageTip": "Use 'corrupt' to describe files that won't open because they are 'broken'.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "corrupt file",
+      "corrupt data",
+      "politically corrupt"
+    ]
+  }
+]

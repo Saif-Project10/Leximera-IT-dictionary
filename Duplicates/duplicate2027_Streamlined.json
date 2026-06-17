@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Streamlined",
+    "meaning": "Made more efficient, faster, or simpler by removing unnecessary elements.",
+    "shortMeaning": "made efficient",
+    "example": "We streamlined our deployment process to save time.",
+    "example2": "The new interface is more streamlined for mobile users.",
+    "example3": "A streamlined codebase is easier for new developers to learn.",
+    "Explanation": "The word 'streamlined' describes something that has been improved for speed and efficiency. It is often used to describe workflows, code, or business processes where extra, redundant steps have been taken out. A streamlined process is one where things move quickly and clearly from beginning to end. It is a major goal in software development to reduce friction and improve performance.",
+    "synonyms": [
+      "efficient",
+      "optimized",
+      "simplified"
+    ],
+    "antonyms": [
+      "complex",
+      "cluttered",
+      "inefficient"
+    ],
+    "nounForm": "streamlining",
+    "verbForm": "streamline",
+    "adjectiveForm": "streamlined",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Optimization and efficiency",
+    "usageTip": "Use 'streamlined' to describe a process that is now faster or simpler.",
+    "commonMistake": "Assuming 'streamlined' means 'perfect'; it just means it is *more* efficient than before.",
+    "collocations": [
+      "streamlined process",
+      "streamlined design",
+      "highly streamlined"
+    ]
+  },
+  {
+    "word": "Streamlined",
+    "meaning": "Made simpler, more efficient, or more direct.",
+    "shortMeaning": "made efficient",
+    "example": "The new interface is much more streamlined.",
+    "example2": "We streamlined the deployment process to save time.",
+    "example3": "A streamlined workflow helps the team finish faster.",
+    "Explanation": "The word 'streamlined' means removing unnecessary steps or obstacles to make a process as smooth and efficient as possible. It is a very common term in project management and UI/UX design. When you streamline code, you are removing complexity; when you streamline a business process, you are removing red tape. The base verb is 'streamline'. Using this term shows that you value efficiency and clarity. It is the opposite of being bloated or convoluted.",
+    "synonyms": [
+      "simplified",
+      "efficient",
+      "optimized"
+    ],
+    "antonyms": [
+      "bloated",
+      "convoluted",
+      "cluttered"
+    ],
+    "nounForm": "streamlining",
+    "verbForm": "streamline",
+    "adjectiveForm": "streamlined",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Workflow, UI/UX, software architecture",
+    "usageTip": "Use 'streamlined' when describing a simplified, faster process.",
+    "commonMistake": "Thinking 'streamlined' has to do with actual 'streams' of data.",
+    "collocations": [
+      "streamlined process",
+      "streamlined design",
+      "highly streamlined"
+    ]
+  }
+]

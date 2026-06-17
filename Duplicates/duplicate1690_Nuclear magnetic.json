@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Nuclear magnetic",
+    "meaning": "Relating to the physical properties of the center of an atom in a magnetic field",
+    "shortMeaning": "atomic magnet related",
+    "example": "The scientist studied the nuclear magnetic properties of the new material.",
+    "example2": "Nuclear magnetic resonance is a key tool in chemistry.",
+    "example3": "We need a strong magnet for this nuclear magnetic experiment.",
+    "Explanation": "The term 'nuclear magnetic' refers to the relationship between the nucleus (center) of an atom and magnetism. Certain atoms act like tiny magnets. When you put them in a strong magnetic field, they line up in specific ways. Scientists can use this behavior to 'see' inside objects or understand the structure of molecules. In technology, this is most famous for its use in MRI machines in hospitals. It is a concept from quantum physics that has very practical uses in medicine, chemistry, and even finding oil underground.",
+    "synonyms": [
+      "atomic magnetic",
+      "nucleomagnetic"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "nuclear magnetic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, medicine, and chemistry",
+    "usageTip": "Use 'nuclear magnetic' when talking about properties at the atomic level, not 'nuclear' as in bombs.",
+    "commonMistake": "Scaring people by using the word 'nuclear'; in this context, it has nothing to do with radiation.",
+    "collocations": [
+      "nuclear magnetic resonance",
+      "nuclear magnetic moment",
+      "nuclear magnetic field"
+    ]
+  },
+  {
+    "word": "Nuclear magnetic",
+    "meaning": "Relating to the magnetic properties of atomic nuclei",
+    "shortMeaning": "magnetic property",
+    "example": "The lab uses nuclear magnetic resonance for imaging.",
+    "example2": "He studied the nuclear magnetic properties of the material.",
+    "example3": "Nuclear magnetic sensors require high precision.",
+    "Explanation": "The term 'nuclear magnetic' is a specific scientific label usually associated with physics and advanced medical or materials engineering. In IT, this relates to the software and hardware systems that control and interpret data from MRI (Magnetic Resonance Imaging) machines or advanced chemical scanners. It involves very precise, hardware-level signal processing. Unless you are working in scientific or medical software, you will rarely encounter this, but it requires extreme precision in code.",
+    "synonyms": [
+      "NMR-related",
+      "atomic-magnetic"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "nucleus",
+    "verbForm": "N/A",
+    "adjectiveForm": "nuclear magnetic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medical imaging, physics, hardware sensors",
+    "usageTip": "Use this only in specific scientific or medical software contexts.",
+    "commonMistake": "Confusing it with nuclear energy (it is about magnetism).",
+    "collocations": [
+      "nuclear magnetic resonance",
+      "nuclear magnetic imaging"
+    ]
+  }
+]

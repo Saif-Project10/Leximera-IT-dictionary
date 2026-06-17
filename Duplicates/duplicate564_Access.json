@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Access",
+    "meaning": "The ability or right to approach, enter, or use something; to obtain or retrieve data from a computer system.",
+    "shortMeaning": "ability to use or enter; obtain data",
+    "example": "Employees have access to the shared drive.",
+    "example2": "The software can access the database to retrieve customer records.",
+    "example3": "The building has wheelchair access.",
+    "Explanation": "Access is a versatile noun and verb central to security, computing, and general use. As a noun, it means the permission or ability to use something. In computing, it refers to reading or writing data. As a verb, it means to obtain or connect to data or a resource. A common mistake is confusing it with 'excess' (too much). The concept of 'access control' is fundamental in cybersecurity, determining who is allowed to see or use resources. This word is crucial in discussions about rights, technology, and inclusivity.",
+    "synonyms": [
+      "entry",
+      "admittance",
+      "retrieve",
+      "reach"
+    ],
+    "antonyms": [
+      "denial",
+      "block",
+      "exclusion"
+    ],
+    "nounForm": "access",
+    "verbForm": "access",
+    "adjectiveForm": "accessible",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, security, permissions, physical entry.",
+    "usageTip": "Use 'have access to' something as a noun. As a verb, it's 'access the file.'",
+    "commonMistake": "Saying 'access to' when using it as a verb (e.g., 'I need to access to the system' is wrong; 'I need to access the system' is correct).",
+    "collocations": [
+      "gain access",
+      "remote access",
+      "public access"
+    ]
+  },
+  {
+    "word": "Access",
+    "meaning": "The ability or right to use, enter, or see something",
+    "shortMeaning": "entry or usage",
+    "example": "Do you have access to the company's internal database?",
+    "example2": "The user was denied access because of an incorrect password.",
+    "example3": "You can access your files from any device with an internet connection.",
+    "Explanation": "Access is a core concept in IT security and data management. It refers to the permission granted to a user or a system to interact with resources. Access control levels (like Admin or Guest) determine what a user can do. It is used as both a noun ('have access') and a verb ('to access'). In databases, it refers to retrieving or storing data. Managing access is vital for protecting sensitive information.",
+    "synonyms": [
+      "entry",
+      "admission",
+      "reach"
+    ],
+    "antonyms": [
+      "restriction",
+      "exclusion",
+      "denial"
+    ],
+    "nounForm": "access",
+    "verbForm": "access",
+    "adjectiveForm": "accessible",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security, databases, and file management",
+    "usageTip": "Use 'access' when talking about permissions or getting to data.",
+    "commonMistake": "Using 'access' when you specifically mean 'permission' (though they are related).",
+    "collocations": [
+      "gain access",
+      "unauthorized access",
+      "access denied"
+    ]
+  }
+]

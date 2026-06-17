@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stacked",
+    "meaning": "Placed one on top of another",
+    "shortMeaning": "layered",
+    "example": "The boxes were stacked in the storage room.",
+    "example2": "The charts are stacked to compare different metrics.",
+    "example3": "We have stacked layers in the design.",
+    "Explanation": "The word 'stacked' simply means that items have been placed one on top of another. In design, a 'stacked' layout shows elements in a vertical column. In computing, it can refer to how items are organized in memory or how components are layered together to build functionality. It is a common term for vertical arrangement. Use this word to describe visual or structural layering. It is a clear and simple descriptor for any vertical configuration.",
+    "synonyms": [
+      "layered",
+      "piled",
+      "arranged"
+    ],
+    "antonyms": [
+      "side-by-side",
+      "spread"
+    ],
+    "nounForm": "stack",
+    "verbForm": "stack",
+    "adjectiveForm": "stacked",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Design, data organization, storage",
+    "usageTip": "Use for vertical arrangement of items.",
+    "commonMistake": "Confusing 'stacked' with 'bundled'; stacked is specifically vertical.",
+    "collocations": [
+      "stacked layout",
+      "stacked charts",
+      "stacked components"
+    ]
+  },
+  {
+    "word": "Stacked",
+    "meaning": "Arranged in a pile or layer one on top of another",
+    "shortMeaning": "piled up",
+    "example": "The server racks were stacked neatly in the data center.",
+    "example2": "We stacked the application layers to improve modularity.",
+    "example3": "The data packets are stacked in the queue waiting for processing.",
+    "Explanation": "The word 'stacked' describes objects or data structures arranged vertically or in a specific order. In IT, it often refers to a 'tech stack,' which is the combination of technologies used to build an application. It implies that different components are placed together to function as a whole unit. It can also describe memory management, where data is pushed onto a stack. It is a common term in both hardware and software architecture.",
+    "synonyms": [
+      "piled",
+      "layered",
+      "arranged"
+    ],
+    "antonyms": [
+      "scattered",
+      "flat",
+      "unorganized"
+    ],
+    "nounForm": "stack",
+    "verbForm": "stack",
+    "adjectiveForm": "stacked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, software architecture, memory",
+    "usageTip": "Use 'stacked' when referring to multiple layers or components working together.",
+    "commonMistake": "Confusing a vertical stack with a simple side-by-side arrangement.",
+    "collocations": [
+      "stacked layers",
+      "tech stack",
+      "stacked memory"
+    ]
+  }
+]

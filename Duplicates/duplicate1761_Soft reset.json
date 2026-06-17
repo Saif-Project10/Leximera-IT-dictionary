@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Soft reset",
+    "meaning": "Restarting a device without turning the power off or losing personal data",
+    "shortMeaning": "restarting the software",
+    "example": "If the app freezes, try a soft reset by holding the volume and power buttons.",
+    "example2": "A soft reset cleared the minor glitches I was having with the interface.",
+    "example3": "Performing a soft reset is much safer than a factory reset.",
+    "Explanation": "A soft reset is essentially a reboot of a device's operating system. Unlike a hard reset (factory reset), it does not delete your photos, messages, or settings. It simply closes all running applications and clears the temporary memory (RAM). It is the first step in troubleshooting most electronic devices like smartphones, tablets, and computers. It is often triggered by software commands or specific button combinations. It is a quick way to resolve minor software conflicts or hung processes.",
+    "synonyms": [
+      "reboot",
+      "restart",
+      "warm boot"
+    ],
+    "antonyms": [
+      "hard reset",
+      "factory reset",
+      "cold boot"
+    ],
+    "nounForm": "soft reset",
+    "verbForm": "soft reset",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Troubleshooting and consumer electronics",
+    "usageTip": "Always recommend a soft reset before telling someone to wipe their entire device.",
+    "commonMistake": "Confusing a 'soft reset' with a 'factory reset', which wipes all data.",
+    "collocations": [
+      "perform a soft reset",
+      "trigger a soft reset",
+      "soft reset instructions"
+    ]
+  },
+  {
+    "word": "Soft reset",
+    "meaning": "Restarting a device or application clearing temporary memory without erasing permanent user data",
+    "shortMeaning": "non-destructive reboot",
+    "example": "If the application freezes, perform a soft reset by restarting the service.",
+    "example2": "A soft reset will clear your current session memory but save your configuration files.",
+    "example3": "The system admin triggered a soft reset to apply the minor configuration updates safely.",
+    "Explanation": "A 'soft reset' refers to restarting a computing device, operating system, or application container via software control. Unlike a hard reset, it does not cut physical power and does not erase permanent user files or settings. It clears volatile random access memory, terminates stuck background processes, and restarts system applications cleanly. It is the first step in troubleshooting frozen devices. It ensures data preservation while refreshing system states.",
+    "synonyms": [
+      "warm reboot",
+      "software restart",
+      "system refresh"
+    ],
+    "antonyms": [
+      "hard reset",
+      "factory reset",
+      "cold boot"
+    ],
+    "nounForm": "soft reset",
+    "verbForm": "soft reset",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Device troubleshooting, server maintenance, and technical support documentation",
+    "usageTip": "Recommend a 'soft reset' to users as a safe troubleshooting step that will not wipe their files.",
+    "commonMistake": "Confusing a soft reset with a factory reset, which completely wipes out user configurations.",
+    "collocations": [
+      "perform a soft reset",
+      "trigger a soft reset",
+      "soft reset instructions"
+    ]
+  }
+]

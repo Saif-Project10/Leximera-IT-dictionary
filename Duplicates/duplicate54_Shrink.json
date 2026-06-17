@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Shrink",
+    "meaning": "To become or make smaller in size or amount; a colloquial term for a psychiatrist or therapist",
+    "shortMeaning": "become smaller or therapist",
+    "example": "Wool sweaters often shrink if washed in hot water.",
+    "example2": "The company's profits shrank by 15% this quarter.",
+    "example3": "He visits his shrink every Thursday.",
+    "Explanation": "'Shrink' has two very different meanings. As a verb, it means to reduce in size, volume, or quantity, either physically or figuratively. Many materials shrink when exposed to heat or moisture. As a slang noun, it means a psychiatrist or psychologist, originating from 'headshrinker'. The verb form is common in everyday language, while the noun is informal and sometimes disrespectful. Context makes the meaning clear: you shrink clothes but visit a shrink.",
+    "synonyms": [
+      "contract",
+      "diminish",
+      "reduce",
+      "therapist",
+      "psychiatrist"
+    ],
+    "antonyms": [
+      "expand",
+      "grow",
+      "increase",
+      "enlarge"
+    ],
+    "nounForm": "shrinkage",
+    "verbForm": "shrink",
+    "adjectiveForm": "shrunken",
+    "partOfSpeech": "verb / noun (slang)",
+    "commonContext": "Laundry, business, psychology, materials science",
+    "usageTip": "As a verb, the past tense is 'shrank' and past participle is 'shrunk'. The noun is informal slang.",
+    "commonMistake": "Using the informal 'shrink' for therapist in professional or respectful contexts.",
+    "collocations": [
+      "shrink in size",
+      "shrink from responsibility",
+      "heat shrink",
+      "visit a shrink"
+    ]
+  },
+  {
+    "word": "Shrink",
+    "meaning": "To decrease the file dimension size, memory partition weight, or pixel grid boundaries of an application asset",
+    "shortMeaning": "decrease asset dimensions/size",
+    "example": "You can use an optimization tool script to shrink large image assets before uploading them to the server folder.",
+    "example2": "The software manager allowed us to shrink the database disk partition allocation down safely.",
+    "example3": "The CSS layout flexbox model will shrink inner card blocks automatically to fit tiny mobile displays.",
+    "Explanation": "The word 'shrink' refers to reducing the scale, capacity, or layout footprints of digital items. In frontend styling, flexbox containers shrink inner boxes to prevent text content from breaking on smartphone screens. In database management, administrators shrink log spaces or disk allocations to reclaim empty storage volume blocks. It highlights structural minimization across code structures and hardware units alike.",
+    "synonyms": [
+      "minimize scale",
+      "compress space",
+      "contract dimensions"
+    ],
+    "antonyms": [
+      "grow",
+      "expand",
+      "enlarge"
+    ],
+    "nounForm": "shrinkage / shrinker",
+    "verbForm": "shrink",
+    "adjectiveForm": "shrunken",
+    "partOfSpeech": "verb",
+    "commonContext": "Responsive web layouts, database storage adjustments, and media file optimization routines",
+    "usageTip": "Use 'shrink' when describing the physical or layout scaling down of image containers, web elements, or hardware memory block sizes.",
+    "commonMistake": "Confusing code minification with file shrinking; minification clips text markup lines, while shrinking typically applies to scale dimensions or volume capacities.",
+    "collocations": [
+      "shrink an image",
+      "flexbox shrink property",
+      "shrink database volume"
+    ]
+  }
+]

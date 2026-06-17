@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Relate",
+    "meaning": "To show or make a connection between two or more things; to tell a story.",
+    "shortMeaning": "connect, tell",
+    "example": "Can you relate these events to the economic crisis?",
+    "example2": "He related the funny story of how he got lost.",
+    "example3": "Many people can relate to the feeling of being overwhelmed.",
+    "Explanation": "The verb 'relate' has two main uses. First, it means to establish a logical or causal connection between things ('relate A to B'). Second, it means to give an account of something, to narrate ('relate a tale'). A third, very common use is in the phrase 'relate to', meaning to feel sympathy for or understand because of shared experience. The noun form is 'relation'. It is a fundamental word for communication, analysis, and empathy. It helps us make sense of the world by linking ideas and experiences.",
+    "synonyms": [
+      "connect",
+      "associate",
+      "correlate",
+      "narrate",
+      "empathize"
+    ],
+    "antonyms": [
+      "disconnect",
+      "separate",
+      "dissociate"
+    ],
+    "nounForm": "relation",
+    "verbForm": "relate",
+    "adjectiveForm": "related",
+    "partOfSpeech": "verb",
+    "commonContext": "Analysis, storytelling, interpersonal communication",
+    "usageTip": "Use 'relate to' for empathy: 'I can relate to your struggle.' Use 'relate with' is less common and usually incorrect for this meaning.",
+    "commonMistake": "Saying 'I can relate with you.' The standard phrase is 'I can relate to you' or 'I can relate to your experience.'",
+    "collocations": [
+      "relate to",
+      "closely related",
+      "relate a story",
+      "interrelated"
+    ]
+  },
+  {
+    "word": "Relate",
+    "meaning": "To establish a logical relationship, connect data tables, or explain how different technical concepts connect to one another",
+    "shortMeaning": "connect or associate concepts/data",
+    "example": "We can use primary and foreign keys to relate the customer table directly to the orders database.",
+    "example2": "How do these new system errors relate to the server configuration updates we applied yesterday?",
+    "example3": "It is important to understand how backend latency metrics relate to overall user experience dropdowns.",
+    "Explanation": "The word 'relate' means to find, map, or explain a connection between separate entities, data structures, or system behaviors. In relational database design, engineers relate tables by setting up structural relationships where a row in one table references a row in another (e.g., connecting a user's account ID to their specific transactions). In system monitoring and debugging, engineers analyze metrics to understand how server hardware loads relate to page response times, ensuring data-driven optimization strategies.",
+    "synonyms": [
+      "connect",
+      "associate",
+      "link"
+    ],
+    "antonyms": [
+      "disconnect",
+      "separate",
+      "isolate"
+    ],
+    "nounForm": "relation / relationship",
+    "verbForm": "relate",
+    "adjectiveForm": "relational",
+    "partOfSpeech": "verb",
+    "commonContext": "Relational database mapping, debugging correlation, system metrics analysis",
+    "usageTip": "Use 'relate' when creating connections between database entities or explaining how structural elements affect one another.",
+    "commonMistake": "Confusing 'relate' with simple data copying; relating data creates a reference link rather than duplicating the record.",
+    "collocations": [
+      "relate tables using keys",
+      "relate to a concept",
+      "directly relate to"
+    ]
+  }
+]

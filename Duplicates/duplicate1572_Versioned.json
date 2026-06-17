@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Versioned",
+    "meaning": "Having different versions that are tracked and managed over time",
+    "shortMeaning": "tracked in versions",
+    "example": "All our documents are versioned in a central system.",
+    "example2": "The software is versioned using semantic versioning (e.g., v1.2.3).",
+    "example3": "A versioned API allows clients to use older versions while they update.",
+    "Explanation": "The adjective 'versioned' comes from the practice of version control in software development and document management. It describes files, code, data, or APIs that are systematically saved as separate iterations (versions) as they are changed. Each version is typically numbered or labeled (v1, v2), allowing users to track history, see what changed, and revert to previous states if needed. Tools like Git are used for versioned source code. A 'versioned API' provides multiple numbered interfaces for backward compatibility. The term is technical but essential in IT, programming, and collaborative work environments to manage change and prevent loss of work.",
+    "synonyms": [
+      "version-controlled",
+      "iterated",
+      "tracked"
+    ],
+    "antonyms": [
+      "unversioned",
+      "single-version",
+      "static"
+    ],
+    "nounForm": "version",
+    "verbForm": "version",
+    "adjectiveForm": "versioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, document management, API design",
+    "usageTip": "Primarily used in technical contexts related to change management and collaboration.",
+    "commonMistake": "Thinking 'versioned' just means 'has a version number'; it implies a system for managing multiple versions.",
+    "collocations": [
+      "versioned file",
+      "versioned software",
+      "versioned API",
+      "versioned document"
+    ]
+  },
+  {
+    "word": "Versioned",
+    "meaning": "Managed using a system of versions",
+    "shortMeaning": "managed by version",
+    "example": "All configuration files must be properly versioned.",
+    "example2": "We use versioned APIs to prevent breaking changes.",
+    "example3": "The database schema is versioned to track updates.",
+    "Explanation": "When something is 'versioned', it is tagged with a number or identifier that tracks its evolution over time. This is fundamental in software development (e.g., using Git), database management, and API design. 'Versioned' items ensure that users can revert to an older state if a new update causes bugs. It provides a historical record of changes. Without a versioned system, maintaining complex software becomes chaotic and prone to regressions. Every production component should be versioned.",
+    "synonyms": [
+      "numbered",
+      "tracked",
+      "managed"
+    ],
+    "antonyms": [
+      "unversioned"
+    ],
+    "nounForm": "version",
+    "verbForm": "version",
+    "adjectiveForm": "versioned",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Git, API design, data management",
+    "usageTip": "Use 'versioned' to describe tracking changes in software.",
+    "commonMistake": "Forgetting to version small config files.",
+    "collocations": [
+      "versioned API",
+      "properly versioned",
+      "versioned schema"
+    ]
+  },
+  {
+    "word": "Versioned",
+    "meaning": "Managed through a system of distinct versions",
+    "shortMeaning": "numbered version",
+    "example": "The API is versioned to support backward compatibility.",
+    "example2": "All documentation should be versioned.",
+    "example3": "We maintain versioned database schemas.",
+    "Explanation": "The word 'versioned' indicates that something is managed using a system like semantic versioning or git branches. This is fundamental in modern development for keeping track of changes, rolling back if something breaks, and allowing multiple versions to exist simultaneously. If you don't keep your files or code versioned, you run a high risk of losing work or introducing breaking changes that cannot be easily traced. It is a standard and essential practice.",
+    "synonyms": [
+      "tracked",
+      "numbered",
+      "documented"
+    ],
+    "antonyms": [
+      "unversioned",
+      "static"
+    ],
+    "nounForm": "version",
+    "verbForm": "version",
+    "adjectiveForm": "versioned",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software development and data management",
+    "usageTip": "Use to describe systems that track changes.",
+    "commonMistake": "Using 'versioned' instead of 'versioning'.",
+    "collocations": [
+      "properly versioned",
+      "versioned API",
+      "keep it versioned"
+    ]
+  }
+]

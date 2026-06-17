@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Compact",
+    "meaning": "(Adjective) Closely and neatly packed together; small and efficient. (Noun) A small case for makeup; a small car.",
+    "shortMeaning": "small and dense; small case",
+    "example": "The apartment was compact but had everything we needed.",
+    "example2": "She wrote a compact guide to the city's history.",
+    "example3": "She took out her lipstick from her compact.",
+    "Explanation": "Compact as an adjective describes something that takes up little space due to efficient design or dense packing. It implies neatness, efficiency, and a lack of wasted space. It can describe physical objects (a compact camera), writing (a compact argument), or agreements (a compact between nations). As a noun, it's a small flat case, usually for face powder. The word often carries a positive sense of clever design and portability. In writing, a compact style is similar to concise or succinct, packing a lot of meaning into few words.",
+    "synonyms": [
+      "concise",
+      "dense",
+      "small",
+      "portable",
+      "succinct"
+    ],
+    "antonyms": [
+      "sprawling",
+      "bulky",
+      "lengthy",
+      "verbose"
+    ],
+    "nounForm": "compact",
+    "verbForm": "compact (to compress)",
+    "adjectiveForm": "compact",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Design, writing, cars, living spaces, makeup",
+    "usageTip": "As an adjective, it's pronounced kum-PAKT. As a noun (the case), it's often KOM-pakt.",
+    "commonMistake": "Confusing the adjective with the verb 'compact' (to compress) or the noun meaning 'agreement'.",
+    "collocations": [
+      "compact disc (CD)",
+      "compact car",
+      "compact design"
+    ]
+  },
+  {
+    "word": "Compact",
+    "meaning": "Small, dense, or taking up little space, often used for efficient data or hardware design",
+    "shortMeaning": "small or efficient",
+    "example": "The compact design of the laptop makes it perfect for mobile developers.",
+    "example2": "The system uses a compact JSON format to minimize data transmission times.",
+    "example3": "We need a compact piece of code that solves this problem without using extra memory.",
+    "Explanation": "The word 'Compact' refers to something that is small, tidy, and efficient. In IT, a 'compact' layout in UI design uses space efficiently to fit more information without looking cluttered. A 'compact' data format (like compressed binary instead of long text) saves storage and bandwidth. In software, writing 'compact' code is often praised as 'elegant,' but developers must balance being compact with maintaining readability; code that is too small can sometimes become unreadable and hard to maintain.",
+    "synonyms": [
+      "concise",
+      "small",
+      "efficient"
+    ],
+    "antonyms": [
+      "bulky",
+      "large",
+      "cluttered"
+    ],
+    "nounForm": "compactness",
+    "verbForm": "compact",
+    "adjectiveForm": "compact",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, data formats, code optimization",
+    "usageTip": "Use 'compact' to describe designs or data that are efficient and occupy minimal space.",
+    "commonMistake": "Confusing 'compact' (small/tidy) with 'cramped' (messy/overfilled).",
+    "collocations": [
+      "compact design",
+      "compact code",
+      "compact format"
+    ]
+  },
+  {
+    "word": "Compact",
+    "meaning": "Small, efficient, and neatly packed together",
+    "shortMeaning": "small / dense",
+    "example": "The new laptop is very compact and easy to carry.",
+    "example2": "We need to keep the code compact to improve readability.",
+    "example3": "The database uses a compact format to save disk space.",
+    "Explanation": "Compact describes something that takes up very little space relative to its power or content. In hardware, a compact PC is a small-form-factor machine. In software, 'compact code' is concise and doesn't waste lines. In data storage, a compact format removes unnecessary bits. Being compact is generally considered a positive trait in engineering, as it implies efficiency and careful design. It can be used as an adjective or a verb.",
+    "synonyms": [
+      "concise",
+      "small",
+      "dense"
+    ],
+    "antonyms": [
+      "bulky",
+      "expanded",
+      "verbose"
+    ],
+    "nounForm": "compactness",
+    "verbForm": "compact",
+    "adjectiveForm": "compact",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware design and data formats",
+    "usageTip": "Use 'compact' to praise an efficient design that doesn't waste space.",
+    "commonMistake": "Confusing 'compact' (small) with 'impact' (effect).",
+    "collocations": [
+      "compact design",
+      "compact disk",
+      "compact code"
+    ]
+  }
+]

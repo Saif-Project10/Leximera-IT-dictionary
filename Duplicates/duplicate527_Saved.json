@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Saved",
+    "meaning": "Past tense of 'save'; rescued from harm or kept for future use.",
+    "shortMeaning": "rescued, kept",
+    "example": "He saved the drowning child.",
+    "example2": "I saved the document before the power went out.",
+    "example3": "She saved money for a new car.",
+    "Explanation": "'Saved' is the simple past tense and past participle of the verb 'save'. It covers both major meanings: to rescue from danger and to keep for later. It's a positive word indicating a successful action that prevented loss. A common mistake is confusing it with 'safe' (adjective). 'Saved' describes the action that was taken. In computing, 'saved' is a crucial state (the file is saved). In religion, 'saved' has a specific meaning of spiritual rescue. It's a word of agency and positive outcome, whether the subject is a person, data, or resources.",
+    "synonyms": [
+      "rescued",
+      "preserved",
+      "stored"
+    ],
+    "antonyms": [
+      "endangered",
+      "wasted",
+      "lost"
+    ],
+    "nounForm": "savings",
+    "verbForm": "save",
+    "adjectiveForm": "saved",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Emergencies, computing, finance, religion",
+    "usageTip": "In software, 'Have you saved your work?' is a critical question.",
+    "commonMistake": "Saying 'I safe the file' instead of 'I saved the file'. 'Safe' is an adjective.",
+    "collocations": [
+      "saved my life",
+      "saved the day",
+      "automatically saved"
+    ]
+  },
+  {
+    "word": "Saved",
+    "meaning": "Stored permanently in a file or database, or prevented from loss.",
+    "shortMeaning": "stored or kept",
+    "example": "The progress has been saved to the database.",
+    "example2": "I saved the script in the project folder.",
+    "example3": "Using an automatic backup saved our work after the crash.",
+    "Explanation": "The word 'saved' means that data has been moved from temporary memory to permanent storage, or that a loss was prevented. In software, saving ensures that changes are not lost when a program closes or a device shuts down. It is a routine action in almost every digital task. Proper saving strategies are essential to maintain data integrity and prevent frustration.",
+    "synonyms": [
+      "stored",
+      "preserved",
+      "backed up"
+    ],
+    "antonyms": [
+      "lost",
+      "deleted",
+      "unsaved"
+    ],
+    "nounForm": "save",
+    "verbForm": "save",
+    "adjectiveForm": "saved",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data storage and user interface",
+    "usageTip": "Use 'saved' to describe successfully stored data.",
+    "commonMistake": "Forgetting to explicitly save before closing an application.",
+    "collocations": [
+      "saved file",
+      "saved successfully",
+      "auto-saved"
+    ]
+  }
+]

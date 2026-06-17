@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Free",
+    "meaning": "Costing nothing or unrestricted in use",
+    "shortMeaning": "no cost",
+    "example": "The software is free to download and use.",
+    "example2": "Our system is free of any hidden charges.",
+    "example3": "He is free to access the server whenever he needs.",
+    "Explanation": "The word 'free' can mean two very different things: 'no money' (price) or 'unrestricted' (liberty). In IT, 'free software' often refers to 'Open Source' (which is about freedom, not just price). Always be clear which you mean. If something is 'free of errors', it means it has zero errors. If something is 'free access', it means anyone can enter. Because of this dual meaning, it is often better to use 'at no cost' or 'unrestricted' to be more precise.",
+    "synonyms": [
+      "complimentary",
+      "unrestricted",
+      "available"
+    ],
+    "antonyms": [
+      "paid",
+      "restricted",
+      "expensive"
+    ],
+    "nounForm": "freedom",
+    "verbForm": "free",
+    "adjectiveForm": "free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Pricing, access control, and quality",
+    "usageTip": "Use 'free' for price, but clarify if you mean 'no cost' or 'unrestricted'.",
+    "commonMistake": "Confusing 'free' (no cost) with 'freeware' (a specific software type).",
+    "collocations": [
+      "free download",
+      "free access",
+      "free of charge"
+    ]
+  },
+  {
+    "word": "Free",
+    "meaning": "Not costing any money, or not being held or controlled",
+    "shortMeaning": "no cost or loose",
+    "example": "The software is free to download and use.",
+    "example2": "You are free to leave whenever you want.",
+    "example3": "He felt free after finishing his exams.",
+    "Explanation": "The word 'free' has two major meanings. In a commercial sense, 'free' means 'zero cost' (Gratis). In a social or political sense, 'free' means 'liberty' or 'autonomy' (Libre). In IT, 'Free Software' usually refers to the freedom to study, change, and distribute the code, not necessarily the price. It can also describe a state of being unoccupied, like 'free memory' or 'free time'. It is one of the most powerful words in marketing and human rights.",
+    "synonyms": [
+      "complimentary",
+      "independent",
+      "loose"
+    ],
+    "antonyms": [
+      "expensive",
+      "trapped",
+      "occupied"
+    ],
+    "nounForm": "freedom / freeness",
+    "verbForm": "free",
+    "adjectiveForm": "free",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Business, human rights, and computing",
+    "usageTip": "Be clear if you mean 'free as in price' or 'free as in freedom'.",
+    "commonMistake": "Thinking 'free software' always means it costs zero dollars.",
+    "collocations": [
+      "free of charge",
+      "free will",
+      "free time"
+    ]
+  }
+]

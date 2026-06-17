@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Ignorant",
+    "meaning": "Lacking knowledge or awareness in general; uninformed.",
+    "shortMeaning": "lacking knowledge",
+    "example": "He was ignorant of the basic facts about the situation.",
+    "example2": "It's better to ask questions than to remain ignorant.",
+    "example3": "Her ignorant comments offended many people.",
+    "Explanation": "'Ignorant' is an adjective meaning lacking knowledge, information, or awareness about something. It doesn't necessarily imply stupidity - one can be intelligent but ignorant about a specific topic. The noun is 'ignorance'. The word can be descriptive (simply not knowing) or pejorative (willfully uninformed). It's important to distinguish between 'ignorant' (not knowing) and 'stupid' (unable to learn). Everyone is ignorant about many things; the problem is remaining ignorant when knowledge is available. The word is often used in discussions about education, prejudice, and informed decision-making.",
+    "synonyms": [
+      "uninformed",
+      "unaware",
+      "unenlightened",
+      "uneducated"
+    ],
+    "antonyms": [
+      "knowledgeable",
+      "informed",
+      "aware",
+      "educated"
+    ],
+    "nounForm": "ignorance",
+    "verbForm": "ignore",
+    "adjectiveForm": "ignorant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Knowledge, awareness, education, prejudice",
+    "usageTip": "Often followed by 'of' or 'about': 'ignorant of the law', 'ignorant about science'.",
+    "commonMistake": "Using as insult for stupidity. Ignorant means lacking knowledge, not lacking intelligence.",
+    "collocations": [
+      "ignorant of",
+      "blissfully ignorant",
+      "willfully ignorant"
+    ]
+  },
+  {
+    "word": "Ignorant",
+    "meaning": "Lacking knowledge or information about a specific subject",
+    "shortMeaning": "Lacking knowledge",
+    "example": "He was ignorant of the new security policy.",
+    "example2": "Being ignorant of best practices led to errors.",
+    "example3": "The system was ignorant of the current network state.",
+    "Explanation": "The word 'ignorant' means lacking knowledge, usually because one hasn't been informed. It is an adjective. In professional IT, it is often used to describe when a system or user does not have sufficient context to make a correct decision. It is not necessarily insulting; it simply describes a state of missing information. It is important to distinguish it from 'stupid' or 'incompetent'.",
+    "synonyms": [
+      "unaware",
+      "uninformed",
+      "unknowing"
+    ],
+    "antonyms": [
+      "knowledgeable",
+      "informed",
+      "aware"
+    ],
+    "nounForm": "ignorance",
+    "verbForm": "N/A",
+    "adjectiveForm": "ignorant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Learning, security, software logic",
+    "usageTip": "Use to explain a lack of necessary context or data.",
+    "commonMistake": "Using it as an insult rather than a state of missing information.",
+    "collocations": [
+      "ignorant of",
+      "remain ignorant",
+      "completely ignorant"
+    ]
+  }
+]

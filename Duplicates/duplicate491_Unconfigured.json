@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unconfigured",
+    "meaning": "Not yet set up or configured for use; in a default or raw state.",
+    "shortMeaning": "not set up",
+    "example": "The server arrived unconfigured, so we had to install the OS ourselves.",
+    "example2": "The software starts in an unconfigured state, prompting the user for initial settings.",
+    "example3": "An unconfigured device is not ready to perform its intended function.",
+    "Explanation": "The adjective 'unconfigured' is a technical term describing a system, device, or software that has not had its settings adjusted for a specific use or environment. It is in its 'out-of-the-box' state. Before use, it must be configured—a process that involves setting parameters like network addresses, user accounts, or preferences. An unconfigured state is neutral but non-functional. The verb is 'configure'. This term is essential in IT, networking, and software deployment to distinguish between raw hardware/software and a working system.",
+    "synonyms": [
+      "unset",
+      "default",
+      "out-of-the-box",
+      "not configured",
+      "raw"
+    ],
+    "antonyms": [
+      "configured",
+      "set up",
+      "customized",
+      "ready-to-use"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "configure",
+    "adjectiveForm": "unconfigured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Information technology, software, hardware",
+    "usageTip": "Often used in technical documentation and setup guides.",
+    "commonMistake": "Confusing it with 'uninstalled'; unconfigured means installed but not set up, uninstalled means not installed at all.",
+    "collocations": [
+      "unconfigured device",
+      "unconfigured state",
+      "ship unconfigured",
+      "unconfigured software"
+    ]
+  },
+  {
+    "word": "Unconfigured",
+    "meaning": "Not yet set up or prepared for use",
+    "shortMeaning": "not set up",
+    "example": "The router arrived unconfigured from the factory.",
+    "example2": "New VMs are unconfigured by default.",
+    "example3": "Check why the network port remains unconfigured.",
+    "Explanation": "Unconfigured refers to a system or device that has no settings or is in its default, non-functional state. In IT, hardware and software often require a configuration step to match specific environment needs. An unconfigured component usually cannot perform its designated task until it receives the correct parameters. Proper configuration management is essential for successful deployment and system operation. Always verify the configuration state after installation.",
+    "synonyms": [
+      "unset",
+      "unprepared",
+      "default"
+    ],
+    "antonyms": [
+      "configured",
+      "setup",
+      "prepared"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unconfigured",
+    "partOfSpeech": "adjective",
+    "commonContext": "System deployment, hardware installation",
+    "usageTip": "Use when a device has no custom settings.",
+    "commonMistake": "Trying to use a device while it is still unconfigured.",
+    "collocations": [
+      "left unconfigured",
+      "remains unconfigured",
+      "default unconfigured"
+    ]
+  },
+  {
+    "word": "Unconfigured",
+    "meaning": "Not yet set up or arranged for a specific purpose",
+    "shortMeaning": "not setup",
+    "example": "The server remains unconfigured after installation.",
+    "example2": "An unconfigured device will not connect to the network.",
+    "example3": "Check if the database is unconfigured before starting.",
+    "Explanation": "The word 'unconfigured' refers to software or hardware that is in its default state. It means the necessary parameters or settings have not been adjusted to meet the user's specific requirements. An unconfigured system is usually unusable for production environments until the setup phase is completed. It is a critical term in IT infrastructure and system administration. Using it helps administrators identify systems that need immediate attention during deployment.",
+    "synonyms": [
+      "uninitialized",
+      "default",
+      "unprepared"
+    ],
+    "antonyms": [
+      "configured",
+      "initialized",
+      "set up"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unconfigure",
+    "adjectiveForm": "unconfigured",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration and hardware setup",
+    "usageTip": "Use it to flag items that are not ready for use.",
+    "commonMistake": "Using 'uninstalled' instead of 'unconfigured'.",
+    "collocations": [
+      "remains unconfigured",
+      "default unconfigured",
+      "unconfigured device"
+    ]
+  }
+]

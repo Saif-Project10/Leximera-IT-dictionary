@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Solid state",
+    "meaning": "Technology or devices that use electronic circuits with no moving parts",
+    "shortMeaning": "no moving parts",
+    "example": "Solid state electronics are generally more durable than mechanical ones.",
+    "example2": "The transition to solid state technology has made laptops much thinner.",
+    "example3": "Solid state components use semiconductors to control the flow of electricity.",
+    "Explanation": "In computing and electronics, 'solid state' refers to devices built entirely from solid materials, like silicon chips. Unlike old hard drives or record players, they don't have spinning disks or moving arms. This makes them faster, quieter, and much more resistant to physical shock. The term comes from 'solid-state physics', which studies how electrons behave in solids. Today, almost all modern gadgets like smartphones and tablets rely on solid state technology. It is the opposite of vacuum tube or mechanical technology.",
+    "synonyms": [
+      "semiconductor-based",
+      "non-mechanical",
+      "electronic"
+    ],
+    "antonyms": [
+      "mechanical",
+      "vacuum tube"
+    ],
+    "nounForm": "solid state",
+    "verbForm": "N/A",
+    "adjectiveForm": "solid-state",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Electronics, storage, and hardware engineering",
+    "usageTip": "Use 'solid state' to describe hardware that is durable and fast because it lacks moving parts.",
+    "commonMistake": "Thinking 'solid state' only refers to hard drives; it applies to any non-mechanical electronic device.",
+    "collocations": [
+      "solid state device",
+      "solid state physics",
+      "solid state circuit"
+    ]
+  },
+  {
+    "word": "Solid state",
+    "meaning": "Electronic equipment that uses semiconductors rather than vacuum tubes or moving parts.",
+    "shortMeaning": "semiconductor-based",
+    "example": "The new laptop uses a solid state drive for faster speed.",
+    "example2": "Solid state technology is more durable than mechanical drives.",
+    "example3": "We are upgrading our servers to solid state storage.",
+    "Explanation": "The term 'solid state' refers to electronics that operate on solid-state devices like transistors or semiconductors. It is a foundational term in modern computing because it is synonymous with speed, reliability, and lack of moving parts. A common application is the SSD (Solid State Drive), which is significantly faster than traditional Hard Disk Drives (HDD). It is essential in hardware discussions. There is no specific verb form, and it is usually treated as a compound noun or adjective phrase. It represents the move away from fragile mechanical systems.",
+    "synonyms": [
+      "semiconductor-based",
+      "digital",
+      "modern"
+    ],
+    "antonyms": [
+      "mechanical",
+      "vacuum-tube-based"
+    ],
+    "nounForm": "solid state",
+    "verbForm": "N/A",
+    "adjectiveForm": "solid-state",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Storage devices, electronics, computing",
+    "usageTip": "Use 'solid-state' (with a hyphen) when used as an adjective.",
+    "commonMistake": "Writing 'solidstate' as one word; it should be two words.",
+    "collocations": [
+      "solid state drive",
+      "solid state storage",
+      "solid state electronics"
+    ]
+  }
+]

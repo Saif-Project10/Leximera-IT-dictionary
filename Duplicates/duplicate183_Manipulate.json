@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Manipulate",
+    "meaning": "To handle or control something skillfully, often in an unfair or dishonest way.",
+    "shortMeaning": "control skillfully or unfairly",
+    "example": "The programmer can manipulate data to create reports.",
+    "example2": "He felt his emotions were being manipulated.",
+    "example3": "Surgeons use tools to manipulate tiny instruments.",
+    "Explanation": "Manipulate has a dual meaning. In a neutral or positive sense, it means to handle or control something with skill, like data or tools. In a negative sense, it means to control or influence a person or situation cleverly and unfairly for one's own advantage. The context determines the connotation. The noun is 'manipulation.' A common mistake is assuming it is always negative; in technical contexts, it's neutral. This word is powerful and should be used carefully, especially when describing human interactions, as it implies a lack of transparency or fairness. Understanding both meanings is key to accurate usage.",
+    "synonyms": [
+      "handle",
+      "control",
+      "exploit",
+      "influence",
+      "maneuver"
+    ],
+    "antonyms": [
+      "be straightforward",
+      "leave alone"
+    ],
+    "nounForm": "manipulation",
+    "verbForm": "manipulate",
+    "adjectiveForm": "manipulative",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology, psychology, politics, and crafts/medicine.",
+    "usageTip": "The word is neutral in technical contexts (manipulate an image) but often negative in social contexts (manipulate a person).",
+    "commonMistake": "Using 'manipulate' only in a negative way, ignoring its neutral technical use.",
+    "collocations": [
+      "manipulate public opinion",
+      "manipulate the controls",
+      "emotionally manipulative"
+    ]
+  },
+  {
+    "word": "Manipulate",
+    "meaning": "To handle or control something in a skillful or clever way",
+    "shortMeaning": "control or change",
+    "example": "As a developer, you need to learn how to manipulate strings and numbers.",
+    "example2": "Hackers try to manipulate users into giving away their passwords.",
+    "example3": "You can use CSS to manipulate the appearance of a website.",
+    "Explanation": "In IT, 'manipulate' usually refers to changing or processing data. For example, you might manipulate a list of names to put them in alphabetical order. It often implies a high level of skill or the use of code to achieve a specific result. However, in social contexts, it can have a negative meaning, like tricking someone (social engineering). In programming, it is a neutral and common term used for any operation that transforms input into a different output. Being good at data manipulation is a key part of backend development.",
+    "synonyms": [
+      "handle",
+      "modify",
+      "process"
+    ],
+    "antonyms": [
+      "leave alone",
+      "neglect"
+    ],
+    "nounForm": "manipulation",
+    "verbForm": "manipulate",
+    "adjectiveForm": "manipulative",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, social engineering, data science",
+    "usageTip": "In coding, use it to describe changing data. In security, use it to describe tricking people.",
+    "commonMistake": "Using 'manipulate' only in a negative way; in IT, it is often a neutral technical term.",
+    "collocations": [
+      "manipulate data",
+      "manipulate objects",
+      "manipulate the DOM"
+    ]
+  }
+]

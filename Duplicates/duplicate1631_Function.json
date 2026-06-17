@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Function",
+    "meaning": "A reusable block of code that performs a specific task",
+    "shortMeaning": "code block",
+    "example": "I wrote a function to calculate the total price of the items in the cart.",
+    "example2": "The 'print' function displays text on the screen.",
+    "example3": "You can call a function as many times as you need in your program.",
+    "Explanation": "A function is one of the most basic concepts in computer programming. It is a way to group code together so that you don't have to write the same thing over and over. You give the function a name, and when you want to run that code, you 'call' it by that name. Functions can take inputs (parameters) and give back outputs (return values). This makes code organized, easier to read, and easier to fix. In different languages, they might be called methods, procedures, or subroutines.",
+    "synonyms": [
+      "procedure",
+      "method",
+      "subroutine"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "function",
+    "verbForm": "function",
+    "adjectiveForm": "functional",
+    "partOfSpeech": "noun",
+    "commonContext": "All programming languages",
+    "usageTip": "Keep your functions small and focused on doing just one thing.",
+    "commonMistake": "Writing functions that are too long and try to do too many different things at once.",
+    "collocations": [
+      "call a function",
+      "define a function",
+      "recursive function"
+    ]
+  },
+  {
+    "word": "Function",
+    "meaning": "The natural purpose of something, or a reusable block of code that performs a task",
+    "shortMeaning": "purpose or code block",
+    "example": "The main function of a heart is to pump blood.",
+    "example2": "You should write a function to calculate the total price.",
+    "example3": "This button does not have any function yet.",
+    "Explanation": "In general English, a 'function' is what something is designed to do. In math, it is a relationship where one input gives one output. In computer science, a 'function' is a named section of a program that performs a specific task. It allows programmers to write code once and 'call' it many times. Functions usually take 'arguments' (inputs) and 'return' a value (output). They are the building blocks of most programming languages and help keep code clean and modular. Mastering functions is the first step in learning to code.",
+    "synonyms": [
+      "purpose",
+      "role",
+      "procedure"
+    ],
+    "antonyms": [
+      "malfunction",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "function / functionality",
+    "verbForm": "function",
+    "adjectiveForm": "functional",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Biology, mathematics, and programming",
+    "usageTip": "Use 'function' when talking about a specific piece of reusable code.",
+    "commonMistake": "Confusing a 'function' with a 'method' (a method is a function belonging to a class).",
+    "collocations": [
+      "call a function",
+      "function body",
+      "fully functional"
+    ]
+  }
+]

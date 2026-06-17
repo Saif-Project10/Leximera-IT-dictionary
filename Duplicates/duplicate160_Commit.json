@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Commit",
+    "meaning": "To dedicate oneself to a task, cause, or action; or to carry out an act.",
+    "shortMeaning": "dedicate or do",
+    "example": "She decided to commit more time to her studies.",
+    "example2": "He would never commit a crime.",
+    "example3": "The company is committed to quality service.",
+    "Explanation": "Commit is a powerful verb with two main uses. First, it means to pledge or bind yourself to something, like a promise or goal. Second, it means to perform a negative action, like a crime. The noun form is 'commitment,' which relates to the first meaning. A common mistake is using the wrong preposition; we commit 'to' a course of action, not 'on.' Also, be careful with the context, as 'commit a crime' has a very different connotation from 'commit to a relationship.' Using the word correctly shows clarity in expressing dedication or describing actions.",
+    "synonyms": [
+      "dedicate",
+      "pledge",
+      "perform",
+      "carry out"
+    ],
+    "antonyms": [
+      "abandon",
+      "neglect",
+      "withdraw"
+    ],
+    "nounForm": "commitment",
+    "verbForm": "commit",
+    "adjectiveForm": "committed",
+    "partOfSpeech": "verb",
+    "commonContext": "Promises, relationships, responsibilities, and criminal acts.",
+    "usageTip": "Use 'commit to' when pledging dedication (e.g., 'commit to a goal').",
+    "commonMistake": "Using 'commit on' instead of 'commit to' (Incorrect: 'commit on a plan').",
+    "collocations": [
+      "commit to memory",
+      "commit a sin",
+      "fully committed"
+    ]
+  },
+  {
+    "word": "Commit",
+    "meaning": "To save and record changes to a version control system like Git",
+    "shortMeaning": "save code changes",
+    "example": "Don't forget to commit your changes before you leave for the day.",
+    "example2": "Every commit should have a clear and descriptive message.",
+    "example3": "I need to undo the last commit because I found an error.",
+    "Explanation": "A 'commit' is like a saved snapshot of your project at a specific point in time. In Git, when you are happy with the code you've written, you 'commit' it. This gives that version of the project a unique ID, allowing you to go back to it later if something breaks. Committing is different from just 'saving' a file; it records exactly what changed, who changed it, and why. It is the fundamental building block of modern software teamwork.",
+    "synonyms": [
+      "save",
+      "record",
+      "snapshot"
+    ],
+    "antonyms": [
+      "revert",
+      "discard"
+    ],
+    "nounForm": "commit",
+    "verbForm": "commit",
+    "adjectiveForm": "committed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Version control and collaborative coding",
+    "usageTip": "Commit early and often so you don't lose progress or make huge, confusing changes.",
+    "commonMistake": "Writing vague commit messages like 'fixed stuff' or 'updated files'.",
+    "collocations": [
+      "commit message",
+      "git commit",
+      "initial commit"
+    ]
+  }
+]

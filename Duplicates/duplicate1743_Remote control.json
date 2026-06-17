@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Remote control",
+    "meaning": "The power to operate a machine or system from a distance",
+    "shortMeaning": "operating from distance",
+    "example": "The drone can be operated via remote control from up to 2km away.",
+    "example2": "Remote control of home appliances is now possible using smartphone apps.",
+    "example3": "The robot has a manual remote control for emergencies.",
+    "Explanation": "Remote control is the broad ability to manage a device or system without being physically near it. While we often think of TV remotes, in IT, this refers to controlling servers, IoT devices, or robots over a network. It involves sending signals (commands) from a transmitter to a receiver. This can be done via infrared, radio waves, or the internet. In software, 'remote control' often refers to taking over a user's mouse and keyboard to help them. It is the core concept behind modern automated systems and smart homes.",
+    "synonyms": [
+      "teleoperation",
+      "distant control"
+    ],
+    "antonyms": [
+      "manual control",
+      "local control"
+    ],
+    "nounForm": "control",
+    "verbForm": "remote control",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "IoT, robotics, and customer support",
+    "usageTip": "Use this to describe the act of operating something, not just the hardware device.",
+    "commonMistake": "Using 'remote control' when you specifically mean 'remote access'; control is the action, access is the connection.",
+    "collocations": [
+      "remote control software",
+      "infrared remote control",
+      "full remote control"
+    ]
+  },
+  {
+    "word": "Remote control",
+    "meaning": "The power or device used to manage a machine or system from a distance",
+    "shortMeaning": "distant system management",
+    "example": "SSH gives developers remote control over server terminals located in different countries.",
+    "example2": "We use remote control software to troubleshoot issues on employee laptops.",
+    "example3": "The application allows remote control of smart home appliances via Wi-Fi.",
+    "Explanation": "The phrase 'remote control' represents the technical ability or physical device used to adjust systems from a separate physical location. In computer networking, remote control utilities allow developers to run administrative scripts on cloud infrastructure without physically standing inside the data center facility. This concept is fundamental to modern globalized systems management and cloud operations.",
+    "synonyms": [
+      "distant management",
+      "teleoperation",
+      "remote access"
+    ],
+    "antonyms": [
+      "local control",
+      "manual operation"
+    ],
+    "nounForm": "remote control",
+    "verbForm": "remote control",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "System administration, cloud environments, and IoT application solutions",
+    "usageTip": "Use this term when describing distance-based system modifications or desktop sharing configurations.",
+    "commonMistake": "Thinking 'remote control' only refers to plastic TV remotes; it applies to terminal connections too.",
+    "collocations": [
+      "remote control software",
+      "gain remote control",
+      "remote control protocols"
+    ]
+  }
+]

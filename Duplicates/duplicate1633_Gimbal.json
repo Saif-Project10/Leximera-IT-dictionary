@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Gimbal",
+    "meaning": "A pivoted support that allows an object to rotate around a single axis",
+    "shortMeaning": "rotating support",
+    "example": "The camera was mounted on a gimbal to keep the footage steady while running.",
+    "example2": "A three-axis gimbal allows for complete freedom of movement without shaking.",
+    "example3": "The ship's compass is placed on a gimbal so it stays level even in rough seas.",
+    "Explanation": "A gimbal is a mechanical device used to keep an object level or steady, even if its base is moving or tilting. It consists of a series of rings connected to each other at right angles. In the world of video, electronic gimbals use motors and sensors to counteract any shaking from the person holding the camera. This results in incredibly smooth, movie-like footage. Gimbals are also used in aerospace for rocket engines and in navigation for compasses and gyroscopes. They can have one, two, or three axes of rotation. It is a critical tool for both mechanical engineering and professional cinematography. It solves the problem of unwanted motion.",
+    "synonyms": [
+      "pivot",
+      "stabilizer",
+      "mount"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "gimbal",
+    "verbForm": "gimbal",
+    "adjectiveForm": "gimbaled",
+    "partOfSpeech": "noun",
+    "commonContext": "Cinematography, drones, and navigation",
+    "usageTip": "Use '3-axis gimbal' if you want to describe a stabilizer that handles all directions of movement.",
+    "commonMistake": "Calling any camera handle a 'gimbal'; a true gimbal must have a pivoting or motorized stabilizing mechanism.",
+    "collocations": [
+      "handheld gimbal",
+      "camera gimbal",
+      "3-axis gimbal"
+    ]
+  },
+  {
+    "word": "Gimbal",
+    "meaning": "A pivoted support that allows an object, such as a camera, to remain level or steady despite movement",
+    "shortMeaning": "stabilizing support",
+    "example": "The drone uses a 3-axis gimbal to record smooth video while flying.",
+    "example2": "Vloggers often use handheld gimbals to avoid shaky footage.",
+    "example3": "The ship's compass is mounted on a gimbal to keep it flat.",
+    "Explanation": "A 'gimbal' is a mechanical device that provides stability for sensors or cameras. In the world of tech and photography, electronic gimbals use motors and gyroscopes to cancel out the movement of the person holding them. This results in professional-looking, steady video. They are essential for drone photography and mobile videography. The concept dates back to ancient times for ship instruments but has become a household tech term due to smartphone stabilizers. Understanding gimbals is important for anyone working with hardware, robotics, or video production.",
+    "synonyms": [
+      "stabilizer",
+      "pivot",
+      "mount"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "gimbal",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Photography, drones, robotics, and maritime tools",
+    "usageTip": "Use 'gimbal' when referring to hardware used to stabilize moving cameras.",
+    "commonMistake": "Calling any camera stand a 'gimbal'; a gimbal specifically rotates to stabilize, while a tripod is static.",
+    "collocations": [
+      "3-axis gimbal",
+      "handheld gimbal",
+      "gimbal stabilizer"
+    ]
+  }
+]

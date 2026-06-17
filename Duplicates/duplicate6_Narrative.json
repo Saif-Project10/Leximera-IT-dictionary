@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Narrative",
+    "meaning": "A story or an account of events and experiences",
+    "shortMeaning": "a story or account",
+    "example": "The novel presents a compelling narrative about survival.",
+    "example2": "The company's public narrative focused on innovation.",
+    "example3": "He challenged the dominant political narrative.",
+    "Explanation": "A 'narrative' is more than just a story; it's the way events are connected and explained. It involves a sequence and often a point of view. In media and politics, 'narrative' refers to the prevailing story or interpretation of events. It is a structured account that gives meaning. The word is common in discussions about history, literature, and public perception.",
+    "synonyms": [
+      "story",
+      "account",
+      "tale",
+      "chronicle"
+    ],
+    "antonyms": [
+      "fact",
+      "list",
+      "data",
+      "reality"
+    ],
+    "nounForm": "narrative",
+    "verbForm": "narrate",
+    "adjectiveForm": "narrative",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Literature, history, politics, media analysis, personal stories",
+    "usageTip": "Use for a structured, explanatory story, especially one that shapes understanding.",
+    "commonMistake": "Thinking 'narrative' and 'story' are always interchangeable; 'narrative' often implies interpretation.",
+    "collocations": [
+      "dominant narrative",
+      "personal narrative",
+      "narrative structure",
+      "challenge the narrative"
+    ]
+  },
+  {
+    "word": "Narrative",
+    "meaning": "A sequence of events or a story told through data or text",
+    "shortMeaning": "a story/sequence",
+    "example": "The dashboard provides a narrative of user behavior over time.",
+    "example2": "We use data storytelling to build a narrative for stakeholders.",
+    "example3": "The logs create a clear narrative of the system failure.",
+    "Explanation": "A 'narrative' in IT is used to describe the story that data tells. Instead of just showing raw numbers, data 'narrative' (or data storytelling) uses charts and visualizations to explain *why* something happened and what it means. In systems management, the logs are a 'narrative' that a developer reads to understand the history of a crash. It is a powerful way to make technical data accessible and actionable for non-technical stakeholders or for your own debugging process.",
+    "synonyms": [
+      "story",
+      "chronicle",
+      "account"
+    ],
+    "antonyms": [
+      "raw-data",
+      "random-list"
+    ],
+    "nounForm": "narrative",
+    "verbForm": "N/A",
+    "adjectiveForm": "narrative",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data analysis and UX design",
+    "usageTip": "Use when talking about the story behind a set of data.",
+    "commonMistake": "Confusing 'narrative' (an interpreted story) with 'data' (the raw facts).",
+    "collocations": [
+      "data narrative",
+      "system narrative"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Tunneling",
+    "meaning": "The act of encapsulating packets of one protocol within another protocol.",
+    "shortMeaning": "encapsulation",
+    "example": "VPN tunneling is essential for remote work.",
+    "example2": "We are implementing a new tunneling protocol.",
+    "example3": "The tunneling process adds slight overhead to data packets.",
+    "Explanation": "The word 'tunneling' is the noun form describing the process of moving data packets through a network tunnel. This is a vital networking technique for privacy, security, or interoperability. It creates a virtual connection between two nodes. Understanding tunneling is crucial for configuring secure communication channels. Note that 'tunneling' always involves wrapping data, which adds headers and slightly reduces efficiency.",
+    "synonyms": [
+      "encapsulation",
+      "wrapping"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tunneling",
+    "verbForm": "tunnel",
+    "adjectiveForm": "tunneled",
+    "partOfSpeech": "noun / verb (gerund)",
+    "commonContext": "Networking, security, and infrastructure",
+    "usageTip": "Use 'tunneling' to talk about the technique of protocol encapsulation.",
+    "commonMistake": "Ignoring the overhead cost associated with the tunneling process.",
+    "collocations": [
+      "tunneling protocol",
+      "VPN tunneling",
+      "secure tunneling"
+    ]
+  },
+  {
+    "word": "Tunneling",
+    "meaning": "The act of creating a private path in a network",
+    "shortMeaning": "creating a path",
+    "example": "SSH tunneling is a common security practice.",
+    "example2": "We are tunneling the internal traffic to the office.",
+    "example3": "Tunneling protocols ensure data privacy.",
+    "Explanation": "Tunneling is the process of setting up a private, secure channel for data transmission. It allows different network types to communicate by wrapping the data in a 'tunnel'. It is widely used for security, bypassing firewalls, or connecting distant locations. While it adds a layer of security, it can sometimes introduce a small amount of latency. It is an essential skill for system administrators.",
+    "synonyms": [
+      "encapsulation",
+      "routing",
+      "piping"
+    ],
+    "antonyms": [
+      "exposure",
+      "direct access"
+    ],
+    "nounForm": "tunnel",
+    "verbForm": "tunnel",
+    "adjectiveForm": "tunneling",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Networking, cybersecurity",
+    "usageTip": "Use 'tunneling' to describe the action of setting up a secure connection path.",
+    "commonMistake": "Forgetting the overhead that tunneling adds to network traffic.",
+    "collocations": [
+      "SSH tunneling",
+      "tunneling protocol",
+      "VPN tunneling"
+    ]
+  }
+]

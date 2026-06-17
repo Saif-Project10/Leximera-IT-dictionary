@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Lengthy",
+    "meaning": "Of considerable or unusual length, especially in time; long, often excessively so | Of considerable or unusual length, especially in time; long and often tedious",
+    "shortMeaning": "very long",
+    "example": "The meeting was lengthy and unproductive.",
+    "example2": "He underwent a lengthy recovery process after the surgery.",
+    "example3": "She submitted a lengthy report on the market analysis.",
+    "Explanation": "Lengthy simply means long, especially in duration. It is a neutral-to-slightly-negative adjective. While something can be long and good (a lengthy vacation), 'lengthy' often implies that the length is notable, perhaps excessive or tedious. A 'lengthy document' might be thorough, but it also might be daunting to read. It's less critical than 'long-winded' or 'verbose', which specifically criticize wordiness. 'Lengthy' often describes processes, documents, speeches, or periods of time. It focuses on the dimension of length itself.",
+    "synonyms": [
+      "Drawn-Out",
+      "Extended",
+      "Long",
+      "Prolonged",
+      "Time-Consuming"
+    ],
+    "antonyms": [
+      "Abbreviated",
+      "Brief",
+      "Concise",
+      "Curt",
+      "Short"
+    ],
+    "nounForm": "length",
+    "verbForm": "lengthen",
+    "adjectiveForm": "lengthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Time periods, documents, processes, discussions",
+    "usageTip": "Often used to describe things that take more time than expected or desired.",
+    "commonMistake": "Assuming 'lengthy' always means 'too long'; it can be neutral, but context gives the tone.",
+    "collocations": [
+      "lengthy process",
+      "lengthy discussion",
+      "at length"
+    ]
+  },
+  {
+    "word": "Lengthy",
+    "meaning": "Lasting a long time or containing too much information",
+    "shortMeaning": "very long",
+    "example": "The script execution caused a lengthy delay in the process.",
+    "example2": "He wrote a lengthy documentation for the API.",
+    "example3": "Avoid lengthy function names to keep code clean.",
+    "Explanation": "The word 'lengthy' is used to describe something that takes a long time to complete or is excessive in size or duration. In programming, 'lengthy' processes are often those that block the main thread or take too long to run, which can lead to performance issues or timeouts. It is often used to criticize documentation that is too detailed, making it hard to find important information. It can also describe code files that are too large and should be broken down. It carries a slightly negative connotation of being tedious or inefficient.",
+    "synonyms": [
+      "long",
+      "extended",
+      "prolonged"
+    ],
+    "antonyms": [
+      "short",
+      "brief",
+      "concise"
+    ],
+    "nounForm": "length",
+    "verbForm": "N/A",
+    "adjectiveForm": "lengthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code performance, documentation, and process duration",
+    "usageTip": "Use when describing processes or documents that are too long.",
+    "commonMistake": "Confusing 'lengthy' with 'long-term', which refers to time horizon.",
+    "collocations": [
+      "lengthy process",
+      "lengthy delay",
+      "lengthy documentation"
+    ]
+  }
+]

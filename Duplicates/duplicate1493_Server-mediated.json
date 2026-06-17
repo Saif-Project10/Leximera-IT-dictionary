@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Server-mediated",
+    "meaning": "Facilitated or controlled through a server; where a server acts as an intermediary.",
+    "shortMeaning": "with a server as go-between",
+    "example": "The chat application uses server-mediated communication for reliability.",
+    "example2": "All database access is server-mediated to enforce security rules.",
+    "example3": "In a server-mediated architecture, clients never talk directly to each other.",
+    "Explanation": "'Server-mediated' is a compound adjective describing a process where a server sits between two or more clients, managing or facilitating their interaction. The server acts as a central hub, broker, or controller. This is common in multiplayer online games, chat systems, and secure transaction processing. It allows for centralized logic, security, and state management but can introduce latency. The term is more specific than 'server-based'; it emphasizes the server's role as an intermediary rather than just a provider.",
+    "synonyms": [
+      "brokered by a server",
+      "server-coordinated"
+    ],
+    "antonyms": [
+      "peer-to-peer",
+      "direct"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-mediated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, multiplayer systems, messaging architectures",
+    "usageTip": "A technical term used by software architects and network engineers.",
+    "commonMistake": "Using it interchangeably with 'server-based'; mediation is a specific type of server-based function.",
+    "collocations": [
+      "server-mediated communication",
+      "server-mediated access",
+      "server-mediated exchange"
+    ]
+  },
+  {
+    "word": "Server-mediated",
+    "meaning": "Passing through or controlled by a server as an intermediary",
+    "shortMeaning": "managed by server",
+    "example": "Communication between the two apps is server-mediated.",
+    "example2": "This protocol is server-mediated to ensure authentication.",
+    "Explanation": "The term 'server-mediated' describes a process or connection where a server acts as a middleman between two other parties. Instead of two clients talking directly to each other, they send data to the server, which then processes or forwards it. This is crucial for security, logging, and load balancing. It ensures that no party has direct, unmonitored access to another. It adds a layer of control and stability to network interactions. Use this when explaining how data routing is managed in an architecture.",
+    "synonyms": [
+      "server-controlled",
+      "intermediated",
+      "routed"
+    ],
+    "antonyms": [
+      "peer-to-peer",
+      "direct"
+    ],
+    "nounForm": "mediation",
+    "verbForm": "mediate",
+    "adjectiveForm": "server-mediated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network architecture, security, chat systems",
+    "usageTip": "Use to explain why data goes through a central point.",
+    "commonMistake": "Confusing it with 'server-side'; mediation focuses on the flow between others.",
+    "collocations": [
+      "server-mediated communication",
+      "server-mediated access",
+      "server-mediated connection"
+    ]
+  },
+  {
+    "word": "Server-mediated",
+    "meaning": "Handled or facilitated by a server between two parties",
+    "shortMeaning": "managed by server",
+    "example": "We use a server-mediated process to exchange secure files.",
+    "example2": "This is a server-mediated communication channel.",
+    "example3": "The transaction is server-mediated for tracking purposes.",
+    "Explanation": "Server-mediated describes a process where the server acts as an intermediary (a middleman) between two other entities, such as two users or a client and a database. The server controls the communication, logs the interaction, and ensures security. This is common in real-time chat, banking transactions, and secure file sharing. It provides a single point of control and audit for complex interactions.",
+    "synonyms": [
+      "centrally-managed",
+      "intermediated"
+    ],
+    "antonyms": [
+      "direct",
+      "peer-to-peer"
+    ],
+    "nounForm": "mediation",
+    "verbForm": "mediate",
+    "adjectiveForm": "server-mediated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, security, transactions",
+    "usageTip": "Use this to describe the server's role as a middleman.",
+    "commonMistake": "Confusing 'mediated' with 'generated'.",
+    "collocations": [
+      "server-mediated process",
+      "server-mediated communication",
+      "server-mediated transaction"
+    ]
+  }
+]

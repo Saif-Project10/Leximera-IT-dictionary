@@ -1,0 +1,73 @@
+[
+  {
+    "word": "Withhold",
+    "meaning": "To refuse to give something that is due or desired; to hold back",
+    "shortMeaning": "refuse to give; hold back",
+    "example": "The company can withhold taxes from your paycheck.",
+    "example2": "He withheld the truth from his family.",
+    "example3": "The judge ordered the witness not to withhold information.",
+    "Explanation": "The verb 'withhold' means to deliberately hold back, restrain, or refuse to grant something. This can be physical (withholding payment), informational (withholding evidence), or emotional (withholding affection). It implies a conscious decision not to provide something that is expected, requested, or owed. The word often carries a negative connotation of being unfair, secretive, or punitive. In legal and financial contexts, it has specific meanings, like withholding tax. The past tense and past participle are 'withheld'. It is a strong word that conveys control and denial, often creating tension between the withholder and the one from whom something is withheld.",
+    "synonyms": [
+      "retain",
+      "hold back",
+      "keep back",
+      "refuse",
+      "conceal"
+    ],
+    "antonyms": [
+      "give",
+      "grant",
+      "provide",
+      "disclose",
+      "release"
+    ],
+    "nounForm": "withholding",
+    "verbForm": "withhold",
+    "adjectiveForm": "withheld",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, finance, relationships, information control",
+    "usageTip": "Often used with 'from' (withhold something from someone).",
+    "commonMistake": "Confusing it with 'withhold' (correct) and 'withold' (incorrect spelling).",
+    "collocations": [
+      "withhold information",
+      "withhold payment",
+      "withhold judgment",
+      "withhold taxes"
+    ]
+  },
+  {
+    "word": "Withhold",
+    "meaning": "To deliberately refuse to give, release, or grant something to an external entity or user system",
+    "shortMeaning": "refuse to release or give",
+    "example": "The server platform will withhold access privileges until the client machine supplies a valid security token.",
+    "example2": "Corporate companies might withhold payment if the freelancer fails to deliver the promised responsive layout files.",
+    "example3": "The database engine will withhold error details from public users to ensure security safety rules.",
+    "Explanation": "The word 'withhold' is an assertive verb used when an entity retains control over an asset, information, or access permission rather than distributing it. In software security layers, API gateways withhold private data payloads until complete authorization is proven. In finance, automated business payroll platforms withhold taxes directly from worker paychecks. It is a vital term across access control protocols, data protection laws, and business contract management operations.",
+    "synonyms": [
+      "retain",
+      "keep back",
+      "reserve",
+      "deny access",
+      "suppress"
+    ],
+    "antonyms": [
+      "release",
+      "grant",
+      "provide",
+      "distribute",
+      "yield"
+    ],
+    "nounForm": "withholding",
+    "verbForm": "withhold",
+    "adjectiveForm": "withheld",
+    "partOfSpeech": "verb",
+    "commonContext": "Access control security checks, financial payroll tax deductions, and data privacy shielding logic",
+    "usageTip": "Use 'withhold' when a system or administrator intentionally stops information, access rights, or money from being transferred.",
+    "commonMistake": "Spening the word with a single 'h' as 'withold' when it structurally requires a double 'h' to be written correctly.",
+    "collocations": [
+      "withhold information",
+      "withhold financial payment",
+      "withhold access authorization"
+    ]
+  }
+]

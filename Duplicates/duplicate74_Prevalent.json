@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Prevalent",
+    "meaning": "Widespread in a particular area or at a particular time; common.",
+    "shortMeaning": "common, widespread",
+    "example": "Smartphone use is prevalent among teenagers.",
+    "example2": "This belief was more prevalent in the past.",
+    "example3": "Flu is most prevalent during the winter months.",
+    "Explanation": "'Prevalent' is an adjective used to describe something that exists very commonly or frequently in a specific place or period. It doesn't mean 'everywhere always', but 'very common there and then'. It is often used in discussions about diseases, social trends, ideas, or practices. It's a more formal word than 'common'. The noun form is 'prevalence', which refers to the commonness or frequency of something.",
+    "synonyms": [
+      "common",
+      "widespread",
+      "predominant"
+    ],
+    "antonyms": [
+      "rare",
+      "uncommon",
+      "scarce"
+    ],
+    "nounForm": "prevalence",
+    "verbForm": "prevail",
+    "adjectiveForm": "prevalent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Epidemiology, sociology, describing trends or customs",
+    "usageTip": "Use 'prevalent' to describe something that is the most common or dominant condition in a specific context.",
+    "commonMistake": "Confusing 'prevalent' with 'relevant' (connected to the matter at hand).",
+    "collocations": [
+      "become prevalent",
+      "most prevalent",
+      "prevalent in"
+    ]
+  },
+  {
+    "word": "Prevalent",
+    "meaning": "Widely existing or commonly occurring",
+    "shortMeaning": "common",
+    "example": "Security vulnerabilities are prevalent in outdated software.",
+    "example2": "The use of remote work tools is prevalent in tech companies.",
+    "example3": "That error type is very prevalent in this specific codebase.",
+    "Explanation": "The word 'prevalent' means that something is very common and can be found everywhere within a particular group or area. It indicates that a trend, problem, or technology has become the standard or is very widely adopted. In IT, identifying prevalent issues is key to effective maintenance and system design. If a problem is prevalent, it usually means it requires a systematic fix rather than just fixing one isolated occurrence. It is a useful term for general analysis and reporting.",
+    "synonyms": [
+      "common",
+      "widespread",
+      "ubiquitous"
+    ],
+    "antonyms": [
+      "rare",
+      "uncommon",
+      "isolated"
+    ],
+    "nounForm": "prevalence",
+    "verbForm": "N/A",
+    "adjectiveForm": "prevalent",
+    "partOfSpeech": "adjective",
+    "commonContext": "General analysis, Trends, Statistics",
+    "usageTip": "Use to describe how common a problem or trend is.",
+    "commonMistake": "Using 'prevalent' to mean 'good' (it just means common).",
+    "collocations": [
+      "highly prevalent",
+      "prevalent issues",
+      "become prevalent"
+    ]
+  }
+]

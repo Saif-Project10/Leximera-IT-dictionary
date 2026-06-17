@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Cluster",
+    "meaning": "A group of similar things or people positioned or occurring closely together.",
+    "shortMeaning": "close group",
+    "example": "A cluster of stars forms a constellation.",
+    "example2": "The patients were all from the same geographic cluster.",
+    "example3": "The data points form a distinct cluster on the graph.",
+    "Explanation": "'Cluster' is a noun and a verb. As a noun, it means a small, tight group of people or things. It's used in astronomy (star cluster), medicine (disease cluster), computing (server cluster), and statistics (data cluster). As a verb, it means to form into a cluster. The word implies a natural or logical grouping based on proximity or similarity. In computing, clustering is a method for achieving high availability and load balancing. It's a versatile word for describing grouped entities.",
+    "synonyms": [
+      "group",
+      "bunch",
+      "collection"
+    ],
+    "antonyms": [
+      "individual",
+      "scattering",
+      "dispersion"
+    ],
+    "nounForm": "cluster",
+    "verbForm": "cluster",
+    "adjectiveForm": "clustered",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Astronomy, data analysis, biology, computing",
+    "usageTip": "Use 'cluster of' followed by the plural noun (e.g., 'a cluster of grapes', 'a cluster of houses').",
+    "commonMistake": "Confusing 'cluster' with 'clutter' (a confused, untidy collection).",
+    "collocations": [
+      "cluster analysis",
+      "star cluster",
+      "cluster headache"
+    ]
+  },
+  {
+    "word": "Cluster",
+    "meaning": "A group of similar things positioned or occurring closely together",
+    "shortMeaning": "grouping",
+    "example": "The servers are arranged in a cluster for high availability.",
+    "example2": "We found a cluster of bugs in the login module.",
+    "example3": "The data shows a cluster of users in the New York area.",
+    "Explanation": "In IT, a cluster is a group of computers (nodes) that work together as if they were a single system. If one computer fails, the others take over, so the service stays online. In data science, 'clustering' is the process of grouping data points that are similar to each other. It helps in finding patterns in huge datasets. Whether it's hardware or data, a cluster represents strength and organization through grouping.",
+    "synonyms": [
+      "group",
+      "bunch",
+      "array"
+    ],
+    "antonyms": [
+      "individual",
+      "single unit"
+    ],
+    "nounForm": "cluster",
+    "verbForm": "cluster",
+    "adjectiveForm": "clustered",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Server architecture and data science",
+    "usageTip": "Use a 'server cluster' to ensure your website never goes down.",
+    "commonMistake": "Confusing a 'cluster' with a 'backup'; a cluster is for active work, not just storage.",
+    "collocations": [
+      "server cluster",
+      "cluster analysis",
+      "compute cluster"
+    ]
+  }
+]

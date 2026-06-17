@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Direct",
+    "meaning": "To manage or guide; to aim or point at a target; straightforward.",
+    "shortMeaning": "manage, straight",
+    "example": "She will direct the new project.",
+    "example2": "Please direct your questions to the information desk.",
+    "example3": "He gave me a direct answer.",
+    "Explanation": "The verb 'direct' primarily means to control, manage, or give guidance. It can also mean to point or aim something in a particular direction. As an adjective, it means going in a straight line or without intermediaries, and also straightforward in manner. It is a versatile word used in leadership, filmmaking, navigation, and communication. A common mistake is confusing it with 'directly', which is the adverb form. Remember, you 'direct' a movie, you give 'direct' orders, and you take a 'direct' flight. It implies control, clarity, and lack of deviation.",
+    "synonyms": [
+      "manage",
+      "guide",
+      "straight"
+    ],
+    "antonyms": [
+      "follow",
+      "indirect",
+      "meandering"
+    ],
+    "nounForm": "direction",
+    "verbForm": "direct",
+    "adjectiveForm": "direct",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Management, film, instructions, routes",
+    "usageTip": "As a verb, it is often followed by an object and 'to' or 'towards': 'direct the team to the new policy'.",
+    "commonMistake": "Using 'directly' as an adjective. 'Directly' is an adverb (e.g., He spoke directly to me).",
+    "collocations": [
+      "direct result",
+      "direct contact",
+      "direct traffic"
+    ]
+  },
+  {
+    "word": "Direct",
+    "meaning": "Proceeding in a straight line or by the shortest route; without intermediaries.",
+    "example": "We need a direct connection to the database.",
+    "example2": "She gave a direct answer to my technical question.",
+    "example3": "Use a direct link to avoid redirection delays.",
+    "Explanation": "The word 'direct' implies 'no detours' or 'no intermediaries'. In IT, it's used for connections (direct-access, direct database links), commands (direct action), or communication. It is a very versatile and important word. Using a 'direct' route is usually faster and more efficient, though it might bypass security layers (like firewalls or load balancers) which you must account for. It implies simplicity and speed.",
+    "synonyms": [
+      "straight",
+      "immediate",
+      "unmediated"
+    ],
+    "antonyms": [
+      "indirect",
+      "roundabout",
+      "buffered"
+    ],
+    "nounForm": "Direction",
+    "verbForm": "Direct",
+    "adjectiveForm": "Direct",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, communication, and software design",
+    "usageTip": "Use 'direct' to show efficiency and a lack of middlemen.",
+    "commonMistake": "Confusing 'direct' (unmediated) with 'instant' (fast).",
+    "collocations": [
+      "direct connection",
+      "direct access",
+      "direct link"
+    ]
+  },
+  {
+    "word": "Direct",
+    "meaning": "Going straight to a destination without stopping, or giving instructions",
+    "shortMeaning": "straight or lead",
+    "example": "This is a direct link to the download page.",
+    "example2": "The manager will direct the team on how to complete the task.",
+    "example3": "There is no direct way to solve this problem; we must use a workaround.",
+    "Explanation": "As an adjective, 'direct' means moving in a straight line or being the shortest way. In IT, a 'direct connection' means two devices are connected without any servers or routers in between. As a verb, to 'direct' means to lead, manage, or tell someone where to go. You might direct a user to a specific website or direct a project. It is a very common and versatile word used in every aspect of life, from giving street directions to managing multi-million dollar software companies. It implies a clear and purposeful path.",
+    "synonyms": [
+      "straight",
+      "manage",
+      "guide"
+    ],
+    "antonyms": [
+      "indirect",
+      "vague",
+      "mislead"
+    ],
+    "nounForm": "direction",
+    "verbForm": "direct",
+    "adjectiveForm": "direct",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Management, networking, and navigation",
+    "usageTip": "Use 'direct' as an adjective for a link or path that has no intermediate steps.",
+    "commonMistake": "Confusing 'direct' (straight) with 'directly' (immediately).",
+    "collocations": [
+      "direct access",
+      "direct link",
+      "direct sunlight"
+    ]
+  }
+]

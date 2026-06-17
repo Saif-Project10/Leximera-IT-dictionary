@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Uncorrelated",
+    "meaning": "When two things do not have a relationship and do not change together",
+    "shortMeaning": "not related",
+    "example": "The price of tea and the speed of your internet are uncorrelated.",
+    "example2": "In a good stock portfolio, you want some assets to be uncorrelated.",
+    "example3": "The study found that these two variables were completely uncorrelated.",
+    "Explanation": "In statistics and data science, 'uncorrelated' means that knowing the value of one variable tells you nothing about the value of the other. For example, height and intelligence are uncorrelated; being tall doesn't make you smarter or less smart. This is important when analyzing data because researchers want to find which things actually affect each other. If data is uncorrelated, the 'correlation coefficient' is zero. In IT, this is used in machine learning to remove useless data features that don't help predict the outcome. It is a key term for anyone working with big data or probability. It ensures that the model is focused on the right factors.",
+    "synonyms": [
+      "independent",
+      "unrelated",
+      "disconnected"
+    ],
+    "antonyms": [
+      "correlated",
+      "related",
+      "connected"
+    ],
+    "nounForm": "correlation",
+    "verbForm": "correlate",
+    "adjectiveForm": "uncorrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data analysis, and finance",
+    "usageTip": "Use this when you want to say that one thing does not affect or change with another.",
+    "commonMistake": "Thinking 'uncorrelated' means 'opposite'; 'opposite' is a negative correlation, not a lack of one.",
+    "collocations": [
+      "uncorrelated data",
+      "completely uncorrelated",
+      "remain uncorrelated"
+    ]
+  },
+  {
+    "word": "Uncorrelated",
+    "meaning": "Not having a mutual relationship or connection",
+    "shortMeaning": "not connected",
+    "example": "These data points seem to be uncorrelated.",
+    "example2": "Performance drops and usage are uncorrelated.",
+    "example3": "The variables were uncorrelated in the statistical test.",
+    "Explanation": "Uncorrelated refers to two or more things that do not show a predictable relationship with one another. In data analysis, finding uncorrelated variables is important for building accurate predictive models. If data is uncorrelated, it means changing one value does not necessarily explain changes in another. This term is vital for statisticians, data scientists, and anyone performing root-cause analysis on system logs or performance metrics.",
+    "synonyms": [
+      "unrelated",
+      "independent",
+      "disconnected"
+    ],
+    "antonyms": [
+      "correlated",
+      "related",
+      "linked"
+    ],
+    "nounForm": "uncorrelation",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncorrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, statistics, research",
+    "usageTip": "Use when data shows no pattern or connection.",
+    "commonMistake": "Assuming uncorrelated means 'causeless' (two things can be uncorrelated but still related).",
+    "collocations": [
+      "uncorrelated data",
+      "appear uncorrelated",
+      "strictly uncorrelated"
+    ]
+  },
+  {
+    "word": "Uncorrelated",
+    "meaning": "Not having a mutual relationship or connection",
+    "shortMeaning": "unconnected",
+    "example": "These two datasets appear to be uncorrelated.",
+    "example2": "The variables remain uncorrelated during the study.",
+    "example3": "It is an uncorrelated set of random numbers.",
+    "Explanation": "The word 'uncorrelated' is frequently used in statistics and data science. It indicates that the changes in one variable do not show a pattern relative to changes in another. When two sets of data are uncorrelated, it means they are independent of each other. This is a vital concept when performing analysis to identify dependencies. It helps in simplifying models by showing that certain features do not impact one another.",
+    "synonyms": [
+      "independent",
+      "unrelated",
+      "distinct"
+    ],
+    "antonyms": [
+      "correlated",
+      "related",
+      "connected"
+    ],
+    "nounForm": "uncorrelation",
+    "verbForm": "uncorrelate",
+    "adjectiveForm": "uncorrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data analysis, and math",
+    "usageTip": "Use it to show lack of relationship between variables.",
+    "commonMistake": "Confusing 'uncorrelated' with 'causal'; they are different concepts.",
+    "collocations": [
+      "uncorrelated variables",
+      "uncorrelated data",
+      "statistically uncorrelated"
+    ]
+  }
+]

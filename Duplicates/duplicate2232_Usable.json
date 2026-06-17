@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Usable",
+    "meaning": "Capable of being used, or fit for use.",
+    "shortMeaning": "easy to use",
+    "example": "The interface is simple and highly usable.",
+    "example2": "We must make the data usable for the analytics team.",
+    "example3": "The hardware is not usable in its current condition.",
+    "Explanation": "The word 'usable' means something is functional, accessible, or easy to use. In IT, 'usable' is a key metric for software success—a tool might have all the features, but if it is not 'usable', users will not adopt it. The noun form is 'usability'. Always distinguish between 'functional' (it works) and 'usable' (it is pleasant and intuitive to work with).",
+    "synonyms": [
+      "functional",
+      "convenient",
+      "accessible"
+    ],
+    "antonyms": [
+      "unusable",
+      "difficult",
+      "inaccessible"
+    ],
+    "nounForm": "usability",
+    "verbForm": "use",
+    "adjectiveForm": "usable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, project management, and software",
+    "usageTip": "Use 'usable' to describe how well a tool fits user needs.",
+    "commonMistake": "Confusing 'usable' (easy to use) with 'used' (previously utilized).",
+    "collocations": [
+      "highly usable",
+      "make data usable",
+      "is usable"
+    ]
+  },
+  {
+    "word": "Usable",
+    "meaning": "Easy and effective to use; functional",
+    "shortMeaning": "easy to use",
+    "example": "The software is now more usable than the previous version.",
+    "example2": "Ensure your code output is in a usable format.",
+    "example3": "The data is not currently usable because it is unformatted.",
+    "Explanation": "Usable means that something is capable of being used easily and effectively. In IT, a usable system is one that allows the user to complete their tasks without unnecessary struggle or confusion. If a feature is broken or too complicated, it is considered not usable. Improving usability is a primary goal for developers and designers who want to create software that people enjoy using. A usable tool is intuitive and well-documented, making it easy for new users to get started quickly.",
+    "synonyms": [
+      "functional",
+      "easy-to-use",
+      "practical"
+    ],
+    "antonyms": [
+      "unusable",
+      "difficult",
+      "broken"
+    ],
+    "nounForm": "usability",
+    "verbForm": "N/A",
+    "adjectiveForm": "usable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product design and software development",
+    "usageTip": "Use it to describe if a system is helpful to the user.",
+    "commonMistake": "Confusing 'usable' with 'perfect'.",
+    "collocations": [
+      "highly usable",
+      "usable format",
+      "make it usable"
+    ]
+  }
+]

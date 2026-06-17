@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Tacked",
+    "meaning": "Fastened or attached loosely with tacks or staples; also, changed direction while sailing.",
+    "shortMeaning": "fastened loosely; changed sailing direction",
+    "example": "She tacked the poster to the bulletin board.",
+    "example2": "The sailor tacked to port to catch the wind.",
+    "example3": "He simply tacked a note onto the report.",
+    "Explanation": "'Tacked' is the past tense and past participle of the verb 'tack'. It has two main meanings. First, to fasten something with small, flat-headed nails (tacks) or staples, often temporarily. Second, in sailing, to change the direction of a boat by turning its bow through the wind. Figuratively, it can mean to add something extra or to change course in a plan. It's a simple, common word with specific applications in crafting and sailing.",
+    "synonyms": [
+      "pinned",
+      "stapled",
+      "fastened",
+      "changed course"
+    ],
+    "antonyms": [
+      "removed",
+      "unfastened",
+      "maintained course"
+    ],
+    "nounForm": "tack",
+    "verbForm": "tack",
+    "adjectiveForm": "tacked",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Sailing, sewing, office work, DIY projects",
+    "usageTip": "In sailing, you 'tack' into the wind. For attaching, you 'tack something up'.",
+    "commonMistake": "Confusing 'tacked' with 'tact', which is sensitivity in dealing with others.",
+    "collocations": [
+      "tacked on",
+      "tacked up",
+      "tacked into the wind"
+    ]
+  },
+  {
+    "word": "Tacked",
+    "meaning": "Fastened or added in a quick, often temporary way",
+    "shortMeaning": "attached temporarily",
+    "example": "They tacked on a new feature at the last minute.",
+    "example2": "The extra code was tacked to the end of the script.",
+    "example3": "We just tacked the note to the dashboard.",
+    "Explanation": "The word 'tacked' refers to attaching something quickly and often not very securely. In software, 'tacked on' is usually a negative phrase, implying that a feature was added without proper planning or integration. It suggests the feature might not fit perfectly or could cause issues. Use it to express caution or to highlight that a change was rushed. It implies a lack of proper architectural care, so be careful how you use it in formal settings.",
+    "synonyms": [
+      "added",
+      "attached",
+      "rushed"
+    ],
+    "antonyms": [
+      "integrated",
+      "built-in"
+    ],
+    "nounForm": "tack",
+    "verbForm": "tack",
+    "adjectiveForm": "tacked",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Development, quick fixes",
+    "usageTip": "Use to describe rushed or poorly integrated additions.",
+    "commonMistake": "Using 'tacked' when you mean 'carefully added'; tacked implies rush.",
+    "collocations": [
+      "tacked on",
+      "tacked at the end"
+    ]
+  },
+  {
+    "word": "Tacked",
+    "meaning": "Attached in a quick or informal way",
+    "shortMeaning": "attached",
+    "example": "He tacked on the extra feature at the last minute.",
+    "example2": "The documentation was tacked onto the end of the report.",
+    "example3": "Security was tacked on instead of being built in.",
+    "Explanation": "The word 'tacked' (often followed by 'on') implies that something was added quickly, often without proper planning or integration. In IT, this is usually used negatively, especially in 'tacked on security' or 'tacked on features'. It suggests an afterthought that might not work perfectly with the main system. It is a useful term for describing quick, 'dirty' additions that might cause technical debt or future maintenance headaches.",
+    "synonyms": [
+      "added",
+      "appended",
+      "attached"
+    ],
+    "antonyms": [
+      "integrated",
+      "built-in",
+      "designed"
+    ],
+    "nounForm": "tack",
+    "verbForm": "tack",
+    "adjectiveForm": "tacked",
+    "partOfSpeech": "verb",
+    "commonContext": "Software development, feature management",
+    "usageTip": "Use to describe hasty or unplanned additions.",
+    "commonMistake": "Using it for a well-planned feature; it usually has a negative connotation.",
+    "collocations": [
+      "tacked on",
+      "tacked at the end",
+      "feature tacked on"
+    ]
+  }
+]

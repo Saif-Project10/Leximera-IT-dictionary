@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Telescope",
+    "meaning": "An optical instrument used to see distant objects clearly",
+    "shortMeaning": "distance viewer",
+    "example": "The astronomer pointed the telescope toward the rings of Saturn.",
+    "example2": "Computers now control most high-powered telescopes in observatories.",
+    "example3": "He bought a small telescope to watch the moon from his balcony.",
+    "Explanation": "A telescope is a device that collects light or other electromagnetic radiation to observe distant objects. In science and IT, telescopes are often integrated with complex software for automated tracking and data collection. They use lenses or mirrors to magnify images that the human eye cannot see alone. Modern telescopes can be ground-based or placed in space, like the Hubble. They are fundamental tools for studying astronomy and physics.",
+    "synonyms": [
+      "spyglass",
+      "refractor",
+      "observatory instrument"
+    ],
+    "antonyms": [
+      "microscope"
+    ],
+    "nounForm": "telescope",
+    "verbForm": "telescope",
+    "adjectiveForm": "telescopic",
+    "partOfSpeech": "noun",
+    "commonContext": "Astronomy, science, and optics",
+    "usageTip": "In a non-scientific context, 'telescope' as a verb means to slide into one another or compress.",
+    "commonMistake": "Using 'telescope' when you actually mean 'microscope' (for small things).",
+    "collocations": [
+      "optical telescope",
+      "space telescope",
+      "radio telescope"
+    ]
+  },
+  {
+    "word": "Telescope",
+    "meaning": "To slide inside one another like a folding tube, or to condense large blocks of data or UI panels into a compact space",
+    "shortMeaning": "collapse or condense",
+    "example": "The sidebar navigation menu will telescope down into small icons on mobile displays.",
+    "example2": "We can telescope our complex multi-step data form into a single clean accordion layout block.",
+    "example3": "The developer watched the long log files telescope into an elegant data summary.",
+    "Explanation": "While 'telescope' is commonly a noun for viewing stars, its verb form means to compress, collapse, or nest items together cleanly. In user interface (UI) and responsive web design, components frequently telescope to save limited screen space. For instance, an accordion UI element telescopes by sliding content vertically out of view until clicked. Metaphorically in data processing, it means condensing massive code files or log files into shorter, highly structured, summaries without losing core value.",
+    "synonyms": [
+      "collapse",
+      "condense",
+      "nest",
+      "compress"
+    ],
+    "antonyms": [
+      "expand",
+      "extend",
+      "lengthen",
+      "stretch"
+    ],
+    "nounForm": "telescope",
+    "verbForm": "telescope",
+    "adjectiveForm": "telescopic",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Responsive web layouts, UI component animations, data summarization",
+    "usageTip": "Use 'telescope' to explain how responsive UI elements smoothly shrink or stack inside each other on mobile viewports.",
+    "commonMistake": "Using 'telescope' when you mean 'magnify' inside software tools; look at your layout context carefully.",
+    "collocations": [
+      "telescope down",
+      "telescope smoothly",
+      "telescope menu structures"
+    ]
+  }
+]

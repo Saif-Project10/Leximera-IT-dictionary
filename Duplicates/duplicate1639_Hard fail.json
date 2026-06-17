@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Hard fail",
+    "meaning": "A complete and immediate shutdown of a system when an error occurs",
+    "shortMeaning": "total system crash",
+    "example": "The engine suffered a hard fail, causing the test to stop immediately.",
+    "example2": "A hard fail is easier to debug than a system that stays half-broken.",
+    "example3": "We designed the software to hard fail if it detects a security breach.",
+    "Explanation": "A 'hard fail' (or fail-stop) occurs when a component or system stops working completely and abruptly after an error. This is often better than a 'soft fail', where the system keeps running but gives wrong answers. For example, if a computer's power supply dies, that is a hard fail. In programming, a 'hard fail' might be a deliberate crash to prevent data corruption. It is a clear signal that something is wrong. Engineers often design critical systems to hard fail in a safe way (fail-safe). It prevents a small problem from turning into a much bigger, hidden disaster. It is a 'black or white' situation.",
+    "synonyms": [
+      "total failure",
+      "fail-stop",
+      "crash"
+    ],
+    "antonyms": [
+      "soft fail",
+      "graceful degradation"
+    ],
+    "nounForm": "hard failure",
+    "verbForm": "hard fail",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Engineering, aviation, and critical software",
+    "usageTip": "Use 'hard fail' when describing a system that doesn't try to 'limp along' after an error.",
+    "commonMistake": "Thinking a hard fail is always bad; sometimes it's the safest way to handle an error.",
+    "collocations": [
+      "system hard fail",
+      "unpreventable hard fail",
+      "hard fail mechanism"
+    ]
+  },
+  {
+    "word": "Hard fail",
+    "meaning": "A type of system failure where a program stops completely and immediately when an error occurs",
+    "shortMeaning": "immediate complete stop",
+    "example": "The script was designed to hard fail if the database connection was lost.",
+    "example2": "A hard fail is better than continuing with incorrect data.",
+    "example3": "The system experienced a hard fail after the power outage.",
+    "Explanation": "A 'hard fail' is an intentional strategy in programming. Sometimes, it is safer to stop the whole app immediately if a serious error occurs, rather than continuing and potentially corrupting data. It is the opposite of 'failing gracefully'. For example, if a security check fails, you want a 'hard fail' to protect the system. It is also used to describe hardware that has completely broken and cannot be fixed with software.",
+    "synonyms": [
+      "crash",
+      "halt",
+      "total failure"
+    ],
+    "antonyms": [
+      "soft fail",
+      "graceful degradation",
+      "N/A"
+    ],
+    "nounForm": "hard fail",
+    "verbForm": "hard fail",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "System reliability and error strategy",
+    "usageTip": "Use a hard fail when continuing the process would be dangerous or produce wrong results.",
+    "commonMistake": "Thinking a 'hard fail' is always bad; sometimes it is the safest way to handle a major error.",
+    "collocations": [
+      "design to hard fail",
+      "system hard fail",
+      "N/A"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Timely",
+    "meaning": "Happening at the right or most useful time",
+    "shortMeaning": "done on time",
+    "example": "A timely update fixed the security vulnerability.",
+    "example2": "Timely communication is essential for the project.",
+    "example3": "The team provided a timely response to the outage.",
+    "Explanation": "Timely describes something that happens when it is needed or at an appropriate moment. In IT, timely actions—like applying patches, responding to incidents, or delivering project milestones—are critical for business continuity and security. It implies being efficient and proactive rather than reactive. Delivering results in a timely manner is a hallmark of a high-performing IT team and ensures that systems stay secure and operational.",
+    "synonyms": [
+      "punctual",
+      "opportune",
+      "prompt"
+    ],
+    "antonyms": [
+      "late",
+      "delayed",
+      "untimely"
+    ],
+    "nounForm": "timeliness",
+    "verbForm": "N/A",
+    "adjectiveForm": "timely",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, support, updates",
+    "usageTip": "Use to describe good timing and efficiency.",
+    "commonMistake": "Confusing 'timely' (happening soon enough) with 'time-based' (related to time).",
+    "collocations": [
+      "timely response",
+      "timely update",
+      "timely delivery"
+    ]
+  },
+  {
+    "word": "Timely",
+    "meaning": "Happening at the right or most useful time",
+    "shortMeaning": "prompt",
+    "example": "We provide timely updates to our users.",
+    "example2": "Timely patches are necessary for software security.",
+    "example3": "He received a timely notification about the server error.",
+    "Explanation": "In IT, 'timely' describes operations, communications, or responses that are efficient and well-prepared. A timely fix is one that stops an issue before it escalates. It is highly valued in DevOps and technical support. Being timely doesn't just mean fast; it means being ready when needed. It reflects reliability, professionalism, and a high level of operational maturity in any software project or team interaction.",
+    "synonyms": [
+      "prompt",
+      "well-timed",
+      "opportune"
+    ],
+    "antonyms": [
+      "late",
+      "delayed",
+      "untimely"
+    ],
+    "nounForm": "timeliness",
+    "verbForm": "N/A",
+    "adjectiveForm": "timely",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, support, updates",
+    "usageTip": "Use to praise efficiency and good planning.",
+    "commonMistake": "Confusing 'timely' with 'quick'; timely implies right-on-time, not just high speed.",
+    "collocations": [
+      "timely response",
+      "timely update",
+      "timely delivery"
+    ]
+  }
+]

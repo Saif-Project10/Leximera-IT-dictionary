@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Layout",
+    "meaning": "The way in which the parts of something are arranged or laid out.",
+    "shortMeaning": "arrangement or design",
+    "example": "The magazine has a clean and modern layout.",
+    "example2": "He changed the layout of the furniture in his room.",
+    "example3": "The factory's layout is designed for efficiency.",
+    "Explanation": "A 'layout' is a noun referring to the specific arrangement or plan of elements within a defined space. It is crucial in design (page layout), architecture (building layout), urban planning (city layout), and manufacturing (plant layout). A good layout is functional, aesthetically pleasing, and serves its purpose efficiently. The word often implies a deliberate, planned configuration rather than a random one. The verb phrase is 'lay out'.",
+    "synonyms": [
+      "arrangement",
+      "design",
+      "configuration",
+      "setup"
+    ],
+    "antonyms": [
+      "disarray",
+      "chaos",
+      "disorder"
+    ],
+    "nounForm": "layout",
+    "verbForm": "lay out",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Design, publishing, interior design, engineering",
+    "usageTip": "Use 'layout' to talk about the organized plan or arrangement of physical or visual elements.",
+    "commonMistake": "Spelling it as 'lay out' when used as a noun. The noun is one word: 'layout'.",
+    "collocations": [
+      "page layout",
+      "keyboard layout",
+      "overall layout",
+      "change the layout"
+    ]
+  },
+  {
+    "word": "Layout",
+    "meaning": "The way in which text, images, or components are arranged on a page or screen",
+    "shortMeaning": "design / arrangement",
+    "example": "The website layout looks great on mobile phones.",
+    "example2": "We need to change the layout of the dashboard to show more data.",
+    "example3": "The keyboard layout is set to 'US English' by default.",
+    "Explanation": "Layout is the noun that describes the final arrangement of things. In web development, it involves using HTML and CSS to create a structure. A good layout makes a website easy to use and navigate. It is the 'map' of where everything goes. Designers spend a lot of time testing different layouts to see which one users like best. It is one word when used as a noun.",
+    "synonyms": [
+      "arrangement",
+      "format",
+      "design"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "layout",
+    "verbForm": "lay out",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "UI/UX, Graphic design, hardware design",
+    "usageTip": "Use 'layout' to refer to the structure of a page or a keyboard.",
+    "commonMistake": "Using 'lay out' (two words) when you are referring to the design itself.",
+    "collocations": [
+      "page layout",
+      "keyboard layout",
+      "responsive layout"
+    ]
+  }
+]

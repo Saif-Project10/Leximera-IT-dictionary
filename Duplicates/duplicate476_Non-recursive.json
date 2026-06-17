@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Non-recursive",
+    "meaning": "Not involving or defined by recursion; using iteration instead.",
+    "shortMeaning": "not recursive, iterative",
+    "example": "An iterative solution is often more efficient than a non-recursive one for simple loops.",
+    "example2": "We rewrote the function to be non-recursive to avoid stack overflow errors.",
+    "example3": "Some problems are inherently recursive and difficult to solve with a non-recursive approach.",
+    "Explanation": "Non-recursive describes algorithms, functions, or definitions that do not call themselves. Instead, they use loops (iteration) to repeat operations. While recursion can be elegant for certain problems (like tree traversal), non-recursive (iterative) solutions are often more memory-efficient because they don't add new frames to the call stack. In programming, converting a recursive algorithm to a non-recursive one is a common optimization technique. The term is used to explicitly contrast with the recursive approach, highlighting a different strategy for repetition.",
+    "synonyms": [
+      "iterative",
+      "loop-based",
+      "non-self-referential"
+    ],
+    "antonyms": [
+      "recursive",
+      "self-calling"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-recursive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, algorithms, programming",
+    "usageTip": "A technical term used when discussing algorithm design and optimization.",
+    "commonMistake": "Thinking non-recursive is always better; some problems are more naturally expressed recursively.",
+    "collocations": [
+      "non-recursive function",
+      "non-recursive algorithm",
+      "non-recursive solution"
+    ]
+  },
+  {
+    "word": "Non-recursive",
+    "meaning": "Not defined or performed by calling itself",
+    "shortMeaning": "no self-calling",
+    "example": "The non-recursive function uses a stack to manage state.",
+    "example2": "We converted the recursive logic to a non-recursive one.",
+    "example3": "Non-recursive algorithms are safer from stack overflow errors.",
+    "Explanation": "The term 'non-recursive' describes a process or function that does not call itself as part of its execution. Recursion can be elegant but often carries the risk of 'stack overflow' if the nesting goes too deep. 'Non-recursive' approaches use loops or data structures like stacks to achieve the same result in a more controlled, iterative way. It is a common optimization to turn deep recursive calls into 'non-recursive' logic for better stability.",
+    "synonyms": [
+      "iterative",
+      "loop-based"
+    ],
+    "antonyms": [
+      "recursive",
+      "self-referential"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-recursive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms, programming",
+    "usageTip": "Use when describing algorithmic structure.",
+    "commonMistake": "Assuming recursive is always better; non-recursive is often much more memory-efficient.",
+    "collocations": [
+      "non-recursive function",
+      "non-recursive algorithm",
+      "convert to non-recursive"
+    ]
+  }
+]

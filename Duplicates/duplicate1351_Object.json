@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Object",
+    "meaning": "1. A physical thing that can be seen and touched. 2. To express disapproval or opposition.",
+    "shortMeaning": "a thing; to disagree",
+    "example": "She placed the small object on the table. (Noun)",
+    "example2": "Many residents object to the construction plans. (Verb)",
+    "example3": "The main object of the game is to score points. (Noun - goal)",
+    "Explanation": "'Object' is a common word with two primary roles. As a noun, it means a material thing or a purpose/goal. As a verb, it means to disagree or protest against something. The pronunciation changes: OB-ject (noun) and ob-JECT (verb). This is a classic example of a heteronym in English. Context makes its meaning clear.",
+    "synonyms": [
+      "Noun: item, thing, artifact. Verb: protest, oppose, complain"
+    ],
+    "antonyms": [
+      "Verb: agree, accept, approve"
+    ],
+    "nounForm": "object",
+    "verbForm": "object",
+    "adjectiveForm": "objective",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Everyday conversation (noun), formal meetings/debates (verb)",
+    "usageTip": "Remember the pronunciation difference: a thing is an OB-ject, to disagree is to ob-JECT.",
+    "commonMistake": "Confusing the noun and verb forms due to the pronunciation change.",
+    "collocations": [
+      "Noun: foreign object, object of desire. Verb: strongly object, object to something"
+    ]
+  },
+  {
+    "word": "Object",
+    "meaning": "A thing that can be seen and touched, or in IT, a data structure that contains data and code",
+    "shortMeaning": "thing / data unit",
+    "example": "In Java, almost everything is an object.",
+    "example2": "He placed a heavy object on the desk.",
+    "example3": "The main object of this meeting is to decide on a budget.",
+    "Explanation": "The word 'object' has two distinct meanings. In general English, it is a physical thing. In computer science, specifically in Object-Oriented Programming (OOP), an 'object' is an instance of a class. It combines data (properties) and actions (methods). For example, a 'Car' object might have the color 'Red' and the action 'Drive'. Understanding objects is essential for learning modern coding languages.",
+    "synonyms": [
+      "item",
+      "entity",
+      "thing"
+    ],
+    "antonyms": [
+      "subject (in grammar)"
+    ],
+    "nounForm": "object",
+    "verbForm": "object",
+    "adjectiveForm": "objective",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming and daily life",
+    "usageTip": "In coding, use 'object' to refer to a specific instance of a data structure.",
+    "commonMistake": "Confusing the noun 'object' with the verb 'object' (which means to disagree).",
+    "collocations": [
+      "object-oriented",
+      "physical object",
+      "create an object"
+    ]
+  }
+]

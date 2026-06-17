@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Linear",
+    "meaning": "Arranged in or extending along a straight line; progressing from one stage to another in a single series of steps.",
+    "shortMeaning": "in a straight line; sequential",
+    "example": "The graph shows a linear relationship between price and demand.",
+    "example2": "The story follows a linear narrative from beginning to end.",
+    "example3": "Solving this problem requires linear thinking, not creative leaps.",
+    "Explanation": "Linear means 'like a line'. It has two main senses: 1) Physical: arranged in a line (linear layout). 2) Conceptual: involving a sequence where each step follows directly from the previous one without branching or cycling (linear process, linear thinking). In mathematics, it describes relationships that graph as a straight line. It contrasts with 'non-linear', which involves curves, jumps, branches, or cycles. Linear processes are predictable and simple but can be rigid. The word is fundamental in mathematics, physics, storytelling, and problem-solving.",
+    "synonyms": [
+      "straight-line",
+      "sequential",
+      "direct",
+      "progressive"
+    ],
+    "antonyms": [
+      "non-linear",
+      "cyclical",
+      "recursive",
+      "branching"
+    ],
+    "nounForm": "linearity",
+    "verbForm": "linearize",
+    "adjectiveForm": "linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics, storytelling, project management, thinking styles",
+    "usageTip": "In tech, 'linear time' (O(n)) is a key concept in algorithm complexity.",
+    "commonMistake": "Thinking 'linear' always means 'simple'; some linear systems can be very complex.",
+    "collocations": [
+      "linear progression",
+      "linear equation",
+      "linear thinking"
+    ]
+  },
+  {
+    "word": "Linear",
+    "meaning": "Following a straight line or sequential order",
+    "shortMeaning": "straight / sequential",
+    "example": "The project follows a linear development model.",
+    "example2": "The search time increased in linear proportion to the data size.",
+    "example3": "Linear memory access is much faster than random access.",
+    "Explanation": "The term 'linear' describes something that happens in a sequential, step-by-step manner, or something that grows at a constant rate. In software, a 'linear' search processes data items one by one in order. 'Linear growth' (or O(n) complexity) means if you double the input data, the time taken also doubles. This is a crucial concept in algorithm analysis for understanding efficiency. A linear progression is predictable and easy to follow, but it may not be the fastest approach for large datasets compared to more advanced structures.",
+    "synonyms": [
+      "sequential",
+      "straight",
+      "proportional"
+    ],
+    "antonyms": [
+      "non-linear",
+      "random",
+      "exponential"
+    ],
+    "nounForm": "linearity",
+    "verbForm": "N/A",
+    "adjectiveForm": "linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithm complexity and data structure",
+    "usageTip": "Use when describing tasks that must be done in a specific sequence.",
+    "commonMistake": "Confusing linear growth with exponential growth.",
+    "collocations": [
+      "linear search",
+      "linear growth",
+      "linear time"
+    ]
+  }
+]

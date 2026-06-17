@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Release",
+    "meaning": "To make something available to the public; the act of making something available or a version that is made available",
+    "shortMeaning": "make available; version",
+    "example": "The company will release the new phone in October.",
+    "example2": "The software's latest release includes security fixes.",
+    "example3": "The government released a statement this afternoon.",
+    "Explanation": "The verb 'release' means to allow something to be issued, published, or made accessible. The noun 'release' refers to the instance of releasing (the product launch) or the item that is released (version 2.0). It's a fundamental word in business, entertainment, software, and publishing. It implies a transition from a private, controlled state to a public one. It's a key event in any product lifecycle.",
+    "synonyms": [
+      "launch",
+      "issue",
+      "publish",
+      "unveil",
+      "version"
+    ],
+    "antonyms": [
+      "withhold",
+      "retain",
+      "conceal"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "released",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software, music, movies, news, products",
+    "usageTip": "In software, a 'release' is a specific version (v1.2.3). As a verb, it's the act of deploying that version.",
+    "commonMistake": "Confusing 'release' with 'relieve', which means to alleviate pain or pressure.",
+    "collocations": [
+      "press release",
+      "release date",
+      "latest release",
+      "release a statement"
+    ]
+  },
+  {
+    "word": "Release",
+    "meaning": "To launch an official version of an application, open-source library, or firmware update to production environments for users",
+    "shortMeaning": "launch software version to users",
+    "example": "The product team plans to release the updated mobile application on the app store this Friday.",
+    "example2": "Before you release your web project, ensure you run a complete security scan on your dependencies.",
+    "example3": "They published a detailed changelog document alongside the major software release.",
+    "Explanation": "The word 'release' is a milestone term within product management and DevOps lifecycles. It marks the formal transition where tested, validated code moves from internal staging environments into the public production sphere. A release can be a minor bug hotfix or a major version overhaul complete with documentation updates. Managing releases efficiently involves utilizing versioning models (like Semantic Versioning) and automated CI/CD tools to ensure software deployment remains predictable and zero-downtime.",
+    "synonyms": [
+      "launch",
+      "deploy",
+      "publish a version"
+    ],
+    "antonyms": [
+      "withhold",
+      "recall",
+      "unpublish"
+    ],
+    "nounForm": "release",
+    "verbForm": "release",
+    "adjectiveForm": "released",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "DevOps pipelines, product launch milestones, version tracking",
+    "usageTip": "Use 'release' when a stable version of software moves past internal testing phases and becomes available to end-users.",
+    "commonMistake": "Releasing code directly to production without testing it in staging environments first, which increases system failure risks.",
+    "collocations": [
+      "official software release",
+      "release a new version",
+      "ready for release"
+    ]
+  }
+]

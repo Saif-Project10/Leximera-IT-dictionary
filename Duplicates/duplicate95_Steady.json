@@ -1,0 +1,132 @@
+[
+  {
+    "word": "Steady",
+    "meaning": "Firmly fixed, supported, or balanced; not shaking or moving; regular and continuous.",
+    "shortMeaning": "firm and regular",
+    "example": "Hold the ladder steady while I climb.",
+    "example2": "She has a steady job with a good income.",
+    "example3": "After a rocky start, their relationship became steady.",
+    "Explanation": "'Steady' is an adjective and verb describing stability and regularity. Physically, it means not moving or shaking (steady hands). Figuratively, it describes something reliable and unchanging (steady progress, steady income). As a verb, 'to steady' means to make something stable (steady your nerves). It has a very positive connotation of reliability, dependability, and calmness. It is the opposite of 'unsteady' or 'erratic'. It's a fundamental word for describing both physical states and abstract concepts like growth or employment.",
+    "synonyms": [
+      "stable",
+      "firm",
+      "constant",
+      "regular"
+    ],
+    "antonyms": [
+      "unsteady",
+      "shaky",
+      "irregular",
+      "intermittent"
+    ],
+    "nounForm": "steadiness",
+    "verbForm": "steady",
+    "adjectiveForm": "steady",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Describing balance, jobs, progress, relationships, hands",
+    "usageTip": "Use it to describe something that is reliable and not likely to change or fall.",
+    "commonMistake": "Confusing 'steady' with 'ready'. 'Steady' is about stability, not preparation.",
+    "collocations": [
+      "steady hand",
+      "steady job",
+      "steady growth",
+      "hold steady",
+      "steady yourself"
+    ]
+  },
+  {
+    "word": "Steady",
+    "meaning": "Constant, regular, and not changing significantly.",
+    "shortMeaning": "stable",
+    "example": "The server load remained steady throughout the day.",
+    "example2": "We have a steady flow of incoming requests.",
+    "example3": "Keep a steady pace to finish the coding project.",
+    "Explanation": "The word 'steady' describes something that is regular and does not fluctuate. In IT, a 'steady' load or signal indicates reliability and predictability. It is the opposite of 'spiky' or 'erratic' behavior. Maintaining a steady performance is a key goal for systems administrators and developers, as it ensures users get a consistent experience. When things remain steady, it is much easier to monitor, predict future needs, and identify problems.",
+    "synonyms": [
+      "stable",
+      "consistent",
+      "uniform"
+    ],
+    "antonyms": [
+      "erratic",
+      "fluctuating",
+      "unstable"
+    ],
+    "nounForm": "steadiness",
+    "verbForm": "steady",
+    "adjectiveForm": "steady",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance monitoring, traffic analysis",
+    "usageTip": "Use 'steady' to describe consistent, reliable performance.",
+    "commonMistake": "Confusing 'steady' with 'fast' (a system can be slow but steady).",
+    "collocations": [
+      "steady load",
+      "steady flow",
+      "steady performance"
+    ]
+  },
+  {
+    "word": "Steady",
+    "meaning": "Regular, even, and continuous; not changing",
+    "shortMeaning": "even and continuous",
+    "example": "The application provides a steady stream of data to the dashboard.",
+    "example2": "We maintained a steady performance throughout the stress test.",
+    "example3": "The server showed a steady increase in memory usage over time.",
+    "Explanation": "The word 'steady' describes a constant, predictable, and even flow or state. In IT, this is very important for system stability. A 'steady state' means the system is performing reliably without sudden fluctuations. It implies confidence in the system's ability to handle load consistently. It is a positive term, usually associated with reliability and predictability. You want your system to be steady, not volatile.",
+    "synonyms": [
+      "constant",
+      "stable",
+      "consistent"
+    ],
+    "antonyms": [
+      "erratic",
+      "volatile",
+      "fluctuating"
+    ],
+    "nounForm": "steadiness",
+    "verbForm": "steady",
+    "adjectiveForm": "steady",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, reliability, data flow",
+    "usageTip": "Use 'steady' to describe performance that doesn't fluctuate.",
+    "commonMistake": "Thinking 'steady' means 'fast'; it means 'consistent'.",
+    "collocations": [
+      "steady state",
+      "steady flow",
+      "steady performance"
+    ]
+  },
+  {
+    "word": "Steady",
+    "meaning": "Firm, stable, consistent, and not changing or shaking over time",
+    "shortMeaning": "stable and consistent",
+    "example": "The cloud server maintained a steady performance even during peak traffic hours.",
+    "example2": "The IT team noticed a steady increase in user registrations over the past six months.",
+    "example3": "Keep a steady hand when installing sensitive hardware components like the CPU.",
+    "Explanation": "The word 'steady' describes a state of consistency, balance, and reliability. In technical performance monitoring, a steady line on a graph shows that network latency, memory usage, or power supply is stable. This reliability is highly desirable because sudden spikes or drops can crash applications or damage hardware. It also applies to project progress, meaning a team maintains a continuous and predictable speed. It conveys safety and lack of unpredictable fluctuations.",
+    "synonyms": [
+      "stable",
+      "consistent",
+      "constant",
+      "firm"
+    ],
+    "antonyms": [
+      "unstable",
+      "fluctuating",
+      "variable",
+      "shaky"
+    ],
+    "nounForm": "steadiness",
+    "verbForm": "steady",
+    "adjectiveForm": "steady",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Server performance, data traffic, hardware installation",
+    "usageTip": "Use 'steady' to praise software systems that run smoothly without sudden speed changes or glitches.",
+    "commonMistake": "Using 'steady' when you mean 'fast'; a steady system can be slow as long as it is consistent.",
+    "collocations": [
+      "steady stream",
+      "steady growth",
+      "steady performance"
+    ]
+  }
+]

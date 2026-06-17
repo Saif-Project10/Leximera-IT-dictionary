@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Wipe",
+    "meaning": "To completely erase all data from a storage device",
+    "shortMeaning": "erase data",
+    "example": "Make sure to wipe your hard drive before selling your old laptop.",
+    "example2": "The IT department will wipe the phone if it is reported stolen.",
+    "example3": "I had to wipe the server because of a severe virus infection.",
+    "Explanation": "In IT, to wipe means to delete data in a way that it cannot be easily recovered. Simple deletion often leaves traces that hackers can find. Wiping usually involves overwriting the existing data with random patterns of zeros and ones. This process is essential for privacy and security. You can wipe entire drives, specific partitions, or just the free space on a disk. It is a permanent action that cannot be undone.",
+    "synonyms": [
+      "erase",
+      "sanitize",
+      "clear",
+      "purge"
+    ],
+    "antonyms": [
+      "restore",
+      "save",
+      "recover"
+    ],
+    "nounForm": "wipe",
+    "verbForm": "wipe",
+    "adjectiveForm": "wiped",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Data security and device maintenance",
+    "usageTip": "Use 'wipe' instead of 'delete' when you mean total, unrecoverable erasure.",
+    "commonMistake": "Thinking that 'formatting' a drive is the same as a secure 'wipe'.",
+    "collocations": [
+      "remote wipe",
+      "disk wipe",
+      "wipe clean"
+    ]
+  },
+  {
+    "word": "Wipe",
+    "meaning": "To completely erase, format, or clean all stored data elements securely from a memory storage device",
+    "shortMeaning": "completely erase memory data",
+    "example": "Before selling your old desktop computer hardware, make sure you wipe the hard drive completely.",
+    "example2": "The system admin issued an emergency terminal command to wipe the compromised laptop server storage.",
+    "example3": "An accidental database script query managed to wipe the entire user layout collection table instantly.",
+    "Explanation": "The word 'wipe' represents cleaning a physical surface, but in IT infrastructure, it means the complete destruction of recorded data. Performing a data wipe goes beyond clicking 'delete'; it involves overwriting the magnetic or solid-state memory sectors with random bits so that the original files cannot be recovered by forensic software. Wiping is a critical security protocol executed during server retirements, device repurposings, or emergency data containment actions.",
+    "synonyms": [
+      "erase fully",
+      "format drive",
+      "purge data",
+      "sanitize storage"
+    ],
+    "antonyms": [
+      "restore data",
+      "populate storage",
+      "write files",
+      "backup"
+    ],
+    "nounForm": "wipe",
+    "verbForm": "wipe",
+    "adjectiveForm": "wiped",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Hard drive sanitization, corporate device decommissioning, and severe data catastrophic failures",
+    "usageTip": "Use 'wipe' when describing the thorough, unrecoverable erasure of software data from storage partitions.",
+    "commonMistake": "Assuming a quick OS file delete performs a thorough device wipe; deleting simply hides file references while a wipe alters the bits.",
+    "collocations": [
+      "wipe the hard drive",
+      "completely wipe data",
+      "remote wipe command"
+    ]
+  }
+]

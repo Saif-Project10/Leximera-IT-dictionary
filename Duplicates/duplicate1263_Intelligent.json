@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Intelligent",
+    "meaning": "Having or showing intelligence, especially of a high level.",
+    "shortMeaning": "smart; clever",
+    "example": "He's an intelligent student who asks thoughtful questions.",
+    "example2": "That was an intelligent decision given the circumstances.",
+    "example3": "The system uses intelligent algorithms to predict trends.",
+    "Explanation": "'Intelligent' is an adjective describing someone or something that has or shows intelligence - the ability to learn, understand, reason, and apply knowledge. It suggests good mental capacity and sound judgment. The word applies to people (intelligent person), animals (intelligent dolphins), systems (intelligent design), and decisions (intelligent choice). It's more specific than 'smart' (which can mean fashionable or clever) and suggests deeper cognitive ability. In technology, 'intelligent systems' can learn and adapt. The adverb is 'intelligently'. Being intelligent involves not just knowledge but the ability to use it effectively.",
+    "synonyms": [
+      "smart",
+      "clever",
+      "bright",
+      "brainy"
+    ],
+    "antonyms": [
+      "stupid",
+      "unintelligent",
+      "foolish",
+      "dull"
+    ],
+    "nounForm": "intelligence",
+    "verbForm": "N/A",
+    "adjectiveForm": "intelligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "People, animals, systems, decisions, design",
+    "usageTip": "Can describe people, animals, or systems: 'intelligent child', 'intelligent design', 'intelligent software'.",
+    "commonMistake": "Equating with 'educated'. One can be intelligent without formal education, and educated without high intelligence.",
+    "collocations": [
+      "highly intelligent",
+      "intelligent design",
+      "intelligent system"
+    ]
+  },
+  {
+    "word": "Intelligent",
+    "meaning": "Able to learn, reason, and apply knowledge to tasks",
+    "shortMeaning": "Smart/learning",
+    "example": "The software uses an intelligent agent to optimize tasks.",
+    "example2": "We implemented an intelligent load balancing system.",
+    "Example3": "The device has an intelligent power management mode.",
+    "Explanation": "The word 'intelligent' describes systems that can process data to adapt their behavior or improve their efficiency over time. It is an adjective. In tech, this is often used for AI-driven features, smart sensors, or automated algorithms that can adjust based on external inputs. It is distinct from 'automatic' (which just follows fixed rules) because it implies some level of decision-making or learning.",
+    "synonyms": [
+      "smart",
+      "adaptive",
+      "clever"
+    ],
+    "antonyms": [
+      "static",
+      "dumb",
+      "basic"
+    ],
+    "nounForm": "intelligence",
+    "verbForm": "N/A",
+    "adjectiveForm": "intelligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, hardware, automation",
+    "usageTip": "Use for systems that make decisions or adapt to data.",
+    "commonMistake": "Overusing 'intelligent' for simple scripted actions.",
+    "collocations": [
+      "intelligent system",
+      "intelligent agent",
+      "highly intelligent"
+    ]
+  }
+]

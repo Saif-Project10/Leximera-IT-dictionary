@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Smuggled",
+    "meaning": "Brought into a system or network secretly or illegally",
+    "shortMeaning": "brought in secretly",
+    "example": "The hacker smuggled the malware past the firewall.",
+    "example2": "He smuggled the unauthorized code into the repository.",
+    "example3": "The data was smuggled out of the secure network.",
+    "Explanation": "The word 'smuggled' refers to moving data, code, or hardware into or out of a system without being detected. In IT security, this is a serious breach where unauthorized items bypass security controls like firewalls or antivirus software. It implies an intent to evade detection. The verb form is 'smuggle'. This term highlights a failure in security monitoring and protocol enforcement. It is often used in forensics reports regarding data breaches.",
+    "synonyms": [
+      "infiltrated",
+      "sneaked",
+      "secretly transferred"
+    ],
+    "antonyms": [
+      "authorized",
+      "inspected",
+      "detected"
+    ],
+    "nounForm": "smuggling",
+    "verbForm": "smuggle",
+    "adjectiveForm": "smuggled",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Cyber security, forensics",
+    "usageTip": "Use 'smuggled' when describing stealthy, unauthorized data movement.",
+    "commonMistake": "Using it for normal data transfers that are just slow.",
+    "collocations": [
+      "smuggled malware",
+      "smuggled data"
+    ]
+  },
+  {
+    "word": "Smuggled",
+    "meaning": "Moved goods or data illegally into or out of a location",
+    "shortMeaning": "moved illegally",
+    "example": "The hacker smuggled data out of the secure server.",
+    "example2": "Sensitive information was smuggled through an encrypted tunnel.",
+    "example3": "They found files that had been smuggled past the firewall.",
+    "Explanation": "The term 'smuggled' implies a secretive and unauthorized transfer of items or digital information. In IT security, it is often used metaphorically to describe data exfiltration or bypassing network controls. It highlights the lack of transparency in the movement of data. This word carries a negative connotation because it involves breaking rules or bypassing security measures. Use it to describe illicit activities in digital environments.",
+    "synonyms": [
+      "trafficked",
+      "stolen",
+      "sneaked"
+    ],
+    "antonyms": [
+      "authorized",
+      "allowed",
+      "legal"
+    ],
+    "nounForm": "smuggling",
+    "verbForm": "smuggle",
+    "adjectiveForm": "smuggled",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, data theft, networking",
+    "usageTip": "Use 'smuggled' to describe illicit data transfer.",
+    "commonMistake": "Using it for general moving of files instead of illegal ones.",
+    "collocations": [
+      "smuggled data",
+      "smuggled information",
+      "smuggled files"
+    ]
+  }
+]

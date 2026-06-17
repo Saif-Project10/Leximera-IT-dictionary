@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Next",
+    "meaning": "Coming immediately after the present one in time, order, or place",
+    "shortMeaning": "coming immediately after",
+    "example": "See you next week!",
+    "example2": "What is the next step?",
+    "example3": "The next person in line can come in.",
+    "Explanation": "'Next' is a basic word for sequencing. It indicates the thing that follows immediately in a series. It can refer to time (next year), place (the next house), or order (next in line). It is used constantly in planning and giving instructions. Phrases like 'next to' mean 'beside'. Its meaning is simple but absolutely essential for talking about future events, procedures, and spatial relationships in everyday English.",
+    "synonyms": [
+      "following",
+      "subsequent",
+      "upcoming",
+      "nearest"
+    ],
+    "antonyms": [
+      "previous",
+      "last",
+      "prior"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "next",
+    "partOfSpeech": "adjective, adverb, noun",
+    "commonContext": "Time, sequences, queues, locations",
+    "usageTip": "Use 'next' to talk about the thing that comes immediately after the current one.",
+    "commonMistake": "Using 'next' with 'on' for days (e.g., 'on next Monday') is wrong. Just say 'next Monday'.",
+    "collocations": [
+      "next to",
+      "next time",
+      "next door",
+      "next in line"
+    ]
+  },
+  {
+    "word": "Next",
+    "meaning": "Coming immediately after the current one",
+    "shortMeaning": "following",
+    "example": "Press the next button to continue.",
+    "example2": "The next step in the process is validation.",
+    "example3": "Check the next item in the list.",
+    "Explanation": "The word 'next' describes something that follows immediately after the current item in time, space, or order. It is one of the most common words in computing, appearing in wizards (Next >), iteration (the next element in a loop), and scheduling. It is a fundamental navigational term. It is simple to understand, but always be clear about what the 'next' item is to avoid confusion in your documentation or user interfaces.",
+    "synonyms": [
+      "following",
+      "subsequent",
+      "succeeding"
+    ],
+    "antonyms": [
+      "previous",
+      "last"
+    ],
+    "nounForm": "next",
+    "verbForm": "N/A",
+    "adjectiveForm": "next",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "UI/UX, logic, sequencing",
+    "usageTip": "Use to indicate the immediate follower in a sequence.",
+    "commonMistake": "Confusing 'next' with 'future' (next is immediate, future is any time).",
+    "collocations": [
+      "next step",
+      "next button",
+      "next item"
+    ]
+  }
+]

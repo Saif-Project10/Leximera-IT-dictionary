@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Pass by reference",
+    "meaning": "A method of passing data to a function where the function gets access to the original data, not a copy",
+    "shortMeaning": "sharing original data",
+    "example": "In C++, you can use pointers or references to pass by reference.",
+    "example2": "When you pass by reference, changes made inside the function affect the original variable.",
+    "example3": "Passing large objects by reference is more efficient than copying them.",
+    "Explanation": "Pass by reference is a programming concept where a function receives the 'address' or a 'link' to a variable rather than its value. This means the function and the calling code are looking at the exact same spot in memory. If the function changes the value, that change stays even after the function finishes. This is very useful for performance when dealing with large amounts of data, as the computer doesn't have to waste time making a duplicate. However, it can be dangerous if a function accidentally changes data that it shouldn't.",
+    "synonyms": [
+      "call by reference",
+      "pointer passing"
+    ],
+    "antonyms": [
+      "pass by value"
+    ],
+    "nounForm": "pass by reference",
+    "verbForm": "pass by reference",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / verb phrase",
+    "commonContext": "Computer programming and memory management",
+    "usageTip": "Use pass by reference when you want a function to modify an existing variable or to save memory on large objects.",
+    "commonMistake": "Passing by reference when you want to protect the original data from being changed.",
+    "collocations": [
+      "pass an object by reference",
+      "function pass by reference",
+      "pass by reference vs value"
+    ]
+  },
+  {
+    "word": "Pass by reference",
+    "meaning": "A method of passing data to a function where the function gets access to the actual memory address of the variable",
+    "shortMeaning": "pass the original data",
+    "example": "When you pass by reference, any changes made inside the function affect the original variable.",
+    "example2": "In C++, you use the ampersand (&) symbol to pass by reference.",
+    "example3": "To save memory with large objects, it is often better to pass by reference.",
+    "Explanation": "This is a key concept in programming. Imagine you have a large notebook. 'Pass by reference' is like giving someone the key to your house so they can write in your notebook. If they change a page, the notebook in your house is changed forever. This is efficient because you don't have to make a copy of the whole notebook. However, it can be dangerous because the function might change your data in ways you didn't expect. Languages like C++ and C# use this frequently.",
+    "synonyms": [
+      "call by reference",
+      "memory address passing"
+    ],
+    "antonyms": [
+      "pass by value"
+    ],
+    "nounForm": "pass-by-reference",
+    "verbForm": "pass by reference",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software development and memory management",
+    "usageTip": "Use 'pass by reference' for large data structures to avoid slow copying.",
+    "commonMistake": "Thinking that Python or Java always passes by reference (it is actually more complex than that).",
+    "collocations": [
+      "pass by reference in C++",
+      "reference variable",
+      "pointer and reference"
+    ]
+  }
+]

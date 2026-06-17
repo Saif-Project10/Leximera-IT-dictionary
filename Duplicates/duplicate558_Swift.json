@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Swift",
+    "meaning": "A powerful and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch.",
+    "shortMeaning": "Apple's programming language",
+    "example": "All new iOS apps are typically written in Swift.",
+    "example2": "Swift is designed to be safe, fast, and expressive.",
+    "example3": "The transition from Objective-C to Swift has been largely positive for Apple developers.",
+    "Explanation": "Swift is Apple's modern programming language, introduced in 2014 to replace Objective-C. It is designed to be easier to read and write, with a clean syntax and strong emphasis on safety (preventing common programming errors like null pointer exceptions). It is open-source and can also be used for server-side development. A common mistake is thinking Swift is only for iOS; it's for all Apple platforms (macOS, watchOS, tvOS) and beyond. SwiftUI, Apple's new UI framework, works hand-in-hand with Swift. It has a vibrant community and is constantly evolving, with regular updates from Apple.",
+    "synonyms": [
+      "Swift language",
+      "Apple's language",
+      "N/A"
+    ],
+    "antonyms": [
+      "Objective-C",
+      "Kotlin",
+      "N/A"
+    ],
+    "nounForm": "Swift",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun (proper)",
+    "commonContext": "iOS/macOS development, Apple ecosystem",
+    "usageTip": "Often paired with 'SwiftUI' for modern Apple UI development.",
+    "commonMistake": "Confusing it with the verb 'swift' (meaning quick). As a language, it's always capitalized.",
+    "collocations": [
+      "Swift code",
+      "program in Swift",
+      "Swift developer"
+    ]
+  },
+  {
+    "word": "Swift",
+    "meaning": "Moving or capable of moving with great speed",
+    "shortMeaning": "very fast",
+    "example": "The team made a swift decision to fix the bug.",
+    "example2": "Swift processing is essential for real-time systems.",
+    "example3": "He received a swift response to his inquiry.",
+    "Explanation": "The word 'swift' denotes high speed and efficiency. It is often used to describe actions, performance, or processes that occur quickly without delay. In programming, 'Swift' is also the name of a popular open-source programming language developed by Apple. When used as a common adjective, it implies quickness, readiness, and agility. It is a positive term often used in business or technical contexts to praise fast response times or high-performance code execution.",
+    "synonyms": [
+      "fast",
+      "quick",
+      "rapid"
+    ],
+    "antonyms": [
+      "slow",
+      "sluggish",
+      "delayed"
+    ],
+    "nounForm": "swiftness",
+    "verbForm": "N/A",
+    "adjectiveForm": "swift",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, decision making, programming",
+    "usageTip": "Use to emphasize efficiency and speed.",
+    "commonMistake": "Confusing the adjective 'swift' with the programming language name.",
+    "collocations": [
+      "swift response",
+      "swift action",
+      "swift processing"
+    ]
+  },
+  {
+    "word": "Swift",
+    "meaning": "Moving or capable of moving with great speed",
+    "shortMeaning": "fast",
+    "example": "Swift development is key to project success.",
+    "example2": "The script provides a swift response to the query.",
+    "example3": "Swift is also a popular programming language by Apple.",
+    "Explanation": "The word 'swift' denotes high speed and efficiency. In the context of IT, it describes processes, algorithms, or response times that happen quickly. It is also the name of a specific, widely-used programming language for iOS and macOS development. When used as an adjective, it highlights performance and time-saving capabilities. It is an excellent, professional word to describe optimized operations or modern coding tools.",
+    "synonyms": [
+      "fast",
+      "rapid",
+      "quick"
+    ],
+    "antonyms": [
+      "slow",
+      "sluggish",
+      "lethargic"
+    ],
+    "nounForm": "swiftness",
+    "verbForm": "N/A",
+    "adjectiveForm": "swift",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, performance, development speed",
+    "usageTip": "Use 'swift' for high-speed performance or the Apple language.",
+    "commonMistake": "Confusing the adjective with the specific programming language name.",
+    "collocations": [
+      "swift response",
+      "swift development",
+      "Swift programming"
+    ]
+  }
+]

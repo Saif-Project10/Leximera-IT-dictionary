@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Notable",
+    "meaning": "Worthy of attention or notice; remarkable.",
+    "shortMeaning": "remarkable; noteworthy",
+    "example": "She made a notable contribution to science.",
+    "example2": "The city has many notable landmarks.",
+    "example3": "There is a notable difference between the two versions.",
+    "Explanation": "Notable describes something or someone that is important, interesting, or excellent enough to be noticed and remembered. It implies a degree of fame, significance, or distinction. A notable event is historically important. A notable person is distinguished. The word is positive and formal. As a noun, 'notables' refers to important people. It's less extreme than 'famous' or 'extraordinary'. It's a useful word for highlighting key points in a discussion, report, or tour. The opposite is 'unremarkable' or 'insignificant'.",
+    "synonyms": [
+      "remarkable",
+      "noteworthy",
+      "distinguished",
+      "prominent",
+      "striking"
+    ],
+    "antonyms": [
+      "ordinary",
+      "insignificant",
+      "unremarkable",
+      "commonplace"
+    ],
+    "nounForm": "notable (person)",
+    "verbForm": "note",
+    "adjectiveForm": "notable",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Achievements, people, features, differences, events",
+    "usageTip": "Often used before a noun (notable achievement, notable exception) or after a linking verb (the change was notable).",
+    "commonMistake": "Confusing 'notable' with 'noticeable'. Notable means worthy of note; noticeable means able to be seen or noticed.",
+    "collocations": [
+      "notable for",
+      "notable exception",
+      "most notable",
+      "notable achievement"
+    ]
+  },
+  {
+    "word": "Notable",
+    "meaning": "Worth noticing; significant or interesting",
+    "shortMeaning": "significant",
+    "example": "There is a notable increase in CPU usage.",
+    "example2": "The software update includes a notable performance boost.",
+    "example3": "It is worth mentioning the notable lack of security.",
+    "Explanation": "The word 'notable' is used to highlight that something is important enough to deserve attention. In technical reports, documentation, or post-mortem meetings, you use 'notable' to flag items that stakeholders *must* see. It is stronger than 'interesting' but less urgent than 'critical'. It helps filter out the noise and focus on what actually matters in a sea of technical data.",
+    "synonyms": [
+      "significant",
+      "important",
+      "remarkable"
+    ],
+    "antonyms": [
+      "minor",
+      "unimportant",
+      "insignificant"
+    ],
+    "nounForm": "note",
+    "verbForm": "note",
+    "adjectiveForm": "notable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Reporting, documentation, diagnostics",
+    "usageTip": "Use to highlight important findings.",
+    "commonMistake": "Overusing 'notable' for small, irrelevant things; reserve it for truly significant items.",
+    "collocations": [
+      "notable increase",
+      "notable improvement",
+      "notable change"
+    ]
+  }
+]

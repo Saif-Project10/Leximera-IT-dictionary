@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Processing",
+    "meaning": "The act of dealing with something according to a procedure; converting data.",
+    "shortMeaning": "handling or converting",
+    "example": "The processing of your application may take two weeks.",
+    "example2": "Food processing removes nutrients.",
+    "example3": "This computer is capable of high-speed data processing.",
+    "Explanation": "Processing is the noun form of the verb 'process'. It refers to the activity of performing a series of operations on something to change or handle it. In computing, it's the manipulation of data by a computer's CPU. In business, it's the handling of documents, orders, or applications. In food science, it's the treatment of raw ingredients. The word focuses on the action itself, often within a larger system. Efficient processing is key to productivity in many fields. It's a neutral, technical-sounding word.",
+    "synonyms": [
+      "handling",
+      "managing",
+      "treatment",
+      "conversion",
+      "execution"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignoring"
+    ],
+    "nounForm": "processing",
+    "verbForm": "process",
+    "adjectiveForm": "processing",
+    "partOfSpeech": "noun",
+    "commonContext": "Computing, administration, food industry, photography",
+    "usageTip": "Often used with words like 'data', 'information', 'word', 'image', or 'order'.",
+    "commonMistake": "Using 'processing' as a verb in continuous form when the simple form is better (e.g., 'The computer is processing' is fine, but 'We are processing your order' is standard).",
+    "collocations": [
+      "data processing",
+      "word processing",
+      "order processing",
+      "information processing"
+    ]
+  },
+  {
+    "word": "Processing",
+    "meaning": "The act of performing actions or operations on data",
+    "shortMeaning": "performing work on data",
+    "example": "The system is currently processing the user input.",
+    "example2": "Processing large files takes a lot of memory.",
+    "example3": "We need to optimize our data processing speed.",
+    "Explanation": "The word 'processing' refers to the ongoing activity of manipulating, transforming, or calculating data. The base verb is 'process'. In IT, 'processing' is a core function of the CPU and software systems. It is the time taken to transform input into output. High-performance processing is a goal for many developers. It is important to distinguish between 'batch processing' (handling data in groups) and 'real-time processing' (handling it immediately as it arrives) when discussing system architecture.",
+    "synonyms": [
+      "handling",
+      "calculating",
+      "computing"
+    ],
+    "antonyms": [
+      "idling",
+      "waiting",
+      "static"
+    ],
+    "nounForm": "processing",
+    "verbForm": "process",
+    "adjectiveForm": "processing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "System performance, data operations",
+    "usageTip": "Use to describe an active task or a general system capability.",
+    "commonMistake": "Assuming processing time is always constant (it changes based on load).",
+    "collocations": [
+      "data processing",
+      "processing speed",
+      "in processing"
+    ]
+  }
+]

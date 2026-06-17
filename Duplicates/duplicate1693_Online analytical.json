@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Online analytical",
+    "meaning": "The process of examining data in real-time using web-based tools.",
+    "shortMeaning": "web-based analysis",
+    "example": "The marketing team uses online analytical tools to track website traffic.",
+    "example2": "Online analytical capabilities allow managers to see sales trends instantly.",
+    "example3": "We need an online analytical approach to solve this data problem.",
+    "Explanation": "The term 'online analytical' refers to the ability to perform complex data analysis over the internet or a live network. Unlike 'offline' analysis, which might involve downloading a file and working on it later, online analytical processes happen while the system is connected to the data source. This allows for 'live' reporting and immediate decision-making. It is a broad term that covers various technologies designed to help users query and interact with large datasets. It emphasizes speed, accessibility, and the use of cloud-based resources to handle heavy calculations.",
+    "synonyms": [
+      "live analysis",
+      "web-based analytics",
+      "real-time analysis"
+    ],
+    "antonyms": [
+      "offline analysis",
+      "batch processing"
+    ],
+    "nounForm": "online analytics",
+    "verbForm": "N/A",
+    "adjectiveForm": "online analytical",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Business intelligence and web reporting",
+    "usageTip": "Use this to describe tools or methods that analyze data while connected to the internet.",
+    "commonMistake": "Using 'analytical' when you mean 'analysis' (the noun).",
+    "collocations": [
+      "online analytical tool",
+      "online analytical capability",
+      "perform analytical tasks"
+    ]
+  },
+  {
+    "word": "Online analytical",
+    "meaning": "Relating to real-time data analysis (OLAP)",
+    "shortMeaning": "real-time data analysis",
+    "example": "The business uses online analytical processing for reports.",
+    "example2": "He manages the online analytical data tools.",
+    "example3": "Online analytical tools help with decision making.",
+    "Explanation": "The term 'online analytical' (commonly known as OLAP) refers to systems that allow users to analyze large volumes of data from multiple perspectives in real-time. Unlike standard database lookups, it is designed for complex queries and multi-dimensional analysis. It is essential for business intelligence, where managers need to see trends, summaries, and forecasts instantly. It requires a specialized database structure that is optimized for reading and analyzing, rather than just writing data.",
+    "synonyms": [
+      "analytical",
+      "real-time processing"
+    ],
+    "antonyms": [
+      "transactional",
+      "batch processing"
+    ],
+    "nounForm": "OLAP",
+    "verbForm": "N/A",
+    "adjectiveForm": "online analytical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business intelligence, databases",
+    "usageTip": "Use when discussing tools that analyze complex data in real-time.",
+    "commonMistake": "Confusing 'online analytical' with 'online transactional' (OLTP).",
+    "collocations": [
+      "online analytical processing",
+      "online analytical tools",
+      "online analytical data"
+    ]
+  }
+]

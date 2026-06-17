@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inbound",
+    "meaning": "Coming in or directed inward; (in marketing/sales) referring to activities that attract customers to a business, rather than the business reaching out.",
+    "shortMeaning": "coming in; attraction-based",
+    "example": "All inbound flights have been delayed due to the storm.",
+    "example2": "Inbound marketing uses content and SEO to draw customers in.",
+    "example3": "The company's inbound sales leads have doubled this quarter.",
+    "Explanation": "Inbound' has a general meaning of anything moving inward (inbound traffic, inbound calls). In business, especially marketing and sales, it has a specialized meaning. 'Inbound marketing' is a strategy focused on creating valuable content to attract potential customers, making them come to you. This contrasts with 'outbound' tactics like cold calling or advertising. The philosophy is to be found by people already looking for solutions. This term is central to modern digital marketing strategies that value customer pull over business push.",
+    "synonyms": [
+      "incoming",
+      "arriving",
+      "attraction-based",
+      "pull marketing"
+    ],
+    "antonyms": [
+      "outbound",
+      "outgoing",
+      "interruption-based",
+      "push marketing"
+    ],
+    "nounForm": "inbound",
+    "verbForm": "N/A",
+    "adjectiveForm": "inbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logistics, transportation, digital marketing, sales, customer service",
+    "usageTip": "In a business context, it's often part of the phrase 'inbound marketing' or 'inbound leads'.",
+    "commonMistake": "In logistics, confusing 'inbound' (goods arriving) with 'outbound' (goods being shipped out).",
+    "collocations": [
+      "inbound marketing",
+      "inbound call",
+      "inbound logistics",
+      "inbound strategy"
+    ]
+  },
+  {
+    "word": "Inbound",
+    "meaning": "Coming into a system or network from an external source",
+    "shortMeaning": "coming in",
+    "example": "All inbound traffic must be filtered by the firewall.",
+    "example2": "We are monitoring inbound requests to detect potential attacks.",
+    "example3": "Inbound data packets were delayed due to high server load.",
+    "Explanation": "The word 'inbound' refers to data, traffic, or messages moving from the outside into your local network or application. It is a fundamental networking term. Managing 'inbound' versus 'outbound' traffic is the core function of a network security administrator. Understanding where inbound traffic comes from is crucial for security and performance optimization.",
+    "synonyms": [
+      "incoming",
+      "entering",
+      "arriving"
+    ],
+    "antonyms": [
+      "outbound",
+      "outgoing",
+      "exiting"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "inbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, security, traffic management",
+    "usageTip": "Use 'inbound' for traffic or data entering a system.",
+    "commonMistake": "Confusing 'inbound' (entering) with 'outbound' (exiting).",
+    "collocations": [
+      "inbound traffic",
+      "inbound requests",
+      "inbound connection"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Interpret",
+    "meaning": "To explain the meaning of something; to understand in a particular way.",
+    "shortMeaning": "explain the meaning; understand",
+    "example": "The judge must interpret the law.",
+    "example2": "How do you interpret his silence?",
+    "example3": "She will interpret for the Spanish-speaking delegates.",
+    "Explanation": "To interpret is to assign meaning to something ambiguous, such as words, actions, data, or art. It involves translation, explanation, or subjective understanding. Interpretation is a key activity in law, literature, science, and cross-cultural communication (where an interpreter translates speech). Different people can interpret the same thing differently based on context and perspective. The word implies an active process of making sense of something. The noun is 'interpretation'. It's fundamental to human communication and understanding, especially where direct meaning is not obvious.",
+    "synonyms": [
+      "explain",
+      "construe",
+      "understand",
+      "translate",
+      "decipher"
+    ],
+    "antonyms": [
+      "misinterpret",
+      "distort",
+      "confuse"
+    ],
+    "nounForm": "interpretation",
+    "verbForm": "interpret",
+    "adjectiveForm": "interpretive",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, art, language, data, dreams",
+    "usageTip": "Often followed by 'as' (interpret his smile as friendly) or used with an object (interpret the poem).",
+    "commonMistake": "Confusing 'interpret' with 'translate'. Interpretation can involve translation, but it's more about explaining meaning, not just converting languages.",
+    "collocations": [
+      "interpret the law",
+      "interpret data",
+      "interpret dreams",
+      "simultaneously interpret"
+    ]
+  },
+  {
+    "word": "Interpret",
+    "meaning": "To explain the meaning of something or to translate it into another language",
+    "shortMeaning": "explain / translate",
+    "example": "The browser needs to interpret the HTML and CSS to display the page.",
+    "example2": "How do you interpret the results of this survey?",
+    "example3": "He was hired to interpret the conversation between the two CEOs.",
+    "Explanation": "Interpret has two main meanings. First, it means to understand or explain something (like data or a poem). Second, in IT, an 'interpreter' is a program that executes code line-by-line. This is different from a 'compiler', which translates the whole program at once. Python and JavaScript are examples of interpreted languages. It implies a process of making sense of information so it can be used or understood.",
+    "synonyms": [
+      "explain",
+      "translate",
+      "decipher"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "confuse",
+      "obscure"
+    ],
+    "nounForm": "interpretation",
+    "verbForm": "interpret",
+    "adjectiveForm": "interpreted",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, data analysis, and language translation",
+    "usageTip": "In coding, use 'interpreted' to describe languages like Python or JS.",
+    "commonMistake": "Confusing 'interpret' with 'compile' in the context of programming.",
+    "collocations": [
+      "interpret data",
+      "interpret results",
+      "interpreted language"
+    ]
+  }
+]

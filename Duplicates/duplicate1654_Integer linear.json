@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Integer linear",
+    "meaning": "Relating to math problems where the variables must be whole numbers and the relationships are straight lines",
+    "shortMeaning": "whole-number line math",
+    "example": "We used an integer linear approach to optimize the delivery truck routes.",
+    "example2": "Integer linear equations are harder to solve than regular linear ones.",
+    "example3": "The project requirements specified an integer linear model.",
+    "Explanation": "The term 'integer linear' describes a specific constraint in mathematics. 'Linear' means the relationships between numbers are simple (like a straight line on a graph). 'Integer' means you cannot have half of something. For example, if you are deciding how many buses to buy, it must be an 'integer linear' problem because you cannot buy 2.5 buses. This type of math is used in 'optimization'—finding the best way to do something with limited resources. It is much more difficult for a computer to solve than regular math because it cannot just use 'simple' rounding.",
+    "synonyms": [
+      "discrete linear"
+    ],
+    "antonyms": [
+      "continuous linear"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "integer linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operations research and logistics",
+    "usageTip": "Use this when describing problems that involve counting whole objects (like people, cars, or items).",
+    "commonMistake": "Confusing it with simple linear math where decimals are allowed.",
+    "collocations": [
+      "integer linear programming",
+      "integer linear constraints"
+    ]
+  },
+  {
+    "word": "Integer linear",
+    "meaning": "A type of optimization problem where variables must be integers",
+    "shortMeaning": "Mathematical optimization",
+    "example": "We used integer linear programming to solve the scheduling.",
+    "example2": "The model is based on integer linear equations.",
+    "example3": "Integer linear constraints make the problem harder.",
+    "Explanation": "The term 'integer linear' refers to 'Integer Linear Programming' (ILP), a branch of mathematics and computing where the goal is to optimize a linear function subject to linear constraints, with the requirement that variables must be whole numbers. It is an adjective phrase. These problems are often computationally complex (NP-hard). They are essential for logistics, resource allocation, and scheduling in complex IT systems.",
+    "synonyms": [
+      "discrete linear",
+      "constrained optimization"
+    ],
+    "antonyms": [
+      "continuous"
+    ],
+    "nounForm": "integer linear programming",
+    "verbForm": "N/A",
+    "adjectiveForm": "integer linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Optimization, logistics, math",
+    "usageTip": "Use when discussing optimization with integer constraints.",
+    "commonMistake": "Confusing integer linear programming with standard linear programming.",
+    "collocations": [
+      "integer linear programming",
+      "integer linear model",
+      "integer linear constraints"
+    ]
+  }
+]

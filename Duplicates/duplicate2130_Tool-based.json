@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tool-based",
+    "meaning": "Built or organized around the use of specific software or utilities",
+    "shortMeaning": "uses tools",
+    "example": "This is a tool-based approach to data analysis.",
+    "example2": "We are migrating to a more tool-based workflow.",
+    "example3": "The development environment is highly tool-based.",
+    "Explanation": "A 'tool-based' system or approach relies heavily on specialized software applications to perform tasks, rather than manual processes or generic methods. In software engineering, this might mean using an Integrated Development Environment (IDE) or automated testing suites to manage the workflow. It highlights the importance of the software ecosystem in getting the job done efficiently. Using this term often implies that the tools are a core component of the methodology. It is frequently used in professional development or management discussions.",
+    "synonyms": [
+      "software-driven",
+      "automated",
+      "systematic"
+    ],
+    "antonyms": [
+      "manual",
+      "hand-crafted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "tool-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, software development, workflows",
+    "usageTip": "Use this to emphasize that you are using specific software for efficiency.",
+    "commonMistake": "Using 'tool-based' for something that is simply manual.",
+    "collocations": [
+      "tool-based workflow",
+      "tool-based approach",
+      "tool-based development"
+    ]
+  },
+  {
+    "word": "Tool-based",
+    "meaning": "Relying on specific software tools for a process",
+    "shortMeaning": "software-driven",
+    "example": "The development is tool-based to ensure consistency.",
+    "example2": "We use a tool-based approach for monitoring.",
+    "example3": "This is a strictly tool-based workflow.",
+    "Explanation": "When a process is 'tool-based', it depends on specialized software applications to carry out tasks, rather than manual intervention. This is common in automation, CI/CD pipelines, and project management. A tool-based approach increases efficiency and accuracy by removing human error. It is a preferred method for modern engineering teams to scale work. It signifies that the workflow is supported by dedicated software, rather than just human habits.",
+    "synonyms": [
+      "software-driven",
+      "automated",
+      "methodical"
+    ],
+    "antonyms": [
+      "manual",
+      "hand-coded",
+      "ad-hoc"
+    ],
+    "nounForm": "tool",
+    "verbForm": "N/A",
+    "adjectiveForm": "tool-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workflow, automation, management",
+    "usageTip": "Use to describe workflows that rely heavily on specific software.",
+    "commonMistake": "Over-relying on tools at the expense of understanding the underlying logic.",
+    "collocations": [
+      "tool-based approach",
+      "tool-based workflow",
+      "fully tool-based"
+    ]
+  }
+]

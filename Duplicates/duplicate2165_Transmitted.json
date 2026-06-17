@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transmitted",
+    "meaning": "Sent from one place or person to another",
+    "shortMeaning": "sent",
+    "example": "The file was transmitted securely over the network.",
+    "example2": "We transmitted the signal to the receiving station.",
+    "example3": "The data is transmitted in encrypted packets.",
+    "Explanation": "Transmitted is the past tense of transmit, meaning to send data or a signal from one point to another. This is the foundation of all computer networking. Whether it is sending an email, loading a webpage, or streaming video, data is constantly being transmitted between devices. The speed and security of how data is transmitted are major concerns in IT. It is one of the most fundamental actions in any connected system.",
+    "synonyms": [
+      "sent",
+      "transferred",
+      "broadcast"
+    ],
+    "antonyms": [
+      "received",
+      "retained",
+      "blocked"
+    ],
+    "nounForm": "transmission",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmitted",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking, communication, data transfer",
+    "usageTip": "Use this to describe the action of sending data.",
+    "commonMistake": "Using it for 'received'; always be clear about the direction.",
+    "collocations": [
+      "transmitted data",
+      "securely transmitted",
+      "successfully transmitted"
+    ]
+  },
+  {
+    "word": "Transmitted",
+    "meaning": "Sent from one place or person to another",
+    "shortMeaning": "sent",
+    "example": "The file was transmitted over the network.",
+    "example2": "All logs are transmitted to the central server.",
+    "example3": "He transmitted the secret key safely.",
+    "Explanation": "The word 'transmitted' is the past participle of 'transmit'. It is the basic verb used in networking to describe moving information from source A to destination B. It is the core action of 'transmission'. Whether it is an email, a file, or a signal, if it has been sent, it has been transmitted. It is the most standard word in computing for 'sending' data electronically.",
+    "synonyms": [
+      "sent",
+      "conveyed",
+      "forwarded"
+    ],
+    "antonyms": [
+      "received",
+      "retained",
+      "blocked"
+    ],
+    "nounForm": "transmission",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmitted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, communications, data transfer",
+    "usageTip": "Use 'transmitted' to describe the action of sending data.",
+    "commonMistake": "Using 'transmit' (the verb) instead of 'transmitted' (past tense).",
+    "collocations": [
+      "data transmitted",
+      "transmitted safely",
+      "successfully transmitted"
+    ]
+  }
+]

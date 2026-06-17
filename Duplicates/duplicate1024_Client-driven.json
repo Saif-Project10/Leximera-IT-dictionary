@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Client-driven",
+    "meaning": "Determined or heavily influenced by the needs and demands of the client.",
+    "shortMeaning": "guided by client needs",
+    "example": "Our development process is client-driven, with frequent feedback sessions.",
+    "example2": "A client-driven approach ensures the final product meets user expectations.",
+    "example3": "The market has become more client-driven in recent years.",
+    "Explanation": "'Client-driven' is a compound adjective describing a business, project, or methodology that prioritizes the client's requirements and feedback. It's a customer-centric approach common in service industries, software development (agile methodologies), and consulting. It contrasts with approaches that are technology-driven or vendor-driven. It implies responsiveness, flexibility, and a partnership model. This term is positive in a business context, suggesting that the service provider is attentive and adaptive.",
+    "synonyms": [
+      "customer-centric",
+      "client-focused",
+      "user-driven"
+    ],
+    "antonyms": [
+      "vendor-driven",
+      "technology-driven",
+      "internally-focused"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business strategy, software development, service design",
+    "usageTip": "Hyphenate when used before a noun. It emphasizes that the client is the primary source of direction.",
+    "commonMistake": "Confusing 'client-driven' with 'client-side' (which refers to software running on the user's device).",
+    "collocations": [
+      "client-driven development",
+      "client-driven culture",
+      "highly client-driven"
+    ]
+  },
+  {
+    "word": "Client-driven",
+    "meaning": "Developed, guided, or motivated primarily by the specific demands, requirements, and feedback of the customer or user",
+    "shortMeaning": "motivated by customer needs",
+    "example": "Our development cycle is client-driven, prioritizing the features users request most.",
+    "example2": "The team changed the interface design due to a client-driven request.",
+    "example3": "A client-driven project requires frequent check-ins to ensure alignment.",
+    "Explanation": "The adjective 'client-driven' describes a business process or product development methodology that centers around the customer's explicit desires. Instead of a development team building features based on internal assumptions, a client-driven model responds directly to market feedback or specific client contracts. This approach ensures high satisfaction and market fit but can sometimes lead to scope creep if user demands change frequently. It highlights a reactive and service-oriented development philosophy.",
+    "synonyms": [
+      "customer-centric",
+      "demand-driven",
+      "user-focused",
+      "market-driven"
+    ],
+    "antonyms": [
+      "product-driven",
+      "internally-driven",
+      "technology-driven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Agile project management, software consulting, and freelance agency workflows",
+    "usageTip": "Use 'client-driven' to explain why certain features were prioritized over internal engineering goals.",
+    "commonMistake": "Confusing 'client-driven' with 'client-side'; the former is about business requirements, while the latter is a technical coding location.",
+    "collocations": [
+      "client-driven development",
+      "client-driven requirements",
+      "client-driven approach"
+    ]
+  }
+]

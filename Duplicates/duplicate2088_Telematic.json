@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Telematic",
+    "meaning": "Relating to the integrated use of telecommunications and informatics.",
+    "shortMeaning": "remote-data-system",
+    "example": "The fleet uses telematic devices for tracking.",
+    "example2": "Telematic data helps optimize the delivery routes.",
+    "example3": "The car’s telematic system reported a engine issue.",
+    "Explanation": "Telematics is the branch of IT that combines telecommunications and informatics to transmit data over long distances, often from remote devices to a central server. This is the technology behind vehicle GPS tracking, fleet management, and many 'Internet of Things' (IoT) applications. By collecting data from a moving or remote asset and transmitting it wirelessly, telematics allows for real-time monitoring and analysis of remote systems.",
+    "synonyms": [
+      "remote-tracking",
+      "telemetry-based"
+    ],
+    "antonyms": [
+      "stationary",
+      "non-networked"
+    ],
+    "nounForm": "telematics",
+    "verbForm": "N/A",
+    "adjectiveForm": "telematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "IoT, fleet management, automotive",
+    "usageTip": "Use 'telematic' for remote data tracking systems.",
+    "commonMistake": "Confusing 'telematic' with 'telemetric' (they are related, but telematics includes informatics).",
+    "collocations": [
+      "telematic devices",
+      "telematic data",
+      "telematic system"
+    ]
+  },
+  {
+    "word": "Telematic",
+    "meaning": "Relating to the branch of information technology that deals with the long-distance transmission of computerized information",
+    "shortMeaning": "long-distance data transmission",
+    "example": "The vehicle has a telematic system for tracking.",
+    "example2": "He is an expert in telematic services.",
+    "example3": "Telematic data helps in improving logistics.",
+    "Explanation": "The word 'telematic' combines telecommunications and informatics. It refers to systems that collect and transmit data over a network, often from mobile devices or vehicles to a central system. It is widely used in automotive, fleet management, and shipping industries to track location and vehicle health. As an adjective, it modifies systems that perform this data exchange. It is a highly specialized term in the world of IoT and logistics.",
+    "synonyms": [
+      "remote-tracking",
+      "networked",
+      "data-transmission"
+    ],
+    "antonyms": [
+      "N/A",
+      "local",
+      "offline"
+    ],
+    "nounForm": "telematics",
+    "verbForm": "N/A",
+    "adjectiveForm": "telematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automotive, logistics, IoT, fleet management",
+    "usageTip": "Use 'telematic' when talking about tracking or monitoring systems from a distance.",
+    "commonMistake": "Confusing it with generic 'telecommunications'; it specifically involves informatics/computing.",
+    "collocations": [
+      "telematic system",
+      "telematic data",
+      "telematic service"
+    ]
+  }
+]

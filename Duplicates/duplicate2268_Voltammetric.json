@@ -1,0 +1,55 @@
+[
+  {
+    "word": "Voltammetric",
+    "meaning": "Related to measuring the current in an electrochemical cell",
+    "shortMeaning": "electrochemical-measuring",
+    "example": "The sensor uses voltammetric analysis to detect chemical changes.",
+    "example2": "He recorded the voltammetric data for the experiment.",
+    "example3": "The lab equipment provides high-precision voltammetric readings.",
+    "Explanation": "Voltammetric refers to a class of methods used in analytical chemistry where the current is measured while the potential is varied. In IT and hardware engineering, this is used in specialized sensors (like glucose monitors or environmental sensors) that send data to a computer for processing. The software must handle these specific electrical data streams to derive meaningful results. It is highly specialized terminology found in scientific computing, lab automation software, and advanced hardware engineering. Do not use this for general IT work.",
+    "synonyms": [
+      "electrochemical"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "voltammetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "voltammetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Scientific computing, sensors, lab software",
+    "usageTip": "Use only when discussing specific electrochemical hardware.",
+    "commonMistake": "Confusing 'voltammetric' with 'volumetric'.",
+    "collocations": [
+      "voltammetric analysis",
+      "voltammetric sensor"
+    ]
+  },
+  {
+    "word": "Voltammetric",
+    "meaning": "Relating to a method of analysis that measures current as a function of applied voltage.",
+    "shortMeaning": "measuring current vs voltage",
+    "example": "The sensor uses voltammetric analysis to detect chemicals.",
+    "example2": "We recorded the voltammetric response of the electrode.",
+    "example3": "Voltammetric sensors are used in medical diagnostic tools.",
+    "Explanation": "Voltammetric refers to electroanalytical techniques where the current is measured while the voltage is varied. In IT, this is primarily relevant in the design of high-tech chemical sensors, biomedical devices, and laboratory automation. These devices feed data into software that processes the current-voltage relationship. It is a highly specialized field at the intersection of chemistry and embedded systems. You will likely only encounter this in scientific instrumentation software.",
+    "synonyms": [
+      "electroanalytical"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "voltammetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "voltammetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Scientific instrumentation, sensors, chemistry",
+    "usageTip": "Use this in the context of electrochemical sensors.",
+    "commonMistake": "Confusing it with simple voltage measuring (voltmeter).",
+    "collocations": [
+      "voltammetric analysis",
+      "voltammetric sensor",
+      "voltammetric response"
+    ]
+  }
+]

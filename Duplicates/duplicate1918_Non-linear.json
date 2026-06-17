@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Non-linear",
+    "meaning": "Not following a straight line; progression that accelerates or changes",
+    "shortMeaning": "not straight line",
+    "example": "The growth in user traffic has been non-linear.",
+    "example2": "The algorithm uses non-linear equations for better precision.",
+    "example3": "Project complexity often follows a non-linear path.",
+    "Explanation": "In IT, 'non-linear' describes growth or processes that do not increase at a constant rate. In data analysis, non-linear models can handle more complex patterns than simple linear ones. In project management, you might find that adding more developers does not lead to a linear increase in productivity (the 'Mythical Man-Month'). Recognizing non-linear patterns is essential for accurate forecasting, scaling your infrastructure, and choosing the right mathematical models for your software.",
+    "synonyms": [
+      "curved",
+      "complex",
+      "variable"
+    ],
+    "antonyms": [
+      "linear",
+      "straight",
+      "constant"
+    ],
+    "nounForm": "non-linearity",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis and growth",
+    "usageTip": "Use 'non-linear' for patterns that do not change at a steady rate.",
+    "commonMistake": "Applying linear logic to a non-linear situation; this leads to bad planning.",
+    "collocations": [
+      "non-linear growth",
+      "non-linear model",
+      "non-linear pattern"
+    ]
+  },
+  {
+    "word": "Non-linear",
+    "meaning": "Not changing in a straight, proportional, or predictable way",
+    "shortMeaning": "not straight or proportional",
+    "example": "The system response is non-linear under high load.",
+    "example2": "Machine learning models often rely on non-linear activation functions.",
+    "example3": "This is a non-linear scale of growth.",
+    "Explanation": "The term 'non-linear' describes things that do not follow a simple, straight-line path. In math, it means the change is not proportional to the input. In IT and electronics, a 'non-linear' system is more complex because its output depends on more than just a direct multiplier of the input. Most real-world complex systems are 'non-linear', which is why they are often difficult to predict without advanced models or simulations.",
+    "synonyms": [
+      "curved",
+      "complex",
+      "disproportionate"
+    ],
+    "antonyms": [
+      "linear",
+      "straight",
+      "proportional"
+    ],
+    "nounForm": "non-linearity",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-linear",
+    "partOfSpeech": "adjective",
+    "commonContext": "Math, machine learning, physics",
+    "usageTip": "Use when growth or output isn't directly proportional.",
+    "commonMistake": "Confusing 'non-linear' (complex) with 'wrong'; it is just a mathematical characteristic.",
+    "collocations": [
+      "non-linear system",
+      "non-linear growth",
+      "non-linear relationship"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "word": "Bang",
+    "meaning": "A sudden loud noise; or to hit something forcefully.",
+    "shortMeaning": "loud noise; hit hard",
+    "example": "The balloon popped with a loud bang.",
+    "example2": "Don't bang the door when you leave.",
+    "example3": "He banged his knee on the table.",
+    "Explanation": "'Bang' is both a noun (describing a loud explosive sound) and a verb (meaning to hit or strike forcefully). As an interjection, it can represent a sudden sound. It's an onomatopoeic word - it sounds like what it describes. It's informal and often used in everyday speech for collisions, explosions, or forceful impacts. It can also mean 'exactly' in phrases like 'bang on time'. It's a simple, vivid word for sudden noise or impact.",
+    "synonyms": [
+      "boom",
+      "crash",
+      "thump",
+      "smack"
+    ],
+    "antonyms": [
+      "whisper",
+      "tap",
+      "gentle touch"
+    ],
+    "nounForm": "bang",
+    "verbForm": "bang",
+    "adjectiveForm": "banging",
+    "partOfSpeech": "noun, verb, interjection",
+    "commonContext": "Sounds, accidents, collisions, informal speech",
+    "usageTip": "Often used with doors: 'bang the door', 'the door banged shut'.",
+    "commonMistake": "Confusing with 'bank' (financial institution). They sound similar but have different meanings.",
+    "collocations": [
+      "big bang",
+      "bang on time",
+      "bang your head"
+    ]
+  },
+  {
+    "word": "Bang",
+    "meaning": "A sudden loud noise or a sharp blow",
+    "shortMeaning": "loud noise / hit",
+    "example": "The door closed with a loud bang.",
+    "example2": "Don't bang your head on the low ceiling.",
+    "example3": "In programming, the '!' symbol is often called a bang.",
+    "Explanation": "In daily life, a bang is an impact or a sound. However, in the world of IT and coding, 'bang' is the nickname for the exclamation mark (!). You might hear developers talk about a 'Shebang' (#!) at the start of scripts, or use 'bang' for 'not' in logic (e.g., !true is 'bang true'). It is a quick, informal way to refer to that specific character in a technical context.",
+    "synonyms": [
+      "thud",
+      "crash",
+      "explosion"
+    ],
+    "antonyms": [
+      "whisper",
+      "silence"
+    ],
+    "commonContext": "General sounds and programming terminology",
+    "usageTip": "Use 'bang' when reading code aloud to someone: '!found' becomes 'bang found'.",
+    "partOfSpeech": "noun / verb"
+  }
+]

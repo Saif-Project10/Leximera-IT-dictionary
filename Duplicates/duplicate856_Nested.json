@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Nested",
+    "meaning": "Placed or fitted closely inside something else, like a set of boxes.",
+    "shortMeaning": "fitted inside something else",
+    "example": "The data is organized in nested folders.",
+    "example2": "The bird nested in the old oak tree.",
+    "example3": "A nested loop in programming is a loop inside another loop.",
+    "Explanation": "Nested is the past participle of the verb 'nest', used as an adjective. It describes objects, structures, or data arranged in layers where each is contained within the next. Think of Russian dolls. In computing, 'nested' elements (like loops, functions, or HTML tags) are enclosed within others, creating hierarchy. In nature, birds nest. The word implies a structured, layered organization. Nested designs are efficient for storage and create clear parent-child relationships in data. It's a common term in programming, data organization, and design.",
+    "synonyms": [
+      "embedded",
+      "encased",
+      "enclosed",
+      "layered",
+      "hierarchical"
+    ],
+    "antonyms": [
+      "flat",
+      "linear",
+      "unstructured"
+    ],
+    "nounForm": "nest",
+    "verbForm": "nest",
+    "adjectiveForm": "nested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, data structures, biology, storage",
+    "usageTip": "In programming, 'nested if statements' or 'nested loops' are common constructs.",
+    "commonMistake": "Confusing 'nested' with 'nestled'. Nested means fitted inside; nestled means settled snugly.",
+    "collocations": [
+      "nested structure",
+      "nested loop",
+      "nested within",
+      "deeply nested"
+    ]
+  },
+  {
+    "word": "Nested",
+    "meaning": "Placed one inside another",
+    "shortMeaning": "inside another",
+    "example": "The code uses nested loops for the calculation.",
+    "example2": "We have nested folders for organizing project files.",
+    "example3": "The HTML tags are properly nested.",
+    "Explanation": "The word 'nested' describes structures that are placed inside one another, like Russian dolls. In programming, nested loops, nested functions, or nested conditions are very common. It is also used in file systems (nested folders) and data formats like JSON (nested objects). While nesting is necessary for complex data, 'too much nesting' can make code difficult to read and maintain. Understanding nesting is essential for controlling program flow and data structure.",
+    "synonyms": [
+      "embedded",
+      "contained",
+      "layered"
+    ],
+    "antonyms": [
+      "flat",
+      "sequential"
+    ],
+    "nounForm": "nesting",
+    "verbForm": "nest",
+    "adjectiveForm": "nested",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming, data structure, files",
+    "usageTip": "Use to describe objects or code blocks placed inside others.",
+    "commonMistake": "Creating 'deep nesting', which makes code hard to understand.",
+    "collocations": [
+      "nested loops",
+      "nested objects",
+      "nested folders"
+    ]
+  }
+]

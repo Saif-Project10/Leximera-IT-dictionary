@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Obsolete",
+    "meaning": "No longer produced or used; out of date.",
+    "shortMeaning": "out of date; no longer used",
+    "example": "Floppy disks are now obsolete technology.",
+    "example2": "That manufacturing process became obsolete years ago.",
+    "example3": "Many job skills can become obsolete quickly.",
+    "Explanation": "Obsolete describes something that is no longer in use or has been replaced by something newer and better. It implies not just old, but discarded due to irrelevance or inefficiency. The word can apply to technology, methods, words, or ideas. 'Obsolescence' is the process of becoming obsolete. Planned obsolescence is a business strategy. The word carries a sense of finality; an obsolete thing is not just old-fashioned, it's functionally superseded. It's a stronger term than 'outdated'. In a fast-changing world, avoiding obsolescence is a constant challenge.",
+    "synonyms": [
+      "outdated",
+      "outmoded",
+      "disused",
+      "archaic",
+      "antiquated"
+    ],
+    "antonyms": [
+      "current",
+      "modern",
+      "up-to-date",
+      "contemporary"
+    ],
+    "nounForm": "obsolescence",
+    "verbForm": "obsolesce",
+    "adjectiveForm": "obsolete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, equipment, words, methods, skills",
+    "usageTip": "Often used to describe technology or methods that have been completely replaced.",
+    "commonMistake": "Confusing 'obsolete' with 'old'. Something old might still work; something obsolete has been replaced and is no longer functional in the current context.",
+    "collocations": [
+      "obsolete equipment",
+      "render obsolete",
+      "become obsolete",
+      "technologically obsolete"
+    ]
+  },
+  {
+    "word": "Obsolete",
+    "meaning": "No longer produced or used; out of date",
+    "shortMeaning": "outdated",
+    "example": "That software version is now obsolete and unsupported.",
+    "example2": "The old hardware was made obsolete by new technology.",
+    "example3": "We need to replace the obsolete security protocol.",
+    "Explanation": "The word 'obsolete' describes technology, tools, or methods that have been replaced by newer, better versions. In the fast-paced world of IT, things become 'obsolete' very quickly. When something is obsolete, it often poses a security risk because it no longer receives updates or patches. Maintaining obsolete systems is generally discouraged because it creates technical debt and prevents the adoption of modern, more efficient solutions.",
+    "synonyms": [
+      "outdated",
+      "archaic",
+      "deprecated"
+    ],
+    "antonyms": [
+      "modern",
+      "current",
+      "state-of-the-art"
+    ],
+    "nounForm": "obsolescence",
+    "verbForm": "N/A",
+    "adjectiveForm": "obsolete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software lifecycles and hardware upgrades",
+    "usageTip": "Use 'obsolete' when something is no longer useful or supported.",
+    "commonMistake": "Confusing 'obsolete' with 'broken' (it might work, but is just outdated).",
+    "collocations": [
+      "obsolete software",
+      "technologically obsolete",
+      "become obsolete"
+    ]
+  }
+]

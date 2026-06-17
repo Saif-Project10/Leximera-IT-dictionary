@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Happen by chance",
+    "meaning": "To occur without any apparent cause or design; to be accidental.",
+    "shortMeaning": "occur accidentally",
+    "example": "We didn't plan to meet; it just happened by chance.",
+    "example2": "The discovery of penicillin happened by chance.",
+    "example3": "It happened by chance that they were both reading the same book.",
+    "Explanation": "Happen by chance describes events that are random, coincidental, or unplanned. It emphasizes that no one intended or foresaw the occurrence. This phrase is used for both minor coincidences and major historical accidents (serendipitous discoveries). It attributes the event to luck, fate, or randomness. It's a common phrase to express surprise or to explain the lack of planning behind a fortunate or interesting event. The phrase 'by chance' is key, and it's often used with 'just' for emphasis ('it just happened by chance').",
+    "synonyms": [
+      "occur accidentally",
+      "be a coincidence",
+      "be fortuitous",
+      "be serendipitous"
+    ],
+    "antonyms": [
+      "be planned",
+      "be intentional",
+      "be deliberate",
+      "be arranged"
+    ],
+    "nounForm": "chance happening",
+    "verbForm": "happen by chance",
+    "adjectiveForm": "chance",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Coincidences, discoveries, meetings, everyday surprises",
+    "usageTip": "A very natural phrase in spoken English to describe unplanned events.",
+    "commonMistake": "Confusing 'by chance' with 'by accident'; 'by chance' is neutral/positive, 'by accident' often implies a mistake.",
+    "collocations": [
+      "just happened by chance",
+      "pure happen by chance",
+      "if you happen by chance to"
+    ]
+  },
+  {
+    "word": "Happen by chance",
+    "meaning": "When something occurs without being planned or intentional",
+    "shortMeaning": "occur accidentally",
+    "example": "Finding that bug in the code seemed to happen by chance.",
+    "example2": "The two developers met at the conference, but it didn't happen by chance.",
+    "example3": "We cannot let security happen by chance; we need a plan.",
+    "Explanation": "This phrase describes events that are accidental or lucky. In IT, we try to avoid letting things 'happen by chance'. We want our code to be 'deterministic', meaning it does exactly what we expect every time. However, sometimes a random series of user actions might 'happen by chance' and reveal a hidden problem. It is a common phrase used to describe luck, coincidence, or random events in a project.",
+    "synonyms": [
+      "occur randomly",
+      "coincide",
+      "happen accidentally"
+    ],
+    "antonyms": [
+      "plan",
+      "design",
+      "intend"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "happen by chance",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Daily conversation and project outcomes",
+    "usageTip": "Use this phrase to describe accidental discoveries or unplanned meetings.",
+    "commonMistake": "Thinking things in a computer 'happen by chance'; usually, there is a hidden logic or bug.",
+    "collocations": [
+      "did not happen by chance",
+      "unlikely to happen by chance",
+      "N/A"
+    ]
+  }
+]

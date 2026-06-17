@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Inappropriate",
+    "meaning": "Not suitable or proper for a particular situation or person.",
+    "shortMeaning": "not suitable",
+    "example": "His comments at the funeral were completely inappropriate.",
+    "example2": "Jeans are inappropriate attire for a formal wedding.",
+    "example3": "Sharing confidential information is inappropriate behavior.",
+    "Explanation": "Inappropriate describes actions, words, clothing, or behavior that are not acceptable or fitting for the social context. It implies a violation of norms, rules, or expectations of decency. It is a common word for giving corrective feedback in professional and social settings. The word carries a judgment that something is wrong for the situation. It is more formal than 'wrong' and focuses on suitability. The prefix 'in-' means 'not', so it's the opposite of 'appropriate'.",
+    "synonyms": [
+      "unsuitable",
+      "unfitting",
+      "improper",
+      "unseemly",
+      "tasteless"
+    ],
+    "antonyms": [
+      "appropriate",
+      "suitable",
+      "fitting",
+      "proper"
+    ],
+    "nounForm": "inappropriateness",
+    "verbForm": "N/A",
+    "adjectiveForm": "inappropriate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social behavior, workplace conduct, dress codes, language",
+    "usageTip": "Often used with 'for' (inappropriate for the occasion) or 'to' (inappropriate to joke about).",
+    "commonMistake": "Overusing it for minor issues; it's best for clear violations of social or professional norms.",
+    "collocations": [
+      "highly inappropriate",
+      "socially inappropriate",
+      "inappropriate content",
+      "deem inappropriate"
+    ]
+  },
+  {
+    "word": "Inappropriate",
+    "meaning": "Not suitable or proper for a given situation",
+    "shortMeaning": "not suitable",
+    "example": "Using public variables for sensitive data is inappropriate.",
+    "example2": "The software displayed an inappropriate error message to the user.",
+    "example3": "It is inappropriate to hard-code credentials in the source files.",
+    "Explanation": "The word 'inappropriate' describes behavior, design choices, or content that is not suitable for the current professional context. In coding, you might call a specific library 'inappropriate' for a task if it is bloated or insecure. In team interactions, inappropriate communication is unprofessional. It is a strong word that implies someone or something is behaving outside of expected norms or standards.",
+    "synonyms": [
+      "unsuitable",
+      "improper",
+      "unprofessional"
+    ],
+    "antonyms": [
+      "appropriate",
+      "suitable",
+      "proper"
+    ],
+    "nounForm": "inappropriateness",
+    "verbForm": "N/A",
+    "adjectiveForm": "inappropriate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Professional ethics, coding standards, UI design",
+    "usageTip": "Use 'inappropriate' to highlight something that violates standards or propriety.",
+    "commonMistake": "Using 'inappropriate' to describe a technical failure (it is more for style or standards).",
+    "collocations": [
+      "inappropriate use",
+      "inappropriate content",
+      "entirely inappropriate"
+    ]
+  }
+]

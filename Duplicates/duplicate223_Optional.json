@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Optional",
+    "meaning": "Available to be chosen but not required",
+    "shortMeaning": "not compulsory",
+    "example": "The hotel offers an optional breakfast service.",
+    "example2": "Wearing a tie is optional for this event.",
+    "example3": "This advanced module is optional for computer science students.",
+    "Explanation": "Optional means something you can choose to do or have, but you don't have to. It's the opposite of mandatory or compulsory. This word is frequently seen in forms, menus, course descriptions, and software installations. It gives people choice and flexibility. Understanding what is optional versus required is important for following instructions correctly. In product features, optional extras often cost more. It's a simple but very practical word in everyday and technical language.",
+    "synonyms": [
+      "voluntary",
+      "elective",
+      "discretionary"
+    ],
+    "antonyms": [
+      "compulsory",
+      "mandatory",
+      "required",
+      "essential"
+    ],
+    "nounForm": "option",
+    "verbForm": "opt",
+    "adjectiveForm": "optional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Forms, courses, purchases, settings, events",
+    "usageTip": "It often comes before a noun: 'optional feature', 'optional field'.",
+    "commonMistake": "Thinking 'optional' means 'unimportant'. It just means 'not required'.",
+    "collocations": [
+      "optional extra",
+      "optional subject",
+      "purely optional"
+    ]
+  },
+  {
+    "word": "Optional",
+    "meaning": "Not required; left to the choice of the user.",
+    "shortMeaning": "not mandatory",
+    "example": "Providing your email address is optional.",
+    "example2": "The software has many optional features you can enable.",
+    "example3": "We made the profile picture optional for privacy.",
+    "Explanation": "Something that is optional does not have to be done or provided. It offers the user flexibility and control over how they use a service. In programming, parameters can be set as optional, meaning the code will work even if they are not provided. This makes functions more versatile. It is important to label optional fields clearly in UI designs so users know they can skip them.",
+    "synonyms": [
+      "voluntary",
+      "non-compulsory",
+      "elective"
+    ],
+    "antonyms": [
+      "mandatory",
+      "required",
+      "compulsory"
+    ],
+    "nounForm": "option",
+    "verbForm": "N/A",
+    "adjectiveForm": "optional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Forms, programming, settings",
+    "usageTip": "Use 'optional' to describe inputs that are not strictly necessary.",
+    "commonMistake": "Forgetting to label optional fields, causing user confusion.",
+    "collocations": [
+      "optional field",
+      "optional feature",
+      "make it optional"
+    ]
+  }
+]

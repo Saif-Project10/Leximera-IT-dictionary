@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Inadvertent",
+    "meaning": "Not resulting from or achieved through deliberate planning; unintentional",
+    "shortMeaning": "unintentional (often careless)",
+    "example": "He made an inadvertent error in the report.",
+    "example2": "The inadvertent disclosure of the email caused a scandal.",
+    "example3": "Her inadvertent comment revealed the secret.",
+    "Explanation": "Inadvertent describes an action done without thinking or through carelessness. It implies a lack of attention rather than a pure accident of fate. It's a more formal synonym for 'accidental' and often carries a slight nuance of blameworthy oversight. For example, an 'inadvertent leak' suggests someone wasn't being careful enough. The adverb is 'inadvertently'. It's commonly used in official, business, or technical contexts to describe mistakes or outcomes that were not meant to happen but perhaps should have been avoided with more care.",
+    "synonyms": [
+      "unintentional",
+      "accidental",
+      "unthinking",
+      "unwitting"
+    ],
+    "antonyms": [
+      "deliberate",
+      "intentional",
+      "conscious",
+      "calculated"
+    ],
+    "nounForm": "inadvertence",
+    "verbForm": "N/A",
+    "adjectiveForm": "inadvertent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Official reports, business errors, legal contexts",
+    "usageTip": "Use this word for mistakes that happen due to a lack of attention, not just random chance.",
+    "commonMistake": "Using it as a fancier word for any accident; it specifically suggests oversight.",
+    "collocations": [
+      "inadvertent mistake",
+      "inadvertent consequence",
+      "inadvertently left"
+    ]
+  },
+  {
+    "word": "Inadvertent",
+    "meaning": "Happening by accident or without planning",
+    "shortMeaning": "accidental",
+    "example": "The system crash was an inadvertent result of the recent update.",
+    "example2": "He made an inadvertent change to the configuration file.",
+    "example3": "We must prevent inadvertent data deletion during the migration.",
+    "Explanation": "The word 'inadvertent' is a more formal way to say 'accidental.' It is very common in professional environments to describe errors that were made without meaning to. For example, 'I made an inadvertent mistake' sounds more professional than 'I messed up.' It emphasizes that the error was not malicious or intentional. Using this word helps take ownership of mistakes while framing them as honest, accidental oversights.",
+    "synonyms": [
+      "accidental",
+      "unintended",
+      "unintentional"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "planned"
+    ],
+    "nounForm": "inadvertence",
+    "verbForm": "N/A",
+    "adjectiveForm": "inadvertent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Error reporting, development, documentation",
+    "usageTip": "Use 'inadvertent' to explain that an error was not done on purpose.",
+    "commonMistake": "Using 'inadvertent' to explain away negligence (use it only for honest mistakes).",
+    "collocations": [
+      "inadvertent error",
+      "inadvertent change",
+      "inadvertent mistake"
+    ]
+  }
+]

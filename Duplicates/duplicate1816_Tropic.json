@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Tropic",
+    "meaning": "Relating to the warm areas of the world near the equator",
+    "shortMeaning": "warm/equatorial",
+    "example": "Many colorful birds live in the tropic regions of South America.",
+    "example2": "The tropic zone is known for its high humidity.",
+    "example3": "He studied the plants found in the tropic forests.",
+    "Explanation": "The word 'tropic' refers to the regions of the Earth that lie between the Tropic of Cancer and the Tropic of Capricorn. This area is characterized by warm temperatures and significant rainfall throughout the year. In a technical sense, it relates to the geography and climate of the equatorial belt. The term is also used in a medical context (e.g., 'tropic hormones') but in general vocabulary, it almost always refers to the hot, lush parts of the world. It is the root for the more common word 'tropical.' Understanding the tropics is key to geography, ecology, and climate science. People often use it to describe a vacation-like, sunny atmosphere.",
+    "synonyms": [
+      "tropical",
+      "equatorial",
+      "torrid"
+    ],
+    "antonyms": [
+      "polar",
+      "arctic",
+      "temperate"
+    ],
+    "nounForm": "tropics",
+    "verbForm": "N/A",
+    "adjectiveForm": "tropic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Geography, weather, and travel",
+    "usageTip": "Use 'tropic' as an adjective for regions or 'the tropics' as a noun for the area.",
+    "commonMistake": "Confusing 'tropic' with 'topic' (a subject).",
+    "collocations": [
+      "tropic zone",
+      "tropic of cancer",
+      "tropic weather"
+    ]
+  },
+  {
+    "word": "Tropic",
+    "meaning": "Relating to the tropics or, in specific computing contexts, a type of climate-controlled environment for servers.",
+    "shortMeaning": "tropical/climate-related",
+    "example": "The server room requires climate control similar to a tropic environment.",
+    "example2": "Tropic humidity levels can affect hardware lifespan.",
+    "example3": "They studied the effect of tropic heat on data centers.",
+    "Explanation": "The word 'tropic' usually refers to the warm regions of the Earth near the equator. In an IT context, it is occasionally used to describe the harsh environmental conditions (high heat and humidity) that data centers in those regions face. It is generally used as an adjective. It is important to differentiate between the geographical meaning and the environmental impact on hardware. Its noun form is 'tropics'.",
+    "synonyms": [
+      "tropical",
+      "warm",
+      "humid"
+    ],
+    "antonyms": [
+      "arctic",
+      "temperate",
+      "cold"
+    ],
+    "nounForm": "tropics",
+    "verbForm": "N/A",
+    "adjectiveForm": "tropic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Environmental hardware requirements and geography",
+    "usageTip": "Use 'tropic' to discuss environmental conditions that affect hardware stability.",
+    "commonMistake": "Confusing it with 'topic' (a subject of discussion).",
+    "collocations": [
+      "tropic conditions",
+      "tropic climate",
+      "tropic heat"
+    ]
+  },
+  {
+    "word": "Tropic",
+    "meaning": "Related to the region between the equator and tropics",
+    "shortMeaning": "regional climate",
+    "example": "The data center has specific requirements in tropic regions.",
+    "example2": "Tropic humidity can affect electronic hardware.",
+    "example3": "Heat dissipation is faster in non-tropic climates.",
+    "Explanation": "Tropic refers to geographical or climatic zones near the equator. In IT infrastructure, this relates to humidity and temperature control for servers. Equipment installed in tropic areas must have advanced cooling and moisture protection. While not a programming term, it is vital for logistics and hardware installation. It impacts maintenance schedules and equipment selection for remote sites.",
+    "synonyms": [
+      "equatorial",
+      "humid",
+      "tropical"
+    ],
+    "antonyms": [
+      "arctic",
+      "temperate"
+    ],
+    "nounForm": "tropics",
+    "verbForm": "N/A",
+    "adjectiveForm": "tropic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware logistics, facility management",
+    "usageTip": "Use this when discussing infrastructure deployment in hot/humid countries.",
+    "commonMistake": "Confusing it with general warm weather; it implies specific humidity challenges.",
+    "collocations": [
+      "tropic climate",
+      "tropic region",
+      "tropic heat"
+    ]
+  }
+]

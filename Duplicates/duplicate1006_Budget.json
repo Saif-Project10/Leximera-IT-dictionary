@@ -1,0 +1,81 @@
+[
+  {
+    "word": "Budget",
+    "meaning": "1. An estimate of income and expenditure for a set period of time. 2. Inexpensive.",
+    "shortMeaning": "financial plan or inexpensive",
+    "example": "We need to create a monthly household budget.",
+    "example2": "They traveled on a tight budget.",
+    "example3": "This store sells budget smartphones.",
+    "Explanation": "'Budget' is a key noun, verb, and adjective in finance and planning. As a noun, it's a plan for managing money. As a verb, it means to allocate money for specific purposes ('budget for'). As an adjective, it means low-cost. Managing a budget is a fundamental life and business skill. A 'budget' implies limits and careful planning. The word is used in personal finance, government, and companies. Staying within budget is a common goal. It emphasizes control and foresight with resources.",
+    "synonyms": [
+      "financial plan, allowance (noun); allocate (verb); economical, low-cost (adj)"
+    ],
+    "antonyms": [
+      "overspend (verb); expensive, luxury (adj)"
+    ],
+    "nounForm": "budget",
+    "verbForm": "budget",
+    "adjectiveForm": "budget",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Personal finance, business, government, shopping",
+    "usageTip": "Use as a noun ('stick to your budget'), verb ('budget $100 for food'), or adjective ('budget airline').",
+    "commonMistake": "Thinking 'budget' always means 'cheap'. As a noun, it's a plan, which can be for any amount of money.",
+    "collocations": [
+      "tight budget",
+      "on a budget",
+      "budget constraints"
+    ]
+  },
+  {
+    "word": "Budget",
+    "meaning": "An estimation of revenue and expenses over a specified future period",
+    "shortMeaning": "financial plan",
+    "example": "The project budget does not allow for extra premium plugins.",
+    "example2": "We need to set a strict budget for marketing our new app.",
+    "example3": "The client approved the final budget for the software development.",
+    "Explanation": "The word 'budget' refers to a detailed plan outlining how money will be spent and earned. In project management and IT freelance work, establishing a budget ensures that development costs do not exceed available funds. It covers hardware, hosting, software licenses, and developer salaries. Managing a budget carefully prevents projects from failing due to sudden financial shortages.",
+    "synonyms": [
+      "financial plan",
+      "allowance",
+      "funding"
+    ],
+    "antonyms": [
+      "extravagance",
+      "unplanned spending",
+      "N/A"
+    ],
+    "nounForm": "budget",
+    "verbForm": "budget",
+    "adjectiveForm": "budgetary",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project planning, business management, and freelance client agreements",
+    "usageTip": "Use 'budget' as a verb when planning expenses, e.g., 'We must budget for server hosting.'",
+    "commonMistake": "Confusing 'budget' with total cost; a budget is a limit or plan, not just the final price.",
+    "collocations": [
+      "project budget",
+      "tight budget",
+      "budget allocation"
+    ]
+  },
+  {
+    "word": "Budget",
+    "meaning": "A plan for how much money can be spent, or the total amount available",
+    "shortMeaning": "spending plan",
+    "example": "We need to stay within the budget for the new website project.",
+    "example2": "Do you have a monthly budget for your electricity bills?",
+    "example3": "The film had a very large marketing budget.",
+    "Explanation": "A budget is a limit. It helps people and companies not spend more than they have. In IT, we also talk about a 'Performance Budget' (e.g., 'The home page must not be larger than 2MB'). It acts as a constraint that forces you to be efficient. Whether it is money, time, or file size, a budget keeps a project under control.",
+    "synonyms": [
+      "allowance",
+      "financial plan",
+      "allocation"
+    ],
+    "antonyms": [
+      "overspending",
+      "extravagance"
+    ],
+    "commonContext": "Finance, project management, and web performance",
+    "usageTip": "Setting a 'Time Budget' for each feature helps you finish your coding projects on time.",
+    "partOfSpeech": "noun / verb"
+  }
+]

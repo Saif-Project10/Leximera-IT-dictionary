@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Swap",
+    "meaning": "To exchange or trade one thing for another",
+    "shortMeaning": "exchange",
+    "example": "Let's swap seats so you can see the screen better.",
+    "example2": "They swapped stories about their travels.",
+    "example3": "I'll swap my apple for your orange.",
+    "Explanation": "'Swap' is a common, informal verb and noun meaning a mutual exchange. It implies a direct trade where both parties give and receive something, often similar in type or value. It's used for both physical objects (books, clothes) and non-physical things (ideas, roles, experiences). As a noun, it refers to the act or an instance of swapping (e.g., 'a fair swap'). The word is concise and friendly, suitable for casual conversation. In finance, a 'swap' is a specific derivative contract, but the general meaning of exchange remains core.",
+    "synonyms": [
+      "exchange",
+      "trade",
+      "switch",
+      "interchange"
+    ],
+    "antonyms": [
+      "keep",
+      "retain",
+      "hold"
+    ],
+    "nounForm": "swap",
+    "verbForm": "swap",
+    "adjectiveForm": "swappable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Everyday exchanges, computing (swap memory), finance",
+    "usageTip": "It's often used in the pattern 'swap A for B' or 'swap A with B'.",
+    "commonMistake": "Misspelling it as 'swop' (a less common variant) or confusing it with 'shop'.",
+    "collocations": [
+      "swap places",
+      "swap files",
+      "swap stories",
+      "swap meet"
+    ]
+  },
+  {
+    "word": "Swap",
+    "meaning": "To exchange one item, file, data value, or component directly for another alternate option",
+    "shortMeaning": "exchange one for another",
+    "example": "In sorting algorithms, you often need to swap the positions of two numbers inside an array.",
+    "example2": "We can swap the old layout design for a new responsive interface to improve mobile usability.",
+    "example3": "The system will swap data from the fast RAM into the slower hard drive space when memory fills up completely.",
+    "Explanation": "The word 'swap' acts as both a verb and a noun. It describes a clean, direct exchange where object A takes the place of object B, and object B goes to where object A was located. In basic coding logic, swapping variables is a fundamental exercise that often requires a temporary third variable to hold data safely during the transfer. In Linux operating systems, 'swap space' is an allocated portion of a hard drive used as backup memory when physical RAM is entirely exhausted. It is a common, informal but highly technical term used daily.",
+    "synonyms": [
+      "exchange",
+      "trade",
+      "switch",
+      "interchange"
+    ],
+    "antonyms": [
+      "keep",
+      "hold",
+      "maintain"
+    ],
+    "nounForm": "swap / swapping",
+    "verbForm": "swap",
+    "adjectiveForm": "swappable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Variable value manipulation, operating system virtual memory partitions, and graphic design layout replacements",
+    "usageTip": "Use 'swap' when talking about code logic where two array elements change their index positions directly.",
+    "commonMistake": "Forgetting that swapping variables requires care; if you assign A to B directly without a backup variable, you will lose A's original data value.",
+    "collocations": [
+      "swap variables",
+      "swap space",
+      "hot-swap components"
+    ]
+  }
+]

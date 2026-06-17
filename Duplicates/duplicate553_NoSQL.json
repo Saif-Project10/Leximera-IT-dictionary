@@ -1,0 +1,60 @@
+[
+  {
+    "word": "NoSQL",
+    "meaning": "A broad class of database management systems that differ from traditional relational databases (SQL) in that they are often schema-less and designed for scalability and flexible data models.",
+    "shortMeaning": "non-relational databases",
+    "example": "For handling large volumes of social media data, a NoSQL database like Cassandra is a good fit.",
+    "example2": "NoSQL databases are often used in big data and real-time web applications.",
+    "example3": "The choice between SQL and NoSQL depends on the data structure and application needs.",
+    "Explanation": "NoSQL stands for 'Not Only SQL.' It encompasses a variety of database technologies created to handle massive scale, agility, and diverse data forms that traditional RDBMS struggle with. Major types include document stores (MongoDB), key-value stores (Redis), wide-column stores (Cassandra), and graph databases (Neo4j). They typically trade strict ACID transactions for scalability and flexibility. A common mistake is thinking NoSQL means no structure at all; they often have their own query languages and structures. Understanding NoSQL is essential for modern application architecture, especially for distributed systems and handling unstructured data.",
+    "synonyms": [
+      "non-relational database"
+    ],
+    "antonyms": [
+      "SQL",
+      "Relational database",
+      "RDBMS"
+    ],
+    "nounForm": "NoSQL database",
+    "verbForm": "N/A",
+    "adjectiveForm": "NoSQL",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Big data, web-scale applications, modern software architecture.",
+    "usageTip": "Use 'NoSQL' as an adjective (NoSQL database) or as a noun category. Pronounce it 'NO-S-Q-L' or 'NO-SEQUEL.'",
+    "commonMistake": "Viewing SQL and NoSQL as strict alternatives; many systems use both (polyglot persistence).",
+    "collocations": [
+      "NoSQL movement",
+      "NoSQL store",
+      "choose NoSQL"
+    ]
+  },
+  {
+    "word": "NoSQL",
+    "meaning": "A database category for non-tabular/unstructured data",
+    "shortMeaning": "non-relational database",
+    "example": "We use NoSQL to store large amounts of unstructured data.",
+    "example2": "NoSQL databases provide high scalability.",
+    "example3": "The team chose NoSQL over a relational database.",
+    "Explanation": "NoSQL refers to 'Not Only SQL' (or non-relational) databases. Unlike traditional SQL databases that store data in tables (rows and columns), NoSQL databases store data in flexible formats like documents, key-value pairs, or graphs. This makes them ideal for big data, real-time web applications, and scenarios where the data structure changes often. They are highly popular in modern, scalable web development. Understanding when to use NoSQL versus SQL is a core skill for backend developers.",
+    "synonyms": [
+      "non-relational database",
+      "document database"
+    ],
+    "antonyms": [
+      "SQL",
+      "relational database"
+    ],
+    "nounForm": "NoSQL",
+    "verbForm": "N/A",
+    "adjectiveForm": "NoSQL",
+    "partOfSpeech": "noun",
+    "commonContext": "Databases, backend development",
+    "usageTip": "Use to describe databases that don't follow traditional table structures.",
+    "commonMistake": "Thinking NoSQL databases never support SQL (many do).",
+    "collocations": [
+      "NoSQL database",
+      "NoSQL storage",
+      "NoSQL vs SQL"
+    ]
+  }
+]

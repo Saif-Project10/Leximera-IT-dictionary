@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Uncategorized",
+    "meaning": "Not placed into any category; not sorted or classified.",
+    "shortMeaning": "not sorted",
+    "example": "There is a folder for uncategorized expenses in the accounting software.",
+    "example2": "Many of the early observations were uncategorized.",
+    "example3": "The uncategorized items were piled in a corner.",
+    "Explanation": "Something that is 'uncategorized' has not been assigned to a specific group or class within a system of organization. This is a neutral state, often temporary, that precedes the work of sorting and analysis. In databases, uncategorized records are those missing a category field. It can imply disorganization or a lack of processing. The verb is 'categorize'. The term is useful in project management, research, and digital asset management to denote work that still needs to be done.",
+    "synonyms": [
+      "unsorted",
+      "unclassified",
+      "unordered",
+      "miscellaneous"
+    ],
+    "antonyms": [
+      "categorized",
+      "classified",
+      "sorted",
+      "organized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "categorize",
+    "adjectiveForm": "uncategorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, research, filing, blogging (default category)",
+    "usageTip": "Often a default state in software for new items that haven't been assigned yet.",
+    "commonMistake": "Seeing 'uncategorized' as a problem; it's often a necessary first step before creating meaningful categories.",
+    "collocations": [
+      "uncategorized data",
+      "uncategorized posts",
+      "uncategorized files",
+      "left uncategorized"
+    ]
+  },
+  {
+    "word": "Uncategorized",
+    "meaning": "Not assigned to any specific group, class, or category.",
+    "shortMeaning": "no category",
+    "example": "All new posts are placed in the uncategorized folder.",
+    "example2": "Please sort the uncategorized data points.",
+    "example3": "There are too many uncategorized items in the menu.",
+    "Explanation": "Uncategorized describes something that lacks a formal classification. This is a common default state for new data, such as blog posts or incoming logs. In UI design, you should provide a way for users to sort or categorize these items. Leaving too much as 'uncategorized' makes systems hard to navigate and manage. It acts as a holding area until the correct classification is assigned. It is essential to clean up these entries.",
+    "synonyms": [
+      "unclassified",
+      "unsorted",
+      "general"
+    ],
+    "antonyms": [
+      "categorized",
+      "sorted",
+      "classified"
+    ],
+    "nounForm": "category",
+    "verbForm": "categorize",
+    "adjectiveForm": "uncategorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Content management, data organization",
+    "usageTip": "Use this when discussing items that haven't been sorted yet.",
+    "commonMistake": "Leaving things as uncategorized permanently.",
+    "collocations": [
+      "uncategorized post",
+      "uncategorized data",
+      "move to uncategorized"
+    ]
+  },
+  {
+    "word": "Uncategorized",
+    "meaning": "Not assigned to a specific group or category.",
+    "shortMeaning": "no category",
+    "example": "All files without a tag will show as uncategorized.",
+    "example2": "We need to process the uncategorized posts.",
+    "example3": "Please move the item from uncategorized to a new folder.",
+    "Explanation": "In CMS platforms and database management, 'uncategorized' is a default label for items that haven't been assigned to a specific group. It is a common placeholder that developers need to handle to avoid UI issues. If you see many items as 'uncategorized', it usually means your filing system needs improvement. It is a neutral term that simply describes the current status of an object. Proper categorization is important for good site navigation.",
+    "synonyms": [
+      "unclassified",
+      "ungrouped",
+      "miscellaneous"
+    ],
+    "antonyms": [
+      "categorized",
+      "classified",
+      "grouped"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncategorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Content management and data organization",
+    "usageTip": "Use 'uncategorized' for items missing a tag or group.",
+    "commonMistake": "Leaving too many items uncategorized in a project.",
+    "collocations": [
+      "uncategorized items",
+      "uncategorized files",
+      "uncategorized data"
+    ]
+  }
+]

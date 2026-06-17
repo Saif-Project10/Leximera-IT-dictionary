@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Scenario-driven",
+    "meaning": "Guided or determined by considering possible future scenarios; based on hypothetical situations.",
+    "shortMeaning": "based on possible situations",
+    "example": "Their planning process is scenario-driven to prepare for various market conditions.",
+    "example2": "We use scenario-driven design to test how users might interact with the product.",
+    "example3": "The training involves scenario-driven exercises to improve decision-making.",
+    "Explanation": "'Scenario-driven' is a compound adjective used in planning, design, and training. It describes an approach that starts by imagining different possible situations (scenarios) and then develops strategies, designs, or responses based on those imagined futures. This method helps organizations be more resilient and adaptable. It is common in business strategy, user experience (UX) design, and emergency preparedness. The term emphasizes proactive thinking and preparedness for uncertainty rather than just reacting to events.",
+    "synonyms": [
+      "hypothesis-based",
+      "simulation-based",
+      "what-if driven"
+    ],
+    "antonyms": [
+      "reactive",
+      "ad hoc",
+      "unplanned"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "scenario-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Strategic planning, software design, training simulations",
+    "usageTip": "Often hyphenated, especially before a noun. The focus is on using stories about the future to guide present actions.",
+    "commonMistake": "Confusing it with 'data-driven'; scenario-driven is about imagined futures, while data-driven is about past/current data.",
+    "collocations": [
+      "scenario-driven planning",
+      "scenario-driven approach",
+      "scenario-driven analysis"
+    ]
+  },
+  {
+    "word": "Scenario-driven",
+    "meaning": "Based on or guided by specific situations, use cases, or events.",
+    "shortMeaning": "use-case based",
+    "example": "The test plan is scenario-driven to cover all user paths.",
+    "example2": "We adopt a scenario-driven approach to development.",
+    "example3": "Scenario-driven design helps in building user-focused applications.",
+    "Explanation": "The term scenario-driven describes a process that focuses on specific situations that might occur during the use of a system. Instead of testing everything, developers focus on scenarios like 'what happens if the user loses the internet connection?'. This ensures the system is robust for real-world events. It is a highly effective way to structure software development and quality assurance testing.",
+    "synonyms": [
+      "use-case driven",
+      "situation-based"
+    ],
+    "antonyms": [
+      "random",
+      "unstructured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "scenario-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software testing and design",
+    "usageTip": "Use 'scenario-driven' to describe focused, logic-based planning.",
+    "commonMistake": "Forgetting to consider edge-case scenarios when using this approach.",
+    "collocations": [
+      "scenario-driven design",
+      "scenario-driven testing",
+      "scenario-driven approach"
+    ]
+  }
+]

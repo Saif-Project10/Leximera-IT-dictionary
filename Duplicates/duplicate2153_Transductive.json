@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Transductive",
+    "meaning": "Relating to the process of inferring from specific training cases to specific test cases",
+    "shortMeaning": "inference from specific cases",
+    "example": "Transductive learning models perform well with limited labeled data.",
+    "example2": "The researcher applied a transductive approach to the dataset.",
+    "example3": "Unlike inductive methods, transductive learning focuses on specific predictions.",
+    "Explanation": "Transductive is a term from machine learning that describes a specific way of reasoning. While inductive learning tries to create a general rule (model) from training data, transductive learning tries to predict values for specific test cases directly. It does not necessarily build a global function that applies to everything. It is often useful when you have a lot of unlabeled data for the specific task at hand. It is a more specialized approach compared to standard model training.",
+    "synonyms": [
+      "inferential",
+      "predictive"
+    ],
+    "antonyms": [
+      "inductive"
+    ],
+    "nounForm": "transduction",
+    "verbForm": "transduce",
+    "adjectiveForm": "transductive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Machine learning, data science",
+    "usageTip": "Use this in advanced machine learning discussions about prediction strategies.",
+    "commonMistake": "Confusing it with inductive learning methods.",
+    "collocations": [
+      "transductive learning",
+      "transductive inference",
+      "transductive model"
+    ]
+  },
+  {
+    "word": "Transductive",
+    "meaning": "Relating to reasoning from specific cases to other specific cases",
+    "shortMeaning": "specific-to-specific reasoning",
+    "example": "The machine learning model uses a transductive approach.",
+    "example2": "Transductive learning helps with limited training data.",
+    "example3": "The algorithm makes transductive predictions for new test points.",
+    "Explanation": "In machine learning, 'transductive' reasoning happens when an algorithm uses labeled and unlabeled data to predict the outcome for specific points. It is different from inductive reasoning, which tries to build a general rule for all future cases. It is a highly specialized term in AI and pattern recognition. It focuses on solving problems for a specific set of inputs rather than creating a global model.",
+    "synonyms": [
+      "case-based",
+      "specific",
+      "inferential"
+    ],
+    "antonyms": [
+      "inductive",
+      "general"
+    ],
+    "nounForm": "transduction",
+    "verbForm": "transduce",
+    "adjectiveForm": "transductive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Machine learning, AI, statistics",
+    "usageTip": "Use 'transductive' when discussing algorithms that predict based on specific datasets.",
+    "commonMistake": "Using it as a synonym for 'inductive'; they are mathematically different.",
+    "collocations": [
+      "transductive learning",
+      "transductive reasoning",
+      "transductive inference"
+    ]
+  }
+]

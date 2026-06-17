@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Shared",
+    "meaning": "Used, held, or experienced jointly with another or others.",
+    "shortMeaning": "used or done together",
+    "example": "We have a shared interest in music.",
+    "example2": "They shared the cost of the dinner.",
+    "example3": "The document is stored on a shared drive.",
+    "Explanation": "'Shared' is the past participle of the verb 'share'. As an adjective, it describes something that belongs to or is used by multiple parties. It implies commonality, cooperation, and joint ownership or experience. In technology, 'shared resources' like files, printers, or network connections are fundamental. The word carries positive connotations of community and efficiency, but can also imply a lack of exclusivity. It's a key concept in collaborative work and social interaction.",
+    "synonyms": [
+      "common",
+      "joint",
+      "collective",
+      "mutual"
+    ],
+    "antonyms": [
+      "individual",
+      "private",
+      "exclusive",
+      "sole"
+    ],
+    "nounForm": "share",
+    "verbForm": "share",
+    "adjectiveForm": "shared",
+    "partOfSpeech": "adjective",
+    "commonContext": "Ownership, experiences, resources, responsibilities",
+    "usageTip": "Use 'shared' to describe anything that is done, used, or felt by more than one person.",
+    "commonMistake": "Confusing 'shared' with 'sharing'. 'Shared' is an adjective describing a state (a shared room); 'sharing' is the action (they are sharing a room).",
+    "collocations": [
+      "shared responsibility",
+      "shared experience",
+      "shared folder",
+      "shared values"
+    ]
+  },
+  {
+    "word": "Shared",
+    "meaning": "Used or owned by more than one person or system.",
+    "shortMeaning": "common usage",
+    "example": "We have a shared folder for project documentation.",
+    "example2": "The server uses shared memory to improve speed.",
+    "example3": "They access a shared database to synchronize data.",
+    "Explanation": "The word 'shared' refers to resources, data, or files that are accessible to multiple users or processes simultaneously. It is a fundamental concept in computing, enabling collaboration and efficient use of system memory and storage. While 'sharing' promotes accessibility, it also requires careful management of permissions and concurrency control to prevent data conflicts. It is used extensively in networking, cloud storage, and operating systems.",
+    "synonyms": [
+      "common",
+      "joint",
+      "distributed"
+    ],
+    "antonyms": [
+      "private",
+      "exclusive",
+      "isolated"
+    ],
+    "nounForm": "share",
+    "verbForm": "share",
+    "adjectiveForm": "shared",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, cloud computing, file management",
+    "usageTip": "Use 'shared' to describe anything accessed by multiple entities.",
+    "commonMistake": "Ignoring security risks when using shared resources.",
+    "collocations": [
+      "shared folder",
+      "shared memory",
+      "shared access"
+    ]
+  }
+]

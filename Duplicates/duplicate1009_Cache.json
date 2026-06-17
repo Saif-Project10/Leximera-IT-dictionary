@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Cache",
+    "meaning": "1. A hidden storage space for provisions, treasure, or weapons. 2. (In computing) A hardware or software component that stores data so future requests for that data can be served faster.",
+    "shortMeaning": "hidden storage or fast computer memory",
+    "example": "The explorer found a cache of ancient coins.",
+    "example2": "Clear your browser's cache to fix the loading problem.",
+    "example3": "The CPU has a small but very fast cache.",
+    "Explanation": "'Cache' (pronounced 'cash') is a noun with origins in hiding physical items and now is crucial in computing. As a general noun, it's a secret store of items. In technology, it's a temporary memory that speeds up data access by storing copies of frequently used information. The verb is 'to cache'. Understanding cache is important for computer performance and troubleshooting (clearing cache). This word bridges old-world secrecy with modern digital efficiency. It's about keeping things close at hand for quick use.",
+    "synonyms": [
+      "hoard, stash (general); buffer, temporary memory (computing)"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "cache",
+    "verbForm": "cache",
+    "adjectiveForm": "cached",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Treasure hunting, computing, web browsing, hardware",
+    "usageTip": "In everyday modern use, 'cache' most often refers to temporary internet files stored by your browser.",
+    "commonMistake": "Pronouncing it as 'catch' or 'cashay'. It is pronounced exactly like 'cash'.",
+    "collocations": [
+      "cache memory",
+      "clear the cache",
+      "hidden cache"
+    ]
+  },
+  {
+    "word": "Cache",
+    "meaning": "A temporary storage area for fast data access",
+    "shortMeaning": "fast temporary storage",
+    "example": "Clear your browser cache to see the latest version of the website.",
+    "example2": "The CPU has a built-in cache to speed up processing.",
+    "example3": "I found an old cache of documents in the basement.",
+    "Explanation": "A cache (pronounced like 'cash') is a small, high-speed storage layer that sits between the user and the main data source. It stores copies of data that are used frequently. By retrieving data from the cache instead of the slower main memory or a distant server, the system becomes much faster. It is used in CPUs (L1/L2/L3 cache), web browsers, and web servers. Managing the cache is tricky because you must 'invalidate' it when the original data changes.",
+    "synonyms": [
+      "store",
+      "stash",
+      "buffer",
+      "hoard"
+    ],
+    "antonyms": [
+      "main memory",
+      "void"
+    ],
+    "nounForm": "cache",
+    "verbForm": "cache",
+    "adjectiveForm": "cached",
+    "partOfSpeech": "noun",
+    "commonContext": "Computing performance and web browsing",
+    "usageTip": "If a webpage isn't loading correctly after an update, try clearing your cache.",
+    "commonMistake": "Pronouncing it as 'catch' or 'cachet'; it is pronounced exactly like 'cash'.",
+    "collocations": [
+      "browser cache",
+      "cache memory",
+      "clear the cache"
+    ]
+  }
+]

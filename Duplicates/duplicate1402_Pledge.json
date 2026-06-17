@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Pledge",
+    "meaning": "A solemn promise or agreement; to make such a promise.",
+    "shortMeaning": "a solemn promise; to promise",
+    "example": "They made a pledge to always tell the truth. (Noun)",
+    "example2": "He pledged to donate money to the charity. (Verb)",
+    "example3": "The ring was a pledge of his love.",
+    "Explanation": "'Pledge' is a formal word for a serious commitment. As a noun, it's the promise itself. As a verb, it's the act of making that promise. It often involves a token or gesture (like a ring) and carries moral or emotional weight. It's used in ceremonies (allegiance), finance (a loan pledge), and activism (pledging support). It's stronger than a simple 'promise'.",
+    "synonyms": [
+      "Noun: promise, vow, commitment, oath. Verb: promise, vow, swear, commit"
+    ],
+    "antonyms": [
+      "Noun: break of promise. Verb: break a promise, renege"
+    ],
+    "nounForm": "pledge",
+    "verbForm": "pledge",
+    "adjectiveForm": "pledged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Ceremonies, donations, politics, relationships",
+    "usageTip": "Use 'pledge' for a formal, public, or very serious promise.",
+    "commonMistake": "Confusing it with 'pleadge' (misspelling) or 'plead' (to beg or argue in court).",
+    "collocations": [
+      "take the pledge",
+      "pledge allegiance",
+      "pledge drive"
+    ]
+  },
+  {
+    "word": "Pledge",
+    "meaning": "A serious promise or agreement to do something",
+    "shortMeaning": "serious promise",
+    "example": "The company made a pledge to protect user privacy.",
+    "example2": "I will pledge my support to the new open-source project.",
+    "example3": "The government made a pledge to increase internet speed across the country.",
+    "Explanation": "A pledge is a formal commitment. In the corporate world, companies often make pledges regarding environmental sustainability or ethical data usage. In open-source software, users might 'pledge' money through platforms like Patreon to support developers. It is more formal than a simple 'promise' and often implies that the person or group is publicly accountable for fulfilling it.",
+    "synonyms": [
+      "promise",
+      "vow",
+      "commitment"
+    ],
+    "antonyms": [
+      "denial",
+      "refusal",
+      "breach"
+    ],
+    "nounForm": "pledge",
+    "verbForm": "pledge",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Business ethics, charity, and open-source funding",
+    "usageTip": "Use 'pledge' for formal or public promises.",
+    "commonMistake": "Confusing it with a 'contract'; a pledge is often a moral or public commitment, not always a legal one.",
+    "collocations": [
+      "make a pledge",
+      "pledge support",
+      "financial pledge"
+    ]
+  }
+]

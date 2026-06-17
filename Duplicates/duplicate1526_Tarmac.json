@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Tarmac",
+    "meaning": "A material used for surfacing roads or runways, a mix of tar and crushed rock; also refers to the runway area of an airport",
+    "shortMeaning": "road/runway surface; airport area",
+    "example": "The road was resurfaced with fresh tarmac.",
+    "example2": "Our plane is waiting on the tarmac.",
+    "example3": "The cyclists raced on a smooth tarmac track.",
+    "Explanation": "'Tarmac' is a common term with two related meanings. Originally, it was a brand name for a specific road-surfacing material (tar macadam). Now, it generally refers to any black, bituminous material used for paving roads, driveways, and runways. By extension, in aviation, 'the tarmac' is used informally to refer to the paved areas of an airport, especially the apron where aircraft park. It's important to note that in official aviation terminology, 'ramp', 'apron', or 'runway' are more precise, but 'tarmac' remains popular in general use.",
+    "synonyms": [
+      "asphalt",
+      "blacktop",
+      "pavement",
+      "runway (in context)",
+      "apron (in context)"
+    ],
+    "antonyms": [
+      "dirt road",
+      "grass field",
+      "unpaved"
+    ],
+    "nounForm": "tarmac",
+    "verbForm": "tarmac (to surface with tarmac)",
+    "adjectiveForm": "tarmacked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Road construction, aviation, cycling",
+    "usageTip": "For the airport area, it's often used with 'the' (e.g., 'on the tarmac').",
+    "commonMistake": "Thinking 'tarmac' is the official term for airport runways; it's more of a colloquial term.",
+    "collocations": [
+      "lay tarmac",
+      "airport tarmac",
+      "hot tarmac",
+      "tarmac road"
+    ]
+  },
+  {
+    "word": "Tarmac",
+    "meaning": "A material used for surfacing roads or runways, or an airport area where planes park and move",
+    "shortMeaning": "paved runway area",
+    "example": "The autonomous delivery drone landed safely on the concrete tarmac outside the warehouse.",
+    "example2": "Mobile network engineers set up a temporary satellite dish right next to the airport tarmac.",
+    "example3": "The server equipment was left on the hot tarmac for hours, causing it to overheat.",
+    "Explanation": "The word 'tarmac' refers to a heavy, black material used for making roads, or the paved areas of an airfield. While it is a civil engineering term, it appears in IT discussions concerning logistics, drone delivery routing, IoT field installations, or mobile network coverage setups at airports. Ensuring that field equipment can survive the weather conditions on an exposed tarmac is a key hardware design requirement. It represents a physical environment where technology must operate reliably.",
+    "synonyms": [
+      "asphalt",
+      "runway",
+      "pavement",
+      "tarmacadam"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tarmac",
+    "verbForm": "tarmac",
+    "adjectiveForm": "tarmac",
+    "partOfSpeech": "noun",
+    "commonContext": "Logistics tracking, hardware deployment, drone navigation systems",
+    "usageTip": "Use 'tarmac' when specifying exact outdoor physical locations for autonomous vehicle or drone landing tests.",
+    "commonMistake": "Spelling it as 'termac' or using it to describe ordinary dirt roads.",
+    "collocations": [
+      "airport tarmac",
+      "on the tarmac",
+      "hot tarmac"
+    ]
+  }
+]

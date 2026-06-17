@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Incapable",
+    "meaning": "Lacking the ability, qualification, or strength to do something",
+    "shortMeaning": "unable, not capable",
+    "example": "He seems incapable of telling the truth.",
+    "example2": "The old printer is incapable of handling such large files.",
+    "example3": "She felt incapable of making a decision.",
+    "Explanation": "'Incapable' is an adjective meaning not having the power, skill, or necessary quality to accomplish something. It is stronger than 'unable' and often implies a more permanent or inherent lack of capacity. It can refer to people, machines, or systems. The noun is 'incapability'. It is the opposite of 'capable'. Being called incapable can be a harsh criticism. The word is often followed by 'of' + gerund (incapable of understanding). It's used to express limitation or deficiency.",
+    "synonyms": [
+      "unable",
+      "incompetent",
+      "unfit",
+      "powerless",
+      "ineffectual"
+    ],
+    "antonyms": [
+      "capable",
+      "able",
+      "competent",
+      "effective"
+    ],
+    "nounForm": "incapability",
+    "verbForm": "N/A",
+    "adjectiveForm": "incapable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing inability, limitations of people or machines",
+    "usageTip": "Use 'incapable' to describe a person or thing that fundamentally lacks the ability to perform a specific action.",
+    "commonMistake": "Confusing 'incapable' (lacking ability) with 'unable' (temporarily not able). 'Incapable' suggests a more inherent limitation.",
+    "collocations": [
+      "incapable of",
+      "utterly incapable",
+      "incapable of feeling"
+    ]
+  },
+  {
+    "word": "Incapable",
+    "meaning": "Lacking the ability or power to do something",
+    "shortMeaning": "cannot do",
+    "example": "The legacy system is incapable of handling modern encryption.",
+    "example2": "He is incapable of working with that specific framework.",
+    "example3": "The script is incapable of managing large-scale databases.",
+    "Explanation": "The word 'incapable' is a strong, definitive statement that something or someone lacks the ability to complete a task. In technical contexts, it is used to describe software or hardware limitations—e.g., 'the hardware is incapable of running this OS.' It is a very objective way to state a limitation without being mean; it is just a fact about the system's design or capacity.",
+    "synonyms": [
+      "unable",
+      "incompetent",
+      "powerless"
+    ],
+    "antonyms": [
+      "capable",
+      "able",
+      "competent"
+    ],
+    "nounForm": "incapability",
+    "verbForm": "N/A",
+    "adjectiveForm": "incapable",
+    "partOfSpeech": "adjective",
+    "commonContext": "System requirements, hardware limits, project skills",
+    "usageTip": "Use 'incapable' to state objective limitations of a system.",
+    "commonMistake": "Using 'incapable' for people in a disrespectful way (use it for technical things instead).",
+    "collocations": [
+      "incapable of",
+      "system is incapable",
+      "technically incapable"
+    ]
+  }
+]

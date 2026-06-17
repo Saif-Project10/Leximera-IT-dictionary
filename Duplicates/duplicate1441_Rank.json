@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Rank",
+    "meaning": "A position in a hierarchy; to give a particular position to someone/something; having a strong, unpleasant smell.",
+    "shortMeaning": "position, classify, smelly",
+    "example": "He holds the rank of captain in the army.",
+    "example2": "How would you rank this restaurant on a scale of one to ten?",
+    "example3": "The garbage had a rank odor in the summer heat.",
+    "Explanation": "'Rank' is a noun, verb, and adjective with distinct meanings. As a noun, it's about a level or position (military rank, social rank). As a verb, it means to classify in order. As an adjective, it means having a strong, offensive smell (rank vegetation) or being complete/extreme (rank amateur). Context is vital. The hierarchical meanings are formal and common in organizations. The 'smelly' meaning is less common but vivid. The verb is useful for comparisons and ratings.",
+    "synonyms": [
+      "position (n.)",
+      "classify (v.)",
+      "foul (adj.)",
+      "putrid (adj.)"
+    ],
+    "antonyms": [
+      "inferior (for n.)",
+      "disorganize (for v.)",
+      "fresh (for adj.)"
+    ],
+    "nounForm": "rank",
+    "verbForm": "rank",
+    "adjectiveForm": "rank",
+    "partOfSpeech": "noun, verb, adjective",
+    "commonContext": "Military, organizations, ratings, describing smells",
+    "usageTip": "Remember the three main meanings: position, to rate, and smelly.",
+    "commonMistake": "Confusing the adjective meaning 'smelly' with the noun meaning 'position'.",
+    "collocations": [
+      "high rank",
+      "rank and file",
+      "rank smell",
+      "rank first"
+    ]
+  },
+  {
+    "word": "Rank",
+    "meaning": "A position in a hierarchy or list",
+    "shortMeaning": "position or level",
+    "example": "The search result rank depends on relevance.",
+    "example2": "He is moving up the rank of developers in the team.",
+    "example3": "We need to sort the data by rank.",
+    "Explanation": "Rank refers to a position relative to others. In software, 'rank' is often used in search engines (like SEO ranking) to decide which result is most important. It is also used in games and team hierarchies. Being 'ranked' means you have been evaluated and given a score or level. It is a way to organize large amounts of information by importance or skill.",
+    "synonyms": [
+      "level",
+      "position",
+      "standing"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "rank",
+    "verbForm": "rank",
+    "adjectiveForm": "ranked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "SEO, games, data sorting",
+    "usageTip": "Use 'rank' when talking about relative position or importance.",
+    "commonMistake": "Confusing 'rank' with 'rating' (rank is position, rating is a score).",
+    "collocations": [
+      "search rank",
+      "top rank",
+      "rank the data"
+    ]
+  },
+  {
+    "word": "Rank",
+    "meaning": "A position in a hierarchy, or to arrange items in order of importance",
+    "shortMeaning": "hierarchical position / order items",
+    "example": "Google will rank your website higher if it is mobile-friendly.",
+    "example2": "The student achieved the top rank in the programming competition.",
+    "example3": "We need to rank these feature requests by customer demand.",
+    "Explanation": "The word 'rank' functions as a noun (the position itself) and a verb (the action of positioning). In search engine optimization (SEO), ranking refers to where a webpage appears on a search results page. In data management, it describes ordering items based on specific numerical metrics, like scores or usage data. It helps users quickly determine which items are most important or valuable.",
+    "synonyms": [
+      "grade",
+      "classify",
+      "order"
+    ],
+    "antonyms": [
+      "disorganize"
+    ],
+    "nounForm": "rank",
+    "verbForm": "rank",
+    "adjectiveForm": "ranked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "SEO, data sorting, competition results, and analytics",
+    "usageTip": "Use 'rank' when discussing positions relative to others in a structured list.",
+    "commonMistake": "Confusing 'rank' with basic 'sort', which simply arranges without implying status or importance.",
+    "collocations": [
+      "rank higher",
+      "search engine rank",
+      "rank items by importance"
+    ]
+  }
+]

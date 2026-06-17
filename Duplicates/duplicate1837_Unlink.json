@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Unlink",
+    "meaning": "To remove a connection or a link between two things",
+    "shortMeaning": "disconnect",
+    "example": "You can unlink your Facebook account from the game at any time.",
+    "example2": "The command was used to unlink the file from the directory.",
+    "example3": "She decided to unlink her phone number from her public profile.",
+    "Explanation": "In general English, 'unlink' means to disconnect. In the world of computing, it has a very specific meaning. In operating systems like Linux/Unix, 'unlink' is a system call that removes a file's name from a directory. If that was the last name pointing to the file, the file is actually deleted from the disk. In a web or social media context, it means breaking the synchronization between two accounts or services. It is the opposite of 'linking' or 'syncing.' It is a common action when a user wants to increase privacy or clean up their digital connections.",
+    "synonyms": [
+      "disconnect",
+      "detach",
+      "uncouple"
+    ],
+    "antonyms": [
+      "link",
+      "connect",
+      "attach"
+    ],
+    "nounForm": "unlinking",
+    "verbForm": "unlink",
+    "adjectiveForm": "unlinked",
+    "partOfSpeech": "verb",
+    "commonContext": "Operating systems and account settings",
+    "usageTip": "Use 'unlink' when you want to stop two digital entities from sharing information.",
+    "commonMistake": "Thinking 'unlink' always deletes the file; sometimes it just removes the reference.",
+    "collocations": [
+      "unlink an account",
+      "unlink a file",
+      "unlink social media"
+    ]
+  },
+  {
+    "word": "Unlink",
+    "meaning": "To break a structural connection, reference link, or data association between two system elements",
+    "shortMeaning": "break structural connection",
+    "example": "You need to unlink your personal profile from the corporate testing directory immediately.",
+    "example2": "The database command will unlink the data file from the active master table tracking grid.",
+    "example3": "If you unlink the stylesheet from your HTML page, the entire webpage layout will lose its styling.",
+    "Explanation": "In file management systems, database architectures, and web layouts, the word 'unlink' functions as an active verb. It means removing a reference pointer, hyperlink, or data association that joins two files or profiles together. For instance, in Linux configurations, unlinking a file deletes its filename pointer from the directory map. In user settings, unlinking lets a person detach a social account from a portal framework safely.",
+    "synonyms": [
+      "disconnect",
+      "detach",
+      "remove link",
+      "uncouple"
+    ],
+    "antonyms": [
+      "link",
+      "connect",
+      "bind",
+      "associate"
+    ],
+    "nounForm": "unlink (rare file context use)",
+    "verbForm": "unlink",
+    "adjectiveForm": "unlinked",
+    "partOfSpeech": "verb",
+    "commonContext": "User profile dashboard settings, directory file deletion commands, and database relationship management",
+    "usageTip": "Use 'unlink' when you want to describe removing the reference bridge that connects two files or accounts without deleting the source files.",
+    "commonMistake": "Assuming 'unlink' always purges files permanently; often it just drops the connection path, leaving the core entity intact.",
+    "collocations": [
+      "unlink account",
+      "unlink files",
+      "unlink reference database"
+    ]
+  }
+]

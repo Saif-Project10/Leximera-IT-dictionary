@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Irregular",
+    "meaning": "Not even or balanced in shape or arrangement; not following usual rules.",
+    "shortMeaning": "not regular; uneven",
+    "example": "The coastline has an irregular shape with many bays.",
+    "example2": "His attendance at work has been irregular lately.",
+    "example3": "Irregular verbs don't follow the standard conjugation patterns.",
+    "Explanation": "'Irregular' is an adjective meaning not regular - uneven, inconsistent, or contrary to rules or patterns. It describes things that lack uniformity, symmetry, or predictability. Irregular shapes have uneven contours. Irregular attendance is inconsistent. Irregular verbs don't follow standard patterns. Irregular heartbeats are abnormal. The noun is 'irregularity'. The word suggests deviation from what is normal, expected, or standardized. While sometimes problematic (irregular heartbeat), irregularity can be natural (irregular coastlines) or creative (irrhythmic in music). It contrasts with regular, which implies order, pattern, and predictability. Recognizing irregular patterns is important in medicine, linguistics, and quality control.",
+    "synonyms": [
+      "uneven",
+      "inconsistent",
+      "abnormal",
+      "erratic"
+    ],
+    "antonyms": [
+      "regular",
+      "even",
+      "consistent",
+      "normal"
+    ],
+    "nounForm": "irregularity",
+    "verbForm": "N/A",
+    "adjectiveForm": "irregular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shapes, patterns, attendance, verbs, heartbeats",
+    "usageTip": "For shape: 'irregular surface'. For pattern: 'irregular intervals'. For grammar: 'irregular verb'.",
+    "commonMistake": "Confusing with 'irregardless' which is nonstandard. 'Irregular' is correct; 'irregardless' is generally avoided.",
+    "collocations": [
+      "irregular heartbeat",
+      "irregular verb",
+      "irregular shape"
+    ]
+  },
+  {
+    "word": "Irregular",
+    "meaning": "Not following a standard pattern, shape, or schedule",
+    "shortMeaning": "not regular",
+    "example": "The server is experiencing irregular traffic spikes throughout the day.",
+    "example2": "The irregular shape of the database table makes it hard to optimize.",
+    "example3": "We noticed an irregular pattern in the error logs.",
+    "Explanation": "An irregular event or structure is one that deviates from the expected norm. In IT, we prefer predictability and standard patterns. 'Irregular' indicates a departure from this. It is often a warning sign—irregular logs suggest a security threat, while irregular traffic suggests an issue with load balancing. Identifying when something is 'irregular' is the first step in troubleshooting, as it shows that a system is not performing as it was designed to perform.",
+    "synonyms": [
+      "uneven",
+      "inconsistent",
+      "anomalous"
+    ],
+    "antonyms": [
+      "regular",
+      "consistent",
+      "standard"
+    ],
+    "nounForm": "irregularity",
+    "verbForm": "N/A",
+    "adjectiveForm": "irregular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data monitoring and system performance",
+    "usageTip": "Use 'irregular' to describe data or activity that does not fit the pattern.",
+    "commonMistake": "Confusing 'irregular' with 'broken'; something irregular might still be functional.",
+    "collocations": [
+      "irregular pattern",
+      "irregular traffic",
+      "irregularity detected"
+    ]
+  }
+]

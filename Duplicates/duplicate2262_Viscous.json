@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Viscous",
+    "meaning": "Thick, sticky, and slow-moving",
+    "shortMeaning": "thick and sticky",
+    "example": "The thermal paste has a viscous consistency for good contact.",
+    "example2": "Highly viscous fluids can clog cooling pipes.",
+    "example3": "The sealant is too viscous to apply easily.",
+    "Explanation": "In IT hardware, 'viscous' usually refers to liquids or gels, such as thermal grease, lubricants, or cooling fluids. The viscosity (thickness) of these materials is crucial: a thermal paste must be viscous enough to stay in place but fluid enough to fill microscopic gaps between a CPU and its heat sink. If it's too thick, it can't spread; if it's too thin, it leaks. Engineers carefully choose materials with the right viscosity to ensure efficient heat transfer and component longevity.",
+    "synonyms": [
+      "thick",
+      "sticky",
+      "syrupy"
+    ],
+    "antonyms": [
+      "fluid",
+      "runny",
+      "thin"
+    ],
+    "nounForm": "viscosity",
+    "verbForm": "N/A",
+    "adjectiveForm": "viscous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, cooling, thermal materials",
+    "usageTip": "Use for gels and thick liquids used in hardware.",
+    "commonMistake": "Confusing 'viscous' with just 'thick'.",
+    "collocations": [
+      "viscous fluid",
+      "high viscosity",
+      "viscous paste"
+    ]
+  },
+  {
+    "word": "Viscous",
+    "meaning": "Having a thick, sticky consistency; hard to move through.",
+    "shortMeaning": "thick/sticky",
+    "example": "High temperatures can change the properties of viscous fluids in cooling systems.",
+    "example2": "The viscous material acts as an effective sealant.",
+    "example3": "Think of software performance like a viscous fluid; it slows down when crowded.",
+    "Explanation": "In IT, 'viscous' is rarely used literally, but it is a powerful metaphor for system performance. When a system or a data stream is described as 'viscous', it means it is sluggish, inefficient, or difficult to process. For example, a badly optimized database query might feel 'viscous' because it moves slowly through the data. It implies a high amount of 'friction' in the workflow, often caused by poor architecture or excessive resource demands.",
+    "synonyms": [
+      "thick",
+      "sluggish",
+      "syrupy"
+    ],
+    "antonyms": [
+      "fluid",
+      "thin",
+      "fast-flowing"
+    ],
+    "nounForm": "viscosity",
+    "verbForm": "N/A",
+    "adjectiveForm": "viscous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware cooling or performance metaphor",
+    "usageTip": "Use as a metaphor for slow, sluggish system performance.",
+    "commonMistake": "Confusing it with 'vicious' (which means cruel).",
+    "collocations": [
+      "viscous flow",
+      "viscous behavior",
+      "viscous performance"
+    ]
+  }
+]

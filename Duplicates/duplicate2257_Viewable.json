@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Viewable",
+    "meaning": "Capable of being seen or displayed",
+    "shortMeaning": "can be seen",
+    "example": "The file is viewable on all mobile devices.",
+    "example2": "Ensure the dashboard is viewable by all team members.",
+    "example3": "The output is viewable via the web browser.",
+    "Explanation": "Something is 'viewable' if a system can correctly render it so that it is visible to the user. In web and app development, ensuring content is 'viewable' across different screen sizes, browsers, and devices is a huge part of UI/UX design. If something is not viewable, it means the system failed to format or present the data in a way that the user can interact with. It is a fundamental requirement for any information display system.",
+    "synonyms": [
+      "visible",
+      "readable",
+      "displayable"
+    ],
+    "antonyms": [
+      "unviewable",
+      "hidden",
+      "invisible"
+    ],
+    "nounForm": "view",
+    "verbForm": "view",
+    "adjectiveForm": "viewable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, web rendering",
+    "usageTip": "Use to describe content that can be rendered and seen.",
+    "commonMistake": "Confusing viewable (it can be seen) with readable (it can be understood).",
+    "collocations": [
+      "publicly viewable",
+      "easily viewable",
+      "viewable format"
+    ]
+  },
+  {
+    "word": "Viewable",
+    "meaning": "Able to be seen or accessed visually.",
+    "shortMeaning": "visible",
+    "example": "The report is viewable in both desktop and mobile browsers.",
+    "example2": "Make sure the file format is viewable by all team members.",
+    "example3": "The hidden files are now viewable in the directory.",
+    "Explanation": "‘Viewable’ refers to the state of an object, document, or interface element being accessible to the human eye via software. It emphasizes compatibility and visibility. For example, if a file format is not 'viewable' on a specific OS, it means the system lacks the software to display it. In web design, ensuring content is viewable across different screen sizes is a primary concern for accessibility and usability.",
+    "synonyms": [
+      "visible",
+      "accessible",
+      "displayable"
+    ],
+    "antonyms": [
+      "hidden",
+      "unviewable",
+      "invisible"
+    ],
+    "nounForm": "viewability",
+    "verbForm": "view",
+    "adjectiveForm": "viewable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design and file compatibility",
+    "usageTip": "Use this to describe if a file or link can be opened and seen.",
+    "commonMistake": "Confusing 'viewable' with 'downloadable'.",
+    "collocations": [
+      "viewable format",
+      "viewable file",
+      "easily viewable"
+    ]
+  }
+]

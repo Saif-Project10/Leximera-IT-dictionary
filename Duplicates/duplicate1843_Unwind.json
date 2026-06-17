@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unwind",
+    "meaning": "To reverse or undo a series of steps, especially in a computer's memory.",
+    "shortMeaning": "reverse steps",
+    "example": "When an error occurs, the program must unwind the stack to find the last safe point.",
+    "example2": "The database had to unwind the transaction after the power failure.",
+    "example3": "Click the button to unwind the latest changes to the document.",
+    "Explanation": "In computing, 'unwind' is often used in the context of the 'call stack'. When an error (exception) happens, the system 'unwinds' the stack, which means it stops the current function and goes back to the previous one, looking for an error handler. It also refers to undoing a series of complex operations. For example, if you were building a house and the foundation was wrong, you would have to 'unwind' the construction. In finance tech, it means closing out a position or trade.",
+    "synonyms": [
+      "reverse",
+      "undo",
+      "roll back"
+    ],
+    "antonyms": [
+      "wind",
+      "execute",
+      "forward"
+    ],
+    "nounForm": "unwinding",
+    "verbForm": "unwind",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Error handling, stack management, and databases",
+    "usageTip": "Use 'unwind' specifically when talking about moving backward through steps or memory.",
+    "commonMistake": "Confusing it with 'delete'; unwinding is a structured reversal, not just erasing.",
+    "collocations": [
+      "stack unwind",
+      "unwind a transaction",
+      "unwind the process"
+    ]
+  },
+  {
+    "word": "Unwind",
+    "meaning": "To reverse execution stack frames during error handling, or to step out of a complex loop matrix",
+    "shortMeaning": "reverse execution stack frame",
+    "example": "When a system crash occurs, the execution runtime will unwind the stack to track down the error source.",
+    "example2": "The engine needs to unwind nested loops safely when a user hits the cancellation option.",
+    "example3": "Failing to unwind resources properly during exceptions will trigger severe memory leaks.",
+    "Explanation": "In advanced system design, programming language compilation, and runtime environments, 'unwind' describes a highly specific action. When an exception or error flag is thrown, the operating system or application runtime must 'unwind the stack'. This involves moving backward through the active chain of function calls, clearing out localized variables, releasing locked system hooks, and restoring memory allocations until it finds a function that handles the error safely.",
+    "synonyms": [
+      "roll back execution",
+      "dismantle stack channels",
+      "reverse processing states"
+    ],
+    "antonyms": [
+      "wind",
+      "accumulate frames",
+      "invoke nested steps"
+    ],
+    "nounForm": "unwinding / stack unwind",
+    "verbForm": "unwind",
+    "adjectiveForm": "unwound",
+    "partOfSpeech": "verb",
+    "commonContext": "Runtime error handling internals, memory management routines, and nested loop escape operations",
+    "usageTip": "Use 'unwind' when talking about automated system rollbacks or execution stack parsing when handling software runtime errors.",
+    "commonMistake": "Thinking 'unwind' means simply resting; in development engineering, it is an active, structured system cleanup process.",
+    "collocations": [
+      "unwind the stack",
+      "stack unwinding process",
+      "unwind nested code blocks"
+    ]
+  }
+]

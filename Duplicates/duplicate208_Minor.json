@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Minor",
+    "meaning": "Small in importance, size, or degree; not serious or significant. | Of little importance, seriousness, or size; lesser when compared to something else.",
+    "shortMeaning": "small, unimportant",
+    "example": "She made a few minor edits to the document.",
+    "example2": "The car had minor damage after the small accident.",
+    "example3": "It's a minor issue that we can fix quickly.",
+    "Explanation": "The word 'minor' is an adjective used to describe something of little consequence. It suggests that something is secondary, less important, or not severe. For example, a 'minor problem' is easy to solve. It has a noun form, 'minority', which refers to the smaller part of a group. 'Minor' is very common in both formal and informal English. It is important not to confuse it with 'miner', which is a person who works in a mine.",
+    "synonyms": [
+      "Insignificant",
+      "Slight",
+      "Small",
+      "Trivial"
+    ],
+    "antonyms": [
+      "Critical",
+      "Important",
+      "Major",
+      "Significant"
+    ],
+    "nounForm": "minority",
+    "verbForm": "N/A",
+    "adjectiveForm": "minor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problems, changes, details, injuries, roles",
+    "usageTip": "Use 'minor' to downplay the importance or severity of something.",
+    "commonMistake": "Misspelling it as 'miner' (a person who extracts minerals).",
+    "collocations": [
+      "minor issue",
+      "minor changes",
+      "minor injury",
+      "minor role"
+    ]
+  },
+  {
+    "word": "Minor",
+    "meaning": "Not very important, serious, or large",
+    "shortMeaning": "less important",
+    "example": "It was only a minor bug in the user interface.",
+    "example2": "We made a minor adjustment to the configuration.",
+    "example3": "Minor updates are released weekly to keep the software current.",
+    "Explanation": "The term 'minor' indicates that something is small in scale or low in impact. In software development, 'minor' bugs are those that don't stop the user from using the application, while 'minor' updates usually bring small fixes or features rather than major changes. Distinguishing between major and minor issues is crucial for project management, as it helps teams prioritize their time. Always clarify the impact of a 'minor' issue to ensure it isn't actually creating bigger problems.",
+    "synonyms": [
+      "small",
+      "insignificant",
+      "slight"
+    ],
+    "antonyms": [
+      "major",
+      "significant",
+      "crucial"
+    ],
+    "nounForm": "minority",
+    "verbForm": "N/A",
+    "adjectiveForm": "minor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Bug tracking and project management",
+    "usageTip": "Use 'minor' to describe issues with low impact.",
+    "commonMistake": "Dismissing 'minor' bugs; they can accumulate and cause major issues later.",
+    "collocations": [
+      "minor bug",
+      "minor change",
+      "minor update"
+    ]
+  }
+]

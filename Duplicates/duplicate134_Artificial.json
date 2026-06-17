@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Artificial",
+    "meaning": "Made by humans, often as a copy of something natural; not real or sincere.",
+    "shortMeaning": "man-made, not natural",
+    "example": "The lake has an artificial beach made of imported sand.",
+    "example2": "She didn't like his artificial smile.",
+    "example3": "Many drinks contain artificial sweeteners.",
+    "Explanation": "'Artificial' describes things that are created by humans to imitate nature or to serve a purpose, like artificial light or intelligence. It can also describe behavior that seems fake or forced. In today's world, it's often associated with technology, food, and materials. The key idea is the absence of natural origin. It's important to note that 'artificial' is neutral but can have a negative connotation when referring to behavior or low-quality imitations. It is different from 'synthetic', which is often used for chemicals.",
+    "synonyms": [
+      "man-made",
+      "synthetic",
+      "fake"
+    ],
+    "antonyms": [
+      "natural",
+      "genuine",
+      "real"
+    ],
+    "nounForm": "artificiality",
+    "verbForm": "N/A",
+    "adjectiveForm": "artificial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, food, materials, behavior",
+    "usageTip": "Often used with words like intelligence, light, flavor, and grass.",
+    "commonMistake": "Confusing 'artificial' with 'false'. 'False' is more about being wrong, while 'artificial' is about being man-made.",
+    "collocations": [
+      "artificial intelligence",
+      "artificial flavor",
+      "artificial light"
+    ]
+  },
+  {
+    "word": "Artificial",
+    "meaning": "Made or produced by human skill or technology rather than occurring naturally",
+    "shortMeaning": "man-made or simulated",
+    "example": "Artificial intelligence allows computers to perform tasks that typically require human intellect.",
+    "example2": "The developer added artificial delays to the UI loader to make the transition look smoother.",
+    "example3": "The lab environment uses artificial test data to simulate real-world usage.",
+    "Explanation": "The word 'artificial' describes things that are man-made, simulated, or synthesized rather than natural. Its most famous tech association is with 'Artificial Intelligence' (AI), where machines mimic cognitive functions. In application testing, engineers regularly use artificial inputs, synthetic datasets, or simulated network constraints to test how an app behaves under extreme stress without risking real live user databases.",
+    "synonyms": [
+      "synthetic",
+      "simulated",
+      "man-made",
+      "imitation"
+    ],
+    "antonyms": [
+      "natural",
+      "genuine",
+      "real",
+      "authentic"
+    ],
+    "nounForm": "artificiality",
+    "verbForm": "artificialize",
+    "adjectiveForm": "artificial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Artificial intelligence, data simulation, UI animation timings",
+    "usageTip": "Use 'artificial' when describing data, intelligence, or constraints created by developers to mimic real-world scenarios.",
+    "commonMistake": "Using 'artificial' with a negative meaning in engineering; artificial data is highly useful and necessary for secure testing.",
+    "collocations": [
+      "artificial intelligence",
+      "artificial data",
+      "artificial delay"
+    ]
+  }
+]

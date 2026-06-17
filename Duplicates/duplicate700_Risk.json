@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Risk",
+    "meaning": "A situation involving exposure to danger, harm, or loss.",
+    "shortMeaning": "chance of something bad happening",
+    "example": "Investing in stocks involves a degree of risk.",
+    "example2": "Smoking increases the risk of lung disease.",
+    "example3": "He took a risk by quitting his job to start a business.",
+    "Explanation": "'Risk' is the possibility that something unpleasant or undesirable will happen. It is a central concept in finance, health, safety, and decision-making. The verb is 'to risk', meaning to expose oneself to danger. 'Risk' can be calculated (assessed) or unknown. It is not inherently negative—taking calculated risks is often necessary for progress. The word is used to evaluate potential downsides before making choices in business, personal life, and policy.",
+    "synonyms": [
+      "danger",
+      "hazard",
+      "chance",
+      "peril"
+    ],
+    "antonyms": [
+      "safety",
+      "security",
+      "certainty"
+    ],
+    "nounForm": "risk",
+    "verbForm": "risk",
+    "adjectiveForm": "risky",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Finance, health, insurance, adventure, project management",
+    "usageTip": "Use 'risk' to talk about the potential for loss or harm. 'At risk' means in danger.",
+    "commonMistake": "Confusing 'risk' (possibility of loss) with 'threat' (a likely source of danger).",
+    "collocations": [
+      "high risk",
+      "take a risk",
+      "risk assessment",
+      "at risk"
+    ]
+  },
+  {
+    "word": "Risk",
+    "meaning": "The probability or likelihood that a technical decision, security flaw, or system vulnerability will result in data loss, downtime, or project failure",
+    "shortMeaning": "probability of technical failure/harm",
+    "example": "Deploying code updates without automated testing introduces a significant risk of crashing the live website.",
+    "example2": "The security team compiled a report detailing every potential risk inside our cloud storage configuration.",
+    "example3": "You can minimize project risk by breaking large feature builds into small, manageable milestones.",
+    "Explanation": "The concept of 'risk' is a core pillar of cybersecurity management, system engineering, and technical project coordination. It represents an assessment of potential dangers, vulnerabilities, or downfalls that could disrupt operations. Software architectures evaluate risks across multiple categories, including security risks (like unpatched dependencies), operational risks (like server capacity strains), and project risks (like moving past strict development deadlines). Teams use systematic risk assessments to plan defenses, build system redundancies, and secure application ecosystems against failure points.",
+    "synonyms": [
+      "danger",
+      "vulnerability threat",
+      "hazard exposure"
+    ],
+    "antonyms": [
+      "security safety",
+      "protection certainty",
+      "mitigation assurance"
+    ],
+    "nounForm": "risk / riskiness",
+    "verbForm": "risk",
+    "adjectiveForm": "risky",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity compliance, project sprint planning, infrastructure failure assessment",
+    "usageTip": "Use 'risk' when discussing analyzing potential failure paths, security weaknesses, or negative consequences of engineering choices.",
+    "commonMistake": "Ignoring minor security alerts, which compounds technical risk and can lead to massive security breaches later on.",
+    "collocations": [
+      "mitigate a technical risk",
+      "assess security risks",
+      "high operational risk"
+    ]
+  }
+]

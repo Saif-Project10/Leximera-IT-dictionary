@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Messy",
+    "meaning": "Untidy, dirty, or disorganized; complicated and difficult to deal with",
+    "shortMeaning": "untidy or complicated",
+    "example": "His desk was always messy with papers and coffee cups.",
+    "example2": "The divorce was a long and messy process.",
+    "example3": "The child's hands got messy while painting.",
+    "Explanation": "'Messy' describes a lack of order or cleanliness, either physically or situationally. A messy room is cluttered. A messy situation is confused, emotionally charged, and hard to resolve. It carries a negative connotation of inefficiency and difficulty. The noun is 'mess'. While sometimes used playfully, it generally indicates a problem that needs cleaning or organizing. In creative contexts, a 'messy' process might be productive, but the outcome shouldn't be.",
+    "synonyms": [
+      "untidy",
+      "disorganized",
+      "chaotic",
+      "sloppy",
+      "complicated"
+    ],
+    "antonyms": [
+      "tidy",
+      "neat",
+      "organized",
+      "clean",
+      "straightforward"
+    ],
+    "nounForm": "mess",
+    "verbForm": "mess up",
+    "adjectiveForm": "messy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing spaces, situations, processes, personal appearance",
+    "usageTip": "Use for both physical disorder (a messy room) and complicated, unpleasant situations (a messy argument).",
+    "commonMistake": "Using 'dirty' when 'messy' is better; dirty implies grime, messy implies disorder.",
+    "collocations": [
+      "messy divorce",
+      "messy desk",
+      "messy hair",
+      "get messy",
+      "messy situation"
+    ]
+  },
+  {
+    "word": "Messy",
+    "meaning": "Disorganized, unclear, or full of complex problems",
+    "shortMeaning": "disorganized",
+    "example": "The codebase is quite messy and hard to read.",
+    "example2": "We cleaned up the messy data before the analysis.",
+    "example3": "Avoid making the integration process too messy.",
+    "Explanation": "The word 'messy' is an informal way to describe anything that is disorganized, cluttered, or difficult to work with. In IT, a 'messy' codebase is one that lacks structure, has inconsistent naming, or contains unused code. 'Messy' data is data that is inconsistent, incomplete, or formatted poorly. Keeping things clean and organized is a core goal of professional development; therefore, 'messy' is almost always a negative term. It signals that the system is prone to bugs and is difficult to maintain.",
+    "synonyms": [
+      "disorganized",
+      "cluttered",
+      "sloppy"
+    ],
+    "antonyms": [
+      "clean",
+      "structured",
+      "organized"
+    ],
+    "nounForm": "mess",
+    "verbForm": "N/A",
+    "adjectiveForm": "messy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code quality and data processing",
+    "usageTip": "Use to describe any lack of organization or clarity.",
+    "commonMistake": "Being too polite about 'messy' code that needs urgent fixing.",
+    "collocations": [
+      "messy code",
+      "messy data",
+      "messy integration"
+    ]
+  }
+]

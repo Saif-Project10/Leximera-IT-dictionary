@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Inline",
+    "meaning": "Placed directly within the same line or element",
+    "shortMeaning": "on the same line",
+    "example": "Use inline CSS for small style changes.",
+    "example2": "The button is an inline element.",
+    "example3": "We added an inline comment for clarity.",
+    "Explanation": "The term 'inline' refers to placing code, styles, or content directly into the flow of other content, rather than in a separate file or a separate block. In HTML, an inline element sits next to other items on the same line. While 'inline' is quick and easy, it is usually better to keep styles and logic in separate files for large projects to stay organized.",
+    "synonyms": [
+      "embedded",
+      "in-line",
+      "direct"
+    ],
+    "antonyms": [
+      "block-level",
+      "external"
+    ],
+    "nounForm": "line",
+    "verbForm": "N/A",
+    "adjectiveForm": "inline",
+    "partOfSpeech": "adjective",
+    "commonContext": "HTML/CSS, programming documentation",
+    "usageTip": "Use 'inline' to describe styles or comments placed directly in code.",
+    "commonMistake": "Overusing inline styles; it makes code very hard to maintain.",
+    "collocations": [
+      "inline CSS",
+      "inline element",
+      "inline comment"
+    ]
+  },
+  {
+    "word": "Inline",
+    "meaning": "Placed or arranged within a line or a sequence",
+    "shortMeaning": "on the same line",
+    "example": "The developer wrote an inline comment to explain the logic.",
+    "example2": "Use inline CSS to style only this specific element.",
+    "example3": "The compiler will perform inline expansion for small functions.",
+    "Explanation": "In IT, 'inline' refers to code, styles, or functions that are written directly within the main flow of text or code rather than in a separate file or section. For example, inline CSS is written directly in the HTML tag. Inline functions in programming are expanded by the compiler to save time. While it makes things quick to write, too much 'inline' content can make code messy and hard to maintain later.",
+    "synonyms": [
+      "embedded",
+      "internal",
+      "integrated"
+    ],
+    "antonyms": [
+      "external",
+      "detached",
+      "separate"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "inline",
+    "adjectiveForm": "inline",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Web development, coding, documentation",
+    "usageTip": "Use 'inline' to describe something that is not in a separate file.",
+    "commonMistake": "Thinking 'inline' means 'online'.",
+    "collocations": [
+      "inline CSS",
+      "inline code",
+      "inline function"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Retrospective",
+    "meaning": "A meeting held at the end of an Agile sprint (or project phase) where the team reflects on what went well, what could be improved, and creates action plans for improvement.",
+    "shortMeaning": "reflection meeting",
+    "example": "In the retrospective, we identified that our code reviews were taking too long.",
+    "example2": "The retrospective is a safe space for the team to discuss process issues openly.",
+    "example3": "We came out of the retrospective with three actionable items to try in the next sprint.",
+    "Explanation": "The sprint retrospective is a core Agile ceremony focused on continuous improvement. It's not about blaming individuals but about inspecting the team's process and environment. A common format is 'Start, Stop, Continue' or discussing 'What went well?', 'What didn't go well?', 'What can we improve?'. The outcome should be concrete action items that the team owns. A common mistake is skipping the retrospective or making it a complaint session without actionable outcomes. It's one of the most important practices for a team to become self-organizing and to improve its effectiveness over time.",
+    "synonyms": [
+      "retro",
+      "post-mortem",
+      "lessons learned"
+    ],
+    "antonyms": [
+      "planning meeting",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "retrospective",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Agile, Scrum, team process improvement",
+    "usageTip": "Often shortened to 'retro' in informal team communication.",
+    "commonMistake": "Confusing it with the 'sprint review'. The review is about demonstrating the product; the retrospective is about improving the team's process.",
+    "collocations": [
+      "sprint retrospective",
+      "hold a retrospective",
+      "action items from retrospective"
+    ]
+  },
+  {
+    "word": "Retrospective",
+    "meaning": "Looking back on or dealing with past events",
+    "shortMeaning": "looking back",
+    "example": "In retrospective, we should have tested the software more.",
+    "example2": "The museum held a retrospective of his early paintings.",
+    "example3": "A retrospective analysis revealed the cause of the failure.",
+    "Explanation": "A 'retrospective' is an examination or review of past actions, events, or works. It is often used in project management to evaluate how a project went and what can be improved for the future. In art or career contexts, it refers to an exhibition or study showing the development of someone's work over time. It helps teams learn from their experiences. Always use this when analyzing history to improve future performance.",
+    "synonyms": [
+      "review",
+      "survey",
+      "hindsight"
+    ],
+    "antonyms": [
+      "anticipatory",
+      "prospective",
+      "forward-looking"
+    ],
+    "nounForm": "retrospection",
+    "verbForm": "N/A",
+    "adjectiveForm": "retrospective",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Project management, art, analysis",
+    "usageTip": "Commonly used in Agile teams to discuss finished tasks.",
+    "commonMistake": "Confusing it with 'retroactive' which deals with legal timing.",
+    "collocations": [
+      "retrospective analysis",
+      "project retrospective",
+      "in retrospect"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Reckless",
+    "meaning": "Without thinking or caring about the consequences of an action; rash.",
+    "shortMeaning": "rash, careless",
+    "example": "He was arrested for reckless driving.",
+    "example2": "Her reckless spending left her in debt.",
+    "example3": "It was reckless to go hiking without proper equipment.",
+    "Explanation": "'Reckless' is an adjective with a strongly negative meaning. It describes someone who acts without considering danger or the effects of their actions on themselves or others. It implies a lack of caution and a disregard for safety or rules. It is often used in legal contexts (reckless endangerment) and everyday criticism of irresponsible behavior. The noun form is 'recklessness'. It's a powerful word to condemn actions that are foolishly bold or dangerously irresponsible. The opposite is 'careful' or 'prudent'.",
+    "synonyms": [
+      "rash",
+      "careless",
+      "irresponsible",
+      "heedless"
+    ],
+    "antonyms": [
+      "cautious",
+      "careful",
+      "prudent",
+      "responsible"
+    ],
+    "nounForm": "recklessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "reckless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Driving, behavior, decisions, accusations",
+    "usageTip": "Often followed by 'with' (reckless with money) or used before a noun (reckless abandon).",
+    "commonMistake": "Confusing it with 'wreckless' (which is not a word). The correct spelling is 'reckless'.",
+    "collocations": [
+      "reckless driving",
+      "reckless behavior",
+      "reckless disregard",
+      "reckless endangerment"
+    ]
+  },
+  {
+    "word": "Reckless",
+    "meaning": "Acting without thinking about the dangers",
+    "shortMeaning": "careless",
+    "example": "It was reckless to deploy the code without testing.",
+    "example2": "Reckless changes can crash the entire system.",
+    "example3": "He was criticized for his reckless approach.",
+    "Explanation": "The word 'reckless' describes someone who takes risks without considering the possible consequences. It is a strong negative term. In IT, 'reckless' behavior includes pushing code directly to production without testing, or deleting files without backups. Professionalism demands the opposite of recklessness. Always think through the potential impact of your actions before executing them to ensure system safety. Recklessness is a common cause of preventable downtime.",
+    "synonyms": [
+      "careless",
+      "irresponsible",
+      "thoughtless"
+    ],
+    "antonyms": [
+      "careful",
+      "cautious",
+      "responsible"
+    ],
+    "nounForm": "recklessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "reckless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace, code safety",
+    "usageTip": "Use to warn about dangerous behaviors.",
+    "commonMistake": "Confusing 'reckless' with 'brave' (reckless lacks caution).",
+    "collocations": [
+      "reckless behavior",
+      "reckless approach",
+      "highly reckless"
+    ]
+  }
+]

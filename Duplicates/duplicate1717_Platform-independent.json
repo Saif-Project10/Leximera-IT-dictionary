@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Platform-independent",
+    "meaning": "Describing software or hardware that can function on any operating system or platform",
+    "shortMeaning": "works everywhere",
+    "example": "Python is a platform-independent language used for various tasks.",
+    "example2": "The developer chose a platform-independent framework to save time.",
+    "example3": "Platform-independent apps are easier to distribute to global users.",
+    "Explanation": "The term platform-independent is an adjective used to describe tools or software that are not limited to one environment. This is a highly desirable trait in the modern world where people use various devices like phones, tablets, and PCs. Creating platform-independent software usually involves using standards that are recognized by all systems. While it can sometimes be slower than platform-specific software, the ease of maintenance is a huge plus. Most web-based technologies are naturally platform-independent. It allows for a single codebase to serve many different users. It is a core principle in modern app development.",
+    "synonyms": [
+      "cross-platform",
+      "multi-platform",
+      "agnostic"
+    ],
+    "antonyms": [
+      "platform-dependent",
+      "native",
+      "specific"
+    ],
+    "nounForm": "platform independence",
+    "verbForm": "N/A",
+    "adjectiveForm": "platform-independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development and web tech",
+    "usageTip": "Use this to describe the 'versatility' of a software product.",
+    "commonMistake": "Writing it as two words without a hyphen when used as an adjective before a noun.",
+    "collocations": [
+      "platform-independent software",
+      "platform-independent language",
+      "highly platform-independent"
+    ]
+  },
+  {
+    "word": "Platform-independent",
+    "meaning": "Capable of running on any operating system or hardware",
+    "shortMeaning": "universal/cross-platform",
+    "example": "Java is designed to be platform-independent.",
+    "example2": "We need a platform-independent tool for our project.",
+    "example3": "A platform-independent web app runs in any browser.",
+    "Explanation": "The term 'platform-independent' (often synonymous with cross-platform) describes software that is not tied to one specific OS (like Windows or Linux) or hardware architecture. It can function across different environments without modifications. The noun form is 'independence'. This is a highly desirable quality for modern software to reach the widest possible audience. It often implies the use of interpreted languages or standardized web technologies.",
+    "synonyms": [
+      "cross-platform",
+      "portable",
+      "universal"
+    ],
+    "antonyms": [
+      "platform-dependent",
+      "specific",
+      "exclusive"
+    ],
+    "nounForm": "independence",
+    "verbForm": "N/A",
+    "adjectiveForm": "platform-independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, networking",
+    "usageTip": "Use to describe code that runs everywhere.",
+    "commonMistake": "Assuming all web apps are truly platform-independent without testing.",
+    "collocations": [
+      "platform-independent code",
+      "platform-independent software",
+      "ensure platform-independence"
+    ]
+  }
+]

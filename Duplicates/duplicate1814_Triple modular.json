@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Triple modular",
+    "meaning": "A design using three identical components to ensure a system keeps working",
+    "shortMeaning": "three-part redundant design",
+    "example": "The spacecraft uses a triple modular computer system for safety.",
+    "example2": "Triple modular designs are expensive but very reliable.",
+    "example3": "The engineers chose a triple modular approach for the power grid controller.",
+    "Explanation": "Triple modular refers to a structural design principle where three functional units perform the same task simultaneously. The results from these three units are usually compared. If one unit fails or produces a different result, the other two can 'outvote' it, allowing the system to continue functioning correctly. This is a form of hardware fault tolerance. It is used in critical environments where a single point of failure could be catastrophic, such as in aerospace, nuclear power plants, or medical equipment. The term implies a high level of built-in safety. It is often the first half of the term 'Triple Modular Redundancy' (TMR).",
+    "synonyms": [
+      "three-unit",
+      "triplicate"
+    ],
+    "antonyms": [
+      "single-unit",
+      "non-redundant"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "triple modular",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Safety-critical systems and hardware engineering",
+    "usageTip": "Use this to describe a system that has three 'brains' instead of one for safety.",
+    "commonMistake": "Confusing it with 'triple speed' or 'triple capacity'; it's about reliability, not performance.",
+    "collocations": [
+      "triple modular architecture",
+      "triple modular design",
+      "triple modular system"
+    ]
+  },
+  {
+    "word": "Triple modular",
+    "meaning": "A system architecture where three components perform the same operation to ensure reliability.",
+    "shortMeaning": "three-part redundancy",
+    "example": "The flight control system uses triple modular redundancy.",
+    "example2": "Triple modular systems are vital for critical infrastructure.",
+    "example3": "We implemented a triple modular design to prevent hardware failure.",
+    "Explanation": "The term 'triple modular' refers to a fault-tolerance design where three independent modules compute the same result. A majority-voting system then compares these results to determine the correct output, ensuring the system remains functional even if one module fails. This is highly used in aerospace, medical, and mission-critical server environments. It is a specialized technical term for redundancy. Always mention 'redundancy' when using this phrase to explain the context.",
+    "synonyms": [
+      "TMR",
+      "triple redundancy"
+    ],
+    "antonyms": [
+      "single point of failure",
+      "non-redundant"
+    ],
+    "nounForm": "triple modular redundancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "triple modular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Fault tolerance, aerospace, and high-reliability computing",
+    "usageTip": "Use 'triple modular' to explain high-level redundancy systems.",
+    "commonMistake": "Confusing it with simple backup systems.",
+    "collocations": [
+      "triple modular redundancy",
+      "TMR system",
+      "triple modular architecture"
+    ]
+  },
+  {
+    "word": "Triple modular",
+    "meaning": "A system that uses three identical modules to ensure reliability",
+    "shortMeaning": "triple redundancy",
+    "example": "The flight computer uses a triple modular setup.",
+    "example2": "Triple modular redundancy prevents system failure.",
+    "example3": "The system compares output from the triple modular units.",
+    "Explanation": "Triple modular redundancy is a fault-tolerance method where three modules perform the same operation. A majority-rule system compares their outputs to ensure the result is correct. If one module fails or provides a different result, the system ignores it. This is used in high-stakes environments like aviation, aerospace, and medical systems. It provides extreme reliability by design.",
+    "synonyms": [
+      "TMR",
+      "triple redundancy"
+    ],
+    "antonyms": [
+      "single point of failure"
+    ],
+    "nounForm": "triple modular redundancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "triple modular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware engineering, safety-critical systems",
+    "usageTip": "Use this specifically when discussing high-reliability, fault-tolerant hardware.",
+    "commonMistake": "Confusing it with simple parallel processing.",
+    "collocations": [
+      "triple modular redundancy",
+      "triple modular system",
+      "triple modular setup"
+    ]
+  }
+]

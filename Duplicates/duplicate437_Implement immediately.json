@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Implement immediately",
+    "meaning": "To put a plan, decision, or system into effect without any delay.",
+    "shortMeaning": "put into action right away",
+    "example": "The CEO ordered that the new safety procedures be implemented immediately.",
+    "example2": "Once the policy is approved, we will implement it immediately.",
+    "example3": "This is a critical fix; implement it immediately.",
+    "Explanation": "The verb phrase 'implement immediately' is a strong directive used in management, IT, and operations. 'Implement' means to put into practical effect. 'Immediately' stresses urgency. Together, they convey that action should start now, with no time for hesitation or further discussion. It is formal and authoritative. A common mistake is giving an 'implement immediately' order without providing the necessary resources or instructions, which can lead to confusion. It's used for high-priority changes, security patches, or emergency responses. It bypasses normal planning cycles.",
+    "synonyms": [
+      "execute at once",
+      "put into effect now",
+      "roll out immediately"
+    ],
+    "antonyms": [
+      "postpone implementation",
+      "delay action",
+      "phase in gradually"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "implement immediately",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Business, IT, crisis management, policy",
+    "usageTip": "A formal command. In less formal settings, 'put this into action right away' works.",
+    "commonMistake": "Confusing 'implement' (to put into practice) with 'implicate' (to show involvement in a crime).",
+    "collocations": [
+      "must implement immediately",
+      "ordered to implement immediately",
+      "plan to implement immediately"
+    ]
+  },
+  {
+    "word": "Implement immediately",
+    "meaning": "To put a plan or code change into effect without any delay",
+    "shortMeaning": "apply right away",
+    "example": "The security patch must be implemented immediately to stop the hack.",
+    "example2": "The manager told us to implement immediately the new UI changes.",
+    "example3": "If the test fails, we will implement immediately a rollback to the old version.",
+    "Explanation": "In a professional IT environment, 'implementing immediately' is usually reserved for critical bugs, security vulnerabilities, or urgent business requirements. It means skipping or shortening the usual long waiting periods between development and release. While it solves problems fast, it carries a risk because there is less time for testing. Most companies use this phrase during 'hotfixes' where a live system is broken and needs an instant repair.",
+    "synonyms": [
+      "execute instantly",
+      "apply now",
+      "deploy at once"
+    ],
+    "antonyms": [
+      "delay",
+      "postpone",
+      "defer"
+    ],
+    "nounForm": "immediate implementation",
+    "verbForm": "implement immediately",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Emergency fixes and urgent project updates",
+    "usageTip": "Use this only when a situation is truly urgent, as 'immediate' implies high priority.",
+    "commonMistake": "Saying 'implement immediately' for non-urgent tasks, which can stress out a team.",
+    "collocations": [
+      "implement immediately after testing",
+      "plan to implement immediately",
+      "N/A"
+    ]
+  }
+]

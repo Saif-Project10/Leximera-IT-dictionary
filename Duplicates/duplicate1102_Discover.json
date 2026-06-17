@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Discover",
+    "meaning": "To find something or someone unexpectedly or in the course of a search",
+    "shortMeaning": "find, learn",
+    "example": "Scientists discovered a new species of fish.",
+    "example2": "I discovered that I had left my keys at home.",
+    "example3": "Columbus is credited with discovering America.",
+    "Explanation": "'Discover' is a fundamental verb meaning to be the first to find, observe, or learn about something that was previously unknown. It implies newness and revelation. This word is used in exploration, science, history, and personal experience. The noun form is 'discovery'. Discovering can be intentional (through research) or accidental. It is one of the driving forces of human progress. The word is more specific than 'find'; you discover something new or previously hidden, while you can find something you lost.",
+    "synonyms": [
+      "find",
+      "uncover",
+      "locate",
+      "learn",
+      "realize"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "overlook",
+      "miss"
+    ],
+    "nounForm": "discovery",
+    "verbForm": "discover",
+    "adjectiveForm": "discovered",
+    "partOfSpeech": "verb",
+    "commonContext": "Science, exploration, personal realizations, history",
+    "usageTip": "Use 'discover' for finding something new, either to the world or to yourself.",
+    "commonMistake": "Using 'discover' to mean 'invent'. You discover something that already exists (a planet); you invent something new (a machine).",
+    "collocations": [
+      "discover the truth",
+      "newly discovered",
+      "discover a talent"
+    ]
+  },
+  {
+    "word": "Discover",
+    "meaning": "To find information, a place, or an object for the first time",
+    "shortMeaning": "find out",
+    "example": "Scientists hope to discover a new way to store energy.",
+    "example2": "We discovered a major security flaw during the audit.",
+    "example3": "The browser can automatically discover devices on the network.",
+    "Explanation": "To discover means to gain knowledge of something that existed but was not known before. In IT, 'service discovery' is a key concept where systems find each other automatically. It is a proactive word that implies exploration or investigation. Unlike 'inventing' (making something new), discovering is about finding what is already there. It is used frequently in research, data analysis, and software networking to describe finding hidden patterns or connections.",
+    "synonyms": [
+      "find",
+      "locate",
+      "uncover",
+      "identify"
+    ],
+    "antonyms": [
+      "hide",
+      "lose",
+      "miss",
+      "ignore"
+    ],
+    "nounForm": "discovery",
+    "verbForm": "discover",
+    "adjectiveForm": "discoverable",
+    "partOfSpeech": "verb",
+    "commonContext": "Scientific research, software networking, and general exploration",
+    "usageTip": "Use 'discover' when you find something that was hidden or unknown.",
+    "commonMistake": "Confusing 'discover' with 'invent' (you discover America, but you invent the telephone).",
+    "collocations": [
+      "discover a secret",
+      "discover a cure",
+      "automatically discover"
+    ]
+  }
+]

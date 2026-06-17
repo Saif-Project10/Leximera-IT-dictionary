@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Address",
+    "meaning": "To deal with or discuss a problem or task; the details of where someone lives or an organization is located",
+    "shortMeaning": "deal with a problem; location",
+    "example": "We need to address the customer complaints immediately.",
+    "example2": "What is your mailing address?",
+    "example3": "The president will address the nation tonight.",
+    "Explanation": "'Address' has two common uses. As a verb, it means to give attention to or tackle an issue (address a problem). As a noun, it refers to a specific location (home address) or a formal speech. The verb form is powerful in professional contexts, implying proactive management. The key is to identify which meaning fits the context: solving something or locating something/someone.",
+    "synonyms": [
+      "deal with",
+      "tackle",
+      "handle",
+      "confront",
+      "location"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "avoid",
+      "overlook"
+    ],
+    "nounForm": "address",
+    "verbForm": "address",
+    "adjectiveForm": "addressed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Problem-solving, business meetings, mail and shipping, formal speeches",
+    "usageTip": "As a verb, it's often used in business to mean 'to handle' (We will address that issue).",
+    "commonMistake": "Confusing the verb form with the noun form in a sentence.",
+    "collocations": [
+      "address an issue",
+      "email address",
+      "public address",
+      "home address"
+    ]
+  },
+  {
+    "word": "Address",
+    "meaning": "A unique identifier for a location in memory, on a network, or on the web",
+    "shortMeaning": "unique location",
+    "example": "Every computer on the internet has a unique IP address.",
+    "example2": "The CPU needs to know the memory address to retrieve the data.",
+    "example3": "Please enter your email address in the contact form.",
+    "Explanation": "In IT, an 'address' is a label that tells the system where to find something. This could be an IP address (for a network), a MAC address (for hardware), or a memory address (for storage). It acts like a house address but for digital data. It is also used as a verb meaning 'to deal with' (e.g., 'address a problem'). Understanding addressing is vital for networking and low-level programming. Without addresses, data would get lost in the system.",
+    "synonyms": [
+      "location",
+      "label",
+      "handle"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "address",
+    "verbForm": "address",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Networking, memory, and communication",
+    "usageTip": "Use 'address' to talk about the 'where' of data or to 'deal with' a task.",
+    "commonMistake": "Confusing a 'URL' with an 'IP address'; a URL is a name, an IP is a number.",
+    "collocations": [
+      "IP address",
+      "memory address",
+      "address a bug"
+    ]
+  }
+]

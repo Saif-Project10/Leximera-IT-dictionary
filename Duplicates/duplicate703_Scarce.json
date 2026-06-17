@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Scarce",
+    "meaning": "Insufficient for the demand; not plentiful.",
+    "shortMeaning": "rare; in short supply",
+    "example": "Fresh water is scarce in the desert.",
+    "example2": "Jobs were scarce during the economic crisis.",
+    "example3": "Details about the incident are scarce.",
+    "Explanation": "'Scarce' describes something that exists in very small quantities relative to need or desire. It often implies difficulty in obtaining it. The adverb is 'scarcely', meaning 'hardly' or 'almost not'. The word is used in economics (scarcity of resources), journalism (scarce information), and everyday life (scarce time). It has a more formal tone than 'rare'. Something can be rare (uncommon) without being scarce if there is no demand for it.",
+    "synonyms": [
+      "rare",
+      "limited",
+      "in short supply",
+      "sparse"
+    ],
+    "antonyms": [
+      "plentiful",
+      "abundant",
+      "common",
+      "ample"
+    ],
+    "nounForm": "scarcity",
+    "verbForm": "N/A",
+    "adjectiveForm": "scarce",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resources, economics, information, commodities",
+    "usageTip": "Use 'scarce' when something is not only rare but also needed or wanted, making it hard to get.",
+    "commonMistake": "Using 'scarce' to describe a person who is rarely seen. 'He is scarce' is informal; 'He is rarely seen' is better.",
+    "collocations": [
+      "make oneself scarce",
+      "scarce resources",
+      "increasingly scarce",
+      "scarce commodity"
+    ]
+  },
+  {
+    "word": "Scarce",
+    "meaning": "Rare, limited, or in short supply.",
+    "shortMeaning": "hard to find",
+    "example": "Documentation for this legacy system is quite scarce.",
+    "example2": "Qualified developers are scarce in some regions.",
+    "example3": "Resources were scarce during the early startup phase.",
+    "Explanation": "The word 'scarce' describes something that is not abundant and is difficult to find. In IT, you might refer to scarce resources, such as specialized knowledge, server hardware during a shortage, or high-quality datasets. When something is scarce, it becomes more valuable or requires extra effort to obtain. It is the opposite of abundant and is a common term in planning and supply management.",
+    "synonyms": [
+      "rare",
+      "limited",
+      "few"
+    ],
+    "antonyms": [
+      "abundant",
+      "plentiful",
+      "common"
+    ],
+    "nounForm": "scarcity",
+    "verbForm": "N/A",
+    "adjectiveForm": "scarce",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resources, data, and personnel",
+    "usageTip": "Use 'scarce' when talking about limited supply.",
+    "commonMistake": "Confusing 'scarce' with 'missing'; scarce implies it exists but is rare.",
+    "collocations": [
+      "scarce resources",
+      "quite scarce",
+      "becoming scarce"
+    ]
+  }
+]

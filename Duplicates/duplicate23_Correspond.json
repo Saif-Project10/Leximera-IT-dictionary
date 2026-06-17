@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Correspond",
+    "meaning": "To be similar, equivalent, or match; to communicate by exchanging letters | To have a close similarity, match, or agreement; to communicate by exchanging letters.",
+    "shortMeaning": "match or exchange letters",
+    "example": "The witness's description corresponds with the security footage.",
+    "example2": "For years, they corresponded through handwritten letters.",
+    "example3": "The numbers on the diagram correspond to the parts list.",
+    "Explanation": "'Correspond' has two distinct uses. First, it means to have a close similarity or agreement (facts correspond). Second, it means to communicate by writing letters. The noun form is 'correspondence', which can mean either 'agreement' or 'letters'. It's a formal word. In the first sense, it is often used in scientific, technical, and analytical writing to show alignment between data sets or ideas.",
+    "synonyms": [
+      "Agree",
+      "Coincide",
+      "Communicate",
+      "Conform",
+      "Match",
+      "Write"
+    ],
+    "antonyms": [
+      "Contradict",
+      "Contrast",
+      "Differ",
+      "Disagree"
+    ],
+    "nounForm": "correspondence",
+    "verbForm": "correspond",
+    "adjectiveForm": "corresponding",
+    "partOfSpeech": "verb",
+    "commonContext": "Data analysis, verification, written communication, comparisons",
+    "usageTip": "For matching, use 'correspond to/with'. For letter-writing, use 'correspond with' a person.",
+    "commonMistake": "Using 'correspond about' for matching; use 'correspond to' or 'correspond with'.",
+    "collocations": [
+      "correspond directly to",
+      "correspond with each other",
+      "closely correspond",
+      "correspond regularly"
+    ]
+  },
+  {
+    "word": "Correspond",
+    "meaning": "To match or be very similar to something else",
+    "shortMeaning": "match",
+    "example": "The numbers on the chart should correspond to the values in the table.",
+    "example2": "Her actions do not correspond with her words.",
+    "example3": "Each button on the controller will correspond to a specific move in the game.",
+    "Explanation": "When two things correspond, they fit together or are equivalent in some way. In technical manuals, a diagram might have labels that correspond to a list of parts. It can also mean communicating by writing letters or emails. In software engineering, you might say that a specific piece of code corresponds to a specific user requirement. It is a formal way to describe a mapping or a matching relationship. It helps ensure that different parts of a project are in sync with each other.",
+    "synonyms": [
+      "match",
+      "agree",
+      "fit"
+    ],
+    "antonyms": [
+      "differ",
+      "clash",
+      "disagree"
+    ],
+    "nounForm": "correspondence",
+    "verbForm": "correspond",
+    "adjectiveForm": "corresponding",
+    "partOfSpeech": "verb",
+    "commonContext": "Data mapping, communication, comparisons",
+    "usageTip": "Use 'correspond with' or 'correspond to' when comparing two lists or ideas.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "directly correspond",
+      "closely correspond",
+      "correspond with reality"
+    ]
+  }
+]

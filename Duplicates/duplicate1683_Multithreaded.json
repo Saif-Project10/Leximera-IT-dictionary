@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Multithreaded",
+    "meaning": "A program that is designed to perform several tasks at the same time by breaking itself into smaller parts",
+    "shortMeaning": "running multiple threads",
+    "example": "The video editor is multithreaded, so it uses all the cores of my CPU.",
+    "example2": "Chrome is a multithreaded browser that keeps each tab separate.",
+    "example3": "Writing multithreaded code is difficult because you have to prevent bugs called 'deadlocks'.",
+    "Explanation": "A multithreaded application is one that can execute multiple 'threads' (lightweight sequences of instructions) simultaneously. For example, in a word processor, one thread might handle the text you are typing, another might check your spelling, and a third might save the file in the background. By doing this, the app stays responsive even when it's doing heavy work. It is a way of achieving parallelism within a single program. Most modern software, especially games and web servers, is multithreaded to take advantage of multi-core processors. It requires careful planning to make sure threads don't fight over the same data.",
+    "synonyms": [
+      "concurrent",
+      "parallel-running"
+    ],
+    "antonyms": [
+      "single-threaded"
+    ],
+    "nounForm": "multithreading",
+    "verbForm": "N/A",
+    "adjectiveForm": "multithreaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development and performance optimization",
+    "usageTip": "Use 'multithreaded' to describe software that is fast and can do many things at once.",
+    "commonMistake": "Thinking that making an app multithreaded always makes it faster; sometimes the 'overhead' of managing threads makes it slower.",
+    "collocations": [
+      "multithreaded application",
+      "multithreaded environment",
+      "highly multithreaded"
+    ]
+  },
+  {
+    "word": "Multithreaded",
+    "meaning": "A program capable of running several threads of execution concurrently",
+    "shortMeaning": "concurrent execution",
+    "example": "The Java application is heavily multithreaded.",
+    "example2": "Multithreaded code is faster but harder to debug.",
+    "example3": "We need a multithreaded downloader for large files.",
+    "Explanation": "A 'multithreaded' program is one that breaks a task into smaller units of work called 'threads' and runs them at the same time. This is different from a single-threaded program, which runs things one after another. Multithreading allows programs to remain responsive while doing heavy work in the background. However, it introduces complexity, such as 'race conditions', where multiple threads try to change the same data at once, leading to bugs that are very difficult to reproduce.",
+    "synonyms": [
+      "concurrent",
+      "parallel"
+    ],
+    "antonyms": [
+      "single-threaded",
+      "sequential"
+    ],
+    "nounForm": "multithreading",
+    "verbForm": "N/A",
+    "adjectiveForm": "multithreaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and software performance",
+    "usageTip": "Use to describe code that runs several tasks concurrently.",
+    "commonMistake": "Thinking multithreading always makes code faster (it can cause overhead).",
+    "collocations": [
+      "multithreaded application",
+      "multithreaded code"
+    ]
+  }
+]

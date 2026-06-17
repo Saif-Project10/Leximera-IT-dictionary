@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Promise",
+    "meaning": "A declaration that one will do something; or potential for future success",
+    "shortMeaning": "pledge, or potential",
+    "example": "He made a promise to be on time.",
+    "example2": "The young athlete shows great promise.",
+    "example3": "I promise I will help you.",
+    "Explanation": "'Promise' is a versatile word. As a noun, it is a commitment or assurance that one will do something. It also means signs of future excellence (a student of promise). As a verb, it means to give one's word. Keeping a promise is seen as a sign of integrity. Breaking a promise damages trust. The word is fundamental in relationships, contracts, and personal ethics. The concept of potential (shows promise) is also very common in talent evaluation.",
+    "synonyms": [
+      "pledge",
+      "vow (noun)",
+      "swear (verb)"
+    ],
+    "antonyms": [
+      "threat",
+      "lie (noun)",
+      "renege (verb)"
+    ],
+    "nounForm": "promise",
+    "verbForm": "promise",
+    "adjectiveForm": "promising",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Personal commitments, child development, contracts",
+    "usageTip": "As a verb, it can be followed by an infinitive (promise to go) or a clause (promise that you'll go).",
+    "commonMistake": "Saying 'I promise you' when making a simple assurance; 'I promise' is often enough.",
+    "collocations": [
+      "break a promise",
+      "hold promise",
+      "campaign promise"
+    ]
+  },
+  {
+    "word": "Promise",
+    "meaning": "A statement that you will definitely do something or that something will happen",
+    "shortMeaning": "guarantee or pledge",
+    "example": "I promise to finish the report by Friday morning.",
+    "example2": "The new software update holds a lot of promise for better security.",
+    "example3": "In JavaScript, a 'Promise' represents a task that will finish in the future.",
+    "Explanation": "In daily life, a promise is a personal commitment. In programming (specifically JavaScript), a 'Promise' is a very specific technical concept. It is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value. For example, when you ask a server for data, it gives you a 'Promise' that says, 'I'm working on it, and I'll let you know when I'm done.' This allows the rest of the program to keep running without waiting for the slow server.",
+    "synonyms": [
+      "pledge",
+      "commitment",
+      "guarantee"
+    ],
+    "antonyms": [
+      "betrayal",
+      "denial"
+    ],
+    "nounForm": "promise",
+    "verbForm": "promise",
+    "adjectiveForm": "promising",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Daily conversation and JavaScript programming",
+    "usageTip": "In coding, remember a Promise can be in three states: pending, fulfilled, or rejected.",
+    "commonMistake": "Making a promise you cannot keep (both in life and in code architecture).",
+    "collocations": [
+      "keep a promise",
+      "break a promise",
+      "resolve a Promise"
+    ]
+  }
+]

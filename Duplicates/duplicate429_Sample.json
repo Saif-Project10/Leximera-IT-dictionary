@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sample",
+    "meaning": "A small part or quantity intended to show what the whole is like.",
+    "shortMeaning": "specimen, try",
+    "example": "The supermarket was giving out free food samples.",
+    "example2": "The doctor took a blood sample for testing.",
+    "example3": "I listened to a sample of the song before buying it.",
+    "Explanation": "The noun 'sample' is a portion taken from a larger whole to represent its quality or nature. It is used in science (tissue sample), commerce (product sample), music (audio sample), and statistics. As a verb, it means to try a small amount. The key idea is representation and testing. A common mistake is confusing it with 'example'. An example is an instance that illustrates a rule; a sample is a piece taken for analysis. Samples are used to make inferences about the larger group without examining everything.",
+    "synonyms": [
+      "specimen",
+      "example",
+      "taste"
+    ],
+    "antonyms": [
+      "whole",
+      "entirety",
+      "population"
+    ],
+    "nounForm": "sample",
+    "verbForm": "sample",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Shopping, medicine, music, research",
+    "usageTip": "In statistics, a 'sample size' is the number of observations in a sample.",
+    "commonMistake": "Saying 'a sample of people' when you mean 'an example of a person'. A sample represents a group; an example illustrates a point.",
+    "collocations": [
+      "free sample",
+      "random sample",
+      "sample size"
+    ]
+  },
+  {
+    "word": "Sample",
+    "meaning": "A small part or selection taken from a larger group to be tested or analyzed",
+    "shortMeaning": "small test selection",
+    "example": "The researcher took a data sample from the database to check for formatting errors.",
+    "example2": "You can listen to an audio sample before purchasing the entire music kit.",
+    "example3": "The quality team will sample a few products from the assembly line today.",
+    "Explanation": "The word 'Sample' can be used as a noun (a selection) or a verb (to take a selection). In data analysis and statistics, studying an entire population is often impossible due to time or resource limits, so engineers use a sample instead. This small subgroup must accurately reflect the characteristics of the larger group to provide valid test results. In digital media, a sample refers to a short snippet of a sound file or an image. High-quality sampling leads to better insights and accurate software testing updates.",
+    "synonyms": [
+      "specimen",
+      "example",
+      "selection"
+    ],
+    "antonyms": [
+      "whole",
+      "entirety",
+      "population"
+    ],
+    "nounForm": "sample / sampling",
+    "verbForm": "sample",
+    "adjectiveForm": "sampled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Data analysis, statistical testing, media file previews, quality checks",
+    "usageTip": "Use 'sample' when you are selecting a manageable slice of data to analyze or evaluate trends.",
+    "commonMistake": "Selecting a biased sample that does not match the true variety of the complete dataset.",
+    "collocations": [
+      "data sample",
+      "random sample",
+      "take a sample"
+    ]
+  }
+]

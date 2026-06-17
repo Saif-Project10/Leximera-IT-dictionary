@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Unhashed",
+    "meaning": "(Of data, especially passwords) not converted into a fixed-size string of characters (a hash) by a cryptographic function",
+    "shortMeaning": "not converted to a hash",
+    "example": "Storing unhashed passwords is a severe security flaw.",
+    "example2": "The database leak exposed millions of unhashed user credentials.",
+    "example3": "Always ensure sensitive data like passwords are hashed, not unhashed.",
+    "Explanation": "The adjective 'unhashed' is a technical security term. Hashing is a one-way cryptographic process that turns input (like a password) into a unique, fixed-length string. 'Unhashed' means this process has not been applied, leaving the original, sensitive data readable. It is a critical concept in security because storing passwords in an unhashed (or even encrypted) form is considered poor practice; they should be strongly hashed and salted.",
+    "synonyms": [
+      "not hashed",
+      "in plaintext (for passwords)"
+    ],
+    "antonyms": [
+      "hashed",
+      "salted and hashed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "hash",
+    "adjectiveForm": "unhashed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, password storage, database security",
+    "usageTip": "Almost exclusively used in a negative context, highlighting a security vulnerability.",
+    "commonMistake": "Confusing 'unhashed' with 'unencrypted'. Hashing is one-way (cannot be reversed), encryption is two-way (can be decrypted).",
+    "collocations": [
+      "unhashed passwords",
+      "unhashed data",
+      "stored unhashed"
+    ]
+  },
+  {
+    "word": "Unhashed",
+    "meaning": "Not converted by a hashing algorithm; raw data",
+    "shortMeaning": "not hashed",
+    "example": "The database accidentally stored the passwords as unhashed text.",
+    "example2": "Compare the unhashed input with the stored hash value.",
+    "example3": "Never send unhashed data if integrity verification is required.",
+    "Explanation": "Hashing is the process of converting data into a fixed-length string of characters for security. If data is 'unhashed', it remains in its original form. Storing sensitive information like passwords in an unhashed state is a critical security failure because it allows anyone who accesses the database to read the raw passwords. Always ensure sensitive data is hashed properly. Unhashed data is fine for non-sensitive information, but it is dangerous for credentials or sensitive personal information. Security best practices mandate hashing for all sensitive fields.",
+    "synonyms": [
+      "raw",
+      "plain",
+      "plaintext"
+    ],
+    "antonyms": [
+      "hashed",
+      "encrypted",
+      "secured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unhashed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, database management, authentication",
+    "usageTip": "Use this when discussing password storage best practices.",
+    "commonMistake": "Confusing unhashed data with encrypted data.",
+    "collocations": [
+      "unhashed password",
+      "unhashed data",
+      "stored unhashed"
+    ]
+  },
+  {
+    "word": "Unhashed",
+    "meaning": "Refers to data that has not been processed through a cryptographic hash function.",
+    "shortMeaning": "not hashed",
+    "example": "The sensitive password was stored as unhashed text in the database.",
+    "example2": "It is dangerous to transmit unhashed data over an insecure network.",
+    "example3": "The developer converted the unhashed string into a secure hash.",
+    "Explanation": "In cybersecurity and database management, 'unhashed' refers to raw data that hasn't been transformed into a fixed-length string of characters. Hashing is a security method to protect sensitive information, so unhashed data is considered vulnerable. Storing passwords in an unhashed format is a severe security risk. Developers should always hash sensitive inputs before saving them. This term is specific to IT and data protection contexts.",
+    "synonyms": [
+      "plain text",
+      "unencrypted",
+      "raw"
+    ],
+    "antonyms": [
+      "hashed",
+      "encrypted",
+      "secured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unhashed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, database storage, and encryption",
+    "usageTip": "Use this to describe data that lacks a security layer.",
+    "commonMistake": "Thinking unhashed means the same as uncompressed.",
+    "collocations": [
+      "unhashed password",
+      "unhashed data",
+      "unhashed string"
+    ]
+  }
+]

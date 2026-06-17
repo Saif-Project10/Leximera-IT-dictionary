@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Power cycle",
+    "meaning": "The act of turning a device off and then back on to reset its state",
+    "shortMeaning": "restart / reboot",
+    "example": "If the router stops working, try a power cycle by unplugging it for 30 seconds.",
+    "example2": "A hard power cycle can often fix minor software glitches.",
+    "example3": "The technician recommended a power cycle for the unresponsive server.",
+    "Explanation": "Power cycling is one of the most basic and effective troubleshooting steps in IT. It involves completely cutting the power to a device and then restoring it. This clears the device's volatile memory (RAM) and restarts the operating system from scratch. It is often called 'rebooting', but a 'power cycle' usually implies a physical disconnection of power. This is useful when the software 'restart' button isn't working or if the hardware is frozen. It allows capacitors to drain, ensuring a 'cold' start. It is often the first thing support teams ask you to do.",
+    "synonyms": [
+      "reboot",
+      "restart",
+      "cold boot"
+    ],
+    "antonyms": [
+      "shutdown",
+      "standby"
+    ],
+    "nounForm": "power cycle",
+    "verbForm": "power cycle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Troubleshooting and technical support",
+    "usageTip": "Use this as a verb: 'Please power cycle the modem.'",
+    "commonMistake": "Turning it off and on too fast; you usually need to wait a few seconds.",
+    "collocations": [
+      "perform a power cycle",
+      "complete power cycle",
+      "hard power cycle"
+    ]
+  },
+  {
+    "word": "Power cycle",
+    "meaning": "To turn a device off and then back on again to reset it",
+    "shortMeaning": "off and on reset",
+    "example": "If the router is not working, try to power cycle it.",
+    "example2": "A simple power cycle fixed the screen glitch on my laptop.",
+    "example3": "The support team asked me to power cycle the server.",
+    "Explanation": "Power cycling is the most common troubleshooting step in IT. It involves cutting the power to a device completely (unplugging it or turning it off) and then turning it back on. This clears the temporary memory (RAM) and resets any small software errors that might be causing problems. It is the real-world version of 'Have you tried turning it off and on again?' It is safe, effective, and works on everything from phones to industrial machines.",
+    "synonyms": [
+      "reboot",
+      "restart",
+      "hard reset"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "power cycle",
+    "verbForm": "power cycle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase / noun",
+    "commonContext": "IT support, electronics, and troubleshooting",
+    "usageTip": "Wait for 10-30 seconds after turning the device off before turning it back on to ensure all electricity is gone.",
+    "commonMistake": "Just putting a device in 'sleep mode' instead of a full power cycle.",
+    "collocations": [
+      "perform a power cycle",
+      "power cycle the modem",
+      "complete power cycle"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Patented",
+    "meaning": "Protected by a patent (an official license giving the inventor sole rights); or obvious, unmistakable (informal)",
+    "shortMeaning": "legally protected invention or obvious",
+    "example": "The company sells a patented device for cleaning windows.",
+    "example2": "He gave her his patented smile, full of charm.",
+    "example3": "The technology is patented in over 30 countries.",
+    "Explanation": "'Patented' is primarily the past participle of 'patent', meaning an invention has been granted a patent—a government license giving the inventor exclusive rights for a period. This is a formal legal status. Informally, it is often used humorously or sarcastically to describe someone's signature, unmistakable style or behavior (his patented excuse). This second meaning implies something is so characteristic it's as if it were trademarked. Context clarifies the meaning.",
+    "synonyms": [
+      "registered",
+      "proprietary",
+      "characteristic (informal)"
+    ],
+    "antonyms": [
+      "unpatented",
+      "generic",
+      "imitated"
+    ],
+    "nounForm": "patent",
+    "verbForm": "patent",
+    "adjectiveForm": "patented",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Law, innovation, business, informal descriptions of style",
+    "usageTip": "In informal use, it often comes before a noun describing a personal trait (his patented grumble).",
+    "commonMistake": "Using 'patented' to mean 'obvious' in formal writing; stick to the legal meaning there.",
+    "collocations": [
+      "patented technology",
+      "patented process",
+      "patented look"
+    ]
+  },
+  {
+    "word": "Patented",
+    "meaning": "Protected by a patent, giving the holder exclusive rights to the invention.",
+    "shortMeaning": "legally protected",
+    "example": "The company's new cooling design is fully patented.",
+    "example2": "You cannot use that algorithm; it is patented by a competitor.",
+    "example3": "The invention was patented in three different countries.",
+    "Explanation": "'Patented' means a process, product, or invention has received legal protection from a government, giving the owner the exclusive right to use, sell, or license it. In the tech industry, having a patented product is a significant business asset, but it also creates legal boundaries. If a technology is patented, you generally need permission or a license to use it in your own projects. Understanding the patent status of software or hardware is essential to avoid legal issues.",
+    "synonyms": [
+      "protected",
+      "registered",
+      "licensed"
+    ],
+    "antonyms": [
+      "open-source",
+      "unprotected",
+      "public-domain"
+    ],
+    "nounForm": "patent",
+    "verbForm": "patent",
+    "adjectiveForm": "patented",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, business, technology ownership",
+    "usageTip": "Use to describe technologies that have received official legal protection.",
+    "commonMistake": "Confusing patented technology with open-source software.",
+    "collocations": [
+      "patented technology",
+      "widely patented",
+      "officially patented"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Obfuscate",
+    "meaning": "To make something obscure, unclear, or difficult to understand",
+    "shortMeaning": "make confusing",
+    "example": "The lawyer used complex jargon to obfuscate the simple facts.",
+    "example2": "Some programmers obfuscate their code to protect intellectual property.",
+    "example3": "Politicians sometimes obfuscate to avoid giving a direct answer.",
+    "Explanation": "To 'obfuscate' is deliberately to make information confusing or hard to understand. The intent is often to hide the truth, avoid clarity, or protect secrets. In computing, code obfuscation makes software harder to reverse-engineer. The noun is 'obfuscation'. It is a formal word with a negative connotation, implying deception or unnecessary complexity. The goal is the opposite of clarification.",
+    "synonyms": [
+      "confuse",
+      "bewilder",
+      "cloud",
+      "muddy",
+      "complicate"
+    ],
+    "antonyms": [
+      "clarify",
+      "explain",
+      "elucidate",
+      "simplify"
+    ],
+    "nounForm": "obfuscation",
+    "verbForm": "obfuscate",
+    "adjectiveForm": "obfuscated",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, politics, technical writing, software security, deceptive communication",
+    "usageTip": "Use when someone is intentionally making things hard to understand.",
+    "commonMistake": "Using it to mean simply 'confuse'; obfuscation implies deliberate action.",
+    "collocations": [
+      "deliberately obfuscate",
+      "obfuscate the truth",
+      "obfuscate code",
+      "attempt to obfuscate"
+    ]
+  },
+  {
+    "word": "Obfuscate",
+    "meaning": "To make something intentionally unclear or difficult to understand",
+    "shortMeaning": "make confusing",
+    "example": "Developers obfuscate code to protect it from being stolen.",
+    "example2": "The politician tried to obfuscate the truth during the interview.",
+    "example3": "Do not obfuscate the main point with too many details.",
+    "Explanation": "Obfuscate is a very important term in programming and security. Code obfuscation is the practice of making source code hard for humans to read while still allowing it to run perfectly for the computer. This is done to prevent reverse engineering. In general English, it means trying to hide the truth by being confusing. It is the opposite of 'clarity'.",
+    "synonyms": [
+      "confuse",
+      "blur",
+      "mask"
+    ],
+    "antonyms": [
+      "clarify",
+      "simplify",
+      "reveal"
+    ],
+    "nounForm": "obfuscation",
+    "verbForm": "obfuscate",
+    "adjectiveForm": "obfuscated",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, security, and politics",
+    "usageTip": "Use this when someone is making something hard to understand on purpose.",
+    "commonMistake": "Confusing it with 'obliterate' (which means to destroy completely).",
+    "collocations": [
+      "obfuscate code",
+      "obfuscate the facts",
+      "obfuscate the meaning"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Thread local",
+    "meaning": "Data that is unique and private to a specific thread",
+    "shortMeaning": "thread-private data",
+    "example": "The user ID was stored in a thread local variable.",
+    "example2": "Thread local variables help avoid data corruption in multi-threaded apps.",
+    "example3": "Each worker thread has its own thread local storage.",
+    "Explanation": "Thread local refers to a scope where data is only accessible to the thread that created it. Normally, threads in a process share the same memory, which can lead to conflicts if two threads try to change the same variable at once. Thread local storage solves this by giving each thread its own 'private' copy of a variable. This is very useful for things like database connections or user sessions where each thread needs to track its own state without interfering with others. It ensures isolation within a shared environment.",
+    "synonyms": [
+      "thread-specific",
+      "private storage"
+    ],
+    "antonyms": [
+      "global variable",
+      "shared memory"
+    ],
+    "nounForm": "thread local",
+    "verbForm": "N/A",
+    "adjectiveForm": "thread-local",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Java, C++, and multi-threaded programming",
+    "usageTip": "Use thread local variables to make your code 'thread-safe' without using heavy locks.",
+    "commonMistake": "Forgetting to clear thread local variables, which can lead to memory leaks in thread pools.",
+    "collocations": [
+      "thread local variable",
+      "thread local storage",
+      "set thread local"
+    ]
+  },
+  {
+    "word": "Thread local",
+    "meaning": "Variables that are exclusive to a specific thread of execution",
+    "shortMeaning": "thread-exclusive storage",
+    "example": "We use thread local storage to prevent data corruption.",
+    "example2": "Each request has its own thread local variables.",
+    "example3": "Thread local variables are safe from race conditions.",
+    "Explanation": "In multithreading, 'thread local' refers to data that can only be accessed by one specific thread. This is a common way to avoid complex synchronization or data conflicts between threads. It ensures that threads do not overwrite each other's data by mistake. It is an advanced programming concept. Using thread local storage makes code safer and more efficient in parallel computing environments.",
+    "synonyms": [
+      "thread-private",
+      "isolated"
+    ],
+    "antonyms": [
+      "global",
+      "shared"
+    ],
+    "nounForm": "thread-local storage",
+    "verbForm": "N/A",
+    "adjectiveForm": "thread-local",
+    "partOfSpeech": "adjective",
+    "commonContext": "Multithreading, concurrent programming",
+    "usageTip": "Use 'thread local' when referring to variables unique to a single thread.",
+    "commonMistake": "Confusing 'thread local' with 'global' (they are exact opposites).",
+    "collocations": [
+      "thread local storage",
+      "thread local variable",
+      "thread local access"
+    ]
+  }
+]

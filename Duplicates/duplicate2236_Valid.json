@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Valid",
+    "meaning": "Legitimate, acceptable, or logically sound.",
+    "shortMeaning": "correct or legal",
+    "example": "The input is not a valid email address.",
+    "example2": "He provided a valid reason for the delay.",
+    "example3": "The license key must be valid to activate the software.",
+    "Explanation": "The word 'valid' means that something adheres to established rules or standards. In IT, a valid input is one that matches the expected format or type. A valid session is one that has been authenticated. It is a fundamental term used in validation processes to ensure data integrity. Always verify that inputs are valid before processing them to prevent system errors or security vulnerabilities.",
+    "synonyms": [
+      "legitimate",
+      "sound",
+      "acceptable"
+    ],
+    "antonyms": [
+      "invalid",
+      "wrong",
+      "illegitimate"
+    ],
+    "nounForm": "validity",
+    "verbForm": "validate",
+    "adjectiveForm": "valid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, data validation, security",
+    "usageTip": "Use this to check if data follows the required rules.",
+    "commonMistake": "Confusing 'valid' with 'verified'.",
+    "collocations": [
+      "valid input",
+      "valid user",
+      "valid format"
+    ]
+  },
+  {
+    "word": "Valid",
+    "meaning": "Based on logic, fact, or acceptable standards; legally or technically correct.",
+    "shortMeaning": "correct and acceptable",
+    "example": "The input data is not valid for this field.",
+    "example2": "He provided a valid reason for the delay.",
+    "example3": "The form will only submit if the email is valid.",
+    "Explanation": "The term 'valid' refers to anything that meets the required criteria or rules of a system. For example, a valid email format must contain an '@' symbol, and a valid license key must match the expected pattern. In coding, data validation is the process of checking if user input is valid before processing it. Something is valid only if it passes all tests defined by the system. It is a fundamental concept in data security and application design.",
+    "synonyms": [
+      "correct",
+      "legitimate",
+      "permissible"
+    ],
+    "antonyms": [
+      "invalid",
+      "wrong",
+      "unauthorized"
+    ],
+    "nounForm": "validity",
+    "verbForm": "validate",
+    "adjectiveForm": "valid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and data verification",
+    "usageTip": "Use 'valid' to describe data that passes tests.",
+    "commonMistake": "Confusing 'valid' with 'true'.",
+    "collocations": [
+      "valid data",
+      "valid input",
+      "valid format"
+    ]
+  }
+]

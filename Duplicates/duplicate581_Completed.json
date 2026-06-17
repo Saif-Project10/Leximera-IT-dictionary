@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Completed",
+    "meaning": "Brought to an end; finished.",
+    "shortMeaning": "finished",
+    "example": "The construction of the bridge was completed last month.",
+    "example2": "Please return the completed form to the office.",
+    "example3": "She has completed all the requirements for her degree.",
+    "Explanation": "Completed is the past tense and past participle of 'complete,' used as an adjective or verb. It describes something that has been fully done, with all necessary parts or steps finished. It conveys finality and accomplishment. The noun is 'completion.' A common mistake is using it interchangeably with 'finished'; they are synonyms, but 'completed' can sound slightly more formal or thorough. This word is crucial in project management, education, forms, and any process with a defined endpoint, signaling readiness for the next phase or delivery.",
+    "synonyms": [
+      "finished",
+      "done",
+      "accomplished",
+      "fulfilled",
+      "concluded"
+    ],
+    "antonyms": [
+      "unfinished",
+      "incomplete",
+      "ongoing",
+      "partial"
+    ],
+    "nounForm": "completion",
+    "verbForm": "complete",
+    "adjectiveForm": "completed",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Projects, tasks, forms, and education.",
+    "usageTip": "Use 'completed' as an adjective before a noun (completed project) or after a verb (The project is completed).",
+    "commonMistake": "Saying 'more completed' – 'completed' is an absolute state; something is either completed or not.",
+    "collocations": [
+      "completed successfully",
+      "just completed",
+      "completed application"
+    ]
+  },
+  {
+    "word": "Completed",
+    "meaning": "Finished or brought to a final state after a process",
+    "shortMeaning": "finished",
+    "example": "The data migration process was successfully completed at 2:00 AM.",
+    "example2": "Once the security check is completed, you can deploy the code to live.",
+    "example3": "He completed the coding assignment in record time.",
+    "Explanation": "The word 'Completed' is a past-tense verb or adjective describing an action that has finished. Unlike 'complete' (which can also describe an object that is whole), 'completed' specifically highlights that the work or process has been finalized. It is very common in project management, progress bars, and incident reports. Use it to clearly communicate that a specific task is done. Avoid using it for things that are still partially running or need further review.",
+    "synonyms": [
+      "finished",
+      "done",
+      "finalized"
+    ],
+    "antonyms": [
+      "ongoing",
+      "unfinished",
+      "incomplete"
+    ],
+    "nounForm": "completion",
+    "verbForm": "complete",
+    "adjectiveForm": "completed",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Project status, task management, incident reporting",
+    "usageTip": "Use 'completed' when you want to confirm that a work process is fully finished.",
+    "commonMistake": "Using 'completed' instead of 'complete' when you want to describe an object that is whole.",
+    "collocations": [
+      "process completed",
+      "task completed",
+      "successfully completed"
+    ]
+  }
+]

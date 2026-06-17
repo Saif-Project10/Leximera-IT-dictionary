@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Well known",
+    "meaning": "Something that is widely recognized or famous",
+    "shortMeaning": "famous",
+    "example": "Linux is a well known operating system among developers.",
+    "example2": "The '404 Error' is a well known message on the internet.",
+    "example3": "She is a well known expert in the field of cybersecurity.",
+    "Explanation": "The term 'well known' describes things, people, or concepts that most people in a specific group recognize. In the IT world, certain ports, software, or security risks are considered well known. Being well known means there is a lot of documentation and public knowledge available. It is often used to describe standard procedures or famous brands. It is a general term that can apply to almost anything that has a high level of awareness.",
+    "synonyms": [
+      "famous",
+      "recognized",
+      "familiar"
+    ],
+    "antonyms": [
+      "obscure",
+      "unknown",
+      "rare"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "well-known",
+    "partOfSpeech": "adjective",
+    "commonContext": "General conversation and technical descriptions",
+    "usageTip": "Use a hyphen (well-known) when it comes before the noun it describes.",
+    "commonMistake": "Using 'well known' when something is actually 'standard' or 'mandatory'.",
+    "collocations": [
+      "well known brand",
+      "well known issue",
+      "become well known"
+    ]
+  },
+  {
+    "word": "Well known",
+    "meaning": "Widely recognized or commonly used by many people",
+    "shortMeaning": "famous",
+    "example": "Python is a well known programming language.",
+    "example2": "This is a well known bug in the system.",
+    "example3": "The developer is well known for his contributions to open source.",
+    "Explanation": "The term 'well known' describes something or someone that has high levels of recognition or popularity within a specific community. In IT, it can refer to famous libraries, common security vulnerabilities, or widely used algorithms. It carries a sense of reliability because it has been tested by many people. When using this term, ensure the audience understands that you are referring to common industry knowledge. It is a compound adjective frequently used in technical documentation.",
+    "synonyms": [
+      "famous",
+      "renowned",
+      "popular"
+    ],
+    "antonyms": [
+      "unknown",
+      "obscure",
+      "unfamiliar"
+    ],
+    "nounForm": "fame",
+    "verbForm": "N/A",
+    "adjectiveForm": "well-known",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, tech history, common issues",
+    "usageTip": "Use it to refer to standard or widely discussed topics.",
+    "commonMistake": "Omitting the hyphen when using it before a noun.",
+    "collocations": [
+      "well known issue",
+      "well known algorithm",
+      "well known library"
+    ]
+  }
+]

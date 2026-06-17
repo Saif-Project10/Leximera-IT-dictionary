@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Cargo cult",
+    "meaning": "A style of programming or management characterized by the ritual inclusion of code or practices without understanding why they are necessary",
+    "shortMeaning": "blindly copying practices/code",
+    "example": "Copying configuration files from StackOverflow without changing variables is pure cargo cult programming.",
+    "example2": "The team adopted microservices in a cargo cult manner, simply because big tech firms do it.",
+    "example3": "We must avoid cargo cult practices and understand the core logic of our frameworks.",
+    "Explanation": "The phrase 'Cargo cult' originates from anthropology but has become a famous idiom in software engineering ('Cargo Cult Programming'). It describes a situation where a developer blindly copies code, design patterns, or management rituals (like specific agile meetings) assuming it will magically solve their problem, without actually understanding how it works underneath. This results in bloated code, unnecessary dependencies, and systems that are incredibly hard to debug when something breaks down.",
+    "synonyms": [
+      "blind copying",
+      "imitation",
+      "mindless repetition"
+    ],
+    "antonyms": [
+      "informed engineering",
+      "first-principles thinking"
+    ],
+    "nounForm": "cargo cult",
+    "verbForm": "cargo cult (informal)",
+    "adjectiveForm": "cargo-cult (used as modifier)",
+    "partOfSpeech": "noun / adjective (modifier)",
+    "commonContext": "Code reviews, software engineering philosophy, architectural critiques",
+    "usageTip": "Use 'cargo cult' to critique engineering decisions that are based on blind copying rather than deep technical understanding.",
+    "commonMistake": "Thinking 'cargo cult' refers to shipping logistics software; it strictly refers to blind imitation practices.",
+    "collocations": [
+      "cargo cult programming",
+      "cargo cult practice",
+      "cargo cult software"
+    ]
+  },
+  {
+    "word": "Cargo cult",
+    "meaning": "A style of programming or management where rituals are followed without understanding why they work",
+    "shortMeaning": "blind imitation",
+    "example": "Copying code from the internet without understanding it is called cargo cult programming.",
+    "example2": "The company adopted Agile as a cargo cult, following rules but ignoring the spirit.",
+    "example3": "We must avoid cargo cult behaviors to truly solve our technical debt.",
+    "Explanation": "Cargo cult is a metaphorical term used in IT to describe people or teams who copy processes or code blindly. They believe that by mimicking the outward appearance of success, they will achieve the same results. This often happens with new frameworks or management methodologies. It leads to buggy code or inefficient workflows because the underlying logic is missing. True experts understand the 'why' behind the 'how'.",
+    "synonyms": [
+      "blind imitation",
+      "mimicry",
+      "ritualistic behavior"
+    ],
+    "antonyms": [
+      "understanding",
+      "innovation",
+      "comprehension"
+    ],
+    "nounForm": "cargo cult",
+    "verbForm": "N/A",
+    "adjectiveForm": "cargo cultish",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software engineering and management philosophy",
+    "usageTip": "Use this term to criticize processes that are followed without logic.",
+    "commonMistake": "Thinking this is a positive term; it is usually a negative critique.",
+    "collocations": [
+      "cargo cult programming",
+      "cargo cult software engineering"
+    ]
+  }
+]

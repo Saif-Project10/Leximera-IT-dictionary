@@ -1,0 +1,87 @@
+[
+  {
+    "word": "Synchronous serial",
+    "meaning": "A method of sending data one bit at a time using a shared clock for timing",
+    "shortMeaning": "clocked bit-by-bit transfer",
+    "example": "The microcontroller uses a synchronous serial interface to talk to the screen.",
+    "example2": "Synchronous serial communication is faster than asynchronous because it has less overhead.",
+    "example3": "SPI is a very popular type of synchronous serial communication.",
+    "Explanation": "Synchronous serial communication sends data bits one after another over a single wire (or a few wires). The key feature is a separate 'clock wire' that tells the receiver exactly when to read each bit. This is different from the serial port on an old PC (which is asynchronous), where the receiver has to guess the timing. Because of the shared clock, synchronous serial can reach much higher speeds and is very common for connecting parts inside a device, like a processor and its sensors or memory. It is reliable and efficient.",
+    "synonyms": [
+      "sync serial",
+      "clocked serial"
+    ],
+    "antonyms": [
+      "asynchronous serial"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchronous serial",
+    "partOfSpeech": "adjective phrase / noun phrase",
+    "commonContext": "Embedded systems, computer hardware, electronics",
+    "usageTip": "Look for a 'Clock' (CLK) pin on a device; if it has one, it's likely using synchronous serial.",
+    "commonMistake": "Confusing it with 'parallel' communication, which sends many bits at once on multiple wires.",
+    "collocations": [
+      "synchronous serial interface",
+      "synchronous serial communication",
+      "synchronous serial port"
+    ]
+  },
+  {
+    "word": "Synchronous serial",
+    "meaning": "Data transmission where clock signals are shared",
+    "shortMeaning": "clocked serial",
+    "example": "The hardware uses a synchronous serial connection.",
+    "example2": "Synchronous serial communication is faster than asynchronous.",
+    "example3": "He configured the port for synchronous serial mode.",
+    "Explanation": "In hardware engineering, 'synchronous serial' refers to a method of sending data where the sender and receiver share a common clock signal. This ensures they know exactly when to read the data. It is much faster and more reliable than asynchronous communication (where each side uses its own internal clock). You will encounter this when working with microcontrollers, sensors, or low-level communication protocols like SPI or I2C. It requires precise configuration.",
+    "synonyms": [
+      "clocked communication"
+    ],
+    "antonyms": [
+      "asynchronous serial"
+    ],
+    "nounForm": "synchronous serial",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchronous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Microcontrollers, hardware interfaces",
+    "usageTip": "Use when discussing low-level device communication.",
+    "commonMistake": "Assuming synchronous serial is simple; it requires clock management.",
+    "collocations": [
+      "synchronous serial interface",
+      "synchronous serial data"
+    ]
+  },
+  {
+    "word": "Synchronous serial",
+    "meaning": "A communication protocol where data and timing are shared",
+    "shortMeaning": "clocked serial",
+    "example": "The hardware uses a synchronous serial interface for data.",
+    "example2": "Synchronous serial transmission requires a shared clock line.",
+    "example3": "He configured the synchronous serial port.",
+    "Explanation": "This refers to a specific type of communication where data is transmitted along with a clock signal to keep both the sender and receiver perfectly aligned. It is efficient for high-speed data movement, such as between a processor and peripherals (like SPI or I2C). Unlike asynchronous serial (which uses start/stop bits), it is reliable and fast due to the shared timing. It is a specialized term for hardware and embedded systems engineers.",
+    "synonyms": [
+      "clocked communication",
+      "synch serial",
+      "shared-clock transmission"
+    ],
+    "antonyms": [
+      "asynchronous serial",
+      "UART",
+      "unclocked"
+    ],
+    "nounForm": "synchronous serial communication",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchronous",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Embedded systems, hardware protocols",
+    "usageTip": "Use specifically for hardware protocols requiring a clock signal.",
+    "commonMistake": "Confusing it with standard asynchronous serial (like RS-232).",
+    "collocations": [
+      "synchronous serial interface",
+      "synchronous serial port",
+      "synchronous serial data"
+    ]
+  }
+]

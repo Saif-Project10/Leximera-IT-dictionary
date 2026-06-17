@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Collaborate",
+    "meaning": "To work together with others on a project or activity.",
+    "shortMeaning": "work together",
+    "example": "The two companies collaborated on the research.",
+    "example2": "We need to collaborate to finish this on time.",
+    "example3": "The author collaborated with an illustrator.",
+    "Explanation": "The verb 'collaborate' emphasizes partnership and teamwork toward a common goal. It is a positive word used in business, academia, and the arts. It implies a shared effort where all parties contribute. The noun is 'collaboration'. A common mistake is using it for simple help; collaboration suggests a deeper, more equal partnership. It is often followed by 'with' (collaborate with someone) or 'on' (collaborate on a project). In a historical context, it can have a negative meaning (working with an enemy), but this is less common today.",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "antonyms": [
+      "work alone",
+      "compete",
+      "sabotage"
+    ],
+    "nounForm": "collaboration",
+    "verbForm": "collaborate",
+    "adjectiveForm": "collaborative",
+    "partOfSpeech": "verb",
+    "commonContext": "Work projects, research, art, business",
+    "usageTip": "Use 'collaborate with' a person or organization and 'collaborate on' a project.",
+    "commonMistake": "Using it to mean simply 'help'. Collaboration implies a joint effort from start to finish.",
+    "collocations": [
+      "closely collaborate",
+      "collaborate effectively",
+      "willingness to collaborate"
+    ]
+  },
+  {
+    "word": "Collaborate",
+    "meaning": "To work together with others to achieve a common goal",
+    "shortMeaning": "work together",
+    "example": "Developers often use GitHub to collaborate on open-source projects.",
+    "example2": "We need to collaborate with the marketing team on the new design.",
+    "example3": "Tools like Slack help remote teams collaborate effectively.",
+    "Explanation": "Collaboration is the heart of modern software development. It involves sharing ideas, dividing tasks, and reviewing each other's work. In IT, collaboration often happens across different time zones and departments. Good collaboration requires clear communication and the right tools (like version control and project management software). It is a key soft skill for any professional, as very few large-scale projects are built by just one person.",
+    "synonyms": [
+      "cooperate",
+      "team up",
+      "work together"
+    ],
+    "antonyms": [
+      "compete",
+      "work alone",
+      "conflict"
+    ],
+    "nounForm": "collaboration / collaborator",
+    "verbForm": "collaborate",
+    "adjectiveForm": "collaborative",
+    "partOfSpeech": "verb",
+    "commonContext": "Teamwork and project management",
+    "usageTip": "Use 'collaborate' when two or more people are actively helping each other.",
+    "commonMistake": "Spelling it as 'colaborate' (missing one 'l').",
+    "collocations": [
+      "collaborate on a project",
+      "closely collaborate",
+      "collaborate with"
+    ]
+  }
+]

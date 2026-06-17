@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unreversible",
+    "meaning": "Not able to be reversed or changed back to a previous state",
+    "shortMeaning": "not reversible",
+    "example": "The decision to demolish the building is unreversible.",
+    "example2": "Some chemical reactions are unreversible.",
+    "example3": "He suffered unreversible damage to his eyesight.",
+    "Explanation": "The adjective 'unreversible' means impossible to reverse. While 'irreversible' is the far more common and standard term, 'unreversible' is understood and occasionally used. It describes processes, decisions, actions, or changes that are permanent and cannot be undone, returned to an original state, or annulled. This can apply to physical processes (like aging), legal judgments, or data destruction. The word carries a finality and often a seriousness, as it implies there is no going back. It is important in contexts where the permanence of an action needs to be emphasized, such as in warnings or scientific descriptions.",
+    "synonyms": [
+      "irreversible",
+      "permanent",
+      "irrevocable",
+      "unchangeable"
+    ],
+    "antonyms": [
+      "reversible",
+      "changeable",
+      "temporary",
+      "revocable"
+    ],
+    "nounForm": "unreversibility",
+    "verbForm": "reverse",
+    "adjectiveForm": "unreversible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, law, decision-making, medicine",
+    "usageTip": "'Irreversible' is the preferred and more widely accepted term. Use 'unreversible' with caution.",
+    "commonMistake": "Using 'unreversible' in formal writing; 'irreversible' is standard.",
+    "collocations": [
+      "unreversible process",
+      "unreversible decision",
+      "unreversible change",
+      "unreversible damage"
+    ]
+  },
+  {
+    "word": "Unreversible",
+    "meaning": "Cannot be changed back to a previous state",
+    "shortMeaning": "no undo",
+    "example": "This database command is unreversible, so be careful.",
+    "example2": "The file deletion process is unreversible without a backup.",
+    "example3": "Some hardware modifications are permanently unreversible.",
+    "Explanation": "Unreversible describes an action or state that cannot be undone. In IT, this is common in destructive operations like formatting a disk, dropping a database table, or deploying a major code change that alters the structure of live data. It is a warning word meant to ensure that the user has backups and is fully aware of the risk before proceeding. Always double-check when you see this term.",
+    "synonyms": [
+      "permanent",
+      "final",
+      "non-undoable"
+    ],
+    "antonyms": [
+      "reversible",
+      "temporary"
+    ],
+    "nounForm": "reversal",
+    "verbForm": "reverse",
+    "adjectiveForm": "unreversible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management, system administration",
+    "usageTip": "Use this to warn about permanent actions.",
+    "commonMistake": "Using 'irreversible' is more common in formal writing.",
+    "collocations": [
+      "unreversible action",
+      "unreversible command",
+      "potentially unreversible"
+    ]
+  },
+  {
+    "word": "Unreversible",
+    "meaning": "Something that cannot be returned to its previous state after a change has been made.",
+    "shortMeaning": "can't undo",
+    "example": "Deleting the database table is an unreversible action.",
+    "example2": "The firmware update was unreversible.",
+    "example3": "Choose your settings carefully, as this step is unreversible.",
+    "Explanation": "In IT, 'unreversible' (often written as 'irreversible') means that once an action is taken, there is no way to undo it. This is extremely common when dealing with destructive operations like data deletion, disk formatting, or permanent hardware configuration changes. Systems often display warnings before performing unreversible tasks to prevent catastrophic mistakes. It is critical to always have backups before performing any task labeled as unreversible. It defines a point of no return in any workflow.",
+    "synonyms": [
+      "irreversible",
+      "permanent",
+      "final"
+    ],
+    "antonyms": [
+      "reversible",
+      "temporary",
+      "undoable"
+    ],
+    "nounForm": "unreversibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "unreversible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, system updates",
+    "usageTip": "Use this to warn about destructive actions.",
+    "commonMistake": "Using 'unreversible' when 'irreversible' is the more standard term.",
+    "collocations": [
+      "unreversible action",
+      "unreversible change",
+      "unreversible process"
+    ]
+  }
+]

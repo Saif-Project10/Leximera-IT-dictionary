@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Peaceful",
+    "meaning": "Free from disturbance; calm and quiet",
+    "shortMeaning": "calm; without violence",
+    "example": "We spent a peaceful afternoon by the lake.",
+    "example2": "They hope for a peaceful resolution to the conflict.",
+    "example3": "She has a very peaceful nature.",
+    "Explanation": "'Peaceful' describes a state or situation that is tranquil, quiet, and without violence or conflict. It is the adjective form of 'peace'. It can describe environments (a peaceful village), times (a peaceful sleep), people (a peaceful person), or solutions (peaceful negotiations). It is almost always a positive word, associated with relaxation, safety, and harmony. It is a common goal in personal life and international relations.",
+    "synonyms": [
+      "calm",
+      "tranquil",
+      "quiet",
+      "serene"
+    ],
+    "antonyms": [
+      "violent",
+      "noisy",
+      "turbulent",
+      "agitated"
+    ],
+    "nounForm": "peace",
+    "verbForm": "pacify",
+    "adjectiveForm": "peaceful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Environments, sleep, protests, personalities",
+    "usageTip": "Use 'peaceful' to describe a place, time, or person that is calm and free from trouble.",
+    "commonMistake": "Confusing 'peaceful' with 'peaceable'. 'Peaceful' describes a state; 'peaceable' describes a tendency to avoid conflict.",
+    "collocations": [
+      "peaceful protest",
+      "peaceful sleep",
+      "peaceful coexistence",
+      "peaceful place"
+    ]
+  },
+  {
+    "word": "Peaceful",
+    "meaning": "Calm, quiet, and free from disturbance or conflict.",
+    "shortMeaning": "calm and quiet",
+    "example": "The office was peaceful after the big project was finished.",
+    "example2": "He prefers a peaceful working environment to focus.",
+    "example3": "A peaceful transition to the new server went smoothly.",
+    "Explanation": "The word 'peaceful' describes a state of tranquility or lack of conflict. In an IT context, it is often used figuratively to describe a stable system or a workspace that is free from constant stress or technical crises. It implies that everything is functioning correctly without drama or interruption. It is also used to describe user interfaces that are clean, simple, and not visually overwhelming. When a system is peaceful, it is reliable and predictable.",
+    "synonyms": [
+      "tranquil",
+      "calm",
+      "serene"
+    ],
+    "antonyms": [
+      "chaotic",
+      "turbulent",
+      "stressful"
+    ],
+    "nounForm": "peace",
+    "verbForm": "N/A",
+    "adjectiveForm": "peaceful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work environments, system stability, UI design",
+    "usageTip": "Use 'peaceful' to describe a calm atmosphere or a stable, trouble-free system.",
+    "commonMistake": "Using 'peaceful' to describe a technical process instead of a state or environment.",
+    "collocations": [
+      "peaceful environment",
+      "peaceful transition",
+      "peaceful atmosphere"
+    ]
+  }
+]

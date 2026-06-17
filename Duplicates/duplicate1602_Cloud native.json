@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Cloud native",
+    "meaning": "Software that is specifically designed to live and run only in the cloud",
+    "shortMeaning": "built for the cloud",
+    "example": "Since the app is cloud native, it can handle millions of users automatically.",
+    "example2": "Cloud native tools are often faster than old 'legacy' software.",
+    "example3": "We are a cloud native company, so we don't have any physical servers.",
+    "Explanation": "Cloud native describes an approach to building and running applications that exploits the advantages of the cloud computing model. Unlike 'traditional' software that was made for a PC and then 'moved' to the cloud, cloud native software is built from day one to be 'elastic' and 'distributed'. This means it is usually made of 'microservices' and uses 'containers' like Docker. Cloud native apps are designed to be resilient; if one part of the app fails, the rest keeps working. It is the modern way to build apps that need to be fast, reliable, and global.",
+    "synonyms": [
+      "cloud-first",
+      "cloud-optimized"
+    ],
+    "antonyms": [
+      "legacy",
+      "on-premise",
+      "cloud-agnostic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "cloud native",
+    "partOfSpeech": "adjective",
+    "commonContext": "Modern software engineering and startups",
+    "usageTip": "Use 'cloud native' to describe apps that use features like auto-scaling and serverless.",
+    "commonMistake": "Thinking a 'moved' app is 'cloud native'; it's only native if it was *designed* for the cloud environment.",
+    "collocations": [
+      "cloud native stack",
+      "cloud native technologies",
+      "cloud native approach"
+    ]
+  },
+  {
+    "word": "Cloud native",
+    "meaning": "Designed specifically for modern cloud computing environments",
+    "shortMeaning": "built for the cloud",
+    "example": "We are migrating to a cloud native architecture.",
+    "example2": "Microservices are a key part of cloud native development.",
+    "example3": "The application is cloud native and scales automatically.",
+    "Explanation": "The term 'cloud native' describes applications built to take full advantage of cloud platforms, such as AWS, Google Cloud, or Azure. These apps are usually modular, often using containers like Docker and orchestration like Kubernetes. They are designed for high scalability, resilience, and fast updates. Unlike traditional software moved to the cloud, cloud native apps are designed to run there from the very beginning. This approach helps businesses deploy updates frequently and handle traffic spikes efficiently.",
+    "synonyms": [
+      "cloud-optimized",
+      "modern-cloud-app",
+      "container-ready"
+    ],
+    "antonyms": [
+      "monolithic",
+      "legacy-on-premise",
+      "N/A"
+    ],
+    "nounForm": "cloud nativeness",
+    "verbForm": "N/A",
+    "adjectiveForm": "cloud native",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, system architecture, and scalable software",
+    "usageTip": "Use 'cloud native' to describe software specifically designed to live and scale in the cloud.",
+    "commonMistake": "Thinking anything running on a server is 'cloud native'; it refers to specific design patterns.",
+    "collocations": [
+      "cloud native application",
+      "cloud native development",
+      "cloud native strategy"
+    ]
+  }
+]

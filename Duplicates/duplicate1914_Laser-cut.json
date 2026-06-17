@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Laser-cut",
+    "meaning": "Made by cutting materials using a high-precision laser beam",
+    "shortMeaning": "cut by laser",
+    "example": "The keyboard casing was made of laser-cut aluminum.",
+    "example2": "They used laser-cut parts for the prototype.",
+    "example3": "The intricate design was achieved via laser-cut techniques.",
+    "Explanation": "Laser-cut refers to a manufacturing process where a laser is used to slice through material with extreme accuracy. In the IT hardware industry, this is often used for creating custom enclosures, heat sinks, or chassis components. It allows for very complex shapes that traditional cutting tools cannot achieve easily. It ensures high precision and smooth edges, which is vital for professional hardware design. Many custom computer cases use laser-cut metal or acrylic.",
+    "synonyms": [
+      "precision-cut",
+      "laser-machined"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "laser-cutting",
+    "verbForm": "laser-cut",
+    "adjectiveForm": "laser-cut",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Hardware design, manufacturing, prototyping",
+    "usageTip": "Use it to describe components made with high-tech precision.",
+    "commonMistake": "Assuming it is the same as 3D printing.",
+    "collocations": [
+      "laser-cut parts",
+      "laser-cut finish",
+      "laser-cut metal"
+    ]
+  },
+  {
+    "word": "Laser-cut",
+    "meaning": "Something cut or shaped using a powerful beam of light",
+    "shortMeaning": "cut with light",
+    "example": "The custom computer case features laser-cut vents for cooling.",
+    "example2": "We used a machine to laser-cut the plastic parts for the prototype.",
+    "example3": "The edges of laser-cut components are extremely smooth.",
+    "Explanation": "Laser-cutting is a technology that uses a laser to vaporize materials, resulting in precise edges. In the hardware side of IT and engineering, it is used for making enclosures, circuit boards, or mechanical parts. It is highly accurate and controlled by computer software (CNC). Many DIY tech projects use laser-cut wood or acrylic. It allows for very complex designs that would be impossible to cut by hand.",
+    "synonyms": [
+      "precision-cut"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "laser-cutter",
+    "verbForm": "laser-cut",
+    "adjectiveForm": "laser-cut",
+    "partOfSpeech": "verb/adjective",
+    "commonContext": "Manufacturing, hardware prototyping, DIY",
+    "usageTip": "Use 'laser-cut' as an adjective to describe high-quality, precise hardware parts.",
+    "commonMistake": "Spelling it without the hyphen; 'laser-cut' is the standard form.",
+    "collocations": [
+      "laser-cut parts",
+      "laser-cut acrylic"
+    ]
+  }
+]

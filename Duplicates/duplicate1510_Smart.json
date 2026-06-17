@@ -1,0 +1,130 @@
+[
+  {
+    "word": "Smart",
+    "meaning": "Intelligent; clean and neat in appearance; causing a sharp stinging pain.",
+    "shortMeaning": "intelligent; stylish; stinging",
+    "example": "She's a very smart student.",
+    "example2": "He looked smart in his new suit.",
+    "example3": "The antiseptic made the cut smart.",
+    "Explanation": "'Smart' is an adjective with several common meanings. The primary meaning in American English is intelligent or clever. It also means well-dressed or stylish. A third meaning is a sharp, stinging pain (a smart slap). The word is versatile and positive in its intelligence and style senses. In British English, 'smart' can also mean hurtful (smart remark). The verb 'smart' means to feel a sharp pain or to feel upset. The noun form is 'smartness'. Context is key to understanding which meaning is intended.",
+    "synonyms": [
+      "intelligent",
+      "clever",
+      "stylish",
+      "neat",
+      "sting"
+    ],
+    "antonyms": [
+      "stupid",
+      "dull",
+      "scruffy",
+      "dull (pain)"
+    ],
+    "nounForm": "smartness",
+    "verbForm": "smart",
+    "adjectiveForm": "smart",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Intelligence, fashion, pain, technology (smartphone)",
+    "usageTip": "In technology, 'smart' describes devices with computer-like capabilities (smart TV, smartwatch).",
+    "commonMistake": "In international communication, being aware that 'smart' primarily means intelligent in the US, but can mean stylish or hurtful in the UK.",
+    "collocations": [
+      "smart move",
+      "smart phone",
+      "smart aleck",
+      "look smart"
+    ]
+  },
+  {
+    "word": "Smart",
+    "meaning": "Showing intelligence or high-tech capability",
+    "shortMeaning": "intelligent",
+    "example": "He made a smart decision to upgrade the server.",
+    "example2": "This is a smart device connected to the internet.",
+    "example3": "She is a smart programmer who solves bugs quickly.",
+    "Explanation": "The word 'smart' usually describes someone with high intelligence, but in IT, it often refers to technology that is automated, internet-connected, or capable of making decisions. A 'smart' system can monitor its own performance and adjust settings to be more efficient. The noun form is 'smartness' and the verb is 'smarten'. It is a popular marketing term for consumer electronics and industrial automation. Avoid using 'smart' to mean 'complex' because a smart system is designed to be simple for the user.",
+    "synonyms": [
+      "intelligent",
+      "clever",
+      "automated"
+    ],
+    "antonyms": [
+      "stupid",
+      "basic",
+      "manual"
+    ],
+    "nounForm": "smartness",
+    "verbForm": "smarten",
+    "adjectiveForm": "smart",
+    "partOfSpeech": "adjective",
+    "commonContext": "Consumer electronics, automation, software design",
+    "usageTip": "Use 'smart' to describe tech that is connected or intelligent.",
+    "commonMistake": "Calling any computer 'smart' when it is just a basic machine.",
+    "collocations": [
+      "smart device",
+      "smart home",
+      "smart technology"
+    ]
+  },
+  {
+    "word": "Smart",
+    "meaning": "Having or showing a quick-witted intelligence or automated features",
+    "shortMeaning": "intelligent or automated",
+    "example": "He is a very smart developer who knows how to optimize SQL queries.",
+    "example2": "The smart home system automates lighting and temperature.",
+    "example3": "Our smart search algorithm suggests results as you type.",
+    "Explanation": "The word 'smart' is used in two ways in IT. Firstly, it refers to a person who is clever or skilled at problem-solving. Secondly, it refers to machines or software that have automated, self-adjusting, or adaptive capabilities. This 'smart' technology is often powered by algorithms or AI to make tasks easier for the user. It is a very positive adjective in the tech industry.",
+    "synonyms": [
+      "intelligent",
+      "clever",
+      "automated"
+    ],
+    "antonyms": [
+      "dumb",
+      "manual",
+      "unintelligent"
+    ],
+    "nounForm": "smartness",
+    "verbForm": "N/A",
+    "adjectiveForm": "smart",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, AI, human capability",
+    "usageTip": "Use 'smart' to describe intelligent features or talented people.",
+    "commonMistake": "Using 'smart' to describe something that is just 'fast'.",
+    "collocations": [
+      "smart system",
+      "smart developer",
+      "smart technology"
+    ]
+  },
+  {
+    "word": "Smart",
+    "meaning": "A system, device, or application that uses automated logic, connected data networks, or machine learning to respond dynamically",
+    "shortMeaning": "intelligent data-driven automated systems",
+    "example": "We can build a smart navigation bar layout that automatically hides when users scroll down on a mobile view.",
+    "example2": "The modern building management system relies on smart power systems to reduce energy consumption.",
+    "example3": "The text editor uses smart auto-complete logic to predict the exact variable names you need next.",
+    "Explanation": "The word 'Smart' refers to software logic, automated systems, and connected hardware devices. In frontend development, smart components dynamically adjust based on user actions or screen sizes. On a larger scale, it refers to systems that process data inputs locally or via the cloud to automate workflows without requiring manual adjustments for every single step.",
+    "synonyms": [
+      "automated system",
+      "intelligent logic",
+      "data-driven component"
+    ],
+    "antonyms": [
+      "dumb terminal",
+      "static layout",
+      "manual processing"
+    ],
+    "nounForm": "smartness",
+    "verbForm": "N/A",
+    "adjectiveForm": "smart",
+    "partOfSpeech": "adjective",
+    "commonContext": "Dynamic component designs, responsive layouts, and automated device integrations",
+    "usageTip": "Use 'smart' to describe components or systems that automatically adapt to user behavior or incoming metrics.",
+    "commonMistake": "Labeling a basic, static webpage layout as 'smart' when it lacks dynamic or adaptive programming logic.",
+    "collocations": [
+      "smart auto-complete",
+      "smart contract code",
+      "smart device integration"
+    ]
+  }
+]

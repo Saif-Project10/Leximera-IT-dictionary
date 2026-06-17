@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stalled",
+    "meaning": "Stopped making progress or ceased functioning",
+    "shortMeaning": "stopped",
+    "example": "The project has stalled due to lack of resources.",
+    "example2": "Development stalled while we waited for the client.",
+    "example3": "The server request stalled and then timed out.",
+    "Explanation": "The word 'stalled' means that something that was moving forward has come to a stop. It is different from 'stagnant', which implies a long-term state of not moving; 'stalled' often implies that progress *was* being made, but something interrupted it. It is a temporary or semi-temporary state that requires intervention to get moving again. Use this to describe a project, process, or connection that has suddenly stopped and needs a push to restart. It is a common word in management and networking.",
+    "synonyms": [
+      "stopped",
+      "halted",
+      "delayed"
+    ],
+    "antonyms": [
+      "progressing",
+      "moving",
+      "advancing"
+    ],
+    "nounForm": "stall",
+    "verbForm": "stall",
+    "adjectiveForm": "stalled",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Project management, processes, networking",
+    "usageTip": "Use to explain why something isn't moving forward.",
+    "commonMistake": "Confusing 'stalled' (stopped) with 'stagnant' (never moving).",
+    "collocations": [
+      "stalled project",
+      "stalled progress",
+      "stalled request"
+    ]
+  },
+  {
+    "word": "Stalled",
+    "meaning": "Stopped or delayed unexpectedly",
+    "shortMeaning": "unexpectedly stopped",
+    "example": "The software installation stalled at 90 percent completion.",
+    "example2": "Development stalled while the team waited for the API keys.",
+    "example3": "The server performance stalled under the sudden heavy load.",
+    "Explanation": "The word 'stalled' indicates that a task or process has stopped in its tracks. Unlike 'stopped' or 'paused' which might be intentional, 'stalled' often implies an unexpected obstacle or bottleneck. In IT, this usually refers to a system process, a deployment, or an entire development project that cannot move forward. It highlights a point of friction that requires investigation and immediate attention. It is a common term in progress reports.",
+    "synonyms": [
+      "halted",
+      "delayed",
+      "blocked"
+    ],
+    "antonyms": [
+      "proceeded",
+      "advanced",
+      "continued"
+    ],
+    "nounForm": "stall",
+    "verbForm": "stall",
+    "adjectiveForm": "stalled",
+    "partOfSpeech": "verb",
+    "commonContext": "Processes, project management",
+    "usageTip": "Use 'stalled' when a process stops due to an unforeseen issue.",
+    "commonMistake": "Using 'stalled' for intentional pauses; prefer 'paused' for planned stops.",
+    "collocations": [
+      "stalled process",
+      "stalled development",
+      "installation stalled"
+    ]
+  }
+]

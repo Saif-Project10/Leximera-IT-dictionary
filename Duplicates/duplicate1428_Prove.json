@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Prove",
+    "meaning": "To demonstrate the truth or existence of something through evidence or argument",
+    "shortMeaning": "show to be true",
+    "example": "Can you prove that you were there?",
+    "example2": "The experiment proved his theory correct.",
+    "example3": "He proved himself to be a reliable friend.",
+    "Explanation": "'Prove' is a verb central to logic, law, science, and everyday argument. It means to establish something as true or valid using facts, evidence, or logical steps. In law, the burden of proof is on the prosecutor. In mathematics, one proves a theorem. It can also be used reflexively (prove yourself) to demonstrate one's ability. The past participle is 'proved' or 'proven'. It's about moving from claim to certainty through verification.",
+    "synonyms": [
+      "demonstrate",
+      "verify",
+      "confirm"
+    ],
+    "antonyms": [
+      "disprove",
+      "refute",
+      "contradict"
+    ],
+    "nounForm": "proof",
+    "verbForm": "prove",
+    "adjectiveForm": "proven",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, science, mathematics, personal challenges",
+    "usageTip": "Often followed by an object (prove it) or a clause (prove that he is guilty).",
+    "commonMistake": "Confusing 'prove' (verb) with 'proof' (noun). You need proof to prove something.",
+    "collocations": [
+      "prove a point",
+      "prove guilty",
+      "prove difficult"
+    ]
+  },
+  {
+    "word": "Prove",
+    "meaning": "To show that something is true or correct using evidence or logic",
+    "shortMeaning": "verify",
+    "example": "You need to prove that your code works by running these tests.",
+    "example2": "The experiment was designed to prove the theory of gravity.",
+    "example3": "Can you prove that you were at the office yesterday?",
+    "Explanation": "To prove is to provide enough evidence to remove any doubt. In mathematics and computer science, 'to prove' has a very strict meaning: it means using logical steps (a proof) to show that a statement is always true. In everyday life, it means showing facts or data to support a claim. In software, we use 'unit tests' to prove that a specific function behaves as expected. The word is used in law, science, math, and daily conversation. It moves a statement from being a 'guess' to being a 'fact.' It requires a clear and logical path from the evidence to the conclusion.",
+    "synonyms": [
+      "verify",
+      "validate",
+      "demonstrate"
+    ],
+    "antonyms": [
+      "disprove",
+      "refute",
+      "deny"
+    ],
+    "nounForm": "proof",
+    "verbForm": "prove",
+    "adjectiveForm": "provable",
+    "partOfSpeech": "verb",
+    "commonContext": "Mathematics, science, law, and programming",
+    "usageTip": "In technical contexts, use 'prove' only when you have solid, logical evidence.",
+    "commonMistake": "Confusing 'prove' (the action) with 'proof' (the thing you have).",
+    "collocations": [
+      "prove a theory",
+      "prove a point",
+      "prove beyond doubt"
+    ]
+  }
+]

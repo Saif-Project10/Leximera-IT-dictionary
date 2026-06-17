@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Archived",
+    "meaning": "Stored away for future reference, often in a collection of historical records.",
+    "shortMeaning": "stored for future reference",
+    "example": "Old emails are automatically archived after one year.",
+    "example2": "The archived documents provided valuable insight into the company's early history.",
+    "example3": "The interview was recorded and archived by the library.",
+    "Explanation": "When something is archived, it is moved from active use to long-term storage. This is done to preserve it, save space, or keep a record. Archives are common for documents, data, emails, and digital files. The process implies organization and intentional preservation, not just throwing something away. Archived items can usually be retrieved if needed. The word is especially important in data management, history, and information technology. It's the past participle of the verb 'archive'.",
+    "synonyms": [
+      "stored",
+      "filed",
+      "recorded",
+      "preserved",
+      "cataloged"
+    ],
+    "antonyms": [
+      "active",
+      "current",
+      "deleted"
+    ],
+    "nounForm": "archive",
+    "verbForm": "archive",
+    "adjectiveForm": "archived",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, email, libraries, historical records",
+    "usageTip": "Often used to describe data or files that are kept but not in daily use.",
+    "commonMistake": "Pronouncing it as 'ar-chived' instead of 'AR-kived'.",
+    "collocations": [
+      "archived data",
+      "archived files",
+      "archived version",
+      "permanently archived"
+    ]
+  },
+  {
+    "word": "Archived",
+    "meaning": "Moved to a long-term storage location or marked as inactive while still being preserved",
+    "shortMeaning": "stored away or made inactive",
+    "example": "The GitHub repository was archived by the owner and is now read-only.",
+    "example2": "All emails older than three years are automatically archived by the mail server.",
+    "example3": "You can find the old product documents in the archived files directory.",
+    "Explanation": "The word 'archived' describes files, data, accounts, or software repositories that have been placed in an inactive state for preservation. When a project is archived on sites like GitHub, users can still read and clone the code, but they can no longer open issues or submit new code changes. In file systems, archiving often compresses multiple files into a single file to save disk space. It functions as a past-participle adjective or verb.",
+    "synonyms": [
+      "stored",
+      "saved",
+      "filed away",
+      "preserved"
+    ],
+    "antonyms": [
+      "active",
+      "current",
+      "live"
+    ],
+    "nounForm": "archive",
+    "verbForm": "archive",
+    "adjectiveForm": "archived",
+    "partOfSpeech": "adjective / past participle",
+    "commonContext": "Code repository states, database records management, file compression",
+    "usageTip": "Use 'archived' to describe data or projects that are safely saved but are no longer receiving updates or daily changes.",
+    "commonMistake": "Thinking 'archived' means deleted; archived data still exists completely and can be read or restored when needed.",
+    "collocations": [
+      "archived repository",
+      "archived data",
+      "archived project"
+    ]
+  }
+]

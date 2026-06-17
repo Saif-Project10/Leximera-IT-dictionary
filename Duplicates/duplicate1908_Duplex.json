@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Duplex",
+    "meaning": "Having two parts; in communication, allowing data to move in both directions",
+    "shortMeaning": "two-way",
+    "example": "The printer supports duplex printing to save paper.",
+    "example2": "The radio uses full-duplex communication.",
+    "example3": "He lives in a duplex apartment near the city.",
+    "Explanation": "Duplex generally means 'two-fold'. In computing and networking, 'full-duplex' allows data to be sent and received at the same time, while 'half-duplex' allows only one at a time. In housing, a duplex is a building divided into two apartments. It is a very useful word because its meaning is quite consistent across different industries.",
+    "synonyms": [
+      "two-way",
+      "double"
+    ],
+    "antonyms": [
+      "simplex",
+      "single"
+    ],
+    "nounForm": "duplex",
+    "verbForm": "N/A",
+    "adjectiveForm": "duplex",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, printing, housing",
+    "usageTip": "Use 'duplex' to describe two-way systems.",
+    "commonMistake": "Confusing half-duplex and full-duplex functionality.",
+    "collocations": [
+      "full-duplex",
+      "duplex printing",
+      "duplex house"
+    ]
+  },
+  {
+    "word": "Duplex",
+    "meaning": "A system that allows communication in two directions, or a building with two separate living units",
+    "shortMeaning": "two-way / double",
+    "example": "Modern telephones use full-duplex communication so both people can talk at once.",
+    "example2": "He lives in a duplex where his brother lives in the other half.",
+    "example3": "The radio was set to half-duplex, so only one person could speak at a time.",
+    "Explanation": "The word 'duplex' always relates to the number 'two'. In networking, it refers to how data flows: 'Full-duplex' means sending and receiving at the same time, while 'Half-duplex' means one at a time (like a walkie-talkie). In real estate, a duplex is a house divided into two separate homes. It is also used in printing to describe paper printed on both sides. The term comes from Latin, meaning 'twofold'. It is used in architecture, engineering, and telecommunications. It always implies a dual nature.",
+    "synonyms": [
+      "double",
+      "two-way",
+      "twofold"
+    ],
+    "antonyms": [
+      "simplex",
+      "single"
+    ],
+    "nounForm": "duplex",
+    "verbForm": "N/A",
+    "adjectiveForm": "duplex",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telecommunications, architecture, and printing",
+    "usageTip": "Use 'full-duplex' to describe a system that allows simultaneous two-way action.",
+    "commonMistake": "Confusing 'duplex' with 'complex'; duplex only means two, complex means many.",
+    "collocations": [
+      "full duplex",
+      "duplex apartment",
+      "duplex communication"
+    ]
+  }
+]

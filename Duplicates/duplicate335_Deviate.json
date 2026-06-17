@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Deviate",
+    "meaning": "To depart from an established course, standard, or norm. | To depart from an established course, standard, or belief",
+    "shortMeaning": "stray, differ",
+    "example": "The plane had to deviate from its flight path due to a storm.",
+    "example2": "His actions deviated from company policy.",
+    "example3": "The results should not deviate significantly from the expected values.",
+    "Explanation": "To 'deviate' means to turn away from what is considered normal, expected, or planned. It often has a slightly negative connotation, suggesting a mistake or a divergence from a standard. In statistics, 'deviation' measures how much data points differ from the average. The noun form is 'deviation'. It implies a movement away from a set path, plan, or rule. It is a formal word used in navigation, behavior, science, and quality control. A 'deviant' is someone whose behavior deviates from social norms.",
+    "synonyms": [
+      "Depart",
+      "Digress",
+      "Diverge",
+      "Stray",
+      "Veer"
+    ],
+    "antonyms": [
+      "Adhere",
+      "Conform",
+      "Follow",
+      "Stay On Course",
+      "Stick To"
+    ],
+    "nounForm": "deviation",
+    "verbForm": "deviate",
+    "adjectiveForm": "deviant",
+    "partOfSpeech": "verb",
+    "commonContext": "Paths, behavior, standards, statistics",
+    "usageTip": "Often followed by 'from': 'deviate from the plan'.",
+    "commonMistake": "Using it to mean simply 'change'; it implies changing *away from* a standard or path.",
+    "collocations": [
+      "deviate from the norm",
+      "standard deviation",
+      "deviate significantly",
+      "allowed to deviate"
+    ]
+  },
+  {
+    "word": "Deviate",
+    "meaning": "To do something differently from what is expected or from a standard plan",
+    "shortMeaning": "move away from",
+    "example": "Do not deviate from the safety instructions provided in the manual.",
+    "example2": "The project began to deviate from its original budget last month.",
+    "example3": "We must not deviate from our core values even when times are hard.",
+    "Explanation": "To deviate means to turn aside from a set course, path, or rule. In a technical context, it can refer to data that doesn't follow a pattern (standard deviation). In daily life, it means changing the plan or doing something unusual. It usually implies a departure from what is considered 'normal' or 'correct'. The word can be used for physical movement or abstract ideas like behavior. It is a formal way to say 'change' or 'diverge'. It is often used in scientific and business reports.",
+    "synonyms": [
+      "diverge",
+      "stray",
+      "vary",
+      "depart"
+    ],
+    "antonyms": [
+      "follow",
+      "conform",
+      "stay",
+      "agree"
+    ],
+    "nounForm": "deviation",
+    "verbForm": "deviate",
+    "adjectiveForm": "deviant",
+    "partOfSpeech": "verb",
+    "commonContext": "Science, project management, and daily plans",
+    "usageTip": "Use 'deviate from' followed by the plan or rule you are changing.",
+    "commonMistake": "Spelling it as 'devate'; remember the 'i' after the 'v'.",
+    "collocations": [
+      "deviate from the norm",
+      "deviate from the plan",
+      "slight deviation"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Fail safe",
+    "meaning": "A design feature that ensures a system defaults to a safe state if it fails",
+    "shortMeaning": "default to safety",
+    "example": "The elevator has a fail safe brake that engages automatically if the power fails.",
+    "example2": "A fail safe lock will open automatically during a fire to let people out.",
+    "example3": "The nuclear reactor has several fail safe mechanisms to prevent a meltdown.",
+    "Explanation": "A fail safe is a feature that protects people or property when a machine breaks. It assumes that things *will* break and plans for that moment. For example, a train's brakes are often designed so that they are held 'off' by air pressure; if a pipe leaks, the pressure drops, and the brakes automatically lock. This is 'safe'. In software, a fail safe might be a feature that stops a robot if it loses its Wi-Fi connection. The goal is to minimize the damage caused by a failure. It is a critical concept in safety engineering and industrial design. It prioritizes 'human safety' over 'system operation'.",
+    "synonyms": [
+      "fail-secure (sometimes related)",
+      "safe-mode",
+      "failsafe"
+    ],
+    "antonyms": [
+      "fail-active (sometimes)",
+      "dangerous failure"
+    ],
+    "nounForm": "failsafe",
+    "verbForm": "fail safe",
+    "adjectiveForm": "fail-safe",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Engineering, aviation, and industrial safety",
+    "usageTip": "Use 'fail safe' when the priority is to prevent an accident or injury during a breakdown.",
+    "commonMistake": "Thinking 'fail safe' means the system won't fail; it just means it fails safely.",
+    "collocations": [
+      "fail safe mechanism",
+      "fail safe device",
+      "built-in fail safe"
+    ]
+  },
+  {
+    "word": "Fail safe",
+    "meaning": "A design feature that ensures a system ends up in a safe state if it fails",
+    "shortMeaning": "safe failure mode",
+    "example": "An elevator has a fail safe brake that stops it if the power goes out.",
+    "example2": "The nuclear plant is designed to be fail safe in case of an emergency.",
+    "example3": "We need a fail safe plan in case the main server crashes.",
+    "Explanation": "A 'fail safe' system is one that, when it breaks, does not cause harm or danger. For example, if an electric lock is 'fail safe,' it unlocks when the power is lost, allowing people to escape a building during a fire. It is a critical concept in engineering and safety management. The focus is on protecting lives and property during a malfunction. It assumes that failure is possible and prepares for it. It is widely used in transportation, energy, and security sectors.",
+    "synonyms": [
+      "safety mechanism",
+      "foolproof",
+      "secure"
+    ],
+    "antonyms": [
+      "fail deadly",
+      "dangerous failure"
+    ],
+    "nounForm": "fail-safe",
+    "verbForm": "N/A",
+    "adjectiveForm": "fail-safe",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Engineering, safety, and system design",
+    "usageTip": "Use this for systems where safety is the priority during a breakdown.",
+    "commonMistake": "Confusing 'fail safe' (safe) with 'fail secure' (locked/protected).",
+    "collocations": [
+      "fail safe mechanism",
+      "built-in fail safe"
+    ]
+  }
+]

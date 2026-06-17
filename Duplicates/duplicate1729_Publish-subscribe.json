@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Publish-subscribe",
+    "meaning": "A communication style where information is shared based on topics or interests",
+    "shortMeaning": "topic-based communication",
+    "example": "The system architecture is based on a publish-subscribe mechanism.",
+    "example2": "Publish-subscribe logic allows for very fast message delivery.",
+    "example3": "We use a publish-subscribe service to handle our server logs.",
+    "Explanation": "This is the hyphenated version of 'publish subscribe', often used as an adjective to describe a system or tool. It focuses on the relationship between the sender and the receiver being indirect. In this model, the 'broker' or 'bus' handles the delivery of messages to the right people. It is the heart of modern 'real-time' web experiences. When you follow someone on social media and see their posts, that is a real-world example of this logic. It is highly efficient for distributing data to thousands of people simultaneously.",
+    "synonyms": [
+      "Pub/Sub",
+      "event-based"
+    ],
+    "antonyms": [
+      "synchronous communication"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "publish-subscribe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking and distributed systems",
+    "usageTip": "Use the hyphen when it acts as an adjective before a noun (e.g., 'publish-subscribe system').",
+    "commonMistake": "Thinking it is only for email; it's used for all kinds of data streams.",
+    "collocations": [
+      "publish-subscribe system",
+      "publish-subscribe mechanism",
+      "publish-subscribe architecture"
+    ]
+  },
+  {
+    "word": "Publish-subscribe",
+    "meaning": "A messaging pattern where senders (publishers) send messages to subscribers without knowing who they are.",
+    "shortMeaning": "message pattern",
+    "example": "We use a publish-subscribe model for our event notification system.",
+    "example2": "The publish-subscribe architecture scales very well.",
+    "example3": "The publisher sends data, and all subscribers receive it instantly.",
+    "Explanation": "Publish-subscribe (often called Pub/Sub) is an asynchronous messaging pattern used in distributed systems. It separates the sender of a message from the receiver. The publisher does not send the message directly to a specific user; instead, it sends it to a 'topic' or 'channel'. The subscribers then receive whatever is sent to that channel. This makes systems flexible and modular because new subscribers can be added without changing the publisher's code.",
+    "synonyms": [
+      "pub/sub",
+      "messaging-pattern"
+    ],
+    "antonyms": [
+      "request-response"
+    ],
+    "nounForm": "pub/sub",
+    "verbForm": "N/A",
+    "adjectiveForm": "publish-subscribe",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Distributed systems, architecture, messaging",
+    "usageTip": "Use when talking about scalable communication patterns.",
+    "commonMistake": "Confusing it with point-to-point communication.",
+    "collocations": [
+      "publish-subscribe model",
+      "publish-subscribe architecture",
+      "pub/sub system"
+    ]
+  },
+  {
+    "word": "Publish-subscribe",
+    "meaning": "A messaging architectural pattern where senders (publishers) send messages to categories without knowing who the receivers (subscribers) are",
+    "shortMeaning": "pub-sub messaging pattern",
+    "example": "The chat application uses a publish-subscribe pattern to deliver messages to multiple users in real time.",
+    "example2": "Implementing a publish-subscribe architecture helped decouple our backend microservices.",
+    "example3": "Kafka and RabbitMQ are popular tools that support the publish-subscribe messaging model.",
+    "Explanation": "The term 'publish-subscribe' (frequently abbreviated as Pub/Sub) refers to a foundational architectural design pattern in software engineering and system networking. In this model, the component that generates data, known as the publisher, does not program or target messages directly to specific receivers. Instead, it categorizes published messages into 'topics' or channels. The components interested in those topics, known as subscribers, register themselves to receive updates automatically whenever new data lands on that topic. This creates an extremely decoupled system where components can scale, fail, or upgrade independently without breaking the entire communication ecosystem, making it ideal for event-driven systems and real-time apps.",
+    "synonyms": [
+      "pub-sub",
+      "event-driven messaging",
+      "broadcast pattern"
+    ],
+    "antonyms": [
+      "point-to-point communication",
+      "request-response",
+      "N/A"
+    ],
+    "nounForm": "publish-subscribe architecture",
+    "verbForm": "N/A",
+    "adjectiveForm": "publish-subscribe",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "System architecture, microservices, real-time data streaming, event handling",
+    "usageTip": "Use 'publish-subscribe' when describing systems where multiple decoupled components need to react to data updates asynchronously.",
+    "commonMistake": "Spelling it as separate words without a hyphen when using it as a combined architectural modifier; always use a hyphen.",
+    "collocations": [
+      "publish-subscribe pattern",
+      "publish-subscribe model",
+      "publish-subscribe architecture"
+    ]
+  }
+]

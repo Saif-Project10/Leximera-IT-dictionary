@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Visually impaired",
+    "meaning": "Having a permanent loss of vision that cannot be fully corrected by glasses",
+    "shortMeaning": "partially blind/low vision",
+    "example": "The website was designed to be easily used by visually impaired individuals.",
+    "example2": "He uses a white cane because he is visually impaired.",
+    "example3": "Visually impaired students often use screen readers to access digital textbooks.",
+    "Explanation": "The term 'visually impaired' is a respectful way to describe people with a wide range of vision loss, from partial sight to total blindness. In IT, this group is a primary focus for accessibility standards. Software must be designed with high contrast, large fonts, and compatibility with assistive tech to serve them. It is more inclusive than simply saying 'blind'. Understanding the needs of the visually impaired is essential for creating equitable digital products. It is a formal and preferred term in professional settings.",
+    "synonyms": [
+      "vision-impaired",
+      "partially sighted",
+      "low vision"
+    ],
+    "antonyms": [
+      "sighted",
+      "fully sighted"
+    ],
+    "nounForm": "visual impairment",
+    "verbForm": "N/A",
+    "adjectiveForm": "visually impaired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, education, and web accessibility",
+    "usageTip": "Use this term instead of 'blind' unless you are specifically referring to total vision loss.",
+    "commonMistake": "Assuming 'visually impaired' always means total blindness; it is a broad spectrum.",
+    "collocations": [
+      "visually impaired person",
+      "support for the visually impaired",
+      "visually impaired community"
+    ]
+  },
+  {
+    "word": "Visually impaired",
+    "meaning": "Having difficulty seeing or being unable to see",
+    "shortMeaning": "low vision",
+    "example": "The software includes accessibility features for the visually impaired.",
+    "example2": "We redesigned the site to be usable by the visually impaired.",
+    "example3": "He tested the screen reader for visually impaired users.",
+    "Explanation": "The term 'visually impaired' is used in IT to describe people who have partial or complete vision loss. Accessibility (a11y) is a critical standard in web and software development, requiring that products be usable by everyone, including those with visual impairments. Developers often implement screen readers, high-contrast themes, and text-to-speech tools to support these users. It is an important term in discussions about inclusivity and legal compliance for digital platforms. Always prioritize accessibility when building interfaces for a broad audience.",
+    "synonyms": [
+      "blind",
+      "partially sighted",
+      "low vision"
+    ],
+    "antonyms": [
+      "sighted"
+    ],
+    "nounForm": "visual impairment",
+    "verbForm": "N/A",
+    "adjectiveForm": "visually impaired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Accessibility, web standards, inclusive design",
+    "usageTip": "Use this term respectfully when discussing accessibility needs.",
+    "commonMistake": "Ignoring accessibility standards during the design phase.",
+    "collocations": [
+      "visually impaired users",
+      "support for the visually impaired"
+    ]
+  },
+  {
+    "word": "Visually impaired",
+    "meaning": "Having a physical condition that reduces the ability to see.",
+    "shortMeaning": "low vision",
+    "example": "The software includes features to support visually impaired users.",
+    "example2": "Web accessibility standards are critical for the visually impaired.",
+    "example3": "High-contrast themes assist visually impaired visitors.",
+    "Explanation": "In IT, specifically within web and software development, 'visually impaired' is a standard term used in accessibility (A11y) discussions. Designing for the visually impaired involves using screen readers, high contrast, and keyboard navigation. Developers are increasingly required (and legally mandated in many regions) to ensure their products work for all users, regardless of visual ability. It is a core part of building inclusive and compliant digital products.",
+    "synonyms": [
+      "blind",
+      "low-vision",
+      "sight-impaired"
+    ],
+    "antonyms": [
+      "fully-sighted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "visually impaired",
+    "partOfSpeech": "adjective",
+    "commonContext": "Accessibility and inclusive design",
+    "usageTip": "Use in the context of accessibility and user inclusion.",
+    "commonMistake": "Ignoring accessibility until after the product is finished.",
+    "collocations": [
+      "visually impaired users",
+      "visually impaired accessibility",
+      "support visually impaired"
+    ]
+  }
+]

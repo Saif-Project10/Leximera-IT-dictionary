@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Teleported",
+    "meaning": "Instantly transported or moved from one location to another (metaphorical in IT).",
+    "shortMeaning": "instantly-moved",
+    "example": "The user was teleported to the dashboard after login.",
+    "example2": "It feels like I was teleported to the new server.",
+    "example3": "We teleported the configuration file to the remote node.",
+    "Explanation": "Literally, 'teleport' means to move something instantly over a distance. In IT, this is used metaphorically for actions like instantly redirecting a user to a different web page, transferring a file to a remote destination, or moving between complex system states in a simulator. It implies speed and an almost 'magical' transition. Use it carefully, as it is informal and should only be used in non-critical documentation or creative work.",
+    "synonyms": [
+      "redirected",
+      "transferred",
+      "jumped"
+    ],
+    "antonyms": [
+      "slowly-moved",
+      "migrated",
+      "transferred"
+    ],
+    "nounForm": "teleportation",
+    "verbForm": "teleport",
+    "adjectiveForm": "teleported",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Gaming, UX, informal IT talk",
+    "usageTip": "Use metaphorically for instant movement in software or UX.",
+    "commonMistake": "Using it in formal, serious technical documentation.",
+    "collocations": [
+      "teleported user",
+      "teleported data"
+    ]
+  },
+  {
+    "word": "Teleported",
+    "meaning": "Moved instantly from one place to another using technology or fiction",
+    "shortMeaning": "instantly moved",
+    "example": "In the game, you can be teleported to different levels.",
+    "example2": "He felt like he had been teleported to a new world.",
+    "example3": "The data was virtually teleported across the network.",
+    "Explanation": "The word 'teleported' describes the act of moving something or someone instantly from one location to another without traveling through the space in between. It is primarily a science-fiction concept, but it is also used in computer gaming to describe instant travel between zones. In IT, it can be used metaphorically for high-speed data transfer or moving a user session instantly. The verb is 'teleport'. It always implies instant or near-instant change of position.",
+    "synonyms": [
+      "transferred",
+      "moved",
+      "relocated"
+    ],
+    "antonyms": [
+      "traveled",
+      "walked",
+      "transported"
+    ],
+    "nounForm": "teleportation",
+    "verbForm": "teleport",
+    "adjectiveForm": "teleported",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Science fiction, gaming, metaphorical IT",
+    "usageTip": "Use 'teleported' for instant travel, usually in gaming or sci-fi contexts.",
+    "commonMistake": "Using it for normal movement; it implies speed or technology.",
+    "collocations": [
+      "teleported to",
+      "teleported back",
+      "teleported instantly"
+    ]
+  }
+]

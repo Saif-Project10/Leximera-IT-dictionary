@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Vignetted",
+    "meaning": "Having the edges shaded or faded into the background",
+    "shortMeaning": "edged/faded",
+    "example": "The photo was vignetted to focus on the center.",
+    "example2": "A vignetted border was applied to the thumbnail.",
+    "example3": "The UI design uses vignetted shadows for depth.",
+    "Explanation": "A 'vignette' is a design effect where the edges of an image or element are gradually faded, shaded, or darkened to draw the viewer's eye to the center. In web and graphic design, it is used to add depth, highlight content, or create a specific aesthetic. 'Vignetted' describes the state of an image that has been processed with this effect. It is a subtle tool that can significantly change the visual impact of an interface or media component.",
+    "synonyms": [
+      "shaded",
+      "faded",
+      "bordered"
+    ],
+    "antonyms": [
+      "sharp-edged",
+      "uniform"
+    ],
+    "nounForm": "vignette",
+    "verbForm": "vignette",
+    "adjectiveForm": "vignetted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graphics, photography, UI design",
+    "usageTip": "Use for visual effects that fade edges.",
+    "commonMistake": "Using vignetting excessively, which can make the UI look cluttered.",
+    "collocations": [
+      "vignetted border",
+      "vignetted effect",
+      "vignetted image"
+    ]
+  },
+  {
+    "word": "Vignetted",
+    "meaning": "Having a reduced brightness or saturation at the edges compared to the center.",
+    "shortMeaning": "faded edges",
+    "example": "The image editor applied a vignetted effect to the profile photo.",
+    "example2": "Vignetted photos can focus the viewer's attention on the center.",
+    "example3": "Some design templates use vignetted backgrounds.",
+    "Explanation": "‘Vignetted’ refers to a visual effect common in image processing and UI design. It creates a soft, darkened border around an image or container. While it is often used for aesthetic reasons in photography, in UI, it can be used to add depth or to draw the user's focus towards the main content in the middle of a screen. It is a stylistic choice that can impact the visual hierarchy of an application interface.",
+    "synonyms": [
+      "shaded",
+      "faded",
+      "soft-edged"
+    ],
+    "antonyms": [
+      "uniform",
+      "bright-edged"
+    ],
+    "nounForm": "vignette",
+    "verbForm": "vignette",
+    "adjectiveForm": "vignetted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graphic design and UI/UX",
+    "usageTip": "Use when describing image styles or visual effects.",
+    "commonMistake": "Overusing the effect, which can make text hard to read.",
+    "collocations": [
+      "vignetted image",
+      "vignetted effect",
+      "vignetted background"
+    ]
+  }
+]

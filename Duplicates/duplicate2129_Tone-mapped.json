@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tone-mapped",
+    "meaning": "The process of adjusting the dynamic range of an image for display",
+    "shortMeaning": "range-adjusted",
+    "example": "The HDR image was tone-mapped to fit on the screen.",
+    "example2": "Tone-mapped images look more natural on standard monitors.",
+    "email3": "The software includes a new tone-mapped rendering engine.",
+    "Explanation": "Tone-mapping is a computer graphics technique used to map one set of colors to another, often to approximate the appearance of high dynamic range (HDR) images in media with a more limited range, such as standard computer displays or print. Without tone-mapping, HDR images often appear too dark or washed out on normal screens. It involves complex mathematical algorithms to compress the luminance while maintaining detail. This is a common term in photography software, video games, and rendering engines.",
+    "synonyms": [
+      "range-compressed",
+      "adjusted"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tone-mapping",
+    "verbForm": "tone-map",
+    "adjectiveForm": "tone-mapped",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Computer graphics, photography, rendering",
+    "usageTip": "Use this to describe the final stage of rendering an HDR image.",
+    "commonMistake": "Confusing tone-mapping with simple color correction or editing.",
+    "collocations": [
+      "tone-mapped image",
+      "tone-mapped output",
+      "tone-mapped display"
+    ]
+  },
+  {
+    "word": "Tone-mapped",
+    "meaning": "Processed to adjust light and shadow range for display",
+    "shortMeaning": "contrast-adjusted",
+    "example": "The HDR image was tone-mapped for screen display.",
+    "example2": "We tone-mapped the raw sensor input to reveal detail.",
+    "example3": "The graphics engine uses tone-mapped output.",
+    "Explanation": "Tone mapping is a technique used in computer graphics and photography to map a wide range of colors (HDR - High Dynamic Range) into a smaller range that can be viewed on standard displays. This prevents images from appearing washed out or too dark. It is vital for realism in game engines and professional photo editing software. It is a technical adjustment that balances visual accuracy with the limitations of screen hardware.",
+    "synonyms": [
+      "contrast-adjusted",
+      "balanced",
+      "calibrated"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "tone mapping",
+    "verbForm": "tone map",
+    "adjectiveForm": "tone-mapped",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graphics, photography, UI design",
+    "usageTip": "Use to explain how HDR images are displayed properly.",
+    "commonMistake": "Confusing 'tone-mapped' with 'filtered'; it is specifically for lighting/range.",
+    "collocations": [
+      "tone-mapped image",
+      "tone-mapped output",
+      "HDR tone-mapped"
+    ]
+  }
+]

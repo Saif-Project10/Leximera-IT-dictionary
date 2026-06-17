@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Global",
+    "meaning": "Relating to the whole world; worldwide.",
+    "shortMeaning": "worldwide",
+    "example": "Climate change is a global problem.",
+    "example2": "The company has a global network of offices.",
+    "example3": "We need to think from a global perspective.",
+    "Explanation": "'Global' is an adjective meaning pertaining to the entire earth. It's a key term in the modern interconnected world, used in economics (global market), environment (global warming), politics (global affairs), and technology (global positioning). It emphasizes the scale and interconnectedness of issues, businesses, and communities across national boundaries. The adverb is 'globally'. The noun 'globalization' describes the process of becoming global. It's an essential word for discussing anything that transcends local or national contexts.",
+    "synonyms": [
+      "worldwide",
+      "international",
+      "planetary"
+    ],
+    "antonyms": [
+      "local",
+      "national",
+      "regional"
+    ],
+    "nounForm": "globality",
+    "verbForm": "globalize",
+    "adjectiveForm": "global",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, environment, politics, communication",
+    "usageTip": "Often used before nouns like 'economy', 'warming', 'village', 'citizen', or 'reach'.",
+    "commonMistake": "Using 'global' to mean just 'big' or 'general'; it specifically means relating to the whole world.",
+    "collocations": [
+      "global warming",
+      "global scale",
+      "global community"
+    ]
+  },
+  {
+    "word": "Global",
+    "meaning": "Applying to everything or the entire system",
+    "shortMeaning": "all-encompassing",
+    "example": "The global variable is available everywhere.",
+    "example2": "We need a global search function.",
+    "example3": "The change had a global impact on the code.",
+    "Explanation": "The word 'global' has a very specific meaning in IT. A 'global variable' is one that can be accessed from any part of the program, not just within a small function. A 'global' setting is one that applies to the entire platform. While 'global' is useful, using too many global variables is generally considered bad practice because it makes code hard to track and debug. It is a powerful but dangerous concept.",
+    "synonyms": [
+      "universal",
+      "system-wide",
+      "overall"
+    ],
+    "antonyms": [
+      "local",
+      "private",
+      "scoped"
+    ],
+    "nounForm": "globality",
+    "verbForm": "N/A",
+    "adjectiveForm": "global",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, scope, system settings",
+    "usageTip": "Use 'global' to describe things that exist throughout an entire system.",
+    "commonMistake": "Using 'global' for everything when 'local' would be safer.",
+    "collocations": [
+      "global variable",
+      "global scope",
+      "global search"
+    ]
+  }
+]

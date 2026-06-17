@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Non-featured",
+    "meaning": "Not featured; not given special attention or prominence",
+    "shortMeaning": "not highlighted",
+    "example": "The non-featured products are listed on page 20.",
+    "example2": "Her role in the film was non-featured.",
+    "example3": "The app has both featured and non-featured content.",
+    "Explanation": "'Non-featured' is an adjective used to categorize items, people, or content that are not being specially promoted or given a starring role. It's common in e-commerce (featured vs. non-featured items), media (featured vs. non-featured actors), and software/app design. It's a neutral, descriptive term that simply indicates the absence of 'featured' status. It helps in organizing and filtering information for users.",
+    "synonyms": [
+      "unfeatured",
+      "standard",
+      "regular"
+    ],
+    "antonyms": [
+      "featured",
+      "highlighted",
+      "promoted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "feature",
+    "adjectiveForm": "non-featured",
+    "partOfSpeech": "adjective",
+    "commonContext": "E-commerce, media credits, software interfaces",
+    "usageTip": "Used as a contrast to 'featured' in lists, catalogs, or menus.",
+    "commonMistake": "Using 'unfeatured', which is less common and may not be understood by all.",
+    "collocations": [
+      "non-featured items",
+      "non-featured list",
+      "non-featured role"
+    ]
+  },
+  {
+    "word": "Non-featured",
+    "meaning": "Not included in the main highlights or promoted sections",
+    "shortMeaning": "not highlighted",
+    "example": "The bug was in a non-featured part of the application.",
+    "example2": "The new update is non-featured in the marketing materials.",
+    "example3": "Keep tracking non-featured items for potential future updates.",
+    "Explanation": "A 'non-featured' item is one that is part of the system but is not actively promoted, showcased, or highlighted. This happens often with legacy features, niche tools, or beta functionality. While they might not be part of the 'star' features, they are often still crucial for a subset of users. IT teams should ensure that non-featured parts are still maintained and tested, even if they aren't the primary focus of marketing or product development teams.",
+    "synonyms": [
+      "unpromoted",
+      "secondary"
+    ],
+    "antonyms": [
+      "featured",
+      "highlighted"
+    ],
+    "nounForm": "feature",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-featured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Marketing and product management",
+    "usageTip": "Use 'non-featured' for items not actively showcased.",
+    "commonMistake": "Forgetting that non-featured items still need maintenance and bug fixes.",
+    "collocations": [
+      "non-featured item",
+      "non-featured part",
+      "stay non-featured"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "User defined",
+    "meaning": "Something that is created or chosen by the user rather than the system",
+    "shortMeaning": "customized by user",
+    "example": "The software allows for user defined shortcuts to speed up work.",
+    "example2": "You can enter a user defined name for your computer on the network.",
+    "example3": "The report used user defined settings to filter the results.",
+    "Explanation": "In IT, 'user defined' refers to features or parameters that are not set by the manufacturer but by the person using the tool. This allows for high levels of customization. For example, a user defined password or a user defined workspace layout. It is often seen in programming where a 'user defined type' is a custom data structure. This concept is essential for making software flexible enough to meet different people's needs. It gives control back to the end-user.",
+    "synonyms": [
+      "custom",
+      "user-specified",
+      "personalized"
+    ],
+    "antonyms": [
+      "system-defined",
+      "default",
+      "pre-set"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "user-defined",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, software settings, and configuration",
+    "usageTip": "Use this to describe anything the user has the power to name or set themselves.",
+    "commonMistake": "Using 'user defined' when you actually mean 'default' (the system's choice).",
+    "collocations": [
+      "user defined settings",
+      "user defined variables",
+      "user defined parameters"
+    ]
+  },
+  {
+    "word": "User defined",
+    "meaning": "Created or configured by the person using the system.",
+    "shortMeaning": "customized by user",
+    "example": "The software allows for user defined shortcuts.",
+    "example2": "You can set your own user defined variables in the settings.",
+    "example3": "The report structure is completely user defined.",
+    "Explanation": "The term 'user defined' describes settings, functions, or data structures that are not fixed by the programmer but can be customized by the end user. This flexibility is a key feature of modern software, as it allows different people to tailor the tool to their specific workflow. When something is user defined, the system stores the specific configuration and applies it during operation. This increases the software's versatility and usability across various professional needs.",
+    "synonyms": [
+      "custom",
+      "personalized",
+      "configurable"
+    ],
+    "antonyms": [
+      "hard-coded",
+      "fixed",
+      "default"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "user-defined",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software configuration and settings",
+    "usageTip": "Use this when describing features that allow personalization.",
+    "commonMistake": "Confusing 'user defined' with 'default'.",
+    "collocations": [
+      "user defined settings",
+      "user defined variable",
+      "user defined function"
+    ]
+  }
+]

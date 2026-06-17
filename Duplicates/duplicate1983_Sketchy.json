@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sketchy",
+    "meaning": "Incomplete, lacking detail, or potentially unreliable.",
+    "shortMeaning": "vague or unreliable",
+    "example": "The documentation for this module is a bit sketchy.",
+    "example2": "I have only a sketchy idea of how it works.",
+    "example3": "The internet connection at that site is sketchy.",
+    "Explanation": "The word 'sketchy' means that something is incomplete, vague, or gives an impression of being unreliable or poor in quality. In technical work, 'sketchy documentation' is a common complaint that hinders progress. If something is 'sketchy', you should probably investigate it further or verify it before trusting it. It is an informal term but very descriptive.",
+    "synonyms": [
+      "vague",
+      "incomplete",
+      "unreliable"
+    ],
+    "antonyms": [
+      "detailed",
+      "thorough",
+      "reliable"
+    ],
+    "nounForm": "sketch",
+    "verbForm": "sketch",
+    "adjectiveForm": "sketchy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Informal feedback",
+    "usageTip": "Use 'sketchy' to describe poor quality or missing detail.",
+    "commonMistake": "Using 'sketchy' in formal technical documentation (use 'incomplete' instead).",
+    "collocations": [
+      "bit sketchy",
+      "sketchy documentation",
+      "sketchy idea"
+    ]
+  },
+  {
+    "word": "Sketchy",
+    "meaning": "Not detailed, incomplete, or of questionable quality",
+    "shortMeaning": "incomplete or suspicious",
+    "example": "The documentation provided for the legacy API is very sketchy.",
+    "example2": "He gave a sketchy explanation of why the server went down.",
+    "example3": "The code looks a bit sketchy; it might contain hidden bugs.",
+    "Explanation": "The word 'sketchy' has two common meanings in an IT environment. Firstly, it describes information that is incomplete or vague, making it hard to understand. Secondly, it is used informally to describe code or a fix that looks unreliable, unsafe, or poorly written. It suggests that you should be cautious when dealing with the subject matter. It is a very common descriptive adjective in team settings.",
+    "synonyms": [
+      "vague",
+      "unreliable",
+      "incomplete"
+    ],
+    "antonyms": [
+      "thorough",
+      "reliable",
+      "precise"
+    ],
+    "nounForm": "sketchiness",
+    "verbForm": "sketch",
+    "adjectiveForm": "sketchy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, project documentation, debugging",
+    "usageTip": "Use 'sketchy' to warn team members about suspicious or unclear work.",
+    "commonMistake": "Using it to mean 'drawn' instead of 'unreliable'.",
+    "collocations": [
+      "sketchy details",
+      "sketchy code",
+      "look sketchy"
+    ]
+  }
+]

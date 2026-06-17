@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unmarked",
+    "meaning": "Not marked; having no identifying or distinguishing marks.",
+    "shortMeaning": "without marks",
+    "example": "He was buried in an unmarked grave.",
+    "example2": "The police car was unmarked, so the driver didn't realize he was being followed.",
+    "example3": "The trail was unmarked and difficult to follow.",
+    "Explanation": "The adjective 'unmarked' means bearing no visible signs, indicators, or damage. It can refer to a clean surface, a grave without a headstone, a police vehicle without official decals, or a path without signs. It implies anonymity, secrecy, or a pristine condition. It is similar to 'unlabeled' but broader; an unmarked car isn't just unlabeled, it's deliberately devoid of the marks that would identify it as a police car. It often carries a tone of intentional plainness or hidden identity.",
+    "synonyms": [
+      "unlabeled",
+      "untagged",
+      "plain",
+      "anonymous",
+      "featureless"
+    ],
+    "antonyms": [
+      "marked",
+      "labeled",
+      "identified",
+      "conspicuous"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "mark",
+    "adjectiveForm": "unmarked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graves, police vehicles, trails, surfaces",
+    "usageTip": "Often used to describe things that are intentionally without identifying features.",
+    "commonMistake": "Using 'unmarked' for things that are simply clean; it implies the absence of expected or identifying marks.",
+    "collocations": [
+      "unmarked car",
+      "unmarked grave",
+      "unmarked trail",
+      "unmarked bills"
+    ]
+  },
+  {
+    "word": "Unmarked",
+    "meaning": "Not having a label, sign, or identification",
+    "shortMeaning": "no label",
+    "example": "The function returns an unmarked value in the array.",
+    "example2": "Please do not use unmarked cables for the server rack.",
+    "example3": "The file remained unmarked in the directory list.",
+    "Explanation": "Unmarked refers to data or physical objects that lack a label or distinguishing sign. In IT, this can mean a variable that has not been flagged for processing or a file that hasn't been categorized. It is often a source of confusion because you cannot tell what an unmarked item contains or does. Being 'unmarked' generally suggests it has been overlooked during the labeling or documentation phase of development.",
+    "synonyms": [
+      "unlabeled",
+      "unidentified",
+      "blank"
+    ],
+    "antonyms": [
+      "marked",
+      "labeled",
+      "identified"
+    ],
+    "nounForm": "mark",
+    "verbForm": "mark",
+    "adjectiveForm": "unmarked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data labeling, hardware identification, file systems",
+    "usageTip": "Use this for items that need to be categorized but aren't.",
+    "commonMistake": "Confusing it with 'empty'; it contains data, just no label.",
+    "collocations": [
+      "unmarked data",
+      "unmarked files",
+      "unmarked section"
+    ]
+  },
+  {
+    "word": "Unmarked",
+    "meaning": "Something that does not have a label, sign, or identification mark on it.",
+    "shortMeaning": "no label",
+    "example": "The package arrived in an unmarked brown box.",
+    "example2": "Police often use unmarked cars for undercover surveillance.",
+    "example3": "He found an unmarked file on the server.",
+    "Explanation": "The term 'unmarked' signifies the absence of any identifying labels or signs. In an IT context, it often refers to data, memory blocks, or hardware that lack specific categorization or metadata. It suggests something is anonymous or hidden from standard identification systems. Unlike 'labeled' items, these require manual inspection to determine their contents. It is a neutral term used to describe a state of anonymity or lack of classification.",
+    "synonyms": [
+      "anonymous",
+      "unlabeled",
+      "unidentified"
+    ],
+    "antonyms": [
+      "marked",
+      "labeled",
+      "identified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unmarked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, security, logistics",
+    "usageTip": "Use this to describe anything that lacks an identifying tag or label.",
+    "commonMistake": "Assuming it means 'deleted' instead of just 'not labeled'.",
+    "collocations": [
+      "unmarked car",
+      "unmarked package",
+      "unmarked folder"
+    ]
+  }
+]

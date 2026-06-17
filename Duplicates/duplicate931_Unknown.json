@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unknown",
+    "meaning": "1. Not known or familiar. 2. A person or thing that is not known.",
+    "shortMeaning": "not known",
+    "example": "The cause of the problem is still unknown.",
+    "example2": "She was an unknown artist before her first exhibition.",
+    "example3": "The team faced many unknowns in the new project.",
+    "Explanation": "'Unknown' is both an adjective and a noun. As an adjective, it describes anything that is not known, identified, or understood. As a noun (often plural: unknowns), it refers to an unknown person, factor, or quantity, especially in mathematics or risky situations. This word is fundamental in exploration, science, and everyday life when facing uncertainty. It carries a sense of mystery, potential risk, or undiscovered value.",
+    "synonyms": [
+      "unfamiliar",
+      "unidentified",
+      "mysterious",
+      "variable (noun)"
+    ],
+    "antonyms": [
+      "known",
+      "familiar",
+      "identified",
+      "certainty"
+    ],
+    "nounForm": "unknown (e.g., an unknown)",
+    "verbForm": "N/A",
+    "adjectiveForm": "unknown",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Science, mystery, mathematics, introducing new people/things",
+    "usageTip": "As a noun, often use the plural 'unknowns' to talk about unpredictable factors in a situation.",
+    "commonMistake": "Using 'unknown' as a noun for a person in a disrespectful way. 'Unknown soldier' is formal; calling someone 'an unknown' can be rude.",
+    "collocations": [
+      "unknown factor",
+      "unknown territory",
+      "relative unknown"
+    ]
+  },
+  {
+    "word": "Unknown",
+    "meaning": "Not known or identified; of an unspecified nature",
+    "shortMeaning": "not known",
+    "example": "The source of the connection is unknown.",
+    "example2": "An unknown error prevented the file from saving.",
+    "example3": "The variable value is currently unknown.",
+    "Explanation": "In IT, 'unknown' is used to describe values, sources, or errors that the system cannot determine. This is the starting point for most troubleshooting—finding out *why* something is unknown. When you see an 'unknown error', it means the software hasn't been programmed to handle the specific problem. It is a common label in data reporting and log analysis. Always try to resolve 'unknowns' to 'knowns' to improve system reliability and security. It is the most common and simple term in tech for lack of information.",
+    "synonyms": [
+      "unidentified",
+      "undetermined",
+      "unnamed"
+    ],
+    "antonyms": [
+      "known",
+      "identified",
+      "defined"
+    ],
+    "nounForm": "unknown",
+    "verbForm": "N/A",
+    "adjectiveForm": "unknown",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting, error reporting, logging",
+    "usageTip": "Use this when you have no data on a specific issue.",
+    "commonMistake": "Leaving 'unknown' states unresolved for too long.",
+    "collocations": [
+      "unknown error",
+      "unknown source",
+      "unknown value"
+    ]
+  },
+  {
+    "word": "Unknown",
+    "meaning": "Not known or familiar.",
+    "shortMeaning": "not known",
+    "example": "The cause of the error remains unknown.",
+    "example2": "An unknown script was found running in the background.",
+    "example3": "The developer encountered an unknown variable error.",
+    "Explanation": "In IT, the word 'unknown' is used whenever information is missing. An unknown error means the system cannot categorize or find the source of a bug. It is a common state in debugging. When dealing with unknown entities, the priority is to investigate, gather data, and define what the issue is. Security experts are particularly cautious about unknown connections, as they often signal malicious activity or configuration problems.",
+    "synonyms": [
+      "unidentified",
+      "unrecognized",
+      "obscure"
+    ],
+    "antonyms": [
+      "known",
+      "identified",
+      "familiar"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unknown",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting and security",
+    "usageTip": "Use this to describe a lack of definition or information.",
+    "commonMistake": "Ignoring an 'unknown' status instead of investigating it.",
+    "collocations": [
+      "unknown error",
+      "unknown variable",
+      "unknown origin"
+    ]
+  }
+]

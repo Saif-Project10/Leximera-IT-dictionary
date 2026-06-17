@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Push updates",
+    "meaning": "To actively send or deploy software updates to user devices or systems, often automatically.",
+    "shortMeaning": "send updates (often automatically)",
+    "example": "The mobile OS can push updates to your phone overnight.",
+    "example2": "The admin decided to push the security update to all servers immediately.",
+    "example3": "We don't push major updates without user consent; they must click 'Install'.",
+    "Explanation": "Push updates means the software provider initiates the update delivery, 'pushing' it to end-user systems. This contrasts with users manually checking for and 'pulling' updates. Push mechanisms are common for critical security patches and for managed corporate devices. It ensures faster adoption and protection but can sometimes surprise users or cause issues if the update is flawed. The term conveys force and central control. In version control (like Git), 'push' means to send local commits to a remote repository, which is a related but distinct technical meaning.",
+    "synonyms": [
+      "deploy updates",
+      "deliver updates",
+      "force an update"
+    ],
+    "antonyms": [
+      "pull updates",
+      "make updates available",
+      "hold back updates"
+    ],
+    "nounForm": "update push",
+    "verbForm": "push updates",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software distribution, system administration, mobile apps",
+    "usageTip": "Implies the sender has control. 'The server pushes updates to the clients.'",
+    "commonMistake": "Confusing it with the Git command 'git push', which is for code, not necessarily deployed updates.",
+    "collocations": [
+      "automatically push updates",
+      "push an update live",
+      "push out updates"
+    ]
+  },
+  {
+    "word": "Push updates",
+    "meaning": "To automatically deploy software patches, configuration changes, or database modifications from a server directly to user devices or live environments",
+    "shortMeaning": "automatically deploy patches/fixes",
+    "example": "The development team will push updates to the live web application at midnight.",
+    "example2": "Mobile operating systems regularly push updates to fix critical security vulnerabilities.",
+    "example3": "Our CI/CD pipeline can push updates to production automatically after tests pass.",
+    "Explanation": "The phrase 'push updates' relates to software maintenance, continuous integration/continuous deployment (CI/CD) pipelines, and system administration. It defines the mechanism of sending system upgrades, security hotfixes, or application bug adjustments out to production servers or end-user devices. Instead of requiring users to manually download an installer file, modern systems push updates over-the-air (OTA) or deploy them directly to cloud clusters. This practice keeps software ecosystems synchronized and protected against zero-day security risks without disrupting user workflows. Maintaining a smooth process to push updates is a core benchmark of high-performing engineering operations.",
+    "synonyms": [
+      "deploy fixes",
+      "roll out patches",
+      "release updates"
+    ],
+    "antonyms": [
+      "withhold updates",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "update deployment",
+    "verbForm": "push updates",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrase / verb",
+    "commonContext": "CI/CD pipelines, mobile app maintenance, cloud operations",
+    "usageTip": "Use this phrase to describe the distribution of new software versions or configuration settings down to live systems.",
+    "commonMistake": "Assuming that pushing updates guarantees zero downtime without configuring proper rolling deployment strategies first.",
+    "collocations": [
+      "push updates automatically",
+      "push updates to production",
+      "push security updates"
+    ]
+  }
+]

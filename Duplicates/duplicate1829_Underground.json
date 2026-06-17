@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Underground",
+    "meaning": "Located below the surface of the earth",
+    "shortMeaning": "below ground",
+    "example": "The data center has an underground level for extra security.",
+    "example2": "They are laying underground cables for the new fiber optic network.",
+    "example3": "The underground facility is protected from storms and heat.",
+    "Explanation": "In an IT and infrastructure context, 'underground' refers to the physical placement of equipment, cables, or facilities beneath the earth's surface. This is done for several reasons: protection from the weather, security against theft or vandalism, and to save space in crowded cities. Major internet backbone cables often run underground (or under the sea). Many high-security data centers are built underground to protect them from natural disasters or physical attacks. It can also refer to things that are 'hidden' or 'secret' (like an underground hacker group), but in technology, it usually refers to literal physical location. It is a very common term in civil and network engineering. It requires specialized cooling and moisture management.",
+    "synonyms": [
+      "subterranean",
+      "below-grade",
+      "buried"
+    ],
+    "antonyms": [
+      "aboveground",
+      "overhead",
+      "surface-level"
+    ],
+    "nounForm": "underground",
+    "verbForm": "N/A",
+    "adjectiveForm": "underground",
+    "partOfSpeech": "adjective / adverb / noun",
+    "commonContext": "Infrastructure, construction, and security",
+    "usageTip": "Use this to describe the physical location of cables or secure server rooms.",
+    "commonMistake": "Confusing 'underground' (physical) with 'dark web' (digital), though they are both 'hidden'.",
+    "collocations": [
+      "underground cable",
+      "underground bunker",
+      "underground facility"
+    ]
+  },
+  {
+    "word": "Underground",
+    "meaning": "Hidden, secretive, or literally beneath the surface",
+    "shortMeaning": "hidden or below",
+    "example": "Cables are routed through underground conduits.",
+    "example2": "The group operated on the underground tech market.",
+    "example3": "Underground utilities must be marked before digging.",
+    "Explanation": "Underground can refer to literal infrastructure (like buried cabling) or metaphorical contexts, such as secretive or unofficial groups/activity. In IT infrastructure, knowing the location of underground cables is essential for maintenance and building work. In cyber contexts, the 'underground' refers to hidden communities or forums where malicious actors discuss exploits. Understanding both meanings is vital for infrastructure management and digital threat intelligence.",
+    "synonyms": [
+      "hidden",
+      "subterranean",
+      "unofficial"
+    ],
+    "antonyms": [
+      "above-ground",
+      "public",
+      "exposed"
+    ],
+    "nounForm": "underground",
+    "verbForm": "N/A",
+    "adjectiveForm": "underground",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Physical infrastructure, cybersecurity",
+    "usageTip": "Use for buried cables or secretive groups.",
+    "commonMistake": "Using it for 'low-level' coding; it is not the same.",
+    "collocations": [
+      "underground cabling",
+      "underground network",
+      "underground community"
+    ]
+  },
+  {
+    "word": "Underground",
+    "meaning": "Existing or operating beneath the surface",
+    "shortMeaning": "below ground",
+    "example": "The cables are laid in underground conduits.",
+    "example2": "They have an underground server room.",
+    "example3": "The network follows an underground path.",
+    "Explanation": "The word 'underground' can be literal, referring to physical depth, or figurative, referring to secretive operations. In technical infrastructure, it is most often used to describe physical wiring, cooling systems, or data centers located beneath the ground. It is an important term for network engineering and hardware layout. Ensure you specify whether you mean physical location or a clandestine network if the context is ambiguous.",
+    "synonyms": [
+      "subterranean",
+      "below-ground",
+      "buried"
+    ],
+    "antonyms": [
+      "above-ground",
+      "surface",
+      "exposed"
+    ],
+    "nounForm": "underground",
+    "verbForm": "N/A",
+    "adjectiveForm": "underground",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Infrastructure and physical networking",
+    "usageTip": "Use it for physical placement beneath the soil.",
+    "commonMistake": "Using it for 'low-level' operations (unless referring to hacking).",
+    "collocations": [
+      "underground cables",
+      "underground facility",
+      "underground network"
+    ]
+  }
+]

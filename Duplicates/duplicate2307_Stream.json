@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stream",
+    "meaning": "A continuous flow of data or content",
+    "shortMeaning": "continuous flow",
+    "example": "The live stream allows viewers to watch in real time.",
+    "example2": "Data streams can be analyzed in real time.",
+    "example3": "We use streams to handle large file uploads.",
+    "Explanation": "A 'stream' in IT refers to a sequence of data elements made available over time. It is a fundamental concept for handling large or continuous data inputs where loading the entire dataset into memory is not feasible. Examples include audio/video streaming, web logs, or socket connections. Managing streams efficiently is crucial for building responsive applications that handle massive amounts of incoming information without performance degradation.",
+    "synonyms": [
+      "flow",
+      "sequence",
+      "series"
+    ],
+    "antonyms": [
+      "batch",
+      "static block",
+      "packet"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streamed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Media, networking, data science",
+    "usageTip": "Use to describe data moving in a continuous sequence.",
+    "commonMistake": "Using 'stream' to refer to a single static file.",
+    "collocations": [
+      "live stream",
+      "data stream",
+      "video stream"
+    ]
+  },
+  {
+    "word": "Stream",
+    "meaning": "To continuous flow digital audio or video data over a network so it can be consumed immediately without downloading",
+    "shortMeaning": "flow data continuously",
+    "example": "Users prefer to stream high-definition movies rather than downloading entire huge files.",
+    "example2": "The platform can stream live content to millions of concurrent viewers worldwide.",
+    "example3": "Our application will stream financial market updates directly to the user dashboard.",
+    "Explanation": "The word 'stream' refers to transmission techniques that transfer data continuously across networks in real-time. This process allows users to view or listen to media content instantly without waiting for a massive file to save onto their local drive first. Streaming requires consistent network speeds and effective buffering algorithms to handle spikes in traffic. It has transformed entertainment industries, video conferencing setups, and real-time big data processing architectures. The word works as both a verb for the action and a noun for the continuous flow itself.",
+    "synonyms": [
+      "broadcast online",
+      "transmit continuously",
+      "flow data"
+    ],
+    "antonyms": [
+      "download completely",
+      "save locally",
+      "upload offline"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streaming",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Multimedia distribution, cloud services, and real-time data networks",
+    "usageTip": "Use 'stream' when data is consumed continuously and dynamically in real-time over an active connection.",
+    "commonMistake": "Do not confuse streaming with downloading, as streaming does not save permanent media files by default.",
+    "collocations": [
+      "stream video content",
+      "live stream",
+      "stream audio smoothly"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Private",
+    "meaning": "Belonging to or for the use of one particular person or group only; not public.",
+    "shortMeaning": "personal, not public",
+    "example": "That is private property; you cannot enter.",
+    "example2": "Please respect my private life and don't ask personal questions.",
+    "example3": "The meeting was held in a private room.",
+    "Explanation": "'Private' is a very common adjective. It describes things that are personal, confidential, or not owned by the state. It contrasts with 'public'. It can refer to property (private land), information (private details), life (private affairs), or businesses (private company). As a noun, 'a private' is a low-ranking soldier. The word carries connotations of secrecy, exclusivity, and personal rights. In the digital age, 'privacy' (the noun form) is a major concern. It's a fundamental concept in law and society.",
+    "synonyms": [
+      "personal",
+      "confidential",
+      "exclusive",
+      "secluded"
+    ],
+    "antonyms": [
+      "public",
+      "open",
+      "shared",
+      "common"
+    ],
+    "nounForm": "privacy, private (soldier)",
+    "verbForm": "privatize",
+    "adjectiveForm": "private",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Property, personal life, business, military",
+    "usageTip": "In the phrase 'in private', it means away from other people: 'Can I speak to you in private?'",
+    "commonMistake": "Confusing 'private' (not public) with 'privileged' (having special rights).",
+    "collocations": [
+      "private sector",
+      "private life",
+      "private school",
+      "in private"
+    ]
+  },
+  {
+    "word": "Private",
+    "meaning": "Not for public view; for individual or restricted use",
+    "shortMeaning": "personal or restricted",
+    "example": "He has a private repository for his unfinished projects.",
+    "example2": "The meeting was kept private for sensitive discussion.",
+    "example3": "Private variables can only be accessed within the same class.",
+    "Explanation": "The word 'private' means restricted to a specific person or group, excluding the public. In programming, 'private' is an access modifier that hides data or functions from the outside, keeping the code clean and preventing unwanted interference. It is essential for protecting sensitive information and creating robust software. When something is private, it means there are boundaries and access controls in place. It is a fundamental concept in security, class-based programming, and data management.",
+    "synonyms": [
+      "restricted",
+      "confidential",
+      "personal"
+    ],
+    "antonyms": [
+      "public",
+      "shared",
+      "open"
+    ],
+    "nounForm": "privacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "private",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, Security, Access control",
+    "usageTip": "Use when discussing access limitations.",
+    "commonMistake": "Using 'private' when you mean 'personal' (it specifically means hidden/restricted).",
+    "collocations": [
+      "private repository",
+      "private variable",
+      "keep private"
+    ]
+  }
+]

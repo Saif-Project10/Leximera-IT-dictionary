@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Single-factor",
+    "meaning": "Involving or depending on only one factor or element.",
+    "shortMeaning": "involving one factor",
+    "example": "A single-factor authentication system is less secure than multi-factor.",
+    "example2": "The experiment tested a single-factor cause for the phenomenon.",
+    "example3": "This is a single-factor explanation for a very complex problem.",
+    "Explanation": "'Single-factor' is a compound adjective used in scientific research, security, and analysis. It describes a model, system, or explanation that considers only one variable or cause. In security, 'single-factor authentication' (SFA) uses only one credential (like a password), which is considered weak. In research, a single-factor design tests the effect of one independent variable. The term often implies oversimplification when used critically. It's a technical term that highlights the number of elements considered in a process or theory.",
+    "synonyms": [
+      "one-factor",
+      "univariate"
+    ],
+    "antonyms": [
+      "multi-factor",
+      "multivariate",
+      "complex"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-factor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, experimental design, statistics",
+    "usageTip": "Almost always hyphenated. Often used in contrast to 'multi-factor'.",
+    "commonMistake": "Using it outside of technical contexts where 'simple' or 'one reason' would be clearer.",
+    "collocations": [
+      "single-factor authentication",
+      "single-factor analysis",
+      "single-factor model"
+    ]
+  },
+  {
+    "word": "Single-factor",
+    "meaning": "Relying on one piece of information for a task, such as authentication.",
+    "shortMeaning": "one-factor reliance",
+    "example": "Single-factor authentication is less secure than multi-factor.",
+    "example2": "The model uses a single-factor analysis for prediction.",
+    "example3": "We are moving away from single-factor logins.",
+    "Explanation": "The term 'single-factor' describes a system that uses only one piece of evidence or data to complete an action. In security, it means relying solely on a password, which is now considered insufficient. In analysis, it means considering only one variable. While simple, it often lacks the robustness of multi-factor approaches, making it less ideal for sensitive or critical operations.",
+    "synonyms": [
+      "one-factor",
+      "simplified reliance"
+    ],
+    "antonyms": [
+      "multi-factor",
+      "complex-factor"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-factor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security and data analysis",
+    "usageTip": "Use 'single-factor' to describe basic, often less secure, methods.",
+    "commonMistake": "Using single-factor authentication for sensitive systems.",
+    "collocations": [
+      "single-factor authentication",
+      "single-factor model",
+      "single-factor approach"
+    ]
+  }
+]

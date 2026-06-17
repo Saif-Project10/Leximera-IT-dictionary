@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Trigger",
+    "meaning": "Something that causes an action or a process to start",
+    "shortMeaning": "to start an action",
+    "example": "A low battery level can trigger a power-saving mode.",
+    "example2": "The user's click will trigger the download process.",
+    "example3": "We need to set a trigger for the automated backup.",
+    "Explanation": "In IT and computing, a trigger is a mechanism that initiates a specific task or function when a certain condition is met. It is widely used in databases (stored procedures that run automatically) and in software automation. A trigger acts as a 'cause' that leads to an 'effect.' For example, hitting a certain temperature might trigger an alarm in a monitoring system. It is both a noun (the cause) and a verb (the act of causing). Understanding triggers is fundamental for building reactive and automated software systems.",
+    "synonyms": [
+      "activate",
+      "initiate",
+      "cause"
+    ],
+    "antonyms": [
+      "halt",
+      "stop",
+      "prevent"
+    ],
+    "nounForm": "trigger",
+    "verbForm": "trigger",
+    "adjectiveForm": "triggered",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Databases, automation, and programming",
+    "usageTip": "Use as a verb when an event starts a process, or as a noun for the event itself.",
+    "commonMistake": "Using 'trigger' to mean 'schedule'; a trigger is usually reactive, not just based on time.",
+    "collocations": [
+      "trigger an alarm",
+      "database trigger",
+      "trigger a response"
+    ]
+  },
+  {
+    "word": "Trigger",
+    "meaning": "To initiate an action, launch a process, execute a function automatically when a specific event or condition occurs",
+    "shortMeaning": "start an automated action",
+    "example": "Clicking the shopping cart button will trigger a JavaScript function that shows total prices.",
+    "example2": "High database memory consumption levels can trigger automated server scale alerts.",
+    "example3": "We need to set up a database trigger that logs user activity changes automatically.",
+    "Explanation": "The word 'trigger' acts as both an active verb and an architectural noun within software automation. In database systems like SQL, a trigger is a procedural script that runs automatically in response to specific data alterations like INSERT or DELETE. In frontend web development, user actions like scrolling down or hovering over images trigger specific code event listener responses. It is a fundamental concept for building responsive, event-driven web experiences that do not require manual administrative interventions.",
+    "synonyms": [
+      "activate",
+      "initiate",
+      "fire",
+      "launch"
+    ],
+    "antonyms": [
+      "halt",
+      "prevent",
+      "block",
+      "suppress"
+    ],
+    "nounForm": "trigger",
+    "verbForm": "trigger",
+    "adjectiveForm": "triggered",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Event-driven programming, database automation scripts, cloud alert monitoring",
+    "usageTip": "Use 'trigger' to describe the exact condition or event that kicks off an automated backend or frontend code routine.",
+    "commonMistake": "Allowing recursive event loops to trigger each other continuously, which exhausts system memory limits and crashes applications.",
+    "collocations": [
+      "trigger an event",
+      "database trigger",
+      "trigger automatically"
+    ]
+  }
+]

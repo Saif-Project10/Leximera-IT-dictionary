@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Hand-configured",
+    "meaning": "Configured or set up manually by a person, rather than automatically.",
+    "shortMeaning": "manually set up",
+    "example": "Each server in the cluster was hand-configured for optimal performance.",
+    "example2": "The old network required hand-configured IP addresses.",
+    "example3": "In the early days, websites were often hand-configured.",
+    "Explanation": "'Hand-configured' is a compound adjective used in technology and engineering. It describes systems, devices, or software that have been set up, adjusted, or programmed through manual human input, as opposed to being auto-configured, scripted, or using plug-and-play automation. This approach can allow for fine-tuned customization but is time-consuming, prone to human error, and not scalable. The term often appears in discussions about legacy systems or contrasting modern automation (infrastructure as code) with older, manual administrative practices.",
+    "synonyms": [
+      "manually configured",
+      "custom-configured"
+    ],
+    "antonyms": [
+      "auto-configured",
+      "plug-and-play",
+      "scripted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "hand-configure",
+    "adjectiveForm": "hand-configured",
+    "partOfSpeech": "adjective",
+    "commonContext": "IT administration, legacy systems, network engineering",
+    "usageTip": "Always hyphenate. It often implies a labor-intensive, old-fashioned, or highly specific setup process.",
+    "commonMistake": "Using it to mean simply 'customized'; it emphasizes the manual method of configuration.",
+    "collocations": [
+      "hand-configured settings",
+      "hand-configured router",
+      "painstakingly hand-configured"
+    ]
+  },
+  {
+    "word": "Hand-configured",
+    "meaning": "Manually set up or adjusted by a person",
+    "shortMeaning": "manually set",
+    "example": "The server was hand-configured to meet specific needs.",
+    "example2": "Avoid hand-configured settings to reduce human error.",
+    "example3": "Every network node was hand-configured by the technician.",
+    "Explanation": "The term 'hand-configured' refers to a system or setting that was set up manually by a person rather than by an automated tool or script. While hand-configuring allows for great precision and customization, it is also prone to human error and is difficult to replicate across multiple servers. In modern DevOps, we prefer infrastructure-as-code over hand-configured setups. Always document your manual steps if you have to hand-configure anything to ensure reproducibility.",
+    "synonyms": [
+      "manually set",
+      "custom-setup"
+    ],
+    "antonyms": [
+      "automated",
+      "scripted"
+    ],
+    "nounForm": "configuration",
+    "verbForm": "configure",
+    "adjectiveForm": "hand-configured",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration, DevOps",
+    "usageTip": "Use 'hand-configured' for settings you set manually.",
+    "commonMistake": "Preferring hand-configuration over automation in large environments.",
+    "collocations": [
+      "hand-configured settings",
+      "hand-configured server",
+      "hand-configured setup"
+    ]
+  }
+]

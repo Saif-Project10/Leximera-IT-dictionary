@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Traced",
+    "meaning": "Followed or tracked the path or history of something",
+    "shortMeaning": "tracked",
+    "example": "The source of the leak was traced to a misconfigured server.",
+    "example2": "The packet was traced across multiple network hops.",
+    "example3": "He traced the code execution line by line.",
+    "Explanation": "The word 'traced' describes the action of following a sequence of events, a path, or an origin. In IT, this is common in debugging when you 'trace' an error through lines of code, or in networking when you 'trace' a connection route. It implies a deliberate effort to investigate the history of a process or a data item. It is a past-tense verb that is fundamental to problem-solving. Always mention what was traced to provide enough context for the listener.",
+    "synonyms": [
+      "tracked",
+      "followed",
+      "located"
+    ],
+    "antonyms": [
+      "lost",
+      "untraced"
+    ],
+    "nounForm": "trace",
+    "verbForm": "trace",
+    "adjectiveForm": "traced",
+    "partOfSpeech": "verb (past participle)",
+    "commonContext": "Debugging, networking, investigation",
+    "usageTip": "Use this when you have successfully found the root cause of something.",
+    "commonMistake": "Confusing 'traced' with 'tracked'—though they are very similar.",
+    "collocations": [
+      "traced back to",
+      "traced the error",
+      "traced the path"
+    ]
+  },
+  {
+    "word": "Traced",
+    "meaning": "Followed or marked the path, history, or origin of something",
+    "shortMeaning": "tracked back",
+    "example": "The problem was traced back to a faulty server.",
+    "example2": "We traced the data flow through the entire system.",
+    "example3": "The developer traced the function execution step-by-step.",
+    "Explanation": "The word 'traced' indicates that someone or something has been followed to understand its source or history. In debugging, 'traced' often means using tools to monitor the flow of variables or execution paths. When you 'trace' an error, you systematically look at logs to find the exact point of failure. It involves patience and careful analysis to reconstruct events. It is a foundational skill for any IT professional working with complex systems.",
+    "synonyms": [
+      "tracked",
+      "followed",
+      "identified"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "trace",
+    "verbForm": "trace",
+    "adjectiveForm": "traced",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Debugging, logging, research",
+    "usageTip": "Use to describe finding the source or path of an issue.",
+    "commonMistake": "Mixing up 'traced' with 'erased'.",
+    "collocations": [
+      "traced back to",
+      "traced the path",
+      "traced the error"
+    ]
+  }
+]

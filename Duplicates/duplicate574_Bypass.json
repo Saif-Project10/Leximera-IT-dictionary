@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Bypass",
+    "meaning": "To go around or avoid an obstacle or rule; a road passing around a town or its center.",
+    "shortMeaning": "go around; avoid",
+    "example": "We can bypass the traffic by taking the back roads.",
+    "example2": "He bypassed the usual approval process to get it done quickly.",
+    "example3": "The surgeon performed a coronary bypass operation.",
+    "Explanation": "Bypass is a verb and noun. As a verb, it means to avoid something by going around it, either physically or procedurally. As a noun, it's a road that goes around a populated area to relieve traffic, or a surgical procedure to create a new passage for blood flow. It implies finding an alternative route or method, sometimes cleverly, sometimes in defiance of rules. A common mistake is spelling it as two words ('by pass'). This word is useful in logistics, problem-solving, medicine, and discussions about rules and efficiency.",
+    "synonyms": [
+      "avoid",
+      "circumvent",
+      "go around",
+      "detour",
+      "sidestep"
+    ],
+    "antonyms": [
+      "confront",
+      "go through",
+      "adhere to"
+    ],
+    "nounForm": "bypass",
+    "verbForm": "bypass",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Driving, procedures, surgery, and networking.",
+    "usageTip": "Use 'bypass' for physically going around or for avoiding rules/procedures.",
+    "commonMistake": "Using 'bypass' to mean simply 'pass by'; it implies an intentional avoidance or rerouting.",
+    "collocations": [
+      "heart bypass",
+      "bypass surgery",
+      "bypass filter"
+    ]
+  },
+  {
+    "word": "Bypass",
+    "meaning": "To go around something instead of going through it",
+    "shortMeaning": "go around",
+    "example": "The hacker found a way to bypass the login screen.",
+    "example2": "We can bypass the traffic by taking the back roads.",
+    "example3": "The new update allows users to bypass the old verification process.",
+    "Explanation": "To bypass means to find an alternative route that avoids an obstacle. In networking, a 'bypass' might be a hardware switch that maintains a connection even if a device fails. In cybersecurity, it often refers to 'bypassing security controls,' which is a way to gain unauthorized access. It can also be used in programming to describe a logic path that ignores certain checks. While sometimes used for efficiency, it is often associated with security risks or workarounds.",
+    "synonyms": [
+      "circumvent",
+      "avoid",
+      "sidestep",
+      "ignore"
+    ],
+    "antonyms": [
+      "confront",
+      "encounter",
+      "obey"
+    ],
+    "nounForm": "bypass",
+    "verbForm": "bypass",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Security, networking, and transportation",
+    "usageTip": "Use a bypass only as a temporary fix; always try to solve the root problem.",
+    "commonMistake": "Assuming a 'bypass' is always illegal; in engineering, it is often a safety feature.",
+    "collocations": [
+      "bypass security",
+      "bypass a filter",
+      "hardware bypass"
+    ]
+  }
+]

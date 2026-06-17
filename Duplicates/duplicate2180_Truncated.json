@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Truncated",
+    "meaning": "Shortened by cutting off the end or a part of something.",
+    "shortMeaning": "shortened",
+    "example": "The text was truncated to fit the screen.",
+    "example2": "The database returned a truncated result set.",
+    "example3": "A truncated signal caused data loss.",
+    "Explanation": "The word 'truncated' describes data or strings that have been cut short, usually because of length limits or transmission errors. In IT, you often see this in log files, UI labels, or database fields. The base verb is 'truncate'. It implies that the full information was available but was restricted. Be aware that a truncated piece of data might be incomplete, which can lead to errors if the system expects a full string.",
+    "synonyms": [
+      "shortened",
+      "cut",
+      "abbreviated"
+    ],
+    "antonyms": [
+      "extended",
+      "full",
+      "complete"
+    ],
+    "nounForm": "truncation",
+    "verbForm": "truncate",
+    "adjectiveForm": "truncated",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Database management, UI design, and data transmission",
+    "usageTip": "Use 'truncated' when describing text that is cut off due to size constraints.",
+    "commonMistake": "Using 'truncated' for data that was merely compressed rather than cut.",
+    "collocations": [
+      "truncated string",
+      "truncated result",
+      "data truncation"
+    ]
+  },
+  {
+    "word": "Truncated",
+    "meaning": "Shortened by cutting off the beginning or end",
+    "shortMeaning": "cut short",
+    "example": "The error message was truncated in the log.",
+    "example2": "He truncated the database table entries.",
+    "example3": "The output was truncated to fit the screen.",
+    "Explanation": "Truncated means data or text was cut short to meet a size limit. This happens often in logs, database fields, or display outputs. Unlike 'compressed', which keeps all data, 'truncated' means the lost data is gone. In database design, truncation can lead to information loss if not handled correctly. Always ensure your fields are large enough to avoid unwanted truncation.",
+    "synonyms": [
+      "shortened",
+      "cut",
+      "clipped"
+    ],
+    "antonyms": [
+      "full",
+      "complete",
+      "extended"
+    ],
+    "nounForm": "truncation",
+    "verbForm": "truncate",
+    "adjectiveForm": "truncated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data storage, logs, user interfaces",
+    "usageTip": "Use this when data has been cut off because it was too long.",
+    "commonMistake": "Assuming truncated data can be recovered; it is usually permanently lost.",
+    "collocations": [
+      "truncated output",
+      "truncated text",
+      "truncated string"
+    ]
+  }
+]

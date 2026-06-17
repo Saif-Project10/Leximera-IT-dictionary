@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Underperforming",
+    "meaning": "Performing below expectations or standards",
+    "shortMeaning": "not performing well",
+    "example": "The underperforming server was taken offline.",
+    "example2": "We identified several underperforming database queries.",
+    "example3": "The underperforming hardware needs an upgrade.",
+    "Explanation": "Underperforming describes a component, system, or person that is not meeting the required performance level or speed. In IT, finding underperforming queries, disks, or services is a major part of optimization and maintenance. Once identified, underperforming elements must be tuned, patched, or replaced to restore system efficiency. Proactive monitoring helps detect these issues before they significantly impact the overall user experience.",
+    "synonyms": [
+      "slow",
+      "inefficient",
+      "substandard"
+    ],
+    "antonyms": [
+      "high-performing",
+      "efficient",
+      "optimized"
+    ],
+    "nounForm": "underperformance",
+    "verbForm": "underperform",
+    "adjectiveForm": "underperforming",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance optimization, monitoring",
+    "usageTip": "Use to describe systems not meeting goals.",
+    "commonMistake": "Blaming software for hardware that is underperforming.",
+    "collocations": [
+      "underperforming server",
+      "underperforming query",
+      "identify underperforming"
+    ]
+  },
+  {
+    "word": "Underperforming",
+    "meaning": "Not performing as well as expected or required",
+    "shortMeaning": "low performance",
+    "example": "The underperforming database needs optimization.",
+    "example2": "We identified an underperforming script causing delays.",
+    "example3": "Monitor all underperforming hardware components.",
+    "Explanation": "The word 'underperforming' describes something that does not meet the standards or benchmarks of efficiency. It is a critical term for troubleshooting. When a component is labeled as underperforming, it often prompts a performance audit. It is often used in business and IT to discuss servers, applications, or even teams. It carries a sense of urgency, indicating that the current state is not sustainable and needs intervention to reach the target.",
+    "synonyms": [
+      "slow",
+      "inefficient",
+      "subpar"
+    ],
+    "antonyms": [
+      "performing",
+      "optimized",
+      "efficient"
+    ],
+    "nounForm": "underperformance",
+    "verbForm": "underperform",
+    "adjectiveForm": "underperforming",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance monitoring and optimization",
+    "usageTip": "Use this when metrics are below expectations.",
+    "commonMistake": "Using 'slow' exclusively, as underperforming is broader.",
+    "collocations": [
+      "underperforming server",
+      "underperforming application",
+      "due to underperforming"
+    ]
+  }
+]

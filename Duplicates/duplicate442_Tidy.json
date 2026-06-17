@@ -1,0 +1,130 @@
+[
+  {
+    "word": "Tidy",
+    "meaning": "Arranged neatly and in order.",
+    "shortMeaning": "neat and orderly",
+    "example": "Please keep your room tidy.",
+    "example2": "She gave a tidy summary of the events.",
+    "example3": "He made a tidy profit from the sale.",
+    "Explanation": "Tidy is an adjective and verb. As an adjective, it means neat, orderly, and arranged satisfactorily. It can describe spaces, people, sums of money (a tidy sum), or work. As a verb, it means to make something tidy. It is a common, positive word for basic organization and cleanliness. The noun is 'tidiness.' A common mistake is confusing it with 'clean'; tidy is about order, clean is about absence of dirt. This word is fundamental in household chores, personal habits, and presenting work. It conveys a sense of care, control, and pleasantness.",
+    "synonyms": [
+      "neat",
+      "orderly",
+      "organized",
+      "trim",
+      "shipshape"
+    ],
+    "antonyms": [
+      "untidy",
+      "messy",
+      "disorderly",
+      "cluttered"
+    ],
+    "nounForm": "tidiness",
+    "verbForm": "tidy",
+    "adjectiveForm": "tidy",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Housekeeping, personal appearance, finances, and work presentation.",
+    "usageTip": "Use 'tidy up' as a phrasal verb meaning to clean and organize a space.",
+    "commonMistake": "Using 'tidy' to mean 'clean' when you should say 'clean and tidy' for both concepts.",
+    "collocations": [
+      "tidy away",
+      "tidy sum",
+      "tidy desk"
+    ]
+  },
+  {
+    "word": "Tidy",
+    "meaning": "Clean, neat, and well-organized",
+    "shortMeaning": "neat and organized",
+    "example": "Keep your code tidy to help others read it.",
+    "example2": "A tidy directory structure is easier to manage.",
+    "example3": "The workspace is tidy and efficient.",
+    "Explanation": "Tidy means organized and free of clutter. In software, this applies to code (clean, well-formatted, commented), files (properly named, sorted), and even desks or server rooms. A tidy environment or codebase is easier to maintain and troubleshoot. It reduces mistakes and improves productivity. Developing the habit of being tidy is a fundamental skill for every IT professional. It shows attention to quality and professionalism.",
+    "synonyms": [
+      "neat",
+      "organized",
+      "orderly"
+    ],
+    "antonyms": [
+      "messy",
+      "cluttered",
+      "disorganized"
+    ],
+    "nounForm": "tidiness",
+    "verbForm": "tidy",
+    "adjectiveForm": "tidy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code quality, file management, workspaces",
+    "usageTip": "Use to praise clean code or work environments.",
+    "commonMistake": "Confusing tidy code with efficient logic—they are different.",
+    "collocations": [
+      "tidy code",
+      "tidy directory",
+      "keep tidy"
+    ]
+  },
+  {
+    "word": "Tidy",
+    "meaning": "Arranged neatly and in good order",
+    "shortMeaning": "neat",
+    "example": "Keep your code tidy for better readability.",
+    "example2": "A tidy database improves query performance.",
+    "example3": "The developer spent time cleaning up the tidy interface.",
+    "Explanation": "The word 'tidy' describes something that is neat, organized, and clean. In IT, 'tidy code' is easier to read, debug, and maintain. 'Tidy data' refers to datasets organized in a standard, logical structure. It is a very positive adjective. It is important to promote a 'tidy' workspace and environment to reduce errors and improve productivity. It is about organization and clarity.",
+    "synonyms": [
+      "neat",
+      "organized",
+      "clean"
+    ],
+    "antonyms": [
+      "messy",
+      "disorganized",
+      "cluttered"
+    ],
+    "nounForm": "tidiness",
+    "verbForm": "tidy",
+    "adjectiveForm": "tidy",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Code quality, data organization",
+    "usageTip": "Use 'tidy' to describe well-organized code or data structures.",
+    "commonMistake": "Confusing 'tidy' with 'tiny' (though both are positive attributes).",
+    "collocations": [
+      "tidy code",
+      "tidy data",
+      "keep it tidy"
+    ]
+  },
+  {
+    "word": "Tidy",
+    "meaning": "To clean up, reorganize, and structure a codebase or file repository to improve readability and style",
+    "shortMeaning": "clean up and reorganize",
+    "example": "We need to tidy our style sheets by removing all unused CSS layout rules.",
+    "example2": "An automated linter script can tidy your variable spaces while you save your files.",
+    "example3": "Take a few minutes to tidy up your repository folder before pushing it to GitHub.",
+    "Explanation": "The word 'tidy' functions as both an adjective and an active verb. In programming, to tidy code means cleaning up formatting, aligning indentations, removing dead or commented-out script segments, and renaming confusing variables. Writing code that works is only the first step; keeping it tidy ensures that other engineers can read, maintain, and expand the software application quickly without getting slowed down by visual clutter or unorganized files.",
+    "synonyms": [
+      "clean up",
+      "refactor visual styles",
+      "organize",
+      "streamline"
+    ],
+    "antonyms": [
+      "clutter",
+      "disorganize",
+      "mess up"
+    ],
+    "nounForm": "tidiness",
+    "verbForm": "tidy",
+    "adjectiveForm": "tidy",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Code quality refactoring, file management tasks, and repository cleanup reviews",
+    "usageTip": "Use 'tidy' when discussing the process of visually cleaning and formatting a codebase without altering its underlying functional logic.",
+    "commonMistake": "Confusing 'tidy' with deep logic rewriting; tidying changes visual organization, while deep refactoring changes structural logic.",
+    "collocations": [
+      "tidy up the code",
+      "keep files tidy",
+      "clean and tidy layout"
+    ]
+  }
+]

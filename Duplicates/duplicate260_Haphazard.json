@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Haphazard",
+    "meaning": "Lacking any obvious principle of organization; random",
+    "shortMeaning": "random and careless",
+    "example": "The toys were scattered in a haphazard manner across the floor.",
+    "example2": "His approach to studying was haphazard at best.",
+    "example3": "The town grew in a haphazard fashion, without a central plan.",
+    "Explanation": "The adjective 'haphazard' describes something that is done without planning or order, in a chaotic or random way. It emphasizes the lack of care or method, often leading to messiness or inefficiency. It is stronger than 'random' because it implies carelessness. The adverb is 'haphazardly'. It's a useful word for criticizing disorganized processes or arrangements.",
+    "synonyms": [
+      "random",
+      "disorganized",
+      "unsystematic",
+      "slapdash"
+    ],
+    "antonyms": [
+      "systematic",
+      "methodical",
+      "orderly",
+      "planned"
+    ],
+    "nounForm": "haphazardness",
+    "verbForm": "N/A",
+    "adjectiveForm": "haphazard",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work methods, arrangements, growth, placement",
+    "usageTip": "Use to describe something that is not just random, but also messy or careless.",
+    "commonMistake": "Pronouncing it as 'hap-hazard' instead of 'hap-HAZ-ard'.",
+    "collocations": [
+      "haphazard arrangement",
+      "haphazard approach",
+      "haphazard collection"
+    ]
+  },
+  {
+    "word": "Haphazard",
+    "meaning": "Lacking any plan, order, or direction",
+    "shortMeaning": "disorganized",
+    "example": "A haphazard coding style leads to many bugs.",
+    "example2": "The files were stored in a haphazard manner.",
+    "example3": "Avoid haphazard changes to the database structure.",
+    "Explanation": "The word 'haphazard' describes something done without thought, planning, or organization. In software development, 'haphazard' work is a major cause of technical debt, maintenance headaches, and security vulnerabilities. It implies that decisions are made randomly or impulsively. To build professional, reliable systems, one must replace a 'haphazard' approach with structured, documented, and intentional engineering practices. It is a very negative term in professional environments.",
+    "synonyms": [
+      "disorganized",
+      "random",
+      "chaotic"
+    ],
+    "antonyms": [
+      "organized",
+      "systematic",
+      "structured"
+    ],
+    "nounForm": "haphazardness",
+    "verbForm": "N/A",
+    "adjectiveForm": "haphazard",
+    "partOfSpeech": "adjective",
+    "commonContext": "Development, management",
+    "usageTip": "Use 'haphazard' to describe messy or disorganized work.",
+    "commonMistake": "Confusing 'haphazard' with 'creative'.",
+    "collocations": [
+      "haphazard approach",
+      "haphazard changes",
+      "haphazard organization"
+    ]
+  }
+]

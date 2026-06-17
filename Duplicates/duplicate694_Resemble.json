@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Resemble",
+    "meaning": "To look like or be similar to someone or something.",
+    "shortMeaning": "look like; be similar to",
+    "example": "The younger brother closely resembles his father.",
+    "example2": "This situation resembles one we faced last year.",
+    "example3": "The artificial flavor does not resemble the real fruit.",
+    "Explanation": "'Resemble' is a verb used to describe similarity in appearance, character, or nature. It is often used in comparisons. It does not take the preposition 'to' after it (e.g., 'She resembles her mother,' not 'resembles to'). The noun form is 'resemblance'. It is a more formal word than 'look like'. It is commonly used in descriptions, analyses, and everyday observations to point out likenesses between people, objects, or situations.",
+    "synonyms": [
+      "look like",
+      "be similar to",
+      "mirror",
+      "take after"
+    ],
+    "antonyms": [
+      "differ from",
+      "contrast with"
+    ],
+    "nounForm": "resemblance",
+    "verbForm": "resemble",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Appearance, comparisons, family, situations",
+    "usageTip": "Use 'resemble' to state that two things share qualities, especially in how they look. Remember: 'resemble' is followed directly by the object.",
+    "commonMistake": "Adding 'to' after resemble (e.g., 'It resembles to a house') is incorrect.",
+    "collocations": [
+      "closely resemble",
+      "bear a resemblance to",
+      "strikingly resemble"
+    ]
+  },
+  {
+    "word": "Resemble",
+    "meaning": "To look like or be similar to another person, object, or system",
+    "shortMeaning": "look like something",
+    "example": "The updated website layout was modified to resemble a native smartphone application interface.",
+    "example2": "These cyberattack patterns closely resemble a known threat group's historical methods.",
+    "example3": "The mock data objects should resemble real database outputs as closely as possible.",
+    "Explanation": "The word 'resemble' is a verb that highlights structural, visual, or behavioral similarities between two things. In IT and software development, we often use mock data or wireframes that resemble final production systems to run tests safely. Similarly, malware detection software identifies code files that resemble old viruses. There is no active voice progressive form (e.g., you do not say 'is resembling').",
+    "synonyms": [
+      "look like",
+      "be similar to",
+      "mimic"
+    ],
+    "antonyms": [
+      "differ from",
+      "contrast with",
+      "clash"
+    ],
+    "nounForm": "resemblance",
+    "verbForm": "resemble",
+    "adjectiveForm": "resembling",
+    "partOfSpeech": "verb",
+    "commonContext": "UI design aesthetics, mock data creation, and pattern matching analysis",
+    "usageTip": "Use 'resemble' to describe things that share a high number of similarities or appearances.",
+    "commonMistake": "Adding 'with' or 'to' directly after the verb (e.g., 'it resembles to a phone' is incorrect; use 'it resembles a phone').",
+    "collocations": [
+      "closely resemble",
+      "resemble each other",
+      "resemble a pattern"
+    ]
+  }
+]

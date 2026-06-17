@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Infrequent",
+    "meaning": "Not happening often; rare.",
+    "shortMeaning": "not often",
+    "example": "His visits to his hometown are infrequent now.",
+    "example2": "Rain is infrequent in the desert.",
+    "example3": "We have infrequent meetings, maybe once a quarter.",
+    "Explanation": "Infrequent describes events, actions, or occurrences that happen with long intervals between them. It is a neutral word for 'rare' or 'occasional'. It is the opposite of 'frequent' or 'common'. It does not necessarily mean the thing is valuable or special (like 'rare' can); it simply describes low frequency. It can be used for both positive and negative things. The adverb is 'infrequently'. It's a more formal alternative to 'not very often'. The prefix 'in-' means 'not'.",
+    "synonyms": [
+      "rare",
+      "occasional",
+      "sporadic",
+      "seldom",
+      "uncommon"
+    ],
+    "antonyms": [
+      "frequent",
+      "common",
+      "regular",
+      "often"
+    ],
+    "nounForm": "infrequency",
+    "verbForm": "N/A",
+    "adjectiveForm": "infrequent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Events, visits, occurrences, communication",
+    "usageTip": "Use it to describe the low rate at which something happens, without implying it's strange.",
+    "commonMistake": "Confusing 'infrequent' with 'insufficient'. Infrequent is about time, insufficiency is about amount.",
+    "collocations": [
+      "infrequent visitor",
+      "infrequent occurrence",
+      "infrequent contact",
+      "infrequent events"
+    ]
+  },
+  {
+    "word": "Infrequent",
+    "meaning": "Not happening often; rare",
+    "shortMeaning": "not happening often",
+    "example": "The system crashes are infrequent.",
+    "example2": "Data synchronization is infrequent to save bandwidth.",
+    "example3": "These errors are infrequent but serious.",
+    "Explanation": "The word 'infrequent' is used to describe events that occur only occasionally. In IT, we often track the frequency of bugs or server requests. If a problem is 'infrequent', it might be harder to debug because it doesn't happen often enough to easily reproduce. It is a standard word for reporting performance and error metrics.",
+    "synonyms": [
+      "rare",
+      "sporadic",
+      "occasional"
+    ],
+    "antonyms": [
+      "frequent",
+      "constant",
+      "common"
+    ],
+    "nounForm": "infrequency",
+    "verbForm": "N/A",
+    "adjectiveForm": "infrequent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Error reporting, performance metrics",
+    "usageTip": "Use 'infrequent' to describe rare events.",
+    "commonMistake": "Using 'infrequent' for things that never happen; it means they happen, just rarely.",
+    "collocations": [
+      "infrequent error",
+      "infrequent occurrence",
+      "infrequent request"
+    ]
+  }
+]

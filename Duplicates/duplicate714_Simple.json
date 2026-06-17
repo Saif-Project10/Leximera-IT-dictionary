@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Simple",
+    "meaning": "Easily understood or done; not complicated or elaborate.",
+    "shortMeaning": "easy; basic",
+    "example": "The instructions are simple and clear.",
+    "example2": "She lives a simple life in the countryside.",
+    "example3": "It's a simple matter of turning the key.",
+    "Explanation": "'Simple' describes something that is straightforward, uncomplicated, or fundamental. It is the opposite of 'complex' or 'difficult'. It can have positive connotations (simple elegance, simple solution) or sometimes negative ones (simple-minded). The comparative is 'simpler'. The word is incredibly common and is used to praise clarity, criticize lack of sophistication, or describe basic principles. The noun form is 'simplicity'.",
+    "synonyms": [
+      "easy",
+      "straightforward",
+      "uncomplicated",
+      "basic"
+    ],
+    "antonyms": [
+      "complicated",
+      "complex",
+      "difficult",
+      "sophisticated"
+    ],
+    "nounForm": "simplicity",
+    "verbForm": "simplify",
+    "adjectiveForm": "simple",
+    "partOfSpeech": "adjective",
+    "commonContext": "Instructions, design, life, concepts",
+    "usageTip": "Use 'simple' to describe things that are easy to do or understand, or things that are plain and without extras.",
+    "commonMistake": "Using 'more simpler' which is redundant. The correct comparative is 'simpler'.",
+    "collocations": [
+      "simple as that",
+      "keep it simple",
+      "simple life",
+      "simple truth"
+    ]
+  },
+  {
+    "word": "Simple",
+    "meaning": "Easy to understand, deal with, or perform; not complicated.",
+    "shortMeaning": "easy",
+    "example": "The design of the interface is very simple.",
+    "example2": "We implemented a simple script to automate the task.",
+    "example3": "Keep the code as simple as possible to reduce bugs.",
+    "Explanation": "The word 'simple' describes things that lack complexity. In software development, 'simple' is often a goal because it makes code easier to maintain, test, and debug. A simple solution is often superior to a complex one because it is less prone to errors. However, simplicity should not be confused with lack of functionality; it refers to the ease of understanding and execution.",
+    "synonyms": [
+      "easy",
+      "straightforward",
+      "uncomplicated"
+    ],
+    "antonyms": [
+      "complex",
+      "complicated",
+      "difficult"
+    ],
+    "nounForm": "simplicity",
+    "verbForm": "simplify",
+    "adjectiveForm": "simple",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, code, and user experience",
+    "usageTip": "Use 'simple' when referring to ease of use or implementation.",
+    "commonMistake": "Confusing 'simple' with 'simplistic' (which can imply a negative lack of depth).",
+    "collocations": [
+      "simple interface",
+      "simple solution",
+      "keep it simple"
+    ]
+  },
+  {
+    "word": "Simple",
+    "meaning": "Easy to understand or do; not complex",
+    "shortMeaning": "not complex",
+    "example": "This is a simple script to automate the task.",
+    "example2": "Keep your code simple and readable.",
+    "example3": "The design is simple but effective.",
+    "Explanation": "The word 'simple' describes something that lacks unnecessary complexity. In IT, 'simple' is often a goal for user interfaces, code, and architecture because it is easier to maintain and troubleshoot. The noun form is 'simplicity'. While 'simple' is generally positive, avoid oversimplifying complex problems, as that can lead to missing critical details.",
+    "synonyms": [
+      "easy",
+      "straightforward",
+      "uncomplicated"
+    ],
+    "antonyms": [
+      "complex",
+      "complicated",
+      "difficult"
+    ],
+    "nounForm": "simplicity",
+    "verbForm": "simplify",
+    "adjectiveForm": "simple",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, UI/UX, system design",
+    "usageTip": "Use 'simple' to describe designs or code that are easy to maintain.",
+    "commonMistake": "Assuming 'simple' means 'less powerful'.",
+    "collocations": [
+      "simple interface",
+      "keep it simple",
+      "simple solution"
+    ]
+  }
+]

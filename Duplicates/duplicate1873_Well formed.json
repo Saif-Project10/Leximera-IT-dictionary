@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Well formed",
+    "meaning": "Following the correct rules and syntax so a computer can read it",
+    "shortMeaning": "correctly structured",
+    "example": "The XML file must be well formed before the system can process it.",
+    "example2": "An error occurred because the code was not well formed.",
+    "example3": "Ensure your HTML tags are closed so the document is well formed.",
+    "Explanation": "In computer science, 'well formed' means that a piece of code or a document follows all the grammatical rules of its language. For example, in XML or HTML, every opening tag must have a matching closing tag. If a document is not well formed, a computer program (like a browser) might crash or show an error. It is the basic requirement for data to be 'parsable'. It does not necessarily mean the data is 'valid' or 'correct' in meaning, just that the structure is right.",
+    "synonyms": [
+      "syntactically correct",
+      "properly structured",
+      "compliant"
+    ],
+    "antonyms": [
+      "malformed",
+      "broken",
+      "invalid"
+    ],
+    "nounForm": "well-formedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "well-formed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding, XML, HTML, and data files",
+    "usageTip": "Use this to describe code that obeys structural rules.",
+    "commonMistake": "Confusing 'well formed' with 'valid'; well formed is about structure, valid is about following a specific schema.",
+    "collocations": [
+      "well formed XML",
+      "well formed document",
+      "ensure it is well formed"
+    ]
+  },
+  {
+    "word": "Well formed",
+    "meaning": "Following the correct rules, structure, or syntax",
+    "shortMeaning": "correct syntax",
+    "example": "The XML file must be well formed to be parsed correctly.",
+    "example2": "Check if your JSON data is well formed before sending it.",
+    "example3": "A well formed query is essential for database efficiency.",
+    "Explanation": "In computing, 'well formed' means that a document or data structure strictly follows the syntax rules defined by its language. If a file is not well formed, the computer or compiler will likely throw an error. It is a fundamental concept in data exchange formats like XML, HTML, and JSON. Always ensure your syntax tags are closed and nested correctly to meet this standard. It is a technical requirement for data interoperability.",
+    "synonyms": [
+      "correct",
+      "valid",
+      "compliant"
+    ],
+    "antonyms": [
+      "malformed",
+      "incorrect",
+      "invalid"
+    ],
+    "nounForm": "formation",
+    "verbForm": "form",
+    "adjectiveForm": "well-formed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data parsing, programming syntax, XML/JSON",
+    "usageTip": "Commonly used when discussing file formats and data validation.",
+    "commonMistake": "Confusing 'well formed' with 'valid' (validity often involves schema).",
+    "collocations": [
+      "well formed document",
+      "well formed XML",
+      "well formed syntax"
+    ]
+  }
+]

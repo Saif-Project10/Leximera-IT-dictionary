@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Inherit",
+    "meaning": "To receive money, property, or a title from someone after they die; to derive a characteristic from a parent or predecessor",
+    "shortMeaning": "receive from ancestors",
+    "example": "She will inherit the family estate.",
+    "example2": "Children inherit genes from both parents.",
+    "example3": "The new manager inherited a team with low morale.",
+    "Explanation": "To 'inherit' primarily means to legally receive assets from someone who has died. In biology, it means to get genetic traits from parents. Figuratively, it can mean to get a situation, problem, or set of characteristics from a predecessor. The noun form is 'inheritance'. The word connects the past to the present, implying a transfer that is not earned but received. It can be used for both positive and negative legacies.",
+    "synonyms": [
+      "receive",
+      "come into",
+      "acquire",
+      "derive"
+    ],
+    "antonyms": [
+      "disinherit",
+      "bequeath",
+      "leave"
+    ],
+    "nounForm": "inheritance",
+    "verbForm": "inherit",
+    "adjectiveForm": "inherited",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, genetics, leadership transitions, object-oriented programming",
+    "usageTip": "In programming, a class can 'inherit' properties and methods from another class.",
+    "commonMistake": "Using 'inherit' only for money; it applies to traits, situations, and problems too.",
+    "collocations": [
+      "inherit money",
+      "inherit a trait",
+      "inherit the throne",
+      "inherit a problem"
+    ]
+  },
+  {
+    "word": "Inherit",
+    "meaning": "To receive something from a predecessor or a previous version",
+    "shortMeaning": "receive from",
+    "example": "The new version of the app will inherit all the features of the old one.",
+    "example2": "The child will inherit the properties from their parents.",
+    "example3": "New employees inherit the accounts of their predecessors.",
+    "Explanation": "In general English, to inherit means to receive property or traits from ancestors. In a broad IT context, it means a new system or person taking over existing settings, data, or responsibilities. It implies a transition where the new entity starts with the attributes of the old one. This ensures continuity and saves time in setup. It is a fundamental concept in organizational management and system migration.",
+    "synonyms": [
+      "receive",
+      "acquire",
+      "succeed"
+    ],
+    "antonyms": [
+      "forfeit",
+      "lose",
+      "relinquish"
+    ],
+    "nounForm": "inheritance",
+    "verbForm": "inherit",
+    "adjectiveForm": "inherited",
+    "partOfSpeech": "verb",
+    "commonContext": "General transitions, legacy systems, family",
+    "usageTip": "Use 'inherit' when a new person or thing takes over what was there before.",
+    "commonMistake": "Spelling it as 'inherent' (which is the adjective).",
+    "collocations": [
+      "inherit property",
+      "inherit features",
+      "legally inherit"
+    ]
+  }
+]

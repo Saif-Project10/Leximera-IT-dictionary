@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Validate",
+    "meaning": "To check or prove the accuracy, value, or legitimacy of something",
+    "shortMeaning": "check or confirm as correct",
+    "example": "Please validate your parking ticket at the front desk.",
+    "example2": "The experiment validated the scientist's hypothesis.",
+    "example3": "Her praise validated all his hard work.",
+    "Explanation": "To 'validate' means to make something officially acceptable or to confirm it is well-founded. In technology, it's checking data meets format rules (validation). In science, it's proving a theory with evidence. Emotionally, validation means acknowledging someone's feelings as legitimate. The noun is 'validation'. It's a powerful word that grants authority, correctness, or emotional recognition. It's more formal than 'check' and implies an official or definitive confirmation.",
+    "synonyms": [
+      "confirm",
+      "verify",
+      "authenticate",
+      "substantiate",
+      "endorse"
+    ],
+    "antonyms": [
+      "invalidate",
+      "disprove",
+      "reject",
+      "nullify"
+    ],
+    "nounForm": "validation",
+    "verbForm": "validate",
+    "adjectiveForm": "valid",
+    "partOfSpeech": "verb",
+    "commonContext": "Software testing, scientific research, emotional support, official procedures",
+    "usageTip": "In tech, often confused with 'verify'; validation checks if it's the *right* thing, verification checks if it's built *right*.",
+    "commonMistake": "Using 'validate' to mean simply 'check' without the connotation of granting official approval or proof.",
+    "collocations": [
+      "validate a theory",
+      "validate parking",
+      "validate feelings",
+      "validate input"
+    ]
+  },
+  {
+    "word": "Validate",
+    "meaning": "To systematically check, verify, and confirm that a piece of input data, certificate file, or system model is correct and adheres to strict rules",
+    "shortMeaning": "verify correctness or rules compliance",
+    "example": "We must add a clean script line to validate the customer's input email pattern before saving it to our text file database.",
+    "example2": "The server engine will validate your session token layout before returning private account balance sheets.",
+    "example3": "The automated testing suite runs a series of checks to validate that the checkout page works perfectly.",
+    "Explanation": "The word 'validate' is an indispensable verb across the fields of software development, web architecture, data engineering, and general security. It refers to checking incoming pieces of information against predefined constraints to make sure the data is clean, legal, safe, and logical. For instance, validating a form means checking that fields aren't empty, phone numbers only contain numerals, and input paths are safe from hacking scripts. Consistent validation steps protect systems from breaking, maintain clean databases, and ensure premium app experiences.",
+    "synonyms": [
+      "verify",
+      "authenticate",
+      "check accuracy",
+      "prove valid",
+      "confirm"
+    ],
+    "antonyms": [
+      "invalidate",
+      "disprove",
+      "reject",
+      "falsify"
+    ],
+    "nounForm": "validation / validator",
+    "verbForm": "validate",
+    "adjectiveForm": "validated / valid",
+    "partOfSpeech": "verb",
+    "commonContext": "Input form entry handling, data security screening loops, software testing environments, and API system verifications",
+    "usageTip": "Always remember to validate your data at both the front-end layout level (for user comfort) and the backend server level (for real system security).",
+    "commonMistake": "Confusing 'validate' with 'sanitize'; validating means checking if data matches rules, while sanitizing means actively cleaning or stripping unsafe characters out.",
+    "collocations": [
+      "validate user input",
+      "validate data fields",
+      "automatically validate"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unassessed",
+    "meaning": "Not evaluated or judged; not having its value, importance, or quality determined",
+    "shortMeaning": "not evaluated",
+    "example": "The environmental impact of the project is still unassessed.",
+    "example2": "A large number of unassessed applications are pending.",
+    "example3": "The risks were unassessed, leading to unexpected problems.",
+    "Explanation": "'Unassessed' is an adjective describing something that has not yet been formally assessed—that is, its nature, quality, value, or implications have not been officially reviewed, measured, or judged. It is common in administrative, academic, and risk management contexts. For instance, unassessed taxes, unassessed student work, or unassessed dangers. The word indicates a procedural gap; an assessment is needed or overdue. It implies potential uncertainty or liability because the true state is unknown. It is a formal word, often used in reports to highlight pending tasks or unidentified factors.",
+    "synonyms": [
+      "unevaluated",
+      "unappraised",
+      "unjudged",
+      "unreviewed"
+    ],
+    "antonyms": [
+      "assessed",
+      "evaluated",
+      "appraised",
+      "judged"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "assess",
+    "adjectiveForm": "unassessed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Administration, education, risk management, finance",
+    "usageTip": "Use to formally note that a required evaluation has not been completed.",
+    "commonMistake": "Confusing it with 'unassessable', which means not capable of being assessed.",
+    "collocations": [
+      "unassessed risk",
+      "unassessed damage",
+      "unassessed property",
+      "remain unassessed"
+    ]
+  },
+  {
+    "word": "Unassessed",
+    "meaning": "Not yet evaluated, tested, or measured.",
+    "shortMeaning": "not tested",
+    "example": "The security risk remains unassessed.",
+    "example2": "We have several unassessed features in the app.",
+    "example3": "The quality of the code is currently unassessed.",
+    "Explanation": "Unassessed refers to something that has not undergone a formal evaluation or review. In IT, this is common in quality assurance (QA) or security contexts. An unassessed system might have unknown vulnerabilities or performance issues. It is important to label things as unassessed so that team members know they cannot rely on their quality until testing is complete. It implies a need for a future review or test.",
+    "synonyms": [
+      "unevaluated",
+      "untested",
+      "unreviewed"
+    ],
+    "antonyms": [
+      "assessed",
+      "tested",
+      "evaluated"
+    ],
+    "nounForm": "assessment",
+    "verbForm": "assess",
+    "adjectiveForm": "unassessed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Quality assurance, security, management",
+    "usageTip": "Use this to warn others that a feature hasn't been checked yet.",
+    "commonMistake": "Assuming 'unassessed' means it will fail.",
+    "collocations": [
+      "unassessed risk",
+      "unassessed feature",
+      "remain unassessed"
+    ]
+  },
+  {
+    "word": "Unassessed",
+    "meaning": "Not evaluated or judged for quality or value.",
+    "shortMeaning": "not evaluated",
+    "example": "The risk of this bug remains unassessed.",
+    "example2": "We have many unassessed security vulnerabilities.",
+    "example3": "The candidate's skills are currently unassessed.",
+    "Explanation": "When something is 'unassessed', it means that a formal evaluation or check has not occurred yet. This is common in cybersecurity or project management when checking for potential risks or quality metrics. It implies that someone needs to take the time to review it. Failing to assess something can lead to technical debt or security gaps. It is a formal word used in documentation and status meetings.",
+    "synonyms": [
+      "unevaluated",
+      "unrated",
+      "unreviewed"
+    ],
+    "antonyms": [
+      "assessed",
+      "evaluated",
+      "reviewed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unassessed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk management and quality assurance",
+    "usageTip": "Use this to highlight items that need immediate review.",
+    "commonMistake": "Confusing 'unassessed' with 'ignored'.",
+    "collocations": [
+      "unassessed risk",
+      "unassessed vulnerability",
+      "remain unassessed"
+    ]
+  }
+]

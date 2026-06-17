@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Invalidate",
+    "meaning": "To make something legally or officially unacceptable; to disprove or weaken an argument. | To make something no longer valid or legally acceptable.",
+    "shortMeaning": "make invalid; disprove",
+    "example": "A missing signature could invalidate the entire contract.",
+    "example2": "New evidence invalidated the previous theory.",
+    "example3": "The judge's ruling invalidated the old law.",
+    "Explanation": "Invalidate is a strong verb meaning to nullify, cancel, or render something without force or value. It often applies to legal documents, arguments, tests, or elections. The action removes validity, authority, or effectiveness. It can be a formal, procedural act (a court invalidating a law) or an intellectual one (facts invalidating a hypothesis). The prefix 'in-' means 'not', and 'validate' means 'make valid'. So, it literally means 'to make not valid'. The noun is 'invalidation'.",
+    "synonyms": [
+      "Cancel",
+      "Disprove",
+      "Negate",
+      "Nullify",
+      "Void"
+    ],
+    "antonyms": [
+      "Confirm",
+      "Ratify",
+      "Uphold",
+      "Validate"
+    ],
+    "nounForm": "invalidation",
+    "verbForm": "invalidate",
+    "adjectiveForm": "invalid",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, logic, contracts, science, software (cache invalidation)",
+    "usageTip": "Often used in formal or technical contexts where rules and validity are paramount.",
+    "commonMistake": "Confusing 'invalidate' with 'invent' or 'investigate'; they are unrelated.",
+    "collocations": [
+      "invalidate a passport",
+      "invalidate the results",
+      "invalidate a claim"
+    ]
+  },
+  {
+    "word": "Invalidate",
+    "meaning": "To make something no longer official, legal, or correct",
+    "shortMeaning": "make void",
+    "example": "Changing the source code might invalidate the software license.",
+    "example2": "The discovery of a bug could invalidate the entire test result.",
+    "example3": "If you lose your passport, the authorities will invalidate it.",
+    "Explanation": "Invalidate means to prove something is wrong or to take away its legal force. In IT, this often happens with data, caches, or sessions. For example, when a user logs out, the system 'invalidates' their session token. It is a formal term used in logic, law, and technical documentation. It is the opposite of 'validate', which means to confirm that something is correct.",
+    "synonyms": [
+      "nullify",
+      "void",
+      "cancel"
+    ],
+    "antonyms": [
+      "validate",
+      "confirm",
+      "approve"
+    ],
+    "nounForm": "invalidation",
+    "verbForm": "invalidate",
+    "adjectiveForm": "invalid",
+    "partOfSpeech": "verb",
+    "commonContext": "Data validation, legal contracts, cache management",
+    "usageTip": "Use 'invalidate' when a change makes a previous state or document unusable or wrong.",
+    "commonMistake": "Using 'invalidate' when you just mean 'to break' something physically.",
+    "collocations": [
+      "invalidate a claim",
+      "invalidate a session",
+      "invalidate the results"
+    ]
+  }
+]

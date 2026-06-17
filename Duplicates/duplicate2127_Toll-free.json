@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Toll-free",
+    "meaning": "A telephone number that can be called without any charge to the caller",
+    "shortMeaning": "free to call",
+    "example": "You can reach customer support at our toll-free number.",
+    "example2": "The service is available via a toll-free line 24/7.",
+    "example3": "There is no cost for the call as it is toll-free.",
+    "Explanation": "The term 'toll-free' refers to specific telephone numbers that allow the caller to be connected without paying a fee. These numbers often begin with specific prefixes like 800, 888, or 877 in North America. In an IT context, these are often used for help desks or technical support lines. While digital communication is replacing traditional phones, toll-free lines remain a standard for enterprise support services. It is an adjective that clearly indicates financial convenience for the user.",
+    "synonyms": [
+      "free",
+      "cost-free"
+    ],
+    "antonyms": [
+      "paid",
+      "chargeable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "toll-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Customer service, technical support, telecommunications",
+    "usageTip": "Use this when providing contact details for an enterprise service.",
+    "commonMistake": "Assuming all company numbers are toll-free.",
+    "collocations": [
+      "toll-free number",
+      "toll-free line",
+      "call toll-free"
+    ]
+  },
+  {
+    "word": "Toll-free",
+    "meaning": "A service that allows users to connect without a cost",
+    "shortMeaning": "no-cost access",
+    "example": "The company provides a toll-free technical support number.",
+    "example2": "Many services offer toll-free access to cloud databases.",
+    "example3": "He called the toll-free line for help.",
+    "Explanation": "While often used for telephone numbers, 'toll-free' in IT context can refer to free access to APIs, datasets, or network paths that do not incur costs. It is a marketing and accessibility concept meant to lower the barrier for users to consume a service. While not a strict technical architecture term, it is used in documentation to define cost structures and access levels. It represents a user-friendly way to offer services.",
+    "synonyms": [
+      "free",
+      "no-cost",
+      "complimentary"
+    ],
+    "antonyms": [
+      "paid",
+      "metered",
+      "costly"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "toll-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Support, services, cost structures",
+    "usageTip": "Use to indicate cost-free access points.",
+    "commonMistake": "Using 'toll-free' as a synonym for 'open-source'; they are different.",
+    "collocations": [
+      "toll-free number",
+      "toll-free access",
+      "toll-free service"
+    ]
+  }
+]

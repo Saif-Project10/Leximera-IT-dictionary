@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Vacant",
+    "meaning": "Empty; not occupied or in use.",
+    "shortMeaning": "empty",
+    "example": "The server rack has a few vacant slots.",
+    "example2": "The office chair remained vacant during the meeting.",
+    "example3": "He found a vacant port on the switch.",
+    "Explanation": "The word 'vacant' describes a space or resource that is currently unused. In IT, it often refers to empty slots in a server cabinet, available IP addresses, or unassigned storage space. It is a simple term used to describe availability. When a resource is vacant, it is available for immediate assignment. Always keep track of vacant resources to optimize hardware and network capacity management.",
+    "synonyms": [
+      "empty",
+      "unoccupied",
+      "free"
+    ],
+    "antonyms": [
+      "occupied",
+      "full",
+      "taken"
+    ],
+    "nounForm": "vacancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "vacant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, office space, network management",
+    "usageTip": "Use this to describe hardware slots or space availability.",
+    "commonMistake": "Using 'vacant' for software processes (use 'idle' or 'available').",
+    "collocations": [
+      "vacant slot",
+      "vacant position",
+      "vacant port"
+    ]
+  },
+  {
+    "word": "Vacant",
+    "meaning": "Containing nothing; not currently filled or occupied.",
+    "shortMeaning": "empty",
+    "example": "The database record is currently vacant.",
+    "example2": "She found a vacant workspace in the office.",
+    "example3": "The memory slot is vacant and ready for an upgrade.",
+    "Explanation": "In IT, 'vacant' usually refers to hardware ports, storage slots, or even specific memory addresses that are not currently holding data or a component. It implies that the space is available for use. It is different from 'null', which refers to a data value. 'Vacant' refers to a physical or logical container that is waiting for something to be placed inside it. It is a clear way to describe available capacity.",
+    "synonyms": [
+      "empty",
+      "available",
+      "free"
+    ],
+    "antonyms": [
+      "occupied",
+      "full",
+      "taken"
+    ],
+    "nounForm": "vacancy",
+    "verbForm": "N/A",
+    "adjectiveForm": "vacant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware and storage management",
+    "usageTip": "Use 'vacant' for physical spaces or slots.",
+    "commonMistake": "Confusing 'vacant' with 'null' in programming.",
+    "collocations": [
+      "vacant slot",
+      "vacant space",
+      "remain vacant"
+    ]
+  }
+]

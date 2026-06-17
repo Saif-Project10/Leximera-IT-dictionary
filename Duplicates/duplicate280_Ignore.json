@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Ignore",
+    "meaning": "To refuse to take notice of or acknowledge; to deliberately pay no attention to | To refuse to take notice of or acknowledge; to disregard intentionally.",
+    "shortMeaning": "pay no attention",
+    "example": "She ignored the rude comment and kept walking.",
+    "example2": "You can't ignore the facts forever.",
+    "example3": "My phone is on 'Do Not Disturb' mode to ignore calls.",
+    "Explanation": "Ignore means to consciously choose not to see, hear, or consider something or someone. It is an active decision, not just passive unawareness. People ignore distractions, advice, problems, or people they find annoying. While sometimes a useful strategy (ignoring a troll online), it can also be unwise or rude (ignoring a serious problem or a friend). The noun is 'ignorance', but note that 'ignorance' usually means a lack of knowledge, not a deliberate act. The adjective is 'ignorant'. It's a common word in interpersonal communication.",
+    "synonyms": [
+      "Disregard",
+      "Neglect",
+      "Overlook",
+      "Pay No Attention To",
+      "Snub",
+      "Tune Out"
+    ],
+    "antonyms": [
+      "Acknowledge",
+      "Heed",
+      "Notice",
+      "Pay Attention",
+      "Pay Attention To"
+    ],
+    "nounForm": "ignorance (note: different core meaning)",
+    "verbForm": "ignore",
+    "adjectiveForm": "ignorant (note: different core meaning)",
+    "partOfSpeech": "verb",
+    "commonContext": "Social interactions, problem-solving, focus, online behavior",
+    "usageTip": "Often implies a willful act. For accidental lack of notice, use 'overlook' or 'miss'.",
+    "commonMistake": "Confusing 'ignore' (choose not to notice) with 'be ignorant of' (not know about).",
+    "collocations": [
+      "ignore advice",
+      "completely ignore",
+      "hard to ignore"
+    ]
+  },
+  {
+    "word": "Ignore",
+    "meaning": "To deliberately pay no attention to something",
+    "shortMeaning": "pay no attention",
+    "example": "You can configure Git to ignore certain files using a .gitignore file.",
+    "example2": "Sometimes it's best to ignore minor warnings if they don't affect performance.",
+    "example3": "The browser will ignore any HTML tags it doesn't recognize.",
+    "Explanation": "In programming, 'ignore' is often a functional command. For example, developers use `.gitignore` to tell the version control system which files (like passwords or large binaries) should not be uploaded. Compilers might ignore 'comments'—text written for humans that doesn't affect the code. It is a way to filter out noise and focus only on what is necessary. However, ignoring 'errors' or 'security alerts' is generally a bad practice. In everyday communication, 'ignore' means to not respond to a message or notification. It is a simple but powerful verb used for filtering and focus.",
+    "synonyms": [
+      "disregard",
+      "overlook",
+      "bypass"
+    ],
+    "antonyms": [
+      "notice",
+      "address",
+      "attend"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "ignore",
+    "adjectiveForm": "ignored",
+    "partOfSpeech": "verb",
+    "commonContext": "Version control, error handling, and daily life",
+    "usageTip": "Use 'ignore' when setting up filters or excluding items from a process.",
+    "commonMistake": "Ignoring serious system warnings, which can lead to major crashes later.",
+    "collocations": [
+      "ignore warnings",
+      "ignore files",
+      "totally ignore"
+    ]
+  }
+]

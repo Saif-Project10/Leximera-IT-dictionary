@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Zero based",
+    "meaning": "Starting a process or count from the number zero instead of one",
+    "shortMeaning": "starting from zero",
+    "example": "The company used zero based budgeting to justify every expense.",
+    "example2": "Most modern programming languages are zero based.",
+    "example3": "We need to take a zero based approach to solve this problem.",
+    "Explanation": "Zero based is a concept used in various fields where everything starts from a baseline of zero. In finance, it refers to 'Zero-Based Budgeting,' where every new period's budget starts at zero rather than adjusting the previous year's numbers. In a general sense, it means ignoring past assumptions and starting from scratch. This ensures that every part of a plan or system is necessary and efficient. In IT, it is most frequently associated with how data is organized and counted in memory.",
+    "synonyms": [
+      "from scratch",
+      "ground-up",
+      "starting at zero"
+    ],
+    "antonyms": [
+      "one-based",
+      "incremental"
+    ],
+    "nounForm": "zero-base",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Budgeting, programming, and planning",
+    "usageTip": "Use 'zero based' when you want to emphasize that nothing is being taken for granted.",
+    "commonMistake": "Assuming zero based means 'zero cost'; it actually means 'starting the count from zero'.",
+    "collocations": [
+      "zero based budgeting",
+      "zero based approach",
+      "zero based thinking"
+    ]
+  },
+  {
+    "word": "Zero based",
+    "meaning": "A system where indices start at 0 instead of 1.",
+    "shortMeaning": "starting from 0",
+    "example": "Most modern programming languages are zero based.",
+    "example2": "Because the array is zero based, the first element is at index zero.",
+    "example3": "The logic error occurred because he forgot the list was zero based.",
+    "Explanation": "In computer programming, 'zero based' refers to an indexing system where the first element of a collection (like an array or list) is accessed using the index '0'. This is the standard for languages like C, C++, Java, and Python. It is a common point of confusion for beginners who are used to counting from 1 in everyday life. Understanding that a list is zero based is crucial for preventing 'off-by-one' errors, which are frequent bugs in software development.",
+    "synonyms": [
+      "0-indexed"
+    ],
+    "antonyms": [
+      "one-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and computer science",
+    "usageTip": "Explain this to new programmers to help them avoid indexing bugs.",
+    "commonMistake": "Accessing the wrong element by forgetting that the count starts at 0.",
+    "collocations": [
+      "zero based indexing",
+      "zero based array",
+      "zero based list"
+    ]
+  }
+]

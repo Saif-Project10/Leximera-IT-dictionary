@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Vocalic",
+    "meaning": "Relating to vowels or the use of sounds",
+    "shortMeaning": "vowel-related",
+    "example": "The audio analysis focused on the vocalic segments of speech.",
+    "example2": "He adjusted the filter to improve vocalic clarity.",
+    "example3": "The algorithm processes vocalic patterns in the audio stream.",
+    "Explanation": "In the context of audio signal processing or speech recognition (a subfield of AI), 'vocalic' refers to the characteristics of vowels in human speech. Because vowels have specific acoustic patterns, algorithms used in software for voice recognition or text-to-speech synthesis analyze these vocalic sounds. It is a highly specialized term used by researchers and engineers building voice-controlled interfaces or audio analysis tools. It is rarely used in general IT, but it is standard terminology for machine learning audio projects.",
+    "synonyms": [
+      "vowel-based",
+      "phonetic"
+    ],
+    "antonyms": [
+      "consonantal"
+    ],
+    "nounForm": "vowel",
+    "verbForm": "N/A",
+    "adjectiveForm": "vocalic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Audio signal processing, machine learning, AI",
+    "usageTip": "Use only when discussing audio or speech recognition algorithms.",
+    "commonMistake": "Using 'vocalic' when referring to speech in general.",
+    "collocations": [
+      "vocalic sounds",
+      "vocalic patterns"
+    ]
+  },
+  {
+    "word": "Vocalic",
+    "meaning": "Relating to or consisting of vowels.",
+    "shortMeaning": "related to vowels",
+    "example": "The linguist analyzed the vocalic patterns in the speech.",
+    "example2": "The software detects vocalic sounds for voice recognition.",
+    "example3": "He studied the vocalic structure of the language.",
+    "Explanation": "The word 'vocalic' pertains to the sound of vowels. In IT, this is primarily relevant in fields like speech synthesis, Natural Language Processing (NLP), and voice recognition software. Computers must be programmed to identify and process vocalic sounds to accurately transcribe or generate human speech. It is a technical term used in phonetics and linguistics. It is less common in general computing but vital for audio-focused AI.",
+    "synonyms": [
+      "vowel-related",
+      "vocal"
+    ],
+    "antonyms": [
+      "consonantal"
+    ],
+    "nounForm": "vowel",
+    "verbForm": "N/A",
+    "adjectiveForm": "vocalic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Speech recognition, linguistics, NLP",
+    "usageTip": "Use this when discussing the vowel structure of speech data.",
+    "commonMistake": "Confusing 'vocalic' with 'vocal' (related to the voice in general).",
+    "collocations": [
+      "vocalic sounds",
+      "vocalic analysis",
+      "vocalic patterns"
+    ]
+  }
+]

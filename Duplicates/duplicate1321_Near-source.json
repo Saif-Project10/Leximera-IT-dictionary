@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Near-source",
+    "meaning": "Located close to or originating from the point where something begins or is produced",
+    "shortMeaning": "close to the origin",
+    "example": "Using near-source water reduces treatment costs.",
+    "example2": "The factory prefers near-source materials to cut transportation time.",
+    "example3": "Near-source data processing improves speed and security.",
+    "Explanation": "'Near-source' is a compound adjective often used in technical, environmental, or supply chain contexts. It describes something that is physically or logically close to its point of origin. This proximity can offer advantages like reduced cost, lower latency, or higher freshness. It is not a standard single word but a hyphenated combination. It is commonly used in discussions about computing (data), manufacturing, and resource management.",
+    "synonyms": [
+      "localized",
+      "proximal",
+      "close-to-origin"
+    ],
+    "antonyms": [
+      "remote",
+      "distant",
+      "far-flung"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "near-source",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, logistics, environmental science",
+    "usageTip": "Use with a hyphen when it modifies a noun, as in 'near-source computing'.",
+    "commonMistake": "Writing it as two separate words ('near source') when it is used as a compound modifier before a noun.",
+    "collocations": [
+      "near-source data",
+      "near-source materials",
+      "near-source water"
+    ]
+  },
+  {
+    "word": "Near-source",
+    "meaning": "Located close to the origin of data or the signal",
+    "shortMeaning": "close to origin",
+    "example": "Near-source processing reduces latency in the system.",
+    "example2": "The sensor performs near-source filtering of the data.",
+    "example3": "We analyzed near-source noise patterns.",
+    "Explanation": "The term 'near-source' refers to something that happens physically or logically close to where the data is actually generated (the 'source'). In IT, 'near-source' processing is becoming popular (often linked to 'Edge Computing') because it is faster to process data right where it is created than to send it across the world to a central server. By handling data 'near-source', you reduce latency, save bandwidth, and increase the speed of your application significantly.",
+    "synonyms": [
+      "local",
+      "proximital",
+      "source-side"
+    ],
+    "antonyms": [
+      "remote",
+      "centralized"
+    ],
+    "nounForm": "source",
+    "verbForm": "N/A",
+    "adjectiveForm": "near-source",
+    "partOfSpeech": "adjective",
+    "commonContext": "Edge computing and signal processing",
+    "usageTip": "Use to describe processing data right at the source.",
+    "commonMistake": "Confusing 'near-source' with 'internal' (they aren't the same).",
+    "collocations": [
+      "near-source processing",
+      "near-source data"
+    ]
+  }
+]

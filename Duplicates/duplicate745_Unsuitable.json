@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unsuitable",
+    "meaning": "Not fitting or appropriate for a particular purpose or occasion.",
+    "shortMeaning": "not appropriate",
+    "example": "These shoes are unsuitable for hiking.",
+    "example2": "His casual attitude was unsuitable for the formal meeting.",
+    "example3": "The software is unsuitable for large-scale projects.",
+    "Explanation": "'Unsuitable' is an adjective that clearly states something is not the right choice. It evaluates something against a set of requirements or standards and finds it lacking. It is a more formal way of saying 'not right for'. The word helps in making clear recommendations or criticisms by specifying incompatibility. The opposite is 'suitable'. It's a useful word in reviews, advice, and planning to prevent poor choices.",
+    "synonyms": [
+      "inappropriate",
+      "unfit",
+      "improper",
+      "inapt"
+    ],
+    "antonyms": [
+      "suitable",
+      "appropriate",
+      "fitting",
+      "proper"
+    ],
+    "nounForm": "unsuitability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsuitable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Clothing, tools, behavior, candidates, materials",
+    "usageTip": "Use 'unsuitable' to formally declare that something does not meet the necessary conditions for a specific use.",
+    "commonMistake": "Using 'unsuitable' without stating or implying what the purpose is. It's always relative to a task or situation.",
+    "collocations": [
+      "deemed unsuitable",
+      "unsuitable for",
+      "completely unsuitable",
+      "unsuitable candidate"
+    ]
+  },
+  {
+    "word": "Unsuitable",
+    "meaning": "Not appropriate or fitting for a specific purpose",
+    "shortMeaning": "not appropriate",
+    "example": "This framework is unsuitable for a large-scale project.",
+    "example2": "The hardware is unsuitable for running high-resolution graphics.",
+    "example3": "We rejected the software as unsuitable for our needs.",
+    "Explanation": "Unsuitable means that something does not meet the requirements or expectations for a given job. In IT, a solution might be perfectly good in one context but completely unsuitable in another due to performance, scalability, or feature limits. Evaluating whether a tool is suitable is a critical part of decision-making during development. Using unsuitable tools almost always leads to later failures and extra costs.",
+    "synonyms": [
+      "inappropriate",
+      "inadequate",
+      "unfit"
+    ],
+    "antonyms": [
+      "suitable",
+      "appropriate",
+      "fitting"
+    ],
+    "nounForm": "suitability",
+    "verbForm": "suit",
+    "adjectiveForm": "unsuitable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Requirements, software evaluation, project planning",
+    "usageTip": "Use this to explain why you chose not to use a tool.",
+    "commonMistake": "Choosing a tool just because it is popular, even if it is unsuitable.",
+    "collocations": [
+      "completely unsuitable",
+      "unsuitable for the task",
+      "deemed unsuitable"
+    ]
+  },
+  {
+    "word": "Unsuitable",
+    "meaning": "Not appropriate or fitting for a specific purpose or environment.",
+    "shortMeaning": "not fit",
+    "example": "This laptop is unsuitable for high-end video editing.",
+    "example2": "The framework was unsuitable for our project requirements.",
+    "example3": "An unsuitable choice of data type caused the overflow.",
+    "Explanation": "'Unsuitable' describes something that does not meet the necessary criteria or performance standards for a task. In IT, choosing unsuitable software or hardware often results in poor performance, bugs, or system failure. When evaluating a tool, you must check if it is suitable or unsuitable for the specific constraints of the project. It is a judgment call based on technical requirements and project scope. Always test to ensure the tools you pick are suitable.",
+    "synonyms": [
+      "inappropriate",
+      "unfit",
+      "incompatible"
+    ],
+    "antonyms": [
+      "suitable",
+      "appropriate",
+      "compatible"
+    ],
+    "nounForm": "unsuitability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsuitable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Requirements gathering, tool selection",
+    "usageTip": "Use this when a tool doesn't meet the need.",
+    "commonMistake": "Confusing 'unsuitable' with 'unstable'.",
+    "collocations": [
+      "unsuitable for work",
+      "unsuitable environment",
+      "unsuitable tool"
+    ]
+  }
+]

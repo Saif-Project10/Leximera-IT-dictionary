@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Uncached",
+    "meaning": "Not stored in a cache; data that must be retrieved from its original, slower source",
+    "shortMeaning": "not stored in cache",
+    "example": "The first visit to the website is slow because the assets are uncached.",
+    "example2": "The database query was expensive because it was uncached.",
+    "example3": "For uncached data, latency is significantly higher.",
+    "Explanation": "'Uncached' is a technical adjective used primarily in computing, especially in web development and database management. A cache is a fast storage layer that holds copies of frequently accessed data. 'Uncached' describes data or requests that are not found in this fast cache, forcing the system to fetch them from the primary, slower storage (like a disk or a remote server). This results in longer load times or higher processing costs. The term is neutral but often indicates a performance bottleneck or a cold start scenario. Optimizing systems involves minimizing uncached requests to improve speed and efficiency.",
+    "synonyms": [
+      "non-cached",
+      "cache-miss"
+    ],
+    "antonyms": [
+      "cached",
+      "pre-loaded"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncached",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web performance, database optimization, computer architecture",
+    "usageTip": "Used by developers and system administrators when diagnosing performance issues.",
+    "commonMistake": "Using it in non-technical contexts where it would be meaningless.",
+    "collocations": [
+      "uncached request",
+      "uncached data",
+      "uncached asset",
+      "uncached query"
+    ]
+  },
+  {
+    "word": "Uncached",
+    "meaning": "Not stored in a temporary high-speed memory location.",
+    "shortMeaning": "not in cache",
+    "example": "Uncached requests take longer to load.",
+    "example2": "The system must fetch the uncached content from the server.",
+    "example3": "Performance drops if the database query is uncached.",
+    "Explanation": "Uncached refers to data that is not currently held in a cache, meaning it must be fetched from the primary, slower source. Caching is a major performance optimization strategy in IT. When data is uncached, the system performance usually slows down. Managing what is cached and what is uncached is a key part of backend development and website performance optimization. It is an important concept in understanding latency.",
+    "synonyms": [
+      "not cached",
+      "non-buffered"
+    ],
+    "antonyms": [
+      "cached",
+      "buffered"
+    ],
+    "nounForm": "cache",
+    "verbForm": "cache",
+    "adjectiveForm": "uncached",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web performance, databases, backend development",
+    "usageTip": "Use this to explain why a request is taking extra time.",
+    "commonMistake": "Assuming all data is automatically cached.",
+    "collocations": [
+      "uncached data",
+      "uncached request",
+      "uncached content"
+    ]
+  },
+  {
+    "word": "Uncached",
+    "meaning": "Not stored in a temporary memory area for quick access.",
+    "shortMeaning": "not stored in cache",
+    "example": "The request is uncached, so it takes longer to load.",
+    "example2": "Some sensitive data remains uncached for security.",
+    "example3": "An uncached page must be fetched from the database.",
+    "Explanation": "In web development, a 'cache' is used to store temporary data to make websites load faster. If an item is 'uncached', it means the computer or server must fetch it from the original source, which is slower. Developers often try to optimize systems by ensuring frequently used items are cached. Identifying 'uncached' items is a common step in performance tuning. It explains why a specific resource might have high latency.",
+    "synonyms": [
+      "non-cached",
+      "original",
+      "live"
+    ],
+    "antonyms": [
+      "cached",
+      "stored",
+      "buffered"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncached",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web performance and caching",
+    "usageTip": "Use this when explaining why a page load is slow.",
+    "commonMistake": "Confusing 'uncached' with 'deleted'.",
+    "collocations": [
+      "uncached data",
+      "uncached request",
+      "uncached content"
+    ]
+  }
+]

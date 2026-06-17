@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Get",
+    "meaning": "To receive, obtain, or acquire something; to become; to understand.",
+    "shortMeaning": "receive/obtain/become",
+    "example": "I need to get some milk from the store.",
+    "example2": "He got angry when he heard the news.",
+    "example3": "Do you get what I'm saying?",
+    "Explanation": "Get is one of the most common and versatile verbs in English, with dozens of meanings. Its core meanings are to receive, obtain, or become. It is used in countless phrasal verbs (get up, get over, get along). Because it's so broad, it's often better in formal writing to use a more specific word (receive, obtain, understand, become). However, in spoken English, it's indispensable. A common mistake is overusing it in formal contexts. Its irregular forms are got/gotten (US). This word is foundational for basic communication, covering a vast range of actions and states.",
+    "synonyms": [
+      "obtain",
+      "receive",
+      "become",
+      "understand",
+      "fetch"
+    ],
+    "antonyms": [
+      "give",
+      "lose",
+      "send"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "get",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday conversation, informal writing, and instructions.",
+    "usageTip": "In formal writing, replace 'get' with more precise verbs. In speech, it's perfectly natural.",
+    "commonMistake": "Using 'got' when 'have' is sufficient (e.g., 'I have got a car' vs. 'I have a car').",
+    "collocations": [
+      "get ready",
+      "get better",
+      "get started"
+    ]
+  },
+  {
+    "word": "Get",
+    "meaning": "To receive, obtain, or fetch something",
+    "shortMeaning": "receive or fetch",
+    "example": "The function will get the user's name from the database.",
+    "example2": "I need to get approval from the manager before pushing the code.",
+    "example3": "You can get the latest version of the app from the website.",
+    "Explanation": "The word 'get' is one of the most versatile and frequent verbs in English and IT. In programming, it is often associated with 'getters', which are functions designed to retrieve data from an object. It is also the name of a primary HTTP method (GET) used to request data from a server. It implies a 'fetch' or 'receive' action. Because it is so common, it is often used in phrasal verbs like 'get back' or 'get through'. In technical documentation, it is better to use more specific verbs like 'retrieve' or 'acquire', but 'get' remains common in conversation.",
+    "synonyms": [
+      "retrieve",
+      "receive",
+      "obtain"
+    ],
+    "antonyms": [
+      "give",
+      "send",
+      "lose"
+    ],
+    "nounForm": "getter (programming)",
+    "verbForm": "get",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Data retrieval, HTTP requests, and daily conversation",
+    "usageTip": "Use 'get' for informal requests, but prefer 'retrieve' in formal API documentation.",
+    "commonMistake": "Using 'get' for everything; try to use more descriptive verbs when possible for clarity.",
+    "collocations": [
+      "get data",
+      "get access",
+      "get an error"
+    ]
+  }
+]

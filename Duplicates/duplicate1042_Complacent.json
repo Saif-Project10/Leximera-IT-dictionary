@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Complacent",
+    "meaning": "Showing smug or uncritical satisfaction with oneself or one's achievements.",
+    "shortMeaning": "self-satisfied; unconcerned",
+    "example": "We cannot become complacent about safety procedures.",
+    "example2": "His complacent attitude prevented further improvement.",
+    "example3": "The team grew complacent after their early success.",
+    "Explanation": "'Complacent' is an adjective with negative connotations. It describes someone who is overly pleased with themselves or their situation, often to the point of being unaware of potential dangers or deficiencies. It implies a dangerous satisfaction that prevents growth, vigilance, or improvement. It's different from 'content' which is positive satisfaction; complacent suggests laziness or negligence. The noun is 'complacency'. It's often used as a warning against becoming too comfortable or self-satisfied in competitive or risky situations.",
+    "synonyms": [
+      "self-satisfied",
+      "smug",
+      "unconcerned",
+      "resting on laurels"
+    ],
+    "antonyms": [
+      "dissatisfied",
+      "ambitious",
+      "vigilant",
+      "striving"
+    ],
+    "nounForm": "complacency",
+    "verbForm": "N/A",
+    "adjectiveForm": "complacent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Warnings, criticism, psychology, sports, business",
+    "usageTip": "Almost always negative. Use to criticize lack of effort or awareness due to overconfidence.",
+    "commonMistake": "Confusing with 'complaisant' which means willing to please. They sound similar but have different meanings.",
+    "collocations": [
+      "complacent attitude",
+      "dangerously complacent",
+      "become complacent"
+    ]
+  },
+  {
+    "word": "Complacent",
+    "meaning": "Feeling too satisfied with one's current state and ignoring potential risks or improvements",
+    "shortMeaning": "over-satisfied",
+    "example": "The team became complacent after a successful launch and stopped checking for security bugs.",
+    "example2": "Never get complacent about data backups, even if your system has been stable for years.",
+    "example3": "Complacent management ignored the signs of a failing infrastructure until it was too late.",
+    "Explanation": "The word 'Complacent' describes a dangerous state of mind in IT: believing everything is fine and ignoring the need to patch, update, or improve. This often leads to massive failures because small problems go unnoticed while the team celebrates old success. It is an adjective. Complacency is the enemy of good security and reliable performance. Always encourage your team to keep learning and auditing their own systems, even when things look perfectly stable. Do not confuse it with 'content' or 'satisfied'.",
+    "synonyms": [
+      "self-satisfied",
+      "unconcerned",
+      "lazy"
+    ],
+    "antonyms": [
+      "vigilant",
+      "alert",
+      "cautious"
+    ],
+    "nounForm": "complacency",
+    "verbForm": "N/A",
+    "adjectiveForm": "complacent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security audits, project management, operational health",
+    "usageTip": "Use 'complacent' when warning your team about the dangers of ignoring system maintenance.",
+    "commonMistake": "Using 'complacent' as a synonym for 'content' in a positive, professional context.",
+    "collocations": [
+      "become complacent",
+      "complacent attitude",
+      "avoid complacency"
+    ]
+  }
+]

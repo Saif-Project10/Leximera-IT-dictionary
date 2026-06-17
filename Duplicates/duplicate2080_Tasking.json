@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tasking",
+    "meaning": "The act of assigning tasks or the process of working on tasks.",
+    "shortMeaning": "assignment",
+    "example": "The manager is tasking the team with new security protocols.",
+    "example2": "Proper tasking ensures that everyone knows their role.",
+    "example3": "The system automates the tasking of jobs to background workers.",
+    "Explanation": "The word 'tasking' refers to the process of assigning work or duties to individuals or automated agents. It is common in project management software, where 'tasking' is the core function of distributing work items to team members. It implies a clear assignment of responsibility and purpose. It is also used in system operations, where a scheduler is responsible for 'tasking' various background processes to available compute resources.",
+    "synonyms": [
+      "assignment",
+      "allocation",
+      "dispatching"
+    ],
+    "antonyms": [
+      "idleness",
+      "unstructured-work"
+    ],
+    "nounForm": "tasking",
+    "verbForm": "task",
+    "adjectiveForm": "tasking",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project management, operations",
+    "usageTip": "Use 'tasking' for the formal assignment of work.",
+    "commonMistake": "Confusing 'tasking' with 'multitasking' (doing many things).",
+    "collocations": [
+      "automated tasking",
+      "effective tasking",
+      "tasking process"
+    ]
+  },
+  {
+    "word": "Tasking",
+    "meaning": "The act of assigning work or duties to someone or a system",
+    "shortMeaning": "assigning work",
+    "example": "The manager is tasking the team with new security protocols.",
+    "example2": "The scheduler is tasking each CPU core with a separate job.",
+    "example3": "He is responsible for tasking the developers.",
+    "Explanation": "The word 'tasking' refers to the process of giving instructions or assigning specific duties. In a project management sense, it involves defining work for humans. In an OS or computing sense, it involves a scheduler assigning processes to hardware resources. It represents the active distribution of workload. The term is very professional and clear, often used in status meetings or when discussing workload allocation. It implies oversight and clear responsibility.",
+    "synonyms": [
+      "assigning",
+      "allocating",
+      "delegating"
+    ],
+    "antonyms": [
+      "idle",
+      "unassigned",
+      "waiting"
+    ],
+    "nounForm": "task",
+    "verbForm": "task",
+    "adjectiveForm": "tasked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Project management, OS scheduling",
+    "usageTip": "Use to describe the assignment of work or processes.",
+    "commonMistake": "Using 'tasking' as a synonym for 'working' instead of 'assigning'.",
+    "collocations": [
+      "tasking the team",
+      "efficient tasking",
+      "workload tasking"
+    ]
+  }
+]

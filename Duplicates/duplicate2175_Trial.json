@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Trial",
+    "meaning": "A test or experiment to see if something works correctly or to judge its quality.",
+    "shortMeaning": "a test",
+    "example": "We are running a trial of the new software.",
+    "example2": "The free trial lasts for thirty days.",
+    "example3": "He participated in a clinical trial.",
+    "Explanation": "The word 'trial' refers to a period of testing a product, service, or idea to evaluate its performance. In IT, it often refers to limited-time access to software features. It is different from an actual implementation because it is meant to verify stability or usability. The noun form is 'trial' and the verb form is 'try'. Always ensure the context clarifies if it is a legal trial or a technical test.",
+    "synonyms": [
+      "test",
+      "experiment",
+      "evaluation"
+    ],
+    "antonyms": [
+      "finalization",
+      "conclusion",
+      "certainty"
+    ],
+    "nounForm": "trial",
+    "verbForm": "try",
+    "adjectiveForm": "trial",
+    "partOfSpeech": "noun",
+    "commonContext": "Software testing, product evaluation, and science",
+    "usageTip": "Use 'trial' when you want to emphasize a period of testing or experimentation.",
+    "commonMistake": "Confusing it with 'legal trial' when discussing software.",
+    "collocations": [
+      "free trial",
+      "clinical trial",
+      "trial period"
+    ]
+  },
+  {
+    "word": "Trial",
+    "meaning": "A short period of using a product or service for free to test it",
+    "shortMeaning": "test period",
+    "example": "The software offers a 30-day free trial.",
+    "example2": "We started a trial version of the API.",
+    "example3": "He finished the trial and bought the license.",
+    "Explanation": "A trial in the tech world is a limited-time opportunity to experience software before purchasing it. It helps users decide if the tool meets their needs. During a trial, some features might be restricted. It is common for developers to use trial versions for proof-of-concept projects. Always check the limitations of the trial to ensure you are testing the correct feature set.",
+    "synonyms": [
+      "test",
+      "evaluation",
+      "demo"
+    ],
+    "antonyms": [
+      "production",
+      "commercial",
+      "final"
+    ],
+    "nounForm": "trial",
+    "verbForm": "trial",
+    "adjectiveForm": "trial",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software licensing, marketing, testing",
+    "usageTip": "Use 'trial' when you are testing software before committing to buy it.",
+    "commonMistake": "Thinking a trial is identical to the full paid version.",
+    "collocations": [
+      "free trial",
+      "trial period",
+      "trial version"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transitional",
+    "meaning": "Relating to a period of change from one state to another",
+    "shortMeaning": "in-between stage",
+    "example": "The company is in a transitional phase while moving to the cloud.",
+    "example2": "We have a transitional design that will change soon.",
+    "example3": "A transitional period is necessary for training users on the new system.",
+    "Explanation": "Transitional describes a state of being in the middle of a change. It refers to a period where you are moving from an old way of doing things to a new one. In IT, this might involve running two systems at the same time or using a temporary interface during an upgrade. It is important to identify these periods to manage risk effectively. Everything that is in a transitional state is expected to be temporary.",
+    "synonyms": [
+      "intermediate",
+      "changing",
+      "temporary"
+    ],
+    "antonyms": [
+      "stable",
+      "fixed",
+      "final"
+    ],
+    "nounForm": "transition",
+    "verbForm": "transition",
+    "adjectiveForm": "transitional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, system upgrades, migration",
+    "usageTip": "Use this when discussing the middle phase of a project or system change.",
+    "commonMistake": "Ignoring the risks associated with transitional states.",
+    "collocations": [
+      "transitional phase",
+      "transitional period",
+      "transitional state"
+    ]
+  },
+  {
+    "word": "Transitional",
+    "meaning": "Relating to the process of changing from one state or place to another",
+    "shortMeaning": "relating to change",
+    "example": "This is a transitional phase for our cloud migration.",
+    "example2": "The design uses a transitional interface.",
+    "example3": "He is in a transitional period between jobs.",
+    "Explanation": "The word 'transitional' describes the middle ground between two things. It happens when something is moving from an old way of doing things to a new way. It is a very common term in project management and software updates. It implies that the current state is not the final one; it is just a bridge. It is used to describe phases, states, or designs that are not yet finished or static.",
+    "synonyms": [
+      "intermediate",
+      "developing",
+      "changing"
+    ],
+    "antonyms": [
+      "final",
+      "static",
+      "permanent"
+    ],
+    "nounForm": "transition",
+    "verbForm": "transition",
+    "adjectiveForm": "transitional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, software updates, career",
+    "usageTip": "Use 'transitional' to describe something that bridges two phases.",
+    "commonMistake": "Thinking 'transitional' means the change is over; it means the change is happening.",
+    "collocations": [
+      "transitional phase",
+      "transitional period",
+      "transitional design"
+    ]
+  }
+]

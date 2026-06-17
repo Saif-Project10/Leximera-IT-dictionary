@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Replacement",
+    "meaning": "The action or process of replacing someone or something; a person or thing that takes the place of another",
+    "shortMeaning": "substitute, or the act of substituting",
+    "example": "We need to find a replacement for the broken window.",
+    "example2": "He is the replacement for the retired manager.",
+    "example3": "Hip replacement surgery is common.",
+    "Explanation": "'Replacement' is a noun with two related meanings. First, it refers to the act of replacing something. Second, it is the thing or person that replaces another. It is a common word in everyday life, from sports (injury replacement) to HR (hiring a replacement) to medicine (knee replacement). It implies that the original is no longer functional, available, or suitable. It's a neutral term, though being called 'a replacement' can sometimes feel impersonal.",
+    "synonyms": [
+      "substitute",
+      "stand-in",
+      "successor"
+    ],
+    "antonyms": [
+      "original",
+      "permanent fixture"
+    ],
+    "nounForm": "replacement",
+    "verbForm": "replace",
+    "adjectiveForm": "replacement (as in 'replacement cost')",
+    "partOfSpeech": "noun",
+    "commonContext": "Jobs, sports, repairs, medicine",
+    "usageTip": "Often followed by 'for' (a replacement for the old model).",
+    "commonMistake": "Confusing 'replacement' with 'repair'. Replacement involves putting in a new item; repair fixes the old one.",
+    "collocations": [
+      "find a replacement",
+      "temporary replacement",
+      "replacement value"
+    ]
+  },
+  {
+    "word": "Replacement",
+    "meaning": "The act of swapping one thing for another or the object being used",
+    "shortMeaning": "a substitute",
+    "example": "We need a replacement for the broken monitor.",
+    "example2": "The replacement cost was covered by the warranty.",
+    "example3": "He is waiting for a part replacement.",
+    "Explanation": "The word 'replacement' serves as both the act of substituting and the item that replaces another. In IT, 'replacement cost' is a common term used in asset management to calculate how much it would cost to buy a new equivalent item. The verb is 'replace'. It is a standard noun. Understanding replacement cycles helps IT managers budget for hardware refreshes and upgrades before equipment fails entirely.",
+    "synonyms": [
+      "substitute",
+      "swap",
+      "alternative"
+    ],
+    "antonyms": [
+      "original",
+      "fixture"
+    ],
+    "nounForm": "replacement",
+    "verbForm": "replace",
+    "adjectiveForm": "replacement",
+    "partOfSpeech": "noun",
+    "commonContext": "Asset management, maintenance, budgeting",
+    "usageTip": "Use 'replacement' to refer to a new item that takes the place of an old one.",
+    "commonMistake": "Using 'replacement' as a verb; it is a noun.",
+    "collocations": [
+      "replacement cost",
+      "part replacement",
+      "system replacement"
+    ]
+  }
+]

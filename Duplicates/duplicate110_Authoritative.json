@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Authoritative",
+    "meaning": "Able to be trusted as being accurate or true; coming from an official or expert source; commanding and self-confident.",
+    "shortMeaning": "reliable, expert, commanding",
+    "example": "This book is considered the authoritative guide on the subject.",
+    "example2": "He spoke in an authoritative tone that made everyone listen.",
+    "example3": "For authoritative health information, consult government websites.",
+    "Explanation": "Authoritative has two related shades of meaning. First, it describes information or a source that is definitive, accurate, and reliable because it comes from deep expertise or official status. Second, it describes a manner that is confident, firm, and likely to be obeyed. In the context of information (especially online), being authoritative is crucial for credibility and trust. Search engines aim to surface authoritative sources. The word carries a strong positive connotation of trustworthiness and competence.",
+    "synonyms": [
+      "definitive",
+      "reliable",
+      "credible",
+      "commanding",
+      "official"
+    ],
+    "antonyms": [
+      "unofficial",
+      "unreliable",
+      "submissive",
+      "tentative"
+    ],
+    "nounForm": "authority",
+    "verbForm": "authorize",
+    "adjectiveForm": "authoritative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, information sources, leadership, writing style, expertise",
+    "usageTip": "For sources, it's a key quality. An 'authoritative source' is one you can cite with confidence.",
+    "commonMistake": "Confusing 'authoritative' (trustworthy) with 'authoritarian' (demanding strict obedience, often negatively).",
+    "collocations": [
+      "authoritative source",
+      "authoritative voice",
+      "authoritative figure",
+      "authoritative answer"
+    ]
+  },
+  {
+    "word": "Authoritative",
+    "meaning": "Reliable, commanding, or acting as the definitive and trusted source of data",
+    "shortMeaning": "definitive source",
+    "example": "An authoritative DNS server holds the actual, official IP records for a website domain name.",
+    "example2": "Please refer to the authoritative product documentation to resolve configuration conflicts.",
+    "example3": "The head engineer gave an authoritative explanation of the new coding architecture.",
+    "Explanation": "The word 'authoritative' describes information sources that are official, complete, and trusted above all others. In networking, an 'Authoritative DNS Server' is the final, definitive manager of a domain's records, unlike caching servers that just hold temporary copies. Using authoritative references ensures that technical teams avoid errors caused by old or fake rumors. The noun form is 'authority'.",
+    "synonyms": [
+      "definitive",
+      "official",
+      "reliable"
+    ],
+    "antonyms": [
+      "unofficial",
+      "unreliable",
+      "unauthorized"
+    ],
+    "nounForm": "authority",
+    "verbForm": "N/A",
+    "adjectiveForm": "authoritative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Domain Name System (DNS) configurations, official manual guides, expert technical advice",
+    "usageTip": "Use 'authoritative' when describing a master server or official document that holds the true, final copy of data.",
+    "commonMistake": "Confusing 'authoritative' with 'authoritarian' (which relates to strict political control and dictatorships).",
+    "collocations": [
+      "authoritative source",
+      "authoritative DNS",
+      "authoritative documentation"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Unit test",
+    "meaning": "A small test that checks if one specific 'unit' or piece of code is working correctly",
+    "shortMeaning": "small code test",
+    "example": "I wrote a unit test to make sure the calculator's 'add' function works.",
+    "example2": "Running unit tests helps catch bugs before they reach the customer.",
+    "example3": "A good unit test should be fast and independent of other tests.",
+    "Explanation": "Unit testing is a software development practice where you test the smallest possible parts of your application (like a single function or a method) in isolation. The goal is to prove that each part works perfectly on its own. For example, if you have a function that calculates tax, a unit test would give it a number and check if the result is correct. Developers usually write hundreds or thousands of these. Whenever they change the code, they run the unit tests to make sure they didn't accidentally 'break' something that was working before. It is the first line of defense against bugs.",
+    "synonyms": [
+      "component test",
+      "module test",
+      "isolated test"
+    ],
+    "antonyms": [
+      "integration test",
+      "system test",
+      "manual testing"
+    ],
+    "nounForm": "unit test",
+    "verbForm": "unit test",
+    "adjectiveForm": "unit-tested",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Coding, DevOps, and quality assurance",
+    "usageTip": "Write your unit tests *while* you are writing your code, not after you've finished everything.",
+    "commonMistake": "Writing a unit test that depends on a database or the internet; unit tests should only test the logic in the code.",
+    "collocations": [
+      "run unit test",
+      "write unit test",
+      "automated unit test"
+    ]
+  },
+  {
+    "word": "Unit test",
+    "meaning": "A code automated check written to test the functionality of a small, isolated section of an application",
+    "shortMeaning": "test isolated code section",
+    "example": "I wrote a quick unit test to verify that our search function returns an empty array when given null input.",
+    "example2": "If your unit test fails, you must fix the internal code block before merging your branch.",
+    "example3": "A high-quality unit test runs independently without connecting to external live databases or third-party APIs.",
+    "Explanation": "A 'unit test' is a fundamental component of modern software quality assurance pipelines. It is a block of testing code that targets the smallest testable part of an application—typically a single function, method, or class. Unit tests isolate this block from outside systems using mocks or placeholders. Running these tests automatically during builds prevents developers from introducing silent bugs when updating existing algorithms.",
+    "synonyms": [
+      "component test",
+      "isolated function check",
+      "micro-test"
+    ],
+    "antonyms": [
+      "integration test",
+      "end-to-end test"
+    ],
+    "nounForm": "unit test / unit testing",
+    "verbForm": "unit test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Test-driven development (TDD), automation testing configurations, and deployment pipelines",
+    "usageTip": "Use 'unit test' when talking about checking small internal logic blocks, rather than testing full end-to-end user workflows.",
+    "commonMistake": "Writing a unit test that calls real production databases, which turns it into an integration test and slows execution down.",
+    "collocations": [
+      "write a unit test",
+      "run unit tests",
+      "automated unit test suite"
+    ]
+  }
+]

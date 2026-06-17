@@ -1,0 +1,66 @@
+[
+  {
+    "word": "On-demand",
+    "meaning": "Available or provided whenever requested or needed.",
+    "shortMeaning": "available when asked for",
+    "example": "We live in an age of on-demand entertainment like streaming services.",
+    "example2": "The company offers on-demand printing for small orders.",
+    "example3": "The new software features on-demand customer support.",
+    "Explanation": "'On-demand' is an adjective (often hyphenated) that describes a service, product, or content that is accessible immediately at the user's request. It contrasts with scheduled services. This term is central to modern business models in media (streaming), transportation (ride-sharing), and computing (cloud services). It emphasizes convenience, immediacy, and user control.",
+    "synonyms": [
+      "instant",
+      "as-needed",
+      "whenever required",
+      "streaming"
+    ],
+    "antonyms": [
+      "scheduled",
+      "pre-recorded",
+      "batch",
+      "fixed-time"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "on-demand",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, media, services, business",
+    "usageTip": "Use 'on-demand' to describe modern services that you can start anytime, like movies or rides.",
+    "commonMistake": "Using it for things that are simply 'available'; it implies an instant response to a direct request.",
+    "collocations": [
+      "on-demand video",
+      "on-demand service",
+      "on-demand computing"
+    ]
+  },
+  {
+    "word": "On-demand",
+    "meaning": "Available when requested or needed",
+    "shortMeaning": "available on request",
+    "example": "The cloud server provides on-demand computing power.",
+    "example2": "They offer on-demand video streaming for users.",
+    "example3": "He used an on-demand service to process the data.",
+    "Explanation": "The term 'on-demand' describes services or resources that are not constantly running or present but can be activated immediately whenever the user requires them. In IT, this is the foundation of cloud computing, where you only pay for the processing power or storage you use at any given time. It offers great flexibility because you don't need to maintain idle hardware. It helps companies save money by reducing unnecessary resource usage and scaling only when traffic increases.",
+    "synonyms": [
+      "instant",
+      "available",
+      "on-call"
+    ],
+    "antonyms": [
+      "scheduled",
+      "fixed",
+      "pre-allocated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "on-demand",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, services, networking",
+    "usageTip": "Use when something is only active when a request is made.",
+    "commonMistake": "Confusing 'on-demand' with 'always-on'.",
+    "collocations": [
+      "on-demand service",
+      "on-demand computing",
+      "on-demand access"
+    ]
+  }
+]

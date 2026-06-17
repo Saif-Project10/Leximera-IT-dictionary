@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Ultrasonic",
+    "meaning": "Relating to sound waves with a frequency higher than human hearing.",
+    "shortMeaning": "above human hearing",
+    "example": "The sensor uses ultrasonic waves to measure distance.",
+    "example2": "Ultrasonic cleaners are used for sensitive parts.",
+    "example3": "He detected a leak using an ultrasonic probe.",
+    "Explanation": "Ultrasonic refers to sound frequencies above 20 kHz, which is the upper limit of human hearing. In technology, it is used for distance measurement, medical imaging, and precision cleaning. Sensors often use these waves because they can bounce off surfaces to detect obstacles. It is a reliable method for environmental sensing in robotics. The term describes the frequency range of the sound used.",
+    "synonyms": [
+      "supersonic",
+      "high-frequency"
+    ],
+    "antonyms": [
+      "infrasonic"
+    ],
+    "nounForm": "ultrasound",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultrasonic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sensors, robotics, medicine",
+    "usageTip": "Use this when talking about sensing or cleaning technologies.",
+    "commonMistake": "Confusing it with supersonic (which refers to speed).",
+    "collocations": [
+      "ultrasonic sensor",
+      "ultrasonic wave",
+      "ultrasonic cleaning"
+    ]
+  },
+  {
+    "word": "Ultrasonic",
+    "meaning": "Relating to sound waves with a frequency above the limit of human hearing.",
+    "shortMeaning": "sound beyond human hearing",
+    "example": "The device uses an ultrasonic sensor to measure distance.",
+    "example2": "Ultrasonic waves are used in cleaning delicate electronic parts.",
+    "example3": "The machine emits an ultrasonic signal to detect objects.",
+    "Explanation": "The term 'ultrasonic' describes sound frequencies that are too high for humans to hear. In technology and engineering, it is used for non-destructive testing, medical imaging, and distance sensing. Ultrasonic sensors are very popular in robotics because they are accurate for finding obstacles. The term can be an adjective or part of a compound noun. It represents a precise method of interaction with the physical world.",
+    "synonyms": [
+      "supersonic",
+      "ultrasound",
+      "high-frequency"
+    ],
+    "antonyms": [
+      "infrasonic",
+      "low-frequency",
+      "audible"
+    ],
+    "nounForm": "ultrasound",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultrasonic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Robotics, sensors, and hardware engineering",
+    "usageTip": "Use 'ultrasonic' when talking about sensors or high-frequency waves.",
+    "commonMistake": "Confusing 'ultrasonic' with 'supersonic', which refers to speed.",
+    "collocations": [
+      "ultrasonic sensor",
+      "ultrasonic waves",
+      "ultrasonic cleaning"
+    ]
+  }
+]

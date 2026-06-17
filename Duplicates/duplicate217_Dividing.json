@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Dividing",
+    "meaning": "Separating something into parts, sections, or groups.",
+    "shortMeaning": "separating into parts",
+    "example": "The teacher is dividing the class into teams for the game.",
+    "example2": "The river acts as a dividing line between the two counties.",
+    "example3": "Eight divided by two is four.",
+    "Explanation": "'Dividing' is the present participle of 'divide'. It is a general term for separating a whole into smaller parts. This can be physical (dividing land), mathematical (dividing numbers), or social (dividing people into groups). It implies creating distinct sections or causing separation. The noun form is 'division'. It is a neutral term, unlike 'splitting' which can imply force. A 'dividing line' is a common metaphor for something that separates two ideas or groups.",
+    "synonyms": [
+      "separating",
+      "splitting",
+      "partitioning",
+      "sharing out"
+    ],
+    "antonyms": [
+      "uniting",
+      "combining",
+      "joining",
+      "multiplying (math)"
+    ],
+    "nounForm": "division",
+    "verbForm": "divide",
+    "adjectiveForm": "divided",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Mathematics, groups, geography, resources",
+    "usageTip": "In math, use 'divide by': 'Divide ten by five.'",
+    "commonMistake": "Confusing 'divide' with 'devise', which means to plan or invent.",
+    "collocations": [
+      "dividing line",
+      "dividing wall",
+      "dividing by",
+      "dividing into groups"
+    ]
+  },
+  {
+    "word": "Dividing",
+    "meaning": "The act of separating something into parts.",
+    "shortMeaning": "splitting into parts",
+    "example": "Dividing the code into modules makes it easier to test.",
+    "example2": "He spent the morning dividing the workload among the team.",
+    "example3": "The dividing line between design and development is blurring.",
+    "Explanation": "Dividing is the ongoing action of separating one thing into smaller, distinct parts. It is a fundamental concept in software development, often referred to as 'divide and conquer' in algorithm design. It is used to manage complexity, allocate responsibilities, or organize information. It can also refer to a physical or logical boundary. It implies active work being done to create separation. It is a helpful term for describing how you handle large, overwhelming tasks.",
+    "synonyms": [
+      "splitting",
+      "separating",
+      "partitioning"
+    ],
+    "antonyms": [
+      "uniting",
+      "combining",
+      "merging"
+    ],
+    "nounForm": "division",
+    "verbForm": "divide",
+    "adjectiveForm": "dividing",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Coding, project planning, mathematics",
+    "usageTip": "Use 'dividing' when you are in the process of breaking something up.",
+    "commonMistake": "Using 'dividing' when the process is already complete (use 'divided' instead).",
+    "collocations": [
+      "dividing line",
+      "dividing tasks",
+      "dividing the workload"
+    ]
+  }
+]

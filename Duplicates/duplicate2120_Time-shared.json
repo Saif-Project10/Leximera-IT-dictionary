@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Time-shared",
+    "meaning": "System allowing multiple users to use resources simultaneously by switching rapidly",
+    "shortMeaning": "shared by time",
+    "example": "The mainframe is a time-shared computing environment.",
+    "example2": "Time-shared resources allow concurrent user access.",
+    "example3": "Early systems relied heavily on time-shared processing.",
+    "Explanation": "Time-shared refers to a computer system where a single powerful machine serves multiple users or processes at once. The CPU switches between tasks so quickly that each user feels they have their own dedicated system. While modern multi-core computing has largely replaced simple time-sharing, the concept remains important in cloud and virtualization. It is an early and foundational concept of multi-user computing and resource management.",
+    "synonyms": [
+      "multi-user",
+      "multiplexed"
+    ],
+    "antonyms": [
+      "dedicated",
+      "single-user"
+    ],
+    "nounForm": "time-sharing",
+    "verbForm": "N/A",
+    "adjectiveForm": "time-shared",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing history, mainframe systems",
+    "usageTip": "Use for legacy systems or specific resource allocation.",
+    "commonMistake": "Assuming it means current parallel processing.",
+    "collocations": [
+      "time-shared system",
+      "time-shared environment",
+      "time-shared computing"
+    ]
+  },
+  {
+    "word": "Time-shared",
+    "meaning": "A system where one computer serves multiple users simultaneously",
+    "shortMeaning": "shared access",
+    "example": "The mainframe operated as a time-shared resource for researchers.",
+    "example2": "Time-shared processing was essential in early computing.",
+    "example3": "Modern cloud instances use virtualized time-shared resources.",
+    "Explanation": "Time-sharing is a computing method where a central CPU allocates small slices of time to multiple user tasks, making it appear as if all users have dedicated access. Although less common in the era of personal computers, it is the ancestor of modern multitasking and cloud virtualization. Understanding time-sharing helps grasp how operating systems manage resources efficiently. It describes a historical but foundational concept in computer science history and architecture.",
+    "synonyms": [
+      "multi-user",
+      "simultaneous",
+      "concurrent"
+    ],
+    "antonyms": [
+      "dedicated",
+      "exclusive",
+      "single-user"
+    ],
+    "nounForm": "time-sharing",
+    "verbForm": "time-share",
+    "adjectiveForm": "time-shared",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operating systems, history of computing, virtualization",
+    "usageTip": "Use to describe legacy systems or underlying resource management.",
+    "commonMistake": "Thinking time-sharing means users are truly doing things at the exact same millisecond.",
+    "collocations": [
+      "time-shared system",
+      "time-shared resource",
+      "time-sharing environment"
+    ]
+  }
+]

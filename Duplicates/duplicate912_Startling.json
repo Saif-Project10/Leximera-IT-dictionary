@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Startling",
+    "meaning": "Very surprising, shocking, or unexpected.",
+    "shortMeaning": "very surprising",
+    "example": "The news report contained a startling revelation.",
+    "example2": "There was a startling loud noise in the middle of the night.",
+    "example3": "The similarity between the two paintings was startling.",
+    "Explanation": "'Startling' is an adjective. It describes something that causes a sudden, sharp feeling of surprise or alarm. It is stronger than 'surprising'. It often implies that the surprise is enough to make you jump or feel momentarily shocked. The verb 'to startle' means to cause such a reaction. 'Startling' can be used for facts, sounds, sights, or events. It usually has a neutral or negative connotation, rarely positive.",
+    "synonyms": [
+      "surprising",
+      "shocking",
+      "astonishing",
+      "alarming"
+    ],
+    "antonyms": [
+      "unsurprising",
+      "expected",
+      "ordinary"
+    ],
+    "nounForm": "start",
+    "verbForm": "startle",
+    "adjectiveForm": "startling",
+    "partOfSpeech": "adjective",
+    "commonContext": "News, discoveries, sudden events, statistics",
+    "usageTip": "Use 'startling' for a strong, sudden surprise, not just a mild one.",
+    "commonMistake": "Confusing 'startling' with 'starting'. They sound similar but have very different meanings.",
+    "collocations": [
+      "startling discovery",
+      "startling effect",
+      "startling news"
+    ]
+  },
+  {
+    "word": "Startling",
+    "meaning": "Causing sudden surprise or alarm.",
+    "shortMeaning": "surprising",
+    "example": "The startling discovery of the security breach shocked the team.",
+    "example2": "The system crash had a startling effect on our timeline.",
+    "example3": "The amount of lost data was startling.",
+    "Explanation": "The word 'startling' describes something that causes an abrupt feeling of surprise, alarm, or amazement. In IT, this usually relates to sudden, unexpected issues like a massive system outage, a catastrophic data loss, or a surprisingly high increase in server load. It implies that the event was not anticipated. While it can describe positive surprises, in technical environments, it almost always refers to problems that require urgent attention.",
+    "synonyms": [
+      "surprising",
+      "shocking",
+      "alarming"
+    ],
+    "antonyms": [
+      "expected",
+      "predictable",
+      "normal"
+    ],
+    "nounForm": "startlement",
+    "verbForm": "startle",
+    "adjectiveForm": "startling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Incident management, security alerts",
+    "usageTip": "Use 'startling' for unexpected and shocking events.",
+    "commonMistake": "Overusing 'startling' for minor issues.",
+    "collocations": [
+      "startling discovery",
+      "startling result",
+      "startling effect"
+    ]
+  },
+  {
+    "word": "Startling",
+    "meaning": "Causing sudden surprise or astonishment",
+    "shortMeaning": "surprising",
+    "example": "The startling discovery of a major security vulnerability shocked the team.",
+    "example2": "The performance increase was startling after the code optimization.",
+    "example3": "There was a startling number of errors in the database.",
+    "Explanation": "The word 'startling' is used to describe findings, data, or events that are unexpected and significant. In IT, it often relates to metrics, bug reports, or performance test results that fall far outside of what was anticipated. Using this word helps convey the seriousness or the magnitude of a discovery. It is an effective way to grab attention during presentations or reports. It is a strong, emotional adjective.",
+    "synonyms": [
+      "surprising",
+      "shocking",
+      "alarming"
+    ],
+    "antonyms": [
+      "expected",
+      "predictable",
+      "normal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "startle",
+    "adjectiveForm": "startling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data reports, bug findings",
+    "usageTip": "Use 'startling' to highlight something that is truly unexpected.",
+    "commonMistake": "Overusing 'startling' for minor issues, which loses its impact.",
+    "collocations": [
+      "startling discovery",
+      "startling results",
+      "startling number"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Categorized",
+    "meaning": "Placed in a particular category or class.",
+    "shortMeaning": "classified, sorted",
+    "example": "The books are categorized by genre.",
+    "example2": "Expenses should be categorized for the annual report.",
+    "example3": "She categorized the emails as 'urgent' and 'non-urgent'.",
+    "Explanation": "The adjective 'categorized' describes something that has been sorted into a system of classification. Categories are groups based on shared characteristics. The process of categorization helps in organizing information, objects, or ideas for easier retrieval and analysis. The verb is 'categorize'. In libraries, retail, science, and data management, categorization is fundamental. Being well-categorized implies order and logical structure. However, over-categorization can sometimes force things into boxes that don't perfectly fit.",
+    "synonyms": [
+      "classified",
+      "sorted",
+      "grouped",
+      "pigeonholed",
+      "systematized"
+    ],
+    "antonyms": [
+      "uncategorized",
+      "unsorted",
+      "mixed",
+      "jumbled"
+    ],
+    "nounForm": "category",
+    "verbForm": "categorize",
+    "adjectiveForm": "categorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Libraries, data analysis, retail, filing",
+    "usageTip": "Often used in the passive voice: 'The items are categorized.'",
+    "commonMistake": "Thinking 'categorized' and 'classified' are always interchangeable; 'classified' can also mean 'secret'.",
+    "collocations": [
+      "categorized as",
+      "neatly categorized",
+      "pre-categorized",
+      "categorized list"
+    ]
+  },
+  {
+    "word": "Categorized",
+    "meaning": "Placed into specific groups, classes, or types based on shared features",
+    "shortMeaning": "grouped",
+    "example": "The IT help desk categorized the support tickets by urgency levels.",
+    "example2": "All blog posts are categorized into topics like security, coding, and design.",
+    "example3": "The network tool categorized traffic into safe, suspicious, and dangerous buckets.",
+    "Explanation": "The word 'Categorized' describes things that have been sorted into distinct bins or groups. This is a common past-tense verb and adjective used everywhere in content management systems, databases, and bug trackers. It implies that items have been reviewed and labeled systematically. Categorized data allows developers to run targeted analytics and find specific items faster. It helps keep messy folders and storage spaces orderly. Do not confuse it with random sorting or basic filtering actions.",
+    "synonyms": [
+      "grouped",
+      "classified",
+      "sorted"
+    ],
+    "antonyms": [
+      "uncategorized",
+      "unsorted",
+      "mixed"
+    ],
+    "nounForm": "category",
+    "verbForm": "categorize",
+    "adjectiveForm": "categorized",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Ticket systems, content management, file organization",
+    "usageTip": "Label files as 'categorized' only after they have been properly sorted into their official groups.",
+    "commonMistake": "Leaving user tickets marked as 'categorized' when they have only been opened but not sorted.",
+    "collocations": [
+      "categorized by",
+      "properly categorized",
+      "automatically categorized"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Ambiguous",
+    "meaning": "Open to more than one interpretation; not having one obvious meaning.",
+    "shortMeaning": "unclear; having more than one meaning",
+    "example": "His instructions were ambiguous, so we didn't know what to do.",
+    "example2": "The ending of the movie is deliberately ambiguous.",
+    "example3": "Avoid using ambiguous language in legal contracts.",
+    "Explanation": "Ambiguous is an adjective describing something that is unclear, vague, or can be understood in multiple ways. It is a negative trait in communication, instructions, and data because it leads to confusion and misunderstanding. The noun is 'ambiguity.' A common mistake is confusing it with 'ambivalent' (having mixed feelings). Striving for clarity means eliminating ambiguity. This word is important in linguistics, law, user interface design, and any field where precise understanding is critical. It highlights the need for specificity.",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "equivocal",
+      "indefinite",
+      "cryptic"
+    ],
+    "antonyms": [
+      "clear",
+      "unambiguous",
+      "definite",
+      "explicit",
+      "straightforward"
+    ],
+    "nounForm": "ambiguity",
+    "verbForm": "N/A",
+    "adjectiveForm": "ambiguous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Language, instructions, contracts, and data analysis.",
+    "usageTip": "Use 'ambiguous' to criticize something for being open to misinterpretation.",
+    "commonMistake": "Pronouncing it as 'am-BIG-you-us' – the correct pronunciation is 'am-BIG-yoo-us.'",
+    "collocations": [
+      "ambiguous statement",
+      "highly ambiguous",
+      "ambiguous wording"
+    ]
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "Unclear, confusing, or capable of being understood in more than one way",
+    "shortMeaning": "unclear",
+    "example": "The error message was too ambiguous, making it difficult to debug the issue.",
+    "example2": "Avoid writing ambiguous variable names like 'data1' or 'tempVar' in your code.",
+    "example3": "The project requirements were ambiguous, causing confusion among the developers.",
+    "Explanation": "The word 'ambiguous' describes anything that lacks clarity or precision. In programming and software engineering, ambiguity leads to logical bugs, miscommunications, and broken pipelines because computers require exact, clear instructions. The noun form is 'ambiguity'. Writing clear documentation, using descriptive variables, and defining exact criteria are the best practices to eliminate ambiguous situations.",
+    "synonyms": [
+      "vague",
+      "unclear",
+      "uncertain"
+    ],
+    "antonyms": [
+      "clear",
+      "explicit",
+      "unambiguous"
+    ],
+    "nounForm": "ambiguity",
+    "verbForm": "N/A",
+    "adjectiveForm": "ambiguous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Error messages, code documentation, and project requirements specifications",
+    "usageTip": "Use 'ambiguous' to point out rules, error strings, or code blocks that could confuse someone due to lack of detail.",
+    "commonMistake": "Confusing 'ambiguous' with 'ambivalent'; ambivalent means having mixed feelings, while ambiguous means unclear in meaning.",
+    "collocations": [
+      "ambiguous requirements",
+      "ambiguous error message",
+      "highly ambiguous"
+    ]
+  }
+]

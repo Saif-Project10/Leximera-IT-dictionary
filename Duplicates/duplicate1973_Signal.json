@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Signal",
+    "meaning": "An electrical or data pulse representing information.",
+    "shortMeaning": "data pulse",
+    "example": "The network signal is weak in this area.",
+    "example2": "We process the input signal to remove noise.",
+    "example3": "The server sends a signal to trigger the process.",
+    "Explanation": "A 'signal' is a physical or logical pulse that conveys information between systems or components. In networking, it refers to the transmission of data (e.g., Wi-Fi or cellular). In software, a signal can be an inter-process notification (like a 'kill' signal in Unix). Understanding the quality and integrity of a signal is vital for troubleshooting connectivity, hardware communication, and system stability. It is a foundational concept in communication technology.",
+    "synonyms": [
+      "pulse",
+      "transmission",
+      "indicator"
+    ],
+    "antonyms": [
+      "noise",
+      "silence",
+      "interference"
+    ],
+    "nounForm": "signal",
+    "verbForm": "signal",
+    "adjectiveForm": "signaled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Networking, communication, operating systems",
+    "usageTip": "Use 'signal' for data transmission or system notifications.",
+    "commonMistake": "Confusing 'signal' (data) with 'noise' (unwanted data).",
+    "collocations": [
+      "signal strength",
+      "signal processing",
+      "send a signal"
+    ]
+  },
+  {
+    "word": "Signal",
+    "meaning": "An electrical pulse, data message, or system notification sent between hardware components or software application processes",
+    "shortMeaning": "data communication alert pulse",
+    "example": "The frontend application receives a termination signal from the operating system when the user exits the browser tab.",
+    "example2": "A weak wireless network signal will cause the database download process to lag or disconnect entirely.",
+    "example3": "We can write code to catch a specific operating system signal and shut down the backend server gracefully.",
+    "Explanation": "The word 'Signal' applies to both hardware and software layers in IT. At the hardware level, it refers to electrical or optical pulses traveling through cables or wireless channels to transfer data bits. At the software level, a signal is a fast asynchronous notification sent by an operating system to a running program. It alerts the application to critical events, like an error, an interruption command, or a termination request, forcing the program to respond immediately.",
+    "synonyms": [
+      "notification",
+      "pulse",
+      "alert trigger"
+    ],
+    "antonyms": [
+      "silence",
+      "static noise",
+      "N/A"
+    ],
+    "nounForm": "signal",
+    "verbForm": "signal",
+    "adjectiveForm": "signaled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Operating system process handling, network connection metrics, and hardware communication channels",
+    "usageTip": "Use 'signal' when describing low-level notifications sent to a backend process or tracking wireless network performance metrics.",
+    "commonMistake": "Thinking a software signal carries large payload data blocks; it is usually a simple numeric code meant to trigger a specific response.",
+    "collocations": [
+      "catch a signal",
+      "network signal strength",
+      "digital signal processing"
+    ]
+  }
+]

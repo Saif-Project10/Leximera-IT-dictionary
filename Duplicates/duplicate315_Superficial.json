@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Superficial",
+    "meaning": "Existing or occurring at or on the surface; not thorough, deep, or complete",
+    "shortMeaning": "on surface; not deep",
+    "example": "He suffered only superficial cuts in the accident.",
+    "example2": "Her knowledge of the subject is rather superficial.",
+    "example3": "They had a superficial friendship, not a close one.",
+    "Explanation": "The adjective 'superficial' has two main meanings. Literally, it means relating to the surface (a superficial wound). More commonly, it means lacking depth or thoroughness, concerned only with the obvious or apparent. When describing knowledge, analysis, or relationships, it is a criticism, implying a failure to engage with the substance. The noun form is 'superficiality'.",
+    "synonyms": [
+      "surface",
+      "shallow",
+      "cursory",
+      "skin-deep"
+    ],
+    "antonyms": [
+      "deep",
+      "profound",
+      "thorough",
+      "comprehensive"
+    ],
+    "nounForm": "superficiality",
+    "verbForm": "N/A",
+    "adjectiveForm": "superficial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Wounds, knowledge, analysis, relationships, appearance",
+    "usageTip": "Often used negatively to criticize an analysis or person as not being serious or deep.",
+    "commonMistake": "Using it to mean 'fake' instead of 'not deep'.",
+    "collocations": [
+      "superficial knowledge",
+      "superficial wound",
+      "superficial resemblance",
+      "superficial charm"
+    ]
+  },
+  {
+    "word": "Superficial",
+    "meaning": "Existing or occurring at or on the surface",
+    "shortMeaning": "on the surface",
+    "example": "The repair was only a superficial fix for a deeper problem.",
+    "example2": "The injury was superficial and didn't require stitches.",
+    "example3": "Avoid superficial analysis; we need more details.",
+    "Explanation": "The word 'superficial' refers to something that only affects the outside or the surface level, lacking depth or real importance. In a technical sense, it can mean literal surface-level properties, but it is often used metaphorically to criticize work that is not thorough. A 'superficial' review is one that misses the underlying causes of a problem. It is the opposite of 'thorough' or 'deep.' Always consider the context, as it usually carries a slightly negative tone when applied to professional work.",
+    "synonyms": [
+      "shallow",
+      "surface-level",
+      "external"
+    ],
+    "antonyms": [
+      "thorough",
+      "deep",
+      "fundamental"
+    ],
+    "nounForm": "superficiality",
+    "verbForm": "N/A",
+    "adjectiveForm": "superficial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Analysis, physical injuries, design",
+    "usageTip": "Use 'superficial' to describe something that is not thorough or is only on the outside.",
+    "commonMistake": "Using 'superficial' to mean 'bad'; it only means 'shallow' or 'on the surface'.",
+    "collocations": [
+      "superficial analysis",
+      "superficial damage",
+      "superficial layer"
+    ]
+  },
+  {
+    "word": "Superficial",
+    "meaning": "Existing only on the surface; lacking depth",
+    "shortMeaning": "shallow",
+    "example": "The scan only detected superficial damage to the cable.",
+    "example2": "His knowledge of the programming language was quite superficial.",
+    "example3": "Avoid superficial changes; focus on the core issues.",
+    "Explanation": "Superficial refers to things that are on the surface or lack depth. In IT, it can refer to hardware scratches or to a programmer's limited understanding of a framework. It is generally a negative descriptor because it implies a lack of thoroughness. It is the opposite of 'thorough' or 'deep'. Use this to describe something that does not require deep analysis or that fails to address the underlying cause.",
+    "synonyms": [
+      "shallow",
+      "surface-level",
+      "cosmetic"
+    ],
+    "antonyms": [
+      "thorough",
+      "deep",
+      "substantial"
+    ],
+    "nounForm": "superficiality",
+    "verbForm": "N/A",
+    "adjectiveForm": "superficial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, hardware inspection, general observations",
+    "usageTip": "Use 'superficial' to describe something that lacks detail or depth.",
+    "commonMistake": "Using 'superficial' when you mean 'external'.",
+    "collocations": [
+      "superficial knowledge",
+      "superficial damage",
+      "superficial analysis"
+    ]
+  }
+]

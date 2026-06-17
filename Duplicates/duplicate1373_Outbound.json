@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Outbound",
+    "meaning": "Traveling away from a particular place, especially on the first leg of a return journey; outgoing.",
+    "shortMeaning": "outgoing, departing",
+    "example": "The outbound flight to London leaves at 9 AM.",
+    "example2": "The call center handles both inbound and outbound calls.",
+    "example3": "Outbound logistics deals with storing and moving products to customers.",
+    "Explanation": "'Outbound' is an adjective used to describe movement, traffic, or communication that is going out from a central point. It is often paired with its opposite, 'inbound'. It is common in transportation (outbound flights), telecommunications (outbound calls), and business logistics (outbound shipping). The word focuses on the direction of departure. It is a more specific and formal term than 'outgoing'. In business, managing outbound processes efficiently is crucial for customer service and delivery.",
+    "synonyms": [
+      "outgoing",
+      "departing",
+      "exporting"
+    ],
+    "antonyms": [
+      "inbound",
+      "incoming",
+      "arriving"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "outbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Travel, logistics, call centers, networking",
+    "usageTip": "Think of it as the 'outward-bound' direction from a reference point.",
+    "commonMistake": "Using 'outbound' for people's personalities; use 'outgoing' for that.",
+    "collocations": [
+      "outbound flight",
+      "outbound traffic",
+      "outbound marketing",
+      "outbound link"
+    ]
+  },
+  {
+    "word": "Outbound",
+    "meaning": "Traveling or directed away from a particular place",
+    "shortMeaning": "going away",
+    "example": "The server blocked all outbound traffic.",
+    "example2": "We are monitoring the outbound emails.",
+    "example3": "Outbound sales calls are part of the marketing strategy.",
+    "Explanation": "The term 'outbound' describes movement or data leaving a specific location. In networking, it refers to data packets or traffic sent from your local system to an external destination. It is the opposite of 'inbound' traffic. In business, it refers to efforts like sales or marketing where you reach out to others rather than waiting for them to come to you. It is a critical concept in network security, as monitoring outbound connections helps prevent unauthorized data leaks.",
+    "synonyms": [
+      "outgoing",
+      "leaving",
+      "departing"
+    ],
+    "antonyms": [
+      "inbound",
+      "incoming"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "outbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, Marketing, Logistics",
+    "usageTip": "Use when talking about data or people leaving a system.",
+    "commonMistake": "Confusing 'outbound' with 'external' in all contexts.",
+    "collocations": [
+      "outbound traffic",
+      "outbound link",
+      "outbound call"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Phishing",
+    "meaning": "A cybercrime in which a target is contacted by email, telephone, or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data.",
+    "shortMeaning": "fraudulent attempt to obtain sensitive information",
+    "example": "I received a phishing email pretending to be from my bank, asking for my login details.",
+    "example2": "Employee training is crucial to prevent falling for phishing attacks.",
+    "example3": "Spear phishing is a targeted version aimed at a specific individual or company.",
+    "Explanation": "Phishing is a form of social engineering and one of the most common cyber threats. Attackers create fake websites or messages that look authentic, tricking users into revealing passwords, credit card numbers, or other personal information. It relies on deception and human error rather than technical hacking. Common signs include urgent language, misspelled URLs, and generic greetings. Awareness is the primary defense. A common mistake is thinking only gullible people fall for phishing; sophisticated attacks can fool anyone. Understanding phishing tactics is a critical part of personal and organizational cybersecurity hygiene.",
+    "synonyms": [
+      "email fraud",
+      "spoofing",
+      "social engineering attack"
+    ],
+    "antonyms": [
+      "legitimate communication",
+      "authentic request"
+    ],
+    "nounForm": "phishing",
+    "verbForm": "phish",
+    "adjectiveForm": "phishing (e.g., phishing attack)",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity, email security, online fraud.",
+    "usageTip": "Spelled with 'ph' like 'phone.' Use it to describe the fraudulent activity, not the message itself (which is a 'phishing email' or 'phish').",
+    "commonMistake": "Spelling it as 'fishing' – the 'ph' is intentional, a hacker culture reference to 'fishing' for information.",
+    "collocations": [
+      "phishing scam",
+      "phishing attempt",
+      "protect against phishing"
+    ]
+  },
+  {
+    "word": "Phishing",
+    "meaning": "An attempt to steal sensitive info by pretending to be trustworthy",
+    "shortMeaning": "fraudulent attack",
+    "example": "He received a phishing email asking for his password.",
+    "example2": "Phishing attacks are a common threat to network security.",
+    "example3": "We trained the staff to recognize and report phishing.",
+    "Explanation": "The term 'phishing' describes a cyberattack where criminals send fraudulent messages designed to trick users into revealing sensitive data, such as login credentials or financial information. The email or message often looks like it comes from a legitimate source (like a bank or a service provider). It is a major issue in cybersecurity. Recognizing phishing signs, such as strange links, urgent requests, and mismatched domains, is a crucial skill for everyone in the digital world.",
+    "synonyms": [
+      "fraud",
+      "deception",
+      "scam"
+    ],
+    "antonyms": [
+      "authentication",
+      "security"
+    ],
+    "nounForm": "phishing",
+    "verbForm": "fish",
+    "adjectiveForm": "phishing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, Email, Safety",
+    "usageTip": "Always warn users to verify sources when discussing phishing.",
+    "commonMistake": "Thinking phishing only happens via email.",
+    "collocations": [
+      "phishing attack",
+      "phishing email",
+      "phishing website"
+    ]
+  }
+]

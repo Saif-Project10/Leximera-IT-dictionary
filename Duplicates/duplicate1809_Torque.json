@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Torque",
+    "meaning": "A force that causes an object to rotate or twist",
+    "shortMeaning": "twisting force",
+    "example": "The motor provides high torque to start the industrial machinery.",
+    "example2": "You need to apply the correct amount of torque to the screws on the server rack.",
+    "example3": "The electric vehicle has instant torque, allowing it to accelerate quickly.",
+    "Explanation": "Torque is a concept from physics that is important in hardware engineering. It measures how much a force acting on an object causes that object to rotate. In the IT world, torque is relevant when dealing with mechanical parts like hard drive motors, cooling fans, or the assembly of server hardware. Using too much torque can break a screw, while too little can make a component loose. It is measured in units like Newton-meters (Nm) or Pound-feet (lb-ft).",
+    "synonyms": [
+      "twisting force",
+      "rotational force"
+    ],
+    "antonyms": [
+      "linear force"
+    ],
+    "nounForm": "torque",
+    "verbForm": "torque",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Mechanical engineering and hardware maintenance",
+    "usageTip": "Use a 'torque wrench' when you need to tighten a bolt to an exact specification.",
+    "commonMistake": "Confusing 'torque' with 'work' or 'power'; torque is specifically about rotation.",
+    "collocations": [
+      "high torque",
+      "apply torque",
+      "tighten with torque"
+    ]
+  },
+  {
+    "word": "Torque",
+    "meaning": "A rotational force that causes an object to twist or turn around a central axis",
+    "shortMeaning": "rotational twisting force",
+    "example": "Electric cars produce instant torque, allowing them to accelerate very quickly from a complete stop.",
+    "example2": "You must apply the correct amount of torque when tightening the screws on a server rack hardware plate.",
+    "example3": "The robotic arm lacks enough torque to lift the heavy steel plate safely.",
+    "Explanation": "The word 'torque' is a scientific and engineering term used as a noun and a verb. In physics and mechanical engineering, it measures how much twisting force is applied to an object like a wheel, gear, or bolt. In video game programming, graphics engines simulate torque to create realistic vehicle handling, rotational physics, and falling object movements. Outside of physics, the word is rarely used in casual conversation, but it remains a critical metric for hardware designers, auto mechanics, and simulation programmers who write logic for physical movements.",
+    "synonyms": [
+      "twisting force",
+      "rotational force",
+      "revolution power"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "torque",
+    "verbForm": "torque",
+    "adjectiveForm": "torqued",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Mechanical engineering, car manufacturing, 3D physics engines, and robotic hardware configuration",
+    "usageTip": "Use 'torque' when you are describing rotational mechanics, motor power ratings, or writing physics rules for a 3D simulation game.",
+    "commonMistake": "Confusing 'torque' with linear 'speed'; speed measures how fast an object moves, while torque measures the rotational turning strength of a motor.",
+    "collocations": [
+      "high torque",
+      "apply torque",
+      "engine torque"
+    ]
+  }
+]

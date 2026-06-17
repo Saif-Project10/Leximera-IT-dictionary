@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Relinquish",
+    "meaning": "To voluntarily give up or let go of something, such as a position, right, or possession.",
+    "shortMeaning": "voluntarily give up",
+    "example": "The king was forced to relinquish his throne.",
+    "example2": "She relinquished custody of the child to her parents.",
+    "example3": "He refused to relinquish control of the company.",
+    "Explanation": "Relinquish is a formal verb meaning to yield, surrender, or release something, usually voluntarily, though sometimes under pressure. It implies a deliberate act of letting go of power, control, ownership, or a claim. It is often used in legal, political, and personal contexts where authority or possession is formally transferred or abandoned. It carries a tone of finality and often sacrifice. A common mistake is using it for temporary release; 'relinquish' suggests a more permanent giving up. This word is powerful for describing significant moments of surrender or abdication.",
+    "synonyms": [
+      "surrender",
+      "give up",
+      "cede",
+      "renounce",
+      "abandon"
+    ],
+    "antonyms": [
+      "keep",
+      "retain",
+      "hold on to",
+      "claim"
+    ],
+    "nounForm": "relinquishment",
+    "verbForm": "relinquish",
+    "adjectiveForm": "relinquished",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, leadership, property rights, and personal sacrifices.",
+    "usageTip": "Use 'relinquish' for formal, voluntary (or forced) acts of giving up authority, control, or ownership.",
+    "commonMistake": "Pronouncing it as 're-LIN-quish' – the stress is on the second syllable: 'ri-LING-kwish.'",
+    "collocations": [
+      "relinquish control",
+      "relinquish power",
+      "relinquish responsibility"
+    ]
+  },
+  {
+    "word": "Relinquish",
+    "meaning": "To voluntarily give up control, ownership, or a claim over something",
+    "shortMeaning": "give up control",
+    "example": "The main thread must relinquish control so other processes can execute.",
+    "example2": "The developer had to relinquish admin access to the repository after leaving.",
+    "example3": "Once the function finishes, it will relinquish the allocated memory space.",
+    "Explanation": "The word 'relinquish' means to surrender or give away a right, resource, or tracking power. In computer science, it is frequently used to describe resource allocation, such as threads giving up CPU cycles or memory management systems freeing up blocks of RAM. In IT project administration, it can describe handing over repository permissions or system access keys to another administrative user.",
+    "synonyms": [
+      "surrender",
+      "give up",
+      "yield"
+    ],
+    "antonyms": [
+      "retain",
+      "keep",
+      "withhold"
+    ],
+    "nounForm": "relinquishment",
+    "verbForm": "relinquish",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Operating system resource handling, access management, and concurrency",
+    "usageTip": "Use 'relinquish' to formally describe system processes freeing up locked shared resources.",
+    "commonMistake": "Spelling it as 'relinqush' or using it for unintentional losses of data.",
+    "collocations": [
+      "relinquish control",
+      "relinquish resources",
+      "relinquish ownership"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Delicate",
+    "meaning": "Easily broken, damaged, or harmed; needing careful handling; fine and subtle. | Easily broken or damaged; requiring careful handling.",
+    "shortMeaning": "easily damaged",
+    "example": "Be careful with that vase—it's very delicate.",
+    "example2": "The surgeon performed a delicate operation on the patient's eye.",
+    "example3": "They discussed the delicate subject of money with great tact.",
+    "Explanation": "'Delicate' has two main meanings. First, it describes something physically fragile, like glass or a flower. Second, it describes a situation, subject, or task that requires sensitive, careful, or tactful handling because it is easily upset or ruined, like a negotiation or someone's feelings. It can also describe something finely made or subtle, like delicate lace or a delicate flavor. The word carries a sense of vulnerability and the need for gentleness. It is the opposite of 'robust' or 'strong'.",
+    "synonyms": [
+      "Daint",
+      "Dainty",
+      "Fine",
+      "Fragile",
+      "Sensitive",
+      "Subtle"
+    ],
+    "antonyms": [
+      "Crude",
+      "Heavy-Handed",
+      "Robust",
+      "Strong",
+      "Sturdy",
+      "Tough"
+    ],
+    "nounForm": "delicacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "delicate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing fragile objects, sensitive situations, fine craftsmanship",
+    "usageTip": "Use it for things that can be easily harmed, either physically or emotionally.",
+    "commonMistake": "Confusing it with 'delicious' ('delicacy' can be a tasty food, but 'delicate' is not about taste).",
+    "collocations": [
+      "delicate balance",
+      "delicate situation",
+      "delicate fabric",
+      "handle with delicate care"
+    ]
+  },
+  {
+    "word": "Delicate",
+    "meaning": "Easily broken or requiring careful handling",
+    "shortMeaning": "fragile/careful",
+    "example": "The balance of the system is quite delicate.",
+    "example2": "Handle these settings with delicate care.",
+    "example3": "The UI design has a delicate look.",
+    "Explanation": "The word 'delicate' describes things that need careful treatment. In IT, 'delicate' can refer to legacy code that breaks if you touch it, or a system that is very sensitive to configuration changes. It implies that you should be careful and proceed slowly. Using this word effectively warns your teammates that a specific area of the system requires extra attention.",
+    "synonyms": [
+      "fragile",
+      "sensitive",
+      "careful"
+    ],
+    "antonyms": [
+      "robust",
+      "durable",
+      "sturdy"
+    ],
+    "nounForm": "delicacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "delicate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, legacy code, and UI design",
+    "usageTip": "Use 'delicate' for code or systems that break easily.",
+    "commonMistake": "Confusing 'delicate' with 'complex'.",
+    "collocations": [
+      "delicate balance",
+      "handle with care",
+      "delicate system"
+    ]
+  }
+]

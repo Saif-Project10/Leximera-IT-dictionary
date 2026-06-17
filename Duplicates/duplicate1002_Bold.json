@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Bold",
+    "meaning": "1. Showing a willingness to take risks; confident and courageous. 2. (Of a color, design, or type) strong and vivid; having a thick, dark stroke.",
+    "shortMeaning": "brave or strong/vivid",
+    "example": "She made a bold decision to start her own company.",
+    "example2": "The designer used bold colors in the painting.",
+    "example3": "Please print the heading in bold font.",
+    "Explanation": "'Bold' is an adjective with positive connotations in both behavior and appearance. When describing a person or action, it means fearless and daring. When describing visual elements, it means striking and eye-catching. In typography, 'bold' is a specific style of text. This word suggests strength, confidence, and a lack of timidity. The noun form is 'boldness'. Being bold is often admired, but it can sometimes border on recklessness. It is the opposite of 'timid' or 'faint'.",
+    "synonyms": [
+      "brave",
+      "daring",
+      "confident",
+      "striking",
+      "vivid"
+    ],
+    "antonyms": [
+      "timid",
+      "cautious",
+      "faint",
+      "pale"
+    ],
+    "nounForm": "boldness",
+    "verbForm": "embolden",
+    "adjectiveForm": "bold",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing personality, decisions, graphic design, typography",
+    "usageTip": "Use 'bold' for courageous actions or for strong, prominent visual features.",
+    "commonMistake": "Confusing 'bold' with 'bald' (having no hair). They are spelled differently.",
+    "collocations": [
+      "bold move",
+      "bold colors",
+      "in bold type"
+    ]
+  },
+  {
+    "word": "Bold",
+    "meaning": "Showing courage and risk-taking; text formatting that makes lines look thick and dark",
+    "shortMeaning": "Courageous / Thick text style",
+    "example": "You can use the HTML tag to make important headers appear bold.",
+    "example2": "Moving the company entirely to cloud servers was a bold business move.",
+    "example3": "The brand designer chose a bold typography layout for the new app logo.",
+    "Explanation": "The word 'bold' has two common meanings. In typography, web design, and text processors, 'bold' describes characters rendered with heavy, thick strokes to stand out from normal text (e.g., using font-weight: bold in CSS). In human situations, it describes a person, strategy, or decision that is brave, daring, and ready to take calculated risks. The noun form is 'boldness', and the verb form 'bold' means to apply thick styling.",
+    "synonyms": [
+      "brave",
+      "thickened",
+      "daring"
+    ],
+    "antonyms": [
+      "timid",
+      "thin",
+      "lightweight"
+    ],
+    "nounForm": "boldness",
+    "verbForm": "bold",
+    "adjectiveForm": "bold",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Typography styling, CSS web design, strategic leadership decisions",
+    "usageTip": "Use 'bold' to describe text that needs emphasis, or to praise an aggressive, high-risk business move.",
+    "commonMistake": "Overusing bold text style throughout a website document, which ruins readability and makes layouts look chaotic.",
+    "collocations": [
+      "bold text",
+      "bold move",
+      "bold font"
+    ]
+  }
+]

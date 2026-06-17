@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Targeted",
+    "meaning": "Directed toward a specific group, goal, or area.",
+    "shortMeaning": "focused",
+    "example": "We launched a targeted marketing campaign for developers.",
+    "example2": "The targeted update fixed a specific memory bug.",
+    "example3": "Our software offers targeted solutions for small businesses.",
+    "Explanation": "The word 'targeted' describes actions, tools, or strategies that are intentionally focused on a specific objective or audience. Instead of a general or 'one-size-fits-all' approach, a 'targeted' one concentrates resources where they will be most effective. This is a core concept in modern tech, including targeted advertisements, targeted security patches, and targeted performance optimization for specific hardware.",
+    "synonyms": [
+      "focused",
+      "directed",
+      "specific"
+    ],
+    "antonyms": [
+      "general",
+      "indiscriminate",
+      "random"
+    ],
+    "nounForm": "target",
+    "verbForm": "target",
+    "adjectiveForm": "targeted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Marketing, software development, security",
+    "usageTip": "Use 'targeted' when referring to focused, precise efforts.",
+    "commonMistake": "Confusing 'targeted' with 'selective' (though they are similar).",
+    "collocations": [
+      "targeted campaign",
+      "targeted update",
+      "targeted approach"
+    ]
+  },
+  {
+    "word": "Targeted",
+    "meaning": "Directed toward a specific group, system, or result",
+    "shortMeaning": "focused on a goal",
+    "example": "The malware attack was highly targeted.",
+    "example2": "We launched a targeted marketing campaign for the software.",
+    "example3": "Targeted patches fixed the specific vulnerability.",
+    "Explanation": "The word 'targeted' indicates an action aimed precisely at a specific objective or recipient. In IT, this is common in security (targeted attacks) or performance tuning (targeted optimizations). By being targeted, you avoid wasting resources on unnecessary areas and focus on high-impact results. It implies planning and intent rather than random action. Whether it is a cyber threat or a performance fix, being 'targeted' is more efficient and effective.",
+    "synonyms": [
+      "focused",
+      "directed",
+      "specific"
+    ],
+    "antonyms": [
+      "general",
+      "random",
+      "indiscriminate"
+    ],
+    "nounForm": "target",
+    "verbForm": "target",
+    "adjectiveForm": "targeted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, marketing, development",
+    "usageTip": "Use to describe an action with a clear, specific goal.",
+    "commonMistake": "Confusing 'targeted' with 'comprehensive'.",
+    "collocations": [
+      "targeted attack",
+      "targeted approach",
+      "targeted improvement"
+    ]
+  }
+]

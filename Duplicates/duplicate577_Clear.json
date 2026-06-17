@@ -1,0 +1,102 @@
+[
+  {
+    "word": "Clear",
+    "meaning": "Easy to perceive, understand, or interpret; transparent; free of obstacles.",
+    "shortMeaning": "easy to see/understand; unobstructed",
+    "example": "Her instructions were very clear.",
+    "example2": "The water in the lake is crystal clear.",
+    "example3": "The road is clear, so we can go now.",
+    "Explanation": "Clear is a highly common adjective, verb, and adverb. As an adjective, it means obvious, transparent, or unobstructed. As a verb, it means to remove obstacles or make something clear ('clear the table,' 'clear your throat'). As an adverb, it means completely ('clear across the room'). It signifies the absence of confusion, cloudiness, or blockage. A common mistake is confusing it with 'clean' (free from dirt). Striving for clarity in communication and thought is a universal goal, making this word essential in instruction, description, and planning.",
+    "synonyms": [
+      "obvious",
+      "transparent",
+      "unobstructed",
+      "evident",
+      "understandable"
+    ],
+    "antonyms": [
+      "unclear",
+      "vague",
+      "cloudy",
+      "blocked",
+      "confusing"
+    ],
+    "nounForm": "clarity",
+    "verbForm": "clear",
+    "adjectiveForm": "clear",
+    "partOfSpeech": "adjective / verb / adverb",
+    "commonContext": "Communication, weather, instructions, and obstacles.",
+    "usageTip": "Use 'it is clear that' to state an obvious fact. Use 'clear about' to be certain (e.g., 'I'm clear about the rules').",
+    "commonMistake": "Saying 'more clearer' – 'clearer' is the correct comparative form.",
+    "collocations": [
+      "clear cut",
+      "clear the air",
+      "loud and clear"
+    ]
+  },
+  {
+    "word": "Clear",
+    "meaning": "Easy to perceive, understand, or see through; transparent, distinct, or free from any confusion or obstacles",
+    "shortMeaning": "transparent or easy to understand",
+    "example": "The documentation provides clear instructions on how to install the software api.",
+    "example2": "The glass window was so clear that it looked like there was nothing there.",
+    "example3": "You must have a clear understanding of the project scope before writing code.",
+    "Explanation": "The word 'clear' is an incredibly common adjective, verb, and adverb in English. When describing communication or technical documentation, it means unmistakable and simple to comprehend, leaving no room for ambiguity. In physical contexts, it means transparent or unclouded. As a verb, it means to remove blockages or to reset a state (e.g., 'clear the terminal cache'). Writing clear text and creating clear paths is essential for maintaining smooth workflows in any software or business environment.",
+    "synonyms": [
+      "transparent",
+      "obvious",
+      "understandable",
+      "unambiguous"
+    ],
+    "antonyms": [
+      "cloudy",
+      "vague",
+      "ambiguous",
+      "confusing"
+    ],
+    "nounForm": "clarity",
+    "verbForm": "clear",
+    "adjectiveForm": "clear",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Technical writing, layout designs, problem-solving, and communication",
+    "usageTip": "Use 'clear' to describe goals, writing, user interfaces, or instructions that prevent confusion.",
+    "commonMistake": "Using 'clear' when you mean 'empty'; a database can be cleared (verb), but an empty field is not a 'clear' field.",
+    "collocations": [
+      "clear instructions",
+      "clear view",
+      "clear evidence",
+      "clear definition"
+    ]
+  },
+  {
+    "word": "Clear",
+    "meaning": "To remove contents or to make something understandable",
+    "shortMeaning": "empty or understandable",
+    "example": "You can clear the cache to fix browsing issues.",
+    "example2": "His explanation made the difficult concept very clear.",
+    "example3": "Click the button to clear the input field.",
+    "Explanation": "In IT, 'clear' usually means to empty or reset something. For example, clearing a form, clearing the console, or clearing a history. It is an action of removal that leaves a blank space. On the other hand, in communication, 'clear' means easy to understand. A 'clear interface' is one that isn't confusing to the user. It is a fundamental word for both system operations and user experience design.",
+    "synonyms": [
+      "reset",
+      "empty",
+      "lucid"
+    ],
+    "antonyms": [
+      "fill",
+      "clutter",
+      "vague"
+    ],
+    "nounForm": "clarity",
+    "verbForm": "clear",
+    "adjectiveForm": "clear",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "User interfaces and troubleshooting",
+    "usageTip": "Use 'clear' when you want to return a setting to its default or empty state.",
+    "commonMistake": "Confusing 'clear' with 'delete'; clearing a field usually keeps the field but removes the text.",
+    "collocations": [
+      "clear cache",
+      "clear history",
+      "clear the screen"
+    ]
+  }
+]

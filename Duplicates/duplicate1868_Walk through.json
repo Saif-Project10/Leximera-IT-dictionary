@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Walk through",
+    "meaning": "A step-by-step demonstration or review of a process or software",
+    "shortMeaning": "step-by-step guide",
+    "example": "Let's do a quick walk through of the new user interface.",
+    "example2": "The developer gave us a walk through of the code to find any errors.",
+    "example3": "I followed a walk through online to fix my printer settings.",
+    "Explanation": "In IT, a walk through is a common practice for training or quality control. It involves going through a piece of software, a set of instructions, or a project plan one step at a time to ensure everything is correct. It is less formal than a technical audit but more detailed than a simple summary. During a walk through, the person 'leading' the session explains the logic and flow of the system. This helps team members understand complex tasks and identify potential problems early. It is a great way to onboard new employees or review progress with a client.",
+    "synonyms": [
+      "tutorial",
+      "demonstration",
+      "run-through"
+    ],
+    "antonyms": [
+      "brief overview",
+      "summary",
+      "N/A"
+    ],
+    "nounForm": "walkthrough",
+    "verbForm": "walk through",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Training, software reviews, and tutorials",
+    "usageTip": "As a noun, it's often one word: 'walkthrough'. As a verb, it's two: 'walk through'.",
+    "commonMistake": "Confusing a 'walk through' with a 'deep dive' (which is much more technical).",
+    "collocations": [
+      "detailed walk through",
+      "product walk through",
+      "code walk through"
+    ]
+  },
+  {
+    "word": "Walk through",
+    "meaning": "A step-by-step review, guide, or clear demonstration designed to explain a software feature codebase or layout project plan",
+    "shortMeaning": "step-by-step explanation",
+    "example": "Let us schedule a code walk through to ensure our dictionary application logic follows optimization standards.",
+    "example2": "The developer documentation provides a simple walk through explaining how to connect local JSON data files.",
+    "example3": "He gave the client a thorough walk through of the e-commerce web platform's checkout system.",
+    "Explanation": "The phrase 'walk through' acts as both a verb and a noun to describe a methodical, step-by-step instructional review. In software engineering, code walkthroughs allow teams to review new scripts together to verify logic and catch bugs early. For users, a UI walkthrough serves as an onboarding tutorial, guiding them through a web application's layout and features to improve adoption and reduce confusion.",
+    "synonyms": [
+      "step-by-step review",
+      "guided tutorial",
+      "demonstration",
+      "inspection"
+    ],
+    "antonyms": [
+      "summary overview",
+      "hasty glance"
+    ],
+    "nounForm": "walkthrough",
+    "verbForm": "walk through",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase / noun",
+    "commonContext": "Code quality assessments, software user onboarding, technical project documentation",
+    "usageTip": "Use 'walk through' as an active verb when guiding a developer or user line-by-line through a script or application interface.",
+    "commonMistake": "Spelling the noun form as two separate words without clear context; use 'walkthrough' for the noun and 'walk through' for the action verb phrase.",
+    "collocations": [
+      "code walk through",
+      "provide a walk through",
+      "walk through the tutorial"
+    ]
+  }
+]

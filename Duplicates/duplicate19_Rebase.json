@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Rebase",
+    "meaning": "To move or combine a series of commits (code changes) to a new base commit",
+    "shortMeaning": "reapply commits on a new base",
+    "example": "You need to rebase your feature branch onto the main branch.",
+    "example2": "Rebasing creates a cleaner project history.",
+    "example3": "Before merging, he decided to rebase his changes.",
+    "Explanation": "'Rebase' is a Git version control command. It is used to integrate changes from one branch into another by rewriting commit history. Instead of a merge commit, rebasing replays your commits on top of the latest version of the target branch. This results in a linear, clean history but can be risky if not done carefully on shared branches. It's a key skill for collaborative software development.",
+    "synonyms": [
+      "reapply",
+      "replay commits"
+    ],
+    "antonyms": [
+      "merge",
+      "leave as is"
+    ],
+    "nounForm": "rebase",
+    "verbForm": "rebase",
+    "adjectiveForm": "rebased",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Git version control, collaborative coding, software development workflows",
+    "usageTip": "Use specifically in the context of Git. It's a technical term, not for general use.",
+    "commonMistake": "Rebasing commits that have already been shared with others, which can cause confusion.",
+    "collocations": [
+      "rebase onto",
+      "interactive rebase",
+      "rebase a branch",
+      "git rebase"
+    ]
+  },
+  {
+    "word": "Rebase",
+    "meaning": "To move or apply a sequence of code commits to a new base commit in Git version control",
+    "shortMeaning": "update branch base in Git",
+    "example": "You should rebase your feature branch before opening a pull request.",
+    "example2": "Running a git rebase helps keep a clean, linear project history.",
+    "example3": "Be careful when you rebase public branches, as it rewrites commit history.",
+    "Explanation": "The word 'Rebase' is a highly technical term specifically used in Git version control systems. It describes the process of taking all the commits recorded on one branch and reapplying them on top of another branch's latest commit. This effectively rewrites the project history to make it look clean and linear, avoiding unnecessary merge commits. While it is an excellent tool for keeping a tidy development history, it can cause major coordination issues if done on public, shared repository branches. Mastering rebasing is a core skill for professional developers working in teams.",
+    "synonyms": [
+      "rewrite history",
+      "align branch",
+      "N/A"
+    ],
+    "antonyms": [
+      "merge",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "rebase",
+    "verbForm": "rebase",
+    "adjectiveForm": "rebased",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Git version control workflows, code pull requests, team collaborations",
+    "usageTip": "Use 'rebase' when you want to update your local branch with changes from the main branch cleanly.",
+    "commonMistake": "Executing a git rebase on a shared public branch, which can confuse other developers working on the same code.",
+    "collocations": [
+      "git rebase",
+      "rebase an interactive branch",
+      "rebase conflict"
+    ]
+  }
+]

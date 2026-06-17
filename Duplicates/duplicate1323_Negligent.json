@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Negligent",
+    "meaning": "Failing to take proper care in doing something, often with serious consequences; careless in a legal or formal sense",
+    "shortMeaning": "careless to a culpable degree",
+    "example": "The doctor was found negligent for not following procedure.",
+    "example2": "Negligent driving causes many accidents.",
+    "example3": "The landlord was negligent in repairing the faulty wiring.",
+    "Explanation": "'Negligent' is a strong adjective, often used in legal, professional, or official contexts. It implies a breach of duty or standard of care that could lead to harm, damage, or liability. It is more formal and serious than 'careless' or 'neglectful'. It is a key term in tort law (negligence). The noun form is 'negligence'. Be careful to distinguish it from 'neglectful', which is more general and less tied to legal liability.",
+    "synonyms": [
+      "careless",
+      "derelict",
+      "remiss"
+    ],
+    "antonyms": [
+      "careful",
+      "diligent",
+      "conscientious"
+    ],
+    "nounForm": "negligence",
+    "verbForm": "N/A",
+    "adjectiveForm": "negligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, medicine, professional conduct, safety",
+    "usageTip": "Use in situations where a failure to meet a standard has or could have serious results.",
+    "commonMistake": "Using it interchangeably with 'ignorant'. Negligence involves a failure to act, not a lack of knowledge.",
+    "collocations": [
+      "grossly negligent",
+      "negligent homicide",
+      "legally negligent"
+    ]
+  },
+  {
+    "word": "Negligent",
+    "meaning": "Failing to take proper care in doing something",
+    "shortMeaning": "failing to care",
+    "example": "The company was found negligent regarding data protection.",
+    "example2": "His negligent programming led to a critical bug.",
+    "example3": "Negligent management caused the system outage.",
+    "Explanation": "The word 'negligent' is similar to neglectful but carries a more serious, often legal or ethical implication. It means that someone has failed to exercise the level of care that a reasonable person would have in the same situation. In IT, 'negligence' refers to failing to follow standard security practices, leading to data breaches or system failures. It is a formal term used to hold people accountable for harmful outcomes caused by their inaction or carelessness.",
+    "synonyms": [
+      "careless",
+      "irresponsible",
+      "lax"
+    ],
+    "antonyms": [
+      "careful",
+      "responsible",
+      "diligent"
+    ],
+    "nounForm": "negligence",
+    "verbForm": "neglect",
+    "adjectiveForm": "negligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legal, security, professional responsibility",
+    "usageTip": "Use when there are serious consequences due to a lack of care.",
+    "commonMistake": "Confusing 'negligent' with 'accident', where there was no failure of duty.",
+    "collocations": [
+      "negligent behavior",
+      "gross negligence",
+      "negligent handling"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Enclose",
+    "meaning": "To surround or close off on all sides; to include with a letter or package.",
+    "shortMeaning": "surround; include with",
+    "example": "The garden is enclosed by a high fence.",
+    "example2": "I enclose my resume with this application.",
+    "example3": "Please find enclosed the documents you requested.",
+    "Explanation": "'Enclose' is a verb meaning to surround completely or to include something with a letter or package. Physical enclosing creates a bounded space (enclosed yard). Documentary enclosing means putting additional items in an envelope (enclose a check). The past participle 'enclosed' is common in business correspondence ('Please find enclosed...'). The noun is 'enclosure'. It implies creating boundaries or including supplementary material. It's used in real estate (enclosed porch), correspondence, packaging, and any situation where things are surrounded or included.",
+    "synonyms": [
+      "surround",
+      "encircle",
+      "include",
+      "contain"
+    ],
+    "antonyms": [
+      "exclude",
+      "open up",
+      "release",
+      "extract"
+    ],
+    "nounForm": "enclosure",
+    "verbForm": "enclose",
+    "adjectiveForm": "enclosed",
+    "partOfSpeech": "verb",
+    "commonContext": "Property, correspondence, packaging, spaces",
+    "usageTip": "In letters: 'Enclosed please find...' or 'I enclose...'. For spaces: 'a fully enclosed patio'.",
+    "commonMistake": "Confusing with 'disclose' which means reveal. Enclose means surround or include; disclose means make known.",
+    "collocations": [
+      "enclose with",
+      "enclose a copy",
+      "enclose herewith"
+    ]
+  },
+  {
+    "word": "Enclose",
+    "meaning": "To surround something on all sides, or to put something inside an envelope or package",
+    "shortMeaning": "surround or include",
+    "example": "Please enclose a copy of your ID with your job application.",
+    "example2": "The yard is enclosed by a tall wooden fence for privacy.",
+    "example3": "The developer decided to enclose the code in a 'try-catch' block to handle errors.",
+    "Explanation": "The word 'enclose' means to put a boundary around something. In physical mail, you 'enclose' a document inside the envelope. In programming, you 'enclose' a section of code within brackets `{}` or parentheses `()`. It implies that the thing inside is now protected or separated from the outside. For a web developer, you might enclose an image within a `<div>` tag to control its layout. It is a common word in both physical shipping and logical organization. It creates a clear 'inside' and 'outside' for whatever is being discussed.",
+    "synonyms": [
+      "surround",
+      "include",
+      "wrap"
+    ],
+    "antonyms": [
+      "open",
+      "exclude",
+      "release"
+    ],
+    "nounForm": "enclosure",
+    "verbForm": "enclose",
+    "adjectiveForm": "enclosed",
+    "partOfSpeech": "verb",
+    "commonContext": "Mailing, construction, and coding structures",
+    "usageTip": "Use 'enclose' when you are telling someone you have attached a file or placed code inside a block.",
+    "commonMistake": "Confusing 'enclose' with 'inclose'; 'enclose' is the much more common spelling today.",
+    "collocations": [
+      "enclose a document",
+      "fully enclosed",
+      "enclose in brackets"
+    ]
+  }
+]

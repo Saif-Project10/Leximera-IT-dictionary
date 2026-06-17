@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Improper",
+    "meaning": "Not in accordance with accepted standards, especially of morality or decency; unsuitable",
+    "shortMeaning": "not proper, unsuitable",
+    "example": "It would be improper to discuss private matters here.",
+    "example2": "The machine broke down due to improper use.",
+    "example3": "He was accused of improper conduct.",
+    "Explanation": "'Improper' is a negative adjective meaning incorrect, inappropriate, or not conforming to rules, standards, or social norms. It can refer to behavior (improper language), use (improper installation), or methods (improper procedure). This word is often used in formal critiques, warnings, and disciplinary contexts. The noun is 'impropriety'. It is the opposite of 'proper' or 'appropriate'. Something improper is often seen as offensive, unethical, or simply wrong. It's a word that upholds standards of correctness and decency.",
+    "synonyms": [
+      "inappropriate",
+      "unseemly",
+      "incorrect",
+      "unacceptable",
+      "unethical"
+    ],
+    "antonyms": [
+      "proper",
+      "appropriate",
+      "correct",
+      "suitable"
+    ],
+    "nounForm": "impropriety",
+    "verbForm": "N/A",
+    "adjectiveForm": "improper",
+    "partOfSpeech": "adjective",
+    "commonContext": "Behavior, usage, procedures, ethics",
+    "usageTip": "Use 'improper' to describe actions, uses, or behaviors that are not correct according to rules, morals, or customs.",
+    "commonMistake": "Confusing 'improper' with 'unproper'. 'Improper' is the standard word; 'unproper' is very rare.",
+    "collocations": [
+      "improper use",
+      "improper behavior",
+      "highly improper"
+    ]
+  },
+  {
+    "word": "Improper",
+    "meaning": "Not correct or not following the rules",
+    "shortMeaning": "incorrect",
+    "example": "Improper handling of user data is a security risk.",
+    "example2": "He used an improper command for this system.",
+    "example3": "The error was caused by improper file configuration.",
+    "Explanation": "The word 'improper' means that something is done incorrectly or in violation of established rules, standards, or best practices. In software, 'improper' usage of a library or API can lead to crashes, security vulnerabilities, or poor performance. It implies a failure to follow the right process. Always check documentation to ensure you are not using an 'improper' method. It is a polite way to tell someone they are doing something the wrong way.",
+    "synonyms": [
+      "incorrect",
+      "wrong",
+      "invalid"
+    ],
+    "antonyms": [
+      "proper",
+      "correct",
+      "valid"
+    ],
+    "nounForm": "impropriety",
+    "verbForm": "N/A",
+    "adjectiveForm": "improper",
+    "partOfSpeech": "adjective",
+    "commonContext": "Rules, standards, debugging",
+    "usageTip": "Use 'improper' for actions that do not follow the rules.",
+    "commonMistake": "Using 'improper' too harshly when a simple 'wrong' would do.",
+    "collocations": [
+      "improper usage",
+      "improper configuration",
+      "improper handling"
+    ]
+  }
+]

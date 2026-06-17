@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Old",
+    "meaning": "Having lived or existed for a long time; not new or young",
+    "shortMeaning": "not new; aged",
+    "example": "That is a very old tree.",
+    "example2": "My old shoes are comfortable.",
+    "example3": "He is old enough to drive.",
+    "Explanation": "'Old' is a basic adjective describing age. It can refer to people, animals, objects, or ideas. It is the opposite of 'new' or 'young'. Comparative and superlative forms are 'older' and 'oldest' (or 'elder', 'eldest' for family). It is used in countless expressions ('good old days', 'old friend'). While simple, its meaning can be relative (an old computer might be 5 years, an old building 500 years). It's a fundamental descriptive word.",
+    "synonyms": [
+      "aged",
+      "elderly",
+      "ancient",
+      "used"
+    ],
+    "antonyms": [
+      "new",
+      "young",
+      "modern",
+      "fresh"
+    ],
+    "nounForm": "old age",
+    "verbForm": "N/A",
+    "adjectiveForm": "old",
+    "partOfSpeech": "adjective",
+    "commonContext": "Age, history, objects, relationships",
+    "usageTip": "Use 'old' to describe the age of people, things, or ideas. Be mindful, as it can be impolite when referring to people directly.",
+    "commonMistake": "Using 'older' when comparing two things but using 'than' incorrectly (e.g., 'older then me' instead of 'older than me').",
+    "collocations": [
+      "old friend",
+      "old days",
+      "old-fashioned",
+      "grow old"
+    ]
+  },
+  {
+    "word": "Old",
+    "meaning": "Having been in existence for a long time",
+    "shortMeaning": "aged",
+    "example": "This old code needs a complete rewrite.",
+    "example2": "We found an old hard drive in the storage room.",
+    "example3": "He is using an old version of the software.",
+    "Explanation": "The word 'old' is general and refers to something that has been around for a long time. In IT, 'old' often carries a negative connotation, implying that the item is outdated, inefficient, or potentially insecure compared to modern standards. It is often used to describe legacy systems or hardware that has outlived its useful lifespan. While simple, it is a very common way to describe technical debt or hardware that needs to be decommissioned.",
+    "synonyms": [
+      "aged",
+      "ancient",
+      "outdated"
+    ],
+    "antonyms": [
+      "new",
+      "modern",
+      "recent"
+    ],
+    "nounForm": "age",
+    "verbForm": "N/A",
+    "adjectiveForm": "old",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legacy systems and hardware",
+    "usageTip": "Use 'old' for things that are aged or outdated.",
+    "commonMistake": "Using 'old' instead of more specific terms like 'deprecated'.",
+    "collocations": [
+      "old code",
+      "old hardware"
+    ]
+  }
+]

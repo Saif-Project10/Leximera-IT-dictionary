@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Duplicate",
+    "meaning": "Exactly like something else, often a copy",
+    "shortMeaning": "an exact copy",
+    "example": "He made a duplicate of the important file.",
+    "example2": "Do not duplicate the effort by working on the same thing.",
+    "example3": "The key is a duplicate of the original.",
+    "Explanation": "A duplicate is an identical copy of an original object, file, or document. It is used when you need a backup or a twin for some reason. The verb 'to duplicate' means to make a copy or to repeat an action. Be careful not to create unnecessary duplicates, as they can clutter your computer or workspace. It is a common noun and verb in technical and daily life.",
+    "synonyms": [
+      "copy",
+      "replica",
+      "clone"
+    ],
+    "antonyms": [
+      "original",
+      "unique"
+    ],
+    "nounForm": "duplicate",
+    "verbForm": "duplicate",
+    "adjectiveForm": "duplicate",
+    "partOfSpeech": "noun/verb/adjective",
+    "commonContext": "Files, documents, daily items",
+    "usageTip": "Use 'duplicate' when you need an identical item or copy.",
+    "commonMistake": "Confusing a 'duplicate' with an 'original'.",
+    "collocations": [
+      "duplicate file",
+      "duplicate entry",
+      "make a duplicate"
+    ]
+  },
+  {
+    "word": "Duplicate",
+    "meaning": "To make an exact copy of something",
+    "shortMeaning": "copy exactly",
+    "example": "Please duplicate this key so my sister can have one.",
+    "example2": "We must not duplicate the work that the other team has already finished.",
+    "example3": "The software found a duplicate file on the hard drive.",
+    "Explanation": "To duplicate means to create a second version that is exactly the same as the first. This can apply to physical objects (like keys or documents) or digital files. In software development, 'duplicate code' is generally avoided because it makes the project harder to maintain. It is also used as a noun to describe the copy itself. The word implies a 1:1 match. It is a common word in office work, data management, and daily life. Avoid creating duplicates if you want to keep your data clean.",
+    "synonyms": [
+      "copy",
+      "replicate",
+      "clone",
+      "repeat"
+    ],
+    "antonyms": [
+      "original",
+      "unique",
+      "singular",
+      "delete"
+    ],
+    "nounForm": "duplicate / duplication",
+    "verbForm": "duplicate",
+    "adjectiveForm": "duplicate",
+    "partOfSpeech": "verb / noun / adjective",
+    "commonContext": "Data entry, office work, and daily tasks",
+    "usageTip": "Use 'duplicate' when the goal is to have two identical things.",
+    "commonMistake": "Spelling it as 'duplicat'; don't forget the 'e' at the end.",
+    "collocations": [
+      "duplicate file",
+      "duplicate entry",
+      "duplicate key"
+    ]
+  }
+]

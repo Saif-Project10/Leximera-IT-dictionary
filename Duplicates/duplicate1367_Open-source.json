@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Open-source",
+    "meaning": "Denoting software for which the original source code is made freely available and may be redistributed and modified.",
+    "shortMeaning": "publicly available source code",
+    "example": "Linux is a famous open-source operating system.",
+    "example2": "The developer community contributes to many open-source projects.",
+    "example3": "We prefer using open-source tools for our research.",
+    "Explanation": "'Open-source' is an adjective primarily used in computing. It describes a philosophy and practice where software's source code is openly shared, allowing anyone to inspect, modify, and enhance it. This promotes collaboration and transparency. The term is often associated with communities of developers working together. It contrasts with 'proprietary' or 'closed-source' software. The concept has also been applied to other fields like hardware ('open-source hardware'). The term is hyphenated, especially when used before a noun.",
+    "synonyms": [
+      "public-domain (similar)",
+      "community-driven"
+    ],
+    "antonyms": [
+      "proprietary",
+      "closed-source",
+      "commercial"
+    ],
+    "nounForm": "open source (as a concept)",
+    "verbForm": "N/A",
+    "adjectiveForm": "open-source",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, technology, programming",
+    "usageTip": "The hyphen is important when it modifies a noun: 'open-source software'. As a concept, it can be written as 'open source'.",
+    "commonMistake": "Thinking 'free' software is always free of cost; 'open-source' focuses on access to code, not price.",
+    "collocations": [
+      "open-source software",
+      "open-source project",
+      "open-source license",
+      "open-source community"
+    ]
+  },
+  {
+    "word": "Open-source",
+    "meaning": "Software where the source code is made available for anyone to inspect, modify, and enhance.",
+    "shortMeaning": "publicly available code",
+    "example": "Linux is the most famous example of open-source software.",
+    "example2": "We chose an open-source database to save on licensing costs.",
+    "example3": "Contributing to open-source projects is a great way to learn.",
+    "Explanation": "Open-source software (OSS) allows users to view how the program works internally. This transparency helps in finding bugs, improving security, and adding features through community collaboration. It is a cornerstone of modern internet infrastructure. Many companies build their products on top of open-source frameworks to accelerate development. It is different from freeware, as the focus is on the accessibility of the code itself.",
+    "synonyms": [
+      "free and open-source software (FOSS)",
+      "community-developed"
+    ],
+    "antonyms": [
+      "closed-source",
+      "proprietary"
+    ],
+    "nounForm": "open-source",
+    "verbForm": "N/A",
+    "adjectiveForm": "open-source",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software engineering, technology",
+    "usageTip": "Always verify the license of an open-source project before using it.",
+    "commonMistake": "Believing that open-source software is always completely free of cost.",
+    "collocations": [
+      "open-source project",
+      "open-source code",
+      "open-source community"
+    ]
+  },
+  {
+    "word": "Open-source",
+    "meaning": "Software whose original source code is made freely available and may be redistributed and modified",
+    "shortMeaning": "free, public code",
+    "example": "Linux is one of the most famous examples of open-source software.",
+    "example2": "The developer decided to make his project open-source on GitHub.",
+    "example3": "Open-source projects rely on community contributions to improve.",
+    "Explanation": "Open-source refers to a philosophy of sharing software code. Unlike 'closed-source' (like Windows or Photoshop), anyone can see, change, and share the code of open-source software. This encourages collaboration, transparency, and rapid innovation. It is widely used in web development, with languages like Python and tools like VS Code being largely open-source. It helps developers learn from others' work.",
+    "synonyms": [
+      "public domain",
+      "free software",
+      "FLOSS"
+    ],
+    "antonyms": [
+      "closed-source",
+      "proprietary",
+      "private"
+    ],
+    "nounForm": "open source",
+    "verbForm": "N/A",
+    "adjectiveForm": "open-source",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, licensing, and IT community",
+    "usageTip": "Use 'open-source' to describe software that anyone can inspect or modify.",
+    "commonMistake": "Thinking 'open-source' always means 'completely free of cost' for businesses.",
+    "collocations": [
+      "open-source community",
+      "open-source license",
+      "open-source contribution"
+    ]
+  }
+]

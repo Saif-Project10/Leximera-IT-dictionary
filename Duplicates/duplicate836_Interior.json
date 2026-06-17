@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Interior",
+    "meaning": "The inner part or inside of something.",
+    "shortMeaning": "inside",
+    "example": "The interior of the house was beautifully decorated.",
+    "example2": "He specializes in interior design.",
+    "example3": "The car's interior is very spacious.",
+    "Explanation": "Interior refers to the internal space or region of an object, building, vehicle, or country. It contrasts with 'exterior'. As an adjective, it describes things inside (interior door, interior monologue). 'Interior design' is the art of decorating indoor spaces. Geographically, the interior of a country is land away from the coast or borders. The word conveys a sense of inner space, privacy, and contained environment. It's a common term in architecture, real estate, automotive, and geography. Understanding the interior is key to functionality and aesthetics.",
+    "synonyms": [
+      "inside",
+      "inner",
+      "internal",
+      "core",
+      "inland"
+    ],
+    "antonyms": [
+      "exterior",
+      "outside",
+      "outer",
+      "surface"
+    ],
+    "nounForm": "interior",
+    "verbForm": "N/A",
+    "adjectiveForm": "interior",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Buildings, design, geography, vehicles, thoughts",
+    "usageTip": "As an adjective, it always comes before the noun (interior space, interior ministry).",
+    "commonMistake": "Confusing 'interior' with 'inferior'. Interior means inside; inferior means lower in quality.",
+    "collocations": [
+      "interior design",
+      "car interior",
+      "Minister of the Interior",
+      "interior monologue"
+    ]
+  },
+  {
+    "word": "Interior",
+    "meaning": "The inner part or inside of something",
+    "shortMeaning": "Inside",
+    "example": "The interior of the server casing needs cleaning.",
+    "example2": "Check the interior settings of the application.",
+    "example3": "He accessed the interior dashboard of the machine.",
+    "Explanation": "The word 'interior' refers to the inside space or the inner workings of a physical device or a complex software structure. It is an adjective or noun. In physical IT, it relates to the components inside a PC. In software, it can figuratively refer to 'interior logic' or the hidden inner workings of a black-box system. It is a standard term for positioning and physical inspection.",
+    "synonyms": [
+      "inner",
+      "internal",
+      "inside"
+    ],
+    "antonyms": [
+      "exterior",
+      "outer",
+      "outside"
+    ],
+    "nounForm": "interior",
+    "verbForm": "N/A",
+    "adjectiveForm": "interior",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Hardware, physical setup",
+    "usageTip": "Use to talk about the inside of hardware.",
+    "commonMistake": "Confusing 'interior' with 'internal'.",
+    "collocations": [
+      "interior casing",
+      "clean the interior",
+      "interior component"
+    ]
+  }
+]

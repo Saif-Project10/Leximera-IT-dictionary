@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Fitting",
+    "meaning": "1. Suitable or appropriate. 2. A small part or accessory. 3. The act of trying on clothes for adjustment.",
+    "shortMeaning": "appropriate; a small part",
+    "example": "It is fitting that we celebrate today.",
+    "example2": "The plumber replaced the brass fittings.",
+    "example3": "She has a dress fitting tomorrow.",
+    "Explanation": "'Fitting' is a versatile word. As an adjective, it means 'appropriate' and is often used in formal contexts. As a noun, it has two main meanings: a small part in machinery or plumbing, or an appointment to try on clothes. The verb form is 'fit'. The adjective use is common in speeches and writing to express that something is proper or deserved.",
+    "synonyms": [
+      "appropriate",
+      "suitable",
+      "proper",
+      "apt"
+    ],
+    "antonyms": [
+      "inappropriate",
+      "unsuitable",
+      "unfitting"
+    ],
+    "nounForm": "fitting",
+    "verbForm": "fit",
+    "adjectiveForm": "fitting",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Formal occasions, plumbing, clothing, ceremonies",
+    "usageTip": "As an adjective, use 'fitting' to say something is right or appropriate for the situation.",
+    "commonMistake": "Confusing the noun meaning (a small part) with the verb 'fitting' (trying on clothes).",
+    "collocations": [
+      "fitting tribute",
+      "light fittings",
+      "pipe fittings",
+      "be fitting"
+    ]
+  },
+  {
+    "word": "Fitting",
+    "meaning": "The act of adjusting something to fit; also an accessory or piece",
+    "shortMeaning": "Adjustment or accessory",
+    "example": "The fitting of the new components took all day.",
+    "example2": "We found a standard pipe fitting for the cooling system.",
+    "example3": "He is working on fitting the model to the training data.",
+    "Explanation": "The word 'fitting' has two uses: it refers to the process of adjusting or installing parts, or it refers to a small part itself. In IT, it is often used in machine learning (e.g., 'model fitting') where a model is adjusted to represent data accurately. It is also used in physical infrastructure (like data centers) for cable or pipe accessories. Ensure the context defines whether it is an action or an object.",
+    "synonyms": [
+      "adjustment",
+      "installation",
+      "part"
+    ],
+    "antonyms": [
+      "mismatch",
+      "detachment"
+    ],
+    "nounForm": "fitting",
+    "verbForm": "fit",
+    "adjectiveForm": "fitting",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Machine learning and infrastructure installation",
+    "usageTip": "Use 'fitting' to describe the action of fine-tuning or a small piece.",
+    "commonMistake": "Confusing 'fitting' with 'suitability' in non-technical contexts.",
+    "collocations": [
+      "model fitting",
+      "pipe fitting",
+      "proper fitting"
+    ]
+  }
+]

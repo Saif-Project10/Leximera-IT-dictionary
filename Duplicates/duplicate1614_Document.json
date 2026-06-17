@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Document",
+    "meaning": "A piece of written, printed, or electronic matter that provides information or evidence",
+    "shortMeaning": "information record",
+    "example": "Please save the document as a PDF before sending it.",
+    "example2": "The historic document was kept in a temperature-controlled room.",
+    "example3": "You need to document every step of the experiment.",
+    "Explanation": "A document is any unit of recorded information. Historically, this meant paper, but in the modern age, most documents are digital files like .docx, .pdf, or .txt. Documents serve many purposes: they can be legal (contracts), educational (textbooks), or personal (diaries). As a verb, 'to document' means to record events or instructions as they happen. In the IT world, documentation is the written explanation of how a software or system works. Good documentation is vital for teamwork and long-term project maintenance. It provides a 'paper trail' for accountability and future reference. A document can contain text, images, and links.",
+    "synonyms": [
+      "record",
+      "file",
+      "paper",
+      "report"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "document / documentation",
+    "verbForm": "document",
+    "adjectiveForm": "documentary",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Office work, law, and software development",
+    "usageTip": "Use 'document' as a verb when you want someone to write down what they are doing.",
+    "commonMistake": "Thinking a 'document' must be physical; digital files are just as much documents.",
+    "collocations": [
+      "legal document",
+      "signed document",
+      "electronic document"
+    ]
+  },
+  {
+    "word": "Document",
+    "meaning": "To record information in written or digital form for future use",
+    "shortMeaning": "record information",
+    "example": "Please document the steps you took to fix the bug.",
+    "example2": "It is important to document every meeting so everyone stays on the same page.",
+    "example3": "The lawyer asked her to document all the changes made to the contract.",
+    "Explanation": "To document something means to create a permanent record of it. This can be as simple as writing notes in a notebook or as complex as maintaining a digital database. In any professional setting, documentation ensures that knowledge is not lost when people leave. It provides a history of events and helps others understand why certain decisions were made. Good documentation should be clear, organized, and easy for others to search through.",
+    "synonyms": [
+      "record",
+      "register",
+      "log"
+    ],
+    "antonyms": [
+      "ignore",
+      "forget",
+      "erase"
+    ],
+    "nounForm": "documentation",
+    "verbForm": "document",
+    "adjectiveForm": "documented",
+    "partOfSpeech": "verb",
+    "commonContext": "Business, legal, and general administration",
+    "usageTip": "Document your progress daily to make reporting much easier at the end of the week.",
+    "commonMistake": "Confusing 'a document' (the noun) with 'to document' (the action).",
+    "collocations": [
+      "properly document",
+      "document the process",
+      "well-documented"
+    ]
+  }
+]

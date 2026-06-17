@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Misinterpret",
+    "meaning": "To understand or explain something wrongly.",
+    "shortMeaning": "understand incorrectly",
+    "example": "Don't misinterpret my silence as agreement.",
+    "example2": "The data can be easily misinterpreted without context.",
+    "example3": "I think you misinterpreted what she said.",
+    "Explanation": "The verb 'misinterpret' means to form a wrong understanding of the meaning of something said, written, or done. It is a common source of communication breakdowns and conflicts. The noun form is 'misinterpretation'. The prefix 'mis-' means 'wrongly'. To avoid misinterpretation, it's important to provide clear context and ask clarifying questions. The word is frequently used in discussions about law, art, relationships, and data analysis where correct interpretation is crucial.",
+    "synonyms": [
+      "misunderstand",
+      "misconstrue",
+      "misread",
+      "mistake"
+    ],
+    "antonyms": [
+      "understand",
+      "interpret correctly",
+      "comprehend"
+    ],
+    "nounForm": "misinterpretation",
+    "verbForm": "misinterpret",
+    "adjectiveForm": "misinterpreted",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, law, art, signals",
+    "usageTip": "Use 'misinterpret' when someone has taken the wrong meaning from words, actions, or data.",
+    "commonMistake": "Confusing 'misinterpret' with 'misrepresent' (to give a false account of). You can misinterpret something honestly; misrepresenting is often deliberate.",
+    "collocations": [
+      "easily misinterpret",
+      "misinterpret the meaning",
+      "misinterpret as",
+      "risk of misinterpretation"
+    ]
+  },
+  {
+    "word": "Misinterpret",
+    "meaning": "To understand something in the wrong way",
+    "shortMeaning": "understand wrongly",
+    "example": "The compiler might misinterpret the code if you miss a semicolon.",
+    "example2": "It is easy to misinterpret a short email as being rude.",
+    "example3": "Analysts sometimes misinterpret data and reach the wrong conclusion.",
+    "Explanation": "Misinterpretation happens when the 'meaning' of something is lost. In IT, a computer program might misinterpret user input if it isn't 'sanitized' or checked correctly. For example, if a user enters a date as '01/02', a system in the US would see it as January 2nd, while a system in Pakistan would see it as February 1st. This is a classic example of misinterpreting data due to different formats. In human communication, misinterpreting a client's requirements can lead to building a website that they don't actually want.",
+    "synonyms": [
+      "misunderstand",
+      "misread",
+      "miscontrue"
+    ],
+    "antonyms": [
+      "interpret correctly",
+      "understand",
+      "grasp"
+    ],
+    "nounForm": "misinterpretation",
+    "verbForm": "misinterpret",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, data analysis, programming logic",
+    "usageTip": "Use 'misinterpret' when the person or machine gets the wrong 'meaning' from something.",
+    "commonMistake": "Confusing 'misinterpret' with 'mishear'; mishear is for sound, misinterpret is for meaning.",
+    "collocations": [
+      "misinterpret data",
+      "misinterpret a message",
+      "easy to misinterpret"
+    ]
+  }
+]

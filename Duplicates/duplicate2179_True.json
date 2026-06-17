@@ -1,0 +1,64 @@
+[
+  {
+    "word": "True",
+    "meaning": "In logic and programming, a value representing a state of existence or correctness.",
+    "shortMeaning": "correct or valid",
+    "example": "The boolean variable is set to true.",
+    "example2": "If the condition is true, execute the code block.",
+    "example3": "Check if the statement holds true in all cases.",
+    "Explanation": "The word 'true' is a fundamental concept in computer science, specifically in boolean logic. It represents the value '1' or the positive state of a logical expression. It is the opposite of 'false'. In programming, 'true' dictates the flow of control within 'if' statements and loops. The noun form is 'truth' and the verb form is 'verify' or 'prove'. It is essential for writing conditional logic that controls how software behaves.",
+    "synonyms": [
+      "correct",
+      "valid",
+      "accurate"
+    ],
+    "antonyms": [
+      "false",
+      "incorrect",
+      "invalid"
+    ],
+    "nounForm": "truth",
+    "verbForm": "N/A",
+    "adjectiveForm": "true",
+    "partOfSpeech": "adjective / boolean value",
+    "commonContext": "Programming, logic, and data validation",
+    "usageTip": "Use 'true' as a boolean constant to indicate a condition is met.",
+    "commonMistake": "Confusing 'true' with 'truthy' in languages that allow loose typing.",
+    "collocations": [
+      "true value",
+      "return true",
+      "holds true"
+    ]
+  },
+  {
+    "word": "True",
+    "meaning": "A value representing a positive condition in logic",
+    "shortMeaning": "valid condition",
+    "example": "The condition returned true.",
+    "example2": "If the value is true, execute the code.",
+    "example3": "He set the flag to true.",
+    "Explanation": "True is a fundamental boolean value in programming. It signifies that a condition is met or that a statement is correct. It is the opposite of 'false'. Every programming language uses true and false to control flow through 'if' statements. Understanding how your language evaluates truth is essential for writing logic. It is the core building block of all computer decision-making.",
+    "synonyms": [
+      "correct",
+      "valid",
+      "on"
+    ],
+    "antonyms": [
+      "false",
+      "incorrect",
+      "off"
+    ],
+    "nounForm": "truth",
+    "verbForm": "N/A",
+    "adjectiveForm": "true",
+    "partOfSpeech": "adjective / boolean",
+    "commonContext": "Programming, logic, boolean algebra",
+    "usageTip": "Use 'true' as a boolean value in your code logic.",
+    "commonMistake": "Using 'true' as a string instead of a boolean value.",
+    "collocations": [
+      "set to true",
+      "return true",
+      "evaluate to true"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Prudent",
+    "meaning": "Acting with or showing care and thought for the future",
+    "shortMeaning": "wise and careful",
+    "example": "It would be prudent to save some money for emergencies.",
+    "example2": "He made a prudent investment.",
+    "example3": "Prudent management avoided a crisis.",
+    "Explanation": "'Prudent' is an adjective describing sensible, cautious, and wise judgment, especially in practical matters like finance or planning. It implies foresight and the avoidance of unnecessary risk. It is a positive trait in leaders, investors, and decision-makers. The noun is 'prudence'. It is more formal than 'careful' and carries a stronger sense of long-term wisdom. It is about making choices that are not just safe now but beneficial in the future. It is the opposite of reckless.",
+    "synonyms": [
+      "wise",
+      "judicious",
+      "sensible"
+    ],
+    "antonyms": [
+      "imprudent",
+      "reckless",
+      "foolish"
+    ],
+    "nounForm": "prudence",
+    "verbForm": "N/A",
+    "adjectiveForm": "prudent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Finance, management, personal advice, law (prudent man rule)",
+    "usageTip": "Often used in recommendations or advice (It is prudent to...).",
+    "commonMistake": "Confusing it with 'shy' or 'cowardly'. Prudence is about smart caution, not fear.",
+    "collocations": [
+      "prudent course of action",
+      "financially prudent",
+      "prudent measure"
+    ]
+  },
+  {
+    "word": "Prudent",
+    "meaning": "Showing good judgment, especially in avoiding risk",
+    "shortMeaning": "careful/wise",
+    "example": "It is prudent to back up the database before running the update.",
+    "example2": "His prudent approach saved the team from a major outage.",
+    "example3": "We took a prudent decision to delay the release until bugs were fixed.",
+    "Explanation": "The word 'prudent' describes an action or a decision that is careful, sensible, and focused on avoiding unnecessary risk. In IT, 'prudent' decisions are those that prioritize stability, security, and long-term maintainability over quick-and-dirty fixes. It is a highly respected quality in architects and senior engineers, who often have to balance the urge to move fast with the need to protect the system. Choosing the prudent path often involves planning for 'what-ifs'.",
+    "synonyms": [
+      "careful",
+      "sensible",
+      "wise"
+    ],
+    "antonyms": [
+      "reckless",
+      "impulsive",
+      "risky"
+    ],
+    "nounForm": "prudence",
+    "verbForm": "N/A",
+    "adjectiveForm": "prudent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, risk assessment",
+    "usageTip": "Use 'prudent' to justify a slow-but-safe decision in team meetings.",
+    "commonMistake": "Confusing 'prudent' with 'fearful'; prudent is calculated, not based on fear.",
+    "collocations": [
+      "prudent decision",
+      "prudent approach",
+      "take a prudent step"
+    ]
+  }
+]

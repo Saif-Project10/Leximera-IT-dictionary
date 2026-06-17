@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Perceive",
+    "meaning": "To become aware of something through the senses; to see, hear, or notice. Also, to understand or interpret something in a particular way. | To become aware of or understand something through the senses, especially sight, or through the mind.",
+    "shortMeaning": "see or understand",
+    "example": "I perceived a slight change in his attitude.",
+    "example2": "How the public perceives the company is very important.",
+    "example3": "Dogs can perceive sounds that humans cannot.",
+    "Explanation": "'Perceive' is a formal verb related to recognizing or interpreting information. The first meaning is about using your senses (sight, hearing, etc.) to detect something. The second, more common meaning in abstract contexts, is about forming an opinion or interpretation. For example, people might perceive a comment as rude, even if it wasn't intended that way. Perception is subjective and varies from person to person.",
+    "synonyms": [
+      "Detect",
+      "Discern",
+      "Interpret",
+      "Notice",
+      "See",
+      "Understand",
+      "View"
+    ],
+    "antonyms": [
+      "Ignore",
+      "Miss",
+      "Misunderstand",
+      "Overlook"
+    ],
+    "nounForm": "perception",
+    "verbForm": "perceive",
+    "adjectiveForm": "perceptible",
+    "partOfSpeech": "verb",
+    "commonContext": "Psychology, communication, marketing, personal interpretation",
+    "usageTip": "Use 'perceive' for how someone understands or interprets a situation, which may not be the objective truth.",
+    "commonMistake": "Confusing 'perceive' (to interpret) with 'conceive' (to imagine or form an idea).",
+    "collocations": [
+      "perceive as",
+      "generally perceive",
+      "difficult to perceive"
+    ]
+  },
+  {
+    "word": "Perceive",
+    "meaning": "To notice or understand something using your senses or your mind",
+    "shortMeaning": "notice or realize",
+    "example": "He could perceive a slight change in the temperature of the room.",
+    "example2": "It is hard for users to perceive small differences in image quality.",
+    "example3": "We perceive the world differently based on our experiences.",
+    "Explanation": "Perceive is a formal word for 'notice' or 'see'. It can refer to physical senses, like hearing a sound, or mental awareness, like understanding someone's mood. In technology, it is often used in UI/UX to discuss how users see and interact with a screen. If an interface is well-designed, users will perceive it as simple. In AI, 'perception' is the ability of a machine to interpret data from sensors (like cameras). It implies a deeper level of recognition than just 'seeing'.",
+    "synonyms": [
+      "notice",
+      "detect",
+      "observe"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "miss"
+    ],
+    "nounForm": "perception",
+    "verbForm": "perceive",
+    "adjectiveForm": "perceptible",
+    "partOfSpeech": "verb",
+    "commonContext": "Psychology, UX design, and daily life",
+    "usageTip": "Use 'perceive' when someone is interpreting information rather than just seeing it.",
+    "commonMistake": "Spelling it 'percieve'—remember the rule 'i' before 'e' except after 'c'.",
+    "collocations": [
+      "perceive a difference",
+      "perceive a threat",
+      "as perceived by"
+    ]
+  }
+]

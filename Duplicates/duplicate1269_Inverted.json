@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Inverted",
+    "meaning": "Turned upside down or reversed in position, order, or relationship.",
+    "shortMeaning": "turned upside down; reversed",
+    "example": "The image appeared inverted in the microscope.",
+    "example2": "They used inverted commas to indicate dialogue.",
+    "example3": "An inverted yield curve sometimes predicts a recession.",
+    "Explanation": "'Inverted' is the past participle of 'invert', used as an adjective meaning turned upside down, reversed, or opposite to normal. It describes things that are flipped or reversed in position, order, or nature. Inverted images are upside down. Inverted commas are quotation marks. Inverted pyramids in journalism put the most important information first. Inverted yield curves in finance are when short-term rates exceed long-term rates. The word suggests reversal of normal orientation or order. Inversion can be physical, logical, or symbolic. The noun is 'inversion'. It's a concept in mathematics, music, meteorology, and many fields where reversal occurs.",
+    "synonyms": [
+      "reversed",
+      "upside down",
+      "flipped",
+      "transposed"
+    ],
+    "antonyms": [
+      "upright",
+      "normal",
+      "standard",
+      "correctly oriented"
+    ],
+    "nounForm": "inversion",
+    "verbForm": "invert",
+    "adjectiveForm": "inverted",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Images, punctuation, finance, logic, positions",
+    "usageTip": "Often used before nouns: 'inverted image', 'inverted pyramid', 'inverted yield curve'.",
+    "commonMistake": "Confusing with 'introverted' (shy, inward-focused). They sound similar but are different.",
+    "collocations": [
+      "inverted commas",
+      "inverted image",
+      "inverted pyramid"
+    ]
+  },
+  {
+    "word": "Inverted",
+    "meaning": "Turned upside down or having the opposite position, order, or arrangement",
+    "shortMeaning": "upside down or reversed",
+    "example": "The image appeared inverted on the monitor screen.",
+    "example2": "We used an inverted logic structure to handle the error cases first.",
+    "example3": "The server rack was mounted in an inverted position for easier cable access.",
+    "Explanation": "Inversion means flipping something's orientation or hierarchy. In computer science, this could refer to data structures, logic flow, or even visual display orientation. 'Inverted' describes the state after such an operation has occurred. It is a very common term in logic design where you might flip a boolean value from true to false. Always ensure the context clarifies whether it is a physical inversion or a logical one, as they imply very different technical outcomes.",
+    "synonyms": [
+      "reversed",
+      "flipped",
+      "upside-down"
+    ],
+    "antonyms": [
+      "upright",
+      "normal",
+      "ordered"
+    ],
+    "nounForm": "inversion",
+    "verbForm": "invert",
+    "adjectiveForm": "inverted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data logic, hardware mounting, and image processing",
+    "usageTip": "Use 'inverted' to describe any arrangement that has been swapped or flipped.",
+    "commonMistake": "Confusing 'inverted' with 'mirrored', which flips across an axis rather than just reversing order.",
+    "collocations": [
+      "inverted index",
+      "inverted logic",
+      "inverted color"
+    ]
+  }
+]

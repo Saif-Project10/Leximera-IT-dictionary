@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Subclassed",
+    "meaning": "Derived or inherited from a base class in object-oriented programming.",
+    "shortMeaning": "derived from a class",
+    "example": "The specific user class was subclassed from the base user class.",
+    "example2": "I subclassed the button to add custom features.",
+    "example3": "Each plugin is subclassed from the main abstract class.",
+    "Explanation": "The word 'subclassed' refers to the process of creating a new class (the subclass) that inherits properties and methods from an existing class (the base class). It is a core feature of object-oriented programming, allowing for reusability and structured code growth. Subclassing is useful when you have a general component but need a version of it that does something slightly different.",
+    "synonyms": [
+      "derived",
+      "inherited",
+      "extended"
+    ],
+    "antonyms": [
+      "base class",
+      "parent class"
+    ],
+    "nounForm": "subclass",
+    "verbForm": "subclass",
+    "adjectiveForm": "subclassed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Object-oriented programming",
+    "usageTip": "Use 'subclassed' when describing inheritance in code.",
+    "commonMistake": "Over-subclassing, which can make code too complicated to trace.",
+    "collocations": [
+      "subclassed from",
+      "properly subclassed"
+    ]
+  },
+  {
+    "word": "Subclassed",
+    "meaning": "Inherited from a parent class in object-oriented programming.",
+    "shortMeaning": "inherited",
+    "example": "The User class is subclassed to create Admin objects.",
+    "example2": "We subclassed the main view to add custom features.",
+    "example3": "The error handler is subclassed from the base class.",
+    "Explanation": "In object-oriented programming (OOP), 'subclassed' means creating a new class (the child) that inherits properties and behaviors from an existing class (the parent). This is a core pillar of code reuse. It is the past participle of 'subclass'. When you say a component is 'subclassed', you imply that it shares a common interface but adds its own specialized functionality. This is essential for building scalable, organized software. Always be clear about which parent class is being extended.",
+    "synonyms": [
+      "inherited",
+      "extended",
+      "derived"
+    ],
+    "antonyms": [
+      "parented",
+      "overridden"
+    ],
+    "nounForm": "subclass",
+    "verbForm": "subclass",
+    "adjectiveForm": "subclassed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Object-oriented programming, software architecture",
+    "usageTip": "Use 'subclassed' when describing inheritance in OOP.",
+    "commonMistake": "Confusing 'subclassed' with 'instance' (one is inheritance, one is an object).",
+    "collocations": [
+      "subclassed from",
+      "subclassed object",
+      "custom subclassed"
+    ]
+  }
+]

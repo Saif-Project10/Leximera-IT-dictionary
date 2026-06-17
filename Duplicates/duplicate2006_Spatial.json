@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Spatial",
+    "meaning": "Relating to space or the position, area, and size of things",
+    "shortMeaning": "related to space",
+    "example": "The software analyzes spatial data from satellite maps.",
+    "example2": "Spatial awareness is important in robotics.",
+    "example3": "We need to consider the spatial arrangement of the UI elements.",
+    "Explanation": "The word 'spatial' relates to physical space, distance, or how objects are positioned in relation to one another. It is a critical concept in fields like geography, architecture, graphics, and robotics. Spatial data tells us *where* something is on a map or in a 3D environment. When designing a website or an app, 'spatial design' refers to how elements are placed to look good and be easy to use. Understanding spatial relationships is key to building anything that interacts with the physical world.",
+    "synonyms": [
+      "geometric",
+      "dimensional",
+      "positional"
+    ],
+    "antonyms": [
+      "temporal",
+      "non-spatial"
+    ],
+    "nounForm": "space",
+    "verbForm": "N/A",
+    "adjectiveForm": "spatial",
+    "partOfSpeech": "adjective",
+    "commonContext": "GIS, robotics, design, graphics",
+    "usageTip": "Use 'spatial' whenever you are talking about the location or arrangement of objects.",
+    "commonMistake": "Confusing 'spatial' (space) with 'special' (unique).",
+    "collocations": [
+      "spatial data",
+      "spatial awareness",
+      "spatial arrangement"
+    ]
+  },
+  {
+    "word": "Spatial",
+    "meaning": "Relating to space or the position, size, and shape of things.",
+    "shortMeaning": "space-related",
+    "example": "Spatial data is crucial for GPS and navigation apps.",
+    "example2": "The user interface should follow good spatial logic.",
+    "example3": "We use spatial indexing to speed up searches.",
+    "Explanation": "The word 'spatial' is used when discussing dimensions, physical space, or coordinates. In IT, 'spatial data' (like coordinates, maps, or 3D geometry) requires specific database types (GIS) and processing power. It is also used in VR/AR (Virtual/Augmented Reality) to describe how digital objects relate to the physical room. The noun form is 'space'. It is an essential adjective for developers working on games, maps, or robotics. Always keep 'spatial' in mind when objects have coordinates or need to be located in 3D or 2D space.",
+    "synonyms": [
+      "dimensional",
+      "geographical",
+      "locational"
+    ],
+    "antonyms": [
+      "temporal (time-related)",
+      "non-spatial"
+    ],
+    "nounForm": "space",
+    "verbForm": "N/A",
+    "adjectiveForm": "spatial",
+    "partOfSpeech": "adjective",
+    "commonContext": "VR/AR, GIS, databases, gaming",
+    "usageTip": "Use 'spatial' when referring to positions or coordinates.",
+    "commonMistake": "Confusing 'spatial' with 'special'.",
+    "collocations": [
+      "spatial data",
+      "spatial awareness",
+      "spatial indexing"
+    ]
+  }
+]

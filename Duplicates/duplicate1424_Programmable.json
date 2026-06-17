@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Programmable",
+    "meaning": "Capable of being programmed; able to accept and follow a set of instructions",
+    "shortMeaning": "can be programmed",
+    "example": "A programmable thermostat can save energy.",
+    "example2": "This is a highly programmable robotic arm.",
+    "example3": "The device is not programmable; it only does one task.",
+    "Explanation": "'Programmable' is an adjective common in technology and electronics. It describes a machine, device, or system that can be given a set of instructions (a program) to perform various tasks. This flexibility is what defines modern computers and many smart devices. The opposite is a fixed-function device. The word highlights the key feature of adaptability and customization through software. It's a standard term in product specifications and tech reviews.",
+    "synonyms": [
+      "configurable",
+      "customizable",
+      "scriptable"
+    ],
+    "antonyms": [
+      "fixed",
+      "hard-wired",
+      "non-programmable"
+    ],
+    "nounForm": "programmability",
+    "verbForm": "program",
+    "adjectiveForm": "programmable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, electronics, robotics, home automation",
+    "usageTip": "Often used before nouns like 'controller', 'logic', 'device'.",
+    "commonMistake": "Confusing it with 'programmatic', which relates to following a plan or program in a broader sense.",
+    "collocations": [
+      "programmable calculator",
+      "fully programmable",
+      "programmable settings"
+    ]
+  },
+  {
+    "word": "Programmable",
+    "meaning": "Able to be controlled or instructed by code",
+    "shortMeaning": "customizable by code",
+    "example": "This device has a programmable interface.",
+    "example2": "The lighting system is fully programmable.",
+    "example3": "We use programmable logic controllers for automation.",
+    "Explanation": "The word 'programmable' describes a device or system that can be given instructions or logic to perform tasks. The base verb is 'program'. It means that rather than having a fixed, unchangeable behavior, the system can be updated or configured through code. This flexibility is fundamental to modern computing, robotics, and automation. Being programmable makes systems much more adaptable to changing needs over time. Always check the limitations of the programming environment.",
+    "synonyms": [
+      "customizable",
+      "flexible",
+      "controllable"
+    ],
+    "antonyms": [
+      "fixed",
+      "rigid",
+      "static"
+    ],
+    "nounForm": "programmability",
+    "verbForm": "program",
+    "adjectiveForm": "programmable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, automation, development",
+    "usageTip": "Use when describing systems you can control with code.",
+    "commonMistake": "Confusing 'programmable' with 'configured' (programming is deeper).",
+    "collocations": [
+      "fully programmable",
+      "programmable logic",
+      "programmable device"
+    ]
+  }
+]

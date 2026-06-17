@@ -1,0 +1,125 @@
+[
+  {
+    "word": "Wholesale",
+    "meaning": "Selling goods in large quantities at lower prices to businesses",
+    "shortMeaning": "bulk selling",
+    "example": "They buy their server hardware at wholesale prices.",
+    "example2": "The company operates as a wholesale distributor for software licenses.",
+    "example3": "Wholesale buying can save a business a lot of money.",
+    "Explanation": "Wholesale refers to the business model of selling products in large volumes to retailers or other professional business users rather than individual consumers. This usually results in a significantly lower price per unit. In the IT world, this can apply to bulk cloud storage, software licenses, or hardware components. Wholesale is the middle step in the supply chain between the manufacturer and the final retailer. It requires a different logistical approach than retail, focusing on volume and long-term contracts. It is an essential concept for understanding business-to-business (B2B) commerce.",
+    "synonyms": [
+      "bulk sale",
+      "volume trade",
+      "mass distribution"
+    ],
+    "antonyms": [
+      "retail",
+      "individual sale",
+      "piecework"
+    ],
+    "nounForm": "wholesaler",
+    "verbForm": "wholesale",
+    "adjectiveForm": "wholesale",
+    "partOfSpeech": "noun / adjective / adverb",
+    "commonContext": "Business, commerce, and supply chain",
+    "usageTip": "Use 'wholesale' when talking about buying for a business rather than for personal use.",
+    "commonMistake": "Using 'wholesale' to mean a general discount available to the public.",
+    "collocations": [
+      "wholesale price",
+      "wholesale market",
+      "wholesale supplier"
+    ]
+  },
+  {
+    "word": "Wholesale",
+    "meaning": "Done on a large scale; involving large quantities",
+    "shortMeaning": "large scale",
+    "example": "They made wholesale changes to the API structure.",
+    "example2": "The database migration caused wholesale performance improvements.",
+    "example3": "Wholesale replacements of older hardware were necessary.",
+    "Explanation": "Wholesale in IT describes a massive, large-scale change or action that affects everything at once. It means the change is not done piece-by-piece, but as a total overhaul. This is usually high-risk and requires significant testing. When you hear about wholesale changes, it means the developer or company has decided to rewrite, replace, or reorganize the entire thing in one move. It is a very serious development step.",
+    "synonyms": [
+      "sweeping",
+      "large-scale",
+      "total"
+    ],
+    "antonyms": [
+      "incremental",
+      "minor",
+      "piecemeal"
+    ],
+    "nounForm": "wholesale",
+    "verbForm": "N/A",
+    "adjectiveForm": "wholesale",
+    "partOfSpeech": "adjective",
+    "commonContext": "System overhaul, project management",
+    "usageTip": "Use this for major, sweeping changes.",
+    "commonMistake": "Underestimating the risk involved in wholesale changes.",
+    "collocations": [
+      "wholesale changes",
+      "wholesale replacement",
+      "wholesale upgrade"
+    ]
+  },
+  {
+    "word": "Wholesale",
+    "meaning": "In large quantities or on a large scale",
+    "shortMeaning": "large scale",
+    "example": "They made wholesale changes to the database schema.",
+    "example2": "The company sells hardware at wholesale prices.",
+    "example3": "He was accused of wholesale data harvesting.",
+    "Explanation": "In an IT context, 'wholesale' usually describes something done on a very large or comprehensive scale. It is often used to describe major, sweeping changes made to a system or code base rather than small, incremental updates. It can also refer to bulk pricing for hardware or software licensing. It implies that the action is not limited to a specific part but affects everything. It is important to be careful when making 'wholesale' changes to avoid breaking dependencies.",
+    "synonyms": [
+      "large-scale",
+      "bulk",
+      "extensive"
+    ],
+    "antonyms": [
+      "retail",
+      "small-scale",
+      "piecemeal"
+    ],
+    "nounForm": "wholesale",
+    "verbForm": "wholesale",
+    "adjectiveForm": "wholesale",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "System updates, procurement, data operations",
+    "usageTip": "Use this to describe changes that affect the entire system.",
+    "commonMistake": "Using it to describe single or minor modifications.",
+    "collocations": [
+      "wholesale changes",
+      "wholesale price",
+      "wholesale operation"
+    ]
+  },
+  {
+    "word": "Wholesale",
+    "meaning": "The business practice of selling goods or data assets in massive quantities at lower prices, typically to retail merchants rather than direct consumers",
+    "shortMeaning": "selling goods in large quantities",
+    "example": "The e-commerce layout website needs a specialized pricing grid to display wholesale rates for bulk buyers.",
+    "example2": "They setup a wholesale marketplace portal to connect manufacturing companies with small city retail stores.",
+    "example3": "The logistics script calculates custom delivery shipping adjustments based on wholesale package weights.",
+    "Explanation": "The word 'wholesale' relates to supply chains, trade commerce, and business-to-business (B2B) sales structures. In web development, building a wholesale portal requires custom programming configurations, such as tiered pricing tables, strict bulk quantity limits, and authenticated corporate client registration forms. It can also be used as an adjective or adverb meaning on a large scale or without discrimination—such as describing a 'wholesale modification' of an entire server architecture setup.",
+    "synonyms": [
+      "bulk sale",
+      "mass trade",
+      "large-scale commerce"
+    ],
+    "antonyms": [
+      "retail",
+      "individual sale"
+    ],
+    "nounForm": "wholesale / wholesaler",
+    "verbForm": "wholesale",
+    "adjectiveForm": "wholesale",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "B2B e-commerce platform logic, inventory bulk management systems, and scale business models",
+    "usageTip": "Use 'wholesale' when discussing business rules, database entities, or price structures tailored explicitly for bulk commercial trade markets.",
+    "commonMistake": "Confusing 'wholesale' with 'retail', which is the practice of selling single individual items directly to everyday consumers.",
+    "collocations": [
+      "wholesale price",
+      "wholesale marketplace",
+      "buy wholesale"
+    ]
+  }
+]

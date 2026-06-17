@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Suppressed",
+    "meaning": "Prevented from being expressed, revealed, or active",
+    "shortMeaning": "held back or blocked",
+    "example": "The error message was suppressed in the production logs.",
+    "example2": "She suppressed her laughter during the presentation.",
+    "example3": "The system suppressed the background noise effectively.",
+    "Explanation": "The word 'suppressed' means that something—like a sound, a notification, a feeling, or an error—has been intentionally blocked or kept from showing. In programming, 'suppressing' an error means hiding it so the user doesn't see it (though this can be dangerous if the error is important!). It implies an active effort to keep something down or invisible. It is a powerful word that suggests control over output or reactions.",
+    "synonyms": [
+      "blocked",
+      "hidden",
+      "prevented"
+    ],
+    "antonyms": [
+      "revealed",
+      "expressed",
+      "allowed"
+    ],
+    "nounForm": "suppression",
+    "verbForm": "suppress",
+    "adjectiveForm": "suppressed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "IT logs, emotions, signals",
+    "usageTip": "Use 'suppressed' when you intentionally hide or block something.",
+    "commonMistake": "Confusing 'suppressed' (hidden) with 'deleted' (removed forever).",
+    "collocations": [
+      "suppressed error",
+      "suppressed noise",
+      "suppressed warning"
+    ]
+  },
+  {
+    "word": "Suppressed",
+    "meaning": "Prevented from growing, appearing, or functioning",
+    "shortMeaning": "stopped or limited",
+    "example": "The error message was suppressed in the final report.",
+    "example2": "The firewall suppressed the incoming malicious traffic.",
+    "example3": "Excessive noise was suppressed using digital filters.",
+    "Explanation": "Suppressed means to stop something from showing, occurring, or functioning. In IT, this often refers to 'suppressing errors' (hiding them) or 'noise suppression' (removing static). It is a deliberate action to limit an output or effect. It is a technical term used in security, signal processing, and debugging. Be careful with this term, as suppressing errors can sometimes hide serious underlying problems.",
+    "synonyms": [
+      "hidden",
+      "prevented",
+      "muted"
+    ],
+    "antonyms": [
+      "enabled",
+      "allowed",
+      "released"
+    ],
+    "nounForm": "suppression",
+    "verbForm": "suppress",
+    "adjectiveForm": "suppressed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Debugging, signal processing, network security",
+    "usageTip": "Use 'suppressed' when you intentionally hide or remove an effect.",
+    "commonMistake": "Confusing 'suppressed' (hidden) with 'deleted' (permanently removed).",
+    "collocations": [
+      "noise suppression",
+      "suppressed error",
+      "suppressed output"
+    ]
+  }
+]

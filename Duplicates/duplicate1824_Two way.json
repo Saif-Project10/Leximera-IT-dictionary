@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Two way",
+    "meaning": "Involving movement or communication in two opposite directions.",
+    "shortMeaning": "bidirectional",
+    "example": "A two way street allows traffic in both directions.",
+    "example2": "Digital communication is usually a two way process.",
+    "example3": "They set up a two way radio for the hikers.",
+    "Explanation": "The word 'two way' indicates that something works or moves in two directions. In IT, it often refers to communication where both parties can send and receive information at the same time. It is used to describe data syncing, radio signals, or relationships. This term implies interaction and balance between the two sides involved. It can be used as an adjective to modify nouns like 'radio', 'sync', or 'street'.",
+    "synonyms": [
+      "bidirectional",
+      "dual",
+      "reciprocal"
+    ],
+    "antonyms": [
+      "one way",
+      "unidirectional",
+      "unilateral"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, traffic, and data synchronization",
+    "usageTip": "Use 'two way' to emphasize that feedback or movement occurs from both sides.",
+    "commonMistake": "Confusing it with 'duplex' which is a more technical term for the same thing.",
+    "collocations": [
+      "two way communication",
+      "two way street",
+      "two way radio"
+    ]
+  },
+  {
+    "word": "Two way",
+    "meaning": "Involving communication or interaction in both directions.",
+    "shortMeaning": "bidirectional",
+    "example": "This is a two way communication channel.",
+    "example2": "We need two way data synchronization.",
+    "example3": "The protocol supports two way traffic flow.",
+    "Explanation": "The term 'two way' describes a system that allows data to go back and forth (bidirectional). In networking, this is critical for protocols that need to confirm receipt of data. It is an adjective. When used before a noun, it should be hyphenated (two-way). It is the opposite of 'one-way' or 'unidirectional' communication. Use this to describe any interface that requires input and feedback.",
+    "synonyms": [
+      "bidirectional",
+      "interactive"
+    ],
+    "antonyms": [
+      "one-way",
+      "unidirectional"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, communication protocols, and data sync",
+    "usageTip": "Use 'two-way' when traffic flows in both directions.",
+    "commonMistake": "Assuming 'two-way' always implies simultaneous (full-duplex) communication.",
+    "collocations": [
+      "two-way communication",
+      "two-way sync",
+      "two-way traffic"
+    ]
+  }
+]

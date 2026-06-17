@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Side-channel",
+    "meaning": "An attack based on information gained from physical implementation, not the algorithm.",
+    "shortMeaning": "indirect info leak",
+    "example": "The encryption was compromised via a side-channel attack.",
+    "example2": "Side-channel analysis measures power consumption to guess keys.",
+    "example3": "Developers must design for side-channel resistance.",
+    "Explanation": "A 'side-channel' attack exploits information leaked through the physical implementation of a system (such as timing, power usage, or electromagnetic radiation) rather than flaws in the software logic. This is an advanced security concern. Designers of cryptographic systems must ensure that their code does not leak patterns through these physical channels. It is a critical topic in hardware security and high-security software development.",
+    "synonyms": [
+      "indirect-attack",
+      "leakage-based attack"
+    ],
+    "antonyms": [
+      "direct-attack",
+      "algorithm-exploit"
+    ],
+    "nounForm": "side-channel",
+    "verbForm": "N/A",
+    "adjectiveForm": "side-channel",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Cybersecurity, cryptography, hardware",
+    "usageTip": "Use 'side-channel' when discussing physical information leakage.",
+    "commonMistake": "Confusing a side-channel attack with a software logic bug.",
+    "collocations": [
+      "side-channel attack",
+      "side-channel analysis",
+      "side-channel resistance"
+    ]
+  },
+  {
+    "word": "Side-channel",
+    "meaning": "Information gained from the implementation of a system",
+    "shortMeaning": "data leak source",
+    "example": "The encryption was broken by a side-channel attack.",
+    "example2": "Side-channel analysis reveals hidden data.",
+    "example3": "We must secure the system against side-channel leaks.",
+    "Explanation": "The term 'side-channel' refers to information leaked during the operation of a system, such as power consumption, electromagnetic signals, or timing. Attackers use these leaks to figure out secret keys or passwords. A side-channel attack does not focus on the code itself, but on the hardware running the code. It is an advanced security concept that is vital for developing high-security hardware and cryptographic systems.",
+    "synonyms": [
+      "leak-channel",
+      "indirect-access"
+    ],
+    "antonyms": [
+      "main-channel"
+    ],
+    "nounForm": "side-channel",
+    "verbForm": "N/A",
+    "adjectiveForm": "side-channel",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Cybersecurity, cryptography, hardware security",
+    "usageTip": "Use 'side-channel' when discussing leaks from hardware or implementation.",
+    "commonMistake": "Ignoring side-channel leaks because they are not 'direct' attacks.",
+    "collocations": [
+      "side-channel attack",
+      "side-channel analysis",
+      "side-channel leak"
+    ]
+  }
+]

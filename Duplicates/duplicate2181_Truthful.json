@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Truthful",
+    "meaning": "Giving or containing the accurate and honest version of facts.",
+    "shortMeaning": "honest",
+    "example": "The application requires a truthful entry of data.",
+    "example2": "Is the system output truthful or biased?",
+    "example3": "He provided a truthful summary of the logs.",
+    "Explanation": "The word 'truthful' describes something that reflects the reality or facts accurately. While common in everyday language, in IT it is often used when discussing data integrity, AI outputs, or audit reports. It suggests the absence of deception or errors. The noun form is 'truthfulness'. While not as common in technical specs as 'accurate', it is important when discussing ethical computing or AI transparency.",
+    "synonyms": [
+      "honest",
+      "accurate",
+      "reliable"
+    ],
+    "antonyms": [
+      "dishonest",
+      "deceptive",
+      "false"
+    ],
+    "nounForm": "truthfulness",
+    "verbForm": "N/A",
+    "adjectiveForm": "truthful",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI ethics, auditing, and data reporting",
+    "usageTip": "Use 'truthful' to emphasize honesty and accuracy in reports or AI responses.",
+    "commonMistake": "Using 'truthful' for systems that are accurate but biased.",
+    "collocations": [
+      "truthful data",
+      "truthful reporting",
+      "truthful output"
+    ]
+  },
+  {
+    "word": "Truthful",
+    "meaning": "Accurate, honest, and reflecting reality",
+    "shortMeaning": "accurate / honest",
+    "example": "The logs must be a truthful record of events.",
+    "example2": "He provided a truthful account of the server crash.",
+    "example3": "Is the status indicator truthful?",
+    "Explanation": "Truthful describes information or systems that accurately report reality without bias or error. In debugging, you need truthful logs to find the real source of a problem. If the system reports a status that is not 'truthful', you will search in the wrong place. Maintaining truthfulness in data entry and documentation is essential for team collaboration. It refers to integrity and clarity.",
+    "synonyms": [
+      "accurate",
+      "honest",
+      "reliable"
+    ],
+    "antonyms": [
+      "dishonest",
+      "misleading",
+      "fake"
+    ],
+    "nounForm": "truth",
+    "verbForm": "N/A",
+    "adjectiveForm": "truthful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data integrity, documentation, communication",
+    "usageTip": "Use 'truthful' to describe data that correctly reflects reality.",
+    "commonMistake": "Using it for logic; use 'true' for logic and 'truthful' for information.",
+    "collocations": [
+      "truthful record",
+      "truthful account",
+      "truthful data"
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "word": "WebRTC",
+    "meaning": "A free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple APIs for video, voice, and generic data.",
+    "shortMeaning": "real-time audio/video in browser",
+    "example": "Google Meet and Zoom's web client use WebRTC for video calls.",
+    "example2": "A file-sharing website can use WebRTC to send data directly between users' browsers.",
+    "example3": "The telehealth app uses WebRTC to connect patients and doctors with live video.",
+    "Explanation": "WebRTC (Web Real-Time Communication) is a collection of standards and JavaScript APIs that enable peer-to-peer communication directly between browsers. It handles the complex tasks of capturing audio/video, network address translation (NAT) traversal, and secure encryption. This allows developers to build video chat, voice calling, and data-sharing features without plugins or complex server infrastructure for relaying media. While it is peer-to-peer, it often uses signaling servers (via WebSockets or other means) to help peers discover each other and set up the connection. It's a foundational technology for modern communication on the web.",
+    "synonyms": [
+      "browser RTC",
+      "peer-to-peer web communication",
+      "real-time media API"
+    ],
+    "antonyms": [
+      "plugin-based communication",
+      "server-relayed streaming",
+      "pre-recorded media"
+    ],
+    "nounForm": "WebRTC",
+    "verbForm": "N/A",
+    "adjectiveForm": "WebRTC (as in WebRTC app)",
+    "partOfSpeech": "noun",
+    "commonContext": "Video conferencing, live streaming, peer-to-peer apps, telehealth, online education",
+    "usageTip": "Pronounced 'web-R-T-C'. It's an API you use in JavaScript, not a service you subscribe to.",
+    "commonMistake": "Thinking WebRTC works without any server. Signaling servers are needed to initiate the connection, even if the media flows directly peer-to-peer.",
+    "collocations": [
+      "WebRTC API",
+      "WebRTC peer connection",
+      "build with WebRTC",
+      "WebRTC video chat",
+      "WebRTC data channel"
+    ]
+  },
+  {
+    "word": "WebRTC",
+    "meaning": "Standard for real-time media communication in browsers",
+    "shortMeaning": "real-time browser comms",
+    "example": "The video calling feature is built using WebRTC.",
+    "example2": "WebRTC allows browsers to share audio and video directly.",
+    "example3": "We chose WebRTC for its low latency communication capabilities.",
+    "Explanation": "WebRTC (Web Real-Time Communication) is an open-source project and set of standards that enables real-time communication between browsers and mobile applications. It handles audio, video, and data transmission without requiring extra plugins or software. This is the technology behind many video conferencing and chat applications. It requires high-quality network handling to maintain low latency and quality. It is a foundational technology for modern interactive web applications.",
+    "synonyms": [
+      "real-time comms",
+      "peer-to-peer media"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "WebRTC",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Video conferencing, real-time data",
+    "usageTip": "Use this when talking about browser-based live video or voice.",
+    "commonMistake": "Confusing WebRTC with general HTTP-based streaming.",
+    "collocations": [
+      "WebRTC app",
+      "WebRTC communication",
+      "WebRTC implementation"
+    ]
+  },
+  {
+    "word": "WebRTC",
+    "meaning": "A protocol for real-time communication in browsers",
+    "shortMeaning": "browser communication",
+    "example": "We used WebRTC to add video chat to our website.",
+    "example2": "WebRTC allows direct peer-to-peer data transfer.",
+    "example3": "The latency in WebRTC is low enough for live streaming.",
+    "Explanation": "WebRTC (Web Real-Time Communication) is an open-source project that provides web browsers and mobile applications with real-time communication capabilities via simple APIs. It enables peer-to-peer audio, video, and data sharing without requiring plugins or intermediate software. It is the engine behind many modern video conferencing tools and collaborative platforms. It is highly valued for its ability to reduce latency and server load by connecting users directly.",
+    "synonyms": [
+      "real-time communication",
+      "P2P browser protocol"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "WebRTC",
+    "verbForm": "N/A",
+    "adjectiveForm": "WebRTC-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Networking and real-time media",
+    "usageTip": "Use when discussing browser-based video/audio streaming.",
+    "commonMistake": "Thinking WebRTC always requires a complex server.",
+    "collocations": [
+      "WebRTC protocol",
+      "WebRTC implementation",
+      "WebRTC stream"
+    ]
+  }
+]

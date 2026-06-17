@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Large-scale",
+    "meaning": "Involving large numbers or a large area; extensive",
+    "shortMeaning": "extensive, involving many",
+    "example": "The government launched a large-scale vaccination program.",
+    "example2": "Large-scale farming uses heavy machinery.",
+    "example3": "The map shows the large-scale geography of the region.",
+    "Explanation": "'Large-scale' is a hyphenated compound adjective used to describe something that is big in size, scope, or extent. It often refers to projects, operations, or maps that cover a wide area or involve many people/resources. In cartography, a large-scale map shows a small area in great detail. The word implies magnitude and comprehensiveness. It is the opposite of 'small-scale'. Planning for large-scale endeavors requires significant resources and coordination. It's a common term in business, science, and planning discussions.",
+    "synonyms": [
+      "extensive",
+      "wide-ranging",
+      "massive",
+      "comprehensive",
+      "broad"
+    ],
+    "antonyms": [
+      "small-scale",
+      "limited",
+      "localized",
+      "minor"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "large-scale",
+    "partOfSpeech": "adjective",
+    "commonContext": "Projects, production, maps, operations, events",
+    "usageTip": "Use 'large-scale' before a noun to describe something extensive in size, number, or scope.",
+    "commonMistake": "Writing it as two separate words when used as an adjective before a noun. Hyphenate it: 'large-scale project'.",
+    "collocations": [
+      "large-scale production",
+      "large-scale study",
+      "on a large scale"
+    ]
+  },
+  {
+    "word": "Large-scale",
+    "meaning": "Involving many people, large areas, or huge amounts of data",
+    "shortMeaning": "extensive",
+    "example": "The company completed a large-scale data migration.",
+    "example2": "We are planning a large-scale software deployment.",
+    "example3": "The project requires large-scale cloud infrastructure.",
+    "Explanation": "Large-scale describes systems, operations, or projects that cover a massive scope. In technology, this often relates to systems handling millions of users or terabytes of information. Building a large-scale system requires careful planning, redundancy, and scalability. It implies that a smaller solution would not be sufficient for the needs. This term is common in enterprise IT, networking, and engineering contexts.",
+    "synonyms": [
+      "extensive",
+      "massive",
+      "widespread"
+    ],
+    "antonyms": [
+      "small-scale",
+      "limited"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "large-scale",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, enterprise IT, projects",
+    "usageTip": "Use this to describe projects or systems that are very big.",
+    "commonMistake": "Using it for small projects that don't actually require scale.",
+    "collocations": [
+      "large-scale system",
+      "large-scale project",
+      "large-scale data"
+    ]
+  }
+]

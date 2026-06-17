@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Southbound",
+    "meaning": "Traveling or directed toward the south",
+    "shortMeaning": "heading south",
+    "example": "The southbound traffic is very heavy today.",
+    "example2": "The packet was redirected to the southbound interface.",
+    "example3": "Follow the southbound highway signs to reach the city.",
+    "Explanation": "The word 'southbound' describes the direction of movement or connectivity towards the south. In IT and network architecture, 'southbound' is often used to describe interfaces or protocols that connect the control layer to the physical devices (the 'lower' layers). This helps in managing complex network hierarchies. Whether used in transportation or networking, it always signifies a downward or southward flow of traffic or control. It is a directional term used for clarity in navigation and architecture.",
+    "synonyms": [
+      "southward",
+      "heading south"
+    ],
+    "antonyms": [
+      "northbound"
+    ],
+    "nounForm": "south",
+    "verbForm": "N/A",
+    "adjectiveForm": "southbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, navigation, traffic",
+    "usageTip": "Use 'southbound' to describe traffic moving away from the center or core.",
+    "commonMistake": "Confusing 'southbound' with 'downbound' in non-networking contexts.",
+    "collocations": [
+      "southbound traffic",
+      "southbound interface",
+      "southbound highway"
+    ]
+  },
+  {
+    "word": "Southbound",
+    "meaning": "Traveling or moving toward the south.",
+    "shortMeaning": "going south",
+    "example": "The southbound traffic data shows a peak at 5 PM.",
+    "example2": "The server request was routed through the southbound gateway.",
+    "example3": "We are monitoring the southbound fiber optic cables.",
+    "Explanation": "The word 'southbound' is a directional term. In IT and networking, it is often used metaphorically to describe traffic flowing from a core network toward edge devices or sensors (often called 'southbound APIs' or 'southbound interfaces' in IoT). It is an adjective. While it literally refers to direction on a map, in software architecture, it implies a downward flow of communication or data. It is crucial for understanding how IoT controllers communicate with hardware devices. Always check the specific architectural diagram to see if 'southbound' is being used literally or figuratively.",
+    "synonyms": [
+      "downward",
+      "headed south"
+    ],
+    "antonyms": [
+      "northbound",
+      "upward"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "southbound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, IoT, mapping/logistics",
+    "usageTip": "Use 'southbound' when describing communication towards edge devices.",
+    "commonMistake": "Using 'southbound' for all traffic; it's specific to architecture.",
+    "collocations": [
+      "southbound traffic",
+      "southbound API",
+      "southbound interface"
+    ]
+  }
+]

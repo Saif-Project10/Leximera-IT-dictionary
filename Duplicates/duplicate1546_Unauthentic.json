@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unauthentic",
+    "meaning": "Not genuine or real; fake; not representing true facts or feelings",
+    "shortMeaning": "not genuine; fake",
+    "example": "The signature on the painting was unauthentic.",
+    "example2": "His cheerful demeanor seemed forced and unauthentic.",
+    "example3": "They sell unauthentic replicas of designer handbags.",
+    "Explanation": "The adjective 'unauthentic' means not authentic. It describes objects that are counterfeit or forged, and behavior or expressions that are insincere, contrived, or not reflecting one's true self. While 'inauthentic' is more commonly used, especially for personal behavior, 'unauthentic' is perfectly valid and often used for objects. The word carries a negative connotation, implying deception or a lack of integrity. In philosophy and art, discussions about authenticity vs. inauthenticity are deep, but in everyday use, it simply means 'fake' or 'phony'. It is the direct opposite of 'authentic'.",
+    "synonyms": [
+      "inauthentic",
+      "fake",
+      "counterfeit",
+      "phony",
+      "insincere"
+    ],
+    "antonyms": [
+      "authentic",
+      "genuine",
+      "real",
+      "sincere"
+    ],
+    "nounForm": "unauthenticity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unauthentic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing counterfeit goods, criticism of behavior, art criticism",
+    "usageTip": "'Inauthentic' is more common for personal behavior. 'Unauthentic' is often used for objects.",
+    "commonMistake": "Misspelling it as 'unauthetic' (missing the 'n').",
+    "collocations": [
+      "unauthentic product",
+      "unauthentic smile",
+      "unauthentic document",
+      "feel unauthentic"
+    ]
+  },
+  {
+    "word": "Unauthentic",
+    "meaning": "Not genuine, reliable, or original.",
+    "shortMeaning": "not real",
+    "example": "The server rejected the unauthentic request.",
+    "example2": "Do not trust data from an unauthentic source.",
+    "example3": "They found an unauthentic certificate in the bundle.",
+    "Explanation": "Unauthentic refers to something that lacks the marks of legitimacy or truth. In IT security, this is a major concern as it can signify a malicious source, forged data, or an invalid identity. An unauthentic user should not be granted access to protected systems. It is important to distinguish this from simply being 'wrong'; it suggests a lack of credibility or authorization. Security systems are designed specifically to filter out unauthentic attempts.",
+    "synonyms": [
+      "fake",
+      "forged",
+      "unverified"
+    ],
+    "antonyms": [
+      "authentic",
+      "genuine",
+      "verified"
+    ],
+    "nounForm": "unauthenticity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unauthentic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, authentication, data integrity",
+    "usageTip": "Use this when discussing security breaches or forged data.",
+    "commonMistake": "Confusing 'unauthentic' with 'incorrect'.",
+    "collocations": [
+      "unauthentic source",
+      "unauthentic request",
+      "unauthentic signature"
+    ]
+  },
+  {
+    "word": "Unauthentic",
+    "meaning": "Not genuine, real, or reliable.",
+    "shortMeaning": "not real",
+    "example": "The software detected an unauthentic license key.",
+    "example2": "We must block all unauthentic requests to the server.",
+    "example3": "The document appeared unauthentic to the security system.",
+    "Explanation": "In IT and cybersecurity, 'unauthentic' describes something that does not match the official or real source. This is a critical concept for system security, where you need to ensure that users or data sources are 'authentic'. If a login request is unauthentic, it may be a security threat. Using 'unauthentic' clearly points out that something is suspicious or forged. It is a formal term often used in error messages and security reports.",
+    "synonyms": [
+      "fake",
+      "forged",
+      "invalid"
+    ],
+    "antonyms": [
+      "authentic",
+      "genuine",
+      "valid"
+    ],
+    "nounForm": "unauthenticity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unauthentic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and system authentication",
+    "usageTip": "Use this when describing security threats or fake files.",
+    "commonMistake": "Confusing 'unauthentic' with 'incorrect'.",
+    "collocations": [
+      "unauthentic request",
+      "unauthentic file",
+      "unauthentic license"
+    ]
+  }
+]

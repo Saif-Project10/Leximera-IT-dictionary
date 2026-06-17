@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Negligible",
+    "meaning": "So small or unimportant as to be not worth considering; insignificant.",
+    "shortMeaning": "too small to matter",
+    "example": "The error rate was negligible and did not affect the overall results.",
+    "example2": "There is a negligible chance of rain tonight.",
+    "example3": "The cost difference between the two plans is negligible.",
+    "Explanation": "'Negligible' is an adjective often used in technical, scientific, or formal writing. It describes a quantity or effect so tiny that it can be disregarded. For instance, a 'negligible risk' is a risk so small you don't need to worry about it. It comes from the verb 'neglect', meaning to ignore. It is very similar to 'insignificant' but can sound more precise or technical. There is no common verb form of 'negligible' itself.",
+    "synonyms": [
+      "trivial",
+      "insignificant",
+      "minuscule",
+      "inconsequential"
+    ],
+    "antonyms": [
+      "significant",
+      "considerable",
+      "substantial",
+      "appreciable"
+    ],
+    "nounForm": "negligibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "negligible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, finance, risk assessment, measurements",
+    "usageTip": "Use 'negligible' in formal or technical contexts to describe amounts or effects that are too small to consider.",
+    "commonMistake": "Using it in everyday speech where a simpler word like 'tiny' or 'small' would be more natural.",
+    "collocations": [
+      "negligible amount",
+      "negligible effect",
+      "negligible risk",
+      "negligible impact"
+    ]
+  },
+  {
+    "word": "Negligible",
+    "meaning": "So small or unimportant that it can be disregarded",
+    "shortMeaning": "very small",
+    "example": "The difference in speed was negligible.",
+    "example2": "The impact on performance was negligible.",
+    "example3": "The error was negligible and did not affect the output.",
+    "Explanation": "The word 'negligible' describes something that is so tiny or unimportant that it is not worth worrying about. In IT, it is often used when discussing minor performance variations, tiny data differences, or small bugs that do not significantly impact the system's function. It helps developers focus on important issues rather than wasting time on things that don't matter. It is a very common term in performance testing and data analysis reports to indicate that a finding is irrelevant.",
+    "synonyms": [
+      "insignificant",
+      "trivial",
+      "minor"
+    ],
+    "antonyms": [
+      "significant",
+      "substantial",
+      "considerable"
+    ],
+    "nounForm": "negligibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "negligible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance analysis, testing, data",
+    "usageTip": "Use to describe issues that are too small to care about.",
+    "commonMistake": "Using 'negligible' for something that is actually important.",
+    "collocations": [
+      "negligible impact",
+      "negligible difference",
+      "negligible amount"
+    ]
+  }
+]

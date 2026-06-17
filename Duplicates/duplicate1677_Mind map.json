@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Mind map",
+    "meaning": "A diagram that uses bubbles and lines to organize thoughts around a central idea",
+    "shortMeaning": "visual thought diagram",
+    "example": "I created a mind map to plan the features of our new app.",
+    "example2": "Mind maps help in brainstorming and seeing connections between ideas.",
+    "example3": "The team used a digital mind map during the meeting.",
+    "Explanation": "A mind map is a visual tool used to represent tasks, words, or concepts linked to and arranged around a central subject. It is much more visual than a standard list. You start with a main idea in the middle and draw branches out to related sub-topics. In IT, mind maps are often used by project managers and developers to plan software architecture, organize website pages, or brainstorm solutions to bugs. Because it mimics the way the human brain thinks (non-linearly), it can help in solving complex problems. Many apps exist specifically to create and share these diagrams digitally.",
+    "synonyms": [
+      "brainstorming chart",
+      "concept map",
+      "spider diagram"
+    ],
+    "antonyms": [
+      "linear list",
+      "plain text"
+    ],
+    "nounForm": "mind map",
+    "verbForm": "mind map",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Project planning and brainstorming",
+    "usageTip": "Use a mind map when you have a big idea and want to break it down into smaller, connected parts.",
+    "commonMistake": "Overcomplicating the map; keep the branches short and use keywords instead of long sentences.",
+    "collocations": [
+      "create a mind map",
+      "digital mind map",
+      "brainstorming mind map"
+    ]
+  },
+  {
+    "word": "Mind map",
+    "meaning": "A diagram that shows ideas and information linked around a central topic",
+    "shortMeaning": "visual idea chart",
+    "example": "I created a mind map to plan all the features for my new web project.",
+    "example2": "Using a mind map helps students organize their thoughts for an essay.",
+    "example3": "You can use software to draw a digital mind map and share it with your team.",
+    "Explanation": "A mind map is a visual way to organize thoughts. It starts with one main idea in the center, and related ideas branch out like tree limbs. It is a great tool for 'brainstorming' because it allows you to see connections that you might miss in a simple list. In IT, mind maps are used for planning website structures, software features, or user journeys. They help in making complex projects easier to understand at a glance. Many digital tools exist to create these easily. It is widely used in education and management.",
+    "synonyms": [
+      "concept map",
+      "brainstorming chart",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "mind map",
+    "verbForm": "mind map",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Planning, education, and creative thinking",
+    "usageTip": "Use this when you need to visualize how different ideas connect to one main goal.",
+    "commonMistake": "Thinking a mind map must be messy; it can be very organized and professional.",
+    "collocations": [
+      "create a mind map",
+      "digital mind map",
+      "mind map software"
+    ]
+  }
+]

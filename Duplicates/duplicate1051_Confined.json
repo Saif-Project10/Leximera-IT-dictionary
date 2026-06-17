@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Confined",
+    "meaning": "1. (Of a space) small and enclosed. 2. Restricted or limited within certain bounds.",
+    "shortMeaning": "restricted or limited",
+    "example": "He worked in a confined space under the house.",
+    "example2": "The problem is not confined to one department.",
+    "example3": "During her illness, she was confined to bed.",
+    "Explanation": "'Confined' is an adjective describing something that is kept within limits, either physically (a small space) or in scope (a limited area). It often has a negative connotation of restriction and lack of freedom. The verb is 'to confine'. Being 'confined to barracks' is a military punishment. The word can also be used in a neutral, descriptive way for spaces. In medicine, 'bed-confined' is a status. It is the opposite of 'open', 'unrestricted', or 'widespread'. It implies boundaries.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "enclosed",
+      "cramped"
+    ],
+    "antonyms": [
+      "open",
+      "unrestricted",
+      "spacious",
+      "unlimited"
+    ],
+    "nounForm": "confinement",
+    "verbForm": "confine",
+    "adjectiveForm": "confined",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing small spaces, limitations, scope of problems, illness",
+    "usageTip": "Use 'confined' to describe spaces that are small and enclosed, or situations/things that are limited in scope.",
+    "commonMistake": "Confusing 'confined' (restricted) with 'defined' (having clear limits).",
+    "collocations": [
+      "confined space",
+      "confined to",
+      "closely confined"
+    ]
+  },
+  {
+    "word": "Confined",
+    "meaning": "Restricted to a specific space, scope, or limit",
+    "shortMeaning": "restricted",
+    "example": "The test run is confined to the staging environment.",
+    "example2": "The virus was confined to a single directory.",
+    "example3": "The error was confined to the UI layer.",
+    "Explanation": "Confined means something is kept within specific boundaries or limits. In IT, confining processes (like using 'sandboxing' or 'containers') is a primary security strategy to prevent a bug or attack from spreading to the rest of the system. The noun form is 'confinement', and the verb form is 'confine'.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "contained"
+    ],
+    "antonyms": [
+      "unrestricted",
+      "open",
+      "distributed"
+    ],
+    "nounForm": "confinement",
+    "verbForm": "confine",
+    "adjectiveForm": "confined",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, Virtualization",
+    "usageTip": "Use 'confined' to describe security measures that restrict software behavior.",
+    "commonMistake": "Using 'confined' to describe a server that is 'busy'.",
+    "collocations": [
+      "confined to",
+      "confined environment"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Behavior-driven",
+    "meaning": "An approach to software development that focuses on desired behaviors.",
+    "shortMeaning": "focused on desired behaviors",
+    "example": "We use behavior-driven development for our projects.",
+    "example2": "The behavior-driven tests describe how the system should behave.",
+    "example3": "N/A",
+    "Explanation": "'Behavior-driven' is an adjective, typically part of the term 'Behavior-Driven Development' (BDD). It describes a software development methodology that emphasizes defining and testing the desired behavior of a system from the user's perspective. It extends Test-Driven Development (TDD) by writing tests in natural language that non-technical stakeholders can understand. It's a specialized term in software engineering that promotes collaboration between developers, testers, and business representatives.",
+    "synonyms": [
+      "BDD",
+      "outcome-focused",
+      "specification by example"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "behavior-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, testing methodologies, agile practices",
+    "usageTip": "Almost exclusively used in the context of 'Behavior-Driven Development' or 'behavior-driven testing'.",
+    "commonMistake": "Confusing with 'Test-Driven Development' (TDD). BDD focuses on behavior; TDD focuses on tests.",
+    "collocations": [
+      "behavior-driven development",
+      "behavior-driven testing",
+      "behavior-driven approach"
+    ]
+  },
+  {
+    "word": "Behavior-driven",
+    "meaning": "Describing a software development process that focuses on user behavior and clear business requirements to guide testing",
+    "shortMeaning": "behavior-focused testing",
+    "example": "Our team uses a behavior-driven development approach to ensure the software matches client expectations.",
+    "example2": "Cucumber is a popular framework for running behavior-driven tests.",
+    "example3": "The project specifications were written in a behavior-driven format using user stories.",
+    "Explanation": "The word 'behavior-driven' is a compound adjective mostly used in the phrase 'Behavior-Driven Development' (BDD). It describes an agile methodology where developers, testers, and business managers use simple, human-readable language (like Given-When-Then statements) to define how a software feature should behave before coding it. The noun form is 'behavior' and the verb form is 'behave'. It bridges the gap between code logic and real user goals.",
+    "synonyms": [
+      "BDD-based",
+      "user-focused",
+      "specification-driven"
+    ],
+    "antonyms": [
+      "technology-driven",
+      "unstructured"
+    ],
+    "nounForm": "behavior / behaviour",
+    "verbForm": "behave",
+    "adjectiveForm": "behavior-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Agile methodologies, software testing frameworks, and QA automation",
+    "usageTip": "Always include a hyphen when placing 'behavior-driven' before a noun to describe a development style or tool.",
+    "commonMistake": "Confusing it with 'test-driven' (TDD); test-driven focuses on code unit correctness, while behavior-driven focuses on user scenarios.",
+    "collocations": [
+      "behavior-driven development",
+      "behavior-driven testing",
+      "behavior-driven framework"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Traceable",
+    "meaning": "Able to be tracked, followed, or identified back to its source",
+    "shortMeaning": "can be tracked",
+    "example": "The error was traceable to a specific commit.",
+    "example2": "We need traceable data for audit compliance.",
+    "example3": "All network packets are traceable in this system.",
+    "Explanation": "Something is 'traceable' if you can follow its history, origin, or path through a system. In IT, this is crucial for debugging, auditing, and security. For instance, code is traceable via Git logs, and transactions are traceable via database logs. Being able to trace events allows teams to identify exactly when and why an issue occurred. It is a core requirement for secure and reliable software. You will often hear this in the context of security audits and software maintenance.",
+    "synonyms": [
+      "trackable",
+      "identifiable",
+      "verifiable"
+    ],
+    "antonyms": [
+      "untraceable",
+      "anonymous"
+    ],
+    "nounForm": "traceability",
+    "verbForm": "trace",
+    "adjectiveForm": "traceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, security, compliance, logging",
+    "usageTip": "Use 'traceable' when discussing audit trails or bug fixes.",
+    "commonMistake": "Thinking something is traceable when it was deleted or overwritten.",
+    "collocations": [
+      "easily traceable",
+      "fully traceable",
+      "traceable back to"
+    ]
+  },
+  {
+    "word": "Traceable",
+    "meaning": "Able to be followed, tracked, or found to its origin",
+    "shortMeaning": "can be tracked",
+    "example": "All data changes must be traceable for audit purposes.",
+    "example2": "The error is traceable to a specific line of code.",
+    "example3": "We need traceable logs for every user action.",
+    "Explanation": "The term 'traceable' describes something whose history, origin, or path can be followed. In IT, traceability is critical for debugging, security auditing, and quality assurance. If an issue is traceable, it means there is a record (like logs, version history, or audit trails) that shows how it occurred. This is a requirement in many highly regulated industries, such as finance or healthcare, to ensure accountability. Without it, finding the root cause of failures becomes extremely difficult.",
+    "synonyms": [
+      "trackable",
+      "verifiable",
+      "detectable"
+    ],
+    "antonyms": [
+      "untraceable",
+      "hidden",
+      "anonymous"
+    ],
+    "nounForm": "traceability",
+    "verbForm": "trace",
+    "adjectiveForm": "traceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Auditing, debugging, compliance",
+    "usageTip": "Use when you can follow the history of a file or action.",
+    "commonMistake": "Confusing 'traceable' with 'resolvable'.",
+    "collocations": [
+      "fully traceable",
+      "traceable logs",
+      "traceable error"
+    ]
+  }
+]

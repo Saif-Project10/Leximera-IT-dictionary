@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Sucker punch",
+    "meaning": "An unexpected or surprise attack, often occurring when the victim is not looking or prepared.",
+    "shortMeaning": "surprise attack",
+    "example": "The cyberattack was a sucker punch that the company didn't see coming.",
+    "example2": "In the movie, the hero was hit with a sucker punch in the first scene.",
+    "example3": "The new government regulation was a sucker punch to the small business sector.",
+    "Explanation": "While it literally comes from boxing, the term 'sucker punch' is often used as a metaphor in business and IT. It describes a situation where an entity is hit by a problem or a competitor's move that was completely unforeseen. It implies that the hit was 'unfair' or 'sneaky' because the victim had no chance to defend themselves. In cybersecurity, zero-day exploits are often described this way. It highlights the vulnerability of not being prepared for the unexpected. It is a common idiom in informal English.",
+    "synonyms": [
+      "blindside",
+      "surprise blow",
+      "sneak attack"
+    ],
+    "antonyms": [
+      "expected move",
+      "fair warning"
+    ],
+    "nounForm": "sucker punch",
+    "verbForm": "sucker punch",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Informal conversation, competitive business, cybersecurity events",
+    "usageTip": "Use this metaphorically to describe a sudden, negative surprise.",
+    "commonMistake": "Thinking it only refers to physical hitting; it is very common in non-physical contexts.",
+    "collocations": [
+      "delivered a sucker punch",
+      "felt like a sucker punch",
+      "metaphorical sucker punch"
+    ]
+  },
+  {
+    "word": "Sucker punch",
+    "meaning": "A sudden, unexpected hit or a critical system exploit that catches security defenses completely unprepared",
+    "shortMeaning": "sudden unexpected blow",
+    "example": "The sudden ransomware attack felt like a sucker punch to the unprotected company networks.",
+    "example2": "A zero-day exploit can sucker punch security teams before a patch becomes available.",
+    "example3": "The database hardware failure was a real sucker punch to our project deadline timelines.",
+    "Explanation": "While 'sucker punch' comes from physical combat sports to describe an unexpected blow, it is used metaphorically in business and tech environments. It represents a severe, sudden problem or cyberattack that hits an engineering team when they are completely caught off guard. These events expose hidden vulnerabilities in system setups, showing teams where they need to add stronger monitoring solutions and better backup strategies.",
+    "synonyms": [
+      "surprise blow",
+      "unexpected attack",
+      "blindside strike"
+    ],
+    "antonyms": [
+      "forewarned event",
+      "expected outcome"
+    ],
+    "nounForm": "sucker punch",
+    "verbForm": "sucker punch",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Incident report discussions, post-incident team meetings, and casual industry blogs",
+    "usageTip": "Use this idiom to emphasize how unexpected and shocking a technical disaster or security breach was.",
+    "commonMistake": "Using this casual idiom in official, formal security compliance audits or legal reports.",
+    "collocations": [
+      "feel like a sucker punch",
+      "sucker punch security",
+      "total sucker punch"
+    ]
+  }
+]

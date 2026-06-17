@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Semi-structured",
+    "meaning": "Data that has some organizational markers but is not strictly fixed",
+    "shortMeaning": "partly organized",
+    "example": "JSON is a perfect example of semi-structured data.",
+    "example2": "We store user logs in a semi-structured format.",
+    "example3": "Processing semi-structured data requires flexible schemas.",
+    "Explanation": "Semi-structured describes data that doesn't follow a rigid table structure (like SQL) but isn't entirely random either. It uses tags, keys, or markers to group related information. Examples include JSON, XML, and YAML files. This makes it very useful for web applications because it is easy to read and flexible enough to add new fields without breaking everything. Understanding semi-structured data is crucial for anyone working with modern APIs or NoSQL databases.",
+    "synonyms": [
+      "partially organized",
+      "flexible",
+      "tagged"
+    ],
+    "antonyms": [
+      "structured",
+      "unstructured",
+      "rigid"
+    ],
+    "nounForm": "structure",
+    "verbForm": "N/A",
+    "adjectiveForm": "semi-structured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, databases, APIs",
+    "usageTip": "Use 'semi-structured' to describe formats like JSON or XML.",
+    "commonMistake": "Assuming it means 'no structure'; it has structure, just not fixed table rows.",
+    "collocations": [
+      "semi-structured data",
+      "semi-structured format",
+      "semi-structured schema"
+    ]
+  },
+  {
+    "word": "Semi-structured",
+    "meaning": "Data that has some labels but is not fully organized",
+    "shortMeaning": "partly organized",
+    "example": "JSON is a common form of semi-structured data.",
+    "example2": "Logs are often semi-structured and require parsing.",
+    "example3": "The tool parses semi-structured files into a database.",
+    "Explanation": "Semi-structured data is information that doesn't fit into a rigid table format (like SQL rows) but still contains tags or markers to separate data. Examples include JSON, XML, and YAML. It is very popular in modern web development because it is flexible and easy for programs to read. You often need to 'parse' semi-structured data to extract the information you need before storing it in a fully structured database. It is the bridge between chaotic raw text and rigid tables.",
+    "synonyms": [
+      "partially-organized"
+    ],
+    "antonyms": [
+      "structured",
+      "unstructured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "semi-structured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, API development, logs",
+    "usageTip": "Use this to describe data formats like JSON.",
+    "commonMistake": "Expecting semi-structured data to be as fast to query as SQL.",
+    "collocations": [
+      "semi-structured data",
+      "semi-structured files"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uncanny",
+    "meaning": "Strange or mysterious, often in an unsettling way.",
+    "shortMeaning": "strange",
+    "example": "The AI showed an uncanny ability to predict my moves.",
+    "example2": "There was an uncanny similarity between the two code snippets.",
+    "example3": "It is uncanny how fast the server recovered.",
+    "Explanation": "The word 'uncanny' is used to describe something that is strangely accurate or mysterious. In tech, it is often used for AI or algorithms that seem to possess an almost human-like capability. It evokes a feeling of surprise because it feels beyond what should be possible for a machine. While not a technical term, it is used frequently in tech writing to describe advanced automation. It highlights something that is impressive but a bit weird.",
+    "synonyms": [
+      "eerie",
+      "strange",
+      "mysterious"
+    ],
+    "antonyms": [
+      "normal",
+      "familiar",
+      "expected"
+    ],
+    "nounForm": "uncanniness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncanny",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, innovation, user experience",
+    "usageTip": "Use this for AI performance that is eerily accurate.",
+    "commonMistake": "Using 'uncanny' when you just mean 'cool'.",
+    "collocations": [
+      "uncanny ability",
+      "uncanny similarity",
+      "quite uncanny"
+    ]
+  },
+  {
+    "word": "Uncanny",
+    "meaning": "Strange or mysterious in a way that is unsettling.",
+    "shortMeaning": "strange",
+    "example": "The resemblance between the two icons is uncanny.",
+    "example2": "He has an uncanny ability to find bugs in the code.",
+    "example3": "The AI's response was almost uncanny in its human-like nature.",
+    "Explanation": "The word 'uncanny' is used to describe something that is surprisingly accurate or strange. It often describes technology that behaves so much like a human that it feels a bit unsettling. In UI/UX, the 'uncanny valley' is a specific term for designs that are very realistic but look 'wrong' in a creepy way. It is a descriptive word used to express awe or mild discomfort. It is less about technical function and more about human perception.",
+    "synonyms": [
+      "eerie",
+      "mysterious",
+      "strange"
+    ],
+    "antonyms": [
+      "normal",
+      "familiar",
+      "expected"
+    ],
+    "nounForm": "uncanniness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncanny",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI development and UI design",
+    "usageTip": "Use 'uncanny' when something feels 'too' real or strange.",
+    "commonMistake": "Using 'uncanny' as a synonym for 'impossible'.",
+    "collocations": [
+      "uncanny ability",
+      "uncanny valley",
+      "uncanny resemblance"
+    ]
+  }
+]

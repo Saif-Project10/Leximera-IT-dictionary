@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Overwrite",
+    "meaning": "To replace old data with new data in the same location",
+    "shortMeaning": "replace data",
+    "example": "If you save now, you will overwrite the existing file.",
+    "example2": "The system will overwrite old logs to save disk space.",
+    "example3": "Be careful not to overwrite your backup by mistake.",
+    "Explanation": "To overwrite means to put new information in the exact storage spot where old information was previously held. When this happens, the old data is usually destroyed and cannot be easily recovered. This is a common function in file systems and databases. Some programs ask for confirmation ('Do you want to overwrite?') to prevent accidental loss. In low-level programming, overwriting memory locations is a fundamental way to manage variables and states.",
+    "synonyms": [
+      "replace",
+      "supersede",
+      "rewrite"
+    ],
+    "antonyms": [
+      "preserve",
+      "save as",
+      "append"
+    ],
+    "nounForm": "overwrite",
+    "verbForm": "overwrite",
+    "adjectiveForm": "overwritten",
+    "partOfSpeech": "verb",
+    "commonContext": "File management and database operations",
+    "usageTip": "Always warn users before a process performs an overwrite.",
+    "commonMistake": "Confusing 'overwrite' with 'append', which adds data to the end without deleting.",
+    "collocations": [
+      "overwrite a file",
+      "accidental overwrite",
+      "overwrite existing data"
+    ]
+  },
+  {
+    "word": "Overwrite",
+    "meaning": "To record new data on top of old data, effectively erasing the old data",
+    "shortMeaning": "replace existing data",
+    "example": "Be careful, saving this file will overwrite the existing one.",
+    "example2": "The computer will overwrite old logs once the disk is full.",
+    "example3": "I accidentally overwrote my code with an older version.",
+    "Explanation": "Overwriting is a common operation in computing. When you 'Save As' a file and use an existing name, the OS asks if you want to overwrite it. Once data is overwriten, the original information is usually gone forever and cannot be recovered easily. In low-level programming, overwriting memory addresses incorrectly can lead to crashes. It is a critical concept in file management, database updates, and version control (like Git).",
+    "synonyms": [
+      "replace",
+      "supersede",
+      "rewrite"
+    ],
+    "antonyms": [
+      "append",
+      "preserve"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "overwrite",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "File systems, databases, and memory",
+    "usageTip": "Use 'overwrite' when new data replaces old data entirely.",
+    "commonMistake": "Confusing 'overwrite' with 'append'; append adds to the end, overwrite replaces the whole thing.",
+    "collocations": [
+      "overwrite a file",
+      "overwrite data",
+      "accidentally overwrite"
+    ]
+  }
+]

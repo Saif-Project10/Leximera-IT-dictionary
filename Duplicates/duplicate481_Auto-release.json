@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Auto-release",
+    "meaning": "A release of software that is produced and published automatically, typically triggered by a code merge or a tagging event.",
+    "shortMeaning": "automatically produced release",
+    "example": "Every merge to the 'main' branch triggers an auto-release to the staging environment.",
+    "example2": "The CI/CD pipeline is configured for auto-release of npm packages on version tag pushes.",
+    "example3": "Auto-release streamlines our delivery but requires perfecting the test suite.",
+    "Explanation": "Auto-release refers to the automatic generation and publication of a software release package (like a versioned build, Docker image, or library). It's a specific outcome of a CI/CD pipeline. Once the automated pipeline succeeds in building and testing the code, it can automatically create the release artifacts, tag them with a version, and publish them to a repository (like GitHub Releases, Docker Hub, or an app store). This eliminates manual steps in release engineering, reduces human error, and accelerates the delivery cycle. The term focuses on the creation of the distributable release package itself, not just its deployment.",
+    "synonyms": [
+      "automated release",
+      "continuous release",
+      "pipeline release"
+    ],
+    "antonyms": [
+      "manual release",
+      "handcrafted release"
+    ],
+    "nounForm": "auto-release",
+    "verbForm": "auto-release",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "CI/CD pipelines, DevOps, software packaging, and open-source projects.",
+    "usageTip": "Use this term when the process of creating the final release bundle (zip, installer, container) is fully automated.",
+    "commonMistake": "Using it interchangeably with 'automatic rollout'; auto-release is about creating the package, rollout is about deploying it to users.",
+    "collocations": [
+      "configure auto-release",
+      "auto-release pipeline",
+      "trigger an auto-release"
+    ]
+  },
+  {
+    "word": "Auto-release",
+    "meaning": "A system that automatically frees up memory or resources when they are no longer needed",
+    "shortMeaning": "automatic cleaning",
+    "example": "Old versions of iOS used an auto-release pool to manage memory.",
+    "example2": "The software has an auto-release feature for inactive user sessions.",
+    "example3": "Auto-release helps prevent the computer from running out of RAM.",
+    "Explanation": "In programming, 'memory management' is very important. If a program uses memory and never gives it back, the computer will slow down and crash. 'Auto-release' is a technique where the system keeps track of objects and deletes them automatically when nobody is using them anymore. It is common in languages like Objective-C. It makes life easier for the programmer because they don't have to remember to 'delete' everything manually.",
+    "synonyms": [
+      "automatic memory management",
+      "self-freeing",
+      "garbage collection (similar)"
+    ],
+    "antonyms": [
+      "manual release",
+      "memory leak"
+    ],
+    "nounForm": "auto-release",
+    "verbForm": "auto-release",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software engineering and memory management",
+    "usageTip": "Use auto-release systems to avoid 'memory leaks' in your mobile apps.",
+    "commonMistake": "Thinking auto-release happens instantly; sometimes there is a small delay before the memory is actually freed.",
+    "collocations": [
+      "auto-release pool",
+      "auto-release memory",
+      "enable auto-release"
+    ]
+  }
+]

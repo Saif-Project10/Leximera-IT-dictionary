@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Vortical",
+    "meaning": "Related to a whirling movement or vortex",
+    "shortMeaning": "whirling",
+    "example": "The fluid simulation calculates the vortical flow of air.",
+    "example2": "Vortical patterns are visible in the weather data.",
+    "example3": "The cooling system creates a vortical current.",
+    "Explanation": "The word 'vortical' refers to swirling or rotating movement. In IT, this term appears primarily in physical simulations—like weather modeling, fluid dynamics (CFD), or complex cooling designs for high-performance servers. Simulating vortical behavior requires advanced mathematics and heavy computational resources. It is very niche and specific to engineering, scientific computing, or high-end 3D graphics software. If your work involves physics engines or scientific software development, you will encounter this term. Otherwise, it is not commonly used.",
+    "synonyms": [
+      "swirling",
+      "rotating",
+      "turbulent"
+    ],
+    "antonyms": [
+      "laminar",
+      "steady"
+    ],
+    "nounForm": "vortex",
+    "verbForm": "N/A",
+    "adjectiveForm": "vortical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics simulations, scientific computing, engineering",
+    "usageTip": "Use only when discussing swirling or fluid motion.",
+    "commonMistake": "Using 'vortical' for simple circular patterns.",
+    "collocations": [
+      "vortical flow",
+      "vortical motion"
+    ]
+  },
+  {
+    "word": "Vortical",
+    "meaning": "Having the form or movement of a vortex (whirlpool/swirl).",
+    "shortMeaning": "swirling",
+    "example": "The CFD software simulated the vortical flow of the air.",
+    "example2": "Vortical motion can damage delicate hardware components.",
+    "example3": "He analyzed the vortical patterns in the data stream.",
+    "Explanation": "Vortical describes circular or swirling motion, often used in Computational Fluid Dynamics (CFD) and physics simulations. In IT, software used for aerospace or environmental modeling must be able to calculate and visualize vortical fields. If a simulation is not accurate, it will fail to predict these complex motions correctly. It is a highly specialized technical term used in scientific computing and engineering software. Most general developers rarely use this word.",
+    "synonyms": [
+      "swirling",
+      "whirling",
+      "rotary"
+    ],
+    "antonyms": [
+      "linear",
+      "laminar"
+    ],
+    "nounForm": "vortex",
+    "verbForm": "N/A",
+    "adjectiveForm": "vortical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics simulations, engineering, CFD",
+    "usageTip": "Use this in simulation and engineering contexts.",
+    "commonMistake": "Using 'vortical' for any fast-moving object; it must involve circular motion.",
+    "collocations": [
+      "vortical flow",
+      "vortical motion",
+      "vortical structure"
+    ]
+  }
+]

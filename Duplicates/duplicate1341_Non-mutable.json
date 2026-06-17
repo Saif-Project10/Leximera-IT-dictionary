@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-mutable",
+    "meaning": "Not able to be changed or altered.",
+    "shortMeaning": "unchangeable",
+    "example": "The contract terms were non-mutable once signed.",
+    "example2": "In some programming languages, strings are non-mutable objects.",
+    "example3": "Her decision was final and non-mutable.",
+    "Explanation": "'Non-mutable' describes something that is fixed and cannot be modified. It is commonly used in technical fields like law, computer science, and data management. The word emphasizes permanence and resistance to change. Understanding this term helps in contexts where stability and unalterable conditions are important. It's the opposite of 'mutable', which means changeable.",
+    "synonyms": [
+      "immutable",
+      "unchangeable",
+      "fixed",
+      "constant"
+    ],
+    "antonyms": [
+      "mutable",
+      "changeable",
+      "alterable",
+      "variable"
+    ],
+    "nounForm": "non-mutability",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-mutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, computer programming, data structures",
+    "usageTip": "Use 'non-mutable' in formal or technical writing to describe something that cannot be changed.",
+    "commonMistake": "Confusing 'non-mutable' with 'immutable'; they are synonyms, but 'immutable' is more common.",
+    "collocations": [
+      "non-mutable object",
+      "non-mutable data",
+      "non-mutable state"
+    ]
+  },
+  {
+    "word": "Non-mutable",
+    "meaning": "Not able to be changed once created",
+    "shortMeaning": "cannot be changed",
+    "example": "The configuration settings are non-mutable during runtime.",
+    "example2": "We use non-mutable data structures to prevent bugs.",
+    "example3": "The object is non-mutable, ensuring data consistency.",
+    "Explanation": "The term 'non-mutable' (or 'immutable') refers to an object, variable, or data structure that cannot be modified after it is created. If you need to change it, you must create a new copy with the new values. This is a very popular concept in functional programming because it eliminates side effects and makes code much easier to debug, especially in multi-threaded environments. It is a key feature of modern stable software architecture.",
+    "synonyms": [
+      "immutable",
+      "fixed",
+      "constant"
+    ],
+    "antonyms": [
+      "mutable",
+      "changeable",
+      "variable"
+    ],
+    "nounForm": "immutability",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-mutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, data structures",
+    "usageTip": "Use to describe safety and consistency.",
+    "commonMistake": "Confusing 'non-mutable' with 'read-only'; they are similar, but non-mutable is a deeper structural definition.",
+    "collocations": [
+      "non-mutable object",
+      "non-mutable data",
+      "keep it non-mutable"
+    ]
+  }
+]

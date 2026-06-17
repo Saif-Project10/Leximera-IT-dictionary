@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Graphic",
+    "meaning": "Relating to visual art, especially involving drawing or photography; giving a vivid picture.",
+    "shortMeaning": "visual; vividly descriptive",
+    "example": "She is a graphic designer.",
+    "example2": "The report contained graphic descriptions of the accident.",
+    "example3": "The book is illustrated with graphic images.",
+    "Explanation": "'Graphic' is an adjective with two related meanings. First, it pertains to visual arts and design (graphic arts, graphic novel). Second, it describes something that is very clear and vivid, often shockingly so (graphic violence, graphic detail). The noun form can refer to a diagram or, in computing, a picture. It's a word that bridges art and communication, emphasizing visual impact or descriptive clarity. In modern usage, 'graphic' often implies computer-generated imagery (CGI) or design done on a computer.",
+    "synonyms": [
+      "visual",
+      "vivid",
+      "explicit"
+    ],
+    "antonyms": [
+      "vague",
+      "textual",
+      "mild"
+    ],
+    "nounForm": "graphic, graphics",
+    "verbForm": "N/A",
+    "adjectiveForm": "graphic",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Design, descriptions, media, computing",
+    "usageTip": "In design, it's a specific field. As a descriptor for content, it often serves as a warning about violent or sexual material.",
+    "commonMistake": "Confusing 'graphic' (visual/vivid) with 'graphical' (which is often interchangeable but more commonly used in technical contexts like 'graphical user interface').",
+    "collocations": [
+      "graphic design",
+      "graphic content",
+      "graphic equalizer"
+    ]
+  },
+  {
+    "word": "Graphic",
+    "meaning": "Relating to visual images or diagrams",
+    "shortMeaning": "Visual",
+    "example": "The application provides graphic representation of the data.",
+    "example2": "He designed a graphic for the user interface.",
+    "example3": "Graphics processing is handled by the GPU.",
+    "Explanation": "The word 'graphic' refers to visual elements, images, or designs. In IT, it is most commonly associated with 'graphics', the rendering of images, or 'graphic design'. It can also mean vivid or highly detailed descriptions. It is used as an adjective or noun. Ensure you distinguish between 'graphic' (as in a single image/design) and 'graphics' (the field or technology).",
+    "synonyms": [
+      "visual",
+      "pictorial",
+      "vivid"
+    ],
+    "antonyms": [
+      "textual",
+      "abstract"
+    ],
+    "nounForm": "graphic",
+    "verbForm": "N/A",
+    "adjectiveForm": "graphic",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Visual design and computer graphics",
+    "usageTip": "Use 'graphic' when discussing images or visual data.",
+    "commonMistake": "Confusing 'graphic' with 'GUI', which is a whole interface.",
+    "collocations": [
+      "graphic design",
+      "computer graphics",
+      "graphic representation"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Shadow ban",
+    "meaning": "A secret block where a user's posts are hidden from others without the user being notified",
+    "shortMeaning": "secret social media block",
+    "example": "He suspected a shadow ban because his posts were getting zero likes or views.",
+    "example2": "Social media platforms use a shadow ban to limit the spread of spam or harmful content.",
+    "example3": "A shadow ban is often more frustrating than a direct ban because it is invisible.",
+    "Explanation": "A shadow ban is a form of moderation used by online platforms like Twitter, Instagram, or Reddit. When a user is shadow-banned, they can still post and interact as usual, but their content is hidden from everyone else's feed. To the user, it looks like people are just ignoring them. Platforms do this to stop spammers or trolls from simply creating new accounts immediately. If a spammer doesn't know they are banned, they will continue posting on the dead account instead of making a new one. It is a controversial practice because it lacks transparency.",
+    "synonyms": [
+      "stealth banning",
+      "ghost banning",
+      "comment ghosting"
+    ],
+    "antonyms": [
+      "public ban",
+      "unban"
+    ],
+    "nounForm": "shadow ban",
+    "verbForm": "shadow ban",
+    "adjectiveForm": "shadow-banned",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Social media and online community management",
+    "usageTip": "If your engagement suddenly drops to zero, check if your posts appear when you are logged out to see if you have a shadow ban.",
+    "commonMistake": "Thinking a 'shadow ban' is always a technical glitch; it is usually an intentional moderation action.",
+    "collocations": [
+      "receive a shadow ban",
+      "lift a shadow ban",
+      "avoid a shadow ban"
+    ]
+  },
+  {
+    "word": "Shadow ban",
+    "meaning": "To partially block a user account or hide its posts from the public view without notifying the account owner",
+    "shortMeaning": "silently restrict user account",
+    "example": "The platform algorithm decided to shadow ban the profile for posting spam link strings repeatedly.",
+    "example2": "If a system decides to shadow ban your account, your messages will only be visible to yourself.",
+    "example3": "The developer designed an automated moderation code function to shadow ban malicious network bots.",
+    "Explanation": "The term 'Shadow ban' is a modern concept in social media architecture, forum development, and online community moderation. Unlike a standard ban where users are met with an explicit 'Access Denied' screen, a shadow ban is completely invisible to the restricted user. They can still type posts, upload media, and browse layouts normally. However, the system silently flags their account, filtering their content out so no other community members can see it. This clever tactic keeps spammers busy without alerting them to create new fake accounts.",
+    "synonyms": [
+      "stealth ban",
+      "silent restriction",
+      "ghost block"
+    ],
+    "antonyms": [
+      "unban",
+      "approve account",
+      "whitelisting"
+    ],
+    "nounForm": "shadow ban / shadow banning",
+    "verbForm": "shadow ban",
+    "adjectiveForm": "shadow-banned",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Social media user moderation, community forum backend rules, anti-spam algorithm loops",
+    "usageTip": "Use 'shadow ban' when explaining advanced user moderation strategies that isolate spam bots without alerting them.",
+    "commonMistake": "Capitalizing 'shadow ban' as if it were a trademarked software product name; it is a general operational concept.",
+    "collocations": [
+      "automated shadow ban",
+      "get a shadow ban",
+      "shadow ban algorithm"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Upper case",
+    "meaning": "Capital letters (ABC) as opposed to small letters (abc).",
+    "shortMeaning": "capital letters",
+    "example": "Passwords are often case-sensitive, so make sure you use an upper case letter.",
+    "example2": "The title of the document should be written in all upper case.",
+    "example3": "Most programming constants are written in upper case by convention.",
+    "Explanation": "Upper case refers to the large letters of the alphabet. In the early days of printing, these metal letters were kept in the 'upper' tray (case) of a cabinet. In IT, upper case is used for emphasis, for acronyms (like 'HTML'), and in specific coding styles (like 'SCREAMING_SNAKE_CASE'). Understanding when to use upper case is important for readability and for following naming conventions in different programming languages.",
+    "synonyms": [
+      "capitals",
+      "uppercase",
+      "majuscule"
+    ],
+    "antonyms": [
+      "lower case",
+      "minuscule",
+      "small letters"
+    ],
+    "nounForm": "upper case",
+    "verbForm": "capitalize",
+    "adjectiveForm": "upper-case",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Typography, coding styles, and passwords",
+    "usageTip": "Use 'upper case' for constants in code to make them stand out from variables.",
+    "commonMistake": "Spelling it as 'upcase' (common in Ruby, but 'upper case' is standard English).",
+    "collocations": [
+      "upper case letters",
+      "convert to upper case",
+      "all upper case"
+    ]
+  },
+  {
+    "word": "Upper case",
+    "meaning": "The capital letter form of alphabetic characters",
+    "shortMeaning": "capital letters",
+    "example": "Please use upper case for the variable names in this constant.",
+    "example2": "The input field converts text to upper case automatically.",
+    "example3": "Some systems are sensitive to upper case letters.",
+    "Explanation": "Upper case refers to the larger, capital versions of letters in the alphabet. In IT, case sensitivity is very common; for example, 'Variable' and 'variable' might be treated as two completely different things by a programming language. Managing upper case and lower case correctly is essential for password security, file naming, and search functionality. Developers often write scripts to normalize text input by converting everything to either upper case or lower case to ensure consistent data storage and retrieval.",
+    "synonyms": [
+      "capitalized",
+      "caps",
+      "uppercase"
+    ],
+    "antonyms": [
+      "lower case",
+      "small letters"
+    ],
+    "nounForm": "upper case",
+    "verbForm": "capitalize",
+    "adjectiveForm": "upper-case",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Text processing and programming",
+    "usageTip": "Always clarify if your system is case sensitive.",
+    "commonMistake": "Assuming the computer does not distinguish between cases.",
+    "collocations": [
+      "upper case letter",
+      "convert to upper case",
+      "upper case sensitivity"
+    ]
+  }
+]

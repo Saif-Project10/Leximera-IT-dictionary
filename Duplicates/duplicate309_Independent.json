@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Independent",
+    "meaning": "Free from outside control; not depending on another's authority or resources.",
+    "shortMeaning": "self-reliant; autonomous",
+    "example": "She became financially independent after college.",
+    "example2": "The investigation must be conducted by an independent body.",
+    "example3": "The former colony is now an independent nation.",
+    "Explanation": "Independent is a powerful adjective (and noun) describing a state of self-sufficiency, autonomy, and freedom from control. It can apply to individuals, countries, organizations, or variables (in statistics). It implies the ability to function, decide, or exist on one's own. It is often a valued personal trait and a political ideal. The noun is 'independence.' A common mistake is confusing it with 'indifferent' (not caring). Being independent doesn't mean being isolated; it means the capacity to choose one's associations. This word is central to discussions of freedom, maturity, and objective analysis.",
+    "synonyms": [
+      "autonomous",
+      "self-sufficient",
+      "self-reliant",
+      "sovereign",
+      "self-governing"
+    ],
+    "antonyms": [
+      "dependent",
+      "reliant",
+      "subordinate",
+      "controlled"
+    ],
+    "nounForm": "independence",
+    "verbForm": "N/A",
+    "adjectiveForm": "independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Politics, personal finance, journalism, and research.",
+    "usageTip": "Use 'independent of' to mean not influenced or determined by (e.g., 'Her decision was independent of my opinion').",
+    "commonMistake": "Using 'independent from' – the standard preposition is 'independent of.'",
+    "collocations": [
+      "independent thinker",
+      "independent study",
+      "independent variable"
+    ]
+  },
+  {
+    "word": "Independent",
+    "meaning": "Free from outside control or influence",
+    "shortMeaning": "free / self-reliant",
+    "example": "The module operates as an independent service.",
+    "example2": "She is an independent consultant for the IT project.",
+    "example3": "They conducted independent tests to verify the results.",
+    "Explanation": "The word 'independent' describes someone or something that functions on its own without needing help or control from others. In IT, 'independent' modules can be updated or replaced without breaking the rest of the application. This is a core concept in modular design. It is a highly positive adjective signifying self-reliance, objectivity, and autonomy. It is often used to describe audit results or software components.",
+    "synonyms": [
+      "autonomous",
+      "free",
+      "self-sufficient"
+    ],
+    "antonyms": [
+      "dependent",
+      "controlled",
+      "reliant"
+    ],
+    "nounForm": "independence",
+    "verbForm": "N/A",
+    "adjectiveForm": "independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, consulting, testing",
+    "usageTip": "Use for things that do not depend on others.",
+    "commonMistake": "Confusing 'independent' with 'separate'.",
+    "collocations": [
+      "independent module",
+      "independent test",
+      "independent study"
+    ]
+  }
+]

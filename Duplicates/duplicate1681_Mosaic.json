@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Mosaic",
+    "meaning": "A picture or pattern made by putting together many small pieces of glass, stone, or tile",
+    "shortMeaning": "pattern of small pieces",
+    "example": "The floor of the old church was covered in a beautiful mosaic.",
+    "example2": "She created a mosaic using broken pieces of colored pottery.",
+    "example3": "The digital artist used a mosaic effect to hide the person's identity.",
+    "Explanation": "Mosaics have been used in art for thousands of years, starting with the Romans and Greeks. In modern times, the word is also used in technology. A 'photo mosaic' is a large image made up of hundreds of tiny individual photos. In a browser context, 'Mosaic' was the name of the first popular web browser that could show images with text. In a broader sense, 'mosaic' can describe anything made of diverse, small parts. It represents unity created from variety. In data science, a 'mosaic plot' is a type of chart used to show the relationship between different categories.",
+    "synonyms": [
+      "pattern",
+      "montage",
+      "tessellation"
+    ],
+    "antonyms": [
+      "single piece",
+      "uniform surface"
+    ],
+    "nounForm": "mosaic",
+    "verbForm": "N/A",
+    "adjectiveForm": "mosaic",
+    "partOfSpeech": "noun",
+    "commonContext": "Art, history, and data visualization",
+    "usageTip": "Use 'mosaic' to describe something that is made up of many small, different parts.",
+    "commonMistake": "Confusing 'mosaic' with 'collage'; a mosaic is usually a structured pattern, while a collage is more random.",
+    "collocations": [
+      "mosaic tile",
+      "photo mosaic",
+      "mosaic pattern"
+    ]
+  },
+  {
+    "word": "Mosaic",
+    "meaning": "A pattern made of many small pieces or a composite view",
+    "shortMeaning": "composed pattern",
+    "example": "The satellite image was a mosaic of smaller photos.",
+    "example2": "We created a mosaic effect in the video editor.",
+    "example3": "The UI displays a mosaic of user profile icons.",
+    "Explanation": "A mosaic is an image or design made by combining many smaller, distinct parts. In technology, this is used in image stitching (creating one big map from several small ones), UI layouts (grids of images), and data visualization. It highlights the assembly of individual components into a cohesive, larger whole. It is a creative way to display information when you have multiple data sources that need to be viewed simultaneously.",
+    "synonyms": [
+      "composite",
+      "collage",
+      "tessellation"
+    ],
+    "antonyms": [
+      "whole",
+      "single-image"
+    ],
+    "nounForm": "mosaic",
+    "verbForm": "N/A",
+    "adjectiveForm": "mosaic",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Image processing, UI design, mapping",
+    "usageTip": "Use 'mosaic' when discussing grouped image layouts.",
+    "commonMistake": "Confusing it with a standard 'grid' (a mosaic often overlaps).",
+    "collocations": [
+      "mosaic layout",
+      "mosaic effect",
+      "image mosaic"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "total_words_available": 27842,
+  "words_used": 27842,
+  "words_per_file": 10,
+  "files_per_subfolder": 10,
+  "words_per_subfolder": 100,
+  "subfolders_per_batch": 25,
+  "words_per_batch": 2500,
+  "total_batches_planned": 12,
+  "total_batches_created": 12,
+  "total_subfolders_created": 279,
+  "total_files_created": 2785,
+  "file_numbering": "Continuous (1 to 2785)",
+  "file_type": "TXT (comma-separated words)",
+  "notes": "Only 27842 words were available out of 30000 planned",
+  "folder_structure": {
+    "main_folder": "Mcqs_Words_Batches"
+  }
+}

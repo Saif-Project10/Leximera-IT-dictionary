@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Ancient",
+    "meaning": "Belonging to the very distant past, especially to the period before the end of the Roman Empire.",
+    "shortMeaning": "very old",
+    "example": "We studied the history of ancient Egypt.",
+    "example2": "They discovered ancient ruins beneath the city.",
+    "example3": "That joke is ancient—I heard it years ago!",
+    "Explanation": "'Ancient' is an adjective primarily used for historical periods thousands of years ago (e.g., ancient Greece, ancient civilizations). It can also be used informally to describe something that is just very old or outdated. It carries a sense of immense age, mystery, and foundational importance. It's different from 'old', which is more general. 'Ancient history' is a common phrase, sometimes used metaphorically to refer to a past event that is no longer relevant.",
+    "synonyms": [
+      "archaic",
+      "antique",
+      "prehistoric",
+      "old"
+    ],
+    "antonyms": [
+      "modern",
+      "new",
+      "recent",
+      "contemporary"
+    ],
+    "nounForm": "antiquity",
+    "verbForm": "N/A",
+    "adjectiveForm": "ancient",
+    "partOfSpeech": "adjective",
+    "commonContext": "History, archaeology, informal humor about age",
+    "usageTip": "Capitalize it when referring to specific historical civilizations: Ancient Rome.",
+    "commonMistake": "Using it for things that are just a few decades old; it implies a much longer timescale.",
+    "collocations": [
+      "ancient history",
+      "ancient world",
+      "ancient times",
+      "ancient artifact"
+    ]
+  },
+  {
+    "word": "Ancient",
+    "meaning": "Belonging to a time that was thousands of years ago or very old",
+    "shortMeaning": "Very old",
+    "example": "The archeologist discovered an ancient computer prototype from the early 1940s.",
+    "example2": "They studied ancient history to understand early human civilizations.",
+    "example3": "This legacy code looks ancient compared to modern programming languages.",
+    "Explanation": "The word 'ancient' refers to things that belong to the very distant past, usually thousands of years ago. However, in modern IT and technology contexts, people often use it jokingly or hyperbole to describe tech that is just a couple of decades old because technology changes so fast. The word does not have a standard verb form. It is primarily used as an adjective to describe physical objects, historical eras, or outdated systems. Be careful not to use it in formal technical documentation when you simply mean 'deprecated' or 'outdated'.",
+    "synonyms": [
+      "antique",
+      "aged",
+      "prehistoric"
+    ],
+    "antonyms": [
+      "modern",
+      "new",
+      "contemporary"
+    ],
+    "nounForm": "ancientness",
+    "verbForm": "N/A",
+    "adjectiveForm": "ancient",
+    "partOfSpeech": "adjective",
+    "commonContext": "History, archaeology, and informal IT slang for old tech",
+    "usageTip": "Use 'ancient' formally for thousands-of-years-old history, or informally to emphasize that technology is extremely out of date.",
+    "commonMistake": "Using 'ancient' in professional code reviews when you should use 'deprecated' or 'legacy'.",
+    "collocations": [
+      "ancient history",
+      "ancient civilization",
+      "ancient ruins"
+    ]
+  }
+]

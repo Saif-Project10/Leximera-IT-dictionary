@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Surface mount",
+    "meaning": "A method of producing electronic circuits where components are placed directly on the board",
+    "shortMeaning": "PCB assembly type",
+    "example": "Modern smartphones use surface mount components to save space.",
+    "example2": "Surface mount technology has replaced older through-hole methods.",
+    "example3": "The robot precisely placed each surface mount chip onto the PCB.",
+    "Explanation": "Surface mount refers to a style of electronic component design where the parts do not have long wires (leads) that go through holes in a circuit board. Instead, they have small metal tabs that are soldered directly onto the surface of the board. This allows for much smaller and more densely packed electronics. It is the standard method for almost all modern consumer electronics like laptops and tablets. It is generally faster to assemble using machines than the older 'through-hole' method. However, it can be harder to repair by hand.",
+    "synonyms": [
+      "SMD",
+      "direct mount"
+    ],
+    "antonyms": [
+      "through-hole"
+    ],
+    "nounForm": "surface mount",
+    "verbForm": "surface-mount",
+    "adjectiveForm": "surface-mount",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Electronics manufacturing and hardware design",
+    "usageTip": "Use 'SMD' (Surface Mount Device) when referring to the individual components.",
+    "commonMistake": "Trying to use regular soldering irons on very small surface mount parts without a microscope.",
+    "collocations": [
+      "surface mount device",
+      "surface mount component",
+      "surface mount assembly"
+    ]
+  },
+  {
+    "word": "Surface mount",
+    "meaning": "A method where components are mounted directly onto the surface of a PCB",
+    "shortMeaning": "SMT assembly",
+    "example": "The circuit board uses surface mount technology.",
+    "example2": "Surface mount components are smaller and faster to assemble.",
+    "example3": "He learned to solder surface mount chips.",
+    "Explanation": "Surface mount (or Surface Mount Technology, SMT) is a standard method in electronics where components are soldered directly to the surface of a Printed Circuit Board (PCB). Unlike older 'through-hole' technology, it allows for much denser and smaller circuits. It is the foundation of almost all modern hardware, from smartphones to servers. It is a critical concept in hardware manufacturing and repair.",
+    "synonyms": [
+      "SMT",
+      "SMD",
+      "surface mount technology"
+    ],
+    "antonyms": [
+      "through-hole"
+    ],
+    "nounForm": "surface mount",
+    "verbForm": "mount",
+    "adjectiveForm": "surface-mount",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Electronics manufacturing, hardware repair",
+    "usageTip": "Use 'surface mount' when discussing PCB manufacturing methods.",
+    "commonMistake": "Assuming all electronics can be repaired by hand (SMT is very small).",
+    "collocations": [
+      "surface mount technology",
+      "surface mount component",
+      "surface mount chip"
+    ]
+  }
+]

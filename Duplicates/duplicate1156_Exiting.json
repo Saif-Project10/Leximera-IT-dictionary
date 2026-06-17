@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Exiting",
+    "meaning": "Going out of or leaving a place.",
+    "shortMeaning": "leaving",
+    "example": "He was seen exiting the building through the rear door.",
+    "example2": "Please use the designated doors when exiting the theater.",
+    "example3": "The program is exiting due to an error.",
+    "Explanation": "'Exiting' is the present participle of the verb 'exit'. It describes the ongoing action of leaving a place, vehicle, or situation. It is commonly used in instructions (exiting a building), descriptions of movement, and in computing (a program exiting). As a gerund, it can function as a noun ('Exiting the highway was difficult'). It's a straightforward word for describing departure. It is more formal than 'leaving' in some contexts, especially in written instructions or technical descriptions.",
+    "synonyms": [
+      "leaving",
+      "departing",
+      "going out"
+    ],
+    "antonyms": [
+      "entering",
+      "arriving",
+      "coming in"
+    ],
+    "nounForm": "exit",
+    "verbForm": "exit",
+    "adjectiveForm": "exiting",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Traffic, buildings, software, stages",
+    "usageTip": "Often used in continuous tenses ('is exiting') or as a verbal noun. In American English, 'exiting' is standard; British English sometimes uses 'exitting' with double t.",
+    "commonMistake": "Misspelling it as 'exitting' in American English (one 't' is correct).",
+    "collocations": [
+      "exiting the vehicle",
+      "exiting stage left",
+      "process exiting"
+    ]
+  },
+  {
+    "word": "Exiting",
+    "meaning": "The act of leaving a program, system, or physical location",
+    "shortMeaning": "leaving",
+    "example": "The user is exiting the application after saving the changes.",
+    "example2": "Check for errors when exiting the database connection.",
+    "example3": "Exiting the system requires administrator authorization.",
+    "Explanation": "The word 'exiting' refers to the process of closing a session, program, or moving out of an area. In programming, it often refers to the function or command that terminates a process. It is a common term in UI/UX design, such as an 'exit button'. Using this correctly helps users understand they are ending their current task. It implies a clean shutdown or departure from the current environment.",
+    "synonyms": [
+      "leaving",
+      "departing",
+      "terminating"
+    ],
+    "antonyms": [
+      "entering",
+      "opening",
+      "starting"
+    ],
+    "nounForm": "exit",
+    "verbForm": "exit",
+    "adjectiveForm": "exiting",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software interface, session management, and system operations",
+    "usageTip": "Use 'exiting' to describe the action of closing a program or process.",
+    "commonMistake": "Confusing the noun 'exit' with the verb 'exiting' in code comments.",
+    "collocations": [
+      "exiting the program",
+      "exiting the system",
+      "safe exiting"
+    ]
+  }
+]

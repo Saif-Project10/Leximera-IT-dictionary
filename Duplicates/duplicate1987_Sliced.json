@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sliced",
+    "meaning": "Divided into smaller pieces, sections, or segments.",
+    "shortMeaning": "cut into pieces",
+    "example": "The image is sliced for better web loading.",
+    "example2": "The database can be sliced by date or region.",
+    "example3": "The data needs to be sliced into smaller chunks for processing.",
+    "Explanation": "The word 'sliced' refers to the act of breaking something down into smaller, manageable parts. In data management, you 'slice' data to filter it or view specific aspects. In image processing, you 'slice' images for web design. It allows you to deal with complexity by working on smaller, more focused segments rather than the whole.",
+    "synonyms": [
+      "divided",
+      "segmented",
+      "cut"
+    ],
+    "antonyms": [
+      "combined",
+      "integrated",
+      "whole"
+    ],
+    "nounForm": "slice",
+    "verbForm": "slice",
+    "adjectiveForm": "sliced",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data analysis and UI design",
+    "usageTip": "Use 'sliced' for dividing data or images.",
+    "commonMistake": "Confusing 'sliced' with 'merged'.",
+    "collocations": [
+      "data sliced",
+      "sliced image",
+      "slice the data"
+    ]
+  },
+  {
+    "word": "Sliced",
+    "meaning": "Divided into small, manageable pieces or sections",
+    "shortMeaning": "divided into parts",
+    "example": "The data was sliced into smaller chunks for easier processing.",
+    "example2": "He sliced the array into two separate parts to handle them better.",
+    "example3": "The image was sliced into smaller icons for the website design.",
+    "Explanation": "The word 'sliced' describes the act of splitting a whole item into smaller, logical segments. In programming, array slicing is a common technique used to manipulate data. It helps in managing large datasets or processing complex objects efficiently. By breaking things down, it becomes easier to analyze or display them. It is a very specific term in data structures and user interface development.",
+    "synonyms": [
+      "divided",
+      "segmented",
+      "cut"
+    ],
+    "antonyms": [
+      "combined",
+      "merged",
+      "integrated"
+    ],
+    "nounForm": "slice",
+    "verbForm": "slice",
+    "adjectiveForm": "sliced",
+    "partOfSpeech": "verb",
+    "commonContext": "Data processing, arrays, strings",
+    "usageTip": "Use 'sliced' when referring to splitting data arrays or segments.",
+    "commonMistake": "Thinking 'sliced' refers only to physical objects like food.",
+    "collocations": [
+      "sliced data",
+      "sliced array",
+      "sliced into"
+    ]
+  }
+]

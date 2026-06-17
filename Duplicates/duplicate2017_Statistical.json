@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Statistical",
+    "meaning": "Based on or using data to identify patterns.",
+    "shortMeaning": "data-based",
+    "example": "The model uses statistical methods to predict demand.",
+    "example2": "We analyzed the statistical trends of our traffic.",
+    "example3": "Statistical analysis revealed a major efficiency gap.",
+    "Explanation": "The word 'statistical' refers to the use of mathematics and data to understand trends, likelihoods, and patterns. In IT, this is essential for machine learning, capacity planning, and performance optimization. Instead of relying on guesswork, developers use statistical data to make informed decisions about infrastructure, code efficiency, and user behavior. It transforms large amounts of raw data into actionable insights that guide project strategy and system improvements.",
+    "synonyms": [
+      "data-driven",
+      "numerical",
+      "analytical"
+    ],
+    "antonyms": [
+      "intuitive",
+      "anecdotal",
+      "guess-based"
+    ],
+    "nounForm": "statistics",
+    "verbForm": "N/A",
+    "adjectiveForm": "statistical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, capacity planning, analysis",
+    "usageTip": "Use 'statistical' to describe methods using numerical data.",
+    "commonMistake": "Ignoring the margin of error in statistical findings.",
+    "collocations": [
+      "statistical analysis",
+      "statistical method",
+      "statistical trend"
+    ]
+  },
+  {
+    "word": "Statistical",
+    "meaning": "Relating to the collection, analysis, or interpretation of data",
+    "shortMeaning": "data-based",
+    "example": "The dashboard provides statistical analysis of user engagement.",
+    "example2": "We use statistical methods to predict future server load.",
+    "example3": "Statistical data shows that the bug appears under heavy traffic.",
+    "Explanation": "The word 'statistical' refers to the science of using data to find patterns and make predictions. In IT, this is essential for performance analysis, user behavior tracking, and security monitoring. By looking at statistical trends, developers and managers can make data-driven decisions rather than relying on intuition. It is a fundamental term for any data-intensive application. It is highly valued in the modern age of analytics.",
+    "synonyms": [
+      "analytical",
+      "numerical",
+      "quantitative"
+    ],
+    "antonyms": [
+      "anecdotal",
+      "intuitive",
+      "qualitative"
+    ],
+    "nounForm": "statistics",
+    "verbForm": "N/A",
+    "adjectiveForm": "statistical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, performance, analytics",
+    "usageTip": "Use 'statistical' when you have data to back up your claims.",
+    "commonMistake": "Confusing statistical correlation with true causation.",
+    "collocations": [
+      "statistical analysis",
+      "statistical data",
+      "statistical method"
+    ]
+  }
+]

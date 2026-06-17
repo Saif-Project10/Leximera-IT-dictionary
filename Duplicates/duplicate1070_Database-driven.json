@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Database-driven",
+    "meaning": "Relying on a database for its core functionality and content; powered by a database.",
+    "shortMeaning": "powered by a database",
+    "example": "Most modern websites are database-driven.",
+    "example2": "The application is database-driven, so all content is easily updatable.",
+    "example3": "A database-driven approach allows for dynamic content generation.",
+    "Explanation": "'Database-driven' is a compound adjective used in software and web development. It describes systems, websites, or applications where the content, structure, and behavior are primarily controlled by data stored in a database (like MySQL or PostgreSQL). This contrasts with static websites where all pages are hard-coded HTML files. A database-driven site can be more easily updated, can scale better, and can offer personalized content. It's a standard architecture for any dynamic web application, from blogs to e-commerce.",
+    "synonyms": [
+      "data-driven (in this specific context)",
+      "dynamic"
+    ],
+    "antonyms": [
+      "static",
+      "file-based",
+      "hard-coded"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "database-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, software architecture, IT",
+    "usageTip": "Hyphenate when used before a noun. It's a technical term describing a common design pattern.",
+    "commonMistake": "Confusing it with 'data-driven' decision making, which is a business intelligence concept.",
+    "collocations": [
+      "database-driven website",
+      "database-driven application",
+      "database-driven system"
+    ]
+  },
+  {
+    "word": "Database-driven",
+    "meaning": "A software application that pulls its content and logic directly from a database.",
+    "shortMeaning": "controlled by a database",
+    "example": "Our website is database-driven so users can easily edit their own profiles.",
+    "example2": "A database-driven application is much easier to scale.",
+    "example3": "Most modern CMS platforms are database-driven.",
+    "Explanation": "Being 'database-driven' means the application stores its primary content, user data, and configuration in a database, allowing it to dynamically serve different information. This is standard for almost all modern web applications. Because the content is in the database, updating it doesn't require rewriting code. Understanding a database-driven architecture is fundamental for backend web development. It allows for dynamic, interactive user experiences.",
+    "synonyms": [
+      "dynamic",
+      "backend-powered"
+    ],
+    "antonyms": [
+      "static"
+    ],
+    "nounForm": "Database",
+    "verbForm": "N/A",
+    "adjectiveForm": "Database-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development and software engineering",
+    "usageTip": "Use this to describe websites that load content from a database instead of using static files.",
+    "commonMistake": "Assuming all data-intensive systems are database-driven; some might use flat files.",
+    "collocations": [
+      "database-driven website",
+      "database-driven application",
+      "database-driven system"
+    ]
+  }
+]

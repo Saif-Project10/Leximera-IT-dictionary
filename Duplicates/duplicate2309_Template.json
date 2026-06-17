@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Template",
+    "meaning": "A pre-designed document, file, or structure that serves as a starting point",
+    "shortMeaning": "pre-made pattern",
+    "example": "I used a template for my project proposal.",
+    "example2": "The email template is already set up.",
+    "example3": "He created a template for all future reports.",
+    "Explanation": "A 'template' is a master copy or a model that you can use to create new things quickly without starting from scratch. It is used everywhere in IT: coding (C++ templates), web design (HTML/CSS templates), document creation (Word templates), and project management. Using a template ensures consistency and saves time. It is one of the most useful and common terms in daily computer work. The verb form is 'template'.",
+    "synonyms": [
+      "model",
+      "pattern",
+      "blueprint"
+    ],
+    "antonyms": [
+      "N/A",
+      "original",
+      "custom design"
+    ],
+    "nounForm": "template",
+    "verbForm": "template",
+    "adjectiveForm": "templated",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, office software, design, coding",
+    "usageTip": "Use 'template' when talking about a file that helps you save time.",
+    "commonMistake": "Thinking a template is just a design; it's a structural guide.",
+    "collocations": [
+      "template file",
+      "use a template",
+      "create a template"
+    ]
+  },
+  {
+    "word": "Template",
+    "meaning": "A pre-designed file, layout, or code pattern used as a starting framework to create new matching content quickly",
+    "shortMeaning": "pre-made layout pattern",
+    "example": "I used a responsive HTML5 template to speed up the website landing page design.",
+    "example2": "The development team created a standard email template for automated user welcome alerts.",
+    "example3": "You can save this custom card layout as a template for future code modules.",
+    "Explanation": "The word 'template' is ubiquitous across web development and UI design. Instead of building every web page or code structure completely from scratch, developers employ templates as reusable blueprints. In frontend design, a CSS template provides pre-configured grids and color schemes. In backend coding, template engines (like EJS or Handlebars) blend raw JSON data files with static HTML frameworks to render dynamic pages efficiently. Using templates ensures visual consistency and reduces error rates.",
+    "synonyms": [
+      "blueprint",
+      "boilerplate",
+      "pattern",
+      "layout mold"
+    ],
+    "antonyms": [
+      "original creation",
+      "custom build"
+    ],
+    "nounForm": "template",
+    "verbForm": "template",
+    "adjectiveForm": "templated",
+    "partOfSpeech": "noun",
+    "commonContext": "Web page layouts, code architecture, text document generation",
+    "usageTip": "Utilize 'template' to describe reusable code snippets or UI starter files that save development time.",
+    "commonMistake": "Confusing a 'template' with a finished product; a template always requires data initialization to become useful.",
+    "collocations": [
+      "html template",
+      "page template",
+      "reusable template"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Rearrange",
+    "meaning": "To change the position or order of things; to organize differently.",
+    "shortMeaning": "change the order",
+    "example": "Let's rearrange the furniture to make more space.",
+    "example2": "She rearranged her schedule to fit in the meeting.",
+    "example3": "The letters can be rearranged to form a new word.",
+    "Explanation": "Rearrange involves moving components of a set into a new configuration. The goal is often to improve organization, efficiency, or aesthetics. It can apply to physical objects (furniture, books), abstract concepts (ideas in an essay, appointments in a calendar), or data (items in a list). It implies a thoughtful or deliberate process of reorganization rather than random movement. The noun is 'rearrangement'. It's a common activity in home organization, event planning, writing, and problem-solving, reflecting a desire for better order.",
+    "synonyms": [
+      "reorganize",
+      "reshuffle",
+      "reorder",
+      "move around"
+    ],
+    "antonyms": [
+      "keep in place",
+      "fix",
+      "stabilize"
+    ],
+    "nounForm": "rearrangement",
+    "verbForm": "rearrange",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Furniture, schedules, lists, words, priorities",
+    "usageTip": "Often followed by a direct object: 'rearrange the room', 'rearrange my plans'.",
+    "commonMistake": "Confusing 'rearrange' (change order) with 'replace' (substitute one thing for another).",
+    "collocations": [
+      "rearrange the furniture",
+      "rearrange your thoughts",
+      "rearrange a meeting"
+    ]
+  },
+  {
+    "word": "Rearrange",
+    "meaning": "To change the position, order, or structure of a group of items or elements",
+    "shortMeaning": "change the order",
+    "example": "You can rearrange the dashboard widgets by dragging and dropping them.",
+    "example2": "The developer had to rearrange the code blocks to improve execution logic.",
+    "example3": "Let us rearrange the database columns to match our new API data format.",
+    "Explanation": "The word 'Rearrange' means to move items into a different order or layout. In user interface design, giving users the ability to rearrange elements provides an interactive and customized experience. In programming, developers frequently rearrange code modules, functions, or arrays to optimize execution pathing or make things easier to read. It focuses on taking components that already exist and shuffling their positions without adding new items. Proper organization makes digital layouts look neat and professional.",
+    "synonyms": [
+      "reorder",
+      "reorganize",
+      "shuffle"
+    ],
+    "antonyms": [
+      "leave as is",
+      "fix in place",
+      "keep"
+    ],
+    "nounForm": "rearrangement",
+    "verbForm": "rearrange",
+    "adjectiveForm": "rearranged",
+    "partOfSpeech": "verb",
+    "commonContext": "UI layouts, database design, organizing file directory structures",
+    "usageTip": "Use 'rearrange' when you are altering the visual layout or logical sequence of existing items.",
+    "commonMistake": "Using 'rearrange' when you mean adding new things instead of just changing the layout of old ones.",
+    "collocations": [
+      "rearrange elements",
+      "rearrange code",
+      "rearrange layout"
+    ]
+  }
+]

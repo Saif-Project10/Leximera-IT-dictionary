@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Obscure",
+    "meaning": "1. Not discovered or known about; uncertain. 2. Not clearly expressed or easily understood. 3. To hide or make unclear.",
+    "shortMeaning": "unknown; unclear; to hide",
+    "example": "He is an obscure poet from the 18th century.",
+    "example2": "The meaning of the ancient text is obscure.",
+    "example3": "Clouds obscured the view of the mountains.",
+    "Explanation": "'Obscure' can be an adjective or a verb. As an adjective, it describes something that is little known, hard to find, or difficult to understand. As a verb, it means to make something unclear or hard to see. It often implies something is hidden from knowledge or sight, whether intentionally or not. It is a more formal word than 'unclear' or 'unknown', and is common in academic, literary, and descriptive writing.",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "unknown",
+      "hidden"
+    ],
+    "antonyms": [
+      "clear",
+      "famous",
+      "obvious",
+      "well-known"
+    ],
+    "nounForm": "obscurity",
+    "verbForm": "obscure",
+    "adjectiveForm": "obscure",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Literature, history, language, views",
+    "usageTip": "Use 'obscure' as an adjective for unknown or hard-to-understand things, and as a verb for hiding or blurring.",
+    "commonMistake": "Confusing 'obscure' with 'obtuse' (slow to understand).",
+    "collocations": [
+      "obscure reference",
+      "relatively obscure",
+      "obscure the truth",
+      "fame and obscurity"
+    ]
+  },
+  {
+    "word": "Obscure",
+    "meaning": "Not discovered or known about; uncertain or difficult to understand",
+    "shortMeaning": "unclear or hidden",
+    "example": "The code uses an obscure library that is rarely updated.",
+    "example2": "The cause of the bug remains obscure.",
+    "example3": "He used an obscure command that few people know.",
+    "Explanation": "The word 'obscure' describes something that is not well-known, difficult to understand, or hidden from view. In the context of IT, it often refers to features, programming languages, or commands that are rarely used or documented poorly. When a bug's origin is 'obscure', it means the reason behind it is not immediately clear, requiring deeper investigation. It is a useful term for describing technical knowledge or code that lacks clarity and accessibility.",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "unknown"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "well-known"
+    ],
+    "nounForm": "obscurity",
+    "verbForm": "obscure",
+    "adjectiveForm": "obscure",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding, debugging, and technical documentation",
+    "usageTip": "Use 'obscure' to describe things that are hard to find or understand.",
+    "commonMistake": "Confusing 'obscure' with 'difficult' (it implies lack of visibility).",
+    "collocations": [
+      "obscure command",
+      "obscure reason",
+      "obscure language"
+    ]
+  },
+  {
+    "word": "Obscure",
+    "meaning": "Not well known, or difficult to see or understand",
+    "shortMeaning": "hidden/unclear",
+    "example": "The error was caused by an obscure bug in the legacy code.",
+    "example2": "His writing is full of obscure references.",
+    "example3": "Cloudy weather will obscure the stars tonight.",
+    "Explanation": "Obscure can be both an adjective and a verb. As an adjective, it describes something that is not famous or is hard to find. In programming, an 'obscure language' is one that very few people use. As a verb, it means to hide something from view. For example, a large menu might obscure the text behind it on a website. It implies that something is 'dim' or 'hidden'.",
+    "synonyms": [
+      "hidden",
+      "vague",
+      "unclear"
+    ],
+    "antonyms": [
+      "clear",
+      "famous",
+      "obvious"
+    ],
+    "nounForm": "obscurity",
+    "verbForm": "obscure",
+    "adjectiveForm": "obscure",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Technical bugs, language, and visibility",
+    "usageTip": "Use 'obscure' for bugs that are very hard to track down.",
+    "commonMistake": "Confusing 'obscure' with 'obsolete' (which means old/outdated).",
+    "collocations": [
+      "obscure reason",
+      "obscure bug",
+      "obscure fact"
+    ]
+  }
+]

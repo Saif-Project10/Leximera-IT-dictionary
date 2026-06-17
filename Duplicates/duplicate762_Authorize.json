@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Authorize",
+    "meaning": "To give official permission for or approval to.",
+    "shortMeaning": "give official permission",
+    "example": "The manager must authorize any expenditure over $1,000.",
+    "example2": "I am authorized to sign contracts on behalf of the company.",
+    "example3": "The law authorizes the police to conduct a search.",
+    "Explanation": "To authorize is to grant authority or legal power to do something. It's a formal act that transfers permission from a higher authority to a person or entity. Authorized actions are legal and sanctioned. The word is common in business, law, and government. An 'authorized dealer' is officially permitted to sell a product. The noun is 'authorization'. It's stronger than 'allow' or 'let'; it implies an official or legal basis. Without authorization, an action may be illegal or against policy. It's a key concept in security and management.",
+    "synonyms": [
+      "permit",
+      "approve",
+      "sanction",
+      "empower",
+      "license"
+    ],
+    "antonyms": [
+      "forbid",
+      "prohibit",
+      "ban",
+      "unauthorize"
+    ],
+    "nounForm": "authorization",
+    "verbForm": "authorize",
+    "adjectiveForm": "authorized",
+    "partOfSpeech": "verb",
+    "commonContext": "Finance, law, security, management, purchases",
+    "usageTip": "Often followed by an infinitive (authorize someone to do something) or a noun (authorize the payment).",
+    "commonMistake": "Spelling it as 'authorise' in American English (this is the British spelling).",
+    "collocations": [
+      "authorize payment",
+      "authorized personnel",
+      "fully authorize",
+      "legally authorize"
+    ]
+  },
+  {
+    "word": "Authorize",
+    "meaning": "To give official permission for someone to do something or have something",
+    "shortMeaning": "give permission",
+    "example": "Only the manager can authorize a refund for the customer.",
+    "example2": "The system must authorize your access to the private files.",
+    "example3": "I did not authorize this payment on my credit card.",
+    "Explanation": "Authorize is the second step of security. First, you 'authenticate' (who you are), and then the system 'authorizes' (what you can do). For example, a student is authenticated to log into the school portal, but they are not authorized to change their own grades. It is about power and permissions. It is used in banking, law, and computer networks. It ensures that people stay within their allowed roles.",
+    "synonyms": [
+      "permit",
+      "empower",
+      "allow"
+    ],
+    "antonyms": [
+      "forbid",
+      "prohibit",
+      "ban"
+    ],
+    "nounForm": "authorization",
+    "verbForm": "authorize",
+    "adjectiveForm": "authorized",
+    "partOfSpeech": "verb",
+    "commonContext": "Management, security permissions, and finance",
+    "usageTip": "Use 'authorized' as an adjective to describe someone who has the right to be in a certain place.",
+    "commonMistake": "Confusing 'authorize' with 'authenticate'; remember, authorize is about permissions.",
+    "collocations": [
+      "authorized person",
+      "authorize a transaction",
+      "final authorization"
+    ]
+  }
+]

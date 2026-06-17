@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Branch",
+    "meaning": "A part of a tree growing out from the trunk; a division of a large organization.",
+    "shortMeaning": "tree part; division",
+    "example": "A bird landed on a branch of the oak tree.",
+    "example2": "The bank opened a new branch in the suburbs.",
+    "example3": "Physics is a branch of science.",
+    "Explanation": "A branch is literally a limb of a tree. Figuratively, it's a subdivision or offshoot of something larger, like a company, government, family, or field of knowledge. It implies a connection to a main body but with some independence. As a verb, it means to divide or spread out ('the road branches left'). The word is fundamental for describing hierarchical structures and relationships. In computing, a 'branch' is a copy of a code repository for separate development. It's a simple but essential metaphor for growth and organization.",
+    "synonyms": [
+      "limb",
+      "bough",
+      "division",
+      "subsidiary",
+      "offshoot"
+    ],
+    "antonyms": [
+      "trunk",
+      "headquarters",
+      "main office"
+    ],
+    "nounForm": "branch",
+    "verbForm": "branch",
+    "adjectiveForm": "branching",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Trees, businesses, government, knowledge, families",
+    "usageTip": "Use 'branch out' to mean diversify or expand into new areas.",
+    "commonMistake": "Confusing 'branch' with 'brach', which is not a word.",
+    "collocations": [
+      "branch office",
+      "executive branch",
+      "branch out",
+      "local branch"
+    ]
+  },
+  {
+    "word": "Branch",
+    "meaning": "A part of a tree, or a separate version of a project in coding",
+    "shortMeaning": "tree arm / code version",
+    "example": "I will create a new branch in Git to work on the login feature.",
+    "example2": "The bank is opening a new branch in the city center.",
+    "example3": "A bird is sitting on a high branch of the oak tree.",
+    "Explanation": "In Git and other version control systems, a 'branch' is a way to work on a separate copy of the code without affecting the 'Main' version. Imagine the code as a tree trunk; a branch lets you grow in a new direction to try an idea. Once the idea is finished and tested, you 'merge' it back into the trunk. This allows many developers to work on different features of the same app at the same time without breaking each other's work.",
+    "synonyms": [
+      "division",
+      "offshoot",
+      "fork",
+      "version"
+    ],
+    "antonyms": [
+      "main",
+      "trunk",
+      "root"
+    ],
+    "nounForm": "branch",
+    "verbForm": "branch",
+    "adjectiveForm": "branched",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Git (Version Control), banking, nature",
+    "usageTip": "Always create a new branch before you start writing code for a new feature.",
+    "commonMistake": "Committing code directly to the 'Main' branch; this can cause bugs for everyone on the team.",
+    "collocations": [
+      "feature branch",
+      "branch out",
+      "main branch"
+    ]
+  }
+]

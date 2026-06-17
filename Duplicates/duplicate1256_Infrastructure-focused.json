@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Infrastructure-focused",
+    "meaning": "Having a primary emphasis on the development and management of infrastructure.",
+    "shortMeaning": "emphasizing infrastructure",
+    "example": "The government launched an infrastructure-focused economic stimulus package.",
+    "example2": "His career has been infrastructure-focused, working on dams and bridges.",
+    "example3": "The fund is infrastructure-focused, investing in ports and railways.",
+    "Explanation": "'Infrastructure-focused' is a compound adjective describing policies, investments, careers, or organizations that concentrate their efforts on infrastructure. It highlights where the main attention or resources are directed. In times of economic stimulus or development planning, governments often adopt infrastructure-focused strategies to create jobs and improve long-term productivity. It's a term common in political discourse, investment banking, and development economics. It signals a deliberate prioritization of foundational systems over other potential areas of focus.",
+    "synonyms": [
+      "infrastructure-oriented",
+      "infrastructure-centric"
+    ],
+    "antonyms": [
+      "consumer-focused",
+      "service-focused"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "infrastructure-focused",
+    "partOfSpeech": "adjective",
+    "commonContext": "Economic policy, investment, development, engineering",
+    "usageTip": "Always hyphenate. It's used to clarify the main priority or theme of an initiative.",
+    "commonMistake": "Using it to mean simply 'about infrastructure'; it implies a strategic focus or specialization.",
+    "collocations": [
+      "infrastructure-focused spending",
+      "infrastructure-focused fund",
+      "infrastructure-focused agenda"
+    ]
+  },
+  {
+    "word": "Infrastructure-focused",
+    "meaning": "Primarily concerned with the design or maintenance of IT foundations",
+    "shortMeaning": "centered on infrastructure",
+    "example": "Our team is purely infrastructure-focused.",
+    "example2": "He is an infrastructure-focused system administrator.",
+    "example3": "We need an infrastructure-focused approach to this project.",
+    "Explanation": "The term 'infrastructure-focused' describes a role, project, or mindset that prioritizes hardware, networking, cloud setup, and server reliability. These engineers spend their time on scaling, security, and uptime rather than on frontend design. It is a common professional distinction in large IT departments where roles are clearly separated.",
+    "synonyms": [
+      "backend-oriented",
+      "foundational-focused"
+    ],
+    "antonyms": [
+      "feature-focused",
+      "frontend-oriented"
+    ],
+    "nounForm": "infrastructure",
+    "verbForm": "N/A",
+    "adjectiveForm": "infrastructure-focused",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, system administration, cloud engineering",
+    "usageTip": "Use to describe roles or projects concerned with the backbone of IT.",
+    "commonMistake": "Expecting an infrastructure-focused person to work on UI/UX designs.",
+    "collocations": [
+      "infrastructure-focused role",
+      "infrastructure-focused team",
+      "infrastructure-focused project"
+    ]
+  }
+]

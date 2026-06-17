@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Phone home",
+    "meaning": "The action of a device or software connecting back to its manufacturer's server.",
+    "shortMeaning": "connecting back to base",
+    "example": "The software is designed to phone home once a week to check for updates.",
+    "example2": "Privacy experts are concerned when apps phone home without telling the user.",
+    "example3": "The malware tried to phone home to get instructions from the hacker.",
+    "Explanation": "The term 'phone home' refers to a piece of technology automatically reaching out to its central server. This can be for good reasons, like checking for security patches, verifying a license, or sending crash reports. However, it can also be used for bad reasons, such as a virus sending your private files to a hacker or an app tracking your location. Most modern smart devices (like TVs and fridges) and software applications do this regularly. It is often a point of debate regarding user privacy and data security. The phrase is a reference to the famous line from the movie 'E.T.' It is widely used in both professional IT and casual tech talk.",
+    "synonyms": [
+      "callback",
+      "beaconing",
+      "automatic reporting"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "phone home",
+    "verbForm": "phone home",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software behavior, IoT, and malware analysis",
+    "usageTip": "Use this to describe any automated connection from a device back to its source.",
+    "commonMistake": "Assuming 'phone home' always involves a literal telephone call; it is a network connection.",
+    "collocations": [
+      "phone home feature",
+      "phone home attempt",
+      "prevent phone home"
+    ]
+  },
+  {
+    "word": "Phone home",
+    "meaning": "When a computer program or device automatically connects to its manufacturer's server to send data or check for updates",
+    "shortMeaning": "device reporting to base",
+    "example": "Smart TVs often phone home to report which shows you are watching.",
+    "example2": "The software will phone home once a day to check for new security updates.",
+    "example3": "Some people block apps that phone home because of privacy concerns.",
+    "Explanation": "The phrase 'phone home' is a technical slang term. It describes a behavior where a device or app 'calls' its home server without the user telling it to. This is usually done for good reasons, like checking if you have a legal license or downloading an update. However, it can also be bad if the app is sending your private data to a company without you knowing. The term became famous from the movie E.T. It is a very common concept in cybersecurity and software management. It refers to any 'automatic reporting' by a digital product.",
+    "synonyms": [
+      "auto-reporting",
+      "calling home",
+      "data syncing"
+    ],
+    "antonyms": [
+      "offline",
+      "disconnected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "phone home",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software, Cybersecurity, and IoT Devices",
+    "usageTip": "Use this term when an app connects to its creator automatically.",
+    "commonMistake": "Thinking it means a real phone call; it's just digital data being sent.",
+    "collocations": [
+      "automatic updates",
+      "privacy policy",
+      "report to server"
+    ]
+  }
+]

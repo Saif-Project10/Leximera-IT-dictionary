@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unilateral",
+    "meaning": "An action or decision made by only one person or group involved in a situation",
+    "shortMeaning": "one-sided",
+    "example": "The company made a unilateral decision to end the contract without consulting the partners.",
+    "example2": "A unilateral change to the software's privacy policy angered the users.",
+    "example3": "The server performed a unilateral disconnect after the timeout period.",
+    "Explanation": "In business and IT, 'unilateral' means one party did something without the agreement or input of others. If a software company decides to delete a feature that thousands of people use without asking them, that is a unilateral move. It often implies a position of power. In networking, it might describe a 'one-way' communication where one device sends data but doesn't wait for or allow a response. Understanding this word is important for contracts, project management, and understanding system behaviors where one entity has control over others.",
+    "synonyms": [
+      "one-sided",
+      "independent",
+      "autonomous"
+    ],
+    "antonyms": [
+      "bilateral",
+      "multilateral",
+      "mutual"
+    ],
+    "nounForm": "unilateralism",
+    "verbForm": "N/A",
+    "adjectiveForm": "unilateral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business contracts, management, and technical protocols",
+    "usageTip": "Use this to describe a situation where one side acts alone, often surprisingly.",
+    "commonMistake": "Confusing it with 'universal,' which means applying to everyone; unilateral means done by one side.",
+    "collocations": [
+      "unilateral decision",
+      "unilateral contract",
+      "unilateral action"
+    ]
+  },
+  {
+    "word": "Unilateral",
+    "meaning": "Done by one party without the agreement of others",
+    "shortMeaning": "one-sided",
+    "example": "The manager made a unilateral decision to change the server settings.",
+    "example2": "Unilateral updates can break compatibility with other systems.",
+    "example3": "Avoid unilateral changes in a shared development environment.",
+    "Explanation": "A 'unilateral' action in IT is one taken by an individual or team without consulting the rest of the stakeholders. This is often dangerous in complex systems because one change can have 'side effects' that break other components. It is generally discouraged in collaborative environments where 'bilateral' or 'multilateral' (team-based) decisions are preferred. Use this word to describe actions that were taken without consensus, often with a negative connotation if it led to problems or friction within the team.",
+    "synonyms": [
+      "one-sided",
+      "independent",
+      "individual"
+    ],
+    "antonyms": [
+      "collaborative",
+      "cooperative",
+      "consensual"
+    ],
+    "nounForm": "unilateralism",
+    "verbForm": "N/A",
+    "adjectiveForm": "unilateral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, team communication, systems engineering",
+    "usageTip": "Use this to critique actions taken without team consensus.",
+    "commonMistake": "Using 'unilateral' to simply mean 'fast'.",
+    "collocations": [
+      "unilateral decision",
+      "unilateral change",
+      "unilateral action"
+    ]
+  },
+  {
+    "word": "Unilateral",
+    "meaning": "Performed or undertaken by one side only.",
+    "shortMeaning": "one-sided",
+    "example": "The server made a unilateral decision to terminate the connection.",
+    "example2": "We avoid unilateral changes to the shared API documentation.",
+    "example3": "A unilateral agreement is rare in complex collaborative systems.",
+    "Explanation": "The term 'unilateral' indicates action taken by one party without the agreement or consultation of others. In IT infrastructure, a process might act unilaterally if it makes a change that affects other parts of the system without prior warning. This is often dangerous in complex environments because it can lead to conflicts. Usually, systems are designed to be cooperative rather than unilateral to ensure stability and compatibility during updates.",
+    "synonyms": [
+      "one-sided",
+      "independent",
+      "individual"
+    ],
+    "antonyms": [
+      "bilateral",
+      "multilateral",
+      "cooperative"
+    ],
+    "nounForm": "unilateralism",
+    "verbForm": "N/A",
+    "adjectiveForm": "unilateral",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network processes and system architecture",
+    "usageTip": "Use to describe an independent, non-collaborative action.",
+    "commonMistake": "Confusing it with 'uniprocessor'.",
+    "collocations": [
+      "unilateral action",
+      "unilateral decision",
+      "unilateral change"
+    ]
+  }
+]

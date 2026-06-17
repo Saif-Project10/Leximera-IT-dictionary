@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Scatter",
+    "meaning": "To throw or drop things so that they spread over an area; to separate and move in different directions.",
+    "shortMeaning": "spread, disperse",
+    "example": "The wind scattered the leaves across the yard.",
+    "example2": "The crowd scattered when the police arrived.",
+    "example3": "Scatter the seeds evenly in the soil.",
+    "Explanation": "To 'scatter' is a verb describing the action of causing things to separate and cover a wide area, often randomly. It can be transitive (scatter seeds) or intransitive (the birds scattered). The word conveys a sense of randomness and wide distribution. It is the opposite of 'gather' or 'collect'. The noun form is 'scattering' (a small, spread-out number). It's a common word in nature descriptions, crowd control, and statistics (scatter plot). It's a vivid word for depicting dispersal.",
+    "synonyms": [
+      "disperse",
+      "spread",
+      "strew",
+      "sprinkle"
+    ],
+    "antonyms": [
+      "gather",
+      "collect",
+      "assemble",
+      "converge"
+    ],
+    "nounForm": "scattering",
+    "verbForm": "scatter",
+    "adjectiveForm": "scattered",
+    "partOfSpeech": "verb",
+    "commonContext": "Nature, crowds, sowing, data visualization",
+    "usageTip": "A 'scatter plot' is a graph showing the relationship between two variables.",
+    "commonMistake": "Confusing 'scatter' (to spread widely) with 'shatter' (to break into pieces).",
+    "collocations": [
+      "scatter around",
+      "scatter gun",
+      "scatter diagram",
+      "scatter ashes"
+    ]
+  },
+  {
+    "word": "Scatter",
+    "meaning": "To throw, distribute, or spread data points or physical objects randomly across a wide area or memory zone",
+    "shortMeaning": "spread or distribute data",
+    "example": "The script will scatter the generated graphic dots across the website background template.",
+    "example2": "In parallel processing, a master node will scatter data blocks out to worker nodes.",
+    "example3": "A scatter chart displays multiple information points across a two-dimensional grid layout.",
+    "Explanation": "The word 'Scatter' means dividing and spreading items across a broad space or system layout. In computer graphics and data design, a scatter chart plots individual variable coordinates as isolated dots to show statistical patterns or groupings. In high-performance parallel computing, 'scatter' is an official operations command where a main processor splits a massive dataset into pieces and sends them out to separate computer nodes for faster processing. It emphasizes distribution and separation rather than packing items closely together.",
+    "synonyms": [
+      "disperse",
+      "distribute",
+      "spread"
+    ],
+    "antonyms": [
+      "gather",
+      "collect",
+      "assemble"
+    ],
+    "nounForm": "scatter / scattering",
+    "verbForm": "scatter",
+    "adjectiveForm": "scattered",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Data charting layouts, parallel processing code blocks, visual interface designs",
+    "usageTip": "Use 'scatter' when describing data points that are spread out wide across an analytical graph or system nodes.",
+    "commonMistake": "Spelling the adjective form as 'scatered' with a single 't'; it requires a double 't'.",
+    "collocations": [
+      "scatter plot",
+      "scatter data",
+      "scatter across the screen"
+    ]
+  }
+]

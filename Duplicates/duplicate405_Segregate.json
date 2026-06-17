@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Segregate",
+    "meaning": "To set apart from the rest or from each other; to impose separation of races, sexes, or groups.",
+    "shortMeaning": "separate, especially groups",
+    "example": "The school system was once segregated by race.",
+    "example2": "In the lab, it's important to segregate hazardous waste.",
+    "example3": "Some birds segregate by sex during migration.",
+    "Explanation": "To 'segregate' means to separate, especially within a population. It often carries a strong negative historical and social connotation related to the enforced separation of racial groups (racial segregation). In a neutral technical sense, it can mean to sort or classify things into different groups (e.g., segregating recyclables). The noun is 'segregation'. Because of its association with injustice, using this word requires care and context. It implies a systemic or enforced separation, not a natural or voluntary one.",
+    "synonyms": [
+      "separate",
+      "divide",
+      "partition",
+      "discriminate",
+      "set apart"
+    ],
+    "antonyms": [
+      "integrate",
+      "desegregate",
+      "unite",
+      "mix"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "segregated",
+    "partOfSpeech": "verb",
+    "commonContext": "Social history, waste management, data, biology",
+    "usageTip": "In modern contexts, use this word cautiously due to its heavy association with racial discrimination.",
+    "commonMistake": "Using it in a casual way for simple sorting; it's a very charged word in social contexts.",
+    "collocations": [
+      "segregate from",
+      "racially segregated",
+      "segregated schools",
+      "gender segregation"
+    ]
+  },
+  {
+    "word": "Segregate",
+    "meaning": "To isolate or separate data, system networks, or user environments to protect them from unauthorized access or interference",
+    "shortMeaning": "isolate networks or data",
+    "example": "It is best practice to segregate development servers from live production databases.",
+    "example2": "The firewall rules will segregate payment processing traffic from general guest Wi-Fi networks.",
+    "example3": "We must segregate user file uploads into a separate storage directory to keep the main server secure.",
+    "Explanation": "The word 'segregate' is a fundamental term in cybersecurity, network architecture, and cloud infrastructure management. It describes the practice of creating strong boundaries between different parts of a system. For example, network engineers segregate corporate environments into virtual subnetworks so that if a hacker compromises a basic employee terminal, they cannot reach sensitive database layers. This isolation helps contain security threats and protects critical assets from data corruption.",
+    "synonyms": [
+      "isolate",
+      "separate",
+      "partition data"
+    ],
+    "antonyms": [
+      "integrate",
+      "merge systems",
+      "combine"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "segregated",
+    "partOfSpeech": "verb",
+    "commonContext": "Network firewall setups, multi-tenant databases, system security architecture",
+    "usageTip": "Use 'segregate' when explaining the strict separation of systems, database zones, or networks for safety and security purposes.",
+    "commonMistake": "Confusing 'segregate' with simple sorting; sorting organizes data within a file, while segregating separates the data structurally into safe zones.",
+    "collocations": [
+      "segregate network traffic",
+      "segregate user duties",
+      "completely segregate data"
+    ]
+  }
+]

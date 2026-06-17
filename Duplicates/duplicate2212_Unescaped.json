@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Unescaped",
+    "meaning": "Characters in code that are not treated as literal text",
+    "shortMeaning": "not neutralized",
+    "example": "The unescaped character caused a syntax error in the script.",
+    "example2": "Unescaped HTML tags can lead to cross-site scripting vulnerabilities.",
+    "example3": "Always process your input as unescaped strings carefully.",
+    "Explanation": "In programming, characters like quotes or backslashes often have special functions. When a character is 'unescaped', the computer reads it as a command instead of simple text. If you don't 'escape' these characters, the code may crash or be exploited by hackers. For instance, an unescaped quote in a database query can allow SQL injection attacks. It is a vital concept in secure coding and data sanitization. Improper handling of unescaped input is one of the most common causes of web vulnerabilities.",
+    "synonyms": [
+      "raw",
+      "literal",
+      "unprocessed"
+    ],
+    "antonyms": [
+      "escaped",
+      "sanitized",
+      "quoted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unescaped",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, database queries, programming",
+    "usageTip": "Use this when debugging errors caused by special characters.",
+    "commonMistake": "Forgetting to escape user input in forms.",
+    "collocations": [
+      "unescaped input",
+      "unescaped characters",
+      "unescaped string"
+    ]
+  },
+  {
+    "word": "Unescaped",
+    "meaning": "Characters that have not been converted into a safe form for code",
+    "shortMeaning": "not escaped",
+    "example": "Unescaped quotes can break your SQL query.",
+    "example2": "The string contains unescaped special characters.",
+    "example3": "Ensure all inputs are properly escaped, not unescaped.",
+    "Explanation": "The word 'unescaped' is a common term in programming. It refers to characters that are meant to be treated as plain text rather than code instructions. When characters like quotes or backslashes are left 'unescaped', they can lead to errors or security issues like SQL injection. 'Escaping' is the process of putting a backslash before these special characters. Keeping characters unescaped can often lead to unintended program behavior.",
+    "synonyms": [
+      "raw",
+      "unfiltered"
+    ],
+    "antonyms": [
+      "escaped",
+      "sanitized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "escape",
+    "adjectiveForm": "unescaped",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and database queries",
+    "usageTip": "Use to explain errors caused by special characters.",
+    "commonMistake": "Forgetting to escape characters which causes crashes.",
+    "collocations": [
+      "unescaped characters",
+      "unescaped quotes",
+      "contains unescaped"
+    ]
+  }
+]

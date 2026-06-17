@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Removed",
+    "meaning": "Taken away or off from the position occupied; eliminated. | Taken away; or distant in relationship (e.g., first cousin once removed)",
+    "shortMeaning": "taken away",
+    "example": "She removed the old wallpaper from the wall.",
+    "example2": "The corrupt official was removed from office.",
+    "example3": "Please remove your shoes before entering.",
+    "Explanation": "'Removed' is the past tense and past participle of 'remove.' It means to take something away from its place, to eliminate, or to dismiss someone from a position. It implies a deliberate action of taking something off or out. It can be physical (remove a stain) or abstract (remove a name from a list). The noun is 'removal.' A common mistake is using it interchangeably with 'delete'; 'remove' often implies taking something from a context where it might still exist elsewhere, while 'delete' often implies erasure. This word is essential for instructions, cleaning, editing, and administrative actions.",
+    "synonyms": [
+      "Deleted",
+      "Dismissed",
+      "Distant",
+      "Eliminated",
+      "Extracted",
+      "Separated",
+      "Taken Away",
+      "Took Away"
+    ],
+    "antonyms": [
+      "Added",
+      "Appointed",
+      "Attached",
+      "Close",
+      "Inserted",
+      "Installed"
+    ],
+    "nounForm": "removal",
+    "verbForm": "remove",
+    "adjectiveForm": "removed (e.g., far removed)",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Cleaning, editing, management, and surgery.",
+    "usageTip": "Use 'remove from' to indicate the source or position (e.g., 'remove from the list').",
+    "commonMistake": "Saying 'remove out' – 'remove' itself means to take away, so 'out' is redundant.",
+    "collocations": [
+      "surgically removed",
+      "removed from service",
+      "once removed (family relation)"
+    ]
+  },
+  {
+    "word": "Removed",
+    "meaning": "Taken away, deleted, or far away in distance/concept.",
+    "shortMeaning": "taken away",
+    "example": "The file was removed from the server.",
+    "example2": "We removed the outdated feature to improve performance.",
+    "example3": "The developer is far removed from the actual end-user experience.",
+    "Explanation": "'Removed' has two main meanings in IT. First, it means the act of deleting something (a file, a user account, a record). Second, it means a state of being distant (like saying 'his approach is far removed from current standards'). Understanding the context is key. If you are talking about code or data, it usually means 'deleted'. If you are talking about concepts, it means 'separated' or 'not aligned'.",
+    "synonyms": [
+      "deleted",
+      "cleared",
+      "distant"
+    ],
+    "antonyms": [
+      "added",
+      "included",
+      "nearby"
+    ],
+    "nounForm": "removal",
+    "verbForm": "remove",
+    "adjectiveForm": "removed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management, architecture, design",
+    "usageTip": "Use 'removed' for deletion or to indicate a large conceptual gap.",
+    "commonMistake": "Confusing the two meanings (deletion vs. conceptual distance).",
+    "collocations": [
+      "removed from",
+      "successfully removed",
+      "far removed"
+    ]
+  }
+]

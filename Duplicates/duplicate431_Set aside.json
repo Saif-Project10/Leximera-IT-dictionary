@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Set aside",
+    "meaning": "To keep something for a particular purpose or time; to disregard or ignore something temporarily.",
+    "shortMeaning": "reserve, ignore",
+    "example": "Let's set aside some money for emergencies.",
+    "example2": "We need to set aside our differences and work together.",
+    "example3": "The judge set aside the previous ruling.",
+    "Explanation": "The phrasal verb 'set aside' has two main uses. First, to reserve or save something for future use (time, money, resources). Second, to discard or overrule something, especially in a legal or formal context. It is a common and useful phrase. The first meaning is about planning and preparation. The second is about rejection or suspension. A common mistake is confusing it with 'set apart', which means to distinguish as different. 'Set aside' implies putting something out of the way, either for safekeeping or because it's not currently relevant.",
+    "synonyms": [
+      "reserve",
+      "save",
+      "disregard"
+    ],
+    "antonyms": [
+      "use now",
+      "address",
+      "consider"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "set aside",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Finance, planning, conflict resolution, law",
+    "usageTip": "For saving money, 'set aside' is perfect. For ignoring an issue for now, 'set aside' also works.",
+    "commonMistake": "Saying 'set a side' as separate words. It is a phrasal verb: 'set aside'.",
+    "collocations": [
+      "set aside time",
+      "set aside money",
+      "set aside differences"
+    ]
+  },
+  {
+    "word": "Set aside",
+    "meaning": "To reserve, save, or keep a portion of resources or data separate for a special future purpose",
+    "shortMeaning": "reserve resources for future",
+    "example": "The cloud system will set aside ten percent of the processing memory for urgent backup tasks.",
+    "example2": "You should set aside a separate budget for unexpected software tools and security audits.",
+    "example3": "The database engine can set aside storage blocks specifically for index lookups.",
+    "Explanation": "The phrasal verb 'Set aside' means allocating or dedicating resources for a specific function, ensuring they are not consumed by everyday processes. In technical resource management, an operating system might set aside a block of memory exclusively for system rescue operations. In general project management, it involves reserving time, money, or staff for a future phase of development. This proactive separation helps avoid resource depletion when unexpected emergencies or complex tasks arise during a project's lifecycle.",
+    "synonyms": [
+      "reserve",
+      "save",
+      "allocate"
+    ],
+    "antonyms": [
+      "consume",
+      "use up",
+      "spend"
+    ],
+    "nounForm": "allocation",
+    "verbForm": "set aside",
+    "adjectiveForm": "set-aside",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Resource allocation algorithms, financial project planning, memory management routines",
+    "usageTip": "Use 'set aside' when talking about keeping data blocks, system memory, or project funds reserved for specific needs.",
+    "commonMistake": "Spelling it as a single word 'setaside' when using it as a verb; it must be written as two distinct words.",
+    "collocations": [
+      "set aside memory",
+      "set aside funds",
+      "set aside time"
+    ]
+  }
+]

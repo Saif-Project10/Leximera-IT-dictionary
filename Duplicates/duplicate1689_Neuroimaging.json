@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Neuroimaging",
+    "meaning": "The use of various techniques to produce images of the structure or function of the brain",
+    "shortMeaning": "brain scanning",
+    "example": "Neuroimaging showed which parts of the brain were active during the memory test.",
+    "example2": "Advancements in neuroimaging have helped doctors diagnose Alzheimer's early.",
+    "example3": "The study used neuroimaging to see how children learn language.",
+    "Explanation": "Neuroimaging is a branch of medical imaging focused on the brain. It includes technologies like MRI (Magnetic Resonance Imaging), CT scans, and PET scans. There are two main types: structural imaging, which shows the physical anatomy of the brain, and functional imaging, which shows which parts of the brain are 'lighting up' during specific tasks. This is essential for both medicine (finding tumors or injuries) and psychology (understanding how the mind works). Scientists also use neuroimaging to get ideas for building better artificial intelligence. It bridges the gap between biology and computer science.",
+    "synonyms": [
+      "brain imaging",
+      "brain scanning",
+      "neuro-radiology"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "neuroimaging",
+    "verbForm": "image (the brain)",
+    "adjectiveForm": "neuroimaging",
+    "partOfSpeech": "noun",
+    "commonContext": "Hospitals, medical research, and psychology",
+    "usageTip": "Use this term for any technology that lets you 'see' inside the brain.",
+    "commonMistake": "Thinking neuroimaging can read your thoughts; it only shows physical activity.",
+    "collocations": [
+      "functional neuroimaging",
+      "structural neuroimaging",
+      "neuroimaging data"
+    ]
+  },
+  {
+    "word": "Neuroimaging",
+    "meaning": "Techniques to visualize the structure/function of the brain",
+    "shortMeaning": "brain visualization",
+    "example": "Neuroimaging data is very complex to analyze.",
+    "example2": "He uses neuroimaging software for his research.",
+    "example3": "Neuroimaging helps in mapping brain patterns.",
+    "Explanation": "Neuroimaging refers to technologies (like MRI or PET scans) that capture images of the brain. In IT, this area involves processing, storing, and analyzing huge sets of medical data. It requires high-performance computing and complex image-processing algorithms. It is a critical field for medical technology and requires careful data handling. If you work in this sector, you are dealing with sensitive data that requires high-performance algorithms for processing and visualization.",
+    "synonyms": [
+      "brain scanning",
+      "imaging"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "neuroimaging",
+    "verbForm": "N/A",
+    "adjectiveForm": "neuroimaging",
+    "partOfSpeech": "noun",
+    "commonContext": "Medical IT, data analysis, research",
+    "usageTip": "Use when discussing technologies that visualize brain activity.",
+    "commonMistake": "Thinking all brain monitoring is neuroimaging.",
+    "collocations": [
+      "neuroimaging data",
+      "neuroimaging software",
+      "neuroimaging research"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Pulse-code modulation",
+    "meaning": "The hyphenated term for the digital representation of analog signals",
+    "shortMeaning": "digital signal encoding",
+    "example": "The pulse-code modulation system ensures that the audio remains clear.",
+    "example2": "Pulse-code modulation is a key part of modern VoIP technology.",
+    "example3": "We need a converter for pulse-code modulation signals.",
+    "Explanation": "This is simply the hyphenated spelling of 'Pulse Code Modulation'. It refers to the same process of sampling analog waves to create digital data. The hyphen is typically used when the term acts as a compound adjective to describe a system or technology. It is a very reliable way to transmit voice and music without losing quality over long distances. In the history of tech, it was a massive breakthrough that allowed for the transition from old analog phones to digital ones. It remains the gold standard for high-quality audio recording. It is technical but very common in engineering documents.",
+    "synonyms": [
+      "PCM",
+      "digital encoding"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pulse-code modulation",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telephony and high-end audio engineering",
+    "usageTip": "Use the hyphenated version in formal technical writing or as an adjective.",
+    "commonMistake": "Forgetting that this is a 'lossless' way of representing data compared to other methods.",
+    "collocations": [
+      "pulse-code modulation technique",
+      "standard pulse-code modulation",
+      "pulse-code modulation format"
+    ]
+  },
+  {
+    "word": "Pulse-code modulation",
+    "meaning": "A method used to digitally represent sampled analog signals.",
+    "shortMeaning": "digital audio method",
+    "example": "Pulse-code modulation is standard for high-quality digital audio.",
+    "example2": "The hardware uses pulse-code modulation to convert sound.",
+    "example3": "We need a library to handle pulse-code modulation encoding.",
+    "Explanation": "Pulse-code modulation (PCM) is the standard method for converting analog audio or signals into a digital format. It involves sampling the amplitude of the signal at regular intervals and then representing these samples as numbers. This is the foundation of digital audio (like CDs and WAV files). Because it captures the signal so accurately, it is widely used in communications and recording. Understanding PCM is essential for anyone working with digital media or hardware signaling.",
+    "synonyms": [
+      "PCM",
+      "digital-sampling"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "PCM",
+    "verbForm": "N/A",
+    "adjectiveForm": "PCM-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Audio engineering, digital signal processing",
+    "usageTip": "Usually referred to as PCM in technical discussions.",
+    "commonMistake": "Confusing PCM with compressed audio formats like MP3.",
+    "collocations": [
+      "pulse-code modulation encoding",
+      "PCM format",
+      "PCM sampling"
+    ]
+  }
+]

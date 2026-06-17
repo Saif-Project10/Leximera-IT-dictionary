@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Subsequent",
+    "meaning": "Coming after something in time; following.",
+    "shortMeaning": "following, later",
+    "example": "The initial plan failed, but subsequent attempts were successful.",
+    "example2": "He arrived on Monday, and his luggage came on a subsequent flight.",
+    "example3": "Chapter One introduces the characters; subsequent chapters develop the plot.",
+    "Explanation": "'Subsequent' is a formal adjective used to describe something that happens or comes after a prior event or point in time. It establishes a chronological sequence. It is often used in historical, legal, technical, and narrative writing to link events in a clear order. It implies a direct connection or consequence, though not necessarily a causal one. The word helps to structure information by showing progression. It is more precise than 'next' or 'later' in formal contexts.",
+    "synonyms": [
+      "following",
+      "later",
+      "ensuing",
+      "succeeding",
+      "next"
+    ],
+    "antonyms": [
+      "previous",
+      "prior",
+      "former",
+      "antecedent",
+      "preceding"
+    ],
+    "nounForm": "subsequence",
+    "verbForm": "N/A",
+    "adjectiveForm": "subsequent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Historical narratives, legal documents, technical reports, academic papers",
+    "usageTip": "Almost always followed by 'to' (subsequent to the meeting) or used before a noun (subsequent events).",
+    "commonMistake": "Using 'consequent' when you mean 'subsequent'. 'Consequent' means 'following as a result', while 'subsequent' just means 'following in time'.",
+    "collocations": [
+      "subsequent to",
+      "in subsequent years",
+      "subsequent events",
+      "subsequent analysis"
+    ]
+  },
+  {
+    "word": "Subsequent",
+    "meaning": "Happening after something else",
+    "shortMeaning": "following",
+    "example": "Subsequent versions of the app improved performance.",
+    "example2": "The initial build failed, but subsequent tests passed.",
+    "example3": "Check the subsequent logs for more info.",
+    "Explanation": "The word 'subsequent' refers to anything that happens after a specified event or time. In software development, it is often used when discussing version history, processes, or logs: 'The first error occurred, and subsequent logs showed the system crashing.' Using this word clarifies the timeline of events. It is a common term in professional documentation, bug reports, and project status updates to keep the sequence of events clear and professional for everyone.",
+    "synonyms": [
+      "following",
+      "later",
+      "succeeding"
+    ],
+    "antonyms": [
+      "previous",
+      "prior",
+      "initial"
+    ],
+    "nounForm": "subsequence",
+    "verbForm": "N/A",
+    "adjectiveForm": "subsequent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, versioning, logs",
+    "usageTip": "Use 'subsequent' to talk about things happening later.",
+    "commonMistake": "Using it for events that happen before.",
+    "collocations": [
+      "subsequent version",
+      "subsequent actions"
+    ]
+  }
+]

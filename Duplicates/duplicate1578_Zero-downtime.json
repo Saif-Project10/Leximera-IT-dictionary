@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Zero-downtime",
+    "meaning": "A state or goal of having no period when a system, service, or machine is unavailable or not operating",
+    "shortMeaning": "no service interruption",
+    "example": "The update was performed with zero-downtime for users.",
+    "example2": "Achieving zero-downtime deployments is a key DevOps objective.",
+    "example3": "The service boasts a zero-downtime SLA (Service Level Agreement).",
+    "Explanation": "'Zero-downtime' is a compound adjective that expresses an ideal in technology and service management: continuous, uninterrupted availability. Downtime is any period when a system is offline or unusable. 'Zero-downtime' means that maintenance, updates, failures, or other events are managed in such a way that the end-user never experiences an interruption. This is achieved through techniques like redundancy, rolling updates, and failover systems. It is a major goal for critical online services (banks, cloud platforms, e-commerce) where downtime means lost revenue and trust. The term signifies high reliability, advanced engineering, and a strong commitment to service quality.",
+    "synonyms": [
+      "continuous availability",
+      "non-stop",
+      "high-availability"
+    ],
+    "antonyms": [
+      "with downtime",
+      "interrupted",
+      "unavailable"
+    ],
+    "nounForm": "zero downtime",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-downtime",
+    "partOfSpeech": "adjective",
+    "commonContext": "IT operations, cloud computing, web hosting, DevOps",
+    "usageTip": "Almost always hyphenated. Used to describe deployments, updates, or system goals.",
+    "commonMistake": "Assuming it means 100% perfect; it's a practical goal, but absolute perfection is rare.",
+    "collocations": [
+      "zero-downtime deployment",
+      "zero-downtime maintenance",
+      "zero-downtime upgrade",
+      "zero-downtime architecture"
+    ]
+  },
+  {
+    "word": "Zero-downtime",
+    "meaning": "Systems designed to stay functional during updates or maintenance",
+    "shortMeaning": "no interruption",
+    "example": "We achieved zero-downtime deployments for our app.",
+    "example2": "The database migration requires zero-downtime.",
+    "example3": "Zero-downtime is a key feature of our cloud service.",
+    "Explanation": "Zero-downtime refers to the goal of keeping a service available to users even while upgrades or repairs are happening. This is achieved through techniques like blue-green deployment or load balancing. For businesses, zero-downtime is critical to avoid loss of revenue or user frustration. Achieving this requires complex architecture and automated processes. It is a high-level requirement in modern software engineering and DevOps.",
+    "synonyms": [
+      "uninterrupted",
+      "always-on",
+      "continuous"
+    ],
+    "antonyms": [
+      "interrupted",
+      "downtime"
+    ],
+    "nounForm": "uptime",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-downtime",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, cloud services, web infrastructure",
+    "usageTip": "Use this to describe high-availability systems.",
+    "commonMistake": "Promising zero-downtime without having redundant systems.",
+    "collocations": [
+      "zero-downtime deployment",
+      "zero-downtime migration",
+      "zero-downtime goal"
+    ]
+  }
+]

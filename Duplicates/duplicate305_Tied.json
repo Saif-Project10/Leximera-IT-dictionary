@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Tied",
+    "meaning": "Fastened or attached with a string, cord, or similar object; also, being equal in a score or closely connected.",
+    "shortMeaning": "fastened or equal",
+    "example": "His shoes were tied tightly.",
+    "example2": "The two teams are tied for first place.",
+    "example3": "His happiness is tied to his family's well-being.",
+    "Explanation": "Tied is the past participle of 'tie,' used as an adjective. Its primary meaning is physically bound or fastened (tied rope). Its figurative meanings are very important: it can mean equal in a contest (tied score) or emotionally/functionally connected or dependent (tied to a tradition). The phrase 'hand-tied' means restricted. It's a versatile word with a core idea of binding or linking. A common mistake is only using the physical meaning. In business, 'tied' can mean obligated (contractually tied). This word effectively conveys constraint, equality, or a bond that is difficult to break.",
+    "synonyms": [
+      "fastened",
+      "bound",
+      "secured",
+      "even (in score)",
+      "linked"
+    ],
+    "antonyms": [
+      "untied",
+      "loose",
+      "separated",
+      "unequal"
+    ],
+    "nounForm": "tie",
+    "verbForm": "tie",
+    "adjectiveForm": "tied",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sports, fashion, relationships, and dependencies.",
+    "usageTip": "Use 'tied to' for figurative connections of dependency or obligation (e.g., 'success tied to effort').",
+    "commonMistake": "Saying 'tied with' for scores; it's 'tied with' another team, or 'the score is tied.'",
+    "collocations": [
+      "tied down",
+      "tongue-tied",
+      "tied for the lead"
+    ]
+  },
+  {
+    "word": "Tied",
+    "meaning": "Connected or linked to something else",
+    "shortMeaning": "connected",
+    "example": "The user account is tied to a specific department.",
+    "example2": "These two services are closely tied together.",
+    "example3": "Performance is tied to the amount of available RAM.",
+    "Explanation": "Tied means that one thing is dependent on or linked to another. In IT, this often describes dependencies (e.g., software tied to an operating system) or relationships between data points. When two systems are tightly tied, changing one might break the other. Understanding how different components are tied together is crucial for system design and troubleshooting dependencies. Always look for hidden links between services.",
+    "synonyms": [
+      "linked",
+      "connected",
+      "bound"
+    ],
+    "antonyms": [
+      "independent",
+      "separate"
+    ],
+    "nounForm": "tie",
+    "verbForm": "tie",
+    "adjectiveForm": "tied",
+    "partOfSpeech": "adjective",
+    "commonContext": "System dependencies, data relationships",
+    "usageTip": "Use to explain dependencies.",
+    "commonMistake": "Forgetting to identify dependencies that are tied to specific hardware.",
+    "collocations": [
+      "closely tied",
+      "tied to",
+      "directly tied"
+    ]
+  },
+  {
+    "word": "Tied",
+    "meaning": "Connected or bound to something else",
+    "shortMeaning": "connected",
+    "example": "The payment process is tied to our primary server.",
+    "example2": "Project success is tied to budget availability.",
+    "example3": "These accounts are tied together by the same email.",
+    "Explanation": "The word 'tied' means connected or linked. In IT, we often say systems are 'tied' together if they rely on each other to function. This can sometimes be a problem if it creates 'tight coupling', which makes it harder to update one part without affecting the other. It is a common, neutral term. Always check if you mean 'linked' or 'dependent' when using 'tied'.",
+    "synonyms": [
+      "linked",
+      "connected",
+      "bound"
+    ],
+    "antonyms": [
+      "independent",
+      "separated",
+      "disconnected"
+    ],
+    "nounForm": "tie",
+    "verbForm": "tie",
+    "adjectiveForm": "tied",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "System architecture, dependencies",
+    "usageTip": "Use 'tied' when two systems are dependent or linked to one another.",
+    "commonMistake": "Confusing 'tied' with 'typed' (a common typo in coding).",
+    "collocations": [
+      "tied to",
+      "tied together",
+      "closely tied"
+    ]
+  }
+]

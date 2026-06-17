@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Jar",
+    "meaning": "A wide-mouthed cylindrical container; or to jolt or shock.",
+    "shortMeaning": "container; jolt",
+    "example": "She stored cookies in a glass jar.",
+    "example2": "The sudden noise jarred me awake.",
+    "example3": "His rude comment jarred with the friendly atmosphere.",
+    "Explanation": "'Jar' is both a noun (a container, usually glass) and a verb (to jolt, shock, or conflict). As a noun, it's a cylindrical vessel for food storage. As a verb, it means to shake physically or disturb mentally. A jolting movement jars the body. A discordant note jars the ears. Conflicting ideas jar with each other. The word effectively conveys physical impact or mental disturbance. The container meaning is everyday domestic; the verb meaning describes unpleasant disruption. They're the same word with different origins (container from French, jolt from onomatopoeia). Context makes the meaning clear: kitchen context suggests container; sensory context suggests jolt.",
+    "synonyms": [
+      "container",
+      "jolt",
+      "shake",
+      "clash"
+    ],
+    "antonyms": [
+      "soothe",
+      "harmonize",
+      "calm",
+      "agree"
+    ],
+    "nounForm": "jar",
+    "verbForm": "jar",
+    "adjectiveForm": "jarring",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Containers, physical impacts, sensory experiences, conflicts",
+    "usageTip": "As noun: 'mason jar', 'jam jar'. As verb: 'jar on the nerves', 'jar with expectations'.",
+    "commonMistake": "Confusing with 'jargon' (specialized language). They sound similar but are different.",
+    "collocations": [
+      "glass jar",
+      "jarring experience",
+      "jar on"
+    ]
+  },
+  {
+    "word": "Jar",
+    "meaning": "A Java Archive file format used to bundle many Java class files and metadata into one file",
+    "shortMeaning": "Java package file",
+    "example": "You need to export your project as a JAR file to run it on another computer.",
+    "example2": "The library is provided as a JAR that you can include in your project.",
+    "example3": "Double-click the JAR file to start the application.",
+    "Explanation": "In the world of Java programming, a JAR file is like a ZIP file specifically for Java programs. It contains all the code, images, and settings needed for an application to run. Using JAR files makes it much easier to share software because you only have to send one file instead of hundreds. It is a standard format used by millions of developers. Most Java libraries you download from the internet will come in this format. It is a crucial term for anyone learning backend development.",
+    "synonyms": [
+      "archive",
+      "package",
+      "bundle"
+    ],
+    "antonyms": [
+      "source code",
+      "unpacked files",
+      "N/A"
+    ],
+    "nounForm": "JAR",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Java programming and software distribution",
+    "usageTip": "Always capitalize JAR when referring to the file format in programming.",
+    "commonMistake": "Confusing a 'JAR file' with a glass container for food.",
+    "collocations": [
+      "executable JAR",
+      "run a JAR file",
+      "create a JAR"
+    ]
+  }
+]

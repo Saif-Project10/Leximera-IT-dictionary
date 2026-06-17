@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Enforce",
+    "meaning": "To make people obey a rule or law",
+    "shortMeaning": "make people obey",
+    "example": "It is the police's duty to enforce the law.",
+    "example2": "The school will enforce a strict dress code.",
+    "example3": "The contract terms are difficult to enforce internationally.",
+    "Explanation": "To 'enforce' is to ensure compliance through authority or power. It involves monitoring, applying pressure, and sometimes imposing penalties. The subject is usually an authority figure or system like police, managers, or software. The noun form is 'enforcement'. It's a strong word that implies the rule exists but needs active effort to be followed. It can sometimes have a negative connotation of being overly strict or oppressive.",
+    "synonyms": [
+      "impose",
+      "administer",
+      "apply",
+      "uphold",
+      "implement"
+    ],
+    "antonyms": [
+      "relax",
+      "ignore",
+      "waive",
+      "neglect"
+    ],
+    "nounForm": "enforcement",
+    "verbForm": "enforce",
+    "adjectiveForm": "enforced",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, rules and regulations, security, contracts",
+    "usageTip": "Often used with words like 'law', 'rule', 'policy', or 'regulation'.",
+    "commonMistake": "Saying 'enforce someone to do something'; the correct structure is 'enforce a rule' or 'enforce compliance'.",
+    "collocations": [
+      "enforce the law",
+      "strictly enforced",
+      "enforce rules",
+      "difficult to enforce"
+    ]
+  },
+  {
+    "word": "Enforce",
+    "meaning": "To make sure that a law, rule, or decision is followed by everyone",
+    "shortMeaning": "compel observance",
+    "example": "The police are here to enforce the law.",
+    "example2": "The school must enforce its strict uniform policy.",
+    "example3": "Managers need to enforce safety regulations in the factory.",
+    "Explanation": "The word 'enforce' is a verb used when someone in authority makes sure people obey a specific rule or law. It implies that there might be consequences if the rule is not followed. In IT, it often refers to software or systems automatically applying rules. It is different from simply 'suggesting' because it is mandatory. Using this word correctly helps define authority and compliance.",
+    "synonyms": [
+      "apply",
+      "implement",
+      "administer",
+      "execute"
+    ],
+    "antonyms": [
+      "ignore",
+      "disregard",
+      "neglect",
+      "waive"
+    ],
+    "nounForm": "enforcement",
+    "verbForm": "enforce",
+    "adjectiveForm": "enforceable",
+    "partOfSpeech": "verb",
+    "commonContext": "Legal systems, corporate rules, and system administration",
+    "usageTip": "Use 'enforce' when there is a mechanism to ensure compliance.",
+    "commonMistake": "Using 'enforce' when you actually mean 'reinforce' (which means to strengthen).",
+    "collocations": [
+      "enforce laws",
+      "enforce rules",
+      "enforce compliance"
+    ]
+  }
+]

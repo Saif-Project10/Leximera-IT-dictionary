@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Isolated",
+    "meaning": "Far away from other places, buildings, or people; remote.",
+    "shortMeaning": "remote; separated",
+    "example": "They live in an isolated cottage in the mountains.",
+    "example2": "This is not an isolated incident; it's part of a pattern.",
+    "example3": "He felt isolated and lonely in the big city.",
+    "Explanation": "'Isolated' is the past participle of 'isolate', used as an adjective meaning far from others, detached, or occurring alone. It describes physical remoteness (isolated village), social separation (isolated individual), or singular occurrences (isolated case). The word suggests separation from whatever is normal, connected, or frequent. Isolated places are hard to reach. Isolated people lack social connections. Isolated incidents are exceptions rather than patterns. While isolation can provide privacy or focus, it often implies vulnerability or loneliness. The noun is 'isolation'. The adjective captures the state of being set apart from others or the mainstream.",
+    "synonyms": [
+      "remote",
+      "secluded",
+      "separated",
+      "lonely"
+    ],
+    "antonyms": [
+      "connected",
+      "integrated",
+      "accessible",
+      "sociable"
+    ],
+    "nounForm": "isolation",
+    "verbForm": "isolate",
+    "adjectiveForm": "isolated",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Locations, incidents, individuals, cases",
+    "usageTip": "For places: 'isolated area'. For events: 'isolated incident'. For people: 'feel isolated'.",
+    "commonMistake": "Using to mean just 'alone'. Isolated implies separation from others who are normally present.",
+    "collocations": [
+      "isolated incident",
+      "geographically isolated",
+      "feel isolated"
+    ]
+  },
+  {
+    "word": "Isolated",
+    "meaning": "Separated from other elements, often for security or testing purposes",
+    "shortMeaning": "separated",
+    "example": "The compromised server was isolated from the main network.",
+    "example2": "We run our tests in an isolated sandbox environment.",
+    "example3": "The bug was found to be an isolated issue affecting only one user.",
+    "Explanation": "Isolation is a critical concept in computing. You isolate a system to protect the network from a virus, or you isolate a test to ensure no other code interferes with the results. When a problem is 'isolated', it means it is confined to a specific area and not systemic. Being able to isolate variables is the mark of a skilled debugger. Whether it is an isolated network, an isolated service, or an isolated incident, the term always implies creating a boundary.",
+    "synonyms": [
+      "separated",
+      "contained",
+      "segregated"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected",
+      "shared"
+    ],
+    "nounForm": "isolation",
+    "verbForm": "isolate",
+    "adjectiveForm": "isolated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, testing, and troubleshooting",
+    "usageTip": "Use 'isolated' to describe something kept separate from the rest of the system.",
+    "commonMistake": "Assuming isolation means the system is no longer working; it just means it is contained.",
+    "collocations": [
+      "isolated network",
+      "isolated environment",
+      "isolated incident"
+    ]
+  }
+]

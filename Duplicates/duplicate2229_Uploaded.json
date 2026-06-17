@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Uploaded",
+    "meaning": "Transferred data from a local device to a remote system or server.",
+    "shortMeaning": "sent to server",
+    "example": "The file was uploaded to the cloud storage.",
+    "example2": "Have you uploaded the latest build?",
+    "example3": "The script was uploaded via FTP.",
+    "Explanation": "The word 'uploaded' indicates that a file or data was moved from the user's computer to a central server or platform. This is the opposite of 'downloaded'. The base verb is 'upload'. In IT, tracking what has been uploaded is vital for version control and data management. It is a fundamental interaction in almost all web and cloud-based applications. Ensure you confirm the transfer was successful.",
+    "synonyms": [
+      "transferred",
+      "sent",
+      "pushed"
+    ],
+    "antonyms": [
+      "downloaded",
+      "retrieved"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploaded",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Web applications, file management, and development",
+    "usageTip": "Use 'uploaded' to describe data sent to a remote destination.",
+    "commonMistake": "Mixing up 'upload' and 'download' directions.",
+    "collocations": [
+      "successfully uploaded",
+      "uploaded file",
+      "uploaded to server"
+    ]
+  },
+  {
+    "word": "Uploaded",
+    "meaning": "Transferred data from a local device to a remote system",
+    "shortMeaning": "transferred to server",
+    "example": "I have uploaded the files to the cloud server.",
+    "example2": "The script was uploaded successfully to the web host.",
+    "example3": "Have you uploaded the latest database backup?",
+    "Explanation": "Uploaded describes the process of sending data, such as files or images, from your local computer to a remote server or service. This is a standard operation in web development, file sharing, and content management. Speed of uploading is often dependent on your internet connection's bandwidth. In many applications, users are required to have certain permissions before they are allowed to have files uploaded to the server. Verification is usually performed after a file has been uploaded to ensure no corruption occurred.",
+    "synonyms": [
+      "transferred",
+      "sent",
+      "posted"
+    ],
+    "antonyms": [
+      "downloaded",
+      "received"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploaded",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Web and cloud data transfers",
+    "usageTip": "Use it to confirm data movement to a remote host.",
+    "commonMistake": "Confusing 'uploaded' with 'downloaded'.",
+    "collocations": [
+      "uploaded successfully",
+      "uploaded files",
+      "recently uploaded"
+    ]
+  }
+]

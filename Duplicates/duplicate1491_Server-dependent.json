@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Server-dependent",
+    "meaning": "Requiring a server to function; not able to operate independently of a server.",
+    "shortMeaning": "needs a server to work",
+    "example": "The app is server-dependent and won't work offline.",
+    "example2": "Avoid making critical functions server-dependent if network reliability is low.",
+    "example3": "A server-dependent architecture simplifies updates but creates a single point of failure.",
+    "Explanation": "'Server-dependent' is a compound adjective highlighting a system's or feature's reliance on a connection to a server. It implies that if the server is unavailable (due to network issues, downtime, etc.), the functionality is lost or severely limited. This is a key consideration in software design, weighing the benefits of centralization against the risks of dependency. The term is often used in technical planning and criticism to point out potential vulnerabilities in an application's design.",
+    "synonyms": [
+      "server-reliant",
+      "network-dependent"
+    ],
+    "antonyms": [
+      "server-independent",
+      "offline-capable",
+      "standalone"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-dependent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, application architecture, fault tolerance",
+    "usageTip": "Often used to discuss the trade-offs of cloud-native or web applications.",
+    "commonMistake": "Viewing server-dependency as inherently bad; for many always-connected applications, it's the standard and efficient model.",
+    "collocations": [
+      "highly server-dependent",
+      "server-dependent feature",
+      "makes it server-dependent"
+    ]
+  },
+  {
+    "word": "Server-dependent",
+    "meaning": "Requiring a server to function or perform tasks",
+    "shortMeaning": "needs a server",
+    "example": "This application is server-dependent, so it won't work offline.",
+    "example2": "Many legacy systems are strictly server-dependent.",
+    "example3": "We are trying to reduce our server-dependent modules.",
+    "Explanation": "The term 'server-dependent' describes software or functions that cannot operate independently because they rely on a backend server for data, logic, or processing. If the connection to the server is lost, the feature becomes unusable. This is common in cloud-based applications where data is stored remotely rather than on the local device. Developers often try to minimize this dependency to make apps more robust. Be aware that this design choice improves security but limits offline usability.",
+    "synonyms": [
+      "network-dependent",
+      "centralized"
+    ],
+    "antonyms": [
+      "standalone",
+      "offline",
+      "decentralized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-dependent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web applications, cloud computing",
+    "usageTip": "Use when explaining why an app requires an internet connection.",
+    "commonMistake": "Confusing it with 'server-side', which describes *where* processing happens, not the *necessity* of the connection.",
+    "collocations": [
+      "server-dependent app",
+      "server-dependent feature",
+      "highly server-dependent"
+    ]
+  },
+  {
+    "word": "Server-dependent",
+    "meaning": "Requiring a server to function or provide data",
+    "shortMeaning": "needs a server",
+    "example": "The mobile app is server-dependent, so it won't work offline.",
+    "example2": "Our legacy tools are highly server-dependent.",
+    "example3": "Try to minimize server-dependent features for offline mode.",
+    "Explanation": "Server-dependent describes any application that cannot operate or provide core features without an active connection to a remote server. This is common for apps that fetch real-time data or perform complex processing. If the server goes down, the application stops working. Developers aim to reduce server-dependency in mobile apps to allow users to continue working without a constant internet connection.",
+    "synonyms": [
+      "connected",
+      "online-only"
+    ],
+    "antonyms": [
+      "independent",
+      "offline-capable"
+    ],
+    "nounForm": "dependence",
+    "verbForm": "depend",
+    "adjectiveForm": "server-dependent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile apps, cloud services",
+    "usageTip": "Use this to point out that the app requires an internet connection.",
+    "commonMistake": "Ignoring the risk of server-dependency in remote areas.",
+    "collocations": [
+      "highly server-dependent",
+      "minimize server-dependent",
+      "is server-dependent"
+    ]
+  }
+]

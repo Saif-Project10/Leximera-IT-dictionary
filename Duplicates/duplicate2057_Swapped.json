@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Swapped",
+    "meaning": "Exchanged one thing for another",
+    "shortMeaning": "exchanged",
+    "example": "We swapped the old server for a new, faster one.",
+    "example2": "He swapped the colors in the design.",
+    "example3": "The system swapped the memory pages to disk.",
+    "Explanation": "The word 'swapped' means that two items were exchanged. In IT, 'swapping' often refers to moving memory contents from RAM to a disk (the 'swap file') to make room. Outside of computing, it simply means trading one thing for another. It is a clear and simple action verb. It is a common term used in debugging, hardware maintenance, and daily operations. Using this term is straightforward and leaves no room for confusion about the action taken.",
+    "synonyms": [
+      "exchanged",
+      "traded",
+      "replaced"
+    ],
+    "antonyms": [
+      "kept",
+      "maintained"
+    ],
+    "nounForm": "swap",
+    "verbForm": "swap",
+    "adjectiveForm": "swapped",
+    "partOfSpeech": "verb",
+    "commonContext": "Memory management, daily operations",
+    "usageTip": "Use 'swapped' when you have traded one thing for another.",
+    "commonMistake": "Confusing 'swapped' (exchanged) with 'switched' (turned on/off or changed state).",
+    "collocations": [
+      "swapped memory",
+      "swapped out",
+      "swapped for"
+    ]
+  },
+  {
+    "word": "Swapped",
+    "meaning": "Exchanged one thing for another",
+    "shortMeaning": "exchanged",
+    "example": "He swapped his old RAM for a faster version.",
+    "example2": "The two servers swapped data roles during the maintenance.",
+    "example3": "I swapped the configuration files.",
+    "Explanation": "The word 'swapped' is the past tense and past participle of the verb 'swap'. In computing, it often refers to replacing one item with another, or moving data from RAM to a disk storage area, which is known as a 'swap file'. It is a versatile term used to describe physical hardware changes or logical data exchanges. Understanding the context is key, as it can refer to a physical action or a memory management process. It is a direct and simple term for replacement.",
+    "synonyms": [
+      "exchanged",
+      "replaced",
+      "traded"
+    ],
+    "antonyms": [
+      "kept",
+      "retained",
+      "held"
+    ],
+    "nounForm": "swap",
+    "verbForm": "swap",
+    "adjectiveForm": "swappable",
+    "partOfSpeech": "verb",
+    "commonContext": "Data management, hardware upgrades",
+    "usageTip": "Use to describe the act of replacing one thing with another.",
+    "commonMistake": "Assuming it always means physical replacement; sometimes it is virtual.",
+    "collocations": [
+      "swapped out",
+      "swapped data",
+      "swapped roles"
+    ]
+  }
+]

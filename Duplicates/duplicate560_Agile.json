@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Agile",
+    "meaning": "A project management and software development methodology that values flexibility, collaboration, customer feedback, and iterative progress. | Able to move quickly and easily; able to think and understand quickly",
+    "shortMeaning": "iterative development methodology",
+    "example": "Our team follows Agile principles, working in two-week sprints.",
+    "example2": "Agile emphasizes responding to change over following a rigid plan.",
+    "example3": "The daily standup meeting is a core Agile practice.",
+    "Explanation": "Agile is an umbrella term for a set of methods and practices based on the values and principles expressed in the Agile Manifesto. It contrasts with traditional 'waterfall' development, which is linear and sequential. Key Agile frameworks include Scrum and Kanban. Core practices include iterative development (sprints), self-organizing teams, continuous feedback, and adaptive planning. A common mistake is thinking Agile means 'no planning' or 'no documentation'; it means planning and documenting in a lightweight, just-in-time manner. Agile aims to deliver working software frequently, with a focus on customer satisfaction and the ability to adapt to changing requirements.",
+    "synonyms": [
+      "Adaptable",
+      "Adaptive Methodology",
+      "Iterative Development",
+      "Lithe",
+      "Nimble",
+      "Quick",
+      "Scrum (A Specific Framework)"
+    ],
+    "antonyms": [
+      "Awkward",
+      "Big-Design-Up-Front",
+      "Clumsy",
+      "Inflexible",
+      "Sequential Development",
+      "Slow",
+      "Waterfall"
+    ],
+    "nounForm": "Agile",
+    "verbForm": "N/A",
+    "adjectiveForm": "agile",
+    "partOfSpeech": "noun (proper) / adjective",
+    "commonContext": "Software development, project management, team organization",
+    "usageTip": "Often capitalized when referring to the formal methodology.",
+    "commonMistake": "Using 'Agile' as a noun to mean 'a sprint' (e.g., 'We'll do it in the next Agile'). The correct term is 'sprint'.",
+    "collocations": [
+      "Agile methodology",
+      "Agile team",
+      "Agile development"
+    ]
+  },
+  {
+    "word": "Agile",
+    "meaning": "Able to move quickly and adapt easily to changes; a specific project framework",
+    "shortMeaning": "adaptable and fast",
+    "example": "Our development team follows Agile principles to build software faster.",
+    "example2": "An agile infrastructure allows businesses to pivot during market shifts.",
+    "example3": "We hold daily standup meetings as part of our Agile workflow.",
+    "Explanation": "The word 'Agile' has both a general meaning (flexible, fast) and a highly specific, capitalized meaning in the software engineering industry. Capitalized 'Agile' refers to a modern project management methodology defined by the Agile Manifesto. It focuses on breaking large software projects down into small, manageable parts called sprints, encouraging continuous feedback and constant adaptation. It stands in direct opposition to traditional, rigid development models like the Waterfall method.",
+    "synonyms": [
+      "flexible",
+      "adaptable",
+      "nimble"
+    ],
+    "antonyms": [
+      "rigid",
+      "inflexible",
+      "waterfall (in project management)"
+    ],
+    "nounForm": "agility",
+    "verbForm": "N/A",
+    "adjectiveForm": "agile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software project management, team workflows, and corporate strategies",
+    "usageTip": "Capitalize 'Agile' when you are referring specifically to the software development methodology.",
+    "commonMistake": "Confusing the general adjective 'agile' with the specific 'Agile software methodology' framework.",
+    "collocations": [
+      "Agile methodology",
+      "Agile team",
+      "Agile development"
+    ]
+  }
+]

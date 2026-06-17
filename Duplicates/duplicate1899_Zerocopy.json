@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Zerocopy",
+    "meaning": "A computer operation where the CPU does not copy data from one memory area to another",
+    "shortMeaning": "direct data transfer",
+    "example": "Using zerocopy can significantly speed up high-speed network transfers.",
+    "example2": "The database uses zerocopy to send large files directly to the network card.",
+    "example3": "Zerocopy reduces the workload on the system's processor.",
+    "Explanation": "Zerocopy is a programming technique designed to improve performance by reducing the number of times data is moved. Normally, when a computer sends a file over a network, it copies the data from the disk to the system memory, then to the application memory, and finally to the network buffer. Zerocopy allows the data to skip these middle steps and go straight to the destination. This saves time and reduces CPU usage. It is very important for high-performance servers, video streaming, and big data processing. By avoiding unnecessary copies, the system can handle much more traffic.",
+    "synonyms": [
+      "Direct Memory Access",
+      "DMA transfer",
+      "buffer pass-through"
+    ],
+    "antonyms": [
+      "buffer copying",
+      "PIO (Programmed I/O)"
+    ],
+    "nounForm": "zerocopy",
+    "verbForm": "N/A",
+    "adjectiveForm": "zerocopy",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Operating systems and high-performance networking",
+    "usageTip": "Use 'zerocopy' when discussing ways to optimize server performance or reduce latency.",
+    "commonMistake": "Thinking zerocopy means 'no memory is used'; it just means the data isn't *duplicated*.",
+    "collocations": [
+      "zerocopy networking",
+      "zerocopy mechanism",
+      "implement zerocopy"
+    ]
+  },
+  {
+    "word": "Zerocopy",
+    "meaning": "A method to transfer data without extra memory copying",
+    "shortMeaning": "no copying data",
+    "example": "We optimized the system with zerocopy.",
+    "example2": "Zerocopy is essential for high-speed streaming.",
+    "example3": "His driver supports zerocopy operations.",
+    "Explanation": "Zerocopy is a technique used in high-performance computing to transfer data between memory buffers without involving the CPU for redundant copying. This saves memory bandwidth and processing time, which is critical for network-intensive and media-heavy applications. By keeping data in place and just passing pointers, systems become much more efficient. It is a sophisticated optimization strategy for low-level development and performance tuning.",
+    "synonyms": [
+      "zero-copy"
+    ],
+    "antonyms": [
+      "buffered-copy"
+    ],
+    "nounForm": "copying",
+    "verbForm": "N/A",
+    "adjectiveForm": "zerocopy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operating systems, network programming",
+    "usageTip": "Use this to describe memory-efficient data transfer.",
+    "commonMistake": "Confusing it with simple data movement.",
+    "collocations": [
+      "zerocopy operation",
+      "zerocopy driver",
+      "zerocopy efficiency"
+    ]
+  },
+  {
+    "word": "Zerocopy",
+    "meaning": "A technique where data is transferred between memory areas without needing to copy it in the CPU.",
+    "shortMeaning": "direct memory transfer",
+    "example": "Zerocopy mechanisms significantly improve network transfer speeds.",
+    "example2": "The operating system uses zerocopy to reduce CPU overhead.",
+    "example3": "Implementing zerocopy helped us optimize our high-performance server.",
+    "Explanation": "The term 'zerocopy' describes a high-performance data transfer method where the CPU does not need to copy data from one memory buffer to another. By allowing the network interface or disk controller to access application memory directly, the system saves significant time and energy. This is crucial for high-speed networking and heavy file I/O operations. It makes software much faster and more efficient, though it can be more complex to implement in code. It is an essential optimization technique for large-scale IT systems.",
+    "synonyms": [
+      "zero-copy transfer",
+      "direct data access"
+    ],
+    "antonyms": [
+      "buffered copy",
+      "memory duplication"
+    ],
+    "nounForm": "zerocopy",
+    "verbForm": "N/A",
+    "adjectiveForm": "zerocopy",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Performance optimization, system programming",
+    "usageTip": "Use 'zerocopy' when discussing ways to increase throughput in software applications.",
+    "commonMistake": "Ignoring that zerocopy often requires specific hardware support to function properly.",
+    "collocations": [
+      "zerocopy transfer",
+      "zerocopy mechanism",
+      "zerocopy implementation"
+    ]
+  }
+]

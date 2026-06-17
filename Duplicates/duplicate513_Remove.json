@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Remove",
+    "meaning": "To take away or eliminate from a place or position. | Take away or off from the position occupied; eliminate",
+    "shortMeaning": "take away",
+    "example": "Please remove your shoes before entering.",
+    "example2": "The surgeon will remove the tumor.",
+    "example3": "He was removed from his position as chairman.",
+    "Explanation": "Remove is a very common and versatile verb meaning to take something off, away, or out. It can be physical (removing a stain), abstract (removing an obstacle), or social (removing someone from office). It implies a deliberate action to separate something from its current location or state. The word is neutral but can be forceful (removed by force). The noun is 'removal'. It's a fundamental action word used in cleaning, IT (remove a file), medicine, and many other contexts. It's more formal than 'take out' but very widely used.",
+    "synonyms": [
+      "Delete",
+      "Eliminate",
+      "Extract",
+      "Oust",
+      "Take Away"
+    ],
+    "antonyms": [
+      "Add",
+      "Insert",
+      "Install",
+      "Keep",
+      "Place"
+    ],
+    "nounForm": "removal",
+    "verbForm": "remove",
+    "adjectiveForm": "removable",
+    "partOfSpeech": "verb",
+    "commonContext": "Cleaning, computing, surgery, management, everyday tasks",
+    "usageTip": "Often followed by 'from': 'remove from the list', 'remove it from the oven'.",
+    "commonMistake": "Using 'remove' when you mean 'move'; remove means take away entirely, move means change position.",
+    "collocations": [
+      "remove obstacles",
+      "stain remover",
+      "surgically remove"
+    ]
+  },
+  {
+    "word": "Remove",
+    "meaning": "To take something away, delete an item, or eliminate an error",
+    "shortMeaning": "delete or eliminate",
+    "example": "You need to remove the trailing comma from the JSON text to prevent format syntax bugs.",
+    "example2": "Please remove the legacy package tracking code from the index script file.",
+    "example3": "The antivirus software will scan the directory and remove threats immediately.",
+    "Explanation": "The word 'remove' is an essential technical verb meaning to erase, clear, or eliminate an item from a collection, storage system, or text document. In web styling, it describes taking out DOM nodes via JavaScript commands. In database engineering, it means deleting specific target records. It involves changing the current structure by reducing its contents.",
+    "synonyms": [
+      "delete",
+      "erase",
+      "eliminate"
+    ],
+    "antonyms": [
+      "add",
+      "insert",
+      "inject"
+    ],
+    "nounForm": "removal",
+    "verbForm": "remove",
+    "adjectiveForm": "removable",
+    "partOfSpeech": "verb",
+    "commonContext": "Array utilities, folder cleanup tasks, and system bug fixing workflows",
+    "usageTip": "Use 'remove' when talking about stripping out specific objects or cleaning structural texts.",
+    "commonMistake": "Saying 'remove' when you mean 'hide' (hiding keeps the item alive in memory, removing deletes it).",
+    "collocations": [
+      "remove directory",
+      "remove item from array",
+      "remove bug"
+    ]
+  }
+]

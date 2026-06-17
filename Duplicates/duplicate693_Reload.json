@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Reload",
+    "meaning": "To load something again, especially a webpage, application, or weapon.",
+    "shortMeaning": "load again",
+    "example": "Please reload the page to see the update.",
+    "example2": "He had to reload his gun during the competition.",
+    "example3": "The app reloads its data every time you open it.",
+    "Explanation": "'Reload' is a verb that means to fill or load something a second or subsequent time. In computing, it is a common command to refresh a webpage or application to get the latest content or state. In a physical context, it often refers to putting ammunition into a firearm. The action implies starting a process over to get a fresh version or to continue an operation. It is a straightforward, action-oriented word used in both technical and non-technical settings.",
+    "synonyms": [
+      "refresh",
+      "reload",
+      "replenish",
+      "restock"
+    ],
+    "antonyms": [
+      "unload",
+      "empty"
+    ],
+    "nounForm": "reload",
+    "verbForm": "reload",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Web browsing, software, gaming, firearms",
+    "usageTip": "In web browsers, you can usually reload a page by pressing the F5 key or the circular arrow icon.",
+    "commonMistake": "Confusing 'reload' with 'restart'. Reloading typically refreshes content within a running application, while restarting closes and reopens the entire application.",
+    "collocations": [
+      "reload the page",
+      "force reload",
+      "reload ammunition",
+      "automatic reload"
+    ]
+  },
+  {
+    "word": "Reload",
+    "meaning": "To refresh or load a system, file, or resource into memory again",
+    "shortMeaning": "load again",
+    "example": "You must reload the configuration file after making changes to the port.",
+    "example2": "The software will reload data from the API if the network connection drops.",
+    "example3": "Click the refresh button to reload the application assets safely.",
+    "Explanation": "The word 'reload' is a standard computing verb that denotes fetching a file, asset, state, or document again to ensure the system is working with the freshest data available. It can apply to resetting system modules, refreshing configuration scripts, re-reading records from an active database, or refreshing web application elements. It usually completely overwrites the existing temporary state in RAM.",
+    "synonyms": [
+      "refresh",
+      "reboot",
+      "re-fetch"
+    ],
+    "antonyms": [
+      "unload"
+    ],
+    "nounForm": "reload",
+    "verbForm": "reload",
+    "adjectiveForm": "reloaded",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Browser actions, server configurations, and application memory management",
+    "usageTip": "Use 'reload' when you need to re-read or reset an asset to clear errors or catch changes.",
+    "commonMistake": "Confusing 'reload' with 'reinstall', which involves completely replacing file binaries on a drive.",
+    "collocations": [
+      "reload configuration",
+      "force reload",
+      "automatically reload"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Prioritize",
+    "meaning": "To decide the order for dealing with items or tasks according to their relative importance.",
+    "shortMeaning": "rank by importance",
+    "example": "We need to prioritize the most critical bugs to fix first.",
+    "example2": "She prioritizes her health by exercising regularly.",
+    "example3": "The manager helped the team prioritize their project tasks.",
+    "Explanation": "To prioritize is to organize items in a sequence where the most important ones are addressed before the less important ones. It is a key skill in time management, project management, and decision-making. The process involves evaluating the urgency and impact of different tasks or goals. The word has become essential in modern professional and personal life, where demands often exceed available time and resources. It implies making conscious choices about where to focus effort for maximum effectiveness.",
+    "synonyms": [
+      "rank",
+      "order",
+      "sequence",
+      "focus on",
+      "give precedence to"
+    ],
+    "antonyms": [
+      "neglect",
+      "deprioritize",
+      "procrastinate on"
+    ],
+    "nounForm": "priority, prioritization",
+    "verbForm": "prioritize",
+    "adjectiveForm": "prioritized",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management, time management, business strategy, personal productivity",
+    "usageTip": "Often used with a direct object (prioritize tasks) or with 'over' (prioritize A over B).",
+    "commonMistake": "Saying 'prioritize' when you just mean 'do first'. Prioritizing is the act of deciding the order, not just doing the top item.",
+    "collocations": [
+      "prioritize tasks",
+      "highly prioritize",
+      "need to prioritize",
+      "prioritize effectively"
+    ]
+  },
+  {
+    "word": "Prioritize",
+    "meaning": "To arrange or deal with tasks or items in order of their importance",
+    "shortMeaning": "rank by importance",
+    "example": "We need to prioritize fixing the critical bugs before adding new features.",
+    "example2": "Learning JavaScript should be your first priority.",
+    "example3": "The manager asked the team to prioritize their tickets for the week.",
+    "Explanation": "Prioritization is a key skill in project management and coding. In an 'Agile' environment, the 'Product Backlog' is a list of tasks that must be prioritized so the most valuable work is done first. In computer operating systems, the 'CPU Scheduler' prioritizes different processes to ensure the computer stays responsive. On a personal level, prioritizing helps you manage your time effectively by focusing on what truly matters rather than getting distracted by small, unimportant tasks.",
+    "synonyms": [
+      "rank",
+      "order",
+      "list"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignore"
+    ],
+    "nounForm": "priority / prioritization",
+    "verbForm": "prioritize",
+    "adjectiveForm": "prioritized",
+    "partOfSpeech": "verb",
+    "commonContext": "Management, scheduling, and time-management",
+    "usageTip": "Use a 'Priority Matrix' to help you prioritize tasks based on urgency and importance.",
+    "commonMistake": "Trying to prioritize everything; if everything is a priority, then nothing is.",
+    "collocations": [
+      "high priority",
+      "top priority",
+      "prioritize tasks"
+    ]
+  }
+]

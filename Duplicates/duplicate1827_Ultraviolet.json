@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Ultraviolet",
+    "meaning": "A type of light that is invisible to humans and has more energy than visible light",
+    "shortMeaning": "UV light",
+    "example": "Ultraviolet light can be used to kill bacteria on keyboards.",
+    "example2": "Excessive exposure to ultraviolet rays is harmful to the skin.",
+    "example3": "The specialized camera can capture images in ultraviolet.",
+    "Explanation": "Ultraviolet (UV) light sits just beyond the violet part of the visible spectrum. It is most commonly known as the part of sunlight that causes tans and sunburns. In IT and electronics, UV light is used for several purposes: 'UV Curing' (quickly hardening glues or inks), 'Photolithography' (making microchips), and 'Sanitization' (killing germs on shared equipment). It is also used to detect counterfeit money and in forensics to find evidence. Because UV has shorter wavelengths than visible light, it can be used to see or create very tiny patterns. However, it can also damage certain materials and electronics over time.",
+    "synonyms": [
+      "UV",
+      "blacklight"
+    ],
+    "antonyms": [
+      "infrared"
+    ],
+    "nounForm": "ultraviolet",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultraviolet",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Science, chip manufacturing, and health",
+    "usageTip": "Use the term 'UV-C' specifically if you are talking about germ-killing light.",
+    "commonMistake": "Thinking ultraviolet is just 'purple' light; true UV is invisible to the human eye.",
+    "collocations": [
+      "ultraviolet rays",
+      "ultraviolet light",
+      "ultraviolet radiation"
+    ]
+  },
+  {
+    "word": "Ultraviolet",
+    "meaning": "Electromagnetic radiation with a shorter wavelength than visible light.",
+    "shortMeaning": "UV light",
+    "example": "The surface was sterilized using ultraviolet light.",
+    "example2": "Ultraviolet rays can damage certain plastic materials.",
+    "example3": "We use ultraviolet sensors to detect exposure.",
+    "Explanation": "Ultraviolet (UV) radiation is part of the electromagnetic spectrum. It has high energy and is often used for sterilization, testing, and curing coatings in manufacturing. Because UV light is invisible to humans, specialized equipment is required to detect or use it. It is important in tech for hardening materials or cleaning surfaces. Always use appropriate protection when dealing with UV light sources.",
+    "synonyms": [
+      "UV"
+    ],
+    "antonyms": [
+      "infrared"
+    ],
+    "nounForm": "ultraviolet",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultraviolet",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Physics, manufacturing, safety",
+    "usageTip": "Use this for light-based sterilization or curing processes.",
+    "commonMistake": "Confusing it with visible blue light.",
+    "collocations": [
+      "ultraviolet radiation",
+      "ultraviolet light",
+      "ultraviolet sensor"
+    ]
+  },
+  {
+    "word": "Ultraviolet",
+    "meaning": "Relating to electromagnetic radiation with a wavelength shorter than visible light.",
+    "shortMeaning": "invisible light",
+    "example": "Ultraviolet light is used to disinfect surfaces in labs.",
+    "example2": "The monitor is protected by an ultraviolet coating.",
+    "example3": "Some sensors are sensitive to ultraviolet rays.",
+    "Explanation": "Ultraviolet, often abbreviated as UV, refers to a type of light that humans cannot see. It is used in various technical applications, such as data storage on specialized discs and high-intensity sterilization equipment. In computing hardware, UV light is sometimes involved in manufacturing processes. It is important to handle equipment involving UV light with safety precautions. The term is widely recognized across both scientific and technical fields.",
+    "synonyms": [
+      "UV",
+      "UV radiation",
+      "invisible light"
+    ],
+    "antonyms": [
+      "infrared",
+      "visible light",
+      "N/A"
+    ],
+    "nounForm": "ultraviolet",
+    "verbForm": "N/A",
+    "adjectiveForm": "ultraviolet",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Scientific hardware and safety equipment",
+    "usageTip": "Usually referred to as 'UV' in short form.",
+    "commonMistake": "Thinking ultraviolet is the same as infrared.",
+    "collocations": [
+      "ultraviolet light",
+      "ultraviolet radiation",
+      "ultraviolet rays"
+    ]
+  }
+]

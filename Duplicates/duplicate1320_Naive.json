@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Naive",
+    "meaning": "Lacking experience, wisdom, or judgment; innocent and simple.",
+    "shortMeaning": "innocent, inexperienced",
+    "example": "He was naive to trust a stranger with his money.",
+    "example2": "Her naive belief in easy success was quickly shattered.",
+    "example3": "They had a naive view of how complicated the project would be.",
+    "Explanation": "'Naive' (also spelled 'naïve') is an adjective describing someone who shows a lack of worldly experience and tends to trust things too easily. It often carries a slightly negative or critical tone, suggesting foolishness due to innocence. However, it can also be used more neutrally to describe an untrained perspective. The word comes from French. The noun form is 'naivety' or 'naiveté'. It is important to be sensitive when using this word, as it can be insulting.",
+    "synonyms": [
+      "innocent",
+      "gullible",
+      "ingenuous",
+      "unsophisticated"
+    ],
+    "antonyms": [
+      "experienced",
+      "sophisticated",
+      "cynical",
+      "worldly-wise"
+    ],
+    "nounForm": "naivety, naiveté",
+    "verbForm": "N/A",
+    "adjectiveForm": "naive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Criticizing judgment, describing inexperience, art criticism",
+    "usageTip": "The two dots (diaeresis) over the 'i' (naïve) are optional in English but show the original French spelling.",
+    "commonMistake": "Misspelling it as 'nieve' or mispronouncing it (it's 'nye-EVE').",
+    "collocations": [
+      "naive assumption",
+      "politically naive",
+      "naive question",
+      "hopelessly naive"
+    ]
+  },
+  {
+    "word": "Naive",
+    "meaning": "A simple approach that ignores complex side effects or data realities",
+    "shortMeaning": "overly simple",
+    "example": "The naive implementation fails when the input is too large.",
+    "example2": "We need a better algorithm than the naive approach.",
+    "example3": "A naive model often misses the complex relationships in data.",
+    "Explanation": "In IT, 'naive' refers to a solution or algorithm that is mathematically simple and works under ideal conditions but fails in real-world scenarios. For example, a 'naive' search might check every item one by one, which is easy to write but slow. A 'naive' Bayes classifier assumes features are independent, which is almost never true but still works surprisingly well in some cases. It doesn't mean the developer is stupid; it means the design relies on very basic, often flawed, assumptions.",
+    "synonyms": [
+      "simple",
+      "basic",
+      "unoptimized"
+    ],
+    "antonyms": [
+      "optimized",
+      "sophisticated",
+      "complex"
+    ],
+    "nounForm": "naivety",
+    "verbForm": "N/A",
+    "adjectiveForm": "naive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms and data modeling",
+    "usageTip": "Use to describe a simple but potentially limited solution.",
+    "commonMistake": "Taking offense at the word 'naive'—it is a standard technical term for a base-case algorithm.",
+    "collocations": [
+      "naive algorithm",
+      "naive approach"
+    ]
+  }
+]

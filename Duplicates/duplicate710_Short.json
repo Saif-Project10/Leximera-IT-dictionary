@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Short",
+    "meaning": "1. Of little length or duration. 2. Not having enough of something. 3. Rudely brief.",
+    "shortMeaning": "not long; not enough; brief",
+    "example": "She has short hair. (length)",
+    "example2": "We are short on time. (not enough)",
+    "example3": "His reply was short and unfriendly. (rude)",
+    "Explanation": "'Short' is a basic adjective with multiple uses. Its primary meaning is the opposite of 'long' or 'tall'. It can describe a lack (short of money), a time frame (a short meeting), or an abrupt manner (a short temper). The comparative is 'shorter'. It is used in countless idioms: 'in short', 'short cut', 'fall short'. It's a simple, high-frequency word essential for description in time, space, and quantity.",
+    "synonyms": [
+      "brief",
+      "small",
+      "lacking",
+      "concise"
+    ],
+    "antonyms": [
+      "long",
+      "tall",
+      "ample",
+      "lengthy"
+    ],
+    "nounForm": "shortness",
+    "verbForm": "shorten",
+    "adjectiveForm": "short",
+    "partOfSpeech": "adjective",
+    "commonContext": "Height, length, time, supply, temper",
+    "usageTip": "Use 'short' to describe physical length, time duration, or a deficiency in something (short of).",
+    "commonMistake": "Using 'short' to mean 'shy' (e.g., 'He is short' meaning he is shy). That is incorrect; 'short' refers to height or duration.",
+    "collocations": [
+      "in short",
+      "short time",
+      "short of",
+      "cut short"
+    ]
+  },
+  {
+    "word": "Short",
+    "meaning": "Brief, limited in duration, or a small electrical circuit fault.",
+    "shortMeaning": "brief or faulty",
+    "example": "The connection time was too short to complete the handshake.",
+    "example2": "A short in the circuit caused the system to power off.",
+    "example3": "He wrote a short script to automate the task.",
+    "Explanation": "The word 'short' can refer to a limited length of time, distance, or a serious electrical failure where current flows along an unintended path. In IT, a 'short circuit' is a critical hardware failure. As an adjective, it describes something that lacks length or duration. Understanding which meaning is intended—the physical electrical fault or the abstract measurement of time/size—is crucial for technical communication. Always specify 'short circuit' if referring to hardware.",
+    "synonyms": [
+      "brief",
+      "limited",
+      "faulty"
+    ],
+    "antonyms": [
+      "long",
+      "extended",
+      "functional"
+    ],
+    "nounForm": "shortness",
+    "verbForm": "shorten",
+    "adjectiveForm": "short",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Time, size, electrical engineering",
+    "usageTip": "Use 'short' for duration and 'short circuit' for electrical faults.",
+    "commonMistake": "Confusing a short time with an electrical short.",
+    "collocations": [
+      "short circuit",
+      "short duration",
+      "short notice"
+    ]
+  }
+]

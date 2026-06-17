@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transformed",
+    "meaning": "Changed in form, appearance, or structure",
+    "shortMeaning": "changed",
+    "example": "The legacy system was transformed into a modern web app.",
+    "example2": "We have transformed our data storage strategy.",
+    "example3": "The code structure was completely transformed after refactoring.",
+    "Explanation": "Transformed is the past participle of transform, meaning to alter something significantly. In IT, this usually happens during refactoring, database migration, or UI redesigns. It indicates that the previous state is gone and a new, different state exists. Whether it is code, data, or design, the act of transforming implies a deliberate effort to reach a new goal. It is a standard term for any significant change in a development project.",
+    "synonyms": [
+      "altered",
+      "converted",
+      "revamped"
+    ],
+    "antonyms": [
+      "maintained",
+      "preserved",
+      "unchanged"
+    ],
+    "nounForm": "transformation",
+    "verbForm": "transform",
+    "adjectiveForm": "transformed",
+    "partOfSpeech": "verb",
+    "commonContext": "Refactoring, migration, design",
+    "usageTip": "Use this to describe a completed process of change.",
+    "commonMistake": "Confusing it with simple 'editing' which may be minor.",
+    "collocations": [
+      "successfully transformed",
+      "transformed into",
+      "completely transformed"
+    ]
+  },
+  {
+    "word": "Transformed",
+    "meaning": "Changed in form, appearance, or structure",
+    "shortMeaning": "changed",
+    "example": "The old code was transformed into a modern system.",
+    "example2": "He transformed his workspace to be more ergonomic.",
+    "example3": "The data was transformed before analysis.",
+    "Explanation": "The word 'transformed' is the past participle of 'transform'. It describes an object or state that has successfully gone through a change. In IT, 'data transformation' is the process of converting data from one format or structure into another so it can be used by a new system. It implies that the change is finished. It is a neutral term that simply states the transition from point A to point B.",
+    "synonyms": [
+      "converted",
+      "modified",
+      "restructured"
+    ],
+    "antonyms": [
+      "original",
+      "unaltered",
+      "static"
+    ],
+    "nounForm": "transformation",
+    "verbForm": "transform",
+    "adjectiveForm": "transformed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data processing, software engineering, UI design",
+    "usageTip": "Use 'transformed' to describe a finished state of change.",
+    "commonMistake": "Using 'transform' when you mean 'converted' (they are similar but differ in depth).",
+    "collocations": [
+      "data transformed",
+      "transformed into",
+      "fully transformed"
+    ]
+  }
+]

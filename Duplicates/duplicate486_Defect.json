@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Defect",
+    "meaning": "A shortcoming, imperfection, or fault in a person or thing",
+    "shortMeaning": "fault; imperfection",
+    "example": "The car was recalled due to a manufacturing defect.",
+    "example2": "He was born with a congenital heart defect.",
+    "example3": "The software has a defect that causes it to crash under load.",
+    "Explanation": "The noun 'defect' refers to a lack or deficiency that prevents completeness, perfection, or proper functioning. It is often used in manufacturing and quality assurance for physical products. In software, it's a formal term for a 'bug'. It can also refer to a moral failing. The word implies a deviation from a standard or norm. The verb form 'defect' means to desert a cause or country, which is a different meaning.",
+    "synonyms": [
+      "fault",
+      "flaw",
+      "imperfection",
+      "bug",
+      "deficiency"
+    ],
+    "antonyms": [
+      "perfection",
+      "asset",
+      "feature",
+      "strength"
+    ],
+    "nounForm": "defect",
+    "verbForm": "defect (different meaning: to desert)",
+    "adjectiveForm": "defective",
+    "partOfSpeech": "noun",
+    "commonContext": "Manufacturing, medicine, software testing, quality control",
+    "usageTip": "In software development, 'defect' is often tracked in a 'defect tracking system' (like Jira).",
+    "commonMistake": "Pronouncing the noun (DEF-ect) the same as the verb (de-FECT); the stress is different.",
+    "collocations": [
+      "manufacturing defect",
+      "birth defect",
+      "critical defect",
+      "report a defect"
+    ]
+  },
+  {
+    "word": "Defect",
+    "meaning": "To leave your own country or group to join an opposing one",
+    "shortMeaning": "to desert or switch sides",
+    "example": "The spy decided to defect to the neighboring country.",
+    "example2": "Several members of the party defected during the crisis.",
+    "example3": "He chose to defect after realizing the corruption within his team.",
+    "Explanation": "This specific meaning of 'defect' is a verb that refers to abandoning a cause, country, or organization to join an enemy or competitor. It implies a significant shift in loyalty and is often used in political or military contexts. Note that this is different from the noun 'defect', which means a flaw. The stress in pronunciation is usually on the second syllable for the verb. It is a formal term often found in news and history.",
+    "synonyms": [
+      "desert",
+      "revolt",
+      "abandon",
+      "switch sides"
+    ],
+    "antonyms": [
+      "remain",
+      "stay",
+      "support",
+      "join"
+    ],
+    "nounForm": "defection",
+    "verbForm": "defect",
+    "adjectiveForm": "defected",
+    "partOfSpeech": "verb",
+    "commonContext": "Politics, military, and corporate espionage",
+    "usageTip": "Use 'defect' when someone leaves a group specifically to join a rival group.",
+    "commonMistake": "Confusing this verb with the noun 'defect' (a flaw or bug).",
+    "collocations": [
+      "defect to",
+      "political defection",
+      "defect from"
+    ]
+  }
+]

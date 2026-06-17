@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Miniature",
+    "meaning": "Very small; a tiny version of something much larger",
+    "shortMeaning": "tiny version",
+    "example": "The engineer built a miniature model of the new bridge.",
+    "example2": "Computer chips are getting so small they are practically miniature.",
+    "example3": "He collects miniature figures from his favorite games.",
+    "Explanation": "The word 'miniature' describes something that is a much smaller copy or version of a larger object. In the world of technology, this often refers to 'miniaturization'—the trend of making devices like cameras, sensors, and computers smaller and smaller. For example, a modern smartphone has more power than a room-sized computer from 50 years ago. Being miniature is often a sign of advanced engineering, as it requires fitting complex parts into tiny spaces. It can also refer to small-scale models used for testing or decoration. The word comes from the Latin word for a small painting.",
+    "synonyms": [
+      "tiny",
+      "small-scale",
+      "microscopic"
+    ],
+    "antonyms": [
+      "giant",
+      "enormous",
+      "full-sized"
+    ],
+    "nounForm": "miniature",
+    "verbForm": "miniaturize",
+    "adjectiveForm": "miniature",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Technology, art, and modeling",
+    "usageTip": "Use 'miniature' to describe something that is purposefully small or a model of something bigger.",
+    "commonMistake": "Confusing 'miniature' with 'minute' (which means very small but doesn't necessarily mean it's a model).",
+    "collocations": [
+      "miniature scale",
+      "miniature camera",
+      "miniature model"
+    ]
+  },
+  {
+    "word": "Miniature",
+    "meaning": "A much smaller version of something",
+    "shortMeaning": "small version",
+    "example": "They created a miniature model of the server room.",
+    "example2": "Miniature circuits are essential for wearable tech.",
+    "example3": "The device is a miniature computer.",
+    "Explanation": "Miniature refers to a version of an object that is significantly smaller than the standard size while maintaining its features or design. In IT, the trend toward miniaturization has allowed us to fit powerful computers into smartphones and tiny wearable devices. It implies that a system has been reduced in scale, often requiring special engineering to keep it functional. Miniature designs are central to modern mobile and embedded technology development.",
+    "synonyms": [
+      "small-scale",
+      "diminutive",
+      "tiny"
+    ],
+    "antonyms": [
+      "full-size",
+      "large",
+      "gigantic"
+    ],
+    "nounForm": "miniature",
+    "verbForm": "N/A",
+    "adjectiveForm": "miniature",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Hardware, IoT, modeling",
+    "usageTip": "Use to describe a smaller-than-normal scale version.",
+    "commonMistake": "Confusing 'miniature' with 'microscopic' (too small to see).",
+    "collocations": [
+      "miniature model",
+      "miniature electronics",
+      "miniature design"
+    ]
+  }
+]

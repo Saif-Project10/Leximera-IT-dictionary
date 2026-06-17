@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Segregated",
+    "meaning": "Set apart from the rest or from each other; isolated.",
+    "shortMeaning": "separated, isolated",
+    "example": "The data is kept in a segregated database.",
+    "example2": "Historically, schools in some regions were racially segregated.",
+    "example3": "Waste must be segregated into different bins for recycling.",
+    "Explanation": "'Segregated' is the past participle of the verb 'segregate', used as an adjective. It means separated, often on the basis of type, category, or group. It can be neutral (segregated funds, segregated waste) or carry a heavily negative historical and social connotation (racially segregated facilities). The word implies a deliberate act of separation. The noun form is 'segregation'. It's important to be aware of the word's charged history regarding racial injustice, while also recognizing its technical uses in science and management.",
+    "synonyms": [
+      "separated",
+      "divided",
+      "isolated",
+      "partitioned"
+    ],
+    "antonyms": [
+      "integrated",
+      "mixed",
+      "combined",
+      "desegregated"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "segregated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social history, waste management, finance, data storage",
+    "usageTip": "Be very careful with the historical/social context. In most modern social contexts, 'integrated' is the positive ideal.",
+    "commonMistake": "Using 'segregated' in a neutral way without recognizing its potential negative historical weight.",
+    "collocations": [
+      "segregated schools",
+      "segregated account",
+      "gender-segregated",
+      "remain segregated"
+    ]
+  },
+  {
+    "word": "Segregated",
+    "meaning": "Kept separate from each other",
+    "shortMeaning": "kept apart",
+    "example": "Development and production environments must be segregated.",
+    "example2": "Data is segregated based on user access levels.",
+    "example3": "Keep the sensitive data segregated from public files.",
+    "Explanation": "The word 'segregated' means to keep things apart to prevent cross-contamination or unauthorized access. In IT, 'segregation of duties' is a security concept where different people have different permissions to prevent fraud. Environments (dev, test, prod) are segregated to ensure that errors in development do not affect the live production system. The verb is 'segregate' and the noun is 'segregation'. It is a key practice for system stability and security.",
+    "synonyms": [
+      "isolated",
+      "separated",
+      "divided"
+    ],
+    "antonyms": [
+      "integrated",
+      "mixed",
+      "connected"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "segregated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, environment management",
+    "usageTip": "Use 'segregated' for things that must be kept apart.",
+    "commonMistake": "Using 'segregated' for physical distance; it usually means logical separation.",
+    "collocations": [
+      "segregated environments",
+      "segregation of duties",
+      "segregated data"
+    ]
+  },
+  {
+    "word": "Segregated",
+    "meaning": "Separated or kept apart from others",
+    "shortMeaning": "kept separate",
+    "example": "All financial data must be segregated from user profiles.",
+    "example2": "The dev environment is segregated from production.",
+    "example3": "Segregated storage is required for compliance.",
+    "Explanation": "Segregated refers to a strict separation of components, often for security, safety, or legal compliance reasons. In IT, it is most commonly used to describe keeping different environments (like testing vs. production) or different data types completely separate. This ensures that a problem in one area cannot accidentally affect another. Proper segregation is a fundamental requirement in enterprise IT, particularly where user privacy and data security are concerned.",
+    "synonyms": [
+      "separated",
+      "isolated",
+      "detached"
+    ],
+    "antonyms": [
+      "combined",
+      "mixed",
+      "integrated"
+    ],
+    "nounForm": "segregation",
+    "verbForm": "segregate",
+    "adjectiveForm": "segregated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, data privacy, environments",
+    "usageTip": "Use when separation is a strict requirement.",
+    "commonMistake": "Thinking 'segregated' is the same as just 'organized'.",
+    "collocations": [
+      "segregated environment",
+      "strictly segregated",
+      "segregated storage"
+    ]
+  }
+]

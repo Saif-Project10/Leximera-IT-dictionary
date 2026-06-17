@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unlikely",
+    "meaning": "Not likely to happen, be true, or be the case; improbable.",
+    "shortMeaning": "improbable",
+    "example": "It is unlikely that we will finish before dark.",
+    "example2": "He gave an unlikely excuse for being late.",
+    "example3": "They are an unlikely pair of friends.",
+    "Explanation": "'Unlikely' is the direct opposite of 'likely'. It is an adjective used to express low probability or that something is surprising or not expected. It can describe events ('an unlikely victory'), statements ('an unlikely story'), or combinations ('an unlikely alliance'). It is a common word for expressing doubt, skepticism, or the recognition of a rare possibility. In storytelling, an 'unlikely hero' is one who doesn't seem suited for the role but succeeds. It's essential for realistic assessment of situations.",
+    "synonyms": [
+      "improbable",
+      "doubtful",
+      "unbelievable",
+      "implausible"
+    ],
+    "antonyms": [
+      "likely",
+      "probable",
+      "expected",
+      "plausible"
+    ],
+    "nounForm": "unlikelihood",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlikely",
+    "partOfSpeech": "adjective",
+    "commonContext": "Predictions, stories, relationships, outcomes",
+    "usageTip": "Use 'It is unlikely that...' or 'He is unlikely to...' to express doubt about probability.",
+    "commonMistake": "Using 'unlikely' to mean 'impossible'; it means improbable, not completely ruled out.",
+    "collocations": [
+      "highly unlikely",
+      "most unlikely",
+      "unlikely to happen",
+      "unlikely story"
+    ]
+  },
+  {
+    "word": "Unlikely",
+    "meaning": "Not expected to happen or be true",
+    "shortMeaning": "improbable",
+    "example": "It is unlikely that the server will crash at this load.",
+    "example2": "An unlikely sequence of events caused the failure.",
+    "example3": "This scenario is statistically unlikely.",
+    "Explanation": "In IT, 'unlikely' refers to the probability of an event, such as a hardware failure or a specific bug. When writing robust code, we often ignore 'unlikely' edge cases to focus on the common ones, but critical systems must account for them. Use this to describe risks or scenarios that don't need immediate attention but should be kept in mind for long-term planning. It helps in prioritizing resource allocation. Being able to correctly judge what is 'unlikely' is a key skill for senior engineers and architects.",
+    "synonyms": [
+      "improbable",
+      "doubtful",
+      "rare"
+    ],
+    "antonyms": [
+      "likely",
+      "probable",
+      "expected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlikely",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk management, debugging, statistics",
+    "usageTip": "Use this to deprioritize low-risk tasks.",
+    "commonMistake": "Assuming 'unlikely' means 'impossible'.",
+    "collocations": [
+      "statistically unlikely",
+      "highly unlikely"
+    ]
+  },
+  {
+    "word": "Unlikely",
+    "meaning": "Not expected to happen; improbable.",
+    "shortMeaning": "not expected",
+    "example": "It is unlikely that the server will crash with this configuration.",
+    "example2": "Such an error is highly unlikely in modern systems.",
+    "example3": "An unlikely scenario would involve all backups failing.",
+    "Explanation": "In technical risk assessment, 'unlikely' describes an event that has a low probability of occurring. Developers use this word to classify the risk level of bugs or system failures. While 'unlikely' events are rare, professional IT teams still create contingency plans to handle them just in case. Knowing the difference between what is 'likely' and what is 'unlikely' helps teams prioritize their efforts toward solving the most probable issues first.",
+    "synonyms": [
+      "improbable",
+      "doubtful",
+      "unexpected"
+    ],
+    "antonyms": [
+      "likely",
+      "probable",
+      "expected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlikely",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk assessment and probability",
+    "usageTip": "Use to explain low-risk scenarios.",
+    "commonMistake": "Assuming 'unlikely' means 'impossible'.",
+    "collocations": [
+      "highly unlikely",
+      "very unlikely",
+      "unlikely scenario"
+    ]
+  }
+]

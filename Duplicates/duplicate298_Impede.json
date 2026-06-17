@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Impede",
+    "meaning": "To delay or block the progress of something.",
+    "shortMeaning": "hinder, obstruct",
+    "example": "Deep snow impeded the flow of traffic.",
+    "example2": "Bureaucracy can impede innovation.",
+    "example3": "His injury did not impede his performance.",
+    "Explanation": "The verb 'impede' is a formal synonym for hinder or obstruct. It means to slow down or create an obstacle to movement or progress. It often describes a slowing effect rather than a complete stop. The noun is 'impediment'. It is commonly used in written English, especially in analytical or descriptive contexts. A common mistake is confusing it with 'impede' is the verb, 'impediment' is the noun. It suggests something is getting in the way and causing delay, which can be physical or abstract.",
+    "synonyms": [
+      "hinder",
+      "obstruct",
+      "hamper"
+    ],
+    "antonyms": [
+      "assist",
+      "facilitate",
+      "expedite"
+    ],
+    "nounForm": "impediment",
+    "verbForm": "impede",
+    "adjectiveForm": "impeding",
+    "partOfSpeech": "verb",
+    "commonContext": "Progress, movement, development, traffic",
+    "usageTip": "A more formal word than 'slow down' or 'get in the way of'.",
+    "commonMistake": "Misspelling it as 'impeed'. Remember it's 'impede'.",
+    "collocations": [
+      "impede progress",
+      "impede movement",
+      "severely impede"
+    ]
+  },
+  {
+    "word": "Impede",
+    "meaning": "To delay or prevent someone or something by obstructing them",
+    "shortMeaning": "hinder or delay",
+    "example": "A slow internet connection will impede your ability to download large files.",
+    "example2": "Don't let complex code impede the progress of the project.",
+    "example3": "Technical debt can often impede a team's innovation.",
+    "Explanation": "To 'impede' is to get in the way. In a technical environment, things that 'impede' progress include legacy code, poor documentation, or slow hardware. It is a formal way of saying 'slow down' or 'block'. For example, if a website has too many large images, it will 'impede' the user's experience because it takes too long to load. Developers always try to identify and remove things that impede the system's efficiency. It implies a struggle against an obstacle. It is a useful word for describing bottlenecks in a process.",
+    "synonyms": [
+      "hinder",
+      "block",
+      "obstruct"
+    ],
+    "antonyms": [
+      "facilitate",
+      "assist",
+      "help"
+    ],
+    "nounForm": "impediment",
+    "verbForm": "impede",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Productivity, network performance, and project management",
+    "usageTip": "Use 'impede' to describe something that is making a process difficult or slow.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "impede progress",
+      "impede development",
+      "impede flow"
+    ]
+  }
+]

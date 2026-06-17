@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Multi-page",
+    "meaning": "Consisting of or involving multiple pages.",
+    "shortMeaning": "having many pages",
+    "example": "Please print this multi-page document.",
+    "example2": "The report is a multi-page analysis of the market.",
+    "example3": "He filled out a multi-page application form.",
+    "Explanation": "'Multi-page' is a compound adjective. The prefix 'multi-' means 'many'. It is used to describe documents, forms, reports, or websites that have more than one page. It is a technical or descriptive term common in office, academic, and publishing contexts. It is always hyphenated when used before a noun (a multi-page document). The word is straightforward and simply indicates quantity in terms of pages. There is no verb or noun form; it is only an adjective.",
+    "synonyms": [
+      "lengthy",
+      "long",
+      "multi-sheet"
+    ],
+    "antonyms": [
+      "single-page",
+      "one-page"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "multi-page",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documents, reports, forms, printing",
+    "usageTip": "Always use a hyphen: 'multi-page'. Do not write 'multipage'.",
+    "commonMistake": "Forgetting the hyphen, which is necessary for compound adjectives before a noun.",
+    "collocations": [
+      "multi-page document",
+      "multi-page spread",
+      "multi-page article"
+    ]
+  },
+  {
+    "word": "Multi-page",
+    "meaning": "Composed of several pages of content",
+    "shortMeaning": "many pages",
+    "example": "The application handles multi-page PDF documents.",
+    "example2": "We designed a multi-page checkout process.",
+    "example3": "The report is a multi-page technical analysis.",
+    "Explanation": "Multi-page describes any digital or physical document or process that extends across more than one sheet or screen. In software, this is common in forms, dashboards, or reading apps. Designing a 'multi-page' interface requires careful flow management so the user knows where they are in the sequence. It is a common challenge in UX design to make transitions between pages feel seamless and intuitive.",
+    "synonyms": [
+      "long-form",
+      "paginated"
+    ],
+    "antonyms": [
+      "single-page"
+    ],
+    "nounForm": "page",
+    "verbForm": "N/A",
+    "adjectiveForm": "multi-page",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, document management, forms",
+    "usageTip": "Use 'multi-page' for flows that require navigation.",
+    "commonMistake": "Using a multi-page flow when a single page would be better.",
+    "collocations": [
+      "multi-page document",
+      "multi-page form",
+      "multi-page application"
+    ]
+  }
+]

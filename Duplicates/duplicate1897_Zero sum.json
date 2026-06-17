@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Zero sum",
+    "meaning": "A situation where one person's gain is exactly equal to another person's loss",
+    "shortMeaning": "balanced win-loss",
+    "example": "The competition for the limited contract was a zero sum game.",
+    "example2": "In a zero sum environment, there are no 'win-win' outcomes.",
+    "example3": "Some people view the stock market as a zero sum game.",
+    "Explanation": "Zero sum is a concept from game theory. In a zero sum situation, the total benefit to all participants, minus the total costs, always adds up to zero. This means that if one person wins 10 points, another person must lose 10 points. It is often used to describe high-stakes competition or environments with very limited resources. In economics and IT business strategy, companies often try to avoid zero sum scenarios by creating new value that benefits everyone involved.",
+    "synonyms": [
+      "strictly competitive",
+      "win-lose"
+    ],
+    "antonyms": [
+      "non-zero sum",
+      "win-win",
+      "positive sum"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-sum",
+    "partOfSpeech": "adjective",
+    "commonContext": "Game theory, economics, and business",
+    "usageTip": "Use 'zero sum' to describe situations where resources are fixed and cannot grow.",
+    "commonMistake": "Thinking 'zero sum' means everyone gets zero; it means the total sum is zero.",
+    "collocations": [
+      "zero sum game",
+      "zero sum logic",
+      "zero sum thinking"
+    ]
+  },
+  {
+    "word": "Zero sum",
+    "meaning": "A situation where one person's gain is exactly equal to another person's loss.",
+    "shortMeaning": "no net gain",
+    "example": "The game was a zero sum scenario for the two teams.",
+    "example2": "In some economic models, competition is treated as a zero sum game.",
+    "example3": "This is not a zero sum situation; we can both benefit from this deal.",
+    "Explanation": "The term 'zero sum' describes a situation where the total amount of value remains constant, meaning any gain by one side must result in a corresponding loss by the other. It is a concept often used in game theory, economics, and decision-making logic. When the math is done, the net change is zero. It stands in contrast to 'win-win' situations where both parties can improve their positions simultaneously. It is important to identify when a situation is zero sum, as it drastically changes how competition should be approached.",
+    "synonyms": [
+      "constant-sum",
+      "competitive"
+    ],
+    "antonyms": [
+      "win-win",
+      "synergistic"
+    ],
+    "nounForm": "zero-sum game",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-sum",
+    "partOfSpeech": "adjective",
+    "commonContext": "Game theory, economics, logic, strategy",
+    "usageTip": "Use 'zero sum' to describe scenarios where resources are fixed and limited.",
+    "commonMistake": "Applying it to every situation; many scenarios are not zero sum but collaborative.",
+    "collocations": [
+      "zero sum game",
+      "zero sum competition",
+      "zero sum logic"
+    ]
+  }
+]

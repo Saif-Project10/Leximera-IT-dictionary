@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Fluid",
+    "meaning": "A substance that flows easily (like liquid or gas); able to change or adapt easily",
+    "shortMeaning": "flowing substance or adaptable",
+    "example": "Water is the most common fluid on Earth.",
+    "example2": "The situation is still fluid and could change quickly.",
+    "example3": "Her fluid movements impressed the dance judges.",
+    "Explanation": "'Fluid' has both literal and figurative meanings. Literally, it's any substance that flows (liquids and gases). Figuratively, it describes things that are flexible, adaptable, and not fixed—like fluid plans, fluid thinking, or fluid organizational structures. The figurative use emphasizes smoothness and lack of rigidity. In a fast-changing world, being fluid is often an advantage. The noun form emphasizes physical properties, while the adjective form emphasizes adaptability.",
+    "synonyms": [
+      "liquid",
+      "flowing",
+      "adaptable",
+      "flexible",
+      "changeable"
+    ],
+    "antonyms": [
+      "solid",
+      "rigid",
+      "fixed",
+      "inflexible"
+    ],
+    "nounForm": "fluid",
+    "verbForm": "N/A",
+    "adjectiveForm": "fluid",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Physics, medicine, project management, creative processes",
+    "usageTip": "As an adjective, it often describes situations, organizations, or thinking that can change easily.",
+    "commonMistake": "Using 'fluid' only for liquids; gases are also fluids.",
+    "collocations": [
+      "body fluid",
+      "fluid dynamics",
+      "fluid situation",
+      "fluid intelligence"
+    ]
+  },
+  {
+    "word": "Fluid",
+    "meaning": "Able to change or adapt; not fixed",
+    "shortMeaning": "adaptable",
+    "example": "The project requirements are still fluid at this stage.",
+    "example2": "The user interface should be fluid across different screen sizes.",
+    "example3": "His coding style is fluid and easily adjustable.",
+    "Explanation": "The word 'fluid' is used in IT to describe things that are not static or rigid. A 'fluid layout' in web development, for instance, adjusts its size based on the user's screen. It suggests flexibility and an ability to respond to changing environments. It is a key concept in responsive design and project management. Being fluid allows systems or plans to remain relevant and functional even when conditions shift. Always differentiate it from 'flexible', which focuses more on adaptability of a structure.",
+    "synonyms": [
+      "adaptable",
+      "changeable",
+      "variable"
+    ],
+    "antonyms": [
+      "fixed",
+      "static",
+      "rigid"
+    ],
+    "nounForm": "fluidity",
+    "verbForm": "N/A",
+    "adjectiveForm": "fluid",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design, project management",
+    "usageTip": "Use 'fluid' to describe layouts or plans that change with the situation.",
+    "commonMistake": "Confusing 'fluid' with 'liquid'.",
+    "collocations": [
+      "fluid layout",
+      "fluid design",
+      "fluid situation"
+    ]
+  }
+]

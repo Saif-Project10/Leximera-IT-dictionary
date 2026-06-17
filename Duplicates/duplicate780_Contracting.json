@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Contracting",
+    "meaning": "1. Becoming smaller or shorter. 2. Entering into a formal and legally binding agreement.",
+    "shortMeaning": "shrinking; making a legal agreement",
+    "example": "The metal is contracting as it cools. (shrinking)",
+    "example2": "The company is contracting with a new supplier. (making an agreement)",
+    "example3": "She is contracting her muscles during the exercise.",
+    "Explanation": "'Contracting' is the present participle of the verb 'contract', which has two distinct meanings. The physical meaning is to draw together or become smaller. The business/legal meaning is to enter into a formal contract. The context makes the meaning clear. In economics, a 'contracting market' is shrinking. In grammar, it means to shorten words (e.g., 'do not' contracts to 'don't'). It's a versatile word in science, law, and business.",
+    "synonyms": [
+      "shrinking",
+      "tightening",
+      "agreeing",
+      "undertaking"
+    ],
+    "antonyms": [
+      "expanding",
+      "stretching",
+      "cancelling"
+    ],
+    "nounForm": "contraction",
+    "verbForm": "contract",
+    "adjectiveForm": "contracting",
+    "partOfSpeech": "verb (present participle/gerund)",
+    "commonContext": "Physics, business, law, medicine (muscle contraction)",
+    "usageTip": "Use 'contracting' for the process of getting smaller or for the act of making a business deal.",
+    "commonMistake": "Confusing the two meanings. 'The firm is contracting' could mean it's getting smaller or it's making deals.",
+    "collocations": [
+      "contracting a disease",
+      "contracting company",
+      "contracting muscles",
+      "contracting party"
+    ]
+  },
+  {
+    "word": "Contracting",
+    "meaning": "Becoming smaller or tighter; also the act of making a contract",
+    "shortMeaning": "shrinking or agreeing",
+    "example": "The software market is contracting due to consolidation.",
+    "example2": "We are contracting a new vendor for the project.",
+    "example3": "The muscle is contracting when the sensor is triggered.",
+    "Explanation": "Contracting has two common uses: physically shrinking (like a database size or hardware material) or entering a legal agreement. The base verb is 'contract', and the noun is 'contract'. Understanding the context is essential—if it is about business, it means an agreement; if it is about size, it means shrinking. Use it carefully to avoid ambiguity in documentation.",
+    "synonyms": [
+      "shrinking",
+      "hiring",
+      "agreeing"
+    ],
+    "antonyms": [
+      "expanding",
+      "terminating",
+      "growing"
+    ],
+    "nounForm": "contract",
+    "verbForm": "contract",
+    "adjectiveForm": "contractual",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Business, physics, market analysis",
+    "usageTip": "Check if you mean shrinking (size) or an agreement (business).",
+    "commonMistake": "Confusing 'contracting' with 'connecting'.",
+    "collocations": [
+      "contracting vendor",
+      "market contracting",
+      "contracting services"
+    ]
+  }
+]

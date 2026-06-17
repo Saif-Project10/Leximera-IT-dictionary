@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Tensorial",
+    "meaning": "Relating to tensors, which are mathematical objects representing linear relationships.",
+    "shortMeaning": "related to tensors",
+    "example": "The algorithm uses tensorial operations for fast computation.",
+    "example2": "The research focuses on higher-order tensorial data.",
+    "example3": "He defined the math using tensorial notation.",
+    "Explanation": "The word 'tensorial' is used in mathematics, data science, and physics to describe concepts involving tensors. A tensor is essentially a multi-dimensional array of numbers. Tensorial operations are common in fields like machine learning (where deep learning models are fundamentally tensorial) and physics simulations. It is a technical term used to describe the nature of data manipulation in complex models.",
+    "synonyms": [
+      "tensor-based"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tensor",
+    "verbForm": "N/A",
+    "adjectiveForm": "tensorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics and data science",
+    "usageTip": "Use 'tensorial' when referring to tensor-based mathematics.",
+    "commonMistake": "Confusing 'tensorial' with 'tensor' (the noun).",
+    "collocations": [
+      "tensorial operations",
+      "tensorial analysis"
+    ]
+  },
+  {
+    "word": "Tensorial",
+    "meaning": "Relating to a tensor, a mathematical object used in physics and machine learning",
+    "shortMeaning": "relating to tensors",
+    "example": "The algorithm involves complex tensorial calculations.",
+    "example2": "He analyzed the tensorial structure of the data.",
+    "example3": "Tensorial notation is used in advanced physics.",
+    "Explanation": "The word 'tensorial' is an adjective that relates to 'tensors'. Tensors are mathematical objects that represent multi-dimensional arrays, which are crucial in machine learning (like in TensorFlow) and physics. You will rarely hear this in casual conversation; it is reserved for advanced mathematics, AI research, and specialized science. It describes properties or operations performed on tensors. It is highly technical.",
+    "synonyms": [
+      "multi-dimensional",
+      "matrix-based",
+      "mathematical"
+    ],
+    "antonyms": [
+      "scalar",
+      "simple",
+      "linear"
+    ],
+    "nounForm": "tensor",
+    "verbForm": "N/A",
+    "adjectiveForm": "tensorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics, AI/ML, physics, engineering",
+    "usageTip": "Use 'tensorial' only in highly mathematical or AI research contexts.",
+    "commonMistake": "Using 'tensorial' instead of 'tensor' when referring to the object itself.",
+    "collocations": [
+      "tensorial calculation",
+      "tensorial data",
+      "tensorial structure"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Compute",
+    "meaning": "To calculate or reckon mathematically.",
+    "shortMeaning": "calculate",
+    "example": "The program will compute the average of these numbers.",
+    "example2": "It's difficult to compute the exact cost at this stage.",
+    "example3": "Modern calculators can compute complex equations quickly.",
+    "Explanation": "'Compute' is a verb meaning to perform mathematical calculations or process data. It's the action at the heart of computing and computer science. While similar to 'calculate', 'compute' often implies more complex or extensive processing, especially by machines. The noun forms are 'computation' and 'computer'. In everyday language, 'calculate' is more common for simple math, while 'compute' has a more technical feel. It's fundamental to understanding how computers work - they compute information.",
+    "synonyms": [
+      "calculate",
+      "reckon",
+      "work out",
+      "process"
+    ],
+    "antonyms": [
+      "guess",
+      "estimate",
+      "approximate"
+    ],
+    "nounForm": "computation",
+    "verbForm": "compute",
+    "adjectiveForm": "computational",
+    "partOfSpeech": "verb",
+    "commonContext": "Mathematics, computing, data processing, engineering",
+    "usageTip": "More formal than 'calculate'. Often used in technical contexts and computing.",
+    "commonMistake": "Using 'compute' for very simple arithmetic where 'calculate' would be more natural.",
+    "collocations": [
+      "compute the value",
+      "compute the result",
+      "difficult to compute"
+    ]
+  },
+  {
+    "word": "Compute",
+    "meaning": "To calculate an answer or result using mathematical or logical operations",
+    "shortMeaning": "calculate",
+    "example": "The computer needs time to compute the complex physics simulation.",
+    "example2": "It is impossible to compute the exact number of stars in the galaxy.",
+    "example3": "The system will compute the final score automatically.",
+    "Explanation": "To compute is to perform a calculation. While 'calculate' can be done with a pencil, 'compute' strongly suggests using a computer or an electronic processor. It involves taking input data, applying a set of rules (an algorithm), and producing an output. In IT, 'compute' also refers to the processing power itself (e.g., 'cloud compute'). Every time you use an app, it is 'computing' things in the background to show you the right information. It is the fundamental action of all digital technology.",
+    "synonyms": [
+      "calculate",
+      "process",
+      "figure out"
+    ],
+    "antonyms": [
+      "guess",
+      "estimate"
+    ],
+    "nounForm": "computation",
+    "verbForm": "compute",
+    "adjectiveForm": "computational",
+    "partOfSpeech": "verb",
+    "commonContext": "Mathematics, programming, and cloud technology",
+    "usageTip": "Use 'compute' when the calculation involves an automated or complex system.",
+    "commonMistake": "Confusing 'compute' with 'commute' (which means traveling to work).",
+    "collocations": [
+      "compute power",
+      "compute a result",
+      "cloud compute"
+    ]
+  }
+]

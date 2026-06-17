@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Spin wait",
+    "meaning": "The act of a thread waiting for a condition by constantly checking it in a loop",
+    "shortMeaning": "looping wait",
+    "example": "The thread entered a spin wait until the data was ready.",
+    "example2": "Spin wait is better than sleeping when the delay is very small.",
+    "example3": "Excessive spin wait can lead to high energy consumption in mobile devices.",
+    "Explanation": "Spin wait is the behavior of 'spinning' while waiting for something to happen. In programming, when a thread needs a resource that is currently busy, it has two choices: it can go to sleep (letting another thread work) or it can 'spin wait' (repeatedly asking 'Is it ready yet?'). Spin waiting is faster for very short waits because it avoids the overhead of stopping and starting the thread. However, it 'burns' CPU cycles. It is a common technique in performance-critical software like high-frequency trading or graphics engines.",
+    "synonyms": [
+      "busy waiting",
+      "active waiting"
+    ],
+    "antonyms": [
+      "blocking wait",
+      "sleep"
+    ],
+    "nounForm": "spin wait",
+    "verbForm": "spin wait",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Multi-threaded programming and concurrency",
+    "usageTip": "Use this to describe the actual state of the thread while it's waiting.",
+    "commonMistake": "Confusing it with a standard 'loop'; a spin wait is specifically for synchronization between threads.",
+    "collocations": [
+      "perform a spin wait",
+      "optimized spin wait",
+      "spin wait period"
+    ]
+  },
+  {
+    "word": "Spin wait",
+    "meaning": "The state or action of a thread executing a loop while waiting for a condition to become true",
+    "shortMeaning": "active looping state",
+    "example": "The thread entered a spin wait state until the buffer received data.",
+    "example2": "Using a spin wait is ideal here because the external event happens instantly.",
+    "example3": "The profiling tool showed that excessive spin wait loops slowed down the application.",
+    "Explanation": "The term 'spin wait' describes the active state of a computer processor thread when it performs busy-waiting. Instead of yielding control back to the operating system or entering a sleep state, the thread consumes processing power by constantly checking a variable or flag. This technique minimizes latency because the thread reacts immediately when the condition changes. However, it requires careful implementation with safety counters to prevent permanent thread stalls or overheating issues. It represents a tradeoff between fast responsiveness and energy consumption.",
+    "synonyms": [
+      "busy waiting",
+      "active waiting"
+    ],
+    "antonyms": [
+      "thread sleep",
+      "blocking wait"
+    ],
+    "nounForm": "spin wait",
+    "verbForm": "spin-wait",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Parallel computing, hardware drivers, and low-latency systems",
+    "usageTip": "Use 'spin wait' to describe the behavior of the thread itself, whereas 'spin lock' refers to the locking object.",
+    "commonMistake": "Implementing an infinite spin wait without a timeout mechanism, which causes software hangs.",
+    "collocations": [
+      "enter a spin wait",
+      "optimize spin wait",
+      "spin wait loop"
+    ]
+  }
+]

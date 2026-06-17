@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Persistent",
+    "meaning": "Continuing to exist or occur over a long period; refusing to give up.",
+    "shortMeaning": "continuing; determined",
+    "example": "She made persistent efforts to find a job.",
+    "example2": "There has been persistent rain all week.",
+    "example3": "He is a persistent salesman who never takes no for an answer.",
+    "Explanation": "'Persistent' is an adjective describing something or someone that continues stubbornly. It can be a quality (a persistent person), a state (persistent cough), or a condition (persistent poverty). Like the verb 'persist', it can be positive (showing determination) or negative (annoyingly continual). It suggests a pattern that is hard to break or ignore.",
+    "synonyms": [
+      "continual, constant, determined, tenacious, unrelenting"
+    ],
+    "antonyms": [
+      "intermittent, occasional, yielding, weak-willed"
+    ],
+    "nounForm": "persistence",
+    "verbForm": "persist",
+    "adjectiveForm": "persistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing people, problems, weather, medical symptoms",
+    "usageTip": "Use 'persistent' for things that won't go away or people who won't stop trying.",
+    "commonMistake": "Confusing 'persistent' with 'consistent'. 'Consistent' means always the same; 'persistent' means continuing despite difficulty.",
+    "collocations": [
+      "persistent problem",
+      "persistent cough",
+      "persistent effort"
+    ]
+  },
+  {
+    "word": "Persistent",
+    "meaning": "Continuing firmly in a course of action; staying in a system",
+    "shortMeaning": "continuing or lasting",
+    "example": "The database uses persistent storage for user data.",
+    "example2": "He was persistent in his efforts to fix the bug.",
+    "example3": "Persistent cookies remain on the user's browser for a long time.",
+    "Explanation": "The term 'persistent' describes something that does not disappear or stop. In computing, 'persistent data' is information that is saved to non-volatile storage, like a hard drive, so it is not lost when the power is turned off. It is the opposite of 'transient' or 'volatile'. It also describes a person's behavior when they keep trying to solve a problem despite difficulties. Understanding persistence is essential for data integrity and system design, as you must decide what data needs to be kept long-term.",
+    "synonyms": [
+      "durable",
+      "enduring",
+      "steadfast"
+    ],
+    "antonyms": [
+      "temporary",
+      "volatile",
+      "transient"
+    ],
+    "nounForm": "persistence",
+    "verbForm": "persist",
+    "adjectiveForm": "persistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management, Storage, Programming",
+    "usageTip": "Use 'persistent' when referring to data that outlives a program's execution.",
+    "commonMistake": "Confusing 'persistent' with 'stubborn' (the latter has a negative connotation).",
+    "collocations": [
+      "persistent storage",
+      "persistent data",
+      "persistent connection"
+    ]
+  }
+]

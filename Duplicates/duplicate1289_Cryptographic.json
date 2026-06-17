@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Cryptographic",
+    "meaning": "Relating to the practice and study of techniques for secure communication in the presence of adversarial behavior.",
+    "shortMeaning": "related to encryption/security",
+    "example": "HTTPS uses cryptographic protocols to secure web traffic.",
+    "example2": "JWT tokens rely on cryptographic signatures for verification.",
+    "example3": "Cryptographic hash functions like SHA-256 are irreversible.",
+    "Explanation": "'Cryptographic' describes techniques for secure communication, including encryption, hashing, digital signatures, and key exchange. In web development, cryptography secures passwords (hashing with salt), protects data in transit (TLS/SSL), verifies data integrity (HMAC), and authenticates users (JWT). Cryptographic hash functions convert data to fixed-size strings; good hashes are deterministic, fast to compute, irreversible, and collision-resistant. Asymmetric cryptography uses key pairs (public/private) for encryption and signatures. Understanding cryptographic basics is essential for implementing secure authentication, protecting sensitive data, and complying with privacy regulations. Modern web APIs like Web Crypto provide cryptographic functionality in browsers.",
+    "synonyms": [
+      "encryption-related",
+      "security-focused",
+      "cipher-based"
+    ],
+    "antonyms": [
+      "plaintext",
+      "unencrypted",
+      "insecure"
+    ],
+    "nounForm": "cryptography",
+    "verbForm": "encrypt",
+    "adjectiveForm": "cryptographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web security, authentication, data protection, HTTPS",
+    "usageTip": "Never implement your own cryptographic algorithms. Use well-tested libraries like bcrypt for passwords, crypto for general cryptography.",
+    "commonMistake": "Storing passwords with weak hashes (MD5, SHA-1) or without salt. Use bcrypt, scrypt, or Argon2.",
+    "collocations": [
+      "cryptographic hash",
+      "cryptographic algorithm",
+      "cryptographic key"
+    ]
+  },
+  {
+    "word": "Cryptographic",
+    "meaning": "Relating to the writing or solving of codes for security",
+    "shortMeaning": "code-writing related",
+    "example": "The software uses strong cryptographic keys.",
+    "example2": "A cryptographic signature verifies the document's sender.",
+    "example3": "He studied the history of cryptographic systems.",
+    "Explanation": "Cryptographic refers to the practice of cryptography, which is the science of secure communication. It involves using mathematical algorithms to turn plain data into a scrambled format that only authorized people can read. It is the foundation of online privacy, including HTTPS on websites and bank transactions. It is the protective side of digital security, contrasting with cryptanalytic, which focuses on breaking these protections.",
+    "synonyms": [
+      "encrypted",
+      "encoded"
+    ],
+    "antonyms": [
+      "decrypted",
+      "plain text"
+    ],
+    "nounForm": "cryptography",
+    "verbForm": "N/A",
+    "adjectiveForm": "cryptographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, programming, privacy",
+    "usageTip": "Use this to describe anything that encrypts or protects data.",
+    "commonMistake": "Using it to mean 'mysterious', which is 'cryptic'.",
+    "collocations": [
+      "cryptographic key",
+      "cryptographic algorithm",
+      "cryptographic hash"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Opt-in",
+    "meaning": "A system where users must choose to participate rather than being included automatically",
+    "shortMeaning": "join-by-choice",
+    "example": "The company moved to an opt-in policy for their marketing list.",
+    "example2": "Is this an opt-in or an opt-out service?",
+    "example3": "We need to design a better opt-in screen for the mobile app.",
+    "Explanation": "While 'opt in' (two words) is a verb, 'opt-in' (with a hyphen) is usually used as a noun or an adjective. It describes a philosophy or a specific feature where the default state is 'no' or 'off'. For example, an 'opt-in feature' is one that won't work until the user turns it on. This is considered very user-friendly because it gives the person full control over their experience. It is often used in discussions about email lists, beta programs, and high-risk security settings. It ensures transparency and builds trust between the user and the software provider.",
+    "synonyms": [
+      "voluntary",
+      "permission-based",
+      "selective"
+    ],
+    "antonyms": [
+      "opt-out",
+      "mandatory",
+      "default"
+    ],
+    "nounForm": "opt-in",
+    "verbForm": "N/A",
+    "adjectiveForm": "opt-in",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software features and privacy policies",
+    "usageTip": "Use the hyphenated 'opt-in' when it comes before a noun (e.g., opt-in form).",
+    "commonMistake": "Using 'opt in' as an adjective without the hyphen.",
+    "collocations": [
+      "opt-in policy",
+      "double opt-in",
+      "opt-in rate"
+    ]
+  },
+  {
+    "word": "Opt-in",
+    "meaning": "A system where users must actively give permission to be included.",
+    "shortMeaning": "active permission",
+    "example": "The newsletter uses an opt-in system to ensure quality subscribers.",
+    "example2": "You must opt-in to receive promotional emails from our site.",
+    "example3": "We changed to an opt-in policy to respect user privacy.",
+    "Explanation": "Opt-in describes a model where nothing happens unless the user explicitly agrees. This is a common requirement in data privacy regulations like GDPR. It protects users from unwanted communication or data collection. Developers build opt-in forms to ensure that only interested users are part of their mailing lists or system tracking. It is the gold standard for respectful marketing and user experience. It contrasts with opt-out, where users must act to be removed.",
+    "synonyms": [
+      "consent-based",
+      "voluntary subscription"
+    ],
+    "antonyms": [
+      "opt-out"
+    ],
+    "nounForm": "opt-in",
+    "verbForm": "opt in",
+    "adjectiveForm": "opt-in",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Privacy, marketing, user registration",
+    "usageTip": "Always provide a clear opt-in choice when collecting user data.",
+    "commonMistake": "Assuming silence means consent; silence is not an opt-in.",
+    "collocations": [
+      "opt-in system",
+      "opt-in policy",
+      "opt-in form"
+    ]
+  }
+]

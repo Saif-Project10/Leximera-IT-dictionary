@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transgressive",
+    "meaning": "Going beyond the limits of what is considered acceptable or normal",
+    "shortMeaning": "beyond limits",
+    "example": "Some experimental art in digital design is seen as transgressive.",
+    "example2": "The software architecture adopted a transgressive approach to data flow.",
+    "example3": "Breaking traditional UI rules can be considered a transgressive design choice.",
+    "Explanation": "Transgressive is a word describing something that crosses boundaries or challenges the status quo. In IT, this is usually applied to design or coding styles that ignore traditional conventions. While often used in sociology, in technology, it can mean doing something in a way that is unexpected or unconventional. It is not necessarily negative; it often describes innovation that pushes the boundaries of how things are typically done. Use it when describing daring or rule-breaking approaches.",
+    "synonyms": [
+      "unconventional",
+      "bold",
+      "boundary-pushing"
+    ],
+    "antonyms": [
+      "conventional",
+      "traditional",
+      "conformist"
+    ],
+    "nounForm": "transgression",
+    "verbForm": "transgress",
+    "adjectiveForm": "transgressive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, philosophy of code, innovation",
+    "usageTip": "Use this to describe bold or rule-breaking design and architecture.",
+    "commonMistake": "Assuming it always means 'illegal' or 'bad'; it often means 'innovative'.",
+    "collocations": [
+      "transgressive design",
+      "transgressive approach",
+      "transgressive style"
+    ]
+  },
+  {
+    "word": "Transgressive",
+    "meaning": "Involving a violation of established rules or boundaries",
+    "shortMeaning": "rule-breaking",
+    "example": "His transgressive style challenged the design norms.",
+    "example2": "The script contained transgressive elements that were blocked.",
+    "example3": "He enjoyed exploring transgressive art and culture.",
+    "Explanation": "The word 'transgressive' refers to pushing boundaries, breaking rules, or going against societal norms. It is often used in arts, creative design, and sometimes when discussing hackers or 'black hat' activities that violate security rules. It is a strong word that implies rebellion or pushing beyond permitted limits. It is rarely used in standard operational IT, except to describe things that break the rules.",
+    "synonyms": [
+      "rebellious",
+      "boundary-breaking",
+      "unconventional"
+    ],
+    "antonyms": [
+      "compliant",
+      "obedient",
+      "traditional"
+    ],
+    "nounForm": "transgression",
+    "verbForm": "transgress",
+    "adjectiveForm": "transgressive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Creative arts, security (hackers), cultural critique",
+    "usageTip": "Use 'transgressive' when describing things that purposely break norms.",
+    "commonMistake": "Using it to mean 'illegal'; it often refers to 'norms' or 'rules' more than law.",
+    "collocations": [
+      "transgressive behavior",
+      "transgressive design",
+      "transgressive act"
+    ]
+  }
+]

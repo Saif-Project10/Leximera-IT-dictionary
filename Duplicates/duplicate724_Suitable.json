@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Suitable",
+    "meaning": "Appropriate or fitting for a particular purpose, person, or occasion.",
+    "shortMeaning": "appropriate",
+    "example": "Is this movie suitable for children?",
+    "example2": "He is the most suitable candidate for the job.",
+    "example3": "We need to find a suitable time to meet.",
+    "Explanation": "Suitable means right or acceptable for a specific situation. It involves matching requirements, standards, or expectations. Something can be suitable in terms of size, quality, style, or content. It's a common word for making choices about clothing, candidates, housing, or timing. The opposite is 'unsuitable' or 'inappropriate'. The word is neutral but essential for evaluation and decision-making. It's less formal than 'appropriate' but very widely used in both spoken and written English to assess compatibility.",
+    "synonyms": [
+      "appropriate",
+      "fitting",
+      "proper",
+      "acceptable",
+      "right"
+    ],
+    "antonyms": [
+      "unsuitable",
+      "inappropriate",
+      "unfitting",
+      "wrong"
+    ],
+    "nounForm": "suitability",
+    "verbForm": "suit",
+    "adjectiveForm": "suitable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Clothing, candidates, housing, language, timing",
+    "usageTip": "Often followed by 'for' (suitable for beginners) or 'to' (suitable to the occasion).",
+    "commonMistake": "Using 'suitable' to mean 'good'. Something can be good but not suitable for a specific need.",
+    "collocations": [
+      "suitable for",
+      "highly suitable",
+      "suitable alternative",
+      "suitable candidate"
+    ]
+  },
+  {
+    "word": "Suitable",
+    "meaning": "Right or appropriate for a particular purpose",
+    "shortMeaning": "appropriate",
+    "example": "This database is suitable for our needs.",
+    "example2": "Is this font suitable for the interface?",
+    "example3": "We need a suitable solution for data migration.",
+    "Explanation": "The word 'suitable' means that something fits the requirements of a task. When choosing tools, libraries, or architectures, always check if they are 'suitable'—meaning they solve the problem well without being overkill or inadequate. It is a critical word in decision-making and requirements gathering. A tool might be powerful, but if it doesn't fit the existing workflow, it is not 'suitable'. Using this word helps communicate that you have carefully evaluated your choices against the requirements.",
+    "synonyms": [
+      "appropriate",
+      "fitting",
+      "proper"
+    ],
+    "antonyms": [
+      "unsuitable",
+      "inappropriate",
+      "wrong"
+    ],
+    "nounForm": "suitability",
+    "verbForm": "suit",
+    "adjectiveForm": "suitable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decision making, requirements",
+    "usageTip": "Use 'suitable' for things that fit the needs.",
+    "commonMistake": "Using it to mean 'good' in a general sense (it must fit a purpose).",
+    "collocations": [
+      "suitable solution",
+      "suitable for"
+    ]
+  }
+]

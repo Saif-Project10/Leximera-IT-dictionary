@@ -1,0 +1,127 @@
+[
+  {
+    "word": "Similar",
+    "meaning": "Having a likeness or resemblance; alike but not identical.",
+    "shortMeaning": "alike; almost the same",
+    "example": "Our cars are similar in color.",
+    "example2": "She has a similar opinion to mine.",
+    "example3": "The two cases are very similar.",
+    "Explanation": "'Similar' is used to compare two or more things that share qualities but are not exactly the same. It is followed by 'to' (similar to). The noun form is 'similarity'. It is a very common word in everyday comparisons, academic writing, and descriptions. It allows for nuanced comparison, acknowledging likeness while allowing for differences. The adverb is 'similarly'. It's a fundamental word for analysis and communication.",
+    "synonyms": [
+      "alike",
+      "comparable",
+      "resembling",
+      "akin"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar",
+      "unlike"
+    ],
+    "nounForm": "similarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "similar",
+    "partOfSpeech": "adjective",
+    "commonContext": "Comparisons, descriptions, analysis",
+    "usageTip": "Use 'similar to' to show how one thing is like another. Remember the preposition 'to'.",
+    "commonMistake": "Saying 'similar with' (e.g., 'similar with me') which is incorrect. The correct phrase is 'similar to me'.",
+    "collocations": [
+      "similar to",
+      "in a similar way",
+      "strikingly similar",
+      "broadly similar"
+    ]
+  },
+  {
+    "word": "Similar",
+    "meaning": "Having a resemblance in appearance, character, or quality, but not identical.",
+    "shortMeaning": "resembling",
+    "example": "The two programming languages have similar syntax.",
+    "example2": "These features perform similar tasks for the user.",
+    "example3": "The results were similar to our initial expectations.",
+    "Explanation": "The word 'similar' denotes that two or more things share common characteristics. It is frequently used in IT when comparing data, structures, or logic. It is important to remember that 'similar' does not mean 'same'; there are always small differences. In coding, comparing objects for similarity is a common task, often involving logic that checks for key attributes rather than exact identity.",
+    "synonyms": [
+      "alike",
+      "comparable",
+      "akin"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar",
+      "distinct"
+    ],
+    "nounForm": "similarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "similar",
+    "partOfSpeech": "adjective",
+    "commonContext": "Comparison and analysis",
+    "usageTip": "Use 'similar' when things are almost the same but have slight differences.",
+    "commonMistake": "Confusing 'similar to' with 'same as'.",
+    "collocations": [
+      "very similar",
+      "look similar",
+      "similar in nature"
+    ]
+  },
+  {
+    "word": "Similar",
+    "meaning": "Having features in common, but not exactly the same",
+    "shortMeaning": "like",
+    "example": "The two databases have similar structures.",
+    "example2": "He found a similar error in the second module.",
+    "example3": "Their performance was similar despite the different hardware.",
+    "Explanation": "In IT, 'similar' is used to compare code, systems, or data. When debugging, you might look for similar issues in different places. When comparing tools, you might say they are similar in features but different in pricing. It is a helpful word for explaining patterns and relationships between technical components. Be careful, as in IT, 'similar' is not 'identical'; even small differences in configuration or versioning can cause major errors. Always define exactly how they are similar.",
+    "synonyms": [
+      "like",
+      "comparable",
+      "akin"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar",
+      "distinct"
+    ],
+    "nounForm": "similarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "similar",
+    "partOfSpeech": "adjective",
+    "commonContext": "Comparing systems, troubleshooting, documentation",
+    "usageTip": "Use 'similar' for comparisons, but be clear about differences.",
+    "commonMistake": "Assuming 'similar' means 'the same' in functionality.",
+    "collocations": [
+      "similar to",
+      "very similar"
+    ]
+  },
+  {
+    "word": "Similar",
+    "meaning": "Having common qualities but not exactly the same",
+    "shortMeaning": "like something else",
+    "example": "This tool has a similar interface to the old one.",
+    "example2": "The two servers have similar hardware specifications.",
+    "example3": "Are there any similar products on the market?",
+    "Explanation": "The word 'similar' compares two or more items that share characteristics but remain distinct. It is used in technical documentation to help users relate new concepts to ones they already know. The noun form is 'similarity'. When things are 'similar', they are not identical. Always be specific about what makes them similar to avoid confusion in technical requirements.",
+    "synonyms": [
+      "alike",
+      "comparable",
+      "akin"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar",
+      "distinct"
+    ],
+    "nounForm": "similarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "similar",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product comparison, technical design, features",
+    "usageTip": "Use 'similar' to draw parallels between different components.",
+    "commonMistake": "Treating 'similar' as if it means 'identical'.",
+    "collocations": [
+      "very similar",
+      "similar functionality",
+      "similar to"
+    ]
+  }
+]

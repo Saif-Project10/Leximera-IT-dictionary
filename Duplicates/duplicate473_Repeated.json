@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Repeated",
+    "meaning": "Done or occurring again, especially several times.",
+    "shortMeaning": "done again",
+    "example": "He made repeated attempts to contact her.",
+    "example2": "The teacher gave repeated warnings about the deadline.",
+    "example3": "The experiment was repeated three times to ensure accuracy.",
+    "Explanation": "Repeated is the past participle of 'repeat', used as an adjective to describe something that has happened or been done more than once. It emphasizes the fact of recurrence. 'Repeated efforts' mean efforts made again and again. 'Repeatedly' is the adverb form. The word is neutral but can imply persistence (positive) or annoyance (negative), depending on context. It's one of the most common words to indicate frequency or iteration. In statistics, 'repeated measures' are observations taken from the same subjects over time.",
+    "synonyms": [
+      "recurring",
+      "frequent",
+      "reiterated",
+      "persistent"
+    ],
+    "antonyms": [
+      "single",
+      "one-time",
+      "unique",
+      "isolated"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "repeated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday language, science, complaints, instructions",
+    "usageTip": "Often comes before a noun: 'repeated failures', 'repeated requests'.",
+    "commonMistake": "Using 'repeated' as a verb; the verb is 'repeat'. 'Repeated' is an adjective or the past tense.",
+    "collocations": [
+      "repeatedly asked",
+      "repeated pattern",
+      "repeated exposure"
+    ]
+  },
+  {
+    "word": "Repeated",
+    "meaning": "Happening or done more than once",
+    "shortMeaning": "done multiple times",
+    "example": "Repeated attempts to connect failed.",
+    "example2": "The error was caused by repeated inputs.",
+    "example3": "He was warned about his repeated mistakes.",
+    "Explanation": "The word 'repeated' refers to actions that occur multiple times over a period. In computing, this often describes loops, errors that happen consistently, or multiple login attempts. The verb form is 'repeat' and the noun form is 'repetition'. It is a versatile word used to indicate frequency. Unlike 'repeatable', which refers to a quality of being capable of repetition, 'repeated' refers to the actual state of something having happened multiple times.",
+    "synonyms": [
+      "recurrent",
+      "frequent",
+      "iterated"
+    ],
+    "antonyms": [
+      "single",
+      "one-time",
+      "unique"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "repeated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Errors, logs, system behavior",
+    "usageTip": "Use 'repeated' when referring to actions that have occurred multiple times.",
+    "commonMistake": "Mixing it up with 'repeating', which focuses on the act in progress.",
+    "collocations": [
+      "repeated errors",
+      "repeated attempts",
+      "repeated failure"
+    ]
+  }
+]

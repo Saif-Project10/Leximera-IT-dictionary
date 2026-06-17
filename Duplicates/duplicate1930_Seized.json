@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Seized",
+    "meaning": "Taken possession of or stopped abruptly",
+    "shortMeaning": "taken or jammed",
+    "example": "The hard drive seized up due to heat.",
+    "example2": "The server was seized by the legal authorities.",
+    "example3": "The process seized and refused to continue.",
+    "Explanation": "The word 'seized' can mean taken by legal force (in a security incident) or physically jammed/stuck (like a cooling fan or a disc motor). If a process has 'seized', it means it has stopped responding completely, often due to a deadlocked state or hardware failure. The verb is 'seize'. It describes a sudden, involuntary stoppage or a forceful acquisition, both of which are high-impact events in IT.",
+    "synonyms": [
+      "captured",
+      "jammed",
+      "stuck"
+    ],
+    "antonyms": [
+      "released",
+      "freed",
+      "running"
+    ],
+    "nounForm": "seizure",
+    "verbForm": "seize",
+    "adjectiveForm": "seized",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Legal security, hardware failures",
+    "usageTip": "Use 'seized' for hardware that has jammed or for legal taking.",
+    "commonMistake": "Confusing 'seized' with 'frozen' (though they are close, seized often implies total breakdown).",
+    "collocations": [
+      "seized drive",
+      "seized process"
+    ]
+  },
+  {
+    "word": "Seized",
+    "meaning": "Taken possession of or stopped from functioning",
+    "shortMeaning": "taken or jammed",
+    "example": "The hard drive seized up after years of continuous use.",
+    "example2": "The security system seized all malicious data packets.",
+    "example3": "The server process seized due to a deadlock.",
+    "Explanation": "In hardware, 'seized' describes a physical component (like a motor or a drive) that has stopped moving due to damage or friction. In software, it is often used metaphorically to describe a process that has become unresponsive, such as when a system or thread 'seizes up' during a deadlock. Recognizing a seized component or process is crucial for rapid hardware replacement or software debugging. It usually implies a state where recovery is impossible without intervention.",
+    "synonyms": [
+      "jammed",
+      "stuck",
+      "frozen"
+    ],
+    "antonyms": [
+      "functioning",
+      "moving",
+      "responsive"
+    ],
+    "nounForm": "seizure",
+    "verbForm": "seize",
+    "adjectiveForm": "seized",
+    "partOfSpeech": "verb",
+    "commonContext": "Hardware, troubleshooting, system processes",
+    "usageTip": "Use for unresponsive hardware or locked processes.",
+    "commonMistake": "Confusing it with 'crashed' (seized implies locked, crashed implies terminated).",
+    "collocations": [
+      "hard drive seized",
+      "process seized",
+      "seized up"
+    ]
+  }
+]

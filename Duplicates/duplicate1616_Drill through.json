@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Drill through",
+    "meaning": "To move from one report to a completely different related report to see more info",
+    "shortMeaning": "jumping to related data",
+    "example": "If you click the customer's name, you can drill through to their full order history.",
+    "example2": "Drill through allows you to see the source data in another application.",
+    "example3": "The developer set up a drill through link between the sales and shipping databases.",
+    "Explanation": "In data reporting, 'drill through' is often confused with 'drill down,' but they are different. While 'drill down' stays in the same data set and just shows more detail, 'drill through' takes you to a different report or a different page. For example, if you are looking at a list of invoices, 'drilling through' on an invoice number might open a completely different page showing the shipping details for that specific order. It is like a shortcut that connects two different but related pieces of information. This is very useful for exploring how different parts of a business interact. It provides context from multiple sources.",
+    "synonyms": [
+      "cross-report navigation",
+      "data jumping"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "drill-through",
+    "verbForm": "drill through",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Enterprise reporting and database software",
+    "usageTip": "Use this when clicking one thing leads you to a completely different screen or report.",
+    "commonMistake": "Confusing 'drill through' with 'drill down'; remember, 'through' means going to a new place.",
+    "collocations": [
+      "drill through report",
+      "drill through action",
+      "enable drill through"
+    ]
+  },
+  {
+    "word": "Drill through",
+    "meaning": "To move from one report to a completely different but related report to get more context",
+    "shortMeaning": "switch to related data",
+    "example": "You can drill through from the customer list to their full transaction history.",
+    "example2": "The software supports drill through actions to link different databases.",
+    "example3": "Drill through helps us see how a marketing campaign affected different products.",
+    "Explanation": "Drill through is similar to drill down, but there is a difference. While 'drill down' goes deeper into the *same* data, 'drill through' takes you to a *different* but related page. For example, if you are looking at a list of employees and click one, it 'drills through' to their personal profile. It is a way of navigating complex data systems by jumping between related views to get a full picture of a situation.",
+    "synonyms": [
+      "cross-reference",
+      "jump to related"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "drill-through",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Business intelligence (BI) and advanced reporting",
+    "usageTip": "Use 'drill through' when you want to link two separate pieces of information together.",
+    "commonMistake": "Confusing 'drill through' with 'drill down'; remember: down is deeper, through is across.",
+    "collocations": [
+      "drill through report",
+      "drill through functionality",
+      "enable drill through"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Legacy",
+    "meaning": "Something left behind for future generations, like money, property, or a reputation.",
+    "shortMeaning": "thing handed down",
+    "example": "He left a legacy of kindness and generosity.",
+    "example2": "The ancient Romans left a lasting architectural legacy.",
+    "example3": "The old software is a legacy system that is hard to update.",
+    "Explanation": "A legacy is what remains from the past, often after someone's death or an era's end. It can be tangible (money, a building) or intangible (ideas, influence, a reputation). The word usually carries a sense of importance and endurance. In computing, a 'legacy system' is old technology still in use. Creating a positive legacy is often a life goal. The word is deeply connected to history, family, and culture. It implies that the past actively influences the present and future.",
+    "synonyms": [
+      "inheritance",
+      "heritage",
+      "bequest",
+      "tradition",
+      "remnant"
+    ],
+    "antonyms": [
+      "disinheritance",
+      "novelty"
+    ],
+    "nounForm": "legacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "legacy",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Wills and inheritance, history, culture, technology",
+    "usageTip": "Often used with verbs like 'leave', 'build', 'create', or 'have'.",
+    "commonMistake": "Confusing 'legacy' with 'legend'. A legacy is what is left behind; a legend is a famous story or person.",
+    "collocations": [
+      "lasting legacy",
+      "legacy system",
+      "family legacy",
+      "cultural legacy"
+    ]
+  },
+  {
+    "word": "Legacy",
+    "meaning": "Older technology, software, or computer systems that are still in use",
+    "shortMeaning": "old technology",
+    "example": "The company still relies on a legacy banking system.",
+    "example2": "Migrating from legacy hardware is a difficult task.",
+    "example3": "We need to maintain the legacy code for compatibility.",
+    "Explanation": "The term 'legacy' in IT refers to systems, hardware, or software that are outdated but still used by an organization. These systems often lack modern features, have security vulnerabilities, or use obsolete programming languages that are hard to support. Despite these issues, they are often kept because they store critical data or support essential business processes. Maintaining legacy systems requires specialized knowledge of older architectures. It is a standard term in enterprise IT when discussing modernization and technical debt.",
+    "synonyms": [
+      "outdated",
+      "obsolete",
+      "archaic"
+    ],
+    "antonyms": [
+      "modern",
+      "current",
+      "cutting-edge"
+    ],
+    "nounForm": "legacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "legacy",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Enterprise software and systems architecture",
+    "usageTip": "Use when referring to old systems that are difficult to replace.",
+    "commonMistake": "Using it to describe everything old, rather than specifically systems in use.",
+    "collocations": [
+      "legacy system",
+      "legacy code",
+      "legacy infrastructure"
+    ]
+  }
+]

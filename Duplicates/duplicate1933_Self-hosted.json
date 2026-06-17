@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Self-hosted",
+    "meaning": "Running software on your own hardware instead of using a service",
+    "shortMeaning": "run on own server",
+    "example": "We decided to use a self-hosted instance of the database.",
+    "example2": "Self-hosted platforms offer more privacy control.",
+    "example3": "He manages a self-hosted blog on his private server.",
+    "Explanation": "Self-hosted means you run and maintain the software, server, and data yourself, rather than using a third-party managed service. While this provides more control, security, and privacy, it also requires you to handle updates, backups, and security patches. It is a common choice for businesses and individuals who want to avoid vendor lock-in or keep their data entirely under their own roof. It requires technical expertise to maintain correctly over time.",
+    "synonyms": [
+      "on-premises",
+      "private-server",
+      "in-house"
+    ],
+    "antonyms": [
+      "cloud-managed",
+      "SaaS",
+      "outsourced"
+    ],
+    "nounForm": "self-hosting",
+    "verbForm": "self-host",
+    "adjectiveForm": "self-hosted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Server management, privacy, IT infrastructure",
+    "usageTip": "Use 'self-hosted' when you want to highlight ownership of the infrastructure.",
+    "commonMistake": "Overestimating the ease of maintenance for self-hosted solutions.",
+    "collocations": [
+      "self-hosted instance",
+      "self-hosted platform",
+      "run self-hosted"
+    ]
+  },
+  {
+    "word": "Self-hosted",
+    "meaning": "Running software on your own hardware or server",
+    "shortMeaning": "locally hosted",
+    "example": "We switched to a self-hosted email solution.",
+    "example2": "The company prefers self-hosted tools for privacy reasons.",
+    "example3": "He manages a self-hosted database in his lab.",
+    "Explanation": "Being 'self-hosted' means you run and manage the software on your own private infrastructure rather than using a third-party 'software-as-a-service' (SaaS) provider. While this gives you full control over your data, configuration, and security, it also means you are solely responsible for maintenance, updates, and backups. It is a popular choice for developers, privacy-conscious users, and companies that handle sensitive data. It requires more IT expertise than standard cloud-based options.",
+    "synonyms": [
+      "on-premises",
+      "locally-managed"
+    ],
+    "antonyms": [
+      "SaaS",
+      "cloud-based",
+      "third-party"
+    ],
+    "nounForm": "self-hosting",
+    "verbForm": "self-host",
+    "adjectiveForm": "self-hosted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Infrastructure, security, privacy",
+    "usageTip": "Use 'self-hosted' to distinguish from cloud services.",
+    "commonMistake": "Ignoring the long-term maintenance costs of self-hosting.",
+    "collocations": [
+      "self-hosted server",
+      "self-hosted software"
+    ]
+  }
+]

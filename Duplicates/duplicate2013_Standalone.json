@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Standalone",
+    "meaning": "Able to operate independently without external support or connections.",
+    "shortMeaning": "independent",
+    "example": "The standalone application does not require an internet connection.",
+    "example2": "We deployed a standalone server for testing purposes.",
+    "example3": "It is a standalone module that works in any environment.",
+    "Explanation": "A 'standalone' system or software is one that performs its functions entirely on its own. It does not depend on external services, APIs, or connections to other components to execute its primary tasks. This design is excellent for portability and resilience, as the failure of external systems does not crash the standalone unit. Developers often create standalone versions of tools to simplify testing, installation, and deployment in restricted or offline environments.",
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "self-contained"
+    ],
+    "antonyms": [
+      "dependent",
+      "integrated",
+      "networked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "standalone",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, hardware components, systems",
+    "usageTip": "Use 'standalone' to describe self-sufficient tools or hardware.",
+    "commonMistake": "Assuming standalone means it has no configuration requirements.",
+    "collocations": [
+      "standalone application",
+      "standalone server",
+      "standalone module"
+    ]
+  },
+  {
+    "word": "Standalone",
+    "meaning": "Capable of operating independently without external dependencies",
+    "shortMeaning": "independent",
+    "example": "The utility is a standalone application that does not need installation.",
+    "example2": "We designed the component to be standalone for easier testing.",
+    "example3": "This is a standalone module that can run on any server.",
+    "Explanation": "The word 'standalone' describes software or hardware that functions on its own. It does not require other libraries, services, or platforms to be present to work. This makes standalone applications very portable and easy to distribute. It is highly valued in development for creating tools that are easy to drop into various environments. It implies self-sufficiency and high compatibility. It is a common term for utilities and small programs.",
+    "synonyms": [
+      "independent",
+      "self-contained",
+      "autonomous"
+    ],
+    "antonyms": [
+      "integrated",
+      "dependent",
+      "hosted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "standalone",
+    "partOfSpeech": "adjective",
+    "commonContext": "Application development, utilities",
+    "usageTip": "Use 'standalone' when the software doesn't need external connections.",
+    "commonMistake": "Confusing 'standalone' with 'offline'; they are different concepts.",
+    "collocations": [
+      "standalone application",
+      "standalone module",
+      "standalone system"
+    ]
+  }
+]

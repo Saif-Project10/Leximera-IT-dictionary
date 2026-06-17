@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Domain-centric",
+    "meaning": "Focused on or organized around a specific business domain or subject area, rather than technology.",
+    "shortMeaning": "focused on the business domain",
+    "example": "The team adopted a domain-centric design to better model real-world business processes.",
+    "example2": "Domain-centric architecture prioritizes business logic over technical infrastructure.",
+    "example3": "A domain-centric approach helps developers speak the same language as business experts.",
+    "Explanation": "'Domain-centric' is a compound adjective used in software engineering, particularly in Domain-Driven Design (DDD). It describes systems, teams, or codebases whose primary organizing principle is the business domain (e.g., banking, healthcare, logistics) rather than technical concerns (databases, user interfaces). This approach aims to create software that closely mirrors the complexities of the real-world problem it solves, improving communication with stakeholders and adaptability to change. It's a specific methodology for tackling complex business software.",
+    "synonyms": [
+      "domain-driven",
+      "business-centric"
+    ],
+    "antonyms": [
+      "technology-centric",
+      "infrastructure-focused"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "domain-centric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, Domain-Driven Design (DDD), architecture",
+    "usageTip": "Always hyphenate. It's a specialized term in software development methodology.",
+    "commonMistake": "Using it to mean simply 'related to a domain'; it specifically refers to a design philosophy that places the domain at the center.",
+    "collocations": [
+      "domain-centric design",
+      "domain-centric architecture",
+      "domain-centric modeling"
+    ]
+  },
+  {
+    "word": "Domain-centric",
+    "meaning": "Focusing heavily on the specific subject matter or business field of an application.",
+    "shortMeaning": "focused on the domain",
+    "example": "The team adopted a domain-centric approach to build the software.",
+    "example2": "Domain-centric designs make the code easier for business users to understand.",
+    "example3": "The platform is highly domain-centric, tailored for finance.",
+    "Explanation": "Domain-centric means the design and architecture of a system are built primarily around the business area (the domain) it serves. Instead of focusing just on technical details, the structure reflects how the business works. This makes the code map more closely to real-world business concepts. It helps developers and domain experts communicate better. It is a philosophy often associated with Domain-Driven Design, prioritizing business logic over pure technology implementation.",
+    "synonyms": [
+      "business-focused",
+      "domain-oriented"
+    ],
+    "antonyms": [
+      "technically-centric",
+      "implementation-focused"
+    ],
+    "nounForm": "domain-centricity",
+    "verbForm": "N/A",
+    "adjectiveForm": "domain-centric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, business systems",
+    "usageTip": "Use 'domain-centric' to describe systems designed to reflect business processes.",
+    "commonMistake": "Confusing it with generic software design.",
+    "collocations": [
+      "domain-centric design",
+      "domain-centric approach",
+      "domain-centric model"
+    ]
+  }
+]

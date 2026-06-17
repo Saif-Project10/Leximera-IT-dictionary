@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Adjacent",
+    "meaning": "Next to or adjoining something else.",
+    "shortMeaning": "next to; adjoining",
+    "example": "Our hotel room was adjacent to the elevator.",
+    "example2": "Please look at the adjacent diagram for reference.",
+    "example3": "The park is adjacent to the school.",
+    "Explanation": "'Adjacent' is an adjective. It describes things that are next to each other, often sharing a common border or wall. It is more formal than 'next to'. In geometry, adjacent angles share a common side. It does not necessarily mean directly facing; it can be to the side. It's a precise word useful in descriptions of space, property, and layout. It's commonly used in real estate, mathematics, and everyday descriptions of location.",
+    "synonyms": [
+      "adjoining",
+      "neighboring",
+      "bordering",
+      "next to"
+    ],
+    "antonyms": [
+      "distant",
+      "far from",
+      "separated"
+    ],
+    "nounForm": "adjacency",
+    "verbForm": "N/A",
+    "adjectiveForm": "adjacent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Real estate, geography, mathematics, room descriptions",
+    "usageTip": "Always followed by 'to' when indicating what it is next to: 'adjacent to the building'.",
+    "commonMistake": "Using it to mean 'close by' or 'near'. Adjacent implies touching or immediate proximity.",
+    "collocations": [
+      "adjacent room",
+      "adjacent property",
+      "immediately adjacent"
+    ]
+  },
+  {
+    "word": "Adjacent",
+    "meaning": "Close to, lying near, or touching an edge or boundary",
+    "shortMeaning": "next to",
+    "example": "The data center is located in the building adjacent to our main office.",
+    "example2": "Adjacent cells in an Excel spreadsheet can be merged into a single block.",
+    "example3": "The routing protocol checks adjacent routers to find the fastest data path.",
+    "Explanation": "The word 'adjacent' describes items that sit directly next to each other with nothing in between. In UI/UX web design, adjacent elements must have proper margins to avoid overlap. In network routing, adjacent nodes share a direct physical or logical link. The noun form is 'adjacency', and there is no direct verb form. It is highly useful when describing layouts, network links, or physical offices.",
+    "synonyms": [
+      "neighboring",
+      "next to",
+      "bordering"
+    ],
+    "antonyms": [
+      "distant",
+      "remote",
+      "away"
+    ],
+    "nounForm": "adjacency",
+    "verbForm": "N/A",
+    "adjectiveForm": "adjacent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network node mapping, UI/UX element layout, database tables",
+    "usageTip": "Use 'adjacent' when two items are physically or logically side-by-side or touching.",
+    "commonMistake": "Using 'adjacent' for things that are just generally close by but separated by other items.",
+    "collocations": [
+      "adjacent nodes",
+      "adjacent cells",
+      "immediately adjacent"
+    ]
+  }
+]

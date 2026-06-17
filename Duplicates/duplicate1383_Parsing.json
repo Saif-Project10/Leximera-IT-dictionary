@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Parsing",
+    "meaning": "The process of analyzing a string of symbols into its components to understand its structure",
+    "shortMeaning": "analyzing structure",
+    "example": "Parsing the sentence helps identify the subject and verb.",
+    "example2": "The program is parsing the user's command.",
+    "example3": "Parsing large files can be computationally expensive.",
+    "Explanation": "'Parsing' is the gerund (noun) or present participle of the verb 'parse'. It refers to the act of deconstructing language, code, or data to understand its grammatical structure or meaning. In computing, it's a fundamental step in executing code, reading data formats (like JSON/XML), and understanding natural language. In traditional grammar, it means diagramming a sentence. It is a core activity in both linguistics and computer programming, focusing on structure and rules.",
+    "synonyms": [
+      "analyzing",
+      "deconstructing",
+      "interpreting"
+    ],
+    "antonyms": [
+      "generating",
+      "composing"
+    ],
+    "nounForm": "parsing",
+    "verbForm": "parse",
+    "adjectiveForm": "parsing (as in 'parsing algorithm')",
+    "partOfSpeech": "noun / verb (present participle)",
+    "commonContext": "Computer programming, linguistics, data analysis",
+    "usageTip": "In grammar, you parse a sentence. In computing, a program parses data.",
+    "commonMistake": "Thinking parsing is the same as reading or scanning; it's specifically about understanding structure.",
+    "collocations": [
+      "parsing error",
+      "sentence parsing",
+      "parsing engine"
+    ]
+  },
+  {
+    "word": "Parsing",
+    "meaning": "The act of analyzing code or text for structure",
+    "shortMeaning": "analyzing text",
+    "example": "The compiler is currently in the parsing stage.",
+    "example2": "Parsing complex logs requires a powerful regex tool.",
+    "example3": "Poor parsing logic can lead to application crashes.",
+    "Explanation": "Parsing is the systematic process of breaking down a string of text into its grammatical or structural components. In software, this is how a program makes sense of input (like a command line, a configuration file, or an API response). It involves identifying tokens, checking against a grammar, and creating a structure. It is a compute-intensive and error-prone process. Good parsing design is the difference between a robust application and one that crashes on invalid input.",
+    "synonyms": [
+      "analysis",
+      "interpretation",
+      "syntactic analysis"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "parsing",
+    "verbForm": "parse",
+    "adjectiveForm": "parsed",
+    "partOfSpeech": "noun (gerund)",
+    "commonContext": "Programming, compiler theory, data extraction",
+    "usageTip": "Use 'parsing' to describe the stage of a process that turns raw text into an abstract syntax tree.",
+    "commonMistake": "Overlooking the performance cost of parsing very large documents.",
+    "collocations": [
+      "parsing error",
+      "parsing logic",
+      "parsing stage"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Terrifying",
+    "meaning": "Causing extreme fear; very frightening",
+    "shortMeaning": "very scary",
+    "example": "The horror movie was absolutely terrifying.",
+    "example2": "He had a terrifying experience during the storm.",
+    "example3": "The thought of failing was terrifying to her.",
+    "Explanation": "'Terrifying' is a strong adjective used to describe something that causes great terror or fear. It is more intense than words like 'scary'. This word is common in storytelling, news, and personal experiences. It often describes events, situations, or thoughts. The related verb is 'terrify'. Use it carefully as it conveys a very powerful emotion.",
+    "synonyms": [
+      "frightening",
+      "horrifying",
+      "petrifying"
+    ],
+    "antonyms": [
+      "calming",
+      "soothing",
+      "reassuring"
+    ],
+    "nounForm": "terror",
+    "verbForm": "terrify",
+    "adjectiveForm": "terrifying",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing scary movies, experiences, or situations",
+    "usageTip": "Use 'terrifying' for things that cause very strong fear, not just mild worry.",
+    "commonMistake": "Using 'terrifying' for something that is only slightly annoying or worrying.",
+    "collocations": [
+      "terrifying experience",
+      "terrifying thought",
+      "terrifyingly real"
+    ]
+  },
+  {
+    "word": "Terrifying",
+    "meaning": "Extremely frightening or causing great fear.",
+    "shortMeaning": "frightening",
+    "example": "The complexity of the legacy codebase is truly terrifying.",
+    "example2": "Dealing with a massive data breach is a terrifying scenario.",
+    "example3": "The error logs revealed a terrifying sequence of events.",
+    "Explanation": "The word 'terrifying' is used to describe something that causes severe fear. In IT, we use it figuratively to describe technical situations that are extremely high-risk, unmanageable, or prone to catastrophic failure. It highlights the serious impact a bug or security flaw can have. While it is not a standard technical term, it effectively conveys the urgency of a situation in team meetings.",
+    "synonyms": [
+      "frightening",
+      "scary",
+      "daunting"
+    ],
+    "antonyms": [
+      "comforting",
+      "reassuring"
+    ],
+    "nounForm": "terror",
+    "verbForm": "terrify",
+    "adjectiveForm": "terrifying",
+    "partOfSpeech": "adjective",
+    "commonContext": "High-risk situations",
+    "usageTip": "Use this figuratively for very high-risk technical situations.",
+    "commonMistake": "Using it too often; it should be reserved for actual crises.",
+    "collocations": [
+      "terrifying complexity",
+      "terrifying scenario"
+    ]
+  },
+  {
+    "word": "Terrifying",
+    "meaning": "Extremely frightening or alarming",
+    "shortMeaning": "very scary",
+    "example": "The cyberattack was a terrifying prospect for the team.",
+    "example2": "Losing all user data is a terrifying experience.",
+    "example3": "The bug in the production environment was terrifying.",
+    "Explanation": "Terrifying describes something that causes extreme fear or anxiety. In an IT context, it is used to describe critical failures, security breaches, or catastrophic data loss. It is an emotional word, so use it carefully in professional environments. It emphasizes the severity and high impact of a situation. When describing bugs or incidents, focus on the technical impact before using emotional descriptors.",
+    "synonyms": [
+      "frightening",
+      "scary",
+      "alarming"
+    ],
+    "antonyms": [
+      "comforting",
+      "reassuring",
+      "pleasant"
+    ],
+    "nounForm": "terror",
+    "verbForm": "terrify",
+    "adjectiveForm": "terrifying",
+    "partOfSpeech": "adjective",
+    "commonContext": "Critical incidents, security risks, high-stress situations",
+    "usageTip": "Use sparingly; usually reserve for very high-stakes or dangerous situations.",
+    "commonMistake": "Using it for minor bugs that are just annoying.",
+    "collocations": [
+      "terrifying experience",
+      "terrifying prospect",
+      "terrifying failure"
+    ]
+  }
+]

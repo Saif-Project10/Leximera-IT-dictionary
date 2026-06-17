@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Protected",
+    "meaning": "Kept safe from harm, damage, or loss.",
+    "shortMeaning": "kept safe",
+    "example": "The endangered species is now protected by law.",
+    "example2": "Make sure your computer is protected by a strong password.",
+    "example3": "She felt protected when she was with her older brother.",
+    "Explanation": "The adjective 'protected' describes something that has been shielded or defended from danger. It is the past participle of the verb 'protect'. It implies that measures have been taken to ensure safety. This can be legal protection, physical barriers, security software, or emotional security. A 'protected area' like a national park is conserved. 'Protected status' grants special rights. It is a positive state resulting from proactive action. The focus is on the outcome of being safe, not just the potential to resist.",
+    "synonyms": [
+      "guarded",
+      "shielded",
+      "defended",
+      "secure",
+      "safeguarded"
+    ],
+    "antonyms": [
+      "unprotected",
+      "exposed",
+      "vulnerable",
+      "endangered"
+    ],
+    "nounForm": "protection",
+    "verbForm": "protect",
+    "adjectiveForm": "protected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, computing, environment, safety",
+    "usageTip": "Often used in the phrase 'protected by' to indicate the means of protection.",
+    "commonMistake": "Confusing 'protected' (safe) with 'projected' (estimated or thrown forward).",
+    "collocations": [
+      "protected by law",
+      "protected area",
+      "password protected",
+      "protected species"
+    ]
+  },
+  {
+    "word": "Protected",
+    "meaning": "Safe from harm, damage, or unauthorized access",
+    "shortMeaning": "safe/secure",
+    "example": "The database is protected by a strong password policy.",
+    "example2": "All sensitive files should be protected with encryption.",
+    "example3": "In programming, a protected method can only be accessed by the class and its children.",
+    "Explanation": "The word 'protected' means that something has been secured against unauthorized access, damage, or interference. In cybersecurity, it refers to systems guarded by firewalls, passwords, or encryption. In object-oriented programming, 'protected' is a keyword that restricts access to class members to the class itself and its subclasses, providing a form of data hiding or encapsulation. It is a fundamental concept for maintaining security and code integrity at every level.",
+    "synonyms": [
+      "secure",
+      "guarded",
+      "defended"
+    ],
+    "antonyms": [
+      "unprotected",
+      "exposed",
+      "vulnerable"
+    ],
+    "nounForm": "protection",
+    "verbForm": "protect",
+    "adjectiveForm": "protected",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, programming, data storage",
+    "usageTip": "Use 'protected' to highlight that you have implemented security measures.",
+    "commonMistake": "Assuming something is fully 'protected' when it only has basic security.",
+    "collocations": [
+      "protected file",
+      "protected access",
+      "protected data"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Intricate",
+    "meaning": "Very complicated or detailed, with many small parts or aspects | Very complicated or detailed.",
+    "shortMeaning": "very detailed and complex",
+    "example": "The watch had an intricate mechanism with hundreds of tiny parts.",
+    "example2": "She drew an intricate pattern of flowers and vines.",
+    "example3": "The plot of the novel was intricate and full of twists.",
+    "Explanation": "Something 'intricate' has many complexly interwoven parts or details. It suggests careful, elaborate workmanship or design. Intricate things can be beautiful because of their complexity, but they can also be difficult to understand or reproduce. This word is often used for craftsmanship (intricate jewelry), patterns (intricate designs), or systems (intricate bureaucracy). It comes from Latin meaning 'entangled', which captures the sense of interconnected complexity.",
+    "synonyms": [
+      "Complex",
+      "Complicated",
+      "Detailed",
+      "Elaborate",
+      "Involved"
+    ],
+    "antonyms": [
+      "Basic",
+      "Plain",
+      "Simple",
+      "Straightforward",
+      "Uncomplicated"
+    ],
+    "nounForm": "intricacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "intricate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Art, design, machinery, plots, systems",
+    "usageTip": "Use to describe something with many small, interconnected parts that create complexity.",
+    "commonMistake": "Confusing 'intricate' (detailed complexity) with 'integrate' (combine into a whole).",
+    "collocations": [
+      "intricate design",
+      "intricate details",
+      "intricate pattern",
+      "intricate work"
+    ]
+  },
+  {
+    "word": "Intricate",
+    "meaning": "Very detailed, complicated, or complex",
+    "shortMeaning": "complex",
+    "example": "The circuit design is very intricate.",
+    "example2": "She spent hours solving the intricate logic puzzle.",
+    "example3": "An intricate web of dependencies makes the system hard to update.",
+    "Explanation": "The word 'intricate' refers to things with many small, complex, or interconnected parts. In IT, an 'intricate' system is one where everything is tightly linked, and changing one part might affect many others. While 'intricate' designs can be elegant and powerful, they are often difficult to maintain and debug. When you describe code or hardware as 'intricate', you are highlighting its complexity. Always try to simplify 'intricate' systems to reduce the chance of errors.",
+    "synonyms": [
+      "complex",
+      "detailed",
+      "complicated"
+    ],
+    "antonyms": [
+      "simple",
+      "plain",
+      "straightforward"
+    ],
+    "nounForm": "intricacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "intricate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, coding, logic",
+    "usageTip": "Use 'intricate' for things with many fine details.",
+    "commonMistake": "Confusing 'intricate' with 'interesting'.",
+    "collocations": [
+      "intricate design",
+      "intricate logic",
+      "intricate detail"
+    ]
+  }
+]

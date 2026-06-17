@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Row-level security",
+    "meaning": "The same as row level security, often hyphenated when used as an adjective",
+    "shortMeaning": "record-based access control",
+    "example": "The row-level security features in SQL Server are very robust.",
+    "example2": "Check the row-level security settings before deploying the dashboard.",
+    "example3": "Row-level security ensures that tenants in a multi-tenant app cannot see each other's data.",
+    "Explanation": "This is a variation in spelling of 'row level security'. The hyphen is technically used when the phrase acts as a compound adjective modifying a noun (like 'row-level security policy'). It refers to the technical capability of a database to filter results based on the user's login credentials or role. It is a critical component of 'Multi-tenancy' architectures where many clients use the same infrastructure. By enforcing security at the row level, developers can prevent 'data leakage' between different users of the same application.",
+    "synonyms": [
+      "RLS",
+      "record-level security"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "row-level security",
+    "partOfSpeech": "noun phrase / adjective",
+    "commonContext": "Cloud computing, SQL databases, and Power BI",
+    "usageTip": "Use the hyphen when 'row-level' is describing the word 'security'.",
+    "commonMistake": "Thinking that row-level security replaces the need for encryption; they serve different purposes.",
+    "collocations": [
+      "row-level security filter",
+      "dynamic row-level security",
+      "row-level security implementation"
+    ]
+  },
+  {
+    "word": "Row-level security",
+    "meaning": "A security feature that restricts database access at the row level.",
+    "shortMeaning": "granular data security",
+    "example": "We used row-level security to isolate tenant data.",
+    "example2": "Row-level security prevents unauthorized access to sensitive records.",
+    "example3": "Enabling row-level security requires defining clear access policies.",
+    "Explanation": "Row-level security (RLS) is a database mechanism that allows you to control which rows are visible or modifiable by specific users based on their credentials or roles. It is highly effective for multi-tenant applications where many customers share the same database. By applying policies, the database engine filters results automatically. It is a critical layer of security for modern enterprise applications, ensuring data privacy and compliance without needing complex application-side logic.",
+    "synonyms": [
+      "data isolation",
+      "fine-grained access control",
+      "RLS"
+    ],
+    "antonyms": [
+      "full-table access",
+      "public access",
+      "no security"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Database security, data privacy, cloud architecture",
+    "usageTip": "Use 'row-level security' when discussing multi-tenant data protection.",
+    "commonMistake": "Overlooking the performance overhead of complex RLS policies.",
+    "collocations": [
+      "implement row-level security",
+      "row-level security policy",
+      "enable row-level security"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Lock-step",
+    "meaning": "Operating in exact synchronization",
+    "shortMeaning": "perfectly synced",
+    "example": "The two systems operate in lock-step to ensure data consistency.",
+    "example2": "All processors work in lock-step during this operation.",
+    "example3": "Development must move in lock-step with testing.",
+    "Explanation": "Lock-step describes a mode of operation where multiple components or processes work in perfect, exact synchronization. If one part moves or changes, the others immediately follow the same pattern. It is often used in fault-tolerant computing, where multiple CPUs run the same code simultaneously to detect errors. If their outputs don't match, the system alerts the user. It represents a very rigid, highly controlled environment where deviation is not allowed.",
+    "synonyms": [
+      "synchronized",
+      "aligned",
+      "in-sync"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "out-of-sync",
+      "independent"
+    ],
+    "nounForm": "lock-step",
+    "verbForm": "N/A",
+    "adjectiveForm": "lock-step",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Hardware, synchronization, process management",
+    "usageTip": "Use for processes that must stay perfectly aligned.",
+    "commonMistake": "Confusing lock-step with simple teamwork.",
+    "collocations": [
+      "operate in lock-step",
+      "move in lock-step",
+      "lock-step execution"
+    ]
+  },
+  {
+    "word": "Lock-step",
+    "meaning": "A way of working where multiple parts move or change at exactly the same time and in the same way",
+    "shortMeaning": "perfectly synchronized",
+    "example": "The two servers must work in lock-step to ensure data consistency.",
+    "example2": "In a dual-core system, the cores don't always run in lock-step.",
+    "example3": "The dancers moved in lock-step to the music.",
+    "Explanation": "Lock-step is about perfect synchronization. In computing, 'lock-step' systems run two or more processors that do the exact same thing at the exact same time. If one processor has an error, the system knows immediately because the other one will have a different result. This is used in very high-security or mission-critical systems, like space shuttles or high-speed trains. In a team, it means everyone is following the same plan perfectly without any deviation.",
+    "synonyms": [
+      "synchronization",
+      "uniformity",
+      "N/A"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "independent",
+      "N/A"
+    ],
+    "nounForm": "lock-step",
+    "verbForm": "N/A",
+    "adjectiveForm": "lock-step",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "High-reliability computing, military, and dancing",
+    "usageTip": "Use 'lock-step' to describe things that are perfectly and strictly in sync.",
+    "commonMistake": "Thinking 'lock-step' just means 'together'; it implies a very strict, identical movement.",
+    "collocations": [
+      "work in lock-step",
+      "lock-step synchronization",
+      "move in lock-step"
+    ]
+  }
+]

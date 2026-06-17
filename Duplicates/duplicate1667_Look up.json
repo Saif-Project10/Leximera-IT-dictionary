@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Look up",
+    "meaning": "The act of searching for specific information in a list, table, or database",
+    "shortMeaning": "search for info",
+    "example": "You can look up the user's ID in the main database.",
+    "example2": "The software needs to look up the price of each item during checkout.",
+    "example3": "Looking up values in a sorted list is much faster than an unsorted one.",
+    "Explanation": "In computing, a 'look up' (or lookup) is a standard operation where the system retrieves a value associated with a specific key. For example, when you type a URL, your computer performs a DNS lookup to find the IP address. This concept is fundamental to databases, spreadsheets (like VLOOKUP), and data structures like Hash Maps. Efficient lookup operations are vital for high-performance software. The speed of a lookup often depends on how the data is organized or indexed.",
+    "synonyms": [
+      "search",
+      "retrieve",
+      "query"
+    ],
+    "antonyms": [
+      "ignore",
+      "insert"
+    ],
+    "nounForm": "lookup",
+    "verbForm": "look up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Databases, spreadsheets, and programming",
+    "usageTip": "Use 'lookup' as a noun (a table lookup) and 'look up' as a verb (to look up a value).",
+    "commonMistake": "Using 'look up' when you actually mean 'calculate' from scratch.",
+    "collocations": [
+      "DNS lookup",
+      "table lookup",
+      "perform a lookup"
+    ]
+  },
+  {
+    "word": "Look up",
+    "meaning": "To search for information in a list, dictionary, or database",
+    "shortMeaning": "search for",
+    "example": "You can look up the meaning of IT terms in this dictionary.",
+    "example2": "The app needs to look up the user's ID in the database.",
+    "example3": "I need to look up the documentation for this API.",
+    "Explanation": "Looking up information is a daily task in IT. It involves finding a specific piece of data within a larger collection. In programming, a 'lookup table' is a common data structure used to find values quickly. This word is a phrasal verb. It implies that the information already exists and you are simply finding it. In databases, this is often called a 'query'.",
+    "synonyms": [
+      "search",
+      "find",
+      "consult"
+    ],
+    "antonyms": [
+      "ignore",
+      "forget"
+    ],
+    "nounForm": "lookup",
+    "verbForm": "look up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Information retrieval, databases, learning",
+    "usageTip": "Use 'look up' as a verb and 'lookup' as a noun or adjective (e.g., 'a database lookup').",
+    "commonMistake": "Using 'look for' when you are searching a specific reference or list (use 'look up' instead).",
+    "collocations": [
+      "look up a word",
+      "look up in database",
+      "DNS lookup"
+    ]
+  }
+]

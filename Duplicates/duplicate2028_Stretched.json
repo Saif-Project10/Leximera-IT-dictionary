@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stretched",
+    "meaning": "Pulled out to a greater length, or expanded in size.",
+    "shortMeaning": "expanded or pulled",
+    "example": "The image was stretched to fit the background.",
+    "example2": "The team's resources were stretched thin during the release.",
+    "example3": "The timeline was stretched to accommodate more features.",
+    "Explanation": "The word 'stretched' describes the expansion of something beyond its original size, length, or capacity. In IT, 'stretched' is often used figuratively to describe people or systems that are working at their absolute limit (e.g., 'stretched thin'). It can also describe a UI element that has been forced to cover an area larger than it was designed for, often resulting in distortion.",
+    "synonyms": [
+      "expanded",
+      "extended",
+      "pulled"
+    ],
+    "antonyms": [
+      "shrunk",
+      "compressed",
+      "contracted"
+    ],
+    "nounForm": "stretch",
+    "verbForm": "stretch",
+    "adjectiveForm": "stretched",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI design and resource management",
+    "usageTip": "Use 'stretched' to indicate expansion or being pushed to limits.",
+    "commonMistake": "Stretching images incorrectly, which causes ugly pixelation or distortion.",
+    "collocations": [
+      "stretched thin",
+      "stretched to fit",
+      "image stretched"
+    ]
+  },
+  {
+    "word": "Stretched",
+    "meaning": "Extended or pulled to reach a certain size or area.",
+    "shortMeaning": "pulled or extended",
+    "example": "The image was stretched to fit the browser screen.",
+    "example2": "The team's resources are stretched thin this quarter.",
+    "example3": "The background was stretched across the entire page.",
+    "Explanation": "The word 'stretched' means elongated or expanded. In IT, it often appears when talking about UI elements like images or containers that are forced to fill a space larger than their original dimensions, often causing distortion. It can also be used figuratively to describe a team or system that is being worked beyond its capacity. The base verb is 'stretch'. While useful for describing layout issues, be careful, as stretched images often look unprofessional or pixelated in modern web design.",
+    "synonyms": [
+      "extended",
+      "distorted",
+      "expanded"
+    ],
+    "antonyms": [
+      "shrunk",
+      "compressed",
+      "scaled"
+    ],
+    "nounForm": "stretch",
+    "verbForm": "stretch",
+    "adjectiveForm": "stretched",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "UI design, resources, layouts",
+    "usageTip": "Use 'stretched' to describe distorted layouts or limited resources.",
+    "commonMistake": "Using 'stretched' to mean 'responsive' (they are different).",
+    "collocations": [
+      "stretched image",
+      "stretched resources",
+      "stretched thin"
+    ]
+  }
+]

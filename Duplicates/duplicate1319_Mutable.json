@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Mutable",
+    "meaning": "Liable to change; able to be changed.",
+    "shortMeaning": "changeable, variable",
+    "example": "Fashion trends are mutable and never stay the same.",
+    "example2": "The mutable nature of software requires constant updates.",
+    "example3": "His opinions were mutable, depending on who he talked to.",
+    "Explanation": "'Mutable' is a formal adjective meaning capable of or prone to change. It comes from the Latin word for 'to change'. The opposite is 'immutable', meaning unchanging. This word is often used in technical, literary, or philosophical contexts. In programming, a 'mutable' object is one that can be altered after creation. It describes things like weather, opinions, or laws that are not fixed. It is not a common word in everyday conversation but is useful for precise description.",
+    "synonyms": [
+      "changeable",
+      "variable",
+      "unstable",
+      "alterable"
+    ],
+    "antonyms": [
+      "immutable",
+      "unchanging",
+      "fixed",
+      "constant"
+    ],
+    "nounForm": "mutability",
+    "verbForm": "mutate",
+    "adjectiveForm": "mutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Philosophy, programming, literature, describing nature",
+    "usageTip": "Think of 'mutation' in biology; 'mutable' things are subject to mutation or change.",
+    "commonMistake": "Using it in casual speech where 'changeable' would be more natural.",
+    "collocations": [
+      "mutable laws",
+      "highly mutable",
+      "mutable object (programming)"
+    ]
+  },
+  {
+    "word": "Mutable",
+    "meaning": "Subject to change or able to be modified",
+    "shortMeaning": "changeable",
+    "example": "In JavaScript, objects are mutable by default.",
+    "example2": "We defined the variable as immutable to prevent accidental changes.",
+    "example3": "Mutable data can cause bugs in concurrent systems.",
+    "Explanation": "In computer science, 'mutable' means an object or data can be modified after it is created. An 'immutable' object, once created, cannot be changed. Mutability is a fundamental concept because 'mutable' data is prone to bugs in multi-threaded programs where two parts of the code might try to change the same data at the same time. Many modern languages encourage using 'immutable' data structures to make programs more predictable and easier to test.",
+    "synonyms": [
+      "changeable",
+      "modifiable",
+      "variable"
+    ],
+    "antonyms": [
+      "immutable",
+      "constant",
+      "fixed"
+    ],
+    "nounForm": "mutability",
+    "verbForm": "N/A",
+    "adjectiveForm": "mutable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and data structures",
+    "usageTip": "Use when describing data that can be changed.",
+    "commonMistake": "Ignoring the risk of changing mutable data in background tasks.",
+    "collocations": [
+      "mutable object",
+      "mutable state"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Tamper-proof",
+    "meaning": "Designed to prevent or show evidence of unauthorized interference or modification.",
+    "shortMeaning": "anti-interference",
+    "example": "The device uses tamper-proof screws to prevent opening.",
+    "example2": "Our logs are stored in a tamper-proof blockchain ledger.",
+    "example3": "The seal on the box is tamper-proof.",
+    "Explanation": "A 'tamper-proof' system or object is built to be resistant to meddling or alteration. In IT, this usually refers to hardware (like secure modules) or software/data (like logs or signatures) that cannot be changed without detection. If someone tries to open the device or modify the data, they will either fail or leave clear evidence of the attempt. It is a critical concept in physical security, cryptography, and chain-of-custody data management.",
+    "synonyms": [
+      "secure",
+      "inviolable",
+      "protected"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "exposed",
+      "fragile"
+    ],
+    "nounForm": "tamper-proofness",
+    "verbForm": "N/A",
+    "adjectiveForm": "tamper-proof",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, hardware security, data integrity",
+    "usageTip": "Use 'tamper-proof' when referring to high-security protection.",
+    "commonMistake": "Confusing 'tamper-proof' with 'tamper-evident' (which just shows the change).",
+    "collocations": [
+      "tamper-proof seal",
+      "tamper-proof container",
+      "tamper-proof log"
+    ]
+  },
+  {
+    "word": "Tamper-proof",
+    "meaning": "Impossible to alter or interfere with without being destroyed or failing",
+    "shortMeaning": "completely secure",
+    "example": "The software includes a tamper-proof digital signature.",
+    "example2": "It is difficult to create a truly tamper-proof system.",
+    "example3": "He claimed the vault was tamper-proof.",
+    "Explanation": "The term 'tamper-proof' implies that a system, device, or record cannot be changed by unauthorized users under any circumstances. In reality, very few things are absolute, so the term is often used in a marketing sense to denote extreme security. If something is tampered with, it should ideally break or stop working entirely. It is the highest level of security labeling compared to resistant or evident systems. Always be cautious using this term in technical documentation.",
+    "synonyms": [
+      "unbreakable",
+      "secure",
+      "inviolable"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "changeable",
+      "fragile"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "tamper-proof",
+    "partOfSpeech": "adjective",
+    "commonContext": "High security, cryptography, critical infrastructure",
+    "usageTip": "Use 'tamper-proof' carefully as it implies an absolute state.",
+    "commonMistake": "Overusing 'tamper-proof' when 'tamper-resistant' is more accurate.",
+    "collocations": [
+      "tamper-proof system",
+      "tamper-proof seal",
+      "tamper-proof locking"
+    ]
+  }
+]

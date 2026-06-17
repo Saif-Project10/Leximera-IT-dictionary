@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Switched",
+    "meaning": "Changed from one state, position, or path to another",
+    "shortMeaning": "changed over",
+    "example": "We switched the database to a new server yesterday.",
+    "example2": "He switched the toggle to the 'on' position.",
+    "example3": "The network switched the traffic to the backup path.",
+    "Explanation": "The word 'switched' refers to the act of changing from one thing to another. In networking, a 'switch' is a device that directs data traffic, and when data is 'switched', it is being rerouted. It is also used for changing configurations, settings, or modes of operation. It implies a clear, intentional shift between two options. Always specify what you switched from and what you switched to for maximum clarity in technical reports.",
+    "synonyms": [
+      "changed",
+      "toggled",
+      "transferred"
+    ],
+    "antonyms": [
+      "maintained",
+      "kept",
+      "continued"
+    ],
+    "nounForm": "switch",
+    "verbForm": "switch",
+    "adjectiveForm": "switched",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Networking, hardware, configuration",
+    "usageTip": "Use to describe an intentional change in state.",
+    "commonMistake": "Using 'switched' when you mean 'fixed'; switched implies replacing/moving.",
+    "collocations": [
+      "switched connection",
+      "switched mode",
+      "switched the path"
+    ]
+  },
+  {
+    "word": "Switched",
+    "meaning": "Changed or turned from one state or connection to another",
+    "shortMeaning": "changed",
+    "example": "We switched the database to a new server.",
+    "example2": "He switched off the power before maintenance.",
+    "example3": "The network switched the data packets efficiently.",
+    "Explanation": "The word 'switched' refers to making a change, often involving toggling a setting or redirecting a signal. In networking, a 'switch' is a device that connects devices on a network; thus, 'switched' describes data handled by this hardware. It is used broadly to describe changing software configurations, power states, or connectivity paths. It is one of the most common verbs in IT for transition and control. It implies a clear, intentional shift between two distinct states.",
+    "synonyms": [
+      "changed",
+      "toggled",
+      "redirected"
+    ],
+    "antonyms": [
+      "kept",
+      "persisted",
+      "maintained"
+    ],
+    "nounForm": "switch",
+    "verbForm": "switch",
+    "adjectiveForm": "switched",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking, hardware control, configuration",
+    "usageTip": "Use to describe changing a state or redirection.",
+    "commonMistake": "Using 'switch' when 'migrate' (a larger process) is more appropriate.",
+    "collocations": [
+      "switched on",
+      "switched off",
+      "network switched"
+    ]
+  }
+]

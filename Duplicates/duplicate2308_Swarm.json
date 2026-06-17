@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Swarm",
+    "meaning": "A large group of things or entities operating together",
+    "shortMeaning": "large group",
+    "example": "A swarm of drones was used to map the area.",
+    "example2": "The server faced a swarm of incoming requests.",
+    "example3": "Swarm intelligence is used in decentralized networks.",
+    "Explanation": "In technology, 'swarm' refers to multiple devices or agents working together to perform a task. This concept is often seen in robotics, networking, and distributed computing, where individual entities contribute to a larger goal. Unlike a single central controller, swarm systems are often robust and scalable. It is also used metaphorically to describe high traffic on a server. The term highlights cooperation and collective action among many small components.",
+    "synonyms": [
+      "cluster",
+      "group",
+      "aggregate"
+    ],
+    "antonyms": [
+      "individual",
+      "single",
+      "solitary"
+    ],
+    "nounForm": "swarm",
+    "verbForm": "swarm",
+    "adjectiveForm": "swarming",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Robotics, networking, distributed systems",
+    "usageTip": "Use this when describing many items acting collectively.",
+    "commonMistake": "Using it to describe a single entity instead of a group.",
+    "collocations": [
+      "swarm intelligence",
+      "swarm of bots",
+      "swarm robotics"
+    ]
+  },
+  {
+    "word": "Swarm",
+    "meaning": "A large group of independent elements, robots, bugs, or software agents moving and working together in a coordinated collective way",
+    "shortMeaning": "coordinated moving group",
+    "example": "Docker Swarm allows developers to manage a massive cluster of containerized application servers simultaneously.",
+    "example2": "The military is testing a drone swarm that can communicate internally to execute complex search missions.",
+    "example3": "A swarm of insect-like tiny robots crawled through the collapsed factory pipe to find structural cracks.",
+    "Explanation": "The word 'swarm' can be a noun or a verb. It originally describes a thick cluster of flying insects moving together. In modern computer science and engineering, 'swarm intelligence' and 'swarm robotics' refer to systems where dozens of small, simple, independent agents interact with each other and their environment to solve complex global problems together without a single master controller. Additionally, in backend engineering, 'Docker Swarm' is a famous container orchestration tool used to cluster multiple server nodes into a single virtual high-capacity system. It represents decentralized coordination.",
+    "synonyms": [
+      "cluster",
+      "flock",
+      "throng",
+      "mass group",
+      "coordinate collectively"
+    ],
+    "antonyms": [
+      "disperse",
+      "scatter",
+      "separate"
+    ],
+    "nounForm": "swarm / swarming",
+    "verbForm": "swarm",
+    "adjectiveForm": "swarm-like",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Container orchestration infrastructure, decentralized AI algorithms, drone control networks, and nature studies",
+    "usageTip": "Use 'swarm' when discussing decentralized technology models where multiple independent nodes achieve a goal via collective teamwork.",
+    "commonMistake": "Confusing 'Docker Swarm' with 'Kubernetes'; both handle server containers, but Docker Swarm is native to Docker and generally simpler to configure.",
+    "collocations": [
+      "docker swarm",
+      "drone swarm",
+      "swarm intelligence"
+    ]
+  }
+]

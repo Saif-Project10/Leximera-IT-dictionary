@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Avoid",
+    "meaning": "To keep away from or stop oneself from doing something.",
+    "shortMeaning": "keep away from",
+    "example": "You should avoid walking alone at night.",
+    "example2": "He avoided answering the difficult question.",
+    "example3": "Try to avoid foods high in sugar.",
+    "Explanation": "The verb 'avoid' means to deliberately stay away from something undesirable, such as danger, trouble, or an unpleasant task. It involves conscious effort. It is followed by a noun or a gerund (-ing form). For example, 'avoid doing'. It does not take an infinitive. A common mistake is using it for missing something by accident; 'avoid' is always intentional. It is a stronger word than 'prevent'; you avoid something for yourself, you prevent something from happening in general.",
+    "synonyms": [
+      "Dodge",
+      "Escape",
+      "Evade",
+      "Shun",
+      "Stay Away From"
+    ],
+    "antonyms": [
+      "Confront",
+      "Encounter",
+      "Face",
+      "Seek"
+    ],
+    "nounForm": "avoidance",
+    "verbForm": "avoid",
+    "adjectiveForm": "avoidable",
+    "partOfSpeech": "verb",
+    "commonContext": "Danger, mistakes, people, responsibilities",
+    "usageTip": "Always use a noun or gerund after 'avoid' (avoid trouble, avoid making noise).",
+    "commonMistake": "Saying 'avoid to do' instead of the correct 'avoid doing'.",
+    "collocations": [
+      "avoid conflict",
+      "avoid eye contact",
+      "carefully avoid"
+    ]
+  },
+  {
+    "word": "Avoid",
+    "meaning": "To stay away from someone or something, or to prevent something bad from happening",
+    "shortMeaning": "stay away from",
+    "example": "Try to avoid using global variables in your JavaScript code.",
+    "example2": "You can avoid security risks by using strong, unique passwords.",
+    "example3": "The driver had to swerve to avoid a collision on the road.",
+    "Explanation": "In both life and coding, 'avoid' means taking action to stay clear of a problem. In software development, we often avoid 'anti-patterns'—ways of writing code that are known to cause bugs later. It is a proactive word. Instead of fixing a mistake after it happens, you learn the best practices to avoid making the mistake in the first place. It is a foundational concept in risk management and clean coding.",
+    "synonyms": [
+      "shun",
+      "evade",
+      "dodge"
+    ],
+    "antonyms": [
+      "confront",
+      "face",
+      "seek"
+    ],
+    "nounForm": "avoidance",
+    "verbForm": "avoid",
+    "adjectiveForm": "avoidable",
+    "partOfSpeech": "verb",
+    "commonContext": "Safety, coding standards, health",
+    "usageTip": "When you see a 'deprecated' warning in your code, it's a sign to avoid that specific function.",
+    "commonMistake": "Thinking 'avoid' means the problem doesn't exist; it just means you aren't touching it.",
+    "collocations": [
+      "avoid mistakes",
+      "avoid at all costs",
+      "carefully avoid"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Virtualized",
+    "meaning": "Converted to run in a software-simulated environment",
+    "shortMeaning": "running on VMs",
+    "example": "We virtualized our entire data center last year.",
+    "example2": "Virtualized storage is easier to back up than physical disks.",
+    "example3": "The network is virtualized for better flexibility.",
+    "Explanation": "To 'virtualize' is to take a physical component—like a CPU, server, or network—and create a software version of it. This allows for better resource management, faster provisioning, and simplified disaster recovery. A 'virtualized' environment is one where software manages the underlying physical resources, providing a flexible pool of computing power. This is the foundation of modern cloud computing services. Virtualization is now standard practice in almost every enterprise IT setup.",
+    "synonyms": [
+      "emulated",
+      "simulated"
+    ],
+    "antonyms": [
+      "physical",
+      "dedicated"
+    ],
+    "nounForm": "virtualization",
+    "verbForm": "virtualize",
+    "adjectiveForm": "virtualized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data centers, cloud computing, servers",
+    "usageTip": "Use 'virtualized' to describe converted infrastructure.",
+    "commonMistake": "Thinking virtualized means it is slower (it can be, but often is not).",
+    "collocations": [
+      "virtualized infrastructure",
+      "virtualized server",
+      "fully virtualized"
+    ]
+  },
+  {
+    "word": "Virtualized",
+    "meaning": "The state of a physical resource being partitioned into virtual instances.",
+    "shortMeaning": "made virtual",
+    "example": "The data center was fully virtualized last year.",
+    "example2": "Virtualized storage is much easier to manage.",
+    "example3": "We use virtualized networks to keep departments separate.",
+    "Explanation": "‘Virtualized’ is the action or process of turning physical resources—like servers, storage, or networks—into virtual ones. When a system is virtualized, the software manages the hardware, allowing multiple operating systems to run simultaneously on the same hardware. This drastically increases hardware utilization and reduces energy costs. It is the backbone of modern cloud infrastructure like AWS or Azure, which are entirely built on virtualized hardware.",
+    "synonyms": [
+      "digitized",
+      "emulated",
+      "partitioned"
+    ],
+    "antonyms": [
+      "physical",
+      "bare-metal"
+    ],
+    "nounForm": "virtualization",
+    "verbForm": "virtualize",
+    "adjectiveForm": "virtualized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud infrastructure and system administration",
+    "usageTip": "Use when describing the transformation of physical assets.",
+    "commonMistake": "Confusing 'virtual' (existing) with 'virtualized' (the process of converting).",
+    "collocations": [
+      "virtualized server",
+      "fully virtualized",
+      "virtualized infrastructure"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Inside",
+    "meaning": "The inner part, side, or surface of something; within. | The inner part, surface, or space of something; within.",
+    "shortMeaning": "interior; within",
+    "example": "The inside of the house was beautifully decorated.",
+    "example2": "She kept her feelings locked up inside.",
+    "example3": "The key is inside the drawer.",
+    "Explanation": "'Inside' is a versatile word that can be a noun, adjective, adverb, or preposition. It refers to the interior space or being within something. It is the opposite of 'outside'. As a preposition, it's very common ('inside the box'). It can also refer to confidential information ('an inside story') or a position of advantage ('inside knowledge'). It's one of the most basic words for describing location and is used constantly in everyday language.",
+    "synonyms": [
+      "Indoors",
+      "Interior",
+      "Within"
+    ],
+    "antonyms": [
+      "Exterior",
+      "Outdoors",
+      "Outside"
+    ],
+    "nounForm": "inside",
+    "verbForm": "N/A",
+    "adjectiveForm": "inside",
+    "partOfSpeech": "noun, adjective, adverb, preposition",
+    "commonContext": "Location, buildings, containers, feelings",
+    "usageTip": "Use 'inside of' before a pronoun or a long noun phrase (e.g., 'inside of me', 'inside of the old wooden box'). Often, 'inside' alone is fine.",
+    "commonMistake": "Using 'insides' to refer to the interior of a single object; 'insides' usually means internal organs.",
+    "collocations": [
+      "inside out",
+      "on the inside",
+      "inside information"
+    ]
+  },
+  {
+    "word": "Inside",
+    "meaning": "The interior or inner part of something",
+    "shortMeaning": "interior",
+    "example": "The code inside the block is not running.",
+    "example2": "Check what is inside the JSON object.",
+    "example3": "Place the element inside the main container.",
+    "Explanation": "The word 'inside' describes location. In coding, you often talk about things being 'inside' loops, 'inside' functions, or 'inside' objects. It is the most common way to describe containment. Because it is simple and clear, it is used in almost every technical conversation when discussing structures, layouts, or data containers.",
+    "synonyms": [
+      "within",
+      "interior",
+      "internal"
+    ],
+    "antonyms": [
+      "outside",
+      "external"
+    ],
+    "nounForm": "inside",
+    "verbForm": "N/A",
+    "adjectiveForm": "inside",
+    "partOfSpeech": "adverb / preposition / noun",
+    "commonContext": "Programming, layout, file systems",
+    "usageTip": "Use 'inside' to describe the location of code or objects.",
+    "commonMistake": "None, it is a very basic, universally understood word.",
+    "collocations": [
+      "inside the loop",
+      "inside the object",
+      "inside the container"
+    ]
+  }
+]

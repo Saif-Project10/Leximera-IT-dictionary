@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Writable",
+    "meaning": "Capable of having data written or saved to it.",
+    "shortMeaning": "can be saved to",
+    "example": "The file is not writable due to permission settings.",
+    "example2": "We need to ensure the disk is writable.",
+    "example3": "Is the configuration file writable by the user?",
+    "Explanation": "The word 'writable' describes a storage medium or file that allows data to be added or modified. It is a critical attribute for permissions management. If a file is 'read-only', it is not 'writable'. The noun form is 'write'. In system administration, correctly setting files as 'writable' or 'read-only' is a core security task. Always check permissions if you encounter an error while trying to save your work.",
+    "synonyms": [
+      "editable",
+      "updatable"
+    ],
+    "antonyms": [
+      "read-only",
+      "locked"
+    ],
+    "nounForm": "write",
+    "verbForm": "write",
+    "adjectiveForm": "writable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Permissions, file systems, databases",
+    "usageTip": "Use 'writable' to describe the ability to modify a file.",
+    "commonMistake": "Assuming all files are writable by default.",
+    "collocations": [
+      "is writable",
+      "not writable",
+      "writable permissions"
+    ]
+  },
+  {
+    "word": "Writable",
+    "meaning": "Able to have data written to it",
+    "shortMeaning": "can save data",
+    "example": "The disk is currently marked as writable.",
+    "example2": "Ensure the directory is writable by the application.",
+    "example3": "He created a writable media file.",
+    "Explanation": "A 'writable' storage device or file system allows users or programs to save new data or modify existing data. If a file or drive is not writable, it is 'read-only' or locked. This is a common permission setting in operating systems to prevent accidental changes to important files. Knowing whether a location is writable is essential when troubleshooting save errors, database connections, or file management issues in your code.",
+    "synonyms": [
+      "editable",
+      "recordable",
+      "accessible"
+    ],
+    "antonyms": [
+      "read-only",
+      "locked",
+      "protected"
+    ],
+    "nounForm": "writability",
+    "verbForm": "write",
+    "adjectiveForm": "writable",
+    "partOfSpeech": "adjective",
+    "commonContext": "File systems, storage, permissions",
+    "usageTip": "Use 'writable' when checking if a user or system has permission to modify data.",
+    "commonMistake": "Confusing 'writable' with 'written' (the past participle).",
+    "collocations": [
+      "writable file",
+      "writable drive",
+      "make writable"
+    ]
+  }
+]

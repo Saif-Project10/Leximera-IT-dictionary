@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Geographic",
+    "meaning": "Relating to geography or the physical features of an area.",
+    "shortMeaning": "relating to geography",
+    "example": "The country's geographic isolation influenced its culture.",
+    "example2": "We studied the geographic distribution of the species.",
+    "example3": "The map shows important geographic features like rivers and mountains.",
+    "Explanation": "'Geographic' is an adjective describing anything pertaining to the science of geography—the study of Earth's lands, features, inhabitants, and phenomena. It's often used interchangeably with 'geographical'. It can describe location (geographic coordinates), features (geographic barriers), or distribution (geographic spread). It's a fundamental word for discussing places, environments, and spatial relationships. In business, 'geographic markets' refer to regions. It's a precise term that grounds discussions in physical space and location.",
+    "synonyms": [
+      "geographical",
+      "spatial",
+      "topographic"
+    ],
+    "antonyms": [
+      "non-spatial",
+      "thematic"
+    ],
+    "nounForm": "geography",
+    "verbForm": "N/A",
+    "adjectiveForm": "geographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, business, education, mapping",
+    "usageTip": "Often used before nouns like 'area', 'location', 'features', 'information system (GIS)', or 'diversity'.",
+    "commonMistake": "Confusing 'geographic' (related to Earth's features) with 'demographic' (related to population statistics).",
+    "collocations": [
+      "geographic region",
+      "geographic north",
+      "geographic center"
+    ]
+  },
+  {
+    "word": "Geographic",
+    "meaning": "Related to physical locations or maps",
+    "shortMeaning": "related to location",
+    "example": "The app tracks geographic data.",
+    "example2": "We offer services in many geographic regions.",
+    "example3": "The map displays geographic boundaries.",
+    "Explanation": "The word 'geographic' refers to the physical location or the Earth's geography. In IT, this usually relates to 'GIS' (Geographic Information Systems), mapping software, or location-based services (like GPS). If your project uses maps, distance calculations, or region-specific data, you are working with geographic information. It is a common term in logistics, mobile apps, and data visualization.",
+    "synonyms": [
+      "locational",
+      "spatial",
+      "regional"
+    ],
+    "antonyms": [
+      "non-spatial",
+      "abstract"
+    ],
+    "nounForm": "geography",
+    "verbForm": "N/A",
+    "adjectiveForm": "geographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mapping, GPS, logistics",
+    "usageTip": "Use 'geographic' when talking about maps, locations, or distances.",
+    "commonMistake": "Using 'geographic' when you mean 'physical'; use it for location-specific info.",
+    "collocations": [
+      "geographic data",
+      "geographic information",
+      "geographic region"
+    ]
+  }
+]

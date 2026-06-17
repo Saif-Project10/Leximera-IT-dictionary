@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Throttled",
+    "meaning": "Restricted or limited in speed or performance",
+    "shortMeaning": "speed-limited",
+    "example": "The download speed was throttled by the provider.",
+    "example2": "The server throttled the request to protect resources.",
+    "example3": "If we don't fix the bottleneck, the CPU will be throttled.",
+    "Explanation": "Throttled means artificially slowing down or limiting the flow of data or execution speed. This is done to manage bandwidth, prevent server overload, or regulate usage based on service plans. In IT, throttling is a protective measure to ensure system stability when under high load. While it might frustrate users or developers, it prevents total system failure. It is a common technique in network traffic management and API rate limiting.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "slowed"
+    ],
+    "antonyms": [
+      "unrestricted",
+      "full-speed"
+    ],
+    "nounForm": "throttle",
+    "verbForm": "throttle",
+    "adjectiveForm": "throttled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, bandwidth, API management",
+    "usageTip": "Use when describing artificial speed limits.",
+    "commonMistake": "Confusing throttling with a total crash (throttling is intentional).",
+    "collocations": [
+      "throttled bandwidth",
+      "throttled request",
+      "throttled speed"
+    ]
+  },
+  {
+    "word": "Throttled",
+    "meaning": "Controlled or limited the speed or throughput of a process",
+    "shortMeaning": "speed-limited",
+    "example": "The ISP throttled the user's internet speed.",
+    "example2": "The background tasks are throttled to save CPU.",
+    "example3": "We throttled the API requests to prevent server crashes.",
+    "Explanation": "To be 'throttled' means that your speed or the amount of data you can send/receive has been intentionally limited. It is a common technique used to manage server loads, save bandwidth, or prevent abuse. When a connection is throttled, the performance will noticeably drop. It is a negative experience for users but a necessary control mechanism for administrators. Use it to explain why a process is slow.",
+    "synonyms": [
+      "limited",
+      "restricted",
+      "slowed down"
+    ],
+    "antonyms": [
+      "unlimited",
+      "accelerated",
+      "boosted"
+    ],
+    "nounForm": "throttle",
+    "verbForm": "throttle",
+    "adjectiveForm": "throttled",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Bandwidth management, API control, performance tuning",
+    "usageTip": "Use 'throttled' when discussing limits placed on data or speed.",
+    "commonMistake": "Confusing 'throttled' with 'crashed' (throttled still works, just slower).",
+    "collocations": [
+      "throttled connection",
+      "throttled bandwidth",
+      "throttled API"
+    ]
+  }
+]

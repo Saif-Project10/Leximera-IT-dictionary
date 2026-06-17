@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Reboot",
+    "meaning": "To restart a computer system to refresh its memory and clear errors",
+    "shortMeaning": "restart a device",
+    "example": "If the screen freezes, you might need to reboot your laptop.",
+    "example2": "The server will reboot automatically after the update is installed.",
+    "example3": "I had to reboot the router to get the internet working again.",
+    "Explanation": "Rebooting is the process of closing all programs and restarting the operating system. It is the most common 'first step' in IT troubleshooting because it clears out the RAM (Temporary Memory) and resets the CPU's state. There are two types: a 'soft reboot' (using software commands) and a 'hard reboot' (pulling the power). Rebooting allows new settings to take effect and stops runaway background processes. In modern culture, the word is also used for 'restarting' movie franchises or careers.",
+    "synonyms": [
+      "restart",
+      "reset",
+      "power cycle"
+    ],
+    "antonyms": [
+      "shutdown",
+      "power off"
+    ],
+    "nounForm": "reboot",
+    "verbForm": "reboot",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Daily computing, technical support, and server management",
+    "usageTip": "Use 'reboot' as a verb for the action and a noun for the event.",
+    "commonMistake": "Confusing 'reboot' with 'reset' (which can sometimes mean wiping all data back to factory settings).",
+    "collocations": [
+      "system reboot",
+      "force a reboot",
+      "reboot required"
+    ]
+  },
+  {
+    "word": "Reboot",
+    "meaning": "To restart a computer, server, or operating system to refresh its memory and clear errors",
+    "shortMeaning": "restart a system",
+    "example": "If the application freezes completely, you may need to reboot your server.",
+    "example2": "The system will automatically reboot after installing the security updates.",
+    "example3": "A quick reboot often resolves basic hardware connectivity glitches.",
+    "Explanation": "The word 'Reboot' means to shut down and immediately restart an operating system or hardware device. This action clears the system memory (RAM), stops stuck processes, and reloads core software configurations from a clean state. In tech support, rebooting is one of the most common and effective initial steps for troubleshooting random errors. It can be done via software commands (soft reboot) or by physically cutting and restoring power (hard reboot). Regular reboots help keep older infrastructure systems operating reliably over long periods.",
+    "synonyms": [
+      "restart",
+      "power cycle",
+      "reload"
+    ],
+    "antonyms": [
+      "shut down",
+      "turn off",
+      "power down"
+    ],
+    "nounForm": "reboot",
+    "verbForm": "reboot",
+    "adjectiveForm": "rebooted",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "System maintenance, hardware troubleshooting, operating system configurations",
+    "usageTip": "Use 'reboot' when talking about operating systems or hardware; use 'restart' for software applications.",
+    "commonMistake": "Thinking that a simple reboot fixes permanent code errors or structural bugs inside an application.",
+    "collocations": [
+      "system reboot",
+      "force a reboot",
+      "reboot the server"
+    ]
+  }
+]

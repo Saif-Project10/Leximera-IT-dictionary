@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Speed test",
+    "meaning": "A check to measure how fast an internet connection or a computer is performing",
+    "shortMeaning": "performance check",
+    "example": "I ran a speed test because my Netflix video was buffering.",
+    "example2": "The speed test showed that my download speed was only 10 Mbps.",
+    "example3": "The IT department performs a daily speed test on the office network.",
+    "Explanation": "A speed test is a diagnostic tool used to measure various metrics of performance, most commonly internet speed. When you run an internet speed test, it measures the ping (latency), download speed, and upload speed. It works by sending a small file to a server and measuring how long it takes to travel. This is the first thing people usually do when they experience a slow connection. Speed tests can also refer to measuring how fast a processor can complete a calculation.",
+    "synonyms": [
+      "performance test",
+      "bandwidth test",
+      "benchmark"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "speed test",
+    "verbForm": "speed test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Internet troubleshooting and hardware reviews",
+    "usageTip": "Use 'run a speed test' to find out if your internet provider is giving you what you pay for.",
+    "commonMistake": "Assuming one speed test is 100% accurate; it can vary based on the time of day and the server location.",
+    "collocations": [
+      "run a speed test",
+      "internet speed test",
+      "online speed test"
+    ]
+  },
+  {
+    "word": "Speed test",
+    "meaning": "A tool or process used to measure the current performance and velocity of an internet connection",
+    "shortMeaning": "internet velocity measurement",
+    "example": "Run a speed test to see if your network is handling the traffic well.",
+    "example2": "The technician performed a speed test to check the download and upload rates.",
+    "example3": "According to the speed test, our latency is too high for smooth gaming.",
+    "Explanation": "A 'speed test' is a diagnostic utility that analyzes network connection quality by measuring data transfer rates and latency. It sends small files to a nearby server and tracks how quickly they download and upload, while also checking the ping or response time. In IT troubleshooting, running a speed test is usually the first step when users complain about slow web applications or video buffering. It helps determine if a problem lies with the internet service provider or the local network hardware. It provides objective metrics rather than subjective guesses about network health.",
+    "synonyms": [
+      "bandwidth test",
+      "network benchmark",
+      "throughput test"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "speed test",
+    "verbForm": "speed-test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Network troubleshooting, internet configuration, and IT support",
+    "usageTip": "Use this term when diagnosing internet performance issues or verifying bandwidth limits.",
+    "commonMistake": "Thinking a speed test measures the physical computer speed instead of network data transmission.",
+    "collocations": [
+      "run a speed test",
+      "online speed test",
+      "accurate speed test"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Formatted",
+    "meaning": "Arranged or prepared in a particular way, especially the layout of text or data",
+    "shortMeaning": "arranged in a specific layout",
+    "example": "Make sure the document is properly formatted before printing.",
+    "example2": "The hard drive needs to be formatted before use.",
+    "example3": "She submitted a beautifully formatted report.",
+    "Explanation": "'Formatted' is the past tense and past participle of the verb 'format', and is often used as an adjective. In computing and publishing, it describes text, data, or storage media that have been organized according to a specific structure or style. This includes font choice, margins, spacing, and file structure. Proper formatting improves readability and functionality. Formatting a disk erases it and prepares it for a file system. The word is technical but has become commonplace due to widespread computer use. It's about applying order and standards.",
+    "synonyms": [
+      "arranged",
+      "laid out",
+      "structured",
+      "configured"
+    ],
+    "antonyms": [
+      "unformatted",
+      "disorganized"
+    ],
+    "nounForm": "format",
+    "verbForm": "format",
+    "adjectiveForm": "formatted",
+    "partOfSpeech": "adjective / verb (past tense/participle)",
+    "commonContext": "Documents, computing, publishing, data storage",
+    "usageTip": "Use 'formatted' to describe text, disks, or data that have been set up with a specific layout or structure.",
+    "commonMistake": "Confusing 'formatted' with 'formed'. 'Formatted' is about layout; 'formed' is about shape or creation.",
+    "collocations": [
+      "formatted text",
+      "formatted disk",
+      "pre-formatted"
+    ]
+  },
+  {
+    "word": "Formatted",
+    "meaning": "Arranged in a specific order or style",
+    "shortMeaning": "arranged or styled",
+    "example": "The hard drive was formatted to clear all existing data.",
+    "example2": "Ensure the text is formatted according to the style guide.",
+    "example3": "The data is formatted as a JSON object.",
+    "Explanation": "The word 'formatted' can mean two things in IT: either arranging data in a specific visual layout (like text in a document) or preparing a storage device (like a hard drive) for use by a specific operating system. When you format text, you are setting fonts, colors, and structure. When you format a disk, you are deleting its contents and setting up a file system. Always clarify the context so you don't accidentally delete data when you only meant to change the text style.",
+    "synonyms": [
+      "arranged",
+      "structured",
+      "styled"
+    ],
+    "antonyms": [
+      "unformatted",
+      "raw",
+      "disorganized"
+    ],
+    "nounForm": "format",
+    "verbForm": "format",
+    "adjectiveForm": "formatted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data storage, document design, and programming",
+    "usageTip": "Use 'formatted' for both disk preparation and text styling.",
+    "commonMistake": "Assuming 'formatted' always refers to visual style (it can mean data erasure).",
+    "collocations": [
+      "formatted data",
+      "formatted disk",
+      "correctly formatted"
+    ]
+  }
+]

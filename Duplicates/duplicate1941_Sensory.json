@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Sensory",
+    "meaning": "Relating to the physical senses like touch, sight, or hearing",
+    "shortMeaning": "related to senses",
+    "example": "The robot uses sensory input to navigate.",
+    "example2": "Sensory data is collected from the environmental hardware.",
+    "example3": "The device provides a rich sensory experience.",
+    "Explanation": "Sensory relates to how hardware or robots perceive the environment through physical senses. It is common in robotics, IoT, and augmented reality (AR) development. When a machine uses 'sensory input,' it is receiving information about the world, such as light, sound, or physical pressure. This is different from data that is just 'given' to the computer by a user. Use this word when discussing how machines or programs 'feel' or 'see' their surroundings.",
+    "synonyms": [
+      "perceptual",
+      "physical",
+      "tactile"
+    ],
+    "antonyms": [
+      "abstract",
+      "non-physical"
+    ],
+    "nounForm": "sense",
+    "verbForm": "sense",
+    "adjectiveForm": "sensory",
+    "partOfSpeech": "adjective",
+    "commonContext": "Robotics, IoT, AR/VR",
+    "usageTip": "Use 'sensory' when talking about physical data gathering.",
+    "commonMistake": "Confusing 'sensory' (senses) with 'sensitive' (delicate).",
+    "collocations": [
+      "sensory data",
+      "sensory input",
+      "sensory feedback"
+    ]
+  },
+  {
+    "word": "Sensory",
+    "meaning": "Relating to the physical senses like sight, sound, or touch",
+    "shortMeaning": "relating to senses",
+    "example": "The device provides sensory feedback to the user.",
+    "example2": "We are testing the sensory input limits of the hardware.",
+    "example3": "The interface is designed for rich sensory experience.",
+    "Explanation": "In technology, sensory refers to data or interactions that involve the human senses. This is common in fields like virtual reality, robotics, or touch-screen design. Sensors collect this information to help a system understand its environment or provide feedback to the human. It is essential for making technology feel more natural and interactive. Developing good sensory systems requires precise hardware and software calibration.",
+    "synonyms": [
+      "perceptual",
+      "feeling"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "sensation",
+    "verbForm": "N/A",
+    "adjectiveForm": "sensory",
+    "partOfSpeech": "adjective",
+    "commonContext": "VR, robotics, human-computer interaction",
+    "usageTip": "Use this when discussing how users interact with hardware physically.",
+    "commonMistake": "Confusing 'sensory' with 'sensitive'.",
+    "collocations": [
+      "sensory feedback",
+      "sensory data",
+      "sensory input"
+    ]
+  }
+]

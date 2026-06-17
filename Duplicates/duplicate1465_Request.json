@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Request",
+    "meaning": "An act of asking politely or formally for something; to ask for",
+    "shortMeaning": "ask for, or a polite ask",
+    "example": "He submitted a request for time off.",
+    "example2": "I request that you be quiet.",
+    "example3": "The song was played by request.",
+    "Explanation": "'Request' is both a noun and a verb that centers on asking. As a noun, it is a polite or formal demand. As a verb, it is more formal than 'ask' and is often used in written English, official contexts, or polite speech. It implies that the asker is not entitled to the thing and is seeking it as a favor or through procedure. In computing, an HTTP request is a message from a client to a server. It's a fundamental word for communication and transactions.",
+    "synonyms": [
+      "ask",
+      "petition",
+      "appeal"
+    ],
+    "antonyms": [
+      "command",
+      "demand",
+      "refuse"
+    ],
+    "nounForm": "request",
+    "verbForm": "request",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Business, computing, customer service, formal letters",
+    "usageTip": "As a verb, it's often followed by 'that' + clause (I request that you leave) or an object (request permission).",
+    "commonMistake": "Using 'request for' as a verb (e.g., 'I request for your help'). Correct: 'I request your help' or 'I make a request for help.'",
+    "collocations": [
+      "special request",
+      "on request",
+      "deny a request"
+    ]
+  },
+  {
+    "word": "Request",
+    "meaning": "An act of formally asking for information, a file, or an action from a server, database, or person",
+    "shortMeaning": "ask for data or action",
+    "example": "The browser sends a network request to load the website content.",
+    "example2": "You can submit a formal request to access the secure administrative files.",
+    "example3": "The database took too long to answer our data request, causing a timeout.",
+    "Explanation": "The word 'Request' can operate as both a noun and a verb, and it is a fundamental term in internet technology. In web architecture, communication follows a strict Request-Response pattern. Your browser sends an HTTP request asking for a webpage, and the host server answers by sending back the requested HTML, CSS, and image files. If a client sends too many requests within a short timeframe, servers might temporarily block them to prevent crashes. Writing clean code requires managing these requests efficiently to ensure fast application performance.",
+    "synonyms": [
+      "ask",
+      "appeal",
+      "petition"
+    ],
+    "antonyms": [
+      "response",
+      "denial",
+      "refusal"
+    ],
+    "nounForm": "request",
+    "verbForm": "request",
+    "adjectiveForm": "requested",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "HTTP client-server interactions, database queries, administrative user permissions",
+    "usageTip": "In web development, use 'request' to describe the data packet or signal a client sends out to get server assets.",
+    "commonMistake": "Capitalizing 'request' in general sentences unless you are writing a specific code variable name like 'req'.",
+    "collocations": [
+      "send an HTTP request",
+      "database request",
+      "submit a request"
+    ]
+  }
+]

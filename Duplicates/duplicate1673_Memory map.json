@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Memory map",
+    "meaning": "A structure or table that shows how memory is laid out and used",
+    "shortMeaning": "RAM layout diagram",
+    "example": "The developer checked the memory map to see where the hardware registers were.",
+    "example2": "During startup, the BIOS creates a memory map for the OS.",
+    "example3": "A memory map helps you understand which parts of RAM are reserved.",
+    "Explanation": "A memory map is like a blueprint or a map of a city, but for a computer's memory. It shows which parts of the address space are being used by the system hardware, which parts are for the operating system, and which parts are available for programs. It is essential for low-level developers (like those writing drivers or operating systems) because it tells them exactly 'where' things are. Without a memory map, a programmer might accidentally try to write data into a spot that is actually reserved for the video card or the BIOS.",
+    "synonyms": [
+      "address map",
+      "memory layout"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "map",
+    "verbForm": "map",
+    "adjectiveForm": "mapped",
+    "partOfSpeech": "noun",
+    "commonContext": "Embedded systems and OS development",
+    "usageTip": "Use this when you need to know the 'geography' of the computer's RAM.",
+    "commonMistake": "Thinking a memory map is a physical object; it's a logical description.",
+    "collocations": [
+      "system memory map",
+      "create a memory map",
+      "view the memory map"
+    ]
+  },
+  {
+    "word": "Memory map",
+    "meaning": "A data structure or diagram that shows how different parts of a computer's memory are being used",
+    "shortMeaning": "diagram of RAM usage",
+    "example": "The operating system creates a memory map to keep track of which app is using which address.",
+    "example2": "Hardware engineers use a memory map to assign specific locations for video and sound data.",
+    "example3": "If the memory map is corrupted, the computer will likely crash.",
+    "Explanation": "A memory map is like a 'floor plan' for a computer's RAM. It tells the computer exactly where each piece of information is stored. For example, it might say 'Addresses 0 to 100 are for the keyboard,' and 'Addresses 101 to 500 are for the browser.' This ensures that two programs don't try to use the same spot at the same time, which would cause an error. Memory maps are essential for developers who write 'low-level' code (like drivers or operating systems) because they need to talk directly to the hardware.",
+    "synonyms": [
+      "address map",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "memory map",
+    "verbForm": "N/A",
+    "adjectiveForm": "memory-mapped",
+    "partOfSpeech": "noun / verb (to memory map)",
+    "commonContext": "Operating Systems, Embedded Systems, Hardware Design",
+    "usageTip": "Check the memory map if you are having 'memory conflict' errors in your system.",
+    "commonMistake": "Thinking a memory map is a physical thing; it is a digital 'plan' or a logical organization.",
+    "collocations": [
+      "memory-mapped I/O",
+      "virtual memory map",
+      "create a memory map"
+    ]
+  }
+]

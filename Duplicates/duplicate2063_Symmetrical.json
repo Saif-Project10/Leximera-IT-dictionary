@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Symmetrical",
+    "meaning": "Having parts that are balanced and mirror each other",
+    "shortMeaning": "balanced",
+    "example": "The website layout is symmetrical to create a clean look.",
+    "example2": "We need a symmetrical approach for both client and server.",
+    "example3": "The pattern is perfectly symmetrical.",
+    "Explanation": "The word 'symmetrical' is an alternative to 'symmetric' and means exactly the same thing: having two sides that match perfectly. It is often used in aesthetic contexts, such as describing a user interface, or in abstract concepts where balance is required. Because it is interchangeable with 'symmetric', you can use either, but 'symmetric' is more common in technical fields like cryptography, while 'symmetrical' is common in design and general description.",
+    "synonyms": [
+      "balanced",
+      "proportional",
+      "even"
+    ],
+    "antonyms": [
+      "asymmetrical",
+      "uneven",
+      "unbalanced"
+    ],
+    "nounForm": "symmetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "symmetrical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, layout, general geometry",
+    "usageTip": "Use when describing visual balance.",
+    "commonMistake": "Using 'symmetrical' for encryption where 'symmetric' is more standard.",
+    "collocations": [
+      "symmetrical design",
+      "symmetrical layout",
+      "symmetrical shape"
+    ]
+  },
+  {
+    "word": "Symmetrical",
+    "meaning": "The same as symmetric; balanced or mirrored",
+    "shortMeaning": "balanced",
+    "example": "The software interface has a symmetrical layout.",
+    "example2": "They achieved a symmetrical data flow.",
+    "example3": "The server farm's design is highly symmetrical.",
+    "Explanation": "The word 'symmetrical' is an alternative to 'symmetric' and is often used interchangeably. It describes anything that exhibits balance or matching parts on both sides. In technology, it can apply to UI/UX design, network topologies, or data structures. While 'symmetric' is more common in technical fields like cryptography, 'symmetrical' is frequently used for physical layouts and general design aesthetics. It emphasizes the visual or structural harmony of a system.",
+    "synonyms": [
+      "balanced",
+      "proportionate",
+      "even"
+    ],
+    "antonyms": [
+      "asymmetrical",
+      "unbalanced",
+      "disproportionate"
+    ],
+    "nounForm": "symmetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "symmetrical",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, system topology, physical layout",
+    "usageTip": "Use for visual or general balance; 'symmetric' is more for technical math/crypto.",
+    "commonMistake": "Using 'symmetrical' for encryption when 'symmetric' is standard.",
+    "collocations": [
+      "symmetrical layout",
+      "symmetrical design",
+      "symmetrical network"
+    ]
+  }
+]

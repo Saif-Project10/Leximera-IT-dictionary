@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Physical",
+    "meaning": "Relating to the body as opposed to the mind; relating to things that can be touched or seen.",
+    "shortMeaning": "of the body; material",
+    "example": "Regular physical exercise is important for health.",
+    "example2": "The book exists in both digital and physical formats.",
+    "example3": "There is no physical evidence to support the claim.",
+    "Explanation": "'Physical' is a fundamental adjective with two main uses. First, it contrasts with 'mental' or 'emotional', referring to the body and its activities. Second, it contrasts with 'digital' or 'theoretical', referring to tangible, material objects. This word helps distinguish the concrete world from the abstract. It's used constantly in science, medicine, and everyday life.",
+    "synonyms": [
+      "bodily, corporal, material, tangible, concrete"
+    ],
+    "antonyms": [
+      "mental, spiritual, emotional, digital, virtual, abstract"
+    ],
+    "nounForm": "physics (the science) / physicality (the state of being physical)",
+    "verbForm": "N/A",
+    "adjectiveForm": "physical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, science, computing, education (PE = Physical Education)",
+    "usageTip": "Use 'physical' to talk about the body or about real, touchable objects.",
+    "commonMistake": "Using 'physically' (adverb) when you mean 'physical' (adjective). E.g., 'physical damage' not 'physically damage'.",
+    "collocations": [
+      "physical activity",
+      "physical world",
+      "physical examination"
+    ]
+  },
+  {
+    "word": "Physical",
+    "meaning": "Relating to real, tangible objects or the body",
+    "shortMeaning": "tangible or real",
+    "example": "The server is located in the physical data center.",
+    "example2": "He checked for physical damage to the hardware.",
+    "example3": "The password is stored in a physical safe.",
+    "Explanation": "The word 'physical' refers to something that exists in the real world as a tangible object, as opposed to something 'virtual' or 'digital' that only exists in software. In IT, this distinction is very important (e.g., physical server vs. virtual server). It can also refer to the physical layer of a network (the actual cables and switches). Understanding the difference between physical and logical aspects of a system is essential for hardware engineers and network administrators.",
+    "synonyms": [
+      "tangible",
+      "concrete",
+      "real"
+    ],
+    "antonyms": [
+      "virtual",
+      "logical",
+      "digital"
+    ],
+    "nounForm": "physics",
+    "verbForm": "N/A",
+    "adjectiveForm": "physical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, Hardware, Data Centers",
+    "usageTip": "Use to distinguish from virtual or cloud components.",
+    "commonMistake": "Confusing physical layers with software layers.",
+    "collocations": [
+      "physical server",
+      "physical layer",
+      "physical security"
+    ]
+  }
+]

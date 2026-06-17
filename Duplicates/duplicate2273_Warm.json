@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Warm",
+    "meaning": "Refers to a system that is partially initialized or in standby mode",
+    "shortMeaning": "partially active",
+    "example": "A warm start is faster than a cold boot.",
+    "example2": "The server is in a warm standby state.",
+    "example3": "We performed a warm restart of the database.",
+    "Explanation": "In IT, 'warm' (like in 'warm start' or 'warm standby') refers to a system state where the software or hardware is already initialized and ready to work but is currently idle. This allows the system to be ready almost instantly compared to a 'cold' start, which requires loading everything from scratch. It is used to minimize downtime during updates or system restarts. Understanding the difference between 'cold' (fully off) and 'warm' (partially active) states is critical for maintaining high availability.",
+    "synonyms": [
+      "standby",
+      "pre-loaded",
+      "ready"
+    ],
+    "antonyms": [
+      "cold",
+      "fully-off"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "warm",
+    "partOfSpeech": "adjective",
+    "commonContext": "System initialization, high availability",
+    "usageTip": "Use this when describing fast system recovery.",
+    "commonMistake": "Confusing a warm start with a full system reboot.",
+    "collocations": [
+      "warm start",
+      "warm standby",
+      "warm restart"
+    ]
+  },
+  {
+    "word": "Warm",
+    "meaning": "In IT, often refers to systems or components that are partially powered up or ready for use.",
+    "shortMeaning": "ready or partially on",
+    "example": "The warm standby server can take over in seconds.",
+    "example2": "Perform a warm restart to clear errors without full shutdown.",
+    "example3": "Keep the cache warm by pre-loading data.",
+    "Explanation": "In IT, 'warm' is used differently than 'hot' (fully active) or 'cold' (completely off). A 'warm' standby server is powered on and synchronized with the primary but is not currently serving traffic. A 'warm' restart resets the software without cutting the hardware power. A 'warm' cache has frequently accessed data already pre-loaded to improve performance. Understanding the difference between hot, warm, and cold states is vital for high-availability system architecture.",
+    "synonyms": [
+      "partially-ready",
+      "standby"
+    ],
+    "antonyms": [
+      "hot",
+      "cold"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "warm",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, performance",
+    "usageTip": "Use this to describe a ready but inactive state.",
+    "commonMistake": "Confusing 'warm' standby with 'hot' standby.",
+    "collocations": [
+      "warm standby",
+      "warm restart",
+      "warm cache"
+    ]
+  },
+  {
+    "word": "Warm",
+    "meaning": "An active state describing a server, cache, or cloud function infrastructure primed and ready to respond to requests instantly",
+    "shortMeaning": "primed and ready cache or server",
+    "example": "Keeping your application database memory warm guarantees that user searches take less than ten milliseconds.",
+    "example2": "A warm standby server can take over web routing traffic immediately if the primary system fails.",
+    "example3": "The developer ran a script loop to ensure the application file cache remains warm after the server updates.",
+    "Explanation": "The word 'warm' describes a system state optimized for speed. In cache management, a 'warm cache' means frequently accessed data is pre-loaded in RAM, allowing immediate retrieval without querying slower disk storage. In cloud infrastructure, a 'warm instance' refers to a virtual machine or container that is already running and ready to process requests, avoiding the latency associated with a 'cold start' initialization sequence.",
+    "synonyms": [
+      "primed",
+      "pre-heated",
+      "ready-to-serve",
+      "activated"
+    ],
+    "antonyms": [
+      "cold",
+      "uninitialized",
+      "empty cache"
+    ],
+    "nounForm": "warmth",
+    "verbForm": "warm",
+    "adjectiveForm": "warm",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cache infrastructure handling, server redundancy setups, cloud function load speeds",
+    "usageTip": "Use 'warm' to describe server instances or memory caches that are initialized and capable of serving web traffic without delay.",
+    "commonMistake": "Assuming a warm cache stays ready forever; without consistent traffic or refresh loops, caches eventually expire and turn cold.",
+    "collocations": [
+      "warm cache",
+      "keep memory warm",
+      "warm standby server"
+    ]
+  }
+]

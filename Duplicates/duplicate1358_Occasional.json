@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Occasional",
+    "meaning": "Happening or appearing from time to time, but not regularly.",
+    "shortMeaning": "happening sometimes",
+    "example": "We have occasional meetings to check on the project's progress.",
+    "example2": "He enjoys an occasional glass of wine with dinner.",
+    "example3": "There will be occasional showers throughout the day.",
+    "Explanation": "'Occasional' is an adjective describing something that occurs infrequently or at irregular intervals. It sits between 'rare' and 'frequent'. It is often used to describe treats, interruptions, or events that are not part of a fixed schedule. The word suggests a break from the normal pattern without being completely unusual.",
+    "synonyms": [
+      "infrequent",
+      "intermittent",
+      "periodic",
+      "sporadic"
+    ],
+    "antonyms": [
+      "frequent",
+      "constant",
+      "regular",
+      "continuous"
+    ],
+    "nounForm": "occasion",
+    "verbForm": "N/A",
+    "adjectiveForm": "occasional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Weather forecasts, social habits, work schedules",
+    "usageTip": "Use 'occasional' for things that happen now and then, without a set pattern.",
+    "commonMistake": "Confusing it with 'rare'; 'occasional' things happen more often than 'rare' things.",
+    "collocations": [
+      "occasional visitor",
+      "on occasion",
+      "occasional table"
+    ]
+  },
+  {
+    "word": "Occasional",
+    "meaning": "Done or happening from time to time",
+    "shortMeaning": "infrequent",
+    "example": "We see occasional spikes in traffic on weekends.",
+    "example2": "Occasional maintenance is required for this server.",
+    "example3": "The code has occasional errors due to memory leaks.",
+    "Explanation": "The word 'occasional' refers to something that happens from time to time, but not regularly. In IT, 'occasional' issues are often the hardest to debug because they are hard to reproduce. If a server experiences 'occasional' crashes, it is much harder to fix than if it crashes every time you run a specific command. Identifying the cause of 'occasional' behavior usually involves long-term monitoring and detailed log analysis.",
+    "synonyms": [
+      "infrequent",
+      "sporadic",
+      "periodic"
+    ],
+    "antonyms": [
+      "frequent",
+      "regular",
+      "constant"
+    ],
+    "nounForm": "occasion",
+    "verbForm": "N/A",
+    "adjectiveForm": "occasional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Maintenance and bug reporting",
+    "usageTip": "Use 'occasional' for things that don't happen all the time.",
+    "commonMistake": "Confusing 'occasional' with 'random' (random means no pattern).",
+    "collocations": [
+      "occasional spike",
+      "occasional error"
+    ]
+  }
+]

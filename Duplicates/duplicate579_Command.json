@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Command",
+    "meaning": "An authoritative order; control or authority; an instruction given to a computer.",
+    "shortMeaning": "order; control; computer instruction",
+    "example": "The officer gave the command to advance.",
+    "example2": "He has a good command of the English language.",
+    "example3": "Type the 'ls' command to list files in the directory.",
+    "Explanation": "Command is a noun and verb with strong connotations of authority. As a noun, it can be an order, the power to command, or a computing instruction. As a verb, it means to give an authoritative order. In computing, a command is a directive to a program, often via a command-line interface (CLI). A common mistake is confusing it with 'commend' (to praise). This word is essential in military, management, language proficiency, and computer administration, representing control and directive action.",
+    "synonyms": [
+      "order",
+      "instruction",
+      "control",
+      "directive",
+      "decree"
+    ],
+    "antonyms": [
+      "request",
+      "plea",
+      "obedience",
+      "submission"
+    ],
+    "nounForm": "command",
+    "verbForm": "command",
+    "adjectiveForm": "commanding",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Military, computing, leadership, and language skills.",
+    "usageTip": "Use 'in command of' to mean in control. Use 'command line' for the text interface to an OS.",
+    "commonMistake": "Saying 'command to' instead of 'command' + object (e.g., 'He commanded the troops to retreat,' not 'He commanded to the troops...').",
+    "collocations": [
+      "take command",
+      "command prompt",
+      "chain of command"
+    ]
+  },
+  {
+    "word": "Command",
+    "meaning": "An instruction given to a computer program or the act of having control",
+    "shortMeaning": "instruction or control",
+    "example": "Type the command 'git push' to upload your code.",
+    "example2": "The administrator has full command over the server network.",
+    "example3": "You can run this command in the terminal to see a list of files.",
+    "Explanation": "A command is a specific directive that tells a computer to perform a task. Most developers spend a lot of time in a 'Command Line Interface' (CLI), where they type commands instead of clicking buttons. Commands have specific 'syntax' (rules) that must be followed. In a broader sense, it can also mean having expert knowledge of something, like having 'a command of the JavaScript language.' It is about authority and precise execution.",
+    "synonyms": [
+      "instruction",
+      "directive",
+      "order"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "command",
+    "verbForm": "command",
+    "adjectiveForm": "commanding",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Terminal/CLI and management",
+    "usageTip": "Learn the most common Linux commands to become a faster and more efficient developer.",
+    "commonMistake": "Confusing a 'command' with a 'statement' in programming; they are often used differently.",
+    "collocations": [
+      "command line",
+      "run a command",
+      "command of a language"
+    ]
+  }
+]

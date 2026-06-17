@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Clarify",
+    "meaning": "To make something clear or easier to understand. | To make a statement or situation clearer and easier to understand.",
+    "shortMeaning": "make clear",
+    "example": "Could you clarify your last point?",
+    "example2": "The statement was issued to clarify the company's position.",
+    "example3": "He clarified the instructions for everyone.",
+    "Explanation": "The verb 'clarify' means to remove confusion or ambiguity from a statement, idea, or situation. It is a polite and formal word often used in meetings, writing, and customer service. You ask someone to clarify when you don't understand. The noun form is 'clarification'. A common mistake is confusing it with 'justify', which means to give a good reason for something. 'Clarify' is about making things clear, not defending them. It is an essential skill in good communication to ensure everyone has the same understanding.",
+    "synonyms": [
+      "Elucidate",
+      "Explain",
+      "Make Clear"
+    ],
+    "antonyms": [
+      "Complicate",
+      "Confuse",
+      "Muddle",
+      "Obscure"
+    ],
+    "nounForm": "clarification",
+    "verbForm": "clarify",
+    "adjectiveForm": "clarifying",
+    "partOfSpeech": "verb",
+    "commonContext": "Explanations, meetings, instructions, writing",
+    "usageTip": "A polite way to ask for explanation is: 'Could you please clarify...?'",
+    "commonMistake": "Using 'clarify' when you mean 'classify' (to categorize). They sound similar but mean different things.",
+    "collocations": [
+      "clarify a point",
+      "clarify the situation",
+      "need to clarify"
+    ]
+  },
+  {
+    "word": "Clarify",
+    "meaning": "To make a statement or situation less confused and more comprehensible",
+    "shortMeaning": "make clear",
+    "example": "Can you clarify the requirements for the new API?",
+    "example2": "The documentation helps to clarify how the function works.",
+    "example3": "We need a meeting to clarify our goals for this sprint.",
+    "Explanation": "Clarification is essential in project management and coding. It means removing ambiguity so that everyone is on the same page. If a requirement is not 'clarified', developers might build the wrong feature. It often involves explaining technical jargon in simple terms. Good communication in IT relies on the ability to clarify complex ideas for clients and team members. It is the process of turning confusion into understanding.",
+    "synonyms": [
+      "explain",
+      "elucidate",
+      "simplify"
+    ],
+    "antonyms": [
+      "confuse",
+      "complicate",
+      "muddle"
+    ],
+    "nounForm": "clarification",
+    "verbForm": "clarify",
+    "adjectiveForm": "clarified",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, documentation, and requirements",
+    "usageTip": "Always clarify the project scope before you start writing code.",
+    "commonMistake": "Assuming someone understands without asking them to clarify.",
+    "collocations": [
+      "clarify requirements",
+      "clarify the point",
+      "seek clarification"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Vary",
+    "meaning": "To be different or change from one case or time to another",
+    "shortMeaning": "differ or change",
+    "example": "Prices vary depending on the season.",
+    "example2": "You should vary your exercise routine for better results.",
+    "example3": "Her mood seems to vary from day to day.",
+    "Explanation": "The verb 'vary' means to show differences or to change periodically. It describes things that are not constant or uniform. It can be used intransitively (prices vary) or transitively (vary your diet). It is the root of words like 'variety', 'variable', and 'variation'. This is a common and useful word for describing differences in degree, amount, or type.",
+    "synonyms": [
+      "differ",
+      "change",
+      "fluctuate",
+      "alternate"
+    ],
+    "antonyms": [
+      "remain the same",
+      "stagnate",
+      "standardize"
+    ],
+    "nounForm": "variation",
+    "verbForm": "vary",
+    "adjectiveForm": "variable / varied",
+    "partOfSpeech": "verb",
+    "commonContext": "Prices, routines, qualities, opinions",
+    "usageTip": "Often followed by 'from' (varies from person to person) or 'with' (varies with temperature).",
+    "commonMistake": "Confusing 'vary' (verb) with 'very' (adverb meaning extremely).",
+    "collocations": [
+      "vary widely",
+      "vary greatly",
+      "vary according to",
+      "vary your routine"
+    ]
+  },
+  {
+    "word": "Vary",
+    "meaning": "To change, modify, or alternate values, parameters, or configurations within a script or system",
+    "shortMeaning": "change or alternate values",
+    "example": "You can vary the animation speed in your CSS styles by changing the transition duration variable.",
+    "example2": "Server response times will vary depending on network traffic and database query complexity.",
+    "example3": "The script was designed to vary user interface themes based on the time of day.",
+    "Explanation": "The verb 'vary' means to introduce differences or track changes in values, configurations, or performance metrics. In coding, variables are used specifically because their values vary during program execution. Web designers vary layout choices using media queries to ensure websites look good on different screens. Understanding how system parameters vary helps developers build flexible and responsive applications.",
+    "synonyms": [
+      "change",
+      "alternate",
+      "modify",
+      "fluctrurate",
+      "diverge"
+    ],
+    "antonyms": [
+      "remain constant",
+      "stabilize",
+      "stay fixed"
+    ],
+    "nounForm": "variance / variation",
+    "verbForm": "vary",
+    "adjectiveForm": "variable / varied",
+    "partOfSpeech": "verb",
+    "commonContext": "Coding logic loops, responsive web design parameters, and server performance monitoring",
+    "usageTip": "Use 'vary' when explaining how a change in one setting or input alters another part of your application.",
+    "commonMistake": "Spelling the third-person form as 'varies' but confusing its usage with the noun 'variables' in technical write-ups.",
+    "collocations": [
+      "vary dynamically",
+      "will vary depending on",
+      "vary the parameters"
+    ]
+  }
+]

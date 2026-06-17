@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Unmarshaled",
+    "meaning": "Converted data from a serialized format back into an object",
+    "shortMeaning": "deserialized",
+    "example": "The JSON data was unmarshaled into a user object.",
+    "example2": "The system unmarshaled the incoming stream of bytes.",
+    "example3": "We failed to process the data because it was not unmarshaled correctly.",
+    "Explanation": "Unmarshaling is the process of converting a stored data format (like JSON, XML, or binary) into a structured object that a program can use. It is the opposite of marshaling, which turns an object into a format suitable for transmission or storage. This is a critical step in API development when receiving data from a remote server. If the format does not match the expected object structure, the unmarshaling process will fail.",
+    "synonyms": [
+      "deserialized",
+      "converted"
+    ],
+    "antonyms": [
+      "marshaled",
+      "serialized"
+    ],
+    "nounForm": "unmarshaling",
+    "verbForm": "unmarshal",
+    "adjectiveForm": "unmarshaled",
+    "partOfSpeech": "verb",
+    "commonContext": "APIs, data storage, serialization",
+    "usageTip": "Use this when turning incoming data into usable code objects.",
+    "commonMistake": "Using 'decoding' instead of 'unmarshaling' in technical documentation.",
+    "collocations": [
+      "successfully unmarshaled",
+      "unmarshaled object",
+      "unmarshaled data"
+    ]
+  },
+  {
+    "word": "Unmarshaled",
+    "meaning": "The process of not converting data into a structured format from a raw state.",
+    "shortMeaning": "not structured",
+    "example": "The raw data remained unmarshaled in the buffer.",
+    "example2": "The system failed because the incoming stream was unmarshaled.",
+    "example3": "We need to process this unmarshaled object before saving.",
+    "Explanation": "In computer science, 'marshaling' is the act of converting objects into a format suitable for storage or transmission. Therefore, 'unmarshaled' refers to data that has not yet undergone this transformation or is currently in a raw, unorganized state. It is often a transient phase where data waits to be serialized for a database or API call. Understanding this state is crucial for debugging serialization errors in programming. It highlights that the data is currently incompatible with structured transport methods.",
+    "synonyms": [
+      "raw",
+      "unserialized",
+      "unformatted"
+    ],
+    "antonyms": [
+      "marshaled",
+      "serialized",
+      "structured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unmarshal",
+    "adjectiveForm": "unmarshaled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data transmission, serialization, APIs",
+    "usageTip": "Use this when referring to raw data that needs conversion.",
+    "commonMistake": "Confusing it with 'unorganized' in a general sense rather than a technical one.",
+    "collocations": [
+      "unmarshaled data",
+      "unmarshaled object",
+      "unmarshaled stream"
+    ]
+  }
+]

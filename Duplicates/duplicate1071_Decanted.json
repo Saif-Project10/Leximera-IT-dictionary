@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Decanted",
+    "meaning": "Gradually poured liquid from one container into another, especially to separate sediment; moved people from one place to another.",
+    "shortMeaning": "poured carefully; relocated",
+    "example": "He decanted the vintage wine into a glass pitcher.",
+    "example2": "The residents were decanted to temporary housing while the building was repaired.",
+    "example3": "After decanting, the wine was clearer and tasted better.",
+    "Explanation": "'Decanted' is the past participle of the verb 'decant'. It has two main uses. First, and most specifically, it refers to pouring wine (or other liquids) slowly to leave sediment behind. This is a traditional wine service practice. Second, in a more general or formal sense, it means to transfer people or things from one place to another, often used in the context of moving residents during construction. The word implies a careful, deliberate transfer. It's a precise verb with a touch of formality.",
+    "synonyms": [
+      "poured off",
+      "transferred",
+      "relocated"
+    ],
+    "antonyms": [
+      "mixed",
+      "combined",
+      "left undisturbed"
+    ],
+    "nounForm": "decanter",
+    "verbForm": "decant",
+    "adjectiveForm": "decanted",
+    "partOfSpeech": "verb (past participle), adjective",
+    "commonContext": "Wine service, chemistry, urban planning, relocation",
+    "usageTip": "In the context of wine, it's often used as an adjective ('a decanted wine'). In relocation, it's often used in passive voice ('were decanted').",
+    "commonMistake": "Using it to mean simply 'poured'; decanting involves a specific purpose of separation or careful transfer.",
+    "collocations": [
+      "decanted wine",
+      "decanted into",
+      "being decanted"
+    ]
+  },
+  {
+    "word": "Decanted",
+    "meaning": "Poured from one container to another",
+    "shortMeaning": "transferred",
+    "example": "The data was decanted from the legacy store to the new DB.",
+    "example2": "We decanted the logs into a centralized system.",
+    "example3": "The service decanted resources to the secondary cluster.",
+    "Explanation": "Decanted literally means pouring liquid from one vessel to another, often to separate sediment. In IT, it is sometimes used metaphorically for transferring data, resources, or processes from a source to a destination. The verb is 'decant', and the noun is 'decantation'. While uncommon, it implies a careful or deliberate transfer of items or data.",
+    "synonyms": [
+      "transferred",
+      "moved",
+      "poured"
+    ],
+    "antonyms": [
+      "kept",
+      "retained",
+      "stored"
+    ],
+    "nounForm": "decantation",
+    "verbForm": "decant",
+    "adjectiveForm": "decanted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data migration, resource management",
+    "usageTip": "Use metaphorically when moving data or assets slowly or carefully.",
+    "commonMistake": "Using 'decanted' in standard data migration (use 'transferred').",
+    "collocations": [
+      "decanted data",
+      "decanted resources"
+    ]
+  }
+]

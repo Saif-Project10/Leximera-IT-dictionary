@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Non-responsive",
+    "meaning": "Not responding or reacting.",
+    "shortMeaning": "not responding",
+    "example": "The patient was non-responsive after the accident.",
+    "example2": "The website is non-responsive on mobile devices.",
+    "example3": "We sent three emails but the client remains non-responsive.",
+    "Explanation": "Non-responsive means failing to answer, react, or adapt. In medicine, a non-responsive patient is unconscious or not reacting to stimuli. In technology, a non-responsive website or app doesn't adjust to different screen sizes (though 'responsive design' is the technical term for adaptability). In communication, a non-responsive person isn't replying. The word describes a state of inactivity or lack of expected feedback. It's often hyphenated. It can indicate a problem (medical emergency, broken software, poor communication) or simply a choice not to engage.",
+    "synonyms": [
+      "unresponsive",
+      "unreactive",
+      "inert",
+      "silent",
+      "dead"
+    ],
+    "antonyms": [
+      "responsive",
+      "reactive",
+      "alert",
+      "communicative"
+    ],
+    "nounForm": "non-responsiveness",
+    "verbForm": "respond",
+    "adjectiveForm": "non-responsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, customer service, web design, devices",
+    "usageTip": "In web design, 'non-responsive' is the opposite of 'responsive' (adapting to screen size).",
+    "commonMistake": "Using 'non-responsive' for a device that is simply slow. Non-responsive means no response at all, often frozen.",
+    "collocations": [
+      "non-responsive state",
+      "non-responsive design",
+      "non-responsive client",
+      "become non-responsive"
+    ]
+  },
+  {
+    "word": "Non-responsive",
+    "meaning": "Not reacting to user input or system commands",
+    "shortMeaning": "no reaction",
+    "example": "The server was non-responsive during the outage.",
+    "example2": "An unresponsive UI causes user frustration.",
+    "example3": "The service became non-responsive due to high memory load.",
+    "Explanation": "The word 'non-responsive' describes a state where an application, system, or human fails to acknowledge or react to input. In IT, a 'non-responsive' website or application usually means the backend is overloaded, or the main thread is blocked, preventing the system from answering requests. It is a critical failure state that requires immediate investigation, such as checking logs, memory usage, or network connections. It is the opposite of a healthy, interactive service.",
+    "synonyms": [
+      "unresponsive",
+      "frozen",
+      "idle"
+    ],
+    "antonyms": [
+      "responsive",
+      "interactive",
+      "active"
+    ],
+    "nounForm": "non-responsiveness",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-responsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, system operations",
+    "usageTip": "Use when a system stops working or updating.",
+    "commonMistake": "Confusing 'non-responsive' (broken) with 'slow' (functioning but lagging).",
+    "collocations": [
+      "non-responsive server",
+      "non-responsive application",
+      "remains non-responsive"
+    ]
+  }
+]

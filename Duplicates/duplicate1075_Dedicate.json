@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Dedicate",
+    "meaning": "To devote time, effort, or oneself to a particular task or purpose.",
+    "shortMeaning": "devote; commit",
+    "example": "She dedicates two hours daily to practicing piano.",
+    "example2": "The book is dedicated to his parents.",
+    "example3": "He decided to dedicate his life to helping others.",
+    "Explanation": "'Dedicate' is a verb meaning to commit or devote something (time, resources, oneself) to a particular purpose, activity, or person. It implies strong commitment, focus, and often sacrifice. It can be used for time (dedicate time to study), objects (dedicate a monument), or oneself (dedicate one's life to science). The noun is 'dedication'. It's a positive word suggesting purposefulness and commitment. It's commonly used in acknowledgments (book dedications), ceremonies, and descriptions of committed behavior.",
+    "synonyms": [
+      "devote",
+      "commit",
+      "consecrate",
+      "pledge"
+    ],
+    "antonyms": [
+      "neglect",
+      "withhold",
+      "abandon"
+    ],
+    "nounForm": "dedication",
+    "verbForm": "dedicate",
+    "adjectiveForm": "dedicated",
+    "partOfSpeech": "verb",
+    "commonContext": "Time management, acknowledgments, ceremonies, commitments",
+    "usageTip": "Often followed by 'to': 'dedicate time to', 'dedicate oneself to', 'dedicated to someone'.",
+    "commonMistake": "Confusing with 'delicate' (fragile). They sound somewhat similar but have different meanings.",
+    "collocations": [
+      "dedicate time",
+      "dedicate resources",
+      "dedicate a book"
+    ]
+  },
+  {
+    "word": "Dedicate",
+    "meaning": "To set aside something for a specific purpose or person",
+    "shortMeaning": "set aside for a purpose",
+    "example": "We will dedicate a whole server to handle the database traffic.",
+    "example2": "The author chose to dedicate the book to his parents.",
+    "example3": "You should dedicate at least one hour a day to practicing code.",
+    "Explanation": "To 'dedicate' means that a resource is reserved exclusively for one thing. In IT, we often talk about 'dedicated servers' or 'dedicated bandwidth.' This means no one else can use that resource, which makes it faster and more reliable. In a personal sense, it means giving your time or effort to a goal. It implies a high level of commitment. The noun form is 'dedication,' which describes the quality of being committed to something.",
+    "synonyms": [
+      "devote",
+      "assign",
+      "reserve"
+    ],
+    "antonyms": [
+      "waste",
+      "ignore",
+      "misuse"
+    ],
+    "nounForm": "dedication",
+    "verbForm": "dedicate",
+    "adjectiveForm": "dedicated",
+    "partOfSpeech": "verb",
+    "commonContext": "Server hosting, time management, and personal commitments",
+    "usageTip": "Use 'dedicated' as an adjective to describe something high-quality and exclusive.",
+    "commonMistake": "Confusing 'dedicated' with 'addicted'.",
+    "collocations": [
+      "dedicated server",
+      "dedicate time",
+      "dedicate resources"
+    ]
+  }
+]

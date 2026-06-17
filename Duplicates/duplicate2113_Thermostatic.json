@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Thermostatic",
+    "meaning": "Self-regulating temperature using a thermostat",
+    "shortMeaning": "automatically controls temperature",
+    "example": "The cooling unit uses thermostatic control to maintain stability.",
+    "example2": "The fan speed is adjusted by a thermostatic trigger.",
+    "example3": "Thermostatic valves help manage airflow in the server rack.",
+    "Explanation": "Thermostatic describes a system or device that automatically maintains a set temperature level. It relies on a thermostat to detect changes and make necessary adjustments, such as switching on a cooler or heater. In IT infrastructure, thermostatic mechanisms are crucial for maintaining consistent operating environments for sensitive equipment. This ensures longevity and prevents failure caused by extreme fluctuations in heat. It is a key feature of automated environmental control hardware.",
+    "synonyms": [
+      "self-regulating",
+      "thermostatically controlled"
+    ],
+    "antonyms": [
+      "manually-controlled"
+    ],
+    "nounForm": "thermostat",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermostatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Environmental control, cooling, data centers",
+    "usageTip": "Use when referring to automatic temperature regulation.",
+    "commonMistake": "Confusing thermostatic (automatic control) with thermometric (measurement only).",
+    "collocations": [
+      "thermostatic control",
+      "thermostatic valve",
+      "thermostatic regulator"
+    ]
+  },
+  {
+    "word": "Thermostatic",
+    "meaning": "Relating to a device that automatically regulates temperature",
+    "shortMeaning": "self-regulating heat",
+    "example": "The server room has a thermostatic cooling system.",
+    "example2": "Thermostatic controls help maintain a steady environment for hardware.",
+    "example3": "The cooling fan uses a thermostatic switch to turn on when hot.",
+    "Explanation": "The word 'thermostatic' describes something that uses a thermostat to keep temperature at a set level. It is used in hardware and infrastructure to ensure that devices do not overheat. It implies an automatic and self-regulating process. In technical settings, it refers to systems that respond to temperature changes without human intervention. This is a common feature in both consumer electronics and industrial-grade IT cooling.",
+    "synonyms": [
+      "self-regulating",
+      "automatic"
+    ],
+    "antonyms": [
+      "manual"
+    ],
+    "nounForm": "thermostat",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermostatic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware cooling, climate control",
+    "usageTip": "Use 'thermostatic' when talking about automated temperature control systems.",
+    "commonMistake": "Using 'thermostatic' to describe a manual fan speed adjustment.",
+    "collocations": [
+      "thermostatic control",
+      "thermostatic switch",
+      "thermostatic valve"
+    ]
+  }
+]

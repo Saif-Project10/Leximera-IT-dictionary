@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Try",
+    "meaning": "To make an attempt or effort to do something.",
+    "shortMeaning": "attempt",
+    "example": "I'll try to finish the work by 5 PM.",
+    "example2": "Have you tried the new restaurant? (experienced)",
+    "example3": "He was given a try for the football team. (noun, chance)",
+    "Explanation": "'Try' is a fundamental verb meaning to attempt to do something. It implies effort with an uncertain outcome. It also means to test or sample something (try a food). As a noun, it's an attempt or, in sports like rugby, a score. It's used in many phrasal verbs: try on, try out, try for. The word is essential for expressing effort, experimentation, and willingness. It's more casual than 'attempt'. The pattern 'try to do' is standard, though 'try and do' is common in informal speech. It's one of the first verbs learners use.",
+    "synonyms": [
+      "attempt",
+      "endeavor",
+      "test",
+      "sample",
+      "strive"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignore",
+      "abandon"
+    ],
+    "nounForm": "try",
+    "verbForm": "try",
+    "adjectiveForm": "trying",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Efforts, experiments, tasting, sports",
+    "usageTip": "Use 'try to' + verb for attempts. Use 'try + -ing' to talk about experimenting with a method.",
+    "commonMistake": "Saying 'I will try and do it' in formal writing; 'try to do it' is preferred.",
+    "collocations": [
+      "try again",
+      "try your best",
+      "give it a try",
+      "try on"
+    ]
+  },
+  {
+    "word": "Try",
+    "meaning": "A JavaScript control block keyword used to test an error-prone code snippet for runtime exceptions",
+    "shortMeaning": "test code block for errors",
+    "example": "Put your network fetch calls inside a try block so you can capture any sudden connection drops.",
+    "example2": "The system will try to parse the user's uploaded JSON data file configuration.",
+    "example3": "Always try to validate your layout form input objects before sending values to database paths.",
+    "Explanation": "The word 'try' serves as a literal execution keyword within error-handling syntax patterns across JavaScript, Java, and C#. A `try...catch` block allows a programmer to specify a section of code that might encounter runtime faults, such as calling an external API that is temporarily offline. If an error occurs inside the try segment, execution stops instantly and hops down safely into the catch block, preventing the entire application framework from freezing on the browser monitor.",
+    "synonyms": [
+      "attempt",
+      "test code block",
+      "evaluate runtime"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "try block",
+    "verbForm": "try",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / keyword",
+    "commonContext": "Asynchronous error containment, form data checks, file operations",
+    "usageTip": "Combine 'try' with a matching 'catch' loop whenever your web application communicates with unpredictable external file networks.",
+    "commonMistake": "Writing a try block keyword without providing a subsequent catch or finally statement, causing syntax failures.",
+    "collocations": [
+      "try catch block",
+      "try to connect",
+      "try statement"
+    ]
+  }
+]

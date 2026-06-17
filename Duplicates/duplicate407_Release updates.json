@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Release updates",
+    "meaning": "To make new versions or improvements of software available to users.",
+    "shortMeaning": "make new versions available",
+    "example": "The company plans to release updates for the app every month.",
+    "example2": "It's important to release security updates promptly.",
+    "example3": "The team worked through the night to release the critical update.",
+    "Explanation": "Release updates is the action of distributing patches, new features, or new versions of a software product. This can be done through app stores, websites, or automatic update mechanisms. Regular updates fix bugs, improve performance, add functionality, and address security vulnerabilities. The process involves development, testing, and distribution. A good update strategy balances frequency (providing value) with stability (ensuring updates don't break things). For users, keeping software updated is crucial for security and performance. The noun form is 'update release' or 'software release'.",
+    "synonyms": [
+      "issue updates",
+      "deploy updates",
+      "publish patches",
+      "roll out updates"
+    ],
+    "antonyms": [
+      "withhold updates",
+      "retract an update"
+    ],
+    "nounForm": "update release",
+    "verbForm": "release updates",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software development, product management, IT support",
+    "usageTip": "Often used in the continuous form: 'We are releasing updates regularly.'",
+    "commonMistake": "Using 'release' alone when 'update' is key; 'release a new version' is broader.",
+    "collocations": [
+      "regularly release updates",
+      "release minor updates",
+      "schedule to release updates"
+    ]
+  },
+  {
+    "word": "Release updates",
+    "meaning": "To distribute new versions, fixes, or upgrades of a software application to users",
+    "shortMeaning": "distribute software upgrades",
+    "example": "The application development company will release updates every Tuesday to fix bugs.",
+    "example2": "You should release updates gradually to avoid overloading customer support.",
+    "example3": "Web browsers automatically download and release updates in the background.",
+    "Explanation": "The phrase 'release updates' means making new code versions available to the public or client base. These updates can contain new features, performance improvements, security patches, or bug resolutions. In mobile development, this involves submitting builds to the App Store or Google Play. For web platforms, it means updating server-side code and pushing clean frontend assets to production systems.",
+    "synonyms": [
+      "push upgrades",
+      "distribute patches",
+      "deploy fixes"
+    ],
+    "antonyms": [
+      "withhold updates",
+      "deprecate software"
+    ],
+    "nounForm": "update release",
+    "verbForm": "release updates",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Product management, application stores, and software maintenance lifecycles",
+    "usageTip": "Use this phrase when talking about shipping improvements or modifications to an existing live app.",
+    "commonMistake": "Saying 'release updates' when you are launching an entirely new standalone application product.",
+    "collocations": [
+      "release updates regularly",
+      "release software updates",
+      "schedule to release updates"
+    ]
+  }
+]

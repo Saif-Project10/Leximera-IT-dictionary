@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Least frequently",
+    "meaning": "Occurring or used at the lowest rate or number of times compared to others.",
+    "shortMeaning": "most rarely",
+    "example": "The system deletes the least frequently accessed files to save space.",
+    "example2": "This is the least frequently used feature in our application.",
+    "example3": "We analyzed which products were bought least frequently to plan our inventory.",
+    "Explanation": "The term 'least frequently' identifies items that have the lowest count of use or occurrence. In computing, this is a key metric for 'cache management'. If a piece of data is rarely used, the computer removes it to make room for more popular data. It is an observation based on frequency rather than time. It helps in identifying 'dead weight' in a system. Analyzing what happens least frequently can often reveal bugs or unpopular features that need improvement.",
+    "synonyms": [
+      "most rarely",
+      "infrequently",
+      "seldom"
+    ],
+    "antonyms": [
+      "most frequently",
+      "often"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least frequently",
+    "partOfSpeech": "adverbial phrase",
+    "commonContext": "Data analysis and cache management",
+    "usageTip": "Use this when you are counting how many times something has happened over its entire life.",
+    "commonMistake": "Confusing it with 'least recently', which is about 'when' it happened, not 'how many times'.",
+    "collocations": [
+      "least frequently used",
+      "least frequently accessed",
+      "least frequently occurring"
+    ]
+  },
+  {
+    "word": "Least frequently",
+    "meaning": "Used in caching policies to remove items rarely accessed",
+    "shortMeaning": "rarely accessed",
+    "example": "The cache uses a least frequently used policy.",
+    "example2": "We drop the least frequently accessed files.",
+    "example3": "The algorithm discards least frequently used cache entries.",
+    "Explanation": "Least frequently is a term used in cache management policies. When a system's cache is full and new data needs to be stored, the cache has to 'evict' (remove) an existing item. A 'Least Frequently Used' (LFU) policy removes the item that has been accessed the fewest times. This is different from 'Least Recently Used' (LRU), which looks at *time* rather than *frequency*.",
+    "synonyms": [
+      "rarely used"
+    ],
+    "antonyms": [
+      "most frequently used"
+    ],
+    "nounForm": "LFU",
+    "verbForm": "N/A",
+    "adjectiveForm": "least frequently",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Caching, data management, memory",
+    "usageTip": "Use this when explaining how you manage cache eviction.",
+    "commonMistake": "Confusing LFU with LRU (Least Recently Used).",
+    "collocations": [
+      "least frequently used",
+      "LFU cache"
+    ]
+  }
+]

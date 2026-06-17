@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-visual",
+    "meaning": "Not relating to or using sight; perceived through other senses.",
+    "shortMeaning": "not involving sight",
+    "example": "The software includes non-visual cues like sounds for blind users.",
+    "example2": "Bats use non-visual methods like echolocation to navigate.",
+    "example3": "His art focuses on non-visual experiences such as texture and smell.",
+    "Explanation": "'Non-visual' describes anything that does not rely on the sense of sight. It can refer to information, art, interfaces, or navigation methods that use sound, touch, or other senses. This term is important in accessibility design, helping to create inclusive products for visually impaired people. It also appears in discussions about animal senses and abstract concepts.",
+    "synonyms": [
+      "non-optical",
+      "tactile",
+      "auditory",
+      "non-sighted"
+    ],
+    "antonyms": [
+      "visual",
+      "optical",
+      "visible",
+      "sighted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-visual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Accessibility technology, art, biology, user interfaces",
+    "usageTip": "Use 'non-visual' when discussing senses other than sight or designing for accessibility.",
+    "commonMistake": "Confusing it with 'invisible'; 'non-visual' means not using sight, not 'cannot be seen'.",
+    "collocations": [
+      "non-visual interface",
+      "non-visual learning",
+      "non-visual perception"
+    ]
+  },
+  {
+    "word": "Non-visual",
+    "meaning": "Not using or requiring images, graphics, or sight",
+    "shortMeaning": "not visual",
+    "example": "The interface provides non-visual feedback for accessibility.",
+    "example2": "Non-visual debugging requires log analysis.",
+    "example3": "We need a non-visual way to monitor system health.",
+    "Explanation": "The term 'non-visual' describes tasks, data, or interfaces that do not rely on sight. In accessibility, designing 'non-visual' interfaces (like screen readers or audio cues) is essential for blind or visually impaired users. In computing, 'non-visual' tools are often command-line tools or text-based logs, which focus on information rather than appearance. It represents a different way of processing and presenting data.",
+    "synonyms": [
+      "audio",
+      "text-based",
+      "tactile"
+    ],
+    "antonyms": [
+      "visual",
+      "graphical",
+      "pictorial"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-visual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Accessibility, UI/UX, debugging",
+    "usageTip": "Use when discussing accessibility or text-based tools.",
+    "commonMistake": "Assuming 'non-visual' means 'empty'; it just means using other senses or data forms.",
+    "collocations": [
+      "non-visual feedback",
+      "non-visual interface",
+      "non-visual debugging"
+    ]
+  }
+]

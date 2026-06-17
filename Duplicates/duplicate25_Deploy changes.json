@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Deploy changes",
+    "meaning": "To release and make software updates or modifications live for users",
+    "shortMeaning": "release updates",
+    "example": "The team will deploy changes to the website after midnight.",
+    "example2": "We deploy small changes frequently to minimize risk.",
+    "example3": "The system is down while they deploy critical security changes.",
+    "Explanation": "'Deploy changes' is the specific action of taking modified code and making it active in the production environment where real users interact with it. This is the final step in the software development cycle for a given update. It can be done manually or automatically (via a CI/CD pipeline). Careful deployment involves planning, monitoring, and having a rollback plan in case something goes wrong. It turns development work into user value.",
+    "synonyms": [
+      "release updates",
+      "roll out changes",
+      "implement modifications",
+      "push changes"
+    ],
+    "antonyms": [
+      "rollback changes",
+      "withdraw updates"
+    ],
+    "nounForm": "deployment of changes",
+    "verbForm": "deploy changes",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software releases, IT operations, web development, DevOps",
+    "usageTip": "Use this phrase to describe the action of moving code from testing/staging to the live site.",
+    "commonMistake": "Using 'deploy' alone when specificity is needed; 'deploy changes' or 'deploy the application' is clearer.",
+    "collocations": [
+      "safely deploy changes",
+      "automatically deploy changes",
+      "schedule to deploy changes",
+      "deploy changes to production"
+    ]
+  },
+  {
+    "word": "Deploy changes",
+    "meaning": "To apply or push updates and modifications to a live system",
+    "shortMeaning": "push updates",
+    "example": "The team will deploy changes to the website at midnight.",
+    "example2": "Before you deploy changes, make sure you have a backup of the database.",
+    "example3": "It took only five minutes to deploy changes to the cloud server.",
+    "Explanation": "To deploy changes means taking new code or configurations and putting them into a working environment where they can be used. This usually happens after a bug has been fixed or a new feature has been developed. It is a critical step in the software development life cycle. Monitoring the system after you deploy changes is essential to catch any unexpected issues. This phrase is very common in meetings between developers and project managers.",
+    "synonyms": [
+      "roll out updates",
+      "push modifications",
+      "apply patches"
+    ],
+    "antonyms": [
+      "revert changes",
+      "rollback"
+    ],
+    "nounForm": "change deployment",
+    "verbForm": "deploy changes",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Software development, Website maintenance",
+    "usageTip": "Always specify which environment (test, staging, or production) you are deploying changes to.",
+    "commonMistake": "Using 'upload changes' when you mean 'deploying' to a production server.",
+    "collocations": [
+      "deploy changes safely",
+      "deploy changes frequently"
+    ]
+  }
+]

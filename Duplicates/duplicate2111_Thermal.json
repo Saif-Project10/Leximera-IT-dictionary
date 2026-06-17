@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Thermal",
+    "meaning": "Relating to heat and temperature.",
+    "shortMeaning": "related to heat",
+    "example": "The server has thermal sensors to prevent overheating.",
+    "example2": "Thermal throttling reduces performance when the CPU gets too hot.",
+    "example3": "We designed a thermal management system for the laptop.",
+    "Explanation": "The word 'thermal' relates to heat. In IT, 'thermal management' is a major challenge for hardware, data centers, and even mobile devices. 'Thermal throttling' is a protection mechanism where a processor slows itself down when it detects it is getting too hot. This is critical for system stability. Knowing how to monitor and control thermal levels is a key part of hardware maintenance and server health.",
+    "synonyms": [
+      "heat-related",
+      "temperature-based"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "temperature",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware and cooling",
+    "usageTip": "Use 'thermal' when discussing heat management in computers.",
+    "commonMistake": "Ignoring thermal limits in high-performance computing setups.",
+    "collocations": [
+      "thermal throttling",
+      "thermal management",
+      "thermal sensor"
+    ]
+  },
+  {
+    "word": "Thermal",
+    "meaning": "Relating to heat or temperature",
+    "shortMeaning": "heat-related",
+    "example": "High performance can lead to thermal throttling.",
+    "example2": "The server room needs good thermal management.",
+    "example3": "Thermal sensors track hardware heat levels.",
+    "Explanation": "Thermal relates to heat, which is a major factor in computer hardware health. Excessive heat can cause systems to slow down or fail completely. Thermal management is essential in laptops, servers, and high-performance gaming computers. Proper ventilation and cooling solutions are standard requirements for all hardware environments. If you see 'thermal' in a log, check your fans and temperature settings.",
+    "synonyms": [
+      "heat",
+      "temperature",
+      "thermic"
+    ],
+    "antonyms": [
+      "cold",
+      "cryogenic"
+    ],
+    "nounForm": "thermality",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, cooling, system maintenance",
+    "usageTip": "Use this when talking about heat levels, fans, or cooling solutions.",
+    "commonMistake": "Confusing thermal limits with electrical limits.",
+    "collocations": [
+      "thermal management",
+      "thermal throttling",
+      "thermal sensor"
+    ]
+  }
+]

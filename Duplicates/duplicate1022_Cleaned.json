@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Cleaned",
+    "meaning": "Made clean; freed from dirt or impurity.",
+    "shortMeaning": "made clean",
+    "example": "I cleaned my room yesterday.",
+    "example2": "The data needs to be cleaned before analysis.",
+    "example3": "Have you cleaned the fish yet?",
+    "Explanation": "'Cleaned' is the past tense and past participle of the verb 'clean'. It describes the completed action of removing dirt, stains, or unwanted elements. It's used for physical spaces (rooms, clothes), data (data cleaning), and even in sports (to clean and jerk in weightlifting). As an adjective, it describes something that is now clean. It's one of the most common verbs for household chores and maintenance tasks. The opposite is 'dirtied' or 'soiled'.",
+    "synonyms": [
+      "washed",
+      "scrubbed",
+      "tidied"
+    ],
+    "antonyms": [
+      "dirtied",
+      "soiled",
+      "messed up"
+    ],
+    "nounForm": "clean",
+    "verbForm": "clean",
+    "adjectiveForm": "clean",
+    "partOfSpeech": "verb (past tense/participle), adjective",
+    "commonContext": "Housekeeping, data preparation, hygiene, cooking",
+    "usageTip": "Use 'cleaned out' for emptying thoroughly (a closet). Use 'cleaned up' for tidying a general area.",
+    "commonMistake": "Using 'cleaned' when 'cleaned up' is the more natural phrasal verb for tidying (e.g., 'I cleaned up the kitchen').",
+    "collocations": [
+      "thoroughly cleaned",
+      "newly cleaned",
+      "cleaned and pressed"
+    ]
+  },
+  {
+    "word": "Cleaned",
+    "meaning": "Made free from dirt, impurities, unwanted items, or redundant data",
+    "shortMeaning": "made clean",
+    "example": "He cleaned his computer keyboard using a can of compressed air.",
+    "example2": "The database analyst cleaned the dataset to remove duplicate user profiles.",
+    "example3": "She cleaned up the project repository by deleting old, unused code branches.",
+    "Explanation": "The word 'cleaned' is the past tense and past participle form of the verb 'clean'. In technical data analysis, 'cleaned data' refers to datasets that have undergone validation to remove errors, duplicates, or corrupted entries before processing. In physical contexts, it means removing physical grime or organizing a space. It represents an action that has been completed to restore order, efficiency, or hygiene, making it a critical step in both physical maintenance and data pipeline workflows.",
+    "synonyms": [
+      "purified",
+      "sanitized",
+      "washed",
+      "filtered"
+    ],
+    "antonyms": [
+      "dirtied",
+      "polluted",
+      "corrupted",
+      "cluttered"
+    ],
+    "nounForm": "cleaner / cleaning",
+    "verbForm": "clean",
+    "adjectiveForm": "cleaned",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Data preprocessing, hardware maintenance, and workspace organization",
+    "usageTip": "Use 'cleaned' when referring to data that has been processed to remove errors or duplicates.",
+    "commonMistake": "Using 'cleaned' when you mean 'deleted'; cleaning implies improving or filtering, not complete destruction.",
+    "collocations": [
+      "cleaned data",
+      "cleaned thoroughly",
+      "cleaned up"
+    ]
+  }
+]

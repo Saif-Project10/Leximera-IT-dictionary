@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Dual boot",
+    "meaning": "A computer setup that allows two different operating systems to be installed on one machine",
+    "shortMeaning": "two OS setup",
+    "example": "I set up a dual boot on my laptop so I can use both Windows and Linux.",
+    "example2": "A dual boot system gives you a choice of which OS to start when you turn on the PC.",
+    "example3": "The dual boot process requires creating separate partitions on the hard drive.",
+    "Explanation": "The term 'dual boot' refers to a computer configuration where two operating systems are installed on the same storage drive. When the computer starts up, a 'boot manager' appears on the screen, allowing the user to choose which system to load. This is popular among developers who need a specific environment for coding but want another for gaming or office work. It requires careful partitioning of the hard drive to ensure the systems do not interfere with each other. Each operating system remains independent and has its own set of files and settings.",
+    "synonyms": [
+      "multi-boot",
+      "double boot"
+    ],
+    "antonyms": [
+      "single boot"
+    ],
+    "nounForm": "dual boot",
+    "verbForm": "dual boot",
+    "adjectiveForm": "dual-bootable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Operating system installation and PC customization",
+    "usageTip": "Always install the most 'sensitive' operating system (like Windows) first, followed by Linux, to avoid bootloader issues.",
+    "commonMistake": "Thinking you can run both operating systems at the same time; you must restart to switch between them.",
+    "collocations": [
+      "dual boot system",
+      "set up dual boot",
+      "dual boot menu"
+    ]
+  },
+  {
+    "word": "Dual boot",
+    "meaning": "Setting up a computer to choose between two different operating systems when it starts up",
+    "shortMeaning": "use two systems",
+    "example": "I set up my laptop to dual boot Windows and Linux.",
+    "example2": "Dual boot allows developers to test their apps on different platforms using one machine.",
+    "example3": "He had to dual boot his Mac to run specific Windows-only software.",
+    "Explanation": "Dual booting involves installing two operating systems on different partitions of the same hard drive. When you turn on the computer, a 'boot manager' appears, and you pick which OS you want to use. This is different from a 'Virtual Machine' because only one OS is running at a time. It gives the operating system full access to the computer's hardware. It is very common among developers and gamers. You must be careful during installation to avoid deleting your existing files. It requires splitting your storage space.",
+    "synonyms": [
+      "multi-booting",
+      "double booting"
+    ],
+    "antonyms": [
+      "single boot"
+    ],
+    "nounForm": "dual booting",
+    "verbForm": "dual boot",
+    "adjectiveForm": "dual-boot",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "IT systems and PC enthusiasts",
+    "usageTip": "Use this when you want to run two systems on one physical hard drive.",
+    "commonMistake": "Thinking you can use both systems at the same time; you must restart to switch.",
+    "collocations": [
+      "dual boot setup",
+      "dual boot configuration",
+      "dual boot Windows and Linux"
+    ]
+  }
+]

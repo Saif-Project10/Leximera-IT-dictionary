@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tunneled",
+    "meaning": "Encapsulated data inside another protocol to pass through a network.",
+    "shortMeaning": "encapsulated",
+    "example": "The traffic is tunneled through the secure VPN.",
+    "example2": "We tunneled the data to bypass firewall restrictions.",
+    "example3": "SSH tunneled connections provide extra security.",
+    "Explanation": "The word 'tunneled' refers to the process of wrapping one network protocol inside another. This is common in VPNs, SSH, and GRE protocols. By tunneling, data can travel through networks that might otherwise block the original protocol. The base verb is 'tunnel'. It is a key concept in network security and connectivity. Ensure you differentiate between 'tunneled' data and simple encrypted data.",
+    "synonyms": [
+      "encapsulated",
+      "wrapped",
+      "routed"
+    ],
+    "antonyms": [
+      "unpacked",
+      "exposed"
+    ],
+    "nounForm": "tunneling",
+    "verbForm": "tunnel",
+    "adjectiveForm": "tunneled",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Network security, VPNs, and protocol handling",
+    "usageTip": "Use 'tunneled' to describe how traffic is routed through a specific secure link.",
+    "commonMistake": "Confusing 'tunneled' with simple network routing.",
+    "collocations": [
+      "tunneled traffic",
+      "tunneled connection",
+      "securely tunneled"
+    ]
+  },
+  {
+    "word": "Tunneled",
+    "meaning": "Sent through a private connection within a public network",
+    "shortMeaning": "sent via tunnel",
+    "example": "The data is tunneled through an encrypted connection.",
+    "example2": "VPN traffic is tunneled over the public internet.",
+    "example3": "The request was tunneled securely to the server.",
+    "Explanation": "Tunneled refers to a networking technique where one protocol is encapsulated within another. It creates a private, secure path through a public or insecure network. This is how VPNs work to keep data safe. It hides the original traffic data from those watching the network. It is a critical concept for secure remote access and connecting different network segments safely.",
+    "synonyms": [
+      "encapsulated",
+      "piped",
+      "routed"
+    ],
+    "antonyms": [
+      "exposed",
+      "public",
+      "unprotected"
+    ],
+    "nounForm": "tunnel",
+    "verbForm": "tunnel",
+    "adjectiveForm": "tunneled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, security, VPNs",
+    "usageTip": "Use 'tunneled' when you want to emphasize a secure path for traffic.",
+    "commonMistake": "Confusing tunneled with direct routed traffic.",
+    "collocations": [
+      "tunneled connection",
+      "tunneled traffic",
+      "tunneled through VPN"
+    ]
+  }
+]

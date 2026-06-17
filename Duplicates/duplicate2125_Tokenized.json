@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Tokenized",
+    "meaning": "Converted into individual units or transformed into a security token",
+    "shortMeaning": "converted to tokens",
+    "example": "The text was tokenized into individual words for analysis.",
+    "example2": "Sensitive credit card data is often tokenized for security.",
+    "example3": "The data stream was successfully tokenized.",
+    "Explanation": "The word 'tokenized' has two primary meanings in IT. First, in Natural Language Processing (NLP), it refers to breaking a sequence of text into smaller pieces like words or phrases. Second, in data security, it refers to replacing sensitive data with a non-sensitive equivalent called a token to prevent theft. Both processes involve transforming raw data into a specific format for a specific purpose. It is a highly technical term used primarily by developers and data scientists. Ensure you understand which context is intended based on the field of study.",
+    "synonyms": [
+      "parsed",
+      "encoded",
+      "converted"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tokenization",
+    "verbForm": "tokenize",
+    "adjectiveForm": "tokenized",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "NLP, database security, data processing",
+    "usageTip": "Use this when explaining data preparation or security measures.",
+    "commonMistake": "Using 'tokenized' when referring to simple data encryption.",
+    "collocations": [
+      "data tokenized",
+      "text tokenized",
+      "tokenized string"
+    ]
+  },
+  {
+    "word": "Tokenized",
+    "meaning": "Converted into a token or broken into smaller units",
+    "shortMeaning": "converted",
+    "example": "The input text was tokenized for natural language processing.",
+    "example2": "Credit card data is tokenized to ensure security.",
+    "example3": "The parser tokenized the code block.",
+    "Explanation": "Tokenization serves two primary purposes in IT. In AI and NLP, it is the process of breaking long text into smaller, meaningful units (like words or subwords). In security, it is replacing sensitive data (like card numbers) with a non-sensitive 'token' to prevent fraud. Because the term has two distinct meanings, context is everything. It is a critical step in both language analysis and data protection workflows.",
+    "synonyms": [
+      "processed",
+      "converted",
+      "broken down"
+    ],
+    "antonyms": [
+      "reconstituted",
+      "raw",
+      "original"
+    ],
+    "nounForm": "tokenization",
+    "verbForm": "tokenize",
+    "adjectiveForm": "tokenized",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "NLP (AI), data security, compilers",
+    "usageTip": "Use to describe the conversion of data into safe or machine-readable tokens.",
+    "commonMistake": "Assuming 'tokenized' means encryption; it is usually a mapping process, not encryption.",
+    "collocations": [
+      "tokenized text",
+      "tokenized data",
+      "fully tokenized"
+    ]
+  }
+]

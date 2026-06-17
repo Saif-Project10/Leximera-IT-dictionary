@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Untrustworthy",
+    "meaning": "Not able to be relied on as honest or truthful; not trustworthy",
+    "shortMeaning": "not reliable or honest",
+    "example": "He proved to be untrustworthy with confidential information.",
+    "example2": "The source of the rumor was completely untrustworthy.",
+    "example3": "An untrustworthy character in the story betrays the hero.",
+    "Explanation": "The adjective 'untrustworthy' is a strong negative judgment about a person's, organization's, or information source's character. It means they cannot be trusted to be honest, reliable, or faithful. This could be due to a history of lying, breaking promises, or acting deceitfully. It is one of the most damaging things you can say about someone's reputation. The word applies to people, data (untrustworthy statistics), and systems (untrustworthy software). It is the direct opposite of 'trustworthy', 'reliable', and 'dependable'. Use it carefully, as it is a serious accusation that questions fundamental integrity.",
+    "synonyms": [
+      "unreliable",
+      "dishonest",
+      "deceitful",
+      "treacherous",
+      "faithless"
+    ],
+    "antonyms": [
+      "trustworthy",
+      "reliable",
+      "dependable",
+      "honest",
+      "faithful"
+    ],
+    "nounForm": "untrustworthiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "untrustworthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Character judgment, evaluating sources, relationships, security",
+    "usageTip": "A very strong term. Ensure you have evidence before labeling someone or something as untrustworthy.",
+    "commonMistake": "Using it for minor unreliability (e.g., being late once). It implies a character flaw.",
+    "collocations": [
+      "untrustworthy person",
+      "untrustworthy source",
+      "untrustworthy data",
+      "prove untrustworthy"
+    ]
+  },
+  {
+    "word": "Untrustworthy",
+    "meaning": "Not able to be relied upon as honest, accurate, or secure.",
+    "shortMeaning": "dishonest/unreliable",
+    "example": "The data returned by this API seems untrustworthy.",
+    "example2": "An untrustworthy software vendor puts your business at risk.",
+    "example3": "He identified the device as untrustworthy.",
+    "Explanation": "The word 'untrustworthy' describes someone or something that you cannot rely on to be honest, consistent, or secure. In IT, this applies to software, hardware, or third-party services that have a history of failure or manipulation. It implies a deeper level of suspicion than just 'untrusted'. The noun form is 'untrustworthiness'. Use this to describe components that should be avoided because they pose a risk to system integrity.",
+    "synonyms": [
+      "unreliable",
+      "dishonest",
+      "deceptive"
+    ],
+    "antonyms": [
+      "trustworthy",
+      "reliable",
+      "honest"
+    ],
+    "nounForm": "untrustworthiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "untrustworthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, system reliability, and software procurement",
+    "usageTip": "Use 'untrustworthy' for things that are intentionally risky or unreliable.",
+    "commonMistake": "Confusing 'untrusted' (not yet verified) with 'untrustworthy' (known to be bad).",
+    "collocations": [
+      "untrustworthy source",
+      "untrustworthy vendor",
+      "untrustworthy data"
+    ]
+  },
+  {
+    "word": "Untrustworthy",
+    "meaning": "Not deserving of trust; likely to fail or be dishonest",
+    "shortMeaning": "not reliable",
+    "example": "The old database driver is highly untrustworthy.",
+    "example2": "It is an untrustworthy service provider for sensitive data.",
+    "example3": "The results from that untrustworthy API should be ignored.",
+    "Explanation": "Untrustworthy refers to a person, software, or service that cannot be relied upon to perform as expected or to keep data secure. In an IT environment, using untrustworthy tools can compromise your entire system. If a tool consistently fails, produces inaccurate data, or has a history of security flaws, it is labeled as untrustworthy. Building a stable infrastructure requires choosing trustworthy partners and software. An untrustworthy tool is a liability that should be replaced as soon as a better alternative is found.",
+    "synonyms": [
+      "unreliable",
+      "dishonest",
+      "shady"
+    ],
+    "antonyms": [
+      "trustworthy",
+      "reliable",
+      "dependable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "untrustworthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software reliability and security",
+    "usageTip": "Use it to warn others about problematic tools or sources.",
+    "commonMistake": "Confusing 'untrusted' (not yet checked) with 'untrustworthy' (known to be bad).",
+    "collocations": [
+      "untrustworthy source",
+      "untrustworthy service",
+      "highly untrustworthy"
+    ]
+  }
+]

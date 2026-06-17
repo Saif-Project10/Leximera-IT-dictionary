@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Immediate",
+    "meaning": "Occurring or done at once; without delay.",
+    "shortMeaning": "instant; without delay",
+    "example": "The medicine provided immediate relief.",
+    "example2": "Your immediate family includes parents, siblings, and children.",
+    "example3": "We need an immediate response to this crisis.",
+    "Explanation": "'Immediate' is an adjective meaning happening or done without delay, or nearest in relationship or position. It describes things that happen right away (immediate effect) or things that are closest (immediate surroundings). The word emphasizes promptness and directness. In time, it means instant. In space, it means adjacent. In relationships, it means closest (immediate family). The adverb is 'immediately'. The concept is important in emergencies (immediate action), business (immediate attention), and descriptions of proximity. It suggests something cannot or should not wait - it requires instant attention or is directly connected.",
+    "synonyms": [
+      "instant",
+      "prompt",
+      "direct",
+      "nearest"
+    ],
+    "antonyms": [
+      "delayed",
+      "gradual",
+      "distant",
+      "remote"
+    ],
+    "nounForm": "immediacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "immediate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Time, family, surroundings, effects, responses",
+    "usageTip": "For time: 'immediate response'. For proximity: 'immediate area'. For family: 'immediate family'.",
+    "commonMistake": "Using 'immediately' when adjective is needed. 'We need immediate action' (adjective), not 'We need action immediately' (adverb though also correct).",
+    "collocations": [
+      "immediate family",
+      "immediate effect",
+      "immediate attention"
+    ]
+  },
+  {
+    "word": "Immediate",
+    "meaning": "Happening right away without delay",
+    "shortMeaning": "instant",
+    "example": "The system provided an immediate response to the request.",
+    "example2": "We need an immediate solution to the critical bug.",
+    "example3": "Immediate action is required to fix the security breach.",
+    "Explanation": "The word 'immediate' describes something that occurs instantly or without any intervening time. In the context of computing, 'immediate' feedback is highly desirable in user interfaces to keep the user informed. It is also used to describe priority tasks that must be dealt with without waiting. While 'immediate' implies speed, it should not be confused with 'hasty', which implies acting without thinking. Always prioritize tasks labeled as 'immediate' when system stability or safety is at risk.",
+    "synonyms": [
+      "instant",
+      "prompt",
+      "instantaneous"
+    ],
+    "antonyms": [
+      "delayed",
+      "later",
+      "deferred"
+    ],
+    "nounForm": "immediacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "immediate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, task management, UI/UX",
+    "usageTip": "Use 'immediate' when something must happen right away.",
+    "commonMistake": "Confusing 'immediate' with 'early'.",
+    "collocations": [
+      "immediate response",
+      "immediate action",
+      "immediate effect"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inserted",
+    "meaning": "Put or placed something into something else. | Placed or fit into something else.",
+    "shortMeaning": "put inside",
+    "example": "He inserted the key into the lock.",
+    "example2": "Please insert your card into the machine.",
+    "example3": "A clause was inserted into the contract at the last minute.",
+    "Explanation": "'Inserted' is the past tense of the verb 'insert'. It means to place an object inside another object, or to add text or an element into a document or sequence. It implies a careful or deliberate action of putting one thing into a specific place within another. It is a common word in technical contexts (insert a USB drive), everyday actions (insert a coin), and editing (insert a comma). The focus is on the act of introduction or inclusion into a pre-existing space or structure.",
+    "synonyms": [
+      "Embedded",
+      "Introduced",
+      "Placed",
+      "Put In"
+    ],
+    "antonyms": [
+      "Deleted",
+      "Extracted",
+      "Removed",
+      "Took Out"
+    ],
+    "nounForm": "insertion",
+    "verbForm": "insert",
+    "adjectiveForm": "inserted",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Technology, writing/editing, everyday tasks, mechanics",
+    "usageTip": "Use it when describing the action of putting something into a slot, hole, or document.",
+    "commonMistake": "Using 'inserted' when you mean 'installed', which is a more complex setup process.",
+    "collocations": [
+      "inserted into",
+      "inserted the disk",
+      "inserted a comment",
+      "freshly inserted"
+    ]
+  },
+  {
+    "word": "Inserted",
+    "meaning": "Placed inside something else",
+    "shortMeaning": "put inside",
+    "example": "The data was inserted into the database.",
+    "example2": "I inserted the script tag in the header.",
+    "example3": "The error was caught when the row was inserted.",
+    "Explanation": "The word 'inserted' is very common in database work, where you use the 'INSERT' command to add new records to a table. It is also used when you put a piece of code, an image, or a component into a larger document or layout. It is a simple, direct word that clearly describes putting one thing inside another.",
+    "synonyms": [
+      "added",
+      "placed",
+      "put in"
+    ],
+    "antonyms": [
+      "deleted",
+      "removed",
+      "extracted"
+    ],
+    "nounForm": "insertion",
+    "verbForm": "insert",
+    "adjectiveForm": "inserted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Databases, HTML, document editing",
+    "usageTip": "Use 'inserted' for data entry or placing code into docs.",
+    "commonMistake": "Confusing it with 'injected', which often implies malicious or forced entry.",
+    "collocations": [
+      "inserted data",
+      "successfully inserted",
+      "row inserted"
+    ]
+  }
+]

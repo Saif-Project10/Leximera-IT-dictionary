@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Chance",
+    "meaning": "The occurrence of events in the absence of any obvious design; an opportunity; a possibility",
+    "shortMeaning": "randomness; opportunity",
+    "example": "We met by chance at the airport.",
+    "example2": "If you get a chance, visit that museum.",
+    "example3": "There's a good chance it will rain tomorrow.",
+    "Explanation": "Chance refers to randomness, opportunity, or probability. It describes things that happen without a plan ('by chance'). It also means a possibility ('a chance of success') or an occasion to do something ('give me a chance'). It's a neutral word that can be positive (an opportunity) or negative (a risk). In statistics, it relates to probability. 'Taking a chance' means accepting risk. It's a very common and versatile word that connects ideas of luck, fate, opportunity, and possibility in everyday language.",
+    "synonyms": [
+      "opportunity",
+      "possibility",
+      "luck",
+      "randomness",
+      "probability"
+    ],
+    "antonyms": [
+      "certainty",
+      "design",
+      "plan",
+      "intention"
+    ],
+    "nounForm": "chance",
+    "verbForm": "N/A",
+    "adjectiveForm": "chancy",
+    "partOfSpeech": "noun",
+    "commonContext": "Opportunities, probability, luck, random events",
+    "usageTip": "Use 'by chance' for random events. Use 'a chance to' for opportunities. Use 'chance of' for probability.",
+    "commonMistake": "Confusing 'chance' (opportunity) with 'change' (to make different).",
+    "collocations": [
+      "by chance",
+      "take a chance",
+      "second chance"
+    ]
+  },
+  {
+    "word": "Chance",
+    "meaning": "The possibility of something happening, or a random occurrence",
+    "shortMeaning": "possibility or randomness",
+    "example": "There is a small chance that the server might go offline during maintenance.",
+    "example2": "The algorithm relies on chance to select a random sample from the dataset.",
+    "example3": "We cannot leave system security to chance; we must implement strict protocols.",
+    "Explanation": "The word 'chance' refers to probability, luck, or random events that occur without a deliberate cause. In computing, chance is mathematically modeled through random number generators and probability algorithms. It can also refer to the likelihood of an error or system failure occurring during operations. The verb form is also 'chance', though it is rarely used in technical writing. It is highly applicable in risk assessment, statistics, and game development.",
+    "synonyms": [
+      "probability",
+      "likelihood",
+      "possibility",
+      "randomness"
+    ],
+    "antonyms": [
+      "certainty",
+      "predictability",
+      "inevitability",
+      "design"
+    ],
+    "nounForm": "chance",
+    "verbForm": "chance",
+    "adjectiveForm": "chancy",
+    "partOfSpeech": "noun",
+    "commonContext": "Risk management, probability algorithms, and system maintenance",
+    "usageTip": "Use 'chance' when describing statistical probability or unpredictable events in a system.",
+    "commonMistake": "Using 'chance' when you actually mean a calculated, precise risk or a definite certainty.",
+    "collocations": [
+      "by chance",
+      "high chance",
+      "leave to chance"
+    ]
+  }
+]

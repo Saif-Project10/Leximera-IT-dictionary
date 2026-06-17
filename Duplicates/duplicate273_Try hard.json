@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Try hard",
+    "meaning": "(Verb phrase) To make a great effort. (Noun, informal) A person who tries too hard to be accepted, often seeming desperate.",
+    "shortMeaning": "make great effort; over-eager person",
+    "example": "You need to try hard if you want to pass this exam.",
+    "example2": "Don't give up, just try hard and you'll improve.",
+    "example3": "He was labeled a try-hard for always agreeing with the popular kids.",
+    "Explanation": "'Try hard' as a verb phrase is positive and encouraging, meaning to put in significant effort. As a slang noun ('a try-hard'), it is derogatory, describing someone whose efforts to fit in or succeed are obvious, excessive, and often ineffective, making them seem insecure. This dual meaning is context-dependent. The verb phrase is essential for growth and achievement. The noun form highlights social perceptions about authenticity and the balance between effort and naturalness. It's important to understand which meaning is intended.",
+    "synonyms": [
+      "strive",
+      "endeavor",
+      "make an effort",
+      "overachiever (noun)",
+      "eager beaver (noun)"
+    ],
+    "antonyms": [
+      "give up",
+      "quit",
+      "slack off",
+      "natural (noun)",
+      "cool kid (noun antonym)"
+    ],
+    "nounForm": "try-hard (informal)",
+    "verbForm": "try hard",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase / noun (informal)",
+    "commonContext": "Encouragement, personal development, informal social criticism",
+    "usageTip": "As a verb, it's two words: 'try hard'. As a derogatory noun, it's often hyphenated: 'try-hard'.",
+    "commonMistake": "Using 'try hard' as a noun in formal writing; it's very informal and often negative.",
+    "collocations": [
+      "really try hard",
+      "try too hard",
+      "such a try-hard"
+    ]
+  },
+  {
+    "word": "Try hard",
+    "meaning": "To exert massive, continuous effort to overcome complex technical blockers, coding bugs, or architectural hurdles",
+    "shortMeaning": "exert intense effort",
+    "example": "Our frontend engineering team must try hard to optimize the dictionary site loading performance scores.",
+    "example2": "You should try hard to understand asynchronous execution loops before building chat app backends.",
+    "example3": "He had to try hard for days to locate the rare network security memory leak bug.",
+    "Explanation": "The phrase 'try hard' describes putting forth maximum focus and persistent problem-solving efforts within professional settings. In technology roles like web development, systems are highly intricate, meaning developers routinely run into obscure errors or strict production timelines. Trying hard involves spending focused research hours reviewing online technical documentation, debugging line-by-line, and running multiple testing trials to deliver safe, clean code patterns that pass industry-standard code reviews.",
+    "synonyms": [
+      "strive",
+      "endeavor",
+      "work intensely",
+      "persevere"
+    ],
+    "antonyms": [
+      "give up",
+      "neglect tasks",
+      "slacker"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "try hard",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Professional skill growth, challenging debug cycles, strict project deadlines",
+    "usageTip": "Apply 'try hard' when motivating teammates or detailing the intense effort required to master advanced web programming frameworks.",
+    "commonMistake": "Using 'try hard' as a single noun; it functions as an active verb phrase indicating strong human dedication.",
+    "collocations": [
+      "try hard to solve",
+      "try hard to learn",
+      "must try hard"
+    ]
+  }
+]

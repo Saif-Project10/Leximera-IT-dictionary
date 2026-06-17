@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Query by example",
+    "meaning": "A database search method where the user provides a sample of the data they are looking for",
+    "shortMeaning": "QBE / search by sample",
+    "example": "Query by example is great for users who don't know how to write SQL.",
+    "example2": "In a QBE system, you just fill out a form that looks like the record you want.",
+    "example3": "The library database supports query by example for finding books.",
+    "Explanation": "Query by Example (QBE) is a high-level database language for relational databases. Instead of writing complex code, the user is presented with a visual grid or a form that matches the structure of the database table. The user fills in the fields they are interested in. For example, to find all 'Red' cars, the user simply types 'Red' into the 'Color' column of the sample form. The system then translates this 'example' into a formal query. It is a very user-friendly way to interact with data, making it accessible to non-technical people. It was one of the first graphical query languages.",
+    "synonyms": [
+      "QBE",
+      "visual query",
+      "sample-based search"
+    ],
+    "antonyms": [
+      "structured query language (SQL)"
+    ],
+    "nounForm": "query by example",
+    "verbForm": "query by example",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Database interfaces and user-friendly software",
+    "usageTip": "Use QBE when building tools for users who find SQL too difficult.",
+    "commonMistake": "Thinking QBE is a separate database; it's just a way to *ask* the database questions.",
+    "collocations": [
+      "implement query by example",
+      "QBE interface",
+      "query by example tool"
+    ]
+  },
+  {
+    "word": "Query by example",
+    "meaning": "A user-friendly database search method where the system provides an empty data form, and the user fills in example values to find matching records",
+    "shortMeaning": "search using template form",
+    "example": "The software includes a query by example interface, allowing non-technical managers to search records without learning SQL.",
+    "example2": "By using a query by example system, you just enter 'Karachi' in the city field to filter all local clients.",
+    "example3": "The developer implemented a query by example feature to simplify complex database lookups.",
+    "Explanation": "The term 'Query by Example' (commonly abbreviated as QBE) represents a highly intuitive database query technique designed for relational data. Instead of forcing users or administrators to write complex, manual SQL strings with correct punctuation, a QBE interface displays a visual form or grid that matches the fields of the underlying database table. The user simply types example text or values into the desired fields (e.g., typing 'Manager' in the job title box). The system automatically parses this filled-out form, builds the correct internal query behind the scenes, and brings back all matching records, making it a great feature for internal admin panels.",
+    "synonyms": [
+      "QBE",
+      "form-based query",
+      "visual search template"
+    ],
+    "antonyms": [
+      "manual command-line query",
+      "raw SQL query",
+      "N/A"
+    ],
+    "nounForm": "Query by Example",
+    "verbForm": "N/A",
+    "adjectiveForm": "Query-by-Example",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Database user interfaces, internal admin dashboards, user-friendly search tools",
+    "usageTip": "Use 'Query by Example' when describing database access designs where filling out a visual template replaces writing raw database code.",
+    "commonMistake": "Capitalizing or treating it as a standard programming function; it is a high-level user interface design pattern for data search.",
+    "collocations": [
+      "Query by Example interface",
+      "QBE system",
+      "implement Query by Example"
+    ]
+  }
+]

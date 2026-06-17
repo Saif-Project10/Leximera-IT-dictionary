@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Deployable",
+    "meaning": "(Especially of troops or software) ready to be deployed or put into use",
+    "shortMeaning": "ready to be sent/used",
+    "example": "The new software update is now deployable to all users.",
+    "example2": "The army has deployable forces on standby.",
+    "example3": "The system must be deployable in various environments.",
+    "Explanation": "The adjective 'deployable' describes something, often resources, troops, or technology, that is in a state where it can be effectively moved into position and used for its intended purpose. It implies readiness, mobility, and functionality. In tech, it means software can be installed and run in a target environment. The verb form is 'deploy'. It's a technical and strategic term.",
+    "synonyms": [
+      "ready for use",
+      "usable",
+      "operational",
+      "field-ready"
+    ],
+    "antonyms": [
+      "undeployable",
+      "unready",
+      "non-operational"
+    ],
+    "nounForm": "deployability",
+    "verbForm": "deploy",
+    "adjectiveForm": "deployable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Military, software development, emergency services",
+    "usageTip": "Common in DevOps and software engineering to describe code that is ready for production servers.",
+    "commonMistake": "Thinking it means 'perfect'; it means 'ready to be put into action', which may include some risk.",
+    "collocations": [
+      "deployable unit",
+      "deployable software",
+      "easily deployable",
+      "deployable asset"
+    ]
+  },
+  {
+    "word": "Deployable",
+    "meaning": "Able to be launched or put into service",
+    "shortMeaning": "ready to launch",
+    "example": "The code is stable and fully deployable.",
+    "example2": "We created a deployable artifact for the server.",
+    "example3": "The feature is now in a deployable state.",
+    "Explanation": "The word 'deployable' means that software, a system, or a product is in a condition to be installed and used in a production environment. In DevOps, this is a key milestone. If a build is 'deployable', it has passed testing and is ready for release. It is a standard technical term in software delivery. It conveys readiness, quality assurance, and the capability for immediate implementation.",
+    "synonyms": [
+      "ready for release",
+      "installable",
+      "launchable"
+    ],
+    "antonyms": [
+      "undeployable",
+      "experimental",
+      "unfinished"
+    ],
+    "nounForm": "deployment",
+    "verbForm": "deploy",
+    "adjectiveForm": "deployable",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, software releases, and infrastructure",
+    "usageTip": "Use 'deployable' to indicate that a build is ready for production.",
+    "commonMistake": "Using 'deployable' for features that are still being tested.",
+    "collocations": [
+      "fully deployable",
+      "deployable artifact",
+      "ready for deployable"
+    ]
+  }
+]

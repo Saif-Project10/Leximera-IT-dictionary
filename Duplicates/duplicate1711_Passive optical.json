@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Passive optical",
+    "meaning": "Relating to fiber optic technology that uses unpowered components to split and direct light signals",
+    "shortMeaning": "unpowered fiber tech",
+    "example": "Passive optical technology is a cost-effective way to provide high-speed internet to homes.",
+    "example2": "Because it is passive optical, the system doesn't need electricity between the provider and the user.",
+    "example3": "Passive optical components are more durable because they have no electronics to fail.",
+    "Explanation": "Passive optical refers to a way of building fiber-optic networks. In a 'normal' network, you need many powered 'switches' and 'routers' in the middle of the street to keep the signal moving. In a passive system, these are replaced by 'splitters'—simple pieces of glass that divide one light beam into many. This makes the network much cheaper to build and maintain because there are no electronic parts that can burn out or need power in the middle of the network. It is the standard technology for modern high-speed home fiber internet (FTTH).",
+    "synonyms": [
+      "unpowered fiber",
+      "light-based networking"
+    ],
+    "antonyms": [
+      "active optical"
+    ],
+    "nounForm": "passive optical",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive optical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Telecommunications and networking",
+    "usageTip": "Consider passive optical designs for long-distance data transmission to save on energy and maintenance costs.",
+    "commonMistake": "Thinking 'passive' means slower; passive optical networks are actually capable of extremely high speeds.",
+    "collocations": [
+      "passive optical splitter",
+      "passive optical component",
+      "passive optical technology"
+    ]
+  },
+  {
+    "word": "Passive optical",
+    "meaning": "Relating to fiber-optic networks that do not require powered electronic components between the user and the provider.",
+    "shortMeaning": "unpowered fiber network",
+    "example": "Our office switched to a passive optical network for faster internet.",
+    "example2": "Passive optical cabling reduces the cost of network maintenance.",
+    "example3": "The system uses passive optical splitters to distribute signals.",
+    "Explanation": "In telecommunications, 'passive optical' refers to network architectures like PON (Passive Optical Network). It is 'passive' because the splitters used to route the light signals do not require electricity to operate, which saves power and reduces maintenance needs. This technology is widely used in delivering high-speed internet to homes and offices. It is an efficient way to structure fiber-optic distribution. The term is common in ISP environments and enterprise networking discussions.",
+    "synonyms": [
+      "PON",
+      "unpowered optical"
+    ],
+    "antonyms": [
+      "active optical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive optical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Telecommunications, networking, fiber optics",
+    "usageTip": "Always link with 'network' or 'cabling' for clarity.",
+    "commonMistake": "Confusing it with active optical systems that use powered switches.",
+    "collocations": [
+      "passive optical network",
+      "passive optical splitter",
+      "passive optical infrastructure"
+    ]
+  }
+]

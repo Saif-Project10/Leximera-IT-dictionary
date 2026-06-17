@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Computational",
+    "meaning": "Relating to the use of computers or calculation.",
+    "shortMeaning": "related to computation",
+    "example": "Computational linguistics uses computers to analyze language.",
+    "example2": "The problem requires significant computational power.",
+    "example3": "He studies computational biology.",
+    "Explanation": "'Computational' is an adjective describing anything related to computation, calculation, or computer processing. It's used to form compound terms in scientific fields: computational physics, computational chemistry, computational linguistics, etc. It suggests the use of algorithms, models, and computer simulations to solve problems. It's become increasingly important as computers are used to model complex systems in science, engineering, and social sciences. It implies a quantitative, algorithmic approach to problem-solving as opposed to purely theoretical or experimental methods.",
+    "synonyms": [
+      "computing-related",
+      "calculation-based",
+      "algorithmic"
+    ],
+    "antonyms": [
+      "theoretical",
+      "experimental",
+      "manual"
+    ],
+    "nounForm": "computation",
+    "verbForm": "compute",
+    "adjectiveForm": "computational",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, scientific research, engineering, data analysis",
+    "usageTip": "Usually appears before another noun: 'computational method', 'computational resources', 'computational complexity'.",
+    "commonMistake": "Using 'computer' instead of 'computational'. 'Computational' is more abstract, relating to the process; 'computer' refers to the machine.",
+    "collocations": [
+      "computational power",
+      "computational method",
+      "computational thinking"
+    ]
+  },
+  {
+    "word": "Computational",
+    "meaning": "Relating to the use of computers, mathematical algorithms, or processing data",
+    "shortMeaning": "computer-based",
+    "example": "The system requires significant computational power to render 3D models in real-time.",
+    "example2": "She is studying computational linguistics to build better language translation tools.",
+    "example3": "We ran a computational simulation to predict how the server would handle high traffic.",
+    "Explanation": "The word 'Computational' is an adjective relating to calculations, algorithms, or the act of processing data via computer. It appears in fields like 'computational biology', 'computational math', and 'computational linguistics'. It highlights that the work relies on heavy machine processing rather than just manual logic. Use it to describe tasks that demand high CPU usage or complex mathematical problem-solving. Do not confuse it with 'computerized', which just means the process is now on a computer instead of paper.",
+    "synonyms": [
+      "algorithmic",
+      "mathematical",
+      "data-processing"
+    ],
+    "antonyms": [
+      "manual",
+      "analog",
+      "intuitive"
+    ],
+    "nounForm": "computation",
+    "verbForm": "compute",
+    "adjectiveForm": "computational",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI research, data science, algorithm optimization",
+    "usageTip": "Use 'computational' when the primary focus is on the math or processing power behind a task.",
+    "commonMistake": "Using 'computational' when you mean 'automated'.",
+    "collocations": [
+      "computational power",
+      "computational linguistics",
+      "computational complexity"
+    ]
+  }
+]

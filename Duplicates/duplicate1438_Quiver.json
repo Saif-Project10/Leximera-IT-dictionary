@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Quiver",
+    "meaning": "To shake with a slight, rapid motion; a slight trembling movement or sound.",
+    "shortMeaning": "shake, tremble",
+    "example": "The leaves quiver in the breeze.",
+    "example2": "His voice had a quiver of excitement.",
+    "example3": "She felt a quiver of fear down her spine.",
+    "Explanation": "'Quiver' can be a verb or a noun. As a verb, it means to shake with small, fast movements, often due to cold, fear, or excitement. As a noun, it is the act or feeling of quivering. It is a more poetic and specific word than 'shake' or 'tremble', often used in writing to create a vivid image of delicate movement or emotion. It can also mean a case for holding arrows, which is a completely different meaning derived from a different origin. Context usually makes the intended meaning clear.",
+    "synonyms": [
+      "tremble",
+      "shake",
+      "shiver",
+      "vibrate"
+    ],
+    "antonyms": [
+      "steady",
+      "be still"
+    ],
+    "nounForm": "quiver (tremble; also arrow case)",
+    "verbForm": "quiver",
+    "adjectiveForm": "quivering",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Describing emotions, nature, cold, fear",
+    "usageTip": "Often used to describe subtle shaking, not violent movement.",
+    "commonMistake": "Confusing the two noun meanings: the trembling and the arrow holder.",
+    "collocations": [
+      "quiver with fear",
+      "a quiver in the voice",
+      "quiver of anticipation"
+    ]
+  },
+  {
+    "word": "Quiver",
+    "meaning": "To shake with a slight, rapid, trembling movement",
+    "shortMeaning": "shake slightly",
+    "example": "The needle on the old analog gauge began to quiver under pressure.",
+    "example2": "You can see the text link quiver slightly due to a CSS animation glitch.",
+    "example3": "His voice started to quiver during the stressful presentation.",
+    "Explanation": "The word 'quiver' means to tremble or shake with tiny, quick movements. While primarily used in descriptive general English for physical movements or emotional tension, it can occasionally apply to visual anomalies in frontend development. For instance, an unstable UI element or a shaky vibration effect can be said to quiver. It indicates a delicate or high-frequency type of shaking movement.",
+    "synonyms": [
+      "tremble",
+      "shiver",
+      "vibrate"
+    ],
+    "antonyms": [
+      "remain still",
+      "stabilize"
+    ],
+    "nounForm": "quiver",
+    "verbForm": "quiver",
+    "adjectiveForm": "quivering",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Descriptive writing, animations, UI behavior, and human emotions",
+    "usageTip": "Use 'quiver' to describe high-frequency, delicate vibrations or movements.",
+    "commonMistake": "Spelling it as 'quever' or using it for heavy, violent shaking.",
+    "collocations": [
+      "quiver with excitement",
+      "slight quiver",
+      "quiver animation"
+    ]
+  }
+]

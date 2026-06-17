@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Fog",
+    "meaning": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface, obscuring visibility",
+    "shortMeaning": "thick mist",
+    "example": "Dense fog made driving dangerous.",
+    "example2": "The valley was covered in a blanket of fog.",
+    "example3": "My mind was in a fog after the long meeting.",
+    "Explanation": "'Fog' is a noun (and verb) referring to a weather condition where visibility is severely reduced by suspended water droplets. It is thicker than mist. Metaphorically, it describes a state of confusion or obscurity ('brain fog'). The verb 'to fog' means to become covered with condensation or to confuse. Fog is often associated with mystery, danger (on roads), and a blurring of reality. It's a common natural phenomenon that impacts travel and mood, and is a frequent motif in literature and film.",
+    "synonyms": [
+      "mist",
+      "haze",
+      "smog",
+      "vapor"
+    ],
+    "antonyms": [
+      "clarity",
+      "clearness"
+    ],
+    "nounForm": "fog",
+    "verbForm": "fog",
+    "adjectiveForm": "foggy",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Weather, driving, mental state, photography (fogged lens)",
+    "usageTip": "Use 'fog' for the weather phenomenon. Use 'in a fog' to mean confused or not thinking clearly.",
+    "commonMistake": "Confusing 'fog' with 'frog' (the animal). They are spelled differently.",
+    "collocations": [
+      "dense fog",
+      "patchy fog",
+      "brain fog"
+    ]
+  },
+  {
+    "word": "Fog",
+    "meaning": "A state of confusion or a computing model where data is processed close to the user",
+    "shortMeaning": "confusion or edge computing",
+    "example": "I had a bit of brain fog and forgot the password.",
+    "example2": "Fog computing reduces the time it takes for data to reach the server.",
+    "example3": "The team worked through the fog of requirements to reach a plan.",
+    "Explanation": "In general English, fog means being unable to see or think clearly. However, in IT, 'Fog Computing' is a specific term. It refers to a decentralized infrastructure where data, compute, and storage are located between the 'Cloud' and the user (the 'Edge'). This helps in processing data faster for IoT devices. It is called 'fog' because it is a cloud that is closer to the ground (the user).",
+    "synonyms": [
+      "mist",
+      "confusion",
+      "decentralized computing"
+    ],
+    "antonyms": [
+      "clarity",
+      "cloud computing (centralized)"
+    ],
+    "nounForm": "fog",
+    "verbForm": "N/A",
+    "adjectiveForm": "foggy",
+    "partOfSpeech": "noun",
+    "commonContext": "Mental state or IoT network architecture",
+    "usageTip": "Use 'Fog computing' when talking about local data processing for IoT.",
+    "commonMistake": "Thinking 'Fog' is just another word for 'Cloud'; Fog is specifically for local/edge processing.",
+    "collocations": [
+      "brain fog",
+      "fog computing",
+      "dense fog"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Auditory",
+    "meaning": "Relating to the sense of hearing.",
+    "shortMeaning": "related to hearing",
+    "example": "Birds have excellent auditory abilities.",
+    "example2": "The lecture included both visual and auditory materials.",
+    "example3": "Auditory processing disorder affects how sounds are interpreted.",
+    "Explanation": "'Auditory' is an adjective that specifically describes anything related to hearing or the ears. It's a technical term often used in medical, scientific, and educational contexts. It differs from 'audio', which refers to sound technology or recorded sound. 'Auditory' focuses on the biological and perceptual aspects of hearing. It's commonly paired with words like 'system', 'cortex', 'processing', or 'learning' to describe hearing-related functions.",
+    "synonyms": [
+      "aural",
+      "acoustic",
+      "hearing-related"
+    ],
+    "antonyms": [
+      "visual",
+      "tactile",
+      "olfactory"
+    ],
+    "nounForm": "audition",
+    "verbForm": "N/A",
+    "adjectiveForm": "auditory",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, biology, education, psychology",
+    "usageTip": "Use 'auditory' for biological hearing; use 'audio' for sound technology.",
+    "commonMistake": "Using 'auditory' when 'audio' is meant. 'Audio equipment' not 'auditory equipment'.",
+    "collocations": [
+      "auditory system",
+      "auditory cortex",
+      "auditory learning"
+    ]
+  },
+  {
+    "word": "Auditory",
+    "meaning": "Relating to the sense of hearing, sound processing, or ears",
+    "shortMeaning": "relating to hearing",
+    "example": "The application provides auditory alerts to notify blind users of system errors.",
+    "example2": "The software engineer integrated an auditory feedback system into the video game engine.",
+    "example3": "Some users have a stronger auditory learning style compared to reading text definitions.",
+    "Explanation": "The word 'auditory' describes anything connected to sound, listening, and hearing systems. In computer accessibility and application design, adding auditory cues (like beeps, spoken words, or alarms) ensures that visually impaired individuals can navigate software menus effortlessly. The noun form is 'audio' or 'audition', and there is no direct verb form. It helps build multi-sensory application software layouts.",
+    "synonyms": [
+      "audio",
+      "acoustic",
+      "hearing-related"
+    ],
+    "antonyms": [
+      "visual",
+      "tactile"
+    ],
+    "nounForm": "audio / audition",
+    "verbForm": "N/A",
+    "adjectiveForm": "auditory",
+    "partOfSpeech": "adjective",
+    "commonContext": "Accessibility tools, video game development, audio UI notifications",
+    "usageTip": "Use 'auditory' when discussing system features that communicate information via sound design.",
+    "commonMistake": "Confusing 'auditory' with 'auditorial'; auditory means sound-based, while auditorial means inspection-based.",
+    "collocations": [
+      "auditory feedback",
+      "auditory alerts",
+      "auditory stimulus"
+    ]
+  }
+]

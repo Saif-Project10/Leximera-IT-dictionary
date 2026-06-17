@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Non-local",
+    "meaning": "Not belonging to or restricted to a particular local area; from elsewhere",
+    "shortMeaning": "not local, from elsewhere",
+    "example": "The restaurant hires non-local chefs for diversity.",
+    "example2": "The problem has non-local causes that we must address.",
+    "example3": "In physics, a non-local effect implies instantaneous influence.",
+    "Explanation": "'Non-local' is an adjective used to describe something that originates from, affects, or exists outside a defined local area. This area could be geographic (non-local news), organizational (non-local staff), or even conceptual in physics (non-local quantum entanglement). It emphasizes the external or broader scope of something. It is often used to contrast with 'local', highlighting distance or difference in origin. The hyphen is standard.",
+    "synonyms": [
+      "distant",
+      "external",
+      "remote"
+    ],
+    "antonyms": [
+      "local",
+      "native",
+      "indigenous"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-local",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, physics, community affairs, travel",
+    "usageTip": "Use to explicitly contrast something with what is considered local.",
+    "commonMistake": "Using it to mean 'international'. Non-local can simply mean from the next town over.",
+    "collocations": [
+      "non-local residents",
+      "non-local influences",
+      "non-local variable"
+    ]
+  },
+  {
+    "word": "Non-local",
+    "meaning": "Not confined to a specific place or nearby memory space",
+    "shortMeaning": "not local",
+    "example": "The variable is non-local and accessible from other modules.",
+    "example2": "This is a non-local reference to a global configuration.",
+    "example3": "Non-local memory access is slower than cache.",
+    "Explanation": "The term 'non-local' describes data or processes that exist outside the current immediate scope, function, or memory area. In programming, a 'non-local' variable is one that is defined in a parent scope but accessed within a nested scope. In networking or distributed systems, it refers to data stored on a different machine or remote database. It signifies that you must look beyond the immediate local environment to find or change the value.",
+    "synonyms": [
+      "global",
+      "remote",
+      "distributed"
+    ],
+    "antonyms": [
+      "local",
+      "nearby"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-local",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, networking, memory management",
+    "usageTip": "Use to indicate scope or physical location.",
+    "commonMistake": "Confusing 'non-local' with 'external'; non-local specifically refers to scope boundaries.",
+    "collocations": [
+      "non-local variable",
+      "non-local reference",
+      "non-local access"
+    ]
+  }
+]

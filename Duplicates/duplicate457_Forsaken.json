@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Forsaken",
+    "meaning": "Abandoned or deserted completely; left permanently",
+    "shortMeaning": "completely abandoned",
+    "example": "He felt forsaken by his friends in his time of need.",
+    "example2": "They explored a forsaken mining town.",
+    "example3": "God, why have you forsaken me?",
+    "Explanation": "The adjective/verb (past participle) 'forsaken' is a literary and emotional synonym for 'abandoned' or 'deserted'. It carries a strong connotation of being left alone in a time of need, often implying betrayal, loneliness, or desolation. It is more dramatic and less common in everyday speech than 'left' or 'abandoned'. The verb form is 'forsake'. It's often used in religious, poetic, or highly descriptive contexts.",
+    "synonyms": [
+      "abandoned",
+      "deserted",
+      "renounced",
+      "left behind"
+    ],
+    "antonyms": [
+      "cherished",
+      "supported",
+      "stood by",
+      "embraced"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "forsake",
+    "adjectiveForm": "forsaken",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Literature, poetry, religion, dramatic description",
+    "usageTip": "Use for emphasis in writing or speech to convey deep abandonment or isolation.",
+    "commonMistake": "Using it in casual conversation where 'left' or 'abandoned' would be more natural.",
+    "collocations": [
+      "god-forsaken place",
+      "forsaken by all",
+      "felt forsaken"
+    ]
+  },
+  {
+    "word": "Forsaken",
+    "meaning": "Abandoned or deserted",
+    "shortMeaning": "abandoned",
+    "example": "The old database was forsaken for a more efficient solution.",
+    "example2": "He felt forsaken after the team stopped using his module.",
+    "example3": "The project was forsaken due to lack of funding.",
+    "Explanation": "The word 'forsaken' is a literary term for being left behind or abandoned. In a technical or work context, it is rarely used; words like 'abandoned' or 'deprecated' are more common. However, if you want to add emotional weight or describe something that was once important but is now completely ignored, 'forsaken' works. It implies a sense of loss or being given up on. Avoid it in technical documentation, where clear, precise, and standard terms are preferred.",
+    "synonyms": [
+      "abandoned",
+      "deserted",
+      "left behind"
+    ],
+    "antonyms": [
+      "kept",
+      "cherished",
+      "maintained"
+    ],
+    "nounForm": "forsakenness",
+    "verbForm": "forsake",
+    "adjectiveForm": "forsaken",
+    "partOfSpeech": "adjective",
+    "commonContext": "Rare in IT; used in narrative or descriptive writing",
+    "usageTip": "Use 'forsaken' only when you want to add emotional emphasis to abandonment.",
+    "commonMistake": "Using 'forsaken' in formal technical documentation (use 'deprecated').",
+    "collocations": [
+      "forsaken project",
+      "felt forsaken"
+    ]
+  }
+]

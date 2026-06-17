@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Synchronous",
+    "meaning": "Happening or existing at the same time.",
+    "shortMeaning": "happening at the same time",
+    "example": "The dancers' movements were perfectly synchronous.",
+    "example2": "We offer both synchronous (live) and asynchronous (recorded) online classes.",
+    "example3": "The clocks were kept synchronous via a radio signal.",
+    "Explanation": "Synchronous describes events that are coordinated in time. They occur simultaneously or in a predictable, locked-step sequence. In technology, synchronous communication happens in real-time (like a phone call), unlike asynchronous (like email). In engineering, synchronous motors run at a speed constant with the frequency of the power supply. The word emphasizes timing and coordination. It's the opposite of 'asynchronous'. It's a more technical term than 'simultaneous', often used in computing, telecommunications, and physics. The noun is 'synchrony'.",
+    "synonyms": [
+      "simultaneous",
+      "concurrent",
+      "coincident",
+      "in sync"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "out of sync",
+      "sequential"
+    ],
+    "nounForm": "synchrony",
+    "verbForm": "synchronize",
+    "adjectiveForm": "synchronous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, online learning, engineering, dance",
+    "usageTip": "In education, 'synchronous learning' means live classes; 'asynchronous' means on your own schedule.",
+    "commonMistake": "Pronouncing it as 'sin-kro-nus'. The first syllable is 'syn' (like 'sin').",
+    "collocations": [
+      "synchronous communication",
+      "synchronous motor",
+      "synchronous learning",
+      "synchronous orbit"
+    ]
+  },
+  {
+    "word": "Synchronous",
+    "meaning": "Occurring at the same time or requiring a response before continuing",
+    "shortMeaning": "blocking",
+    "example": "The API call is synchronous, so the UI waits for it.",
+    "example2": "We prefer asynchronous over synchronous processing for speed.",
+    "example3": "Synchronous operations are easier to debug.",
+    "Explanation": "In programming, 'synchronous' means an operation happens one step at a time; the system waits for one task to finish before starting the next. This is often called 'blocking' behavior. While it is easier to write, it can make applications feel slow because the user has to wait. It is the opposite of 'asynchronous' (non-blocking) programming. Understanding this difference is essential for building modern, responsive web applications.",
+    "synonyms": [
+      "blocking",
+      "sequential"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "non-blocking"
+    ],
+    "nounForm": "synchronicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchronous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, API design, performance",
+    "usageTip": "Use when explaining why a program might seem to 'freeze' while loading.",
+    "commonMistake": "Using synchronous calls for heavy tasks in the UI thread.",
+    "collocations": [
+      "synchronous call",
+      "synchronous operation",
+      "synchronous processing"
+    ]
+  },
+  {
+    "word": "Synchronous",
+    "meaning": "Occurring at the same time or requiring a response before proceeding",
+    "shortMeaning": "simultaneous",
+    "example": "Synchronous communication requires both parties to be online.",
+    "example2": "The function call is synchronous, meaning it blocks further execution.",
+    "example3": "Synchronous data transfer is faster but less flexible.",
+    "Explanation": "In IT, 'synchronous' describes processes that are locked together in time. If a task is synchronous, the system must wait for one part to finish before starting the next. This contrasts with 'asynchronous', where tasks can run independently. It is critical in programming and network design, as synchronous operations can block a thread but are often easier to debug. Understanding the difference is vital for writing performant, non-blocking code.",
+    "synonyms": [
+      "simultaneous",
+      "timed",
+      "blocking"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "non-blocking",
+      "independent"
+    ],
+    "nounForm": "synchrony",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchronous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, network communications, APIs",
+    "usageTip": "Use to describe 'blocking' or 'waiting' operations.",
+    "commonMistake": "Confusing it with 'synchronized'; synchronous is a type of communication.",
+    "collocations": [
+      "synchronous communication",
+      "synchronous call",
+      "synchronous data"
+    ]
+  }
+]

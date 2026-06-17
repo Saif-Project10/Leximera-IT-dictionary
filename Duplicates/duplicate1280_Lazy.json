@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Lazy",
+    "meaning": "Unwilling to work or use energy; characterized by a lack of effort",
+    "shortMeaning": "unwilling to work, idle",
+    "example": "He was too lazy to get out of bed.",
+    "example2": "A lazy afternoon spent reading.",
+    "example3": "That's a lazy answer—you didn't even try.",
+    "Explanation": "'Lazy' is a common adjective with a negative connotation when describing a person's character, implying idleness and a lack of motivation. However, it can have a neutral or even positive meaning when describing a relaxed, leisurely pace (a lazy day). It can also criticize work as careless or done with minimal effort (lazy writing). The noun is 'laziness'. While sometimes seen as a vice, the concept of 'laziness' is also explored in productivity and efficiency (working smarter, not harder). It's a simple but loaded word.",
+    "synonyms": [
+      "idle",
+      "slothful",
+      "indolent",
+      "inactive",
+      "lethargic"
+    ],
+    "antonyms": [
+      "hard-working",
+      "industrious",
+      "energetic",
+      "diligent"
+    ],
+    "nounForm": "laziness",
+    "verbForm": "laze",
+    "adjectiveForm": "lazy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing people's work ethic, relaxed days, quality of work",
+    "usageTip": "Use 'lazy' to criticize lack of effort, or neutrally to describe a relaxed, unhurried atmosphere.",
+    "commonMistake": "Using 'lazy' to describe a slow-moving object. It's primarily for people, animals, or the quality of work.",
+    "collocations": [
+      "lazy Sunday",
+      "lazy eye",
+      "got lazy"
+    ]
+  },
+  {
+    "word": "Lazy",
+    "meaning": "Operating in a way that delays processing until it is needed",
+    "shortMeaning": "delayed processing",
+    "example": "The system uses lazy evaluation to save memory.",
+    "example2": "Lazy loading ensures images load only when you scroll.",
+    "example3": "Lazy initialization improves initial startup performance.",
+    "Explanation": "In computing, 'lazy' refers to a programming strategy where calculations or data loading are postponed until the result is explicitly needed. This is highly effective for optimization. For example, 'lazy loading' in web development keeps images from loading until the user reaches that section of the page, making the site feel much faster. While 'lazy' in normal English means unproductive, in IT, it is a smart design choice.",
+    "synonyms": [
+      "on-demand",
+      "deferred",
+      "delayed"
+    ],
+    "antonyms": [
+      "eager",
+      "immediate",
+      "proactive"
+    ],
+    "nounForm": "laziness",
+    "verbForm": "N/A",
+    "adjectiveForm": "lazy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance optimization, programming",
+    "usageTip": "Use this to describe performance-boosting techniques.",
+    "commonMistake": "Thinking 'lazy' in programming is a bad thing.",
+    "collocations": [
+      "lazy loading",
+      "lazy evaluation",
+      "lazy initialization"
+    ]
+  }
+]

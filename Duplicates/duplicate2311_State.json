@@ -1,0 +1,61 @@
+[
+  {
+    "word": "State",
+    "meaning": "The condition or status of a system or process at a specific moment",
+    "shortMeaning": "current condition",
+    "example": "The application maintains the state of the user login.",
+    "example2": "The system state was saved before the update.",
+    "example3": "Changing the state of the button triggers an event.",
+    "Explanation": "In IT, state refers to the data or conditions that describe a system at any given point in time. It is crucial for web development, as 'stateless' applications behave differently than those that track state. Management of state is a core challenge in modern frontend frameworks. If an application 'remembers' your choices, it is tracking state. Proper state handling ensures that the user experience is consistent and reliable.",
+    "synonyms": [
+      "status",
+      "condition",
+      "stage"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "state",
+    "verbForm": "state",
+    "adjectiveForm": "stated",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web development, programming, system architecture",
+    "usageTip": "Use 'state' to talk about how a system remembers data between actions.",
+    "commonMistake": "Confusing 'state' with 'static' data that never changes.",
+    "collocations": [
+      "global state",
+      "state management",
+      "current state"
+    ]
+  },
+  {
+    "word": "State",
+    "meaning": "The condition, configuration, or status of a system, application, component, or data at a specific moment",
+    "shortMeaning": "system condition",
+    "example": "The application saves its current state before closing down so it can restore it later.",
+    "example2": "React components re-render whenever their internal state changes.",
+    "example3": "The server entered an error state after trying to process the corrupt data file.",
+    "Explanation": "The word 'state' is a critical concept in computer science that describes the exact condition or data values of a system at a given point in time. Applications manage state to remember user preferences, login statuses, or shopping cart items. In front-end frameworks like React or Angular, state management dictates how a user interface behaves and updates. If a system becomes stateless, it does not save any previous interactions. Understanding state helps programmers debug unexpected application behaviors.",
+    "synonyms": [
+      "condition",
+      "status",
+      "configuration",
+      "mode"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "state",
+    "verbForm": "state",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "State management, application logic, server status",
+    "usageTip": "Use 'state' when explaining what data an application is holding in memory at a particular microsecond.",
+    "commonMistake": "Confusing 'state' with 'statement', which is a single line of executable code.",
+    "collocations": [
+      "current state",
+      "state management",
+      "initial state"
+    ]
+  }
+]

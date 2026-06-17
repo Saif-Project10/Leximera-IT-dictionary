@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Transcriptional",
+    "meaning": "Relating to the process of copying information from one form to another",
+    "shortMeaning": "related to copying",
+    "example": "The system logs transcriptional data for audit purposes.",
+    "example2": "Transcriptional analysis shows how the information was transferred.",
+    "example3": "The process ensures transcriptional accuracy across all records.",
+    "Explanation": "The term transcriptional relates to a transcript or the act of transcribing. In general IT, it refers to systems that track, log, or record the steps taken during a process. It is often used in data management or system logs to keep a history of events. The focus is on the faithful representation of original data in a new format or location. Accurate transcriptional records are vital for debugging and maintaining audit trails.",
+    "synonyms": [
+      "recorded",
+      "documented",
+      "copied"
+    ],
+    "antonyms": [
+      "original",
+      "unrecorded"
+    ],
+    "nounForm": "transcript",
+    "verbForm": "transcribe",
+    "adjectiveForm": "transcriptional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, logging, documentation",
+    "usageTip": "Use this when discussing the recording or logging of process information.",
+    "commonMistake": "Using it interchangeably with 'translated' in coding contexts.",
+    "collocations": [
+      "transcriptional record",
+      "transcriptional data",
+      "transcriptional accuracy"
+    ]
+  },
+  {
+    "word": "Transcriptional",
+    "meaning": "Relating to the process of copying information, especially genetic data or speech to text",
+    "shortMeaning": "related to copying",
+    "example": "The transcriptional accuracy of the software is very high.",
+    "example2": "The study focused on transcriptional changes in the cell.",
+    "example3": "He managed the transcriptional process for the medical records.",
+    "Explanation": "The word 'transcriptional' refers to the act of transcribing, which is creating a written record of something spoken or copying data from one format to another. In biology, it refers to DNA copying into RNA, while in IT, it often refers to speech-to-text or data logging. It is a technical adjective. It implies a faithful reproduction of source information into a different medium or system.",
+    "synonyms": [
+      "copying",
+      "recorded",
+      "transcribed"
+    ],
+    "antonyms": [
+      "original",
+      "unrecorded"
+    ],
+    "nounForm": "transcription",
+    "verbForm": "transcribe",
+    "adjectiveForm": "transcriptional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Biology, linguistics, data logging, speech-to-text",
+    "usageTip": "Use 'transcriptional' when describing the mechanism or process of copying data.",
+    "commonMistake": "Confusing it with 'translational', which involves changing languages/forms.",
+    "collocations": [
+      "transcriptional accuracy",
+      "transcriptional process",
+      "transcriptional analysis"
+    ]
+  }
+]

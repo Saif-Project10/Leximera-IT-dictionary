@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Serving",
+    "meaning": "A portion of food for one person; the act of giving food or help",
+    "shortMeaning": "portion, helping",
+    "example": "This cake contains about eight servings.",
+    "example2": "She is serving coffee to the guests.",
+    "example3": "He completed a serving of community service.",
+    "Explanation": "'Serving' has two main roles. As a noun, it's a standard amount of food (a helping). As the present participle of the verb 'serve', it means performing the action of serving—which can be giving food, working for, or being useful. It's a common word in cooking, sports (tennis serve), and descriptions of duty. The context usually makes it clear whether it's a noun (portion) or verb (action).",
+    "synonyms": [
+      "portion",
+      "helping",
+      "dispensing"
+    ],
+    "antonyms": [
+      "receiving",
+      "consuming"
+    ],
+    "nounForm": "serving",
+    "verbForm": "serve",
+    "adjectiveForm": "serving",
+    "partOfSpeech": "noun, verb (present participle)",
+    "commonContext": "Nutrition, dining, tennis, customer service",
+    "usageTip": "As a noun, check food labels for 'servings per container'. As a verb, it describes an ongoing action.",
+    "commonMistake": "Confusing 'serving' (portion) with 'service' (the act of serving or a system).",
+    "collocations": [
+      "serving size",
+      "serving suggestion",
+      "currently serving"
+    ]
+  },
+  {
+    "word": "Serving",
+    "meaning": "The act of providing content, data, or requests to users",
+    "shortMeaning": "providing",
+    "example": "The server is serving the static files.",
+    "example2": "We are serving dynamic content via this API.",
+    "example3": "The speed of serving images is critical for UX.",
+    "Explanation": "In tech, 'serving' refers to the action of delivering content or data to a user or another computer. A web server 'serves' HTML pages to your browser. An API 'serves' data to an app. It is the primary job of a server in a network. It is not about 'waiting on' people, but about transmitting information or resources reliably. Use this word when discussing how information is delivered across a network. It is a core concept in client-server communication.",
+    "synonyms": [
+      "delivering",
+      "providing",
+      "hosting"
+    ],
+    "antonyms": [
+      "receiving",
+      "consuming"
+    ],
+    "nounForm": "service",
+    "verbForm": "serve",
+    "adjectiveForm": "serving",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Web servers, API development",
+    "usageTip": "Use when describing how content reaches the user.",
+    "commonMistake": "Using 'sending' when 'serving' is more accurate for web resources.",
+    "collocations": [
+      "serving content",
+      "serving files",
+      "serving requests"
+    ]
+  },
+  {
+    "word": "Serving",
+    "meaning": "The act of providing a resource, data, or content to a user or another system.",
+    "shortMeaning": "providing data",
+    "example": "The primary web server is serving the static files.",
+    "example2": "Are you serving content via HTTPS or HTTP?",
+    "example3": "The database is serving thousands of queries per second.",
+    "Explanation": "The word 'serving' describes the active process of responding to requests and delivering requested information (like files, data, or pages) to the client. The base verb is 'serve'. In networking and web development, a server is 'serving' when it processes a request and sends back a response. It is a fundamental term for describing how data flows from servers to users. A high 'serving' load can impact system latency.",
+    "synonyms": [
+      "providing",
+      "delivering",
+      "hosting"
+    ],
+    "antonyms": [
+      "receiving",
+      "requesting"
+    ],
+    "nounForm": "service",
+    "verbForm": "serve",
+    "adjectiveForm": "serving",
+    "partOfSpeech": "verb (gerund) / adjective",
+    "commonContext": "Web servers, networking, data delivery",
+    "usageTip": "Use 'serving' to describe the act of delivering data.",
+    "commonMistake": "Confusing the server's role of 'serving' with the client's role of 'requesting'.",
+    "collocations": [
+      "serving content",
+      "serving requests",
+      "currently serving"
+    ]
+  }
+]

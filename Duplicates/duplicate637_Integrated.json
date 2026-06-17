@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Integrated",
+    "meaning": "Combined to form a whole; with different parts working together well.",
+    "shortMeaning": "combined into a whole",
+    "example": "The school has an integrated curriculum connecting all subjects.",
+    "example2": "The new software is fully integrated with our email system.",
+    "example3": "They live in a racially integrated neighborhood.",
+    "Explanation": "Integrated describes things that have been successfully combined from separate parts into a unified, cohesive system. It implies harmony, cooperation, and seamless function. In technology, integrated systems share data and functions. In society, it refers to groups (racial, social) mixing without segregation. The word comes from the verb 'integrate'. An integrated approach is often more efficient than a fragmented one. The process of achieving this state is 'integration'. It is generally a positive term suggesting good design or social progress.",
+    "synonyms": [
+      "combined",
+      "unified",
+      "merged",
+      "incorporated",
+      "assimilated"
+    ],
+    "antonyms": [
+      "separated",
+      "segregated",
+      "disconnected",
+      "fragmented"
+    ],
+    "nounForm": "integration",
+    "verbForm": "integrate",
+    "adjectiveForm": "integrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, society, education, business systems",
+    "usageTip": "Often used with 'with' or 'into' (integrated with the network, integrated into society).",
+    "commonMistake": "Confusing 'integrated' with 'intelligent'. Integrated means combined; intelligent means smart.",
+    "collocations": [
+      "fully integrated",
+      "integrated system",
+      "integrated circuit",
+      "socially integrated"
+    ]
+  },
+  {
+    "word": "Integrated",
+    "meaning": "Combined and operating together as a single unit",
+    "shortMeaning": "Combined/unified",
+    "example": "The system features an integrated security module.",
+    "example2": "We need an integrated approach to data management.",
+    "example3": "The plugin is now integrated with the main app.",
+    "Explanation": "The word 'integrated' means that different components or systems have been combined into a unified, functional whole. It is an adjective. In modern IT, integration is key; APIs, plugins, and unified dashboards allow disparate tools to work together. It implies that the components are not just side-by-side but are communicating and sharing data seamlessly. It is a fundamental concept in software engineering.",
+    "synonyms": [
+      "unified",
+      "combined",
+      "connected"
+    ],
+    "antonyms": [
+      "separate",
+      "disconnected",
+      "isolated"
+    ],
+    "nounForm": "integration",
+    "verbForm": "integrate",
+    "adjectiveForm": "integrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, systems engineering",
+    "usageTip": "Use when systems work together as one.",
+    "commonMistake": "Confusing 'integrated' with 'integral'.",
+    "collocations": [
+      "integrated system",
+      "fully integrated",
+      "integrated approach"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Unitary",
+    "meaning": "Forming a single or uniform entity",
+    "shortMeaning": "single-part",
+    "example": "The architecture is based on a unitary design pattern.",
+    "example2": "A unitary system is easier to manage but harder to scale.",
+    "example3": "We moved from a distributed to a unitary database structure.",
+    "Explanation": "In IT, 'unitary' describes a system that is monolithic or unified into one single block, rather than a collection of distributed parts (like microservices). While a unitary system can be simpler to build and manage initially, it can become a bottleneck as the system grows. It is a common term used in discussions about system architecture. You will hear this when architects debate the pros and cons of 'monolithic' versus 'distributed' (or 'modular') design. It implies a single, cohesive, and potentially non-partitioned structure.",
+    "synonyms": [
+      "monolithic",
+      "single",
+      "unified"
+    ],
+    "antonyms": [
+      "distributed",
+      "modular",
+      "partitioned"
+    ],
+    "nounForm": "unit",
+    "verbForm": "N/A",
+    "adjectiveForm": "unitary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems architecture, software design",
+    "usageTip": "Use this to describe a monolithic system.",
+    "commonMistake": "Confusing 'unitary' with 'unit-tested'.",
+    "collocations": [
+      "unitary design",
+      "unitary architecture"
+    ]
+  },
+  {
+    "word": "Unitary",
+    "meaning": "Forming a single or uniform entity.",
+    "shortMeaning": "single-part",
+    "example": "The architecture is based on a unitary structure.",
+    "example2": "A unitary system is simpler to manage than a distributed one.",
+    "example3": "The design follows a unitary approach to component management.",
+    "Explanation": "The word 'unitary' is used to describe something that acts as a single, indivisible unit. In IT, this can refer to a 'monolithic' or centralized system where everything is under one structure. While simpler to understand, unitary systems can be hard to scale compared to modular ones. It is often used to describe systems that emphasize simplicity, cohesion, and central control rather than spreading logic across many independent parts.",
+    "synonyms": [
+      "single",
+      "monolithic",
+      "unified"
+    ],
+    "antonyms": [
+      "multiple",
+      "distributed",
+      "modular"
+    ],
+    "nounForm": "unitariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unitary",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture",
+    "usageTip": "Use to describe a centralized or monolithic design.",
+    "commonMistake": "Confusing it with 'unit tested'.",
+    "collocations": [
+      "unitary structure",
+      "unitary system",
+      "unitary approach"
+    ]
+  }
+]

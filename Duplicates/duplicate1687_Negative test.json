@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Negative test",
+    "meaning": "A test designed to ensure a system handles invalid input or unexpected behavior correctly",
+    "shortMeaning": "invalid input testing",
+    "example": "The team performed a negative test by entering letters into the age field.",
+    "example2": "A negative test ensures that the application doesn't crash when it fails.",
+    "example3": "Every software release requires at least one comprehensive negative test.",
+    "Explanation": "A negative test is a procedure where testers intentionally provide incorrect or invalid data to an application. The goal is to verify that the system can gracefully handle errors rather than crashing or producing weird results. It checks the 'negative' path of the software logic. This ensures the software is robust and secure against accidental or malicious misuse. Effective negative testing identifies weaknesses in data validation and error-handling routines.",
+    "synonyms": [
+      "failure testing",
+      "error path testing",
+      "invalid testing"
+    ],
+    "antonyms": [
+      "positive test",
+      "happy path testing"
+    ],
+    "nounForm": "negative test",
+    "verbForm": "negative test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / phrase",
+    "commonContext": "Software quality assurance and debugging",
+    "usageTip": "Use negative tests to verify that error messages are helpful and accurate.",
+    "commonMistake": "Only performing positive tests and assuming the software is bug-free.",
+    "collocations": [
+      "run a negative test",
+      "negative test scenario",
+      "automated negative test"
+    ]
+  },
+  {
+    "word": "Negative test",
+    "meaning": "A software test designed to ensure that the system handles invalid input or unexpected behavior correctly",
+    "shortMeaning": "testing for failure",
+    "example": "We performed a negative test by entering letters into the age field.",
+    "example2": "A good negative test should trigger a clear error message.",
+    "example3": "The system crashed during the negative test, indicating a bug.",
+    "Explanation": "Negative testing is a method of testing software where you intentionally provide invalid data or perform actions that the system isn't supposed to allow. The goal is to see if the application can gracefully handle errors without crashing or behaving unpredictably. For example, trying to log in with an empty password is a negative test. It ensures the software is robust and secure. It is the opposite of 'positive testing', where you use valid data to see if the software works as expected.",
+    "synonyms": [
+      "error testing",
+      "adversarial testing",
+      "robustness testing"
+    ],
+    "antonyms": [
+      "positive test",
+      "happy path testing"
+    ],
+    "nounForm": "negative testing",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / phrase",
+    "commonContext": "Quality Assurance (QA) and software debugging",
+    "usageTip": "Always include negative tests to ensure your app doesn't break when a user makes a mistake.",
+    "commonMistake": "Focusing only on positive tests and assuming the user will always provide correct data.",
+    "collocations": [
+      "run a negative test",
+      "negative test case",
+      "negative testing scenario"
+    ]
+  }
+]

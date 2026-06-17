@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Expendable",
+    "meaning": "Designed to be used once and then abandoned; considered not essential.",
+    "shortMeaning": "disposable; not essential",
+    "example": "Rockets often use expendable boosters that fall away.",
+    "example2": "In war, soldiers are sometimes seen as expendable.",
+    "example3": "These are expendable supplies, so use them as needed.",
+    "Explanation": "Expendable describes items (or, harshly, people) that can be used up and sacrificed without significant loss. It implies that the thing is replaceable or its loss is acceptable to achieve a larger goal. In military and space contexts, it's a technical term for non-reusable equipment. When applied to people, it's dehumanizing. The word comes from 'expend', meaning to spend or use up. It's similar to 'dispensable' but often carries a stronger sense of being intentionally consumed or sacrificed. It's a pragmatic, sometimes cold, term from logistics and strategy.",
+    "synonyms": [
+      "disposable",
+      "consumable",
+      "replaceable",
+      "sacrificial",
+      "non-essential"
+    ],
+    "antonyms": [
+      "indispensable",
+      "essential",
+      "permanent",
+      "reusable"
+    ],
+    "nounForm": "expendability",
+    "verbForm": "expend",
+    "adjectiveForm": "expendable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Military, space travel, resources, personnel",
+    "usageTip": "Use with caution when referring to people, as it can be offensive. Better for materials and equipment.",
+    "commonMistake": "Confusing it with 'expandable'. Expendable means meant to be used up; expandable means able to be made larger.",
+    "collocations": [
+      "expendable income (incorrect common mistake for 'disposable income')",
+      "expendable launch vehicle",
+      "expendable assets",
+      "considered expendable"
+    ]
+  },
+  {
+    "word": "Expendable",
+    "meaning": "Of little significance; can be discarded or sacrificed",
+    "shortMeaning": "can be thrown away",
+    "example": "The temporary files are expendable and can be deleted.",
+    "example2": "In this simulation, the test units are considered expendable.",
+    "example3": "Do not treat critical user data as expendable.",
+    "Explanation": "The word 'expendable' describes something that is not needed for long-term use and can be removed or sacrificed without much loss. In computing, this often refers to temporary cache files or staging data. It is important to identify what is truly expendable to avoid deleting essential files. It contrasts with 'critical' or 'valuable'. Use this term to describe resources that are meant to be consumed or discarded after their purpose is served.",
+    "synonyms": [
+      "disposable",
+      "replaceable",
+      "unnecessary"
+    ],
+    "antonyms": [
+      "essential",
+      "valuable",
+      "indispensable"
+    ],
+    "nounForm": "expendability",
+    "verbForm": "expend",
+    "adjectiveForm": "expendable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, resource planning, and testing",
+    "usageTip": "Use 'expendable' to describe resources that are not essential.",
+    "commonMistake": "Confusing 'expendable' with 'expensive'.",
+    "collocations": [
+      "expendable resources",
+      "expendable files",
+      "expendable units"
+    ]
+  }
+]

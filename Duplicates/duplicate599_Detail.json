@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Detail",
+    "meaning": "A small individual fact or item; to describe something item by item.",
+    "shortMeaning": "small part; to describe fully",
+    "example": "Please pay attention to every detail in the contract. (noun)",
+    "example2": "The report details the steps needed for the project. (verb)",
+    "example3": "He couldn't recall the specific details of the event.",
+    "Explanation": "As a noun, a detail is a tiny piece of information that is part of a larger whole. Noticing details is important for accuracy. As a verb, to detail means to describe something thoroughly, listing all its features or steps. The phrase 'in detail' means thoroughly. In other contexts, 'detail' can refer to a small military group assigned a special duty. The word emphasizes the importance of the small parts that make up a complete picture. Being 'detailed' means being very thorough and specific.",
+    "synonyms": [
+      "particular",
+      "item",
+      "feature",
+      "describe",
+      "specify"
+    ],
+    "antonyms": [
+      "overview",
+      "summary",
+      "generalize"
+    ],
+    "nounForm": "detail",
+    "verbForm": "detail",
+    "adjectiveForm": "detailed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Instructions, reports, art, analysis, planning",
+    "usageTip": "Use 'go into detail' or 'in detail' to talk about explaining something thoroughly.",
+    "commonMistake": "Using 'details' as a singular noun (e.g., 'every details is important' is wrong; use 'every detail').",
+    "collocations": [
+      "in detail",
+      "attention to detail",
+      "fine detail",
+      "detail-oriented"
+    ]
+  },
+  {
+    "word": "Detail",
+    "meaning": "A small individual part or item that makes up a whole",
+    "shortMeaning": "small part",
+    "example": "The manager asked for a report with every tiny detail.",
+    "example2": "We need to detail the steps required for the installation.",
+    "example3": "She has a great eye for detail in UI design.",
+    "Explanation": "Detail refers to the specific, smaller components of a larger plan, story, or object. As a noun, it's a specific piece of information. As a verb, it means to describe something fully and clearly. In technical writing, 'level of detail' (LOD) is a common phrase. Being 'detail-oriented' is a highly valued trait in programmers and testers because missing one small 'detail'—like a semicolon—can break an entire program. It is about precision and completeness.",
+    "synonyms": [
+      "feature",
+      "item",
+      "particular",
+      "specific"
+    ],
+    "antonyms": [
+      "generality",
+      "overview",
+      "summary"
+    ],
+    "nounForm": "detail",
+    "verbForm": "detail",
+    "adjectiveForm": "detailed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Planning, Documentation, Art, Programming",
+    "usageTip": "Use 'detailed' as an adjective to describe something very thorough.",
+    "commonMistake": "Saying 'in details' (incorrect); the correct phrase is 'in detail'.",
+    "collocations": [
+      "attention to detail",
+      "go into detail",
+      "minor detail"
+    ]
+  }
+]

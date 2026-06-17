@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Teletext",
+    "meaning": "A service that provides text information on a television screen",
+    "shortMeaning": "TV text service",
+    "example": "I used to check the weather forecast on teletext.",
+    "example2": "Teletext was a popular way to see news before the internet was common.",
+    "example3": "The subtitles for the show were available on teletext page 888.",
+    "Explanation": "Teletext is a non-interactive information service transmitted via television signals. It allows users to view news, weather, and sports scores on their TV screen using a remote. The data is hidden in the broadcast signal and displayed as blocky text and simple graphics. While mostly replaced by the internet and digital TV menus, it was a pioneering data-over-broadcast technology. It is a precursor to modern digital information services.",
+    "synonyms": [
+      "broadcast text",
+      "videotext",
+      "information service"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "teletext",
+    "verbForm": "N/A",
+    "adjectiveForm": "teletext",
+    "partOfSpeech": "noun",
+    "commonContext": "Vintage broadcasting and accessible media",
+    "usageTip": "Refer to this when discussing the history of digital information on television.",
+    "commonMistake": "Confusing teletext with modern 'Smart TV' apps; teletext is much more basic and older.",
+    "collocations": [
+      "teletext page",
+      "teletext decoder",
+      "teletext subtitles"
+    ]
+  },
+  {
+    "word": "Teletext",
+    "meaning": "A system for displaying text on a television screen.",
+    "shortMeaning": "TV-text-info",
+    "example": "Teletext was a common way to see news on TVs.",
+    "example2": "We are archiving the old teletext data for history.",
+    "example3": "Teletext is largely obsolete in modern systems.",
+    "Explanation": "Teletext is a historical system that allowed simple text information (like news or weather) to be broadcast alongside television signals. It was a precursor to the interactive web, but it was extremely limited in graphics and speed. In IT, you will only encounter this in the context of history, obsolete technology, or digital archives of old broadcasting material. It is interesting as a case study of early information delivery.",
+    "synonyms": [
+      "broadcast-text",
+      "teletex-info"
+    ],
+    "antonyms": [
+      "web-based",
+      "internet-based"
+    ],
+    "nounForm": "teletext",
+    "verbForm": "N/A",
+    "adjectiveForm": "teletext",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "History, obsolete technology",
+    "usageTip": "Use only in historical or archival IT contexts.",
+    "commonMistake": "Confusing 'teletext' with modern 'smart TV' interfaces.",
+    "collocations": [
+      "teletext data",
+      "teletext system",
+      "teletext archive"
+    ]
+  },
+  {
+    "word": "Teletext",
+    "meaning": "An information service transmitted with television signals and displayed on a screen",
+    "shortMeaning": "old TV information service",
+    "example": "We used to check the news on Teletext.",
+    "example2": "Teletext was a very early form of digital information.",
+    "example3": "The TV supports Teletext features.",
+    "Explanation": "The word 'Teletext' refers to an older communication standard that allowed text-based information (news, weather, sports) to be broadcast alongside television signals and displayed on compatible TVs. It was the 'internet' of the pre-web era. It is largely obsolete now, replaced by web and app content. It is a proper noun in many cases as it was a specific brand of service. It is useful in historical IT or media discussions.",
+    "synonyms": [
+      "broadcast text",
+      "digital info",
+      "data transmission"
+    ],
+    "antonyms": [
+      "N/A",
+      "broadband",
+      "web"
+    ],
+    "nounForm": "Teletext",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Media history, broadcasting, computing history",
+    "usageTip": "Use 'Teletext' when discussing old television information systems.",
+    "commonMistake": "Confusing it with modern 'texting' or 'instant messaging'.",
+    "collocations": [
+      "Teletext page",
+      "Teletext service",
+      "Teletext system"
+    ]
+  }
+]

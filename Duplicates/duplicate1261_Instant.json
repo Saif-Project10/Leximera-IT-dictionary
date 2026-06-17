@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Instant",
+    "meaning": "Happening or coming immediately; a precise moment in time.",
+    "shortMeaning": "immediate; moment",
+    "example": "The medicine gave instant relief.",
+    "example2": "At that instant, the phone rang.",
+    "example3": "I don't like instant coffee.",
+    "Explanation": "'Instant' is an adjective and a noun. As an adjective, it means happening or produced immediately (instant success, instant messaging). As a noun, it means a very short period of time; a moment ('in an instant'). It conveys speed and immediacy. In food, 'instant' means prepared quickly with minimal effort (instant noodles). The adverb is 'instantly'. It's a word deeply embedded in modern culture, reflecting the expectation for quick results and communication. It's the opposite of 'delayed' or 'gradual'.",
+    "synonyms": [
+      "immediate",
+      "prompt",
+      "moment"
+    ],
+    "antonyms": [
+      "delayed",
+      "gradual",
+      "slow"
+    ],
+    "nounForm": "instant",
+    "verbForm": "N/A",
+    "adjectiveForm": "instant",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Time, food, communication, reactions",
+    "usageTip": "As an adjective, it always comes before a noun. The noun is often in phrases like 'the next instant' or 'in an instant'.",
+    "commonMistake": "Using 'instant' to mean 'instance' (example).",
+    "collocations": [
+      "instant replay",
+      "instant gratification",
+      "on the instant"
+    ]
+  },
+  {
+    "word": "Instant",
+    "meaning": "Happening immediately or very quickly",
+    "shortMeaning": "Immediate",
+    "example": "The system provides instant feedback to users.",
+    "example2": "We need instant access to the database.",
+    "example3": "The changes take effect in an instant.",
+    "Explanation": "The term 'instant' describes processes or responses that occur without noticeable delay. In IT, 'instant' often refers to high-performance messaging or real-time processing capabilities. It is an adjective. While 'instant' sounds like a marketing term, in architecture, it signifies low-latency performance. Use this word to describe systems that prioritize real-time user experiences or immediate task execution.",
+    "synonyms": [
+      "immediate",
+      "real-time",
+      "prompt"
+    ],
+    "antonyms": [
+      "delayed",
+      "slow",
+      "lagging"
+    ],
+    "nounForm": "instant",
+    "verbForm": "N/A",
+    "adjectiveForm": "instant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, UI, messaging",
+    "usageTip": "Use to highlight the speed of a system response.",
+    "commonMistake": "Overusing 'instant' for processes that have slight latency.",
+    "collocations": [
+      "instant feedback",
+      "instant access",
+      "instant messaging"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unsystematic",
+    "meaning": "Not done or acting according to a fixed plan or system; disorganized.",
+    "shortMeaning": "not methodical",
+    "example": "His approach to research was unsystematic and missed key data.",
+    "example2": "The files were in an unsystematic heap on the desk.",
+    "example3": "Unsystematic observation can lead to incorrect conclusions.",
+    "Explanation": "'Unsystematic' is an adjective describing a lack of order, method, or planning. It is often used in academic, scientific, or business contexts to criticize an approach that is random or haphazard. The opposite, 'systematic', is highly valued in these fields. The word highlights the absence of a coherent structure or process. It's a formal way to point out disorganization.",
+    "synonyms": [
+      "disorganized",
+      "haphazard",
+      "random"
+    ],
+    "antonyms": [
+      "systematic",
+      "methodical",
+      "organized"
+    ],
+    "nounForm": "unsystematicness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsystematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, work habits, data collection, filing",
+    "usageTip": "Use 'unsystematic' to formally describe a process that lacks a clear, repeatable method.",
+    "commonMistake": "Using 'unorganized' in very formal writing where 'unsystematic' is more precise.",
+    "collocations": [
+      "unsystematic risk",
+      "unsystematic approach",
+      "highly unsystematic"
+    ]
+  },
+  {
+    "word": "Unsystematic",
+    "meaning": "Not done according to a plan or system",
+    "shortMeaning": "no system",
+    "example": "The testing process was unsystematic, leading to many missed bugs.",
+    "example2": "Unsystematic updates can break the production environment.",
+    "example3": "He approached the project in an unsystematic way.",
+    "Explanation": "Unsystematic describes work that is disorganized and lacks a clear, repeatable process. In software development, an unsystematic approach is the opposite of a structured, professional workflow. It usually leads to inconsistent results, difficulty in debugging, and long-term project failure. A systematic approach involves following best practices, documenting steps, and using automated tools to ensure consistent outcomes every time.",
+    "synonyms": [
+      "disorganized",
+      "random",
+      "chaotic"
+    ],
+    "antonyms": [
+      "systematic",
+      "structured",
+      "organized"
+    ],
+    "nounForm": "system",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsystematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, testing, development flow",
+    "usageTip": "Use this to critique workflows that lack a clear process.",
+    "commonMistake": "Confusing 'unsystematic' with 'creative'; creative work still needs a system.",
+    "collocations": [
+      "unsystematic approach",
+      "unsystematic testing",
+      "highly unsystematic"
+    ]
+  },
+  {
+    "word": "Unsystematic",
+    "meaning": "Not following a structured or methodical approach; random.",
+    "shortMeaning": "not methodical",
+    "example": "His unsystematic way of coding led to many bugs.",
+    "example2": "An unsystematic testing process won't catch every error.",
+    "example3": "The repair process was very unsystematic and slow.",
+    "Explanation": "'Unsystematic' describes a process or approach that is disorganized and lacks a clear, repeatable method. If work is done in an unsystematic way, it is hard to track progress or debug problems. Effective development relies on systematic processes like version control, testing pipelines, and documentation. Working in an unsystematic fashion makes team collaboration difficult. It suggests that there is no plan or pattern being followed.",
+    "synonyms": [
+      "disorganized",
+      "random",
+      "haphazard"
+    ],
+    "antonyms": [
+      "systematic",
+      "methodical",
+      "organized"
+    ],
+    "nounForm": "unsystematicness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsystematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work practices, debugging",
+    "usageTip": "Use this for work done without a plan.",
+    "commonMistake": "Confusing it with 'lazy', as an unsystematic worker might be trying hard.",
+    "collocations": [
+      "unsystematic approach",
+      "unsystematic testing",
+      "unsystematic process"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Put on hold",
+    "meaning": "To pause or delay something temporarily",
+    "shortMeaning": "paused temporarily",
+    "example": "The project has been put on hold until we get more funding.",
+    "example2": "Please put my subscription on hold while I'm traveling.",
+    "example3": "She put her career on hold to raise her family.",
+    "Explanation": "The phrasal verb 'put on hold' is an informal but very common expression meaning to temporarily stop or delay an activity, plan, or process. It comes from the idea of placing a phone call on hold. It suggests the action is not canceled and can be resumed later, but it is not currently active. It's widely used in business, personal life, and customer service.",
+    "synonyms": [
+      "paused",
+      "suspended",
+      "delayed",
+      "shelved"
+    ],
+    "antonyms": [
+      "activated",
+      "resumed",
+      "continued",
+      "expedited"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "put on hold",
+    "adjectiveForm": "on hold",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Projects, plans, subscriptions, phone calls",
+    "usageTip": "Often used in the passive voice: 'The plan was put on hold.'",
+    "commonMistake": "Confusing it with 'put off', which can mean to postpone but also to discourage.",
+    "collocations": [
+      "put a project on hold",
+      "put your life on hold",
+      "currently on hold"
+    ]
+  },
+  {
+    "word": "Put on hold",
+    "meaning": "To officially freeze, delay, or temporarily suspend progress on a project, API ticket, or feature implementation",
+    "shortMeaning": "temporarily suspend or freeze",
+    "example": "Development of the mobile application was put on hold until the design team finalized the UI wireframes.",
+    "example2": "The server migration plan was put on hold due to sudden network instability.",
+    "example3": "We had to put on hold the deployment because of a critical security alert.",
+    "Explanation": "The phrase 'put on hold' is standard terminology used throughout software management platforms like Jira, Trello, and Agile workflows. When an epic, feature ticket, or system migration is put on hold, it means all active coding and development efforts are frozen. This usually happens due to blocking issues, such as a lack of technical specifications, shifting client priorities, or budget delays. Unlike discarding a project, putting it on hold implies that the project is preserved in its current state and will resume once the blocking dependencies are completely resolved. It helps teams manage their active bandwidth and focus exclusively on unblocked tasks.",
+    "synonyms": [
+      "suspend",
+      "freeze",
+      "postpone"
+    ],
+    "antonyms": [
+      "resume",
+      "accelerate",
+      "activate"
+    ],
+    "nounForm": "hold",
+    "verbForm": "put on hold",
+    "adjectiveForm": "on-hold",
+    "partOfSpeech": "phrase / verb",
+    "commonContext": "Project management, Agile tracking, software product lifecycles",
+    "usageTip": "Use this phrase to indicate a temporary halt in a project or task workflow due to external dependencies or roadblocks.",
+    "commonMistake": "Using 'put on hold' without documenting the specific blockages, which leads to team confusion regarding why work stopped.",
+    "collocations": [
+      "officially put on hold",
+      "put a project on hold",
+      "put on hold temporarily"
+    ]
+  }
+]

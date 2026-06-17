@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Spin lock",
+    "meaning": "A synchronization mechanism where a program repeatedly checks if a resource is available",
+    "shortMeaning": "busy-waiting lock",
+    "example": "A spin lock can be very fast if the wait time is extremely short.",
+    "example2": "If the resource is held for a long time, a spin lock will waste CPU power.",
+    "example3": "The operating system uses a spin lock to protect shared data.",
+    "Explanation": "A spin lock is a way to manage access to shared data in a multi-core computer. Instead of 'sleeping' and waiting for a signal (which takes time to wake up from), the computer stays 'awake' and keeps checking the lock in a loop. It 'spins' until the lock is released. This is very efficient if the lock is only held for a tiny fraction of a second. However, if the lock is held too long, the 'spinning' wastes a lot of electricity and processing power because the CPU is working hard doing nothing.",
+    "synonyms": [
+      "busy-wait lock",
+      "spinning lock"
+    ],
+    "antonyms": [
+      "sleep lock",
+      "mutex (usually)"
+    ],
+    "nounForm": "spin lock",
+    "verbForm": "spin lock",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Operating systems and low-level programming",
+    "usageTip": "Use this only when you expect the wait time to be shorter than a context switch.",
+    "commonMistake": "Using it for long-running tasks, which will cause the computer to freeze or slow down significantly.",
+    "collocations": [
+      "acquire a spin lock",
+      "release a spin lock",
+      "spin lock implementation"
+    ]
+  },
+  {
+    "word": "Spin lock",
+    "meaning": "A synchronization mechanism where a thread repeatedly checks if a resource lock is available in a tight loop",
+    "shortMeaning": "busy-waiting resource lock",
+    "example": "The operating system kernel uses a spin lock to protect small critical sections.",
+    "example2": "A spin lock can waste significant CPU cycles if the resource stays blocked for long.",
+    "example3": "The developer replaced the spin lock with a mutex to lower processor utilization.",
+    "Explanation": "A 'spin lock' is a low-level programming mechanism used to synchronize access to shared resources in multi-threaded environments. Instead of putting a waiting thread to sleep, the thread 'spins' by executing a continuous loop to check when the resource becomes free. This approach is efficient if the lock is held for extremely short durations, because it avoids the overhead of context switching. However, if the resource remains locked for a long time, the spinning thread consumes heavy CPU resources, lowering system efficiency. It is mostly used in operating system kernels.",
+    "synonyms": [
+      "busy-wait lock",
+      "busy lock"
+    ],
+    "antonyms": [
+      "mutex",
+      "semaphore",
+      "blocking lock"
+    ],
+    "nounForm": "spin lock",
+    "verbForm": "spin-lock",
+    "adjectiveForm": "spin-locked",
+    "partOfSpeech": "noun",
+    "commonContext": "Operating systems, low-level programming, and multi-threading architecture",
+    "usageTip": "Only use spin locks when you expect the resource to be released almost immediately.",
+    "commonMistake": "Using a spin lock in high-level application software, which can lock up the system processor.",
+    "collocations": [
+      "acquire a spin lock",
+      "release a spin lock",
+      "spin lock overhead"
+    ]
+  }
+]

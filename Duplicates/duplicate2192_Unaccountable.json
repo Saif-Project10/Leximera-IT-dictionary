@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Unaccountable",
+    "meaning": "Not expected to explain one's actions; or, impossible to explain.",
+    "shortMeaning": "not explainable or responsible",
+    "example": "The sudden error in the code was unaccountable.",
+    "example2": "The manager left the team unaccountable for the deadline.",
+    "example3": "There was an unaccountable delay in the server response.",
+    "Explanation": "The word 'unaccountable' has two main meanings: either someone is not required to answer for their actions, or something is strange and cannot be explained. In a technical context, it is usually used to describe bugs or system behaviors that happen without a clear cause. It is a useful word for expressing that a problem occurred, but its origin remains a mystery. It denotes a lack of traceability.",
+    "synonyms": [
+      "inexplicable",
+      "unexplained",
+      "irresponsible"
+    ],
+    "antonyms": [
+      "accountable",
+      "explainable"
+    ],
+    "nounForm": "unaccountability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unaccountable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem solving, system behavior",
+    "usageTip": "Use this to describe strange bugs or system issues.",
+    "commonMistake": "Using 'unaccountable' to mean 'uncounted'.",
+    "collocations": [
+      "unaccountable error",
+      "unaccountable behavior",
+      "remained unaccountable"
+    ]
+  },
+  {
+    "word": "Unaccountable",
+    "meaning": "Not expected to explain or justify one's actions, or impossible to explain.",
+    "shortMeaning": "cannot be explained",
+    "example": "The server crash was unaccountable at the time.",
+    "example2": "He felt an unaccountable delay in the data transfer.",
+    "example3": "The error remains unaccountable despite our efforts.",
+    "Explanation": "The word 'unaccountable' has two meanings in a professional context. It can describe a system or person that does not need to provide a report or explanation. More commonly in IT, it describes something that happens without a clear or logical reason. When you encounter a bug that you cannot debug, you might call it 'unaccountable'. It implies mystery or a lack of documentation.",
+    "synonyms": [
+      "inexplicable",
+      "mysterious",
+      "unjustifiable"
+    ],
+    "antonyms": [
+      "accountable",
+      "explainable",
+      "clear"
+    ],
+    "nounForm": "unaccountability",
+    "verbForm": "N/A",
+    "adjectiveForm": "unaccountable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technical errors and project management",
+    "usageTip": "Use 'unaccountable' when you cannot find the cause of an issue.",
+    "commonMistake": "Using 'unaccountable' when you just mean 'unmeasured'.",
+    "collocations": [
+      "unaccountable error",
+      "unaccountable delay",
+      "remain unaccountable"
+    ]
+  }
+]

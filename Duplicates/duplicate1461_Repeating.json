@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Repeating",
+    "meaning": "Saying or doing something again; occurring again",
+    "shortMeaning": "doing again",
+    "example": "He kept repeating the same mistake.",
+    "example2": "The teacher is repeating the instructions for the class.",
+    "example3": "A repeating pattern was visible on the fabric.",
+    "Explanation": "'Repeating' is the present participle or gerund of 'repeat'. It indicates that an action is happening again, either once more or as part of a cycle. As an adjective, it describes something that recurs (a repeating decimal, a repeating rifle). It focuses on the ongoing or cyclical nature of the repetition. It is a fundamental concept in learning (repeating information to remember it), behavior, and design (repeating patterns). It is more about the process than the simple fact of recurrence.",
+    "synonyms": [
+      "reiterating",
+      "recurring",
+      "echoing"
+    ],
+    "antonyms": [
+      "ceasing",
+      "varying"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "repeating",
+    "partOfSpeech": "verb (present participle) / adjective",
+    "commonContext": "Learning, mistakes, patterns, firearms",
+    "usageTip": "As an adjective, it comes before a noun (repeating pattern).",
+    "commonMistake": "Confusing 'repeating' with 'repetitive'. 'Repeating' describes the action; 'repetitive' describes something characterized by repetition (often boring).",
+    "collocations": [
+      "repeating itself",
+      "repeating grade",
+      "repeating back"
+    ]
+  },
+  {
+    "word": "Repeating",
+    "meaning": "Doing or occurring again and again",
+    "shortMeaning": "occurring again",
+    "example": "The script is currently repeating the same action.",
+    "example2": "We have a repeating loop in the code.",
+    "example3": "The repeating signal caused interference.",
+    "Explanation": "The word 'repeating' is the present participle of 'repeat'. It describes something that is in the process of occurring again. In IT, this is common in discussions about infinite loops, repeating patterns in data, or signals. The noun form is 'repetition'. It describes an ongoing, active, or continuous cycle of an event. It differs from 'repeated' as it highlights the active nature of the cycle at the moment of observation.",
+    "synonyms": [
+      "cycling",
+      "recurring",
+      "looping"
+    ],
+    "antonyms": [
+      "stopping",
+      "halting",
+      "finishing"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "repeating",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Programming, networking, signals",
+    "usageTip": "Use 'repeating' for processes that are currently in a cycle.",
+    "commonMistake": "Using it for a single event that just happened once.",
+    "collocations": [
+      "repeating loop",
+      "repeating signal",
+      "repeating cycle"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Transition state",
+    "meaning": "A temporary middle stage during a change from one condition to another",
+    "shortMeaning": "temporary middle stage",
+    "example": "The system enters a transition state while the update is being applied.",
+    "example2": "In chemistry, the transition state is the point of highest energy.",
+    "example3": "The UI shows a loading spinner during the transition state.",
+    "Explanation": "A transition state is the 'in-between' phase where something is no longer in its original form but has not yet reached its final form. In software, this might be the moment a database is being locked for writing. In animation, it is the frames between the start and end of a movement. It is usually unstable or temporary. Understanding this state is important for preventing errors or 'crashes' during system changes.",
+    "synonyms": [
+      "intermediate state",
+      "middle phase",
+      "temporary condition"
+    ],
+    "antonyms": [
+      "stable state",
+      "final state"
+    ],
+    "nounForm": "transition state",
+    "verbForm": "N/A",
+    "adjectiveForm": "transitional",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Science, Computing, and Design",
+    "usageTip": "Use 'transition state' to describe the period when a system is 'busy' changing.",
+    "commonMistake": "Thinking a transition state is permanent; it is by definition temporary.",
+    "collocations": [
+      "enter a transition state",
+      "unstable transition state",
+      "manage transition states"
+    ]
+  },
+  {
+    "word": "Transition state",
+    "meaning": "The temporary intermediate phase a system or database passes through while changing from one stable setting to another",
+    "shortMeaning": "intermediate system phase",
+    "example": "The database entry stays in a transition state until the payment process is fully verified.",
+    "example2": "During software updates, the application enters a temporary transition state.",
+    "example3": "The monitor tracks system logs to ensure items don't freeze in a transition state.",
+    "Explanation": "In system architecture and state machine design, a 'transition state' is a temporary phase between two permanent conditions. For example, an e-commerce order shifts from 'Cart' to a transition state like 'Processing' before reaching 'Completed'. If a system failure or network dropout occurs while an item is stuck in this transition phase, database administrators must use rollback routines to restore the system to a clean, stable state.",
+    "synonyms": [
+      "intermediate phase",
+      "temporary condition",
+      "pending state",
+      "interim status"
+    ],
+    "antonyms": [
+      "stable state",
+      "final status"
+    ],
+    "nounForm": "transition state",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Database transaction workflows, automated state machine tools, and cloud deployment steps",
+    "usageTip": "Use 'transition state' to describe the short phase where an application processes updates but hasn't finalized them.",
+    "commonMistake": "Leaving processes in a transition state indefinitely without setting up safety timeouts to handle network errors.",
+    "collocations": [
+      "enter a transition state",
+      "stuck in transition state",
+      "manage the transition state"
+    ]
+  }
+]

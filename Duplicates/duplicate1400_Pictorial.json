@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Pictorial",
+    "meaning": "Relating to or expressed in pictures; using visual images.",
+    "shortMeaning": "in pictures",
+    "example": "The book gives a pictorial history of the city.",
+    "example2": "She provided a pictorial guide to identifying birds.",
+    "example3": "The instructions were mainly pictorial, with very few words.",
+    "Explanation": "'Pictorial' is an adjective that describes anything presented through or consisting of pictures. It is often used for books, guides, or representations that rely heavily on images rather than text. The word emphasizes visual communication and is useful when describing art, instructions, or history that is shown rather than told. It's more specific than 'visual'.",
+    "synonyms": [
+      "illustrated, graphic, visual, in pictures"
+    ],
+    "antonyms": [
+      "textual, verbal, written, descriptive"
+    ],
+    "nounForm": "picture",
+    "verbForm": "depict",
+    "adjectiveForm": "pictorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Art books, manuals, history books, representation",
+    "usageTip": "Use 'pictorial' to describe something that tells a story or gives information through images.",
+    "commonMistake": "Confusing it with 'picture-perfect', which means ideal or flawless.",
+    "collocations": [
+      "pictorial representation",
+      "pictorial essay",
+      "pictorial record"
+    ]
+  },
+  {
+    "word": "Pictorial",
+    "meaning": "Using or relating to pictures or diagrams",
+    "shortMeaning": "picture-based",
+    "example": "The document includes a pictorial guide to installation.",
+    "example2": "He provided a pictorial representation of the data structure.",
+    "example3": "Pictorial menus make the interface easier to navigate.",
+    "Explanation": "The term 'pictorial' describes something that uses images, diagrams, or drawings to convey information. In technical documentation and UI design, pictorial elements (like icons or flowcharts) are essential because they make complex concepts easier to understand at a glance. It is a way of reducing cognitive load for the user. If a document is pictorial, it leans heavily on visual information rather than just text. It is a powerful tool for clarity in technical communication.",
+    "synonyms": [
+      "visual",
+      "illustrated",
+      "diagrammatic"
+    ],
+    "antonyms": [
+      "textual",
+      "written"
+    ],
+    "nounForm": "picture",
+    "verbForm": "N/A",
+    "adjectiveForm": "pictorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, Documentation, Data Visualization",
+    "usageTip": "Use when describing how images represent data or instructions.",
+    "commonMistake": "Assuming 'pictorial' always means it's a photograph.",
+    "collocations": [
+      "pictorial guide",
+      "pictorial representation",
+      "pictorial summary"
+    ]
+  }
+]

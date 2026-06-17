@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Mean",
+    "meaning": "(Verb) To intend to convey or refer to; to have as a consequence. (Adjective) Unkind or cruel.",
+    "shortMeaning": "intend; signify; unkind",
+    "example": "What does this word mean?",
+    "example2": "I didn't mean to hurt your feelings.",
+    "example3": "It was mean of him to make fun of her.",
+    "Explanation": "Mean is an extremely common verb with the core idea of intention or signification. When you ask 'What does X mean?' you're asking for definition or significance. 'I mean to' expresses intention. 'This means that' expresses consequence. As an adjective, it describes someone who is unkind, stingy, or nasty. This dual meaning requires attention to context. The verb is essential for communication and logic. The noun is 'meaning'. It's one of the most frequently used words in English, central to expressing ideas, purpose, and interpretation.",
+    "synonyms": [
+      "intend",
+      "signify",
+      "denote",
+      "imply",
+      "cruel (adj.)",
+      "unkind (adj.)"
+    ],
+    "antonyms": [
+      "misrepresent",
+      "pretend",
+      "kind (adj.)",
+      "generous (adj.)"
+    ],
+    "nounForm": "meaning",
+    "verbForm": "mean",
+    "adjectiveForm": "meaningful / mean",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Language, intention, consequences, behavior",
+    "usageTip": "For intention, use 'mean to do something'. For definition, use 'mean something'.",
+    "commonMistake": "Using 'means' as a singular noun for 'method' ('a means to an end') and confusing it with the verb.",
+    "collocations": [
+      "what do you mean?",
+      "mean well",
+      "by no means"
+    ]
+  },
+  {
+    "word": "Mean",
+    "meaning": "The mathematical average",
+    "shortMeaning": "average",
+    "example": "The mean response time is under 50ms.",
+    "example2": "We calculated the mean error across all tests.",
+    "example3": "The data deviates from the mean value.",
+    "Explanation": "In statistics and data analysis, the 'mean' is the arithmetic average of a set of numbers. It is calculated by adding all numbers and dividing by the count. It is the most basic metric used to summarize data trends in IT, such as server response times, battery life, or user usage patterns. Always look at the mean alongside other stats like median or standard deviation, as the mean can be skewed by outliers.",
+    "synonyms": [
+      "average",
+      "arithmetic average"
+    ],
+    "antonyms": [
+      "median",
+      "mode",
+      "extreme"
+    ],
+    "nounForm": "mean",
+    "verbForm": "N/A",
+    "adjectiveForm": "mean",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data analysis, statistics, monitoring",
+    "usageTip": "Use 'mean' for quick average reporting.",
+    "commonMistake": "Confusing 'mean' with 'median' (average vs. middle value).",
+    "collocations": [
+      "mean time",
+      "mean value",
+      "arithmetic mean"
+    ]
+  },
+  {
+    "word": "Mean",
+    "meaning": "The mathematical average of a set of numbers.",
+    "shortMeaning": "the average",
+    "example": "Calculate the mean of the values in the dataset.",
+    "example2": "The mean performance improved after the update.",
+    "example3": "The mean temperature in Karachi is quite high in summer.",
+    "Explanation": "The mean is a basic statistical measure calculated by adding all values and dividing by the count. It is the most common way to represent an average. It provides a central tendency for a data set. In programming, you will often need to calculate this for performance metrics or data analysis. It is distinct from the median or mode.",
+    "synonyms": [
+      "average",
+      "midpoint"
+    ],
+    "antonyms": [
+      "extreme",
+      "outlier"
+    ],
+    "nounForm": "mean",
+    "verbForm": "mean",
+    "adjectiveForm": "mean",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Statistics, Math, Daily life",
+    "usageTip": "Use 'mean' specifically for the average.",
+    "commonMistake": "Confusing 'mean' with 'median'.",
+    "collocations": [
+      "arithmetic mean",
+      "calculate the mean",
+      "mean value"
+    ]
+  }
+]

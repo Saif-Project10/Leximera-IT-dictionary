@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Pure virtual",
+    "meaning": "A term describing a function in C++ that has no implementation in the base class",
+    "shortMeaning": "abstract function placeholder",
+    "example": "The base class uses a pure virtual member to define an interface.",
+    "example2": "You cannot instantiate a class that contains a pure virtual function.",
+    "example3": "Marking a function as pure virtual forces subclasses to override it.",
+    "Explanation": "The term 'pure virtual' is specific to object-oriented programming, particularly C++. It refers to a virtual function that is declared in a base class but has no body (implementation). It is usually written by setting the function equal to zero (e.g., virtual void draw() = 0;). This makes the class 'abstract,' meaning you cannot create an object directly from it. Its purpose is to define a contract that all derived (child) classes must follow. This ensures that every child class provides its own specific version of that function.",
+    "synonyms": [
+      "abstract function",
+      "undefined virtual",
+      "interface method"
+    ],
+    "antonyms": [
+      "concrete function",
+      "implemented function",
+      "non-virtual"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pure virtual",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "C++ programming and object-oriented design",
+    "usageTip": "Use 'pure virtual' when you want to force children classes to provide a specific logic.",
+    "commonMistake": "Forgetting to implement the pure virtual function in the child class, which causes an error.",
+    "collocations": [
+      "pure virtual function",
+      "pure virtual member",
+      "pure virtual syntax"
+    ]
+  },
+  {
+    "word": "Pure virtual",
+    "meaning": "A member function that must be implemented in a derived class in object-oriented programming.",
+    "shortMeaning": "must be implemented",
+    "example": "The base class defines a pure virtual function that all subclasses must override.",
+    "example2": "You cannot instantiate a class that contains a pure virtual function.",
+    "example3": "We use pure virtual methods to define interfaces.",
+    "Explanation": "A 'pure virtual' function (also called an abstract method) is a core concept in C++ and other OOP languages. It declares that a function exists in the base class, but provides no implementation. This forces any 'derived' class that inherits from it to provide its own logic. This is how you enforce a contract or interface in your code. It is an essential way to design systems where the behavior changes depending on the specific subclass.",
+    "synonyms": [
+      "abstract-method",
+      "interface-method"
+    ],
+    "antonyms": [
+      "concrete-method",
+      "implemented-method"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pure virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Object-oriented programming, C++",
+    "usageTip": "Use when discussing abstract classes or interfaces.",
+    "commonMistake": "Trying to create an object from a class that has pure virtual functions.",
+    "collocations": [
+      "pure virtual function",
+      "pure virtual method",
+      "declare pure virtual"
+    ]
+  }
+]

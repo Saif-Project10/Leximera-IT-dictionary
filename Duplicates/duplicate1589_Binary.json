@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Binary",
+    "meaning": "A base-2 numbering system that uses only two digits: 0 and 1",
+    "shortMeaning": "base-2",
+    "example": "Computers process all data in binary format.",
+    "example2": "The binary value for the number two is 10.",
+    "example3": "He wrote a script to convert text into binary.",
+    "Explanation": "Binary is the fundamental language of computers. At the hardware level, everything is either 'on' (1) or 'off' (0). By combining these 0s and 1s, computers can represent numbers, text, images, and complex programs. This system is used because it is easy to implement with electronic switches (transistors). Each 0 or 1 is called a 'bit'. While humans use base-10 (0-9), binary is the most efficient way for electronic machines to store and move information. Understanding binary is the first step in learning how computers truly work.",
+    "synonyms": [
+      "base-2",
+      "digital"
+    ],
+    "antonyms": [
+      "decimal",
+      "analog"
+    ],
+    "nounForm": "binary",
+    "verbForm": "N/A",
+    "adjectiveForm": "binary",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Computer science, programming, and electronics",
+    "usageTip": "Use this to describe the low-level data format of any computer system.",
+    "commonMistake": "Thinking binary is only for numbers; it is the base for *all* digital data.",
+    "collocations": [
+      "binary code",
+      "binary system",
+      "binary logic"
+    ]
+  },
+  {
+    "word": "Binary",
+    "meaning": "Relating to a system that uses only two possible states, values, or options, typically represented by 0 and 1",
+    "shortMeaning": "two-valued system",
+    "example": "Computers process all complex software code at the lowest level as binary code.",
+    "example2": "The compiler transforms your human-readable script into a binary executable file.",
+    "example3": "A simple switch uses a binary logic system to turn on or off.",
+    "Explanation": "The word 'binary' is fundamental to all modern computer architecture. At the base hardware layer, processors use electrical transistors that have only two positions: on (1) or off (0). This base-2 numbering structure runs everything from low-level operating systems to complex web interfaces. The noun form is also 'binary' (referring to compiled executable files). It represents the absolute foundation of digital logic chips.",
+    "synonyms": [
+      "base-2",
+      "digital",
+      "two-state"
+    ],
+    "antonyms": [
+      "decimal",
+      "analog",
+      "ternary"
+    ],
+    "nounForm": "binary",
+    "verbForm": "N/A",
+    "adjectiveForm": "binary",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Low-level machine execution, compiled application files, and true/false logic systems",
+    "usageTip": "Use 'binary' when discussing machine code outputs or logical expressions that have exactly two choices.",
+    "commonMistake": "Confusing 'binary files' with raw text files; binary files cannot be easily read inside a normal text editor without turning into weird code symbols.",
+    "collocations": [
+      "binary code",
+      "binary file",
+      "binary logic"
+    ]
+  }
+]

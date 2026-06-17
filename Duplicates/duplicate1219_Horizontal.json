@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Horizontal",
+    "meaning": "Parallel to the plane of the horizon; at right angles to the vertical.",
+    "shortMeaning": "side-to-side; level",
+    "example": "Draw a horizontal line across the page.",
+    "example2": "The patient should remain in a horizontal position.",
+    "example3": "The company is looking for horizontal expansion into new markets.",
+    "Explanation": "'Horizontal' is an adjective describing something parallel to the horizon, level, or going side-to-side rather than up-and-down. It's the opposite of 'vertical'. In mathematics, it's the x-axis. In business, 'horizontal integration' means merging similar companies. The word suggests flatness, levelness, or lateral movement. It's fundamental in geometry, design, photography, and spatial descriptions. Objects can be horizontal (lying flat), movements can be horizontal (sideways), and organizations can have horizontal structures (flat hierarchies). The concept appears in countless contexts from basic orientation to complex organizational theory.",
+    "synonyms": [
+      "level",
+      "flat",
+      "parallel to ground",
+      "sideways"
+    ],
+    "antonyms": [
+      "vertical",
+      "upright",
+      "perpendicular",
+      "up-and-down"
+    ],
+    "nounForm": "horizon",
+    "verbForm": "horizontize",
+    "adjectiveForm": "horizontal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Geometry, design, positions, business structures",
+    "usageTip": "Often contrasted with 'vertical': 'horizontal and vertical lines', 'horizontal vs. vertical integration'.",
+    "commonMistake": "Pronouncing as 'hori-zon-tal'. Correct: 'hor-ih-ZON-tal' with stress on third syllable.",
+    "collocations": [
+      "horizontal line",
+      "horizontal integration",
+      "horizontal position"
+    ]
+  },
+  {
+    "word": "Horizontal",
+    "meaning": "Parallel to the ground; side-to-side",
+    "shortMeaning": "side-to-side",
+    "example": "The design features a horizontal navigation bar.",
+    "example2": "Move the slider in a horizontal direction.",
+    "example3": "The table layout uses horizontal alignment.",
+    "Explanation": "The word 'horizontal' describes something that lies flat, parallel to the horizon or the base of an object. In IT and web development, it is frequently used to describe layouts, scrolling directions, or grid alignments. It is the opposite of 'vertical', which describes up-and-down movement. Understanding horizontal versus vertical orientation is a basic requirement for mastering CSS and responsive design.",
+    "synonyms": [
+      "flat",
+      "level",
+      "sideways"
+    ],
+    "antonyms": [
+      "vertical",
+      "upright",
+      "perpendicular"
+    ],
+    "nounForm": "horizon",
+    "verbForm": "N/A",
+    "adjectiveForm": "horizontal",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, CSS layouts, geometry",
+    "usageTip": "Use 'horizontal' to describe side-to-side alignment.",
+    "commonMistake": "Confusing 'horizontal' with 'vertical' in coding grid layouts.",
+    "collocations": [
+      "horizontal layout",
+      "horizontal scroll",
+      "horizontal alignment"
+    ]
+  }
+]

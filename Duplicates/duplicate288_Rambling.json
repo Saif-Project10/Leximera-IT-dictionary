@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Rambling",
+    "meaning": "(Of speech or writing) Lengthy and confused or irrelevant; wandering from one subject to another",
+    "shortMeaning": "wandering off-topic",
+    "example": "His rambling answer didn't address the question.",
+    "example2": "The old man told a long, rambling story about his youth.",
+    "example3": "She wrote a rambling letter that jumped from topic to topic.",
+    "Explanation": "Rambling describes communication that lacks a clear structure or focus. It meanders from one point to another without a logical flow, often including irrelevant details. It can be caused by confusion, lack of preparation, or simply a stream-of-consciousness style. While sometimes charming in informal storytelling, it is usually a fault in situations requiring clarity (like business or technical writing). The verb 'ramble' literally means to walk for pleasure in the countryside, and the figurative use carries that sense of aimless wandering. The noun is 'ramble'.",
+    "synonyms": [
+      "digressive",
+      "discursive",
+      "meandering",
+      "wordy"
+    ],
+    "antonyms": [
+      "focused",
+      "concise",
+      "structured",
+      "coherent"
+    ],
+    "nounForm": "ramble",
+    "verbForm": "ramble",
+    "adjectiveForm": "rambling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Stories, explanations, letters, confused thinking",
+    "usageTip": "Often used negatively to criticize a lack of focus and coherence.",
+    "commonMistake": "Confusing 'rambling' (unfocused) with 'detailed' (which can be focused but thorough).",
+    "collocations": [
+      "rambling speech",
+      "rambling house",
+      "go rambling (verb)"
+    ]
+  },
+  {
+    "word": "Rambling",
+    "meaning": "Lacking a clear plan or focus, often in speech or writing",
+    "shortMeaning": "unfocused",
+    "example": "His explanation was a bit rambling and hard to follow.",
+    "example2": "Avoid rambling documentation that confuses the user.",
+    "example3": "The bug report was rambling and missing the key steps.",
+    "Explanation": "Rambling refers to speech or writing that goes on without a clear point. In technical settings, rambling is considered a negative trait because it wastes time. We want technical documentation and team communication to be precise and concise. If you find yourself rambling, take a break and focus on your main point. Good communication is direct and easy to scan.",
+    "synonyms": [
+      "unfocused",
+      "disorganized",
+      "long-winded"
+    ],
+    "antonyms": [
+      "concise",
+      "focused",
+      "direct"
+    ],
+    "nounForm": "ramble",
+    "verbForm": "ramble",
+    "adjectiveForm": "rambling",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, writing, feedback",
+    "usageTip": "Use 'rambling' to politely suggest someone needs to be more direct.",
+    "commonMistake": "Being too harsh; use 'rambling' to help someone improve their communication.",
+    "collocations": [
+      "rambling explanation",
+      "rambling report",
+      "too rambling"
+    ]
+  }
+]

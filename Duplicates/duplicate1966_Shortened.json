@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Shortened",
+    "meaning": "Made shorter in length or duration.",
+    "shortMeaning": "made briefer",
+    "example": "The URL was shortened to fit in the tweet.",
+    "example2": "The development lifecycle was shortened to meet the deadline.",
+    "example3": "A shortened version of the report was presented.",
+    "Explanation": "The word 'shortened' means that something has been reduced in length or scope. This is very common in IT—e.g., URL shortening, code minification, or summarizing data logs. It is usually done for convenience, performance optimization, or readability. When shortening data, ensure that important information is not lost. It is a process of refinement, stripping away unnecessary elements to provide a more compact and usable version of the original.",
+    "synonyms": [
+      "condensed",
+      "abbreviated",
+      "reduced"
+    ],
+    "antonyms": [
+      "lengthened",
+      "extended",
+      "expanded"
+    ],
+    "nounForm": "shortening",
+    "verbForm": "shorten",
+    "adjectiveForm": "shortened",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data management, URLs, code optimization",
+    "usageTip": "Use 'shortened' to describe the act of reducing length.",
+    "commonMistake": "Shortening data so much that it loses meaning.",
+    "collocations": [
+      "shortened URL",
+      "shortened lifecycle",
+      "shortened version"
+    ]
+  },
+  {
+    "word": "Shortened",
+    "meaning": "Made shorter in length or duration",
+    "shortMeaning": "reduced",
+    "example": "The URL was shortened to make it easier to share.",
+    "example2": "We shortened the development cycle to meet the deadline.",
+    "example3": "The list was shortened for better readability.",
+    "Explanation": "The word 'shortened' means reducing the size, time, or length of something. In IT, common examples include URL shorteners or condensing long code into more efficient versions. It is used to improve usability, save space, or meet strict constraints. Shortening things can make systems faster and information easier for users to digest. However, be careful not to lose essential information in the process.",
+    "synonyms": [
+      "abbreviated",
+      "reduced",
+      "condensed"
+    ],
+    "antonyms": [
+      "lengthened",
+      "extended",
+      "expanded"
+    ],
+    "nounForm": "shortening",
+    "verbForm": "shorten",
+    "adjectiveForm": "shortened",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "URL management, scheduling, formatting",
+    "usageTip": "Use 'shortened' when referring to URLs or project timelines.",
+    "commonMistake": "Shortening an ID that needs to remain unique.",
+    "collocations": [
+      "shortened URL",
+      "shortened cycle",
+      "shortened path"
+    ]
+  }
+]

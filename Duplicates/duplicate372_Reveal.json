@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Reveal",
+    "meaning": "To make known something that was previously secret or unknown. | To make previously unknown or secret information known.",
+    "shortMeaning": "show, disclose",
+    "example": "The test results will reveal the cause of the problem.",
+    "example2": "She pulled back the curtain to reveal a beautiful garden.",
+    "example3": "The investigation revealed new evidence.",
+    "Explanation": "The verb 'reveal' means to uncover or allow something hidden to be seen or known. It is about disclosure and discovery. It is used in news (reveal a scandal), entertainment (reveal a plot twist), science (reveal findings), and everyday life. The noun is 'revelation'. It implies that the information is significant and was not obvious before. A common mistake is using it for simple showing; 'reveal' often has an element of surprise or importance. It is the action behind a 'reveal' in a magic trick or a product launch.",
+    "synonyms": [
+      "Disclose",
+      "Divulge",
+      "Show",
+      "Unveil"
+    ],
+    "antonyms": [
+      "Conceal",
+      "Cover",
+      "Cover Up",
+      "Hide",
+      "Suppress"
+    ],
+    "nounForm": "revelation",
+    "verbForm": "reveal",
+    "adjectiveForm": "revealing",
+    "partOfSpeech": "verb",
+    "commonContext": "Secrets, information, art, investigations",
+    "usageTip": "Often followed by 'that' + clause: 'He revealed that he had been planning to leave.'",
+    "commonMistake": "Confusing 'reveal' with 'revile' (to criticize angrily). They sound different.",
+    "collocations": [
+      "reveal the truth",
+      "reveal a secret",
+      "gradually reveal"
+    ]
+  },
+  {
+    "word": "Reveal",
+    "meaning": "To display hidden information, expose underlying system processes, or unhide hidden layout elements within a user interface",
+    "shortMeaning": "show hidden data or elements",
+    "example": "Clicking the eye icon inside the input field will reveal the user's hidden account password.",
+    "example2": "The system logs will reveal the exact network error that caused the server script to crash.",
+    "example3": "We can configure a smooth dropdown transition animation to reveal the navigation links on mobile devices.",
+    "Explanation": "The word 'reveal' is widely applied in frontend interface development, database analysis, and cybersecurity monitoring. In web layout design, it refers to making elements visible after an interaction, such as clicking a toggle to open an accordian section or expose a secret text token. In system diagnostics, running deep code analysis or checking verbose logging files will reveal hidden vulnerabilities or memory leaks that are invisible during standard software operations, making it an essential concept for debugging.",
+    "synonyms": [
+      "uncover",
+      "expose",
+      "show"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "mask"
+    ],
+    "nounForm": "revelation",
+    "verbForm": "reveal",
+    "adjectiveForm": "revealing",
+    "partOfSpeech": "verb",
+    "commonContext": "UI element toggles, debugging analysis, cybersecurity diagnostics",
+    "usageTip": "Use 'reveal' when an interaction or diagnostic script directly changes an element or data field from a hidden state to a visible state.",
+    "commonMistake": "Misspelling the verb in code documentation, or using it when data is generated from scratch rather than being unhidden.",
+    "collocations": [
+      "reveal hidden elements",
+      "reveal passwords",
+      "reveal errors in logs"
+    ]
+  }
+]

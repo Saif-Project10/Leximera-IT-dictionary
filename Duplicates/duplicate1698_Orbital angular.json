@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Orbital angular",
+    "meaning": "Relating to the rotation of an object or particle around a central point",
+    "shortMeaning": "relating to path rotation",
+    "example": "The satellite's orbital angular velocity determines how fast it circles the Earth.",
+    "example2": "In chemistry, we study the orbital angular momentum of electrons.",
+    "example3": "Orbital angular changes can affect the stability of a planetary system.",
+    "Explanation": "Orbital angular refers to the physics of things moving in a curve or circle around something else. It is most commonly used in astronomy (planets around stars) and quantum physics (electrons around a nucleus). It describes how much 'rotational' energy or motion an object has as it travels along its path. It is a vector quantity, meaning it has both a size and a direction. Understanding orbital angular properties is essential for launching rockets, predicting weather patterns, and developing new materials through the study of atoms. It is different from 'spin,' which is the rotation of the object on its own axis.",
+    "synonyms": [
+      "rotational",
+      "circular",
+      "N/A"
+    ],
+    "antonyms": [
+      "linear",
+      "straight-line",
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "orbital angular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, astronomy, and chemistry",
+    "usageTip": "Use this specifically when describing an object's motion *around* another body, not its own internal spinning.",
+    "commonMistake": "Confusing 'orbital' (moving around something) with 'rotational' (spinning like a top).",
+    "collocations": [
+      "orbital angular momentum",
+      "orbital angular velocity",
+      "orbital angular position"
+    ]
+  },
+  {
+    "word": "Orbital angular",
+    "meaning": "Related to the motion of an object rotating around a point.",
+    "shortMeaning": "rotational motion",
+    "example": "The calculation requires the orbital angular momentum of the particle.",
+    "example2": "Orbital angular velocity is key to satellite navigation.",
+    "example3": "The physics engine handles orbital angular calculations for the game.",
+    "Explanation": "Orbital angular refers to the physical properties of an object traveling along a circular or elliptical path around a center point. It is a complex term often used in physics, game engine development, and satellite communications. It describes how an object rotates as it orbits. While specialized, it is important for developers building simulations or hardware interfaces. It involves advanced math concepts like vectors and rotational velocity.",
+    "synonyms": [
+      "rotational",
+      "circular motion"
+    ],
+    "antonyms": [
+      "linear"
+    ],
+    "nounForm": "orbit",
+    "verbForm": "orbit",
+    "adjectiveForm": "orbital",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Physics, simulation, aerospace",
+    "usageTip": "Use this only in technical physics or game development contexts.",
+    "commonMistake": "Confusing orbital movement with simple linear movement.",
+    "collocations": [
+      "orbital angular momentum",
+      "orbital angular velocity",
+      "orbital angular motion"
+    ]
+  }
+]

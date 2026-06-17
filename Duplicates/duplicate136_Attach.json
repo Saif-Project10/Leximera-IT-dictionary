@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Attach",
+    "meaning": "To join, fasten, or connect one thing to another. | To fasten, join, or connect one thing to another.",
+    "shortMeaning": "join, connect",
+    "example": "Please attach the file to your email.",
+    "example2": "He attached a note to the gift.",
+    "example3": "The trailer is attached to the back of the truck.",
+    "Explanation": "The verb 'attach' means to physically or digitally connect one item to another. It is frequently used in technology (attaching files), everyday objects (attaching a leash), and abstract concepts (attaching importance). The opposite is 'detach'. The preposition 'to' is almost always used after it. A common error is using 'connect' or 'join' where 'attach' is more specific for a secondary item being added to a main one. It implies a temporary or removable connection in many cases.",
+    "synonyms": [
+      "Affix",
+      "Connect",
+      "Fasten",
+      "Join"
+    ],
+    "antonyms": [
+      "Detach",
+      "Remove",
+      "Separate",
+      "Unfasten"
+    ],
+    "nounForm": "attachment",
+    "verbForm": "attach",
+    "adjectiveForm": "attached",
+    "partOfSpeech": "verb",
+    "commonContext": "Emails, documents, objects, feelings",
+    "usageTip": "Always use the preposition 'to' after attach (attach A to B).",
+    "commonMistake": "Saying 'attach with' instead of the correct 'attach to'.",
+    "collocations": [
+      "attach a file",
+      "attach importance",
+      "firmly attached"
+    ]
+  },
+  {
+    "word": "Attach",
+    "meaning": "To join or connect one thing to another, or to add a file to an email",
+    "shortMeaning": "connect or add",
+    "example": "Don't forget to attach your resume to the email.",
+    "example2": "You can attach a mouse to the laptop using a USB port.",
+    "example3": "The app allows you to attach a photo to your message.",
+    "Explanation": "To 'attach' is a very common digital action. It mostly refers to 'Email Attachments,' where you add a document or image to a message. It can also refer to physical hardware (attaching a printer) or software logic (attaching a debugger to a running program). It implies that two separate things are being linked together so they stay together. In web development, you might 'attach' an event listener to a button so it knows when it's clicked.",
+    "synonyms": [
+      "append",
+      "join",
+      "connect"
+    ],
+    "antonyms": [
+      "detach",
+      "remove",
+      "disconnect"
+    ],
+    "nounForm": "attachment",
+    "verbForm": "attach",
+    "adjectiveForm": "attached",
+    "partOfSpeech": "verb",
+    "commonContext": "Emails, hardware, web development",
+    "usageTip": "Check the size of a file before you attach it to an email, as some systems have limits.",
+    "commonMistake": "Saying 'attach a link'; usually, you 'insert' or 'paste' a link, but you 'attach' a file.",
+    "collocations": [
+      "attach a file",
+      "attach a document",
+      "firmly attach"
+    ]
+  }
+]

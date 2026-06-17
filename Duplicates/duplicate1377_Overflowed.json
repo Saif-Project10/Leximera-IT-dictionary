@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Overflowed",
+    "meaning": "Past tense and past participle of 'overflow'; having spilled over.",
+    "shortMeaning": "spilled over",
+    "example": "The sink overflowed because the drain was clogged.",
+    "example2": "During the flood, the streets overflowed with water.",
+    "example3": "Her gratitude overflowed into tears.",
+    "Explanation": "'Overflowed' is the simple past tense and past participle form of the verb 'overflow'. It describes a completed action where something (liquid, crowd, emotion) exceeded its limits and spilled out. It is used in narratives to describe past events. Like the base verb, it can be used literally or metaphorically. It paints a picture of a container or system that was unable to hold its contents. It's a descriptive word often found in news reports about floods or in personal stories about strong feelings.",
+    "synonyms": [
+      "spilled over",
+      "flooded",
+      "brimmed over",
+      "surged"
+    ],
+    "antonyms": [
+      "contained",
+      "held",
+      "stayed within limits"
+    ],
+    "nounForm": "overflow",
+    "verbForm": "overflow",
+    "adjectiveForm": "overflowed (can be used as adjective)",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Past events, flood reports, emotional descriptions",
+    "usageTip": "Use it to describe something that happened in the past where limits were exceeded.",
+    "commonMistake": "Incorrectly forming the past tense as 'overflown' (that is for 'overfly'). The correct form is 'overflowed'.",
+    "collocations": [
+      "overflowed its banks",
+      "overflowed with people",
+      "had overflowed"
+    ]
+  },
+  {
+    "word": "Overflowed",
+    "meaning": "Flowed over the edge or limit of something",
+    "shortMeaning": "spilled over",
+    "example": "The memory buffer overflowed and crashed the app.",
+    "example2": "The river overflowed its banks during the storm.",
+    "example3": "The data overflowed the available storage space.",
+    "Explanation": "To 'overflow' means to exceed a capacity or boundary. In computing, a 'buffer overflow' is a critical security issue where a program writes more data to a buffer than it can hold, often overwriting adjacent memory. This can lead to system crashes or security vulnerabilities. Outside of tech, it describes anything that is too full, such as a tank or a container. It indicates a failure to contain content within defined limits, leading to potential mess or system failure.",
+    "synonyms": [
+      "spilled",
+      "exceeded",
+      "surpassed"
+    ],
+    "antonyms": [
+      "contained",
+      "limited"
+    ],
+    "nounForm": "overflow",
+    "verbForm": "overflow",
+    "adjectiveForm": "overflowed",
+    "partOfSpeech": "verb",
+    "commonContext": "Computing, Physical space, Engineering",
+    "usageTip": "Be aware of 'buffer overflow' as a major security term.",
+    "commonMistake": "Confusing 'overflowed' with 'overwhelmed'.",
+    "collocations": [
+      "buffer overflow",
+      "overflowed memory",
+      "prevent overflow"
+    ]
+  }
+]

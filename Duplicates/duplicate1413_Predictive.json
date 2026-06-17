@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Predictive",
+    "meaning": "Relating to or having the function of predicting or forecasting future events.",
+    "shortMeaning": "forecasting, predictive",
+    "example": "The app uses predictive text to guess the next word you'll type.",
+    "example2": "Predictive analytics helps businesses anticipate customer behavior.",
+    "example3": "There is no predictive value in his vague warnings.",
+    "Explanation": "'Predictive' is an adjective used in technology, statistics, and general forecasting. It describes tools, models, or abilities that are used to make predictions about the future. 'Predictive maintenance' tries to fix machines before they break. 'Predictive texting' suggests words. The word is neutral and technical, focusing on the function of forecasting. It is becoming more common as data analysis and AI become widespread. The noun form is 'prediction'. It implies a systematic or data-driven approach to forecasting.",
+    "synonyms": [
+      "forecasting",
+      "prognostic",
+      "prophetic",
+      "anticipatory"
+    ],
+    "antonyms": [
+      "descriptive",
+      "retrospective",
+      "reactive"
+    ],
+    "nounForm": "prediction",
+    "verbForm": "predict",
+    "adjectiveForm": "predictive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, data science, business intelligence, AI",
+    "usageTip": "Often used in compound terms like 'predictive modeling', 'predictive algorithm'.",
+    "commonMistake": "Confusing 'predictive' (able to predict) with 'predictable' (easy to predict).",
+    "collocations": [
+      "predictive analytics",
+      "predictive model",
+      "predictive power",
+      "predictive maintenance"
+    ]
+  },
+  {
+    "word": "Predictive",
+    "meaning": "Relating to the ability to forecast future events based on data.",
+    "shortMeaning": "forecasting",
+    "example": "The system uses predictive analytics to anticipate hardware failures.",
+    "example2": "We are implementing a predictive maintenance schedule.",
+    "example3": "The predictive model helps us manage our cloud resources.",
+    "Explanation": "Predictive refers to technologies or models that use past data to estimate what will happen in the future. It is a powerful tool in big data and AI. By looking at trends, the system can alert you to a potential crash before it happens. This proactive approach saves time and prevents downtime. It turns raw information into actionable foresight. Predictive models are increasingly used in security, finance, and engineering.",
+    "synonyms": [
+      "forecasting",
+      "anticipatory",
+      "proactive"
+    ],
+    "antonyms": [
+      "reactive"
+    ],
+    "nounForm": "prediction",
+    "verbForm": "predict",
+    "adjectiveForm": "predictive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, AI, maintenance",
+    "usageTip": "Use 'predictive' when talking about tools that forecast future outcomes.",
+    "commonMistake": "Confusing 'predictive' (future-focused) with 'preemptive' (action-focused).",
+    "collocations": [
+      "predictive analytics",
+      "predictive model",
+      "predictive maintenance"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Reduced",
+    "meaning": "Made smaller or less in amount, degree, or size.",
+    "shortMeaning": "made smaller",
+    "example": "The store has reduced prices on all winter clothing.",
+    "example2": "The recipe can be reduced to serve two people.",
+    "example3": "The risk of infection was greatly reduced by handwashing.",
+    "Explanation": "The adjective 'reduced' describes something that has been decreased in quantity, intensity, or scale. It is the past participle of 'reduce'. It is a very common word in shopping (reduced items), cooking (reduced sauce), science (reduced pressure), and environmentalism (reuced waste). It can also mean brought to a worse state ('reduced to tears'). The process of reduction often involves simplification, minimization, or concentration. It is a neutral term that simply indicates a decrease from a previous level.",
+    "synonyms": [
+      "decreased",
+      "diminished",
+      "lowered",
+      "cut",
+      "lessened"
+    ],
+    "antonyms": [
+      "increased",
+      "enlarged",
+      "augmented",
+      "expanded"
+    ],
+    "nounForm": "reduction",
+    "verbForm": "reduce",
+    "adjectiveForm": "reduced",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sales, cooking, science, efforts",
+    "usageTip": "In cooking, 'reduced' often describes a sauce that has been simmered to thicken and concentrate flavor.",
+    "commonMistake": "Confusing 'reduce' with 'reuse' or 'recycle' in environmental contexts.",
+    "collocations": [
+      "reuced price",
+      "reduced risk",
+      "reduced to",
+      "greatly reduced"
+    ]
+  },
+  {
+    "word": "Reduced",
+    "meaning": "Made smaller in size, amount, or intensity",
+    "shortMeaning": "smaller/less",
+    "example": "We reduced the database size by deleting old records.",
+    "example2": "The new update reduced the system latency by 20%.",
+    "example3": "Reduced complexity makes the code much easier to maintain.",
+    "Explanation": "The word 'reduced' means to have lowered the size, number, power, or complexity of something. In IT, this is almost always a positive goal—reducing bugs, reducing latency, reducing memory usage, or reducing technical debt. It implies an optimization process where you remove waste to make a system more efficient. When you 'reduce' something, you should always measure the before and after to ensure the change had the intended effect.",
+    "synonyms": [
+      "decreased",
+      "lowered",
+      "minimized"
+    ],
+    "antonyms": [
+      "increased",
+      "expanded",
+      "added"
+    ],
+    "nounForm": "reduction",
+    "verbForm": "reduce",
+    "adjectiveForm": "reduced",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Optimization, performance, debugging",
+    "usageTip": "Use 'reduced' to highlight improvements in system performance or efficiency.",
+    "commonMistake": "Reducing something too far, which can sometimes break functionality (over-optimization).",
+    "collocations": [
+      "reduced latency",
+      "reduced complexity",
+      "reduced size"
+    ]
+  }
+]

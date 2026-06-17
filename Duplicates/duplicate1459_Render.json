@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Render",
+    "meaning": "To provide or give (a service, help, etc.); to cause to become; or to represent artistically",
+    "shortMeaning": "provide, cause to be, or represent",
+    "example": "The jury rendered its verdict.",
+    "example2": "The accident rendered him unconscious.",
+    "example3": "The architect rendered a drawing of the building.",
+    "Explanation": "'Render' is a formal and versatile verb with several meanings. The main ones are: 1) to give or provide (render assistance, render a verdict), 2) to cause to be or become (render useless, render harmless), and 3) in art/computing, to create a visual representation (render an image). It often implies a transformation or the formal presentation of something. It's common in legal, technical, and artistic contexts. It's a stronger, more specific word than 'give' or 'make'.",
+    "synonyms": [
+      "provide",
+      "make",
+      "deliver",
+      "depict"
+    ],
+    "antonyms": [
+      "withhold",
+      "preserve"
+    ],
+    "nounForm": "rendering",
+    "verbForm": "render",
+    "adjectiveForm": "rendered",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, computing/graphics, cooking (render fat), formal assistance",
+    "usageTip": "In computing, 'rendering' is creating an image from a model.",
+    "commonMistake": "Using it in everyday speech where 'give' or 'make' would be simpler and more natural.",
+    "collocations": [
+      "render a service",
+      "render obsolete",
+      "final render"
+    ]
+  },
+  {
+    "word": "Render",
+    "meaning": "To generate or display a visual graphic output from data on a computer screen",
+    "shortMeaning": "generate screen graphics",
+    "example": "The browser takes HTML and CSS styles to render the layout on the desktop window.",
+    "example2": "It takes too long to render complex shadows on older mobile devices.",
+    "example3": "The application will render a loader element while the backend API fetches data.",
+    "Explanation": "The word 'render' is a crucial core term in frontend web development and graphics engineering. It defines the technical action where a browser engine or graphics pipeline processes raw data code and prints actual visual layouts on the hardware monitor interface. Efficient rendering loops ensure applications load swiftly, respond instantly to interaction inputs, and maintain steady frame rates.",
+    "synonyms": [
+      "display",
+      "draw",
+      "generate visuals"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal"
+    ],
+    "nounForm": "rendering",
+    "verbForm": "render",
+    "adjectiveForm": "rendered",
+    "partOfSpeech": "verb",
+    "commonContext": "Web browsers layouts drawing, UI framework lifecycles, and 3D application systems",
+    "usageTip": "Use 'render' to define the exact point where code transforms into visual pixels on user screens.",
+    "commonMistake": "Confusing 'render' with 'compile'; compilation produces machine code, rendering produces visual graphics.",
+    "collocations": [
+      "render on screen",
+      "conditionally render",
+      "render UI components"
+    ]
+  }
+]

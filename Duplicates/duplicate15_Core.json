@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Core",
+    "meaning": "The central, most important, or essential part of something",
+    "shortMeaning": "central and essential part",
+    "example": "Trust is at the core of any good relationship.",
+    "example2": "The company's core business is software development.",
+    "example3": "Remove the apple's core before eating it.",
+    "Explanation": "The 'core' is the heart or foundation of something. It can be physical (the center of a fruit) or abstract (core values, core principles). Describing something as 'core' means it is fundamental, not optional or peripheral. In business, 'core competencies' are a company's main strengths. It's a powerful word to emphasize what is truly central and indispensable.",
+    "synonyms": [
+      "heart",
+      "center",
+      "essence",
+      "foundation",
+      "nucleus"
+    ],
+    "antonyms": [
+      "periphery",
+      "surface",
+      "exterior",
+      "supplement"
+    ],
+    "nounForm": "core",
+    "verbForm": "core (as in to remove a core)",
+    "adjectiveForm": "core",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Business strategy, personal values, anatomy, geology, computing (CPU core)",
+    "usageTip": "Use as an adjective (core team, core issue) or noun (get to the core of the problem).",
+    "commonMistake": "Confusing 'core' with 'corps' (a group of people) or 'corpse' (a dead body).",
+    "collocations": [
+      "core values",
+      "core team",
+      "at its core",
+      "core functionality"
+    ]
+  },
+  {
+    "word": "Core",
+    "meaning": "The central or most important part of something",
+    "shortMeaning": "the center",
+    "example": "Security is at the core of our software design.",
+    "example2": "He focused on the core features of the app.",
+    "example3": "The core of the issue is the network connection.",
+    "Explanation": "The word 'core' refers to the essential part of a system, idea, or object. In programming, the 'core' often refers to the basic, central components that make a program function, such as the 'core library'. Everything else is usually built around this central piece. Understanding the 'core' of any technology is the first step toward mastering it.",
+    "synonyms": [
+      "center",
+      "essential",
+      "foundation"
+    ],
+    "antonyms": [
+      "periphery",
+      "exterior",
+      "surface"
+    ],
+    "nounForm": "core",
+    "verbForm": "N/A",
+    "adjectiveForm": "core",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Programming, architecture, and business",
+    "usageTip": "Use 'core' to describe the most critical part.",
+    "commonMistake": "Using 'core' to describe something minor.",
+    "collocations": [
+      "core features",
+      "core values",
+      "core logic"
+    ]
+  },
+  {
+    "word": "Core",
+    "meaning": "To remove the central part of something or the most important part",
+    "shortMeaning": "remove central part",
+    "example": "In this context, to core the system means to remove the legacy kernel.",
+    "example2": "We need to core the old data structures before updating the app.",
+    "example3": "The process will core the unnecessary features from the software.",
+    "Explanation": "While 'core' usually refers to the center of a fruit or a CPU, as a verb in technical slang, it can mean stripping something down to its essential parts. For instance, 'coring' a system might involve removing the heavy, central components to make it lighter or more efficient. It is often used when refactoring old software to get rid of outdated code that is at the heart of the system. This process requires a deep understanding of how the software functions. It is a high-risk task because the core is what everything else depends on. Be careful to maintain stability while performing such operations.",
+    "synonyms": [
+      "strip",
+      "hollow out",
+      "extract"
+    ],
+    "antonyms": [
+      "add",
+      "fill",
+      "augment"
+    ],
+    "nounForm": "core",
+    "verbForm": "core",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "System refactoring, hardware engineering",
+    "usageTip": "Use 'core' when you are removing the very center or foundation of a piece of technology.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "core the system",
+      "remove the core",
+      "core functionality"
+    ]
+  }
+]

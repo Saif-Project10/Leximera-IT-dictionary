@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Markov random",
+    "meaning": "A descriptor for variables or processes that change according to Markovian probability rules",
+    "shortMeaning": "Markovian and random",
+    "example": "The background noise in the signal was modeled as a Markov random process.",
+    "example2": "Markov random variables are used to simulate fluctuating market prices.",
+    "example3": "The distribution of particles follows a Markov random pattern.",
+    "Explanation": "Markov random is a term used to describe systems that are both unpredictable (random) and local (Markov). In these systems, a specific point is influenced only by its immediate neighbors or its immediate current state. It is a building block for more complex theories like 'Markov Random Fields.' Essentially, it tells us that even though things look chaotic, there is a local rule governing how the next random value appears. This is very common in image processing where a pixel's color is likely similar to the pixels right next to it.",
+    "synonyms": [
+      "stochastic Markovian",
+      "locally random"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "Markov random",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Signal processing and advanced mathematics",
+    "usageTip": "Use this phrase to describe the nature of a variable in a probabilistic equation.",
+    "commonMistake": "Confusing 'completely random' (white noise) with 'Markov random' (where there is a local connection).",
+    "collocations": [
+      "Markov random variable",
+      "Markov random process",
+      "Markov random walk"
+    ]
+  },
+  {
+    "word": "Markov random",
+    "meaning": "A model where local dependencies define variables",
+    "shortMeaning": "probabilistic model",
+    "example": "The image analysis uses a Markov random field.",
+    "example2": "Markov random processes help in predicting trends.",
+    "example3": "He studies Markov random fields for spatial data.",
+    "Explanation": "Markov random refers to a class of statistical models where variables are connected by local dependencies. In these models, the state of a variable depends only on its neighbors. They are widely used in computer vision, image processing, and physics to model spatial relationships. They allow systems to make predictions based on local context rather than global information, which is computationally efficient for large datasets.",
+    "synonyms": [
+      "Markovian model",
+      "MRF"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Markov random field",
+    "verbForm": "N/A",
+    "adjectiveForm": "Markov random",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, physics, image processing",
+    "usageTip": "Use this only in advanced probabilistic modeling contexts.",
+    "commonMistake": "Confusing it with a standard linear Markov chain.",
+    "collocations": [
+      "Markov random field",
+      "Markov random process"
+    ]
+  }
+]

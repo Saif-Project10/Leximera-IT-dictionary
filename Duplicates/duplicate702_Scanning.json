@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Scanning",
+    "meaning": "1. Looking quickly over text or an area to find specific information. 2. Converting a physical document into a digital image.",
+    "shortMeaning": "looking over quickly; digitizing",
+    "example": "He was scanning the newspaper for the sports scores. (looking)",
+    "example2": "She is scanning the old photos to preserve them. (digitizing)",
+    "example3": "The security camera is constantly scanning the room. (sweeping over)",
+    "Explanation": "'Scanning' is the present participle of the verb 'scan'. It involves a rapid but purposeful examination, either with the eyes (scanning a page) or with a machine (scanning a barcode, scanning a document). In computing, a port scan checks for open network ports. The action is typically systematic but fast, aimed at locating specific data rather than absorbing all details. It's a common activity in reading, security, and data entry.",
+    "synonyms": [
+      "skimming",
+      "glancing over",
+      "digitizing",
+      "sweeping"
+    ],
+    "antonyms": [
+      "scrutinizing",
+      "studying"
+    ],
+    "nounForm": "scan",
+    "verbForm": "scan",
+    "adjectiveForm": "scanning",
+    "partOfSpeech": "verb (present participle/gerund)",
+    "commonContext": "Reading, document management, security, medicine (CT scan)",
+    "usageTip": "Use 'scanning' for the action of looking over something quickly or using a machine to create a digital copy.",
+    "commonMistake": "Confusing 'scanning' (quick look) with 'skimming' (reading quickly for main ideas). They are very similar, but 'scanning' is more about searching for a specific piece of information.",
+    "collocations": [
+      "scanning documents",
+      "scanning the horizon",
+      "scan for viruses",
+      "eye scanning"
+    ]
+  },
+  {
+    "word": "Scanning",
+    "meaning": "The continuous process of examining, reading, or searching for specific information or threats.",
+    "shortMeaning": "examining",
+    "example": "Port scanning is a common technique used by attackers.",
+    "example2": "The system is scanning for new updates.",
+    "example3": "Document scanning is automated in our office.",
+    "Explanation": "The word 'scanning' describes the action of looking through data or physical space systematically. It implies an active process, often used in IT to refer to network monitoring, malware detection, or OCR tasks. Unlike 'scanned' which implies completion, 'scanning' focuses on the activity itself. It is a critical part of maintaining security and keeping information organized in large systems.",
+    "synonyms": [
+      "examining",
+      "searching",
+      "inspecting"
+    ],
+    "antonyms": [
+      "stopping",
+      "ignoring"
+    ],
+    "nounForm": "scan",
+    "verbForm": "scan",
+    "adjectiveForm": "scanning",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security, hardware, and data processing",
+    "usageTip": "Use 'scanning' for active, ongoing processes.",
+    "commonMistake": "Overestimating the speed of a scan in resource-intensive tasks.",
+    "collocations": [
+      "port scanning",
+      "scanning process",
+      "virus scanning"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Subband",
+    "meaning": "A frequency range that is a subdivision of a larger frequency band.",
+    "shortMeaning": "part of a frequency",
+    "example": "The audio signal is divided into subbands for compression.",
+    "example2": "Subband coding is used in many audio formats.",
+    "example3": "We processed each subband to remove the noise.",
+    "Explanation": "The word 'subband' refers to a smaller segment of a larger frequency range. It is used in signal processing, such as audio or video compression. By splitting a signal into multiple subbands, you can compress or manipulate each band differently. This allows for higher efficiency and better quality, as you can allocate more 'bits' to the bands that matter most to the human eye or ear.",
+    "synonyms": [
+      "sub-frequency",
+      "sub-segment"
+    ],
+    "antonyms": [
+      "full-band",
+      "wideband"
+    ],
+    "nounForm": "subband",
+    "verbForm": "N/A",
+    "adjectiveForm": "subband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Signal processing and compression",
+    "usageTip": "Use 'subband' when talking about audio/signal frequency divisions.",
+    "commonMistake": "Assuming all subbands are of equal importance in every signal.",
+    "collocations": [
+      "subband coding",
+      "subband processing",
+      "audio subband"
+    ]
+  },
+  {
+    "word": "Subband",
+    "meaning": "A specific, smaller range of frequencies within a larger band.",
+    "shortMeaning": "frequency part",
+    "example": "The audio is split into several subband components.",
+    "example2": "The radio uses subband tuning for clearer signals.",
+    "example3": "The processing unit analyzes each subband individually.",
+    "Explanation": "In audio engineering, signal processing, and telecommunications, a 'subband' is a division of a larger frequency band. By breaking a signal into subbands, a system can compress, filter, or enhance specific parts (like isolating bass from treble). It is a technical noun. It is critical in modern signal processing algorithms, such as MP3 or JPEG compression. Use it when explaining how data is broken down to be managed or optimized more effectively.",
+    "synonyms": [
+      "frequency range",
+      "segment",
+      "division"
+    ],
+    "antonyms": [
+      "broadband",
+      "full-band"
+    ],
+    "nounForm": "subband",
+    "verbForm": "N/A",
+    "adjectiveForm": "subband",
+    "partOfSpeech": "noun",
+    "commonContext": "Signal processing, audio, telecommunications",
+    "usageTip": "Use 'subband' for specific frequency divisions.",
+    "commonMistake": "Using 'subband' when you mean 'channel' (they are different).",
+    "collocations": [
+      "subband coding",
+      "subband filter",
+      "subband processing"
+    ]
+  }
+]

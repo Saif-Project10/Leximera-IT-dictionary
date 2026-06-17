@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Line code",
+    "meaning": "A method used to convert digital data into electrical pulses for transmission over a wire",
+    "shortMeaning": "digital-to-pulse signal",
+    "example": "Ethernet uses a specific line code to send data over copper cables.",
+    "example2": "The choice of line code affects how much bandwidth a connection uses.",
+    "example3": "A good line code helps prevent errors caused by electrical noise.",
+    "Explanation": "Line coding is the process of representing a digital signal by a waveform suitable for transmission over a physical path. In simple terms, it's how we turn 1s and 0s into voltage changes (like +5V or -5V). Different line codes, such as Manchester encoding or AMI, have different goals. Some are designed to be very fast, while others are designed to make sure the receiver stays 'in sync' with the sender. It is a 'Layer 1' (Physical layer) concept in networking. Without line codes, the electrical signals on a wire would just be a mess that the computer couldn't understand. It is fundamental to telecommunications and hardware design.",
+    "synonyms": [
+      "digital line signal",
+      "baseband signal"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "line coding",
+    "verbForm": "line code",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Telecommunications, networking hardware, and electrical engineering",
+    "usageTip": "Mention line code when discussing how raw data is actually sent over a fiber optic or copper wire.",
+    "commonMistake": "Confusing 'line code' with 'source code' (programming); line code is about electrical signals, not writing apps.",
+    "collocations": [
+      "binary line code",
+      "standard line code",
+      "line code efficiency"
+    ]
+  },
+  {
+    "word": "Line code",
+    "meaning": "A pattern used to represent digital data on a transmission medium like a wire or fiber",
+    "shortMeaning": "digital signal pattern",
+    "example": "Manchester encoding is a common line code used in Ethernet.",
+    "example2": "We need to choose a line code that minimizes errors over long distances.",
+    "example3": "The hardware uses a specific line code to turn bits into electrical pulses.",
+    "Explanation": "In telecommunications, 'line code' (or 'line coding') is the method of converting a string of 1s and 0s into a physical signal that can travel through a cable. Since wires can't just 'send a 1', they send a specific voltage change. Different line codes are designed for different purposes: some save power, some prevent errors, and some help the receiver stay synchronized with the sender. It is a low-level concept in the 'Physical Layer' of networking. Without proper line coding, high-speed internet over copper wires would be impossible.",
+    "synonyms": [
+      "digital baseband modulation",
+      "transmission code",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "line coding",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Networking, Telecommunications, Electrical Engineering",
+    "usageTip": "Use this term when discussing the physics of how data moves through a wire.",
+    "commonMistake": "Confusing 'line code' with 'programming code'. Line code is about electrical signals, not logic.",
+    "collocations": [
+      "line coding scheme",
+      "binary line code",
+      "N/A"
+    ]
+  }
+]

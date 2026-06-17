@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Refute",
+    "meaning": "To prove a statement or theory to be wrong or false; to deny.",
+    "shortMeaning": "disprove, rebut",
+    "example": "The scientist refuted the old theory with new evidence.",
+    "example2": "He refuted the accusations against him in court.",
+    "example3": "It's hard to refute such a well-argued point.",
+    "Explanation": "To 'refute' is a formal verb meaning to prove something wrong using evidence and argument. It is stronger than 'deny' because it involves providing counter-evidence. It is often used in academic debates, legal settings, and logical discussions. A common mistake is using it to mean simply 'deny' without offering proof. The noun form is 'refutation'. It is a word of conviction and logic, used when successfully countering an argument. The person doing it is providing a rebuttal.",
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "discredit",
+      "counter"
+    ],
+    "antonyms": [
+      "prove",
+      "confirm",
+      "validate",
+      "agree with"
+    ],
+    "nounForm": "refutation",
+    "verbForm": "refute",
+    "adjectiveForm": "refutable",
+    "partOfSpeech": "verb",
+    "commonContext": "Debates, science, law, philosophy",
+    "usageTip": "Use 'refute' when you have evidence against something. Use 'deny' if you are just saying it's not true.",
+    "commonMistake": "Using 'refute' as a synonym for 'deny' (e.g., 'He refuted the allegations' without proof). In strict usage, 'deny' is better there.",
+    "collocations": [
+      "refute a claim",
+      "refute an argument",
+      "categorically refute",
+      "successfully refute"
+    ]
+  },
+  {
+    "word": "Refute",
+    "meaning": "To prove a technical claim, error report, or system vulnerability accusation to be false using data, logs, or factual evidence",
+    "shortMeaning": "prove a claim false",
+    "example": "The software testing team used automated test logs to refute the claim that the database update caused data loss.",
+    "example2": "You can easily refute that argument by showing the system performance benchmarks from your terminal.",
+    "example3": "The network admin provided detailed server records to refute the accusation of an internal security breach.",
+    "Explanation": "The word 'refute' is applied during technical debates, system audits, and issue tracking. In collaborative software development environments, disagreements frequently arise regarding why an application crashed, which code caused a performance lag, or whether a specific system vulnerability is real. To refute an assertion means to present definitive, factual proof—such as error stack traces, execution timestamps, system log reports, or physical benchmark metrics—that demonstrates the accusation or theory is completely incorrect. It emphasizes objective evidence over subjective opinions or guesswork.",
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "deny with proof"
+    ],
+    "antonyms": [
+      "confirm",
+      "verify",
+      "support"
+    ],
+    "nounForm": "refutation",
+    "verbForm": "refute",
+    "adjectiveForm": "refutable",
+    "partOfSpeech": "verb",
+    "commonContext": "Technical discussions, system audits, debugging reviews, code disputes",
+    "usageTip": "Use 'refute' only when you have solid factual logs, data, or tests that definitively prove a statement or claim is false.",
+    "commonMistake": "Using 'refute' when you simply mean 'disagree' or 'deny' without having any factual proof to support your claim.",
+    "collocations": [
+      "refute a claim",
+      "refute allegations",
+      "successfully refute"
+    ]
+  }
+]

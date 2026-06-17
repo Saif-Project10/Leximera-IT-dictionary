@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unlinked",
+    "meaning": "Not connected or related to something else",
+    "shortMeaning": "not connected",
+    "example": "The database contains many unlinked records that need cleaning.",
+    "example2": "These two modules are currently unlinked in the architecture.",
+    "example3": "We found some unlinked assets in the root folder.",
+    "Explanation": "Unlinked refers to items, data, or files that have no connection to a primary source or reference. In web development, an unlinked page is one that cannot be reached via navigation. In databases, unlinked records are data entries without a proper relationship to a parent record. It is common to perform 'unlinked' checks to remove orphaned data and improve database performance. The word helps identify broken dependencies.",
+    "synonyms": [
+      "disconnected",
+      "detached",
+      "isolated"
+    ],
+    "antonyms": [
+      "linked",
+      "connected",
+      "related"
+    ],
+    "nounForm": "link",
+    "verbForm": "unlink",
+    "adjectiveForm": "unlinked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, file management, web development",
+    "usageTip": "Use this to describe items that should be connected but aren't.",
+    "commonMistake": "Confusing it with 'deleted'; unlinked data still exists but is disconnected.",
+    "collocations": [
+      "unlinked records",
+      "unlinked files",
+      "unlinked assets"
+    ]
+  },
+  {
+    "word": "Unlinked",
+    "meaning": "Not connected to other parts via a hyperlink or data pointer.",
+    "shortMeaning": "not linked",
+    "example": "The page is unlinked and cannot be found by users.",
+    "example2": "Check for any unlinked images that are taking up space.",
+    "example3": "An unlinked document is invisible to the navigation menu.",
+    "Explanation": "An 'unlinked' item is present in your project but is not accessible through standard paths or pointers. On a website, this can be bad because users won't find important pages. In database management, unlinked entries might become 'orphaned' data that serves no purpose but still occupies space. Identifying and fixing unlinked elements is part of web auditing and project cleanup to ensure all parts of the system are accessible and relevant.",
+    "synonyms": [
+      "disconnected",
+      "detached",
+      "unconnected"
+    ],
+    "antonyms": [
+      "linked",
+      "connected",
+      "attached"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "link",
+    "adjectiveForm": "unlinked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development and database maintenance",
+    "usageTip": "Use to describe broken navigation or orphans.",
+    "commonMistake": "Confusing 'unlinked' with 'broken link' (which is linked but doesn't work).",
+    "collocations": [
+      "unlinked page",
+      "unlinked data",
+      "unlinked file"
+    ]
+  }
+]

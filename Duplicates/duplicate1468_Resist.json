@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Resist",
+    "meaning": "Withstand the action or effect of; try to prevent by action or argument",
+    "shortMeaning": "withstand, oppose",
+    "example": "The material resists water.",
+    "example2": "He could not resist eating the cake.",
+    "example3": "They resisted the new policy.",
+    "Explanation": "'Resist' is a verb meaning to oppose, fight against, or refrain from. It can be used for physical forces (resist pressure), temptations (resist chocolate), or ideas (resist change). It implies an active effort to not give in. The noun is 'resistance'. It's a common word in everyday language, science (electrical resistance), and politics (civil resistance). The phrase 'can't resist' is very common to express a strong desire or lack of self-control. It's about pushing back against something.",
+    "synonyms": [
+      "oppose",
+      "withstand",
+      "refrain from"
+    ],
+    "antonyms": [
+      "accept",
+      "surrender",
+      "yield to"
+    ],
+    "nounForm": "resistance",
+    "verbForm": "resist",
+    "adjectiveForm": "resistive",
+    "partOfSpeech": "verb",
+    "commonContext": "Temptation, force, change, authority",
+    "usageTip": "Often followed by a noun (resist temptation) or a gerund (resist eating).",
+    "commonMistake": "Using 'resist to' + verb. It's 'resist' + gerund (resist going), not 'resist to go'.",
+    "collocations": [
+      "resist arrest",
+      "hard to resist",
+      "resist change"
+    ]
+  },
+  {
+    "word": "Resist",
+    "meaning": "To fight against, withstand, or remain undamaged by an external force or action",
+    "shortMeaning": "withstand or oppose",
+    "example": "The security system is updated daily to resist advanced ransomware attacks.",
+    "example2": "Solid-state drives resist physical shock much better than traditional mechanical hard drives.",
+    "example3": "Older employees might resist shifting to new cloud-based project tracking systems.",
+    "Explanation": "The word 'resist' describes standing strong against pressure, damage, or changes. In hardware engineering, it describes physical resistance to environmental damage (like heat or shock). In cybersecurity, it refers to an application's capability to defend its codebase and reject exploit attempts. In business management, it can describe human opposition to corporate digital transformations. The noun form is 'resistance'.",
+    "synonyms": [
+      "withstand",
+      "oppose",
+      "defend against"
+    ],
+    "antonyms": [
+      "yield",
+      "succumb",
+      "surrender"
+    ],
+    "nounForm": "resistance",
+    "verbForm": "resist",
+    "adjectiveForm": "resistant",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity defense, hardware durability metrics, and organizational change management",
+    "usageTip": "Use 'resist' when describing how a system or material successfully withstands damage or opposition.",
+    "commonMistake": "Using 'resist' when you mean to completely eliminate a threat; it just means to withstand it.",
+    "collocations": [
+      "resist attacks",
+      "resist change",
+      "highly resistant"
+    ]
+  }
+]

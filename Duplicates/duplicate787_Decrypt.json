@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Decrypt",
+    "meaning": "To convert encrypted or coded data back into its original form.",
+    "shortMeaning": "unscramble coded data",
+    "example": "You need a special key to decrypt the file.",
+    "example2": "The software can decrypt messages sent with that algorithm.",
+    "example3": "The agent spent hours trying to decrypt the communication.",
+    "Explanation": "'Decrypt' is a technical verb specifically related to cryptography and cybersecurity. It is the process of making encrypted information readable again by using a key or password. It is synonymous with 'decode' in digital contexts but is more precise for modern encryption. The noun form is 'decryption'. In our digital age, the ability to encrypt and decrypt data is fundamental for privacy and security. It is the reverse of 'encrypt'.",
+    "synonyms": [
+      "decode",
+      "decipher",
+      "unscramble",
+      "unencrypt"
+    ],
+    "antonyms": [
+      "encrypt",
+      "encipher",
+      "encode"
+    ],
+    "nounForm": "decryption",
+    "verbForm": "decrypt",
+    "adjectiveForm": "decrypted",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, computing, data privacy, espionage",
+    "usageTip": "Use 'decrypt' specifically for converting electronically encrypted data back to its readable form.",
+    "commonMistake": "Using 'decrypt' for simple puzzles or codes. It's best reserved for technical, digital encryption contexts.",
+    "collocations": [
+      "decrypt a file",
+      "decrypt the data",
+      "encrypt and decrypt",
+      "decrypt using a key"
+    ]
+  },
+  {
+    "word": "Decrypt",
+    "meaning": "To convert hidden or secret data back into a readable form using a key",
+    "shortMeaning": "unlock secret data",
+    "example": "Only the person with the private key can decrypt the message.",
+    "example2": "The website will decrypt your login data to verify your identity.",
+    "example3": "It takes a lot of computing power to decrypt strong encryption without a key.",
+    "Explanation": "Decryption is the core of cybersecurity. While 'decode' is just a translation of formats, 'decrypt' is about security. When data is encrypted (scrambled so no one can read it), you must 'decrypt' it using a specific password or digital key to see the original content. This keeps your credit card numbers, passwords, and private messages safe online. If you lose the key, decrypting the data becomes almost impossible, which is the point of strong encryption.",
+    "synonyms": [
+      "decipher",
+      "unscramble",
+      "decode"
+    ],
+    "antonyms": [
+      "encrypt",
+      "cipher",
+      "scramble"
+    ],
+    "nounForm": "decryption",
+    "verbForm": "decrypt",
+    "adjectiveForm": "decrypted",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, banking, and private messaging",
+    "usageTip": "Use 'decrypt' specifically when security keys or passwords are involved.",
+    "commonMistake": "Using 'decrypt' for simple format changes (that is 'decode').",
+    "collocations": [
+      "decrypt the file",
+      "successfully decrypt",
+      "decryption key"
+    ]
+  }
+]

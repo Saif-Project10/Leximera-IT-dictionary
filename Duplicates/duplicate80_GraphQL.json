@@ -1,0 +1,62 @@
+[
+  {
+    "word": "GraphQL",
+    "meaning": "A query language and runtime for APIs that allows clients to request exactly the data they need, nothing more and nothing less.",
+    "shortMeaning": "flexible API query language",
+    "example": "The mobile app uses GraphQL to fetch only the user's name and profile picture, not their entire profile.",
+    "example2": "With GraphQL, you can get data from multiple resources (users, posts, comments) in a single request.",
+    "example3": "The frontend team writes GraphQL queries to specify their data requirements.",
+    "Explanation": "GraphQL was developed by Facebook to solve inefficiencies in REST APIs, like over-fetching (getting too much data) or under-fetching (needing multiple requests). In GraphQL, the client sends a query describing the precise data structure it wants, and the server returns exactly that. It has a single endpoint, unlike REST's multiple endpoints. This gives frontend developers more control and efficiency. However, it shifts complexity to the server side for query parsing and optimization. It's particularly useful for complex systems with many interconnected data types and multiple clients (web, mobile) with different data needs.",
+    "synonyms": [
+      "declarative data fetching",
+      "flexible query API"
+    ],
+    "antonyms": [
+      "fixed-response API",
+      "REST API",
+      "over-fetching endpoint"
+    ],
+    "nounForm": "GraphQL",
+    "verbForm": "query (using GraphQL)",
+    "adjectiveForm": "GraphQL (as in GraphQL schema)",
+    "partOfSpeech": "noun",
+    "commonContext": "Modern web/mobile app development, complex data requirements, microservices aggregation",
+    "usageTip": "Pronounced 'graph-Q-L'. It is both a query language (like SQL for databases) and a runtime for executing those queries.",
+    "commonMistake": "Thinking GraphQL replaces REST entirely. Both have their places; REST is often simpler for basic CRUD operations, while GraphQL excels in complex, data-driven applications.",
+    "collocations": [
+      "GraphQL query",
+      "GraphQL schema",
+      "GraphQL server",
+      "GraphQL endpoint",
+      "run a GraphQL"
+    ]
+  },
+  {
+    "word": "GraphQL",
+    "meaning": "A query language for APIs that allows clients to request exactly the data they need",
+    "shortMeaning": "Flexible API language",
+    "example": "We are migrating our REST API to GraphQL.",
+    "example2": "The GraphQL schema defines the data types available.",
+    "example3": "GraphQL allows for more efficient frontend queries.",
+    "Explanation": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with existing data. Unlike REST, where the server defines the structure of the response, GraphQL allows the client to ask for specific fields, reducing data overhead. A 'GraphQL schema' is the blueprint of the API. It is used as a proper noun. It is a powerful, industry-standard tool for modern frontend/backend integration.",
+    "synonyms": [
+      "API query language"
+    ],
+    "antonyms": [
+      "REST",
+      "SOAP"
+    ],
+    "nounForm": "GraphQL",
+    "verbForm": "N/A",
+    "adjectiveForm": "GraphQL",
+    "partOfSpeech": "noun",
+    "commonContext": "API development and backend integration",
+    "usageTip": "Use 'GraphQL' when discussing modern, flexible API data fetching.",
+    "commonMistake": "Assuming GraphQL is a database rather than a query language.",
+    "collocations": [
+      "GraphQL schema",
+      "GraphQL query",
+      "migrate to GraphQL"
+    ]
+  }
+]

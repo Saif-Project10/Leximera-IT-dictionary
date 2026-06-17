@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Capture",
+    "meaning": "To take someone as a prisoner; to record or represent something successfully.",
+    "shortMeaning": "catch, record",
+    "example": "The army managed to capture the city.",
+    "example2": "The photo perfectly captures her happiness.",
+    "example3": "The story captured the imagination of children.",
+    "Explanation": "The verb 'capture' has both literal and figurative meanings. Literally, it means to catch and hold a person or animal. Figuratively, it means to successfully represent a feeling, image, or moment (in art, writing, or photography) or to gain control of something like a market. It is a strong, active word. The noun form is 'capture' or 'captor'. A common mistake is using it only in a military context. It is widely used in technology (capture data), business (capture market share), and the arts.",
+    "synonyms": [
+      "catch",
+      "seize",
+      "record"
+    ],
+    "antonyms": [
+      "release",
+      "free",
+      "lose"
+    ],
+    "nounForm": "capture",
+    "verbForm": "capture",
+    "adjectiveForm": "captivating",
+    "partOfSpeech": "verb",
+    "commonContext": "War, photography, business, attention",
+    "usageTip": "In technology, it means to record or collect data (e.g., capture an image).",
+    "commonMistake": "Confusing 'capture' with 'catch'. 'Capture' often implies more effort, control, or permanence.",
+    "collocations": [
+      "capture attention",
+      "capture the moment",
+      "capture alive"
+    ]
+  },
+  {
+    "word": "Capture",
+    "meaning": "To take into one's possession or to record something accurately",
+    "shortMeaning": "take or record",
+    "example": "The software can capture screenshots automatically.",
+    "example2": "The police were able to capture the hacker after a long investigation.",
+    "example3": "Use a camera to capture the moment of the product launch.",
+    "Explanation": "Capture is a versatile word in IT that refers to recording data or taking control. It is commonly used for screen recording, photo taking, or seizing network traffic. In a broader sense, it means to represent something accurately in a digital format. It can be a physical action or a digital recording process. Developers often use this term when discussing how a system gathers input from a user.",
+    "synonyms": [
+      "seize",
+      "record",
+      "catch"
+    ],
+    "antonyms": [
+      "release",
+      "lose",
+      "free"
+    ],
+    "nounForm": "capture",
+    "verbForm": "capture",
+    "adjectiveForm": "captured",
+    "partOfSpeech": "verb",
+    "commonContext": "Photography, security, and data entry",
+    "usageTip": "Use 'capture' when you are turning a real-world action into data.",
+    "commonMistake": "Thinking 'capture' only means catching a criminal; it is often about recording.",
+    "collocations": [
+      "screen capture",
+      "capture a photo",
+      "capture the essence"
+    ]
+  }
+]

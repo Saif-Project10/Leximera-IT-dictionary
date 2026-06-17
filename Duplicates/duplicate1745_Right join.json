@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Right join",
+    "meaning": "A database operation that combines two tables and returns all rows from the second table",
+    "shortMeaning": "SQL right-side link",
+    "example": "Use a right join if you want to see all the products, even those that haven't been ordered.",
+    "example2": "The right join returned 'NULL' for the missing customer information.",
+    "example3": "A right join is the opposite of a left join in SQL.",
+    "Explanation": "In SQL (Structured Query Language), a 'Right Join' (or 'Right Outer Join') is used to combine data from two tables (Table A and Table B). It returns *all* the records from the right table (Table B) and only the matching records from the left table (Table A). If there is no match in Table A, the result will show 'NULL' for those columns. It is useful when you have a 'master' list on the right and you want to see how much of it matches with your 'secondary' list on the left. In practice, many developers use 'Left Join' and simply switch the order of tables because it's easier to think about.",
+    "synonyms": [
+      "right outer join"
+    ],
+    "antonyms": [
+      "left join",
+      "inner join"
+    ],
+    "nounForm": "right join",
+    "verbForm": "right join",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Databases and data analysis",
+    "usageTip": "If you are confused by right joins, remember that 'RIGHT' means the table on the right side of the JOIN keyword is the priority.",
+    "commonMistake": "Using a right join when a simple inner join would suffice (inner join removes all non-matching rows).",
+    "collocations": [
+      "perform a right join",
+      "right join syntax",
+      "multiple right joins"
+    ]
+  },
+  {
+    "word": "Right join",
+    "meaning": "A database operation that extracts all records from the right-hand table and matching records from the left-hand table within a relational query",
+    "shortMeaning": "relational database right-side join",
+    "example": "Using a right join ensures that every single product category is displayed even if no products belong to it.",
+    "example2": "The SQL statement executed a right join to pair transaction histories with user profiles.",
+    "example3": "If there are no matching rows on the left side, a right join will insert null values into those columns.",
+    "Explanation": "The term 'right join' (or RIGHT OUTER JOIN) represents an essential operation in relational database systems like MySQL and PostgreSQL. When querying multiple related tables, a right join ensures that every row from the table specified after the JOIN keyword (the right-hand table) is included in the final results dataset. If a row from that right table has matching data in the first table (the left-hand table), those fields are combined. If no match exists, the database engine returns null values for the left table's columns, allowing developers to identify unmatched records across system datasets.",
+    "synonyms": [
+      "right outer join",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "left join",
+      "inner join",
+      "N/A"
+    ],
+    "nounForm": "right join",
+    "verbForm": "right join",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Relational database queries, SQL data modeling, data analysis pipelines",
+    "usageTip": "Use 'right join' when you need to retain all records from the second table listed in your query, regardless of whether the first table has matching data.",
+    "commonMistake": "Using a right join unnecessarily when flipping the table order and using a standard left join would make the query easier to read.",
+    "collocations": [
+      "execute a right join",
+      "right join statement",
+      "columns in a right join"
+    ]
+  }
+]

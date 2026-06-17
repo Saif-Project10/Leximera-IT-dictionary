@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Sprint",
+    "meaning": "In Agile development, a set period (usually 1-4 weeks) during which specific work has to be completed and made ready for review.",
+    "shortMeaning": "Agile work iteration",
+    "example": "We committed to finishing these five user stories in the current two-week sprint.",
+    "example2": "The sprint planning meeting is held at the start of each sprint.",
+    "example3": "At the end of the sprint, we demonstrate the working software to stakeholders.",
+    "Explanation": "A sprint is a fundamental unit of work in the Scrum framework (a popular Agile methodology). It is a time-boxed iteration where a cross-functional team works to complete a set of product backlog items. Each sprint has a goal, and it results in a potentially shippable product increment. Key ceremonies associated with a sprint are Sprint Planning, Daily Standup, Sprint Review, and Sprint Retrospective. A common mistake is changing the sprint goal or adding new work mid-sprint; the scope is fixed to provide focus and stability. Sprints create a regular rhythm for development and feedback.",
+    "synonyms": [
+      "iteration",
+      "cycle",
+      "timebox"
+    ],
+    "antonyms": [
+      "continuous flow",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "sprint",
+    "verbForm": "sprint",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Scrum, Agile project management",
+    "usageTip": "Often modified by its length: 'two-week sprint', 'monthly sprint'.",
+    "commonMistake": "Pronouncing it like the running term (short, fast run). In Agile, it's the same word but refers to a work cycle.",
+    "collocations": [
+      "sprint planning",
+      "sprint goal",
+      "end of sprint"
+    ]
+  },
+  {
+    "word": "Sprint",
+    "meaning": "A set, short period of time during which a development team works to complete specific software tasks",
+    "shortMeaning": "short agile development cycle",
+    "example": "Our development team planning meeting happens at the start of every two-week sprint.",
+    "example2": "We cannot add new features to the current sprint after it has officially started.",
+    "example3": "The primary goal of this sprint is to deploy the updated user checkout system.",
+    "Explanation": "In modern Agile and Scrum software development, a 'sprint' is a time-boxed iteration that typically lasts between one to four weeks. During a sprint, cross-functional teams select an achievable amount of work from the product backlog and commit to finishing it. Sprints keep development structured, predictable, and focused. Each sprint concludes with a demonstration of working software and a review meeting to identify process improvements. This iterative approach allows teams to adapt quickly to changing user requirements without breaking project goals.",
+    "synonyms": [
+      "iteration",
+      "development cycle",
+      "time-box"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "sprint",
+    "verbForm": "sprint",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Agile project management, Scrum frameworks, and software development teams",
+    "usageTip": "Use this term when talking about the structured time increments in software production schedules.",
+    "commonMistake": "Extending a sprint's deadline when work is unfinished; unfinished items should return to the backlog instead.",
+    "collocations": [
+      "sprint planning",
+      "two-week sprint",
+      "sprint backlog"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Forced",
+    "meaning": "1. Obtained or imposed by coercion or effort. 2. Not natural or spontaneous.",
+    "shortMeaning": "made to happen or not genuine",
+    "example": "The government forced the rebels to surrender.",
+    "example2": "She gave a forced smile.",
+    "example3": "A forced landing was necessary due to engine trouble.",
+    "Explanation": "'Forced' is the past tense and past participle of 'force', and is often used as an adjective. As an adjective, it has two main senses. First, something done under compulsion (forced labor). Second, something that seems unnatural, strained, or not sincere (a forced laugh). The word carries negative connotations of lack of freedom or authenticity. In mechanics, 'forced' can describe something operated by external power (forced air heating). It highlights the presence of pressure or effort where it shouldn't be.",
+    "synonyms": [
+      "compelled, coerced (coerced); strained, unnatural, artificial (not genuine)"
+    ],
+    "antonyms": [
+      "voluntary, willing (coerced); natural, spontaneous, genuine (not genuine)"
+    ],
+    "nounForm": "force",
+    "verbForm": "force",
+    "adjectiveForm": "forced",
+    "partOfSpeech": "adjective / verb (past tense/participle)",
+    "commonContext": "Actions under pressure, emotions, mechanics, landings",
+    "usageTip": "Use 'forced' to describe actions done under compulsion or expressions/manner that seem fake.",
+    "commonMistake": "Confusing 'forced' with 'farced' (which is not a common word).",
+    "collocations": [
+      "forced smile",
+      "forced entry",
+      "forced to leave"
+    ]
+  },
+  {
+    "word": "Forced",
+    "meaning": "Done against one's will or by pressure",
+    "shortMeaning": "compelled",
+    "example": "We had to perform a forced shutdown due to a system crash.",
+    "example2": "The browser performed a forced update to patch security.",
+    "example3": "He made a forced exit from the program after the error.",
+    "Explanation": "The word 'forced' describes an action that is mandatory or happens because of an external requirement, often when something goes wrong. In IT, a 'forced shutdown' or 'forced restart' is one done without waiting for the normal exit process. While often necessary in emergencies, it should be avoided if possible as it can lead to data loss or corruption. It implies that there was no choice but to take that specific action. Always use it as a last resort.",
+    "synonyms": [
+      "compulsory",
+      "mandatory",
+      "required"
+    ],
+    "antonyms": [
+      "voluntary",
+      "optional",
+      "chosen"
+    ],
+    "nounForm": "force",
+    "verbForm": "force",
+    "adjectiveForm": "forced",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System management, troubleshooting",
+    "usageTip": "Use 'forced' to describe actions done under necessity or pressure.",
+    "commonMistake": "Confusing 'forced' with 'automatic'.",
+    "collocations": [
+      "forced shutdown",
+      "forced update",
+      "forced restart"
+    ]
+  }
+]

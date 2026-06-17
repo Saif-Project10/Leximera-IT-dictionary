@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Threaded",
+    "meaning": "Containing or using multiple threads of execution",
+    "shortMeaning": "multi-threaded",
+    "example": "The threaded architecture improves performance.",
+    "example2": "We refactored the code to be fully threaded.",
+    "example3": "The application handles tasks in a threaded manner.",
+    "Explanation": "Threaded describes a program or system designed to perform tasks concurrently using multiple execution threads. This allows the system to do more work at once, such as processing user input while running background calculations. While powerful, threaded programs are more complex to write and debug than single-threaded ones. It is often used to describe architecture, systems, or specific processes. Correct management of threads is required to achieve the expected performance gains.",
+    "synonyms": [
+      "multi-threaded",
+      "concurrent"
+    ],
+    "antonyms": [
+      "single-threaded"
+    ],
+    "nounForm": "threading",
+    "verbForm": "thread",
+    "adjectiveForm": "threaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, performance optimization",
+    "usageTip": "Use to describe programs that do parallel work.",
+    "commonMistake": "Confusing 'threaded' with 'thread-safe' (one is about design, the other about safety).",
+    "collocations": [
+      "threaded application",
+      "threaded process",
+      "multi-threaded"
+    ]
+  },
+  {
+    "word": "Threaded",
+    "meaning": "Operating using multiple threads or having a structure involving threads",
+    "shortMeaning": "using threads",
+    "example": "The application uses a threaded approach for background tasks.",
+    "example2": "The communication protocol is multi-threaded.",
+    "example3": "We converted the sequential process to a threaded one.",
+    "Explanation": "Threaded refers to a system or process that uses multithreading. It indicates that the work is divided into independent units that can run at the same time. This is used to make programs faster and more responsive. It is a very common term in software engineering. Be aware that 'threaded' usually implies complexity in managing synchronization, so it should be used when you want to highlight the concurrency aspect of the system.",
+    "synonyms": [
+      "concurrent",
+      "parallel",
+      "multithreaded"
+    ],
+    "antonyms": [
+      "sequential",
+      "single-threaded"
+    ],
+    "nounForm": "thread",
+    "verbForm": "thread",
+    "adjectiveForm": "threaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, parallel processing",
+    "usageTip": "Use 'threaded' to describe programs that perform multiple tasks at once.",
+    "commonMistake": "Confusing 'threaded' with 'threaded' (as in screws/fasteners).",
+    "collocations": [
+      "threaded application",
+      "threaded process",
+      "threaded architecture"
+    ]
+  }
+]

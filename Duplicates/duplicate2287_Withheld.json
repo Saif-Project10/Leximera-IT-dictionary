@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Withheld",
+    "meaning": "Held back or kept from being given or released.",
+    "shortMeaning": "held back",
+    "example": "The data was withheld from the public report for security reasons.",
+    "example2": "Information about the outage was withheld by the server team.",
+    "example3": "Permission was withheld until the audit was complete.",
+    "Explanation": "The word 'withheld' means that something (usually information, permissions, or resources) was intentionally not provided. The base verb is 'withhold'. In IT security, certain logs or system access might be 'withheld' to limit exposure during a breach. It is important to distinguish this from 'withdrawn', which means removing something already provided. 'Withheld' implies the object was requested but denied.",
+    "synonyms": [
+      "reserved",
+      "denied",
+      "hidden"
+    ],
+    "antonyms": [
+      "provided",
+      "released",
+      "given"
+    ],
+    "nounForm": "withholding",
+    "verbForm": "withhold",
+    "adjectiveForm": "withheld",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Data privacy, permissions, security",
+    "usageTip": "Use 'withheld' when talking about information or access that is being kept back.",
+    "commonMistake": "Confusing 'withheld' with 'withdrawn'.",
+    "collocations": [
+      "information withheld",
+      "withheld access",
+      "data was withheld"
+    ]
+  },
+  {
+    "word": "Withheld",
+    "meaning": "Held back or kept from being given",
+    "shortMeaning": "kept back",
+    "example": "The data was withheld for security reasons.",
+    "example2": "He withheld the information from his team.",
+    "example3": "Payment was withheld until the job was finished.",
+    "Explanation": "To withhold means to deliberately keep something from someone or to refuse to give it. In an IT context, information, access, or permissions might be withheld to ensure security or compliance. It implies a conscious decision not to disclose or provide something that was requested or expected. It is a formal word often used in legal, security, or business settings. Use it when describing deliberate restriction of data or resources.",
+    "synonyms": [
+      "retained",
+      "restricted",
+      "held back"
+    ],
+    "antonyms": [
+      "released",
+      "given",
+      "provided"
+    ],
+    "nounForm": "withholding",
+    "verbForm": "withhold",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Data security, legal agreements, management",
+    "usageTip": "Use 'withheld' when someone intentionally keeps information or assets away from others.",
+    "commonMistake": "Using 'withheld' to mean 'withdrawn' (they imply different actions).",
+    "collocations": [
+      "withheld information",
+      "withheld access",
+      "withheld payment"
+    ]
+  }
+]

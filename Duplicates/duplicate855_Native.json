@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Native",
+    "meaning": "Belonging to a person or thing by nature; inherent; originating in a particular place.",
+    "shortMeaning": "inherent; originating from",
+    "example": "Spanish is her native language.",
+    "example2": "The kangaroo is native to Australia.",
+    "example3": "He has a native talent for public speaking.",
+    "Explanation": "Native has two primary meanings. First, it describes something innate or inherent (native ability). Second, and most common, it refers to being associated with a place by birth or origin (native country, native species). When referring to people, it's important to use it respectfully and in appropriate contexts (e.g., Native Americans). In computing, 'native' means designed for a specific system (native app). The word often carries a sense of authenticity and natural belonging. The opposite can be 'foreign', 'non-native', or 'acquired'.",
+    "synonyms": [
+      "indigenous",
+      "innate",
+      "inborn",
+      "local",
+      "natural"
+    ],
+    "antonyms": [
+      "foreign",
+      "non-native",
+      "acquired",
+      "alien"
+    ],
+    "nounForm": "native (person)",
+    "verbForm": "nativize",
+    "adjectiveForm": "native",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Language, species, country, computing, ability",
+    "usageTip": "When referring to people, it's often part of a proper noun (Native American) and should be capitalized.",
+    "commonMistake": "Using 'native' in a way that could be seen as derogatory. It's best used for plants, animals, languages, or with proper capitalization for ethnic groups.",
+    "collocations": [
+      "native language",
+      "native species",
+      "native country",
+      "native app"
+    ]
+  },
+  {
+    "word": "Native",
+    "meaning": "Built specifically for a platform or running without extra layers",
+    "shortMeaning": "built-in / platform-specific",
+    "example": "We are developing a native mobile app for iOS.",
+    "example2": "The library is native to the programming language.",
+    "example3": "Native code runs faster than interpreted code.",
+    "Explanation": "The word 'native' in IT means something that is designed to run directly on a specific platform (like Windows, Android, or iOS) or is built into the language itself. A 'native' app uses the platform's own tools, which makes it faster and more capable than a cross-platform (hybrid) app. 'Native code' runs directly on the hardware without needing an extra layer of software (an interpreter or virtual machine). Choosing 'native' solutions is the standard when high performance and deep hardware access are required.",
+    "synonyms": [
+      "built-in",
+      "direct",
+      "platform-specific"
+    ],
+    "antonyms": [
+      "cross-platform",
+      "hybrid",
+      "interpreted"
+    ],
+    "nounForm": "nativeness",
+    "verbForm": "N/A",
+    "adjectiveForm": "native",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile development and software architecture",
+    "usageTip": "Use when describing software that runs directly on its platform.",
+    "commonMistake": "Confusing 'native' (fast) with 'web-based' (slower).",
+    "collocations": [
+      "native app",
+      "native code"
+    ]
+  }
+]

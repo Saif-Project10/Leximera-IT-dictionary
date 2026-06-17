@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Native mobile",
+    "meaning": "Relating to applications or features built specifically for a mobile operating system",
+    "shortMeaning": "mobile-specific",
+    "example": "We are moving toward a native mobile strategy for our banking app.",
+    "example2": "Native mobile features like biometric login are very secure.",
+    "example3": "The native mobile experience is much smoother than a mobile website.",
+    "Explanation": "Native mobile is an umbrella term used to describe anything built specifically for mobile platforms (iOS and Android). It contrasts with 'web-based' or 'hybrid' approaches. When a company says they are 'going native mobile', it means they want to build apps that take full advantage of the phone's hardware and design. This usually results in apps that feel faster, look better, and are more reliable. It is a standard term in business and technology planning when deciding how to reach customers on their smartphones.",
+    "synonyms": [
+      "mobile-native",
+      "platform-native"
+    ],
+    "antonyms": [
+      "mobile web",
+      "responsive web"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "native mobile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business strategy and mobile development",
+    "usageTip": "Use this term when discussing the quality and performance of mobile software.",
+    "commonMistake": "Confusing it with a 'web app' that just looks like a mobile app.",
+    "collocations": [
+      "native mobile development",
+      "native mobile experience",
+      "native mobile features"
+    ]
+  },
+  {
+    "word": "Native mobile",
+    "meaning": "Apps designed exclusively for mobile operating systems like iOS or Android",
+    "shortMeaning": "mobile-exclusive",
+    "example": "Native mobile apps provide the best user experience.",
+    "example2": "We chose native mobile development to access the camera.",
+    "example3": "Performance is critical for our native mobile platform.",
+    "Explanation": "A 'native mobile' application is software created using the specific languages and development kits (SDKs) provided by the mobile platform creator (e.g., Swift for Apple, Kotlin for Android). Because it uses the platform's own language, it can access phone hardware (camera, GPS, sensors) faster and more reliably than a mobile website or hybrid app. While it is more expensive to develop (you need a separate app for each platform), it is the gold standard for high-performance mobile software.",
+    "synonyms": [
+      "platform-native",
+      "mobile-native"
+    ],
+    "antonyms": [
+      "hybrid",
+      "web-app"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "native mobile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile app development",
+    "usageTip": "Use to distinguish specialized mobile apps from web-based ones.",
+    "commonMistake": "Assuming all mobile apps are 'native' (some are just websites wrapped in an app).",
+    "collocations": [
+      "native mobile app",
+      "native mobile development"
+    ]
+  }
+]

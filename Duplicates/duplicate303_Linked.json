@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Linked",
+    "meaning": "Connected, joined, or combined, often implying a direct or mechanical connection.",
+    "shortMeaning": "directly joined",
+    "example": "The towns are linked by a new highway.",
+    "example2": "Smoking is linked to lung disease.",
+    "example3": "All the computers are linked to the central server.",
+    "Explanation": "Linked is the past participle of 'link,' often used as an adjective. It suggests a clear, often direct, bond or connection. It is common in technology (linked devices), causality (linked outcomes), and narratives (linked stories). It can feel more tangible or specific than 'related.' A chain is made of linked rings. In computing, 'hyperlink' is shortened to 'link.' A common mistake is using it where a weaker association like 'associated' would be better. The word conveys a sense of interdependence, where one part affects or is part of another, forming a chain or network.",
+    "synonyms": [
+      "connected",
+      "coupled",
+      "attached",
+      "tied",
+      "associated"
+    ],
+    "antonyms": [
+      "unlinked",
+      "separated",
+      "detached",
+      "disconnected"
+    ],
+    "nounForm": "link",
+    "verbForm": "link",
+    "adjectiveForm": "linked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, cause-and-effect research, transportation, and storytelling.",
+    "usageTip": "Use 'linked' for connections that are clear, direct, and often part of a chain or network.",
+    "commonMistake": "Confusing 'linked' (connected) with 'lynx' (an animal).",
+    "collocations": [
+      "directly linked",
+      "closely linked",
+      "linked list (computing)"
+    ]
+  },
+  {
+    "word": "Linked",
+    "meaning": "Connected together, often referring to files or data objects",
+    "shortMeaning": "connected",
+    "example": "The two tables are linked by a foreign key.",
+    "example2": "We have linked the CSS file to the HTML document.",
+    "example3": "All the software modules are linked into a single executable.",
+    "Explanation": "In IT, 'linked' describes a state where two or more items (files, databases, modules) are connected, so that one depends on or refers to the other. In programming, 'linking' is the final stage of the build process where separate compiled files are combined to create the final program. In databases, 'linked' tables share data. It suggests that one item is not complete without the other, or that they function as part of a larger whole. It is a very broad term used across all areas of technology.",
+    "synonyms": [
+      "connected",
+      "joined",
+      "associated"
+    ],
+    "antonyms": [
+      "unlinked",
+      "disconnected",
+      "isolated"
+    ],
+    "nounForm": "link",
+    "verbForm": "link",
+    "adjectiveForm": "linked",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Files, databases, and software builds",
+    "usageTip": "Use to describe any form of connection between data or files.",
+    "commonMistake": "Confusing 'linked' with 'integrated', which implies deeper merging.",
+    "collocations": [
+      "linked list",
+      "linked table",
+      "linked file"
+    ]
+  }
+]

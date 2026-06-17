@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Verify",
+    "meaning": "To make sure or demonstrate that something is true, accurate, or justified.",
+    "shortMeaning": "confirm the truth",
+    "example": "Please verify your email address by clicking the link we sent.",
+    "example2": "The bank will verify your identity before opening the account.",
+    "example3": "Scientists must verify their results through repeated experiments.",
+    "Explanation": "Verify means to check the accuracy or truthfulness of something. It is a process of confirmation, often involving evidence or a reliable source. Verification is a critical step in security (verifying credentials), science (verifying hypotheses), and everyday life (verifying facts). It adds a layer of trust and certainty. Unlike 'authenticate', which often confirms origin or legitimacy, 'verify' is broader, focusing on truth or correctness. The noun is 'verification'. It's a formal but commonly used word in technical and procedural contexts.",
+    "synonyms": [
+      "confirm",
+      "check",
+      "validate",
+      "substantiate",
+      "corroborate"
+    ],
+    "antonyms": [
+      "disprove",
+      "invalidate",
+      "refute",
+      "contradict"
+    ],
+    "nounForm": "verification",
+    "verbForm": "verify",
+    "adjectiveForm": "verified",
+    "partOfSpeech": "verb",
+    "commonContext": "Security, science, data entry, fact-checking",
+    "usageTip": "Often used in official or technical instructions: 'verify your details', 'verify the installation'.",
+    "commonMistake": "Confusing 'verify' (check if true) with 'clarify' (make clear).",
+    "collocations": [
+      "independently verify",
+      "verify information",
+      "verify the source"
+    ]
+  },
+  {
+    "word": "Verify",
+    "meaning": "To check, confirm, and validate that a system operation, data input, or user identity is correct and authentic",
+    "shortMeaning": "confirm and validate accuracy",
+    "example": "The application must verify your email address before activating your new account.",
+    "example2": "Please write a script routine to verify that all form input entries are complete.",
+    "example3": "Automated security firewalls verify data packets to prevent system entry errors.",
+    "Explanation": "The verb 'verify' is used across all fields of computing to describe confirming that information matches expected rules or data values. This includes validating email addresses, checking file sizes after a download, or confirming user login access. Verification routines act as automated checkpoints throughout software code, catching errors and security risks before they can cause system damage or corrupt records.",
+    "synonyms": [
+      "validate",
+      "confirm",
+      "authenticate",
+      "double-check",
+      "prove"
+    ],
+    "antonyms": [
+      "invalidate",
+      "disprove",
+      "reject"
+    ],
+    "nounForm": "verification",
+    "verbForm": "verify",
+    "adjectiveForm": "verifiable / verified",
+    "partOfSpeech": "verb",
+    "commonContext": "Form input validation blocks, user authentication flows, and network file transfers",
+    "usageTip": "Use 'verify' to describe checking data inputs or credentials against a reference standard to confirm accuracy.",
+    "commonMistake": "Confusing 'verify' with 'validate' in formal engineering contexts; verifying checks compliance with specifications, validation checks real-world user needs.",
+    "collocations": [
+      "verify user identity",
+      "verify file integrity",
+      "verify password entries"
+    ]
+  }
+]

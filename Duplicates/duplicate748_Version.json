@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Version",
+    "meaning": "A particular form of something differing in certain respects from an earlier or other form.",
+    "shortMeaning": "a particular form or edition",
+    "example": "I'm using the latest version of the operating system.",
+    "example2": "His version of the story was different from hers.",
+    "example3": "They are filming a new version of the classic movie.",
+    "Explanation": "A 'version' is one instance or variant of something that exists in multiple forms. It is a key concept in software (version 2.0), storytelling (someone's version of events), and products (deluxe version). It implies iteration and improvement over time, or simply a different perspective. Tracking versions is crucial in project management and development to know what changes have been made. It is a standard word in both technical and everyday language.",
+    "synonyms": [
+      "edition",
+      "variant",
+      "form",
+      "iteration"
+    ],
+    "antonyms": [
+      "original",
+      "prototype"
+    ],
+    "nounForm": "version",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Software, stories, films, products, documents",
+    "usageTip": "Use 'version' to specify which iteration or variant of something you are referring to.",
+    "commonMistake": "Confusing 'version' with 'vision'. A version is a form; a vision is a mental image or dream.",
+    "collocations": [
+      "latest version",
+      "original version",
+      "beta version",
+      "different version"
+    ]
+  },
+  {
+    "word": "Version",
+    "meaning": "A specific, unique release number or build variant assigned to a software application, file, or asset",
+    "shortMeaning": "specific software release iteration",
+    "example": "Please ensure you have installed the latest version of the database software on your computer.",
+    "example2": "The developer reverted to an older version of the script after the latest update caused a crash.",
+    "example3": "This version of the web browser introduces native support for updated styling properties.",
+    "Explanation": "The word 'version' describes a specific iteration of a software product, API, or asset file. As software updates are developed to fix bugs, add features, or improve security, each release is tagged with a unique version number (e.g., v1.0.4). This helps developers and users track changes, manage software dependencies, and ensure that different parts of a system work together smoothly.",
+    "synonyms": [
+      "release",
+      "build iteration",
+      "software variant",
+      "revision entry"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "version",
+    "verbForm": "version",
+    "adjectiveForm": "versional",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software update documentation, Git project repository tags, and application download pages",
+    "usageTip": "Use 'version' to reference specific releases or iterations of your software application packages.",
+    "commonMistake": "Deploying updates without changing the version identifier makes tracking and debugging production issues difficult.",
+    "collocations": [
+      "latest software version",
+      "update to version",
+      "version identification number"
+    ]
+  }
+]

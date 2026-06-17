@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Point",
+    "meaning": "A specific detail, idea, or moment; the sharp end of something; a unit in a game.",
+    "shortMeaning": "detail; sharp end; unit",
+    "example": "That's a very good point. (idea)",
+    "example2": "Be careful with the point of the needle. (sharp end)",
+    "example3": "Our team is three points ahead. (unit)",
+    "Explanation": "'Point' is an extremely common word with many meanings as a noun and verb. Core ideas include a specific detail in discussion, a location, a moment in time, a purpose ('what's the point?'), a sharp tip, and a unit of measurement. As a verb, it means to direct attention ('point at'). It appears in countless phrases: 'point of view', 'boiling point', 'make a point'. Its fundamental meaning is a precise, distinct spot or idea. Context is everything for understanding which meaning is intended. It's essential for clear communication.",
+    "synonyms": [
+      "detail",
+      "tip",
+      "moment",
+      "purpose",
+      "direct"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "point",
+    "verbForm": "point",
+    "adjectiveForm": "pointed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Discussions, games, navigation, measurement, time",
+    "usageTip": "Use 'point' to refer to a specific idea in an argument or a precise location.",
+    "commonMistake": "Confusing 'point' with 'dot'. A point is a location or idea; a dot is a small round mark.",
+    "collocations": [
+      "point of view",
+      "starting point",
+      "make a point",
+      "point out"
+    ]
+  },
+  {
+    "word": "Point",
+    "meaning": "A specific location, a dot, or the tip of something",
+    "shortMeaning": "location / dot",
+    "example": "The decimal point is in the wrong place.",
+    "example2": "You make a good point about the security risk.",
+    "example3": "Click on the point where the two lines cross.",
+    "Explanation": "A 'point' can be many things. In math and graphics, it is a single coordinate $(x, y)$. In writing, it is a period or decimal. In a discussion, it is an idea or argument. In programming, a 'pointer' is a variable that 'points' to a memory address. It is a very versatile word that appears in almost every technical and non-technical field. It can also be a verb, meaning to show a direction.",
+    "synonyms": [
+      "dot",
+      "location",
+      "tip"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "point / pointer",
+    "verbForm": "point",
+    "adjectiveForm": "pointed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Graphics, math, conversation, and coding",
+    "usageTip": "In graphics, use 'point' to refer to a specific pixel or coordinate.",
+    "commonMistake": "Confusing 'point' with 'comma' in some European languages where commas are used as decimals.",
+    "collocations": [
+      "decimal point",
+      "starting point",
+      "point of view"
+    ]
+  }
+]

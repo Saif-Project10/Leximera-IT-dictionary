@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stylistic",
+    "meaning": "Relating to the artistic or expressive style of something.",
+    "shortMeaning": "related to style",
+    "example": "The change was purely stylistic and didn't affect functionality.",
+    "engine": "The choice of color is a stylistic preference.",
+    "example3": "We followed the stylistic guidelines for this project.",
+    "Explanation": "The word 'stylistic' focuses on the aesthetic or creative choices made, rather than the functional ones. If you change a button's color, that is a stylistic choice. If you change what the button does, that is a functional change. Understanding the difference between stylistic and functional requirements is important in design meetings, as stylistic debates can often go on forever.",
+    "synonyms": [
+      "aesthetic",
+      "artistic",
+      "thematic"
+    ],
+    "antonyms": [
+      "functional",
+      "practical",
+      "technical"
+    ],
+    "nounForm": "style",
+    "verbForm": "N/A",
+    "adjectiveForm": "stylistic",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design and branding",
+    "usageTip": "Use 'stylistic' when referring to appearance rather than function.",
+    "commonMistake": "Confusing stylistic choices with necessary improvements.",
+    "collocations": [
+      "stylistic choice",
+      "stylistic guidelines",
+      "purely stylistic"
+    ]
+  },
+  {
+    "word": "Stylistic",
+    "meaning": "Relating to the artistic or visual style of something.",
+    "shortMeaning": "design-related",
+    "example": "We made stylistic changes to the landing page.",
+    "example2": "The document has a consistent stylistic theme.",
+    "example3": "Avoid making purely stylistic choices that hurt usability.",
+    "Explanation": "The word 'stylistic' relates to the aesthetic choices—fonts, colors, spacing, and animations—that define a project's personality. These choices are distinct from functional ones (how the app works). In IT, balancing 'stylistic' improvements with 'performance' needs is a constant challenge. It is an adjective. Use this word when discussing the 'look and feel' of an application or a piece of design work, rather than the underlying code or database logic.",
+    "synonyms": [
+      "aesthetic",
+      "artistic",
+      "visual"
+    ],
+    "antonyms": [
+      "functional",
+      "practical",
+      "technical"
+    ],
+    "nounForm": "style",
+    "verbForm": "N/A",
+    "adjectiveForm": "stylistic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, UI/UX, branding",
+    "usageTip": "Use 'stylistic' for aesthetics, not for functionality.",
+    "commonMistake": "Over-prioritizing stylistic choices over speed.",
+    "collocations": [
+      "stylistic choices",
+      "stylistic elements",
+      "stylistic consistency"
+    ]
+  }
+]

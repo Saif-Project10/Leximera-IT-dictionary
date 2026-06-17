@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Vague",
+    "meaning": "Not clear or definite; thinking or communicating in an unfocused way",
+    "shortMeaning": "unclear or imprecise",
+    "example": "He gave a vague answer about his future plans.",
+    "example2": "I have a vague memory of visiting that place as a child.",
+    "example3": "The instructions were too vague to follow.",
+    "Explanation": "Something 'vague' is unclear because it lacks detail, precision, or sharpness. It can refer to descriptions, memories, ideas, or feelings. Vague communication often leads to misunderstandings because the listener must guess the meaning. While sometimes necessary (to be polite or when details are unknown), vagueness is generally undesirable in instructions, contracts, and goals. The noun form is 'vagueness'. It's the opposite of being specific.",
+    "synonyms": [
+      "unclear",
+      "imprecise",
+      "indistinct",
+      "fuzzy",
+      "ambiguous"
+    ],
+    "antonyms": [
+      "clear",
+      "specific",
+      "precise",
+      "definite",
+      "explicit"
+    ],
+    "nounForm": "vagueness",
+    "verbForm": "N/A",
+    "adjectiveForm": "vague",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, memory, descriptions, rules",
+    "usageTip": "Often used critically to point out a lack of necessary detail.",
+    "commonMistake": "Using 'vague' to mean 'wrong'; it means 'not clearly expressed', not 'incorrect'.",
+    "collocations": [
+      "vague idea",
+      "vague feeling",
+      "vague promise",
+      "deliberately vague"
+    ]
+  },
+  {
+    "word": "Vague",
+    "meaning": "Not clearly expressed, defined, or understood.",
+    "shortMeaning": "unclear",
+    "example": "The error message was too vague to help me.",
+    "example2": "I only have a vague idea of how this feature works.",
+    "example3": "Avoid using vague requirements in your documentation.",
+    "Explanation": "Vague describes information that lacks precision or detail. In technology, vague error messages or vague documentation are major issues because they make troubleshooting difficult. Effective communication and clear requirements are essential for development teams. If a requirement is vague, ask for clarification to avoid building the wrong feature. Being precise is always preferred over being vague in technical communication.",
+    "synonyms": [
+      "unclear",
+      "ambiguous",
+      "indefinite"
+    ],
+    "antonyms": [
+      "clear",
+      "precise",
+      "exact"
+    ],
+    "nounForm": "vagueness",
+    "verbForm": "N/A",
+    "adjectiveForm": "vague",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, communication, error reports",
+    "usageTip": "Use this to describe feedback or data that lacks detail.",
+    "commonMistake": "Being vague when reporting critical bugs.",
+    "collocations": [
+      "vague idea",
+      "vague error message",
+      "vague description"
+    ]
+  },
+  {
+    "word": "Vague",
+    "meaning": "Not clearly expressed, defined, or understood.",
+    "shortMeaning": "unclear",
+    "example": "The client provided a vague description of the project requirements.",
+    "example2": "Avoid using vague error messages in your code.",
+    "example3": "His idea for the feature was too vague to build.",
+    "Explanation": "The word 'vague' is used when information lacks sufficient detail or precision. In software development, vague instructions are a major source of bugs and wasted time. If a specification is vague, it is impossible to estimate the time required or the technical complexity. Improving communication by removing vague language is a key soft skill for any developer. Always push for specific examples and technical definitions when you encounter vague requirements.",
+    "synonyms": [
+      "unclear",
+      "ambiguous",
+      "imprecise"
+    ],
+    "antonyms": [
+      "precise",
+      "clear",
+      "specific"
+    ],
+    "nounForm": "vagueness",
+    "verbForm": "N/A",
+    "adjectiveForm": "vague",
+    "partOfSpeech": "adjective",
+    "commonContext": "Requirements and communication",
+    "usageTip": "Use this to describe poor documentation or unclear goals.",
+    "commonMistake": "Being vague when explaining technical issues to a boss.",
+    "collocations": [
+      "vague requirements",
+      "vague idea",
+      "vague description"
+    ]
+  }
+]

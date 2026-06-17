@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Least common",
+    "meaning": "The smallest value or item that is shared among two or more sets or numbers.",
+    "shortMeaning": "smallest shared item",
+    "example": "We need to find the least common denominator to add these fractions.",
+    "example2": "The least common ancestor of the two nodes was the root of the tree.",
+    "example3": "Finding the least common multiple is a basic exercise in arithmetic.",
+    "Explanation": "The phrase 'least common' describes an intersection or a shared point that is the lowest in value or rank. In math, it's used to find a shared multiple or denominator. In computer science, it's used in 'graph theory' to find a shared starting point for two branches. It implies a search for the first point of agreement between different paths. It is a logic used to simplify complex systems. Understanding 'least common' concepts is vital for data structures and algorithm design.",
+    "synonyms": [
+      "lowest shared",
+      "minimum common"
+    ],
+    "antonyms": [
+      "greatest common"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "least common",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics and computer science logic",
+    "usageTip": "Use this when you are looking for the 'first' or 'smallest' meeting point of two things.",
+    "commonMistake": "Confusing 'least common' with 'most common'; the latter refers to frequency, the former to value/position.",
+    "collocations": [
+      "least common multiple",
+      "least common denominator",
+      "least common ancestor"
+    ]
+  },
+  {
+    "word": "Least common",
+    "meaning": "The smallest positive number that is a multiple of two numbers",
+    "shortMeaning": "LCM",
+    "example": "The algorithm calculates the least common multiple.",
+    "example2": "Find the least common factor for these variables.",
+    "example3": "This is a basic task involving the least common divisor.",
+    "Explanation": "In mathematics and computer programming, 'least common' usually refers to the 'least common multiple' (LCM) or the 'least common denominator'. These are fundamental concepts in algorithmic design, especially when handling cycles, frequency, or resource synchronization. It is a basic but essential concept that every developer should understand for logic and math-heavy programming tasks.",
+    "synonyms": [
+      "LCM",
+      "smallest common multiple"
+    ],
+    "antonyms": [
+      "greatest common factor"
+    ],
+    "nounForm": "least common multiple",
+    "verbForm": "N/A",
+    "adjectiveForm": "least common",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics, algorithms, programming",
+    "usageTip": "Use this for tasks involving cycles or array synchronization.",
+    "commonMistake": "Confusing it with the 'greatest common divisor'.",
+    "collocations": [
+      "least common multiple",
+      "least common denominator"
+    ]
+  }
+]

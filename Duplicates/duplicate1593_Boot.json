@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Boot",
+    "meaning": "The process of starting a computer and loading the operating system into memory",
+    "shortMeaning": "start up",
+    "example": "The computer takes about 30 seconds to boot from a cold start.",
+    "example2": "I had to reboot the server after installing the security updates.",
+    "example3": "The system failed to boot because of a hard drive error.",
+    "Explanation": "The word 'boot' comes from the phrase 'pulling oneself up by one's bootstraps.' It describes the complex process of a computer starting itself. When you press the power button, the CPU is empty. It first runs a small program called the BIOS or UEFI, which checks the hardware. Then, it finds the operating system (like Windows or Linux) and 'boots' it into the RAM so you can use the computer. A 'cold boot' is starting from a completely off state, while a 'warm boot' (or reboot) is restarting the computer without turning off the power.[Image illustrating the boot process: BIOS/UEFI -> Bootloader -> Kernel -> Operating System]",
+    "synonyms": [
+      "startup",
+      "boot up",
+      "initialize"
+    ],
+    "antonyms": [
+      "shutdown",
+      "halt"
+    ],
+    "nounForm": "boot",
+    "verbForm": "boot",
+    "adjectiveForm": "bootable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "General computing and hardware troubleshooting",
+    "usageTip": "Use 'reboot' when a computer is acting slowly or has an error.",
+    "commonMistake": "Thinking 'booting' and 'turning on the screen' are the same; booting is the internal software process.",
+    "collocations": [
+      "dual boot",
+      "boot sequence",
+      "secure boot"
+    ]
+  },
+  {
+    "word": "Boot",
+    "meaning": "To start a computer, or a type of sturdy shoe",
+    "shortMeaning": "start a system",
+    "example": "It takes my old computer two minutes to boot into Windows.",
+    "example2": "You can boot from a USB drive to install a new operating system.",
+    "example3": "Wear heavy boots if you are going to walk in the snow.",
+    "Explanation": "The word 'boot' comes from 'bootstrap.' When you turn on a computer, it is 'empty.' It has to load a small piece of code that then loads the rest of the system—like pulling yourself up by your own bootstraps. A 'Cold Boot' is starting from a completely off state. A 'Reboot' is restarting. If a computer 'fails to boot,' it means the BIOS cannot find the Operating System. It is the very first step in using any digital device.",
+    "synonyms": [
+      "startup",
+      "initialize",
+      "launch"
+    ],
+    "antonyms": [
+      "shutdown",
+      "power off"
+    ],
+    "nounForm": "boot",
+    "verbForm": "boot",
+    "adjectiveForm": "bootable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Computer hardware, operating systems, footwear",
+    "usageTip": "If your PC is acting weird, a simple 'reboot' will often fix the problem.",
+    "commonMistake": "Thinking 'booting' and 'logging in' are the same; booting happens before you even see the password screen.",
+    "collocations": [
+      "boot sequence",
+      "reboot the system",
+      "boot disk"
+    ]
+  }
+]

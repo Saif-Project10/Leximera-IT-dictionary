@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Paved",
+    "meaning": "Covered with a hard, flat surface of stones, concrete, or asphalt.",
+    "shortMeaning": "covered with pavement",
+    "example": "The courtyard was paved with grey stone.",
+    "example2": "The road to success is paved with hard work.",
+    "example3": "They paved the old dirt track last year.",
+    "Explanation": "'Paved' is the adjective and past tense of the verb 'pave'. It describes a surface that has been covered with a durable, hard material to make it smooth and usable. Literally, it refers to roads, paths, and areas. Figuratively, the idiom 'paved the way' means to make progress or development easier. A 'paved' surface is the opposite of a natural, rough one like grass or dirt. It signifies human development and infrastructure. The word is straightforward but important for describing landscapes and metaphorical paths.",
+    "synonyms": [
+      "surfaced",
+      "tarmacked",
+      "flagged",
+      "covered"
+    ],
+    "antonyms": [
+      "unpaved",
+      "dirt",
+      "grassy",
+      "rough"
+    ],
+    "nounForm": "pavement",
+    "verbForm": "pave",
+    "adjectiveForm": "paved",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Road construction, landscaping, describing surfaces",
+    "usageTip": "Use it to describe any area covered with a hard, flat material for walking or driving on.",
+    "commonMistake": "Saying 'the road is paved with asphalt' is correct, but 'paved with gold' is an idiom, not literal.",
+    "collocations": [
+      "paved road",
+      "paved with good intentions (idiom)",
+      "paved the way for",
+      "well-paved"
+    ]
+  },
+  {
+    "word": "Paved",
+    "meaning": "Covered with a hard surface, or figuratively, prepared for easier progress.",
+    "shortMeaning": "covered or prepared",
+    "example": "The team paved the way for a smooth migration.",
+    "example2": "The driveway to the server room is paved.",
+    "example3": "We have paved the path for future automation.",
+    "Explanation": "'Paved' has two meanings in IT. Physically, it refers to the actual surfacing of a driveway or parking area. Figuratively, it is a common idiom meaning to make something easier or more certain for others to follow. For example, a lead developer might 'pave the way' for a new team by setting up initial documentation and environment configurations. It implies active effort to remove obstacles and create a clear path for success.",
+    "synonyms": [
+      "surfaced",
+      "prepared",
+      "facilitated"
+    ],
+    "antonyms": [
+      "rough",
+      "blocked",
+      "unprepared"
+    ],
+    "nounForm": "pavement",
+    "verbForm": "pave",
+    "adjectiveForm": "paved",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Infrastructure, project management, idioms",
+    "usageTip": "Use 'paved the way' to explain how you made progress easier for others.",
+    "commonMistake": "Taking the metaphorical meaning too literally.",
+    "collocations": [
+      "paved the way",
+      "paved road",
+      "fully paved"
+    ]
+  }
+]

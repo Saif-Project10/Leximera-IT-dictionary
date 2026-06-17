@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Adjusting",
+    "meaning": "Changing or moving something slightly to achieve a desired fit, position, or result.",
+    "shortMeaning": "making small corrections",
+    "example": "She is adjusting the volume on the television.",
+    "example2": "It takes time to adjust to a new time zone.",
+    "example3": "The mechanic is adjusting the engine for better performance.",
+    "Explanation": "Adjusting is the present participle of 'adjust.' It focuses on small, precise changes made to align, calibrate, or adapt something. The goal is often to achieve correctness, comfort, or harmony. It is commonly used for physical adjustments (a seat) and abstract ones (adjusting to a new situation). The noun is 'adjustment.' A common mistake is confusing it with 'adapting'; adjusting is often a quicker, mechanical change, while adapting may involve longer-term personal change. This word is essential in daily life, technology, and psychology, highlighting our ability to fine-tune our environment and ourselves.",
+    "synonyms": [
+      "adapting",
+      "modifying",
+      "regulating",
+      "aligning",
+      "acclimating"
+    ],
+    "antonyms": [
+      "disrupting",
+      "unsettling",
+      "fixing (in place)"
+    ],
+    "nounForm": "adjustment",
+    "verbForm": "adjust",
+    "adjectiveForm": "adjustable",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Settings, personal adaptation, machinery, and photography.",
+    "usageTip": "Use 'adjusting' for small, precise changes to make something work better or fit correctly.",
+    "commonMistake": "Using 'adjusting to' without an object when you mean getting used to something (correct: 'adjusting to the heat').",
+    "collocations": [
+      "adjusting to change",
+      "fine-adjusting",
+      "adjusting the settings"
+    ]
+  },
+  {
+    "word": "Adjusting",
+    "meaning": "The process of changing something slightly to make it correct or suitable",
+    "shortMeaning": "changing slightly",
+    "example": "Adjusting the screen brightness can save a lot of battery power.",
+    "example2": "The DevOps team is adjusting the server resources to handle traffic.",
+    "example3": "We are adjusting our software development strategy this month.",
+    "Explanation": "The word 'adjusting' is the continuous or gerund form of the verb 'adjust'. It represents the active, ongoing process of making minor modifications to a system, setting, or behavior. In technical environments, this often relates to optimizing performance, tuning algorithms, or fixing layout alignments on a user interface. It highlights an action that is currently happening rather than a finished state. It is crucial to use this word to show active management of resources, preventing system overloads before they occur.",
+    "synonyms": [
+      "modifying",
+      "tuning",
+      "adapting"
+    ],
+    "antonyms": [
+      "maintaining",
+      "leaving",
+      "stagnating"
+    ],
+    "nounForm": "adjustment",
+    "verbForm": "adjust",
+    "adjectiveForm": "adjusting",
+    "partOfSpeech": "verb / noun (gerund)",
+    "commonContext": "System tuning, interface design, and resource management",
+    "usageTip": "Use 'adjusting' to show that fine-tuning or minor modification is actively taking place.",
+    "commonMistake": "Confusing 'adjusting' with 'transforming', which implies a massive, total change.",
+    "collocations": [
+      "adjusting settings",
+      "adjusting code",
+      "adjusting parameters"
+    ]
+  }
+]

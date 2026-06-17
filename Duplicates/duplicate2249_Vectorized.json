@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Vectorized",
+    "meaning": "Converted into a vector format or optimized for array operations",
+    "shortMeaning": "converted to vectors",
+    "example": "The image was vectorized for high-resolution printing.",
+    "example2": "We used vectorized operations to speed up the data processing.",
+    "example3": "The algorithm is fully vectorized to utilize CPU performance.",
+    "Explanation": "To 'vectorize' means to transform data into a vector representation. In design, it means converting pixel-based images into paths and points. In programming, it means rewriting loops to perform operations on entire arrays at once, which is much faster than processing elements one by one. This is a common performance optimization technique in high-performance computing and data science. Proper vectorization can drastically reduce computation time for large datasets. It requires an understanding of underlying hardware capabilities.",
+    "synonyms": [
+      "converted",
+      "scaled",
+      "optimized"
+    ],
+    "antonyms": [
+      "rasterized",
+      "pixelated"
+    ],
+    "nounForm": "vectorization",
+    "verbForm": "vectorize",
+    "adjectiveForm": "vectorized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Graphics, high-performance computing, data science",
+    "usageTip": "Use 'vectorized' when discussing performance improvements in code.",
+    "commonMistake": "Thinking vectorization always produces perfect quality in images.",
+    "collocations": [
+      "vectorized operations",
+      "vectorized image",
+      "fully vectorized"
+    ]
+  },
+  {
+    "word": "Vectorized",
+    "meaning": "Converted into a vector format or optimized for vector processing",
+    "shortMeaning": "converted to vectors",
+    "example": "The image has been vectorized for the website.",
+    "example2": "We vectorized the code to improve performance.",
+    "example3": "The system uses vectorized operations to speed up math.",
+    "Explanation": "The word 'vectorized' has two main meanings. In graphics, it means converting a pixel image into vector paths. In computing, it means optimizing code to process arrays (vectors) of data at once, rather than iterating through them. Vectorized operations are much faster and are standard in high-performance computing and AI frameworks. Understanding this distinction is important depending on your area of work (graphics vs. performance optimization).",
+    "synonyms": [
+      "optimized",
+      "converted"
+    ],
+    "antonyms": [
+      "rasterized",
+      "iterative"
+    ],
+    "nounForm": "vectorization",
+    "verbForm": "vectorize",
+    "adjectiveForm": "vectorized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Graphics design and software optimization",
+    "usageTip": "Use for graphics conversion or code optimization.",
+    "commonMistake": "Assuming vectorized only refers to images.",
+    "collocations": [
+      "vectorized image",
+      "vectorized code",
+      "vectorized operations"
+    ]
+  }
+]

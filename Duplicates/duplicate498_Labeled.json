@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Labeled",
+    "meaning": "Having a label attached; assigned to a category.",
+    "shortMeaning": "tagged, categorized",
+    "example": "All the jars in the pantry are clearly labeled.",
+    "example2": "He was unfairly labeled as a troublemaker.",
+    "example3": "The data points are labeled for easy identification.",
+    "Explanation": "The adjective 'labeled' (UK spelling: 'labelled') describes something that has a piece of paper, fabric, or other material attached to identify or describe it. Figuratively, it means to be assigned a particular, often simplistic, classification (e.g., labeled a genius). In machine learning, 'labeled data' is data that has been tagged with the correct answer. The verb is 'label'. Labeling is essential for organization, safety (ingredient labels), and shipping. However, figurative labeling of people can be reductive and harmful.",
+    "synonyms": [
+      "tagged",
+      "marked",
+      "identified",
+      "categorized",
+      "stamped"
+    ],
+    "antonyms": [
+      "unlabeled",
+      "unmarked",
+      "unidentified",
+      "miscategorized"
+    ],
+    "nounForm": "label",
+    "verbForm": "label",
+    "adjectiveForm": "labeled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Products, organization, social categorization, data science",
+    "usageTip": "In American English, the past tense is 'labeled' (one 'l'); in British English, it's 'labelled' (two 'l's).",
+    "commonMistake": "Using 'labeled' to mean 'named'; a label is a tag or category, not necessarily the official name.",
+    "collocations": [
+      "clearly labeled",
+      "falsely labeled",
+      "pre-labeled",
+      "labeled with"
+    ]
+  },
+  {
+    "word": "Labeled",
+    "meaning": "Assigned a name, category, or description to something",
+    "shortMeaning": "categorized or named",
+    "example": "The training data must be labeled accurately for the AI to learn.",
+    "example2": "He labeled the axes on the graph.",
+    "example3": "The error was labeled as 'critical'.",
+    "Explanation": "The word 'labeled' means to attach a label or category to an object, file, or data point. In machine learning, 'labeled data' is data that has the correct answer already attached, which is necessary for supervised learning. In general usage, it just means giving something a name or a tag to help identify it. It is a very common word in both general English and technical fields. It signifies identification and organization.",
+    "synonyms": [
+      "tagged",
+      "categorized",
+      "identified"
+    ],
+    "antonyms": [
+      "unlabeled",
+      "unidentified"
+    ],
+    "nounForm": "label",
+    "verbForm": "label",
+    "adjectiveForm": "labeled",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Machine learning, general organization, data management",
+    "usageTip": "Essential term for machine learning/data science training sets.",
+    "commonMistake": "Using 'labeled' for something that just has a name; labeling implies classification.",
+    "collocations": [
+      "labeled data",
+      "correctly labeled",
+      "labeled as"
+    ]
+  }
+]

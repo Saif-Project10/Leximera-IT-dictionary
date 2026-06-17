@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Careful",
+    "meaning": "Making sure to avoid potential danger, harm, or mistakes; cautious",
+    "shortMeaning": "cautious, paying attention",
+    "example": "Be careful when you cross the street.",
+    "example2": "She is a very careful worker who rarely makes errors.",
+    "example3": "After careful consideration, I decided to accept the offer.",
+    "Explanation": "'Careful' is a common and important adjective. It describes the quality of being attentive, thorough, and cautious to prevent accidents or errors. This word is used as a warning ('be careful!'), a description of character, or to indicate thoughtful deliberation. The adverb is 'carefully'. Being careful is generally a positive trait, associated with responsibility and safety. However, being 'too careful' can lead to hesitation. It is the direct opposite of 'careless'. It's a fundamental word for giving and understanding safety instructions.",
+    "synonyms": [
+      "cautious",
+      "attentive",
+      "prudent",
+      "meticulous"
+    ],
+    "antonyms": [
+      "careless",
+      "reckless",
+      "inattentive",
+      "rash"
+    ],
+    "nounForm": "carefulness",
+    "verbForm": "N/A",
+    "adjectiveForm": "careful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Warnings, instructions, work quality, decision-making",
+    "usageTip": "Use 'careful' to advise caution or to describe someone who avoids risks and mistakes.",
+    "commonMistake": "Confusing 'careful' with 'caring'. 'Careful' is about caution; 'caring' is about kindness.",
+    "collocations": [
+      "be careful",
+      "careful planning",
+      "extremely careful"
+    ]
+  },
+  {
+    "word": "Careful",
+    "meaning": "Making a conscious effort to avoid errors, damage, danger, or mistakes; cautious",
+    "shortMeaning": "cautious and precise",
+    "example": "A careful analysis of the source code revealed several hidden security bugs.",
+    "example2": "Be careful when executing delete commands directly on the production database.",
+    "example3": "The developer was very careful to follow the team's styling guidelines.",
+    "Explanation": "The word 'Careful' implies taking great precision and caution to ensure correctness and safety. In software engineering and IT administration, being careful is a vital trait. One careless command can crash live servers or delete production tables. Code reviews, thorough quality assurance testing, and systematic planning are all parts of a careful development process that prevents major operational business failures.",
+    "synonyms": [
+      "cautious",
+      "meticulous",
+      "precise"
+    ],
+    "antonyms": [
+      "careless",
+      "reckless",
+      "negligent"
+    ],
+    "nounForm": "carefulness",
+    "verbForm": "N/A",
+    "adjectiveForm": "careful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code reviews, deployment warnings, system administration",
+    "usageTip": "Use 'careful' to advise team members to double-check their work before pushing changes live.",
+    "commonMistake": "Confusing 'careful' with 'fearful'; being careful means working with precision, not being afraid to act.",
+    "collocations": [
+      "careful consideration",
+      "careful analysis",
+      "be careful"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-real-time",
+    "meaning": "Not happening or processed immediately; involving a delay.",
+    "shortMeaning": "not immediate",
+    "example": "Email is a non-real-time form of communication.",
+    "example2": "The system generates non-real-time reports at the end of each day.",
+    "example3": "For this analysis, we use non-real-time data from last month.",
+    "Explanation": "'Non-real-time' refers to processes, data, or communication that are not instantaneous. There is a delay between an action and its processing or result. This term is crucial in computing, data analysis, and communication technologies to distinguish from live, immediate systems. Understanding this helps in choosing the right tools for tasks that do not require instant feedback.",
+    "synonyms": [
+      "delayed",
+      "offline",
+      "asynchronous",
+      "batched"
+    ],
+    "antonyms": [
+      "real-time",
+      "instantaneous",
+      "live",
+      "immediate"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-real-time",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, data processing, communication",
+    "usageTip": "Use 'non-real-time' to describe systems or data where speed is not critical.",
+    "commonMistake": "Confusing it with 'outdated'; it means there's a deliberate delay, not that the information is old.",
+    "collocations": [
+      "non-real-time data",
+      "non-real-time processing",
+      "non-real-time system"
+    ]
+  },
+  {
+    "word": "Non-real-time",
+    "meaning": "Not requiring immediate processing or output within a strict time limit",
+    "shortMeaning": "not immediate",
+    "example": "This is a non-real-time data analytics task.",
+    "example2": "Batch processing is a classic non-real-time activity.",
+    "example3": "The system handles non-real-time requests in the background.",
+    "Explanation": "The term 'non-real-time' describes systems or tasks where there is no need for an instant response. Unlike a flight control system or a high-frequency trading platform (which must be 'real-time'), a 'non-real-time' system can afford to take seconds, minutes, or even hours to complete. This allows for more efficient scheduling and resource usage. It is the opposite of systems that demand immediate, predictable, and deterministic performance.",
+    "synonyms": [
+      "delayed",
+      "background",
+      "batch"
+    ],
+    "antonyms": [
+      "real-time",
+      "instant",
+      "live"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-real-time",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design, performance, processing",
+    "usageTip": "Use for tasks that can wait for a response.",
+    "commonMistake": "Confusing 'non-real-time' with 'slow'; it just means it doesn't need to be immediate.",
+    "collocations": [
+      "non-real-time task",
+      "non-real-time processing",
+      "non-real-time system"
+    ]
+  }
+]

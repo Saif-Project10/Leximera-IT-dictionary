@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Process",
+    "meaning": "A series of actions or steps taken to achieve a particular end.",
+    "shortMeaning": "series of steps",
+    "example": "Learning a language is a long process.",
+    "example2": "The manufacturing process is fully automated.",
+    "example3": "We are in the process of moving to a new office.",
+    "Explanation": "A process is a systematic series of actions or operations that transforms inputs into outputs. It is a fundamental concept in business, science, and life. Processes can be physical (production process), mental (thought process), or administrative (hiring process). The word emphasizes progression and change over time. Understanding a process means understanding how something works from start to finish. It is also a verb meaning to handle or deal with something systematically (process an application). It's a broader term than 'procedure'.",
+    "synonyms": [
+      "procedure",
+      "method",
+      "system",
+      "operation",
+      "course"
+    ],
+    "antonyms": [
+      "stagnation",
+      "standstill"
+    ],
+    "nounForm": "process",
+    "verbForm": "process",
+    "adjectiveForm": "processable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Manufacturing, computing, biology, business, learning",
+    "usageTip": "Use 'in the process of' to say that something is currently happening.",
+    "commonMistake": "Mispronouncing it as 'pro-cess' (with a hard 'c'); the correct pronunciation is 'PRO-cess' (noun) or 'pro-CESS' (verb).",
+    "collocations": [
+      "decision-making process",
+      "due process",
+      "in process",
+      "slow process"
+    ]
+  },
+  {
+    "word": "Process",
+    "meaning": "A series of actions taken to achieve a result, or a running program on a computer",
+    "shortMeaning": "series of steps or running task",
+    "example": "The hiring process takes about two weeks.",
+    "example2": "You can see all running tasks in the Windows Process Manager.",
+    "example3": "The CPU needs time to process the complex calculation.",
+    "Explanation": "In general English, a process is a method or a way of doing something. In computing, a 'process' is an instance of a computer program that is being executed. Each process has its own memory space and resources. If a program 'freezes,' you often have to 'kill the process' to fix it. Operating systems manage hundreds of processes at once using a technique called multi-tasking. For a developer, understanding how processes work is essential for writing efficient software that doesn't slow down the computer.",
+    "synonyms": [
+      "procedure",
+      "method",
+      "task"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "process / processing / processor",
+    "verbForm": "process",
+    "adjectiveForm": "processed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Business, computing, and science",
+    "usageTip": "Use the Task Manager (Ctrl+Shift+Esc) to monitor active processes on your PC.",
+    "commonMistake": "Confusing a 'process' with a 'thread'; a process is a whole program, while a thread is a small part of a process.",
+    "collocations": [
+      "background process",
+      "manufacturing process",
+      "process data"
+    ]
+  }
+]

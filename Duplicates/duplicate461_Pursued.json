@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Pursued",
+    "meaning": "Followed or chased in order to catch; continued with an activity or plan",
+    "shortMeaning": "chased; carried on with",
+    "example": "The police pursued the suspect on foot.",
+    "example2": "She pursued a degree in medicine.",
+    "example3": "He decided to pursue his interest in photography.",
+    "Explanation": "The verb (past tense) 'pursued' means to have followed someone or something with determination, either physically (chasing) or metaphorically (seeking a goal). It implies effort, focus, and a clear objective. It is a formal and active verb used in contexts of careers, hobbies, justice, and objectives. The noun form is 'pursuit'. It suggests a sustained effort over time.",
+    "synonyms": [
+      "chased",
+      "followed",
+      "sought",
+      "strived for",
+      "engaged in"
+    ],
+    "antonyms": [
+      "abandoned",
+      "avoided",
+      "fled",
+      "ignored"
+    ],
+    "nounForm": "pursuit",
+    "verbForm": "pursue",
+    "adjectiveForm": "pursued",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Careers, interests, criminals, goals",
+    "usageTip": "Often used with abstract objects: pursue a career, pursue happiness, pursue an idea.",
+    "commonMistake": "Confusing it with 'perused', which means to read carefully.",
+    "collocations": [
+      "pursued a policy",
+      "pursued by",
+      "actively pursued",
+      "pursue the matter"
+    ]
+  },
+  {
+    "word": "Pursued",
+    "meaning": "Followed or worked toward a goal or target.",
+    "shortMeaning": "followed a goal",
+    "example": "We pursued a serverless architecture for the new project.",
+    "example2": "He pursued the solution until the bug was finally fixed.",
+    "example3": "The company pursued an aggressive growth strategy.",
+    "Explanation": "'Pursued' is used when someone is actively and consistently working toward a result. In IT, you 'pursue' a fix, a feature, or a architectural path. It implies focus, effort, and determination. When you say a developer 'pursued' a bug, it means they didn't just look at it once but kept testing and investigating until it was closed. It is a good word to describe project persistence and technical rigor.",
+    "synonyms": [
+      "followed",
+      "sought",
+      "chased"
+    ],
+    "antonyms": [
+      "ignored",
+      "abandoned",
+      "avoided"
+    ],
+    "nounForm": "pursuit",
+    "verbForm": "pursue",
+    "adjectiveForm": "pursued",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Problem-solving, career, project management",
+    "usageTip": "Use to show persistence in achieving a goal.",
+    "commonMistake": "Confusing it with just 'doing' a task; it implies continuous effort.",
+    "collocations": [
+      "pursued a solution",
+      "actively pursued",
+      "pursued the goal"
+    ]
+  }
+]

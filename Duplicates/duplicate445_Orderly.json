@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Orderly",
+    "meaning": "Neatly and methodically arranged; well-behaved and peaceful.",
+    "shortMeaning": "neat and well-arranged; disciplined",
+    "example": "The books were in orderly rows on the shelf.",
+    "example2": "The crowd remained orderly during the protest.",
+    "example3": "She has an orderly approach to filing documents.",
+    "Explanation": "Orderly is an adjective describing a high degree of organization, neatness, and discipline. It implies a systematic arrangement and a lack of chaos. It can describe physical spaces, processes, or people's behavior. In a medical context, an 'orderly' is a noun for a hospital attendant. A common mistake is using it only for behavior; it strongly applies to arrangement as well. This word suggests more than just tidiness; it suggests a logical, almost military precision. It is a positive term in contexts where control, sequence, and predictability are valued.",
+    "synonyms": [
+      "neat",
+      "tidy",
+      "organized",
+      "systematic",
+      "disciplined"
+    ],
+    "antonyms": [
+      "disorderly",
+      "chaotic",
+      "messy",
+      "unruly"
+    ],
+    "nounForm": "order (general concept); orderly (hospital worker)",
+    "verbForm": "order",
+    "adjectiveForm": "orderly",
+    "partOfSpeech": "adjective",
+    "commonContext": "Arrangements, queues, conduct, and procedures.",
+    "usageTip": "Use 'orderly' to emphasize a systematic, peaceful, and well-arranged state, often in group or formal contexts.",
+    "commonMistake": "Confusing the adjective 'orderly' with the noun 'orderly' (the hospital job).",
+    "collocations": [
+      "orderly fashion",
+      "orderly room",
+      "orderly retreat"
+    ]
+  },
+  {
+    "word": "Orderly",
+    "meaning": "Neatly and methodically arranged.",
+    "shortMeaning": "neatly arranged",
+    "example": "The project folder structure was very orderly.",
+    "example2": "An orderly transition to the new system is important.",
+    "example3": "He kept his desktop in an orderly fashion.",
+    "Explanation": "Orderly describes a state of being neat, tidy, and methodical. While 'ordered' focuses on the sequence of data, 'orderly' focuses on the appearance and the process. An orderly workspace or code repository is easier to manage and debug. It reflects good habits and discipline in programming. It implies that everything is in its right place and following a clear plan.",
+    "synonyms": [
+      "tidy",
+      "organized",
+      "methodical"
+    ],
+    "antonyms": [
+      "chaotic",
+      "messy",
+      "disordered"
+    ],
+    "nounForm": "order",
+    "verbForm": "N/A",
+    "adjectiveForm": "orderly",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code management, environment, workflow",
+    "usageTip": "Use 'orderly' to praise how well-structured a file system or process is.",
+    "commonMistake": "Confusing 'orderly' with 'ordered'.",
+    "collocations": [
+      "orderly manner",
+      "orderly structure",
+      "keep things orderly"
+    ]
+  }
+]

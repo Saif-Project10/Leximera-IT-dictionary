@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Rejoice",
+    "meaning": "To feel or show great joy or delight.",
+    "shortMeaning": "be joyful, celebrate",
+    "example": "The whole nation rejoiced at the news of peace.",
+    "example2": "Let us rejoice in our good fortune.",
+    "example3": "She rejoiced to see her son after so many years.",
+    "Explanation": "To 'rejoice' is a formal or literary verb expressing intense happiness and celebration. It is stronger than 'be happy' and often implies a public or shared expression of joy. It is commonly found in religious texts, historical narratives, and formal announcements. The word conveys a sense of jubilation and triumph. The noun form is 'rejoicing'. While not as common in casual conversation ('celebrate' or 'be thrilled' are more frequent), it is a powerful word for describing profound happiness, especially in response to a significant positive event.",
+    "synonyms": [
+      "celebrate",
+      "be joyful",
+      "exult",
+      "delight"
+    ],
+    "antonyms": [
+      "mourn",
+      "grieve",
+      "lament",
+      "bemoan"
+    ],
+    "nounForm": "rejoicing",
+    "verbForm": "rejoice",
+    "adjectiveForm": "rejoicing",
+    "partOfSpeech": "verb",
+    "commonContext": "Celebrations, religious contexts, formal announcements",
+    "usageTip": "Often used with 'at', 'in', or 'over' (rejoice at the victory, rejoice in the Lord).",
+    "commonMistake": "Using it in very casual contexts where it might sound old-fashioned or overly dramatic.",
+    "collocations": [
+      "rejoice in",
+      "rejoice at the news",
+      "cause to rejoice"
+    ]
+  },
+  {
+    "word": "Rejoice",
+    "meaning": "To feel or express great joy, satisfaction, or happiness, often used informally when a major system bug is finally resolved",
+    "shortMeaning": "feel or express joy",
+    "example": "The engineering team will rejoice once this complex legacy database migration is completely finished.",
+    "example2": "Developers rejoice when an open-source framework releases an update that fixes a major security flaw.",
+    "example3": "We can rejoice now that our application passed all automated deployment tests without a single warning.",
+    "Explanation": "While 'rejoice' is an everyday emotional verb, it is occasionally encountered in informal tech communications, release notes, or team chat channels. It highlights a sense of relief and accomplishment when software teams achieve a difficult technical milestone, eliminate a critical system bug, or deploy a highly anticipated feature upgrade. It emphasizes the collaborative satisfaction felt by developers who have dedicated days of problem-solving to complete a challenging task.",
+    "synonyms": [
+      "celebrate",
+      "exult",
+      "be delighted"
+    ],
+    "antonyms": [
+      "grieve",
+      "lament",
+      "mourn"
+    ],
+    "nounForm": "rejoicing",
+    "verbForm": "rejoice",
+    "adjectiveForm": "rejoicing",
+    "partOfSpeech": "verb",
+    "commonContext": "Team celebrations, software release highlights, informal dev chats",
+    "usageTip": "Use 'rejoice' in casual technical contexts or release notes to celebrate major milestones and successful project conclusions.",
+    "commonMistake": "Using 'rejoice' in formal technical documentation or API error codes where objective language is required.",
+    "collocations": [
+      "developers rejoice",
+      "rejoice over a fix",
+      "team can rejoice"
+    ]
+  }
+]

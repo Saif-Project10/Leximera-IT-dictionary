@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Continuous",
+    "meaning": "Without any interruption or break; unbroken.",
+    "shortMeaning": "uninterrupted",
+    "example": "We heard a continuous humming noise from the machine.",
+    "example2": "The road is under continuous improvement.",
+    "example3": "She has been in continuous pain for a week.",
+    "Explanation": "Continuous describes something that never stops, pauses, or is interrupted during a period of time. It emphasizes an unbroken sequence or flow. It is often confused with 'continual'. 'Continuous' means without a single break, while 'continual' means recurring frequently but with breaks in between. For example, 'continuous rain' means it didn't stop, whereas 'continual rain' means it started and stopped many times. This word is commonly used in technical, scientific, and general descriptive contexts.",
+    "synonyms": [
+      "uninterrupted",
+      "unceasing",
+      "constant",
+      "nonstop"
+    ],
+    "antonyms": [
+      "intermittent",
+      "broken",
+      "discontinuous",
+      "sporadic"
+    ],
+    "nounForm": "continuity",
+    "verbForm": "continue",
+    "adjectiveForm": "continuous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Processes, sounds, efforts, data streams",
+    "usageTip": "Use 'continuous' for things that do not stop at all. Use 'continual' for things that happen often but with pauses.",
+    "commonMistake": "Using 'continuous' and 'continual' interchangeably.",
+    "collocations": [
+      "continuous process",
+      "continuous improvement",
+      "continuous flow",
+      "continuous monitoring"
+    ]
+  },
+  {
+    "word": "Continuous",
+    "meaning": "Happening without any interruption or pause",
+    "shortMeaning": "unbroken",
+    "example": "The system provides continuous monitoring.",
+    "example2": "We use continuous integration for our code.",
+    "example3": "The graph shows a continuous stream of data.",
+    "Explanation": "Continuous refers to an uninterrupted flow or process. It is a vital term in software engineering, specifically in DevOps (Continuous Integration/Continuous Deployment). The noun form is 'continuity'. Unlike 'continuing', 'continuous' emphasizes that there are zero breaks or pauses. This is important for high-availability systems that must remain operational at all times.",
+    "synonyms": [
+      "uninterrupted",
+      "constant",
+      "steady"
+    ],
+    "antonyms": [
+      "interrupted",
+      "intermittent",
+      "broken"
+    ],
+    "nounForm": "continuity",
+    "verbForm": "N/A",
+    "adjectiveForm": "continuous",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, engineering, data streams",
+    "usageTip": "Use this when the process has zero breaks or gaps.",
+    "commonMistake": "Confusing it with 'continual', which means happening frequently but with breaks.",
+    "collocations": [
+      "continuous integration",
+      "continuous deployment",
+      "continuous monitoring"
+    ]
+  }
+]

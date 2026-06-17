@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Tape-based",
+    "meaning": "Using magnetic tape as the primary medium for storing data.",
+    "shortMeaning": "tape-stored",
+    "example": "Many large organizations use tape-based archives for backups.",
+    "example2": "The tape-based system is slower but very cost-effective.",
+    "example3": "We are moving away from tape-based backups to cloud storage.",
+    "Explanation": "The term 'tape-based' refers to legacy or specialized storage systems that use magnetic tape. While modern high-speed storage usually relies on SSDs or HDDs, tape remains the standard for 'cold storage' and long-term archival because it is inexpensive, durable, and can hold massive amounts of data offline. It is 'sequential access' storage, meaning you cannot jump to any file instantly like you can on a disk; you have to scan through the tape.",
+    "synonyms": [
+      "archival-based",
+      "sequential-storage"
+    ],
+    "antonyms": [
+      "disk-based",
+      "flash-based",
+      "SSD-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "tape-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, backup, archival",
+    "usageTip": "Use 'tape-based' for long-term data archiving systems.",
+    "commonMistake": "Confusing tape-based performance with disk-based performance.",
+    "collocations": [
+      "tape-based backup",
+      "tape-based archive",
+      "tape-based system"
+    ]
+  },
+  {
+    "word": "Tape-based",
+    "meaning": "Using magnetic tape as the primary medium for data storage",
+    "shortMeaning": "using tape",
+    "example": "The system uses a tape-based backup solution.",
+    "example2": "Our legacy archives are still tape-based.",
+    "example3": "Tape-based storage is reliable for long-term data retention.",
+    "Explanation": "The term 'tape-based' refers to systems that store digital data on magnetic tape cartridges. While modern storage often uses SSDs or cloud, tape-based storage remains the standard for long-term cold storage and backups due to its durability and low cost. It is a sequential access medium, which means it is not as fast as random access drives. IT professionals often manage these systems for disaster recovery plans. It is a mature, well-understood technology.",
+    "synonyms": [
+      "magnetic",
+      "archival",
+      "sequential"
+    ],
+    "antonyms": [
+      "disk-based",
+      "flash-based",
+      "cloud-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "tape-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data backup, storage, archiving",
+    "usageTip": "Use to describe systems that rely on magnetic tapes.",
+    "commonMistake": "Assuming tape-based systems are suitable for high-speed access.",
+    "collocations": [
+      "tape-based backup",
+      "tape-based archive",
+      "tape-based storage"
+    ]
+  }
+]

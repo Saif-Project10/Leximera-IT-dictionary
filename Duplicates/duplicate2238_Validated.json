@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Validated",
+    "meaning": "Confirmed as accurate, official, or correct.",
+    "shortMeaning": "already confirmed",
+    "example": "The validated data was saved to the database.",
+    "example2": "Only validated users can access the admin panel.",
+    "example3": "He received a validated error report.",
+    "Explanation": "Validated describes an item or process that has successfully passed a check. Once data is validated, the system can trust it and proceed with operations. It is the end state of a validation process. In secure systems, 'validated' often implies that the input was checked against a security schema. This is a critical step in protecting against malicious user inputs. Always ensure data is validated before saving or displaying it.",
+    "synonyms": [
+      "confirmed",
+      "verified",
+      "checked"
+    ],
+    "antonyms": [
+      "unvalidated",
+      "unverified"
+    ],
+    "nounForm": "validation",
+    "verbForm": "validate",
+    "adjectiveForm": "validated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming, security, databases",
+    "usageTip": "Use this to describe data that has passed checks.",
+    "commonMistake": "Confusing 'validated' with 'stored'.",
+    "collocations": [
+      "validated data",
+      "validated user",
+      "already validated"
+    ]
+  },
+  {
+    "word": "Validated",
+    "meaning": "Confirmed or proven to be correct, accurate, or compliant.",
+    "shortMeaning": "proven correct",
+    "example": "The final report was validated by the lead developer.",
+    "example2": "We have validated the software for all major platforms.",
+    "example3": "All user input must be validated before storing it.",
+    "Explanation": "The term 'validated' signifies that a process, piece of data, or system has passed a verification check. In coding, input validation is a critical security step to ensure that the data being stored is clean and expected. Once the check is complete, the item is considered 'validated'. This is a status that marks the end of a testing or confirmation phase. It is a core concept in ensuring that software acts reliably and safely.",
+    "synonyms": [
+      "verified",
+      "confirmed",
+      "checked"
+    ],
+    "antonyms": [
+      "unverified",
+      "untested",
+      "invalidated"
+    ],
+    "nounForm": "validation",
+    "verbForm": "validate",
+    "adjectiveForm": "validated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security and QA",
+    "usageTip": "Use 'validated' for items that have passed a check.",
+    "commonMistake": "Assuming 'validated' means 'perfect'.",
+    "collocations": [
+      "validated data",
+      "validated input",
+      "validated results"
+    ]
+  }
+]

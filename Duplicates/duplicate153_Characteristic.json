@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Characteristic",
+    "meaning": "A typical or noticeable quality of a person, place, or thing.",
+    "shortMeaning": "typical feature",
+    "example": "Kindness is one of her main characteristics.",
+    "example2": "The striped fur is a characteristic of the tiger.",
+    "example3": "He answered with characteristic honesty.",
+    "Explanation": "This word is most commonly a noun meaning a distinguishing feature. It can also be an adjective meaning typical (e.g., with characteristic speed). It is used in both scientific descriptions (characteristics of a species) and everyday descriptions of people. It is a more formal synonym for 'trait' or 'feature'. A common error is pronouncing it incorrectly; stress the 'ter' syllable: char-ac-ter-IS-tic. Remember, a characteristic helps to identify or define something. The plural form is 'characteristics', often used to list features.",
+    "synonyms": [
+      "feature",
+      "trait",
+      "quality"
+    ],
+    "antonyms": [
+      "anomaly",
+      "irregularity",
+      "N/A"
+    ],
+    "nounForm": "characteristic",
+    "verbForm": "characterize",
+    "adjectiveForm": "characteristic",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Science, personality, descriptions, biology",
+    "usageTip": "As an adjective, it is often used before a noun (his characteristic laugh).",
+    "commonMistake": "Confusing it with 'character'. A 'characteristic' is a feature; 'character' is the total sum of qualities.",
+    "collocations": [
+      "key characteristic",
+      "physical characteristic",
+      "characteristic feature"
+    ]
+  },
+  {
+    "word": "Characteristic",
+    "meaning": "A typical or noticeable quality, feature, or trait of something",
+    "shortMeaning": "defining feature",
+    "example": "High scalability is a key characteristic of cloud-native applications.",
+    "example2": "The virus exhibits a unique characteristic that allows it to bypass basic antivirus software.",
+    "example3": "Low power consumption is a desirable characteristic for IoT devices.",
+    "Explanation": "The word 'characteristic' refers to an identifying attribute or feature that distinguishes one system, entity, or technology from another. In programming, object characteristics are represented as properties or attributes. In data analysis, finding the characteristics of a dataset helps in building predictive models. The noun form is 'characteristic' and the adjective form is also 'characteristic'. It is vital for system requirements, product comparisons, and data modeling.",
+    "synonyms": [
+      "feature",
+      "trait",
+      "property",
+      "attribute"
+    ],
+    "antonyms": [
+      "anomaly",
+      "abnormality",
+      "atypicality",
+      "unusualness"
+    ],
+    "nounForm": "characteristic",
+    "verbForm": "characterize",
+    "adjectiveForm": "characteristic",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "System specifications, cybersecurity analysis, and data modeling",
+    "usageTip": "Use 'characteristic' to point out features that define or are expected from a particular system.",
+    "commonMistake": "Confusing 'characteristic' with 'character', which refers to a single text symbol in programming.",
+    "collocations": [
+      "key characteristic",
+      "defining characteristic",
+      "system characteristic"
+    ]
+  }
+]

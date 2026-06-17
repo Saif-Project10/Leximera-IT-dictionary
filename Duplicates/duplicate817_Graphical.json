@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Graphical",
+    "meaning": "Relating to or in the form of a graph or visual image.",
+    "shortMeaning": "relating to graphs or images",
+    "example": "The report included a graphical representation of the sales data.",
+    "example2": "The game has impressive graphical detail.",
+    "example3": "Graphical user interfaces (GUIs) use icons and windows.",
+    "Explanation": "'Graphical' is an adjective pertaining to visual representation. In computing, it's central to terms like 'graphical user interface' (GUI), which uses visual elements like icons instead of text commands. In mathematics and science, graphical displays like charts and graphs help communicate data. The word distinguishes visual methods from textual or numerical ones. It is a standard technical term in design, data visualization, and computer science.",
+    "synonyms": [
+      "visual",
+      "pictorial",
+      "diagrammatic"
+    ],
+    "antonyms": [
+      "textual",
+      "numerical",
+      "verbal"
+    ],
+    "nounForm": "graphic",
+    "verbForm": "graph",
+    "adjectiveForm": "graphical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, data analysis, design, gaming",
+    "usageTip": "Use 'graphical' to describe anything that uses or relates to pictures, charts, or visual elements.",
+    "commonMistake": "Confusing 'graphical' (relating to graphs/images) with 'graphic' (which can also mean vivid and disturbing).",
+    "collocations": [
+      "graphical user interface",
+      "graphical representation",
+      "graphical display",
+      "graphical elements"
+    ]
+  },
+  {
+    "word": "Graphical",
+    "meaning": "Presented in the form of an image or diagram for better understanding",
+    "shortMeaning": "Visual representation",
+    "example": "The dashboard provides a graphical overview of server status.",
+    "example2": "We prefer graphical tools over command-line interfaces.",
+    "example3": "The software has a user-friendly graphical interface.",
+    "Explanation": "The word 'graphical' is used to describe systems or data that use images, icons, or charts instead of (or in addition to) text. It is most commonly associated with 'Graphical User Interfaces' (GUI). It emphasizes that visual elements are used to aid clarity or interaction. It is used as an adjective. It is a critical distinction in IT when comparing UI types or data visualization methods.",
+    "synonyms": [
+      "visual",
+      "pictorial",
+      "diagrammatic"
+    ],
+    "antonyms": [
+      "textual",
+      "command-line"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "graphical",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX and data visualization",
+    "usageTip": "Use 'graphical' when describing an interface or data display.",
+    "commonMistake": "Using 'graphic' when 'graphical' (describing a interface) is more precise.",
+    "collocations": [
+      "graphical interface",
+      "graphical representation",
+      "graphical tool"
+    ]
+  }
+]

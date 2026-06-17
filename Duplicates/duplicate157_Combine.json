@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Combine",
+    "meaning": "To join or mix two or more things together to form a single thing.",
+    "shortMeaning": "join together, mix",
+    "example": "Combine the flour and eggs to make dough.",
+    "example2": "The two schools will combine to form a larger one.",
+    "example3": "He combines his job with freelance work.",
+    "Explanation": "The verb 'combine' means to bring different elements together so they unite or work in conjunction. It can be physical (combining ingredients) or abstract (combining ideas). The noun form is 'combination'. It is a neutral, practical word. A common error is confusing it with 'connect'; combine implies a merging into one, while connect implies a link between separate things. Also, note the spelling; it ends with '-bine', not '-bin'. It is often used in cooking, chemistry, business, and everyday planning.",
+    "synonyms": [
+      "merge",
+      "mix",
+      "unite"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "split"
+    ],
+    "nounForm": "combination",
+    "verbForm": "combine",
+    "adjectiveForm": "combined",
+    "partOfSpeech": "verb",
+    "commonContext": "Cooking, business, chemistry, efforts",
+    "usageTip": "Use 'combine with' to show what things are joined (e.g., Combine A with B).",
+    "commonMistake": "Saying 'combine together' which is redundant. 'Combine' already means 'join together'.",
+    "collocations": [
+      "combine forces",
+      "combine ingredients",
+      "effectively combine"
+    ]
+  },
+  {
+    "word": "Combine",
+    "meaning": "To join two or more things together to form a single unit",
+    "shortMeaning": "join together",
+    "example": "We can combine these two CSS files into one to improve page speed.",
+    "example2": "The app allows users to combine several photos into a collage.",
+    "example3": "Combine the two data tables using a common ID column.",
+    "Explanation": "In IT, 'combining' is a frequent operation. It might mean merging two code branches, concatenating strings of text, or joining data from different tables in a database (SQL Join). Combining resources is often done for optimization—for example, combining many small JavaScript files into one 'bundle' reduces the number of requests a browser has to make. It is about simplification and unification, making a system more efficient by reducing fragmentation.",
+    "synonyms": [
+      "merge",
+      "unify",
+      "join"
+    ],
+    "antonyms": [
+      "separate",
+      "split",
+      "divide"
+    ],
+    "nounForm": "combination",
+    "verbForm": "combine",
+    "adjectiveForm": "combined",
+    "partOfSpeech": "verb",
+    "commonContext": "Data processing, file management, and programming",
+    "usageTip": "Use 'combine' when the result is a single, integrated whole.",
+    "commonMistake": "Confusing 'combine' with 'compare'; combining creates one, comparing looks at two.",
+    "collocations": [
+      "combine files",
+      "combine efforts",
+      "combine data"
+    ]
+  }
+]

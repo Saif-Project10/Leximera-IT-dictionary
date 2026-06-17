@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Redeemable",
+    "meaning": "Something that can be exchanged for money, a prize, or a discount",
+    "shortMeaning": "exchangeable",
+    "example": "These points are redeemable for a gift card.",
+    "example2": "The coupon is only redeemable at participating locations.",
+    "example3": "This ticket is not redeemable for cash.",
+    "Explanation": "In IT and business, 'redeemable' describes a digital asset or voucher that has value. For example, in a loyalty program, users earn points that are 'redeemable' for rewards. The term implies a future exchange. It is commonly used in e-commerce, gaming (virtual currency), and finance. When something is redeemable, it has a specific set of rules or conditions that must be met before the exchange can happen. This word is very common in user agreements and marketing materials for digital apps.",
+    "synonyms": [
+      "exchangeable",
+      "convertible",
+      "reclaimable"
+    ],
+    "antonyms": [
+      "non-redeemable",
+      "worthless"
+    ],
+    "nounForm": "redemption",
+    "verbForm": "redeem",
+    "adjectiveForm": "redeemable",
+    "partOfSpeech": "adjective",
+    "commonContext": "E-commerce, loyalty programs, and finance",
+    "usageTip": "Use 'redeemable' to describe coupons, points, or vouchers.",
+    "commonMistake": "Confusing 'redeemable' with 'refundable'; they mean different types of exchange.",
+    "collocations": [
+      "redeemable for cash",
+      "redeemable online",
+      "fully redeemable"
+    ]
+  },
+  {
+    "word": "Redeemable",
+    "meaning": "Able to be exchanged for value or service",
+    "shortMeaning": "exchangeable",
+    "example": "The coupon code is redeemable on our checkout page.",
+    "example2": "Points earned in the system are redeemable for discounts.",
+    "example3": "The digital gift card is redeemable at any branch.",
+    "Explanation": "The word 'redeemable' refers to something, usually a token, voucher, or points, that can be traded or exchanged for a benefit. In software development, especially for e-commerce platforms, building a 'redeemable' system requires careful validation to ensure that codes cannot be used more than once. It is a common feature in loyalty programs and payment systems. The design must handle edge cases where a user might try to redeem a code that has already been expired or claimed.",
+    "synonyms": [
+      "exchangeable",
+      "convertible",
+      "claimable"
+    ],
+    "antonyms": [
+      "non-redeemable",
+      "expired",
+      "invalid"
+    ],
+    "nounForm": "redemption",
+    "verbForm": "redeem",
+    "adjectiveForm": "redeemable",
+    "partOfSpeech": "adjective",
+    "commonContext": "E-commerce, loyalty systems, payments",
+    "usageTip": "Use 'redeemable' when describing features that allow users to get value from digital tokens.",
+    "commonMistake": "Confusing 'redeemable' with 'refundable'; redeemable is for trading points, refundable is for getting money back.",
+    "collocations": [
+      "redeemable voucher",
+      "redeemable code",
+      "redeemable points"
+    ]
+  }
+]

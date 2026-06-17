@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Self-referential",
+    "meaning": "Referring to itself",
+    "shortMeaning": "referring to self",
+    "example": "The code contains a self-referential pointer.",
+    "example2": "The joke is self-referential, referencing its own humor.",
+    "example3": "Self-referential structures can be complex to debug.",
+    "Explanation": "Self-referential describes something that mentions or includes itself. In software, this is common in objects that point back to their own classes or memory addresses. It is a fundamental concept in logic and computer science, sometimes leading to complex issues like infinite recursion if not properly managed. When something is self-referential, it is important to clearly define the boundaries so the system knows where the reference starts and ends. It is a precise term used in technical logic.",
+    "synonyms": [
+      "recursive",
+      "self-descriptive"
+    ],
+    "antonyms": [
+      "externally-directed",
+      "independent"
+    ],
+    "nounForm": "self-reference",
+    "verbForm": "refer",
+    "adjectiveForm": "self-referential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, logic, writing",
+    "usageTip": "Use 'self-referential' when an object or statement points back to itself.",
+    "commonMistake": "Assuming it always implies an error, which it doesn't.",
+    "collocations": [
+      "self-referential structure",
+      "self-referential logic",
+      "self-referential loop"
+    ]
+  },
+  {
+    "word": "Self-referential",
+    "meaning": "Containing a reference to itself",
+    "shortMeaning": "recursive-reference",
+    "example": "The document has a self-referential link to its own section.",
+    "example2": "Self-referential code can be difficult to debug.",
+    "example3": "The graph structure is self-referential in nature.",
+    "Explanation": "A 'self-referential' item refers back to itself, either directly or indirectly. In programming, this often occurs in linked data, like a class that contains an instance of itself (a node in a tree), or in database records that point to another record in the same table. While useful for building complex, nested structures, it can create logical challenges that are hard to trace if not managed correctly. Understanding self-referential structures is essential for working with graph databases and advanced OOP.",
+    "synonyms": [
+      "recursive",
+      "circular"
+    ],
+    "antonyms": [
+      "external",
+      "independent"
+    ],
+    "nounForm": "self-reference",
+    "verbForm": "N/A",
+    "adjectiveForm": "self-referential",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, database modeling, math",
+    "usageTip": "Use 'self-referential' to describe structures that point to themselves.",
+    "commonMistake": "Getting confused by circular logic in self-referential data.",
+    "collocations": [
+      "self-referential code",
+      "self-referential structure"
+    ]
+  }
+]

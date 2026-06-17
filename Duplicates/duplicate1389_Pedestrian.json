@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Pedestrian",
+    "meaning": "A person walking rather than traveling in a vehicle; or dull, unimaginative",
+    "shortMeaning": "person walking, or boring",
+    "example": "Pedestrians should use the crosswalk.",
+    "example2": "The town center is closed to vehicles, open only to pedestrians.",
+    "example3": "His writing style is rather pedestrian.",
+    "Explanation": "'Pedestrian' has two distinct meanings. First, as a noun, it's the standard term for someone traveling on foot. Second, as an adjective, it is often negative, meaning lacking inspiration, excitement, or originality; commonplace. The adjective use is metaphorical, suggesting something is as ordinary as walking. The noun is neutral and essential for traffic and city planning. The adjective is common in criticism of art, writing, or ideas. Context clearly separates the two.",
+    "synonyms": [
+      "walker",
+      "hiker (noun)",
+      "uninspired (adjective)"
+    ],
+    "antonyms": [
+      "driver",
+      "motorist (noun)",
+      "imaginative (adjective)"
+    ],
+    "nounForm": "pedestrian",
+    "verbForm": "N/A",
+    "adjectiveForm": "pedestrian",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Traffic safety, urban design, art/literary criticism",
+    "usageTip": "As an adjective, it's usually placed before a noun (pedestrian design, pedestrian prose).",
+    "commonMistake": "Using the adjective 'pedestrian' to mean 'related to walking' (that's 'pedestrian' as a noun attribute, e.g., pedestrian crossing).",
+    "collocations": [
+      "pedestrian zone",
+      "pedestrian bridge",
+      "pedestrian effort"
+    ]
+  },
+  {
+    "word": "Pedestrian",
+    "meaning": "A person walking rather than traveling in a vehicle; also, dull or lacking inspiration.",
+    "shortMeaning": "walker or dull",
+    "example": "The new design was criticized for being too pedestrian.",
+    "example2": "He had to cross the road as a pedestrian.",
+    "example3": "The solution was functional but lacked creativity; it was pedestrian.",
+    "Explanation": "The word 'pedestrian' has two meanings. Literally, it refers to someone walking on foot. Figuratively, in the tech world, it describes something that is ordinary, boring, or lacking in innovation. If a piece of code or a design is called 'pedestrian', it means it is standard and does not stand out for any technical brilliance. It is used when an idea or execution is basic and fails to excite the team.",
+    "synonyms": [
+      "walker",
+      "dull",
+      "ordinary",
+      "uninspired"
+    ],
+    "antonyms": [
+      "innovative",
+      "extraordinary",
+      "creative"
+    ],
+    "nounForm": "pedestrian",
+    "verbForm": "N/A",
+    "adjectiveForm": "pedestrian",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Design reviews, general movement",
+    "usageTip": "Use the second meaning to describe designs that are too simple or boring.",
+    "commonMistake": "Confusing the literal 'walker' meaning with the figurative 'boring' meaning.",
+    "collocations": [
+      "pedestrian design",
+      "pedestrian approach",
+      "pedestrian traffic"
+    ]
+  }
+]

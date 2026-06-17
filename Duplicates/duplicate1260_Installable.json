@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Installable",
+    "meaning": "Capable of being installed, especially software.",
+    "shortMeaning": "able to be installed",
+    "example": "The software is installable on both Windows and Mac.",
+    "example2": "Check if the update is installable on your current system.",
+    "example3": "We provide an installable package for easy deployment.",
+    "Explanation": "'Installable' is an adjective used primarily in computing and technology. It describes software, updates, or components that are in a form ready to be installed on a computer or device. It implies that the necessary files are present and compatible, and the installation process can be initiated. The verb is 'install'. This term is common in software documentation, download pages, and IT discussions. It's a practical word that reassures users or administrators that the product can be set up and made operational.",
+    "synonyms": [
+      "deployable",
+      "ready-to-install"
+    ],
+    "antonyms": [
+      "uninstallable",
+      "incompatible"
+    ],
+    "nounForm": "installability",
+    "verbForm": "install",
+    "adjectiveForm": "installable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, updates, drivers, applications",
+    "usageTip": "Almost exclusively used in tech contexts. It's often seen on download buttons: 'Download Installable'.",
+    "commonMistake": "Using it for physical objects where 'installable' is correct but 'mountable' or 'fittable' might be more common.",
+    "collocations": [
+      "installable package",
+      "easily installable",
+      "installable version"
+    ]
+  },
+  {
+    "word": "Installable",
+    "meaning": "Capable of being set up or added to a computer system",
+    "shortMeaning": "Can be installed",
+    "example": "The software package is now installable on all platforms.",
+    "example2": "Check if the driver is installable before proceeding.",
+    "example3": "They created an installable version of the tool.",
+    "Explanation": "The term 'installable' describes any software or driver that is ready and able to be set up on a system. It is an adjective that confirms compatibility and readiness. Developers often test if a build is 'installable' to ensure the installer scripts are working correctly. It is a fundamental status for any distributable software product or library in professional IT environments.",
+    "synonyms": [
+      "deployable",
+      "set-up-able",
+      "executable"
+    ],
+    "antonyms": [
+      "non-installable",
+      "incompatible"
+    ],
+    "nounForm": "installation",
+    "verbForm": "install",
+    "adjectiveForm": "installable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, system setup",
+    "usageTip": "Use to describe software that is ready to be added to a computer.",
+    "commonMistake": "Confusing 'installable' with 'installed'.",
+    "collocations": [
+      "installable package",
+      "installable software",
+      "fully installable"
+    ]
+  }
+]

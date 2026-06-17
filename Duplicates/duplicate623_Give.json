@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Give",
+    "meaning": "To freely transfer the possession of something to someone; to provide or supply",
+    "shortMeaning": "to provide or hand over",
+    "example": "He will give her a gift for her birthday.",
+    "example2": "Can you give me some advice?",
+    "example3": "The tree gives shade in the summer.",
+    "Explanation": "'Give' is one of the most common and fundamental verbs in English. It expresses the act of providing, offering, or handing something to someone else. It has many phrasal verbs (give up, give in, give away) and idiomatic uses. It is an irregular verb (give, gave, given). The concept of giving is central to social interactions, charity, and communication. Its simplicity belies its immense importance in the language.",
+    "synonyms": [
+      "provide",
+      "offer",
+      "donate",
+      "present"
+    ],
+    "antonyms": [
+      "take",
+      "receive",
+      "withhold",
+      "keep"
+    ],
+    "nounForm": "gift",
+    "verbForm": "give",
+    "adjectiveForm": "given",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday interactions, gifts, help, information",
+    "usageTip": "Use 'give' for the action of voluntarily handing something to someone else.",
+    "commonMistake": "Confusing 'give' with 'lend' (to give temporarily). Also, incorrect past tense (e.g., 'gived' instead of 'gave').",
+    "collocations": [
+      "give up",
+      "give in",
+      "give a hand",
+      "give birth"
+    ]
+  },
+  {
+    "word": "Give",
+    "meaning": "To provide, grant, or transfer something to someone else",
+    "shortMeaning": "provide or grant",
+    "example": "You need to give the user permission to edit the file.",
+    "example2": "The server will give a 200 OK response if the request is successful.",
+    "example3": "Can you give me the login credentials for the test server?",
+    "Explanation": "In IT, 'give' usually relates to permissions, responses, or data transfer. It is a fundamental action in any interaction between two entities (e.g., user to computer, or client to server). In programming, functions might 'give' (return) a value after processing. It is also used in the context of security, where an admin 'gives access' to a restricted area. Like 'get', it is an incredibly common word. In formal documentation, more precise words like 'provide', 'issue', 'return', or 'grant' are often used to replace 'give' for better clarity.",
+    "synonyms": [
+      "provide",
+      "grant",
+      "issue"
+    ],
+    "antonyms": [
+      "get",
+      "take",
+      "receive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "give",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Access control, server responses, and general communication",
+    "usageTip": "Use 'give' for general actions, but 'grant' for formal permissions and 'return' for function outputs.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "give access",
+      "give feedback",
+      "give a response"
+    ]
+  }
+]

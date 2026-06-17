@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Motivated",
+    "meaning": "Having a strong reason to act or accomplish something; enthusiastic and driven.",
+    "shortMeaning": "driven, enthusiastic",
+    "example": "She is highly motivated to learn Spanish for her new job.",
+    "example2": "A motivated team can achieve great results.",
+    "example3": "He felt more motivated after receiving positive feedback.",
+    "Explanation": "'Motivated' is an adjective describing someone who has desire and energy to do something. It comes from the verb 'motivate', which means to provide someone with a motive or incentive. A motivated person has a clear goal. The word is positive and is often used in educational and workplace settings. The noun form is 'motivation'. Being self-motivated (driven from within) is often seen as a valuable trait. The opposite is 'unmotivated' or 'apathetic'.",
+    "synonyms": [
+      "driven",
+      "enthusiastic",
+      "determined",
+      "inspired"
+    ],
+    "antonyms": [
+      "unmotivated",
+      "apathetic",
+      "indifferent",
+      "lazy"
+    ],
+    "nounForm": "motivation",
+    "verbForm": "motivate",
+    "adjectiveForm": "motivated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work, study, sports, personal goals",
+    "usageTip": "Often followed by 'to' + verb (motivated to succeed) or 'by' (motivated by fear).",
+    "commonMistake": "Confusing 'motivated' (eager) with 'motivational' (intended to motivate others).",
+    "collocations": [
+      "highly motivated",
+      "self-motivated",
+      "financially motivated",
+      "motivated individual"
+    ]
+  },
+  {
+    "word": "Motivated",
+    "meaning": "Driven by a specific goal or reason",
+    "shortMeaning": "driven",
+    "example": "The team was motivated to finish the coding sprint early.",
+    "example2": "Highly motivated developers often learn new skills faster.",
+    "example3": "The changes were motivated by recent security bugs.",
+    "Explanation": "The word 'motivated' means that someone or something has a strong reason for acting. People are motivated by rewards, learning, or a sense of achievement. In systems, we can say an action or update was 'motivated by' a specific trigger, like fixing a bug or improving performance. It explains the 'why' behind an action. Understanding what motivates your team or your code's design choices is key to effective management.",
+    "synonyms": [
+      "driven",
+      "inspired",
+      "encouraged"
+    ],
+    "antonyms": [
+      "unmotivated",
+      "uninspired"
+    ],
+    "nounForm": "motivation",
+    "verbForm": "motivate",
+    "adjectiveForm": "motivated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Teamwork, project design, psychology",
+    "usageTip": "Use 'motivated by' to explain reasons for changes.",
+    "commonMistake": "Confusing 'motivated' with 'forced'.",
+    "collocations": [
+      "motivated by",
+      "highly motivated",
+      "team motivation"
+    ]
+  }
+]

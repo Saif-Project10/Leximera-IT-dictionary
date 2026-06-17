@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Safe",
+    "meaning": "Protected from danger, harm, or risk; not likely to cause harm.",
+    "shortMeaning": "secure, not dangerous",
+    "example": "Keep your money in a safe place.",
+    "example2": "Is it safe to swim in this water?",
+    "example3": "The children returned home safe and sound.",
+    "Explanation": "The word 'safe' describes a state of being free from danger or the likelihood of causing injury. It can refer to physical safety, emotional security, or the reliability of information. As a noun, a 'safe' is a locked box for valuables. The concept of safety is fundamental to human needs and decision-making. We constantly assess risks to stay safe. The word is simple but carries deep importance in contexts ranging from everyday life ('safe journey') to engineering ('fail-safe design') and computing ('safe mode').",
+    "synonyms": [
+      "secure",
+      "protected",
+      "harmless",
+      "unharmed"
+    ],
+    "antonyms": [
+      "dangerous",
+      "unsafe",
+      "risky",
+      "harmful"
+    ],
+    "nounForm": "safety",
+    "verbForm": "safeguard",
+    "adjectiveForm": "safe",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Security, health, travel, data protection, instructions",
+    "usageTip": "Use 'safe from' to indicate protection from a specific threat (safe from danger).",
+    "commonMistake": "Confusing 'safe' (adjective) with 'save' (verb, meaning to rescue or keep).",
+    "collocations": [
+      "safe and sound",
+      "play it safe",
+      "safe bet"
+    ]
+  },
+  {
+    "word": "Safe",
+    "meaning": "Free from danger, risk, or harm.",
+    "shortMeaning": "not dangerous",
+    "example": "Always keep your passwords in a safe place.",
+    "example2": "The developer ensured the code was safe from injection attacks.",
+    "example3": "It is safe to update the software now.",
+    "Explanation": "The word 'safe' describes something that does not cause harm, damage, or loss. In IT, 'safe' often refers to secure practices, stable environments, or code that is protected from errors and vulnerabilities. Being safe implies that risks have been minimized or neutralized. It is a fundamental concept in both cybersecurity and general user experience.",
+    "synonyms": [
+      "secure",
+      "protected",
+      "harmless"
+    ],
+    "antonyms": [
+      "dangerous",
+      "risky",
+      "unsafe"
+    ],
+    "nounForm": "safety",
+    "verbForm": "N/A",
+    "adjectiveForm": "safe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, stability, and reliability",
+    "usageTip": "Use 'safe' to denote lack of risk or presence of protection.",
+    "commonMistake": "Using 'safe' when 'secure' might be more technically precise in cybersecurity contexts.",
+    "collocations": [
+      "safe mode",
+      "safe storage",
+      "keep safe"
+    ]
+  }
+]

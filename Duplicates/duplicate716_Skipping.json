@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Skipping",
+    "meaning": "1. Moving along lightly, stepping from one foot to the other with a hop. 2. Omitting or passing over.",
+    "shortMeaning": "hopping; omitting",
+    "example": "The children were skipping down the path. (hopping)",
+    "example2": "I recommend skipping the first chapter; it's not relevant. (omitting)",
+    "example3": "He has a habit of skipping breakfast. (not having)",
+    "Explanation": "'Skipping' is the present participle of the verb 'skip'. Its primary meaning is a light, bouncing way of moving, often associated with children's play. Its secondary, and very common, meaning is to intentionally leave out or miss something, such as a step, a meal, or a part of a book. In computing, you might skip a record in a dataset. The word implies a voluntary omission or a cheerful, springy movement.",
+    "synonyms": [
+      "hopping",
+      "jumping",
+      "omitting",
+      "missing out"
+    ],
+    "antonyms": [
+      "including",
+      "keeping",
+      "walking"
+    ],
+    "nounForm": "skip",
+    "verbForm": "skip",
+    "adjectiveForm": "skipping",
+    "partOfSpeech": "verb (present participle/gerund)",
+    "commonContext": "Movement, reading, meals, processes",
+    "usageTip": "Use 'skipping' for the action of hopping joyfully or for deliberately not doing or including something.",
+    "commonMistake": "Confusing 'skipping' (omitting) with 'skimming' (reading quickly). You skip a page entirely; you skim a page to get the main ideas.",
+    "collocations": [
+      "skip a meal",
+      "skip school",
+      "skip rope",
+      "skip to the end"
+    ]
+  },
+  {
+    "word": "Skipping",
+    "meaning": "Omit or pass over without doing or reading.",
+    "shortMeaning": "omitting",
+    "example": "Skipping validation can lead to major security issues.",
+    "example2": "He is skipping the tutorial and going straight to coding.",
+    "example3": "The loop is skipping the first element in the array.",
+    "Explanation": "The word 'skipping' means to deliberately omit or ignore something. In programming, skipping an operation, such as validation or a check, can be very dangerous. Sometimes you might skip non-essential steps in a process, but 'skipping' should always be done with caution. Always make sure that skipping something does not break your system.",
+    "synonyms": [
+      "omitting",
+      "bypassing",
+      "jumping over"
+    ],
+    "antonyms": [
+      "including",
+      "processing",
+      "executing"
+    ],
+    "nounForm": "skip",
+    "verbForm": "skip",
+    "adjectiveForm": "skipping",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Logic and execution",
+    "usageTip": "Use 'skipping' for omitting steps in a process.",
+    "commonMistake": "Skipping critical security checks in code.",
+    "collocations": [
+      "skipping validation",
+      "skipping errors",
+      "avoid skipping"
+    ]
+  },
+  {
+    "word": "Skipping",
+    "meaning": "Intentionally ignoring or bypassing a specific step or data",
+    "shortMeaning": "bypassing or ignoring",
+    "example": "The script is skipping the first row because it contains a header.",
+    "example2": "Skipping the error handling process can lead to system crashes.",
+    "example3": "He is skipping the configuration wizard to use custom settings.",
+    "Explanation": "The word 'skipping' describes the act of jumping over a step, a file, or a piece of code. In programming, it is often a logical choice to avoid redundant tasks or to ignore known errors. It is a verb form used to describe the flow of a program or the actions of a developer. Understanding when to skip and when to process is a key part of writing logical control structures.",
+    "synonyms": [
+      "bypassing",
+      "omitting",
+      "ignoring"
+    ],
+    "antonyms": [
+      "including",
+      "processing",
+      "performing"
+    ],
+    "nounForm": "skip",
+    "verbForm": "skip",
+    "adjectiveForm": "skipping",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming logic, loops, file operations",
+    "usageTip": "Use 'skipping' when explaining why certain data wasn't processed.",
+    "commonMistake": "Skipping mandatory initialization steps, which causes bugs.",
+    "collocations": [
+      "skipping steps",
+      "skipping data",
+      "skipping errors"
+    ]
+  }
+]

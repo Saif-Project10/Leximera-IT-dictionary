@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Hard reset",
+    "meaning": "The process of restarting a device by cutting off and restoring power",
+    "shortMeaning": "power-cycle restart",
+    "example": "If the phone freezes completely, you might need to perform a hard reset.",
+    "example2": "A hard reset will clear the temporary memory and reload the firmware.",
+    "example3": "Unlike a soft reset, a hard reset involves physical buttons or pulling the battery.",
+    "Explanation": "A hard reset is a forceful way to restart a computer or electronic device. It is typically used when the software is completely unresponsive and a normal shutdown is impossible. This process clears the system's RAM (volatile memory) and forces the hardware to re-initialize. While it can fix many stubborn software glitches, it may lead to data loss if files were not saved. In some contexts, 'hard reset' is also used to describe a factory reset, though they are technically different.",
+    "synonyms": [
+      "cold boot",
+      "hard reboot",
+      "power cycle"
+    ],
+    "antonyms": [
+      "soft reset",
+      "warm boot",
+      "sleep mode"
+    ],
+    "nounForm": "hard reset",
+    "verbForm": "hard reset",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Troubleshooting electronics and computers",
+    "usageTip": "Use a hard reset only as a last resort when the software buttons don't work.",
+    "commonMistake": "Confusing a hard reset with a factory reset, which deletes all personal data.",
+    "collocations": [
+      "perform a hard reset",
+      "force a hard reset",
+      "hard reset button"
+    ]
+  },
+  {
+    "word": "Hard reset",
+    "meaning": "To restore a device to its original factory settings, deleting all user data",
+    "shortMeaning": "factory data reset",
+    "example": "I had to perform a hard reset on my phone because it was freezing.",
+    "example2": "A hard reset will delete all your photos and apps, so make a backup.",
+    "example3": "The technician suggested a hard reset to fix the network issues.",
+    "Explanation": "A 'hard reset' (or factory reset) is the most extreme way to fix a device. Unlike a 'soft reset' (which is just restarting), a hard reset clears the memory and returns the software to the state it was in when it left the factory. It is usually done by holding down specific buttons or choosing an option in the settings. It is the final solution for software problems that cannot be solved any other way.",
+    "synonyms": [
+      "factory reset",
+      "master reset",
+      "N/A"
+    ],
+    "antonyms": [
+      "soft reset",
+      "reboot",
+      "restart"
+    ],
+    "nounForm": "hard reset",
+    "verbForm": "hard reset",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Mobile devices, routers, and hardware troubleshooting",
+    "usageTip": "Only perform a hard reset if you have a backup of your important files.",
+    "commonMistake": "Using 'hard reset' when you just mean turning the device off and on.",
+    "collocations": [
+      "perform a hard reset",
+      "button for hard reset",
+      "N/A"
+    ]
+  }
+]

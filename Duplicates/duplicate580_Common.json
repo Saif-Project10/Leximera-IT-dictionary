@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Common",
+    "meaning": "Occurring, found, or done often; familiar; shared by two or more people or things.",
+    "shortMeaning": "frequent; ordinary; shared",
+    "example": "It's a common mistake for beginners to make.",
+    "example2": "They have a common interest in music.",
+    "example3": "The house has many features common to that style of architecture.",
+    "Explanation": "Common is an adjective describing something that is widespread, ordinary, or not unusual. It can also mean 'shared' (common goal). It is a neutral word, but can be negative when meaning 'vulgar' (common manners) or positive when meaning 'universal' (common good). The noun is 'commonality' (shared feature) or 'commons' (public land). A common mistake is confusing 'common' with 'average' or 'normal.' This word is fundamental for describing frequency, typicality, and collective attributes in everyday language and analysis.",
+    "synonyms": [
+      "frequent",
+      "usual",
+      "ordinary",
+      "shared",
+      "prevalent"
+    ],
+    "antonyms": [
+      "rare",
+      "unusual",
+      "unique",
+      "uncommon",
+      "individual"
+    ],
+    "nounForm": "commonality, commons",
+    "verbForm": "N/A",
+    "adjectiveForm": "common",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday speech, statistics, shared experiences, and design.",
+    "usageTip": "Use 'common to' to mean shared by (e.g., 'a trait common to all humans'). Use 'common for' to mean typical (e.g., 'common for students').",
+    "commonMistake": "Saying 'more common' when the comparative is 'commoner' (though 'more common' is widely accepted).",
+    "collocations": [
+      "common sense",
+      "in common",
+      "common knowledge"
+    ]
+  },
+  {
+    "word": "Common",
+    "meaning": "Widespread, frequent, or shared by multiple users, components, or systems",
+    "shortMeaning": "frequent or shared",
+    "example": "A common mistake in web development is forgetting to handle null API responses.",
+    "example2": "The application uses a common stylesheet for all page layouts.",
+    "example3": "Syntax errors are common when beginners start learning a new language.",
+    "Explanation": "The word 'Common' is used to describe things that happen frequently, or resources that are shared between different parts of a system. In IT, 'common' components (like shared libraries or themes) prevent repetition (the DRY—'Don't Repeat Yourself' principle). Identifying 'common' errors is a core part of debugging and writing documentation, as it helps other developers quickly find solutions to frequently encountered problems based on historical experience.",
+    "synonyms": [
+      "shared",
+      "frequent",
+      "widespread"
+    ],
+    "antonyms": [
+      "unique",
+      "rare",
+      "exclusive"
+    ],
+    "nounForm": "commonality",
+    "verbForm": "N/A",
+    "adjectiveForm": "common",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding libraries, troubleshooting, UX design standards",
+    "usageTip": "Use 'common' to refer to resources shared between systems or errors that occur frequently.",
+    "commonMistake": "Using 'common' to mean 'simple'; common just means frequent, not necessarily easy.",
+    "collocations": [
+      "common mistake",
+      "common practice",
+      "common library"
+    ]
+  }
+]

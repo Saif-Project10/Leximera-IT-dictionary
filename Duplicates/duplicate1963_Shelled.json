@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Shelled",
+    "meaning": "Ran commands inside a command-line interpreter (shell).",
+    "shortMeaning": "executed in shell",
+    "example": "The script was shelled to run at startup.",
+    "example2": "He shelled into the remote server to debug the issue.",
+    "example3": "The process was shelled by the main application.",
+    "Explanation": "The term 'shelled' refers to the act of executing a process or command through a shell (command-line interpreter). It is common in scripting and automation where one program triggers another by invoking it via the system shell. Understanding how a process is 'shelled' is important for managing execution environments, security permissions, and command-line arguments. It is a foundational operation for system administrators and developers managing server-side tasks.",
+    "synonyms": [
+      "executed via shell",
+      "run in command line"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "shell",
+    "verbForm": "shell",
+    "adjectiveForm": "shelled",
+    "partOfSpeech": "verb",
+    "commonContext": "Scripting, server administration, automation",
+    "usageTip": "Use 'shelled' to describe running programs via a shell.",
+    "commonMistake": "Confusing 'shelled' with 'nested'.",
+    "collocations": [
+      "shelled process",
+      "shelled command",
+      "shelled out"
+    ]
+  },
+  {
+    "word": "Shelled",
+    "meaning": "Enclosed within a protective outer layer or shell",
+    "shortMeaning": "in a shell",
+    "example": "The application runs in a shelled environment.",
+    "example2": "The script was shelled to protect the main system.",
+    "example3": "He used a shelled command structure.",
+    "Explanation": "The term 'shelled' refers to something that is wrapped inside a shell or an outer layer. In computing, it often describes running commands or applications within a shell interface. It provides a layer of abstraction between the user and the core system. It is a specialized term that relates to system shells like Bash or PowerShell. It implies containment or specific access methods.",
+    "synonyms": [
+      "enclosed",
+      "wrapped"
+    ],
+    "antonyms": [
+      "exposed",
+      "bare"
+    ],
+    "nounForm": "shell",
+    "verbForm": "shell",
+    "adjectiveForm": "shelled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Shell scripting, system security",
+    "usageTip": "Use 'shelled' when discussing commands run within a shell interface.",
+    "commonMistake": "Confusing 'shelled' with 'crashed'.",
+    "collocations": [
+      "shelled environment",
+      "shelled command",
+      "shelled interface"
+    ]
+  }
+]

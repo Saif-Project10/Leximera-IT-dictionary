@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Sent",
+    "meaning": "Dispatched to a destination",
+    "shortMeaning": "dispatched",
+    "example": "The email was sent to all active users.",
+    "example2": "The data was sent over a secure connection.",
+    "example3": "Check the log to see which packets were sent.",
+    "Explanation": "Sent is the past tense and past participle of the verb 'send.' It means that a message, a package, or data has been dispatched to a specific recipient or location. It is a very basic but important word in networking and communication. When a developer says a message was 'sent,' they imply it left the origin successfully. It is frequently used in status reports, error logs, and user notifications. Ensure you verify that it was *received* as well, as 'sent' does not guarantee delivery.",
+    "synonyms": [
+      "dispatched",
+      "delivered",
+      "transmitted"
+    ],
+    "antonyms": [
+      "received",
+      "kept",
+      "unsent"
+    ],
+    "nounForm": "sending",
+    "verbForm": "send",
+    "adjectiveForm": "sent",
+    "partOfSpeech": "verb (past participle)",
+    "commonContext": "Communication, networking, email",
+    "usageTip": "Use 'sent' to describe an action of dispatching data or messages.",
+    "commonMistake": "Assuming 'sent' means the same as 'arrived' or 'delivered'.",
+    "collocations": [
+      "message sent",
+      "sent successfully",
+      "data sent"
+    ]
+  },
+  {
+    "word": "Sent",
+    "meaning": "Past tense of send; something that has been dispatched",
+    "shortMeaning": "dispatched",
+    "example": "The data was sent to the server successfully.",
+    "example2": "He sent the report via email this morning.",
+    "example3": "All packets were sent without errors.",
+    "Explanation": "Sent is the past form of the verb 'send'. It indicates that a transfer of data, message, or file has been completed. It is a fundamental term in networking and communication protocols. When tracking network traffic, you often check if requests were successfully sent or if they failed. It is a simple term but critical for verifying that communication between systems is working as expected.",
+    "synonyms": [
+      "dispatched",
+      "transmitted",
+      "forwarded"
+    ],
+    "antonyms": [
+      "received",
+      "retained"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "send",
+    "adjectiveForm": "sent",
+    "partOfSpeech": "verb",
+    "commonContext": "Networking, messaging, data transfer",
+    "usageTip": "Use 'sent' to confirm an action occurred in the past.",
+    "commonMistake": "Confusing 'sent' with 'received' in log analysis.",
+    "collocations": [
+      "data sent",
+      "packet sent",
+      "email sent"
+    ]
+  }
+]

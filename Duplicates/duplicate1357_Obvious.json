@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Obvious",
+    "meaning": "Easily seen, recognized, or understood; clear.",
+    "shortMeaning": "clear and easy to see",
+    "example": "It was obvious that she was unhappy from her expression.",
+    "example2": "The solution to the puzzle seemed obvious once he explained it.",
+    "example3": "There is an obvious mistake in the first paragraph.",
+    "Explanation": "'Obvious' is a very common adjective for things that are plain and apparent, with no need for explanation. It often describes facts, feelings, or errors that are immediately clear to anyone paying attention. The word can sometimes be used in a slightly negative way to imply something is too simple or lacking subtlety. It's stronger than 'noticeable'.",
+    "synonyms": [
+      "clear",
+      "evident",
+      "apparent",
+      "plain",
+      "manifest"
+    ],
+    "antonyms": [
+      "obscure",
+      "unclear",
+      "hidden",
+      "subtle",
+      "non-obvious"
+    ],
+    "nounForm": "obviousness",
+    "verbForm": "N/A",
+    "adjectiveForm": "obvious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday conversation, pointing out facts, identifying errors",
+    "usageTip": "Use 'obvious' when something is so clear that it hardly needs to be stated.",
+    "commonMistake": "Overusing it; sometimes more precise words like 'evident' or 'apparent' are better.",
+    "collocations": [
+      "obvious choice",
+      "obvious reason",
+      "painfully obvious"
+    ]
+  },
+  {
+    "word": "Obvious",
+    "meaning": "Easily perceived or understood; clear",
+    "shortMeaning": "clear",
+    "example": "The solution to the bug was obvious once we saw the logs.",
+    "example2": "It is obvious that the server is overloaded.",
+    "example3": "The reason for the error was not immediately obvious.",
+    "Explanation": "The word 'obvious' describes something that is easy to see, understand, or realize. In coding, an 'obvious' fix is one that is straightforward and requires no guesswork. However, what is 'obvious' to one person might not be to another, especially in complex projects. It is a common word in troubleshooting, where you often look for the 'obvious' causes (like a loose cable or a typo) before digging into deeper, more hidden technical problems.",
+    "synonyms": [
+      "clear",
+      "evident",
+      "apparent"
+    ],
+    "antonyms": [
+      "obscure",
+      "hidden",
+      "unclear"
+    ],
+    "nounForm": "obviousness",
+    "verbForm": "N/A",
+    "adjectiveForm": "obvious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting and code review",
+    "usageTip": "Use 'obvious' when something is clearly understandable.",
+    "commonMistake": "Assuming something is 'obvious' to everyone else.",
+    "collocations": [
+      "obvious solution",
+      "immediately obvious"
+    ]
+  }
+]

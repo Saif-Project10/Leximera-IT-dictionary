@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Underscore",
+    "meaning": "A symbol (*) used to link words or represent a space in computer code",
+    "shortMeaning": "the _ symbol",
+    "example": "Your username can only contain letters, numbers, and an underscore.",
+    "example2": "In Python, we often start private variable names with an underscore.",
+    "example3": "Don't forget the underscore between 'first' and 'name' in the filename.",
+    "Explanation": "The underscore (*) is a character that looks like a horizontal line at the bottom of the text line. It is widely used in IT and programming because computers often don't allow spaces in filenames, URLs, or variable names. The underscore acts as a visual 'space' that the computer treats as a character (e.g., 'my_file_name'). It is also used in specific programming languages like Python to indicate special types of variables (like `__init__`). In regular writing, 'underscore' can also be a verb meaning 'to emphasize,' but in technology, it almost always refers to the symbol. It is found on the same key as the hyphen on most keyboards. It is a vital part of naming conventions in coding.",
+    "synonyms": [
+      "understrike",
+      "low line",
+      "underbar"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "underscore",
+    "verbForm": "underscore",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Coding, usernames, and filenames",
+    "usageTip": "Use an underscore when you want to separate words in a place where spaces aren't allowed.",
+    "commonMistake": "Confusing an 'underscore' (_) with a 'hyphen' or 'dash' (-); the underscore is at the bottom, the hyphen is in the middle.",
+    "collocations": [
+      "leading underscore",
+      "double underscore",
+      "underscore character"
+    ]
+  },
+  {
+    "word": "Underscore",
+    "meaning": "The underline symbol character '*' used commonly to link text words together inside programming code environments",
+    "shortMeaning": "the underline symbol character",
+    "example": "You can use an underscore to separate words inside your local vanilla JavaScript variable names.",
+    "example2": "Please add an underscore between 'user' and 'id' to create the proper folder layout name.",
+    "example3": "The text pattern requires an underscore character at the start of every private function.",
+    "Explanation": "The word 'underscore' functions as a noun for the physical typographical symbol character '*' and a verb meaning to emphasize something or draw a line beneath text. In programming languages and web development architectures, the underscore character is highly valued. Because spaces are illegal inside file names, URL paths, and code variable syntax, developers utilize underscores (such as user_name) to keep text easily readable for humans while maintaining valid code mechanics.",
+    "synonyms": [
+      "underline symbol",
+      "low line character",
+      "emphasize"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "underscore",
+    "verbForm": "underscore",
+    "adjectiveForm": "underscored",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Variable naming guidelines, folder path structures, and database column names",
+    "usageTip": "Use 'underscore' to reference the literal '*' symbol or to explain that a specific concept needs heavy emphasis.",
+    "commonMistake": "Confusing an underscore '*' with a hyphen '-', which sits in the middle of a text row rather than along the bottom.",
+    "collocations": [
+      "use an underscore",
+      "separated by an underscore",
+      "leading underscore character"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "SSO",
+    "meaning": "Single Sign-On is an authentication scheme that allows a user to log in with a single ID and password to access multiple, related software systems.",
+    "shortMeaning": "one login for many apps",
+    "example": "With SSO, employees can access email, HR tools, and the CRM without logging in again.",
+    "example2": "Using 'Sign in with Google' on a website is a form of SSO.",
+    "example3": "SSO improves user convenience and reduces password fatigue.",
+    "Explanation": "SSO is a user authentication service that permits a user to use one set of login credentials (like a username and password) to access multiple applications. It works by establishing a trusted relationship between an identity provider (like Okta or Azure AD) and the service providers (the apps). After the initial login, the identity provider passes a secure token to the apps, granting access without asking for credentials again. While it greatly improves user experience and can reduce IT helpdesk costs for password resets, it also creates a single point of failure—if the SSO account is compromised, all linked apps are at risk.",
+    "synonyms": [
+      "centralized login",
+      "federated identity",
+      "unified access"
+    ],
+    "antonyms": [
+      "multiple logins",
+      "per-application authentication",
+      "decentralized credentials"
+    ],
+    "nounForm": "SSO",
+    "verbForm": "N/A",
+    "adjectiveForm": "SSO (as in SSO provider)",
+    "partOfSpeech": "noun",
+    "commonContext": "Enterprise IT, cloud applications, user experience, identity management",
+    "usageTip": "Pronounced 'S-S-O'. Often used as a noun ('We use SSO') or an adjective ('SSO solution').",
+    "commonMistake": "Believing SSO eliminates the need for strong passwords or MFA. It makes them *more* critical, as one breach affects many systems.",
+    "collocations": [
+      "SSO provider",
+      "implement SSO",
+      "SSO portal",
+      "enterprise SSO",
+      "SSO integration"
+    ]
+  },
+  {
+    "word": "SSO",
+    "meaning": "An authentication process that allows a user to access multiple applications with one set of credentials.",
+    "shortMeaning": "Single Sign-On",
+    "example": "Our office uses SSO to manage access to all internal tools.",
+    "example2": "Implementing SSO improves security and user convenience.",
+    "example3": "The new portal supports SSO for enterprise accounts.",
+    "Explanation": "SSO stands for Single Sign-On. It is a session and user authentication service that permits a user to use one set of login credentials—for example, name and password—to access multiple applications. The service authenticates the end user for all the applications they have been given rights to and eliminates further prompts when they switch applications during the same session. It is widely used in corporate environments.",
+    "synonyms": [
+      "Single Sign-On",
+      "centralized authentication"
+    ],
+    "antonyms": [
+      "multi-login",
+      "separate authentication"
+    ],
+    "nounForm": "SSO",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "IT security and enterprise software",
+    "usageTip": "Use 'SSO' when referring to unified login systems.",
+    "commonMistake": "Treating SSO as a form of weak security, when it is actually a secure method.",
+    "collocations": [
+      "implement SSO",
+      "SSO provider",
+      "SSO integration"
+    ]
+  }
+]

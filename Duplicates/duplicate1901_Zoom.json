@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Zoom",
+    "meaning": "To make an image appear larger and closer on a screen",
+    "shortMeaning": "enlarge view",
+    "example": "You can zoom in to see the details of the photograph.",
+    "example2": "The camera has a powerful 10x optical zoom.",
+    "example3": "I had to zoom out to see the whole map.",
+    "Explanation": "Zoom is a common function in digital photography, video, and software interfaces. It changes the 'magnification' of what you are looking at. There are two types: 'optical zoom,' which uses a physical lens to get closer, and 'digital zoom,' which simply stretches the pixels of the image. In software, 'zooming' is used to focus on small parts of a document or image. It is also the name of a very popular video conferencing app, though as a verb, it just refers to the action of changing the view size.",
+    "synonyms": [
+      "magnify",
+      "enlarge",
+      "scale up"
+    ],
+    "antonyms": [
+      "zoom out",
+      "shrink",
+      "minimize"
+    ],
+    "nounForm": "zoom",
+    "verbForm": "zoom",
+    "adjectiveForm": "zoomed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Cameras, software, and video calls",
+    "usageTip": "Use 'zoom in' to see more detail and 'zoom out' to see the bigger picture.",
+    "commonMistake": "Confusing 'digital zoom' with quality; digital zoom often makes images look blurry.",
+    "collocations": [
+      "zoom in",
+      "zoom out",
+      "optical zoom"
+    ]
+  },
+  {
+    "word": "Zoom",
+    "meaning": "To magnify or scale a specific area of a screen graphical user interface to view details more closely, or to shrink it to see a wider view",
+    "shortMeaning": "magnify or scale display",
+    "example": "The user can pinch the screen to zoom into the high-resolution product map.",
+    "example2": "If the text size is too small, you can zoom the browser window to 120 percent.",
+    "example3": "The maps application lets you zoom out to view the entire city layout at once.",
+    "Explanation": "The term 'zoom' refers to adjusting the magnification scale of digital interfaces, images, text, or web layouts. It encompasses two primary actions: 'zoom in', which enlarges an area to show fine details, and 'zoom out', which shrinks the viewport scale to offer a broader look. Ensuring that your responsive web layouts remain functional and perfectly readable when users zoom their browsers up to 200 percent is a vital requirement for digital accessibility guidelines (WCAG).",
+    "synonyms": [
+      "magnify",
+      "scale up",
+      "enlarge view"
+    ],
+    "antonyms": [
+      "pan",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "zoom level / magnification",
+    "verbForm": "zoom",
+    "adjectiveForm": "zoomed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Browser settings, accessibility design, map applications, photo viewing",
+    "usageTip": "Always pair 'zoom' with prepositions like 'in' or 'out' to accurately define the direction of magnification scaling.",
+    "commonMistake": "Capitalizing 'zoom' in general prose when you mean magnification, confusing it with the video conferencing application called Zoom.",
+    "collocations": [
+      "zoom in",
+      "zoom out",
+      "zoom level"
+    ]
+  }
+]

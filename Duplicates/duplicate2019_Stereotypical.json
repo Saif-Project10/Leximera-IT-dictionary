@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stereotypical",
+    "meaning": "Matching a common, oversimplified, or repeated pattern.",
+    "shortMeaning": "typical pattern",
+    "example": "It is stereotypical to think all coders work in isolation.",
+    "example2": "The design avoided stereotypical blue-and-white color schemes.",
+    "example3": "Avoid stereotypical answers in your documentation.",
+    "Explanation": "The word 'stereotypical' describes things that follow a popular, often oversimplified, and repeated pattern. In IT, we often strive to avoid stereotypical thinking—such as the idea that developers are only interested in back-end logic and not user experience. Being aware of and avoiding stereotypes helps in creating more creative, user-centered, and diverse software solutions that actually meet the varied needs of real-world users.",
+    "synonyms": [
+      "conventional",
+      "cliché",
+      "typical"
+    ],
+    "antonyms": [
+      "unique",
+      "original",
+      "diverse"
+    ],
+    "nounForm": "stereotype",
+    "verbForm": "stereotype",
+    "adjectiveForm": "stereotypical",
+    "partOfSpeech": "adjective",
+    "commonContext": "User experience, culture, design",
+    "usageTip": "Use 'stereotypical' to describe oversimplified patterns.",
+    "commonMistake": "Confusing 'stereotypical' with 'standard'.",
+    "collocations": [
+      "stereotypical design",
+      "stereotypical view",
+      "avoid stereotypical patterns"
+    ]
+  },
+  {
+    "word": "Stereotypical",
+    "meaning": "Relating to a fixed, oversimplified, and often unfair idea about a group",
+    "shortMeaning": "oversimplified pattern",
+    "example": "He avoided stereotypical coding challenges in his talk.",
+    "example2": "The design seemed a bit stereotypical for a gaming site.",
+    "example3": "Don't follow stereotypical advice; think creatively.",
+    "Explanation": "A 'stereotypical' idea is one that is based on standard, predictable patterns rather than individual facts. In IT design or UI, it refers to layouts or features that follow common, unoriginal trends without adding value. While using standard patterns is often good for UX, being 'stereotypical' implies a lack of innovation or depth. It is important to challenge these patterns to create unique and modern solutions.",
+    "synonyms": [
+      "clichéd",
+      "predictable",
+      "standard"
+    ],
+    "antonyms": [
+      "unique",
+      "original",
+      "innovative"
+    ],
+    "nounForm": "stereotype",
+    "verbForm": "stereotype",
+    "adjectiveForm": "stereotypical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, behavior, communication",
+    "usageTip": "Use to describe something unoriginal or oversimplified.",
+    "commonMistake": "Using 'stereotypical' as a compliment; it usually implies a negative.",
+    "collocations": [
+      "stereotypical design",
+      "stereotypical response"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uncertain",
+    "meaning": "Not known, definite, or sure",
+    "shortMeaning": "not sure",
+    "example": "The cause of the crash remains uncertain.",
+    "example2": "He was uncertain about the software compatibility.",
+    "example3": "There is uncertain output from the sensor.",
+    "Explanation": "Uncertain refers to a lack of clarity, confidence, or predictability. In IT, technical results, project timelines, or hardware stability can be described as uncertain when the outcome is not guaranteed. It highlights a state where variables are unknown or subject to change. Reducing uncertainty is a key goal in software testing and requirement gathering. It often signals a need for more investigation or data collection.",
+    "synonyms": [
+      "unsure",
+      "unpredictable",
+      "doubtful"
+    ],
+    "antonyms": [
+      "certain",
+      "definite",
+      "predictable"
+    ],
+    "nounForm": "uncertainty",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncertain",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem solving, project planning, testing",
+    "usageTip": "Use when you cannot predict the result of a process.",
+    "commonMistake": "Confusing uncertain (unknown result) with 'unstable' (flaky performance).",
+    "collocations": [
+      "uncertain result",
+      "remain uncertain",
+      "highly uncertain"
+    ]
+  },
+  {
+    "word": "Uncertain",
+    "meaning": "Not sure or not definitely known.",
+    "shortMeaning": "not sure",
+    "example": "The date for the next update is still uncertain.",
+    "example2": "He is uncertain about the best way to solve this.",
+    "example3": "Results from the test are uncertain.",
+    "Explanation": "The word 'uncertain' is used when facts, times, or outcomes are not confirmed. In a project environment, it is better to be honest and say something is uncertain rather than guessing. It describes a state of doubt. This is a common word in status meetings and project planning. Being aware of 'uncertain' factors helps teams manage risks effectively. The noun form is 'uncertainty', which is a major concept in software development.",
+    "synonyms": [
+      "unsure",
+      "doubtful",
+      "unclear"
+    ],
+    "antonyms": [
+      "certain",
+      "sure",
+      "confirmed"
+    ],
+    "nounForm": "uncertainty",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncertain",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project planning and status reports",
+    "usageTip": "Use this when you lack clear information.",
+    "commonMistake": "Using 'uncertain' to avoid giving an answer.",
+    "collocations": [
+      "uncertain outcome",
+      "uncertain future",
+      "remains uncertain"
+    ]
+  }
+]

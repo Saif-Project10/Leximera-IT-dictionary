@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Unintentional",
+    "meaning": "Not done on purpose; without intent",
+    "shortMeaning": "not on purpose",
+    "example": "The insult was completely unintentional.",
+    "example2": "She gave him unintentional help by leaving her notes behind.",
+    "example3": "The similarity between the two designs is unintentional.",
+    "Explanation": "Unintentional is a direct and clear adjective meaning 'not intentional'. It is the most neutral term in this group, simply stating the absence of purpose. It's used to explain that an action, result, or similarity was not meant. This is important for clarifying motives, especially when an action had a negative effect. It's less formal than 'inadvertent' and doesn't imply carelessness like that word can. It's the standard, go-to word for saying 'I didn't mean to' in a more formal or written way. The adverb is 'unintentionally'.",
+    "synonyms": [
+      "accidental",
+      "unplanned",
+      "inadvertent"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "planned"
+    ],
+    "nounForm": "unintentionality",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintentional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Apologies, explanations, legal statements, design",
+    "usageTip": "This is the safest and most common word to use when you need to say something was not done on purpose.",
+    "commonMistake": "Overusing it in casual speech where 'it was an accident' is more natural.",
+    "collocations": [
+      "unintentional consequence",
+      "purely unintentional",
+      "unintentional humor"
+    ]
+  },
+  {
+    "word": "Unintentional",
+    "meaning": "Done without a deliberate plan or purpose",
+    "shortMeaning": "not on purpose",
+    "example": "The data deletion was unintentional.",
+    "example2": "It was an unintentional error in the code configuration.",
+    "example3": "We need to prevent unintentional access to sensitive files.",
+    "Explanation": "Similar to 'unintended', 'unintentional' refers to actions that happened without a conscious plan. In IT, this usually refers to human error. For example, an administrator might accidentally run a command on the wrong server. It is important to design systems that are 'mistake-proof' (poka-yoke in lean manufacturing terms) to prevent unintentional damage. When reporting these events, using 'unintentional' helps clarify that there was no malicious intent behind the mistake.",
+    "synonyms": [
+      "accidental",
+      "inadvertent",
+      "unplanned"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "calculated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintentional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Human error, security reporting, system design",
+    "usageTip": "Use this to clearly state that an action was not malicious.",
+    "commonMistake": "Overusing it to excuse repeated mistakes.",
+    "collocations": [
+      "unintentional error",
+      "unintentional deletion"
+    ]
+  },
+  {
+    "word": "Unintentional",
+    "meaning": "Done or happening without being planned or aimed at.",
+    "shortMeaning": "accidental",
+    "example": "The deletion of the file was purely unintentional.",
+    "example2": "He made an unintentional error in the CSS configuration.",
+    "example3": "The security vulnerability was an unintentional mistake.",
+    "Explanation": "The word 'unintentional' refers to actions or errors that happen without malice or planning. In software, many mistakes are unintentional, such as a typo in a configuration file or an incorrectly clicked setting. It is important to acknowledge such mistakes and fix them quickly. Version control systems like Git are very helpful for reversing unintentional changes, as they allow you to go back to a previous, correct state.",
+    "synonyms": [
+      "accidental",
+      "inadvertent",
+      "unplanned"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "planned"
+    ],
+    "nounForm": "unintentionality",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintentional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding errors and accidental deletions",
+    "usageTip": "Use to explain that an error was not deliberate.",
+    "commonMistake": "Confusing it with 'unintended', though they are very similar.",
+    "collocations": [
+      "unintentional error",
+      "unintentional mistake",
+      "purely unintentional"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Scratch",
+    "meaning": "1. To mark or damage a surface with something sharp. 2. To rub the skin with fingernails to relieve itching. 3. To start from the very beginning with no prior advantage.",
+    "shortMeaning": "mark with something sharp; start from zero",
+    "example": "Be careful not to scratch the table with that key. (mark)",
+    "example2": "The mosquito bite made me scratch my arm. (rub)",
+    "example3": "We built the software from scratch. (from nothing)",
+    "Explanation": "'Scratch' is a versatile word. As a verb, its primary meaning is to make a shallow cut or mark. The idiom 'scratch the surface' means to deal with only the superficial part. 'From scratch' is a crucial idiom meaning to start from the beginning with no prepared ingredients or advantages. As a noun, it's the mark or the act of scratching. It's a common word in everyday life, cooking, and project management.",
+    "synonyms": [
+      "scrape",
+      "mark",
+      "start over",
+      "begin from zero"
+    ],
+    "antonyms": [
+      "polish",
+      "fix",
+      "continue from"
+    ],
+    "nounForm": "scratch",
+    "verbForm": "scratch",
+    "adjectiveForm": "scratched",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Damage, itching, cooking, project initiation",
+    "usageTip": "Use 'from scratch' to emphasize that you started something with basic materials or no prior work.",
+    "commonMistake": "Confusing 'scratch' with 'scrape'. A scratch is usually a thin line made by a sharp point; a scrape is a broader area of superficial damage.",
+    "collocations": [
+      "from scratch",
+      "scratch the surface",
+      "scratch an itch",
+      "up to scratch"
+    ]
+  },
+  {
+    "word": "Scratch",
+    "meaning": "The baseline starting point from nothing, or a block-based visual educational programming language for beginners",
+    "shortMeaning": "starting point or block programming",
+    "example": "The frontend engineer chose to build the portfolio layout from scratch using pure HTML and CSS.",
+    "example2": "Young students often learn core logical thinking steps by building mini games inside Scratch.",
+    "example3": "The database crashed completely, forcing the startup team to rebuild their tables from scratch.",
+    "Explanation": "The word 'scratch' has two massive contexts in IT. First, the phrase 'from scratch' means building software code from a blank file without using external frameworks, prebuilt layouts, or templates. Second, 'Scratch' capitalized is an entry-level block-based visual programming language designed by MIT to teach children logic loops, variables, and conditions visually. It is highly recognized across digital educational platforms.",
+    "synonyms": [
+      "blank slate",
+      "baseline",
+      "MIT Scratch language"
+    ],
+    "antonyms": [
+      "framework template",
+      "prebuilt kit",
+      "N/A"
+    ],
+    "nounForm": "scratch",
+    "verbForm": "scratch (rare in IT context)",
+    "adjectiveForm": "scratch-built",
+    "partOfSpeech": "noun / phrase",
+    "commonContext": "Building custom vanilla code, entry-level educational software, and clean system installations",
+    "usageTip": "Use the phrase 'from scratch' when describing custom development done without templates, or capitalize 'Scratch' for the educational software tool.",
+    "commonMistake": "Saying 'built by scratch'; the correct native English idiom is always 'built *from* scratch'.",
+    "collocations": [
+      "build from scratch",
+      "code from scratch",
+      "Scratch programming blocks"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Postponed",
+    "meaning": "Caused or arranged to take place at a time later than first scheduled",
+    "shortMeaning": "delayed to a later time",
+    "example": "The meeting has been postponed until next Tuesday.",
+    "example2": "They postponed their vacation due to work commitments.",
+    "example3": "A decision on the matter was indefinitely postponed.",
+    "Explanation": "The adjective/verb (past participle) 'postponed' indicates that a planned event, decision, or action has been officially delayed to a future date or time. It implies a rescheduling, not a cancellation. It is a formal and common word used in business, events, and personal planning. The verb form is 'postpone'. It suggests that the original plan was not feasible at the intended time but remains valid for the future.",
+    "synonyms": [
+      "delayed",
+      "deferred",
+      "put off",
+      "rescheduled"
+    ],
+    "antonyms": [
+      "brought forward",
+      "advanced",
+      "kept to schedule"
+    ],
+    "nounForm": "postponement",
+    "verbForm": "postpone",
+    "adjectiveForm": "postponed",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Meetings, events, deadlines, decisions",
+    "usageTip": "Often followed by 'until', 'to', or 'indefinitely'.",
+    "commonMistake": "Using 'postponed' when something is canceled; 'canceled' means it won't happen.",
+    "collocations": [
+      "indefinitely postponed",
+      "postponed due to",
+      "postponed until further notice"
+    ]
+  },
+  {
+    "word": "Postponed",
+    "meaning": "Delayed to a later time or date.",
+    "shortMeaning": "delayed",
+    "example": "The software release was postponed by two weeks.",
+    "example2": "We postponed the maintenance window until the weekend.",
+    "example3": "The meeting was postponed due to technical issues.",
+    "Explanation": "The word 'postponed' is used when an event, task, or process is moved to a future time. In IT project management, it is a common outcome when deadlines are not met or critical bugs are discovered during the testing phase. It implies that the task is still planned to happen, just not at the originally intended time. It differs from 'canceled', which means the task will never happen. Being clear about why something is postponed is essential for team communication.",
+    "synonyms": [
+      "delayed",
+      "deferred",
+      "rescheduled"
+    ],
+    "antonyms": [
+      "advanced",
+      "scheduled",
+      "on-time"
+    ],
+    "nounForm": "postponement",
+    "verbForm": "postpone",
+    "adjectiveForm": "postponed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project management, scheduling, deadlines",
+    "usageTip": "Use 'postponed' when you know a new date or plan to reschedule.",
+    "commonMistake": "Using 'postponed' when you actually mean 'canceled'.",
+    "collocations": [
+      "postponed indefinitely",
+      "postponed until later",
+      "postponed project"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Preserved",
+    "meaning": "Kept in its original state or in good condition over a long period; maintained.",
+    "shortMeaning": "kept intact, maintained",
+    "example": "The ancient manuscript was remarkably well preserved.",
+    "example2": "He preserved the family tradition for generations.",
+    "example3": "The fruit was preserved in jars for the winter.",
+    "Explanation": "The adjective 'preserved' describes something that has been protected from decay, change, or loss. It comes from the verb 'preserve'. It implies active effort to maintain something in a specific, often original, state. It is used for food (preserved with salt), history (preserved buildings), and data (preserved records). A common mistake is confusing it with 'reserved', which means kept for a particular person or purpose. 'Preserved' is about protection from the ravages of time or environment. It carries a positive connotation of care, foresight, and value for the item being kept.",
+    "synonyms": [
+      "conserved",
+      "maintained",
+      "protected"
+    ],
+    "antonyms": [
+      "decayed",
+      "ruined",
+      "neglected"
+    ],
+    "nounForm": "preservation",
+    "verbForm": "preserve",
+    "adjectiveForm": "preserved",
+    "partOfSpeech": "adjective",
+    "commonContext": "History, food, environment, archives",
+    "usageTip": "Often used in the passive voice: 'The body was preserved in ice.'",
+    "commonMistake": "Using 'preserved' to mean 'saved for later' like money. That's 'saved' or 'reserved'.",
+    "collocations": [
+      "well preserved",
+      "perfectly preserved",
+      "historically preserved"
+    ]
+  },
+  {
+    "word": "Preserved",
+    "meaning": "Kept in its original state or maintained for the future",
+    "shortMeaning": "kept safe",
+    "example": "The original code was preserved for historical analysis.",
+    "example2": "All logs were preserved in a secure archive.",
+    "example3": "State information is preserved during the server reboot.",
+    "Explanation": "The word 'preserved' means that something has been protected from change, damage, or destruction. In computing, we 'preserve' state, data, or configuration settings so that they remain the same even when the system state changes. This is vital for debugging, auditing, and user experience. Preserving data involves saving it to a stable location or ensuring that a system shutdown does not wipe out temporary work. It emphasizes continuity and the successful protection of important information or records.",
+    "synonyms": [
+      "saved",
+      "maintained",
+      "protected"
+    ],
+    "antonyms": [
+      "deleted",
+      "lost",
+      "changed"
+    ],
+    "nounForm": "preservation",
+    "verbForm": "preserve",
+    "adjectiveForm": "preserved",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Data Storage, Archiving, Programming",
+    "usageTip": "Use when talking about data that needs to be kept intact.",
+    "commonMistake": "Confusing 'preserved' with 'backed up' (though they are related).",
+    "collocations": [
+      "preserved state",
+      "preserved data",
+      "ensure preserved"
+    ]
+  }
+]

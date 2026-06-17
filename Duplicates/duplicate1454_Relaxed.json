@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Relaxed",
+    "meaning": "Free from tension and anxiety; calm and informal",
+    "shortMeaning": "calm, not tense",
+    "example": "She felt relaxed after her vacation.",
+    "example2": "The atmosphere at the party was very relaxed.",
+    "example3": "He has a relaxed attitude towards deadlines.",
+    "Explanation": "'Relaxed' is a common adjective describing a person, atmosphere, or situation that is free from stress, pressure, or formality. It suggests ease, comfort, and a lack of rigidity. It is the past participle of 'relax' but functions as a state-of-being adjective. A relaxed person is not worried; a relaxed dress code is casual. It is a generally positive description for both people and environments, indicating they are pleasant and low-pressure.",
+    "synonyms": [
+      "calm",
+      "at ease",
+      "informal"
+    ],
+    "antonyms": [
+      "tense",
+      "stressed",
+      "formal"
+    ],
+    "nounForm": "relaxation",
+    "verbForm": "relax",
+    "adjectiveForm": "relaxed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing mood, social settings, work environments",
+    "usageTip": "Can describe people (a relaxed teacher) or things (a relaxed fit for clothing).",
+    "commonMistake": "Using 'relaxed' to mean 'lazy'. A relaxed person is calmly active, not inactive.",
+    "collocations": [
+      "relaxed atmosphere",
+      "feel relaxed",
+      "relaxed style"
+    ]
+  },
+  {
+    "word": "Relaxed",
+    "meaning": "Made less strict or intense.",
+    "shortMeaning": "less strict",
+    "example": "We relaxed the security settings to allow easier internal testing.",
+    "example2": "The validation rules were relaxed for legacy data imports.",
+    "example3": "A relaxed schema allows for more data flexibility.",
+    "Explanation": "In IT, 'relaxed' describes a situation where rules, restrictions, or performance requirements have been loosened. This is often done to increase convenience, speed, or compatibility with older systems. For example, if you relax password requirements, you make it easier for users to sign in but might lower security. You must always document when and why rules are relaxed to avoid creating long-term vulnerabilities in the system architecture.",
+    "synonyms": [
+      "loosened",
+      "flexible",
+      "lenient"
+    ],
+    "antonyms": [
+      "strict",
+      "tightened",
+      "rigid"
+    ],
+    "nounForm": "relaxation",
+    "verbForm": "relax",
+    "adjectiveForm": "relaxed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, validation, configuration",
+    "usageTip": "Use when discussing a trade-off between strict rules and usability.",
+    "commonMistake": "Relaxing rules without evaluating the security or quality impact.",
+    "collocations": [
+      "relaxed constraints",
+      "relaxed security",
+      "relaxed requirements"
+    ]
+  }
+]

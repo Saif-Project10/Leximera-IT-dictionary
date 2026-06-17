@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Related",
+    "meaning": "Belonging to the same family, group, or type; connected by blood, marriage, or a logical association.",
+    "shortMeaning": "connected or associated",
+    "example": "Mathematics and physics are closely related sciences.",
+    "example2": "He is related to me by marriage.",
+    "example3": "The police are questioning two related incidents.",
+    "Explanation": "Related is an adjective that indicates a connection or association. This can be a familial connection (related people), a logical or conceptual connection (related topics), or a causal connection (related events). It implies a shared origin, nature, or relevance. The verb is 'relate.' A common mistake is using it interchangeably with 'relevant'; something can be related (connected) but not relevant to the current discussion. The term is fundamental for describing kinship, categorizing information, and understanding the links between different pieces of data or events in narratives and analysis.",
+    "synonyms": [
+      "connected",
+      "associated",
+      "linked",
+      "akin",
+      "allied"
+    ],
+    "antonyms": [
+      "unrelated",
+      "unconnected",
+      "dissimilar",
+      "separate"
+    ],
+    "nounForm": "relation",
+    "verbForm": "relate",
+    "adjectiveForm": "related",
+    "partOfSpeech": "adjective",
+    "commonContext": "Family, academic subjects, news stories, and cause-and-effect.",
+    "usageTip": "Use 'related to' to specify the nature of the connection (e.g., 'problems related to health').",
+    "commonMistake": "Saying 'relating to' as an adjective; 'related to' is the standard adjective phrase.",
+    "collocations": [
+      "closely related",
+      "distantly related",
+      "related fields of study"
+    ]
+  },
+  {
+    "word": "Related",
+    "meaning": "Connected or associated in some way.",
+    "shortMeaning": "connected",
+    "example": "These two modules are closely related in functionality.",
+    "example2": "We searched for related documentation for this API.",
+    "example3": "Are there any related issues on the project tracker?",
+    "Explanation": "The word 'related' is essential in IT for organizing information. It describes items that share a common attribute, function, or context. In databases, 'related' tables are linked via keys. In documentation, 'related links' help users find information that is relevant to their current topic. Understanding which components are related helps in debugging, as a change in one often affects the other. It is a simple but powerful word for defining relationships between objects.",
+    "synonyms": [
+      "associated",
+      "linked",
+      "connected"
+    ],
+    "antonyms": [
+      "unrelated",
+      "irrelevant",
+      "separate"
+    ],
+    "nounForm": "relation",
+    "verbForm": "relate",
+    "adjectiveForm": "related",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, search, documentation",
+    "usageTip": "Use when grouping items or searching for dependencies.",
+    "commonMistake": "Confusing 'related' with 'identical'; related things are not necessarily the same.",
+    "collocations": [
+      "closely related",
+      "related issues",
+      "related documents"
+    ]
+  }
+]

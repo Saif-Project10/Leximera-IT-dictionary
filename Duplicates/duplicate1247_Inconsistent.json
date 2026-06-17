@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inconsistent",
+    "meaning": "Not staying the same in behavior, quality, or attitudes; containing parts that do not agree",
+    "shortMeaning": "not consistent, changeable",
+    "example": "Her work is inconsistent—sometimes excellent, sometimes poor.",
+    "example2": "The witness gave inconsistent statements to the police.",
+    "example3": "The rules seem inconsistent with the company's values.",
+    "Explanation": "'Inconsistent' is a negative adjective describing something that varies, contradicts itself, or fails to conform to a pattern or standard. It is used for behavior, quality, logic, and data. Inconsistency is often seen as a flaw because it creates unpredictability and unreliability. The noun is 'inconsistency'. It is the opposite of 'consistent'. Being inconsistent can damage trust and credibility. In logic, an inconsistent argument contains contradictions. The word is key in evaluations of performance, reasoning, and systems.",
+    "synonyms": [
+      "variable",
+      "unpredictable",
+      "contradictory",
+      "irregular",
+      "unreliable"
+    ],
+    "antonyms": [
+      "consistent",
+      "steady",
+      "constant",
+      "reliable"
+    ],
+    "nounForm": "inconsistency",
+    "verbForm": "N/A",
+    "adjectiveForm": "inconsistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, statements, quality, logic, data",
+    "usageTip": "Use 'inconsistent' to describe something that changes unexpectedly or contains contradictions.",
+    "commonMistake": "Using 'inconsistent' to mean 'not existing'. That's 'nonexistent'.",
+    "collocations": [
+      "inconsistent with",
+      "highly inconsistent",
+      "inconsistent performance"
+    ]
+  },
+  {
+    "word": "Inconsistent",
+    "meaning": "Changing in quality or behavior; not the same",
+    "shortMeaning": "not the same",
+    "example": "The system provides inconsistent results for the same input.",
+    "example2": "Inconsistent coding styles make the project hard to maintain.",
+    "example3": "We observed inconsistent performance across different browser versions.",
+    "Explanation": "The word 'inconsistent' describes something that does not behave or appear the same way every time. This is a nightmare for debugging. If a bug only happens sometimes, it is called 'inconsistent behavior.' Achieving consistency—in UI, in code, in data—is a primary goal of professional development. If your project is inconsistent, it will eventually cause errors and user dissatisfaction.",
+    "synonyms": [
+      "unstable",
+      "variable",
+      "irregular"
+    ],
+    "antonyms": [
+      "consistent",
+      "steady",
+      "stable"
+    ],
+    "nounForm": "inconsistency",
+    "verbForm": "N/A",
+    "adjectiveForm": "inconsistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, UI/UX, development standards",
+    "usageTip": "Use 'inconsistent' to describe things that change or behave differently.",
+    "commonMistake": "Ignoring inconsistent bugs (they usually hide serious issues).",
+    "collocations": [
+      "inconsistent behavior",
+      "inconsistent results",
+      "inconsistent style"
+    ]
+  }
+]

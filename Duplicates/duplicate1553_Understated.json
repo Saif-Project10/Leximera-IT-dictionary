@@ -1,0 +1,100 @@
+[
+  {
+    "word": "Understated",
+    "meaning": "Presented or expressed in a subtle and effective way; not obvious or loud",
+    "shortMeaning": "subtle and effective",
+    "example": "She wore an understated but elegant black dress.",
+    "example2": "His understated performance was more powerful than any dramatic speech.",
+    "example3": "The report made an understated criticism of the policy.",
+    "Explanation": "'Understated' is an adjective with a positive connotation, describing a style, statement, or quality that is deliberately restrained, modest, and not showy. It achieves its effect through subtlety, implication, and quiet confidence rather than through force or extravagance. In fashion, it means simple elegance. In communication, it can refer to a form of irony or humor where less is said to imply more (British understatement). It is the opposite of 'overstated', 'flamboyant', or 'exaggerated'. Being understated is often seen as a sign of good taste, sophistication, or confidence because it doesn't need to shout for attention.",
+    "synonyms": [
+      "subtle",
+      "restrained",
+      "low-key",
+      "modest",
+      "unobtrusive"
+    ],
+    "antonyms": [
+      "overstated",
+      "flamboyant",
+      "showy",
+      "exaggerated",
+      "loud"
+    ],
+    "nounForm": "understatement",
+    "verbForm": "understate",
+    "adjectiveForm": "understated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Fashion, design, communication, art, behavior",
+    "usageTip": "Often used as a compliment for elegance, taste, or effective subtlety.",
+    "commonMistake": "Confusing it with 'underestimated', which is about misjudging value.",
+    "collocations": [
+      "understated elegance",
+      "understated style",
+      "understated humor",
+      "understated design"
+    ]
+  },
+  {
+    "word": "Understated",
+    "meaning": "Subtle, not showy, or presented in a muted way",
+    "shortMeaning": "subtle",
+    "example": "The UI design has an understated and clean look.",
+    "example2": "The impact of the bug was understated in the initial report.",
+    "service3": "Understated metrics might hide the actual server load.",
+    "Explanation": "Understated refers to something presented simply, subtly, or in a way that minimizes its importance. In design, an understated UI is often professional and clean. However, in reporting, an understated view of a problem can be risky, as it might lead stakeholders to ignore or underestimate a critical system failure. Always ensure that the seriousness of a technical issue is clearly communicated, even if your visual style is understated.",
+    "synonyms": [
+      "subtle",
+      "muted",
+      "restrained"
+    ],
+    "antonyms": [
+      "exaggerated",
+      "showy",
+      "overstated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "understate",
+    "adjectiveForm": "understated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, reporting, communication",
+    "usageTip": "Use to describe subtle designs or minimized reports.",
+    "commonMistake": "Understating a technical crisis when it needs urgent attention.",
+    "collocations": [
+      "understated design",
+      "understated report",
+      "significantly understated"
+    ]
+  },
+  {
+    "word": "Understated",
+    "meaning": "Presented in a simple or subtle way",
+    "shortMeaning": "subtle",
+    "example": "The UI design has an understated look.",
+    "example2": "He gave an understated presentation of the findings.",
+    "example3": "The impact of the bug was understated in the report.",
+    "Explanation": "The word 'understated' can describe a design style that is minimalist or a situation where the importance of something is intentionally kept low. In design, 'understated' is often a compliment for a modern, sleek interface. In reporting, 'understated' can be a warning that the true scale of a problem is not being recognized. It is important to look at the tone of your conversation to determine if it is positive or a warning.",
+    "synonyms": [
+      "subtle",
+      "minimalist",
+      "muted"
+    ],
+    "antonyms": [
+      "exaggerated",
+      "bold",
+      "overstated"
+    ],
+    "nounForm": "understatement",
+    "verbForm": "understate",
+    "adjectiveForm": "understated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, UI/UX, and reporting",
+    "usageTip": "Use this to describe clean, subtle, or quiet designs.",
+    "commonMistake": "Assuming it always means 'poorly described'.",
+    "collocations": [
+      "understated design",
+      "understated impact",
+      "elegant and understated"
+    ]
+  }
+]

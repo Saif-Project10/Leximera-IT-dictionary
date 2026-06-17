@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Enable",
+    "meaning": "To give someone or something the authority or means to do something.",
+    "shortMeaning": "make possible",
+    "example": "The loan enabled her to buy a car.",
+    "example2": "This feature enables users to save their work automatically.",
+    "example3": "His confidence enabled him to succeed.",
+    "Explanation": "The verb 'enable' means to provide the opportunity, ability, or permission for something to happen. It is about creating the conditions for an action. It is often used in technology (software enables a function) and personal development. Be careful, as it can have a negative connotation when it means to allow harmful behavior to continue (e.g., enable an addiction). In its positive sense, it is similar to 'empower'. It focuses more on providing capacity than direct assistance. The noun form is very common in computing: 'enable/disable a setting'.",
+    "synonyms": [
+      "allow",
+      "permit",
+      "empower"
+    ],
+    "antonyms": [
+      "prevent",
+      "disable",
+      "hinder"
+    ],
+    "nounForm": "enablement",
+    "verbForm": "enable",
+    "adjectiveForm": "enabling",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology, opportunities, personal growth",
+    "usageTip": "In tech, it's the opposite of 'disable'. You enable a feature to turn it on.",
+    "commonMistake": "Confusing 'enable' with 'unable'. 'Enable' is a verb meaning to make possible; 'unable' is an adjective meaning not able.",
+    "collocations": [
+      "enable access",
+      "enable success",
+      "enable feature"
+    ]
+  },
+  {
+    "word": "Enable",
+    "meaning": "To make something possible or to turn on a feature",
+    "shortMeaning": "allow or turn on",
+    "example": "You must enable JavaScript in your browser to view this interactive chart.",
+    "example2": "The new highway will enable people to travel to the city much faster.",
+    "example3": "Go to the settings menu to enable dark mode on your app.",
+    "Explanation": "In IT, 'enable' is the most common word for turning on a setting or a piece of hardware. It is the opposite of 'disable.' When you enable a feature, you are making it active and ready to use. In a more general sense, 'enable' means to provide the means or the opportunity for someone to do something. For example, 'The internet enables us to learn from anywhere.' It is a positive, proactive word used in software interfaces, technical manuals, and business strategies. It focuses on removing barriers and opening up new possibilities.",
+    "synonyms": [
+      "activate",
+      "allow",
+      "permit"
+    ],
+    "antonyms": [
+      "disable",
+      "prevent",
+      "forbid"
+    ],
+    "nounForm": "enabling / enablement",
+    "verbForm": "enable",
+    "adjectiveForm": "enabled",
+    "partOfSpeech": "verb",
+    "commonContext": "Software settings, business growth, and technology",
+    "usageTip": "Use 'enable' when you want to tell a user to turn on a specific button or function.",
+    "commonMistake": "Using 'enable' when you mean 'encourage'; enabling is about ability/possibility, not just motivation.",
+    "collocations": [
+      "enable cookies",
+      "enable access",
+      "enable a feature"
+    ]
+  }
+]

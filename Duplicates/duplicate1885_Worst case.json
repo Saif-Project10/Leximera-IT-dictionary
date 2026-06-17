@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Worst case",
+    "meaning": "The most negative or difficult situation that could possibly happen",
+    "shortMeaning": "maximum difficulty",
+    "example": "In the worst case, the entire server will need to be replaced.",
+    "example2": "We should prepare for the worst case scenario during the software update.",
+    "example3": "The algorithm takes 10 seconds to run in the worst case.",
+    "Explanation": "In both life and IT, 'worst case' refers to the absolute maximum of effort, time, or cost required. For programmers, it often refers to how a piece of code performs when the data is in the most difficult order possible. For example, sorting an already backwards list is the worst case for some sorting programs. Planning for the worst case ensures that a system is reliable and won't crash when things get tough. It is a standard way to measure the safety and performance of a project.",
+    "synonyms": [
+      "worst-case scenario",
+      "maximum bound",
+      "peak difficulty"
+    ],
+    "antonyms": [
+      "best case",
+      "optimum scenario",
+      "ideal case"
+    ],
+    "nounForm": "worst case",
+    "verbForm": "N/A",
+    "adjectiveForm": "worst-case",
+    "partOfSpeech": "noun phrase / adjective",
+    "commonContext": "Project planning, risk management, and algorithm analysis",
+    "usageTip": "Use this to describe the upper limit of how bad or slow something can be.",
+    "commonMistake": "Confusing 'worst case' with 'average case'; average is what happens usually, worst is the absolute limit.",
+    "collocations": [
+      "worst case scenario",
+      "worst case performance",
+      "plan for the worst case"
+    ]
+  },
+  {
+    "word": "Worst case",
+    "meaning": "The most unpleasant or serious situation that could happen",
+    "shortMeaning": "most negative outcome",
+    "example": "In the worst case, we will have to restart the server.",
+    "example2": "The worst case scenario involves total data loss.",
+    "example3": "We prepared for the worst case during the testing phase.",
+    "Explanation": "A 'worst case' refers to the most negative, extreme, or severe outcome possible in a given situation. In IT, this is often used in performance testing (worst-case scenario) to ensure a system can handle the highest expected load or a major failure. Planning for the worst case is a key part of risk management and disaster recovery. It is a term that brings attention to preparation and resilience against unexpected negative events.",
+    "synonyms": [
+      "extremity",
+      "most negative outcome"
+    ],
+    "antonyms": [
+      "best case",
+      "ideal scenario"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Risk assessment, planning, testing",
+    "usageTip": "Use 'worst case' to describe the most severe outcome you are preparing for.",
+    "commonMistake": "Using 'worst case' to describe minor inconveniences.",
+    "collocations": [
+      "worst case scenario",
+      "in the worst case",
+      "plan for the worst case"
+    ]
+  }
+]

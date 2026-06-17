@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Mission critical",
+    "meaning": "Describes any part of a system that is absolutely essential for a business to operate",
+    "shortMeaning": "extremely important",
+    "example": "The database server is mission critical for our online store.",
+    "example2": "If a mission critical component fails, the entire project will stop.",
+    "example3": "We provide 24/7 support for all mission critical services.",
+    "Explanation": "In the IT world, 'mission critical' refers to the systems that must stay running for the company to survive. For a bank, the system that records transactions is mission critical. For an airline, the flight scheduling software is mission critical. If these systems go down for even a few minutes, it can result in huge financial losses or even physical danger. Because of their importance, mission critical systems are built with extra backups (redundancy) and high-quality hardware. It is the highest level of priority in a business environment.",
+    "synonyms": [
+      "essential",
+      "vital",
+      "indispensable"
+    ],
+    "antonyms": [
+      "non-essential",
+      "low priority",
+      "secondary"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "mission critical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business operations and high-stakes engineering",
+    "usageTip": "Use 'mission critical' to emphasize that a system cannot be allowed to fail.",
+    "commonMistake": "Calling every small app 'mission critical'; if the business can still run without it for a day, it isn't.",
+    "collocations": [
+      "mission critical infrastructure",
+      "mission critical application",
+      "mission critical support"
+    ]
+  },
+  {
+    "word": "Mission critical",
+    "meaning": "Essential to the success or operation of a system or business",
+    "shortMeaning": "vital importance",
+    "example": "The database is mission critical for our daily operations.",
+    "example2": "He is responsible for maintaining mission critical systems.",
+    "example3": "Never perform updates on a mission critical server without testing.",
+    "Explanation": "A 'mission critical' system is one that cannot fail without causing severe damage, data loss, or business downtime. If a mission critical system goes down, it is usually an 'all-hands-on-deck' emergency. These systems require the highest levels of security, redundancy, and monitoring. Understanding what is mission critical helps you prioritize your work—you should focus your time and security efforts on these high-stakes components first.",
+    "synonyms": [
+      "vital",
+      "essential",
+      "crucial"
+    ],
+    "antonyms": [
+      "non-essential",
+      "disposable",
+      "optional"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "mission critical",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration and reliability",
+    "usageTip": "Use 'mission critical' to describe high-stakes systems.",
+    "commonMistake": "Calling everything 'mission critical'; reserve this for systems where failure equals disaster.",
+    "collocations": [
+      "mission critical system",
+      "mission critical infrastructure",
+      "mission critical application"
+    ]
+  }
+]

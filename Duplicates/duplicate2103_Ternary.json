@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Ternary",
+    "meaning": "Composed of three parts; often refers to a operator with three operands.",
+    "shortMeaning": "three-part",
+    "example": "The ternary operator is a shorthand for an if-else statement.",
+    "example2": "The system uses a ternary search algorithm.",
+    "example3": "We use ternary logic for this state machine.",
+    "Explanation": "The word 'ternary' refers to something with three parts or states. In programming, the most famous use is the 'ternary operator' (often written as condition ? true : false). It is a way to make code more concise by replacing simple if-else blocks. 'Ternary logic' is also a field where data is not just true or false, but can also be 'unknown' or 'null'. It is a powerful concept for logic and flow control.",
+    "synonyms": [
+      "three-part",
+      "trinary"
+    ],
+    "antonyms": [
+      "binary"
+    ],
+    "nounForm": "ternary",
+    "verbForm": "N/A",
+    "adjectiveForm": "ternary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and logic",
+    "usageTip": "Use 'ternary' for three-way conditions or structures.",
+    "commonMistake": "Overusing ternary operators, which can make code hard to read.",
+    "collocations": [
+      "ternary operator",
+      "ternary search",
+      "ternary logic"
+    ]
+  },
+  {
+    "word": "Ternary",
+    "meaning": "Composed of three parts or involving three elements",
+    "shortMeaning": "three-part",
+    "example": "A ternary operator uses three operands.",
+    "example2": "The ternary system uses three logic values.",
+    "example3": "He used a ternary condition to simplify the code.",
+    "Explanation": "Ternary is a mathematical or logical term referring to a system with three parts. In computer programming, it most commonly refers to the ternary operator, which is a shorthand for an if-else statement. It evaluates a condition and returns one of two values. Using ternary operators can make code concise, but overusing them may hurt readability. Always balance brevity with clarity.",
+    "synonyms": [
+      "tripartite",
+      "threefold",
+      "triple"
+    ],
+    "antonyms": [
+      "binary",
+      "unary"
+    ],
+    "nounForm": "ternary",
+    "verbForm": "N/A",
+    "adjectiveForm": "ternary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, logic design",
+    "usageTip": "Use it specifically when discussing operators or systems involving three elements.",
+    "commonMistake": "Overusing ternary operators, which makes code hard for others to read.",
+    "collocations": [
+      "ternary operator",
+      "ternary condition",
+      "ternary expression"
+    ]
+  }
+]

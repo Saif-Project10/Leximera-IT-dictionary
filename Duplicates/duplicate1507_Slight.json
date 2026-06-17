@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Slight",
+    "meaning": "Small in degree; inconsiderable; slender or thin.",
+    "shortMeaning": "small, minor",
+    "example": "There was a slight delay in the schedule.",
+    "example2": "She felt a slight pain in her knee.",
+    "example3": "He was of slight build.",
+    "Explanation": "'Slight' is an adjective meaning minor, small, or not significant. It can describe differences, changes, injuries, or physical build. It minimizes the importance or size of something. It can also be a verb meaning to insult by treating without respect, and a noun for such an insult. The adverbial form is 'slightly'. The most common use is as an adjective to downplay something. It's a useful word for understatement. For example, a 'sight chance' is a very small chance. Be aware of the less common verb/noun meaning related to disrespect.",
+    "synonyms": [
+      "small",
+      "minor",
+      "modest",
+      "slender"
+    ],
+    "antonyms": [
+      "major",
+      "significant",
+      "considerable",
+      "large"
+    ],
+    "nounForm": "slight (an insult)",
+    "verbForm": "slight (to insult)",
+    "adjectiveForm": "slight",
+    "partOfSpeech": "adjective, verb, noun",
+    "commonContext": "Differences, injuries, build, insults",
+    "usageTip": "As an adjective, it's often used to soften a negative: 'a slight problem' sounds better than 'a big problem'.",
+    "commonMistake": "Using the verb 'slight' (to insult) without realizing it's a different meaning from the common adjective.",
+    "collocations": [
+      "slight chance",
+      "slight improvement",
+      "slight build",
+      "slight accent"
+    ]
+  },
+  {
+    "word": "Slight",
+    "meaning": "Small in degree, amount, or importance.",
+    "shortMeaning": "small",
+    "example": "There is a slight difference between these two versions.",
+    "example2": "We noticed a slight delay in response time.",
+    "example3": "A slight change in code fixed the bug.",
+    "Explanation": "The word 'slight' indicates a small or minor degree. In technical tasks, 'slight' changes often lead to big improvements in performance or stability. It is important to be precise when using this word; if a change is 'slight', it should not be expected to cause a massive system overhaul. It is also used in troubleshooting to describe minor issues.",
+    "synonyms": [
+      "minor",
+      "small",
+      "little"
+    ],
+    "antonyms": [
+      "significant",
+      "major",
+      "large"
+    ],
+    "nounForm": "slight",
+    "verbForm": "slight",
+    "adjectiveForm": "slight",
+    "partOfSpeech": "adjective",
+    "commonContext": "General observations and updates",
+    "usageTip": "Use 'slight' to describe things that are not very large.",
+    "commonMistake": "Using 'slight' when the impact is actually significant.",
+    "collocations": [
+      "slight delay",
+      "slight change",
+      "slight improvement"
+    ]
+  },
+  {
+    "word": "Slight",
+    "meaning": "Small in amount, degree, or size",
+    "shortMeaning": "very small",
+    "example": "There is a slight difference in performance between these two scripts.",
+    "example2": "A slight change in the CSS layout fixed the visual glitch.",
+    "example3": "I noticed a slight delay in the server response time.",
+    "Explanation": "The word 'slight' is used to describe something that is minor or not significant. In technical contexts, it often qualifies errors, improvements, or differences that exist but do not break the system. It helps to communicate that a problem is manageable and not critical. Using this word prevents alarm when discussing minor bugs. It is a useful adjective for providing balanced feedback to developers.",
+    "synonyms": [
+      "minor",
+      "small",
+      "marginal"
+    ],
+    "antonyms": [
+      "major",
+      "significant",
+      "large"
+    ],
+    "nounForm": "slightness",
+    "verbForm": "slight",
+    "adjectiveForm": "slight",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance logs, bug reporting, feedback",
+    "usageTip": "Use 'slight' to describe issues that are not urgent.",
+    "commonMistake": "Overusing 'slight' when the issue is actually quite major.",
+    "collocations": [
+      "slight delay",
+      "slight change",
+      "slight difference"
+    ]
+  }
+]

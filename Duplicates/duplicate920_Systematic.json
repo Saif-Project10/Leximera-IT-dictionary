@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Systematic",
+    "meaning": "Done or acting according to a fixed plan or system; methodical.",
+    "shortMeaning": "methodical; according to a system",
+    "example": "They conducted a systematic search of the area.",
+    "example2": "Her approach to studying is very systematic.",
+    "example3": "The problem requires a systematic solution, not a quick fix.",
+    "Explanation": "'Systematic' is an adjective. It describes an action, process, or person that is carried out in a careful, logical, and thorough way, following a plan or method. It is a positive word implying efficiency, organization, and reliability. It is the opposite of random, haphazard, or disorganized. The adverb is 'systematically'. It is often used in scientific, business, and investigative contexts. Do not confuse it with 'systemic', which means relating to a whole system (e.g., a systemic problem).",
+    "synonyms": [
+      "methodical",
+      "orderly",
+      "structured",
+      "organized"
+    ],
+    "antonyms": [
+      "unsystematic",
+      "random",
+      "haphazard",
+      "disorganized"
+    ],
+    "nounForm": "system",
+    "verbForm": "systematize",
+    "adjectiveForm": "systematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, work processes, investigation, learning",
+    "usageTip": "Use 'systematic' for a planned, step-by-step method. Use 'systemic' for something that affects an entire system.",
+    "commonMistake": "Confusing 'systematic' with 'systemic'. 'Systematic racism' refers to methodical discrimination; 'systemic racism' refers to racism embedded in societal systems.",
+    "collocations": [
+      "systematic approach",
+      "systematic review",
+      "systematic error"
+    ]
+  },
+  {
+    "word": "Systematic",
+    "meaning": "Done according to a fixed plan or system",
+    "shortMeaning": "methodical",
+    "example": "We need a systematic approach to fixing these bugs.",
+    "example2": "The systematic analysis revealed the problem.",
+    "example3": "She is very systematic in her work.",
+    "Explanation": "The word 'systematic' means being methodical, organized, and following a specific, repeatable plan. It is the opposite of doing things randomly or in a rush. In software development, being systematic is essential for debugging, testing, and documentation. When you tell a team you are taking a 'systematic approach', you are telling them that you will cover all parts of the problem in a clear, logical order. It inspires trust and leads to fewer missed errors.",
+    "synonyms": [
+      "methodical",
+      "organized",
+      "structured"
+    ],
+    "antonyms": [
+      "random",
+      "chaotic",
+      "unstructured"
+    ],
+    "nounForm": "system",
+    "verbForm": "N/A",
+    "adjectiveForm": "systematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem-solving, project management",
+    "usageTip": "Use to emphasize order and thoroughness.",
+    "commonMistake": "Confusing 'systematic' with 'systemic'; systematic is the *method*, systemic is the *scale*.",
+    "collocations": [
+      "systematic approach",
+      "systematic analysis",
+      "systematic method"
+    ]
+  },
+  {
+    "word": "Systematic",
+    "meaning": "Done according to a fixed plan or system",
+    "shortMeaning": "methodical",
+    "example": "We need a systematic approach to fixing these bugs.",
+    "example2": "The team performed a systematic review of the code.",
+    "example3": "Systematic updates ensure the software remains secure.",
+    "Explanation": "A systematic approach is organized, consistent, and follows a clear, pre-defined process. In IT, it is crucial for everything from testing to deployment. It suggests that nothing is left to chance and every step is documented and repeatable. It is the opposite of 'haphazard' or 'random'. Being systematic is a hallmark of good engineering practice, especially when managing complex systems or troubleshooting intermittent issues.",
+    "synonyms": [
+      "methodical",
+      "organized",
+      "structured"
+    ],
+    "antonyms": [
+      "chaotic",
+      "random",
+      "haphazard"
+    ],
+    "nounForm": "system",
+    "verbForm": "N/A",
+    "adjectiveForm": "systematic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Testing, management, engineering process",
+    "usageTip": "Use to describe a high-quality, planned, and repeatable process.",
+    "commonMistake": "Confusing it with 'systemic' (which relates to the whole system).",
+    "collocations": [
+      "systematic approach",
+      "systematic review",
+      "systematic testing"
+    ]
+  }
+]

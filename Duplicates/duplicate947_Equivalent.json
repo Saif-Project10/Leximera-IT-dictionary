@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Equivalent",
+    "meaning": "Equal in value, amount, function, or meaning.",
+    "shortMeaning": "equal to",
+    "example": "One dollar is roughly equivalent to one hundred yen.",
+    "example2": "What is the English equivalent of this French word?",
+    "example3": "The new drug is chemically equivalent to the old one.",
+    "Explanation": "'Equivalent' can be an adjective or a noun. As an adjective, it describes things that are essentially equal or interchangeable in a specified aspect. As a noun, it is the thing that is equal to another. It is used in mathematics, chemistry, language, and everyday comparisons. It does not mean identical, but rather having the same value, effect, or meaning. It's a precise word for making comparisons across different systems or forms.",
+    "synonyms": [
+      "equal",
+      "comparable",
+      "corresponding"
+    ],
+    "antonyms": [
+      "different",
+      "unequal",
+      "dissimilar"
+    ],
+    "nounForm": "equivalent",
+    "verbForm": "equate",
+    "adjectiveForm": "equivalent",
+    "partOfSpeech": "adjective, noun",
+    "commonContext": "Mathematics, finance, language, science",
+    "usageTip": "Use 'equivalent to' (e.g., 'This certificate is equivalent to a high school diploma').",
+    "commonMistake": "Using 'equivalent' to mean 'similar'. 'Equivalent' implies a specific equality in a defined respect.",
+    "collocations": [
+      "equivalent to",
+      "moral equivalent",
+      "cash equivalent"
+    ]
+  },
+  {
+    "word": "Equivalent",
+    "meaning": "Equal in value, amount, function, or meaning",
+    "shortMeaning": "having equal value",
+    "example": "The two documents are equivalent in their legal standing.",
+    "example2": "Is ten dollars equivalent to the price of the ticket?",
+    "example3": "These two codes have the same functionality, making them equivalent.",
+    "Explanation": "Equivalent describes things that are not identical but have the same value or effect. It is a very important concept in science and programming; for example, two different code snippets might be functionally equivalent. It is more nuanced than 'equal' because it suggests that while the things may look different, they serve the same purpose or carry the same weight.",
+    "synonyms": [
+      "comparable",
+      "interchangeable",
+      "equal"
+    ],
+    "antonyms": [
+      "different",
+      "unequal",
+      "disproportionate"
+    ],
+    "nounForm": "equivalence",
+    "verbForm": "N/A",
+    "adjectiveForm": "equivalent",
+    "partOfSpeech": "adjective/noun",
+    "commonContext": "Programming, math, daily life",
+    "usageTip": "Use 'equivalent' to compare things that work the same way.",
+    "commonMistake": "Using 'equivalent' when you mean 'identical'.",
+    "collocations": [
+      "functionally equivalent",
+      "equivalent to",
+      "approximate equivalent"
+    ]
+  }
+]

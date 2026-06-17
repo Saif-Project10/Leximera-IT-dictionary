@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Resumed",
+    "meaning": "Began again or continued after a pause or interruption",
+    "shortMeaning": "started again",
+    "example": "Normal service will be resumed shortly.",
+    "example2": "He resumed his work after a short break.",
+    "example3": "Peace talks resumed in Geneva.",
+    "Explanation": "The verb (past tense) 'resumed' means to take up or begin again after an interruption. It implies that an activity was temporarily stopped and is now being restarted from the point of interruption or from a new beginning. It is more formal than 'started again'. The noun form is 'resumption'. It's a common word in narratives, news reports (resumed hostilities), and everyday plans.",
+    "synonyms": [
+      "restarted",
+      "continued",
+      "recommenced",
+      "picked up again"
+    ],
+    "antonyms": [
+      "ceased",
+      "stopped",
+      "suspended",
+      "discontinued"
+    ],
+    "nounForm": "resumption",
+    "verbForm": "resume",
+    "adjectiveForm": "resumed",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Work, travel, negotiations, activities after a break",
+    "usageTip": "Often used in official announcements: 'Broadcasting will resume at 6 PM.'",
+    "commonMistake": "Confusing it with the noun 'résumé' (a CV), which is pronounced differently.",
+    "collocations": [
+      "resumed his seat",
+      "resumed operations",
+      "resumed play",
+      "resumed normal service"
+    ]
+  },
+  {
+    "word": "Resumed",
+    "meaning": "Started again after a pause or interruption",
+    "shortMeaning": "started again",
+    "example": "The system resumed operations after the power was fixed.",
+    "example2": "He resumed his work after a short break.",
+    "example3": "The data transfer resumed automatically.",
+    "Explanation": "Resumed describes an action or process that has started again after being stopped for some time. It signifies a return to active status. In technical terms, it means the state was maintained while paused, allowing the work to continue. You will see this in logs, status updates, or when describing progress on a project. It is a very common word for both human activities (like meetings) and machine processes (like threads or background tasks).",
+    "synonyms": [
+      "restarted",
+      "continued",
+      "recommenced"
+    ],
+    "antonyms": [
+      "paused",
+      "halted",
+      "stopped"
+    ],
+    "nounForm": "resumption",
+    "verbForm": "resume",
+    "adjectiveForm": "resumed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Process status, work schedule, systems",
+    "usageTip": "Use 'resumed' to show that something that was stopped is now active again.",
+    "commonMistake": "Confusing 'resumed' (started again) with 'resurrected' (brought back from the dead).",
+    "collocations": [
+      "operation resumed",
+      "work resumed",
+      "process resumed"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Topological",
+    "meaning": "Related to the arrangement or structure of a network or system",
+    "shortMeaning": "structural",
+    "example": "The topological map shows how all servers are connected.",
+    "example2": "We analyzed the topological properties of the graph.",
+    "example3": "A topological change affected the network routing.",
+    "Explanation": "In IT, 'topological' refers to the layout or structure of a network (network topology), such as how devices are physically or logically connected. It focuses on the relationships and connections rather than the physical distance between parts. Topology is a mathematical field, and in IT, we apply it to understand network stability, traffic routing, and redundancy. It is a precise term used when discussing how complex systems are organized and how components interact with one another within that structure.",
+    "synonyms": [
+      "structural",
+      "configurational"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "topology",
+    "verbForm": "N/A",
+    "adjectiveForm": "topological",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, graph theory, system design",
+    "usageTip": "Use this when talking about how nodes or servers are linked.",
+    "commonMistake": "Confusing topology with physical geography.",
+    "collocations": [
+      "topological map",
+      "topological change",
+      "topological structure"
+    ]
+  },
+  {
+    "word": "Topological",
+    "meaning": "Relating to the arrangement of parts or the structure of a system",
+    "shortMeaning": "structural",
+    "example": "We analyzed the topological structure of the network.",
+    "example2": "Topological sorting is a common algorithm problem.",
+    "example3": "The system's topological design helps in data routing.",
+    "Explanation": "The word 'topological' pertains to the study of the arrangement, connections, and structure of a system. In IT, it is most often used in networking to describe how devices are connected (e.g., star or mesh topology) and in mathematics for algorithms like directed graphs. Understanding the topological arrangement helps engineers predict how data flows and where bottlenecks might exist. It focuses on the geometry of connections rather than the specific features of the objects themselves.",
+    "synonyms": [
+      "structural",
+      "spatial",
+      "geometric"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "topology",
+    "verbForm": "N/A",
+    "adjectiveForm": "topological",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, algorithms, data structures",
+    "usageTip": "Use 'topological' to describe how things are connected.",
+    "commonMistake": "Confusing 'topological' with 'geographical'.",
+    "collocations": [
+      "topological sort",
+      "topological design",
+      "topological map"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Pre-configured",
+    "meaning": "Set up or arranged in advance, ready for use with little to no additional setup",
+    "shortMeaning": "set up beforehand",
+    "example": "The software comes pre-configured for most common use cases.",
+    "example2": "We bought a pre-configured server to save time.",
+    "example3": "The app has pre-configured settings that you can customize later.",
+    "Explanation": "'Pre-configured' describes a product or system that has been prepared and set up by the manufacturer or provider before it reaches the user. This reduces the technical skill and time required to get started. It's common for software, hardware, cloud services, and development environments. While convenient, pre-configured settings might not be optimal for all situations and often need adjustment. It's a selling point for user-friendliness.",
+    "synonyms": [
+      "pre-set",
+      "pre-installed",
+      "ready-made",
+      "out-of-the-box"
+    ],
+    "antonyms": [
+      "unconfigured",
+      "custom-built",
+      "from scratch"
+    ],
+    "nounForm": "pre-configuration",
+    "verbForm": "pre-configure",
+    "adjectiveForm": "pre-configured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software installation, hardware setup, cloud services, electronics",
+    "usageTip": "A hyphenated adjective. Often used in marketing to emphasize ease of use.",
+    "commonMistake": "Assuming pre-configured settings are perfect and never reviewing or changing them.",
+    "collocations": [
+      "pre-configured settings",
+      "pre-configured device",
+      "pre-configured image",
+      "pre-configured option"
+    ]
+  },
+  {
+    "word": "Pre-configured",
+    "meaning": "Set up with specific parameters or settings in advance.",
+    "shortMeaning": "set up early",
+    "example": "The new laptop comes pre-configured with all security policies.",
+    "example2": "We use pre-configured containers for our deployment environment.",
+    "example3": "The server is pre-configured for instant deployment.",
+    "Explanation": "'Pre-configured' means that settings, options, or environments have been adjusted according to requirements before delivery. This removes the manual work of setting up software or hardware after receiving it. IT departments love pre-configured hardware because it ensures consistency across the entire company. It minimizes human error and reduces the time it takes to get an employee set up and working. It is a cornerstone of modern corporate device management and cloud deployment.",
+    "synonyms": [
+      "set-up",
+      "pre-set",
+      "optimized"
+    ],
+    "antonyms": [
+      "unconfigured",
+      "blank",
+      "default"
+    ],
+    "nounForm": "configuration",
+    "verbForm": "configure",
+    "adjectiveForm": "pre-configured",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud deployment, hardware management, setup",
+    "usageTip": "Use to emphasize that a system is ready to work right away.",
+    "commonMistake": "Confusing 'pre-configured' with 'custom-built'.",
+    "collocations": [
+      "pre-configured container",
+      "pre-configured server",
+      "shipped pre-configured"
+    ]
+  }
+]

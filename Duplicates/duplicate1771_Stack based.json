@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Stack based",
+    "meaning": "An architecture or system that primarily uses a stack to process data or instructions",
+    "shortMeaning": "using a stack-first approach",
+    "example": "The Java Virtual Machine (JVM) is a stack based execution environment.",
+    "example2": "Forth is a famous stack based programming language.",
+    "example3": "In a stack based system, most operations take their arguments from the top of the stack.",
+    "Explanation": "When something is 'stack based', it means its core logic relies on a stack data structure. In a stack based computer or virtual machine, instead of using 'registers' (fast storage areas) to do math, it pushes numbers onto a stack. To add two numbers, the system 'pops' the top two values, adds them, and 'pushes' the result back on top. This makes the instructions very simple and compact. Many virtual machines and some specialized hardware work this way. It is a very different way of thinking compared to the 'register-based' systems used in most modern phone and computer processors.",
+    "synonyms": [
+      "stack-oriented"
+    ],
+    "antonyms": [
+      "register based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "stack based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Virtual machines, language design",
+    "usageTip": "Use this to describe languages like PostScript or Forth, which use 'Reverse Polish Notation'.",
+    "commonMistake": "Thinking 'stack based' is slower; while it can be, it's often simpler to implement.",
+    "collocations": [
+      "stack based language",
+      "stack based virtual machine",
+      "stack based calculator"
+    ]
+  },
+  {
+    "word": "Stack based",
+    "meaning": "Organized using the 'stack' data structure",
+    "shortMeaning": "stack structure",
+    "example": "The virtual machine is stack based for efficient execution.",
+    "example2": "Our memory management is stack based.",
+    "example3": "He implemented a stack based algorithm for the task.",
+    "Explanation": "The term 'stack based' describes systems or algorithms that use a 'stack' data structure, where items are added and removed in 'Last-In, First-Out' (LIFO) order. It is a fundamental concept in computing used for function calls, expression evaluation, and memory management. If your code is 'stack based', it relies on this specific order. Understanding this is essential for deep knowledge of how programs run. Use this term in technical discussions about computer architecture, language design, or data handling.",
+    "synonyms": [
+      "LIFO-based",
+      "stack-oriented"
+    ],
+    "antonyms": [
+      "queue-based",
+      "FIFO-based"
+    ],
+    "nounForm": "stack",
+    "verbForm": "N/A",
+    "adjectiveForm": "stack-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer architecture, algorithms, memory",
+    "usageTip": "Use in technical contexts regarding algorithms or memory.",
+    "commonMistake": "Confusing 'stack based' with general organization; it is very specific.",
+    "collocations": [
+      "stack based architecture",
+      "stack based memory",
+      "stack based algorithm"
+    ]
+  }
+]

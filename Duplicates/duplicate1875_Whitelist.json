@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Whitelist",
+    "meaning": "A list of people, programs, or emails that are allowed access",
+    "shortMeaning": "approved list",
+    "example": "I added your email to my whitelist so your messages don't go to spam.",
+    "example2": "The firewall has a whitelist of approved IP addresses.",
+    "example3": "Only apps on the corporate whitelist can be installed on work phones.",
+    "Explanation": "A whitelist is a security tool that only allows specifically approved items to pass through. It is much stricter than a blacklist (which blocks specific things). In a whitelist system, everything is blocked by default, and only things on the list are let in. This is common in email filters, network security, and application management. It is considered one of the most effective ways to prevent unauthorized access or malware infections. It ensures that only trusted entities can interact with a system.",
+    "synonyms": [
+      "allowlist",
+      "approved list",
+      "permitted list"
+    ],
+    "antonyms": [
+      "blacklist",
+      "blocklist",
+      "denylist"
+    ],
+    "nounForm": "whitelist",
+    "verbForm": "whitelist",
+    "adjectiveForm": "whitelisted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, email management, and IT administration",
+    "usageTip": "Use this when you want to describe a 'strict permission' system.",
+    "commonMistake": "Using 'whitelist' when you mean 'inventory'; a whitelist is specifically for permission.",
+    "collocations": [
+      "add to whitelist",
+      "email whitelist",
+      "security whitelist"
+    ]
+  },
+  {
+    "word": "Whitelist",
+    "meaning": "A security list mechanism containing trusted items, IP addresses, or applications that are explicitly granted system access privileges",
+    "shortMeaning": "list of approved trusted items",
+    "example": "The network administrator updated the server firewall to whitelist only specific corporate IP addresses.",
+    "example2": "You should whitelist trusted email domain names to prevent valid user communications from landing in spam folders.",
+    "example3": "The system will check the security array and whitelist the registration form inputs automatically.",
+    "Explanation": "The term 'whitelist' (also referred to as an 'allowlist' in modern engineering standards) is a foundational security concept. Unlike a blacklist which blocks known bad elements, a whitelist operates on a zero-trust model: everything is blocked by default, and only items explicitly included on the whitelist are permitted inside. This mechanism is highly effective for protecting secure network directories, cloud servers, database connections, and restricted administrative user portals from unauthorized access attempts.",
+    "synonyms": [
+      "allowlist",
+      "approved list",
+      "trusted array",
+      "permission list"
+    ],
+    "antonyms": [
+      "blacklist",
+      "blocklist"
+    ],
+    "nounForm": "whitelist",
+    "verbForm": "whitelist",
+    "adjectiveForm": "whitelisted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Server firewall security setups, API permission systems, and network access configuration workflows",
+    "usageTip": "Use 'whitelist' when describing a strict defensive security setup where access is exclusively granted to pre-approved items.",
+    "commonMistake": "Assuming a whitelist is completely bulletproof; if a whitelisted IP address or user account gets compromised, the system remains vulnerable.",
+    "collocations": [
+      "whitelist an IP address",
+      "add to the whitelist",
+      "server firewall whitelist"
+    ]
+  }
+]

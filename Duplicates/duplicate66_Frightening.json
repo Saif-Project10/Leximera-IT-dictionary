@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Frightening",
+    "meaning": "Causing fear; making someone feel afraid or scared.",
+    "shortMeaning": "scary",
+    "example": "The loud noise in the dark was frightening.",
+    "example2": "It's frightening to think about climate change.",
+    "example3": "She had a frightening experience when she got lost.",
+    "Explanation": "'Frightening' is an adjective used to describe something that causes fear or alarm. It is very similar to 'scary'. It can describe real dangers, like a frightening accident, or imaginary ones, like a frightening movie. The word focuses on the emotional reaction of the person who is scared. It is a common word in everyday English. The verb form is 'frighten', meaning to make someone afraid.",
+    "synonyms": [
+      "scary",
+      "terrifying",
+      "alarming"
+    ],
+    "antonyms": [
+      "comforting",
+      "reassuring",
+      "calming"
+    ],
+    "nounForm": "fright",
+    "verbForm": "frighten",
+    "adjectiveForm": "frightening",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing scary situations, stories, movies, events",
+    "usageTip": "Use 'frightening' to describe the thing that *causes* fear. Use 'frightened' to describe the person who *feels* the fear.",
+    "commonMistake": "Saying 'I am frightening' when you mean 'I am frightened'. The first means you scare others!",
+    "collocations": [
+      "frightening experience",
+      "frightening thought",
+      "frighteningly real"
+    ]
+  },
+  {
+    "word": "Frightening",
+    "meaning": "Causing fear or anxiety; alarming.",
+    "shortMeaning": "scary",
+    "example": "The speed of the data leak was frightening.",
+    "example2": "It is frightening how many vulnerabilities this system has.",
+    "example3": "The complexity of the codebase can be frightening.",
+    "Explanation": "The word 'frightening' describes something that causes alarm or deep concern. In a professional IT setting, it is rarely used to describe bugs, but might describe the potential impact of a system failure or security breach. It conveys a strong emotional reaction to a situation that is out of control or dangerous. Use it sparingly to maintain a professional tone, unless you are discussing high-stakes cybersecurity threats.",
+    "synonyms": [
+      "alarming",
+      "scary",
+      "terrifying"
+    ],
+    "antonyms": [
+      "reassuring",
+      "calming",
+      "safe"
+    ],
+    "nounForm": "fright",
+    "verbForm": "frighten",
+    "adjectiveForm": "frightening",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, system failure impact",
+    "usageTip": "Use 'frightening' to express serious concern about risks.",
+    "commonMistake": "Using it for small, manageable problems.",
+    "collocations": [
+      "frightening vulnerability",
+      "frightening reality",
+      "frightening speed"
+    ]
+  }
+]

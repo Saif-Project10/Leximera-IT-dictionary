@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unproductive",
+    "meaning": "Not producing or achieving much; not fruitful",
+    "shortMeaning": "not productive",
+    "example": "The meeting was long and unproductive.",
+    "example2": "The land was too dry and unproductive for farming.",
+    "example3": "He felt unproductive after spending the day on social media.",
+    "Explanation": "'Unproductive' is an adjective with a negative connotation, used to describe activities, time, resources, or land that fail to yield useful results, output, or growth. It is the direct opposite of 'productive' or 'fruitful'. In economics, it refers to sectors not creating material goods. The word often implies wasted potential, effort, or opportunity. Identifying unproductive patterns is the first step toward improving efficiency and effectiveness in work and life.",
+    "synonyms": [
+      "ineffective",
+      "fruitless",
+      "barren",
+      "idle"
+    ],
+    "antonyms": [
+      "productive",
+      "fruitful",
+      "effective",
+      "efficient"
+    ],
+    "nounForm": "unproductivity",
+    "verbForm": "produce",
+    "adjectiveForm": "unproductive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace efficiency, agriculture, time management, meetings",
+    "usageTip": "Use 'unproductive' to criticize activities that use time or resources without creating valuable outcomes.",
+    "commonMistake": "Using it to describe a lazy person. It's better for describing time or activities; for people, 'unproductive' can be harsh.",
+    "collocations": [
+      "unproductive meeting",
+      "unproductive land",
+      "unproductive day"
+    ]
+  },
+  {
+    "word": "Unproductive",
+    "meaning": "Not producing good results or progress",
+    "shortMeaning": "no results",
+    "example": "Spending hours debugging this simple issue is unproductive.",
+    "example2": "The meeting was unproductive due to lack of an agenda.",
+    "example3": "Refactoring this module is unproductive for current project goals.",
+    "Explanation": "Unproductive refers to any work or process that does not contribute to the final goal. In IT, this includes manual tasks that could be automated, long meetings without conclusions, or spending too much time fixing low-priority issues. Recognizing and cutting unproductive work is essential for developer productivity and team success. If a process does not improve the quality or progress, it should be re-evaluated or stopped.",
+    "synonyms": [
+      "inefficient",
+      "fruitless",
+      "useless"
+    ],
+    "antonyms": [
+      "productive",
+      "efficient",
+      "useful"
+    ],
+    "nounForm": "productivity",
+    "verbForm": "produce",
+    "adjectiveForm": "unproductive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, efficiency, team workflow",
+    "usageTip": "Use this to describe processes that waste time.",
+    "commonMistake": "Thinking 'busy' is the same as 'productive'.",
+    "collocations": [
+      "unproductive work",
+      "unproductive meeting",
+      "highly unproductive"
+    ]
+  },
+  {
+    "word": "Unproductive",
+    "meaning": "Not achieving the desired results or failing to make efficient progress.",
+    "shortMeaning": "not efficient",
+    "example": "The long meeting was completely unproductive.",
+    "example2": "Writing code without a plan is often unproductive.",
+    "example3": "Unproductive work blocks progress on main features.",
+    "Explanation": "'Unproductive' refers to efforts or processes that do not contribute effectively to a goal. In IT, this can refer to developers spending hours on trivial tasks instead of building features, or using outdated tools that hinder speed. An unproductive environment often leads to burnout and missed deadlines. Recognizing unproductive habits is essential for team management and personal growth. It implies that the time spent did not result in a valuable outcome.",
+    "synonyms": [
+      "inefficient",
+      "fruitless",
+      "useless"
+    ],
+    "antonyms": [
+      "productive",
+      "efficient",
+      "fruitful"
+    ],
+    "nounForm": "unproductiveness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unproductive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace management, development efficiency",
+    "usageTip": "Use this when time is spent without good results.",
+    "commonMistake": "Using it to mean 'lazy', whereas someone might be working hard but inefficiently.",
+    "collocations": [
+      "unproductive time",
+      "unproductive meeting",
+      "unproductive work"
+    ]
+  }
+]

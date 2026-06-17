@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Vigilant",
+    "meaning": "Keeping careful watch for possible danger or difficulties; watchful",
+    "shortMeaning": "watchful and alert",
+    "example": "Security guards must remain vigilant at all times.",
+    "example2": "Parents need to be vigilant about their children's online activity.",
+    "example3": "The doctor was vigilant for any signs of infection.",
+    "Explanation": "The adjective 'vigilant' describes a state of keen, sustained attention and alertness, especially to detect and avoid potential threats, problems, or errors. It implies a proactive, careful, and responsible attitude. It is often used in contexts of security, safety, health, and parenting. A vigilant person is not careless or distracted; they are on guard. The word has a positive connotation of diligence and responsibility. It comes from Latin 'vigilare', meaning 'to stay awake'. The noun form is 'vigilance'. Being vigilant is considered a virtue in many professions and situations where risk is involved.",
+    "synonyms": [
+      "watchful",
+      "alert",
+      "observant",
+      "attentive",
+      "on guard"
+    ],
+    "antonyms": [
+      "negligent",
+      "inattentive",
+      "careless",
+      "unobservant"
+    ],
+    "nounForm": "vigilance",
+    "verbForm": "N/A",
+    "adjectiveForm": "vigilant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, safety, healthcare, parenting, driving",
+    "usageTip": "Often used with 'remain', 'stay', or 'be' to advise constant alertness.",
+    "commonMistake": "Confusing it with 'vigorous', which means strong and energetic.",
+    "collocations": [
+      "remain vigilant",
+      "vigilant eye",
+      "vigilant against",
+      "extra vigilant"
+    ]
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "Keeping careful watch for potential danger or problems",
+    "shortMeaning": "carefully watching",
+    "example": "The security team must be vigilant for network intrusions.",
+    "example2": "Vigilant monitoring detected the threat early.",
+    "example3": "Remain vigilant about system software updates.",
+    "Explanation": "In cybersecurity, being 'vigilant' means staying alert and constantly monitoring systems to detect threats or anomalies. It is a mindset of being proactive rather than reactive. A vigilant administrator notices small changes that might indicate a larger failure or breach. It is the opposite of complacency. Vigilance involves not only automated tools but also human attention to system health. It is the primary defense against evolving cyber threats.",
+    "synonyms": [
+      "alert",
+      "watchful",
+      "attentive"
+    ],
+    "antonyms": [
+      "careless",
+      "complacent",
+      "inattentive"
+    ],
+    "nounForm": "vigilance",
+    "verbForm": "N/A",
+    "adjectiveForm": "vigilant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, system monitoring",
+    "usageTip": "Use to describe the state of alert monitoring.",
+    "commonMistake": "Thinking vigilant is the same as just 'busy'.",
+    "collocations": [
+      "remain vigilant",
+      "vigilant monitoring",
+      "highly vigilant"
+    ]
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "Keeping careful watch for possible danger or difficulties.",
+    "shortMeaning": "alert",
+    "example": "Security teams must remain vigilant against cyber threats.",
+    "example2": "Be vigilant when clicking on links in unsolicited emails.",
+    "example3": "Constant monitoring helps the system stay vigilant against unauthorized access.",
+    "Explanation": "In an IT security context, 'vigilant' implies an active, ongoing effort to detect and prevent potential attacks or system failures. It is the opposite of being complacent. IT professionals need to be vigilant in patching vulnerabilities, monitoring network traffic, and enforcing security policies. It describes a proactive mindset rather than just a technical feature. It suggests that safety and performance are prioritized through constant, focused attention.",
+    "synonyms": [
+      "alert",
+      "watchful",
+      "attentive"
+    ],
+    "antonyms": [
+      "negligent",
+      "careless",
+      "complacent"
+    ],
+    "nounForm": "vigilance",
+    "verbForm": "N/A",
+    "adjectiveForm": "vigilant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and network monitoring",
+    "usageTip": "Use to describe a proactive security stance.",
+    "commonMistake": "Thinking automated tools remove the need for human vigilance.",
+    "collocations": [
+      "remain vigilant",
+      "stay vigilant",
+      "vigilant security"
+    ]
+  }
+]

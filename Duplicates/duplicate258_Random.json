@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Random",
+    "meaning": "Made, done, or chosen without method or conscious decision; by chance | Made, done, or happening without method or conscious decision; by chance.",
+    "shortMeaning": "by chance",
+    "example": "The winner was chosen by a random drawing.",
+    "example2": "He gave random answers to the test questions.",
+    "example3": "We took a random walk through the city.",
+    "Explanation": "The adjective 'random' describes something that happens without a definite aim, pattern, or principle. It is the opposite of planned, systematic, or ordered. In statistics, it has a precise meaning related to equal probability. In everyday language, it's used to describe unexpected, arbitrary, or unpredictable things or events. The adverb is 'randomly'. It's a very common word in both casual and technical speech.",
+    "synonyms": [
+      "Arbitrary",
+      "Chance",
+      "Haphazard",
+      "Unplanned"
+    ],
+    "antonyms": [
+      "Deliberate",
+      "Methodical",
+      "Planned",
+      "Predictable",
+      "Systematic"
+    ],
+    "nounForm": "randomness",
+    "verbForm": "N/A",
+    "adjectiveForm": "random",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, selections, events, conversations",
+    "usageTip": "In casual speech, 'random' can mean unexpected or out of context: 'That was so random!'",
+    "commonMistake": "Using 'random' to mean 'weird' or 'strange', which is informal.",
+    "collocations": [
+      "at random",
+      "random sample",
+      "random act",
+      "random selection"
+    ]
+  },
+  {
+    "word": "Random",
+    "meaning": "Happening without a pattern or predictable order",
+    "shortMeaning": "unpredictable",
+    "example": "The script uses random numbers to generate IDs.",
+    "example2": "We are seeing random crashes that are hard to reproduce.",
+    "example3": "It was just a random error, not a systemic one.",
+    "Explanation": "Random refers to events that happen without any clear pattern. In programming, 'random' is often actually 'pseudo-random', meaning a formula creates the appearance of randomness. In troubleshooting, 'random' is a dangerous word—if you have 'random crashes', it means you haven't found the root cause yet. It is the opposite of deterministic, and IT systems are designed to be deterministic.",
+    "synonyms": [
+      "arbitrary",
+      "unpredictable",
+      "chance"
+    ],
+    "antonyms": [
+      "determined",
+      "ordered",
+      "consistent"
+    ],
+    "nounForm": "randomness",
+    "verbForm": "N/A",
+    "adjectiveForm": "random",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, testing, troubleshooting",
+    "usageTip": "Use 'random' to describe lack of pattern.",
+    "commonMistake": "Calling something 'random' when there is an underlying pattern you just haven't found.",
+    "collocations": [
+      "random number",
+      "random error",
+      "random crash"
+    ]
+  }
+]

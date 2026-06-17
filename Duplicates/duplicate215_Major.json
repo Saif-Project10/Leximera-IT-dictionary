@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Major",
+    "meaning": "Important, serious, or large in scale; greater or more important.",
+    "shortMeaning": "very important, large",
+    "example": "The company is planning a major update to its software.",
+    "example2": "He decided to switch his major from history to engineering.",
+    "example3": "A major road runs through the center of town.",
+    "Explanation": "'Major' is an adjective and noun with several key uses. As an adjective, it means something is very important, large, or serious ('a major problem'). In university, it's a noun for a student's primary field of study. It also describes something greater in size or extent ('the major part'). Its opposite is 'minor'. In music, 'major' refers to a specific scale. It's a versatile word used in both general and specific contexts across many fields.",
+    "synonyms": [
+      "important",
+      "significant",
+      "chief",
+      "main"
+    ],
+    "antonyms": [
+      "minor",
+      "unimportant",
+      "insignificant",
+      "lesser"
+    ],
+    "nounForm": "majority (in some contexts, like 'the major')",
+    "verbForm": "N/A",
+    "adjectiveForm": "major",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Business, education, problems, roads, music",
+    "usageTip": "As a noun, use 'major' for a student's main subject: 'She is a biology major.'",
+    "commonMistake": "Confusing 'major' (adjective) with 'mayor' (the head of a city).",
+    "collocations": [
+      "major issue",
+      "major factor",
+      "major in (a subject)",
+      "major city"
+    ]
+  },
+  {
+    "word": "Major",
+    "meaning": "Great in size, importance, or seriousness",
+    "shortMeaning": "important or big",
+    "example": "We found a major bug in the authentication module.",
+    "example2": "This is a major upgrade to the software.",
+    "example3": "The project reached a major milestone today.",
+    "Explanation": "The word 'major' indicates something significant, essential, or large-scale. In IT, a 'major version' (like v2.0 vs v1.0) usually implies significant changes that might not be backward-compatible. A 'major issue' requires immediate attention because it stops work or causes data loss. It is used to prioritize tasks and distinguish between small tweaks and significant updates. It is a very versatile word for ranking importance.",
+    "synonyms": [
+      "significant",
+      "main",
+      "serious"
+    ],
+    "antonyms": [
+      "minor",
+      "insignificant",
+      "small"
+    ],
+    "nounForm": "majority",
+    "verbForm": "N/A",
+    "adjectiveForm": "major",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software versioning, bug severity, project planning",
+    "usageTip": "Use 'major' for significant impact or change.",
+    "commonMistake": "Overusing 'major' for small issues, which dilutes its meaning.",
+    "collocations": [
+      "major issue",
+      "major upgrade",
+      "major milestone"
+    ]
+  }
+]

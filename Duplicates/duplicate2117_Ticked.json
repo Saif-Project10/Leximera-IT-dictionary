@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Ticked",
+    "meaning": "Selected or marked with a checkmark",
+    "shortMeaning": "checked or selected",
+    "example": "Ensure the box is ticked before submitting.",
+    "example2": "I ticked all the required options in the settings.",
+    "example3": "If not ticked, the feature will be disabled.",
+    "Explanation": "Ticked refers to an option, checkbox, or item that has been selected or marked with a 'tick' (checkmark). In software UI, this is a common way to indicate a choice, activation of a setting, or completion of a task. It is a very simple but essential concept for interacting with graphical interfaces. Always verify that boxes are correctly ticked to ensure the desired configuration is applied. It is a universal UI action.",
+    "synonyms": [
+      "selected",
+      "checked",
+      "marked"
+    ],
+    "antonyms": [
+      "unchecked",
+      "unselected"
+    ],
+    "nounForm": "tick",
+    "verbForm": "tick",
+    "adjectiveForm": "ticked",
+    "partOfSpeech": "adjective",
+    "commonContext": "User interface, settings, forms",
+    "usageTip": "Use for UI checkboxes.",
+    "commonMistake": "Confusing 'ticked' with 'clicked' (clicked means pressed; ticked means selected).",
+    "collocations": [
+      "box is ticked",
+      "ticked option",
+      "have ticked"
+    ]
+  },
+  {
+    "word": "Ticked",
+    "meaning": "Marked with a check or verified",
+    "shortMeaning": "checked",
+    "example": "All items in the checklist were ticked off.",
+    "example2": "The completed tasks are ticked in the project system.",
+    "example3": "He ticked the box to agree to the terms.",
+    "Explanation": "The word 'ticked' means to mark something as done or selected, usually with a check mark (tick). In IT, this refers to UI checkboxes, task management systems, or verifying steps in a process. It is a simple, common term used in both user interfaces and administrative workflows. It confirms that an action or requirement has been fulfilled. It is synonymous with 'checked' in almost all contexts.",
+    "synonyms": [
+      "checked",
+      "selected",
+      "verified"
+    ],
+    "antonyms": [
+      "unchecked",
+      "unselected"
+    ],
+    "nounForm": "tick",
+    "verbForm": "tick",
+    "adjectiveForm": "ticked",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "UI/UX, task management",
+    "usageTip": "Use 'ticked' to describe items that have been verified or completed.",
+    "commonMistake": "Confusing 'ticked' with 'clicked' (ticked is for status; clicked is for action).",
+    "collocations": [
+      "ticked off",
+      "ticked box",
+      "all ticked"
+    ]
+  }
+]

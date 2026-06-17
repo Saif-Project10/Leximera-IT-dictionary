@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Calculate",
+    "meaning": "To find out a number or amount using mathematics.",
+    "shortMeaning": "work out mathematically",
+    "example": "Can you calculate the total cost?",
+    "example2": "Scientists calculate the distance to the moon.",
+    "example3": "He calculated the risks before investing.",
+    "Explanation": "The verb 'calculate' means to determine something numerically through a mathematical process. It involves using numbers, formulas, or data to get a result. It implies careful, precise work. It is used in math, science, finance, and everyday planning. The noun is 'calculation'. A common mistake is using it for simple guesses or estimates. 'Calculate' suggests a methodical process. For rough guesses, words like 'estimate' or 'guess' are better. It can also be used figuratively to mean planning carefully, as in 'calculating a move'.",
+    "synonyms": [
+      "compute",
+      "work out",
+      "reckon"
+    ],
+    "antonyms": [
+      "guess",
+      "estimate",
+      "N/A"
+    ],
+    "nounForm": "calculation",
+    "verbForm": "calculate",
+    "adjectiveForm": "calculated",
+    "partOfSpeech": "verb",
+    "commonContext": "Math, finance, science, planning",
+    "usageTip": "Often used with words like 'percentage', 'distance', 'cost', and 'risk'.",
+    "commonMistake": "Using 'calculate' when you mean a simple addition. It often involves more complex math.",
+    "collocations": [
+      "calculate precisely",
+      "calculate the cost",
+      "calculated risk"
+    ]
+  },
+  {
+    "word": "Calculate",
+    "meaning": "To find an answer by using mathematical operations",
+    "shortMeaning": "math processing",
+    "example": "You need to calculate the total price including tax.",
+    "example2": "The computer can calculate billions of operations per second.",
+    "example3": "Can you calculate the distance between these two points?",
+    "Explanation": "To calculate is to use numbers and logic to determine a result. In IT, almost everything is a calculation—from rendering a 3D game to determining a user's location. We use algorithms to calculate things efficiently. The word can also be used metaphorically to mean 'planning' something carefully (e.g., a 'calculated risk'). In programming, we use variables and operators (+, -, *, /) to perform these tasks. Accurate calculations are critical in fields like finance and science.",
+    "synonyms": [
+      "compute",
+      "figure out",
+      "estimate",
+      "reckon"
+    ],
+    "antonyms": [
+      "guess",
+      "ignore"
+    ],
+    "nounForm": "calculation / calculator",
+    "verbForm": "calculate",
+    "adjectiveForm": "calculated / calculating",
+    "partOfSpeech": "verb",
+    "commonContext": "Mathematics, finance, and coding",
+    "usageTip": "Use 'compute' for complex computer tasks and 'calculate' for general math.",
+    "commonMistake": "Confusing 'calculate' with 'count'; counting is one by one, calculating involves math.",
+    "collocations": [
+      "calculate the cost",
+      "calculate the average",
+      "automatically calculate"
+    ]
+  }
+]

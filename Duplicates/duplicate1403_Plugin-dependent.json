@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Plugin-dependent",
+    "meaning": "Requiring a plugin (a software component) to function correctly.",
+    "shortMeaning": "needs a plugin",
+    "example": "The old website is plugin-dependent and won't work on modern browsers.",
+    "example2": "Avoid creating plugin-dependent content for better accessibility.",
+    "example3": "The feature is plugin-dependent, so you must install the add-on first.",
+    "Explanation": "'Plugin-dependent' is a compound adjective used in web development and software. It describes a system, website, or feature that cannot work unless a specific third-party plugin (like Adobe Flash or a browser extension) is installed. This is often seen as a disadvantage because it can cause compatibility issues, security risks, and poor user experience if the plugin is missing.",
+    "synonyms": [
+      "add-on dependent, extension-reliant"
+    ],
+    "antonyms": [
+      "native, standalone, plugin-free, self-contained"
+    ],
+    "nounForm": "plugin-dependency",
+    "verbForm": "N/A",
+    "adjectiveForm": "plugin-dependent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, software requirements, user experience",
+    "usageTip": "Use this term in technical discussions about software architecture and compatibility.",
+    "commonMistake": "Writing it without the hyphen, which can make it less clear.",
+    "collocations": [
+      "plugin-dependent website",
+      "plugin-dependent application",
+      "highly plugin-dependent"
+    ]
+  },
+  {
+    "word": "Plugin-dependent",
+    "meaning": "Requiring specific plug-ins to function correctly",
+    "shortMeaning": "needs plug-ins",
+    "example": "This theme is plugin-dependent and requires extra files.",
+    "example2": "We try to avoid a plugin-dependent setup to reduce issues.",
+    "example3": "The application is plugin-dependent for basic features.",
+    "Explanation": "The term 'plugin-dependent' describes a system or feature that cannot perform its required function unless one or more specific plug-ins are installed and active. This can create potential issues with maintenance and stability. The noun form is 'dependence'. While modularity is good, being too dependent on external plugins can make a system fragile. Always be clear about these requirements when documenting your project setup.",
+    "synonyms": [
+      "plugin-reliant",
+      "dependent",
+      "supplementary-focused"
+    ],
+    "antonyms": [
+      "standalone",
+      "self-contained",
+      "independent"
+    ],
+    "nounForm": "dependence",
+    "verbForm": "N/A",
+    "adjectiveForm": "plugin-dependent",
+    "partOfSpeech": "adjective",
+    "commonContext": "CMS, software dependencies",
+    "usageTip": "Use to warn about software requirements.",
+    "commonMistake": "Assuming plug-ins are optional when they are actually mandatory.",
+    "collocations": [
+      "highly plugin-dependent",
+      "plugin-dependent features",
+      "avoid plugin-dependent setups"
+    ]
+  }
+]

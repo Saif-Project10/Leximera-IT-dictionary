@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Server-generated",
+    "meaning": "Created or produced by a server.",
+    "shortMeaning": "created by the server",
+    "example": "The HTML content is server-generated before being sent to the browser.",
+    "example2": "Server-generated reports are emailed to users every morning.",
+    "example3": "This is a server-generated error message.",
+    "Explanation": "'Server-generated' is a compound adjective describing content, code, or files that are created on the server computer as part of processing a request. This is the traditional model of dynamic websites: the server runs code (like PHP or Python) to generate an HTML page, which is then sent to the user's browser. It contrasts with 'client-generated' content (like JavaScript creating elements in the browser). The term is common in web development discussions about where rendering or processing should occur.",
+    "synonyms": [
+      "server-side rendered",
+      "dynamically generated"
+    ],
+    "antonyms": [
+      "client-generated",
+      "static",
+      "pre-rendered"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-generated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, backend programming",
+    "usageTip": "Often hyphenated. It's a specific technical descriptor for the origin of content.",
+    "commonMistake": "Thinking all web content is server-generated; modern apps often use client-side generation (React, Vue.js).",
+    "collocations": [
+      "server-generated content",
+      "server-generated page",
+      "server-generated HTML"
+    ]
+  },
+  {
+    "word": "Server-generated",
+    "meaning": "Created or produced by the server rather than the client",
+    "shortMeaning": "made by server",
+    "example": "The PDF report is server-generated for security.",
+    "example2": "Server-generated content is often harder to modify via CSS.",
+    "example3": "We use server-generated timestamps for accuracy.",
+    "Explanation": "Something that is 'server-generated' is created on the backend server before being sent to the user's browser. This is often done for complex data processing, generating documents like invoices, or creating dynamic web pages that need data from a database. Because the server does the work, the client doesn't need to have much processing power. This approach is standard for secure or heavy data operations. Ensure you distinguish this from client-side generation, which happens in the browser.",
+    "synonyms": [
+      "backend-produced",
+      "server-side created"
+    ],
+    "antonyms": [
+      "client-generated",
+      "user-created"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-generated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, data reporting",
+    "usageTip": "Use when identifying the origin of data or files.",
+    "commonMistake": "Thinking the browser creates everything; remember the server does the heavy lifting.",
+    "collocations": [
+      "server-generated content",
+      "server-generated data",
+      "server-generated PDF"
+    ]
+  },
+  {
+    "word": "Server-generated",
+    "meaning": "Created or calculated by the server rather than the client",
+    "shortMeaning": "made by server",
+    "example": "The PDF report is server-generated for consistent formatting.",
+    "example2": "We use server-generated tokens for secure login sessions.",
+    "example3": "Are the analytics reports client-side or server-generated?",
+    "Explanation": "Server-generated refers to content, files, or tokens that the server creates dynamically. This is often done to ensure security (like tokens), consistency (like generated reports), or to hide the complexity from the user. Because it happens on the server, the client doesn't need to do any heavy calculation, which is great for low-power mobile devices. It is a common technique to control data processing and security from one central point.",
+    "synonyms": [
+      "server-side created",
+      "backend-created"
+    ],
+    "antonyms": [
+      "client-generated"
+    ],
+    "nounForm": "generation",
+    "verbForm": "generate",
+    "adjectiveForm": "server-generated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web apps, security, reporting",
+    "usageTip": "Use this to explain where the data creation happens.",
+    "commonMistake": "Overloading the server with tasks that could be done on the client.",
+    "collocations": [
+      "server-generated content",
+      "server-generated token",
+      "server-generated report"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Wiped",
+    "meaning": "Completely erased or removed from a storage medium.",
+    "shortMeaning": "erased",
+    "example": "The technician wiped the drive before selling it.",
+    "example2": "All sensitive data was wiped after the project finished.",
+    "Explanation": "The word 'wiped' refers to the permanent removal of data from a storage device, such as a hard drive or SD card. Unlike simple deletion, wiping typically involves overwriting the data to ensure it cannot be recovered. The base verb is 'wipe'. It is a standard security practice to protect privacy before disposing of hardware. It is important to know that simply deleting a file does not always 'wipe' the data, as it may still be recoverable.",
+    "synonyms": [
+      "erased",
+      "cleared",
+      "deleted"
+    ],
+    "antonyms": [
+      "restored",
+      "saved",
+      "kept"
+    ],
+    "nounForm": "wipe",
+    "verbForm": "wipe",
+    "adjectiveForm": "wiped",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Data security, hardware disposal, system maintenance",
+    "usageTip": "Use 'wiped' when describing secure data destruction.",
+    "commonMistake": "Using 'wiped' to mean just moving files to a trash folder.",
+    "collocations": [
+      "wiped the drive",
+      "securely wiped",
+      "wiped completely"
+    ]
+  },
+  {
+    "word": "Wiped",
+    "meaning": "Completely erased or deleted",
+    "shortMeaning": "erased",
+    "example": "He wiped the hard drive before selling the laptop.",
+    "example2": "The system was wiped clean after the virus.",
+    "example3": "Ensure the database is wiped before testing.",
+    "Explanation": "To 'wipe' data means to permanently delete all information from a storage device, often making it unrecoverable. This is standard procedure for security when disposing of hardware or resetting a server. It is different from just formatting, as wiping often involves overwriting data multiple times to prevent recovery. It is a critical security action for sensitive information. Be very careful, as this action cannot be easily undone.",
+    "synonyms": [
+      "erased",
+      "deleted",
+      "cleared"
+    ],
+    "antonyms": [
+      "saved",
+      "recovered",
+      "retained"
+    ],
+    "nounForm": "wipe",
+    "verbForm": "wipe",
+    "adjectiveForm": "wiped",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data security, hardware disposal, system resets",
+    "usageTip": "Use it when discussing permanent data destruction.",
+    "commonMistake": "Confusing 'wiped' with 'deleted' (which might be recoverable).",
+    "collocations": [
+      "wiped data",
+      "wiped drive",
+      "wiped clean"
+    ]
+  }
+]

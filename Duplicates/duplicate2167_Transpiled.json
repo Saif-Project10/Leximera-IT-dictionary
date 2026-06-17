@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Transpiled",
+    "meaning": "Converted source code from one high-level language to another",
+    "shortMeaning": "code to code conversion",
+    "example": "The code was transpiled to ensure older browser support.",
+    "example2": "He transpiled the TypeScript files into clean JavaScript.",
+    "example3": "The modern build process is often transpiled.",
+    "Explanation": "Transpilation is a specific form of compilation where source code is converted into another source code at a similar level of abstraction. It is common in modern web development, where developers use languages like TypeScript or Babel to turn modern, easy-to-write code into older versions of JavaScript that work in any browser. It keeps the development process efficient and productive. The resulting code remains high-level and can be read by other humans, unlike traditional compiled machine code.",
+    "synonyms": [
+      "transcompiled",
+      "converted",
+      "translated"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "transpilation",
+    "verbForm": "transpile",
+    "adjectiveForm": "transpiled",
+    "partOfSpeech": "verb",
+    "commonContext": "Web development, language tools",
+    "usageTip": "Use this when talking about source-to-source code conversion tools.",
+    "commonMistake": "Confusing it with traditional compilation to machine code.",
+    "collocations": [
+      "transpiled code",
+      "transpiled output",
+      "automatic transpilation"
+    ]
+  },
+  {
+    "word": "Transpiled",
+    "meaning": "Converted from one high-level programming language to another",
+    "shortMeaning": "code-to-code conversion",
+    "example": "The modern JavaScript is transpiled into older versions for compatibility.",
+    "example2": "He transpiled the TypeScript code to JavaScript.",
+    "example3": "The process is automatically transpiled during the build.",
+    "Explanation": "The word 'transpiled' is specific to software development. It refers to a type of translation where source code is converted from one high-level language to another high-level language (e.g., TypeScript to JavaScript). It is different from 'compilation', which usually means converting code to machine-readable format. It is a key part of modern web development toolchains. It is the past tense of 'transpile'.",
+    "synonyms": [
+      "converted",
+      "compiled",
+      "translated"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "transpilation",
+    "verbForm": "transpile",
+    "adjectiveForm": "transpiled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Web development, coding, build systems",
+    "usageTip": "Use 'transpiled' specifically for code-to-code conversion.",
+    "commonMistake": "Using 'compiled' instead of 'transpiled'; they are technically distinct.",
+    "collocations": [
+      "transpiled code",
+      "transpiled automatically",
+      "transpiled from"
+    ]
+  }
+]

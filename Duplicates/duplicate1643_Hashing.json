@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Hashing",
+    "meaning": "The process of converting data into a fixed-size string of characters using an algorithm",
+    "shortMeaning": "data conversion",
+    "example": "The database uses hashing to store passwords securely.",
+    "example2": "Hashing helps in identifying duplicate files quickly.",
+    "example3": "The developer implemented hashing for faster data retrieval.",
+    "Explanation": "Hashing is a fundamental concept in computer science and cybersecurity. It takes an input of any length and produces a fixed-length output, often called a hash value or digest. This process is one-way, meaning you cannot easily revert the hash back to the original data. It is widely used in password storage, digital signatures, and data structures like hash tables. Unlike encryption, hashing is not meant to be decrypted.",
+    "synonyms": [
+      "mapping",
+      "indexing",
+      "digesting"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "hash",
+    "verbForm": "hash",
+    "adjectiveForm": "hashed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity and data structures",
+    "usageTip": "Use 'hashing' when referring to the action of generating a unique fingerprint for data.",
+    "commonMistake": "Confusing hashing with encryption; encryption is two-way, while hashing is one-way.",
+    "collocations": [
+      "password hashing",
+      "hashing technique",
+      "hashing process"
+    ]
+  },
+  {
+    "word": "Hashing",
+    "meaning": "The process of converting input data into a fixed-size cryptographic output",
+    "shortMeaning": "the process of creating hashes",
+    "example": "Hashing is essential for verifying the integrity of large files.",
+    "example2": "We implemented a new hashing algorithm to improve security.",
+    "example3": "The hashing process takes only milliseconds to complete.",
+    "Explanation": "The word 'hashing' refers to the action or the mechanism of creating a unique identifier for data. It is widely used in databases to organize data into 'hash maps' for fast lookup, and in security to protect sensitive information. Understanding how different hashing algorithms perform is a common topic for backend developers. It is a technical term that should be used when explaining security practices, data structures, or optimization strategies.",
+    "synonyms": [
+      "encoding",
+      "cryptography",
+      "checksumming"
+    ],
+    "antonyms": [
+      "decoding",
+      "unscrambling"
+    ],
+    "nounForm": "hash",
+    "verbForm": "hash",
+    "adjectiveForm": "hashed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cryptography, data structures, database optimization",
+    "usageTip": "Use 'hashing' when describing the process or technique used to secure data.",
+    "commonMistake": "Confusing 'hashing' (one-way) with 'encryption' (reversible).",
+    "collocations": [
+      "hashing algorithm",
+      "hashing process",
+      "fast hashing"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Valvular",
+    "meaning": "Relating to or acting like a valve.",
+    "shortMeaning": "like a valve",
+    "example": "The system uses a valvular mechanism to control flow.",
+    "example2": "This pump features a unique valvular design.",
+    "example3": "Valvular pressure can affect the hardware performance.",
+    "Explanation": "Valvular describes something that functions like a valve, controlling the direction or flow of fluids or gases. While more common in engineering and medicine, it appears in hardware discussions related to cooling systems or fluid-based computing. It describes a design that directs flow in specific ways. It is a very technical term that specifies the mechanics of a system. Knowing this helps in understanding hardware-level flow control.",
+    "synonyms": [
+      "valve-like",
+      "gate-like"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "valve",
+    "verbForm": "N/A",
+    "adjectiveForm": "valvular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware engineering, fluid dynamics",
+    "usageTip": "Use this for designs that control flow through valve-like parts.",
+    "commonMistake": "Using it outside of mechanical or technical flow contexts.",
+    "collocations": [
+      "valvular mechanism",
+      "valvular design",
+      "valvular flow"
+    ]
+  },
+  {
+    "word": "Valvular",
+    "meaning": "Relating to a valve, often in biological or mechanical systems.",
+    "shortMeaning": "like a valve",
+    "example": "The pump uses a valvular design to control flow.",
+    "example2": "Valvular structures are critical in fluid dynamics.",
+    "example3": "The mechanism has a valvular movement to stop reverse flow.",
+    "Explanation": "The term 'valvular' relates to valves, which are devices that control the flow of fluids or gases. In engineering, this term is used when describing pumps, pipes, or complex mechanical systems that act like valves. While more common in medical contexts, it occasionally appears in mechanical engineering and high-end hardware design where flow control is vital. It refers to the function of allowing movement in one direction while blocking it in the other.",
+    "synonyms": [
+      "valve-like",
+      "flow-regulating",
+      "control-based"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "valve",
+    "verbForm": "N/A",
+    "adjectiveForm": "valvular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mechanical engineering and fluid dynamics",
+    "usageTip": "Use 'valvular' for mechanical components that act as valves.",
+    "commonMistake": "Using 'valvular' when you mean 'variable'.",
+    "collocations": [
+      "valvular design",
+      "valvular structure",
+      "valvular movement"
+    ]
+  }
+]

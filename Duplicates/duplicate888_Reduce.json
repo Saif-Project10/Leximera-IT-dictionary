@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Reduce",
+    "meaning": "To make something smaller in size, amount, or degree",
+    "shortMeaning": "make smaller",
+    "example": "He wants to reduce his sugar intake to be healthier.",
+    "example2": "The company will reduce prices during the sale.",
+    "example3": "We need to reduce the amount of waste we produce.",
+    "Explanation": "The word 'reduce' is a verb meaning to make something less. It is widely used in contexts like diet, business, and environmental issues. The focus is on decreasing quantity or intensity. Its noun forms are 'reduction' and 'reducer'. A common mistake is using it interchangeably with 'minimize', which often means to make as small as possible, not just smaller.",
+    "synonyms": [
+      "decrease",
+      "lessen",
+      "lower"
+    ],
+    "antonyms": [
+      "increase",
+      "enlarge",
+      "expand"
+    ],
+    "nounForm": "reduction",
+    "verbForm": "reduce",
+    "adjectiveForm": "reduced",
+    "partOfSpeech": "verb",
+    "commonContext": "Health, finance, environment, cooking",
+    "usageTip": "Use 'reduce' when talking about making an amount, size, or level smaller.",
+    "commonMistake": "Using 'reduce' when 'minimize' (to make the smallest possible) is more accurate.",
+    "collocations": [
+      "reduce costs",
+      "reduce stress",
+      "reduce speed"
+    ]
+  },
+  {
+    "word": "Reduce",
+    "meaning": "To make something smaller in size, amount, degree, or intensity",
+    "shortMeaning": "make smaller",
+    "example": "We can reduce file sizes significantly by compressing the high-resolution image files.",
+    "example2": "Optimizing our database queries will reduce server response times for online users.",
+    "example3": "The compiler tries to reduce the number of instructions needed to run the app.",
+    "Explanation": "The word 'Reduce' is a fundamental and versatile term across all branches of IT and computer science. It describes making something lesser in quantity, speed, weight, or complexity. You can reduce database sizes, reduce security risks, reduce bandwidth consumption, or reduce code lines. In functional programming, 'reduce' is also a specific method name used to combine an array of multiple elements down into a single value. It implies optimization and increasing system efficiency.",
+    "synonyms": [
+      "decrease",
+      "minimize",
+      "lessen"
+    ],
+    "antonyms": [
+      "increase",
+      "expand",
+      "maximize"
+    ],
+    "nounForm": "reduction",
+    "verbForm": "reduce",
+    "adjectiveForm": "reduced",
+    "partOfSpeech": "verb",
+    "commonContext": "Data compression, system optimization, and programming functions",
+    "usageTip": "This word is perfect for expressing improvements in efficiency, such as lowering time, size, or error rates.",
+    "commonMistake": "Using 'reduce' when you mean completely deleting or removing an element entirely from existence.",
+    "collocations": [
+      "reduce file size",
+      "reduce latency",
+      "significantly reduce risks"
+    ]
+  }
+]

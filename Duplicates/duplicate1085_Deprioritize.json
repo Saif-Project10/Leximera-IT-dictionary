@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Deprioritize",
+    "meaning": "To reduce the priority of something; to treat as less important.",
+    "shortMeaning": "make less important",
+    "example": "We need to deprioritize this feature to meet our deadline.",
+    "example2": "During busy periods, maintenance tasks are deprioritized.",
+    "example3": "N/A",
+    "Explanation": "'Deprioritize' is a verb meaning to assign lower priority to something, to move it down the list of importance. It's a business and project management term often used when resources are limited and choices must be made. The opposite is 'prioritize'. It doesn't mean to abandon, but to schedule for later attention. It's a practical decision-making word in resource-constrained environments. While not as common as 'prioritize', it's useful for describing intentional downranking of tasks or features. It's formed by adding 'de-' (reverse) to 'prioritize'.",
+    "synonyms": [
+      "downrank",
+      "delay",
+      "postpone",
+      "move down the list"
+    ],
+    "antonyms": [
+      "prioritize",
+      "emphasize",
+      "focus on"
+    ],
+    "nounForm": "deprioritization",
+    "verbForm": "deprioritize",
+    "adjectiveForm": "deprioritized",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management, product development, task management",
+    "usageTip": "Often used in product development when deciding which features to develop first.",
+    "commonMistake": "Using it to mean 'cancel' or 'eliminate'. Deprioritize means to postpone, not cancel.",
+    "collocations": [
+      "deprioritize tasks",
+      "deprioritize features",
+      "temporarily deprioritize"
+    ]
+  },
+  {
+    "word": "Deprioritize",
+    "meaning": "To reduce the importance or level of urgency of a task or project",
+    "shortMeaning": "lower the priority",
+    "example": "We need to deprioritize the new feature to focus on fixing bugs.",
+    "example2": "The manager decided to deprioritize the marketing campaign for now.",
+    "example3": "When the deadline approached, we had to deprioritize minor tasks.",
+    "Explanation": "Deprioritize is a common business and IT term used during planning and project management. It means you have decided that a certain task is no longer as important as it used to be. This usually happens when resources are limited or when more urgent problems appear. By deprioritizing something, you are essentially putting it 'on the back burner'. It helps teams focus their energy on the most critical work. It is a key skill in Agile and Scrum methodologies to keep the project on track.",
+    "synonyms": [
+      "downgrade",
+      "de-emphasize",
+      "lower priority"
+    ],
+    "antonyms": [
+      "prioritize",
+      "upgrade",
+      "highlight"
+    ],
+    "nounForm": "deprioritization",
+    "verbForm": "deprioritize",
+    "adjectiveForm": "deprioritized",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management, Task lists, Business strategy",
+    "usageTip": "Use this when you are explaining why a certain task is being delayed.",
+    "commonMistake": "Thinking it means 'to cancel'; it just means the task is less urgent now.",
+    "collocations": [
+      "deprioritize a task",
+      "decided to deprioritize"
+    ]
+  }
+]

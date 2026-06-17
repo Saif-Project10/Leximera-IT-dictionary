@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Imitate",
+    "meaning": "To copy the behavior, appearance, or sound of someone or something.",
+    "shortMeaning": "copy",
+    "example": "Children often imitate their parents.",
+    "example2": "He can imitate the calls of many different birds.",
+    "example3": "The product was designed to imitate the look of real wood.",
+    "Explanation": "To imitate is to reproduce or mimic the actions, speech, or characteristics of another. It's a fundamental learning method (imitation learning). Imitation can be flattering (imitating a style) or mocking (imitating to make fun). In art, imitation can be a form of flattery or practice. In business, imitation is a common strategy (imitating successful products). The word implies observation and replication. It's different from 'emulate', which strives to match or surpass, often with admiration. Imitation is neutral but can be positive or negative depending on context.",
+    "synonyms": [
+      "copy",
+      "mimic",
+      "emulate",
+      "simulate",
+      "ape"
+    ],
+    "antonyms": [
+      "originate",
+      "create",
+      "innovate"
+    ],
+    "nounForm": "imitation",
+    "verbForm": "imitate",
+    "adjectiveForm": "imitative",
+    "partOfSpeech": "verb",
+    "commonContext": "Learning, behavior, art, comedy, products",
+    "usageTip": "Often followed by the thing being copied (imitate his accent, imitate a masterpiece).",
+    "commonMistake": "Confusing 'imitate' with 'intimate' (close personal). They sound different: IM-i-tate vs. IN-ti-mate.",
+    "collocations": [
+      "imitate others",
+      "imitate nature",
+      "imitate successfully",
+      "try to imitate"
+    ]
+  },
+  {
+    "word": "Imitate",
+    "meaning": "To copy the behavior, appearance, or style of something or someone",
+    "shortMeaning": "copy or mimic",
+    "example": "Artificial Intelligence is designed to imitate human intelligence.",
+    "example2": "The fake website was designed to imitate the bank's login page.",
+    "example3": "Beginners often imitate the coding style of senior developers.",
+    "Explanation": "In IT, 'imitate' is often used in the context of 'mimicking' behavior. For example, a 'honeypot' might imitate a vulnerable server to trick hackers. AI and Machine Learning are the ultimate examples of software trying to imitate biological processes like vision or speech. In cybersecurity, 'Phishing' sites imitate real brands to steal passwords. While 'imitate' is a neutral word, in tech it can be positive (AI learning) or negative (fraud). For a student, imitating good code is a proven way to learn best practices. It implies following a pattern set by others.",
+    "synonyms": [
+      "mimic",
+      "copy",
+      "simulate"
+    ],
+    "antonyms": [
+      "originate",
+      "innovate",
+      "differ"
+    ],
+    "nounForm": "imitation",
+    "verbForm": "imitate",
+    "adjectiveForm": "imitative",
+    "partOfSpeech": "verb",
+    "commonContext": "AI, cybersecurity, and learning",
+    "usageTip": "Use 'imitate' when software or people follow a specific existing model.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "imitate human speech",
+      "imitate a style",
+      "perfectly imitate"
+    ]
+  }
+]

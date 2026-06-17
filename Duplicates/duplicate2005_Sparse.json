@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sparse",
+    "meaning": "Thinly scattered or spread out; not dense",
+    "shortMeaning": "thin or scattered",
+    "example": "The dataset is very sparse, with many missing values.",
+    "example2": "Sparse vegetation is common in the desert.",
+    "example3": "We use a sparse matrix to save memory in calculations.",
+    "Explanation": "The word 'sparse' describes something that is not dense, crowded, or full. It means there are large empty spaces between items. In data science and computing, a 'sparse matrix' or 'sparse dataset' is one where most of the elements are zero or missing, and only a few are actually filled. This is an important concept because we can design special algorithms to store and process sparse data much more efficiently than dense data. It is a precise term for describing density and distribution.",
+    "synonyms": [
+      "thin",
+      "scattered",
+      "meager"
+    ],
+    "antonyms": [
+      "dense",
+      "thick",
+      "full"
+    ],
+    "nounForm": "sparsity",
+    "verbForm": "N/A",
+    "adjectiveForm": "sparse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, mathematics, computing",
+    "usageTip": "Use 'sparse' when talking about matrices or datasets with many zeros.",
+    "commonMistake": "Using 'sparse' to mean 'scarce' in every context; it specifically refers to density.",
+    "collocations": [
+      "sparse matrix",
+      "sparse data",
+      "sparse population"
+    ]
+  },
+  {
+    "word": "Sparse",
+    "meaning": "Thinly scattered or distributed; not thick or crowded.",
+    "shortMeaning": "thin or scattered",
+    "example": "The dataset is sparse, with many missing values.",
+    "example2": "The server load was sparse during the weekend.",
+    "example3": "The documentation is quite sparse on details.",
+    "Explanation": "The word 'sparse' describes something that exists in small amounts or is spread out thinly. In computing, a 'sparse matrix' is a matrix in which most elements are zero, and we use special techniques to store them efficiently. In documentation, calling it 'sparse' means it is missing information or is too brief. It is a very precise term in data science and computer architecture. The noun form is 'sparsity'. It is a key term when talking about data storage optimization and information density.",
+    "synonyms": [
+      "scant",
+      "meager",
+      "scattered"
+    ],
+    "antonyms": [
+      "dense",
+      "thick",
+      "abundant"
+    ],
+    "nounForm": "sparsity",
+    "verbForm": "N/A",
+    "adjectiveForm": "sparse",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, databases, documentation",
+    "usageTip": "Use 'sparse' for data or info that is missing or spread thin.",
+    "commonMistake": "Confusing 'sparse' with 'scarce'.",
+    "collocations": [
+      "sparse matrix",
+      "sparse data",
+      "sparse documentation"
+    ]
+  }
+]

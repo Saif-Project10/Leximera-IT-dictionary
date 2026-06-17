@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Scheduled",
+    "meaning": "Planned to happen at a particular time",
+    "shortMeaning": "planned, timetabled",
+    "example": "The meeting is scheduled for 3 PM.",
+    "example2": "A maintenance shutdown is scheduled for tomorrow.",
+    "example3": "She is scheduled to arrive on flight BA204.",
+    "Explanation": "'Scheduled' is the past participle of 'schedule', commonly used as an adjective. It means something is included in a formal plan or timetable. It implies organization and predictability. It's used for events, transport, broadcasts, and appointments. The opposite is 'unscheduled' or 'delayed'. It's a key word for time management in both personal and professional life, providing clarity about future plans.",
+    "synonyms": [
+      "planned",
+      "timetabled",
+      "slated"
+    ],
+    "antonyms": [
+      "unscheduled",
+      "spontaneous",
+      "cancelled"
+    ],
+    "nounForm": "schedule",
+    "verbForm": "schedule",
+    "adjectiveForm": "scheduled",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Appointments, transport, TV programs, maintenance",
+    "usageTip": "Often used with 'for' (scheduled for Monday) or 'to' (scheduled to depart).",
+    "commonMistake": "Pronouncing it with a 'sk' sound (like 'school') instead of 'sh' (like 'she').",
+    "collocations": [
+      "as scheduled",
+      "scheduled delivery",
+      "tightly scheduled"
+    ]
+  },
+  {
+    "word": "Scheduled",
+    "meaning": "Planned or arranged to happen at a specific time.",
+    "shortMeaning": "planned",
+    "example": "The system maintenance is scheduled for midnight.",
+    "example2": "Tasks can be scheduled to run automatically.",
+    "example3": "The project meeting was scheduled for Monday morning.",
+    "Explanation": "The word 'scheduled' means that an event has a set time and date. In IT, scheduling is critical for backups, maintenance, batch processing, and team meetings. An automated schedule ensures that important operations occur regularly without needing human intervention. It helps in planning and managing resources efficiently throughout the life of a project or system operation.",
+    "synonyms": [
+      "planned",
+      "arranged",
+      "organized"
+    ],
+    "antonyms": [
+      "unscheduled",
+      "spontaneous",
+      "random"
+    ],
+    "nounForm": "schedule",
+    "verbForm": "schedule",
+    "adjectiveForm": "scheduled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Time management and automation",
+    "usageTip": "Use 'scheduled' for tasks with defined execution times.",
+    "commonMistake": "Failing to verify time zone settings when scheduling distributed tasks.",
+    "collocations": [
+      "scheduled task",
+      "scheduled maintenance",
+      "previously scheduled"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stolen",
+    "meaning": "Taken without permission; often used for data or credentials.",
+    "shortMeaning": "illegally taken",
+    "example": "The stolen password was found on the dark web.",
+    "example2": "We must revoke access for all stolen credentials.",
+    "example3": "Stolen data can lead to massive security breaches.",
+    "Explanation": "The word 'stolen' refers to something that has been taken illegally or without permission. In IT, this usually refers to 'stolen credentials', 'stolen keys', or 'stolen data'. Because digital items are easily copied, 'stolen' often means 'accessed by an unauthorized person'. This is a very serious security issue, as stolen information can be used to impersonate users, breach private databases, or steal intellectual property.",
+    "synonyms": [
+      "taken",
+      "misappropriated",
+      "unauthorized-access"
+    ],
+    "antonyms": [
+      "authorized",
+      "secure",
+      "legitimate"
+    ],
+    "nounForm": "theft",
+    "verbForm": "steal",
+    "adjectiveForm": "stolen",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, data protection",
+    "usageTip": "Use 'stolen' for unauthorized access to credentials or data.",
+    "commonMistake": "Confusing 'stolen' (taken) with 'leaked' (exposed).",
+    "collocations": [
+      "stolen credentials",
+      "stolen data",
+      "stolen keys"
+    ]
+  },
+  {
+    "word": "Stolen",
+    "meaning": "Taken without permission or legal right",
+    "shortMeaning": "taken illegally",
+    "example": "The database was compromised by stolen credentials.",
+    "example2": "They discovered the code was stolen from a competitor.",
+    "example3": "Stolen data can be sold on the dark web.",
+    "Explanation": "'Stolen' refers to any digital or physical property obtained through theft or unauthorized access. In IT, this most often applies to sensitive data, user accounts, or proprietary source code. Security protocols are designed to prevent information from being 'stolen'. It carries a serious negative impact on privacy and business integrity. Identifying and responding to stolen information is a key aspect of cybersecurity response and risk mitigation.",
+    "synonyms": [
+      "thieved",
+      "pilfered",
+      "taken"
+    ],
+    "antonyms": [
+      "recovered",
+      "secure",
+      "authorized"
+    ],
+    "nounForm": "theft",
+    "verbForm": "steal",
+    "adjectiveForm": "stolen",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, privacy, law",
+    "usageTip": "Use to describe unauthorized theft of data or identity.",
+    "commonMistake": "Using 'stolen' for data that was merely 'shared' without consent.",
+    "collocations": [
+      "stolen credentials",
+      "stolen data"
+    ]
+  }
+]

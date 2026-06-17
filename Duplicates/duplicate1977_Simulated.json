@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Simulated",
+    "meaning": "Imitated or reproduced in a controlled environment to study or test something.",
+    "shortMeaning": "imitated",
+    "example": "We simulated network traffic to test the server load.",
+    "example2": "The flight software runs in a simulated environment.",
+    "example3": "The game uses simulated physics for realistic movement.",
+    "Explanation": "The word 'simulated' describes a digital or physical model that mimics a real-world system. Simulation is essential in IT for testing software under various conditions, such as high stress or failure states, without risking the actual production environment. It allows developers to observe system behavior and troubleshoot issues before deployment. It is a powerful tool for research, learning, and planning.",
+    "synonyms": [
+      "modeled",
+      "imitated",
+      "reproduced"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "genuine"
+    ],
+    "nounForm": "simulation",
+    "verbForm": "simulate",
+    "adjectiveForm": "simulated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Testing, development, and research",
+    "usageTip": "Use 'simulated' to describe a non-real but representative test environment.",
+    "commonMistake": "Assuming a simulated environment matches real-world performance exactly.",
+    "collocations": [
+      "simulated environment",
+      "simulated data",
+      "simulated load"
+    ]
+  },
+  {
+    "word": "Simulated",
+    "meaning": "Created or modeled to look like reality",
+    "shortMeaning": "fake but realistic",
+    "example": "The team ran a simulated attack to test security.",
+    "example2": "We use simulated data for testing purposes.",
+    "example3": "The flight simulator provided a realistic experience.",
+    "Explanation": "The word 'simulated' refers to something that imitates a real-world system or environment for testing or training. It allows users to study processes safely without risking real hardware or live data. The verb form is 'simulate', and the noun form is 'simulation'. It is essential in fields like game development, cybersecurity, and scientific modeling.",
+    "synonyms": [
+      "modeled",
+      "artificial",
+      "mimicked"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "live"
+    ],
+    "nounForm": "simulation",
+    "verbForm": "simulate",
+    "adjectiveForm": "simulated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Testing, training, scientific research",
+    "usageTip": "Use 'simulated' to describe models that mimic real-world conditions.",
+    "commonMistake": "Assuming 'simulated' means 'inaccurate'.",
+    "collocations": [
+      "simulated environment",
+      "simulated data",
+      "simulated attack"
+    ]
+  }
+]

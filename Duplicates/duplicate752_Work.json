@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Work",
+    "meaning": "1. Activity involving mental or physical effort to achieve a result. 2. A task or job. 3. To function or operate.",
+    "shortMeaning": "effort; job; function",
+    "example": "Hard work usually leads to success. (effort)",
+    "example2": "She started her new work last month. (job)",
+    "example3": "Does this old radio still work? (function)",
+    "Explanation": "'Work' is a fundamental noun and verb. As a noun, it refers to labor, employment, or the product of effort (a work of art). As a verb, it means to engage in labor, to function correctly, or to manage/operate something. It is central to discussions about careers, productivity, and mechanics. The concept of work is essential in physics, economics, and daily life. Its meanings span from the abstract (work-life balance) to the very concrete (the machine works).",
+    "synonyms": [
+      "labor",
+      "job",
+      "function",
+      "operate"
+    ],
+    "antonyms": [
+      "rest",
+      "play",
+      "break",
+      "malfunction"
+    ],
+    "nounForm": "work",
+    "verbForm": "work",
+    "adjectiveForm": "working",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Employment, effort, art, machines, projects",
+    "usageTip": "Use 'work' as an uncountable noun for general effort/job, and as a verb for doing a job or functioning.",
+    "commonMistake": "Using 'work' as a plural noun incorrectly. 'Work' is usually uncountable; 'works' refers to artistic creations or factory plants.",
+    "collocations": [
+      "at work",
+      "work on",
+      "hard work",
+      "out of work"
+    ]
+  },
+  {
+    "word": "Work",
+    "meaning": "To exert physical or mental effort to build an asset, or a software system functioning properly as intended by design rules",
+    "shortMeaning": "exert effort or function correctly",
+    "example": "The vanilla JavaScript search function must work flawlessly across all modern smartphone browser applications.",
+    "example2": "It takes weeks of hard development work to compile a complete dictionary term database structure.",
+    "example3": "The developer sits at his keyboard setup every morning to work on his custom platform layout files.",
+    "Explanation": "The word 'work' is a cornerstone term in human productivity and software execution frameworks. As a noun, it describes the productive labor or the coding project asset itself. As a verb, it has a dual technical life: it means the human action of writing logic rules, and it also describes whether a software system runs successfully without crashes. When an engineer exclaims, 'The code is finally working!', it implies the logic passes all tests, renders accurately, and achieves its runtime objectives.",
+    "synonyms": [
+      "labor",
+      "operate",
+      "function successfully",
+      "perform task"
+    ],
+    "antonyms": [
+      "fail",
+      "break",
+      "idle",
+      "stagnate"
+    ],
+    "nounForm": "work / worker / workplace",
+    "verbForm": "work",
+    "adjectiveForm": "working",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Daily programming operations, testing software functional status, and evaluating project structural efforts",
+    "usageTip": "Use 'work' to express human labor or to declare that an application feature functions without throwing errors.",
+    "commonMistake": "Using the casual phrase 'it works' in high-level diagnostic documentation when you should use precise terms like 'fully functional' or 'passes verification'.",
+    "collocations": [
+      "work on a project",
+      "code works perfectly",
+      "hard work pays off"
+    ]
+  }
+]

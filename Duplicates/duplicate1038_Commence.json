@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Commence",
+    "meaning": "To begin or start.",
+    "shortMeaning": "begin; start",
+    "example": "The ceremony will commence at 9 AM sharp.",
+    "example2": "Construction is scheduled to commence next month.",
+    "example3": "He commenced his speech with a thank you.",
+    "Explanation": "'Commence' is a formal verb meaning to begin or start something. It's more formal than 'begin' or 'start' and is often used in official contexts, ceremonies, documents, and announcements. It can be used both transitively (commence operations) and intransitively (the meeting commenced). The noun form is 'commencement', which also means graduation ceremony. It implies a deliberate, formal beginning rather than a casual start. It's common in legal, academic, and business language.",
+    "synonyms": [
+      "begin",
+      "start",
+      "initiate",
+      "launch"
+    ],
+    "antonyms": [
+      "conclude",
+      "finish",
+      "end",
+      "terminate"
+    ],
+    "nounForm": "commencement",
+    "verbForm": "commence",
+    "adjectiveForm": "commencing",
+    "partOfSpeech": "verb",
+    "commonContext": "Ceremonies, legal proceedings, projects, official events",
+    "usageTip": "More formal than 'begin' or 'start'. Use in official writing and speeches.",
+    "commonMistake": "Using it in casual conversation where 'start' or 'begin' would be more natural.",
+    "collocations": [
+      "commence operations",
+      "commence immediately",
+      "commence proceedings"
+    ]
+  },
+  {
+    "word": "Commence",
+    "meaning": "To begin or start a process or event",
+    "shortMeaning": "begin",
+    "example": "The database migration will commence at midnight.",
+    "example2": "Please wait for the instructions before you commence the test.",
+    "example3": "Development on the next version is set to commence next week.",
+    "Explanation": "Commence is a more formal version of the word 'start'. In IT projects, it is used in official schedules, contracts, and technical logs. For example, a system log might record: 'Process commenced at 14:00.' It sounds more professional and precise than 'began.' It is often used to signal the official start of a large project phase or a complex technical operation that has been planned in advance.",
+    "synonyms": [
+      "start",
+      "begin",
+      "initiate"
+    ],
+    "antonyms": [
+      "cease",
+      "stop",
+      "end",
+      "terminate"
+    ],
+    "nounForm": "commencement",
+    "verbForm": "commence",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management and formal reporting",
+    "usageTip": "Use 'commence' in formal emails or documentation to sound more professional.",
+    "commonMistake": "Using 'commence' for small, casual tasks where 'start' is more natural.",
+    "collocations": [
+      "commence work",
+      "commence operations",
+      "ready to commence"
+    ]
+  }
+]

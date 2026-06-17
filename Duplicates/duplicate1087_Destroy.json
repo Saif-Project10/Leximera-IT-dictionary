@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Destroy",
+    "meaning": "To damage something so severely that it no longer exists or functions.",
+    "shortMeaning": "completely ruin",
+    "example": "The fire destroyed several buildings.",
+    "example2": "The scandal could destroy his career.",
+    "example3": "Too much sugar can destroy your teeth.",
+    "Explanation": "'Destroy' is a strong verb meaning to damage something so completely that it cannot be repaired or no longer exists. It implies total or near-total destruction. It can be used literally (destroy a building) or figuratively (destroy hope, destroy a reputation). The noun is 'destruction'. It's more severe than 'damage' or 'harm' - it suggests an end state. It's used in contexts of disasters, warfare, severe criticism, and irreversible damage. The word carries a sense of finality and often violence or force.",
+    "synonyms": [
+      "demolish",
+      "ruin",
+      "wreck",
+      "devastate"
+    ],
+    "antonyms": [
+      "build",
+      "create",
+      "preserve",
+      "repair"
+    ],
+    "nounForm": "destruction",
+    "verbForm": "destroy",
+    "adjectiveForm": "destroyed",
+    "partOfSpeech": "verb",
+    "commonContext": "Disasters, warfare, criticism, severe damage",
+    "usageTip": "Use for complete or near-complete ruin. For partial damage, use 'damage' or 'harm'.",
+    "commonMistake": "Overusing for minor damage. Reserve for serious, often irreversible destruction.",
+    "collocations": [
+      "completely destroy",
+      "destroy evidence",
+      "destroy the environment"
+    ]
+  },
+  {
+    "word": "Destroy",
+    "meaning": "To damage something so badly that it cannot be used or no longer exists",
+    "shortMeaning": "ruin or eliminate",
+    "example": "A single mistake in the script could destroy the entire database.",
+    "example2": "Hackers tried to destroy the server's file system.",
+    "example3": "The fire will destroy everything in the building if it isn't stopped.",
+    "Explanation": "To destroy is to end the existence or functionality of an object or system. In computing, it is often used for deleting objects from memory or wiping a hard drive. It is a permanent action that usually cannot be undone without a backup. Unlike 'damage', which implies something can be fixed, 'destroy' implies total loss. In programming, 'destructors' are functions used to destroy an object and free up space. It is a very powerful and serious verb.",
+    "synonyms": [
+      "demolish",
+      "wreck",
+      "shatter",
+      "annihilate"
+    ],
+    "antonyms": [
+      "create",
+      "build",
+      "construct",
+      "restore"
+    ],
+    "nounForm": "destruction",
+    "verbForm": "destroy",
+    "adjectiveForm": "destructive",
+    "partOfSpeech": "verb",
+    "commonContext": "IT security, Natural disasters, General destruction",
+    "usageTip": "In programming, use 'destroy' when talking about removing something completely from memory.",
+    "commonMistake": "Spelling it as 'distroy'; it is always spelled with an 'e'.",
+    "collocations": [
+      "completely destroy",
+      "threaten to destroy",
+      "destroy evidence"
+    ]
+  }
+]

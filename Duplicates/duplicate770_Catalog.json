@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Catalog",
+    "meaning": "A complete list of items, often in systematic order.",
+    "shortMeaning": "systematic list",
+    "example": "I browsed the online catalog before buying the book.",
+    "example2": "The library's catalog is now fully digital.",
+    "example3": "The company produces a catalog of its products twice a year.",
+    "Explanation": "A catalog (or catalogue in British English) is an organized list, usually of goods for sale, library holdings, or collections. It helps in locating and identifying items. As a verb, it means to make such a list. In the digital age, online catalogs are ubiquitous for shopping and research. The word implies comprehensiveness and order. A 'product catalog' is essential for retail. 'Cataloging' is a professional activity in libraries and museums. It's a practical word for organization and information retrieval.",
+    "synonyms": [
+      "list",
+      "directory",
+      "inventory",
+      "register",
+      "index"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "catalog",
+    "verbForm": "catalog",
+    "adjectiveForm": "cataloged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Libraries, retail, museums, data management",
+    "usageTip": "Spelling: 'catalog' is American English; 'catalogue' is British English.",
+    "commonMistake": "Pronouncing it as 'cat-a-log' instead of 'CAT-uh-log'.",
+    "collocations": [
+      "product catalog",
+      "mail-order catalog",
+      "catalog number",
+      "online catalog"
+    ]
+  },
+  {
+    "word": "Catalog",
+    "meaning": "A complete list of items, typically one in alphabetical or systematic order",
+    "shortMeaning": "organized list",
+    "example": "The software maintains a catalog of all available plugins.",
+    "example2": "You can browse the product catalog on our website.",
+    "example3": "The library digitised its entire catalog for online access.",
+    "Explanation": "A catalog is a structured list that makes it easy to find items. In IT, this could be a list of files, services, hardware assets, or database entries. Catalogs often include metadata (details) about each item to help with searching. Maintaining an accurate catalog is essential for inventory management and resource discovery. It is more than just a list; it is a reference system designed for efficiency.",
+    "synonyms": [
+      "directory",
+      "inventory",
+      "index"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "catalog / catalogue",
+    "verbForm": "catalog / catalogue",
+    "adjectiveForm": "cataloged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "E-commerce, library systems, and asset management",
+    "usageTip": "Use 'catalog' when referring to a large, organized set of available items.",
+    "commonMistake": "Confusing a 'catalog' with a 'simple list'; a catalog implies organization.",
+    "collocations": [
+      "online catalog",
+      "service catalog",
+      "catalog of parts"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Test",
+    "meaning": "A procedure to assess quality, performance, or reliability; to carry out such a procedure.",
+    "shortMeaning": "trial; to try out",
+    "example": "Students must take a final test at the end of the course. (noun)",
+    "example2": "We need to test the new software for bugs. (verb)",
+    "example3": "The athlete passed a drug test.",
+    "Explanation": "A test is a method of evaluating someone's knowledge, ability, or the qualities of something. As a verb, it means to subject something to a trial. Tests are fundamental in education, medicine, product development, and science. They provide evidence and data for decision-making. The word implies a challenge or a standard to be met. 'Testing' can also be an adjective meaning difficult. It's a simple, powerful word for verification and assessment. Phrases like 'put to the test' and 'test drive' are common.",
+    "synonyms": [
+      "exam",
+      "trial",
+      "experiment",
+      "assessment",
+      "try out"
+    ],
+    "antonyms": [
+      "accept",
+      "approve"
+    ],
+    "nounForm": "test",
+    "verbForm": "test",
+    "adjectiveForm": "tested",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Education, medicine, quality control, driving",
+    "usageTip": "Use 'test on' for the subject (test on math) and 'test for' for what you're looking for (test for antibodies).",
+    "commonMistake": "Confusing 'test' with 'quiz'. A test is usually more formal and comprehensive than a quiz.",
+    "collocations": [
+      "test results",
+      "blood test",
+      "test case",
+      "put to the test"
+    ]
+  },
+  {
+    "word": "Test",
+    "meaning": "To check something carefully to see if it works correctly, meets requirements, or behaves as expected",
+    "shortMeaning": "check for correctness",
+    "example": "You must test your application locally before deploying it to production.",
+    "example2": "The developer wrote a script to test whether the user login form accepts special characters.",
+    "example3": "We need to test the performance of the web server under heavy traffic.",
+    "Explanation": "The word 'test' can act as both a verb and a noun across many technical and everyday fields. In software engineering, testing ensures that code changes do not break existing functionality or introduce dangerous security bugs. It is a critical stage in the development lifecycle that helps maintain software reliability and build trust with end-users. Testing can be done automatically by writing evaluation code or manually by stepping through user interactions. Understanding how to systematically test layouts is an essential skill for every web developer.",
+    "synonyms": [
+      "verify",
+      "evaluate",
+      "check",
+      "examine"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "assume"
+    ],
+    "nounForm": "test / testing",
+    "verbForm": "test",
+    "adjectiveForm": "testable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software quality assurance, product evaluation, and system verification",
+    "usageTip": "Use 'test' when you want to describe verifying the correctness, safety, or quality of an object or system.",
+    "commonMistake": "Do not skip testing just because code compiles smoothly, as compiling does not guarantee logic accuracy.",
+    "collocations": [
+      "run a test",
+      "test code",
+      "automated test"
+    ]
+  }
+]

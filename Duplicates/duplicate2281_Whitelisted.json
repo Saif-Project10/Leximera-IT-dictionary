@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Whitelisted",
+    "meaning": "Added to a list of approved, trusted, or permitted items",
+    "shortMeaning": "approved list",
+    "example": "We whitelisted the user's IP to allow access to the server.",
+    "example2": "Only whitelisted domains can send emails to our system.",
+    "example3": "The app was whitelisted by the antivirus software.",
+    "Explanation": "Whitelisted refers to an item—such as an IP address, email, or application—that has been explicitly granted permission or trusted. This is a common security practice, often called 'allow-listing', to control what can interact with a protected system. It is more secure than trying to blacklist bad items because it only permits known-safe things. If an item is not whitelisted, it is generally denied access. It is a critical tool for access control.",
+    "synonyms": [
+      "approved",
+      "allowed",
+      "trusted"
+    ],
+    "antonyms": [
+      "blacklisted",
+      "denied",
+      "blocked"
+    ],
+    "nounForm": "whitelist",
+    "verbForm": "whitelist",
+    "adjectiveForm": "whitelisted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Security, access control",
+    "usageTip": "Use this to describe granting permission to specific items.",
+    "commonMistake": "Confusing 'whitelisted' with 'wholly-trusted' (always verify).",
+    "collocations": [
+      "whitelisted IP",
+      "whitelisted domain",
+      "successfully whitelisted"
+    ]
+  },
+  {
+    "word": "Whitelisted",
+    "meaning": "Added to a list of allowed or approved items",
+    "shortMeaning": "approved list",
+    "example": "Make sure your IP address is whitelisted.",
+    "example2": "The software was whitelisted by the antivirus program.",
+    "example3": "He whitelisted the sender to ensure he gets the emails.",
+    "Explanation": "The term 'whitelisted' refers to the process of specifically authorizing certain entities, such as IP addresses, email senders, or software, to bypass restrictions or filters. It is a security technique used to grant access only to known, safe items. It is the opposite of a 'blacklist', which denies access to known malicious entities. Managing a whitelist is a common task for network administrators and developers. It provides a secure way to manage permissions.",
+    "synonyms": [
+      "authorized",
+      "approved",
+      "allowed"
+    ],
+    "antonyms": [
+      "blacklisted",
+      "denied",
+      "blocked"
+    ],
+    "nounForm": "whitelist",
+    "verbForm": "whitelist",
+    "adjectiveForm": "whitelisted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Network security, email systems, access control",
+    "usageTip": "Use it to explain granting access to specific trusted items.",
+    "commonMistake": "Confusing it with simply opening all access.",
+    "collocations": [
+      "whitelisted address",
+      "whitelisted IP",
+      "whitelisted sender"
+    ]
+  }
+]

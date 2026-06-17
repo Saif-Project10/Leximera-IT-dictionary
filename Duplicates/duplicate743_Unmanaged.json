@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unmanaged",
+    "meaning": "Not controlled, regulated, or taken care of.",
+    "shortMeaning": "not controlled",
+    "example": "The unmanaged forest grew wild and dense.",
+    "example2": "Unmanaged debt can quickly spiral out of control.",
+    "example3": "The project failed due to unmanaged risks.",
+    "Explanation": "Unmanaged describes a situation, resource, or process that is left without supervision, control, or planning. It often has negative consequences, leading to chaos, waste, or danger. An unmanaged team may lack direction. Unmanaged stress can cause health problems. The word emphasizes the need for active oversight and intervention. It's the opposite of 'managed' or 'controlled'. In IT, 'unmanaged switch' is a simple device without configuration options. The word is common in business, environmental science, and personal development contexts.",
+    "synonyms": [
+      "uncontrolled",
+      "unregulated",
+      "untended",
+      "neglected",
+      "wild"
+    ],
+    "antonyms": [
+      "managed",
+      "controlled",
+      "regulated",
+      "supervised"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "manage",
+    "adjectiveForm": "unmanaged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Projects, forests, debt, stress, networks",
+    "usageTip": "Used to describe things that require management but are not receiving it, often leading to problems.",
+    "commonMistake": "Using 'unmanaged' to mean 'unmanageable'. Unmanaged is not being managed; unmanageable is impossible to manage.",
+    "collocations": [
+      "unmanaged risk",
+      "unmanaged forest",
+      "unmanaged switch",
+      "unmanaged growth"
+    ]
+  },
+  {
+    "word": "Unmanaged",
+    "meaning": "Not controlled or supervised by a system or administrator",
+    "shortMeaning": "not controlled",
+    "example": "The network has several unmanaged switches that cause issues.",
+    "example2": "We avoid using unmanaged code for security reasons.",
+    "example3": "Unmanaged resources can lead to memory leaks.",
+    "Explanation": "Unmanaged describes systems or code that are not overseen by an automated framework. In programming, unmanaged code runs outside the control of the runtime environment, meaning the developer must handle memory allocation. In networking, an unmanaged switch operates without configuration, lacking advanced features. It implies a lack of oversight, which often results in less security or flexibility compared to managed solutions.",
+    "synonyms": [
+      "uncontrolled",
+      "independent",
+      "unsupervised"
+    ],
+    "antonyms": [
+      "managed",
+      "controlled",
+      "monitored"
+    ],
+    "nounForm": "management",
+    "verbForm": "manage",
+    "adjectiveForm": "unmanaged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, memory management, software architecture",
+    "usageTip": "Use this to warn about risks in systems lacking oversight.",
+    "commonMistake": "Thinking unmanaged is always worse; sometimes it is faster but riskier.",
+    "collocations": [
+      "unmanaged code",
+      "unmanaged switch",
+      "unmanaged resources"
+    ]
+  },
+  {
+    "word": "Unmanaged",
+    "meaning": "Not supervised, controlled, or organized by a management system.",
+    "shortMeaning": "not managed",
+    "example": "Avoid using unmanaged network switches in large projects.",
+    "example2": "The folder contains many unmanaged temporary files.",
+    "example3": "Unmanaged servers are harder to monitor and update.",
+    "Explanation": "In IT, 'managed' systems offer tools for monitoring, configuration, and control. 'Unmanaged' systems lack these features, making them 'plug-and-play' but also 'blind' because you cannot track their performance easily. For small, simple tasks, unmanaged devices might be fine. However, in professional production environments, unmanaged systems are often avoided because they don't provide the data or control needed to troubleshoot or secure the network effectively.",
+    "synonyms": [
+      "unsupervised",
+      "uncontrolled",
+      "independent"
+    ],
+    "antonyms": [
+      "managed",
+      "controlled",
+      "supervised"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "manage",
+    "adjectiveForm": "unmanaged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking and resource management",
+    "usageTip": "Use to describe systems without control features.",
+    "commonMistake": "Choosing an unmanaged switch to save money when you need network visibility.",
+    "collocations": [
+      "unmanaged switch",
+      "unmanaged server",
+      "unmanaged code"
+    ]
+  }
+]

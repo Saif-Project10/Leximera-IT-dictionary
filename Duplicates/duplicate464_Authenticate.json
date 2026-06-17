@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Authenticate",
+    "meaning": "To prove or show something to be genuine, true, or valid.",
+    "shortMeaning": "prove genuine",
+    "example": "The expert was called to authenticate the signature on the old document.",
+    "example2": "You need a password to authenticate yourself to the system.",
+    "example3": "The museum takes great care to authenticate artifacts before displaying them.",
+    "Explanation": "Authenticate is the process of establishing the genuineness or legitimacy of something. It's about confirming that something is what it claims to be, not a forgery or fake. This is crucial in art, antiques, cybersecurity (user authentication), and legal documents. Authentication often requires expertise or special credentials (like a key or fingerprint). It's a more specific term than 'verify'; you authenticate an item's origin, but you verify a fact's truth. The noun is 'authentication'.",
+    "synonyms": [
+      "Certify",
+      "Confirm",
+      "Confirm (Genuineness)",
+      "Validate",
+      "Verify"
+    ],
+    "antonyms": [
+      "Counterfeit",
+      "Fake",
+      "Forge",
+      "Invalidate"
+    ],
+    "nounForm": "authentication",
+    "verbForm": "authenticate",
+    "adjectiveForm": "authentic / authenticated",
+    "partOfSpeech": "verb",
+    "commonContext": "Art, cybersecurity, law, historical documents",
+    "usageTip": "In tech, it's often used with 'user' or 'identity': 'authenticate the user'.",
+    "commonMistake": "Using 'authenticate' to mean simply 'check'; it specifically means to prove originality or legitimacy.",
+    "collocations": [
+      "authenticate a user",
+      "authenticate a document",
+      "two-factor authentication"
+    ]
+  },
+  {
+    "word": "Authenticate",
+    "meaning": "To prove that someone or something is real and genuine",
+    "shortMeaning": "verify identity",
+    "example": "The app will authenticate your identity using a fingerprint scan.",
+    "example2": "Experts were called to authenticate the rare painting.",
+    "example3": "You must authenticate your email address before you can log in.",
+    "Explanation": "Authentication is the process of checking 'Are you who you say you are?' In computers, this usually means entering a password, using a face scan, or a code from your phone. In the real world, it means proving an object (like a signature or a coin) is not a fake. It is the first step in security. Once you are 'authenticated,' the system then decides what you are allowed to do. It is all about trust and proof.",
+    "synonyms": [
+      "verify",
+      "validate",
+      "confirm"
+    ],
+    "antonyms": [
+      "fake",
+      "disprove",
+      "reject"
+    ],
+    "nounForm": "authentication",
+    "verbForm": "authenticate",
+    "adjectiveForm": "authentic",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, logins, and art valuation",
+    "usageTip": "In tech, authentication is about identity; authorization is about permissions.",
+    "commonMistake": "Confusing 'authenticate' with 'authorize'; authentication is 'who you are,' authorization is 'what you can do.'",
+    "collocations": [
+      "multi-factor authentication",
+      "authenticate a user",
+      "highly authentic"
+    ]
+  }
+]

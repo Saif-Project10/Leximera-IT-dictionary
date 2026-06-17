@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Take over",
+    "meaning": "To assume control, responsibility, or ownership of something from someone else.",
+    "shortMeaning": "assume control",
+    "example": "The army threatened to take over the government.",
+    "example2": "She will take over as manager when John retires.",
+    "example3": "A larger company took over our small firm.",
+    "Explanation": "'Take over' is a common phrasal verb meaning to gain control. It can be used in business (acquisitions), politics (coups), work (succeeding someone in a role), or even in casual situations (taking over driving duties on a road trip). It implies a transfer of power, control, or responsibility. The noun form is 'takeover.' A common mistake is confusing it with 'overtake,' which means to catch up with and pass. This phrase is dynamic and often describes a significant change in leadership or ownership. It's used in news, business, and everyday planning.",
+    "synonyms": [
+      "assume control of",
+      "seize",
+      "acquire",
+      "succeed",
+      "usurp"
+    ],
+    "antonyms": [
+      "hand over",
+      "relinquish",
+      "surrender",
+      "give up"
+    ],
+    "nounForm": "takeover",
+    "verbForm": "take over",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Business, politics, management, and project handoffs.",
+    "usageTip": "Use 'take over from' someone (e.g., 'She took over from the previous director').",
+    "commonMistake": "Writing it as one word when used as a verb ('takeover' is the noun).",
+    "collocations": [
+      "hostile takeover",
+      "take over the world",
+      "take over responsibility"
+    ]
+  },
+  {
+    "word": "Take over",
+    "meaning": "To assume control, operational command, or management of a software repository, server system, or user session",
+    "shortMeaning": "assume system control",
+    "example": "The secondary backup server will take over operations automatically if the primary server fails.",
+    "example2": "A new lead engineer was brought in to take over the legacy code migration project.",
+    "example3": "Malicious hackers can use session cookies to take over active user web accounts.",
+    "Explanation": "The phrase 'take over' describes an operational transition of control in computing systems and project management. In high-availability infrastructure design, automated failover scripts allow secondary hardware nodes to take over workloads instantly when primary nodes fail, preventing application downtime. In cybersecurity, preventing unauthorized users from taking over account control is a primary goal achieved by deploying encryption keys, multi-factor codes, and automated login alerts.",
+    "synonyms": [
+      "assume control",
+      "hijack",
+      "succeed",
+      "acquire management"
+    ],
+    "antonyms": [
+      "surrender control",
+      "relinquish",
+      "hand over"
+    ],
+    "nounForm": "takeover",
+    "verbForm": "take over",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Failover system architecture, database management transitions, and security attack vectors",
+    "usageTip": "Use 'take over' as a verb phrase, and use the single word 'takeover' when describing the concept as a noun.",
+    "commonMistake": "Writing 'takeover' as the verb form; example: 'He will takeover the project' is incorrect grammar.",
+    "collocations": [
+      "automatically take over",
+      "take over system controls",
+      "take over account sessions"
+    ]
+  }
+]

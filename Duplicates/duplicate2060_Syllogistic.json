@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Syllogistic",
+    "meaning": "Relating to a form of reasoning with two premises and a conclusion",
+    "shortMeaning": "logic-based",
+    "example": "His argument followed a strict syllogistic structure.",
+    "example2": "The AI model uses syllogistic reasoning to draw conclusions.",
+    "example3": "We analyzed the data using a syllogistic approach.",
+    "Explanation": "The word 'syllogistic' relates to a classic method of logical deduction known as a syllogism. It involves starting with two related statements (premises) to reach a logical conclusion. In AI and software engineering, this is a foundational concept for creating rule-based systems or logical inference engines. It is a highly formal and academic term, so it is best used when discussing the underlying logical structure of an argument or a decision-making algorithm.",
+    "synonyms": [
+      "logical",
+      "deductive",
+      "reasoning"
+    ],
+    "antonyms": [
+      "illogical",
+      "unfounded",
+      "random"
+    ],
+    "nounForm": "syllogism",
+    "verbForm": "N/A",
+    "adjectiveForm": "syllogistic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logic, artificial intelligence, philosophy",
+    "usageTip": "Use when describing logical deduction processes.",
+    "commonMistake": "Using it for general logic; it refers specifically to the two-premise structure.",
+    "collocations": [
+      "syllogistic reasoning",
+      "syllogistic logic",
+      "syllogistic approach"
+    ]
+  },
+  {
+    "word": "Syllogistic",
+    "meaning": "Relating to a form of logical reasoning with a major premise, minor premise, and conclusion",
+    "shortMeaning": "logical",
+    "example": "The algorithm follows a syllogistic pattern to derive results.",
+    "example2": "He used syllogistic reasoning to debug the code.",
+    "example3": "The AI's logic is based on a syllogistic structure.",
+    "Explanation": "Syllogistic refers to a formal, deductive logic structure. In IT, this term appears in discussions about AI, expert systems, and formal logic programming. It involves reaching a conclusion based on established premises. It is a more advanced, academic term compared to 'logical' or 'deductive'. It highlights the rigorous, rule-based nature of certain computational processes. Understanding it is useful when working with high-level AI theory or logic-based systems.",
+    "synonyms": [
+      "deductive",
+      "logical",
+      "reasoned"
+    ],
+    "antonyms": [
+      "illogical",
+      "irrational",
+      "random"
+    ],
+    "nounForm": "syllogism",
+    "verbForm": "N/A",
+    "adjectiveForm": "syllogistic",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, formal logic, expert systems",
+    "usageTip": "Use when describing rigorous, rule-based logical structures.",
+    "commonMistake": "Using it to describe simple 'if-then' statements; it is for deeper deductions.",
+    "collocations": [
+      "syllogistic reasoning",
+      "syllogistic structure",
+      "syllogistic logic"
+    ]
+  }
+]

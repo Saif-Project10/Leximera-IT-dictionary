@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Cross-platform",
+    "meaning": "Refers to software that can run on multiple computing platforms (e.g., Windows, macOS, Linux, iOS, Android) with little or no modification.",
+    "shortMeaning": "runs on multiple systems",
+    "example": "We used a cross-platform framework to build our app for iOS and Android from one codebase.",
+    "example2": "Cross-platform development saves time and money.",
+    "example3": "The game is a cross-platform title, allowing players on PC and console to play together.",
+    "Explanation": "The adjective 'cross-platform' describes the ability of software to operate across different operating systems or hardware architectures. In app development, it specifically means using tools like Flutter, React Native, or Xamarin to write code once and deploy it to both iOS and Android. The main benefit is reduced development cost and time. A common trade-off is potential performance loss or difficulty accessing the latest platform-specific features compared to native development. The term is also used for desktop software (e.g., a cross-platform desktop app built with Electron) and games. It's a key consideration in software strategy.",
+    "synonyms": [
+      "multi-platform",
+      "platform-agnostic",
+      "N/A"
+    ],
+    "antonyms": [
+      "platform-specific",
+      "native",
+      "single-platform"
+    ],
+    "nounForm": "cross-platform development",
+    "verbForm": "N/A",
+    "adjectiveForm": "cross-platform",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, mobile apps, game development",
+    "usageTip": "Often used before nouns like 'framework', 'app', 'development', or 'tool'.",
+    "commonMistake": "Assuming 'cross-platform' means the app will be 100% identical on all platforms. UI/UX often needs platform-specific adjustments.",
+    "collocations": [
+      "cross-platform framework",
+      "truly cross-platform",
+      "benefits of cross-platform"
+    ]
+  },
+  {
+    "word": "Cross-platform",
+    "meaning": "Able to run on multiple different operating systems",
+    "shortMeaning": "works on many OS",
+    "example": "The app is cross-platform, working on Windows and Mac.",
+    "example2": "We chose a cross-platform framework for the mobile project.",
+    "example3": "Being cross-platform expands the reach of our software.",
+    "Explanation": "Cross-platform software is designed to run on various operating systems or platforms (e.g., Windows, macOS, Linux, iOS, Android) without needing significant code changes. This is highly popular for business apps that need to be accessible by all users. It saves development time compared to writing separate native versions for each platform. Common examples include apps built with React Native or Flutter.",
+    "synonyms": [
+      "multi-platform",
+      "OS-independent"
+    ],
+    "antonyms": [
+      "platform-specific",
+      "native"
+    ],
+    "nounForm": "cross-platform",
+    "verbForm": "N/A",
+    "adjectiveForm": "cross-platform",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile and desktop application development",
+    "usageTip": "Use 'cross-platform' to market software that runs everywhere.",
+    "commonMistake": "Confusing 'cross-platform' with 'web-based' (though they overlap).",
+    "collocations": [
+      "cross-platform app",
+      "cross-platform framework",
+      "fully cross-platform"
+    ]
+  }
+]

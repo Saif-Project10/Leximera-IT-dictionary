@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Roll forward",
+    "meaning": "The process of reapplying changes to a database using a transaction log after a backup has been restored",
+    "shortMeaning": "applying recent changes",
+    "example": "After restoring the backup, we had to roll forward to include this morning's sales.",
+    "example2": "The roll forward process ensures no data is lost during a system failure.",
+    "example3": "Check the log files to make sure the roll forward completed successfully.",
+    "Explanation": "Roll forward is a data recovery technique. When a database crashes, you first restore a 'point-in-time' backup. However, that backup might be hours or days old. To get the most recent data, you 'roll forward' by taking all the transactions that happened after the backup and applying them again. This is possible because databases keep a 'transaction log' of every change. It is a critical step in ensuring 'zero data loss' in high-stakes environments. It is the opposite of 'rolling back'.",
+    "synonyms": [
+      "forward recovery",
+      "reapplying transactions"
+    ],
+    "antonyms": [
+      "rollback",
+      "undo"
+    ],
+    "nounForm": "roll forward",
+    "verbForm": "roll forward",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Database administration and disaster recovery",
+    "usageTip": "Use 'roll forward' when you want to move the data state into the future (toward the crash point).",
+    "commonMistake": "Confusing it with 'rollback', which moves the data state into the past.",
+    "collocations": [
+      "roll forward recovery",
+      "database roll forward",
+      "roll forward operation"
+    ]
+  },
+  {
+    "word": "Roll forward",
+    "meaning": "To apply stored transaction logs to a restored database to bring it up to a current state",
+    "shortMeaning": "apply logs to catch up",
+    "example": "After restoring the baseline backup file, the system will roll forward all subsequent transaction logs.",
+    "example2": "We need to roll forward the database updates to recover the data up to the moment of crash.",
+    "example3": "The recovery script will safely roll forward the records without creating duplicates.",
+    "Explanation": "The phrasal verb 'roll forward' describes an advanced database crash-recovery technique. When a database fails, administrators first restore an older, static backup file. To avoid losing work done after that backup was made, the system runs through transaction history logs and re-applies every change sequentially. This catches the data up to the exact moment right before the crash occurred, minimizing data loss.",
+    "synonyms": [
+      "re-apply transactions",
+      "update forward"
+    ],
+    "antonyms": [
+      "roll back"
+    ],
+    "nounForm": "rollforward",
+    "verbForm": "roll forward",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Database crash recovery, system backups validation, and data engineering logs",
+    "usageTip": "Use 'roll forward' specifically when explaining database reconstruction via re-playing historic transaction logs.",
+    "commonMistake": "Confusing 'roll forward' with standard forward deployment of entirely new software application features.",
+    "collocations": [
+      "roll forward logs",
+      "roll forward database",
+      "automatically roll forward"
+    ]
+  }
+]

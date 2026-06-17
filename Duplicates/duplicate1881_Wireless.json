@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Wireless",
+    "meaning": "Using radio waves or infrared instead of cables to send data",
+    "shortMeaning": "no cables",
+    "example": "We have wireless internet throughout the whole building.",
+    "example2": "Wireless technology has made mobile phones possible.",
+    "example3": "I prefer a wireless keyboard to keep my desk clean.",
+    "Explanation": "Wireless refers to the transmission of information or power without the use of physical wires. This technology uses electromagnetic waves, such as radio frequencies (RF), to carry signals through the air. It provides great mobility and convenience, allowing devices like smartphones and laptops to move freely while staying connected. While very convenient, wireless signals can be blocked by walls or interfered with by other electronic devices. It is the foundation of modern mobile communication.",
+    "synonyms": [
+      "cordless",
+      "radio-based",
+      "unwired"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled"
+    ],
+    "nounForm": "wireless",
+    "verbForm": "N/A",
+    "adjectiveForm": "wireless",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Consumer electronics and networking",
+    "usageTip": "Use 'wireless' to describe technology that lets you stay mobile.",
+    "commonMistake": "Using 'wireless' and 'Wi-Fi' as if they are exactly the same; Wi-Fi is just one type of wireless.",
+    "collocations": [
+      "wireless network",
+      "wireless technology",
+      "wireless mouse"
+    ]
+  },
+  {
+    "word": "Wireless",
+    "meaning": "Operating or communicating without the use of physical cables.",
+    "shortMeaning": "no cables",
+    "example": "We provide free wireless access in the lobby.",
+    "example2": "The keyboard and mouse are wireless.",
+    "example3": "Wireless signals can be affected by physical obstacles.",
+    "Explanation": "The word 'wireless' describes any technology that uses radio waves, infrared, or other signals to transfer data or power without wires. This includes Wi-Fi, Bluetooth, and cellular data. It offers convenience and mobility but is more susceptible to interference than wired connections. The base noun is 'wire'. Wireless infrastructure has become the backbone of modern office and home connectivity. Always ensure secure encryption is active, as signals are easier to intercept than those in cables.",
+    "synonyms": [
+      "cordless",
+      "radio-based",
+      "untethered"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled"
+    ],
+    "nounForm": "wireless",
+    "verbForm": "N/A",
+    "adjectiveForm": "wireless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, peripherals, telecommunications",
+    "usageTip": "Use 'wireless' for devices that do not require physical cables.",
+    "commonMistake": "Assuming wireless is as stable as a wired connection.",
+    "collocations": [
+      "wireless network",
+      "wireless connectivity",
+      "wireless access"
+    ]
+  },
+  {
+    "word": "Wireless",
+    "meaning": "Using radio signals instead of wires for communication",
+    "shortMeaning": "no wires used",
+    "example": "The hotel provides free wireless internet.",
+    "example2": "Most modern devices support wireless communication.",
+    "example3": "She prefers a wireless mouse for her laptop.",
+    "Explanation": "Wireless refers to technology that transmits data through the air using electromagnetic waves rather than physical cables. This is the foundation of Wi-Fi, Bluetooth, and cellular data. It allows for mobility and convenience in modern IT environments. The word is widely used to describe keyboards, mice, and networking gear. It is the opposite of 'wired' or 'hardwired' technology. It is a fundamental concept in modern connectivity and mobile computing.",
+    "synonyms": [
+      "cordless",
+      "radio-based",
+      "unbound"
+    ],
+    "antonyms": [
+      "wired",
+      "cabled",
+      "connected"
+    ],
+    "nounForm": "wirelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "wireless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, peripherals, mobile devices",
+    "usageTip": "Use 'wireless' for any device or connection that functions without physical cables.",
+    "commonMistake": "Thinking 'wireless' means it does not need a power source.",
+    "collocations": [
+      "wireless network",
+      "wireless signal",
+      "wireless connection"
+    ]
+  }
+]

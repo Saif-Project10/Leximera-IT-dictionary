@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Undeployed",
+    "meaning": "Not yet put into operational use",
+    "shortMeaning": "not yet active",
+    "example": "The new service remains undeployed in the production environment.",
+    "example2": "We have many undeployed features in the staging branch.",
+    "example3": "An undeployed patch cannot protect the system.",
+    "Explanation": "Undeployed refers to code, software, or hardware that is prepared but has not yet been released to the active or production environment. Keeping items undeployed is a common part of the CI/CD pipeline, allowing for further testing and validation before the 'go-live' moment. It is critical to manage the list of undeployed items to ensure timely releases and avoid missing important updates or fixes.",
+    "synonyms": [
+      "not-released",
+      "offline",
+      "uninstalled"
+    ],
+    "antonyms": [
+      "deployed",
+      "active",
+      "released"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "undeployed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Deployment, DevOps, software lifecycle",
+    "usageTip": "Use when something is ready but not yet live.",
+    "commonMistake": "Confusing undeployed with 'unwritten' (undeployed is ready to go).",
+    "collocations": [
+      "remains undeployed",
+      "currently undeployed",
+      "undeployed feature"
+    ]
+  },
+  {
+    "word": "Undeployed",
+    "meaning": "Not yet put into a working or production environment",
+    "shortMeaning": "not active",
+    "example": "The new update is still undeployed.",
+    "example2": "We have several features currently undeployed.",
+    "example3": "An undeployed service will not be accessible to users.",
+    "Explanation": "The word 'undeployed' signifies that a resource, code, or application exists but is not yet active in the live environment. It is a common state during the development lifecycle before a release. It suggests that the work might be finished, but it has not reached its final destination. It is often used in release management reports to track progress. It is a clear and professional term for project status updates.",
+    "synonyms": [
+      "unreleased",
+      "pending",
+      "unavailable"
+    ],
+    "antonyms": [
+      "deployed",
+      "released",
+      "active"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "undeploy",
+    "adjectiveForm": "undeployed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Deployment and release management",
+    "usageTip": "Use it to describe status during the development cycle.",
+    "commonMistake": "Using 'un-deployed' instead of 'undeployed'.",
+    "collocations": [
+      "undeployed update",
+      "remains undeployed",
+      "currently undeployed"
+    ]
+  }
+]

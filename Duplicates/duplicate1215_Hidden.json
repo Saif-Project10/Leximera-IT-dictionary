@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Hidden",
+    "meaning": "Concealed from view; not easily noticed or discovered.",
+    "shortMeaning": "concealed; not visible",
+    "example": "There's a hidden door behind the bookcase.",
+    "example2": "The document contained hidden messages.",
+    "example3": "Her talents remained hidden for years.",
+    "Explanation": "'Hidden' is the past participle of 'hide', used as an adjective meaning concealed, obscured, or not readily apparent. It describes things intentionally or accidentally kept from view, knowledge, or discovery. Can refer to physical objects (hidden treasure), features (hidden camera), meanings (hidden agenda), or qualities (hidden talent). The word implies something exists but isn't easily accessible or visible. It creates intrigue - what is hidden may be valuable, dangerous, or significant. The concept appears in technology (hidden files), psychology (hidden motives), games (hidden objects), and everyday life.",
+    "synonyms": [
+      "concealed",
+      "secret",
+      "obscured",
+      "covert"
+    ],
+    "antonyms": [
+      "visible",
+      "obvious",
+      "apparent",
+      "exposed"
+    ],
+    "nounForm": "hiding",
+    "verbForm": "hide",
+    "adjectiveForm": "hidden",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Secrets, features, objects, meanings, abilities",
+    "usageTip": "Often used before nouns: 'hidden cost', 'hidden meaning', 'hidden danger'.",
+    "commonMistake": "Spelling as 'hiden'. Remember it's 'hidden' with double 'd'.",
+    "collocations": [
+      "hidden agenda",
+      "hidden treasure",
+      "hidden from view"
+    ]
+  },
+  {
+    "word": "Hidden",
+    "meaning": "Not visible or not easily found",
+    "shortMeaning": "out of sight",
+    "example": "The configuration file is hidden by default in the system directory.",
+    "example2": "Sensitive keys are hidden from the user interface.",
+    "example3": "There is a hidden feature that triggers the debug mode.",
+    "Explanation": "The word 'hidden' describes anything that exists but is not displayed or is deliberately obscured. In software, files are 'hidden' to prevent accidental changes, and values are 'hidden' for security. It is a very common term. Always be clear about why something is hidden—is it for security, to reduce clutter, or for technical safety? Understanding what is hidden is a key part of system knowledge and debugging.",
+    "synonyms": [
+      "obscured",
+      "concealed",
+      "invisible"
+    ],
+    "antonyms": [
+      "visible",
+      "exposed",
+      "public"
+    ],
+    "nounForm": "hiding",
+    "verbForm": "hide",
+    "adjectiveForm": "hidden",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, file management, security",
+    "usageTip": "Use 'hidden' when something is out of view for protection or design.",
+    "commonMistake": "Assuming 'hidden' means 'secure' (it does not; users can often find hidden files).",
+    "collocations": [
+      "hidden file",
+      "hidden menu",
+      "hidden feature"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Scheme",
+    "meaning": "A large-scale systematic plan or arrangement; a secret or dishonest plan.",
+    "shortMeaning": "plan; plot",
+    "example": "The government introduced a new pension scheme.",
+    "example2": "He was involved in a fraudulent scheme to steal money.",
+    "example3": "The room was decorated in a blue and green color scheme.",
+    "Explanation": "'Scheme' is a noun and a verb with two contrasting connotations. As a noun, it can be neutral or positive, meaning an official plan or system (a scheme for improvement). It can also be negative, meaning a cunning and secret plan to deceive (a get-rich-quick scheme). As a verb, it usually has the negative meaning of making secret plans. In British English, 'scheme' is often neutral (housing scheme). Context is crucial to determine whether the word implies an honest plan or a dishonest plot.",
+    "synonyms": [
+      "plan",
+      "plot",
+      "system",
+      "conspiracy"
+    ],
+    "antonyms": [
+      "improvisation",
+      "honesty"
+    ],
+    "nounForm": "scheme",
+    "verbForm": "scheme",
+    "adjectiveForm": "scheming",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Government programs, criminal plans, design",
+    "usageTip": "In American English, 'scheme' often has a negative connotation. Use 'plan' or 'program' for neutral contexts.",
+    "commonMistake": "Using 'scheme' in a positive context in American English where it might be misinterpreted as shady.",
+    "collocations": [
+      "color scheme",
+      "pension scheme",
+      "pyramid scheme",
+      "scheme to do something"
+    ]
+  },
+  {
+    "word": "Scheme",
+    "meaning": "The introductory prefix of a URL string that defines the communication protocol to be used for a request",
+    "shortMeaning": "URL protocol identifier",
+    "example": "In the web address '[https://google.com](https://google.com)', the letters 'https' represent the active URL scheme.",
+    "example2": "The web security validator checks if the incoming link scheme matches standard web rules.",
+    "example3": "Developers can register a custom scheme to allow web browsers to open native smartphone applications directly.",
+    "Explanation": "While 'scheme' means a plan or plot in general English, it carries a strict technical definition in web development. A URI or URL scheme is the very first component of a web link string, appearing right before the colon and double slashes (e.g., http, https, ftp, mailto). It tells the browser or operating system exactly which network protocol or program mechanism must handle the subsequent data request line.",
+    "synonyms": [
+      "URL protocol",
+      "URI prefix",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "scheme",
+    "verbForm": "scheme (rare in IT)",
+    "adjectiveForm": "schematic",
+    "partOfSpeech": "noun",
+    "commonContext": "URL parsing, web security validations, and mobile application deep-linking setups",
+    "usageTip": "Use 'scheme' when writing backend or frontend code that strips, validates, or checks URL address string components.",
+    "commonMistake": "Confusing a URL 'scheme' with a database 'schema'; a scheme is a URL link prefix, while a schema is a database structure.",
+    "collocations": [
+      "URL scheme",
+      "custom scheme",
+      "secure scheme"
+    ]
+  }
+]

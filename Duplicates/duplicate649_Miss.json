@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Miss",
+    "meaning": "1. To fail to hit, reach, or contact something. 2. To feel sad about the absence of someone or something.",
+    "shortMeaning": "fail to hit; feel sad about absence",
+    "example": "He tried to kick the ball but missed.",
+    "example2": "I miss my family when I travel.",
+    "example3": "Don't miss the deadline for the application.",
+    "Explanation": "The verb 'miss' has two primary emotional meanings: a physical failure (to miss a target) and an emotional longing (to miss a person). It is a very common word in both contexts. It can also mean to fail to attend or notice something (e.g., miss a meeting, miss a detail). The feeling of missing someone is a universal human experience, making this a deeply personal and frequently used word.",
+    "synonyms": [
+      "fail to hit",
+      "long for",
+      "omit",
+      "skip"
+    ],
+    "antonyms": [
+      "hit",
+      "achieve",
+      "attend",
+      "find"
+    ],
+    "nounForm": "miss (failure), missing (state)",
+    "verbForm": "miss",
+    "adjectiveForm": "missing",
+    "partOfSpeech": "verb",
+    "commonContext": "Sports, emotions, opportunities, transportation",
+    "usageTip": "Use 'miss' for failing to hit something or for feeling sad because someone is not with you.",
+    "commonMistake": "Saying 'I am missing you' (present continuous) which emphasizes the current moment, vs. 'I miss you' (simple present) which is more common for a general state.",
+    "collocations": [
+      "miss you",
+      "miss the point",
+      "miss a chance",
+      "hit or miss"
+    ]
+  },
+  {
+    "word": "Miss",
+    "meaning": "To fail to hit, reach, catch, or see something",
+    "shortMeaning": "fail to notice/hit",
+    "example": "If you miss a single character in the URL, the page will not load.",
+    "example2": "We don't want to miss the deadline for the final project submission.",
+    "example3": "The security camera might miss a person if the lighting is too dark.",
+    "Explanation": "In IT, 'miss' is used for many things. A 'Cache Miss' happens when a computer looks for data in its fast memory but doesn't find it there, so it has to look in the slower main memory. You can also 'miss' a bug during testing or 'miss' an important email. It implies that something was expected or aimed for, but the goal was not achieved. In programming, 'missing' data is a frequent cause of errors. Developers use 'null checks' to make sure their code doesn't crash when a piece of information is missed.",
+    "synonyms": [
+      "fail",
+      "omit",
+      "overlook"
+    ],
+    "antonyms": [
+      "hit",
+      "catch",
+      "notice"
+    ],
+    "nounForm": "miss",
+    "verbForm": "miss",
+    "adjectiveForm": "missing",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Deadlines, cache memory, testing, data entry",
+    "usageTip": "Use 'miss' for failing to find data or failing to meet a goal like a deadline.",
+    "commonMistake": "Confusing 'miss' with 'lose'; you miss a deadline, but you lose a file.",
+    "collocations": [
+      "miss a deadline",
+      "cache miss",
+      "miss an opportunity"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Apprehensive",
+    "meaning": "Anxious or fearful that something bad or unpleasant will happen.",
+    "shortMeaning": "anxious, fearful",
+    "example": "She felt apprehensive about her job interview.",
+    "example2": "He gave an apprehensive glance towards the dark alley.",
+    "example3": "The team was apprehensive before the final match.",
+    "Explanation": "'Apprehensive' is an adjective describing a state of worry or unease about future events. It's less intense than 'terrified' but more specific than 'nervous', often implying a sense of foreboding. It comes from the same root as 'apprehend' but refers to the emotional state of 'seizing' or being seized by anxiety. It's commonly used before events with uncertain outcomes, like exams, medical results, or new experiences. The noun is 'apprehension'.",
+    "synonyms": [
+      "anxious",
+      "uneasy",
+      "concerned"
+    ],
+    "antonyms": [
+      "confident",
+      "assured",
+      "fearless"
+    ],
+    "nounForm": "apprehension",
+    "verbForm": "N/A",
+    "adjectiveForm": "apprehensive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Upcoming events, new situations, uncertainty",
+    "usageTip": "Use 'apprehensive about' something (e.g., 'apprehensive about the future').",
+    "commonMistake": "Confusing 'apprehensive' (worried) with 'comprehensive' (complete and thorough).",
+    "collocations": [
+      "feel apprehensive",
+      "increasingly apprehensive",
+      "apprehensive look"
+    ]
+  },
+  {
+    "word": "Apprehensive",
+    "meaning": "Anxious or fearful that something bad or unpleasant will happen",
+    "shortMeaning": "Fearful or worried",
+    "example": "The system engineers were apprehensive about launching the system during a storm.",
+    "example2": "Users are often apprehensive about entering their credit card details on new websites.",
+    "example3": "He felt apprehensive before opening the automated bug report from the client.",
+    "Explanation": "The word 'apprehensive' describes a human feeling of worry, doubt, or slight fear about future outcomes. In the tech industry, teams might be apprehensive before migrating database servers or running massive code rewrites because a small mistake can take a business offline. The noun form is 'apprehension', and the adverb form is 'apprehensively'. It is a precise word to describe calculated caution driven by worry.",
+    "synonyms": [
+      "anxious",
+      "fearful",
+      "concerned"
+    ],
+    "antonyms": [
+      "confident",
+      "bold",
+      "fearless"
+    ],
+    "nounForm": "apprehension",
+    "verbForm": "apprehend",
+    "adjectiveForm": "apprehensive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk assessment, product deployment, security concerns",
+    "usageTip": "Use 'apprehensive' when a person or team feels nervous about a specific upcoming technical risk.",
+    "commonMistake": "Confusing it with 'apprehensible' (understandable). They have completely opposite meanings in terms of context.",
+    "collocations": [
+      "feel apprehensive",
+      "apprehensive about",
+      "apprehensive look"
+    ]
+  }
+]

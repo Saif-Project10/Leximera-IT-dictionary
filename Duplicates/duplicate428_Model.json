@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Model",
+    "meaning": "A three-dimensional representation of a person or thing; a particular design or version of a product; a person whose job is to display clothes. | A small-scale representation of something; a person employed to display clothes; an excellent example to follow.",
+    "shortMeaning": "replica, design, fashion person",
+    "example": "He built a model of the Eiffel Tower from sticks.",
+    "example2": "This car is the latest model from the company.",
+    "example3": "She works as a fashion model.",
+    "Explanation": "The noun 'model' is highly versatile. It can be a small copy (a scale model), a particular type of product (car model), a person who poses (fashion model), or an example to follow (role model). As a verb, it means to display clothes or to shape something. In science and business, a model is a theoretical description. A common mistake is confusing it with 'modal', which relates to mood or form. The word's core idea is representation or ideal form. It's used in art, engineering, fashion, and everyday language.",
+    "synonyms": [
+      "Example",
+      "Exemplar",
+      "Ideal",
+      "Mannequin",
+      "Prototype",
+      "Replica",
+      "Version"
+    ],
+    "antonyms": [
+      "Counterexample",
+      "N/A",
+      "Original",
+      "Real Thing"
+    ],
+    "nounForm": "model",
+    "verbForm": "model",
+    "adjectiveForm": "model",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Design, fashion, science, toys",
+    "usageTip": "In business, 'business model' describes how a company makes money.",
+    "commonMistake": "Using 'model' as a verb for creating a theory. You 'create' or 'develop' a model, but you 'model' data or behavior.",
+    "collocations": [
+      "role model",
+      "scale model",
+      "new model"
+    ]
+  },
+  {
+    "word": "Model",
+    "meaning": "A digital representation or a system used to simulate or analyze reality",
+    "shortMeaning": "representation",
+    "example": "The machine-learning model is trained on historic logs.",
+    "example2": "We have a database model for the user information.",
+    "example3": "The data model helps us visualize the architecture.",
+    "Explanation": "In IT, a 'model' is an abstraction—a simplified version of a system, data structure, or process. It helps us understand complex real-world systems by simulating how they should behave. Data models define how information is organized, while machine-learning models define how systems make predictions. Modeling is one of the most important parts of software design, as it provides the blueprint for how your code will store, organize, and use information.",
+    "synonyms": [
+      "representation",
+      "structure",
+      "simulation"
+    ],
+    "antonyms": [
+      "reality",
+      "original"
+    ],
+    "nounForm": "model",
+    "verbForm": "model",
+    "adjectiveForm": "model",
+    "partOfSpeech": "noun",
+    "commonContext": "AI, data science, and system design",
+    "usageTip": "Use 'model' to describe an abstract representation of a system.",
+    "commonMistake": "Confusing 'model' with 'code'; the model is the *blueprint* or *brain*, the code is the *implementation*.",
+    "collocations": [
+      "data model",
+      "machine-learning model",
+      "model architecture"
+    ]
+  },
+  {
+    "word": "Model",
+    "meaning": "A representation of a system, object, or concept used to understand or predict its behavior.",
+    "shortMeaning": "representation",
+    "example": "The data model defines how information is stored in the database.",
+    "example2": "She built a small-scale model of the new office building.",
+    "example3": "The weather model predicts heavy rain for the weekend.",
+    "Explanation": "A model is a simplified version of reality used to analyze complex systems. In computing, it often refers to a data structure or an AI algorithm trained on specific datasets. Models help researchers and developers simulate scenarios without needing the actual physical system. They are widely used in engineering, science, and software architecture. A good model captures the most important features while ignoring unnecessary details.",
+    "synonyms": [
+      "prototype",
+      "version",
+      "template"
+    ],
+    "antonyms": [
+      "original",
+      "reality"
+    ],
+    "nounForm": "model",
+    "verbForm": "model",
+    "adjectiveForm": "model",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data Science, Engineering, Fashion",
+    "usageTip": "Use 'model' to describe a simplified version of a complex idea.",
+    "commonMistake": "Assuming a model is an exact copy; it is always a simplification.",
+    "collocations": [
+      "business model",
+      "data model",
+      "role model"
+    ]
+  }
+]

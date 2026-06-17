@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Sinusoidal",
+    "meaning": "Having the form of a sine wave, which is a smooth periodic oscillation.",
+    "shortMeaning": "like a sine wave",
+    "example": "The signal has a sinusoidal shape.",
+    "example2": "We modeled the current as a sinusoidal function.",
+    "example3": "Sinusoidal oscillations are common in electronic signals.",
+    "Explanation": "The word 'sinusoidal' is a mathematical and technical term describing a wave that oscillates smoothly like a sine function. You see it everywhere in electronics, signal processing, and physics. It represents a clean, periodic signal. If a signal is not sinusoidal, it is usually distorted or complex. Understanding it is key to working with waveforms, radio signals, and basic electricity.",
+    "synonyms": [
+      "wave-like",
+      "oscillating"
+    ],
+    "antonyms": [
+      "square",
+      "sawtooth",
+      "irregular"
+    ],
+    "nounForm": "sine wave",
+    "verbForm": "N/A",
+    "adjectiveForm": "sinusoidal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Signal processing and physics",
+    "usageTip": "Use 'sinusoidal' for smooth, wave-like signals.",
+    "commonMistake": "Confusing 'sinusoidal' with 'linear'.",
+    "collocations": [
+      "sinusoidal wave",
+      "sinusoidal signal",
+      "sinusoidal oscillation"
+    ]
+  },
+  {
+    "word": "Sinusoidal",
+    "meaning": "Relating to or having the form of a sine wave",
+    "shortMeaning": "sine wave shaped",
+    "example": "The electrical signal displayed a perfect sinusoidal pattern on the oscilloscope.",
+    "example2": "Sinusoidal oscillations are common in alternating current circuits.",
+    "example3": "The graph of the voltage over time follows a sinusoidal curve.",
+    "Explanation": "The word 'sinusoidal' is a technical term used to describe a specific type of smooth, repetitive wave motion. It is frequently encountered in fields like electronics, physics, and signal processing. It refers to a waveform that oscillates periodically, resembling the mathematical sine function. Understanding this shape is crucial for analyzing wave-based systems in engineering. It is almost exclusively used as an adjective.",
+    "synonyms": [
+      "wavelike",
+      "oscillatory",
+      "curved"
+    ],
+    "antonyms": [
+      "linear",
+      "square",
+      "flat"
+    ],
+    "nounForm": "sinusoid",
+    "verbForm": "N/A",
+    "adjectiveForm": "sinusoidal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Signal processing, electronics, physics",
+    "usageTip": "Use this to describe waveforms that follow a sine pattern.",
+    "commonMistake": "Confusing it with simple linear or square waves.",
+    "collocations": [
+      "sinusoidal wave",
+      "sinusoidal signal",
+      "sinusoidal oscillation"
+    ]
+  }
+]

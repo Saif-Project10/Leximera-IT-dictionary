@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Gzip",
+    "meaning": "A popular file format and software used for file compression and decompression",
+    "shortMeaning": "compression tool",
+    "example": "The server uses gzip to compress the website's code so it loads faster.",
+    "example2": "You can recognize compressed files by the '.gz' extension.",
+    "example3": "Gzip is very efficient for compressing text-based files like HTML and CSS.",
+    "Explanation": "Gzip (GNU Zip) is the 'gold standard' for compression on the internet. When you visit a website, the server often 'gzips' the data before sending it to your browser. This can reduce the file size by 70% or more, making the internet feel much faster. It uses the 'DEFLATE' algorithm, which looks for repeating patterns in text. It is a 'Lossless' compression, meaning the file is exactly the same after you decompress it. It is widely used in Linux environments and is a standard part of web server software like Apache and Nginx.",
+    "synonyms": [
+      "compression",
+      "Zlib"
+    ],
+    "antonyms": [
+      "decompression",
+      "extraction"
+    ],
+    "nounForm": "gzip",
+    "verbForm": "gzip",
+    "adjectiveForm": "gzipped",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web development and Linux servers",
+    "usageTip": "Always enable gzip on your web server to improve your site's SEO and speed.",
+    "commonMistake": "Trying to gzip images like JPEG; images are already compressed and gzipping them can actually make them bigger.",
+    "collocations": [
+      "gzip compression level",
+      "gzip archive",
+      "enable gzip"
+    ]
+  },
+  {
+    "word": "Gzip",
+    "meaning": "A software application and file format used for compressing files to save space",
+    "shortMeaning": "file compression tool",
+    "example": "Most websites use Gzip to compress their files before sending them to your browser.",
+    "example2": "You can Gzip a large log file to reduce its size from 100MB to 10MB.",
+    "example3": "The Gzip format is very popular because it is fast and free.",
+    "Explanation": "Gzip (GNU zip) is the standard tool for compressing data on the web and in Linux systems. When you visit a website, the server often 'Gzips' the HTML and CSS files, making them much smaller so they load faster on your phone. The file extension is usually '.gz'. It is a 'lossless' compression, meaning no data is lost during the process. It is widely used by developers to speed up websites and save storage space on servers.",
+    "synonyms": [
+      "compress",
+      "zip",
+      "shrink"
+    ],
+    "antonyms": [
+      "decompress",
+      "unzip",
+      "expand"
+    ],
+    "nounForm": "Gzip",
+    "verbForm": "gzip",
+    "adjectiveForm": "gzipped",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web performance and Linux administration",
+    "usageTip": "Enable Gzip compression on your web server to improve page load speed.",
+    "commonMistake": "Confusing Gzip with 'Zip' (they are different formats, though they do the same job).",
+    "collocations": [
+      "Gzip compression",
+      "gzipped file",
+      "enable Gzip"
+    ]
+  }
+]

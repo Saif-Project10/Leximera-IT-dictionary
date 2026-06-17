@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Sequenced",
+    "meaning": "Arranged in a specific, logical, or chronological order",
+    "shortMeaning": "ordered",
+    "example": "The packets must be sequenced for the protocol to work.",
+    "example2": "The instructions were sequenced for better clarity.",
+    "example3": "The video frames are sequenced to play smoothly.",
+    "Explanation": "Sequenced describes something that has been placed in a specific order. Order is crucial in IT—if your code, data packets, or execution steps are out of order, the program will likely fail. You 'sequence' something to ensure that one action finishes before the next one starts, or that data makes sense when it is read by the system. It is a technical term used when order, time, or sequence matters to the success of the task.",
+    "synonyms": [
+      "ordered",
+      "arranged",
+      "ordered"
+    ],
+    "antonyms": [
+      "randomized",
+      "unordered",
+      "mixed"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequenced",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data processing, programming, video/audio",
+    "usageTip": "Use 'sequenced' to highlight the importance of the order of items.",
+    "commonMistake": "Assuming everything is automatically sequenced correctly.",
+    "collocations": [
+      "sequenced data",
+      "properly sequenced",
+      "sequenced instructions"
+    ]
+  },
+  {
+    "word": "Sequenced",
+    "meaning": "Arranged in a specific order",
+    "shortMeaning": "ordered",
+    "example": "The steps in the installation are correctly sequenced.",
+    "example2": "The messages are sequenced to arrive in the right order.",
+    "example3": "A sequenced list of commands ensures the task completes.",
+    "Explanation": "Sequenced means that things have been organized into a logical, chronological, or numerical series. In IT, getting items sequenced correctly is vital for tasks like database operations or data processing, where one step must finish before another starts. If items are not correctly sequenced, the system might crash or produce wrong results. It implies that there is a clear beginning, middle, and end to the process.",
+    "synonyms": [
+      "ordered",
+      "arranged",
+      "organized"
+    ],
+    "antonyms": [
+      "unordered",
+      "random"
+    ],
+    "nounForm": "sequence",
+    "verbForm": "sequence",
+    "adjectiveForm": "sequenced",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Task management, algorithms",
+    "usageTip": "Use this for tasks that must be done in a certain order.",
+    "commonMistake": "Assuming parallel tasks don't need to be sequenced.",
+    "collocations": [
+      "correctly sequenced",
+      "sequenced steps",
+      "logically sequenced"
+    ]
+  }
+]

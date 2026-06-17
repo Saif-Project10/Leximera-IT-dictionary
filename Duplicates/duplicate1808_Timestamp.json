@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Timestamp",
+    "meaning": "A record of the date and time of an event (same as time stamp but often as a verb/single word)",
+    "shortMeaning": "time record",
+    "example": "Please timestamp these files before uploading them.",
+    "example2": "The Unix timestamp is the number of seconds since January 1, 1970.",
+    "example3": "Each database entry has a timestamp for version control.",
+    "Explanation": "The word 'timestamp' is used as both a noun and a verb in IT. As a noun, it represents a specific point in time recorded by a computer. As a verb, it means the act of applying such a record to data. Common formats include human-readable strings like '2023-10-01 12:00:00' or computer-friendly integers like Unix time. Timestamps are vital for data integrity, as they prove when a specific piece of information was captured or modified. They are also used to prevent 'replay attacks' in security.",
+    "synonyms": [
+      "time mark",
+      "date stamp",
+      "time record"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "timestamp",
+    "verbForm": "timestamp",
+    "adjectiveForm": "timestamped",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming, logging, and data management",
+    "usageTip": "Use Unix timestamps for calculations and formatted strings for display.",
+    "commonMistake": "Forgetting to specify the time zone when sending a timestamp to another system.",
+    "collocations": [
+      "Unix timestamp",
+      "current timestamp",
+      "database timestamp"
+    ]
+  },
+  {
+    "word": "Timestamp",
+    "meaning": "A digital record of the exact date and time an event, log entry, or database transaction occurred",
+    "shortMeaning": "digital date-time record",
+    "example": "The log file logs a precise timestamp next to every system error message.",
+    "example2": "Every chat message saved in our database requires a unique creation timestamp.",
+    "example3": "The application converts the raw UNIX timestamp into an easy-to-read local date format.",
+    "Explanation": "A 'timestamp' is an essential data sequence that identifies exactly when a specific digital event happened. It often records hours, minutes, seconds, and dates, frequently utilizing the universal UNIX format (measuring total elapsed seconds since January 1, 1970). Timestamps are critical for data synchronization, tracking user activity logs, organizing historical data charts, ordering chat messages sequentially, and security auditing across distributed networks.",
+    "synonyms": [
+      "date-time mark",
+      "temporal record",
+      "time log indicator"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "timestamp",
+    "verbForm": "timestamp",
+    "adjectiveForm": "timestamped",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Database record fields, server log auditing systems, and transaction histories",
+    "usageTip": "Include a 'timestamp' field in your JSON database schemas to keep track of when records are created or altered.",
+    "commonMistake": "Forgetting to specify the time zone configuration (like UTC) when storing a timestamp, which leads to confusing data logs.",
+    "collocations": [
+      "generate a timestamp",
+      "UNIX timestamp",
+      "timestamp column"
+    ]
+  }
+]

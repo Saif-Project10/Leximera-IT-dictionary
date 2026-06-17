@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Examine",
+    "meaning": "To inspect something closely to determine its nature, condition, or to assess it.",
+    "shortMeaning": "inspect closely",
+    "example": "The doctor will examine you now.",
+    "example2": "We need to examine the evidence before making a decision.",
+    "example3": "The committee will examine the proposal in detail.",
+    "Explanation": "'Examine' is a verb meaning to look at or consider something carefully and in detail in order to understand it or make a judgment. It implies a systematic and thorough investigation. It's used in medical contexts (examine a patient), academic contexts (examine a theory), and general inquiry (examine an object). The noun is 'examination'. It's a fundamental activity in science, law, medicine, and education. It's more formal than 'look at' and suggests a purposeful, analytical observation.",
+    "synonyms": [
+      "inspect",
+      "scrutinize",
+      "analyze"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "glance at"
+    ],
+    "nounForm": "examination",
+    "verbForm": "examine",
+    "adjectiveForm": "examined",
+    "partOfSpeech": "verb",
+    "commonContext": "Medicine, research, investigation, education",
+    "usageTip": "Often followed by an object directly or used with 'closely', 'carefully', or 'in detail'.",
+    "commonMistake": "Confusing 'examine' with 'examine for' (look for specific things) and 'examine about' (ask questions about).",
+    "collocations": [
+      "examine the facts",
+      "cross-examine",
+      "examine a witness"
+    ]
+  },
+  {
+    "word": "Examine",
+    "meaning": "To look at something very carefully to learn more about it or find problems",
+    "shortMeaning": "inspect closely",
+    "example": "The developer will examine the logs to find the cause of the crash.",
+    "example2": "You should examine the code for any security vulnerabilities.",
+    "example3": "The technician needs to examine the hardware for physical damage.",
+    "Explanation": "To 'examine' is to perform a detailed inspection. In IT, this usually involves looking at code, logs, or system behavior to understand a deep issue. It is more than just 'looking'; it implies a search for evidence or a specific answer. When you examine something, you are usually trying to diagnose a problem or verify that something is working correctly. It is a fundamental step in troubleshooting and quality control.",
+    "synonyms": [
+      "inspect",
+      "analyze",
+      "scrutinize"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "glance"
+    ],
+    "nounForm": "examination",
+    "verbForm": "examine",
+    "adjectiveForm": "examining",
+    "partOfSpeech": "verb",
+    "commonContext": "Debugging, security audits, and hardware repair",
+    "usageTip": "Use 'examine' when you are investigating something to find a specific detail or error.",
+    "commonMistake": "Using 'see' or 'watch' when you actually mean a deep, careful inspection.",
+    "collocations": [
+      "examine the logs",
+      "examine the code",
+      "carefully examine"
+    ]
+  }
+]

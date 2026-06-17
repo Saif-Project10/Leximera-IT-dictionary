@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Local",
+    "meaning": "Relating to a particular area or neighborhood; not national or international",
+    "shortMeaning": "relating to a specific area",
+    "example": "We buy our vegetables from the local market.",
+    "example2": "The local government is responsible for roads.",
+    "example3": "She's a local, born and raised in this town.",
+    "Explanation": "'Local' is a very common adjective (and noun) emphasizing proximity and community. It describes things that belong to or exist in a specific, limited geographical area, such as a town, district, or region. Supporting local businesses is a common theme. As a noun, 'a local' means a person who lives in the area. The word contrasts with 'global', 'national', or 'foreign'. It implies familiarity, accessibility, and a smaller scale. In computing, 'local' means on the user's own machine, not on a network. It's a word of place and belonging.",
+    "synonyms": [
+      "neighborhood, regional, community, domestic, nearby"
+    ],
+    "antonyms": [
+      "global, national, international, foreign"
+    ],
+    "nounForm": "local (person), locality (place)",
+    "verbForm": "localize",
+    "adjectiveForm": "local",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Community, business, government, computing, news",
+    "usageTip": "Use 'local' to describe anything connected with a specific area where you are or that you are discussing.",
+    "commonMistake": "Using 'local' to mean 'native' in all contexts. A local person currently lives there; a native person was born there.",
+    "collocations": [
+      "local community",
+      "local news",
+      "local anesthetic"
+    ]
+  },
+  {
+    "word": "Local",
+    "meaning": "Existing or happening in the immediate vicinity",
+    "shortMeaning": "nearby/device-only",
+    "example": "The file is saved on your local machine.",
+    "example2": "He runs a local server for testing his website.",
+    "example3": "Local variables are only accessible within the function.",
+    "Explanation": "In IT, local refers to hardware, data, or environments that are on the user's specific computer, as opposed to a remote server or the cloud. A local file is stored on your hard drive, and a local variable is one that only exists within a specific block of code. It implies limited accessibility and proximity. Understanding the difference between local and remote is crucial for network security and file management. It is a foundational concept in computing.",
+    "synonyms": [
+      "internal",
+      "on-premises",
+      "nearby"
+    ],
+    "antonyms": [
+      "remote",
+      "global",
+      "cloud"
+    ],
+    "nounForm": "locality",
+    "verbForm": "N/A",
+    "adjectiveForm": "local",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, programming, file systems",
+    "usageTip": "Use 'local' to contrast with remote or internet-based items.",
+    "commonMistake": "Confusing local access with public or internet access.",
+    "collocations": [
+      "local machine",
+      "local variable",
+      "local storage"
+    ]
+  }
+]

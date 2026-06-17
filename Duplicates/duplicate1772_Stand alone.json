@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Stand alone",
+    "meaning": "Able to operate independently without being connected to another system or network",
+    "shortMeaning": "independent/self-sufficient",
+    "example": "The device is stand alone and does not require an internet connection.",
+    "example2": "This script is designed to be stand alone so it can run on any server.",
+    "example3": "He bought a stand alone camera instead of using his phone.",
+    "Explanation": "The term 'stand alone' (often written as 'standalone') refers to any hardware or software that can perform its main function without needing support from other systems. For example, a 'standalone' software doesn't need to be installed into a web browser or a specific platform to work. A 'standalone' computer is one that isn't part of a network. In business, it refers to a company or department that operates without help from its parent organization. It implies a high degree of self-sufficiency and simplicity for the user, as there are fewer external parts to worry about.",
+    "synonyms": [
+      "independent",
+      "self-contained",
+      "autonomous"
+    ],
+    "antonyms": [
+      "dependent",
+      "integrated",
+      "networked"
+    ],
+    "nounForm": "stand alone",
+    "verbForm": "stand alone",
+    "adjectiveForm": "standalone",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Electronics, software, and business",
+    "usageTip": "Use 'standalone' as an adjective (e.g., 'a standalone app') and 'stand alone' as a verb.",
+    "commonMistake": "Using 'standalone' when the device still needs power or basic OS support; it usually refers to network/system independence.",
+    "collocations": [
+      "stand alone system",
+      "stand alone mode",
+      "operate stand alone"
+    ]
+  },
+  {
+    "word": "Stand alone",
+    "meaning": "To operate independently without needing to connect to or rely on another system, network, or software",
+    "shortMeaning": "independent",
+    "example": "The mobile app can stand alone and does not require an active internet connection to work.",
+    "example2": "We designed the database tool to stand alone so it can run on any single computer.",
+    "example3": "This security feature cannot stand alone; it needs the main system to function.",
+    "Explanation": "The phrase 'stand alone' describes software, hardware, or systems that can perform all their functions independently. In technology architecture, a standalone application contains all its necessary files and logic without requiring external servers or third-party APIs. This approach provides great portability and high reliability since it avoids external points of failure. However, making a program stand alone can sometimes increase its file size significantly. It is the opposite of integrated or dependent systems.",
+    "synonyms": [
+      "independent",
+      "self-contained",
+      "isolated",
+      "autonomous"
+    ],
+    "antonyms": [
+      "dependent",
+      "integrated",
+      "connected",
+      "interdependent"
+    ],
+    "nounForm": "standalone",
+    "verbForm": "stand alone",
+    "adjectiveForm": "standalone",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Software architecture, hardware devices, application features",
+    "usageTip": "Write it as two words for the verb ('stand alone') and one word for the adjective ('standalone setup').",
+    "commonMistake": "Writing 'stand alone' as an adjective when modifying a noun instead of using 'standalone'.",
+    "collocations": [
+      "standalone application",
+      "stand alone successfully",
+      "standalone device"
+    ]
+  }
+]

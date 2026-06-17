@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Ignore case",
+    "meaning": "A command or setting that tells a computer to treat capital letters and small letters as the same",
+    "shortMeaning": "case insensitive",
+    "example": "When searching for a word, 'ignore case' ensures that 'Apple' and 'apple' are both found.",
+    "example2": "The password field does NOT ignore case for security reasons.",
+    "example3": "We used an 'ignore case' option to make the username search easier for users.",
+    "Explanation": "Computers naturally think 'A' and 'a' are completely different (because they have different binary codes). However, humans often want them to be the same. 'Ignore case' (or 'case insensitivity') tells the computer to stop being so strict. This is very useful in search engines, email addresses, and filenames in Windows. In programming, you often use an 'ignore case' flag when comparing two strings of text. If 'ignore case' is off, 'HELLO' will not match 'hello'. This can be frustrating for users. Most modern apps default to ignoring case in search bars to be more user-friendly. It simplifies text processing.",
+    "synonyms": [
+      "case insensitive",
+      "case-blind"
+    ],
+    "antonyms": [
+      "case sensitive",
+      "match case"
+    ],
+    "nounForm": "case insensitivity",
+    "verbForm": "ignore case",
+    "adjectiveForm": "case-insensitive",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Text searching, coding, and databases",
+    "usageTip": "Enable 'ignore case' when you want to make a search function more forgiving for the user.",
+    "commonMistake": "Ignoring case in passwords; passwords should always be 'case sensitive' for safety.",
+    "collocations": [
+      "ignore case during search",
+      "option to ignore case",
+      "ignore case comparison"
+    ]
+  },
+  {
+    "word": "Ignore case",
+    "meaning": "To treat uppercase and lowercase letters as the same during a search or comparison",
+    "shortMeaning": "treat letters equally",
+    "example": "Set the search function to ignore case so that 'Admin' and 'admin' match.",
+    "example2": "Most modern login systems do not ignore case for passwords.",
+    "example3": "By default, Windows filenames ignore case.",
+    "Explanation": "The phrase 'ignore case' (or 'case-insensitive') is used when you want a computer to be flexible with capital letters. For example, if a user searches for 'APPLE', the computer will also find 'apple' and 'Apple'. In programming languages like JavaScript, you can use flags (like `/i` in regex) to ignore case. This makes applications more user-friendly because users don't always remember which letters they capitalized. However, for security-sensitive data like passwords or tokens, you should never ignore case. It is a fundamental setting in databases and search engines.",
+    "synonyms": [
+      "case-insensitive",
+      "discard casing"
+    ],
+    "antonyms": [
+      "match case",
+      "case-sensitive"
+    ],
+    "nounForm": "case insensitivity",
+    "verbForm": "ignore case",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrase",
+    "commonContext": "Searching, string comparison, and databases",
+    "usageTip": "Always specify if a search should ignore case to improve user experience.",
+    "commonMistake": "Assuming all systems ignore case; Linux/Unix systems are usually case-sensitive for filenames.",
+    "collocations": [
+      "ignore case search",
+      "ignore case comparison",
+      "option to ignore case"
+    ]
+  }
+]

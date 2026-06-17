@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Intermediary",
+    "meaning": "A person or organization that acts as a link between people or groups.",
+    "shortMeaning": "go-between; mediator",
+    "example": "The bank acts as an intermediary in the transaction.",
+    "example2": "They negotiated through an intermediary.",
+    "example3": "She served as an intermediary between management and employees.",
+    "Explanation": "'Intermediary' is a noun meaning a person or entity that acts as a mediator or go-between, facilitating communication or transactions between parties. Intermediaries bridge gaps, translate between sides, or enable exchanges that wouldn't occur directly. Examples include brokers, agents, diplomats, and middlemen. The adjective is 'intermediary' (intermediary role). Intermediaries can add value by providing expertise, reducing transaction costs, or building trust. However, they can also add complexity or cost. In some contexts, disintermediation (removing intermediaries) is sought. The word comes from 'intermediate' meaning in between. Intermediaries exist in business, diplomacy, conflict resolution, and many social interactions.",
+    "synonyms": [
+      "mediator",
+      "go-between",
+      "middleman",
+      "intercessor"
+    ],
+    "antonyms": [
+      "principal",
+      "direct party",
+      "end user"
+    ],
+    "nounForm": "intermediary",
+    "verbForm": "intermediate",
+    "adjectiveForm": "intermediary",
+    "partOfSpeech": "noun, adjective",
+    "commonContext": "Business, diplomacy, negotiations, transactions",
+    "usageTip": "As noun: 'act as an intermediary'. As adjective: 'intermediary role', 'intermediary stage'.",
+    "commonMistake": "Confusing with 'intermediate' which means between beginner and advanced. Intermediary is a person/thing that mediates.",
+    "collocations": [
+      "financial intermediary",
+      "act as intermediary",
+      "through an intermediary"
+    ]
+  },
+  {
+    "word": "Intermediary",
+    "meaning": "A person or system that acts as a link between two parties",
+    "shortMeaning": "Go-between",
+    "example": "The proxy server acts as an intermediary for requests.",
+    "example2": "We need an intermediary to translate the data format.",
+    "example3": "The API acts as an intermediary between client and database.",
+    "Explanation": "An 'intermediary' is a system or entity that stands between two others to facilitate communication, translation, or security. It is a noun or adjective. In IT architecture, this is the core function of proxies, gateways, and middleware. It is a key term in system design where you cannot (or should not) allow two parts of a system to connect directly to each other for security or performance reasons.",
+    "synonyms": [
+      "go-between",
+      "proxy",
+      "middleman"
+    ],
+    "antonyms": [
+      "direct",
+      "source",
+      "endpoint"
+    ],
+    "nounForm": "intermediary",
+    "verbForm": "N/A",
+    "adjectiveForm": "intermediary",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, middleware, architecture",
+    "usageTip": "Use to describe systems that stand in the middle.",
+    "commonMistake": "Confusing 'intermediary' with 'intermittent'.",
+    "collocations": [
+      "act as an intermediary",
+      "intermediary server",
+      "use an intermediary"
+    ]
+  }
+]

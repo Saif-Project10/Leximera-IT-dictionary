@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Fail secure",
+    "meaning": "A system that stays locked or closed when it loses power or fails",
+    "shortMeaning": "locked on failure",
+    "example": "A bank vault is a fail secure system; if the power goes out, the door stays locked.",
+    "example2": "The server room has a fail secure lock to protect the hardware.",
+    "example3": "We chose a fail secure mechanism for the high-security gate.",
+    "Explanation": "Fail secure is a specific type of failure mode used in security. If a system is 'fail secure', it means its priority is 'protection' rather than 'escape'. For example, a cabinet holding top-secret documents should be fail secure—if someone cuts the power, the cabinet stays shut. This is the opposite of 'fail safe', where a door might unlock to let people out. Choosing between these two is a major decision for architects and security experts. Usually, internal office doors are 'fail safe' (for fire safety), but perimeter fences or high-value safes are 'fail secure'. It is about maintaining 'security' even in an emergency.",
+    "synonyms": [
+      "locked-on-failure",
+      "fail-locked"
+    ],
+    "antonyms": [
+      "fail-safe (in terms of locks)",
+      "fail-open"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "fail secure",
+    "adjectiveForm": "fail-secure",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physical security and access control",
+    "usageTip": "Use 'fail secure' when you want to keep intruders out even if the system breaks.",
+    "commonMistake": "Using 'fail secure' on a fire exit, which would be illegal and dangerous.",
+    "collocations": [
+      "fail secure lock",
+      "fail secure mode",
+      "fail secure door"
+    ]
+  },
+  {
+    "word": "Fail secure",
+    "meaning": "A design feature that ensures a system stays locked or protected if it fails",
+    "shortMeaning": "locked failure mode",
+    "example": "The bank vault is fail secure; it stays locked even if the power is cut.",
+    "example2": "For high-security areas, we prefer fail secure locks over fail safe ones.",
+    "example3": "Our software is fail secure, meaning data stays encrypted if the process stops.",
+    "Explanation": "In 'fail secure' systems, the priority is protection and security rather than easy exit. For example, a 'fail secure' electric door stays locked when the power goes out. This prevents intruders from entering. It is the opposite of 'fail safe' in terms of hardware operation. This is very important in IT for protecting sensitive data and in physical security for preventing theft. The choice between 'fail safe' and 'fail secure' depends on whether human safety or asset protection is more important.",
+    "synonyms": [
+      "fail locked",
+      "security-first"
+    ],
+    "antonyms": [
+      "fail safe",
+      "fail open"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "fail-secure",
+    "partOfSpeech": "adjective / phrase",
+    "commonContext": "Security, IT, and physical access control",
+    "usageTip": "Use this when describing security systems that must stay locked during a failure.",
+    "commonMistake": "Confusing this with 'fail safe'. If a fire happens, a fail-secure door might trap people.",
+    "collocations": [
+      "fail secure lock",
+      "fail secure design"
+    ]
+  }
+]

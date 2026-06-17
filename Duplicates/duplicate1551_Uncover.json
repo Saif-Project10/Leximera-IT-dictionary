@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Uncover",
+    "meaning": "To remove a cover from; to discover something previously secret or unknown",
+    "shortMeaning": "remove cover; discover",
+    "example": "She uncovered the pot to check the food.",
+    "example2": "The investigation uncovered evidence of fraud.",
+    "example3": "Archaeologists uncovered ruins of an ancient city.",
+    "Explanation": "The verb 'uncover' has a literal and a figurative meaning. Literally, it means to take a covering off something, revealing what is beneath. Figuratively, and more commonly, it means to find out, reveal, or make known something that was hidden, secret, or not previously understood. This can apply to facts, truths, plots, or physical objects buried or concealed. It is an active verb often associated with investigation, research, and exploration. The process of uncovering usually involves effort and intention. It is a positive word in the context of discovery, but the thing uncovered may be positive or negative.",
+    "synonyms": [
+      "reveal",
+      "expose",
+      "discover",
+      "unearth",
+      "detect"
+    ],
+    "antonyms": [
+      "cover",
+      "conceal",
+      "hide",
+      "suppress"
+    ],
+    "nounForm": "uncovering",
+    "verbForm": "uncover",
+    "adjectiveForm": "uncovered",
+    "partOfSpeech": "verb",
+    "commonContext": "Investigation, journalism, archaeology, cooking",
+    "usageTip": "For secrets/information, use figuratively. For physical objects, can be literal or figurative.",
+    "commonMistake": "Using 'discover' and 'uncover' interchangeably; 'uncover' often implies deliberate searching.",
+    "collocations": [
+      "uncover the truth",
+      "uncover a plot",
+      "uncover evidence",
+      "uncover a statue"
+    ]
+  },
+  {
+    "word": "Uncover",
+    "meaning": "To find, reveal, or bring to light hidden data, secret facts, or unseen system errors",
+    "shortMeaning": "reveal or discover",
+    "example": "A thorough security audit can help uncover critical vulnerabilities within the legacy application.",
+    "example2": "We ran a deep debugging tool to uncover the root cause of the memory leak.",
+    "example3": "The research team hopes to uncover new details about user interaction patterns from the data log.",
+    "Explanation": "The word 'uncover' means exposing something that was previously hidden, obscured, or unknown. In technical fields, you uncover bugs through systematic software testing, uncover security gaps through penetration testing, or uncover business trends through data mining. It implies a active process of investigation and discovery, turning mystery into actionable knowledge. It is a highly expressive word across analytics fields, software engineering, and general security auditing workflows.",
+    "synonyms": [
+      "reveal",
+      "discover",
+      "expose",
+      "unearth"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "cover up",
+      "disguise"
+    ],
+    "nounForm": "discovery / uncovering",
+    "verbForm": "uncover",
+    "adjectiveForm": "uncovered",
+    "partOfSpeech": "verb",
+    "commonContext": "Debugging log files, security scanning operations, and data analytics research",
+    "usageTip": "Use 'uncover' when a deliberate search or analysis reveals crucial hidden details or software bugs.",
+    "commonMistake": "Using 'uncover' to describe creating something new; it should only be used for finding things that already existed secretly.",
+    "collocations": [
+      "uncover a bug",
+      "uncover security flaws",
+      "uncover hidden trends"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Placed",
+    "meaning": "Put or set in a particular position or location.",
+    "shortMeaning": "put in position",
+    "example": "She placed the vase carefully on the shelf.",
+    "example2": "He was placed third in the competition.",
+    "example3": "The advertisement was placed in a popular magazine.",
+    "Explanation": "'Placed' is the simple past tense and past participle of the verb 'place'. It means something was put somewhere intentionally. It often implies careful or strategic positioning, not just random putting. It is also used in competitions to indicate a rank or finishing position. The word is neutral and common in both physical and abstract contexts (e.g., 'placed trust').",
+    "synonyms": [
+      "put, set, positioned, located, situated"
+    ],
+    "antonyms": [
+      "removed, displaced, taken, mislaid"
+    ],
+    "nounForm": "placement",
+    "verbForm": "place",
+    "adjectiveForm": "placed",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Arranging objects, competition results, advertising",
+    "usageTip": "Use 'placed' when describing where something was put, especially with care or purpose.",
+    "commonMistake": "Using 'placed' when a simpler verb like 'put' is sufficient, which can sound overly formal.",
+    "collocations": [
+      "well-placed",
+      "placed an order",
+      "strategically placed"
+    ]
+  },
+  {
+    "word": "Placed",
+    "meaning": "Put into a specific position or location",
+    "shortMeaning": "positioned",
+    "example": "The logo was placed in the center of the header.",
+    "example2": "Buttons should be placed where users expect them.",
+    "example3": "The code block was placed inside the main function.",
+    "Explanation": "The word 'placed' refers to the act of setting something into a specific location. In UI development, it relates to the layout and positioning of elements on a screen. The base verb is 'place'. It is a simple but important term for describing organization and structure. Being intentional about where components are placed is crucial for creating intuitive and usable interfaces. It implies an orderly arrangement rather than a random one.",
+    "synonyms": [
+      "positioned",
+      "arranged",
+      "set"
+    ],
+    "antonyms": [
+      "removed",
+      "displaced",
+      "misplaced"
+    ],
+    "nounForm": "placement",
+    "verbForm": "place",
+    "adjectiveForm": "placed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "UI layout, coding, organization",
+    "usageTip": "Use it to describe layout decisions.",
+    "commonMistake": "Confusing 'placed' with 'located' (though similar, placed implies intent).",
+    "collocations": [
+      "properly placed",
+      "placed inside",
+      "element placed"
+    ]
+  }
+]

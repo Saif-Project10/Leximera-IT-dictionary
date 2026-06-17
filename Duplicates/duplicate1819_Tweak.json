@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Tweak",
+    "meaning": "To make a small change to something to improve it",
+    "shortMeaning": "fine-tune",
+    "example": "We just need to tweak the code to make it run faster.",
+    "example2": "He made a few tweaks to the design before printing it.",
+    "example3": "Can you tweak the settings to lower the brightness?",
+    "Explanation": "To 'tweak' something means to adjust it slightly to achieve a better result. It usually implies that the object is already working but could be optimized further. In software development, developers often tweak parameters or algorithms to improve performance or fix minor bugs. It is not about a major overhaul or rebuild; it is about precision and fine-tuning. The word is commonly used in casual professional talk. It suggests a quick, expert adjustment rather than a long, difficult process. It can be used as both a verb and a noun.",
+    "synonyms": [
+      "adjust",
+      "fine-tune",
+      "modify"
+    ],
+    "antonyms": [
+      "overhaul",
+      "rebuild",
+      "leave alone"
+    ],
+    "nounForm": "tweak",
+    "verbForm": "tweak",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Technical settings and creative work",
+    "usageTip": "Use 'tweak' when the change you are making is small and aimed at improvement.",
+    "commonMistake": "Using 'tweak' to describe a massive change or a complete redesign.",
+    "collocations": [
+      "minor tweak",
+      "tweak the settings",
+      "final tweak"
+    ]
+  },
+  {
+    "word": "Tweak",
+    "meaning": "To make small, minor adjustments to a system or layout to improve its overall appearance or performance",
+    "shortMeaning": "make minor adjustments",
+    "example": "I need to tweak the CSS padding rules to center this navigation logo perfectly.",
+    "example2": "A small tweak to the database settings can make the web application load much faster.",
+    "example3": "The developer will tweak the script code until the animation runs smoothly.",
+    "Explanation": "The word 'tweak' refers to making minor edits rather than performing massive rewrites or structural changes. In coding and design workflows, a tweak might involve changing a color code, altering a font scale slightly, or modifying a simple variable threshold. These tiny alterations optimize systems that are already mostly functional. It acts as both a verb for making the edit and a noun representing the minor adjustment itself, making it an incredibly common term in design feedback sessions.",
+    "synonyms": [
+      "adjust",
+      "modify",
+      "fine-tune",
+      "alter slightly"
+    ],
+    "antonyms": [
+      "overhaul",
+      "rebuild completely",
+      "leave unchanged"
+    ],
+    "nounForm": "tweak",
+    "verbForm": "tweak",
+    "adjectiveForm": "tweaked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Polishing website interface layouts, code optimization, and hardware configurations",
+    "usageTip": "Use 'tweak' when the adjustment you are describing is minor, subtle, and meant for optimization.",
+    "commonMistake": "Using 'tweak' to describe a complete structural redesign of an entire web application codebase.",
+    "collocations": [
+      "minor tweak Compass",
+      "tweak the settings",
+      "tweak the code layout"
+    ]
+  }
+]

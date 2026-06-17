@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Sort",
+    "meaning": "A category of things or people with a common feature; to arrange systematically.",
+    "shortMeaning": "type; organize",
+    "example": "What sort of music do you like?",
+    "example2": "We need to sort these files by date.",
+    "example3": "He's not a bad sort, really.",
+    "Explanation": "'Sort' is a very common noun and verb. As a noun, it is a synonym for 'kind' or 'type'. As a verb, it means to categorize, organize, or separate items into groups. The word is informal and versatile. Phrases like 'sort of' mean 'kind of' or 'somewhat'. In computing, 'sort' is a fundamental operation on data. The noun is essential for classification, and the verb is essential for bringing order. It's a simple, indispensable word for everyday communication about categories and organization.",
+    "synonyms": [
+      "type",
+      "kind",
+      "variety",
+      "categorize",
+      "organize"
+    ],
+    "antonyms": [
+      "mix up",
+      "disorganize",
+      "jumble"
+    ],
+    "nounForm": "sort",
+    "verbForm": "sort",
+    "adjectiveForm": "sorted",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Classification, organization, computing, casual speech",
+    "usageTip": "In British slang, 'sorted' can mean everything is organized or fixed ('That's sorted.').",
+    "commonMistake": "Confusing 'sort' with 'sought' (past tense of seek).",
+    "collocations": [
+      "all sorts of",
+      "sort out",
+      "of a sort",
+      "sort by"
+    ]
+  },
+  {
+    "word": "Sort",
+    "meaning": "To arrange a collection of items, data, or objects in a specific order or group based on categories",
+    "shortMeaning": "arrange in order",
+    "example": "You need to sort the customer records alphabetically before generating the final report.",
+    "example2": "The script will sort the files automatically by their creation date.",
+    "example3": "Please sort these items into folders based on their file extensions.",
+    "Explanation": "The word 'sort' functions as both a verb and a noun. As a verb, it is a fundamental operation in computer science and data management, referring to organizing unsorted data into an ordered sequence (like numerical, alphabetical, chronological, or custom orders). Efficient sorting algorithms, like QuickSort or MergeSort, are crucial for optimizing database searches and application performance. As a noun, it refers to a group of things sharing similar characteristics, synonymous with 'type' or 'kind'. It is one of the most frequently used terms in coding, data analysis, and daily workplace management.",
+    "synonyms": [
+      "arrange",
+      "organize",
+      "classify",
+      "categorize"
+    ],
+    "antonyms": [
+      "jumble",
+      "scramble",
+      "disorganize"
+    ],
+    "nounForm": "sorter / sorting",
+    "verbForm": "sort",
+    "adjectiveForm": "sorted / sortable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Data structures, algorithms, file organization, and daily tasks",
+    "usageTip": "In programming, always specify the criteria you are using to sort data, such as sorting by price or sorting by name.",
+    "commonMistake": "Saying 'sort out' when you mean organizing data; 'sort out' usually means solving a personal problem or dispute.",
+    "collocations": [
+      "sort alphabetically",
+      "sort by date",
+      "sorting algorithm"
+    ]
+  }
+]

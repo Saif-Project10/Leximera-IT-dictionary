@@ -1,0 +1,63 @@
+[
+  {
+    "word": "WiFi protected",
+    "meaning": "A general term for a Wi-Fi network that is secured with a password and encryption",
+    "shortMeaning": "secured wireless",
+    "example": "Is your home network WiFi protected, or is it open to everyone?",
+    "example2": "I only connect to WiFi protected networks when I travel.",
+    "example3": "The 'lock' icon indicates that the network is WiFi protected.",
+    "Explanation": "The term 'WiFi protected' describes a network that is not 'open'. It means the network uses security protocols like WPA2 or WPA3 to ensure that only people with the correct password can connect. Beyond just a password, a protected network also encrypts the data moving between your device and the router. This prevents neighbors or hackers from 'listening in' on your internet activity. In modern computing, having a WiFi protected network is considered a basic security requirement for protecting personal information and preventing unauthorized use of your internet bandwidth.",
+    "synonyms": [
+      "secured Wi-Fi",
+      "encrypted Wi-Fi",
+      "locked network"
+    ],
+    "antonyms": [
+      "Open Wi-Fi",
+      "Unsecured network"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "protect a WiFi network",
+    "adjectiveForm": "WiFi-protected",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Cybersecurity basics and router settings",
+    "usageTip": "Use this to emphasize that a network is safe from uninvited guests.",
+    "commonMistake": "Thinking a network is 'protected' just because it has a password; old encryption like WEP is technically 'protected' but easily broken.",
+    "collocations": [
+      "WiFi protected network",
+      "fully WiFi protected",
+      "keep WiFi protected"
+    ]
+  },
+  {
+    "word": "WiFi protected",
+    "meaning": "Secured using standard wireless encryption protocols",
+    "shortMeaning": "WiFi security",
+    "example": "Always use a WiFi protected network for work.",
+    "example2": "The router setup includes a WiFi protected access feature.",
+    "example3": "Is this public connection WiFi protected?",
+    "Explanation": "The term 'WiFi protected' generally refers to networks or devices that implement security protocols like WPA (WiFi Protected Access) to encrypt data transmission. This prevents unauthorized access to the network and protects against eavesdropping. It is essential for maintaining privacy in both home and business wireless environments. The term is frequently used in router configurations and security documentation. Always ensure WPA3 is enabled if available, as it is the most current standard.",
+    "synonyms": [
+      "secured",
+      "encrypted",
+      "protected"
+    ],
+    "antonyms": [
+      "unsecured",
+      "open",
+      "exposed"
+    ],
+    "nounForm": "protection",
+    "verbForm": "protect",
+    "adjectiveForm": "protected",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network security, wireless communication",
+    "usageTip": "Use it to describe the security status of wireless links.",
+    "commonMistake": "Assuming 'protected' means it is impossible to hack.",
+    "collocations": [
+      "WiFi protected access",
+      "WiFi protected setup",
+      "secured WiFi"
+    ]
+  }
+]

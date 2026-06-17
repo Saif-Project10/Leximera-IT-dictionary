@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Prone",
+    "meaning": "Likely to suffer from, do, or experience something undesirable",
+    "shortMeaning": "likely to (for bad things)",
+    "example": "He is prone to headaches when he's stressed.",
+    "example2": "Old software is prone to security vulnerabilities.",
+    "example3": "This coastal area is prone to flooding.",
+    "Explanation": "'Prone' describes a tendency or susceptibility, usually to something negative. It suggests a natural inclination or vulnerability. The word often implies a weakness. It is followed by 'to'. Do not confuse it with 'supine', which means lying face up. In medical contexts, 'prone' also means lying face down. It's important to use this word for inherent tendencies, not temporary situations.",
+    "synonyms": [
+      "susceptible",
+      "liable",
+      "inclined",
+      "vulnerable",
+      "given to"
+    ],
+    "antonyms": [
+      "resistant",
+      "immune",
+      "unlikely"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "prone",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, personality traits, risk assessment, technology (error-prone)",
+    "usageTip": "Always use with 'to' (prone to errors, prone to anger).",
+    "commonMistake": "Using 'prone' for positive tendencies (e.g., 'prone to success' is incorrect).",
+    "collocations": [
+      "accident-prone",
+      "error-prone",
+      "prone to failure",
+      "injury-prone"
+    ]
+  },
+  {
+    "word": "Prone",
+    "meaning": "Likely to suffer from or be affected by something",
+    "shortMeaning": "likely to",
+    "example": "Old code is often prone to errors.",
+    "example2": "This design is prone to layout bugs.",
+    "example3": "He is prone to forgetting the semicolon.",
+    "Explanation": "The word 'prone' describes a tendency or likelihood to be affected by a particular negative outcome. It implies a weakness or a susceptibility. In IT, we often say code is 'prone to bugs' or a system is 'prone to crashes'. Identifying what a project is 'prone' to is a key step in risk management. Always strive to build systems that are *less* prone to these issues by adding robust validation and error handling.",
+    "synonyms": [
+      "susceptible",
+      "vulnerable",
+      "likely"
+    ],
+    "antonyms": [
+      "resistant",
+      "immune",
+      "unlikely"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "prone",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk management, bug tracking",
+    "usageTip": "Use to describe risks or common technical failures.",
+    "commonMistake": "Confusing 'prone' (likely to) with 'prone' (physically lying face down).",
+    "collocations": [
+      "prone to errors",
+      "prone to bugs",
+      "highly prone"
+    ]
+  }
+]

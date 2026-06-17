@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Explicit",
+    "meaning": "Stated clearly and in detail, leaving no room for confusion or doubt",
+    "shortMeaning": "clearly stated",
+    "example": "The instructions were explicit about safety procedures.",
+    "example2": "She gave explicit permission for us to use her photos.",
+    "example3": "The movie contains explicit language and violence.",
+    "Explanation": "When something is 'explicit', it is fully and clearly expressed, with nothing hidden or implied. This word is the opposite of vague or implicit. It's crucial in contracts, instructions, and communication where misunderstanding could cause problems. In media ratings, 'explicit content' means material that is clearly adult in nature. Being explicit reduces ambiguity but can sometimes lack subtlety. The adverb form is 'explicitly'. Clear communication often requires being explicit.",
+    "synonyms": [
+      "clear",
+      "direct",
+      "unambiguous",
+      "specific",
+      "definite"
+    ],
+    "antonyms": [
+      "implicit",
+      "vague",
+      "ambiguous",
+      "suggested"
+    ],
+    "nounForm": "explicitness",
+    "verbForm": "explicate",
+    "adjectiveForm": "explicit",
+    "partOfSpeech": "adjective",
+    "commonContext": "Instructions, contracts, communication, content warnings",
+    "usageTip": "Use when you want to emphasize that something is stated very clearly, with all details included.",
+    "commonMistake": "Confusing 'explicit' (clearly stated) with 'implicit' (understood though not stated).",
+    "collocations": [
+      "explicit instructions",
+      "explicit content",
+      "explicit permission",
+      "make explicit"
+    ]
+  },
+  {
+    "word": "Explicit",
+    "meaning": "Stated clearly and in detail, leaving no room for confusion",
+    "shortMeaning": "clear and direct",
+    "example": "The error message provides explicit instructions on how to fix the issue.",
+    "example2": "You must give explicit permission for the app to access your files.",
+    "example3": "The code requires explicit variable declarations.",
+    "Explanation": "The word 'explicit' means clear, direct, and leaving nothing to the imagination. In programming, 'explicit' often contrasts with 'implicit', where things happen in the background without being stated. Explicit coding styles are often safer because they make every action and data type visible. It is the opposite of 'vague' or 'ambiguous'. When you are explicit, you are ensuring there is no doubt about what is meant or what is required to happen.",
+    "synonyms": [
+      "clear",
+      "direct",
+      "definite"
+    ],
+    "antonyms": [
+      "implicit",
+      "vague",
+      "ambiguous"
+    ],
+    "nounForm": "explicitness",
+    "verbForm": "N/A",
+    "adjectiveForm": "explicit",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding practices, security permissions, and instructions",
+    "usageTip": "Use 'explicit' to mean that something is stated clearly and directly.",
+    "commonMistake": "Confusing 'explicit' (stated clearly) with 'implicit' (implied).",
+    "collocations": [
+      "explicit instructions",
+      "explicit permission",
+      "explicit declaration"
+    ]
+  }
+]

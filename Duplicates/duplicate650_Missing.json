@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Missing",
+    "meaning": "1. Not able to be found; absent. 2. Lacking or absent from something.",
+    "shortMeaning": "lost; not present",
+    "example": "My keys are missing; I can't find them.",
+    "example2": "There is a page missing from this book.",
+    "example3": "He has been missing from work for two days.",
+    "Explanation": "'Missing' is an adjective describing something that should be present but is not. It can refer to lost objects, absent people, or parts that are not included. It comes from the verb 'miss'. It often carries a sense of concern or incompleteness. A 'missing person' is someone who has disappeared. It is a straightforward but powerful word used in everyday situations as well as in serious reports.",
+    "synonyms": [
+      "lost",
+      "absent",
+      "gone",
+      "lacking"
+    ],
+    "antonyms": [
+      "present",
+      "found",
+      "here",
+      "complete"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "miss",
+    "adjectiveForm": "missing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Lost items, absent people, incomplete things",
+    "usageTip": "Use 'missing' to describe something that is lost or not where it should be.",
+    "commonMistake": "Using 'missed' (past tense of verb) instead of 'missing' (adjective). E.g., 'The missed page' (wrong) vs. 'The missing page' (correct).",
+    "collocations": [
+      "missing person",
+      "go missing",
+      "missing piece",
+      "found missing"
+    ]
+  },
+  {
+    "word": "Missing",
+    "meaning": "Not present, lost, or absent when expected",
+    "shortMeaning": "not there",
+    "example": "There is a missing file in the installation directory.",
+    "example2": "The user reported a missing button on the login screen.",
+    "example3": "Check the logs for any missing data packets.",
+    "Explanation": "When something is 'missing', it should be there but is not. This is a critical term in troubleshooting, as it indicates a void that needs to be filled. Whether it is a missing semi-colon in code, a missing record in a database, or a missing link on a page, it usually triggers an error or a failure. Determining *why* something is missing (was it deleted? was it never there? did it fail to load?) is the primary goal of the investigation.",
+    "synonyms": [
+      "absent",
+      "lost",
+      "lacking"
+    ],
+    "antonyms": [
+      "present",
+      "found",
+      "included"
+    ],
+    "nounForm": "absence",
+    "verbForm": "miss",
+    "adjectiveForm": "missing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging and troubleshooting",
+    "usageTip": "Use 'missing' for things that you expect to find but cannot.",
+    "commonMistake": "Assuming 'missing' means 'broken'; it just means it is absent.",
+    "collocations": [
+      "missing file",
+      "missing data",
+      "missing information"
+    ]
+  }
+]

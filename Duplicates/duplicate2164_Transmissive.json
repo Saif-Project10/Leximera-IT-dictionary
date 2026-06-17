@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Transmissive",
+    "meaning": "Allowing light or signals to pass through",
+    "shortMeaning": "letting signals pass",
+    "example": "The display uses a transmissive layer for better clarity.",
+    "example2": "The material must be transmissive to radio waves.",
+    "example3": "A highly transmissive screen allows more light to pass through.",
+    "Explanation": "Transmissive refers to a property of materials or systems that allow something—like light, sound, or electronic signals—to pass through them. In IT hardware, this is often discussed in the context of display screens or sensor covers. A transmissive display relies on a backlight to show the image. This term is specific to physical hardware and material properties rather than logical software code. It is essential for understanding how device components interact with signals.",
+    "synonyms": [
+      "transparent",
+      "permeable",
+      "conductive"
+    ],
+    "antonyms": [
+      "opaque",
+      "blocking"
+    ],
+    "nounForm": "transmission",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmissive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, display technology, sensors",
+    "usageTip": "Use this when talking about physical materials that allow signals to pass.",
+    "commonMistake": "Confusing it with 'transmission', which is the act of sending.",
+    "collocations": [
+      "transmissive display",
+      "highly transmissive",
+      "transmissive layer"
+    ]
+  },
+  {
+    "word": "Transmissive",
+    "meaning": "Relating to the passage or transmission of something, like light or data",
+    "shortMeaning": "relating to transmission",
+    "example": "The screen has high transmissive properties.",
+    "example2": "The transmissive efficiency of the fiber cable is excellent.",
+    "example3": "We need a more transmissive material for the sensor.",
+    "Explanation": "The word 'transmissive' describes the ability of a medium to allow something (like light, radio waves, or data signals) to pass through it. It is used in optics, telecommunications, and hardware engineering. It focuses on the quality of the 'path' that the data or signal travels through. It is not about the data itself, but the 'transmissive' capacity of the channel it uses.",
+    "synonyms": [
+      "conductive",
+      "transparent",
+      "passing"
+    ],
+    "antonyms": [
+      "opaque",
+      "blocking"
+    ],
+    "nounForm": "transmission",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmissive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Optics, telecommunications, hardware engineering",
+    "usageTip": "Use 'transmissive' to describe materials or channels that allow signals to pass.",
+    "commonMistake": "Confusing it with 'transmissible' (which means capable of being passed).",
+    "collocations": [
+      "transmissive property",
+      "transmissive efficiency",
+      "transmissive cable"
+    ]
+  }
+]

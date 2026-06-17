@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Harm",
+    "meaning": "Physical or mental damage; injury.",
+    "shortMeaning": "damage, injury",
+    "example": "The storm did a lot of harm to the crops.",
+    "example2": "I meant no harm by my comment.",
+    "example3": "Too much sun can harm your skin.",
+    "Explanation": "'Harm' is a noun and a verb meaning to cause injury or damage. As a noun, it's often used in the phrase 'do harm'. As a verb, it's a general term for causing negative effects. It's less severe than 'destroy' but indicates negative consequences. The adjective is 'harmful'. The concept of 'do no harm' is a fundamental principle in medicine and ethics. It's a simple, powerful word for discussing the negative impacts of actions, substances, or events on people, animals, the environment, or reputations.",
+    "synonyms": [
+      "damage",
+      "injure",
+      "hurt"
+    ],
+    "antonyms": [
+      "benefit",
+      "help",
+      "protect"
+    ],
+    "nounForm": "harm",
+    "verbForm": "harm",
+    "adjectiveForm": "harmful",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Health, safety, relationships, environment",
+    "usageTip": "Common phrases: 'come to no harm', 'out of harm's way', 'more harm than good'.",
+    "commonMistake": "Confusing 'harm' with 'arm' (body part).",
+    "collocations": [
+      "bodily harm",
+      "psychological harm",
+      "harm reduction"
+    ]
+  },
+  {
+    "word": "Harm",
+    "meaning": "Physical or mental damage or injury to someone or something",
+    "shortMeaning": "damage or injury",
+    "example": "Spilled water can cause serious harm to your laptop's motherboard.",
+    "example2": "The new policy was designed to prevent harm to the environment.",
+    "example3": "Hackers often intend to cause financial harm to large companies.",
+    "Explanation": "The word 'harm' refers to any kind of negative effect, damage, or hurt. In an IT context, it is frequently used in discussions about cybersecurity, data integrity, and hardware safety. Unlike 'broken,' which implies something is non-functional, 'harm' can be a gradual or partial loss of value or health. It can be used as both a noun (the damage itself) and a verb (the act of causing damage). In ethical AI discussions, the goal is often to minimize 'harm' to users.",
+    "synonyms": [
+      "damage",
+      "injury",
+      "detriment"
+    ],
+    "antonyms": [
+      "benefit",
+      "assistance",
+      "protection"
+    ],
+    "nounForm": "harm",
+    "verbForm": "harm",
+    "adjectiveForm": "harmful",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Safety, security, and ethics",
+    "usageTip": "Use 'harm' when discussing negative consequences or physical damage to equipment.",
+    "commonMistake": "Confusing 'harm' with 'hurt' (hurt is usually for physical pain in people).",
+    "collocations": [
+      "cause harm",
+      "do harm",
+      "harmful software"
+    ]
+  }
+]

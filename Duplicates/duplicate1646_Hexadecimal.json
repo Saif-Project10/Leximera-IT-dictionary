@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Hexadecimal",
+    "meaning": "A numbering system that uses 16 symbols: 0–9 and A–F",
+    "shortMeaning": "base-16 system",
+    "example": "Computer memory addresses are usually written in hexadecimal format.",
+    "example2": "Hexadecimal is used because it is much shorter than binary for humans to read.",
+    "example3": "The decimal number 15 is represented as 'F' in hexadecimal.",
+    "Explanation": "Hexadecimal (often called 'hex') is a base-16 number system. It is used in computing because one hex digit can represent exactly four bits (a nibble) of binary data. This makes it a very efficient way to display long strings of 1s and 0s. The symbols used are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F (where A is 10 and F is 15). It is used everywhere in IT, from color codes and MAC addresses to debugging computer code and viewing raw data in a file.",
+    "synonyms": [
+      "base-16",
+      "hex"
+    ],
+    "antonyms": [
+      "decimal (base-10)",
+      "binary (base-2)"
+    ],
+    "nounForm": "hexadecimal",
+    "verbForm": "N/A",
+    "adjectiveForm": "hexadecimal",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Programming, networking, and digital colors",
+    "usageTip": "Use 'hex' as a common short form in daily tech conversation.",
+    "commonMistake": "Thinking 'G' is a valid hexadecimal character (it only goes up to 'F').",
+    "collocations": [
+      "hexadecimal value",
+      "convert to hexadecimal",
+      "hexadecimal format"
+    ]
+  },
+  {
+    "word": "Hexadecimal",
+    "meaning": "A base-16 number system used in computing",
+    "shortMeaning": "base-16 math",
+    "example": "Colors in web design are often represented in hexadecimal format.",
+    "example2": "The memory address is displayed in hexadecimal.",
+    "example3": "He converted the binary value to hexadecimal for debugging.",
+    "Explanation": "The word 'hexadecimal' refers to a numbering system that uses 16 symbols: 0-9 and A-F. Computers work with binary (0s and 1s), but binary is very hard for humans to read. Hexadecimal is a human-readable way to represent binary data. You will see it constantly in color codes (e.g., #FFFFFF), memory addresses, and data inspection. It is a fundamental IT concept that every developer needs to understand.",
+    "synonyms": [
+      "hex",
+      "base-16"
+    ],
+    "antonyms": [
+      "decimal",
+      "binary"
+    ],
+    "nounForm": "hexadecimal",
+    "verbForm": "N/A",
+    "adjectiveForm": "hexadecimal",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Web design, memory management, programming",
+    "usageTip": "Use 'hexadecimal' (or 'hex') to describe colors or memory data.",
+    "commonMistake": "Miscalculating the value of hexadecimal when converting to decimal.",
+    "collocations": [
+      "hexadecimal format",
+      "hexadecimal code",
+      "hexadecimal address"
+    ]
+  }
+]

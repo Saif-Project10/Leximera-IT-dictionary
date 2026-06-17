@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-toggleable",
+    "meaning": "Not able to be switched on and off or between two states.",
+    "shortMeaning": "cannot be toggled",
+    "example": "That setting is permanent and non-toggleable in the basic version.",
+    "example2": "The emergency light is non-toggleable; it turns on automatically.",
+    "example3": "A non-toggleable button remains in one fixed state.",
+    "Explanation": "'Non-toggleable' is a term often found in user interface (UI) design, software, and electronics. It describes a feature, button, or setting that cannot be changed by the user between an on/off or yes/no state. This could be due to design, safety, or technical reasons. Knowing this term helps when discussing user controls and interface limitations.",
+    "synonyms": [
+      "fixed",
+      "permanent",
+      "unswitchable",
+      "static"
+    ],
+    "antonyms": [
+      "toggleable",
+      "switchable",
+      "changeable",
+      "adjustable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-toggleable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software UI, electronics, settings menus",
+    "usageTip": "Use this word when describing a control or feature that users cannot turn on/off.",
+    "commonMistake": "Confusing it with 'disabled'; a non-toggleable item was never designed to be switched.",
+    "collocations": [
+      "non-toggleable setting",
+      "non-toggleable feature",
+      "non-toggleable button"
+    ]
+  },
+  {
+    "word": "Non-toggleable",
+    "meaning": "Not able to be switched on or off",
+    "shortMeaning": "cannot switch",
+    "example": "The setting is hardcoded and non-toggleable.",
+    "example2": "We need to make this feature toggleable, not non-toggleable.",
+    "example3": "This is a non-toggleable administrative policy.",
+    "Explanation": "The word 'non-toggleable' describes a setting, feature, or configuration that the user or administrator cannot change. It is 'locked' in its current state, either by design or because the code doesn't provide a switch. In UI/UX design, you must clearly show what is 'toggleable' and what is 'non-toggleable' to avoid confusing the user. It represents a state that is fixed and requires a deeper change (like editing code) to modify.",
+    "synonyms": [
+      "fixed",
+      "locked",
+      "permanent"
+    ],
+    "antonyms": [
+      "toggleable",
+      "configurable",
+      "switchable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-toggleable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, configuration, settings",
+    "usageTip": "Use when a user cannot change a setting.",
+    "commonMistake": "Forgetting to label non-toggleable settings, leading to user confusion.",
+    "collocations": [
+      "non-toggleable setting",
+      "feature is non-toggleable",
+      "non-toggleable configuration"
+    ]
+  }
+]

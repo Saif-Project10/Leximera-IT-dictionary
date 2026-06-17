@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Hold",
+    "meaning": "To have or keep in one's hand; to contain; to organize an event.",
+    "shortMeaning": "grasp; contain; organize",
+    "example": "Please hold my bag for a moment.",
+    "example2": "This stadium can hold 50,000 people.",
+    "example3": "The university will hold its graduation ceremony in May.",
+    "Explanation": "Hold is an extremely common verb with many meanings. The basic meaning is to have something in your hand or arms. It extends to meanings like containing ('the bottle holds water'), maintaining ('hold a position'), organizing ('hold a meeting'), and believing ('hold an opinion'). It is also a noun meaning a grasp or a storage area on a ship. The many phrasal verbs with 'hold' (hold on, hold up, hold back) make it essential to learn. Context is key to understanding its specific meaning.",
+    "synonyms": [
+      "grasp",
+      "carry",
+      "contain",
+      "possess",
+      "conduct"
+    ],
+    "antonyms": [
+      "drop",
+      "release",
+      "let go"
+    ],
+    "nounForm": "hold",
+    "verbForm": "hold",
+    "adjectiveForm": "holding",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physical action, capacity, events, opinions",
+    "usageTip": "Remember the common phrasal verbs: hold on (wait), hold up (delay/rob), hold back (restrain).",
+    "commonMistake": "Confusing 'hold' with 'keep'. 'Hold' often implies physical grasp, while 'keep' implies possession over time.",
+    "collocations": [
+      "hold your breath",
+      "hold a meeting",
+      "get hold of",
+      "hold the line"
+    ]
+  },
+  {
+    "word": "Hold",
+    "meaning": "To keep something in a specific state or to delay an action",
+    "shortMeaning": "keep or delay",
+    "example": "Please hold the line while I check your account details.",
+    "example2": "The system will hold the transaction until the user confirms.",
+    "example3": "The bank put a hold on the check for security reasons.",
+    "Explanation": "The word 'hold' is used in IT to describe a temporary pause or a state of waiting. In telecommunications, it means keeping a caller waiting. In banking and databases, it means preventing a process from finishing until a condition is met. It implies that the action is not cancelled, just stopped for a moment. It is a very versatile word used in customer service, software logic, and physical movement. Using 'hold' suggests a temporary and controlled delay.",
+    "synonyms": [
+      "pause",
+      "retain",
+      "delay"
+    ],
+    "antonyms": [
+      "release",
+      "continue",
+      "drop"
+    ],
+    "nounForm": "hold",
+    "verbForm": "hold",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Phone calls, banking, and system states",
+    "usageTip": "Use 'hold' when you want to indicate that something will continue later.",
+    "commonMistake": "Using 'hold' when you mean 'stop' or 'cancel'—hold always implies a future release.",
+    "collocations": [
+      "on hold",
+      "place a hold",
+      "hold time"
+    ]
+  }
+]

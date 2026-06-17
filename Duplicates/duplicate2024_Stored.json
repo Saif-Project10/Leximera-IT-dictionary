@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stored",
+    "meaning": "Kept in a memory device, file, or database for future use.",
+    "shortMeaning": "kept or saved",
+    "example": "All user profiles are stored in a secure database.",
+    "example2": "The configuration settings are stored in a JSON file.",
+    "example3": "The data is stored permanently for long-term access.",
+    "Explanation": "The word 'stored' refers to the state of having data saved in a persistent or volatile medium, such as a disk, RAM, or cloud storage. It is a fundamental concept in computing, as nearly every application must store input or output. Stored data is typically indexed or organized to allow for efficient retrieval. Proper storage management is essential for data security, backup recovery, and system performance.",
+    "synonyms": [
+      "saved",
+      "kept",
+      "archived"
+    ],
+    "antonyms": [
+      "deleted",
+      "cleared",
+      "discarded"
+    ],
+    "nounForm": "storage",
+    "verbForm": "store",
+    "adjectiveForm": "stored",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management and system architecture",
+    "usageTip": "Use 'stored' when referring to data saved in memory or on disk.",
+    "commonMistake": "Confusing 'stored' (static) with 'cached' (temporary, frequently updated).",
+    "collocations": [
+      "stored in memory",
+      "stored procedure",
+      "stored data"
+    ]
+  },
+  {
+    "word": "Stored",
+    "meaning": "Kept in memory or on a disk for future use",
+    "shortMeaning": "saved",
+    "example": "The user preferences are stored in the database.",
+    "example2": "Files stored in the cloud are accessible from anywhere.",
+    "example3": "We have stored the logs for later audit.",
+    "Explanation": "The word 'stored' describes something that has been placed into long-term or short-term keeping. It implies preservation and accessibility. In programming, 'stored' often refers to procedures or data saved in a structured way for efficiency. It signifies that the information is persistent and can be retrieved whenever required. Proper management of what is stored is a core requirement for secure and reliable software applications.",
+    "synonyms": [
+      "saved",
+      "kept",
+      "archived"
+    ],
+    "antonyms": [
+      "lost",
+      "deleted",
+      "cleared"
+    ],
+    "nounForm": "storage",
+    "verbForm": "store",
+    "adjectiveForm": "stored",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Databases, file systems, applications",
+    "usageTip": "Use to describe the status of preserved data.",
+    "commonMistake": "Using 'stored' for something that was only in temporary RAM.",
+    "collocations": [
+      "stored in database",
+      "stored procedure",
+      "stored data"
+    ]
+  }
+]

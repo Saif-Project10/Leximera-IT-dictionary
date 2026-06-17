@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Impulsive",
+    "meaning": "Acting or done without forethought; driven by sudden desire or emotion",
+    "shortMeaning": "acting without thinking",
+    "example": "She made an impulsive decision to buy the car.",
+    "example2": "His impulsive nature often got him into trouble.",
+    "example3": "An impulsive gesture of kindness.",
+    "Explanation": "'Impulsive' is an adjective describing behavior that is spontaneous, unplanned, and often driven by emotions rather than logic. It can have a negative connotation (reckless, rash) or a slightly positive one (spontaneous, enthusiastic). The noun is 'impulse'. Impulsive people may act on a whim. In psychology, impulsivity is a trait. While impulsiveness can lead to fun adventures, it can also cause poor decisions. The word highlights a lack of deliberation. It's common in descriptions of personality and decision-making.",
+    "synonyms": [
+      "spontaneous",
+      "rash",
+      "hasty",
+      "unthinking",
+      "impetuous"
+    ],
+    "antonyms": [
+      "cautious",
+      "deliberate",
+      "thoughtful",
+      "prudent"
+    ],
+    "nounForm": "impulsiveness",
+    "verbForm": "impel",
+    "adjectiveForm": "impulsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Personality, decisions, purchases, actions",
+    "usageTip": "Use 'impulsive' to describe actions or people that act suddenly based on feelings, not careful thought.",
+    "commonMistake": "Confusing 'impulsive' with 'compulsive'. Impulsive is spontaneous; compulsive is driven by an irresistible urge.",
+    "collocations": [
+      "impulsive buying",
+      "impulsive behavior",
+      "impulsive decision"
+    ]
+  },
+  {
+    "word": "Impulsive",
+    "meaning": "Acting without thinking or planning",
+    "shortMeaning": "unplanned",
+    "example": "Making impulsive changes to the database is dangerous.",
+    "example2": "Avoid impulsive decisions when debugging critical systems.",
+    "example3": "His impulsive coding style leads to many avoidable bugs.",
+    "Explanation": "The word 'impulsive' describes acting on sudden desires without careful consideration or planning. In IT, 'impulsive' actions—like changing core settings, deleting files, or pushing untested code—are a major cause of system crashes and security risks. Professional development requires patience, planning, and testing. If you feel the urge to act on impulse, stop and think, plan your change, and test it first. Impulsive behavior is the enemy of stability in any technical project.",
+    "synonyms": [
+      "rash",
+      "hasty",
+      "unplanned"
+    ],
+    "antonyms": [
+      "planned",
+      "calculated",
+      "cautious"
+    ],
+    "nounForm": "impulsiveness",
+    "verbForm": "N/A",
+    "adjectiveForm": "impulsive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, risk, behavior",
+    "usageTip": "Use 'impulsive' to warn against acting without thinking.",
+    "commonMistake": "Confusing 'impulsive' with 'fast'.",
+    "collocations": [
+      "impulsive action",
+      "impulsive decision",
+      "impulsive change"
+    ]
+  }
+]

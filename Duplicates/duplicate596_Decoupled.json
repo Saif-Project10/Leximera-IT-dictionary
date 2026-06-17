@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Decoupled",
+    "meaning": "Separated, disconnected, or no longer linked.",
+    "shortMeaning": "separated or disconnected",
+    "example": "In modern software, the user interface is decoupled from the database.",
+    "example2": "The researcher decoupled the two variables to study them independently.",
+    "example3": "Their success was decoupled from the overall market trends.",
+    "Explanation": "Decoupled is a term often used in technical and business contexts to describe things that have been separated so they can function independently. It is the opposite of 'coupled'. In software architecture, decoupled components are desirable because changes in one don't break the other. In economics, it might mean that two markets are no longer moving together. The word implies a deliberate action of separation to reduce dependency and increase flexibility or stability. It's a more specific and technical word than 'separated'.",
+    "synonyms": [
+      "separated",
+      "disconnected",
+      "detached",
+      "isolated",
+      "uncoupled"
+    ],
+    "antonyms": [
+      "coupled",
+      "connected",
+      "linked",
+      "attached"
+    ],
+    "nounForm": "decoupling",
+    "verbForm": "decouple",
+    "adjectiveForm": "decoupled",
+    "partOfSpeech": "adjective (often past participle)",
+    "commonContext": "Software engineering, systems design, economics, physics",
+    "usageTip": "Use it to describe a deliberate separation of interdependent parts to make a system more modular.",
+    "commonMistake": "Using it in everyday conversation where 'separated' or 'unlinked' would be simpler.",
+    "collocations": [
+      "decoupled architecture",
+      "decoupled systems",
+      "decoupled components"
+    ]
+  },
+  {
+    "word": "Decoupled",
+    "meaning": "Separated so that components can function independently",
+    "shortMeaning": "independent",
+    "example": "The frontend is decoupled from the backend.",
+    "example2": "Decoupled systems are easier to maintain.",
+    "example3": "We decoupled the services using a message queue.",
+    "Explanation": "Decoupling is the process of reducing dependencies between components. The verb is 'decouple', and the noun is 'decoupling'. Decoupled systems allow you to update or replace one component without breaking others. This is essential for scaling and agility. It is the opposite of 'tight coupling', where everything is stuck together, making changes very difficult.",
+    "synonyms": [
+      "independent",
+      "separated",
+      "modular"
+    ],
+    "antonyms": [
+      "coupled",
+      "dependent",
+      "tightly-integrated"
+    ],
+    "nounForm": "decoupling",
+    "verbForm": "decouple",
+    "adjectiveForm": "decoupled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software architecture, microservices, APIs",
+    "usageTip": "Use when describing architecture that limits dependencies.",
+    "commonMistake": "Decoupling too much, which leads to unnecessary complexity.",
+    "collocations": [
+      "decoupled architecture",
+      "decoupled services",
+      "tightly coupled"
+    ]
+  }
+]

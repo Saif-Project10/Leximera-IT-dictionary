@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Interactive",
+    "meaning": "Involving communication or direct action between people or things.",
+    "shortMeaning": "involving interaction",
+    "example": "The museum has many interactive exhibits for children.",
+    "example2": "The software features an interactive tutorial.",
+    "example3": "The course uses interactive teaching methods.",
+    "Explanation": "'Interactive' is an adjective describing systems, processes, or experiences that involve two-way communication or action between participants or between user and system. It suggests responsiveness - the system reacts to user input. Interactive media (video games, websites) respond to user actions. Interactive learning involves student participation. The word has become increasingly important with digital technology that enables user engagement beyond passive consumption. Interactive systems are often more engaging and effective for learning, entertainment, and communication. The noun is 'interaction'. It emphasizes mutual influence rather than one-way transmission.",
+    "synonyms": [
+      "participatory",
+      "responsive",
+      "two-way",
+      "engaging"
+    ],
+    "antonyms": [
+      "passive",
+      "one-way",
+      "non-responsive",
+      "static"
+    ],
+    "nounForm": "interaction",
+    "verbForm": "interact",
+    "adjectiveForm": "interactive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, education, exhibits, media, systems",
+    "usageTip": "Often used before nouns: 'interactive website', 'interactive learning', 'interactive display'.",
+    "commonMistake": "Using for any technology. Interactive implies two-way communication; some digital content is passive viewing.",
+    "collocations": [
+      "interactive whiteboard",
+      "interactive session",
+      "highly interactive"
+    ]
+  },
+  {
+    "word": "Interactive",
+    "meaning": "Allowing a two-way flow of information between a user and a system",
+    "shortMeaning": "Two-way/engaging",
+    "example": "The application provides an interactive terminal interface.",
+    "example2": "We built an interactive dashboard for data analysis.",
+    "example3": "The training module is fully interactive.",
+    "Explanation": "The word 'interactive' means the user can input data and the system responds in real-time. It is an adjective. In web and software design, this is a core requirement for modern UX. Interactive tools (like web maps or live shells) are generally preferred over static ones (like plain text reports) because they allow users to explore data. It is a highly positive descriptor in professional design.",
+    "synonyms": [
+      "engaging",
+      "real-time",
+      "responsive"
+    ],
+    "antonyms": [
+      "static",
+      "passive",
+      "non-interactive"
+    ],
+    "nounForm": "interaction",
+    "verbForm": "interact",
+    "adjectiveForm": "interactive",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, web design, apps",
+    "usageTip": "Use to describe systems where the user actively participates.",
+    "commonMistake": "Using 'interactive' for systems that just show basic animations.",
+    "collocations": [
+      "interactive interface",
+      "interactive dashboard",
+      "fully interactive"
+    ]
+  }
+]

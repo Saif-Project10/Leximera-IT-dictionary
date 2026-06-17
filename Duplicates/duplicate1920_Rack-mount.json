@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Rack-mount",
+    "meaning": "Designed to be mounted in a standard equipment rack",
+    "shortMeaning": "rack-compatible",
+    "example": "We need a rack-mount server for the data center.",
+    "example2": "These rack-mount switches are very efficient.",
+    "example3": "The rack-mount kit is included in the package.",
+    "Explanation": "Rack-mount describes hardware built to fit into the standard metal frames (racks) used in data centers. These frames keep servers, switches, and routers organized and cool. Rack-mount devices have specific dimensions to ensure they fit correctly. They are usually designed for professional environments where density and organization are critical. Without the rack-mount form factor, server rooms would be very messy.",
+    "synonyms": [
+      "rackable",
+      "server-grade"
+    ],
+    "antonyms": [
+      "desktop",
+      "tower"
+    ],
+    "nounForm": "rack",
+    "verbForm": "rack-mount",
+    "adjectiveForm": "rack-mount",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data centers, hardware, infrastructure",
+    "usageTip": "Use this for hardware designed specifically for server racks.",
+    "commonMistake": "Trying to mount desktop hardware in a rack.",
+    "collocations": [
+      "rack-mount server",
+      "rack-mount switch",
+      "rack-mount kit"
+    ]
+  },
+  {
+    "word": "Rack-mount",
+    "meaning": "Designed to be fixed inside a standard hardware rack frame",
+    "shortMeaning": "rack-compatible hardware",
+    "example": "We bought a new rack-mount switch for our office network closet.",
+    "example2": "The server room only accepts rack-mount equipment to save space.",
+    "example3": "This device is a rack-mount model that takes up two units of space.",
+    "Explanation": "The adjective 'rack-mount' describes hardware devices specifically manufactured with dimensions and brackets that fit into a standard 19-inch or 23-inch wide equipment rack. This form factor is essential for space optimization and clean cable management in data centers. Devices like routers, switches, servers, and UPS units are often classified as rack-mount models. It contrasts with desktop or standalone hardware shapes.",
+    "synonyms": [
+      "rack-mountable",
+      "rack-compatible"
+    ],
+    "antonyms": [
+      "standalone",
+      "desktop model"
+    ],
+    "nounForm": "rack-mount",
+    "verbForm": "rack-mount",
+    "adjectiveForm": "rack-mount",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware procurement, networking, and server infrastructure",
+    "usageTip": "Use 'rack-mount' as an adjective to describe hardware designed for server enclosures.",
+    "commonMistake": "Writing 'rack mount' without a hyphen when using it directly as a compound modifier.",
+    "collocations": [
+      "rack-mount server",
+      "rack-mount switch",
+      "rack-mount chassis"
+    ]
+  }
+]

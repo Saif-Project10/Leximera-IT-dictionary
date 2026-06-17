@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Non-installable",
+    "meaning": "Not capable of being installed, especially software or an application",
+    "shortMeaning": "cannot be installed",
+    "example": "The software is non-installable on older operating systems.",
+    "example2": "They flagged the file as non-installable due to security risks.",
+    "example3": "A non-installable demo version is available online.",
+    "Explanation": "'Non-installable' is a technical adjective used primarily in computing and software. It describes a program, update, or component that cannot be installed on a given system. This could be due to incompatibility, lack of prerequisites, or intentional design (like a portable app). It is a factual descriptor used in error messages, system requirements, and software documentation. It directly addresses a key function of software—installation.",
+    "synonyms": [
+      "incompatible",
+      "uninstallable"
+    ],
+    "antonyms": [
+      "installable",
+      "compatible"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "install",
+    "adjectiveForm": "non-installable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software error messages, system requirements, IT support",
+    "usageTip": "Often appears in technical documentation or error pop-ups.",
+    "commonMistake": "Using it to mean 'not yet installed'—it means 'cannot be installed'.",
+    "collocations": [
+      "non-installable software",
+      "non-installable package",
+      "non-installable on"
+    ]
+  },
+  {
+    "word": "Non-installable",
+    "meaning": "Software that cannot be installed on a specific system or platform",
+    "shortMeaning": "cannot be installed",
+    "example": "The legacy module is non-installable on modern OS versions.",
+    "example2": "Some tools are provided as portable, non-installable versions.",
+    "example3": "Check why the package is marked as non-installable.",
+    "Explanation": "A 'non-installable' item is one that cannot be added to a computer's software environment. This usually happens because of incompatibility with the OS, missing dependencies, or because the software is designed to run in a portable format (directly from a drive without installing). When a package is non-installable, it is important to check the requirements, as you might just be missing a simple update or a library that would make it installable.",
+    "synonyms": [
+      "incompatible",
+      "un-installable"
+    ],
+    "antonyms": [
+      "installable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-installable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software management",
+    "usageTip": "Use 'non-installable' for software that won't run via the standard installer.",
+    "commonMistake": "Ignoring compatibility logs; they usually explain *why* it is non-installable.",
+    "collocations": [
+      "non-installable package",
+      "non-installable version",
+      "remains non-installable"
+    ]
+  }
+]

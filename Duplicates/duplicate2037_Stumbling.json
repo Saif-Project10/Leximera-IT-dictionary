@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stumbling",
+    "meaning": "Tripping or hesitating; making mistakes while performing a task.",
+    "shortMeaning": "tripping or hesitant",
+    "example": "He was stumbling over the explanation during the presentation.",
+    "example2": "The system is stumbling because of excessive memory usage.",
+    "example3": "Avoid stumbling during the installation process.",
+    "Explanation": "The word 'stumbling' refers to physical or figurative tripping. In programming or professional tasks, a 'stumbling block' is an obstacle that causes you to make mistakes or halt progress. Stumbling implies that things are not running smoothly. It might be due to a lack of preparation, complex errors, or a system that is struggling under pressure. It is important to identify the cause and fix it.",
+    "synonyms": [
+      "hesitating",
+      "tripping",
+      "faltering"
+    ],
+    "antonyms": [
+      "succeeding",
+      "advancing",
+      "flowing"
+    ],
+    "nounForm": "stumble",
+    "verbForm": "stumble",
+    "adjectiveForm": "stumbling",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Performance and presentations",
+    "usageTip": "Use 'stumbling' to describe a process that is struggling.",
+    "commonMistake": "Confusing 'stumbling' with 'failing'; stumbling implies still trying, but awkwardly.",
+    "collocations": [
+      "stumbling block",
+      "stumbling through",
+      "system stumbling"
+    ]
+  },
+  {
+    "word": "Stumbling",
+    "meaning": "Making mistakes or encountering difficulties; tripping.",
+    "shortMeaning": "struggling or tripping",
+    "example": "The user was stumbling through the interface.",
+    "example2": "The system is stumbling due to heavy traffic.",
+    "example3": "Avoid stumbling over poorly written documentation.",
+    "Explanation": "The word 'stumbling' describes someone or something that is struggling to move forward smoothly or making errors along the way. In IT, a 'stumbling block' is a common term for a problem that stops progress. It is the gerund/participle of 'stumble'. Use this word to describe scenarios where a user, a team, or a system is encountering obstacles or failing to perform smoothly. It adds a human element to technical performance discussions.",
+    "synonyms": [
+      "struggling",
+      "faltering",
+      "tripping"
+    ],
+    "antonyms": [
+      "succeeding",
+      "thriving",
+      "advancing"
+    ],
+    "nounForm": "stumble",
+    "verbForm": "stumble",
+    "adjectiveForm": "stumbling",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "User experience, progress, troubleshooting",
+    "usageTip": "Use 'stumbling' to describe difficulty moving forward.",
+    "commonMistake": "Confusing 'stumbling' (difficulty) with 'stuttering' (repetitive motion).",
+    "collocations": [
+      "stumbling block",
+      "stumbling through",
+      "stumbling performance"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unceasing",
+    "meaning": "Continuing without stopping",
+    "shortMeaning": "non-stop",
+    "example": "The server faces unceasing requests during peak hours.",
+    "example2": "He gave unceasing attention to the system logs.",
+    "example3": "The hard drive made an unceasing humming noise.",
+    "Explanation": "Unceasing describes an action or state that does not stop or let up. In an IT context, it is often used to describe constant traffic, background processes, or even technical challenges. It implies a sense of persistence and intensity. While it can suggest reliability when referring to power or uptime, it can also describe an overwhelming workload. The term emphasizes the continuous nature of the subject being discussed.",
+    "synonyms": [
+      "constant",
+      "continuous",
+      "persistent"
+    ],
+    "antonyms": [
+      "intermittent",
+      "sporadic",
+      "temporary"
+    ],
+    "nounForm": "unceasingness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unceasing",
+    "partOfSpeech": "adjective",
+    "commonContext": "System monitoring, workloads, hardware states",
+    "usageTip": "Use when describing something that persists without interruption.",
+    "commonMistake": "Confusing unceasing with 'infinite' (which implies it never ends).",
+    "collocations": [
+      "unceasing activity",
+      "unceasing demands",
+      "unceasing flow"
+    ]
+  },
+  {
+    "word": "Unceasing",
+    "meaning": "Continuing without stopping.",
+    "shortMeaning": "never stopping",
+    "example": "The server faces unceasing requests from users.",
+    "example2": "He made an unceasing effort to fix the bug.",
+    "example3": "The unceasing noise from the fan was annoying.",
+    "Explanation": "The word 'unceasing' describes something that does not stop, even for a moment. In technical contexts, it is often used to describe high-traffic systems that handle constant requests. It implies a level of intensity and persistence. While it can be positive, such as 'unceasing effort', it can also describe system stress. It is a more formal and descriptive word than just saying 'continuous' or 'constant'.",
+    "synonyms": [
+      "continuous",
+      "constant",
+      "non-stop"
+    ],
+    "antonyms": [
+      "intermittent",
+      "sporadic",
+      "ceasing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unceasing",
+    "partOfSpeech": "adjective",
+    "commonContext": "System performance and project effort",
+    "usageTip": "Use this to describe processes that never stop.",
+    "commonMistake": "Using 'unceasing' for something that stops frequently.",
+    "collocations": [
+      "unceasing effort",
+      "unceasing requests",
+      "unceasing activity"
+    ]
+  }
+]

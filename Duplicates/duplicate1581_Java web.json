@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Java web",
+    "meaning": "The use of Java technologies to create websites and internet-based applications",
+    "shortMeaning": "Web development with Java",
+    "example": "Java web technologies are often used for secure government portals.",
+    "example2": "He is learning Java web development to build a new e-commerce site.",
+    "example3": "The Java web ecosystem includes tools like Spring and Servlets.",
+    "Explanation": "Java web is a broad term that covers all the different ways Java is used on the internet. Since its early days, Java has been a top choice for 'server-side' development. This involves creating the logic that runs on a web server rather than in a user's browser. Java web development is known for being very stable, secure, and capable of handling millions of users. It uses a variety of tools like Servlets, JSPs, and frameworks like Spring Boot. While other languages like JavaScript (Node.js) are popular, Java remains a standard in large companies for building their most important web services. It provides a reliable foundation for complex internet projects.",
+    "synonyms": [
+      "Java EE web",
+      "Jakarta web",
+      "Server-side Java"
+    ],
+    "antonyms": [
+      "Desktop Java",
+      "Embedded Java"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "Java web",
+    "partOfSpeech": "adjective",
+    "commonContext": "Online services and backend development",
+    "usageTip": "Focus on Java web technologies if you want to work on large-scale business websites.",
+    "commonMistake": "Confusing Java web with JavaScript; they are completely different languages.",
+    "collocations": [
+      "Java web service",
+      "Java web server",
+      "Java web development"
+    ]
+  },
+  {
+    "word": "Java web",
+    "meaning": "Applications or services built using the Java programming language to run on the web",
+    "shortMeaning": "Java-based web apps",
+    "example": "He is learning how to build a Java web application using Spring Boot.",
+    "example2": "Many enterprise systems rely on Java web technology for scalability.",
+    "example3": "The company migrated their legacy system to a modern Java web platform.",
+    "Explanation": "The term 'Java web' refers to the set of technologies and frameworks used to create web applications with Java. It includes things like Servlets, JSP, and various frameworks that handle server-side logic. It is primarily used in enterprise environments where security and performance are critical. Developers use this to create robust, backend-driven websites and APIs. It is a broad category, so identifying specific frameworks like Jakarta EE or Spring is often necessary.",
+    "synonyms": [
+      "Java web development",
+      "J2EE application",
+      "Java server-side"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Software engineering, web development",
+    "usageTip": "Usually refers to the development ecosystem rather than a single tool.",
+    "commonMistake": "Confusing it with JavaScript, which is an entirely different language.",
+    "collocations": [
+      "Java web application",
+      "Java web development",
+      "Java web framework"
+    ]
+  }
+]

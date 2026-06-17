@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Vital",
+    "meaning": "Absolutely necessary or important; essential for life",
+    "shortMeaning": "essential",
+    "example": "Water is vital for all living things.",
+    "example2": "Clear communication is vital to the success of the project.",
+    "example3": "The witness provided vital information to the police.",
+    "Explanation": "Vital describes something that is crucial, indispensable, or full of life and energy. It comes from the Latin word for 'life' ('vita'). In one sense, it means necessary for life itself (vital organs). In a more general sense, it means critically important for something to function or succeed. It is a stronger word than 'important'. Using 'vital' emphasizes that without this thing, there would be failure or collapse. It is commonly used in both medical and general contexts.",
+    "synonyms": [
+      "essential",
+      "crucial",
+      "critical",
+      "indispensable"
+    ],
+    "antonyms": [
+      "unimportant",
+      "insignificant",
+      "nonessential",
+      "optional"
+    ],
+    "nounForm": "vitality",
+    "verbForm": "N/A",
+    "adjectiveForm": "vital",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, project management, importance, energy",
+    "usageTip": "Use 'vital' for things that are absolutely necessary, not just helpful.",
+    "commonMistake": "Using 'vital' for things that are merely important but not critical.",
+    "collocations": [
+      "vital role",
+      "vital signs",
+      "vital importance"
+    ]
+  },
+  {
+    "word": "Vital",
+    "meaning": "Absolutely necessary or extremely important for success",
+    "shortMeaning": "critical",
+    "example": "System security is vital for any organization.",
+    "example2": "Having a backup is vital in case of server failure.",
+    "example3": "The developer played a vital role in the launch.",
+    "Explanation": "The word 'vital' describes something that is essential to the life, function, or success of a system. In IT, a vital component is one that, if it fails, will cause the entire system to crash or stop working. For example, a database backup is vital. Recognizing what is vital helps engineers prioritize their work and allocate resources effectively during a crisis. It is a strong, definitive word that implies there is no alternative. Use it when emphasizing the importance of specific security measures or project tasks.",
+    "synonyms": [
+      "critical",
+      "essential",
+      "crucial"
+    ],
+    "antonyms": [
+      "unimportant",
+      "non-essential",
+      "trivial"
+    ],
+    "nounForm": "vitality",
+    "verbForm": "N/A",
+    "adjectiveForm": "vital",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, system design, security",
+    "usageTip": "Use 'vital' to convey the highest level of priority.",
+    "commonMistake": "Overusing 'vital' for things that are merely 'helpful'.",
+    "collocations": [
+      "vital information",
+      "vital role",
+      "is vital to"
+    ]
+  },
+  {
+    "word": "Vital",
+    "meaning": "Absolutely necessary or essential to the success or function of something.",
+    "shortMeaning": "essential",
+    "example": "Reliable data backups are vital for our business continuity.",
+    "example2": "Security updates are a vital part of maintenance.",
+    "example3": "Communication is vital for a distributed development team.",
+    "Explanation": "‘Vital’ is used to highlight components or practices that, if missing, would cause a system to fail. In IT, 'vital' is stronger than 'important'; it means 'critical'. A vital service cannot be ignored or deferred. When an IT architect identifies something as 'vital', they are flagging it as a priority for stability, performance, or security. It is the core, 'life-support' aspect of a technical project.",
+    "synonyms": [
+      "critical",
+      "essential",
+      "crucial"
+    ],
+    "antonyms": [
+      "trivial",
+      "optional",
+      "non-essential"
+    ],
+    "nounForm": "vitality",
+    "verbForm": "N/A",
+    "adjectiveForm": "vital",
+    "partOfSpeech": "adjective",
+    "commonContext": "System management and prioritization",
+    "usageTip": "Use for things that are strictly necessary for survival.",
+    "commonMistake": "Overusing the word; don't label everything 'vital'.",
+    "collocations": [
+      "vital component",
+      "vital system",
+      "vital information"
+    ]
+  }
+]

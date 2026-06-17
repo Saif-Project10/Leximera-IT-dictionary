@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Bare",
+    "meaning": "Not covered or clothed; basic and simple.",
+    "shortMeaning": "uncovered; minimal",
+    "example": "The trees were bare in winter. (uncovered)",
+    "example2": "He told the bare facts of the story. (basic)",
+    "example3": "The room was bare except for a single chair. (empty)",
+    "Explanation": "Bare means without the usual covering, decoration, or addition. It can describe physical lack (bare feet, bare walls) or figurative simplicity (bare minimum, bare essentials). It emphasizes starkness, exposure, or the most fundamental level. It's different from 'bear' (the animal or to carry). The word often has a neutral or slightly negative connotation, suggesting a lack of comfort or embellishment. However, 'bare bones' means the essential framework. It's a simple but powerful adjective for describing absence or simplicity.",
+    "synonyms": [
+      "naked",
+      "uncovered",
+      "empty",
+      "plain",
+      "minimal"
+    ],
+    "antonyms": [
+      "covered",
+      "clothed",
+      "decorated",
+      "full"
+    ],
+    "nounForm": "bareness",
+    "verbForm": "bare (to uncover)",
+    "adjectiveForm": "bare",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Nature, rooms, facts, necessities",
+    "usageTip": "Remember the spelling difference: 'bare' for uncovered, 'bear' for the animal or to endure.",
+    "commonMistake": "Confusing 'bare' with 'bear' in writing.",
+    "collocations": [
+      "bare minimum",
+      "bare feet",
+      "bare bones",
+      "lay bare"
+    ]
+  },
+  {
+    "word": "Bare",
+    "meaning": "Empty, uncovered, or containing only the most basic and essential parts",
+    "shortMeaning": "empty or minimal",
+    "example": "The server operating system was installed with just the bare necessities.",
+    "example2": "He started the website project from a bare template with no pre-styled CSS.",
+    "example3": "The bare minimal code required to launch the server is just five lines.",
+    "Explanation": "The word 'bare' indicates that something is stripped down, basic, or lacks extra decoration. In programming, a bare repository or environment contains only core files without additional plugins, libraries, or files. Starting with bare structures allows developers to build clean systems without dealing with default bloatware. The noun form is 'bareness'. It emphasizes clean, minimal foundations.",
+    "synonyms": [
+      "minimal",
+      "naked",
+      "unadorned"
+    ],
+    "antonyms": [
+      "loaded",
+      "decorated",
+      "bloated"
+    ],
+    "nounForm": "bareness",
+    "verbForm": "bare",
+    "adjectiveForm": "bare",
+    "partOfSpeech": "adjective",
+    "commonContext": "Clean installation environments, coding setups, and minimal UI wireframes",
+    "usageTip": "Use 'bare' to highlight that an environment or file contains no extra, unnecessary fluff.",
+    "commonMistake": "Confusing 'bare' with 'bear', which is either an animal or means to carry a heavy load.",
+    "collocations": [
+      "bare minimum",
+      "bare repository",
+      "bare essentials"
+    ]
+  }
+]

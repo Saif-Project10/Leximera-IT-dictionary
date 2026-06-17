@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Public",
+    "meaning": "Relating to or involving people in general; not private",
+    "shortMeaning": "of the people, open",
+    "example": "Public opinion is important in a democracy.",
+    "example2": "The park is a public space.",
+    "example3": "She gave a speech in public.",
+    "Explanation": "'Public' is a fundamental adjective (and noun) contrasting with 'private'. It describes things that belong to, are funded by, or are open to all members of a community or nation. It covers government (public sector), spaces (public transport), and information (public record). As a noun ('the public'), it refers to the general population. The concept is central to politics, law, and social life. It implies accessibility, shared ownership, and collective interest.",
+    "synonyms": [
+      "communal",
+      "open",
+      "governmental"
+    ],
+    "antonyms": [
+      "private",
+      "secret",
+      "personal"
+    ],
+    "nounForm": "public",
+    "verbForm": "publicize",
+    "adjectiveForm": "public",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Government, services, spaces, relations, health",
+    "usageTip": "As an adjective, it comes before a noun (public library). As a noun, it takes 'the' (appeal to the public).",
+    "commonMistake": "Confusing 'public' with 'publish'. 'Public' is about openness; 'publish' is to make publicly available.",
+    "collocations": [
+      "public speaking",
+      "public health",
+      "in public"
+    ]
+  },
+  {
+    "word": "Public",
+    "meaning": "Accessible or known to everyone; not private.",
+    "shortMeaning": "open to everyone",
+    "example": "The API endpoint is public and requires no authentication.",
+    "example2": "We moved the repository to public access.",
+    "example3": "Public keys are used for encryption in secure communication.",
+    "Explanation": "In IT, 'public' refers to resources that are open to any user, anywhere, without restricted access. A public server, public cloud, or public key is accessible to the world. It is the opposite of 'private' or 'internal'. While being public is great for transparency and accessibility, it also requires much stronger security measures to protect against attacks. You must always be careful about what data you designate as public vs. private.",
+    "synonyms": [
+      "open",
+      "accessible",
+      "unrestricted"
+    ],
+    "antonyms": [
+      "private",
+      "internal",
+      "restricted"
+    ],
+    "nounForm": "public",
+    "verbForm": "N/A",
+    "adjectiveForm": "public",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Networking, security, access control",
+    "usageTip": "Use to distinguish between things open to the world versus restricted.",
+    "commonMistake": "Making sensitive endpoints public by accident.",
+    "collocations": [
+      "public access",
+      "public key",
+      "public cloud"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Recursive",
+    "meaning": "Relating to or involving a process that repeats itself in a self-similar way",
+    "shortMeaning": "repeating within itself",
+    "example": "The function uses a recursive algorithm to calculate factorial.",
+    "example2": "She fell into a recursive loop of anxiety.",
+    "example3": "The definition was recursive, defining a word using the word itself.",
+    "Explanation": "'Recursive' describes something that is defined in terms of itself or that repeats in a nested pattern. In computing, a recursive function calls itself to solve smaller instances of the same problem. In language, a recursive definition is circular. In thought, it can mean going in circles. Understanding recursion requires thinking about base cases (stopping points) and recursive steps. It's a powerful but sometimes confusing concept in math, programming, and logic.",
+    "synonyms": [
+      "self-referential",
+      "repetitive",
+      "iterative",
+      "circular"
+    ],
+    "antonyms": [
+      "iterative (non-recursive)",
+      "straightforward",
+      "linear"
+    ],
+    "nounForm": "recursion",
+    "verbForm": "recurse",
+    "adjectiveForm": "recursive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, mathematics, linguistics, logic, programming",
+    "usageTip": "Primarily a technical term. In everyday use, it can describe a tedious, repeating process.",
+    "commonMistake": "Creating a recursive function without a proper base case, causing it to run forever (infinite recursion).",
+    "collocations": [
+      "recursive function",
+      "recursive algorithm",
+      "recursive process",
+      "recursive definition"
+    ]
+  },
+  {
+    "word": "Recursive",
+    "meaning": "Describing a process that calls itself",
+    "shortMeaning": "self-calling",
+    "example": "The function uses a recursive algorithm to sort data.",
+    "example2": "Recursive file searching can be resource intensive.",
+    "example3": "Understand the base case for recursive functions.",
+    "Explanation": "The word 'recursive' refers to a programming technique where a function calls itself to solve smaller parts of a problem. The noun form is 'recursion'. It is a powerful tool for tasks like traversing file systems or processing trees. However, if not written correctly, a 'recursive' function can lead to stack overflow errors. Always ensure there is a clear 'base case' to stop the recursion. It is a fundamental concept in algorithmic thinking.",
+    "synonyms": [
+      "self-referential",
+      "nested",
+      "repeating"
+    ],
+    "antonyms": [
+      "iterative",
+      "loop-based",
+      "non-recursive"
+    ],
+    "nounForm": "recursion",
+    "verbForm": "recurse",
+    "adjectiveForm": "recursive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, algorithms",
+    "usageTip": "Use when describing self-calling code.",
+    "commonMistake": "Forgetting the base case, leading to an infinite loop.",
+    "collocations": [
+      "recursive function",
+      "recursive algorithm",
+      "recursive search"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unorganized",
+    "meaning": "Not arranged in an orderly way; lacking systematic structure or planning",
+    "shortMeaning": "messy, not planned",
+    "example": "His notes were completely unorganized.",
+    "example2": "The protest was spontaneous and unorganized.",
+    "example3": "The data sits in an unorganized heap of files.",
+    "Explanation": "The adjective 'unorganized' means lacking order, system, or planning. It describes things that are messy, chaotic, or not methodically arranged. It is the direct opposite of 'organized'. It can refer to physical spaces, information, or groups of people. Note: In labor contexts, 'unorganized labor' means workers not belonging to a union. It's a straightforward descriptive word.",
+    "synonyms": [
+      "disorganized",
+      "messy",
+      "chaotic",
+      "unordered"
+    ],
+    "antonyms": [
+      "organized",
+      "orderly",
+      "systematic",
+      "structured"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unorganized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workspaces, files, events, groups",
+    "usageTip": "Often used to criticize a lack of planning or neatness.",
+    "commonMistake": "Confusing it with 'disorganized', which is more common for describing people or spaces.",
+    "collocations": [
+      "unorganized clutter",
+      "unorganized labor",
+      "unorganized thoughts"
+    ]
+  },
+  {
+    "word": "Unorganized",
+    "meaning": "Not arranged in a systematic or logical way",
+    "shortMeaning": "chaotic",
+    "example": "The codebase is unorganized, making it hard to find files.",
+    "example2": "He kept his data in an unorganized text file.",
+    "example3": "An unorganized directory structure slows down development.",
+    "Explanation": "Unorganized refers to data, code, or work habits that lack a logical structure. This is a common problem in early-stage projects where files are saved randomly, variables have random names, and logic is scattered. Being unorganized makes maintenance, debugging, and collaboration nearly impossible. Refactoring an unorganized system involves cleaning up folders, documenting code, and defining clear standards for future development.",
+    "synonyms": [
+      "chaotic",
+      "messy",
+      "disordered"
+    ],
+    "antonyms": [
+      "organized",
+      "structured",
+      "systematic"
+    ],
+    "nounForm": "organization",
+    "verbForm": "organize",
+    "adjectiveForm": "unorganized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, file systems, coding standards",
+    "usageTip": "Use this to describe systems that need a major structural cleanup.",
+    "commonMistake": "Confusing 'unorganized' with 'complex'; simple systems can be unorganized.",
+    "collocations": [
+      "unorganized codebase",
+      "unorganized data",
+      "unorganized folder"
+    ]
+  },
+  {
+    "word": "Unorganized",
+    "meaning": "Lacking order, proper structure, or efficient arrangement.",
+    "shortMeaning": "no order",
+    "example": "The database was unorganized and hard to query.",
+    "example2": "He tried to fix the unorganized file directory.",
+    "example3": "Unorganized code is very difficult to debug.",
+    "Explanation": "When something is 'unorganized', it lacks a logical or systematic structure. In the context of programming, this can lead to messy directories, hard-to-read code, or poorly indexed data. An unorganized system is usually a sign of poor maintenance or lack of planning. Developers often perform 'spring cleaning' to turn an unorganized project into an organized, maintainable one. It is a negative state that implies a lack of efficiency and structure.",
+    "synonyms": [
+      "chaotic",
+      "messy",
+      "disordered"
+    ],
+    "antonyms": [
+      "organized",
+      "structured",
+      "ordered"
+    ],
+    "nounForm": "unorganization",
+    "verbForm": "disorganize",
+    "adjectiveForm": "unorganized",
+    "partOfSpeech": "adjective",
+    "commonContext": "File management, coding practices, data structure",
+    "usageTip": "Use this to describe a lack of system or logic.",
+    "commonMistake": "Confusing it with 'unstructured', which is sometimes a technical choice.",
+    "collocations": [
+      "unorganized code",
+      "unorganized database",
+      "unorganized folder"
+    ]
+  }
+]

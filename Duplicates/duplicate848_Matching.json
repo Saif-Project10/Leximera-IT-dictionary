@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Matching",
+    "meaning": "Corresponding or similar in design, color, or pattern; forming a pair.",
+    "shortMeaning": "corresponding; forming a pair",
+    "example": "She wore a scarf matching her dress.",
+    "example2": "We need to find the matching sock.",
+    "example3": "The software performs a matching process to pair donors with recipients.",
+    "Explanation": "'Matching' is the present participle of the verb 'match'. As an adjective, it describes items that are alike and intended to go together. It implies coordination, harmony, and completeness. In computing and data processing, 'matching' refers to algorithms that find correspondences between sets of data. The word is common in fashion, design, puzzles, and technology. The goal is often to create a sense of order or to find a suitable counterpart.",
+    "synonyms": [
+      "coordinating",
+      "corresponding",
+      "identical",
+      "paired"
+    ],
+    "antonyms": [
+      "clashing",
+      "mismatched",
+      "different"
+    ],
+    "nounForm": "match",
+    "verbForm": "match",
+    "adjectiveForm": "matching",
+    "partOfSpeech": "adjective, verb (present participle/gerund)",
+    "commonContext": "Clothing, design, data, games",
+    "usageTip": "Use 'matching' as an adjective to describe items that are designed to go together because they are similar.",
+    "commonMistake": "Using 'matching' to mean 'competition'. That is a different noun form of 'match'.",
+    "collocations": [
+      "matching set",
+      "perfectly matching",
+      "color matching",
+      "matching funds"
+    ]
+  },
+  {
+    "word": "Matching",
+    "meaning": "The act of pairing items or finding correspondences",
+    "shortMeaning": "pairing or comparing",
+    "example": "Pattern matching is a core feature of this language.",
+    "example2": "We are matching user IDs with their accounts.",
+    "example3": "The matching process takes a lot of CPU power.",
+    "Explanation": "Matching refers to the activity or process of finding correspondences between data points or requirements. This is heavily used in areas like database joins, pattern recognition, cybersecurity (matching signatures), and UI design (matching themes). It is a fundamental computational task. Efficient matching algorithms are essential for high-performance applications, especially when searching through massive databases.",
+    "synonyms": [
+      "pairing",
+      "comparing",
+      "aligning"
+    ],
+    "antonyms": [
+      "differing",
+      "isolating"
+    ],
+    "nounForm": "match",
+    "verbForm": "match",
+    "adjectiveForm": "matching",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Algorithms, databases, security",
+    "usageTip": "Use 'matching' to describe a process of finding relations.",
+    "commonMistake": "Ignoring the computational cost of complex matching.",
+    "collocations": [
+      "pattern matching",
+      "matching process",
+      "matching algorithm"
+    ]
+  }
+]

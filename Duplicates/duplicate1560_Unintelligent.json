@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unintelligent",
+    "meaning": "Lacking intelligence; not smart or clever",
+    "shortMeaning": "not smart",
+    "example": "It was an unintelligent decision to drive without a seatbelt.",
+    "example2": "The software gave unintelligent responses to complex queries.",
+    "example3": "He made an unintelligent remark that offended everyone.",
+    "Explanation": "The adjective 'unintelligent' is a direct and often blunt way to describe a person, decision, action, or system that shows a lack of intelligence, good judgment, or mental capacity. It is stronger and more negative than 'not very smart' and can be insulting when applied to people. It can describe natural lack of intellect or a specific foolish action by an otherwise intelligent person. In technology, 'unintelligent' devices or systems are those that operate on simple, pre-programmed rules without adaptation or learning (dumb terminals). Use this word carefully, as it is judgmental. Softer alternatives include 'unwise', 'foolish', or 'lacking insight'.",
+    "synonyms": [
+      "stupid",
+      "foolish",
+      "dumb",
+      "unwise",
+      "brainless"
+    ],
+    "antonyms": [
+      "intelligent",
+      "smart",
+      "clever",
+      "bright",
+      "wise"
+    ],
+    "nounForm": "unintelligence",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintelligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Criticizing decisions, describing limited systems, informal insults",
+    "usageTip": "Can be harsh. Consider using more specific or polite terms like 'ill-advised' or 'lacking foresight'.",
+    "commonMistake": "Using it as a permanent label for a person, which is offensive and often inaccurate.",
+    "collocations": [
+      "unintelligent design",
+      "unintelligent comment",
+      "unintelligent system",
+      "unintelligent behavior"
+    ]
+  },
+  {
+    "word": "Unintelligent",
+    "meaning": "Lacking the ability to learn or adapt automatically",
+    "shortMeaning": "not smart",
+    "example": "The legacy script is quite unintelligent and cannot handle errors.",
+    "example2": "We replaced the unintelligent agent with an AI-based system.",
+    "example3": "It was an unintelligent move to hardcode those values.",
+    "Explanation": "In IT, 'unintelligent' describes systems, scripts, or hardware that follow rigid instructions and cannot handle unexpected situations. An unintelligent bot, for example, might keep failing in a loop instead of stopping. This is often contrasted with 'smart' or 'intelligent' systems (like AI) that use logic to adapt. Using this term doesn't mean the system is 'bad,' but it signifies that it lacks flexibility. It is a common way to explain why a system needs a logic upgrade or AI intervention.",
+    "synonyms": [
+      "inadaptive",
+      "dumb",
+      "rigid"
+    ],
+    "antonyms": [
+      "intelligent",
+      "smart",
+      "adaptive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintelligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, AI, software design",
+    "usageTip": "Use this to explain why a system needs automation or AI.",
+    "commonMistake": "Using it to describe people; strictly use it for systems.",
+    "collocations": [
+      "unintelligent script",
+      "unintelligent process"
+    ]
+  },
+  {
+    "word": "Unintelligent",
+    "meaning": "Not showing intelligence; lacking the ability to learn or adapt.",
+    "shortMeaning": "not smart",
+    "example": "The early version of the bot was unintelligent and broke easily.",
+    "example2": "It is an unintelligent script that fails when inputs change.",
+    "example3": "Avoid writing unintelligent code that requires manual updates.",
+    "Explanation": "In programming, 'unintelligent' usually describes code or scripts that cannot adapt to changing situations. A smart or 'intelligent' system can handle unexpected input errors, while an unintelligent one might just crash. Modern development focuses on creating robust, flexible systems. If software requires constant manual intervention to handle minor variations, it is often viewed as unintelligent or brittle design.",
+    "synonyms": [
+      "foolish",
+      "simple",
+      "unresponsive"
+    ],
+    "antonyms": [
+      "intelligent",
+      "smart",
+      "adaptive"
+    ],
+    "nounForm": "unintelligence",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintelligent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Scripting and AI concepts",
+    "usageTip": "Use to criticize rigid, non-adaptive code.",
+    "commonMistake": "Using this word to insult colleagues; use it only for systems.",
+    "collocations": [
+      "unintelligent code",
+      "unintelligent script",
+      "unintelligent system"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Poor",
+    "meaning": "1. Having little money or few possessions. 2. Of low quality or standard. 3. Deserving sympathy.",
+    "shortMeaning": "lacking money; low quality; unlucky",
+    "example": "Many poor families struggle to afford food. (Lacking money)",
+    "example2": "He received poor grades on his test. (Low quality)",
+    "example3": "The poor child lost his toy. (Deserving pity)",
+    "Explanation": "'Poor' is a very common adjective with several related meanings. Its primary meaning is lacking financial resources. It is widely used to describe something that is not good in quality ('poor performance'). It can also express sympathy ('poor guy'). The word's meaning depends heavily on context. It's important to use it sensitively when referring to people's economic status.",
+    "synonyms": [
+      "penniless, impoverished, bad, substandard, unfortunate, pitiable"
+    ],
+    "antonyms": [
+      "rich, wealthy, excellent, high-quality, fortunate"
+    ],
+    "nounForm": "poor (the poor = poor people)",
+    "verbForm": "impoverish",
+    "adjectiveForm": "poor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Economics, quality assessment, expressing sympathy",
+    "usageTip": "Be specific: 'financially poor', 'poor quality', or 'poor thing' to avoid ambiguity.",
+    "commonMistake": "Using 'poor' to mean 'pour' (to make liquid flow). They are homophones.",
+    "collocations": [
+      "poor health",
+      "poor countries",
+      "poor loser"
+    ]
+  },
+  {
+    "word": "Poor",
+    "meaning": "Of low quality, performance, or standard",
+    "shortMeaning": "low quality",
+    "example": "The application suffers from poor performance on old hardware.",
+    "example2": "Poor documentation makes the tool hard to learn.",
+    "example3": "The network connection is poor today.",
+    "Explanation": "In IT, 'poor' is a general descriptor for anything that does not meet the expected standard, be it speed, quality, or usability. It is very versatile. You can have 'poor' code quality, 'poor' user experience, or 'poor' security practices. While simple, it is highly effective at highlighting areas that need improvement. In professional contexts, it is sometimes better to be specific (e.g., 'inefficient' instead of 'poor'), but 'poor' remains standard for quick status reports.",
+    "synonyms": [
+      "inferior",
+      "substandard",
+      "bad"
+    ],
+    "antonyms": [
+      "excellent",
+      "superior",
+      "high-quality"
+    ],
+    "nounForm": "poverty",
+    "verbForm": "N/A",
+    "adjectiveForm": "poor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Quality assurance, performance monitoring",
+    "usageTip": "Use 'poor' to quickly identify problems in status updates.",
+    "commonMistake": "Being too vague; always explain *why* the quality is poor.",
+    "collocations": [
+      "poor performance",
+      "poor quality",
+      "poor documentation"
+    ]
+  }
+]

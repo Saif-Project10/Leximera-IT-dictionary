@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Temporary",
+    "meaning": "Lasting for only a limited period; not permanent.",
+    "shortMeaning": "not permanent",
+    "example": "He found a temporary job while he looks for a permanent one.",
+    "example2": "This is just a temporary solution to the problem.",
+    "example3": "The office is closed due to temporary renovations.",
+    "Explanation": "Temporary describes something that exists or is used for a short time. It is the opposite of 'permanent' or 'long-term'. Temporary arrangements are common in work (temp jobs), housing, and fixes for problems. The word sets an expectation that the situation will change. It can be neutral (temporary assignment) or slightly negative (temporary setback). The adverb is 'temporarily'. It's an important word for managing expectations and planning for the future, as it clarifies the transient nature of a condition.",
+    "synonyms": [
+      "short-term",
+      "interim",
+      "provisional",
+      "transient",
+      "brief"
+    ],
+    "antonyms": [
+      "permanent",
+      "long-term",
+      "eternal",
+      "lasting"
+    ],
+    "nounForm": "temporariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "temporary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Employment, housing, solutions, conditions, files (computing)",
+    "usageTip": "Often used before a noun (temporary measure, temporary worker) or after a linking verb (the delay is temporary).",
+    "commonMistake": "Spelling it as 'tempory' (missing the 'o-r-a'). Remember: temporary has an 'o-r-a' in the middle.",
+    "collocations": [
+      "temporary job",
+      "temporary measure",
+      "temporary fix",
+      "temporary accommodation"
+    ]
+  },
+  {
+    "word": "Temporary",
+    "meaning": "Lasting for a limited time; not permanent.",
+    "shortMeaning": "not permanent",
+    "example": "We created a temporary file to store the upload data.",
+    "example2": "This is just a temporary solution until we find a better one.",
+    "example3": "Temporary variables are cleared after the function executes.",
+    "Explanation": "The word 'temporary' describes anything that is meant to exist for a short duration. In software, we use temporary storage, temporary files, and temporary credentials to handle processes that don't need to be kept permanently. It is crucial to manage temporary resources correctly to prevent memory leaks or filling up disk space. Always ensure your code deletes its temporary work once the task is finished.",
+    "synonyms": [
+      "short-term",
+      "transient",
+      "provisional"
+    ],
+    "antonyms": [
+      "permanent",
+      "enduring",
+      "persistent"
+    ],
+    "nounForm": "temporariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "temporary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource management and programming",
+    "usageTip": "Use 'temporary' for anything that should not last forever.",
+    "commonMistake": "Forgetting to delete temporary files, which clutters the system.",
+    "collocations": [
+      "temporary file",
+      "temporary variable",
+      "temporary storage"
+    ]
+  },
+  {
+    "word": "Temporary",
+    "meaning": "Lasting for a limited period of time; not permanent",
+    "shortMeaning": "short-lived",
+    "example": "This is just a temporary solution.",
+    "example2": "The error is temporary and will be fixed soon.",
+    "example3": "Save your work in a temporary folder.",
+    "Explanation": "The word 'temporary' describes something that is not meant to last forever. In IT, we use 'temporary' files, folders, or passwords frequently to manage tasks or security. It is the most common way to say that something is 'for now' but not 'for always'. It is a very useful adjective. It is important to distinguish temporary items from permanent ones to avoid data loss. The opposite is 'permanent'.",
+    "synonyms": [
+      "short-term",
+      "transient",
+      "provisional"
+    ],
+    "antonyms": [
+      "permanent",
+      "enduring",
+      "lasting"
+    ],
+    "nounForm": "temporariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "temporary",
+    "partOfSpeech": "adjective",
+    "commonContext": "File management, troubleshooting, passwords, roles",
+    "usageTip": "Use 'temporary' for things meant to be deleted or replaced.",
+    "commonMistake": "Using 'temporal' when you mean 'temporary' (short-lived).",
+    "collocations": [
+      "temporary file",
+      "temporary solution",
+      "temporary access"
+    ]
+  }
+]

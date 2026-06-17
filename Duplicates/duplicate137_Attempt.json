@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Attempt",
+    "meaning": "To try to do something, often something difficult.",
+    "shortMeaning": "try, effort",
+    "example": "He will attempt to climb the mountain next year.",
+    "example2": "Her first attempt at baking a cake failed.",
+    "example3": "The prisoner made an attempt to escape.",
+    "Explanation": "'Attempt' can be both a verb and a noun. It means to make an effort to achieve something. As a noun, it refers to the act of trying. It often implies that the task is challenging and success is not guaranteed. It is more formal than 'try'. In legal contexts, 'attempt' has a specific meaning. Do not use it for very simple, everyday tasks where 'try' is more natural. For example, 'I will attempt to make coffee' sounds too dramatic. Use it for significant efforts.",
+    "synonyms": [
+      "try",
+      "endeavor",
+      "effort"
+    ],
+    "antonyms": [
+      "succeed",
+      "accomplish",
+      "achieve"
+    ],
+    "nounForm": "attempt",
+    "verbForm": "attempt",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Challenges, sports, exams, goals",
+    "usageTip": "As a verb, it's often followed by 'to' + infinitive (attempt to solve).",
+    "commonMistake": "Using 'attempt' for very easy tasks where 'try' is simpler and more common.",
+    "collocations": [
+      "first attempt",
+      "failed attempt",
+      "attempt to do"
+    ]
+  },
+  {
+    "word": "Attempt",
+    "meaning": "An act of trying to do something, especially something difficult",
+    "shortMeaning": "try",
+    "example": "This is my first attempt at building a mobile app.",
+    "example2": "The system will block you after three failed attempts to enter the password.",
+    "example3": "You should attempt to fix the problem yourself before calling support.",
+    "Explanation": "An 'attempt' is a try. In computing, this word is very important for security and logs. For example, a 'login attempt' is recorded every time someone tries to log in. If there are too many failed attempts, the computer might assume it's a hacker. As a verb, it means to try to do a task. It is a very neutral word; an attempt can be successful or a failure. It is used in both everyday conversation and technical documentation.",
+    "synonyms": [
+      "try",
+      "endeavor",
+      "effort"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "attempt",
+    "verbForm": "attempt",
+    "adjectiveForm": "attempted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security logs, learning, problem-solving",
+    "usageTip": "Keep a log of 'failed attempts' in your app to identify potential security threats.",
+    "commonMistake": "Confusing 'attempt' with 'experiment'; an attempt is trying to do a known task, while an experiment is trying to find something new.",
+    "collocations": [
+      "failed attempt",
+      "successful attempt",
+      "attempt a task"
+    ]
+  }
+]

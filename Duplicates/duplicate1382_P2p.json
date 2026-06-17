@@ -1,0 +1,62 @@
+[
+  {
+    "word": "P2p",
+    "meaning": "Abbreviation for Peer-to-Peer, a decentralized network or model where participants deal directly with each other",
+    "shortMeaning": "peer-to-peer",
+    "example": "Bitcoin uses a p2p network for transactions.",
+    "example2": "P2P file sharing became popular in the early 2000s.",
+    "example3": "The platform offers p2p lending services.",
+    "Explanation": "'P2P' is a widely recognized initialism in technology and finance. It stands for 'peer-to-peer', describing systems where individuals interact directly without a central authority. In computing, it refers to networks where each computer acts as both client and server (like torrents). In finance, it refers to lending or payments between individuals (like Venmo or lending clubs). It emphasizes decentralization and direct connection. It is usually written in lowercase (p2p) or with numbers.",
+    "synonyms": [
+      "decentralized",
+      "direct"
+    ],
+    "antonyms": [
+      "client-server",
+      "centralized"
+    ],
+    "nounForm": "peer-to-peer network",
+    "verbForm": "N/A",
+    "adjectiveForm": "p2p",
+    "partOfSpeech": "adjective / noun (acronym)",
+    "commonContext": "Technology, cryptocurrency, finance, file sharing",
+    "usageTip": "Often used as an adjective before nouns like 'network', 'lending', 'payment'.",
+    "commonMistake": "Pronouncing it as 'p-two-p' instead of saying 'peer-to-peer' in speech.",
+    "collocations": [
+      "p2p network",
+      "p2p lending",
+      "p2p file sharing"
+    ]
+  },
+  {
+    "word": "P2p",
+    "meaning": "A network where computers communicate directly with each other",
+    "shortMeaning": "peer-to-peer",
+    "example": "P2p networks are often used for file sharing.",
+    "example2": "He set up a p2p connection for local data transfer.",
+    "example3": "P2p systems are decentralized by design.",
+    "Explanation": "P2P stands for 'peer-to-peer'. It describes a distributed architecture where each 'peer' (node) has equal status and can both request and provide services. This contrasts with the traditional client-server model where one server handles all requests. P2P is used in file sharing, blockchain, and some messaging apps. It is a noun or adjective. It is a fundamental concept in networking and decentralized computing. Ensure you understand the security implications of such networks.",
+    "synonyms": [
+      "peer-to-peer",
+      "decentralized",
+      "direct"
+    ],
+    "antonyms": [
+      "client-server",
+      "centralized",
+      "hierarchical"
+    ],
+    "nounForm": "P2P",
+    "verbForm": "N/A",
+    "adjectiveForm": "P2P",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, file sharing",
+    "usageTip": "Use when talking about decentralized systems.",
+    "commonMistake": "Thinking P2P is only for illegal file sharing.",
+    "collocations": [
+      "p2p network",
+      "p2p connection",
+      "p2p sharing"
+    ]
+  }
+]

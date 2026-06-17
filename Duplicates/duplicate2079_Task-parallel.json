@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Task-parallel",
+    "meaning": "Executing different tasks simultaneously on multiple processors.",
+    "shortMeaning": "parallel-tasking",
+    "example": "The application uses task-parallel processing to handle heavy loads.",
+    "example2": "We implemented a task-parallel approach for the data analysis.",
+    "example3": "Task-parallel designs significantly improve compute time.",
+    "Explanation": "The term 'task-parallel' refers to a parallel computing model where different, independent tasks are performed concurrently by separate processing units. This is different from 'data-parallelism', where the same operation is applied to different pieces of data. Task-parallelism is common in modern multi-core systems, where one core might handle user input while another core handles background calculations, allowing the system to do more work in the same amount of time.",
+    "synonyms": [
+      "concurrent",
+      "simultaneous",
+      "multi-tasking"
+    ],
+    "antonyms": [
+      "sequential",
+      "serial",
+      "single-threaded"
+    ],
+    "nounForm": "task-parallelism",
+    "verbForm": "N/A",
+    "adjectiveForm": "task-parallel",
+    "partOfSpeech": "adjective",
+    "commonContext": "High-performance computing, multi-threading",
+    "usageTip": "Use 'task-parallel' to describe simultaneous execution of different tasks.",
+    "commonMistake": "Confusing task-parallel with data-parallel.",
+    "collocations": [
+      "task-parallel processing",
+      "task-parallel design",
+      "task-parallel execution"
+    ]
+  },
+  {
+    "word": "Task-parallel",
+    "meaning": "Executing different tasks simultaneously on multiple processors",
+    "shortMeaning": "parallel tasks",
+    "example": "The application uses task-parallel processing to speed up rendering.",
+    "example2": "Task-parallel models are good for independent workloads.",
+    "example3": "We implemented a task-parallel architecture for the service.",
+    "Explanation": "The term 'task-parallel' describes a type of parallel computing where different tasks are performed concurrently by different processors or threads. This is different from data-parallelism, where the same operation is performed on different data. Task-parallelism is highly efficient for complex systems where multiple independent processes need to run at the same time. It helps in utilizing multi-core CPUs effectively. Proper synchronization is key to preventing race conditions in these systems.",
+    "synonyms": [
+      "parallel",
+      "concurrent",
+      "multi-threaded"
+    ],
+    "antonyms": [
+      "sequential",
+      "serial",
+      "single-threaded"
+    ],
+    "nounForm": "task-parallelism",
+    "verbForm": "N/A",
+    "adjectiveForm": "task-parallel",
+    "partOfSpeech": "adjective",
+    "commonContext": "High-performance computing, software architecture",
+    "usageTip": "Use to describe execution where different tasks run at once.",
+    "commonMistake": "Confusing 'task-parallel' with 'data-parallel'.",
+    "collocations": [
+      "task-parallel model",
+      "task-parallel execution",
+      "task-parallel system"
+    ]
+  }
+]

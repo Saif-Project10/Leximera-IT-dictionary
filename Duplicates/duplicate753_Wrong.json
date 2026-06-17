@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Wrong",
+    "meaning": "1. Not correct or true; mistaken. 2. Unjust, dishonest, or immoral.",
+    "shortMeaning": "incorrect; immoral",
+    "example": "Your answer is wrong. (incorrect)",
+    "example2": "It is wrong to steal. (immoral)",
+    "example3": "Something is wrong with the engine. (not working)",
+    "Explanation": "'Wrong' is a basic adjective, adverb, noun, and verb meaning incorrect or contrary to what is right. It is the opposite of 'right' or 'correct'. It can describe factual errors, moral faults, or mechanical malfunctions ('go wrong'). The phrase 'in the wrong' means to be responsible for a mistake or offense. It is a strong, simple word used constantly in judgment, correction, and ethics. Understanding what is 'wrong' is key to learning and social behavior.",
+    "synonyms": [
+      "incorrect",
+      "mistaken",
+      "immoral",
+      "faulty"
+    ],
+    "antonyms": [
+      "right",
+      "correct",
+      "moral",
+      "proper"
+    ],
+    "nounForm": "wrong",
+    "verbForm": "wrong (to treat unjustly)",
+    "adjectiveForm": "wrong",
+    "partOfSpeech": "adjective, adverb, noun, verb",
+    "commonContext": "Mistakes, ethics, diagnostics, direction",
+    "usageTip": "Use 'wrong' to say something is not correct, not true, not working properly, or not morally right.",
+    "commonMistake": "Using 'wrongly' as an adjective. 'Wrongly' is an adverb (e.g., 'He was wrongly accused'). The adjective is 'wrong'.",
+    "collocations": [
+      "go wrong",
+      "in the wrong",
+      "dead wrong",
+      "wrong number"
+    ]
+  },
+  {
+    "word": "Wrong",
+    "meaning": "Not correct, containing errors, or not following the rules.",
+    "shortMeaning": "incorrect",
+    "example": "You entered the wrong password.",
+    "example2": "The data formatting is wrong.",
+    "example3": "That is the wrong approach for this problem.",
+    "Explanation": "The word 'wrong' means that something is incorrect, false, or does not function as intended. In IT, 'wrong' can refer to a mistake in code, an error in data entry, or a poor choice in strategy. The noun form is 'wrongness' (though rarely used). Understanding why something is 'wrong' is the first step in debugging or optimization. Always be specific when correcting someone—don't just say 'that's wrong', explain why.",
+    "synonyms": [
+      "incorrect",
+      "erroneous",
+      "inaccurate"
+    ],
+    "antonyms": [
+      "right",
+      "correct",
+      "accurate"
+    ],
+    "nounForm": "wrongness",
+    "verbForm": "N/A",
+    "adjectiveForm": "wrong",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, system errors, troubleshooting",
+    "usageTip": "Use 'wrong' to point out errors.",
+    "commonMistake": "Using 'wrong' to be critical rather than constructive.",
+    "collocations": [
+      "wrong password",
+      "wrong command",
+      "do it wrong"
+    ]
+  },
+  {
+    "word": "Wrong",
+    "meaning": "Incorrect, not true, or not what is intended",
+    "shortMeaning": "incorrect",
+    "example": "The code gives the wrong output.",
+    "example2": "I think you have the wrong file.",
+    "example3": "The logic in this function is wrong.",
+    "Explanation": "The word 'wrong' indicates that something is incorrect, false, or does not meet the requirements. In IT, 'wrong' often points to bugs, logical errors, or incorrect configurations. It is a simple but powerful word used for troubleshooting. Whether it is the wrong password, the wrong command, or the wrong approach, it signals that an adjustment is needed. Always try to be specific about 'what' is wrong rather than just saying it is wrong.",
+    "synonyms": [
+      "incorrect",
+      "erroneous",
+      "inaccurate"
+    ],
+    "antonyms": [
+      "right",
+      "correct",
+      "accurate"
+    ],
+    "nounForm": "wrong",
+    "verbForm": "wrong",
+    "adjectiveForm": "wrong",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting, error handling, communication",
+    "usageTip": "Use 'wrong' to point out errors or mistakes, but follow up with specific details.",
+    "commonMistake": "Being too vague; instead of 'it is wrong', say 'the function returns the wrong value'.",
+    "collocations": [
+      "wrong answer",
+      "wrong password",
+      "do it wrong"
+    ]
+  }
+]

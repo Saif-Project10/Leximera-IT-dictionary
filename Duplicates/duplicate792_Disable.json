@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Disable",
+    "meaning": "To make something unable to work normally; to deprive of capability.",
+    "shortMeaning": "make unable to function",
+    "example": "You can disable the alarm by entering the code.",
+    "example2": "The virus was designed to disable the computer's security software.",
+    "example3": "An injury may disable a person from performing certain tasks.",
+    "Explanation": "To disable is to render something inoperative, ineffective, or incapable. It's an active verb often used in technology (disable a feature), security (disable a weapon), or regarding people with disabilities (though 'disable' for people is often considered insensitive; 'person with a disability' is preferred). The focus is on removing function or ability. The opposite is 'enable'. In software, features can be toggled between enabled and disabled states. It's a strong, definitive word for deactivation.",
+    "synonyms": [
+      "deactivate",
+      "cripple",
+      "impair",
+      "turn off",
+      "incapacitate"
+    ],
+    "antonyms": [
+      "enable",
+      "activate",
+      "empower",
+      "allow"
+    ],
+    "nounForm": "disability",
+    "verbForm": "disable",
+    "adjectiveForm": "disabled",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology, security, features, access",
+    "usageTip": "In tech, use 'disable' for features or functions. When referring to people, use respectful language like 'person with a disability'.",
+    "commonMistake": "Using 'disable' as an adjective. The adjective is 'disabled' (a disabled veteran, not a disable veteran).",
+    "collocations": [
+      "disable the feature",
+      "disable cookies",
+      "temporarily disable",
+      "disable access"
+    ]
+  },
+  {
+    "word": "Disable",
+    "meaning": "To turn off a feature or to stop something from working",
+    "shortMeaning": "turn off",
+    "example": "You should disable the camera if you are not using it.",
+    "example2": "The administrator can disable user accounts for security reasons.",
+    "example3": "Make sure to disable pop-ups in your browser settings.",
+    "Explanation": "In IT, 'disable' is the standard word for turning off a specific setting, function, or piece of hardware without deleting it. For instance, you can disable a WiFi adapter or disable a plugin in WordPress. When something is disabled, it still exists on the system, but it is not active. This is a very common term in software interfaces and settings menus. It is the opposite of 'enable'. It is also used in a physical sense to describe making something unusable, but in tech, it is almost always about software switches.",
+    "synonyms": [
+      "deactivate",
+      "turn off",
+      "suspend"
+    ],
+    "antonyms": [
+      "enable",
+      "activate",
+      "turn on"
+    ],
+    "nounForm": "disability (general) / disablement",
+    "verbForm": "disable",
+    "adjectiveForm": "disabled",
+    "partOfSpeech": "verb",
+    "commonContext": "Software settings, security, and hardware management",
+    "usageTip": "Use 'disable' when you want to temporarily stop a feature without removing it entirely.",
+    "commonMistake": "Confusing 'disable' with 'delete'; disabling keeps the item but stops it from working.",
+    "collocations": [
+      "disable notifications",
+      "disable account",
+      "permanently disable"
+    ]
+  }
+]

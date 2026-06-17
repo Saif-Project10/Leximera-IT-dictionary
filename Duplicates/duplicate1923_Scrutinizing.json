@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Scrutinizing",
+    "meaning": "Examining very closely and carefully",
+    "shortMeaning": "inspecting carefully",
+    "example": "He is scrutinizing the logs for errors.",
+    "example2": "The security team is scrutinizing every packet.",
+    "example3": "They are scrutinizing the new requirements.",
+    "Explanation": "The word 'scrutinizing' means to perform an extremely detailed inspection or investigation. In IT, this is done when searching for hard-to-find bugs, analyzing security logs, or reviewing complex architecture diagrams. The noun form is 'scrutiny' and the verb is 'scrutinize'. It implies that nothing is being overlooked and that the goal is to find errors, verify quality, or ensure complete understanding.",
+    "synonyms": [
+      "examining",
+      "inspecting",
+      "analyzing"
+    ],
+    "antonyms": [
+      "ignoring",
+      "glancing",
+      "overlooking"
+    ],
+    "nounForm": "scrutiny",
+    "verbForm": "scrutinize",
+    "adjectiveForm": "scrutinizing",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Security auditing, debugging, quality assurance",
+    "usageTip": "Use 'scrutinizing' for intense, deep examinations.",
+    "commonMistake": "Confusing it with 'looking'; scrutinizing implies a much higher intensity.",
+    "collocations": [
+      "scrutinizing the logs",
+      "scrutinizing the code",
+      "under scrutiny"
+    ]
+  },
+  {
+    "word": "Scrutinizing",
+    "meaning": "Examining something very closely and carefully",
+    "shortMeaning": "careful inspection",
+    "example": "The team is scrutinizing the logs for any sign of a breach.",
+    "example2": "He spent all day scrutinizing the code for potential bugs.",
+    "example3": "We are scrutinizing the user feedback to improve the UI.",
+    "Explanation": "Scrutinizing refers to a highly detailed and rigorous investigation. In IT, this process is necessary when troubleshooting difficult issues or performing a security audit where every line of code or data packet must be checked. It implies a high level of diligence and attention to detail. Skipping this step often leads to missed vulnerabilities or inefficient performance. It is a critical habit for any developer or system administrator aiming for high-quality, secure results.",
+    "synonyms": [
+      "examining",
+      "inspecting",
+      "analyzing"
+    ],
+    "antonyms": [
+      "ignoring",
+      "glancing",
+      "skimming"
+    ],
+    "nounForm": "scrutiny",
+    "verbForm": "scrutinize",
+    "adjectiveForm": "scrutinizing",
+    "partOfSpeech": "verb",
+    "commonContext": "Debugging, security, auditing",
+    "usageTip": "Use 'scrutinizing' for very deep analysis.",
+    "commonMistake": "Confusing it with simple 'reviewing', which is less intense.",
+    "collocations": [
+      "scrutinizing the code",
+      "carefully scrutinizing",
+      "scrutinizing the logs"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Terminated",
+    "meaning": "Ended or brought to an immediate stop.",
+    "shortMeaning": "ended",
+    "example": "The process was terminated because of an error.",
+    "example2": "He terminated the connection to the server.",
+    "example3": "The script terminated unexpectedly.",
+    "Explanation": "The word 'terminated' is a strong, formal way to say something has been stopped or ended. In computing, we often use it when a process, thread, or connection is closed, especially if it was done forcibly or due to a fault. It implies that the action cannot be resumed from that specific state. Using 'terminated' makes your error logs and technical reports sound precise and professional.",
+    "synonyms": [
+      "ended",
+      "stopped",
+      "closed"
+    ],
+    "antonyms": [
+      "started",
+      "resumed",
+      "continued"
+    ],
+    "nounForm": "termination",
+    "verbForm": "terminate",
+    "adjectiveForm": "terminated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Process management and networking",
+    "usageTip": "Use 'terminated' for stopping processes or connections.",
+    "commonMistake": "Confusing 'terminated' (forcible) with 'finished' (successful).",
+    "collocations": [
+      "process terminated",
+      "terminated connection",
+      "unexpectedly terminated"
+    ]
+  },
+  {
+    "word": "Terminated",
+    "meaning": "Brought to an end or stopped completely",
+    "shortMeaning": "stopped",
+    "example": "The program was terminated due to a critical error.",
+    "example2": "He terminated the connection to the server.",
+    "example3": "The process was terminated by the administrator.",
+    "Explanation": "Terminated refers to the act of stopping a process, task, or connection. In computing, it often implies a sudden or forced stop rather than a natural finish. It is a standard term used in system logs and error messages. When a process is terminated, it usually ceases all activity immediately. It is important to handle resources properly when a process is terminated to prevent data loss.",
+    "synonyms": [
+      "stopped",
+      "ended",
+      "aborted"
+    ],
+    "antonyms": [
+      "started",
+      "continued",
+      "launched"
+    ],
+    "nounForm": "termination",
+    "verbForm": "terminate",
+    "adjectiveForm": "terminated",
+    "partOfSpeech": "verb",
+    "commonContext": "System processes, networking, employment",
+    "usageTip": "Use this for formal situations or technical process management.",
+    "commonMistake": "Using 'terminated' when you mean 'paused'; they are not the same.",
+    "collocations": [
+      "terminated abruptly",
+      "process terminated",
+      "terminated successfully"
+    ]
+  }
+]

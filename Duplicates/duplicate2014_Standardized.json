@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Standardized",
+    "meaning": "Converted into a consistent format or model based on a standard.",
+    "shortMeaning": "made consistent",
+    "example": "All error logs were standardized for easier analysis.",
+    "example2": "We standardized our deployment process across all teams.",
+    "example3": "The data fields must be standardized before entering the database.",
+    "Explanation": "When something is 'standardized', it has been changed or organized to fit a predefined rule or model. This makes information easier to search, process, and compare. In IT, standardizing data formats (like JSON or XML) or development workflows is vital for managing complex systems. It reduces errors caused by inconsistencies and makes it easier for new team members to understand existing structures. It is a necessary process for scaling any technology project.",
+    "synonyms": [
+      "unified",
+      "normalized",
+      "consistent"
+    ],
+    "antonyms": [
+      "varied",
+      "inconsistent",
+      "unstructured"
+    ],
+    "nounForm": "standardization",
+    "verbForm": "standardize",
+    "adjectiveForm": "standardized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management, workflow, systems design",
+    "usageTip": "Use 'standardized' when describing data or processes made uniform.",
+    "commonMistake": "Standardizing too early, which can limit necessary flexibility.",
+    "collocations": [
+      "standardized format",
+      "standardized process",
+      "standardized data"
+    ]
+  },
+  {
+    "word": "Standardized",
+    "meaning": "Made to conform to a specific set of rules or models",
+    "shortMeaning": "made uniform",
+    "example": "We standardized the error messages to improve the user experience.",
+    "example2": "The standardized API makes it easy to integrate new services.",
+    "example3": "All developer laptops are standardized with the same software tools.",
+    "Explanation": "The word 'standardized' refers to the process of bringing components or processes into alignment with a common standard. This reduces complexity and errors. In a corporate IT environment, standardized workflows help team members work faster and more reliably. It means that everything follows a predictable pattern, which is the foundation of efficient operations. It is an adjective that implies order, consistency, and professional quality.",
+    "synonyms": [
+      "uniform",
+      "normalized",
+      "consistent"
+    ],
+    "antonyms": [
+      "diverse",
+      "variable",
+      "random"
+    ],
+    "nounForm": "standardization",
+    "verbForm": "standardize",
+    "adjectiveForm": "standardized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Operations, API design, workflows",
+    "usageTip": "Use 'standardized' to describe a process that has been unified.",
+    "commonMistake": "Standardizing too strictly, which might limit necessary flexibility.",
+    "collocations": [
+      "standardized process",
+      "standardized API",
+      "standardized format"
+    ]
+  }
+]

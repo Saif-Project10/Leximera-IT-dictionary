@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tomographic",
+    "meaning": "Related to imaging by sections or through slices of an object",
+    "shortMeaning": "slice-imaging",
+    "example": "The system uses tomographic scanning to create 3D models.",
+    "example2": "Tomographic data provides detailed internal views.",
+    "example3": "The research focuses on new tomographic reconstruction algorithms.",
+    "Explanation": "Tomographic refers to a technique in imaging where an object is captured through a series of slices or cross-sections, which are then processed to create a 3D image. While originally a medical imaging term (like a CT scan), it is used in IT and engineering for non-destructive testing and high-resolution modeling. Dealing with 'tomographic' data usually involves high computational requirements and complex software. It is a highly specialized term used primarily in medical imaging, materials science, and advanced data visualization fields.",
+    "synonyms": [
+      "cross-sectional",
+      "imaging-based"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tomography",
+    "verbForm": "N/A",
+    "adjectiveForm": "tomographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medical imaging, 3D scanning, scientific computing",
+    "usageTip": "Use this only when discussing specific slice-based imaging technology.",
+    "commonMistake": "Using this to describe general photography or simple 2D images.",
+    "collocations": [
+      "tomographic scan",
+      "tomographic image",
+      "tomographic data"
+    ]
+  },
+  {
+    "word": "Tomographic",
+    "meaning": "Relating to imaging by sections or through slices",
+    "shortMeaning": "section-imaging",
+    "example": "The software processes tomographic data for visualization.",
+    "example2": "Tomographic imaging is used in high-end medical software.",
+    "example3": "He analyzed the tomographic scan in 3D.",
+    "Explanation": "Tomography is the process of generating a 3D representation of an object by looking at many internal cross-sections. In IT, this term appears in specialized fields like medical informatics, geology, and advanced sensor processing. Processing this kind of data is computationally intensive and requires optimized algorithms. It is a niche, highly technical domain that deals with complex data structures and visualization engines.",
+    "synonyms": [
+      "cross-sectional",
+      "slice-based",
+      "imaging"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "tomography",
+    "verbForm": "N/A",
+    "adjectiveForm": "tomographic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medical imaging, advanced data visualization",
+    "usageTip": "Use only in specialized imaging or sensor contexts.",
+    "commonMistake": "Confusing it with general 3D rendering; tomography is specific to cross-sections.",
+    "collocations": [
+      "tomographic data",
+      "tomographic image",
+      "tomographic software"
+    ]
+  }
+]

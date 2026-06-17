@@ -1,0 +1,85 @@
+[
+  {
+    "word": "Upward compatible",
+    "meaning": "Software or hardware designed to work with newer versions of the same product",
+    "shortMeaning": "compatible with future versions",
+    "example": "The files created in the old version are upward compatible with the new software.",
+    "example2": "We designed the system to be upward compatible to avoid future migration issues.",
+    "example3": "Check if your current hardware is upward compatible with the next operating system.",
+    "Explanation": "Upward compatibility (often used interchangeably with 'forward compatibility') means that a system or component is designed to be usable with future, more advanced versions of itself. For instance, a document saved in an older version of a word processor that can be opened perfectly in a newer version shows upward compatibility. This is a vital design goal for long-term projects to ensure that users aren't 'locked out' when technology advances. It allows for a smoother transition as organizations upgrade their tools and infrastructure without losing existing work.",
+    "synonyms": [
+      "forward compatible"
+    ],
+    "antonyms": [
+      "backward compatible",
+      "downward compatible"
+    ],
+    "nounForm": "upward compatibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "upward compatible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development and hardware engineering",
+    "usageTip": "Use this to describe old tech that is ready for new systems.",
+    "commonMistake": "Confusing it with 'backward compatible', which means new tech works with old systems.",
+    "collocations": [
+      "fully upward compatible",
+      "upward compatible software",
+      "ensure upward compatibility"
+    ]
+  },
+  {
+    "word": "Upward compatible",
+    "meaning": "Capable of using software or data from a previous version without issues.",
+    "shortMeaning": "backward compatible",
+    "example": "The new version of the database is upward compatible.",
+    "example2": "Being upward compatible helps users migrate smoothly.",
+    "example3": "Ensure your design is upward compatible with future updates.",
+    "Explanation": "The term 'upward compatible' means that an older version can still work within a newer environment or that a newer version can handle old data. It is a key factor in smooth software upgrades. It is an adjective. If a system is upward compatible, users do not lose their work when they move to a newer version. It is highly valued in long-term infrastructure planning.",
+    "synonyms": [
+      "backward compatible"
+    ],
+    "antonyms": [
+      "incompatible"
+    ],
+    "nounForm": "compatibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "upward compatible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, system migration",
+    "usageTip": "Use 'upward compatible' to describe ease of upgrading.",
+    "commonMistake": "Confusing 'upward' and 'backward' compatibility.",
+    "collocations": [
+      "upward compatible version",
+      "is upward compatible",
+      "upward compatible system"
+    ]
+  },
+  {
+    "word": "Upward compatible",
+    "meaning": "Designed to work with newer versions or systems",
+    "shortMeaning": "future-proof",
+    "example": "This software is upward compatible with future OS versions.",
+    "example2": "We aim to keep our API upward compatible.",
+    "example3": "The hardware is upward compatible with newer standards.",
+    "Explanation": "Upward compatible refers to a system or hardware that is capable of working with future versions or higher-performance standards. It is a goal of good design to ensure that older software or data can still function when the underlying environment is upgraded. This adds value for the user, as they do not have to discard their previous work when they move to newer systems. Achieving upward compatibility requires careful planning and adherence to stable design standards during the development of a product.",
+    "synonyms": [
+      "forward-compatible"
+    ],
+    "antonyms": [
+      "incompatible",
+      "backward-compatible"
+    ],
+    "nounForm": "upward compatibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "upward-compatible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design and hardware engineering",
+    "usageTip": "Use it to describe software that works on newer systems.",
+    "commonMistake": "Confusing it with backward compatibility.",
+    "collocations": [
+      "upward compatible design",
+      "maintain upward compatibility",
+      "fully upward compatible"
+    ]
+  }
+]

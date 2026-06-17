@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Disconnect",
+    "meaning": "To break the connection between things; a lack of understanding or agreement. | 1. To break the connection between things. 2. A lack of understanding or agreement.",
+    "shortMeaning": "break connection",
+    "example": "Please disconnect the power before repairing the appliance.",
+    "example2": "There is a disconnect between what management says and what actually happens.",
+    "example3": "After the argument, he felt a disconnect from his friend.",
+    "Explanation": "'Disconnect' can be a verb or a noun. As a verb, it means to detach, unplug, or sever a link. As a noun, it refers to an instance of being disconnected or, more commonly, a failure of communication or understanding ('a disconnect between generations'). In our digital age, it often refers to losing an internet or phone connection. The opposite is 'connect'. The noun form highlights gaps in logic, communication, or empathy that prevent things from working together smoothly.",
+    "synonyms": [
+      "Detach",
+      "Detach, Separate, Unplug (Verb); Gap, Mismatch, Misunderstanding (Noun)",
+      "Gap (Noun)",
+      "Separate",
+      "Sever",
+      "Unplug"
+    ],
+    "antonyms": [
+      "Attach",
+      "Connect",
+      "Connect, Attach, Plug In (Verb); Connection, Harmony (Noun)",
+      "Join",
+      "Link",
+      "Understanding (Noun)"
+    ],
+    "nounForm": "disconnect / disconnection",
+    "verbForm": "disconnect",
+    "adjectiveForm": "disconnected",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Technology, relationships, communication, utilities",
+    "usageTip": "As a noun meaning 'a gap', it's often used in business and psychology: 'We need to address the disconnect between departments.'",
+    "commonMistake": "Using 'disconnect' as a noun to mean 'a break' (like a vacation); it refers to a lack of connection, not a pause.",
+    "collocations": [
+      "disconnect from",
+      "feel disconnected",
+      "total disconnect",
+      "disconnect the cable"
+    ]
+  },
+  {
+    "word": "Disconnect",
+    "meaning": "To break a connection between two things, or a lack of understanding between two groups",
+    "shortMeaning": "break connection",
+    "example": "Please disconnect the power cable before you open the computer case.",
+    "example2": "The call will automatically disconnect if the signal is too weak.",
+    "example3": "There is a major disconnect between the marketing team and the developers.",
+    "Explanation": "As a verb, 'disconnect' means to physically pull two things apart (like a plug from a socket) or to stop a digital signal (like hanging up a VoIP call). As a noun, a 'disconnect' describes a situation where two groups are not communicating well or don't understand each other. For example, if a boss wants a project done in one day but the developer says it takes a week, that is a 'disconnect'. In IT, 'disconnected mode' refers to working on software without an active internet connection. It is a fundamental term in both networking and business management.",
+    "synonyms": [
+      "detach",
+      "unplug",
+      "gap"
+    ],
+    "antonyms": [
+      "connect",
+      "attach",
+      "link"
+    ],
+    "nounForm": "disconnection / disconnect",
+    "verbForm": "disconnect",
+    "adjectiveForm": "disconnected",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Networking, hardware, and team communication",
+    "usageTip": "Use 'disconnect' as a noun to describe a misunderstanding between departments.",
+    "commonMistake": "Using 'disconnect' only for wires; it is very common for describing poor communication in teams.",
+    "collocations": [
+      "disconnect the internet",
+      "communication disconnect",
+      "sudden disconnection"
+    ]
+  }
+]

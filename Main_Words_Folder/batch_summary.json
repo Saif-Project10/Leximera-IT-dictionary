@@ -1,0 +1,53 @@
+{
+  "total_words": 27842,
+  "words_per_file": 20,
+  "files_per_subfolder": 10,
+  "words_per_subfolder": 200,
+  "batch_sizes": [
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    2842
+  ],
+  "total_batches": 6,
+  "total_subfolders": 140,
+  "total_files": 1393,
+  "file_numbering": "Continuous",
+  "folder_structure": {
+    "main_folder": "Main_Words_Folder",
+    "batches": [
+      {
+        "batch_num": 1,
+        "words": 5000,
+        "subfolders": 25
+      },
+      {
+        "batch_num": 2,
+        "words": 5000,
+        "subfolders": 25
+      },
+      {
+        "batch_num": 3,
+        "words": 5000,
+        "subfolders": 25
+      },
+      {
+        "batch_num": 4,
+        "words": 5000,
+        "subfolders": 25
+      },
+      {
+        "batch_num": 5,
+        "words": 5000,
+        "subfolders": 25
+      },
+      {
+        "batch_num": 6,
+        "words": 2842,
+        "subfolders": 15
+      }
+    ]
+  }
+}

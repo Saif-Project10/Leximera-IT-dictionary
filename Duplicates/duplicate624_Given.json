@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Given",
+    "meaning": "Already stated or specified; taking into account.",
+    "shortMeaning": "specified; considering",
+    "example": "You must finish the project within the given time frame.",
+    "example2": "Given his experience, he is the best person for the job.",
+    "example3": "At any given moment, there are hundreds of planes in the sky.",
+    "Explanation": "'Given' can be a preposition, adjective, or noun. As a preposition, it means 'considering' or 'taking into account' and introduces a fact that influences a situation. As an adjective, it means 'specified' or 'fixed'. As a noun (less common), it means 'an established fact'. It's a versatile word used to set conditions or acknowledge known information. In logic and mathematics, 'given' refers to known premises. It helps build arguments based on accepted starting points.",
+    "synonyms": [
+      "specified",
+      "stated",
+      "considering",
+      "granted",
+      "particular"
+    ],
+    "antonyms": [
+      "unknown",
+      "unspecified"
+    ],
+    "nounForm": "given",
+    "verbForm": "give",
+    "adjectiveForm": "given",
+    "partOfSpeech": "preposition / adjective",
+    "commonContext": "Assumptions, conditions, explanations, mathematics",
+    "usageTip": "Use 'given that' as a conjunction to mean 'because of the fact that'.",
+    "commonMistake": "Confusing the prepositional use ('given the weather') with the past participle of 'give'.",
+    "collocations": [
+      "given name",
+      "given the circumstances",
+      "at any given time",
+      "given that"
+    ]
+  },
+  {
+    "word": "Given",
+    "meaning": "Provided, assumed, or specified",
+    "shortMeaning": "specified or provided",
+    "example": "Given the parameters, the function returns a value.",
+    "example2": "In a given scenario, we use this logic.",
+    "example3": "The given time limit is tight.",
+    "Explanation": "The word 'given' is a common, slightly formal way to say 'if we have' or 'considering'. In programming, you might use it in logic like 'Given x, calculate y'. It is also used to refer to data that has already been provided. It is very useful in technical documentation and requirement lists to define the conditions or the inputs of a problem.",
+    "synonyms": [
+      "specified",
+      "provided",
+      "considering"
+    ],
+    "antonyms": [
+      "unknown",
+      "undefined"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "give",
+    "adjectiveForm": "given",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Logic, requirements, conditions",
+    "usageTip": "Use 'given' to start a statement describing an input or condition.",
+    "commonMistake": "Confusing 'given' as an adjective (provided) with the verb 'give'.",
+    "collocations": [
+      "given the parameters",
+      "in a given scenario",
+      "the given data"
+    ]
+  }
+]

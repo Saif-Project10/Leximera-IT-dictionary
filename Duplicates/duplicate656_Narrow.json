@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Narrow",
+    "meaning": "1. Of small width in relation to length. 2. Limited in extent, amount, or scope.",
+    "shortMeaning": "not wide; limited",
+    "example": "The path was too narrow for the car.",
+    "example2": "He escaped by a narrow margin.",
+    "example3": "She has a narrow view of the world.",
+    "Explanation": "'Narrow' primarily describes physical width, but it is often used metaphorically. A narrow escape is a very close one. A narrow mind is not open to new ideas. The verb 'to narrow' means to become or make less wide. Its opposite is 'wide' or 'broad'. It's a common descriptive word in both literal (streets, objects) and figurative (interests, victories) contexts. The comparative is 'narrower'.",
+    "synonyms": [
+      "thin",
+      "slender",
+      "limited",
+      "restricted"
+    ],
+    "antonyms": [
+      "wide",
+      "broad",
+      "expansive",
+      "wide-ranging"
+    ],
+    "nounForm": "narrowness",
+    "verbForm": "narrow",
+    "adjectiveForm": "narrow",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Physical spaces, victories, minds, focus",
+    "usageTip": "Use 'narrow' literally for things that are not wide, and figuratively for things that are limited or restricted.",
+    "commonMistake": "Misspelling the comparative as 'more narrow' instead of the correct 'narrower' (though 'more narrow' is sometimes accepted).",
+    "collocations": [
+      "narrow street",
+      "narrow down",
+      "narrow victory",
+      "narrow focus"
+    ]
+  },
+  {
+    "word": "Narrow",
+    "meaning": "Limited in scope, width, or range",
+    "shortMeaning": "restricted",
+    "example": "The project has a narrow focus on security.",
+    "example2": "We narrowed the search results to specific criteria.",
+    "example3": "The API endpoint has a narrow scope of functionality.",
+    "Explanation": "The word 'narrow' means limited in range, size, or scope. In software engineering, defining a 'narrow' scope for a project or a function is often a good practice because it keeps the code simple, maintainable, and easier to debug. A 'narrow' search query is one that uses specific filters to find exactly what you need. While it might sound restrictive, being 'narrow' is often preferred over being 'broad' or 'generic', as it provides clarity and avoids feature bloat.",
+    "synonyms": [
+      "restricted",
+      "focused",
+      "limited"
+    ],
+    "antonyms": [
+      "broad",
+      "wide",
+      "generic"
+    ],
+    "nounForm": "narrowness",
+    "verbForm": "narrow",
+    "adjectiveForm": "narrow",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project scope and search queries",
+    "usageTip": "Use to describe a focus that is specific and limited.",
+    "commonMistake": "Confusing 'narrow' with 'too small' (it can be focused).",
+    "collocations": [
+      "narrow focus",
+      "narrow scope"
+    ]
+  },
+  {
+    "word": "Narrow",
+    "meaning": "Limited in extent, amount, or scope",
+    "shortMeaning": "thin or limited",
+    "example": "The search results were too narrow to find the document.",
+    "example2": "We need to narrow down the list of candidates for the job.",
+    "example3": "The bridge is too narrow for two cars to pass.",
+    "Explanation": "The word 'narrow' can describe physical width or a conceptual limitation. In IT, it is frequently used as a verb in the phrase 'narrow down', which means to reduce the number of possibilities or options. For example, when debugging, you narrow the scope of the search to find a specific bug. It implies focus and precision. As an adjective, it describes something that lacks breadth or variety.",
+    "synonyms": [
+      "limited",
+      "restricted",
+      "slender"
+    ],
+    "antonyms": [
+      "wide",
+      "broad",
+      "extensive"
+    ],
+    "nounForm": "narrowness",
+    "verbForm": "narrow",
+    "adjectiveForm": "narrow",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data filtering, physical dimensions, and decision making",
+    "usageTip": "Use 'narrow down' when you are reducing many options to a few.",
+    "commonMistake": "Using 'narrow' when you actually mean 'specific' or 'accurate'.",
+    "collocations": [
+      "narrow down",
+      "narrow margin",
+      "narrow focus"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Lost",
+    "meaning": "No longer possessed or known; unable to be found; not won.",
+    "shortMeaning": "no longer had or found",
+    "example": "I lost my keys somewhere in the house.",
+    "example2": "The team lost the championship game.",
+    "example3": "He felt lost in the new city without a map.",
+    "Explanation": "'Lost' is the past tense and past participle of the verb 'lose.' It describes the state of no longer having something you once had, or failing to win. It can refer to physical objects (lost keys), abstract things (lost time, lost hope), games (lost a match), or direction (feeling lost). It's a common word with a strong emotional weight, often associated with failure, grief, or confusion. A common mistake is confusing 'lost' (from 'lose') with 'loosed' (from 'loose') or misspelling it as 'loost.' This word is fundamental for expressing deprivation, defeat, and disorientation.",
+    "synonyms": [
+      "misplaced",
+      "forfeited",
+      "defeated",
+      "bewildered",
+      "vanished"
+    ],
+    "antonyms": [
+      "found",
+      "won",
+      "gained",
+      "oriented",
+      "secured"
+    ],
+    "nounForm": "loss",
+    "verbForm": "lose",
+    "adjectiveForm": "lost",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Everyday life, sports, emotions, and navigation.",
+    "usageTip": "Use 'lost' as an adjective to describe a state (feeling lost) and as a verb for the past action (I lost my phone).",
+    "commonMistake": "Confusing 'lose' (present) with 'loose' (not tight). 'I don't want to lose my loose shirt.'",
+    "collocations": [
+      "lost and found",
+      "get lost",
+      "lost cause"
+    ]
+  },
+  {
+    "word": "Lost",
+    "meaning": "Not found, misplaced, or having disappeared",
+    "shortMeaning": "missing",
+    "example": "The connection was lost during the transmission.",
+    "example2": "All unsaved work was lost when the server crashed.",
+    "example3": "He was lost in the vast amount of documentation.",
+    "Explanation": "In IT, 'lost' is a negative term. It describes data packets that never arrive, files that have been deleted, or time spent in confusion. Preventing 'lost' data is a primary responsibility for sysadmins (backups) and developers (transaction handling). When an error occurs and something is 'lost', it is usually a critical failure that requires investigation. It implies that the item is no longer reachable or usable in the current system state.",
+    "synonyms": [
+      "missing",
+      "vanished",
+      "gone"
+    ],
+    "antonyms": [
+      "found",
+      "recovered",
+      "stored"
+    ],
+    "nounForm": "loss",
+    "verbForm": "lose",
+    "adjectiveForm": "lost",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Troubleshooting and data integrity",
+    "usageTip": "Use 'lost' to describe failed data transmission or misplaced items.",
+    "commonMistake": "Using 'lost' to describe 'slow'; lost means it is gone, slow means it is delayed.",
+    "collocations": [
+      "lost connection",
+      "lost data",
+      "lost work"
+    ]
+  }
+]

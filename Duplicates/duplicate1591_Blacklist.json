@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Blacklist",
+    "meaning": "A list of people, computer addresses, or programs that are denied access or blocked because they are considered suspicious or harmful",
+    "shortMeaning": "blocked list",
+    "example": "The server's firewall maintained a blacklist of known malicious IP addresses.",
+    "example2": "My email ended up on a blacklist, so none of my messages were being delivered.",
+    "example3": "The IT department updated the blacklist of prohibited software on work laptops.",
+    "Explanation": "In IT, a blacklist is a security tool used to keep unwanted visitors or data out of a system. It works on the principle of 'block only what is specifically listed.' Everything else that is not on the list is allowed through by default. This is the opposite of a 'whitelist.' Blacklists are commonly used in email spam filters, website firewalls, and anti-virus programs. While effective for known threats, they are not perfect because new threats (like a new IP address) won't be on the list yet. ",
+    "synonyms": [
+      "blocklist",
+      "denylist",
+      "exclusion list"
+    ],
+    "antonyms": [
+      "whitelist",
+      "allowlist"
+    ],
+    "nounForm": "blacklist",
+    "verbForm": "blacklist",
+    "adjectiveForm": "blacklisted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, email management, and network administration",
+    "usageTip": "Use 'blacklist' when you want to specifically block known bad actors.",
+    "commonMistake": "Thinking a blacklist is enough for security; you also need behavioral analysis to catch new threats.",
+    "collocations": [
+      "email blacklist",
+      "IP blacklist",
+      "add to blacklist"
+    ]
+  },
+  {
+    "word": "Blacklist",
+    "meaning": "A list of people, websites, or entities that are blocked or denied access",
+    "shortMeaning": "list of blocked items",
+    "example": "The firewall will blacklist any IP address that tries to attack the server.",
+    "example2": "My email provider put that sender on a blacklist because of too much spam.",
+    "example3": "You can blacklist specific domains to prevent employees from visiting distracting sites.",
+    "Explanation": "A blacklist is a security measure used to keep out 'known bad' actors. In networking, if an IP address is on a blacklist, the server will automatically drop any connection from it. In modern tech, many people prefer the term 'Denylist' to be more inclusive. Blacklisting is reactive; it happens after a threat is identified. It is the opposite of a 'Whitelist' (or Allowlist), which blocks everything except a specific list of trusted items.",
+    "synonyms": [
+      "denylist",
+      "blocklist",
+      "ban list"
+    ],
+    "antonyms": [
+      "whitelist",
+      "allowlist"
+    ],
+    "nounForm": "blacklist",
+    "verbForm": "blacklist",
+    "adjectiveForm": "blacklisted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity, email filtering, parental controls",
+    "usageTip": "Regularly update your server's blacklist to protect against new botnet attacks.",
+    "commonMistake": "Relying only on a blacklist; hackers can easily change their IP address to bypass it.",
+    "collocations": [
+      "add to a blacklist",
+      "global blacklist",
+      "email blacklist"
+    ]
+  }
+]

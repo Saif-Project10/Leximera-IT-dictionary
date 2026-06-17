@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tiered",
+    "meaning": "Arranged in levels or layers",
+    "shortMeaning": "layered",
+    "example": "We use a tiered storage system for efficiency.",
+    "example2": "The subscription has tiered pricing based on usage.",
+    "example3": "Tiered support helps prioritize critical issues.",
+    "Explanation": "Tiered means something is organized into levels or hierarchical layers. This is used in storage (fast vs. slow), networking, support services, and licensing models. Tiering allows resources to be assigned efficiently: high-performance hardware for urgent data and cheaper storage for long-term archives. It is a common strategy to balance cost and performance. Each tier serves a specific purpose, creating a structured and scalable organization.",
+    "synonyms": [
+      "layered",
+      "hierarchical"
+    ],
+    "antonyms": [
+      "flat",
+      "single-level"
+    ],
+    "nounForm": "tier",
+    "verbForm": "tier",
+    "adjectiveForm": "tiered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage, support, pricing, architecture",
+    "usageTip": "Use to describe hierarchical systems.",
+    "commonMistake": "Confusing tiered with simple categorization.",
+    "collocations": [
+      "tiered storage",
+      "tiered pricing",
+      "tiered support"
+    ]
+  },
+  {
+    "word": "Tiered",
+    "meaning": "Arranged in levels or stages",
+    "shortMeaning": "leveled",
+    "example": "The application uses a tiered storage system for data.",
+    "example2": "We have a tiered pricing model for our services.",
+    "example3": "Tiered support helps categorize technical issues.",
+    "Explanation": "The word 'tiered' means arranged in layers or levels (like steps). In IT, we use this to organize storage (fast vs. slow), pricing, or support services. It is used to prioritize resources based on importance or performance needs. It is a very common term for describing tiered architectures and business models. It suggests structure and organization by importance or quality levels.",
+    "synonyms": [
+      "layered",
+      "leveled",
+      "ranked"
+    ],
+    "antonyms": [
+      "flat",
+      "single-level"
+    ],
+    "nounForm": "tier",
+    "verbForm": "tier",
+    "adjectiveForm": "tiered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage management, pricing models, support systems",
+    "usageTip": "Use 'tiered' when describing structures that have different levels.",
+    "commonMistake": "Confusing 'tiered' with 'tired' (very common typo).",
+    "collocations": [
+      "tiered storage",
+      "tiered pricing",
+      "tiered support"
+    ]
+  }
+]

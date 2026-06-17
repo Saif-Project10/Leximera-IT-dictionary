@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Non-restful",
+    "meaning": "Not conforming to the principles of REST (Representational State Transfer), a software architectural style for web services.",
+    "shortMeaning": "not using REST architecture",
+    "example": "The old API was non-restful and difficult to maintain.",
+    "example2": "They decided to replace the non-restful service with a modern REST API.",
+    "example3": "A non-restful endpoint might use different verbs for every action.",
+    "Explanation": "'Non-restful' is a technical term used in software development, specifically for web APIs. It describes an interface that does not follow the standard REST principles, which use HTTP methods like GET and POST in a specific way. Non-restful APIs can be harder to use and integrate. This word is important for developers when discussing API design and architecture choices.",
+    "synonyms": [
+      "non-REST",
+      "RPC-style",
+      "SOAP-based"
+    ],
+    "antonyms": [
+      "restful",
+      "REST-compliant",
+      "RESTful"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-restful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, web API design",
+    "usageTip": "Use this term when discussing the architecture of web services and APIs.",
+    "commonMistake": "Using it outside of a technical (API/software) context.",
+    "collocations": [
+      "non-restful API",
+      "non-restful service",
+      "non-restful endpoint"
+    ]
+  },
+  {
+    "word": "Non-restful",
+    "meaning": "Not following the REST architectural principles for APIs",
+    "shortMeaning": "not RESTful",
+    "example": "The legacy API is non-restful and uses RPC calls.",
+    "example2": "We are converting our non-restful services to a modern API.",
+    "example3": "Non-restful architectures are often tightly coupled.",
+    "Explanation": "The term 'non-restful' describes an API or web service that does not adhere to the 'Representational State Transfer' (REST) standards. RESTful APIs use standard HTTP verbs (GET, POST, PUT, DELETE) and a clean resource-based URL structure. A 'non-restful' service might use custom protocols, heavy XML payloads, or single-point entry structures like SOAP or RPC. It is often a sign of an older or more rigid, coupled system.",
+    "synonyms": [
+      "non-standard",
+      "legacy"
+    ],
+    "antonyms": [
+      "RESTful"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-restful",
+    "partOfSpeech": "adjective",
+    "commonContext": "API design, web services",
+    "usageTip": "Use when comparing API styles.",
+    "commonMistake": "Thinking non-restful is automatically 'broken'; it just follows a different architectural pattern.",
+    "collocations": [
+      "non-restful API",
+      "non-restful service",
+      "non-restful architecture"
+    ]
+  }
+]

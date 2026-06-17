@@ -1,0 +1,64 @@
+[
+  {
+    "word": "One-way",
+    "meaning": "Moving or allowing movement in only one direction; not reciprocal.",
+    "shortMeaning": "single direction, not round trip",
+    "example": "It's a one-way street, so you can't enter from this end.",
+    "example2": "I bought a one-way ticket to New York.",
+    "example3": "Communication felt like a one-way conversation; he never listened.",
+    "Explanation": "'One-way' is a compound adjective describing things that operate or are valid in a single direction. It is used for streets, tickets (meaning no return), communication, and even relationships where effort is not reciprocated. The hyphens are used when it precedes a noun. It's a practical, descriptive word used in transportation, urban planning, and general descriptions. The opposite is 'two-way' or 'round-trip' (for tickets). It clearly conveys the concept of a single, non-returning path.",
+    "synonyms": [
+      "single",
+      "unidirectional",
+      "non-return"
+    ],
+    "antonyms": [
+      "two-way",
+      "round-trip",
+      "reciprocal",
+      "bidirectional"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "one-way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Traffic, travel, communication, systems",
+    "usageTip": "For a ticket, 'one-way' means to a destination only; 'round-trip' means there and back.",
+    "commonMistake": "Using it for a street sign without the hyphen ('One Way' is the sign, 'one-way' is the adjective).",
+    "collocations": [
+      "one-way street",
+      "one-way ticket",
+      "one-way communication",
+      "one-way mirror"
+    ]
+  },
+  {
+    "word": "One-way",
+    "meaning": "Moving or allowing data flow in only one direction",
+    "shortMeaning": "unidirectional",
+    "example": "This is a one-way data synchronization process.",
+    "example2": "The firewall uses a one-way security policy.",
+    "example3": "It is a one-way hashing algorithm.",
+    "Explanation": "The term 'one-way' describes processes, algorithms, or connections that only function in a single direction. In cryptography, one-way functions (like hashing) allow you to turn data into a code but make it impossible (or very hard) to turn the code back into the original data. In networking, one-way mirrors or proxies protect internal systems by allowing requests out but preventing unsolicited traffic in. It is a critical concept for security and data integrity.",
+    "synonyms": [
+      "unidirectional",
+      "single-direction"
+    ],
+    "antonyms": [
+      "bidirectional",
+      "two-way"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "one-way",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, security, cryptography",
+    "usageTip": "Use to describe movement that cannot be reversed.",
+    "commonMistake": "Confusing 'one-way' (cryptography) with 'one-way' (network traffic).",
+    "collocations": [
+      "one-way hash",
+      "one-way traffic",
+      "one-way sync"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Classify",
+    "meaning": "To arrange things into groups based on shared characteristics.",
+    "shortMeaning": "categorize, sort",
+    "example": "Biologists classify animals into different species.",
+    "example2": "The library books are classified by subject.",
+    "example3": "This document is classified as confidential.",
+    "Explanation": "The verb 'classify' means to organize items, information, or ideas into systematic categories. It is a key concept in science, library management, and data organization. The process involves finding common features. The noun form is 'classification'. A common mistake is confusing it with 'clarify'. They sound somewhat similar but are very different. 'Classify' is about sorting; 'clarify' is about explaining. Another mistake is using it for simple listing; classification implies a system with defined groups. It is often used in passive voice (is classified as).",
+    "synonyms": [
+      "categorize",
+      "sort",
+      "organize"
+    ],
+    "antonyms": [
+      "disorganize",
+      "mix up",
+      "jumble"
+    ],
+    "nounForm": "classification",
+    "verbForm": "classify",
+    "adjectiveForm": "classified",
+    "partOfSpeech": "verb",
+    "commonContext": "Science, libraries, data, information",
+    "usageTip": "Often used with 'as' or 'into' (classified as a mammal, classify into groups).",
+    "commonMistake": "Confusing 'classify' (sort) with 'clarify' (make clear).",
+    "collocations": [
+      "classify information",
+      "broadly classify",
+      "classified document"
+    ]
+  },
+  {
+    "word": "Classify",
+    "meaning": "To arrange or organize something into categories based on shared characteristics",
+    "shortMeaning": "categorize",
+    "example": "The algorithm can classify images of animals automatically.",
+    "example2": "We need to classify these documents as 'Public' or 'Private'.",
+    "example3": "It is important to classify data before storing it in the cloud.",
+    "Explanation": "Classifying is a systematic way of organizing data. In IT and Machine Learning, classification is a major task where the computer looks at input and decides which label fits it (e.g., Is this email 'Spam' or 'Not Spam'?). It helps in searching, securing, and managing large datasets. By classifying, you make data meaningful and easier to handle for both humans and machines. It is the core of organized information systems.",
+    "synonyms": [
+      "categorize",
+      "sort",
+      "group"
+    ],
+    "antonyms": [
+      "disorder",
+      "mix",
+      "jumble"
+    ],
+    "nounForm": "classification",
+    "verbForm": "classify",
+    "adjectiveForm": "classified",
+    "partOfSpeech": "verb",
+    "commonContext": "Machine learning and data management",
+    "usageTip": "Use 'classify' when you are assigning items to formal, pre-defined groups.",
+    "commonMistake": "Confusing 'classify' with 'classify information' (meaning secret); in IT it usually means sorting.",
+    "collocations": [
+      "classify by type",
+      "automatically classify",
+      "data classification"
+    ]
+  }
+]

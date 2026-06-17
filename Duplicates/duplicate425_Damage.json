@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Damage",
+    "meaning": "(Verb) To cause physical harm to something, affecting its value, usefulness, or normal function. (Noun) Physical harm that impairs value or function.",
+    "shortMeaning": "harm; cause harm",
+    "example": "The storm damaged several houses.",
+    "example2": "Smoking can seriously damage your health.",
+    "example3": "The company's reputation suffered significant damage from the scandal.",
+    "Explanation": "Damage refers to injury or harm that reduces something's integrity, functionality, or value. As a verb, it's an action that causes this harm. Damage can be physical (a damaged car), metaphorical (a damaged reputation), or psychological (emotional damage). It's often repairable but not always. The word is central to insurance, law, and everyday accidents. It's more specific than 'hurt' (usually for living things) and often implies an external cause. The noun is also 'damage'. It's a common word with serious implications.",
+    "synonyms": [
+      "harm",
+      "injure",
+      "impair",
+      "ruin",
+      "devastate (stronger)"
+    ],
+    "antonyms": [
+      "repair",
+      "fix",
+      "improve",
+      "benefit"
+    ],
+    "nounForm": "damage",
+    "verbForm": "damage",
+    "adjectiveForm": "damaged",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Accidents, natural disasters, health, relationships, property",
+    "usageTip": "As a noun, it's often uncountable ('a lot of damage'). The plural 'damages' refers to monetary compensation in law.",
+    "commonMistake": "Saying 'damages' to mean multiple instances of harm; use 'damage' as the general noun.",
+    "collocations": [
+      "cause damage",
+      "irreparable damage",
+      "brain damage"
+    ]
+  },
+  {
+    "word": "Damage",
+    "meaning": "Physical or digital harm caused to something, making it less attractive or useful",
+    "shortMeaning": "harm or injury",
+    "example": "The flood caused serious damage to the data center.",
+    "example2": "A virus can damage your computer's files beyond repair.",
+    "example3": "The reputation damage to the company was hard to fix after the leak.",
+    "Explanation": "Damage in IT can be physical, such as a broken screen or a burnt-out motherboard, or digital, like corrupted data or a broken software link. Unlike a 'bug' which is an error in code, damage often implies something that was working but is now broken due to an external force or event. It is important to have backups to recover from data damage. In the context of security, damage can also be 'reputational', meaning people no longer trust the company. Preventing damage involves both good hardware care and strong software security measures.",
+    "synonyms": [
+      "harm",
+      "injury",
+      "impairment"
+    ],
+    "antonyms": [
+      "repair",
+      "fix",
+      "improvement"
+    ],
+    "nounForm": "damage",
+    "verbForm": "damage",
+    "adjectiveForm": "damaged",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Hardware, software, and insurance",
+    "usageTip": "Use 'damage' for both physical broken parts and invisible broken data.",
+    "commonMistake": "Confusing 'damage' with 'damages'; 'damages' usually refers to money paid in a legal case.",
+    "collocations": [
+      "severe damage",
+      "cause damage",
+      "damage control"
+    ]
+  }
+]

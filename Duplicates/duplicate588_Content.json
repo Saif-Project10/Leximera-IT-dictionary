@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Content",
+    "meaning": "The things that are inside something; also, a state of happiness and satisfaction.",
+    "shortMeaning": "things inside; satisfied",
+    "example": "The book's content is both educational and entertaining. (things inside)",
+    "example2": "He was content to sit and watch the sunset. (satisfied)",
+    "example3": "Check the table of contents to see what the report includes.",
+    "Explanation": "This is a word with two distinct meanings and pronunciations. As a noun (CON-tent), it refers to the material contained within something, like the chapters in a book or items in a bag. As an adjective (con-TENT), it describes a feeling of peaceful satisfaction. It's crucial to differentiate them by context, spelling (the adjective is only ever 'content'), and pronunciation. The noun form is often pluralized ('contents') when listing items. The adjective suggests a simple, sufficient happiness, not extreme joy.",
+    "synonyms": [
+      "subject matter",
+      "material",
+      "satisfied",
+      "pleased"
+    ],
+    "antonyms": [
+      "discontent",
+      "dissatisfied",
+      "unhappy"
+    ],
+    "nounForm": "content(s)",
+    "verbForm": "N/A",
+    "adjectiveForm": "content",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Media, information, storage; emotions and satisfaction",
+    "usageTip": "As an adjective, use 'content with' or 'content to'. As a noun, it's often 'the content of' something.",
+    "commonMistake": "Pronouncing the adjective (con-TENT) the same as the noun (CON-tent).",
+    "collocations": [
+      "table of contents",
+      "digital content",
+      "feel content",
+      "content with life"
+    ]
+  },
+  {
+    "word": "Content",
+    "meaning": "The information or material provided by a website or application",
+    "shortMeaning": "digital material",
+    "example": "The website has high-quality content for users.",
+    "example2": "We need to optimize the content for SEO.",
+    "example3": "The database stores all the user-generated content.",
+    "Explanation": "In IT, content refers to text, images, videos, or data that users consume. It is the core value provided by most web applications and platforms. Managing content effectively is a key task for web developers, often involving Content Management Systems (CMS). While it can also mean being satisfied, in this technical context, it is almost always a noun. Note that the plural form is also 'content' or 'contents'.",
+    "synonyms": [
+      "data",
+      "material",
+      "information"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "content",
+    "verbForm": "N/A",
+    "adjectiveForm": "content",
+    "partOfSpeech": "noun",
+    "commonContext": "Web development, CMS, digital media",
+    "usageTip": "Use 'content' to refer to the actual data shown on a screen.",
+    "commonMistake": "Confusing it with 'context' or assuming it is always plural.",
+    "collocations": [
+      "content management",
+      "web content",
+      "user-generated content"
+    ]
+  }
+]

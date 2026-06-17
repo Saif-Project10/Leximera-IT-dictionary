@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Obtainable",
+    "meaning": "Able to be obtained; available to get.",
+    "shortMeaning": "able to be got",
+    "example": "The necessary permits are easily obtainable from the city office.",
+    "example2": "That rare book is no longer obtainable in stores.",
+    "example3": "Our goal is difficult but obtainable with hard work.",
+    "Explanation": "'Obtainable' is an adjective that describes something you can get, acquire, or achieve. It focuses on availability and possibility. If something is obtainable, it exists and you have a way to get it, though it might be difficult. This word is useful when discussing resources, goals, or products. It's more formal than 'available' or 'getable'.",
+    "synonyms": [
+      "available",
+      "accessible",
+      "attainable",
+      "procurable"
+    ],
+    "antonyms": [
+      "unobtainable",
+      "unavailable",
+      "inaccessible",
+      "unattainable"
+    ],
+    "nounForm": "obtainability",
+    "verbForm": "obtain",
+    "adjectiveForm": "obtainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Shopping, goal-setting, resource management",
+    "usageTip": "Use 'obtainable' for things that can be gotten through effort, purchase, or request.",
+    "commonMistake": "Using it to mean 'easy to get'; it means 'possible to get', which could still be hard.",
+    "collocations": [
+      "easily obtainable",
+      "readily obtainable",
+      "obtainable goal"
+    ]
+  },
+  {
+    "word": "Obtainable",
+    "meaning": "Able to be obtained, acquired, or reached",
+    "shortMeaning": "reachable",
+    "example": "The necessary API keys are obtainable from the dashboard.",
+    "example2": "High performance is obtainable with the right configuration.",
+    "example3": "The data is easily obtainable via a GET request.",
+    "Explanation": "The word 'obtainable' refers to anything that you can successfully get or acquire. In IT, this usually refers to data, resources, or specific access rights. If a resource is 'obtainable', it means the correct permissions and paths exist to retrieve it. It is often used in documentation to explain where a developer can find files, API endpoints, or documentation manuals. It essentially confirms that something is available for use.",
+    "synonyms": [
+      "accessible",
+      "available",
+      "attainable"
+    ],
+    "antonyms": [
+      "unavailable",
+      "inaccessible",
+      "unobtainable"
+    ],
+    "nounForm": "obtainability",
+    "verbForm": "obtain",
+    "adjectiveForm": "obtainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "API documentation and resource management",
+    "usageTip": "Use 'obtainable' to confirm that something can be gotten.",
+    "commonMistake": "Using 'obtainable' when 'accessible' (which implies ease) is better.",
+    "collocations": [
+      "easily obtainable",
+      "obtainable data"
+    ]
+  }
+]

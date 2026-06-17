@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Veil",
+    "meaning": "A piece of fine material worn to protect or hide the face; something that conceals or disguises",
+    "shortMeaning": "face covering; something that hides",
+    "example": "The bride wore a beautiful lace veil.",
+    "example2": "A veil of mist hung over the valley.",
+    "example3": "His polite words were a veil for his anger.",
+    "Explanation": "'Veil' is a noun and a verb rich with metaphorical meaning. Literally, it is a piece of cloth, often sheer, worn over the head and face, especially by brides or in some religious traditions. Figuratively, it means anything that obscures, conceals, or separates one thing from another, like a 'veil of secrecy' or a 'veil of tears'. As a verb, 'to veil' means to cover or conceal. The word evokes imagery of mystery, privacy, protection, and sometimes deception. It is used in poetry, literature, and everyday language to describe both physical coverings and intangible barriers to perception or truth.",
+    "synonyms": [
+      "covering",
+      "shawl",
+      "mask",
+      "cloak",
+      "screen"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose",
+      "uncover"
+    ],
+    "nounForm": "veil",
+    "verbForm": "veil",
+    "adjectiveForm": "veiled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Weddings, religion, mystery, poetry, description",
+    "usageTip": "Use the noun for the object. Use the verb for the action of covering or hiding.",
+    "commonMistake": "Misspelling it as 'vail' (which is a different, archaic word).",
+    "collocations": [
+      "bridal veil",
+      "veil of secrecy",
+      "draw a veil over",
+      "thin veil"
+    ]
+  },
+  {
+    "word": "Veil",
+    "meaning": "To hide, mask, or obscure underlying data structures, IP addresses, or source code from public view",
+    "shortMeaning": "mask or hide data structures",
+    "example": "A Virtual Private Network can veil your actual IP address to protect your digital privacy online.",
+    "example2": "The developer chose to veil the core algorithm logic using code obfuscation tools.",
+    "example3": "Security firewalls help veil internal server paths from outside hackers.",
+    "Explanation": "In computer security and network administration, 'veil' describes hiding underlying system information to prevent unauthorized tracking or exploitation. Techniques like code obfuscation, network address masking, and proxy routing act as a protective layer over your real data structures, making it difficult for malicious actors to map out and target vulnerabilities in your network infrastructure.",
+    "synonyms": [
+      "mask",
+      "obscure",
+      "hide",
+      "obfuscate",
+      "camouflage"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose",
+      "disclose"
+    ],
+    "nounForm": "veil",
+    "verbForm": "veil",
+    "adjectiveForm": "veiled",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Network routing security, code obfuscation tasks, and digital privacy methods",
+    "usageTip": "Use 'veil' when explaining security measures designed to hide critical system components or user identities from view.",
+    "commonMistake": "Relying on a superficial data mask to veil code without implementing actual backend encryption safety layers.",
+    "collocations": [
+      "veil an IP address",
+      "veil the source code",
+      "veil underlying data"
+    ]
+  }
+]

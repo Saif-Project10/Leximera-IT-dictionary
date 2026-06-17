@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Disagree",
+    "meaning": "To have a different opinion; to not be the same | To have a different opinion; to not correspond or match",
+    "shortMeaning": "not agree",
+    "example": "I disagree with his assessment of the situation.",
+    "example2": "The two reports seem to disagree on the basic facts.",
+    "example3": "Spicy food disagrees with my stomach.",
+    "Explanation": "The verb 'disagree' means to have or express a different opinion from someone else. It can also mean for statements or facts to be inconsistent. Informally, it can mean for food to cause minor illness ('disagree with'). It is a very common verb in discussions and debates. The noun form is 'disagreement'. Remember to use 'with' after disagree when talking about people or opinions.",
+    "synonyms": [
+      "Clash",
+      "Conflict",
+      "Differ",
+      "Dissent",
+      "Quarrel"
+    ],
+    "antonyms": [
+      "Agree",
+      "Concur",
+      "Harmonize"
+    ],
+    "nounForm": "disagreement",
+    "verbForm": "disagree",
+    "adjectiveForm": "disagreeable",
+    "partOfSpeech": "verb",
+    "commonContext": "Arguments, discussions, debates, facts",
+    "usageTip": "Always use the preposition 'with' after disagree when referring to a person or opinion.",
+    "commonMistake": "Saying 'disagree to' instead of the correct 'disagree with'.",
+    "collocations": [
+      "disagree with",
+      "strongly disagree",
+      "agree to disagree"
+    ]
+  },
+  {
+    "word": "Disagree",
+    "meaning": "To have a different opinion or to not match with something else",
+    "shortMeaning": "different opinion",
+    "example": "The two reports disagree on the number of active users.",
+    "example2": "I disagree with the idea that we should delay the launch.",
+    "example3": "Sometimes the search results from different engines will disagree.",
+    "Explanation": "While 'disagree' usually describes a conflict between two people's thoughts, it can also describe data. If two databases show different numbers for the same thing, we can say the records 'disagree'. In a professional setting, disagreeing politely is an important skill. In coding, if a result doesn't match the expected output, the actual and expected values disagree. It is a common word in daily communication and technical troubleshooting to highlight inconsistencies or differences in viewpoint.",
+    "synonyms": [
+      "differ",
+      "clash",
+      "conflict"
+    ],
+    "antonyms": [
+      "agree",
+      "concur",
+      "match"
+    ],
+    "nounForm": "disagreement",
+    "verbForm": "disagree",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Meetings, data verification, and personal interaction",
+    "usageTip": "Use 'disagree' when two pieces of information don't match each other.",
+    "commonMistake": "Using 'disagree' for inanimate objects incorrectly; use 'inconsistent' or 'clash' for a stronger technical feel.",
+    "collocations": [
+      "strongly disagree",
+      "disagree on",
+      "disagree with"
+    ]
+  }
+]

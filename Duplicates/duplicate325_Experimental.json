@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Experimental",
+    "meaning": "Relating to or based on experiment; still in a trial stage to see if it works | Based on untested ideas or techniques; relating to scientific experiments.",
+    "shortMeaning": "for testing; trial",
+    "example": "The hospital is using an experimental treatment.",
+    "example2": "The band's new sound is more experimental.",
+    "example3": "This is an experimental feature; it may have bugs.",
+    "Explanation": "The adjective 'experimental' means involving a new idea, method, or technology that is being tested to see how effective it is. It implies innovation and uncertainty. It can be used scientifically (an experimental drug) or more loosely in arts (experimental film). It often suggests something is not yet standard or finalized. The noun form is 'experiment'. It's a word that invites both caution and curiosity.",
+    "synonyms": [
+      "Innovative",
+      "Investigational",
+      "Pilot",
+      "Tentative",
+      "Test",
+      "Trial"
+    ],
+    "antonyms": [
+      "Conventional",
+      "Established",
+      "Proven",
+      "Standard"
+    ],
+    "nounForm": "experiment",
+    "verbForm": "experiment",
+    "adjectiveForm": "experimental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, medicine, technology, art",
+    "usageTip": "In software, 'experimental features' are often hidden behind settings flags for users to try at their own risk.",
+    "commonMistake": "Thinking 'experimental' means 'unsafe'; it means 'under evaluation'.",
+    "collocations": [
+      "experimental stage",
+      "experimental design",
+      "experimental evidence",
+      "experimental music"
+    ]
+  },
+  {
+    "word": "Experimental",
+    "meaning": "Based on new ideas or methods and not yet fully proven",
+    "shortMeaning": "not fully tested",
+    "example": "The software is currently in an experimental phase.",
+    "example2": "We are running experimental features in the beta branch.",
+    "example3": "This experimental code should not be used in production.",
+    "Explanation": "The word 'experimental' describes something that is new, being tested, and not yet reliable or standard. It signals to users and other developers that the component might have bugs or missing documentation. It is vital to label such features clearly to manage expectations. 'Experimental' projects are great for learning and innovation but are typically avoided in production environments where stability is the highest priority.",
+    "synonyms": [
+      "trial",
+      "testing",
+      "exploratory"
+    ],
+    "antonyms": [
+      "proven",
+      "standard",
+      "established"
+    ],
+    "nounForm": "experiment",
+    "verbForm": "experiment",
+    "adjectiveForm": "experimental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, research, and beta testing",
+    "usageTip": "Use 'experimental' to warn that a feature is not stable.",
+    "commonMistake": "Using 'experimental' code in a live, critical environment.",
+    "collocations": [
+      "experimental phase",
+      "experimental feature",
+      "experimental code"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Coupled",
+    "meaning": "Linked or connected together.",
+    "shortMeaning": "linked together",
+    "example": "Hard work, coupled with talent, leads to success.",
+    "example2": "The train cars are coupled together.",
+    "example3": "High prices are often coupled with poor service.",
+    "Explanation": "Coupled is the past participle of the verb 'couple', meaning to join or connect two things. It is most commonly used in the phrase 'coupled with', which means 'combined with' or 'along with'. This phrase is used to highlight that two or more factors are working together to produce a result. It is a formal way of saying 'and also'. The word often implies a pairing or partnership, whether physical (like train cars) or abstract (like ideas or factors). It suggests a stronger connection than just 'and'.",
+    "synonyms": [
+      "combined",
+      "linked",
+      "joined",
+      "paired",
+      "connected"
+    ],
+    "antonyms": [
+      "separated",
+      "decoupled",
+      "disconnected",
+      "isolated"
+    ],
+    "nounForm": "coupling",
+    "verbForm": "couple",
+    "adjectiveForm": "coupled",
+    "partOfSpeech": "adjective (often past participle)",
+    "commonContext": "Analysis, engineering, formal writing",
+    "usageTip": "Use 'coupled with' in writing to formally list contributing factors.",
+    "commonMistake": "Using 'coupled to' instead of the standard phrase 'coupled with' in figurative contexts.",
+    "collocations": [
+      "coupled with",
+      "closely coupled",
+      "directly coupled"
+    ]
+  },
+  {
+    "word": "Coupled",
+    "meaning": "Joined or connected together with something else",
+    "shortMeaning": "joined together",
+    "example": "The success of the project was coupled with hard work.",
+    "example2": "These two systems are closely coupled to share data.",
+    "example3": "Increased demand is coupled with a supply shortage.",
+    "Explanation": "The word 'coupled' describes when two or more things are linked or paired together. It often implies that one thing happens or exists alongside another. In IT, it can refer to how dependent software components are on each other. It is frequently used in formal or technical contexts to show relationships between ideas or systems. Remember that it usually requires the preposition 'with' when describing connections.",
+    "synonyms": [
+      "connected",
+      "linked",
+      "paired"
+    ],
+    "antonyms": [
+      "separated",
+      "disconnected",
+      "independent"
+    ],
+    "nounForm": "couple",
+    "verbForm": "couple",
+    "adjectiveForm": "coupled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Technical systems and logical relationships",
+    "usageTip": "Use 'coupled with' to explain how two factors work together.",
+    "commonMistake": "Forgetting to use the preposition 'with' when linking two ideas.",
+    "collocations": [
+      "closely coupled",
+      "coupled with",
+      "tightly coupled"
+    ]
+  },
+  {
+    "word": "Coupled",
+    "meaning": "Linked or connected together in a system",
+    "shortMeaning": "connected",
+    "example": "The frontend and backend are tightly coupled in this old design.",
+    "example2": "We are working to move towards a loosely coupled architecture.",
+    "example3": "These two modules are coupled, so changes in one affect the other.",
+    "Explanation": "The word 'coupled' describes how two or more components in a system are connected. In software engineering, high coupling is often undesirable because it makes code hard to maintain and update. 'Loosely coupled' systems are generally preferred because they allow for independent development of modules. Understanding coupling is vital for designing scalable and robust applications. It is a standard term in systems architecture and design patterns.",
+    "synonyms": [
+      "linked",
+      "connected",
+      "interdependent"
+    ],
+    "antonyms": [
+      "independent",
+      "decoupled",
+      "separate"
+    ],
+    "nounForm": "coupling",
+    "verbForm": "couple",
+    "adjectiveForm": "coupled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, system design",
+    "usageTip": "Use 'coupled' to explain the relationship between software modules.",
+    "commonMistake": "Ignoring the difficulty of testing tightly coupled code.",
+    "collocations": [
+      "tightly coupled",
+      "loosely coupled",
+      "coupled components"
+    ]
+  }
+]

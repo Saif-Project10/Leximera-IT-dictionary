@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Visual",
+    "meaning": "Relating to seeing or sight; in the form of a picture, diagram, or video.",
+    "shortMeaning": "related to sight",
+    "example": "The presentation had a strong visual impact.",
+    "example2": "She is a visual learner, so she prefers charts and diagrams.",
+    "example3": "The artist's work is a visual feast of color and form.",
+    "Explanation": "The word 'visual' pertains to the sense of sight. It is used to describe anything that can be seen or that uses images to communicate, as opposed to text or sound. In our digital age, 'visual content' (like infographics, videos, photos) is highly valued for its ability to convey information quickly and memorably. 'Visual' can also describe a person's learning style. It is a broad, fundamental adjective used across art, design, education, marketing, and technology to emphasize the graphical or observable aspect of something.",
+    "synonyms": [
+      "optical",
+      "graphic",
+      "pictorial",
+      "visible",
+      "ocular"
+    ],
+    "antonyms": [
+      "auditory",
+      "textual",
+      "non-visual",
+      "invisible"
+    ],
+    "nounForm": "visual, visualization",
+    "verbForm": "visualize",
+    "adjectiveForm": "visual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Art, design, media, marketing, learning styles, user interfaces",
+    "usageTip": "Often used with nouns like 'aid', 'content', 'effect', 'learning', 'representation'.",
+    "commonMistake": "Confusing 'visual' (related to sight) with 'visible' (able to be seen). All visual things are meant to be seen, but 'visible' refers specifically to the state of being seen.",
+    "collocations": [
+      "visual arts",
+      "visual effects",
+      "visual representation",
+      "visual learner"
+    ]
+  },
+  {
+    "word": "Visual",
+    "meaning": "Relating to sight or things seen",
+    "shortMeaning": "related to sight",
+    "example": "The dashboard provides a visual representation of system data.",
+    "example2": "Visual cues help users navigate the interface.",
+    "example3": "We need a visual design for the new app.",
+    "Explanation": "The term 'visual' covers everything related to sight. In IT, we create 'visual' aids like charts, diagrams, and interface layouts to help users understand complex digital data. Humans process visual information much faster than raw data or text, so visual design is a massive part of software usability. A good 'visual' design makes a system intuitive and reduces the need for extensive user manuals. When designing software, always aim to make the most important data highly 'visual'. ",
+    "synonyms": [
+      "optical",
+      "graphical",
+      "seen"
+    ],
+    "antonyms": [
+      "auditory",
+      "textual"
+    ],
+    "nounForm": "vision",
+    "verbForm": "visualize",
+    "adjectiveForm": "visual",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, data visualization, design",
+    "usageTip": "Use for anything related to how software looks.",
+    "commonMistake": "Thinking visual design is just for looks (it is for usability).",
+    "collocations": [
+      "visual design",
+      "visual cue",
+      "visual representation"
+    ]
+  },
+  {
+    "word": "Visual",
+    "meaning": "Relating to seeing or sight; presented in a graphical form.",
+    "shortMeaning": "related to sight",
+    "example": "The dashboard provides a visual representation of data.",
+    "example2": "We need better visual feedback for when a button is clicked.",
+    "example3": "Visual cues help users navigate the complex menu.",
+    "Explanation": "‘Visual’ refers to the graphical aspect of IT. This spans UI design, data visualization (charts and graphs), and debugging. Modern software relies heavily on 'visual' cues—colors, shapes, and animations—to communicate system status to users. A strong 'visual' strategy is the difference between an application that is intuitive and one that feels confusing. It turns abstract binary data into something humans can quickly understand and act upon.",
+    "synonyms": [
+      "graphical",
+      "optical",
+      "visible"
+    ],
+    "antonyms": [
+      "textual",
+      "hidden"
+    ],
+    "nounForm": "visualization",
+    "verbForm": "visualize",
+    "adjectiveForm": "visual",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX and data analysis",
+    "usageTip": "Use to describe graphical elements or communication.",
+    "commonMistake": "Confusing 'visual' (graphical) with 'visionary' (farsighted).",
+    "collocations": [
+      "visual feedback",
+      "visual representation",
+      "visual interface"
+    ]
+  }
+]

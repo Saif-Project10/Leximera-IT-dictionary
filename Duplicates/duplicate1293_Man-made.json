@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Man-made",
+    "meaning": "Made or caused by human beings rather than occurring naturally.",
+    "shortMeaning": "made by humans",
+    "example": "The lake is man-made; it was created by damming the river.",
+    "example2": "Nylon is a man-made fiber.",
+    "example3": "Many environmental problems are the result of man-made disasters.",
+    "Explanation": "'Man-made' is a compound adjective describing objects, materials, or phenomena created by humans, as opposed to being natural. It applies to everything from synthetic materials (man-made fabrics) to large structures (man-made islands) to problems (man-made climate change). The term is neutral but can carry negative connotations when discussing environmental harm. There is a growing preference for gender-neutral alternatives like 'human-made', 'artificial', or 'synthetic' in some contexts. The hyphen is essential when it comes before a noun.",
+    "synonyms": [
+      "artificial",
+      "synthetic",
+      "human-made"
+    ],
+    "antonyms": [
+      "natural",
+      "organic",
+      "wild"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "man-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "Materials, disasters, structures, environments",
+    "usageTip": "Always hyphenate. Consider using 'human-made' or 'artificial' if gender-neutral language is preferred.",
+    "commonMistake": "Writing it as two separate words ('man made') when used as an adjective before a noun.",
+    "collocations": [
+      "man-made materials",
+      "man-made disaster",
+      "man-made lake"
+    ]
+  },
+  {
+    "word": "Man-made",
+    "meaning": "Created by people, not occurring naturally",
+    "shortMeaning": "artificial",
+    "example": "The data pattern was man-made and simulated.",
+    "example2": "It is a man-made error, not a system failure.",
+    "example3": "Man-made structures are often modeled in 3D software.",
+    "Explanation": "The term 'man-made' indicates something created by human activity as opposed to natural or machine-only origins. In IT, it is sometimes used to emphasize that an event was caused by human error or intervention (like a configuration change) rather than an automated process. While 'artificial' or 'human-induced' might be more precise, 'man-made' is still used to highlight the human origin of a specific outcome.",
+    "synonyms": [
+      "artificial",
+      "synthetic",
+      "human-induced"
+    ],
+    "antonyms": [
+      "natural",
+      "automated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "man-made",
+    "partOfSpeech": "adjective",
+    "commonContext": "General discussion, error classification",
+    "usageTip": "Use to emphasize human origin in a process or error.",
+    "commonMistake": "Overusing 'man-made' when 'manual' or 'custom' is more precise.",
+    "collocations": [
+      "man-made error",
+      "man-made system",
+      "man-made structure"
+    ]
+  }
+]

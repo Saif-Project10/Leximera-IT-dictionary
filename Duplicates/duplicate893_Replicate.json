@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Replicate",
+    "meaning": "To make an exact copy of something; to repeat an experiment or process",
+    "shortMeaning": "copy exactly",
+    "example": "Scientists tried to replicate the experiment's results.",
+    "example2": "The virus can replicate itself very quickly.",
+    "example3": "The artist could not replicate his earlier masterpiece.",
+    "Explanation": "'Replicate' is a formal verb meaning to duplicate or reproduce something precisely. It is central to scientific research, where reproducing results is crucial for validity. In biology, it refers to how cells or viruses copy themselves. It suggests a high degree of accuracy in the copying process. It's more specific than 'copy' or 'repeat', emphasizing the precision of the duplication.",
+    "synonyms": [
+      "duplicate",
+      "reproduce",
+      "copy"
+    ],
+    "antonyms": [
+      "originate",
+      "create",
+      "differ"
+    ],
+    "nounForm": "replication",
+    "verbForm": "replicate",
+    "adjectiveForm": "replicable",
+    "partOfSpeech": "verb",
+    "commonContext": "Scientific research, biology, manufacturing, art",
+    "usageTip": "Use 'replicate' when emphasizing the precision and exactness of the copy.",
+    "commonMistake": "Using 'replicate' casually to mean just 'do again' without the precision aspect.",
+    "collocations": [
+      "replicate the findings",
+      "ability to replicate",
+      "replicate the process"
+    ]
+  },
+  {
+    "word": "Replicate",
+    "meaning": "To copy, repeat, or reproduce something exactly, such as a software bug or data structure",
+    "shortMeaning": "copy or reproduce exactly",
+    "example": "Can you try to replicate the bug on your local computer so we can fix it?",
+    "example2": "The research team was able to replicate the experiment results successfully.",
+    "example3": "Our software system can replicate layout templates across different servers easily.",
+    "Explanation": "The word 'Replicate' means to make an exact duplicate or copy of an object, process, or situation. In software testing, when a user reports an issue, the first critical step for a developer is to replicate the bug locally. This means following the same steps to make the error appear again on their own computer. If you cannot replicate a problem, finding a fix becomes extremely difficult. The word carries a strong sense of precision, meaning the copy must match the original down to the smallest detail.",
+    "synonyms": [
+      "duplicate",
+      "reproduce",
+      "copy"
+    ],
+    "antonyms": [
+      "originate",
+      "create uniquely",
+      "N/A"
+    ],
+    "nounForm": "replication",
+    "verbForm": "replicate",
+    "adjectiveForm": "replicated",
+    "partOfSpeech": "verb",
+    "commonContext": "Bug reproduction, data backups, scientific testing procedures",
+    "usageTip": "Use 'replicate' when you need to match the exact conditions or outcome of an existing event or asset.",
+    "commonMistake": "Spelling it as 'replicate' but using it to mean simple paraphrasing; it means creating a literal duplicate.",
+    "collocations": [
+      "replicate a bug",
+      "replicate data",
+      "hard to replicate"
+    ]
+  }
+]

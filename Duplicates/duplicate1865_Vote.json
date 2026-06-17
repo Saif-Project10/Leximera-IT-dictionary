@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Vote",
+    "meaning": "A formal choice made by an individual in a group decision",
+    "shortMeaning": "formal choice",
+    "example": "Each member of the board has one vote on the new budget.",
+    "example2": "You can cast your vote electronically through the secure portal.",
+    "example3": "The motion passed with a majority vote.",
+    "Explanation": "A vote is a tool for collective decision-making. In computing, 'voting' is often used in algorithms to reach a 'consensus'. For example, if three different servers are calculating a result, the system might 'vote' to see which result is correct. This is vital for security and reliability. In a general sense, it refers to democratic processes where people select leaders or policies. It can be done via paper, voice, or digital systems.",
+    "synonyms": [
+      "ballot",
+      "choice",
+      "selection"
+    ],
+    "antonyms": [
+      "veto",
+      "abstention",
+      "dictatorship"
+    ],
+    "nounForm": "vote / voter",
+    "verbForm": "vote",
+    "adjectiveForm": "voted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Governance, elections, and distributed systems",
+    "usageTip": "Use 'vote' when referring to the individual choice or the act of choosing.",
+    "commonMistake": "Confusing 'vote' with 'poll'; a poll is usually for gathering opinions, a vote is for making a final decision.",
+    "collocations": [
+      "cast a vote",
+      "majority vote",
+      "electronic vote"
+    ]
+  },
+  {
+    "word": "Vote",
+    "meaning": "To submit an opinion, choice, or rating value within online community forums to help rank content assets or software features",
+    "shortMeaning": "submit a digital choice",
+    "example": "Users can vote on their favorite technical dictionary features to guide our update roadmap.",
+    "example2": "The developer community will vote to choose the final logo layout for the open-source program.",
+    "example3": "Be sure to vote on the forum post if you think the reported bug requires an urgent fix.",
+    "Explanation": "The word 'vote' describes a common feature in web platforms and forums (like Stack Overflow or Reddit), allowing users to upvote or downvote answers, feature requests, or bug reports. This feedback loops helps bubble high-quality solutions and urgent bugs to the top of the interface. Designing voting data systems requires validation checks to prevent spam bots from manipulating ratings or gaming system search metrics.",
+    "synonyms": [
+      "cast ballot",
+      "poll opinion",
+      "rate",
+      "register choice"
+    ],
+    "antonyms": [
+      "abstain from choosing",
+      "remain silent"
+    ],
+    "nounForm": "vote / voter / voting",
+    "verbForm": "vote",
+    "adjectiveForm": "voted",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Community feedback forms, software feature planning polls, ranking logic routines",
+    "usageTip": "Use 'vote' when designing application features that allow users to select preferences or rank community content blocks.",
+    "commonMistake": "Allowing unauthenticated guest users to vote repeatedly, which can distort your data metrics with duplicate inputs.",
+    "collocations": [
+      "vote on features",
+      "cast a vote",
+      "upvote an answer"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Scrutinize",
+    "meaning": "To examine or inspect closely and thoroughly.",
+    "shortMeaning": "examine closely",
+    "example": "The lawyer scrutinized the contract for any hidden clauses.",
+    "example2": "Every application is scrutinized by the admissions committee.",
+    "example3": "She scrutinized his face, trying to guess what he was thinking.",
+    "Explanation": "To 'scrutinize' is a formal verb meaning to look at something very carefully, paying attention to every detail. It implies a critical, searching examination, often to find flaws or to understand deeply. It is stronger than 'examine' or 'look at'. The noun form is 'scrutiny'. The word is used in legal, academic, scientific, and journalistic contexts where precision and thoroughness are required. It suggests that nothing escapes notice. It's the act of giving something intense, detailed attention.",
+    "synonyms": [
+      "examine",
+      "inspect",
+      "analyze",
+      "study"
+    ],
+    "antonyms": [
+      "glance at",
+      "ignore",
+      "overlook",
+      "skim"
+    ],
+    "nounForm": "scrutiny",
+    "verbForm": "scrutinize",
+    "adjectiveForm": "scrutinizing",
+    "partOfSpeech": "verb",
+    "commonContext": "Investigations, reviews, audits, close observation",
+    "usageTip": "Often used in passive voice: 'The proposal will be scrutinized by experts.'",
+    "commonMistake": "Pronouncing it as 'scrutinise' (with a 'z' sound); it's 'scrutinize' with an 's' sound in US English.",
+    "collocations": [
+      "scrutinize carefully",
+      "closely scrutinize",
+      "scrutinize the details",
+      "subject to scrutinize"
+    ]
+  },
+  {
+    "word": "Scrutinize",
+    "meaning": "To examine code, data, or logs very carefully and critically to find errors or security issues",
+    "shortMeaning": "examine very closely",
+    "example": "Senior developers must scrutinize the new source code before merging it into the main project repository.",
+    "example2": "The security team will scrutinize every server log entry to trace the origin of the network breach.",
+    "example3": "You need to scrutinize the database configuration settings to ensure no private ports are exposed.",
+    "Explanation": "The word 'Scrutinize' is a highly formal term used in code reviews, cybersecurity auditing, and database quality checks. It implies looking much closer than a normal review or passive glance. When you scrutinize something, you check every single detail, line, and character to find hidden bugs, logical flaws, or vulnerabilities. This deep level of inspection is essential for maintaining robust systems, writing secure applications, and preventing production failures.",
+    "synonyms": [
+      "inspect",
+      "examine",
+      "audit"
+    ],
+    "antonyms": [
+      "glance",
+      "ignore",
+      "overlook"
+    ],
+    "nounForm": "scrutiny",
+    "verbForm": "scrutinate",
+    "adjectiveForm": "scrutinized",
+    "partOfSpeech": "verb",
+    "commonContext": "Code reviews, security audits, and data analysis",
+    "usageTip": "Use 'scrutinize' when you want to emphasize a deep, critical, and thorough examination process rather than a quick check.",
+    "commonMistake": "Using 'scrutinize' for a quick, casual look at an item; it must always mean a very intense inspection.",
+    "collocations": [
+      "scrutize code",
+      "scrutize logs",
+      "carefully scrutinize"
+    ]
+  }
+]

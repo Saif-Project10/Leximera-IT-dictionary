@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Join",
+    "meaning": "To connect or fasten things together; to become a member of a group.",
+    "shortMeaning": "connect, become a member",
+    "example": "Join the two pieces of wood with glue.",
+    "example2": "She decided to join the chess club.",
+    "example3": "The path joins the main road up ahead.",
+    "Explanation": "The verb 'join' has two primary meanings. First, to connect two or more physical objects. Second, to become part of a group, activity, or conversation. It is a very common and versatile word. It suggests adding something to an existing entity. The noun form is 'joint' (the connection point) or 'joiner' (a person who joins). It is less permanent and less intense than 'unite'. You can join a line, a club, a conversation, or two pieces of material.",
+    "synonyms": [
+      "connect",
+      "link",
+      "attach",
+      "enter",
+      "enlist"
+    ],
+    "antonyms": [
+      "separate",
+      "detach",
+      "leave",
+      "disconnect"
+    ],
+    "nounForm": "joint / join (less common)",
+    "verbForm": "join",
+    "adjectiveForm": "joined",
+    "partOfSpeech": "verb",
+    "commonContext": "Construction, groups, conversations, roads",
+    "usageTip": "Use 'join in' for participating in an activity that is already happening: 'He joined in the singing.'",
+    "commonMistake": "Saying 'join together' is often redundant; 'join' usually implies togetherness.",
+    "collocations": [
+      "join a club",
+      "join forces",
+      "join the army",
+      "join the dots"
+    ]
+  },
+  {
+    "word": "Join",
+    "meaning": "To combine data from two or more tables in a database based on a related column",
+    "shortMeaning": "combine database tables",
+    "example": "We used an inner join to get a list of customers and their orders.",
+    "example2": "A left join will include all records from the first table even if there is no match.",
+    "example3": "You should join the 'Users' table with the 'Profiles' table using the ID.",
+    "Explanation": "In SQL and database management, a 'join' is how you connect different pieces of information. For example, if you have one list of names and another list of phone numbers, you 'join' them to see who owns which number. There are different types of joins, such as Inner Join, Left Join, and Right Join. This is one of the most important skills for a data analyst or backend developer. It allows you to store data efficiently in separate tables but still see it all together. It is used in almost every database query.",
+    "synonyms": [
+      "link",
+      "connect",
+      "combine"
+    ],
+    "antonyms": [
+      "separate",
+      "split",
+      "disconnect"
+    ],
+    "nounForm": "join",
+    "verbForm": "join",
+    "adjectiveForm": "joined",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Databases (SQL) and data science",
+    "usageTip": "Specify the type of join (Inner, Left, etc.) for better clarity.",
+    "commonMistake": "Forgetting to specify the matching column when using a join.",
+    "collocations": [
+      "inner join",
+      "outer join",
+      "join tables"
+    ]
+  }
+]

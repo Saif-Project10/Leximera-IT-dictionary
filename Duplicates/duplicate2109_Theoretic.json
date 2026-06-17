@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Theoretic",
+    "meaning": "Based on or relating to a theory.",
+    "shortMeaning": "based on theory",
+    "example": "The theoretic framework provides a basis for the design.",
+    "example2": "He focuses on the theoretic aspects of computer science.",
+    "example3": "This is a purely theoretic problem.",
+    "Explanation": "The word 'theoretic' is very similar to 'theoretical' and is often used interchangeably in academic or research contexts. It describes anything that relies on scientific theory. In IT, you might use it to discuss the 'theoretic' performance of an algorithm (like Big O notation), which describes how the code scales on paper, regardless of whether the actual hardware is fast or slow.",
+    "synonyms": [
+      "theoretical",
+      "conceptual"
+    ],
+    "antonyms": [
+      "practical",
+      "applied"
+    ],
+    "nounForm": "theory",
+    "verbForm": "N/A",
+    "adjectiveForm": "theoretic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science and research",
+    "usageTip": "Use 'theoretic' for concepts that focus on science rather than application.",
+    "commonMistake": "Using 'theoretic' for something meant to be used immediately.",
+    "collocations": [
+      "theoretic framework",
+      "theoretic analysis"
+    ]
+  },
+  {
+    "word": "Theoretic",
+    "meaning": "Based on or involving the theory of a subject",
+    "shortMeaning": "theoretical",
+    "example": "The theoretic foundation of this algorithm is solid.",
+    "example2": "We discussed the theoretic aspects of the design.",
+    "example3": "It is a theoretic study of network flow.",
+    "Explanation": "Theoretic is a variant of theoretical, used to describe principles and abstract systems. They are almost always interchangeable. It highlights the focus on the underlying concepts and rules of a system. It is very common in computer science to discuss the theoretic complexity of code (like Big O notation). Use it to discuss the rules that govern how technology works.",
+    "synonyms": [
+      "theoretical",
+      "conceptual",
+      "abstract"
+    ],
+    "antonyms": [
+      "practical",
+      "applied"
+    ],
+    "nounForm": "theory",
+    "verbForm": "theorize",
+    "adjectiveForm": "theoretic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, computer logic, academia",
+    "usageTip": "Use interchangeably with 'theoretical' as they mean the same thing.",
+    "commonMistake": "Overusing the word; it sounds very formal for casual conversation.",
+    "collocations": [
+      "theoretic basis",
+      "theoretic approach",
+      "theoretic model"
+    ]
+  }
+]

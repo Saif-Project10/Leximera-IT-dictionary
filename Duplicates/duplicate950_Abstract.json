@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Abstract",
+    "meaning": "Existing as an idea but not having a physical form; a summary.",
+    "shortMeaning": "theoretical; non-physical; summary",
+    "example": "The concept of love is quite abstract.",
+    "example2": "Please write an abstract of your research paper.",
+    "example3": "She enjoys abstract art with shapes and colors.",
+    "Explanation": "'Abstract' is an adjective, noun, and verb. As an adjective, it describes ideas or art that are not concrete or realistic. As a noun, it's a short summary of a scholarly article. As a verb, it means to extract or remove. It's a key term in philosophy, art, and academia. The opposite of abstract is 'concrete'. Understanding abstraction is important for higher-level thinking. It's a common word in intellectual and artistic discussions.",
+    "synonyms": [
+      "theoretical",
+      "conceptual",
+      "nonrepresentational",
+      "summary"
+    ],
+    "antonyms": [
+      "concrete",
+      "physical",
+      "realistic",
+      "detailed"
+    ],
+    "nounForm": "abstraction",
+    "verbForm": "abstract",
+    "adjectiveForm": "abstract",
+    "partOfSpeech": "adjective, noun, verb",
+    "commonContext": "Philosophy, art, academia, research papers",
+    "usageTip": "In art, 'abstract' means not depicting recognizable objects. In writing, an 'abstract' summarizes a document.",
+    "commonMistake": "Pronouncing it incorrectly. It's 'AB-stract' for the adjective/noun and 'ab-STRACT' for the verb.",
+    "collocations": [
+      "abstract concept",
+      "abstract thinking",
+      "research abstract"
+    ]
+  },
+  {
+    "word": "Abstract",
+    "meaning": "Existing as an idea, concept, or general representation rather than a concrete, physical object",
+    "shortMeaning": "conceptual rather than concrete",
+    "example": "In object-oriented programming, an abstract class cannot be instantiated directly.",
+    "example2": "The speaker discussed abstract concepts of machine learning theory.",
+    "example3": "He created an abstract model to explain the flow of data through the network.",
+    "Explanation": "The word 'abstract' has vital applications in computer science and general communication. Generally, it means conceptual or theoretical. In software engineering, 'abstraction' is the process of hiding background details and showing only essential features to reduce complexity. An 'abstract class' or 'abstract method' serves as a blueprint for other code structures without containing specific, final implementations. It encourages modular, reusable code design by focusing on *what* an object does rather than *how* it does it.",
+    "synonyms": [
+      "conceptual",
+      "theoretical",
+      "generalized",
+      "ideational"
+    ],
+    "antonyms": [
+      "concrete",
+      "specific",
+      "physical",
+      "implemented"
+    ],
+    "nounForm": "abstraction",
+    "verbForm": "abstract",
+    "adjectiveForm": "abstract",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "Object-oriented programming, systems design, theoretical discussions",
+    "usageTip": "Use 'abstract' to describe classes, models, or thoughts that define a concept without specifying all the physical or functional details.",
+    "commonMistake": "Thinking 'abstract' means incomplete or broken; it actually means generalized and designed for extension.",
+    "collocations": [
+      "abstract class",
+      "abstract concept",
+      "data abstraction"
+    ]
+  },
+  {
+    "word": "Abstract",
+    "meaning": "Existing as an idea or concept rather than a physical object",
+    "shortMeaning": "conceptual",
+    "example": "In programming, an abstract class cannot be instantiated directly.",
+    "example2": "The research paper started with a short abstract of the findings.",
+    "example3": "The developer tried to abstract the complex logic into a simple function.",
+    "Explanation": "In computer science, abstraction is the process of hiding complex details and showing only the essential features. An abstract class or method defines a template without providing a full implementation. It allows programmers to think at a higher level without worrying about the low-level code. It is also used as a noun to mean a summary of a document. Abstraction is a core principle of Object-Oriented Programming (OOP). It helps in managing complexity in large systems.",
+    "synonyms": [
+      "theoretical",
+      "conceptual",
+      "summary"
+    ],
+    "antonyms": [
+      "concrete",
+      "detailed",
+      "physical"
+    ],
+    "nounForm": "abstraction",
+    "verbForm": "abstract",
+    "adjectiveForm": "abstract",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "Object-Oriented Programming and academic papers",
+    "usageTip": "Use 'abstract' to describe concepts that are simplified or hidden.",
+    "commonMistake": "Thinking 'abstract' means 'incomplete'; it actually means 'conceptual'.",
+    "collocations": [
+      "abstract class",
+      "abstract thinking",
+      "data abstraction"
+    ]
+  }
+]

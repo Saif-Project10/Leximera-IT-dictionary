@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Account",
+    "meaning": "A report or description of an event or experience; a record of financial transactions.",
+    "shortMeaning": "report or financial record",
+    "example": "She gave a detailed account of the accident.",
+    "example2": "I need to check my bank account.",
+    "example3": "His account of the meeting differed from mine.",
+    "Explanation": "Account is a noun with two primary meanings. First, it is a spoken or written description of an event (similar to a story, but often implies factuality). Second, it is a formal record of money deposited, withdrawn, or owed (bank account, user account). As a verb, it means to consider or explain (account for). A common mistake is using it vaguely; an 'account' should be a coherent report, not just a mention. This word is essential in finance, journalism, law, and everyday explanations. The phrase 'by all accounts' means according to everyone's reports.",
+    "synonyms": [
+      "report",
+      "description",
+      "narrative",
+      "record",
+      "version"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "account",
+    "verbForm": "account (for)",
+    "adjectiveForm": "accountable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Banking, storytelling, journalism, and responsibility.",
+    "usageTip": "Use 'account' for a factual report or a financial record. Use 'story' for more fictional or entertaining narratives.",
+    "commonMistake": "Saying 'an account about' – it's better to say 'an account of' something.",
+    "collocations": [
+      "take into account",
+      "on account of",
+      "savings account"
+    ]
+  },
+  {
+    "word": "Account",
+    "meaning": "A record of personal information and settings for a user on a system",
+    "shortMeaning": "user profile",
+    "example": "Please log in to your account to see the updated dashboard.",
+    "example2": "The administrator has the power to disable any user account.",
+    "example3": "You can create a free account to start using the service.",
+    "Explanation": "An account is a digital identity for a user. It stores things like passwords, preferences, and personal data. Accounts are essential for security because they allow a system to know exactly who is performing an action. In banking, an account tracks money. In IT, it usually tracks permissions. Managing accounts (creation, deletion, updates) is a daily task for system admins. A compromised account is a major security risk.",
+    "synonyms": [
+      "profile",
+      "user",
+      "record"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "account",
+    "verbForm": "account",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Websites, operating systems, and banking",
+    "usageTip": "Use 'account' to refer to a user's identity on a platform.",
+    "commonMistake": "Using 'account' to mean just a 'username' (it includes much more).",
+    "collocations": [
+      "create an account",
+      "account settings",
+      "bank account"
+    ]
+  }
+]

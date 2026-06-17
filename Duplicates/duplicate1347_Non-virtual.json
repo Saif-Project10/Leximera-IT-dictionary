@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Non-virtual",
+    "meaning": "Having a physical, real existence; not simulated by a computer.",
+    "shortMeaning": "real, physical",
+    "example": "She prefers non-virtual meetings where she can meet people in person.",
+    "example2": "The museum offers both virtual tours and non-virtual exhibits.",
+    "example3": "His non-virtual library contains thousands of physical books.",
+    "Explanation": "'Non-virtual' refers to things that exist in the physical world, as opposed to being digital or computer-generated. It is commonly used to contrast real-life experiences with online or simulated ones. The term has become more important with the rise of digital technology. It helps clarify whether something is tangible or exists only in a digital space.",
+    "synonyms": [
+      "physical",
+      "real-world",
+      "tangible",
+      "concrete"
+    ],
+    "antonyms": [
+      "virtual",
+      "digital",
+      "online",
+      "simulated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, events, education, communication",
+    "usageTip": "Use 'non-virtual' to specify that something is physical or happens in the real world.",
+    "commonMistake": "Using it to mean 'traditional'; it specifically means 'not digital'.",
+    "collocations": [
+      "non-virtual event",
+      "non-virtual object",
+      "non-virtual world"
+    ]
+  },
+  {
+    "word": "Non-virtual",
+    "meaning": "Existing in physical form; not simulated",
+    "shortMeaning": "physical",
+    "example": "We need to test on non-virtual hardware for accuracy.",
+    "example2": "The non-virtual server is located in the basement.",
+    "example3": "Non-virtual events can be more engaging.",
+    "Explanation": "The word 'non-virtual' refers to something physical, real, or tangible. In IT, we often compare 'virtual' (simulated/cloud-based) to 'non-virtual' (physical/bare-metal). A 'non-virtual' server is a physical box you can touch. A 'non-virtual' event is a face-to-face meeting. It is the opposite of digital simulations or abstractions. This term is used when the distinction between reality and simulation matters.",
+    "synonyms": [
+      "physical",
+      "real",
+      "tangible"
+    ],
+    "antonyms": [
+      "virtual",
+      "simulated",
+      "digital"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, infrastructure, networking",
+    "usageTip": "Use to emphasize physical presence.",
+    "commonMistake": "Confusing 'non-virtual' with 'offline'; physical servers can be online too.",
+    "collocations": [
+      "non-virtual hardware",
+      "non-virtual server",
+      "non-virtual environment"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Point-and-click",
+    "meaning": "Describing an interface where users interact by moving a pointer (with a mouse) and pressing a button to select items.",
+    "shortMeaning": "interact with mouse",
+    "example": "The game has a simple point-and-click adventure style.",
+    "example2": "Modern operating systems are designed for point-and-click interaction.",
+    "example3": "The software's point-and-click interface makes it easy for novices.",
+    "Explanation": "Point-and-click is the fundamental interaction method of modern GUIs. The user controls a cursor on the screen with a mouse, trackpad, or other pointing device, and clicks buttons to initiate actions like opening programs, selecting text, or pressing buttons. This method is intuitive because it mimics physically pointing at and touching objects. It replaced the earlier command-line paradigm for most users. The term is often used to describe software that is easy to use, requiring no typing of commands, just visual navigation and selection.",
+    "synonyms": [
+      "GUI interaction",
+      "mouse-driven",
+      "graphical navigation"
+    ],
+    "antonyms": [
+      "keyboard-driven",
+      "command-line",
+      "text-based"
+    ],
+    "nounForm": "point-and-click",
+    "verbForm": "N/A",
+    "adjectiveForm": "point-and-click",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software usability, game genres, beginner-friendly computing",
+    "usageTip": "Usually hyphenated when used as an adjective before a noun: 'point-and-click interface'.",
+    "commonMistake": "Thinking it's the only way to use a GUI; keyboard shortcuts are often faster for experienced users.",
+    "collocations": [
+      "point-and-click adventure",
+      "point-and-click interface",
+      "simple point-and-click"
+    ]
+  },
+  {
+    "word": "Point-and-click",
+    "meaning": "Interaction method involving moving a cursor and clicking on items",
+    "shortMeaning": "simple selection interface",
+    "example": "The software offers a simple point-and-click interface.",
+    "example2": "Point-and-click tools are great for beginners.",
+    "example3": "We moved away from a point-and-click to a command-line interface.",
+    "Explanation": "The term 'point-and-click' describes an interaction style where users select items using a mouse or pointer device. It is the hallmark of modern GUIs. The noun form is 'point-and-click'. While easy for beginners, it can be slower than keyboard shortcuts for advanced users. Use this term to characterize software designed for ease of use and visual accessibility, often found in setup wizards or basic dashboard tools.",
+    "synonyms": [
+      "easy-to-use",
+      "mouse-driven",
+      "GUI-based"
+    ],
+    "antonyms": [
+      "command-line",
+      "text-based",
+      "keyboard-driven"
+    ],
+    "nounForm": "point-and-click",
+    "verbForm": "N/A",
+    "adjectiveForm": "point-and-click",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, software usability",
+    "usageTip": "Use to describe intuitive user interfaces.",
+    "commonMistake": "Assuming point-and-click is the only way users interact with a system.",
+    "collocations": [
+      "point-and-click interface",
+      "simple point-and-click",
+      "point-and-click tool"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Overlook",
+    "meaning": "To fail to notice something; or to have a view from above. | To fail to notice something; to have a view from above; to forgive or ignore a mistake.",
+    "shortMeaning": "miss, forgive",
+    "example": "I overlooked a spelling mistake in my essay.",
+    "example2": "The hotel room overlooks the sea.",
+    "example3": "I'll overlook your lateness this time, but don't be late again.",
+    "Explanation": "The verb 'overlook' has two distinct meanings. The first and most common is to fail to see or notice something, often accidentally. The second is to have a view over something from a high position. A third, less common meaning is to choose to ignore or forgive a fault. It's important to understand the context. The noun form 'oversight' usually means a mistake caused by not noticing. A common error is confusing 'overlook' (not notice) with 'look over' (examine). They are nearly opposites.",
+    "synonyms": [
+      "Command A View Of",
+      "Forgive",
+      "Ignore",
+      "Miss"
+    ],
+    "antonyms": [
+      "Condemn",
+      "Notice",
+      "Punish",
+      "Spot"
+    ],
+    "nounForm": "oversight",
+    "verbForm": "overlook",
+    "adjectiveForm": "overlooked",
+    "partOfSpeech": "verb",
+    "commonContext": "Mistakes, views from windows, forgiving errors",
+    "usageTip": "When meaning 'fail to notice', it's often used for small, important details.",
+    "commonMistake": "Confusing 'overlook' (not see) with 'look over' (inspect carefully).",
+    "collocations": [
+      "overlook a mistake",
+      "overlook the valley",
+      "easily overlooked"
+    ]
+  },
+  {
+    "word": "Overlook",
+    "meaning": "To fail to notice something",
+    "shortMeaning": "to miss or ignore",
+    "example": "It is easy to overlook a small semi-colon error in your code.",
+    "example2": "I hope the boss doesn't overlook my hard work on this project.",
+    "example3": "The QA team must not overlook any security vulnerabilities.",
+    "Explanation": "To overlook something means to miss it, usually by accident. In software testing or code reviews, overlooking a small detail can lead to major bugs later. It is different from 'ignoring,' which is often intentional. A good developer uses tools like linters and automated tests to ensure that nothing important is overlooked during the development process. In a physical sense, it can also mean to have a view from above (like a window overlooking a garden).",
+    "synonyms": [
+      "miss",
+      "disregard",
+      "neglect"
+    ],
+    "antonyms": [
+      "notice",
+      "observe",
+      "scrutinize"
+    ],
+    "nounForm": "oversight",
+    "verbForm": "overlook",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Code reviews, debugging, and general management",
+    "usageTip": "Use 'overlook' when someone accidentally misses a detail.",
+    "commonMistake": "Confusing 'overlook' with 'oversee'; oversee means to manage, overlook means to miss.",
+    "collocations": [
+      "overlook a detail",
+      "easy to overlook",
+      "completely overlook"
+    ]
+  }
+]

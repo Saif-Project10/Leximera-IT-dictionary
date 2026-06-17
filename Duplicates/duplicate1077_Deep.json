@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Deep",
+    "meaning": "Extending far down from the top or surface; profound or intense.",
+    "shortMeaning": "far down; profound",
+    "example": "The ocean is very deep here.",
+    "example2": "They had a deep conversation about life.",
+    "example3": "She took a deep breath before speaking.",
+    "Explanation": "'Deep' is primarily an adjective describing physical depth (extending far down), intensity (deep feelings), complexity (deep thought), or extent (deep into the night). It's one of the most versatile words in English with both literal and figurative uses. As an adverb, it means far down or in (dig deep, deep in thought). As a noun, it means the deep part of something (the deep of the ocean). It's a basic yet richly metaphorical word used across countless contexts from physics to emotions.",
+    "synonyms": [
+      "profound",
+      "intense",
+      "bottomless",
+      "abyssal"
+    ],
+    "antonyms": [
+      "shallow",
+      "superficial",
+      "surface"
+    ],
+    "nounForm": "depth",
+    "verbForm": "deepen",
+    "adjectiveForm": "deep",
+    "partOfSpeech": "adjective, adverb, noun",
+    "commonContext": "Physical measurements, emotions, thought, color, sleep",
+    "usageTip": "Literally: 'deep water'. Figuratively: 'deep meaning', 'deep sleep', 'deep red'.",
+    "commonMistake": "Confusing 'deep' with 'deeply'. 'Deep' is adjective/adverb; 'deeply' is adverb only (feel deeply, not feel deep).",
+    "collocations": [
+      "deep breath",
+      "deep sleep",
+      "deep knowledge"
+    ]
+  },
+  {
+    "word": "Deep",
+    "meaning": "Extending far down or having complex levels",
+    "shortMeaning": "profound/complex",
+    "example": "The team has a deep understanding of the system.",
+    "example2": "We performed a deep analysis of the bug.",
+    "example3": "The error was in a deep sub-folder.",
+    "Explanation": "Deep describes something with a high level of complexity, detail, or reach. In IT, 'deep' can refer to deep nested structures (deep nesting), deep technical expertise, or deep learning (AI). The noun form is 'depth'. It usually implies that something is not superficial and requires time or effort to explore or understand.",
+    "synonyms": [
+      "thorough",
+      "complex",
+      "profound"
+    ],
+    "antonyms": [
+      "shallow",
+      "superficial",
+      "simple"
+    ],
+    "nounForm": "depth",
+    "verbForm": "deepen",
+    "adjectiveForm": "deep",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, analysis, expertise",
+    "usageTip": "Use for things that require serious exploration.",
+    "commonMistake": "Overusing 'deep' (sometimes 'detailed' is better).",
+    "collocations": [
+      "deep learning",
+      "deep analysis",
+      "deep understanding"
+    ]
+  }
+]

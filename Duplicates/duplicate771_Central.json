@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Central",
+    "meaning": "In or near the center; most important.",
+    "shortMeaning": "in the middle; most important",
+    "example": "The hotel is in a central location, close to all the sights.",
+    "example2": "Trust is central to any healthy relationship.",
+    "example3": "The central government makes decisions for the whole country.",
+    "Explanation": "Central describes position (being at the center) or importance (being key or fundamental). A central idea is the main point. Central heating warms a whole building from one source. The word emphasizes focus, importance, and connectivity. In organizations, 'central office' is the main headquarters. Something central is often indispensable. It's the opposite of 'peripheral' or 'marginal'. It's a common adjective in geography, planning, arguments, and systems design to highlight what is core versus what is supplementary.",
+    "synonyms": [
+      "middle",
+      "key",
+      "principal",
+      "main",
+      "focal"
+    ],
+    "antonyms": [
+      "peripheral",
+      "marginal",
+      "secondary",
+      "outer"
+    ],
+    "nounForm": "center",
+    "verbForm": "centralize",
+    "adjectiveForm": "central",
+    "partOfSpeech": "adjective",
+    "commonContext": "Location, ideas, government, heating, role",
+    "usageTip": "Use it to describe the most important part of something or its physical middle.",
+    "commonMistake": "Confusing 'central' with 'centered'. 'Central' is an adjective for location/importance; 'centered' means balanced or focused on.",
+    "collocations": [
+      "central role",
+      "central government",
+      "central idea",
+      "central location"
+    ]
+  },
+  {
+    "word": "Central",
+    "meaning": "Main, principal, or acting as the primary hub where everything connects",
+    "shortMeaning": "main hub",
+    "example": "The central server handles all incoming user requests for our mobile app.",
+    "example2": "We need a central dashboard to monitor the health of all corporate networks.",
+    "example3": "Data security is a central focus for our cloud development team this quarter.",
+    "Explanation": "The word 'Central' describes the core hub of a system or the main point of attention. In IT infrastructure, a central architecture means components connect back to a single machine or cluster, unlike decentralized cloud designs. It is an adjective used heavily across system layouts, leadership talks, and project planning. Having a central resource makes management easier but can create a single point of failure if it crashes. Balancing central control with system backup routes is an essential engineering skill. Do not confuse it with middle positions on a physical screen.",
+    "synonyms": [
+      "primary",
+      "core",
+      "principal"
+    ],
+    "antonyms": [
+      "distributed",
+      "decentralized",
+      "peripheral"
+    ],
+    "nounForm": "centrality",
+    "verbForm": "centralize",
+    "adjectiveForm": "central",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network architecture, system monitoring dashboards, project management",
+    "usageTip": "Use 'central' to describe the primary hub where data is processed or managed.",
+    "commonMistake": "Using 'central' to describe a minor secondary backup drive just because it sits in the middle shelf.",
+    "collocations": [
+      "central server",
+      "central repository",
+      "central hub"
+    ]
+  }
+]

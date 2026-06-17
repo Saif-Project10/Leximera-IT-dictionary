@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Left",
+    "meaning": "Went away from; allowed to remain; not taken",
+    "shortMeaning": "went away from; remaining",
+    "example": "She left the room quietly.",
+    "example2": "There is some cake left in the fridge.",
+    "example3": "He left his keys on the table.",
+    "Explanation": "The verb (past tense) 'left' is the past tense and past participle of 'leave'. It is an extremely common verb with several core meanings: to go away from a place, to allow something to remain, to not take something, or to result in a condition (left him confused). It is also a directional noun/adjective (turn left). Due to its frequency, its meaning is highly dependent on context. It's a fundamental word for movement and state.",
+    "synonyms": [
+      "departed",
+      "went away",
+      "abandoned",
+      "remained"
+    ],
+    "antonyms": [
+      "arrived",
+      "stayed",
+      "took",
+      "kept"
+    ],
+    "nounForm": "leave",
+    "verbForm": "leave",
+    "adjectiveForm": "left (remaining) / left (direction)",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Everyday actions, movement, location, consequences",
+    "usageTip": "Pay attention to prepositions: 'left for' (departed to), 'left at' (location), 'left with' (result).",
+    "commonMistake": "Confusing 'left' (past of leave) with 'left' (opposite of right).",
+    "collocations": [
+      "left behind",
+      "left over",
+      "left home",
+      "left a message"
+    ]
+  },
+  {
+    "word": "Left",
+    "meaning": "Remaining after others have gone, or a direction",
+    "shortMeaning": "remaining or direction",
+    "example": "There is no data left in the buffer.",
+    "example2": "Click the button on the left side of the screen.",
+    "example3": "Are there any slots left in the server rack?",
+    "Explanation": "Left has two distinct meanings: the past participle of 'leave' (meaning remaining) or the direction opposite to right. In technical contexts, you will see it used to describe UI positioning (left-aligned) or to check if resources are still available ('what's left in the queue'). Be clear which meaning you are using so your colleagues understand whether you are talking about direction or availability.",
+    "synonyms": [
+      "remaining",
+      "leftover"
+    ],
+    "antonyms": [
+      "gone",
+      "right",
+      "none"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "leave",
+    "adjectiveForm": "left",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "UI design, resources, troubleshooting",
+    "usageTip": "Use 'left' for positioning or checking resource count.",
+    "commonMistake": "Mixing up the two meanings (direction vs. remaining).",
+    "collocations": [
+      "left side",
+      "no data left",
+      "left aligned"
+    ]
+  }
+]

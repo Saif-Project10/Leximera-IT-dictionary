@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Honor",
+    "meaning": "High respect; esteem; or to regard with great respect.",
+    "shortMeaning": "respect; integrity",
+    "example": "It was an honor to meet the president.",
+    "example2": "He fought to defend his family's honor.",
+    "example3": "We honor those who sacrificed for our freedom.",
+    "Explanation": "'Honor' (British: 'honour') is both a noun (respect, integrity, privilege) and a verb (to respect, to fulfill). As a noun, it means high respect, personal integrity, or a privilege. As a verb, it means to regard with respect or to fulfill an obligation. The concept is fundamental in ethics, military tradition, social relations, and personal conduct. 'Honor' implies adherence to what is right, admirable conduct, and recognition of worth. It's used in awards (Medal of Honor), events (honor ceremony), and moral contexts (code of honor). The word carries deep cultural and moral significance across societies.",
+    "synonyms": [
+      "respect",
+      "integrity",
+      "privilege",
+      "esteem"
+    ],
+    "antonyms": [
+      "dishonor",
+      "disrespect",
+      "shame",
+      "disgrace"
+    ],
+    "nounForm": "honor",
+    "verbForm": "honor",
+    "adjectiveForm": "honorable",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Awards, ethics, respect, ceremonies, obligations",
+    "usageTip": "American spelling: 'honor'; British: 'honour'. As noun: 'great honor'. As verb: 'honor a commitment'.",
+    "commonMistake": "Using 'an honor' (correct) vs. 'a honor' (incorrect). The 'h' is pronounced, so 'an' is used.",
+    "collocations": [
+      "great honor",
+      "honor code",
+      "in honor of"
+    ]
+  },
+  {
+    "word": "Honor",
+    "meaning": "In computing, to accept and follow a specific command, request, or setting",
+    "shortMeaning": "respect/follow",
+    "example": "The browser will honor the 'Do Not Track' setting from the user.",
+    "example2": "The system failed to honor the cancellation request in time.",
+    "example3": "The API should honor the rate limits set by the provider.",
+    "Explanation": "In technology, 'honor' is a formal way of saying that a system obeys a rule or a request. For instance, if you set a privacy preference, you expect the website to honor it. It implies a relationship of trust between the user and the software. If a system 'fails to honor' something, it means it ignored an instruction. It is frequently used in discussions about security, privacy, and API interactions. It is a professional term used by developers and system administrators.",
+    "synonyms": [
+      "respect",
+      "obey",
+      "follow",
+      "fulfill"
+    ],
+    "antonyms": [
+      "ignore",
+      "disregard",
+      "reject"
+    ],
+    "nounForm": "honor",
+    "verbForm": "honor",
+    "adjectiveForm": "honorable",
+    "partOfSpeech": "verb",
+    "commonContext": "System settings, privacy, and API requests",
+    "usageTip": "Use this word when talking about software following user preferences.",
+    "commonMistake": "Using 'honor' to mean 'praise'; in IT, it strictly means 'to follow an instruction'.",
+    "collocations": [
+      "honor a request",
+      "honor a setting",
+      "honor a policy"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Toggle",
+    "meaning": "To switch between two states, options, or functions; a small lever or button that does this",
+    "shortMeaning": "switch between two states",
+    "example": "Toggle the switch to turn on the lights.",
+    "example2": "You can toggle between dark and light mode in the settings.",
+    "example3": "The keyboard has a Caps Lock toggle.",
+    "Explanation": "'Toggle' is both a verb and a noun with a core meaning related to binary switching. As a verb, it means to alternate between two settings, often with a single action (like pressing a button). As a noun, it refers to the physical or software control that performs this action (a toggle switch, a UI toggle button). In computing, it's ubiquitous in user interfaces (e.g., toggling Wi-Fi on/off). The word originates from a fastener (toggle bolt) that secures by turning. It implies a simple, decisive action that changes the state of something, making it a very practical and common term in technology and electronics.",
+    "synonyms": [
+      "switch",
+      "flip",
+      "alternate"
+    ],
+    "antonyms": [
+      "set",
+      "fix",
+      "leave unchanged"
+    ],
+    "nounForm": "toggle",
+    "verbForm": "toggle",
+    "adjectiveForm": "toggled",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Electronics, user interfaces (UI), software settings",
+    "usageTip": "Often used with 'between' (toggle between A and B) or 'on/off' (toggle the setting on).",
+    "commonMistake": "Using 'toggle' for a multi-way switch; it typically implies only two positions.",
+    "collocations": [
+      "toggle switch",
+      "toggle button",
+      "toggle setting",
+      "toggle visibility"
+    ]
+  },
+  {
+    "word": "Toggle",
+    "meaning": "To switch back and forth between two distinct states, settings, or visual user interface modes",
+    "shortMeaning": "switch between two states",
+    "example": "Users can click the button to toggle the application layout between light mode and dark mode.",
+    "example2": "We can use a basic JavaScript boolean function to toggle the dropdown visibility.",
+    "example3": "The developer added a simple checkbox switch to toggle the email notification configurations.",
+    "Explanation": "In technology frameworks, the word 'toggle' operates as a noun, an adjective, and a highly common active verb. It describes the action of switching a setting between two opposite options (such as on/off, true/false, or show/hide) using a single triggering control element. Toggling is a core feature of intuitive user experience layouts, allowing users to modify behaviors or appearance choices instantly without loading secondary option pages.",
+    "synonyms": [
+      "switch",
+      "flip states",
+      "alternate",
+      "invert"
+    ],
+    "antonyms": [
+      "maintain state",
+      "freeze state"
+    ],
+    "nounForm": "toggle / toggle switch",
+    "verbForm": "toggle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Frontend user settings, feature flag configurations, and component show-hide states",
+    "usageTip": "Use 'toggle' when explaining a button, switch, or logic rule that flips an element between two distinct alternate modes.",
+    "commonMistake": "Using 'toggle' when there are three or more setting choices available, as toggles strictly manage binary options.",
+    "collocations": [
+      "toggle visibility",
+      "toggle switch component",
+      "click to toggle"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Accurate",
+    "meaning": "Correct in all details; exact; free from error.",
+    "shortMeaning": "correct and exact",
+    "example": "The witness gave an accurate description of the suspect.",
+    "example2": "This watch is very accurate; it loses only a second per month.",
+    "example3": "Accurate data is essential for good decision-making.",
+    "Explanation": "'Accurate' is a highly important adjective. It describes information, measurements, descriptions, or work that is precise and true, with no mistakes. In science, engineering, journalism, and many other fields, accuracy is a fundamental standard. It is different from 'precise', which means consistent in results (a precise but inaccurate scale always shows 1kg too light). The noun form is 'accuracy'. Striving for accuracy shows care, professionalism, and respect for truth.",
+    "synonyms": [
+      "Correct",
+      "Exact",
+      "Precise",
+      "True"
+    ],
+    "antonyms": [
+      "False",
+      "Inaccurate",
+      "Incorrect",
+      "Wrong"
+    ],
+    "nounForm": "accuracy",
+    "verbForm": "N/A",
+    "adjectiveForm": "accurate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, reporting, measurements, descriptions, data",
+    "usageTip": "Use it to praise the correctness of information or the skill of a person.",
+    "commonMistake": "Confusing it with 'precise'. Accuracy is about being correct; precision is about being consistent.",
+    "collocations": [
+      "highly accurate",
+      "accurate information",
+      "accurate to within",
+      "accurate portrayal"
+    ]
+  },
+  {
+    "word": "Accurate",
+    "meaning": "Correct, exact, and without any mistakes or errors",
+    "shortMeaning": "correct and exact",
+    "example": "The AI model provided an accurate prediction of user behavior.",
+    "example2": "Make sure your database queries are accurate to avoid data loss.",
+    "example3": "We need an accurate count of active server connections.",
+    "Explanation": "The word 'accurate' means completely free from mistakes and matching reality perfectly. In computer science and IT, accuracy is critical for algorithms, calculations, and data entry. Even a small error can cause an entire system to fail or produce wrong results. The noun form is 'accuracy', and the adverb form is 'accurately'. There is no direct verb form for this word.",
+    "synonyms": [
+      "precise",
+      "correct",
+      "exact"
+    ],
+    "antonyms": [
+      "inaccurate",
+      "wrong",
+      "imprecise"
+    ],
+    "nounForm": "accuracy",
+    "verbForm": "N/A",
+    "adjectiveForm": "accurate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data entry, metrics, programming calculations",
+    "usageTip": "Use 'accurate' when something matches truth or data points with zero errors.",
+    "commonMistake": "Using 'accurate' and 'precise' interchangeably, as precision means consistency, while accuracy means correctness.",
+    "collocations": [
+      "accurate data",
+      "highly accurate",
+      "accurate measurement"
+    ]
+  }
+]

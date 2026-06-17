@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Cyclic",
+    "meaning": "Occurring in cycles; regularly repeated.",
+    "shortMeaning": "occurring in cycles",
+    "example": "The economy follows a cyclic pattern of growth and recession.",
+    "example2": "Cyclic processes are common in chemistry and biology.",
+    "example3": "The data showed a strong cyclic variation correlated with the seasons.",
+    "Explanation": "Cyclic is an adjective meaning pertaining to or characterized by cycles. It is essentially synonymous with 'cyclical'. It's used in mathematics (cyclic groups), science (cyclic compounds in chemistry, the cyclic nature of photosynthesis), and general descriptions of repeating patterns. The word emphasizes a closed loop or sequence that returns to its starting point. It's a more technical-sounding term than 'repeating' and is preferred in scientific and formal contexts. Something cyclic is predictable in its repetition, following a defined period or sequence.",
+    "synonyms": [
+      "cyclical",
+      "periodic",
+      "recurrent",
+      "circular"
+    ],
+    "antonyms": [
+      "linear",
+      "non-cyclic",
+      "random",
+      "secular"
+    ],
+    "nounForm": "cycle",
+    "verbForm": "cycle",
+    "adjectiveForm": "cyclic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, mathematics, economics, engineering",
+    "usageTip": "Interchangeable with 'cyclical', though 'cyclic' is more common in hard sciences and mathematics.",
+    "commonMistake": "Pronouncing it as 'sick-lick'; it's 'sye-klik' or 'sik-lik'.",
+    "collocations": [
+      "cyclic process",
+      "cyclic variation",
+      "cyclic redundancy check (CRC)"
+    ]
+  },
+  {
+    "word": "Cyclic",
+    "meaning": "Occurring in cycles or revolving in a regular pattern.",
+    "shortMeaning": "happening in cycles",
+    "example": "The database performs a cyclic check of all connections.",
+    "example2": "Economic trends often show a cyclic nature over many years.",
+    "example3": "The error was caused by a cyclic dependency in the code.",
+    "Explanation": "The word 'cyclic' refers to things that repeat in a predictable, circular, or sequential manner. In computing, it often describes data structures or processes that refer back to themselves or repeat at set intervals. It is distinct from 'cyclical', which is more often used for economic or social patterns, though they are sometimes used interchangeably. In programming, cyclic redundancy checks are common for verifying data integrity. Recognizing a cyclic pattern is key to debugging loops in software development.",
+    "synonyms": [
+      "recurring",
+      "periodic",
+      "repetitive"
+    ],
+    "antonyms": [
+      "linear",
+      "non-repeating",
+      "steady"
+    ],
+    "nounForm": "Cycle",
+    "verbForm": "Cycle",
+    "adjectiveForm": "Cyclic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data processing and systems programming",
+    "usageTip": "Use 'cyclic' for technical processes or mathematical patterns.",
+    "commonMistake": "Confusing cyclic dependencies with simple linear processes.",
+    "collocations": [
+      "cyclic dependency",
+      "cyclic redundancy",
+      "cyclic nature"
+    ]
+  }
+]

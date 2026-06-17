@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Broadband",
+    "meaning": "A high-speed internet connection that is always on and can carry many signals at once",
+    "shortMeaning": "high-speed internet",
+    "example": "Most homes today use broadband to stream videos and play games.",
+    "example2": "The government is investing in broadband to improve rural connectivity.",
+    "example3": "Fiber-optic is a very fast type of broadband.",
+    "Explanation": "Broadband refers to high-capacity telecommunications that can carry a wide range of frequencies and data types simultaneously. Unlike the old dial-up internet, broadband does not block your phone line and is significantly faster. It includes various technologies like DSL, cable, fiber-optics, and satellite. The term is often used to describe any internet connection that meets a specific minimum speed set by regulators. In modern IT, it is the standard foundation for cloud computing and remote work.",
+    "synonyms": [
+      "high-speed internet",
+      "wideband",
+      "high-capacity line"
+    ],
+    "antonyms": [
+      "dial-up",
+      "narrowband"
+    ],
+    "nounForm": "broadband",
+    "verbForm": "N/A",
+    "adjectiveForm": "broadband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Internet service providers, home networking",
+    "usageTip": "Use 'broadband' to describe a fast, permanent internet connection.",
+    "commonMistake": "Thinking broadband only refers to Wi-Fi; Wi-Fi is just one way to distribute a broadband signal.",
+    "collocations": [
+      "broadband connection",
+      "broadband provider",
+      "mobile broadband"
+    ]
+  },
+  {
+    "word": "Broadband",
+    "meaning": "A high-capacity telecommunications pipeline or fast internet connection",
+    "shortMeaning": "fast internet",
+    "example": "A reliable broadband connection is essential for remote work.",
+    "example2": "The company upgraded its office network to high-speed broadband.",
+    "example3": "Broadband internet allows for smooth video streaming.",
+    "Explanation": "The word 'broadband' is a technical term that has become a standard household word. It refers to a high-speed internet network connection that is always on and capable of carrying large amounts of data simultaneously. It replaced old dial-up connections. It can function as a noun or an adjective modifying words like connection, network, or router. It is central to telecommunications and modern web usage discussions.",
+    "synonyms": [
+      "high-speed internet",
+      "wideband",
+      "network line"
+    ],
+    "antonyms": [
+      "dial-up",
+      "narrowband",
+      "low-speed connection"
+    ],
+    "nounForm": "broadband",
+    "verbForm": "N/A",
+    "adjectiveForm": "broadband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Networking, internet service providers, and office infrastructure",
+    "usageTip": "Use 'broadband' specifically when discussing fast, modern internet infrastructure.",
+    "commonMistake": "Capitalizing 'broadband' unnecessarily as if it were a proper brand name.",
+    "collocations": [
+      "broadband connection",
+      "broadband internet",
+      "broadband provider"
+    ]
+  }
+]

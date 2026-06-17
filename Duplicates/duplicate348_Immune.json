@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Immune",
+    "meaning": "Protected against a particular disease or infection; not affected or influenced by something.",
+    "shortMeaning": "protected, exempt",
+    "example": "After having chickenpox, you are usually immune to it.",
+    "example2": "No one is immune to criticism.",
+    "example3": "The ambassador has diplomatic immunity.",
+    "Explanation": "The adjective 'immune' means having biological protection against a disease, often due to prior exposure or vaccination. Figuratively, it means not affected by a particular situation, influence, or problem (e.g., 'immune to fear'). It suggests a complete and often natural resistance. The noun forms are 'immunity' and 'immunization'. It is a stronger word than 'resistant', implying total protection or exemption. In law, 'immunity' means protection from prosecution. It is a key concept in health, psychology, and law.",
+    "synonyms": [
+      "resistant",
+      "invulnerable",
+      "unsusceptible",
+      "exempt",
+      "protected"
+    ],
+    "antonyms": [
+      "susceptible",
+      "vulnerable",
+      "liable",
+      "prone"
+    ],
+    "nounForm": "immunity",
+    "verbForm": "immunize",
+    "adjectiveForm": "immune",
+    "partOfSpeech": "adjective",
+    "commonContext": "Medicine, law, emotions, systems",
+    "usageTip": "Use 'immune to' for figurative protection and 'immune from' for legal exemption.",
+    "commonMistake": "Saying 'immune of'; the correct prepositions are 'to' or 'from'.",
+    "collocations": [
+      "immune system",
+      "immune to",
+      "immune response",
+      "diplomatic immunity"
+    ]
+  },
+  {
+    "word": "Immune",
+    "meaning": "Protected from or resistant to something harmful",
+    "shortMeaning": "resistant",
+    "example": "The system is immune to this type of basic security attack.",
+    "example2": "No software is completely immune to every possible bug.",
+    "example3": "He designed a database that is immune to data corruption.",
+    "Explanation": "The word 'immune' means being completely protected from or unaffected by something. In cybersecurity, we strive to make our systems 'immune' to common threats like malware or unauthorized access. While true total immunity is impossible in complex systems, we use the term to indicate high resistance. It implies that a system has strong defense mechanisms. Always be skeptical of claims that a product is 100% immune, as technology is constantly evolving and new vulnerabilities are discovered.",
+    "synonyms": [
+      "resistant",
+      "protected",
+      "safe"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "susceptible",
+      "exposed"
+    ],
+    "nounForm": "immunity",
+    "verbForm": "immunize",
+    "adjectiveForm": "immune",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, system protection",
+    "usageTip": "Use 'immune' to describe resistance to threats.",
+    "commonMistake": "Thinking any software can be perfectly immune to all risks.",
+    "collocations": [
+      "immune to attack",
+      "immune to errors",
+      "system immunity"
+    ]
+  }
+]

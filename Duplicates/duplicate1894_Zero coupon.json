@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Zero coupon",
+    "meaning": "A financial bond that does not pay regular interest",
+    "shortMeaning": "no-interest bond",
+    "example": "Investors buy zero coupon bonds at a discount to their face value.",
+    "example2": "The profit on a zero coupon bond comes from the increase in its price over time.",
+    "example3": "He added a zero coupon security to his long-term portfolio.",
+    "Explanation": "In finance, 'coupon' refers to the periodic interest payment made to a bondholder. A 'zero coupon' instrument does not provide these regular payments. Instead, it is sold at a price significantly lower than its face value (the amount it will be worth at the end). The 'interest' is effectively the difference between the low purchase price and the full value paid at maturity. This is a common way for governments and corporations to raise money without having to make yearly cash payments to investors.",
+    "synonyms": [
+      "discount bond",
+      "accrual bond"
+    ],
+    "antonyms": [
+      "interest-bearing",
+      "coupon-paying"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-coupon",
+    "partOfSpeech": "adjective",
+    "commonContext": "Investment and finance",
+    "usageTip": "Use 'zero coupon' when discussing long-term investments where immediate cash flow isn't needed.",
+    "commonMistake": "Thinking 'zero coupon' means you don't make any money; you make money at the end.",
+    "collocations": [
+      "zero coupon rate",
+      "zero coupon yield",
+      "zero coupon security"
+    ]
+  },
+  {
+    "word": "Zero coupon",
+    "meaning": "A financial bond that pays no interest, but is sold at a deep discount and pays the full face value at maturity.",
+    "shortMeaning": "no interest, high discount",
+    "example": "The tech firm decided to issue a zero coupon bond to raise capital.",
+    "example2": "Zero coupon bonds are often used for long-term investments.",
+    "example3": "He added a zero coupon bond to his investment portfolio.",
+    "Explanation": "A 'zero coupon' bond is a debt security that does not pay periodic interest (coupons). Instead, the investor buys the bond at a price significantly lower than its face value. When the bond reaches its maturity date, the investor receives the full face value. The difference between the purchase price and the face value is the profit. While this is primarily a financial term, it is frequently relevant in IT business and enterprise investment discussions.",
+    "synonyms": [
+      "deep discount bond"
+    ],
+    "antonyms": [
+      "coupon bond",
+      "interest-bearing bond"
+    ],
+    "nounForm": "zero coupon bond",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero coupon",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Finance and corporate investment",
+    "usageTip": "Use this when discussing financial instruments in a corporate IT setting.",
+    "commonMistake": "Thinking zero coupon means the bond is worthless; it just doesn't pay regular interest.",
+    "collocations": [
+      "zero coupon bond",
+      "zero coupon security",
+      "buy zero coupon"
+    ]
+  }
+]

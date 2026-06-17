@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Pre-built",
+    "meaning": "Built or constructed in advance, before being sold or used. | Built or constructed before being sold or used; not custom-built.",
+    "shortMeaning": "built beforehand",
+    "example": "We bought a pre-built house instead of designing one.",
+    "example2": "The software uses pre-built templates for websites.",
+    "example3": "You can order a pre-built gaming PC online.",
+    "Explanation": "Pre-built is an adjective (often hyphenated) describing something that is already assembled or constructed before it reaches the user. It contrasts with custom-built or DIY (do-it-yourself) options. It's common in computing (pre-built PCs), housing (pre-built homes), and software (pre-built components). A common mistake is spelling it as two separate words ('pre built') or as one ('prebuilt'); the hyphenated form is standard, though 'prebuilt' is becoming accepted. This term emphasizes convenience and time-saving, as the user does not have to go through the assembly process. It's a practical word in consumer contexts.",
+    "synonyms": [
+      "Off-The-Shelf",
+      "Preassembled",
+      "Prefabricated",
+      "Ready-Made"
+    ],
+    "antonyms": [
+      "Bespoke",
+      "Custom-Built",
+      "Diy",
+      "Made-To-Order",
+      "Self-Built"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-built",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computers, housing, furniture, and software components.",
+    "usageTip": "The hyphen is important when used before a noun (a pre-built house). It can be 'prebuilt' after the noun in some cases.",
+    "commonMistake": "Misspelling as 'prebuild' (verb) when meaning the adjective 'pre-built.'",
+    "collocations": [
+      "pre-built computer",
+      "pre-built solution",
+      "pre-built module"
+    ]
+  },
+  {
+    "word": "Pre-built",
+    "meaning": "Constructed or created before being delivered or used.",
+    "shortMeaning": "built ahead of time",
+    "example": "The package includes a pre-built library for easier integration.",
+    "example2": "We are using a pre-built template for the UI design.",
+    "example3": "Pre-built virtual machine images save time in the cloud.",
+    "Explanation": "'Pre-built' describes software or hardware that is ready to use without requiring the user to compile or assemble it. For instance, a pre-built binary can be executed immediately, whereas source code must be compiled first. In web design, pre-built components save developers hours of work. It is a widely used term because it signals productivity, efficiency, and less risk of error during setup. It is a common feature of modern SDKs and development frameworks.",
+    "synonyms": [
+      "ready-made",
+      "packaged",
+      "off-the-shelf"
+    ],
+    "antonyms": [
+      "custom",
+      "hand-coded",
+      "raw"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-built",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, development, cloud infrastructure",
+    "usageTip": "Use to highlight that a tool is ready for immediate use.",
+    "commonMistake": "Confusing 'pre-built' with 'custom-built'.",
+    "collocations": [
+      "pre-built image",
+      "pre-built component",
+      "pre-built template"
+    ]
+  }
+]

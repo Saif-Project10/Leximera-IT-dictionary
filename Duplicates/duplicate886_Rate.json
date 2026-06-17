@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Rate",
+    "meaning": "1. A measure, quantity, or frequency measured against another. 2. To assign a standard or value to.",
+    "shortMeaning": "speed or frequency; to evaluate",
+    "example": "The unemployment rate is falling. (measure)",
+    "example2": "At this rate, we'll never finish. (speed)",
+    "example3": "How would you rate the hotel on a scale of 1 to 10? (evaluate)",
+    "Explanation": "As a noun, 'rate' is a crucial concept for comparison, expressing how often something happens (heart rate), its speed (growth rate), or its cost (exchange rate). As a verb, it means to assess or rank. The word is everywhere in statistics, economics, science, and daily life. Phrases like 'at any rate' mean 'in any case'. Understanding rates is key to analyzing trends, performance, and value in virtually every field.",
+    "synonyms": [
+      "speed",
+      "frequency",
+      "price",
+      "evaluate"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "rate",
+    "verbForm": "rate",
+    "adjectiveForm": "rated",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Economics, statistics, performance, reviews",
+    "usageTip": "Use 'rate' as a noun for a measured quantity per unit (e.g., miles per hour). Use it as a verb for giving a score or assessment.",
+    "commonMistake": "Confusing 'rate' (speed/frequency) with 'rating' (a classification or score). A rating is the result of rating something.",
+    "collocations": [
+      "interest rate",
+      "at a rate of",
+      "rate of success",
+      "highly rated"
+    ]
+  },
+  {
+    "word": "Rate",
+    "meaning": "The speed or frequency at which something happens or is measured",
+    "shortMeaning": "speed or frequency",
+    "example": "The data transfer rate dropped because of poor network signals.",
+    "example2": "What is the hourly rate for hiring a junior frontend developer?",
+    "example3": "The frame rate of the web animation must stay at sixty frames per second.",
+    "Explanation": "The word 'rate' is highly common across technical, business, and daily contexts. In technology, it measures performance velocity, such as download speeds (bit rate) or display refresh speeds (refresh rate). In freelancing and business, it refers to the financial cost per unit of time or service. It is a fundamental noun for measuring efficiency, costs, and frequencies across systems.",
+    "synonyms": [
+      "speed",
+      "pace",
+      "ratio"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "rate",
+    "verbForm": "rate",
+    "adjectiveForm": "rated",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Performance metrics, financial billing, and system diagnostics",
+    "usageTip": "Use 'rate' when describing quantities that change relative to a unit of time.",
+    "commonMistake": "Confusing 'rate' with 'ratio', which compares two static numbers without time tracking.",
+    "collocations": [
+      "transfer rate",
+      "hourly rate",
+      "frame rate"
+    ]
+  }
+]

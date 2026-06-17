@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Segmental",
+    "meaning": "Relating to parts or segments of something",
+    "shortMeaning": "part-based",
+    "example": "The segmental analysis shows where the error occurred.",
+    "example2": "Data is processed in a segmental fashion.",
+    "example3": "The memory uses segmental allocation.",
+    "Explanation": "The word 'segmental' refers to the division of data, memory, or processes into smaller, discrete segments. In computer architecture, 'segmentation' is a memory management technique. In general IT, it refers to looking at or processing information by breaking it down into smaller, manageable parts. The noun form is 'segment'. It is a formal term often used in technical documentation and engineering to describe how something is structured or analyzed.",
+    "synonyms": [
+      "sectional",
+      "partitioned",
+      "divided"
+    ],
+    "antonyms": [
+      "unified",
+      "whole",
+      "continuous"
+    ],
+    "nounForm": "segment",
+    "verbForm": "segment",
+    "adjectiveForm": "segmental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, data processing, memory management",
+    "usageTip": "Use 'segmental' to describe things divided into parts.",
+    "commonMistake": "Confusing 'segmental' with 'segmentary' (rarely used).",
+    "collocations": [
+      "segmental analysis",
+      "segmental memory"
+    ]
+  },
+  {
+    "word": "Segmental",
+    "meaning": "Divided into distinct sections or segments",
+    "shortMeaning": "partially divided",
+    "example": "The network has a segmental architecture for security.",
+    "example2": "We implemented a segmental analysis of the user flow.",
+    "example3": "The database is organized into segmental chunks.",
+    "Explanation": "Segmental refers to something that is partitioned into smaller, distinct parts. In networking, segmental division helps isolate traffic and contain potential threats; if one segment is compromised, the others remain protected. In data analysis, segmental reporting allows for more focused insights into different user groups or product features. Using a segmental approach helps keep large-scale systems manageable and improves overall security by limiting the scope of any potential failure.",
+    "synonyms": [
+      "partitioned",
+      "divided",
+      "sectional"
+    ],
+    "antonyms": [
+      "unified",
+      "whole",
+      "monolithic"
+    ],
+    "nounForm": "segment",
+    "verbForm": "segment",
+    "adjectiveForm": "segmental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, analysis, architecture",
+    "usageTip": "Use to describe partitioned structures.",
+    "commonMistake": "Confusing 'segmental' with 'incremental' (segmental is spatial, incremental is temporal).",
+    "collocations": [
+      "segmental architecture",
+      "segmental analysis"
+    ]
+  }
+]

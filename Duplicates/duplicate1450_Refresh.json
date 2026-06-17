@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Refresh",
+    "meaning": "To give new strength or energy to; to update the display on a screen.",
+    "shortMeaning": "revitalize; update display",
+    "example": "A short nap will refresh you.",
+    "example2": "Click the button to refresh the webpage.",
+    "example3": "She refreshed her memory by reviewing her notes.",
+    "Explanation": "To 'refresh' is a verb meaning to make fresh again. In a physical sense, it means to reinvigorate a person (refresh with a drink). In computing, it means to reload or update data on a screen (refresh the page). It can also mean to stimulate one's memory. The word implies removing tiredness, staleness, or outdated information. It's a common and positive word in daily life, wellness, and technology. The noun form is 'refreshment' (for food/drink) or 'refresh' (the action in computing).",
+    "synonyms": [
+      "revitalize",
+      "reinvigorate",
+      "reload",
+      "update"
+    ],
+    "antonyms": [
+      "tire",
+      "drain",
+      "stale"
+    ],
+    "nounForm": "refreshment, refresh (computing)",
+    "verbForm": "refresh",
+    "adjectiveForm": "refreshing, refreshed",
+    "partOfSpeech": "verb",
+    "commonContext": "Computing, personal energy, memory",
+    "usageTip": "In web browsers, F5 is the standard key to refresh the page.",
+    "commonMistake": "Confusing 'refresh' (update) with 'refresher' (a course to review skills).",
+    "collocations": [
+      "refresh the page",
+      "refresh yourself",
+      "refresh my memory",
+      "refreshing drink"
+    ]
+  },
+  {
+    "word": "Refresh",
+    "meaning": "To reload a web page, clear a cache, or re-run a query to pull down the newest data and synchronize the user interface",
+    "shortMeaning": "reload or update data",
+    "example": "If the images do not load correctly, please refresh your web browser window.",
+    "example2": "The dashboard app includes an option to refresh the data view every sixty seconds automatically.",
+    "example3": "We must refresh our local development server after changing the main backend configuration properties.",
+    "Explanation": "The word 'refresh' is an everyday technical command used by both users and systems engineers. At a user level, it involves forcing a browser tab to download a web page's files again to display fresh updates. At an architecture level, it means executing a command to clear out memory blocks, update expiring session tokens, or rerun database queries to replace outdated datasets with current entries. It provides a way to establish a clean slate without completely restarting a system module or application container, making it a critical aspect of state management and testing workflows.",
+    "synonyms": [
+      "reload",
+      "renew",
+      "update"
+    ],
+    "antonyms": [
+      "freeze",
+      "stagnate",
+      "N/A"
+    ],
+    "nounForm": "refresh / refresher",
+    "verbForm": "refresh",
+    "adjectiveForm": "refreshable",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Web browsing, cache management, user interface synchronization",
+    "usageTip": "Use 'refresh' when describing the act of loading fresh state updates into a browser view, cache layer, or database tracker.",
+    "commonMistake": "Confusing a soft UI refresh with a hard refresh, which bypasses the entire local browser cache to download all assets from scratch.",
+    "collocations": [
+      "refresh the page",
+      "refresh the cache",
+      "automatically refresh"
+    ]
+  }
+]

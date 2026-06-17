@@ -1,0 +1,61 @@
+[
+  {
+    "word": "processing",
+    "meaning": "The series of actions taken to handle or transform data",
+    "shortMeaning": "handling data",
+    "example": "The system is processing the user data right now.",
+    "example2": "Efficient data processing is important for high traffic apps.",
+    "example3": "He learned how to optimize image processing tasks.",
+    "Explanation": "The word 'processing' describes the act of a computer system taking raw input and converting it into a useful output. It is a fundamental concept in computing, from simple file manipulation to complex AI calculations. Everything a computer does, from running a script to loading a webpage, involves processing. It implies a sequence of operations or calculations performed by the processor.",
+    "synonyms": [
+      "handling",
+      "manipulation",
+      "computation"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "process",
+    "verbForm": "process",
+    "adjectiveForm": "processed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Backend development, data management, CPU tasks",
+    "usageTip": "Use 'processing' to describe what the CPU is doing with data.",
+    "commonMistake": "Using 'process' instead of 'processing' as an ongoing action.",
+    "collocations": [
+      "data processing",
+      "image processing",
+      "batch processing"
+    ]
+  },
+  {
+    "word": "processing",
+    "meaning": "The act of performing operations on data or raw materials.",
+    "shortMeaning": "handling data",
+    "example": "The server is busy processing your request.",
+    "example2": "Batch processing runs late at night.",
+    "example3": "Our team handles natural language processing.",
+    "Explanation": "The word 'processing' refers to the systematic series of actions performed on data to achieve a specific result. In IT, this is the core function of a CPU or software backend, taking input, performing calculations, and providing output. It is the continuous action of handling information. The base verb is 'process', and the noun form is 'process'. Using this word helps describe the 'work' phase of any computing cycle. It is a broad term that applies to everything from background tasks to complex algorithm execution.",
+    "synonyms": [
+      "handling",
+      "calculating",
+      "executing"
+    ],
+    "antonyms": [
+      "stagnation",
+      "idleness"
+    ],
+    "nounForm": "process",
+    "verbForm": "process",
+    "adjectiveForm": "processed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, backend, data science",
+    "usageTip": "Use 'processing' to describe ongoing data operations.",
+    "commonMistake": "Confusing 'processing' (the action) with 'process' (the step or program).",
+    "collocations": [
+      "data processing",
+      "batch processing",
+      "processing power"
+    ]
+  }
+]

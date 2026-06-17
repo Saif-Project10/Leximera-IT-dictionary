@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Unify",
+    "meaning": "To make or become united, uniform, or whole.",
+    "shortMeaning": "bring together",
+    "example": "The leader sought to unify the divided nation.",
+    "example2": "A common goal can unify a team.",
+    "example3": "The theory unifies several previously separate ideas.",
+    "Explanation": "To 'unify' is to bring different groups, elements, or ideas together to form a single unit. It emphasizes creating harmony and oneness from diversity. It is a proactive, constructive action. The noun form is 'unification'. It is often used in political contexts (unifying a country), science (a unified theory), and social movements. It is similar to 'unite', but 'unify' often implies a more comprehensive or formal process of integration. The result is a unified whole where the parts work together seamlessly.",
+    "synonyms": [
+      "unite",
+      "combine",
+      "merge",
+      "integrate",
+      "consolidate"
+    ],
+    "antonyms": [
+      "divide",
+      "separate",
+      "split",
+      "disunite"
+    ],
+    "nounForm": "unification",
+    "verbForm": "unify",
+    "adjectiveForm": "unified",
+    "partOfSpeech": "verb",
+    "commonContext": "Politics, science, teams, systems",
+    "usageTip": "Often used in the context of creating a single system from multiple parts, like a 'unified platform'.",
+    "commonMistake": "Confusing it with 'identify'; unify is about bringing together, identify is about recognizing.",
+    "collocations": [
+      "unify the country",
+      "unified approach",
+      "unify under",
+      "efforts to unify"
+    ]
+  },
+  {
+    "word": "Unify",
+    "meaning": "To join or combine separate components, software features, or teams together to form a single cohesive whole unit",
+    "shortMeaning": "combine into a whole unit",
+    "example": "The company plans to unify its separate mobile and desktop application files into a single responsive project.",
+    "example2": "We can use an API gateway link to unify our various database services into a single access layer.",
+    "example3": "The main goal of the design overhaul is to unify the brand theme layout across all platform screens.",
+    "Explanation": "The word 'unify' describes the structural fusion of independent parts into a powerful single system. In full-stack web architectures, developers unify multiple microservices beneath a centralized dashboard interface to ease user navigation. In design systems, unifying typography and component templates ensures that different modules look like they belong to the same core platform. This concept boosts operational efficiency, eliminates system redundancies, and delivers a superior, streamlined user experience.",
+    "synonyms": [
+      "combine",
+      "integrate",
+      "merge",
+      "consolidate"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "split",
+      "disconnect"
+    ],
+    "nounForm": "unification",
+    "verbForm": "unify",
+    "adjectiveForm": "unified",
+    "partOfSpeech": "verb",
+    "commonContext": "Merging software applications, structural design system integrations, and multi-database consolidations",
+    "usageTip": "Use 'unify' when you are bringing separate, independent entities together to function as a singular, coordinated collective system.",
+    "commonMistake": "Using 'unify' when you simply mean 'modify'; unifying must involve the combining of two or more separate things into a whole.",
+    "collocations": [
+      "unify the user interface",
+      "unify separate databases",
+      "unify under a single system"
+    ]
+  }
+]

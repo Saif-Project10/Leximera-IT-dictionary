@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Rare",
+    "meaning": "Not occurring very often; (of meat) lightly cooked.",
+    "shortMeaning": "not common; lightly cooked",
+    "example": "It's rare to see snow in this region.",
+    "example2": "This is a rare species of bird.",
+    "example3": "I'd like my steak cooked rare, please.",
+    "Explanation": "Rare has two main meanings. The first and most common means unusual, infrequent, or valuable due to scarcity (rare coins, rare event). The second is a culinary term for meat that is cooked very briefly, leaving the inside red and cool. The first meaning often carries a sense of specialness or uniqueness. Something can be rare but not necessarily good (a rare disease). The adverb is 'rarely'. Context makes it clear which meaning is intended: talking about food or everything else.",
+    "synonyms": [
+      "uncommon",
+      "infrequent",
+      "scarce",
+      "unusual",
+      "unique"
+    ],
+    "antonyms": [
+      "common",
+      "frequent",
+      "abundant",
+      "well-done (meat)"
+    ],
+    "nounForm": "rarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "rare",
+    "partOfSpeech": "adjective",
+    "commonContext": "Events, objects, collections, food (steak)",
+    "usageTip": "For meat, the scale is: rare, medium-rare, medium, medium-well, well-done.",
+    "commonMistake": "Confusing 'rare' with 'raw'. Rare meat is cooked on the outside but red inside; raw meat is completely uncooked.",
+    "collocations": [
+      "rare opportunity",
+      "rare species",
+      "rare disease",
+      "rare medium"
+    ]
+  },
+  {
+    "word": "Rare",
+    "meaning": "Not found or occurring very often",
+    "shortMeaning": "uncommon",
+    "example": "That type of memory error is quite rare.",
+    "example2": "It is rare to see such clean legacy code.",
+    "example3": "He collected rare datasets for his machine learning model.",
+    "Explanation": "Something that is 'rare' does not happen frequently or is difficult to find. In IT, identifying rare events or bugs is often the hardest part of troubleshooting because they don't happen often enough to be easily reproduced or debugged. When a problem is rare, it requires deep investigation, logs, and advanced monitoring to catch it in the act. The term is also used to describe limited resources or specialized data that is not widely available.",
+    "synonyms": [
+      "uncommon",
+      "infrequent",
+      "scarce"
+    ],
+    "antonyms": [
+      "common",
+      "frequent",
+      "abundant"
+    ],
+    "nounForm": "rarity",
+    "verbForm": "N/A",
+    "adjectiveForm": "rare",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting, Data collection, Statistics",
+    "usageTip": "Use when describing something that happens or exists infrequently.",
+    "commonMistake": "Calling a common issue 'rare' just because you haven't seen it recently.",
+    "collocations": [
+      "rare event",
+      "rare error",
+      "quite rare"
+    ]
+  }
+]

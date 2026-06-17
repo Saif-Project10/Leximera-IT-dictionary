@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Caution",
+    "meaning": "Care taken to avoid danger or mistakes; a warning",
+    "shortMeaning": "care to avoid danger",
+    "example": "Proceed with caution on the icy road.",
+    "example2": "The doctor advised a note of caution regarding the new medicine.",
+    "example3": "He threw caution to the wind and quit his job.",
+    "Explanation": "'Caution' is the strong desire to avoid risk or trouble. It can be a feeling (being cautious) or an action (a warning). As a verb, it means to warn someone. It is more common than 'carefulness' and often implies potential danger. Signs often say 'Caution!' to warn people. The word balances between being safe and being overly afraid to act.",
+    "synonyms": [
+      "care",
+      "prudence",
+      "vigilance",
+      "warning"
+    ],
+    "antonyms": [
+      "recklessness",
+      "boldness",
+      "carelessness",
+      "daring"
+    ],
+    "nounForm": "caution",
+    "verbForm": "caution",
+    "adjectiveForm": "cautious",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Warnings, safety instructions, risky situations, advice",
+    "usageTip": "Use as a noun for the quality of being careful, or as a verb meaning 'to warn'.",
+    "commonMistake": "Confusing 'caution' (general care) with 'warning' (a specific alert).",
+    "collocations": [
+      "exercise caution",
+      "word of caution",
+      "extreme caution",
+      "caution sign"
+    ]
+  },
+  {
+    "word": "Caution",
+    "meaning": "Care taken to avoid danger or mistakes",
+    "shortMeaning": "carefulness",
+    "example": "Proceed with caution when updating the production database.",
+    "example2": "The system issued a caution warning before deleting the files.",
+    "example3": "We must exercise caution when clicking on unknown links.",
+    "Explanation": "Caution is about being careful and thinking before acting. In tech, this is crucial when performing irreversible actions like deleting data or changing security settings. System warnings are often labeled as 'Caution' to alert the user of potential risks. It is a mindset of safety and prevention. Being cautious helps avoid downtime and security breaches in professional IT environments.",
+    "synonyms": [
+      "care",
+      "wariness",
+      "prudence"
+    ],
+    "antonyms": [
+      "carelessness",
+      "recklessness",
+      "negligence"
+    ],
+    "nounForm": "caution",
+    "verbForm": "caution",
+    "adjectiveForm": "cautious",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security warnings and system administration",
+    "usageTip": "Use 'caution' as a noun when giving advice or as a verb to warn someone.",
+    "commonMistake": "Confusing 'caution' with 'warning'; a caution is often a suggestion to be careful.",
+    "collocations": [
+      "proceed with caution",
+      "exercise caution",
+      "cautionary tale"
+    ]
+  }
+]

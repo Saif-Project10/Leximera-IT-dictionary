@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Wide area",
+    "meaning": "Covering a large geographic distance or region",
+    "shortMeaning": "large-scale distance",
+    "example": "The radio signal covers a wide area of the country.",
+    "example2": "We need a wide area solution for our global branch offices.",
+    "example3": "Wide area deployments are more complex than local ones.",
+    "Explanation": "The term 'wide area' describes a scope that spans across cities, countries, or even continents. In technology, it usually implies that the communication or coverage isn't limited to a single building or campus. It is the 'W' in WAN (Wide Area Network). Wide area systems often rely on leased telecommunication lines, satellites, or fiber optics to maintain connectivity over long distances. Management of such areas requires advanced routing and security protocols. It is a relative term, but in IT, it almost always means 'beyond the local building'.",
+    "synonyms": [
+      "broad scale",
+      "regional",
+      "global"
+    ],
+    "antonyms": [
+      "local",
+      "narrow",
+      "confined"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "wide-area",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Telecommunications and networking",
+    "usageTip": "Use this to distinguish between services that work locally versus those that work across distances.",
+    "commonMistake": "Confusing 'wide area' with 'metropolitan area', which is smaller (city-sized).",
+    "collocations": [
+      "wide area coverage",
+      "wide area deployment",
+      "wide area connectivity"
+    ]
+  },
+  {
+    "word": "Wide area",
+    "meaning": "Covering a large geographic distance",
+    "shortMeaning": "long distance",
+    "example": "A Wide Area Network (WAN) connects offices across cities.",
+    "example2": "The company manages a wide area infrastructure.",
+    "example3": "We need better signal for our wide area communications.",
+    "Explanation": "The term 'wide area' is primarily associated with networking, specifically the Wide Area Network (WAN). It refers to communications that span beyond a single building or campus, covering cities, regions, or even entire countries. This is distinct from a Local Area Network (LAN), which is limited to a smaller physical space. In IT infrastructure planning, understanding the distinction is vital for latency and bandwidth considerations. It is a fundamental concept in telecommunications.",
+    "synonyms": [
+      "global",
+      "distributed",
+      "long-distance"
+    ],
+    "antonyms": [
+      "local",
+      "nearby",
+      "restricted"
+    ],
+    "nounForm": "area",
+    "verbForm": "N/A",
+    "adjectiveForm": "wide-area",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, telecommunications, infrastructure",
+    "usageTip": "Use 'wide area' when discussing WAN or large-scale connectivity.",
+    "commonMistake": "Confusing it with 'wide' (general size) without network context.",
+    "collocations": [
+      "Wide Area Network",
+      "wide area coverage",
+      "wide area connectivity"
+    ]
+  }
+]

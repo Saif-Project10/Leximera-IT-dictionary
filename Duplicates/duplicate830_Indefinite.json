@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Indefinite",
+    "meaning": "Not clearly defined, stated, or decided; lasting for an unknown period.",
+    "shortMeaning": "not clear or fixed",
+    "example": "The project has been put on hold for an indefinite period.",
+    "example2": "She gave an indefinite answer, neither yes nor no.",
+    "example3": "The plan is still in an indefinite state.",
+    "Explanation": "Indefinite means lacking precision, certainty, or fixed limits. It describes things that are vague, open-ended, or not specified. An indefinite article ('a' or 'an') refers to a non-specific item. An indefinite time means no end date is set. It's the opposite of 'definite'. The word often carries a sense of uncertainty or temporary suspension that could become permanent. It's common in scheduling, planning, and descriptions where details are not yet finalized. It can cause anxiety because it lacks closure or clarity.",
+    "synonyms": [
+      "unclear",
+      "vague",
+      "unspecified",
+      "open-ended",
+      "uncertain"
+    ],
+    "antonyms": [
+      "definite",
+      "clear",
+      "specific",
+      "fixed",
+      "certain"
+    ],
+    "nounForm": "indefiniteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "indefinite",
+    "partOfSpeech": "adjective",
+    "commonContext": "Time, plans, answers, articles (grammar), postponements",
+    "usageTip": "Often used with periods of time (indefinite leave, indefinite delay) or before nouns like 'answer', 'future'.",
+    "commonMistake": "Confusing 'indefinite' with 'infinite'. Indefinite means not defined; infinite means without end.",
+    "collocations": [
+      "indefinite period",
+      "indefinite article",
+      "indefinite leave",
+      "indefinite postponement"
+    ]
+  },
+  {
+    "word": "Indefinite",
+    "meaning": "Not clearly defined or without a fixed time limit",
+    "shortMeaning": "no fixed end",
+    "example": "The project was delayed for an indefinite period.",
+    "example2": "The meeting date remains indefinite.",
+    "example3": "They have indefinite access to the server.",
+    "Explanation": "The word 'indefinite' describes something that does not have a clear end, limit, or definition. It is often used to talk about timeframes that have not been decided or cannot be determined. In computing, an indefinite loop is one that may never stop unless interrupted. It is a very useful adjective for clarifying uncertainty in project planning. It helps manage expectations when specific details are not yet known.",
+    "synonyms": [
+      "vague",
+      "unlimited",
+      "uncertain"
+    ],
+    "antonyms": [
+      "definite",
+      "fixed",
+      "clear"
+    ],
+    "nounForm": "indefiniteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "indefinite",
+    "partOfSpeech": "adjective",
+    "commonContext": "Scheduling, planning, programming",
+    "usageTip": "Use to describe things without a set end.",
+    "commonMistake": "Confusing it with 'infinite'.",
+    "collocations": [
+      "indefinite period",
+      "indefinite delay",
+      "indefinite term"
+    ]
+  }
+]

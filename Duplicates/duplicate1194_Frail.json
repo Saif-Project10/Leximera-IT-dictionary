@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Frail",
+    "meaning": "Weak and delicate, especially in health; easily damaged",
+    "shortMeaning": "weak and delicate",
+    "example": "He became very frail in his old age.",
+    "example2": "The frail wooden bridge swayed in the wind.",
+    "example3": "Her frail voice was barely audible.",
+    "Explanation": "'Frail' is an adjective similar to 'fragile', but it is used primarily for people, suggesting physical weakness due to age, illness, or inherent delicacy. It can also describe weak structures or arguments. The word carries a sense of vulnerability and the need for care and support. The noun is 'frailty'. It is often used with compassion to describe the elderly or ill. While 'fragile' can be for objects and ideas, 'frail' is more personal and human-centered. It's a gentle but somber word.",
+    "synonyms": [
+      "weak",
+      "feeble",
+      "delicate",
+      "fragile",
+      "infirm"
+    ],
+    "antonyms": [
+      "strong",
+      "robust",
+      "sturdy",
+      "hardy"
+    ],
+    "nounForm": "frailty",
+    "verbForm": "N/A",
+    "adjectiveForm": "frail",
+    "partOfSpeech": "adjective",
+    "commonContext": "Health, elderly people, structures, voices",
+    "usageTip": "Use 'frail' to describe a person who is physically weak and vulnerable, often due to age or sickness.",
+    "commonMistake": "Using 'frail' for objects that are easily broken. For objects, 'fragile' is more common.",
+    "collocations": [
+      "frail old man",
+      "frail health",
+      "frail body"
+    ]
+  },
+  {
+    "word": "Frail",
+    "meaning": "Weak, delicate, or easily destroyed",
+    "shortMeaning": "weak",
+    "example": "The frail infrastructure struggled during the massive traffic spike.",
+    "example2": "He felt frail after working long, exhausting hours on the project.",
+    "example3": "The security measure was too frail to stop a serious attack.",
+    "Explanation": "The word 'frail' is similar to 'fragile' but often implies a sense of weakness or lack of endurance rather than just being easily broken. You might describe an old, poorly maintained server as 'frail'. It is a word that emphasizes that something lacks the strength to handle pressure or time. In technical writing, 'frail' is less common than 'unstable' or 'weak', but it can be used to add color and emphasis to a description of poor quality.",
+    "synonyms": [
+      "weak",
+      "delicate",
+      "infirm"
+    ],
+    "antonyms": [
+      "strong",
+      "robust",
+      "healthy"
+    ],
+    "nounForm": "frailty",
+    "verbForm": "N/A",
+    "adjectiveForm": "frail",
+    "partOfSpeech": "adjective",
+    "commonContext": "System stability and health descriptions",
+    "usageTip": "Use 'frail' to describe systems that lack the strength to function properly.",
+    "commonMistake": "Confusing 'frail' (weak) with 'fail' (to not succeed).",
+    "collocations": [
+      "frail system",
+      "frail infrastructure"
+    ]
+  }
+]

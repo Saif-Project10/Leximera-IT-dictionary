@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Pipeline",
+    "meaning": "A long pipe for transporting liquids or gases; a channel of supply or information.",
+    "shortMeaning": "pipe; supply channel",
+    "example": "An oil pipeline runs across the country.",
+    "example2": "The company has several new products in the development pipeline.",
+    "example3": "We need to improve our sales pipeline.",
+    "Explanation": "A pipeline is literally a series of connected pipes for transporting resources. Figuratively, it's a crucial business and tech term describing a streamlined process for developing, delivering, or processing something. A 'sales pipeline' tracks potential customers. A 'development pipeline' tracks projects from idea to launch. It suggests a continuous, flowing system with stages. Knowing what's 'in the pipeline' means knowing what's coming next. It's a metaphor for efficiency and forward planning in many industries.",
+    "synonyms": [
+      "conduit",
+      "channel",
+      "line",
+      "supply chain",
+      "process"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "pipeline",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Oil/gas industry, business development, software, sales",
+    "usageTip": "Use the figurative sense to talk about future projects or processes with multiple stages.",
+    "commonMistake": "Saying 'in the pipe' instead of the correct idiom 'in the pipeline'.",
+    "collocations": [
+      "in the pipeline",
+      "development pipeline",
+      "gas pipeline",
+      "pipeline management"
+    ]
+  },
+  {
+    "word": "Pipeline",
+    "meaning": "A sequence of processing stages or a long pipe for transporting liquids",
+    "shortMeaning": "sequence of steps",
+    "example": "The CI/CD pipeline automates the testing and deployment of our code.",
+    "example2": "There are several new features in the development pipeline.",
+    "example3": "The oil pipeline stretches across the entire country.",
+    "Explanation": "A pipeline represents a workflow where each stage performs a specific task. In software engineering, a 'Deployment Pipeline' takes code from a developer, tests it, builds it, and deploys it to a server. This automation is crucial for modern 'DevOps' practices. In CPU architecture, pipelining allows the processor to work on multiple instructions at different stages at the same time, increasing speed. Conceptually, a pipeline means that as soon as one step finishes, the next one starts immediately.",
+    "synonyms": [
+      "workflow",
+      "sequence",
+      "process"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "pipeline",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "DevOps, CPU design, and business sales",
+    "usageTip": "Use 'pipeline' to describe a process that has multiple automated steps.",
+    "commonMistake": "Confusing a 'pipeline' with a single 'script'; a pipeline usually contains many scripts or steps.",
+    "collocations": [
+      "CI/CD pipeline",
+      "sales pipeline",
+      "data pipeline"
+    ]
+  }
+]

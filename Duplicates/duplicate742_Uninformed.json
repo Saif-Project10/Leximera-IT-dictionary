@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Uninformed",
+    "meaning": "Not having or showing knowledge or information about something.",
+    "shortMeaning": "lacking knowledge",
+    "example": "His criticism was based on an uninformed opinion.",
+    "example2": "The public is largely uninformed about the details of the policy.",
+    "example3": "It's unfair to make uninformed judgments.",
+    "Explanation": "Uninformed describes a person, opinion, or decision that is made without adequate knowledge or facts. It implies ignorance, which may or may not be the person's fault. It's more neutral than 'ignorant', which can be an insult. An uninformed choice is risky. The word highlights the importance of information in making good decisions. The opposite is 'informed' or 'knowledgeable'. In a democracy, an uninformed electorate is a problem. It's a common word in discussions about media, education, and decision-making processes.",
+    "synonyms": [
+      "ignorant",
+      "unknowledgeable",
+      "unenlightened",
+      "unaware",
+      "naive"
+    ],
+    "antonyms": [
+      "informed",
+      "knowledgeable",
+      "aware",
+      "educated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "inform",
+    "adjectiveForm": "uninformed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Opinions, decisions, public, criticism",
+    "usageTip": "Often used before nouns like 'opinion', 'decision', 'comment', or 'person'.",
+    "commonMistake": "Confusing 'uninformed' with 'misinformed'. Uninformed means lacking information; misinformed means having incorrect information.",
+    "collocations": [
+      "uninformed decision",
+      "uninformed opinion",
+      "uninformed public",
+      "remain uninformed"
+    ]
+  },
+  {
+    "word": "Uninformed",
+    "meaning": "Lacking knowledge or awareness about a specific subject",
+    "shortMeaning": "not knowledgeable",
+    "example": "An uninformed user might accidentally delete critical files.",
+    "example2": "The team was uninformed about the new security protocols.",
+    "example3": "Avoid making uninformed decisions based on guesswork.",
+    "Explanation": "In IT, being 'uninformed' can lead to serious mistakes, such as misconfiguring a server or failing to follow security best practices. It refers to a lack of necessary information or training. The goal of technical documentation and onboarding is to ensure that no one remains uninformed. If a team member is uninformed, they are a risk to the system. It is a neutral but serious term used when addressing training gaps or communication failures. Always ensure stakeholders are well-informed to prevent errors.",
+    "synonyms": [
+      "unaware",
+      "ignorant",
+      "unprepared"
+    ],
+    "antonyms": [
+      "informed",
+      "knowledgeable",
+      "aware"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uninformed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Training, project communication, risk management",
+    "usageTip": "Use this to advocate for better training or documentation.",
+    "commonMistake": "Using 'uninformed' as an insult rather than a description of a training need.",
+    "collocations": [
+      "keep them informed",
+      "uninformed decision"
+    ]
+  },
+  {
+    "word": "Uninformed",
+    "meaning": "Not having enough information or knowledge about a subject.",
+    "shortMeaning": "lacking knowledge",
+    "example": "An uninformed decision about server scaling can lead to outages.",
+    "example2": "She felt uninformed about the new system changes.",
+    "example3": "Avoid making uninformed guesses when debugging code.",
+    "Explanation": "Being 'uninformed' means acting or deciding without sufficient facts. In the IT field, this can be dangerous. For example, making an uninformed choice about a framework or security policy can lead to vulnerabilities or technical debt. It is always better to research thoroughly or consult documentation before taking action. Staying informed is a key skill for developers who need to keep up with the fast-changing world of technology.",
+    "synonyms": [
+      "ignorant",
+      "unaware",
+      "uneducated"
+    ],
+    "antonyms": [
+      "informed",
+      "knowledgeable",
+      "aware"
+    ],
+    "nounForm": "uninformedness",
+    "verbForm": "inform",
+    "adjectiveForm": "uninformed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technical decision making",
+    "usageTip": "Use this to emphasize the need for more research.",
+    "commonMistake": "Confusing it with 'misinformed', which means having wrong information.",
+    "collocations": [
+      "uninformed decision",
+      "uninformed choice",
+      "remain uninformed"
+    ]
+  }
+]

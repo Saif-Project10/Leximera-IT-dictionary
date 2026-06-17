@@ -1,0 +1,63 @@
+[
+  {
+    "word": "SPA",
+    "meaning": "A Single-Page Application is a web application or website that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from the server.",
+    "shortMeaning": "dynamic single-page web app",
+    "example": "Gmail is a classic example of an SPA; it feels fast and responsive.",
+    "example2": "Frameworks like React, Angular, and Vue.js are commonly used to build SPAs.",
+    "example3": "In an SPA, only the necessary data is fetched when the user clicks a link.",
+    "Explanation": "A Single-Page Application (SPA) loads a single HTML page and then updates its content dynamically as the user interacts with it. This creates a fluid, app-like experience in the browser. All necessary code (HTML, CSS, JavaScript) is retrieved with a single page load, or dynamically loaded as needed. Navigation happens without full page reloads, often using the History API to update the URL. This improves perceived performance and interactivity. However, SPAs have downsides: initial load can be slower, SEO can be more challenging (though solvable), and they require careful state management on the client side.",
+    "synonyms": [
+      "dynamic web app",
+      "client-side rendered app",
+      "thick-client app"
+    ],
+    "antonyms": [
+      "multi-page application (MPA)",
+      "server-side rendered site",
+      "static website"
+    ],
+    "nounForm": "SPA",
+    "verbForm": "N/A",
+    "adjectiveForm": "SPA (as in SPA framework)",
+    "partOfSpeech": "noun",
+    "commonContext": "Modern web development, interactive dashboards, web-based tools, social media platforms",
+    "usageTip": "Pronounced as 'spa' (like the place). Often contrasted with MPA (Multi-Page Application).",
+    "commonMistake": "Assuming SPAs are always better than traditional websites. For content-heavy sites where SEO and initial load are critical, a Multi-Page Application or SSR might be better.",
+    "collocations": [
+      "SPA framework",
+      "build an SPA",
+      "SPA architecture",
+      "SPA routing",
+      "modern SPA"
+    ]
+  },
+  {
+    "word": "SPA",
+    "meaning": "A web application that loads a single page and dynamically updates content as the user interacts with it.",
+    "shortMeaning": "Single Page Application",
+    "example": "We used React to build a responsive SPA for the client.",
+    "example2": "The SPA provides a smoother user experience than traditional multi-page websites.",
+    "example3": "SPAs reduce page reload times significantly.",
+    "Explanation": "The term SPA stands for Single Page Application. It is a modern web development approach where the entire application operates within a single HTML page. Instead of loading new pages from the server, the browser updates specific parts of the content dynamically. This results in faster interaction and a more desktop-like experience for users. It relies heavily on JavaScript to manage routing and data fetching.",
+    "synonyms": [
+      "Single Page Application",
+      "Dynamic web app"
+    ],
+    "antonyms": [
+      "Multi-page application"
+    ],
+    "nounForm": "SPA",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Web development and software architecture",
+    "usageTip": "Use 'SPA' when discussing modern, high-performance web interfaces.",
+    "commonMistake": "Thinking SPAs are the same as traditional websites that reload on every click.",
+    "collocations": [
+      "build an SPA",
+      "SPA framework",
+      "SPA architecture"
+    ]
+  }
+]

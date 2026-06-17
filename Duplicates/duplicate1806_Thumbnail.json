@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Thumbnail",
+    "meaning": "A small version of a larger image or video",
+    "shortMeaning": "small image",
+    "example": "Click on the thumbnail to view the full-sized photo.",
+    "example2": "The YouTube video has an eye-catching thumbnail.",
+    "example3": "The file explorer shows thumbnails of all the documents in the folder.",
+    "Explanation": "A thumbnail is a reduced-size representation of a larger image, intended to make it easier and faster to look at or manage a group of images. They are widely used in galleries, operating systems, and video platforms like YouTube. Thumbnails save bandwidth and screen space because the full image only loads when requested. They help users quickly identify the content they are looking for without opening every file. Designing a good thumbnail is often a key part of digital marketing. The name comes from the idea of an image the size of a human fingernail.",
+    "synonyms": [
+      "preview image",
+      "miniature",
+      "small-scale image"
+    ],
+    "antonyms": [
+      "full-size image",
+      "high-resolution image"
+    ],
+    "nounForm": "thumbnail",
+    "verbForm": "thumbnail",
+    "adjectiveForm": "thumbnail-sized",
+    "partOfSpeech": "noun",
+    "commonContext": "Web design, photography, and file management",
+    "usageTip": "Use 'thumbnail' to refer to any small preview used to represent a larger file.",
+    "commonMistake": "Using a high-resolution image and just resizing it with code; this wastes bandwidth compared to a real thumbnail.",
+    "collocations": [
+      "video thumbnail",
+      "thumbnail gallery",
+      "click the thumbnail"
+    ]
+  },
+  {
+    "word": "Thumbnail",
+    "meaning": "A small, reduced-size preview image used to represent a larger image, video file, or digital asset",
+    "shortMeaning": "small image preview",
+    "example": "The e-commerce product gallery displays a small thumbnail for each fruit item on the screen.",
+    "example2": "Clicking on the thumbnail will open up the full high-resolution graphic in a pop-up window.",
+    "example3": "We use an automated backend tool to shrink uploaded user photos into a quick thumbnail grid.",
+    "Explanation": "A 'thumbnail' is a small graphic image that serves as a visual placeholder or preview for a larger piece of digital media. It is widely used in web development, portfolio galleries, and streaming services to build clean, scannable user interfaces. Using small thumbnails improves website loading performance significantly, as loading a grid of small preview images consumes far less internet bandwidth and server processing memory than loading full-size files right away.",
+    "synonyms": [
+      "miniature preview",
+      "preview image",
+      "micro-image"
+    ],
+    "antonyms": [
+      "full-size image",
+      "high-resolution graphic"
+    ],
+    "nounForm": "thumbnail",
+    "verbForm": "thumbnail (informal scaling action)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Frontend gallery design, e-commerce product layouts, and media asset management",
+    "usageTip": "Use 'thumbnail' when describing small, compressed visual previews that link users to larger media files or web pages.",
+    "commonMistake": "Using a high-resolution image file and simply shrinking its dimensions via CSS styling, which does not save actual loading bandwidth.",
+    "collocations": [
+      "click the thumbnail",
+      "thumbnail image gallery",
+      "generate a thumbnail"
+    ]
+  }
+]

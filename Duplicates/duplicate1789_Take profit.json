@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Take profit",
+    "meaning": "To sell an investment when it reaches a certain price to lock in the gains",
+    "shortMeaning": "locking in gains",
+    "example": "I decided to take profit once the stock price rose by twenty percent.",
+    "example2": "The trader forgot to take profit, and the market crashed soon after.",
+    "example3": "It's important to have a plan for when to take profit.",
+    "Explanation": "In trading and investing, 'take profit' is the action of closing a winning trade. When the value of an asset (like a stock or Bitcoin) goes up, you only have 'unrealized' profit—it's just a number on a screen. You only 'take' the profit when you actually sell the asset and get the cash. Professional traders often set a specific goal before they even buy, such as 'I will take profit if the price hits $100.' This helps them avoid getting greedy and losing their gains if the price suddenly drops.",
+    "synonyms": [
+      "closing a position",
+      "realizing gains",
+      "cashing out"
+    ],
+    "antonyms": [
+      "stop loss",
+      "holding"
+    ],
+    "nounForm": "take profit",
+    "verbForm": "take profit",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase / noun",
+    "commonContext": "Stock market, crypto trading, forex",
+    "usageTip": "Use 'take profit' to describe the moment you turn a price increase into actual money.",
+    "commonMistake": "Waiting too long to take profit and then watching the price fall back down.",
+    "collocations": [
+      "take profit level",
+      "time to take profit",
+      "take profit strategy"
+    ]
+  },
+  {
+    "word": "Take profit",
+    "meaning": "An automated command or threshold set in trading software to sell crypto or assets when they reach a certain price",
+    "shortMeaning": "automated sale target price",
+    "example": "The trading bot executed a take profit order when the cryptocurrency reached fifty dollars.",
+    "example2": "You should always set a realistic take profit limit to lock in earnings automatically.",
+    "example3": "The system triggered the take profit instruction just before the market price crashed.",
+    "Explanation": "In Fintech software applications, automated trading scripts, and crypto exchange platforms, 'take profit' refers to a predefined limit order type. Users configure this setting to ensure the application closes a financial position once the asset hits a specific target value. This software feature protects traders from missing out on gains due to sudden market shifts when they are away from their computers. FinTech developers build these real-time calculation rules into trading dashboards using continuous market APIs.",
+    "synonyms": [
+      "take-profit order",
+      "limit sell order",
+      "target exit price"
+    ],
+    "antonyms": [
+      "stop loss"
+    ],
+    "nounForm": "take-profit",
+    "verbForm": "take profit",
+    "adjectiveForm": "take-profit",
+    "partOfSpeech": "verb phrase / noun",
+    "commonContext": "FinTech platforms, cryptocurrency trading applications, and automated financial bots",
+    "usageTip": "Use 'take profit' to describe the action of setting an automatic exit price rule in investment software.",
+    "commonMistake": "Confusing 'take profit' with 'stop loss'; take profit locks in positive gains, while stop loss limits financial drops.",
+    "collocations": [
+      "set a take profit order",
+      "trigger the take profit limit",
+      "take profit target settings"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Teeter",
+    "meaning": "To move or balance unsteadily; to waver between different states or decisions",
+    "shortMeaning": "balance unsteadily; waver",
+    "example": "The vase teetered on the edge of the table before falling.",
+    "example2": "The country's economy is teetering on the brink of collapse.",
+    "example3": "He teetered between accepting the job and going back to school.",
+    "Explanation": "'Teeter' is a vivid verb that describes an unstable, precarious physical movement, like something wobbling and about to fall. Figuratively, it describes being in a very uncertain or critical situation, often on the verge of a major change (usually negative, like disaster or failure). It can also describe indecision, wavering between two choices. The word often implies a tense moment of instability that is likely to end soon with a fall or decision. The noun form 'teeter-totter' is another name for a seesaw. It's a descriptive word that adds drama to a situation.",
+    "synonyms": [
+      "wobble",
+      "totter",
+      "balance precariously",
+      "waver",
+      "hesitate"
+    ],
+    "antonyms": [
+      "stabilize",
+      "steady",
+      "decide firmly",
+      "remain stable"
+    ],
+    "nounForm": "teeter (rare), teeter-totter",
+    "verbForm": "teeter",
+    "adjectiveForm": "teetering",
+    "partOfSpeech": "verb",
+    "commonContext": "Describing physical instability, crises, decision-making",
+    "usageTip": "Often used with 'on the edge/brink of' to emphasize imminent danger or change.",
+    "commonMistake": "Confusing it with 'totter', which is similar but often implies weakness (like an old person walking).",
+    "collocations": [
+      "teeter on the brink",
+      "teeter on the edge",
+      "teeter back and forth",
+      "teetering stack"
+    ]
+  },
+  {
+    "word": "Teeter",
+    "meaning": "To stand or move unsteadily, or to be on the edge of a critical system crash or absolute failure",
+    "shortMeaning": "be highly unstable",
+    "example": "The overloaded web server began to teeter on the brink of a massive database crash.",
+    "example2": "If we do not fix these security flaws, our software product will teeter on the edge of failure.",
+    "example3": "The startup company continued to teeter financially before securing their cloud investment.",
+    "Explanation": "The word 'teeter' means to balance unsteadily or shake on the edge of an outcome. In technical and business contexts, it describes a critical situation where a system or organization is highly unstable. For example, a server experiencing a massive DDoS attack might teeter between staying online and completely shutting down due to CPU exhaustion. It emphasizes a dramatic state of suspense where a small push or minor bug can cause a complete collapse. It alerts teams to immediate system fragility.",
+    "synonyms": [
+      "wobble",
+      "stagger",
+      "vacillate",
+      "totter"
+    ],
+    "antonyms": [
+      "stabilize",
+      "remain steady",
+      "anchor"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "teeter",
+    "adjectiveForm": "teetering",
+    "partOfSpeech": "verb",
+    "commonContext": "Server stability issues, company business health, critical edge cases",
+    "usageTip": "Use 'teeter' metaphorically to describe software architectures or networks operating under dangerous stress levels.",
+    "commonMistake": "Using 'teeter' to describe standard minor software bugs that do not threaten full system uptime.",
+    "collocations": [
+      "teeter on the brink",
+      "teeter on the edge",
+      "begin to teeter"
+    ]
+  }
+]

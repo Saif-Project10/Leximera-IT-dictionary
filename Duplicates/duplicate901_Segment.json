@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Segment",
+    "meaning": "A part of something that is separate from the whole; to divide into parts",
+    "shortMeaning": "section, part",
+    "example": "The orange was divided into segments.",
+    "example2": "The TV show was split into three segments.",
+    "example3": "Marketers target a specific segment of the population.",
+    "Explanation": "'Segment' can be a noun or a verb. As a noun, it means a distinct section or piece of a larger object, group, or broadcast. As a verb, it means to divide something into such parts. It is used in geometry, biology, business (market segment), and media. It suggests a natural or logical division. The word implies that the parts, while separate, together form a coherent whole.",
+    "synonyms": [
+      "section",
+      "part",
+      "portion"
+    ],
+    "antonyms": [
+      "whole",
+      "entirety",
+      "aggregate"
+    ],
+    "nounForm": "segment",
+    "verbForm": "segment",
+    "adjectiveForm": "segmented",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Fruit, television, marketing, geometry",
+    "usageTip": "In business, 'to segment a market' means to divide consumers into groups with common characteristics.",
+    "commonMistake": "Pronouncing the 'g' as a hard 'g' (like in 'get'); it's a soft 'g' (like in 'gentle').",
+    "collocations": [
+      "market segment",
+      "line segment",
+      "segment of society"
+    ]
+  },
+  {
+    "word": "Segment",
+    "meaning": "A distinct separate part or section of a computer network, database, application code, or user market group",
+    "shortMeaning": "divided data section",
+    "example": "The network admin placed all office cameras onto a separate network segment to improve security loops.",
+    "example2": "We can target a specific segment of application users by sending custom promotional notifications.",
+    "example3": "The large image data block was split into smaller segment slices for rapid web processing.",
+    "Explanation": "The word 'Segment' describes any isolated piece or partition of a larger computer system architecture. In networking, a segment is a separate branch of a network divided by routers or switches to limit security risks and isolate traffic. In data analytics, a segment represents a specific group of users who share common behaviors. It is a highly versatile term emphasizing division, organization, and technical isolation.",
+    "synonyms": [
+      "section",
+      "partition",
+      "division block"
+    ],
+    "antonyms": [
+      "whole system",
+      "unified block",
+      "N/A"
+    ],
+    "nounForm": "segment / segmentation",
+    "verbForm": "segment",
+    "adjectiveForm": "segmented",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Network setup partitions, market group classifications, and data management memory blocks",
+    "usageTip": "Use 'segment' as a noun when pointing out an isolated system division, or as a verb meaning to split data apart.",
+    "commonMistake": "Spelling it as 'sigment' or using it when describing random unstructured broken data pieces.",
+    "collocations": [
+      "network segment",
+      "market segment",
+      "code segment"
+    ]
+  }
+]

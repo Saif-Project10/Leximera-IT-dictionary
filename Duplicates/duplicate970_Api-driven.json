@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Api-driven",
+    "meaning": "An approach or system where the design and functionality are centered around Application Programming Interfaces (APIs).",
+    "shortMeaning": "centered on APIs",
+    "example": "The company adopted an api-driven development model to ensure all services could communicate seamlessly.",
+    "example2": "This api-driven platform allows developers to easily integrate third-party tools.",
+    "example3": "An api-driven architecture prioritizes the creation of robust APIs before building user interfaces.",
+    "Explanation": "'Api-driven' is a compound adjective used primarily in software development. It describes a methodology where APIs are the foundational building blocks of a system. This means the core logic and data are exposed via APIs, and other components (like web or mobile apps) are built to consume those APIs. This approach promotes modularity, scalability, and easier integration with other systems. It's a key concept in modern microservices and cloud-native development.",
+    "synonyms": [
+      "api-centric",
+      "api-based"
+    ],
+    "antonyms": [
+      "monolithic",
+      "ui-driven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "api-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, system architecture, product strategy",
+    "usageTip": "Always hyphenate when used before a noun (e.g., 'an api-driven approach'). It is often spelled with 'API' in all capitals.",
+    "commonMistake": "Using it to describe a simple application that just uses an API; it refers to a core architectural philosophy.",
+    "collocations": [
+      "api-driven development",
+      "api-driven design",
+      "api-driven platform"
+    ]
+  },
+  {
+    "word": "Api-driven",
+    "meaning": "Developed or controlled mainly through Application Programming Interfaces",
+    "shortMeaning": "API-based software",
+    "example": "Modern web development relies heavily on API-driven architectures.",
+    "example2": "Our platform offers an API-driven service for processing digital payments.",
+    "example3": "The developer built an API-driven application to fetch live weather reports.",
+    "Explanation": "The term 'API-driven' is a modern technical adjective used in software development. It describes software design where different systems, databases, and microservices talk to each other entirely through Application Programming Interfaces (APIs). Instead of building one massive, isolated program, developers create smaller components that share data seamlessly via APIs. This approach makes applications highly flexible and scalable. There is no simple noun or verb form for this compound adjective.",
+    "synonyms": [
+      "API-based",
+      "integration-focused",
+      "service-oriented"
+    ],
+    "antonyms": [
+      "monolithic",
+      "standalone",
+      "isolated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "API-driven",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, cloud computing, modern web services",
+    "usageTip": "Use 'API-driven' to explain that your software's core features are built to interact with other online programs.",
+    "commonMistake": "Using 'API-driven' for a basic website that merely links to another site without exchanging real-time programmatic data.",
+    "collocations": [
+      "API-driven architecture",
+      "API-driven development",
+      "API-driven platform"
+    ]
+  }
+]

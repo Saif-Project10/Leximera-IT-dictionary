@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Stubby",
+    "meaning": "Short and thick; often used to describe small, incomplete pieces of code.",
+    "shortMeaning": "short and incomplete",
+    "example": "He created a stubby function to test the API endpoint.",
+    "example2": "The script is just a stubby placeholder for now.",
+    "example3": "Avoid leaving stubby code in production environments.",
+    "Explanation": "The word 'stubby' is often used informally to describe something short, thick, or incomplete. In programming, a 'stub' is a small piece of code used as a temporary placeholder for a function that has not been fully written yet. 'Stubby' might be used to describe such placeholders. It is not formal technical terminology but is understood in developer circles to mean something short and skeletal.",
+    "synonyms": [
+      "short",
+      "placeholder",
+      "incomplete"
+    ],
+    "antonyms": [
+      "long",
+      "complete",
+      "fully-formed"
+    ],
+    "nounForm": "stub",
+    "verbForm": "stub",
+    "adjectiveForm": "stubby",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and testing",
+    "usageTip": "Use 'stubby' informally for temporary, incomplete code placeholders.",
+    "commonMistake": "Confusing 'stubby' code with 'modular' code (which is purposefully small).",
+    "collocations": [
+      "stubby function",
+      "stubby placeholder"
+    ]
+  },
+  {
+    "word": "Stubby",
+    "meaning": "Short and thick; often used for small, incomplete code pieces (stubs).",
+    "shortMeaning": "short or incomplete",
+    "example": "The stubby code only returns a static value for testing.",
+    "example2": "We use stubby functions to fill in missing parts.",
+    "example3": "The wire on the sensor is quite stubby.",
+    "Explanation": "In general English, 'stubby' means short and thick. In IT, it is sometimes used informally to describe 'stubs'—placeholder code that doesn't do much yet but allows a program to compile. While it's not a standard formal term, it is used in developer slang for incomplete or temporary code segments. Be careful using it in formal documentation; 'stub' is the preferred technical noun. Use 'stubby' mainly for physical items or informal descriptions of code blocks.",
+    "synonyms": [
+      "short",
+      "thick",
+      "incomplete"
+    ],
+    "antonyms": [
+      "long",
+      "slender",
+      "complete"
+    ],
+    "nounForm": "stub",
+    "verbForm": "stub",
+    "adjectiveForm": "stubby",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, coding (slang)",
+    "usageTip": "Use 'stubby' for small placeholders or short, thick objects.",
+    "commonMistake": "Using 'stubby' in formal documentation; use 'stub' instead.",
+    "collocations": [
+      "stubby code",
+      "stubby function"
+    ]
+  }
+]

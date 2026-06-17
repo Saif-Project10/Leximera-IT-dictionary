@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Alarming",
+    "meaning": "Causing worry, fear, or concern.",
+    "shortMeaning": "worrying; frightening",
+    "example": "There has been an alarming increase in pollution levels.",
+    "example2": "The news report was truly alarming.",
+    "example3": "He ran into the room with an alarming look on his face.",
+    "Explanation": "'Alarming' is an adjective that describes something that serves as a warning or causes sudden anxiety. It is stronger than 'concerning'. The verb form is 'alarm'. The word often precedes statistics or trends that signal a serious problem. It is used in news, reports, and everyday conversation to highlight danger or a negative development that requires attention. The goal is to provoke a response to the perceived threat.",
+    "synonyms": [
+      "disturbing",
+      "frightening",
+      "worrying",
+      "shocking"
+    ],
+    "antonyms": [
+      "reassuring",
+      "comforting",
+      "calming"
+    ],
+    "nounForm": "alarm",
+    "verbForm": "alarm",
+    "adjectiveForm": "alarming",
+    "partOfSpeech": "adjective",
+    "commonContext": "News, statistics, behavior, trends",
+    "usageTip": "Use 'alarming' to describe something that should cause people to be concerned or take action.",
+    "commonMistake": "Confusing 'alarming' (causing fear) with 'alerting' (informing or warning).",
+    "collocations": [
+      "alarming rate",
+      "find it alarming",
+      "alarming trend",
+      "alarming news"
+    ]
+  },
+  {
+    "word": "Alarming",
+    "meaning": "Causing worry, fear, or urgent concern due to a sudden problem",
+    "shortMeaning": "worrying or shocking",
+    "example": "The server dashboard showed an alarming spike in CPU temperature.",
+    "example2": "There has been an alarming increase in corporate phishing attacks lately.",
+    "example3": "The automated security system triggered an alarming warning notification.",
+    "Explanation": "The word 'alarming' is an adjective used to describe metrics, trends, or errors that indicate an immediate, serious problem. In IT operations, data center management, and cybersecurity monitoring, seeing 'alarming data' (like sudden massive traffic drops or extreme data extraction) requires immediate investigation by engineers. It highlights urgency and potential crisis, prompting technical teams to take immediate corrective action.",
+    "synonyms": [
+      "worrying",
+      "concerning",
+      "shocking"
+    ],
+    "antonyms": [
+      "reassuring",
+      "comforting",
+      "normal"
+    ],
+    "nounForm": "alarm",
+    "verbForm": "alarm",
+    "adjectiveForm": "alarming",
+    "partOfSpeech": "adjective",
+    "commonContext": "System error logs, security incident dashboards, and trend analysis",
+    "usageTip": "Use 'alarming' to highlight critical problems or unexpected statistical anomalies that require instant attention.",
+    "commonMistake": "Using 'alarming' for minor, expected errors like a single mistyped user password.",
+    "collocations": [
+      "alarming rate",
+      "alarming spike",
+      "alarming trend"
+    ]
+  }
+]

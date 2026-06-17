@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Deleted",
+    "meaning": "Erased, removed, or struck out, especially from a document, computer file, or recording. | Removed or erased, especially from a computer or document.",
+    "shortMeaning": "erased or removed permanently",
+    "example": "I accidentally deleted the important email.",
+    "example2": "The scene was deleted from the final cut of the film.",
+    "example3": "Deleted files often remain in the recycle bin.",
+    "Explanation": "'Deleted' is the past tense and past participle of 'delete.' It specifically refers to the act of erasing or removing something so it is no longer present or accessible, particularly in digital or written contexts. In computing, deleting a file often marks its space as available but doesn't immediately erase the data. The term carries a sense of finality, though recovery may be possible. A common mistake is using it for physical removal where 'removed' or 'discarded' is better. This word is central to data management, editing, and digital hygiene, representing a deliberate act of removal.",
+    "synonyms": [
+      "Erased",
+      "Expunged",
+      "Removed",
+      "Stricken",
+      "Struck Out",
+      "Wiped"
+    ],
+    "antonyms": [
+      "Added",
+      "Inserted",
+      "Restored",
+      "Retained",
+      "Saved"
+    ],
+    "nounForm": "deletion",
+    "verbForm": "delete",
+    "adjectiveForm": "deleted",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Computing, writing, film editing, and records management.",
+    "usageTip": "Use 'delete' for digital erasure or striking out text. Use 'remove' for taking something from a physical place or list.",
+    "commonMistake": "Thinking 'deleted' means instantly and forever gone; in many systems, it's a reversible action until overwritten.",
+    "collocations": [
+      "permanently deleted",
+      "delete key",
+      "deleted scene"
+    ]
+  },
+  {
+    "word": "Deleted",
+    "meaning": "Removed or erased from existence",
+    "shortMeaning": "removed",
+    "example": "The file was accidentally deleted by the user.",
+    "example2": "Please ensure the deleted item is removed from the list.",
+    "example3": "He deleted the old logs to save space.",
+    "Explanation": "The word 'deleted' means something was removed completely. In computer systems, 'deleted' sometimes just means it is hidden and marked for overwriting, not actually wiped off the disk. It is the most common IT action. Be careful with 'deleted' actions—always implement a 'confirm' prompt for users to avoid accidental data loss.",
+    "synonyms": [
+      "removed",
+      "erased",
+      "cleared"
+    ],
+    "antonyms": [
+      "created",
+      "saved",
+      "retained"
+    ],
+    "nounForm": "deletion",
+    "verbForm": "delete",
+    "adjectiveForm": "deleted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "File management and data handling",
+    "usageTip": "Use 'deleted' for removal actions.",
+    "commonMistake": "Confusing 'deleted' with 'hidden'.",
+    "collocations": [
+      "deleted file",
+      "accidentally deleted",
+      "permanently deleted"
+    ]
+  }
+]

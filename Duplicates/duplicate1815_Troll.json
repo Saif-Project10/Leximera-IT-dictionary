@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Troll",
+    "meaning": "A person who posts annoying or rude messages online to upset others",
+    "shortMeaning": "online troublemaker",
+    "example": "Don't reply to him; he's just an internet troll.",
+    "example2": "The forum had to ban several trolls yesterday.",
+    "example3": "The celebrity was targeted by a group of trolls on social media.",
+    "Explanation": "A troll is an individual who intentionally starts arguments or upsets people on the internet by posting inflammatory, off-topic, or offensive comments. Their main goal is to get an emotional reaction from others. Trolling can happen on social media, in comment sections, or in online games. It is considered a form of harassment and can ruin online communities. The common advice for dealing with them is 'don't feed the trolls,' meaning do not give them the attention they crave. Modern platforms use both human moderators and AI tools to manage them. The word can be used as a noun for the person or a verb for the action.",
+    "synonyms": [
+      "harasser",
+      "provocateur",
+      "troublemaker"
+    ],
+    "antonyms": [
+      "supporter",
+      "moderator",
+      "helper"
+    ],
+    "nounForm": "troll",
+    "verbForm": "troll",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Social media and online forums",
+    "usageTip": "Use this to describe someone whose goal is purely to annoy, not to debate.",
+    "commonMistake": "Calling anyone you disagree with a 'troll'; a troll must be intentionally disruptive.",
+    "collocations": [
+      "internet troll",
+      "don't feed the trolls",
+      "troll account"
+    ]
+  },
+  {
+    "word": "Troll",
+    "meaning": "A person who deliberately posts annoying, inflammatory, or off-topic comments online to upset others or disrupt web community platforms",
+    "shortMeaning": "disruptive online poster",
+    "example": "The community moderator banned an anonymous troll for posting insulting comments in the code chat forum.",
+    "example2": "It is best to ignore internet comment feeds that are clearly written to troll community developers.",
+    "example3": "Our web app needs an automated filter to block any user who acts like a forum troll.",
+    "Explanation": "The word 'troll' acts as both a noun and a verb, defining disruptive digital behaviors on internet forums, social apps, and open-source project issue trackers. A troll aims to provoke emotional arguments rather than offering constructive feedback or reporting real bugs. Web community administrators use automated moderation algorithms, user reporting features, and temporary ban bans to keep community comment feeds helpful and professional. It highlights the human management challenges inside web platforms.",
+    "synonyms": [
+      "provocateur",
+      "disrupter",
+      "harasser",
+      "baiter"
+    ],
+    "antonyms": [
+      "helper",
+      "supporter",
+      "moderator"
+    ],
+    "nounForm": "troll",
+    "verbForm": "troll",
+    "adjectiveForm": "trolling",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Online community moderation, social media applications, developer forum rules",
+    "usageTip": "Apply 'troll' when defining toxic, unhelpful user behaviors that violate web platform terms of service rules.",
+    "commonMistake": "Labeling a user as a troll when they are simply providing a strict, negative review about a broken software feature.",
+    "collocations": [
+      "internet troll",
+      "troll online forums",
+      "don't feed the troll"
+    ]
+  }
+]

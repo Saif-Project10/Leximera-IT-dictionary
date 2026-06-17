@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Multicast",
+    "meaning": "A method of sending network data from one source to a specific group of multiple destinations simultaneously.",
+    "shortMeaning": "one-to-many-group sending",
+    "example": "The company used multicast to stream the CEO's speech to all employees at once.",
+    "example2": "Multicast is much more efficient than sending separate data to every user.",
+    "example3": "Internet TV providers often rely on multicast to deliver channels to viewers.",
+    "Explanation": "Multicast is a 'middle ground' between unicast (one-to-one) and broadcast (one-to-all). Imagine a radio station: only the people who tune their radio to that specific station receive the sound. In networking, a source sends only *one* copy of the data, and the routers along the way replicate it only for the people who have 'joined' the group. This saves a massive amount of bandwidth. It is used for stock market data, online gaming updates, and live video streaming. Without multicast, a live stream with a million viewers would crash most networks. It uses a specific range of IP addresses.",
+    "synonyms": [
+      "group communication",
+      "one-to-many transmission"
+    ],
+    "antonyms": [
+      "unicast",
+      "broadcast",
+      "anycast"
+    ],
+    "nounForm": "multicast",
+    "verbForm": "multicast",
+    "adjectiveForm": "multicasted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Streaming, networking, and enterprise video",
+    "usageTip": "Use 'multicast' when talking about sending the same data to a specific group of people at the same time.",
+    "commonMistake": "Thinking multicast is the same as 'broadcast'; broadcast goes to *everyone* on the network, even if they don't want it.",
+    "collocations": [
+      "IP multicast",
+      "multicast traffic",
+      "enable multicast"
+    ]
+  },
+  {
+    "word": "Multicast",
+    "meaning": "Sending data to a specific group of recipients at once",
+    "shortMeaning": "group delivery",
+    "example": "The video stream uses multicast technology.",
+    "example2": "Multicast packets reduce network traffic significantly.",
+    "example3": "The server is configured for multicast distribution.",
+    "Explanation": "Multicast is a network communication method where data is sent from one source to a selected group of destination addresses simultaneously. It is much more efficient than 'unicast' (where you send data to each person one by one) or 'broadcast' (where you send it to everyone). It is commonly used for streaming live media or broadcasting network updates, as it saves bandwidth by ensuring the data is only sent once over the main network.",
+    "synonyms": [
+      "group-cast",
+      "one-to-many"
+    ],
+    "antonyms": [
+      "unicast",
+      "broadcast"
+    ],
+    "nounForm": "multicast",
+    "verbForm": "multicast",
+    "adjectiveForm": "multicast",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Networking, streaming, protocols",
+    "usageTip": "Use 'multicast' for efficient group data transmission.",
+    "commonMistake": "Confusing 'multicast' with 'broadcast' (multicast is targeted).",
+    "collocations": [
+      "multicast stream",
+      "multicast distribution",
+      "multicast packets"
+    ]
+  },
+  {
+    "word": "Multicast",
+    "meaning": "To send a single message or data stream to a specific group of recipients simultaneously",
+    "shortMeaning": "one-to-many delivery",
+    "example": "The server uses multicast to send the video stream to all employees at once.",
+    "example2": "Multicast is more efficient than sending individual copies of data.",
+    "example3": "We need to enable multicast on the router for the online meeting.",
+    "Explanation": "Multicast is a networking technique used to send data from one source to many destinations at the same time. Unlike 'broadcast' (which sends to everyone) or 'unicast' (which sends to one person), multicast only sends to those who have requested the data. This saves a lot of bandwidth because the network only carries one copy of the data until it needs to split off for the users. It is commonly used for IPTV, video conferencing, and stock market data feeds. It is an efficient way to handle 'one-to-many' communication in large networks.",
+    "synonyms": [
+      "group communication",
+      "one-to-many transmission",
+      "N/A"
+    ],
+    "antonyms": [
+      "unicast",
+      "broadcast",
+      "N/A"
+    ],
+    "nounForm": "multicasting",
+    "verbForm": "multicast",
+    "adjectiveForm": "multicast",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Computer networking, streaming, and telecommunications",
+    "usageTip": "Use 'multicast' when discussing efficient data distribution to a group.",
+    "commonMistake": "Confusing it with 'broadcast'; broadcast goes to everyone, multicast is for a specific group.",
+    "collocations": [
+      "multicast group",
+      "multicast address",
+      "multicast stream"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Sign",
+    "meaning": "A gesture, signal, or marker indicating something",
+    "shortMeaning": "a marker",
+    "example": "The red light is a sign that the server is down.",
+    "example2": "His code bears the sign of an expert developer.",
+    "example3": "The error message is a sign of a bad request.",
+    "Explanation": "A sign is an indicator, marker, or gesture that conveys information. In IT, a sign can be a system indicator light, a visual icon, or an indication of an underlying problem, such as a log entry being a 'sign' of a potential crash. It provides early warning or status information. Understanding signs helps in monitoring systems and diagnosing issues before they escalate.",
+    "synonyms": [
+      "indicator",
+      "marker",
+      "signal"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "sign",
+    "verbForm": "sign",
+    "adjectiveForm": "signed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Monitoring, UI/UX, diagnostics",
+    "usageTip": "Use 'sign' when referring to indicators or evidence of a state.",
+    "commonMistake": "Confusing 'sign' with 'signature'.",
+    "collocations": [
+      "sign of success",
+      "sign of error",
+      "indicator sign"
+    ]
+  },
+  {
+    "word": "Sign",
+    "meaning": "To apply a unique mathematical or cryptographic mark to a dataset or file to prove its authenticity",
+    "shortMeaning": "cryptographically authenticate data",
+    "example": "You must cryptographically sign the data packets before transmitting them across the public web server network.",
+    "example2": "The developer will sign the update patch so that client applications can verify it came from a trusted source.",
+    "example3": "Our software system uses a private key to sign token strings issued to authenticated users.",
+    "Explanation": "The word 'Sign' in the IT domain refers to digital signature processes. It does not mean writing a physical signature with a pen. Instead, it involves running data through a mathematical algorithm using a private cryptographic key. The resulting unique signature proves two critical things: the data originates from the actual sender (authenticity), and the data has not been modified or corrupted during transit (integrity).",
+    "synonyms": [
+      "authenticate",
+      "endorse digitally",
+      "seal cryptographically"
+    ],
+    "antonyms": [
+      "invalidate",
+      "forge",
+      "N/A"
+    ],
+    "nounForm": "signature",
+    "verbForm": "sign",
+    "adjectiveForm": "signed",
+    "partOfSpeech": "verb",
+    "commonContext": "Cryptographic operations, API communication security, and user authentication tokens",
+    "usageTip": "Use 'sign' when discussing backend security procedures that attach a validation hash to data packages using cryptographic keys.",
+    "commonMistake": "Thinking that 'signing' data means encrypting it to make it hidden; signing only proves who sent the data and that it remains unaltered.",
+    "collocations": [
+      "sign a token",
+      "digitally sign data",
+      "sign with a private key"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Command and control",
+    "meaning": "A management style or system where a central authority makes decisions and gives orders to others",
+    "shortMeaning": "top-down management",
+    "example": "The military uses a strict command and control structure.",
+    "example2": "Modern tech companies are moving away from command and control toward 'agile' teams.",
+    "example3": "In a crisis, a command and control approach can be more effective than a long discussion.",
+    "Explanation": "Command and control (C2) is a traditional way of organizing a group. The leader has all the power and the workers follow instructions exactly. While it is very efficient for the military or emergency services, it can be slow in creative industries. In computing, it also refers to a 'Command and Control Server' used by hackers to send orders to infected computers (botnets). This term emphasizes authority, hierarchy, and clear communication lines. It is often criticized for killing innovation but praised for its clarity in dangerous situations.",
+    "synonyms": [
+      "centralized management",
+      "dictatorship (extreme)",
+      "top-down"
+    ],
+    "antonyms": [
+      "decentralization",
+      "collaboration",
+      "bottom-up"
+    ],
+    "nounForm": "command",
+    "verbForm": "command and control",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Military, business management, and cybersecurity",
+    "usageTip": "Use 'command and control' when describing a system where one person or server is the 'boss.'",
+    "commonMistake": "Using it as a positive term in 'creative' business; today, it is often viewed as old-fashioned.",
+    "collocations": [
+      "command and control center",
+      "command and control server",
+      "strict command and control"
+    ]
+  },
+  {
+    "word": "Command and control",
+    "meaning": "A central authority or system that manages and directs other devices or software",
+    "shortMeaning": "central management",
+    "example": "The botnet is managed by a remote command and control server.",
+    "example2": "Modern software architecture is moving away from strict command and control models.",
+    "example3": "The manager uses a command and control style that doesn't suit the creative team.",
+    "Explanation": "In cybersecurity, 'Command and Control' (C2) refers to the infrastructure used by hackers to send instructions to infected computers (bots). In a business sense, it describes a management style where one person makes all the decisions and everyone else follows. While C2 is necessary for military or botnet operations, it is often criticized in modern software teams as being too rigid. It represents a top-down approach where all power is held in a central location.",
+    "synonyms": [
+      "centralized management",
+      "C2",
+      "top-down control"
+    ],
+    "antonyms": [
+      "decentralized",
+      "autonomous"
+    ],
+    "nounForm": "command and control",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Cybersecurity and organizational management",
+    "usageTip": "Use this term when discussing the 'brain' that directs a distributed network.",
+    "commonMistake": "Thinking 'Command and Control' is always a good thing; in management, it's often viewed negatively.",
+    "collocations": [
+      "C2 server",
+      "command and control center"
+    ]
+  }
+]

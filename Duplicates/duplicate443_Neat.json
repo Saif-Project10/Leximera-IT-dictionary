@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Neat",
+    "meaning": "Arranged in an orderly, clean, and simple way; clever and effective.",
+    "shortMeaning": "orderly and clean; clever",
+    "example": "She has very neat handwriting.",
+    "example2": "That's a neat solution to the problem!",
+    "example3": "He kept his tools in a neat row.",
+    "Explanation": "Neat is an adjective with two main uses. First, it describes something that is tidy, clean, and pleasingly simple in arrangement (a neat room). Second, in informal American English, it means excellent, clever, or cool ('That's a neat idea!'). It often implies precision and care. A common mistake is using it too formally in its 'cool' sense. The noun is 'neatness.' This word is positive and widely used. For physical spaces, it's very similar to 'tidy,' but can also describe abstract things like ideas or tricks with admiration for their simplicity and effectiveness.",
+    "synonyms": [
+      "tidy",
+      "orderly",
+      "trim",
+      "clever",
+      "ingenious (informal)"
+    ],
+    "antonyms": [
+      "messy",
+      "sloppy",
+      "disorderly",
+      "complicated"
+    ],
+    "nounForm": "neatness",
+    "verbForm": "N/A",
+    "adjectiveForm": "neat",
+    "partOfSpeech": "adjective",
+    "commonContext": "Handwriting, appearance, solutions, and informal praise.",
+    "usageTip": "In informal US English, 'neat' can express approval, like 'cool' or 'great.'",
+    "commonMistake": "Using 'neat' in very formal writing to mean 'cool'; use 'clever' or 'elegant' instead.",
+    "collocations": [
+      "neat and tidy",
+      "neat freak",
+      "neat trick"
+    ]
+  },
+  {
+    "word": "Neat",
+    "meaning": "Arranged in an orderly and tidy way",
+    "shortMeaning": "orderly",
+    "example": "He keeps his code neat and well-commented.",
+    "example2": "The wiring in the server room is very neat.",
+    "example3": "A neat workspace helps improve productivity.",
+    "Explanation": "The word 'neat' refers to something being clean, organized, and tidy. In IT, 'neat code' is highly valued because it is easier to read, maintain, and debug. It implies that the developer cares about the structure and presentation of their work. A neat system, whether it is physical hardware or digital code, is generally easier to manage and less prone to errors. It is a positive term often used to praise professional habits.",
+    "synonyms": [
+      "tidy",
+      "orderly",
+      "organized"
+    ],
+    "antonyms": [
+      "messy",
+      "disorganized",
+      "cluttered"
+    ],
+    "nounForm": "neatness",
+    "verbForm": "N/A",
+    "adjectiveForm": "neat",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding, organization, hardware management",
+    "usageTip": "Use 'neat' to describe well-organized code or workspaces.",
+    "commonMistake": "Confusing 'neat' with 'clean', although they are often used interchangeably.",
+    "collocations": [
+      "neat code",
+      "neat wiring",
+      "neat structure"
+    ]
+  }
+]

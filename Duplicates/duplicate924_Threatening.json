@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Threatening",
+    "meaning": "Suggesting that something bad, harmful, or dangerous may happen",
+    "shortMeaning": "menacing",
+    "example": "He received a threatening letter.",
+    "example2": "The dark clouds looked threatening.",
+    "example3": "Her tone of voice was threatening.",
+    "Explanation": "'Threatening' is an adjective describing something that implies a potential harm or danger. It can refer to people's behavior, weather, situations, or language. The word creates a sense of fear or unease. It comes from the verb 'threaten'. In legal contexts, 'threatening behavior' is a serious matter. It is important to distinguish it from simply being assertive or firm.",
+    "synonyms": [
+      "menacing",
+      "intimidating",
+      "ominous"
+    ],
+    "antonyms": [
+      "reassuring",
+      "friendly",
+      "safe"
+    ],
+    "nounForm": "threat",
+    "verbForm": "threaten",
+    "adjectiveForm": "threatening",
+    "partOfSpeech": "adjective",
+    "commonContext": "Weather forecasts, personal safety, conflicts, legal issues",
+    "usageTip": "Use 'threatening' to describe actions, words, or appearances that suggest harm is possible.",
+    "commonMistake": "Confusing 'threatening' with 'promising', which has a positive connotation.",
+    "collocations": [
+      "threatening behavior",
+      "threatening clouds",
+      "threatening letter"
+    ]
+  },
+  {
+    "word": "Threatening",
+    "meaning": "Expressing or indicating a danger or risk",
+    "shortMeaning": "dangerous or harmful",
+    "example": "The security system detected threatening network traffic.",
+    "example2": "We received a threatening email from an unknown source.",
+    "example3": "The software blocks threatening files automatically.",
+    "Explanation": "Threatening refers to something that poses a potential danger or harm to a system, user, or network. In cybersecurity, this is a common term used to describe malware, unauthorized access attempts, or malicious actors. Recognizing threatening behavior is the first step in digital protection. Security software and firewalls are designed to identify and isolate these threats. It is a serious term that implies an urgent need for response or mitigation.",
+    "synonyms": [
+      "malicious",
+      "dangerous",
+      "risky"
+    ],
+    "antonyms": [
+      "safe",
+      "benign",
+      "secure"
+    ],
+    "nounForm": "threat",
+    "verbForm": "threaten",
+    "adjectiveForm": "threatening",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, network monitoring",
+    "usageTip": "Use when referring to malicious activity or risks.",
+    "commonMistake": "Overusing it for minor glitches; use it for security risks.",
+    "collocations": [
+      "threatening traffic",
+      "threatening behavior",
+      "threatening activity"
+    ]
+  },
+  {
+    "word": "Threatening",
+    "meaning": "Expressing an intention to harm or cause damage",
+    "shortMeaning": "risky or harmful",
+    "example": "The system blocked the threatening connection attempt.",
+    "example2": "There was a threatening spike in network traffic.",
+    "example3": "The report identified several threatening security vulnerabilities.",
+    "Explanation": "The word 'threatening' describes something that presents a danger or risk. In IT, this usually refers to malicious activity, such as viruses, hackers, or suspicious data patterns. It is a serious term that implies an immediate risk to the security or stability of the network. Use it to clearly identify threats. Always define what is being threatened so that administrators understand the severity of the situation.",
+    "synonyms": [
+      "malicious",
+      "risky",
+      "dangerous"
+    ],
+    "antonyms": [
+      "safe",
+      "benign",
+      "secure"
+    ],
+    "nounForm": "threat",
+    "verbForm": "threaten",
+    "adjectiveForm": "threatening",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, network monitoring",
+    "usageTip": "Use 'threatening' to describe dangerous activities or vulnerabilities.",
+    "commonMistake": "Confusing 'threatening' with 'aggressive' (threatening involves harm; aggressive is just intense).",
+    "collocations": [
+      "threatening activity",
+      "threatening connection",
+      "threatening vulnerability"
+    ]
+  }
+]

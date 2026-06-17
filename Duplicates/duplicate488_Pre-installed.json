@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Pre-installed",
+    "meaning": "Installed on a device or system before it is sold or delivered to the user.",
+    "shortMeaning": "already installed",
+    "example": "The new laptop comes with pre-installed antivirus software.",
+    "example2": "Many smartphones have pre-installed apps that cannot be removed.",
+    "example3": "The operating system was pre-installed at the factory.",
+    "Explanation": "'Pre-installed' is an adjective describing software, applications, or sometimes hardware components that are already in place when a consumer receives a product. This is common with computers, phones, and cars. It can be a convenience, saving the user installation time, but can also be seen as 'bloatware' if the software is unwanted and takes up space. The term emphasizes that the installation was part of the manufacturing or preparation process, not done by the end-user. It's a standard term in the tech industry.",
+    "synonyms": [
+      "factory-installed",
+      "built-in",
+      "included software",
+      "bundled"
+    ],
+    "antonyms": [
+      "user-installed",
+      "aftermarket",
+      "optional",
+      "removable"
+    ],
+    "nounForm": "pre-installation",
+    "verbForm": "pre-install",
+    "adjectiveForm": "pre-installed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Consumer electronics, software, automotive",
+    "usageTip": "Hyphenated when used as an adjective before a noun: 'pre-installed apps'. Can be written without hyphen after a verb: 'The software was preinstalled.'",
+    "commonMistake": "Confusing it with 'pre-set'; pre-installed refers to software being present, pre-set refers to configurations being predefined.",
+    "collocations": [
+      "pre-installed software",
+      "pre-installed apps",
+      "comes pre-installed",
+      "remove pre-installed"
+    ]
+  },
+  {
+    "word": "Pre-installed",
+    "meaning": "Installed on a device before it is sold or delivered to the user.",
+    "shortMeaning": "installed ahead of time",
+    "example": "The OS comes pre-installed on this machine.",
+    "example2": "Many laptops include pre-installed security software.",
+    "example3": "The developer tool was already pre-installed in the environment.",
+    "Explanation": "'Pre-installed' describes software that is already sitting on the device when you first turn it on. This is meant to give the user immediate functionality without them having to download and install things manually. While convenient, some users dislike 'bloatware' that comes pre-installed. It is standard for the operating system and essential drivers, but can sometimes include unwanted marketing software. It is a common point of discussion in consumer and enterprise hardware reviews.",
+    "synonyms": [
+      "bundled",
+      "factory-installed",
+      "ready-to-use"
+    ],
+    "antonyms": [
+      "manual-install",
+      "downloadable"
+    ],
+    "nounForm": "installation",
+    "verbForm": "install",
+    "adjectiveForm": "pre-installed",
+    "partOfSpeech": "adjective",
+    "commonContext": "OS management, hardware, consumer tech",
+    "usageTip": "Use when describing software included on a machine at purchase.",
+    "commonMistake": "Confusing 'pre-installed' with 'pre-configured'.",
+    "collocations": [
+      "pre-installed software",
+      "pre-installed OS",
+      "comes pre-installed"
+    ]
+  }
+]

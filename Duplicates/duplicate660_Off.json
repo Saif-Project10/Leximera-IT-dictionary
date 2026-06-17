@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Off",
+    "meaning": "1. Away from a place or position. 2. Not operating or functioning. 3. Below the usual standard.",
+    "shortMeaning": "away from; not on",
+    "example": "He took his coat off.",
+    "example2": "Please turn the lights off.",
+    "example3": "The milk tastes a bit off.",
+    "Explanation": "'Off' is a highly versatile word functioning as an adverb, preposition, adjective, and even a noun. Its core meaning is separation or departure from a place, state, or condition. It indicates deactivation (turn off), distance (miles off), removal (cut off), or that something is not fresh or correct (off day). It is used in countless phrasal verbs and idioms. It's a small but essential word in English.",
+    "synonyms": [
+      "away",
+      "out",
+      "disconnected",
+      "below par"
+    ],
+    "antonyms": [
+      "on",
+      "connected",
+      "fresh",
+      "normal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "off",
+    "partOfSpeech": "adverb, preposition, adjective",
+    "commonContext": "Switches, directions, food, sports,状态",
+    "usageTip": "Use 'off' to indicate moving away, stopping operation, or something not being right.",
+    "commonMistake": "Confusing 'off of' (colloquial, especially American) with standard 'off' or 'from'.",
+    "collocations": [
+      "turn off",
+      "off and on",
+      "take off",
+      "off the coast"
+    ]
+  },
+  {
+    "word": "Off",
+    "meaning": "Not operating or switched to a disconnected state",
+    "shortMeaning": "disconnected / down",
+    "example": "The server was turned off for maintenance.",
+    "example2": "The power supply is off.",
+    "example3": "The feature is currently off in the config file.",
+    "Explanation": "The word 'off' is a simple but important term that describes a state of being disconnected, powered down, or disabled. In IT, 'off' can refer to a hardware device (like a router being turned off), a service (like a background process being off), or a configuration setting (a flag being set to false). It is the binary opposite of 'on'. Being aware of whether a system or component is 'off' is the very first step in any troubleshooting process.",
+    "synonyms": [
+      "down",
+      "deactivated",
+      "disabled"
+    ],
+    "antonyms": [
+      "on",
+      "active",
+      "enabled"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "off",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Hardware, power, and settings",
+    "usageTip": "Use 'off' to describe something that is not running or active.",
+    "commonMistake": "Assuming 'off' means 'broken' (it might be intentionally off).",
+    "collocations": [
+      "turned off",
+      "switch off"
+    ]
+  }
+]

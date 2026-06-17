@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Handle",
+    "meaning": "To deal with or manage a situation, person, or problem.",
+    "shortMeaning": "deal with or manage",
+    "example": "She knows how to handle difficult customers.",
+    "example2": "Can you handle the responsibility?",
+    "example3": "The software can handle large amounts of data.",
+    "Explanation": "Handle is a versatile verb meaning to manage, control, or deal with something effectively. It implies competence and the ability to take charge of a situation, task, or object. It can be physical (handle a tool) or abstract (handle stress). The noun 'handle' refers to a part of an object designed to be held. A common mistake is using it too vaguely; 'handle' suggests active management, not just experiencing something. This word is crucial in contexts of responsibility, crisis management, and everyday tasks, conveying a sense of capability and control.",
+    "synonyms": [
+      "manage",
+      "deal with",
+      "tackle",
+      "address",
+      "control"
+    ],
+    "antonyms": [
+      "mishandle",
+      "bungle",
+      "neglect",
+      "avoid"
+    ],
+    "nounForm": "handle (as an object)",
+    "verbForm": "handle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Customer service, problem-solving, responsibility, and physical objects.",
+    "usageTip": "Use 'handle' when you want to emphasize someone's ability to manage a situation skillfully.",
+    "commonMistake": "Saying 'handle with' unnecessarily (e.g., 'Handle with the situation' should be 'Handle the situation').",
+    "collocations": [
+      "handle with care",
+      "can't handle",
+      "handle pressure"
+    ]
+  },
+  {
+    "word": "Handle",
+    "meaning": "To manage, control, or deal with a specific situation or object",
+    "shortMeaning": "manage or deal with",
+    "example": "The server can handle thousands of users at the same time.",
+    "example2": "You need to learn how to handle difficult customers.",
+    "example3": "Be careful when you handle the delicate hardware components.",
+    "Explanation": "In IT, 'handle' often refers to the way a program manages an event, a piece of data, or a connection. It implies taking responsibility for an incoming signal and deciding what to do next. For example, a web server 'handles' a request by sending back a webpage. It is a very common verb used in software architecture to describe the flow of logic. Understanding how to handle different scenarios is a key part of stable programming.",
+    "synonyms": [
+      "manage",
+      "process",
+      "control"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "fail"
+    ],
+    "nounForm": "handle",
+    "verbForm": "handle",
+    "adjectiveForm": "handled",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming, hardware maintenance, and management",
+    "usageTip": "Use 'handle' when describing how a system reacts to a specific input or event.",
+    "commonMistake": "Using 'handle' only for physical objects; in tech, it is mostly for data and events.",
+    "collocations": [
+      "handle with care",
+      "handle a situation",
+      "handle a request"
+    ]
+  }
+]

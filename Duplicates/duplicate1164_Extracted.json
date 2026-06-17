@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Extracted",
+    "meaning": "Removed or taken out, especially with effort.",
+    "shortMeaning": "removed; taken out",
+    "example": "The dentist extracted the damaged tooth.",
+    "example2": "Information was extracted from the documents.",
+    "example3": "Oil is extracted from underground reservoirs.",
+    "Explanation": "'Extracted' is the past tense and past participle of 'extract', meaning to remove, take out, or obtain something, often with effort or force. It can refer to physical removal (tooth extraction), obtaining substances (extracting juice), or deriving information (extracting data). The process typically involves separating something from its source. The noun form is 'extraction'. It's used in dentistry, mining, data processing, cooking, and many other contexts. The word implies that something valuable or needed is being retrieved from a larger whole or difficult location.",
+    "synonyms": [
+      "removed",
+      "taken out",
+      "derived",
+      "obtained"
+    ],
+    "antonyms": [
+      "inserted",
+      "added",
+      "put in",
+      "implanted"
+    ],
+    "nounForm": "extraction",
+    "verbForm": "extract",
+    "adjectiveForm": "extracted",
+    "partOfSpeech": "verb (past tense/participle), adjective",
+    "commonContext": "Dentistry, mining, data analysis, cooking, chemistry",
+    "usageTip": "Often followed by 'from': 'extracted from the ground', 'extracted from the text'.",
+    "commonMistake": "Confusing with 'abstracted' which means theoretical or removed in thought. Extracted means physically or literally removed.",
+    "collocations": [
+      "extracted from",
+      "extracted teeth",
+      "extracted information"
+    ]
+  },
+  {
+    "word": "Extracted",
+    "meaning": "Removed or taken out from a specific source.",
+    "shortMeaning": "taken out",
+    "example": "The information was extracted from the database.",
+    "example2": "He extracted the files from the compressed folder.",
+    "example3": "The key value was extracted successfully.",
+    "Explanation": "The word 'extracted' is the past participle of the verb 'extract'. It signifies the completion of the action of removing something from a larger whole. In programming, it is commonly used to describe the process of pulling specific data points from raw input or logs. It implies a successful operation where the desired content has been isolated. Always check that your extraction logic is sound to avoid incomplete data.",
+    "synonyms": [
+      "removed",
+      "retrieved",
+      "pulled"
+    ],
+    "antonyms": [
+      "inserted",
+      "embedded"
+    ],
+    "nounForm": "extraction",
+    "verbForm": "extract",
+    "adjectiveForm": "extracted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Databases, file handling, programming",
+    "usageTip": "Use 'extracted' to refer to data that has already been pulled.",
+    "commonMistake": "Using 'extracted' when the process is still ongoing (use 'extracting').",
+    "collocations": [
+      "extracted data",
+      "extracted from",
+      "successfully extracted"
+    ]
+  }
+]

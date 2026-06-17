@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Lock-free",
+    "meaning": "Designed to work without stopping other threads using locks",
+    "shortMeaning": "non-blocking",
+    "example": "The team implemented a lock-free stack to improve performance.",
+    "example2": "Lock-free algorithms are essential for modern multi-core processors.",
+    "example3": "It is difficult to test lock-free code for rare race conditions.",
+    "Explanation": "The adjective 'lock-free' refers to a specific type of concurrent data structure or algorithm. A lock-free system ensures that even if one thread is suspended or fails, other threads can still complete their operations. This is achieved using atomic 'read-modify-write' operations. Lock-free designs are highly sought after in systems that need to be 'real-time' or 'low-latency.' While they are faster and safer from deadlocks, they are extremely complex to design because they must account for every possible way threads could overlap. It is the gold standard for high-performance threading.",
+    "synonyms": [
+      "non-blocking",
+      "mutex-free",
+      "lockless"
+    ],
+    "antonyms": [
+      "lock-based",
+      "blocking"
+    ],
+    "nounForm": "lock-freedom",
+    "verbForm": "N/A",
+    "adjectiveForm": "lock-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Parallel computing and low-level software",
+    "usageTip": "Use the hyphen (lock-free) when it describes a noun, like 'lock-free queue'.",
+    "commonMistake": "Thinking 'lock-free' means 'thread-safe' without any extra effort; it still requires careful design.",
+    "collocations": [
+      "lock-free queue",
+      "lock-free stack",
+      "lock-free data structure"
+    ]
+  },
+  {
+    "word": "Lock-free",
+    "meaning": "Concurrent programming without using locks",
+    "shortMeaning": "no-lock design",
+    "example": "He implemented a lock-free data structure.",
+    "example2": "Lock-free algorithms improve performance in multithreading.",
+    "example3": "Lock-free coding prevents deadlocks in complex systems.",
+    "Explanation": "Lock-free refers to a specific, advanced method in concurrent programming where threads can modify data without using locks (like mutexes). This design helps prevent common issues such as deadlocks and performance delays caused by thread synchronization. It is a high-level topic in computer science used when building very fast, reliable software. Designing lock-free systems is challenging and requires a deep understanding of hardware-level atomicity and CPU instructions.",
+    "synonyms": [
+      "non-blocking",
+      "atomic"
+    ],
+    "antonyms": [
+      "locked",
+      "blocking"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "lock-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Concurrency, algorithms, systems programming",
+    "usageTip": "Use to describe high-performance, non-blocking code.",
+    "commonMistake": "Assuming lock-free means it is easy to program.",
+    "collocations": [
+      "lock-free algorithm",
+      "lock-free programming",
+      "lock-free structure"
+    ]
+  }
+]

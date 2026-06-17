@@ -1,0 +1,96 @@
+[
+  {
+    "word": "Token",
+    "meaning": "A thing serving as a symbol, representation, or voucher; in computing, a piece of data representing identity or access rights",
+    "shortMeaning": "symbol or access key",
+    "example": "He gave her a small gift as a token of his appreciation.",
+    "example2": "You need an authentication token to access the API.",
+    "example3": "She used a token to ride the subway.",
+    "Explanation": "'Token' is a noun with several important meanings. Generally, it is a physical or digital object that represents or stands for something else, such as a feeling, fact, or right. This includes commemorative coins, subway tokens, or gift tokens. In computing and cybersecurity, a 'token' is a crucial concept: it's a digital key (like a JWT) that proves identity and grants permissions without sharing a password. In blockchain, a 'token' represents an asset or utility. The word can also be used as an adjective ('token effort') to describe something done superficially. Its meaning is highly context-dependent.",
+    "synonyms": [
+      "symbol",
+      "voucher",
+      "coin",
+      "key",
+      "credential"
+    ],
+    "antonyms": [
+      "reality",
+      "substance",
+      "full effort"
+    ],
+    "nounForm": "token",
+    "verbForm": "tokenize",
+    "adjectiveForm": "token",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Symbolism, payments, cybersecurity, blockchain, criticism",
+    "usageTip": "In tech, specify the type: 'access token', 'security token', 'crypto token'.",
+    "commonMistake": "In cybersecurity, confusing a 'token' with a 'password'; tokens are used instead of passwords.",
+    "collocations": [
+      "token of gratitude",
+      "security token",
+      "game token",
+      "token gesture"
+    ]
+  },
+  {
+    "word": "Token",
+    "meaning": "A digital key or piece of data used for authentication or representation",
+    "shortMeaning": "digital key",
+    "example": "The security token expired after thirty minutes.",
+    "example2": "An access token is required to connect to the API.",
+    "example3": "The system generated a unique token for the transaction.",
+    "Explanation": "In computer science and cybersecurity, a 'token' is a string of characters or a physical device used to prove identity or grant access. It acts as a temporary key that allows a user or program to interact with a secure system. Tokens are essential for modern web security, often used in OAuth or session management to keep users logged in. They are designed to be secure, often expiring after a short period. Do not confuse this with a 'token' in natural language processing, which refers to a single unit of text.",
+    "synonyms": [
+      "key",
+      "credential",
+      "identifier"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "token",
+    "verbForm": "N/A",
+    "adjectiveForm": "token",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity, web development, API integration",
+    "usageTip": "Always clarify if you mean a security token or a text token.",
+    "commonMistake": "Thinking a token is a password; a token is usually a temporary key.",
+    "collocations": [
+      "access token",
+      "security token",
+      "token expiration"
+    ]
+  },
+  {
+    "word": "Token",
+    "meaning": "A piece of data used for authentication or representation",
+    "shortMeaning": "digital key",
+    "example": "The API requires a token for authentication.",
+    "example2": "He generated a secure token to access the service.",
+    "example3": "The token expired after ten minutes.",
+    "Explanation": "In IT, a 'token' is a string of characters that represents a user, a session, or a specific piece of data. It is primarily used for security, such as JWTs (JSON Web Tokens) or physical security keys. Once a user logs in, they get a token, which they use to prove their identity for subsequent requests. It is a fundamental concept in modern web security and API-based communications. Never share tokens with others, as they are essentially passwords.",
+    "synonyms": [
+      "key",
+      "credential",
+      "identifier"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "token",
+    "verbForm": "tokenise",
+    "adjectiveForm": "token",
+    "partOfSpeech": "noun",
+    "commonContext": "Security, authentication, API design",
+    "usageTip": "Use when discussing identity verification or session management.",
+    "commonMistake": "Confusing 'token' with 'password'; a token is usually temporary.",
+    "collocations": [
+      "authentication token",
+      "secure token",
+      "token expired"
+    ]
+  }
+]

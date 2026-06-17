@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Compare",
+    "meaning": "To examine two or more things to note similarities and differences.",
+    "shortMeaning": "find similarities/differences",
+    "example": "We can compare the prices of different laptops.",
+    "example2": "He compared his childhood to a happy dream.",
+    "example3": "Compared to last year, sales have increased.",
+    "Explanation": "To compare is to look at two or more items side by side to see how they are alike or different. This is a fundamental thinking skill used in analysis, shopping, and decision-making. The preposition 'to' is used when highlighting similarities or likening one thing to another, while 'with' is often used for a detailed examination of similarities and differences. A common mistake is confusing 'compare' with 'contrast,' which specifically means to find differences. The noun form is 'comparison.' Using 'compare' correctly helps in making clear evaluations and explanations in both writing and speech.",
+    "synonyms": [
+      "contrast",
+      "analyze",
+      "juxtapose",
+      "relate"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "comparison",
+    "verbForm": "compare",
+    "adjectiveForm": "comparable",
+    "partOfSpeech": "verb",
+    "commonContext": "Shopping, academic analysis, decision-making, and discussions.",
+    "usageTip": "Use 'compare to' for similarities and 'compare with' for detailed analysis (though often used interchangeably).",
+    "commonMistake": "Confusing 'compare' (find similarities/differences) with 'contrast' (find only differences).",
+    "collocations": [
+      "compare and contrast",
+      "compare notes",
+      "beyond compare"
+    ]
+  },
+  {
+    "word": "Compare",
+    "meaning": "To examine two or more things to see how they are similar or different",
+    "shortMeaning": "examine differences",
+    "example": "You should compare the prices of the two cloud providers.",
+    "example2": "The script will compare two files and highlight the changes.",
+    "example3": "It is hard to compare these two programming languages.",
+    "Explanation": "Comparison is a fundamental logical operation. In programming, you compare variables using operators like '==' or '>'. In business, you compare software features to choose the best tool. Comparing helps in making informed decisions by weighing pros and cons. It is a common task in debugging (comparing 'what is' with 'what should be') and in performance testing (comparing old speed with new speed).",
+    "synonyms": [
+      "contrast",
+      "analyze",
+      "evaluate"
+    ],
+    "antonyms": [
+      "ignore",
+      "group",
+      "N/A"
+    ],
+    "nounForm": "comparison",
+    "verbForm": "compare",
+    "adjectiveForm": "comparable",
+    "partOfSpeech": "verb",
+    "commonContext": "Decision making and logic",
+    "usageTip": "Use 'compare' when you are looking for both similarities and differences.",
+    "commonMistake": "Spelling it as 'compair' (incorrect).",
+    "collocations": [
+      "compare and contrast",
+      "compare results",
+      "carefully compare"
+    ]
+  }
+]

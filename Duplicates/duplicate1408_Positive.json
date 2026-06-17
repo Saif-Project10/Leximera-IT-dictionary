@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Positive",
+    "meaning": "1. Characterized by the presence rather than absence of qualities (good, hopeful, certain). 2. In math: greater than zero.",
+    "shortMeaning": "good; hopeful; certain; plus",
+    "example": "She has a very positive attitude. (Hopeful)",
+    "example2": "Are you positive you locked the door? (Certain)",
+    "example3": "Five is a positive number. (Math)",
+    "example4": "The test result was positive. (Medical: indicating presence)",
+    "Explanation": "'Positive' is an extremely common adjective with a core meaning of being definite, constructive, or affirming. It is the opposite of 'negative' in emotion, math, electricity, and medical tests. A positive person is optimistic. A positive number is above zero. A positive test result usually means a condition (like pregnancy or COVID) is present. Context is crucial for precise meaning.",
+    "synonyms": [
+      "optimistic, hopeful, beneficial, certain, sure, constructive"
+    ],
+    "antonyms": [
+      "negative, pessimistic, harmful, uncertain, doubtful"
+    ],
+    "nounForm": "positivity",
+    "verbForm": "posit",
+    "adjectiveForm": "positive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotions, mathematics, science, medicine, feedback",
+    "usageTip": "In everyday language, 'positive' usually means good or hopeful. In science, it's a factual description (positive charge).",
+    "commonMistake": "In medicine, assuming 'positive' is always good. A positive cancer test is bad news.",
+    "collocations": [
+      "positive thinking",
+      "test positive",
+      "positive feedback"
+    ]
+  },
+  {
+    "word": "Positive",
+    "meaning": "Having a helpful, good, or affirmative quality",
+    "shortMeaning": "good/helpful",
+    "example": "The user feedback was very positive.",
+    "example2": "We saw a positive impact on latency after the update.",
+    "example3": "A positive correlation was found between users and server load.",
+    "Explanation": "The word 'positive' is widely used in IT to describe good outcomes, affirmative responses, or mathematical values greater than zero. A 'positive' result means something worked as expected. In math and logic, it is essential for defining bounds. Always specify if you mean a 'positive emotional reaction' or a 'positive numerical value', as they are used differently.",
+    "synonyms": [
+      "favorable",
+      "constructive",
+      "affirmative"
+    ],
+    "antonyms": [
+      "negative",
+      "harmful"
+    ],
+    "nounForm": "positivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "positive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Feedback, math, data analysis",
+    "usageTip": "Use 'positive' to talk about success, growth, or mathematical values.",
+    "commonMistake": "Confusing 'positive' (good) with 'positive' (mathematical).",
+    "collocations": [
+      "positive impact",
+      "positive feedback",
+      "positive value"
+    ]
+  }
+]

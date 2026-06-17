@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Max pool",
+    "meaning": "A process in neural networks that takes the largest value from a small window of data to simplify an image",
+    "shortMeaning": "selecting maximum values",
+    "example": "Applying a max pool operation helps the model focus on the most important features.",
+    "example2": "The max pool step reduces the size of the image by half in this architecture.",
+    "example3": "We used a 2x2 filter for the max pool to downsample the input.",
+    "Explanation": "Max pool is a sample-based discretization process. Its objective is to downsample an input representation (image, hidden-layer output matrix, etc.), reducing its dimensionality and allowing for assumptions to be made about features contained in the sub-regions binned. This is done to help over-fitting by providing an abstracted form of the representation. As the name suggests, it takes the maximum value from each window. It is a standard part of Convolutional Neural Networks (CNNs) because it makes the network invariant to small translations in the input image.",
+    "synonyms": [
+      "maximum pooling",
+      "downsampling",
+      "subsampling"
+    ],
+    "antonyms": [
+      "min pooling",
+      "average pooling"
+    ],
+    "nounForm": "max pooling",
+    "verbForm": "max pool",
+    "adjectiveForm": "max-pooled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Deep learning and computer vision",
+    "usageTip": "Use max pool when you want to retain the most prominent features while reducing data size.",
+    "commonMistake": "Confusing max pool with average pool, which calculates the mean instead of taking the maximum.",
+    "collocations": [
+      "max pool layer",
+      "max pool operation",
+      "global max pool"
+    ]
+  },
+  {
+    "word": "Max pool",
+    "meaning": "A down-sampling operation in neural networks that selects the maximum value in each region of the input.",
+    "shortMeaning": "selecting maximum value",
+    "example": "The model uses a max pool layer to reduce the image dimensionality.",
+    "example2": "Apply max pool to simplify the features extracted by the convolution layer.",
+    "example3": "The max pool size is set to 2x2 for this architecture.",
+    "Explanation": "Max pool is a key operation in Convolutional Neural Networks (CNNs). It helps reduce the size of the data and extracts the most prominent features from a region. By taking the maximum value, it keeps the strongest signals and ignores noise. This makes the model more robust to small translations in the input. It is standard in deep learning pipelines.",
+    "synonyms": [
+      "downsampling",
+      "subsampling"
+    ],
+    "antonyms": [
+      "upsampling"
+    ],
+    "nounForm": "max pooling",
+    "verbForm": "max pool",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "AI, Deep Learning",
+    "usageTip": "Use this when discussing CNN architecture.",
+    "commonMistake": "Confusing it with average pooling.",
+    "collocations": [
+      "max pool layer",
+      "max pool size",
+      "apply max pool"
+    ]
+  }
+]

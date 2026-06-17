@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Serializable",
+    "meaning": "Able to be converted into a format suitable for storage or transmission",
+    "shortMeaning": "can be saved/sent",
+    "example": "This object is serializable to JSON.",
+    "example2": "The class must be serializable to be saved to the database.",
+    "example3": "Only serializable data can be sent over the network.",
+    "Explanation": "Serializable describes an object or data structure that can be easily turned into a flat stream of bits (like a string or binary file) so it can be saved to a disk or sent to another computer. Once it arrives, it can be 'deserialized' back into its original form. This is a core process in almost all software communication. If an object is not serializable, you cannot store it in a database or pass it through an API. It is a common requirement in most programming languages.",
+    "synonyms": [
+      "convertible",
+      "savable",
+      "transmittable"
+    ],
+    "antonyms": [
+      "non-serializable",
+      "unstable"
+    ],
+    "nounForm": "serialization",
+    "verbForm": "serialize",
+    "adjectiveForm": "serializable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, API development, networking",
+    "usageTip": "Use 'serializable' when checking if data can be moved or stored.",
+    "commonMistake": "Forgetting to mark an object as serializable in your code.",
+    "collocations": [
+      "not serializable",
+      "must be serializable",
+      "serialize data"
+    ]
+  },
+  {
+    "word": "Serializable",
+    "meaning": "Able to be converted into a format for storage or transmission",
+    "shortMeaning": "can be saved/sent",
+    "example": "The object class must be serializable to be saved to disk.",
+    "example2": "JSON is a very common serializable format.",
+    "example3": "Is this custom data structure serializable?",
+    "Explanation": "Serializable describes data that can be converted into a stream of bytes (or text) to be stored in a file, database, or sent over a network. Once serialized, it can be 'deserialized' back into its original object state later. This is vital for saving application state, caching, or sending complex data between different services. If an object is not serializable, the system will throw an error when trying to save it.",
+    "synonyms": [
+      "storable",
+      "transmittable"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "serialization",
+    "verbForm": "serialize",
+    "adjectiveForm": "serializable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, data storage, APIs",
+    "usageTip": "Use this when discussing saving objects for later use.",
+    "commonMistake": "Trying to serialize an object that contains non-serializable data.",
+    "collocations": [
+      "not serializable",
+      "make serializable",
+      "serializable object"
+    ]
+  }
+]

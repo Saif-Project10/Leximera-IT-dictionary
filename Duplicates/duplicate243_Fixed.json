@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Fixed",
+    "meaning": "Attached or placed so as not to move; repaired; decided and not changing. | Fastened securely in position; not changing.",
+    "shortMeaning": "stationary, repaired, set",
+    "example": "The shelves are fixed to the wall.",
+    "example2": "The mechanic fixed my car.",
+    "example3": "We meet at a fixed time every week.",
+    "Explanation": "The adjective 'fixed' has several common meanings. First, it means fastened securely. Second, it means repaired. Third, it means prearranged and unchanging (a fixed price, fixed idea). It comes from the verb 'fix'. It is a very versatile word. A common error is using it only to mean repaired. In finance, a 'fixed rate' is crucial. It implies stability, permanence, or resolution. Be careful with the phrase 'fixed on', which can mean focused on. It is a simple word but essential for describing anything that is secure, mended, or constant.",
+    "synonyms": [
+      "Attached",
+      "Repaired",
+      "Secured",
+      "Set",
+      "Unchanging"
+    ],
+    "antonyms": [
+      "Broken",
+      "Flexible",
+      "Loose",
+      "Movable",
+      "Variable"
+    ],
+    "nounForm": "fix",
+    "verbForm": "fix",
+    "adjectiveForm": "fixed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Objects, prices, ideas, appointments",
+    "usageTip": "For a price that does not change, say 'fixed price'. For an idea that won't change, say 'fixed idea'.",
+    "commonMistake": "Thinking 'fixed' only means 'repaired'. It often means 'attached' or 'set'.",
+    "collocations": [
+      "fixed price",
+      "fixed idea",
+      "fixed address"
+    ]
+  },
+  {
+    "word": "Fixed",
+    "meaning": "Not changing, or securely attached to something",
+    "shortMeaning": "Constant or repaired",
+    "example": "The software uses a fixed size buffer.",
+    "example2": "We have fixed the connection error.",
+    "example3": "The server has a fixed IP address.",
+    "Explanation": "The word 'fixed' has two major IT meanings: it either describes something that has been repaired ('the bug is fixed') or something that is unchanging/stationary ('a fixed value'). It is a very common term in documentation, configuration settings, and bug tracking. It is a past participle or an adjective. Be clear which meaning is intended to avoid confusion between a static setting and a resolved issue.",
+    "synonyms": [
+      "repaired",
+      "constant",
+      "static"
+    ],
+    "antonyms": [
+      "variable",
+      "broken",
+      "dynamic"
+    ],
+    "nounForm": "fix",
+    "verbForm": "fix",
+    "adjectiveForm": "fixed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Configuration settings and bug tracking",
+    "usageTip": "Use 'fixed' for repairs or unchanging values.",
+    "commonMistake": "Ambiguity in whether 'fixed' means repaired or static.",
+    "collocations": [
+      "fixed point",
+      "fixed error",
+      "fixed size"
+    ]
+  }
+]

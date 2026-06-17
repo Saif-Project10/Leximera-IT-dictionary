@@ -1,0 +1,32 @@
+============================================================
+MCQs JSON BATCHES - SUMMARY
+============================================================
+
+Total words in data.json: 27842
+Total JSON files created: 300
+Total batches created: 12
+JSON files per batch: 25
+File numbering: Continuous (1 to 300)
+
+------------------------------------------------------------
+File Content Format:
+------------------------------------------------------------
+Line 1: [
+Line 2: (empty - paste your MCQs data here)
+Line 3: ]
+
+------------------------------------------------------------
+Batch-wise Details:
+------------------------------------------------------------
+  Batch 1: 25 files (mcqs-json-batch-1.json to mcqs-json-batch-25.json)
+  Batch 2: 25 files (mcqs-json-batch-26.json to mcqs-json-batch-50.json)
+  Batch 3: 25 files (mcqs-json-batch-51.json to mcqs-json-batch-75.json)
+  Batch 4: 25 files (mcqs-json-batch-76.json to mcqs-json-batch-100.json)
+  Batch 5: 25 files (mcqs-json-batch-101.json to mcqs-json-batch-125.json)
+  Batch 6: 25 files (mcqs-json-batch-126.json to mcqs-json-batch-150.json)
+  Batch 7: 25 files (mcqs-json-batch-151.json to mcqs-json-batch-175.json)
+  Batch 8: 25 files (mcqs-json-batch-176.json to mcqs-json-batch-200.json)
+  Batch 9: 25 files (mcqs-json-batch-201.json to mcqs-json-batch-225.json)
+  Batch 10: 25 files (mcqs-json-batch-226.json to mcqs-json-batch-250.json)
+  Batch 11: 25 files (mcqs-json-batch-251.json to mcqs-json-batch-275.json)
+  Batch 12: 25 files (mcqs-json-batch-276.json to mcqs-json-batch-300.json)

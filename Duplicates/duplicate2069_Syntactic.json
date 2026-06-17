@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Syntactic",
+    "meaning": "Relating to the structure and rules of language or code",
+    "shortMeaning": "structural",
+    "example": "The code has a syntactic error on line 10.",
+    "example2": "Syntactic analysis is the first step of compilation.",
+    "example3": "He improved the syntactic clarity of the documentation.",
+    "Explanation": "The word 'syntactic' relates to 'syntax', which is the set of rules that defines how words or code symbols must be ordered. A 'syntactic error' means you broke the rules of the language (like missing a semicolon in C or a bracket in JSON). Every compiler or interpreter has a 'syntactic analyzer' that checks if your code follows these rules. If you want to talk about the *form* of the code rather than its *meaning*, use the word 'syntactic'.",
+    "synonyms": [
+      "structural",
+      "grammatical",
+      "formal"
+    ],
+    "antonyms": [
+      "semantic",
+      "logical"
+    ],
+    "nounForm": "syntax",
+    "verbForm": "N/A",
+    "adjectiveForm": "syntactic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Compilers, programming, linguistics",
+    "usageTip": "Use when discussing rules, formatting, or errors.",
+    "commonMistake": "Confusing 'syntactic' (structure) with 'semantic' (meaning).",
+    "collocations": [
+      "syntactic error",
+      "syntactic analysis",
+      "syntactic rules"
+    ]
+  },
+  {
+    "word": "Syntactic",
+    "meaning": "Relating to the structure or rules of a language or code",
+    "shortMeaning": "structural",
+    "example": "The code failed due to a syntactic error.",
+    "example2": "Syntactic analysis is part of the compiler's job.",
+    "example3": "The language has a very clean syntactic style.",
+    "Explanation": "Syntactic relates to syntax—the set of rules that defines how symbols or instructions are combined in programming languages. A 'syntactic error' is a typo or structure violation that prevents code from compiling. It focuses on the 'grammar' of code rather than its meaning (which is semantic). Understanding the difference between syntactic and semantic errors is a core skill for any programmer.",
+    "synonyms": [
+      "structural",
+      "grammatical",
+      "formal"
+    ],
+    "antonyms": [
+      "semantic",
+      "logical",
+      "meaning-based"
+    ],
+    "nounForm": "syntax",
+    "verbForm": "N/A",
+    "adjectiveForm": "syntactic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Compilers, programming, linguistics",
+    "usageTip": "Use to discuss the rules and structure of code.",
+    "commonMistake": "Confusing 'syntactic' (the rule) with 'semantic' (the outcome/meaning).",
+    "collocations": [
+      "syntactic error",
+      "syntactic analysis",
+      "syntactic structure"
+    ]
+  }
+]

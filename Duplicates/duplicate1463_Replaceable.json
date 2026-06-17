@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Replaceable",
+    "meaning": "Capable of being replaced",
+    "shortMeaning": "able to be replaced",
+    "example": "These parts are easily replaceable.",
+    "example2": "In this job, no one is irreplaceable.",
+    "example3": "The battery is not replaceable; the whole device must be discarded.",
+    "Explanation": "'Replaceable' is an adjective that describes something (or someone) that can be substituted with another item or person of similar function. It often has a neutral or slightly negative connotation, especially when applied to people, suggesting they are not unique or indispensable. The opposite, 'irreplaceable', is a strong compliment. In manufacturing and design, creating replaceable parts is a key feature for repair and maintenance. The word focuses on the feasibility of substitution.",
+    "synonyms": [
+      "substitutable",
+      "expendable",
+      "interchangeable"
+    ],
+    "antonyms": [
+      "irreplaceable",
+      "unique",
+      "indispensable"
+    ],
+    "nounForm": "replaceability",
+    "verbForm": "replace",
+    "adjectiveForm": "replaceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Employment, product design, parts inventory",
+    "usageTip": "Often used in a negative context to emphasize lack of value (easily replaceable) or in specs (user-replaceable battery).",
+    "commonMistake": "Using it to mean 'already replaced'. That's 'replaced'.",
+    "collocations": [
+      "easily replaceable",
+      "readily replaceable",
+      "replaceable part"
+    ]
+  },
+  {
+    "word": "Replaceable",
+    "meaning": "Able to be swapped for something else",
+    "shortMeaning": "swappable",
+    "example": "The battery is easily replaceable.",
+    "example2": "Modular components make the system replaceable.",
+    "example3": "Are these old cables replaceable?",
+    "Explanation": "The word 'replaceable' refers to parts or components that can be removed and substituted with new ones. This is a key design principle in modular hardware, where keeping parts replaceable extends the lifespan of the device. The noun form is 'replaceability' and the verb is 'replace'. In software, it often refers to modules or functions that can be updated or swapped without breaking the overall system. It implies flexibility in maintenance.",
+    "synonyms": [
+      "swappable",
+      "changeable",
+      "interchangeable"
+    ],
+    "antonyms": [
+      "permanent",
+      "fixed",
+      "irreplaceable"
+    ],
+    "nounForm": "replaceability",
+    "verbForm": "replace",
+    "adjectiveForm": "replaceable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware maintenance, modular software",
+    "usageTip": "Use 'replaceable' for parts that are designed to be changed.",
+    "commonMistake": "Confusing it with 'repairable', which implies fixing rather than swapping.",
+    "collocations": [
+      "easily replaceable",
+      "modular and replaceable",
+      "readily replaceable"
+    ]
+  }
+]

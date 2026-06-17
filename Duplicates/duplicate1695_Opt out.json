@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Opt out",
+    "meaning": "To choose not to participate in something or to leave a group",
+    "shortMeaning": "choose to leave",
+    "example": "If you don't like the service, you can opt out at any time.",
+    "example2": "He chose to opt out of the data sharing program.",
+    "example3": "The email includes a link for users who wish to opt out.",
+    "Explanation": "The phrase 'opt out' refers to the action of withdrawing from a system or refusing a service that is otherwise provided by default. In IT, it is most commonly seen in the context of 'unsubscribing' from emails or disabling 'tracking cookies'. When a system is set up as 'opt-out', it means the user is automatically included unless they take an action to stop it. Privacy advocates often prefer 'opt-in' systems because 'opt-out' systems rely on users being busy or unaware to keep them enrolled. It is an essential feature for any ethical software service.",
+    "synonyms": [
+      "unsubscribe",
+      "withdraw",
+      "quit"
+    ],
+    "antonyms": [
+      "opt in",
+      "enroll",
+      "join"
+    ],
+    "nounForm": "opt-out",
+    "verbForm": "opt out",
+    "adjectiveForm": "opt-out",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Marketing emails and subscription services",
+    "usageTip": "Use 'opt out' to describe the action of leaving or declining a default setting.",
+    "commonMistake": "Confusing 'opt out' with 'delete account'; you can opt out of emails while keeping your account.",
+    "collocations": [
+      "opt out of cookies",
+      "right to opt out",
+      "opt out link"
+    ]
+  },
+  {
+    "word": "Opt out",
+    "meaning": "To choose not to participate in something or to leave a program",
+    "shortMeaning": "choose to leave",
+    "example": "The software allows users to opt out of data collection.",
+    "example2": "If you don't like the new rules, you can opt out of the club.",
+    "example3": "He chose to opt out of the company's weekend trip.",
+    "Explanation": "Opting out is the act of removing yourself from a situation or a list. If you are already part of something (often by default), you 'opt out' to stop being part of it. A common example is the 'Unsubscribe' link in an email, which is an 'opt out' mechanism. In many countries, laws require that users have a clear and easy way to opt out of services they no longer want.",
+    "synonyms": [
+      "withdraw",
+      "unsubscribe",
+      "quit"
+    ],
+    "antonyms": [
+      "opt in",
+      "join",
+      "subscribe"
+    ],
+    "nounForm": "opt-out",
+    "verbForm": "opt out",
+    "adjectiveForm": "opt-out",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Email marketing, privacy, and social groups",
+    "usageTip": "Use 'opt out' when you want to stop receiving something or stop being a member.",
+    "commonMistake": "Using 'opt out' when you were never 'in' to begin with (use 'decline' instead).",
+    "collocations": [
+      "opt out of",
+      "opt out link",
+      "easy to opt out"
+    ]
+  }
+]

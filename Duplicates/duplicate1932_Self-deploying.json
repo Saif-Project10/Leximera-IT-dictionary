@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Self-deploying",
+    "meaning": "Capable of installing or setting itself up automatically",
+    "shortMeaning": "auto-installing",
+    "example": "The new agent is self-deploying to all cloud nodes.",
+    "example2": "We are building a self-deploying microservice.",
+    "example3": "Self-deploying software reduces manual work.",
+    "Explanation": "Self-deploying refers to automated processes that handle the installation or distribution of software without human intervention. This is a core component of CI/CD pipelines in modern development. When code is self-deploying, it minimizes human error and speeds up release cycles. It requires sophisticated configuration and monitoring to ensure the deployment succeeds across different environments. It is a term that indicates high levels of automation and efficiency in the software delivery process.",
+    "synonyms": [
+      "automated",
+      "auto-installing",
+      "self-installing"
+    ],
+    "antonyms": [
+      "manual",
+      "hand-installed"
+    ],
+    "nounForm": "deployment",
+    "verbForm": "deploy",
+    "adjectiveForm": "self-deploying",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, DevOps, CI/CD",
+    "usageTip": "Use 'self-deploying' to emphasize that the process needs no manual input.",
+    "commonMistake": "Assuming it works without initial complex setup.",
+    "collocations": [
+      "self-deploying software",
+      "self-deploying agent",
+      "fully self-deploying"
+    ]
+  },
+  {
+    "word": "Self-deploying",
+    "meaning": "Capable of installing or launching itself without manual help",
+    "shortMeaning": "automatic installation",
+    "example": "The self-deploying script handles the server setup.",
+    "example2": "Our cloud platform features self-deploying infrastructure.",
+    "example3": "The agent is self-deploying after the initial download.",
+    "Explanation": "A 'self-deploying' system is designed to automate the installation, configuration, and launch of itself once triggered. This is a key part of DevOps and CI/CD pipelines, reducing human error and speeding up the release process. By using self-deploying tools, teams can ensure that environments are consistent every time. It is highly valued for scaling server clusters where setting up machines manually would be impossible. It is a sign of advanced, mature IT infrastructure.",
+    "synonyms": [
+      "auto-deploying",
+      "automated"
+    ],
+    "antonyms": [
+      "manually deployed"
+    ],
+    "nounForm": "self-deployment",
+    "verbForm": "self-deploy",
+    "adjectiveForm": "self-deploying",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, cloud computing, automation",
+    "usageTip": "Use this to emphasize automation and speed.",
+    "commonMistake": "Thinking self-deploying means no initial setup at all.",
+    "collocations": [
+      "self-deploying script",
+      "self-deploying infrastructure"
+    ]
+  }
+]

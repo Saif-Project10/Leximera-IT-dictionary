@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Barrier",
+    "meaning": "A fence or obstacle that prevents movement or access.",
+    "shortMeaning": "obstacle or fence",
+    "example": "The language barrier made communication difficult.",
+    "example2": "A concrete barrier separates the two sides of the highway.",
+    "example3": "We need to break down barriers to equality.",
+    "Explanation": "'Barrier' is a noun meaning anything that blocks passage or progress. It can be physical (wall, fence), social (class barrier), psychological (mental barrier), or abstract (trade barrier). It implies separation, obstruction, or limitation. Barriers can be intentional (for security) or unintentional (cultural misunderstandings). The word is commonly used in discussions about obstacles, challenges, and things that need to be overcome or removed for progress.",
+    "synonyms": [
+      "obstacle",
+      "blockade",
+      "fence",
+      "hindrance"
+    ],
+    "antonyms": [
+      "opening",
+      "gateway",
+      "passage",
+      "aid"
+    ],
+    "nounForm": "barrier",
+    "verbForm": "bar",
+    "adjectiveForm": "barrier",
+    "partOfSpeech": "noun",
+    "commonContext": "Physical obstructions, social issues, communication, sports",
+    "usageTip": "Often used with words indicating type: 'language barrier', 'trade barrier', 'sound barrier'.",
+    "commonMistake": "Confusing 'barrier' with 'barrister' (a type of lawyer). They sound similar but are unrelated.",
+    "collocations": [
+      "barrier to entry",
+      "protective barrier",
+      "break down barriers"
+    ]
+  },
+  {
+    "word": "Barrier",
+    "meaning": "An object, rule, or problem that stops progress or blocks access completely",
+    "shortMeaning": "obstacle",
+    "example": "A weak internet connection is a major barrier to remote online learning.",
+    "example2": "The firewall acts as a strong protective barrier against external hackers.",
+    "example3": "Poor website layout creates an accessibility barrier for disabled web users.",
+    "Explanation": "The word 'barrier' represents an obstacle that prevents movement, data flow, or system communication. In UI design, confusing navigation forms a barrier that drives website users away. In security terms, firewalls and encryption keys act as beneficial barriers to keep malicious intruders out. Identifying and fixing negative system barriers ensures software platforms remain easy to navigate and highly accessible.",
+    "synonyms": [
+      "obstacle",
+      "blockade",
+      "hurdle"
+    ],
+    "antonyms": [
+      "opening",
+      "pathway",
+      "assistance"
+    ],
+    "nounForm": "barrier",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity defense setups, UI/UX accessibility, and data flow limitations",
+    "usageTip": "Use 'barrier' to explain what obstacle is stopping data or users from moving forward.",
+    "commonMistake": "Thinking 'barrier' only refers to physical walls; it often describes abstract code bugs or rules.",
+    "collocations": [
+      "language barrier",
+      "security barrier",
+      "entry barrier"
+    ]
+  }
+]

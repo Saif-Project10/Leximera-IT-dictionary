@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Deterministic",
+    "meaning": "Relating to the philosophical or scientific doctrine that all events, including human actions, are ultimately determined by causes regarded as external to the will",
+    "shortMeaning": "causally determined, predictable",
+    "example": "Newtonian physics presents a largely deterministic view of the universe.",
+    "example2": "In a deterministic system, the same inputs always produce the same outputs.",
+    "example3": "He rejected the deterministic idea that our lives are preordained.",
+    "Explanation": "'Deterministic' is a technical adjective used in philosophy, science, and computing. It means that every event or state is the inevitable result of preceding events and the laws of nature, leaving no room for random chance or free will. In computing, a deterministic algorithm produces the same output for a given input every time. This word is the opposite of 'probabilistic' or 'random'. It implies predictability and a chain of cause and effect. It's a complex concept central to debates about freedom and predictability.",
+    "synonyms": [
+      "predetermined",
+      "causal",
+      "predictable",
+      "inevitable"
+    ],
+    "antonyms": [
+      "random",
+      "probabilistic",
+      "indeterminate",
+      "unpredictable"
+    ],
+    "nounForm": "determinism",
+    "verbForm": "determine",
+    "adjectiveForm": "deterministic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Philosophy, physics, computer science, systems theory",
+    "usageTip": "Use 'deterministic' in discussions about causality, predictability, and systems where outcomes are fixed by prior states.",
+    "commonMistake": "Using it in everyday conversation to mean 'determined'. It's a specific technical term.",
+    "collocations": [
+      "deterministic system",
+      "deterministic model",
+      "deterministic universe"
+    ]
+  },
+  {
+    "word": "Deterministic",
+    "meaning": "A system where the outcome is predictable because it follows fixed rules",
+    "shortMeaning": "predictable by rules",
+    "example": "The simulation uses a deterministic model.",
+    "example2": "In a deterministic system, the same input always yields the same result.",
+    "example3": "Physics often assumes a deterministic universe.",
+    "Explanation": "Deterministic refers to systems where every event is the result of specific causes. If you know the starting conditions and the rules, you can predict the exact future outcome. This is the opposite of 'random' or 'probabilistic' systems. It is a key concept in computer science, software logic, and mathematics. It means there is no element of chance. If a process is deterministic, testing is much easier because it is repeatable.",
+    "synonyms": [
+      "predictable",
+      "fixed",
+      "causal"
+    ],
+    "antonyms": [
+      "random",
+      "probabilistic",
+      "stochastic"
+    ],
+    "nounForm": "determinism",
+    "verbForm": "determine",
+    "adjectiveForm": "deterministic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, science, philosophy",
+    "usageTip": "Use this when talking about systems that are not based on chance.",
+    "commonMistake": "Thinking 'deterministic' means 'determined' (the attitude).",
+    "collocations": [
+      "deterministic model",
+      "deterministic system",
+      "strictly deterministic"
+    ]
+  }
+]

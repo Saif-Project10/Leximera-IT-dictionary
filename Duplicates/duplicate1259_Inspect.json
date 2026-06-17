@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Inspect",
+    "meaning": "To look at something carefully, typically to assess its condition or to discover any shortcomings.",
+    "shortMeaning": "examine closely",
+    "example": "The mechanic inspected the car's engine.",
+    "example2": "Health officials inspect restaurants for cleanliness.",
+    "example3": "She inspected the document for errors.",
+    "Explanation": "'Inspect' is a verb meaning to examine something closely and critically. It implies a formal, systematic, or official examination, often to verify quality, safety, or compliance. It's more formal than 'look at' and suggests a purpose-driven evaluation. The noun is 'inspection'. It's a common activity in manufacturing, maintenance, real estate, and governance. Inspections are a key method of quality control and enforcement of standards. The person who inspects is an 'inspector'. It's an active verb that implies scrutiny and judgment.",
+    "synonyms": [
+      "examine",
+      "scrutinize",
+      "check"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "glance at"
+    ],
+    "nounForm": "inspection",
+    "verbForm": "inspect",
+    "adjectiveForm": "inspected",
+    "partOfSpeech": "verb",
+    "commonContext": "Quality control, safety, real estate, vehicles",
+    "usageTip": "Often followed by 'for' (inspect for damage) or used with an object directly.",
+    "commonMistake": "Confusing 'inspect' (examine) with 'expect' (anticipate).",
+    "collocations": [
+      "inspect the premises",
+      "closely inspect",
+      "inspect troops"
+    ]
+  },
+  {
+    "word": "Inspect",
+    "meaning": "To look at something closely to check for problems or quality",
+    "shortMeaning": "examine",
+    "example": "The engineer will inspect the server for hardware failure.",
+    "example2": "You can use the browser tools to inspect the code of a website.",
+    "example3": "Security teams inspect all incoming traffic for threats.",
+    "Explanation": "Inspect means to carry out a careful and formal examination. In IT, 'Inspect Element' is a famous browser feature used by developers to see HTML and CSS. In quality assurance, products are inspected to ensure they meet standards. It is a critical step in both development and maintenance. It is more thorough than just 'looking' at something and usually involves a checklist or specific criteria.",
+    "synonyms": [
+      "examine",
+      "audit",
+      "scrutinize"
+    ],
+    "antonyms": [
+      "ignore",
+      "overlook",
+      "neglect"
+    ],
+    "nounForm": "inspection",
+    "verbForm": "inspect",
+    "adjectiveForm": "inspected",
+    "partOfSpeech": "verb",
+    "commonContext": "QA testing, security, web development",
+    "usageTip": "Use 'inspect' when you are looking for errors or checking compliance.",
+    "commonMistake": "Thinking 'inspect' is just a casual glance; it's a deep check.",
+    "collocations": [
+      "inspect element",
+      "inspect code",
+      "thoroughly inspect"
+    ]
+  }
+]

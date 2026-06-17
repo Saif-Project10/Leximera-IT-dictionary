@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Tricky",
+    "meaning": "Difficult to deal with or accomplish because of complexity.",
+    "shortMeaning": "difficult",
+    "example": "Setting up the server was a bit tricky.",
+    "example2": "That is a tricky question to answer.",
+    "example3": "Debugging the code proved to be tricky.",
+    "Explanation": "The word 'tricky' characterizes tasks or situations that require skill, caution, or extra effort because they are not straightforward. It suggests that a problem might hide traps or complexities. While it is an adjective, it is informal and widely used in professional settings to describe technical obstacles. It is important to distinguish 'tricky' from 'impossible'—a tricky task is one that can be solved with careful attention.",
+    "synonyms": [
+      "challenging",
+      "complicated",
+      "difficult"
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward",
+      "easy"
+    ],
+    "nounForm": "trickiness",
+    "verbForm": "trick",
+    "adjectiveForm": "tricky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Troubleshooting, programming, and project planning",
+    "usageTip": "Use 'tricky' to describe a task that requires careful handling.",
+    "commonMistake": "Using it for tasks that are simply 'impossible' rather than 'difficult'.",
+    "collocations": [
+      "tricky situation",
+      "tricky problem",
+      "a bit tricky"
+    ]
+  },
+  {
+    "word": "Tricky",
+    "meaning": "Difficult to deal with, requiring skill or care",
+    "shortMeaning": "difficult",
+    "example": "CSS grid can be tricky for beginners.",
+    "example2": "Managing memory is a tricky task in C++.",
+    "example3": "It is a tricky bug that only appears sometimes.",
+    "Explanation": "Tricky describes a task or problem that is not straightforward and requires extra attention. In IT, something is tricky if it behaves unexpectedly or has many edge cases. It is often used to describe bugs that are hard to reproduce. Using the word 'tricky' implies that you understand the difficulty and are approaching it with caution. It is a common, professional way to acknowledge a challenge.",
+    "synonyms": [
+      "difficult",
+      "complex",
+      "challenging"
+    ],
+    "antonyms": [
+      "easy",
+      "simple",
+      "straightforward"
+    ],
+    "nounForm": "trickiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "tricky",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, coding, problem-solving",
+    "usageTip": "Use 'tricky' to describe problems that require extra skill to solve.",
+    "commonMistake": "Using 'tricky' to mean impossible; it is difficult but solvable.",
+    "collocations": [
+      "tricky bug",
+      "tricky code",
+      "tricky situation"
+    ]
+  }
+]

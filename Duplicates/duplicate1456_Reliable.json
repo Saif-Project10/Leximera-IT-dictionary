@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Reliable",
+    "meaning": "Consistently good in quality or performance; able to be trusted",
+    "shortMeaning": "dependable, trustworthy",
+    "example": "She is a reliable employee who always meets deadlines.",
+    "example2": "This car is very reliable; it never breaks down.",
+    "example3": "We need reliable data to make a decision.",
+    "Explanation": "'Reliable' is a highly positive adjective used for people, machines, information, and systems. It means you can count on them to work well, tell the truth, or perform as expected every time. It is a key quality in friendships, products, and services. The opposite, 'unreliable', is a serious criticism. The noun is 'reliability'. In statistics, a 'reliable' test gives consistent results. It's one of the most important traits for building trust in both personal and professional life.",
+    "synonyms": [
+      "dependable",
+      "trustworthy",
+      "consistent"
+    ],
+    "antonyms": [
+      "unreliable",
+      "untrustworthy",
+      "inconsistent"
+    ],
+    "nounForm": "reliability",
+    "verbForm": "rely",
+    "adjectiveForm": "reliable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product reviews, character references, data analysis",
+    "usageTip": "Often used with nouns like 'source', 'witness', 'service', 'friend'.",
+    "commonMistake": "Confusing 'reliable' with 'responsible'. A responsible person makes good decisions; a reliable person can be counted on to do what they say.",
+    "collocations": [
+      "highly reliable",
+      "reliable information",
+      "reliable source"
+    ]
+  },
+  {
+    "word": "Reliable",
+    "meaning": "Consistently good in quality or performance; dependable.",
+    "shortMeaning": "dependable",
+    "example": "We need a reliable server that won't crash under load.",
+    "example2": "The new API is very reliable and fast.",
+    "example3": "Backup systems must be 100% reliable.",
+    "Explanation": "'Reliable' describes a system or process that you can count on to perform correctly every time. In IT, reliability is a core metric, often measured by 'uptime' or 'availability'. A reliable system doesn't have random errors or downtime. You build reliability through testing, robust architecture, and good maintenance. If a user loses trust in a system because it is not reliable, they will stop using it. Reliability is a cornerstone of professional software engineering.",
+    "synonyms": [
+      "dependable",
+      "consistent",
+      "stable"
+    ],
+    "antonyms": [
+      "unreliable",
+      "unstable",
+      "erratic"
+    ],
+    "nounForm": "reliability",
+    "verbForm": "rely",
+    "adjectiveForm": "reliable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, infrastructure, quality assurance",
+    "usageTip": "Use when talking about systems that consistently work as expected.",
+    "commonMistake": "Confusing 'reliable' with 'fast'; something can be reliable but slow.",
+    "collocations": [
+      "highly reliable",
+      "reliable system",
+      "reliable data"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stealthy",
+    "meaning": "Designed to avoid detection.",
+    "shortMeaning": "secretive",
+    "example": "The malware is designed to be stealthy to avoid the scanner.",
+    "example2": "We implemented stealthy monitoring to gather user feedback.",
+    "example3": "A stealthy attack is the most dangerous.",
+    "Explanation": "The word 'stealthy' refers to something that operates quietly, discreetly, or in a way that avoids being noticed. In the security context, 'stealthy' is often negative, describing malware that hides its tracks to avoid being detected by antivirus tools. However, it can also be positive, such as stealthy updates that improve a system without bothering the user. It describes a method of operation that prioritizing being invisible or unobtrusive.",
+    "synonyms": [
+      "discreet",
+      "sneaky",
+      "unobtrusive"
+    ],
+    "antonyms": [
+      "obvious",
+      "noisy",
+      "visible"
+    ],
+    "nounForm": "stealth",
+    "verbForm": "N/A",
+    "adjectiveForm": "stealthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, user experience",
+    "usageTip": "Use 'stealthy' to describe actions or tools that avoid detection.",
+    "commonMistake": "Confusing 'stealthy' with 'silent' (stealthy implies intention to hide).",
+    "collocations": [
+      "stealthy malware",
+      "stealthy monitoring",
+      "stealthy operation"
+    ]
+  },
+  {
+    "word": "Stealthy",
+    "meaning": "Acting in a secret or undetectable way",
+    "shortMeaning": "secretive",
+    "example": "The malware uses stealthy techniques to remain hidden from antivirus software.",
+    "example2": "A stealthy background process is consuming too much CPU.",
+    "example3": "We need to identify the stealthy source of these unauthorized network calls.",
+    "Explanation": "The word 'stealthy' refers to actions or processes that are designed to avoid detection. In cybersecurity, this is a major concern, as attackers often try to be as stealthy as possible to maintain their access. Developers must write secure code to prevent such stealthy threats. It describes an intentional effort to hide. It is an adjective that clearly identifies a dangerous or suspicious nature of an activity.",
+    "synonyms": [
+      "secretive",
+      "undetectable",
+      "covert"
+    ],
+    "antonyms": [
+      "obvious",
+      "detected",
+      "open"
+    ],
+    "nounForm": "stealth",
+    "verbForm": "N/A",
+    "adjectiveForm": "stealthy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, malware analysis",
+    "usageTip": "Use 'stealthy' to describe malicious activity that is hard to spot.",
+    "commonMistake": "Ignoring stealthy issues until they cause major damage.",
+    "collocations": [
+      "stealthy malware",
+      "stealthy technique",
+      "stealthy access"
+    ]
+  }
+]

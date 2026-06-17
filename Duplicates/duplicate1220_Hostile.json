@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Hostile",
+    "meaning": "Unfriendly; antagonistic; opposed.",
+    "shortMeaning": "unfriendly; aggressive",
+    "example": "He received a hostile reception from the crowd.",
+    "example2": "The two countries have been hostile toward each other for decades.",
+    "example3": "The desert is a hostile environment for most plants.",
+    "Explanation": "'Hostile' is an adjective meaning unfriendly, antagonistic, or opposed. It describes people, attitudes, environments, or actions that show aggression, opposition, or inhospitability. A hostile person is openly unfriendly. A hostile environment is difficult or dangerous. A hostile takeover in business is against management's wishes. The noun is 'hostility'. The word suggests active opposition or threat rather than mere indifference. It's stronger than 'unfriendly' - it implies potential conflict. Recognizing hostile elements is important in diplomacy, conflict resolution, business, and survival in challenging conditions.",
+    "synonyms": [
+      "unfriendly",
+      "antagonistic",
+      "aggressive",
+      "inhospitable"
+    ],
+    "antonyms": [
+      "friendly",
+      "welcoming",
+      "hospitable",
+      "amicable"
+    ],
+    "nounForm": "hostility",
+    "verbForm": "N/A",
+    "adjectiveForm": "hostile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Relations, environments, takeovers, reactions",
+    "usageTip": "Often followed by 'to' or 'toward': 'hostile to newcomers', 'hostile toward change'.",
+    "commonMistake": "Confusing with 'hospital' which sounds similar but means medical facility. Hostile means unfriendly.",
+    "collocations": [
+      "hostile environment",
+      "hostile takeover",
+      "hostile attitude"
+    ]
+  },
+  {
+    "word": "Hostile",
+    "meaning": "Dangerous, malicious, or intended to attack",
+    "shortMeaning": "malicious",
+    "example": "The script was detected in a hostile environment.",
+    "example2": "We must protect data from hostile attacks.",
+    "example3": "The network is considered a hostile zone.",
+    "Explanation": "In IT, the word 'hostile' describes anything or anyone trying to damage or gain unauthorized access to a system. A 'hostile environment' might be a public Wi-Fi network where hackers are common. A 'hostile script' is a piece of code meant to steal data or break things. It is a very serious term used in cybersecurity to identify threats and malicious behavior.",
+    "synonyms": [
+      "malicious",
+      "dangerous",
+      "unfriendly"
+    ],
+    "antonyms": [
+      "safe",
+      "secure",
+      "friendly"
+    ],
+    "nounForm": "hostility",
+    "verbForm": "N/A",
+    "adjectiveForm": "hostile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, network defense",
+    "usageTip": "Use 'hostile' to describe threats, attackers, or dangerous network conditions.",
+    "commonMistake": "Using 'hostile' for minor software bugs; it implies intent to harm.",
+    "collocations": [
+      "hostile environment",
+      "hostile attack",
+      "hostile script"
+    ]
+  }
+]

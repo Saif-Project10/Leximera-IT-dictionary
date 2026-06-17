@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Seize",
+    "meaning": "To take hold of suddenly and forcibly; to capture.",
+    "shortMeaning": "grab, take control of",
+    "example": "The police seized the illegal drugs.",
+    "example2": "He seized the opportunity to speak to the manager.",
+    "example3": "Panic seized her as the door locked behind her.",
+    "Explanation": "To 'seize' is a strong, active verb meaning to take something quickly, forcefully, or officially. It can be physical (seize a weapon), legal (seize assets), or metaphorical (seize the day, seize power). The word implies decisiveness and often a lack of consent from the other party. It can also mean to become stuck (the engine seized). The past tense is 'seized'. It's a dramatic word used in news (authorities seize...), literature, and motivational speaking ('seize the opportunity').",
+    "synonyms": [
+      "grab",
+      "take",
+      "capture",
+      "confiscate"
+    ],
+    "antonyms": [
+      "release",
+      "let go",
+      "relinquish",
+      "free"
+    ],
+    "nounForm": "seizure",
+    "verbForm": "seize",
+    "adjectiveForm": "seized",
+    "partOfSpeech": "verb",
+    "commonContext": "Law enforcement, opportunities, mechanical failure, emotions",
+    "usageTip": "The phrase 'seize the day' comes from the Latin 'carpe diem' and means to make the most of the present moment.",
+    "commonMistake": "Confusing 'seize' (to grab) with 'cease' (to stop).",
+    "collocations": [
+      "seize control",
+      "seize power",
+      "seize the moment",
+      "seize assets"
+    ]
+  },
+  {
+    "word": "Seize",
+    "meaning": "To instantly take control of a system process, capture a connection socket, or grab an operational opportunity in a program",
+    "shortMeaning": "take control or capture",
+    "example": "The background script will seize available memory resources if the application is not throttled.",
+    "example2": "Malicious code can attempt to seize control of user input fields to steal passwords.",
+    "example3": "A high-priority process can seize the processor core to complete urgent system calculations.",
+    "Explanation": "The word 'seize' describes taking fast, dominant control over a system resource, background execution loop, or input stream. In low-level programming and operating system logic, a process might seize a physical memory block or a communication port to prevent other tasks from interrupting its calculations. In a security context, it can describe a malicious exploit trying to hijack user privileges, which highlights the importance of setting up resource limits and access protections.",
+    "synonyms": [
+      "grab control",
+      "hijack resource",
+      "capture asset"
+    ],
+    "antonyms": [
+      "release",
+      "relinquish control",
+      "yield"
+    ],
+    "nounForm": "seizure",
+    "verbForm": "seize",
+    "adjectiveForm": "seized",
+    "partOfSpeech": "verb",
+    "commonContext": "Process resource allocation, cybersecurity exploits, system thread scheduling",
+    "usageTip": "Use 'seize' when describing a process or application aggressively or automatically taking control of a resource or network stream.",
+    "commonMistake": "Spelling the word incorrectly as 'sieze' in code logs or variable names; remember that the letter 'e' comes before 'i'.",
+    "collocations": [
+      "seize control of resources",
+      "seize system threads",
+      "attempt to seize"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Weighted",
+    "meaning": "Having values adjusted to give more importance to certain items",
+    "shortMeaning": "adjusted importance",
+    "example": "The final grade is a weighted average of all assignments.",
+    "example2": "We use a weighted ranking to display search results.",
+    "example3": "The model uses weighted inputs to improve prediction accuracy.",
+    "Explanation": "Weighted refers to giving different levels of significance (weights) to data points or variables. In IT and data science, this is used to ensure some inputs influence the outcome more than others. For example, in a search engine, recent articles might be weighted more heavily than old ones. It is essential for making logic and statistics reflect priorities accurately. The term indicates that an adjustment has been made to account for importance or relevance.",
+    "synonyms": [
+      "adjusted",
+      "prioritized",
+      "valued"
+    ],
+    "antonyms": [
+      "unweighted",
+      "equalized"
+    ],
+    "nounForm": "weight",
+    "verbForm": "weight",
+    "adjectiveForm": "weighted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms, statistics, search engines",
+    "usageTip": "Use this when describing logic that prioritizes certain data.",
+    "commonMistake": "Forgetting to explain *why* the weights were chosen.",
+    "collocations": [
+      "weighted average",
+      "weighted ranking",
+      "weighted input"
+    ]
+  },
+  {
+    "word": "Weighted",
+    "meaning": "Adjusted to give more or less importance to certain values",
+    "shortMeaning": "adjusted importance",
+    "example": "The final grade is a weighted average of all assignments.",
+    "example2": "We use a weighted scoring system to prioritize features.",
+    "example3": "The results are weighted to favor recent data inputs.",
+    "Explanation": "The word 'weighted' describes a process where different elements of a data set are multiplied by specific factors to reflect their relative importance. In algorithms, weighted parameters allow the model to pay more attention to critical variables than to noise. This is common in search algorithms, statistics, and machine learning models. It ensures that the output is balanced according to predefined priorities or user-defined preferences.",
+    "synonyms": [
+      "prioritized",
+      "adjusted",
+      "balanced"
+    ],
+    "antonyms": [
+      "unweighted",
+      "equal",
+      "unbiased"
+    ],
+    "nounForm": "weight",
+    "verbForm": "weight",
+    "adjectiveForm": "weighted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, algorithms, and decision systems",
+    "usageTip": "Use when discussing calculations involving relative importance.",
+    "commonMistake": "Assuming weighted data means the data itself has changed.",
+    "collocations": [
+      "weighted average",
+      "weighted scoring",
+      "weighted data"
+    ]
+  }
+]

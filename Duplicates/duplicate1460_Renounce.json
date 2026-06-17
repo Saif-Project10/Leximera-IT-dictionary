@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Renounce",
+    "meaning": "Formally declare one's abandonment of a claim, right, or possession; reject",
+    "shortMeaning": "formally give up, reject",
+    "example": "He renounced his claim to the throne.",
+    "example2": "She renounced her citizenship to become a citizen of another country.",
+    "example3": "The treaty requires them to renounce the use of chemical weapons.",
+    "Explanation": "'Renounce' is a strong, formal verb. It means to give up something, such as a title, belief, or practice, voluntarily and publicly, often for moral or legal reasons. It implies a decisive, final rejection. It is used in legal contexts (renounce inheritance), political contexts (renounce violence), and personal contexts (renounce a faith). It carries a sense of solemnity and commitment. It is more forceful than 'give up' and implies a statement of principle.",
+    "synonyms": [
+      "give up",
+      "relinquish",
+      "reject"
+    ],
+    "antonyms": [
+      "claim",
+      "assert",
+      "embrace"
+    ],
+    "nounForm": "renunciation",
+    "verbForm": "renounce",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, politics, religion, citizenship",
+    "usageTip": "Often followed by a direct object (renounce violence) or used with a possessive (renounce his title).",
+    "commonMistake": "Confusing it with 'denounce', which means to publicly declare something is wrong.",
+    "collocations": [
+      "renounce the world",
+      "renounce all claims",
+      "publicly renounce"
+    ]
+  },
+  {
+    "word": "Renounce",
+    "meaning": "To formally declare the abandonment of a claim, right, position, or link connection",
+    "shortMeaning": "formally give up right",
+    "example": "The open-source author decided to renounce ownership rights to make the code public domain.",
+    "example2": "The firm had to renounce its claim over the patented compression algorithm logic.",
+    "example3": "To ensure neutral testing, the lead developer must renounce all personal ties to the audited project.",
+    "Explanation": "The formal verb 'renounce' means legally or publicly giving away an authority level, property hold, or structural attachment. In technology landscapes, it appears during licensing discussions, copyright shifts, or legal platform disputes where entities officially drop claims over software properties or patent protocols, allowing assets to move into open-source or shared ecosystems.",
+    "synonyms": [
+      "relinquish",
+      "abandon",
+      "disown"
+    ],
+    "antonyms": [
+      "claim",
+      "accept",
+      "assert"
+    ],
+    "nounForm": "renunciation",
+    "verbForm": "renounce",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Software license properties documentation, copyright debates, and formal legal settlements",
+    "usageTip": "Use 'renounce' in formal technical documentation when talking about completely dropping rights over an invention or software.",
+    "commonMistake": "Using 'renounce' for simple data deletion actions; it represents a conceptual abandonment of rights.",
+    "collocations": [
+      "renounce ownership",
+      "renounce patent claims",
+      "renounce rights formally"
+    ]
+  }
+]

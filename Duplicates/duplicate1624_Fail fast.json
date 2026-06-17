@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Fail fast",
+    "meaning": "A strategy where a system reports a failure immediately instead of trying to continue",
+    "shortMeaning": "stop on first error",
+    "example": "The 'fail fast' approach helps developers find bugs early in the coding process.",
+    "example2": "In a fail fast system, an invalid input will trigger an error right away.",
+    "example3": "Using fail fast prevents the program from performing wrong calculations with bad data.",
+    "Explanation": "Fail fast is a philosophy used in both software engineering and business. In software, it means that if a program detects something is wrong (like a missing file or a bad number), it should crash or stop immediately. This is better than 'failing silently', where the program keeps running and creates even bigger problems or corrupts data later. By stopping early, it tells the developer exactly where the mistake is. In business, it means testing a new idea quickly and cheaply; if it isn't going to work, you stop and try something else before wasting too much money. It is about learning from mistakes as quickly as possible. It promotes 'transparency' in systems.",
+    "synonyms": [
+      "crash-stop",
+      "immediate failure reporting"
+    ],
+    "antonyms": [
+      "fail-soft",
+      "error masking"
+    ],
+    "nounForm": "fail-fast",
+    "verbForm": "fail fast",
+    "adjectiveForm": "fail-fast",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Agile development and system design",
+    "usageTip": "Use fail fast in your code to catch 'null' values as soon as they appear.",
+    "commonMistake": "Thinking 'fail fast' is bad; it is actually a safety feature that prevents long-term damage.",
+    "collocations": [
+      "fail fast principle",
+      "fail fast strategy",
+      "fail fast iterator"
+    ]
+  },
+  {
+    "word": "Fail fast",
+    "meaning": "A business and development philosophy that encourages testing ideas quickly to find out if they will fail",
+    "shortMeaning": "test and fail early",
+    "example": "Startups often use the 'fail fast' method to save money on bad ideas.",
+    "example2": "By trying to fail fast, we discovered the bug in the first week.",
+    "example3": "The goal of fail fast is to learn quickly and move on.",
+    "Explanation": "The 'fail fast' concept is about efficiency. Instead of spending months on a project only to find it doesn't work, you try the most difficult parts first. If it's going to fail, it's better to know now so you don't waste more time or money. It is very popular in Agile software development and entrepreneurship. It encourages a culture of experimentation. It doesn't mean you want to fail; it means you want to find out the truth as quickly as possible. This approach leads to faster innovation.",
+    "synonyms": [
+      "pivot quickly",
+      "rapid prototyping"
+    ],
+    "antonyms": [
+      "slow development",
+      "perfectionism"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "phrase / verb",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "idiom / strategy",
+    "commonContext": "Startups, Agile development, and management",
+    "usageTip": "Use this when talking about rapid testing and iterative development.",
+    "commonMistake": "Thinking 'fail fast' means being careless; it actually means being strategically fast.",
+    "collocations": [
+      "fail fast and learn",
+      "fail fast approach"
+    ]
+  }
+]

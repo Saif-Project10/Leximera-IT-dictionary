@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Complicate",
+    "meaning": "To make something more difficult or complex | To make something more difficult or complex.",
+    "shortMeaning": "make harder",
+    "example": "Adding too many rules will complicate the game.",
+    "example2": "His unexpected question complicated the simple situation.",
+    "example3": "Don't complicate matters by bringing up old arguments.",
+    "Explanation": "The verb 'complicate' means to introduce factors that make a situation harder to understand, manage, or resolve. It is the opposite of simplifying. When something is 'complicated', it is an adjective meaning difficult. The noun form is 'complication'. It's a useful word for describing when plans, processes, or explanations become more tangled and less clear.",
+    "synonyms": [
+      "Confuse",
+      "Entangle",
+      "Make Complex",
+      "Make Difficult",
+      "Muddle",
+      "Muddy"
+    ],
+    "antonyms": [
+      "Clarify",
+      "Ease",
+      "Facilitate",
+      "Simplify",
+      "Streamline"
+    ],
+    "nounForm": "complication",
+    "verbForm": "complicate",
+    "adjectiveForm": "complicated",
+    "partOfSpeech": "verb",
+    "commonContext": "Problems, plans, explanations, situations",
+    "usageTip": "Often used to advise against unnecessary actions: 'Don't complicate things.'",
+    "commonMistake": "Confusing the adjective 'complicated' with the verb 'complicate'.",
+    "collocations": [
+      "complicate matters",
+      "complicate the issue",
+      "complicate the process"
+    ]
+  },
+  {
+    "word": "Complicate",
+    "meaning": "To make something more difficult to do or understand",
+    "shortMeaning": "make difficult",
+    "example": "Adding too many features will only complicate the user interface.",
+    "example2": "Don't complicate the logic with unnecessary if-statements.",
+    "example3": "A lack of documentation will complicate the hand-over process.",
+    "Explanation": "In engineering, 'simplicity is key'. To complicate something means to add unnecessary steps, layers, or details that make it harder to manage. 'Over-engineering' is a common way developers complicate a project. Complication leads to more bugs, slower development, and a higher chance of user error. A good designer always tries to 'simplify' rather than 'complicate' a solution.",
+    "synonyms": [
+      "confuse",
+      "entangle",
+      "muddle"
+    ],
+    "antonyms": [
+      "simplify",
+      "clarify",
+      "streamline"
+    ],
+    "nounForm": "complication",
+    "verbForm": "complicate",
+    "adjectiveForm": "complicated",
+    "partOfSpeech": "verb",
+    "commonContext": "Logic design and UI/UX",
+    "usageTip": "Use 'complicate' when you feel a process is becoming harder than it needs to be.",
+    "commonMistake": "Thinking 'complicated' means 'sophisticated'; simple is often more sophisticated.",
+    "collocations": [
+      "complicate things",
+      "unnecessarily complicate",
+      "complicate the process"
+    ]
+  }
+]

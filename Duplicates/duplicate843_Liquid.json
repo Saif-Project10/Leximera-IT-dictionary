@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Liquid",
+    "meaning": "A substance that flows freely but is of constant volume, like water or oil.",
+    "shortMeaning": "flowing substance like water",
+    "example": "Water is the most common liquid on Earth.",
+    "example2": "She spilled a dark liquid on the floor.",
+    "example3": "The company's assets were turned into liquid capital.",
+    "Explanation": "In physics, a 'liquid' is a state of matter between solid and gas. As a noun, it refers to any fluid substance. As an adjective, it can describe the state of matter ('liquid soap'), financial assets that are easily converted to cash ('liquid assets'), or smooth, flowing movements ('liquid grace'). The word is fundamental in science, finance, and everyday life. Understanding its properties is key to chemistry, cooking, and engineering.",
+    "synonyms": [
+      "fluid",
+      "juice",
+      "solution",
+      "flowing"
+    ],
+    "antonyms": [
+      "solid",
+      "gas",
+      "fixed (assets)"
+    ],
+    "nounForm": "liquid",
+    "verbForm": "liquefy",
+    "adjectiveForm": "liquid",
+    "partOfSpeech": "noun, adjective",
+    "commonContext": "Chemistry, finance, cooking, descriptions",
+    "usageTip": "Use 'liquid' as a noun for substances like water, and as an adjective to describe something fluid or easily convertible to cash.",
+    "commonMistake": "Confusing 'liquid' with 'liquor' (alcoholic drink).",
+    "collocations": [
+      "liquid assets",
+      "liquid crystal",
+      "clear liquid",
+      "turn into liquid"
+    ]
+  },
+  {
+    "word": "Liquid",
+    "meaning": "A substance that flows freely but has a constant volume",
+    "shortMeaning": "flowing state",
+    "example": "Coolant is a liquid used to lower hardware temperature.",
+    "example2": "Avoid spilling any liquid near the computer keyboard.",
+    "example3": "Liquid substances can cause short circuits in electronics.",
+    "Explanation": "In physics and chemistry, a liquid is a state of matter between solid and gas. In the context of technology, it often relates to cooling systems or display technologies. Liquid is also used metaphorically in finance to describe assets that can be easily converted into cash. It is important to distinguish between the physical state and its specific application in tech components. Being aware of the risks of liquid around electronics is a standard safety precaution in IT environments.",
+    "synonyms": [
+      "fluid",
+      "solution"
+    ],
+    "antonyms": [
+      "solid",
+      "gas"
+    ],
+    "nounForm": "liquid",
+    "verbForm": "N/A",
+    "adjectiveForm": "liquid",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Hardware, physics, cooling",
+    "usageTip": "Use 'liquid' to describe state of matter or financial liquidity.",
+    "commonMistake": "Confusing liquid state with viscous or thick fluids.",
+    "collocations": [
+      "liquid cooling",
+      "liquid crystal",
+      "liquid assets"
+    ]
+  }
+]

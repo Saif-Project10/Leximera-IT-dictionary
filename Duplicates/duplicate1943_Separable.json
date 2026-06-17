@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Separable",
+    "meaning": "Able to be moved or divided from a main group",
+    "shortMeaning": "can be divided",
+    "example": "The UI and the backend are separable modules.",
+    "example2": "The data is separable into two different formats.",
+    "example3": "We need to create a separable design for easier updates.",
+    "Explanation": "Separable means that things can be taken apart without damaging the whole. In software architecture, 'separating concerns' is a common goal, where you make parts (like the interface and the database logic) separable so you can update or fix one without touching the other. This modular design is a sign of good, professional coding. It makes maintenance easier and reduces the chance that a single change will break everything.",
+    "synonyms": [
+      "detachable",
+      "divisible",
+      "modular"
+    ],
+    "antonyms": [
+      "inseparable",
+      "unified",
+      "integrated"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separable",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design, modular coding",
+    "usageTip": "Use 'separable' to talk about design parts that can function independently.",
+    "commonMistake": "Confusing 'separable' (capable of being split) with 'separate' (already split).",
+    "collocations": [
+      "separable module",
+      "separable component",
+      "easily separable"
+    ]
+  },
+  {
+    "word": "Separable",
+    "meaning": "Able to be divided or pulled apart into separate pieces",
+    "shortMeaning": "can be divided",
+    "example": "The modular software components are easily separable.",
+    "example2": "We designed the database to have separable data layers.",
+    "example3": "Are the frontend and backend logic separable in this app?",
+    "Explanation": "Separable describes systems or parts that can be detached or divided without breaking the whole. In software, making code separable (or modular) is a sign of good design. It allows developers to replace or update specific parts of an application independently. When parts are not separable, they are called 'tightly coupled', which often makes maintenance very difficult. Aim for separable designs to increase flexibility.",
+    "synonyms": [
+      "divisible",
+      "detachable",
+      "modular"
+    ],
+    "antonyms": [
+      "inseparable",
+      "coupled"
+    ],
+    "nounForm": "separation",
+    "verbForm": "separate",
+    "adjectiveForm": "separable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, modular design",
+    "usageTip": "Use this to describe components that can function independently.",
+    "commonMistake": "Assuming 'separable' means 'easy to break'.",
+    "collocations": [
+      "separable components",
+      "separable layers",
+      "easily separable"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Include",
+    "meaning": "To make something or someone part of a group or set.",
+    "shortMeaning": "contain, have as part",
+    "example": "The price includes breakfast.",
+    "example2": "Please include your phone number on the form.",
+    "example3": "The tour includes a visit to the museum.",
+    "Explanation": "The verb 'include' is the opposite of exclude. It means to have something as a part of a whole. It is one of the most common verbs in English, used in lists, instructions, descriptions, and offers. It tells us what is contained within something else. The preposition 'in' is part of the word itself. A common phrase is 'including...' to give examples. Do not confuse it with 'consist of'; 'include' suggests the list may not be complete, while 'consist of' means it is the full list. It is essential for clear communication.",
+    "synonyms": [
+      "contain",
+      "incorporate",
+      "encompass"
+    ],
+    "antonyms": [
+      "exclude",
+      "omit",
+      "leave out"
+    ],
+    "nounForm": "inclusion",
+    "verbForm": "include",
+    "adjectiveForm": "inclusive",
+    "partOfSpeech": "verb",
+    "commonContext": "Lists, prices, groups, instructions",
+    "usageTip": "Use 'including' before an example: 'Many fruits, including apples and bananas.'",
+    "commonMistake": "Saying 'includes of' which is incorrect. It's simply 'includes' or 'including'.",
+    "collocations": [
+      "include in",
+      "price includes",
+      "always include"
+    ]
+  },
+  {
+    "word": "Include",
+    "meaning": "To contain or make something a part of a whole",
+    "shortMeaning": "contain",
+    "example": "The software package will include a detailed user manual.",
+    "example2": "Please include your contact information in the email.",
+    "example3": "The price does not include the cost of shipping.",
+    "Explanation": "The word 'include' is used when one thing is a member or a component of a larger group. In programming, an 'include' statement (like `#include` in C++ or `include` in PHP) is used to bring the contents of one file into another. This allows developers to reuse code across multiple pages or projects. Generally, 'including' something means it is now a part of the total. It is the opposite of 'exclude.'",
+    "synonyms": [
+      "contain",
+      "incorporate",
+      "involve"
+    ],
+    "antonyms": [
+      "exclude",
+      "omit",
+      "remove"
+    ],
+    "nounForm": "inclusion",
+    "verbForm": "include",
+    "adjectiveForm": "inclusive",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday life, programming, and contracts",
+    "usageTip": "Use 'include' when something is a part of a larger list or set.",
+    "commonMistake": "Using 'include' when the thing is the *only* part (include implies there are other parts too).",
+    "collocations": [
+      "include a feature",
+      "all-inclusive",
+      "include in the list"
+    ]
+  }
+]

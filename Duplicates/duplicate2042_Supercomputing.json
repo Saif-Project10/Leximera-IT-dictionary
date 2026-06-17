@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Supercomputing",
+    "meaning": "The use of extremely powerful computers to perform complex calculations",
+    "shortMeaning": "high-performance computing",
+    "example": "Supercomputing is essential for climate modeling.",
+    "example2": "The lab uses supercomputing to simulate physics experiments.",
+    "example3": "Advancements in supercomputing have changed scientific research.",
+    "Explanation": "Supercomputing involves the use of high-performance machines that are much faster and more capable than standard computers. These systems are used for tasks that require massive processing power, such as weather forecasting, molecular modeling, and complex cryptographic analysis. The field focuses on parallel processing and high-speed networking. It is a critical area for modern scientific discovery and complex engineering simulations. Supercomputing is a distinct field from standard enterprise server management.",
+    "synonyms": [
+      "high-performance computing",
+      "HPC"
+    ],
+    "antonyms": [
+      "personal computing"
+    ],
+    "nounForm": "supercomputer",
+    "verbForm": "N/A",
+    "adjectiveForm": "supercomputing",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Science, research, large-scale data analysis",
+    "usageTip": "Use this term when discussing systems that perform billions of calculations per second.",
+    "commonMistake": "Confusing supercomputing with cloud computing; they are different in architecture and scale.",
+    "collocations": [
+      "supercomputing center",
+      "supercomputing power",
+      "supercomputing research"
+    ]
+  },
+  {
+    "word": "Supercomputing",
+    "meaning": "The use of extremely powerful computers to solve complex problems",
+    "shortMeaning": "high-performance computing",
+    "example": "Researchers use supercomputing to simulate weather patterns.",
+    "example2": "Supercomputing allows for rapid data analysis on a massive scale.",
+    "example3": "The university invested in a new supercomputing cluster.",
+    "Explanation": "Supercomputing involves the use of supercomputers, which are the fastest and most powerful computing machines available. These systems are used for intensive calculations like climate modeling, drug discovery, and nuclear physics. It is a specialized field within computer science. Unlike regular computing, it focuses on parallel processing across thousands of nodes. It requires specialized software and cooling infrastructure to operate correctly.",
+    "synonyms": [
+      "high-performance computing",
+      "HPC",
+      "parallel processing"
+    ],
+    "antonyms": [
+      "personal computing",
+      "microcomputing",
+      "desktop computing"
+    ],
+    "nounForm": "supercomputing",
+    "verbForm": "N/A",
+    "adjectiveForm": "supercomputing",
+    "partOfSpeech": "noun",
+    "commonContext": "Scientific research, data analysis, IT infrastructure",
+    "usageTip": "Use 'supercomputing' when referring to large-scale simulations or complex calculations.",
+    "commonMistake": "Confusing it with standard cloud computing or basic server tasks.",
+    "collocations": [
+      "supercomputing center",
+      "supercomputing power",
+      "supercomputing cluster"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Optical",
+    "meaning": "Relating to sight, light, or the use of lenses and other devices to assist or enhance vision.",
+    "shortMeaning": "relating to sight or light",
+    "example": "The store sells optical instruments like microscopes and telescopes.",
+    "example2": "An optical illusion tricks your eyes into seeing something that isn't there.",
+    "example3": "He went for an optical examination to get new glasses.",
+    "Explanation": "'Optical' is an adjective connected to the science of light (optics) and vision. It is used to describe things that involve seeing, light, or lenses. Common uses include 'optical fiber' (for transmitting data with light), 'optical drive' (like a CD/DVD reader), and 'optical shop' (where eyeglasses are sold). The word is technical but widely understood due to common technologies. It distinguishes vision-based or light-based mechanisms from other types (e.g., mechanical or digital).",
+    "synonyms": [
+      "visual",
+      "opthalmic (for eyes)",
+      "photonic"
+    ],
+    "antonyms": [
+      "acoustic",
+      "tactile",
+      "non-visual"
+    ],
+    "nounForm": "optics",
+    "verbForm": "N/A",
+    "adjectiveForm": "optical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Science, technology, eye care, photography",
+    "usageTip": "In computing, an 'optical drive' reads data from discs using a laser.",
+    "commonMistake": "Confusing 'optical' (related to light/vision) with 'optimal' (best possible).",
+    "collocations": [
+      "optical illusion",
+      "optical fiber",
+      "optical microscope",
+      "optical center"
+    ]
+  },
+  {
+    "word": "Optical",
+    "meaning": "Related to light or the sense of sight.",
+    "shortMeaning": "related to light",
+    "example": "The mouse uses an optical sensor to track movement.",
+    "example2": "Optical fiber is used for high-speed internet connections.",
+    "example3": "He experienced an optical illusion while looking at the pattern.",
+    "Explanation": "The word 'optical' refers to things involving light, lenses, or visual instruments. In the IT industry, it often refers to technology that uses light to transmit data, like fiber optics. It can also refer to hardware components that detect light, such as optical mice or scanners. Understanding the basics of optics helps in working with displays, cameras, and data transmission equipment. It is a technical term that describes how light-based mechanisms work.",
+    "synonyms": [
+      "visual",
+      "light-based"
+    ],
+    "antonyms": [
+      "mechanical"
+    ],
+    "nounForm": "optics",
+    "verbForm": "N/A",
+    "adjectiveForm": "optical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, data transmission, physics",
+    "usageTip": "Use 'optical' when talking about technology based on light transmission.",
+    "commonMistake": "Confusing 'optical' with 'digital', though they can overlap.",
+    "collocations": [
+      "optical fiber",
+      "optical sensor",
+      "optical drive"
+    ]
+  }
+]

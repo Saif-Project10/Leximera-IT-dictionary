@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unlabeled",
+    "meaning": "Without a label or identifying mark.",
+    "shortMeaning": "without a label",
+    "example": "He bought an unlabeled can at the flea market, not knowing what was inside.",
+    "example2": "The unlabeled axis on the graph made it confusing.",
+    "example3": "Unlabeled chemicals in the lab are a serious safety hazard.",
+    "Explanation": "'Unlabeled' describes something that does not have a label attached to provide information such as contents, instructions, or destination. This is often problematic, as labels are crucial for safety (food, chemicals), organization (files), and information (maps). It is the direct opposite of 'labeled'. In data science, 'unlabeled data' is data without predefined tags, used in unsupervised learning. The term highlights a lack of information that is typically expected or required.",
+    "synonyms": [
+      "unmarked",
+      "untagged",
+      "unidentified",
+      "anonymous"
+    ],
+    "antonyms": [
+      "labeled",
+      "marked",
+      "tagged",
+      "identified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "label",
+    "adjectiveForm": "unlabeled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Products, science labs, data, maps",
+    "usageTip": "Spelled with one 'l' in American English; 'unlabelled' in British English.",
+    "commonMistake": "Confusing it with 'unlabored', which means done without effort.",
+    "collocations": [
+      "unlabeled bottle",
+      "unlabeled data",
+      "unlabeled boxes",
+      "unlabeled specimen"
+    ]
+  },
+  {
+    "word": "Unlabeled",
+    "meaning": "Not marked or identified with a tag or name",
+    "shortMeaning": "no tag",
+    "example": "The raw data is unlabeled and therefore hard to analyze.",
+    "example2": "An unlabeled port on the switch caused confusion.",
+    "example3": "We need to categorize the unlabeled assets.",
+    "Explanation": "In IT, 'unlabeled' means data or hardware that lacks descriptive information. In data science, 'unlabeled data' is useless for training supervised machine learning models because the computer doesn't know what it is looking at. In hardware, an unlabeled cable or switch port can be dangerous, leading to errors during maintenance. Always label your assets and data to ensure order and accessibility. It is a simple step that saves significant time during debugging or system changes. Lack of labels is a primary source of inefficiency.",
+    "synonyms": [
+      "unnamed",
+      "untagged",
+      "unmarked"
+    ],
+    "antonyms": [
+      "labeled",
+      "tagged",
+      "identified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlabeled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data labeling (ML), hardware maintenance",
+    "usageTip": "Use this when you need to organize assets.",
+    "commonMistake": "Ignoring the need for labels until you have a problem.",
+    "collocations": [
+      "unlabeled data",
+      "unlabeled port"
+    ]
+  },
+  {
+    "word": "Unlabeled",
+    "meaning": "Not having a tag or name to identify it.",
+    "shortMeaning": "no label",
+    "example": "The database contains several unlabeled data fields.",
+    "example2": "Unlabeled buttons can confuse the website user.",
+    "example3": "Sorting through unlabeled files is very difficult.",
+    "Explanation": "Labels are essential for clarity in both UI design and data management. 'Unlabeled' means something lacks an identifier, making it difficult to understand or process. In UI, unlabeled inputs lead to poor accessibility and user frustration. In data science, unlabeled datasets are raw data that haven't been categorized for machine learning. Always ensure that interfaces and data entries are properly labeled to maintain high standards of usability and organization.",
+    "synonyms": [
+      "unnamed",
+      "unmarked",
+      "anonymous"
+    ],
+    "antonyms": [
+      "labeled",
+      "identified",
+      "marked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "label",
+    "adjectiveForm": "unlabeled",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design and data science",
+    "usageTip": "Use to highlight a lack of descriptive naming.",
+    "commonMistake": "Thinking users will understand an unlabeled icon.",
+    "collocations": [
+      "unlabeled button",
+      "unlabeled data",
+      "unlabeled field"
+    ]
+  }
+]

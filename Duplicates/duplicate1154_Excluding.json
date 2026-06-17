@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Excluding",
+    "meaning": "Not taking someone or something into account; except.",
+    "shortMeaning": "not including",
+    "example": "The team, excluding the captain, has ten players.",
+    "example2": "Price: $100, excluding tax.",
+    "example3": "All mammals, excluding the platypus, give birth to live young.",
+    "Explanation": "'Excluding' is the present participle of 'exclude', often used as a preposition. It means not including; apart from. It's commonly used in specifications, lists, and descriptions to make clear what is not part of a total or group. It's a more formal alternative to 'except' or 'but'. It's very useful in technical, financial, and legal writing for precision. It can also function as a verb in continuous tenses ('We are excluding them from the list').",
+    "synonyms": [
+      "except",
+      "apart from",
+      "not including"
+    ],
+    "antonyms": [
+      "including",
+      "together with"
+    ],
+    "nounForm": "exclusion",
+    "verbForm": "exclude",
+    "adjectiveForm": "excluding",
+    "partOfSpeech": "preposition, verb (present participle)",
+    "commonContext": "Prices, statistics, groups, conditions",
+    "usageTip": "Use it at the beginning or in the middle of a phrase to specify what is left out.",
+    "commonMistake": "Placing it at the end of a sentence awkwardly; it usually introduces the exception (e.g., 'The cost is $50, excluding delivery').",
+    "collocations": [
+      "excluding VAT",
+      "present company excluded",
+      "all excluding"
+    ]
+  },
+  {
+    "word": "Excluding",
+    "meaning": "Leaving out or not including",
+    "shortMeaning": "not including",
+    "example": "The final report, excluding the appendix, is 20 pages.",
+    "example2": "We are excluding legacy browsers from this update.",
+    "example3": "Excluding this user, everyone else has access.",
+    "Explanation": "Excluding describes the act of ignoring or leaving out specific items, users, or categories. It is very common in filtering, database queries, and conditional logic. Being clear about what you are excluding is just as important as stating what you are including. It helps define the scope of a feature or an analysis.",
+    "synonyms": [
+      "omitting",
+      "leaving out",
+      "excepting"
+    ],
+    "antonyms": [
+      "including",
+      "adding"
+    ],
+    "nounForm": "exclusion",
+    "verbForm": "exclude",
+    "adjectiveForm": "exclusive",
+    "partOfSpeech": "verb / preposition",
+    "commonContext": "Filtering, scope definition, logic",
+    "usageTip": "Use 'excluding' to clearly define boundaries in data.",
+    "commonMistake": "Forgetting to clarify why something is being excluded.",
+    "collocations": [
+      "excluding data",
+      "excluding from",
+      "excluding those"
+    ]
+  }
+]

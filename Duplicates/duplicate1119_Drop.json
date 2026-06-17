@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Drop",
+    "meaning": "To fall or let fall; a small amount of liquid; or to decrease.",
+    "shortMeaning": "fall; small liquid amount; decrease",
+    "example": "Be careful not to drop the glass.",
+    "example2": "Add a drop of oil to the mixture.",
+    "example3": "Temperatures will drop overnight.",
+    "Explanation": "'Drop' is an extremely versatile word that can be a verb (to fall, to decrease, to let fall) or a noun (a small amount of liquid, a fall, a decrease). It's used in countless contexts: physics (objects drop), weather (temperature drops), medicine (eye drops), music (beat drops), and everyday situations. As a verb, it often implies sudden or rapid movement downward. As a noun for liquid, it suggests a very small quantity. Its many meanings make it one of the most frequently used words in English, both literally and figuratively.",
+    "synonyms": [
+      "fall",
+      "decrease",
+      "decline",
+      "drip"
+    ],
+    "antonyms": [
+      "rise",
+      "increase",
+      "lift",
+      "catch"
+    ],
+    "nounForm": "drop",
+    "verbForm": "drop",
+    "adjectiveForm": "dropped",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Physics, weather, liquids, music, sports",
+    "usageTip": "As verb: 'drop the ball' (literally or figuratively). As noun: 'a drop of water', 'a price drop'.",
+    "commonMistake": "Confusing with 'drip'. A drop is a single unit of liquid; drip is the action of falling in drops.",
+    "collocations": [
+      "drop off",
+      "drop in",
+      "drop out"
+    ]
+  },
+  {
+    "word": "Drop",
+    "meaning": "To let something fall, or to stop doing or including something",
+    "shortMeaning": "fall or quit",
+    "example": "Be careful not to drop your phone on the hard floor.",
+    "example2": "The company decided to drop the project because it was too expensive.",
+    "example3": "You can drop the file here to upload it.",
+    "Explanation": "Dropping can be accidental (falling) or intentional (quitting). In 'drag and drop,' it is the final step of moving a file. In database management, to 'drop' a table means to delete it completely. In music, when a new song 'drops,' it means it has been released to the public. It is a very common word that can mean 'to lose,' 'to delete,' 'to release,' or 'to lower' depending on what you are talking about.",
+    "synonyms": [
+      "fall",
+      "abandon",
+      "release"
+    ],
+    "antonyms": [
+      "pick up",
+      "keep",
+      "raise"
+    ],
+    "nounForm": "drop / droplet",
+    "verbForm": "drop",
+    "adjectiveForm": "dropped",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physical actions, databases, and music",
+    "usageTip": "Use 'drop' in a database context very carefully, as it usually deletes data permanently.",
+    "commonMistake": "Confusing 'drop' with 'stop'; 'drop' usually implies letting go or removing, while 'stop' means halting.",
+    "collocations": [
+      "drop and drag",
+      "drop the ball",
+      "new album drop"
+    ]
+  }
+]

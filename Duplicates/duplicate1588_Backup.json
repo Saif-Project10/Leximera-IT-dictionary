@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Backup",
+    "meaning": "A copy of data made to protect it from loss or damage",
+    "shortMeaning": "data copy",
+    "example": "Always make a backup of your files before updating the software.",
+    "example2": "The daily backup is stored on an external hard drive.",
+    "example3": "We lost our data, but luckily we had a recent backup.",
+    "Explanation": "A backup is an extra copy of digital information that you keep in a safe place. In the world of IT, backups are the most important defense against hardware failure, accidental deletion, or cyberattacks like ransomware. If the original data is lost, you can use the backup to restore everything. Backups can be stored on physical disks, tapes, or in the cloud. A good backup strategy usually follows the '3-2-1' rule: three copies, on two different media, with one off-site. Without backups, a simple mistake can lead to permanent data loss.",
+    "synonyms": [
+      "duplicate",
+      "copy",
+      "archive"
+    ],
+    "antonyms": [
+      "original",
+      "primary data",
+      "N/A"
+    ],
+    "nounForm": "backup",
+    "verbForm": "back up",
+    "adjectiveForm": "backup",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Data security and general computing",
+    "usageTip": "Use 'backup' (one word) as a noun/adjective, and 'back up' (two words) as a verb.",
+    "commonMistake": "Forgetting to test if the backup actually works before an emergency happens.",
+    "collocations": [
+      "data backup",
+      "cloud backup",
+      "perform a backup"
+    ]
+  },
+  {
+    "word": "Backup",
+    "meaning": "An extra copy of data or equipment kept safe to use if the original is lost or damaged",
+    "shortMeaning": "safety copy",
+    "example": "Always create a secure backup of your files before formatting a hard drive.",
+    "example2": "The cloud backup saved our company records after the ransomware attack.",
+    "example3": "We maintain a backup server to take over if the main website crashes.",
+    "Explanation": "The word 'backup' represents a vital safety practice in computer management and cybersecurity. It means keeping redundant copies of data, settings, or physical hardware components. If malware strikes, hardware breaks, or files get deleted by accident, the backup restores systems to safety. Regular backup schedules keep operations running reliably. It can be a noun, adjective, or verb phrase.",
+    "synonyms": [
+      "copy",
+      "reserve",
+      "duplicate"
+    ],
+    "antonyms": [
+      "original",
+      "master copy"
+    ],
+    "nounForm": "backup",
+    "verbForm": "back up",
+    "adjectiveForm": "backup",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data storage safety, emergency recovery plans, and server administration",
+    "usageTip": "Write 'backup' as one word for the noun/adjective, but use two words 'back up' for the action verb.",
+    "commonMistake": "Using 'backup' as a verb; write 'Please back up the files' instead of 'Please backup the files'.",
+    "collocations": [
+      "cloud backup",
+      "backup plan",
+      "system backup"
+    ]
+  },
+  {
+    "word": "Backup",
+    "meaning": "The actual copy of data that is kept in case the original is lost or broken",
+    "shortMeaning": "the safety copy",
+    "example": "I have a backup of my entire website on this external drive.",
+    "example2": "Always check if your backup is working before you delete the original files.",
+    "example3": "The cloud backup is updated every night at 2 AM.",
+    "Explanation": "While 'back up' (verb) is the action, 'backup' (noun) is the object. It is the physical or digital file that you have saved. A good backup should be an exact mirror of your data. In IT systems, backups are categorized as 'Full', 'Incremental', or 'Differential'. Having a 'clean backup' is the only way to recover from a 'Ransomware' attack where hackers lock your files. It is the most valuable asset for any system administrator. Always remember: data doesn't exist unless it's in at least two places.",
+    "synonyms": [
+      "duplicate",
+      "reserve",
+      "standby copy"
+    ],
+    "antonyms": [
+      "original",
+      "primary source"
+    ],
+    "nounForm": "backup",
+    "verbForm": "N/A",
+    "adjectiveForm": "backup (e.g., backup server)",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data security, recovery planning, disaster management",
+    "usageTip": "Test your backup regularly; a backup that cannot be opened is useless.",
+    "commonMistake": "Writing 'back up' when you are talking about the file; for the file, use one word.",
+    "collocations": [
+      "full backup",
+      "cloud backup",
+      "backup plan"
+    ]
+  }
+]

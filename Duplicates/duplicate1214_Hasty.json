@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Hasty",
+    "meaning": "Done or acting with excessive speed or urgency; hurried.",
+    "shortMeaning": "hurried, rushed",
+    "example": "He made a hasty decision he later regretted.",
+    "example2": "We beat a hasty retreat when we saw the police.",
+    "example3": "Her hasty reply was full of errors.",
+    "Explanation": "'Hasty' is an adjective describing actions taken quickly, often too quickly, without proper thought or care. It usually has a negative connotation, implying rashness, impatience, and a lack of deliberation. The adverb is 'hastily'. It's used to criticize decisions, judgments, exits, or work done in a rush. The phrase 'hasty generalization' is a logical fallacy. While 'quick' can be neutral or positive, 'hasty' is almost always a flaw, suggesting that speed came at the cost of quality, safety, or correctness.",
+    "synonyms": [
+      "hurried",
+      "rash",
+      "precipitate"
+    ],
+    "antonyms": [
+      "deliberate",
+      "careful",
+      "leisurely"
+    ],
+    "nounForm": "haste",
+    "verbForm": "hasten",
+    "adjectiveForm": "hasty",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decisions, actions, departures, judgments",
+    "usageTip": "Often used with words like 'decision', 'retreat', 'conclusion', or 'preparation'.",
+    "commonMistake": "Confusing 'hasty' with 'hearty' (enthusiastic and friendly).",
+    "collocations": [
+      "hasty exit",
+      "hasty pudding",
+      "hasty words"
+    ]
+  },
+  {
+    "word": "Hasty",
+    "meaning": "Done with excessive speed or lack of proper care",
+    "shortMeaning": "too fast, rushed",
+    "example": "A hasty decision to skip testing led to major bugs.",
+    "example2": "The team regretted their hasty implementation of the feature.",
+    "example3": "Avoid hasty changes to the configuration file without backing up.",
+    "Explanation": "The word 'hasty' describes actions that are rushed and lack the necessary planning. In professional IT, being 'hasty' is almost always a negative trait because it often results in errors, security gaps, or broken code. It is the opposite of 'thorough' or 'diligent'. When you are working on critical systems, it is better to take the time to do things correctly than to risk the consequences of a hasty, rushed solution.",
+    "synonyms": [
+      "rushed",
+      "impulsive",
+      "careless"
+    ],
+    "antonyms": [
+      "thorough",
+      "careful",
+      "deliberate"
+    ],
+    "nounForm": "hastiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "hasty",
+    "partOfSpeech": "adjective",
+    "commonContext": "Professional judgment, development speed, error analysis",
+    "usageTip": "Use 'hasty' to describe mistakes caused by rushing.",
+    "commonMistake": "Using 'hasty' in a positive way (it usually implies negative consequences).",
+    "collocations": [
+      "hasty decision",
+      "hasty implementation",
+      "hasty change"
+    ]
+  }
+]

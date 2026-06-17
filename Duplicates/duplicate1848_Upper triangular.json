@@ -1,0 +1,87 @@
+[
+  {
+    "word": "Upper triangular",
+    "meaning": "A square matrix where all the numbers below the main diagonal are zero.",
+    "shortMeaning": "top-heavy matrix",
+    "example": "To solve the system of equations, we first turned the matrix into an upper triangular form.",
+    "example2": "An upper triangular matrix is much easier for a computer to process.",
+    "example3": "In an upper triangular matrix, any element  is zero if .",
+    "Explanation": "Upper triangular is a term from 'linear algebra', a branch of math used heavily in AI and 3D graphics. In a matrix (a grid of numbers), the 'diagonal' goes from the top-left to the bottom-right. If all the numbers below that line are zeros, it is an 'upper triangular' matrix. These matrices are very important because they make it easy to solve complex math problems using a method called 'back substitution'. They are a standard output of many mathematical algorithms.",
+    "synonyms": [
+      "triangular matrix",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "lower triangular",
+      "diagonal matrix",
+      "N/A"
+    ],
+    "nounForm": "upper triangular matrix",
+    "verbForm": "N/A",
+    "adjectiveForm": "upper triangular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics, AI, and graphics programming",
+    "usageTip": "Use 'upper triangular' when discussing matrix decomposition or solving linear systems.",
+    "commonMistake": "Thinking the diagonal itself must be zero; the diagonal can have any numbers.",
+    "collocations": [
+      "upper triangular matrix",
+      "upper triangular form",
+      "N/A"
+    ]
+  },
+  {
+    "word": "Upper triangular",
+    "meaning": "A matrix where all elements below the main diagonal are zero.",
+    "shortMeaning": "matrix structure",
+    "example": "The algorithm works best with upper triangular matrices.",
+    "example2": "We simplified the calculation using an upper triangular form.",
+    "example3": "The upper triangular matrix makes solving equations faster.",
+    "Explanation": "The term 'upper triangular' describes a square matrix in linear algebra where all entries below the diagonal are zero. This is a common structure in high-performance computing, numerical analysis, and machine learning to optimize calculations. It is an adjective. Understanding this structure is important when optimizing algorithms for solving systems of linear equations. Use this term in technical documentation or mathematical programming.",
+    "synonyms": [
+      "triangular"
+    ],
+    "antonyms": [
+      "lower triangular"
+    ],
+    "nounForm": "upper triangular matrix",
+    "verbForm": "N/A",
+    "adjectiveForm": "upper triangular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Linear algebra, numerical computing, and machine learning",
+    "usageTip": "Use 'upper triangular' when discussing matrix optimization.",
+    "commonMistake": "Confusing it with lower triangular matrices.",
+    "collocations": [
+      "upper triangular matrix",
+      "upper triangular form",
+      "upper triangular structure"
+    ]
+  },
+  {
+    "word": "Upper triangular",
+    "meaning": "A matrix where all entries below the main diagonal are zero",
+    "shortMeaning": "matrix structure",
+    "example": "The algorithm works faster on an upper triangular matrix.",
+    "example2": "In linear algebra, we often use upper triangular forms.",
+    "example3": "The solver assumes the input is upper triangular.",
+    "Explanation": "Upper triangular is a term from mathematics and computer science, particularly in matrix operations. It describes a square matrix where every element located below the main diagonal is zero. This specific structure is highly efficient for certain computational algorithms, such as solving systems of linear equations or calculating determinants. Recognizing an upper triangular matrix allows programmers to optimize their code by skipping unnecessary calculations for the zero-value entries. It is a fundamental concept in numerical computing and data science.",
+    "synonyms": [
+      "triangular-form"
+    ],
+    "antonyms": [
+      "lower triangular"
+    ],
+    "nounForm": "upper triangle",
+    "verbForm": "N/A",
+    "adjectiveForm": "upper triangular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mathematics and numerical algorithms",
+    "usageTip": "Use it when discussing specialized matrix math.",
+    "commonMistake": "Assuming it means all elements are zero except the diagonal.",
+    "collocations": [
+      "upper triangular matrix",
+      "upper triangular form",
+      "convert to upper triangular"
+    ]
+  }
+]

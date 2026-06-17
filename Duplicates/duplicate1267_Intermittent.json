@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Intermittent",
+    "meaning": "Occurring at irregular intervals; not continuous or steady.",
+    "shortMeaning": "sporadic; not constant",
+    "example": "We had intermittent rain throughout the day.",
+    "example2": "The car has an intermittent electrical problem.",
+    "example3": "He suffers from intermittent back pain.",
+    "Explanation": "'Intermittent' is an adjective describing something that starts and stops at irregular intervals; not continuous. It suggests unpredictability - periods of activity alternating with periods of inactivity. Common with weather (intermittent showers), problems (intermittent fault), pain (intermittent pain), and signals (intermittent signal). The adverb is 'intermittently'. The word comes from Latin 'intermittere' meaning to leave off. Intermittent things are frustrating because they're unreliable - working sometimes, not others. Diagnosing intermittent problems is often harder than constant ones. The pattern is broken rather than steady, with gaps or pauses between occurrences.",
+    "synonyms": [
+      "sporadic",
+      "occasional",
+      "periodic",
+      "irregular"
+    ],
+    "antonyms": [
+      "constant",
+      "continuous",
+      "steady",
+      "uninterrupted"
+    ],
+    "nounForm": "intermittence",
+    "verbForm": "intermit",
+    "adjectiveForm": "intermittent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Weather, problems, pain, signals, patterns",
+    "usageTip": "Often used before nouns: 'intermittent rain', 'intermittent problem', 'intermittent fasting' (eating pattern).",
+    "commonMistake": "Confusing with 'intermediate' (in-between). Intermittent means sporadic; intermediate means middle level.",
+    "collocations": [
+      "intermittent rain",
+      "intermittent fault",
+      "intermittent pain"
+    ]
+  },
+  {
+    "word": "Intermittent",
+    "meaning": "Stopping and starting at intervals; not continuous",
+    "shortMeaning": "periodic",
+    "example": "The server is experiencing intermittent connection drops.",
+    "example2": "We fixed the intermittent bug that only appeared sometimes.",
+    "example3": "Intermittent rain delayed the outdoor network installation.",
+    "Explanation": "The word 'intermittent' describes events or signals that occur irregularly or stop and start over time. In IT, intermittent issues are often the most difficult to troubleshoot because they do not happen constantly, making them hard to reproduce. When you see an intermittent error, you should carefully log all system activity to catch the exact moment the failure occurs. It is important not to dismiss intermittent problems as minor, as they often hint at underlying hardware instability or race conditions.",
+    "synonyms": [
+      "sporadic",
+      "periodic",
+      "fitful"
+    ],
+    "antonyms": [
+      "continuous",
+      "constant",
+      "steady"
+    ],
+    "nounForm": "intermittency",
+    "verbForm": "N/A",
+    "adjectiveForm": "intermittent",
+    "partOfSpeech": "adjective",
+    "commonContext": "System stability, troubleshooting",
+    "usageTip": "Use 'intermittent' for issues that come and go.",
+    "commonMistake": "Confusing 'intermittent' with 'random' (intermittent usually has a pattern).",
+    "collocations": [
+      "intermittent connection",
+      "intermittent error",
+      "intermittent failure"
+    ]
+  }
+]

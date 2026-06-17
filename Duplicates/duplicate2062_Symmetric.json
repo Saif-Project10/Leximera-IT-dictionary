@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Symmetric",
+    "meaning": "Made of parts that correspond to each other in size and shape",
+    "shortMeaning": "balanced",
+    "example": "The algorithm uses a symmetric encryption key.",
+    "example2": "The design is perfectly symmetric on both sides.",
+    "example3": "Symmetric structures provide better structural stability.",
+    "Explanation": "The word 'symmetric' (or 'symmetrical') means that something is perfectly balanced, with one side mirroring the other. In cybersecurity, 'symmetric encryption' means the same key is used for both locking (encrypting) and unlocking (decrypting) data. This is a vital concept in cryptography. In UI design, symmetric layouts provide a sense of order and cleanliness. It is a fundamental term for balance and consistency in both data systems and visual design.",
+    "synonyms": [
+      "balanced",
+      "proportional",
+      "even"
+    ],
+    "antonyms": [
+      "asymmetric",
+      "uneven",
+      "unbalanced"
+    ],
+    "nounForm": "symmetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "symmetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cryptography, design, math",
+    "usageTip": "Use when describing balanced systems or keys.",
+    "commonMistake": "Confusing 'symmetric' with 'asymmetric' in encryption contexts.",
+    "collocations": [
+      "symmetric encryption",
+      "symmetric key",
+      "symmetric layout"
+    ]
+  },
+  {
+    "word": "Symmetric",
+    "meaning": "Having the same shape, size, or properties on both sides",
+    "shortMeaning": "balanced",
+    "example": "The encryption algorithm uses a symmetric key.",
+    "example2": "The network design is perfectly symmetric.",
+    "example3": "Symmetric multiprocessors allow for balanced load sharing.",
+    "Explanation": "Symmetry in IT usually relates to balance, whether in data, encryption, or hardware architecture. In cryptography, 'symmetric' means the same key is used for both encryption and decryption. In architecture, it suggests a balanced distribution of components or resources. It is a key technical term that implies parity, consistency, and predictable structure. It is essential in understanding secure communication and high-performance computing design.",
+    "synonyms": [
+      "balanced",
+      "proportional",
+      "even"
+    ],
+    "antonyms": [
+      "asymmetric",
+      "unbalanced",
+      "uneven"
+    ],
+    "nounForm": "symmetry",
+    "verbForm": "N/A",
+    "adjectiveForm": "symmetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cryptography, system architecture, hardware",
+    "usageTip": "Use to describe balanced or two-way matching systems.",
+    "commonMistake": "Confusing it with 'asymmetric' in encryption contexts.",
+    "collocations": [
+      "symmetric encryption",
+      "symmetric key",
+      "symmetric multiprocessing"
+    ]
+  }
+]

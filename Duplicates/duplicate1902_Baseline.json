@@ -1,0 +1,53 @@
+[
+  {
+    "word": "Baseline",
+    "meaning": "A starting point or standard measurement used to compare future changes or performance",
+    "shortMeaning": "starting standard",
+    "example": "We recorded a performance baseline before launching the code optimization script.",
+    "example2": "The server's CPU usage is far above its normal baseline level today.",
+    "example3": "Establish a security baseline to detect unusual activity on the network.",
+    "Explanation": "The word 'baseline' represents an initial standard or point of reference in systems monitoring and project management. Before changing code or hardware layouts, engineers measure speed, data load, or resource use as a baseline. Later tests are compared to this baseline to verify if updates actually improved performance or caused new lag. It serves as a scientific control point for IT systems.",
+    "synonyms": [
+      "standard",
+      "starting point",
+      "benchmark"
+    ],
+    "antonyms": [
+      "peak",
+      "anomaly",
+      "deviation"
+    ],
+    "nounForm": "baseline",
+    "verbForm": "baseline",
+    "adjectiveForm": "baseline",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Server speed testing, security threat detection, and performance tracking",
+    "usageTip": "Always establish a baseline before making massive changes to system settings or databases.",
+    "commonMistake": "Confusing 'baseline' with a 'deadline'; baseline is a metric standard, deadline is a time limit.",
+    "collocations": [
+      "establish a baseline",
+      "baseline performance",
+      "baseline measurement"
+    ]
+  },
+  {
+    "word": "Baseline",
+    "meaning": "A starting point or standard used for comparison",
+    "shortMeaning": "standard for comparison",
+    "example": "We need to set a baseline for performance before we start optimizing the code.",
+    "example2": "The doctor used the first test results as a baseline for his recovery.",
+    "example3": "In typography, the baseline is the invisible line where letters sit.",
+    "Explanation": "A baseline is a known value that you compare everything else against. In project management, a 'Performance Baseline' helps you see if the project is on track. In web performance, you measure how fast a page loads *now* (the baseline) so you can see if your changes actually made it faster. Without a baseline, you cannot measure progress accurately. It is the 'ground zero' of measurement.",
+    "synonyms": [
+      "benchmark",
+      "standard",
+      "datum"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "commonContext": "Statistics, performance testing, and typography",
+    "usageTip": "Always record your baseline metrics before starting a new optimization phase.",
+    "partOfSpeech": "noun"
+  }
+]

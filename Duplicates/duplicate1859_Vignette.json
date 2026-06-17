@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Vignette",
+    "meaning": "A small decorative design or a photo effect where the edges fade into a darker color",
+    "shortMeaning": "faded edges",
+    "example": "The photographer added a subtle vignette to focus attention on the subject's face.",
+    "example2": "The movie used a dark vignette during the dream sequence.",
+    "example3": "In the old days, a vignette was often a small drawing at the start of a book chapter.",
+    "Explanation": "A vignette (pronounced vin-YET) is a visual technique used in photography, film, and graphic design. It involves reducing the brightness or saturation at the edges of an image compared to the center. This naturally draws the viewer's eye toward the middle of the frame. While it was once a 'flaw' of old camera lenses, it is now a popular artistic choice in editing software. It can create a feeling of intimacy, mystery, or nostalgia depending on how strong the effect is.",
+    "synonyms": [
+      "border fade",
+      "edge shading",
+      "soft border"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "vignette",
+    "verbForm": "vignette",
+    "adjectiveForm": "vignetted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Photography, cinematography, and graphic design",
+    "usageTip": "Use 'vignette' when you want to describe a 'frame' effect inside a photo.",
+    "commonMistake": "Spelling it as 'vinet'; the silent 'g' and 'te' at the end come from French.",
+    "collocations": [
+      "subtle vignette",
+      "dark vignette",
+      "add a vignette"
+    ]
+  },
+  {
+    "word": "Vignette",
+    "meaning": "A visual effect that darkens the outer edges of a digital image or video frame to focus attention on the center",
+    "shortMeaning": "darkened image edge effect",
+    "example": "We can add a subtle vignette effect to our landing page header photo using CSS gradient overlays.",
+    "example2": "The photo editing app includes an adjustment slider to control vignette intensity values.",
+    "example3": "The developer disabled the camera vignette filter inside the video game settings to improve image clarity.",
+    "Explanation": "In digital image processing, photography tools, and frontend UI design, a 'vignette' is a popular visual styling effect. It applies a soft gradient that darkens or blurs the outer borders of an image while keeping the center clear and bright. Web designers use CSS gradients or SVG filters to apply vignettes to background images, drawing the user's eye to central call-to-action buttons or headline text elements.",
+    "synonyms": [
+      "shaded border filter",
+      "edge gradient shading",
+      "vignette overlay"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "vignette",
+    "verbForm": "vignette",
+    "adjectiveForm": "vignetted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Frontend styling design sheets, digital photo editing applications, and game graphic filters",
+    "usageTip": "Use 'vignette' when discussing CSS style filters or photo settings that darken image edges to highlight central content.",
+    "commonMistake": "Spelling it 'vinet' or 'vignete'; the correct spelling is always 'vignette'.",
+    "collocations": [
+      "vignette effect overlay",
+      "apply a subtle vignette",
+      "vignette filter settings"
+    ]
+  }
+]

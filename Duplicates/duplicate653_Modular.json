@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Modular",
+    "meaning": "Designed with standardized units or sections that can be arranged or replaced easily",
+    "shortMeaning": "made of separate sections",
+    "example": "The sofa is modular, so you can arrange the pieces as you like.",
+    "example2": "The software uses a modular design for easy updates.",
+    "example3": "They live in a modular home built in a factory.",
+    "Explanation": "'Modular' is an adjective describing a design approach where a system is composed of separate, interchangeable parts called modules. This allows for flexibility, easy repair, and customization. It is a common concept in furniture, computing, architecture, and education (modular courses). The noun form is 'module'. It is a technical-sounding word but is increasingly used in everyday products, especially in tech and DIY contexts.",
+    "synonyms": [
+      "sectional",
+      "unit-based",
+      "configurable",
+      "standardized"
+    ],
+    "antonyms": [
+      "monolithic",
+      "integral",
+      "fixed",
+      "one-piece"
+    ],
+    "nounForm": "module",
+    "verbForm": "modularize",
+    "adjectiveForm": "modular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Furniture, software, construction, engineering",
+    "usageTip": "Use 'modular' to describe something that is built from independent pieces that can be combined in different ways.",
+    "commonMistake": "Pronouncing it as 'mod-u-lar' instead of 'mod-juh-lar'.",
+    "collocations": [
+      "modular design",
+      "modular system",
+      "modular furniture",
+      "modular construction"
+    ]
+  },
+  {
+    "word": "Modular",
+    "meaning": "Composed of separate units that can be used or replaced independently",
+    "shortMeaning": "built in parts",
+    "example": "We designed a modular system that is easy to upgrade.",
+    "example2": "Modular code is easier to debug and test.",
+    "example3": "The application is built with modular components.",
+    "Explanation": "The word 'modular' describes an approach where a large system is divided into smaller, independent parts (modules). Each module performs a specific function and can be swapped, updated, or reused without affecting the rest of the system. This makes software highly maintainable and flexible. It is a gold standard in modern software architecture, encouraging the 'separation of concerns' principle. It is essential for managing large-scale, long-term development.",
+    "synonyms": [
+      "component-based",
+      "decoupled",
+      "segmented"
+    ],
+    "antonyms": [
+      "monolithic",
+      "integrated"
+    ],
+    "nounForm": "module",
+    "verbForm": "N/A",
+    "adjectiveForm": "modular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, design",
+    "usageTip": "Use to describe systems built from independent parts.",
+    "commonMistake": "Confusing 'modular' (organized) with 'complex' (difficult to manage).",
+    "collocations": [
+      "modular architecture",
+      "modular code",
+      "modular system"
+    ]
+  }
+]

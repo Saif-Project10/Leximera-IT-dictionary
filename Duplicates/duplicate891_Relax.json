@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Relax",
+    "meaning": "To become less tense, anxious, or formal; to rest",
+    "shortMeaning": "rest, unwind",
+    "example": "After work, I like to relax with a good book.",
+    "example2": "The rules relax a little on the weekend.",
+    "example3": "Relax your shoulders; you look very tense.",
+    "Explanation": "'Relax' is a common verb describing the act of becoming calm and free from tension. It can be used for both people and rules/standards. It's a key word for talking about health, wellness, and leisure. The noun is 'relaxation'. Don't confuse it with 'release', which means to let go. 'Relax' implies a state of ease rather than an action of setting free.",
+    "synonyms": [
+      "unwind",
+      "rest",
+      "loosen up"
+    ],
+    "antonyms": [
+      "tense up",
+      "stress",
+      "tighten"
+    ],
+    "nounForm": "relaxation",
+    "verbForm": "relax",
+    "adjectiveForm": "relaxed",
+    "partOfSpeech": "verb",
+    "commonContext": "Stress relief, holidays, informal settings",
+    "usageTip": "Use 'relax' to tell someone to calm down or to describe your leisure time.",
+    "commonMistake": "Using 'relax' to mean 'release' (e.g., 'relax the prisoner' is incorrect).",
+    "collocations": [
+      "relax and enjoy",
+      "relax your muscles",
+      "fully relax"
+    ]
+  },
+  {
+    "word": "Relax",
+    "meaning": "To reduce strict software constraint policies, loosen system rules, or take a personal break after intense programming schedules",
+    "shortMeaning": "loosen constraints or rest",
+    "example": "The security admin decided to relax the password complexity rules slightly to improve user registration rates.",
+    "example2": "You can relax the validation check constraints on your staging server during internal manual testing.",
+    "example3": "After finishing the intensive web design competition, the student finally took a weekend to relax.",
+    "Explanation": "The word 'relax' carries two distinct uses in the technology sector. In system architecture and database administration, it describes intentionally loosening strict constraint rules, security configurations, or data type validations (e.g., relaxing a firewall policy to permit certain testing traffic). This is done to simplify testing or smooth out onboarding paths. In professional career contexts, it describes the necessary act of resting after intense periods of writing code or resolving system crashes, helping prevent burnout.",
+    "synonyms": [
+      "loosen",
+      "soften rules",
+      "unwind"
+    ],
+    "antonyms": [
+      "tighten",
+      "restrict further",
+      "intensify"
+    ],
+    "nounForm": "relaxation",
+    "verbForm": "relax",
+    "adjectiveForm": "relaxed",
+    "partOfSpeech": "verb",
+    "commonContext": "System validation policies, firewall adjustments, personal dev breaks",
+    "usageTip": "Use 'relax' when intentionally easing system rules or taking personal rest after an intensive development sprint.",
+    "commonMistake": "Relaxing database or security policies on live production servers, which can introduce serious security vulnerabilities.",
+    "collocations": [
+      "relax security constraints",
+      "relax validation rules",
+      "time to relax"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Thread safe",
+    "meaning": "Code that functions correctly when called by multiple threads simultaneously",
+    "shortMeaning": "safe for multi-threading",
+    "example": "This counter class is not thread safe and might lose data.",
+    "example2": "You must use a thread safe collection if multiple threads will modify it.",
+    "example3": "The developer added locks to make the function thread safe.",
+    "Explanation": "Thread safe is a term used to describe a piece of code (like a function or a class) that can be used by many threads at the same time without causing errors. In multi-threaded environments, if code is not thread-safe, one thread might overwrite the data of another, leading to crashes or 'garbage' results. To make code thread-safe, developers use techniques like 'locking', 'mutexes', or 'atomic operations'. It is one of the most important concepts to master for modern software development.",
+    "synonyms": [
+      "synchronized",
+      "reentrant",
+      "concurrency-safe"
+    ],
+    "antonyms": [
+      "thread-unsafe",
+      "non-thread-safe"
+    ],
+    "nounForm": "thread safety",
+    "verbForm": "N/A",
+    "adjectiveForm": "thread-safe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and API design",
+    "usageTip": "Always check if a third-party library is 'thread safe' before using it in a web server.",
+    "commonMistake": "Assuming that simple operations like 'i++' are thread safe; they usually are not.",
+    "collocations": [
+      "thread safe code",
+      "thread safe implementation",
+      "make thread safe"
+    ]
+  },
+  {
+    "word": "Thread safe",
+    "meaning": "Able to be accessed by multiple threads without errors or corruption",
+    "shortMeaning": "safe for parallel use",
+    "example": "The logger class must be thread safe.",
+    "example2": "We updated the library to make it thread safe.",
+    "example3": "Non thread safe objects should not be shared across threads.",
+    "Explanation": "A piece of code or data is 'thread safe' if it can be accessed by several threads at once without causing data corruption or crashes. If code is not thread safe, simultaneous access can lead to unpredictable results or race conditions. This is a crucial concept in software development for multi-core systems. Writing thread safe code is a core skill for backend and high-performance programmers.",
+    "synonyms": [
+      "synchronized",
+      "reliable",
+      "concurrent-ready"
+    ],
+    "antonyms": [
+      "unsafe",
+      "non-thread-safe",
+      "corruptible"
+    ],
+    "nounForm": "thread safety",
+    "verbForm": "N/A",
+    "adjectiveForm": "thread-safe",
+    "partOfSpeech": "adjective",
+    "commonContext": "Backend development, multithreading",
+    "usageTip": "Use 'thread safe' to describe reliable code in parallel environments.",
+    "commonMistake": "Assuming that a variable is thread safe by default (most are not).",
+    "collocations": [
+      "thread safe code",
+      "thread safe class",
+      "ensure thread safety"
+    ]
+  }
+]

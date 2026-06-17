@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Illustrate",
+    "meaning": "To explain or make something clear by using examples, pictures, or diagrams. | To explain or make something clear by using examples, charts, or pictures.",
+    "shortMeaning": "show with examples",
+    "example": "The teacher used a diagram to illustrate how the heart works.",
+    "example2": "Let me illustrate my point with a short story.",
+    "example3": "The graph illustrates the increase in sales over the last year.",
+    "Explanation": "'Illustrate' is a versatile verb that means to make something understandable, often visually. While it can mean to create drawings for a book (an illustrator), its broader meaning is to clarify an idea. You can illustrate a concept with an anecdote, a chart, a metaphor, or a physical demonstration. It is a key skill in teaching, presenting, and writing. The goal is to provide concrete evidence or a clear picture that supports an abstract point. It helps bridge the gap between complex information and the audience's understanding.",
+    "synonyms": [
+      "Clarify",
+      "Demonstrate",
+      "Exemplify",
+      "Explain",
+      "Show"
+    ],
+    "antonyms": [
+      "Complicate",
+      "Confuse",
+      "Muddy",
+      "Obscure"
+    ],
+    "nounForm": "illustration",
+    "verbForm": "illustrate",
+    "adjectiveForm": "illustrative",
+    "partOfSpeech": "verb",
+    "commonContext": "Presentations, teaching, writing, explaining concepts",
+    "usageTip": "Use it when you want to provide a clear example or visual aid to support your idea.",
+    "commonMistake": "Thinking it only refers to drawing pictures; it has a wider meaning of clarification.",
+    "collocations": [
+      "to illustrate the point",
+      "clearly illustrate",
+      "illustrate with an example",
+      "serve to illustrate"
+    ]
+  },
+  {
+    "word": "Illustrate",
+    "meaning": "To provide a book or text with pictures; to explain or make something clear by using examples or diagrams",
+    "shortMeaning": "explain with examples",
+    "example": "Let me use this code snippet to illustrate how a loop works.",
+    "example2": "The designer was asked to illustrate the new user journey.",
+    "example3": "Charts and graphs are used to illustrate the company's growth.",
+    "Explanation": "To 'illustrate' means to show rather than just tell. In IT, we illustrate concepts using flowcharts, architectural diagrams, or screenshots. For instance, an 'ER Diagram' illustrates how database tables are related. It is a key part of documentation; purely text-based instructions are often hard to follow, so we illustrate them to help the reader. It can also mean providing examples. If a concept is abstract, a well-chosen example will illustrate it perfectly. It is a vital skill for teachers, developers, and designers alike.",
+    "synonyms": [
+      "demonstrate",
+      "show",
+      "depict"
+    ],
+    "antonyms": [
+      "hide",
+      "mystify"
+    ],
+    "nounForm": "illustration",
+    "verbForm": "illustrate",
+    "adjectiveForm": "illustrative",
+    "partOfSpeech": "verb",
+    "commonContext": "Documentation, teaching, and design",
+    "usageTip": "Use 'illustrate' when you are about to give an example or show a picture to help someone understand.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "illustrate with an example",
+      "illustrate a point",
+      "illustrate a process"
+    ]
+  }
+]

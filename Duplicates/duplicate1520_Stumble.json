@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Stumble",
+    "meaning": "To trip or lose balance while walking; to make a mistake or hesitate while speaking",
+    "shortMeaning": "trip or make a mistake",
+    "example": "He didn't see the rock and stumbled.",
+    "example2": "She stumbled over her words during the presentation.",
+    "example3": "They stumbled upon an old bookshop while exploring.",
+    "Explanation": "The verb 'stumble' has two main uses. The physical meaning is to trip or almost fall while walking or running. The figurative meaning is to make a mistake, pause, or speak haltingly, especially from nervousness or uncertainty. A third common phrase is 'stumble upon/across', which means to find something by chance. It's a versatile word used in both literal and metaphorical contexts. The noun form 'stumble' refers to the act itself. It conveys a sense of unexpected interruption or lack of smoothness.",
+    "synonyms": [
+      "trip",
+      "falter",
+      "slip up",
+      "blunder"
+    ],
+    "antonyms": [
+      "stride",
+      "glide",
+      "proceed smoothly",
+      "articulate clearly"
+    ],
+    "nounForm": "stumble",
+    "verbForm": "stumble",
+    "adjectiveForm": "stumbling",
+    "partOfSpeech": "verb",
+    "commonContext": "Walking, public speaking, discovering things accidentally",
+    "usageTip": "Use 'stumble upon' for accidental discovery. Use 'stumble over' for tripping or speaking with difficulty.",
+    "commonMistake": "Misspelling it as 'stumbel'.",
+    "collocations": [
+      "stumble and fall",
+      "stumble over words",
+      "stumble upon a secret",
+      "frequent stumble"
+    ]
+  },
+  {
+    "word": "Stumble",
+    "meaning": "To accidentally hit an error, difficulty, or discover an unexpected bug while working",
+    "shortMeaning": "encounter an error accidentally",
+    "example": "While refactoring the old code, I happened to stumble upon a major memory leak.",
+    "example2": "New developers often stumble when they try to configure complex cloud databases.",
+    "example3": "The application might stumble if the server response takes longer than ten seconds.",
+    "Explanation": "The word 'stumble' is used metaphorically in software development to describe hitting an unexpected obstacle or making an accidental discovery. A programmer might stumble across an undocumented feature, or an application might stumble (slow down or experience a minor fault) under unexpected loads. It implies a lack of intention or surprise. It helps convey the natural, unpredictable challenges that occur during testing or exploratory programming.",
+    "synonyms": [
+      "encounter",
+      "blunder",
+      "trip",
+      "discover"
+    ],
+    "antonyms": [
+      "breeze through",
+      "proceed smoothly"
+    ],
+    "nounForm": "stumble",
+    "verbForm": "stumble",
+    "adjectiveForm": "stumbling",
+    "partOfSpeech": "verb",
+    "commonContext": "Code reviews, debugging stories, and team retrospective meetings",
+    "usageTip": "Use 'stumble upon' when you find a hidden bug or feature purely by accident.",
+    "commonMistake": "Using 'stumble' to describe a planned, step-by-step diagnostic process.",
+    "collocations": [
+      "stumble upon a bug",
+      "stumble over code",
+      "stumbling block"
+    ]
+  }
+]

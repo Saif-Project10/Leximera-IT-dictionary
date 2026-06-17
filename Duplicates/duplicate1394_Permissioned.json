@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Permissioned",
+    "meaning": "Requiring or operating on the basis of explicit authorization or consent.",
+    "shortMeaning": "requiring permission",
+    "example": "It is a permissioned blockchain, so not everyone can join the network.",
+    "example2": "Access to the confidential files is on a permissioned basis.",
+    "example3": "The system uses a permissioned model to control data sharing.",
+    "Explanation": "'Permissioned' is an adjective most commonly used in technology, especially in blockchain and data security. It describes a system where participants must be identified and granted access, as opposed to an open, permissionless system. This word emphasizes control, security, and exclusivity. It is a specialized term but is becoming more common in discussions about digital privacy and governance.",
+    "synonyms": [
+      "authorized, controlled, restricted, accredited"
+    ],
+    "antonyms": [
+      "permissionless, open, public, unrestricted"
+    ],
+    "nounForm": "permission",
+    "verbForm": "permit",
+    "adjectiveForm": "permissioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Blockchain technology, network security, data access",
+    "usageTip": "Use 'permissioned' in technical contexts to describe systems that require approval to enter.",
+    "commonMistake": "Using it in everyday contexts; 'restricted' or 'private' is more common outside tech.",
+    "collocations": [
+      "permissioned network",
+      "permissioned ledger",
+      "permissioned access"
+    ]
+  },
+  {
+    "word": "Permissioned",
+    "meaning": "Restricted to authorized users who have been granted specific access.",
+    "shortMeaning": "access-controlled",
+    "example": "The database uses a permissioned access model for security.",
+    "example2": "This is a permissioned blockchain, available only to staff.",
+    "example3": "Permissioned systems are safer than public ones.",
+    "Explanation": "Permissioned describes a system where you must have explicit approval or an 'identity' to access or change data. It is the opposite of an 'open' or 'permissionless' system. In IT security, permissioned networks ensure that only verified users can perform operations. It is a key concept in enterprise software and private blockchains. It is about controlling and tracking who has the right to do what.",
+    "synonyms": [
+      "restricted",
+      "controlled",
+      "authorized"
+    ],
+    "antonyms": [
+      "open",
+      "public",
+      "permissionless"
+    ],
+    "nounForm": "permission",
+    "verbForm": "permit",
+    "adjectiveForm": "permissioned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, blockchain, networking",
+    "usageTip": "Use 'permissioned' to describe systems with strict access control.",
+    "commonMistake": "Confusing 'permissioned' with 'permitted' (permissioned is an adjective for a type of system).",
+    "collocations": [
+      "permissioned network",
+      "permissioned blockchain",
+      "permissioned access"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Synonymous",
+    "meaning": "Having the same or nearly the same meaning",
+    "shortMeaning": "equivalent meaning",
+    "example": "In this context, 'slow' and 'laggy' are synonymous.",
+    "example2": "High quality is synonymous with our brand.",
+    "example3": "The two terms are often treated as synonymous.",
+    "Explanation": "The word 'synonymous' describes two words or concepts that mean the same thing. In tech, you might say 'debugging' and 'troubleshooting' are nearly synonymous. It is a great word to clarify your meaning or to point out that two different-sounding terms are actually the same. It shows you understand the nuances of language and terminology. Be careful not to use it when terms only *overlap*—they must truly mean the same thing to be synonymous.",
+    "synonyms": [
+      "equivalent",
+      "interchangeable"
+    ],
+    "antonyms": [
+      "opposite",
+      "distinct",
+      "unrelated"
+    ],
+    "nounForm": "synonym",
+    "verbForm": "N/A",
+    "adjectiveForm": "synonymous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Language, terminology, documentation",
+    "usageTip": "Use to compare terms or clarify concepts.",
+    "commonMistake": "Using 'synonymous' for terms that are only related, not the same.",
+    "collocations": [
+      "synonymous with",
+      "nearly synonymous"
+    ]
+  },
+  {
+    "word": "Synonymous",
+    "meaning": "Having the same meaning or closely associated with something",
+    "shortMeaning": "equivalent",
+    "example": "Success in IT is often synonymous with continuous learning.",
+    "example2": "The two terms are synonymous in technical documentation.",
+    "example3": "High speed is synonymous with modern computing.",
+    "Explanation": "In technical writing, identifying synonymous concepts helps clarify definitions. It is also used metaphorically to suggest that two ideas are inseparable. It is a very common word to explain that two different technical terms essentially mean the same thing, which is helpful when bridging the gap between various industry jargons. Always ensure that the terms truly mean the same thing before using this word to avoid confusion.",
+    "synonyms": [
+      "equivalent",
+      "interchangeable",
+      "identical"
+    ],
+    "antonyms": [
+      "distinct",
+      "different",
+      "contradictory"
+    ],
+    "nounForm": "synonym",
+    "verbForm": "N/A",
+    "adjectiveForm": "synonymous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, definitions, analogies",
+    "usageTip": "Use to explain that two terms have identical meanings.",
+    "commonMistake": "Using 'synonymous' for things that are related but have different meanings.",
+    "collocations": [
+      "synonymous with",
+      "essentially synonymous",
+      "closely synonymous"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Synchro",
+    "meaning": "A type of rotary transformer used to transmit the position of a shaft from one place to another",
+    "shortMeaning": "angle transmitter",
+    "example": "The radar system uses a synchro to communicate the antenna's direction to the display.",
+    "example2": "Old naval ships relied on synchro mechanisms for steering indicators.",
+    "example3": "The synchro provides high-precision data on the motor's rotation.",
+    "Explanation": "A synchro is an electromechanical device that looks like a small motor. However, its job is not to spin continuously, but to measure and transmit angles. When the 'transmitter' synchro's shaft is turned, an electrical signal is sent to a 'receiver' synchro, which turns its shaft to the exact same position. This was very common in analog engineering for military and industrial equipment before digital sensors became popular. It is known for being extremely reliable and robust in harsh environments.",
+    "synonyms": [
+      "selsyn",
+      "rotary transformer",
+      "synchronous transmitter"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "synchro",
+    "verbForm": "N/A",
+    "adjectiveForm": "synchro-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Aerospace, naval systems, industrial machinery",
+    "usageTip": "This is a specialized engineering term; you won't hear it much in web development.",
+    "commonMistake": "Thinking it is a short form for 'synchronize' in every context; here it's a specific device.",
+    "collocations": [
+      "synchro motor",
+      "synchro transmitter",
+      "synchro system"
+    ]
+  },
+  {
+    "word": "Synchro",
+    "meaning": "A prefix or short form for synchronization",
+    "shortMeaning": "short for sync",
+    "example": "The synchro drive ensures the motors move together.",
+    "example2": "We adjusted the synchro settings for the display.",
+    "example3": "The system includes a basic synchro mechanism.",
+    "Explanation": "The term 'synchro' is often used as a prefix or shorthand in technical contexts, particularly in mechanical-electrical systems and motor control. It suggests a device or process that aligns speed or timing. While often replaced by 'sync' in casual software usage, 'synchro' remains relevant in hardware, engineering, and specific technical specifications. It implies a direct, often mechanical or signal-based, alignment of operational parameters.",
+    "synonyms": [
+      "synchronizer",
+      "sync",
+      "alignment"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "synchronization",
+    "verbForm": "synchronize",
+    "adjectiveForm": "synchro",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Mechanical engineering, motor control, hardware",
+    "usageTip": "Use as a prefix or technical short-form in hardware contexts.",
+    "commonMistake": "Using 'synchro' for software-based file sync; 'sync' is standard there.",
+    "collocations": [
+      "synchro drive",
+      "synchro mechanism",
+      "synchro speed"
+    ]
+  }
+]

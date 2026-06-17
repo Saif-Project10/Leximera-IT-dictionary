@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Fuzzy",
+    "meaning": "1. Having a soft, blurred, or indistinct texture or outline. 2. Not clear; vague.",
+    "shortMeaning": "soft and blurry; unclear",
+    "example": "The toy had fuzzy fur. (soft texture)",
+    "example2": "The photo came out fuzzy. (blurry)",
+    "example3": "My memory of the event is a bit fuzzy. (vague)",
+    "Explanation": "'Fuzzy' is a descriptive adjective often related to touch and sight. Literally, it describes something covered with short, soft fibers (fuzzy peach) or something out of focus (fuzzy image). Figuratively, it means not clear or precise (fuzzy logic, fuzzy memory). It's an informal, onomatopoeic word that sounds like what it describes. It generally has a neutral or slightly negative connotation when referring to clarity, but a positive one when referring to soft textures.",
+    "synonyms": [
+      "soft",
+      "blurry",
+      "vague",
+      "indistinct"
+    ],
+    "antonyms": [
+      "clear",
+      "sharp",
+      "precise",
+      "smooth"
+    ],
+    "nounForm": "fuzz",
+    "verbForm": "N/A",
+    "adjectiveForm": "fuzzy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Textures, photos, memories, logic",
+    "usageTip": "Use 'fuzzy' to describe something that is soft like fur, visually blurred, or mentally unclear.",
+    "commonMistake": "Using 'fuzzy' in very formal writing. It is a casual word.",
+    "collocations": [
+      "fuzzy logic",
+      "fuzzy memory",
+      "fuzzy picture",
+      "fuzzy sweater"
+    ]
+  },
+  {
+    "word": "Fuzzy",
+    "meaning": "Relating to logic or matching that is not exact.",
+    "shortMeaning": "not precise",
+    "example": "We used fuzzy matching to find similar names.",
+    "example2": "Fuzzy logic allows for approximate reasoning.",
+    "example3": "The UI looks a bit fuzzy on this monitor.",
+    "Explanation": "The word 'fuzzy' refers to something that is not sharp or precise. In computer science, 'fuzzy logic' is a form of many-valued logic that deals with approximate, rather than fixed, values. 'Fuzzy matching' is used to identify strings that are similar but not identical. It is an adjective that implies flexibility or lack of clarity. Use it when your requirements or data values are not strictly black-and-white. It is a highly technical term.",
+    "synonyms": [
+      "approximate",
+      "vague",
+      "blurred"
+    ],
+    "antonyms": [
+      "precise",
+      "exact",
+      "sharp"
+    ],
+    "nounForm": "fuzziness",
+    "verbForm": "fuzz",
+    "adjectiveForm": "fuzzy",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, data, matching",
+    "usageTip": "Use 'fuzzy' for approximate matches.",
+    "commonMistake": "Using 'fuzzy' to mean 'badly designed'.",
+    "collocations": [
+      "fuzzy logic",
+      "fuzzy matching",
+      "fuzzy search"
+    ]
+  }
+]

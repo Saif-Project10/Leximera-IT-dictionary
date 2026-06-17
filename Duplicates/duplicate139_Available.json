@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Available",
+    "meaning": "Able to be used or obtained; free to meet or talk.",
+    "shortMeaning": "free, obtainable",
+    "example": "Is this shirt available in a larger size?",
+    "example2": "The manager is not available at the moment.",
+    "example3": "Fresh water must be available to everyone.",
+    "Explanation": "'Available' is a very common adjective describing something that is ready for use, purchase, or interaction. It can refer to objects, people, time, or information. In business, it's crucial for customer service. The key idea is accessibility. Remember, it describes a state, not an action. The verb form is 'avail', which is rarely used. Do not confuse it with 'accessible', which focuses more on the ease of reaching something. 'Available' simply means it is there for you if you want it.",
+    "synonyms": [
+      "accessible",
+      "obtainable",
+      "free"
+    ],
+    "antonyms": [
+      "unavailable",
+      "busy",
+      "occupied"
+    ],
+    "nounForm": "availability",
+    "verbForm": "avail",
+    "adjectiveForm": "available",
+    "partOfSpeech": "adjective",
+    "commonContext": "Products, time, people, resources",
+    "usageTip": "Often used in questions and statements about time or products: 'Are you available?' 'Is it available?'",
+    "commonMistake": "Using 'free' instead of 'available' in formal contexts. 'Free' can mean no cost or not busy.",
+    "collocations": [
+      "widely available",
+      "available now",
+      "readily available"
+    ]
+  },
+  {
+    "word": "Available",
+    "meaning": "Ready for use, easy to get, or obtainable right now",
+    "shortMeaning": "ready for use",
+    "example": "The software update is now available for download on the website.",
+    "example2": "Please check if there are any available slots in the database.",
+    "example3": "The support engineer is available to answer your technical questions.",
+    "Explanation": "The word 'available' indicates that a resource, service, or person is accessible and ready. In web development, it describes system uptime, cloud resource status, or network connection readiness. If a server is available, users can access its hosted websites or APIs easily. The noun form is 'availability', which measures reliability. It is a vital metric in service level agreements.",
+    "synonyms": [
+      "accessible",
+      "obtainable",
+      "ready"
+    ],
+    "antonyms": [
+      "unavailable",
+      "inaccessible",
+      "busy"
+    ],
+    "nounForm": "availability",
+    "verbForm": "N/A",
+    "adjectiveForm": "available",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud services, software updates, resource allocations, and customer support",
+    "usageTip": "Use 'available' to show that an item or system can be used immediately.",
+    "commonMistake": "Using 'available' when you mean 'free of charge'; something can be available but expensive.",
+    "collocations": [
+      "highly available",
+      "available resource",
+      "publicly available"
+    ]
+  }
+]

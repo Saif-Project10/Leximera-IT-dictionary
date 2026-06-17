@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Standard",
+    "meaning": "A level of quality or achievement that is considered acceptable or normal",
+    "shortMeaning": "normal level",
+    "example": "This product meets the industry safety standard.",
+    "example2": "She sets a high standard for her own work.",
+    "example3": "The standard procedure is to fill out this form first.",
+    "Explanation": "A standard is an established norm or reference point used for comparison or judgment. It can refer to quality, behavior, or procedures. Standards help ensure consistency, safety, and fairness. They can be formal, like ISO standards, or informal, like social norms. The word is versatile and used as a noun or adjective. Understanding the expected standard in any context is key to performing appropriately, whether in manufacturing, work, or daily life.",
+    "synonyms": [
+      "norm",
+      "benchmark",
+      "criterion"
+    ],
+    "antonyms": [
+      "exception",
+      "deviation",
+      "anomaly"
+    ],
+    "nounForm": "standard",
+    "verbForm": "standardize",
+    "adjectiveForm": "standard",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Quality control, education, social behavior, industry",
+    "usageTip": "As an adjective, it means 'usual' or 'typical'. As a noun, it means a 'level of quality'.",
+    "commonMistake": "Confusing 'standard' (normal) with 'outstanding' (exceptional).",
+    "collocations": [
+      "gold standard",
+      "living standard",
+      "standard practice"
+    ]
+  },
+  {
+    "word": "Standard",
+    "meaning": "An established norm, requirement, or model for quality and consistency.",
+    "shortMeaning": "official norm",
+    "example": "We follow industry-standard coding practices.",
+    "example2": "The company established a new standard for data security.",
+    "example3": "The project failed to meet the quality standard.",
+    "Explanation": "A 'standard' is an accepted way of doing something or a set of rules used to ensure consistency across different systems or teams. In IT, standards (like IEEE, ISO, or W3C) are essential for ensuring that hardware and software can work together. Without standards, every developer would create their own incompatible systems. Adhering to standards improves reliability, simplifies debugging, and allows different components to integrate seamlessly within a large ecosystem.",
+    "synonyms": [
+      "norm",
+      "benchmark",
+      "criterion"
+    ],
+    "antonyms": [
+      "irregularity",
+      "non-standard",
+      "exception"
+    ],
+    "nounForm": "standard",
+    "verbForm": "standardize",
+    "adjectiveForm": "standard",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Engineering, programming, quality control",
+    "usageTip": "Use 'standard' to refer to established norms or benchmarks.",
+    "commonMistake": "Confusing 'standard' with 'simple' (a standard can be complex).",
+    "collocations": [
+      "industry standard",
+      "quality standard",
+      "follow the standard"
+    ]
+  },
+  {
+    "word": "Standard",
+    "meaning": "An established level of quality or a model for comparison",
+    "shortMeaning": "accepted model",
+    "example": "Following the coding standard ensures consistency across the team.",
+    "example2": "This protocol is the industry standard for secure communication.",
+    "example3": "We must meet the standard requirements for system performance.",
+    "Explanation": "The word 'standard' represents a set of rules, protocols, or models that are widely accepted. In IT, standards are critical for interoperability, security, and quality assurance. When everyone follows the same standard, systems can communicate and developers can collaborate much more efficiently. It defines what is considered 'normal' or 'correct' practice. It is essential for large-scale development and global industry guidelines.",
+    "synonyms": [
+      "norm",
+      "benchmark",
+      "criterion"
+    ],
+    "antonyms": [
+      "anomaly",
+      "exception",
+      "nonstandard"
+    ],
+    "nounForm": "standard",
+    "verbForm": "standardize",
+    "adjectiveForm": "standard",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Coding, industry protocols, quality control",
+    "usageTip": "Use 'standard' to refer to established best practices.",
+    "commonMistake": "Ignoring standards, which leads to compatibility issues.",
+    "collocations": [
+      "industry standard",
+      "coding standard",
+      "standard practice"
+    ]
+  }
+]

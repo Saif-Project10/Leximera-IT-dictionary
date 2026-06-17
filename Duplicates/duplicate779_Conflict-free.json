@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Conflict-free",
+    "meaning": "Without conflict, disagreement, or problems; particularly referring to materials not sourced from war zones.",
+    "shortMeaning": "without conflict",
+    "example": "The company is committed to using conflict-free minerals.",
+    "example2": "We aim for a conflict-free workplace.",
+    "example3": "The negotiation process was surprisingly conflict-free.",
+    "Explanation": "This compound adjective describes a state or product that is free from conflict. In ethics and supply chains, 'conflict-free' (especially regarding minerals like gold, tin, tungsten, and tantalum) means they are not mined in war zones or used to finance armed conflict. More generally, it describes any situation, process, or relationship that proceeds smoothly without arguments or hostilities. It is a positive label indicating ethical sourcing or harmonious conditions.",
+    "synonyms": [
+      "harmonious",
+      "peaceful",
+      "non-contentious"
+    ],
+    "antonyms": [
+      "conflict-ridden",
+      "contentious",
+      "problematic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "conflict-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Ethical sourcing, workplace culture, negotiations",
+    "usageTip": "Use 'conflict-free' to certify ethical sourcing of minerals or to describe a process that had no disagreements.",
+    "commonMistake": "Forgetting the hyphen when using it as a compound adjective before a noun (e.g., 'a conflict-free zone').",
+    "collocations": [
+      "conflict-free diamonds",
+      "conflict-free resolution",
+      "conflict-free environment"
+    ]
+  },
+  {
+    "word": "Conflict-free",
+    "meaning": "Free from disputes, logical clashes, or resource contention",
+    "shortMeaning": "without conflict",
+    "example": "The development team maintained a conflict-free merge history.",
+    "example2": "We designed a conflict-free database structure.",
+    "example3": "The schedule was conflict-free.",
+    "Explanation": "Conflict-free describes situations where multiple people, processes, or data points do not clash with each other. In Git or version control, a 'conflict-free merge' is the goal for all developers. In hardware, it refers to systems where components don't fight for resources (like bandwidth). The noun form is 'lack of conflict'.",
+    "synonyms": [
+      "harmonious",
+      "compatible",
+      "consistent"
+    ],
+    "antonyms": [
+      "conflicting",
+      "clashing"
+    ],
+    "nounForm": "lack of conflict",
+    "verbForm": "N/A",
+    "adjectiveForm": "conflict-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Collaboration, Databases",
+    "usageTip": "Use 'conflict-free' to describe successful project management or merge processes.",
+    "commonMistake": "Thinking 'conflict-free' means the product is 'perfect'.",
+    "collocations": [
+      "conflict-free merge",
+      "conflict-free operation"
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Uncontainerized",
+    "meaning": "Not packed or transported in a standard large shipping container",
+    "shortMeaning": "not in a shipping container",
+    "example": "The uncontainerized cargo was loaded directly onto the ship's deck.",
+    "example2": "Break-bulk goods are often uncontainerized.",
+    "example3": "Uncontainerized shipping can be less efficient.",
+    "Explanation": "'Uncontainerized' is a specialized adjective used primarily in logistics, shipping, and freight. It describes cargo that is not placed into standardized intermodal containers. This includes break-bulk cargo (like machinery or timber) loaded individually. This method is older and often less efficient than containerized shipping. The word is very specific to the transportation industry. Outside this context, it is rarely used.",
+    "synonyms": [
+      "break-bulk",
+      "loose-loaded"
+    ],
+    "antonyms": [
+      "containerized",
+      "containerised"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "containerize",
+    "adjectiveForm": "uncontainerized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Maritime shipping, logistics, freight transport",
+    "usageTip": "Only use 'uncontainerized' when specifically talking about methods of shipping and cargo handling.",
+    "commonMistake": "Using it in everyday contexts where 'unpacked' or 'loose' would be more appropriate.",
+    "collocations": [
+      "uncontainerized cargo",
+      "uncontainerized freight",
+      "uncontainerized shipment"
+    ]
+  },
+  {
+    "word": "Uncontainerized",
+    "meaning": "Not packaged into a container format",
+    "shortMeaning": "not in a container",
+    "example": "The legacy app is currently uncontainerized.",
+    "example2": "Uncontainerized applications are harder to deploy consistently.",
+    "example3": "We are migrating uncontainerized services to Docker.",
+    "Explanation": "Uncontainerized refers to software or applications that are not encapsulated in a container format (like Docker or Podman). Instead, they run directly on the host operating system, which can lead to 'works on my machine' issues. Containerization is a major trend in IT because it ensures consistency across different environments. Identifying uncontainerized applications is the first step toward modernization and improving CI/CD workflows.",
+    "synonyms": [
+      "non-containerized",
+      "native"
+    ],
+    "antonyms": [
+      "containerized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncontainerized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, DevOps, migration",
+    "usageTip": "Use when describing legacy deployment methods.",
+    "commonMistake": "Confusing uncontainerized with 'virtualized' (they are different technologies).",
+    "collocations": [
+      "uncontainerized application",
+      "uncontainerized service",
+      "migrate uncontainerized"
+    ]
+  },
+  {
+    "word": "Uncontainerized",
+    "meaning": "Not packaged within a software container or physical shipping box",
+    "shortMeaning": "not containerized",
+    "example": "The application runs as an uncontainerized process.",
+    "example2": "Migration is difficult for uncontainerized services.",
+    "example3": "We are currently using uncontainerized deployment methods.",
+    "Explanation": "The term 'uncontainerized' is specific to modern DevOps and logistics. It refers to software applications that are running directly on a host OS rather than inside tools like Docker or Kubernetes. It implies a traditional or legacy approach to deployment. As cloud-native technologies become popular, moving from an uncontainerized to a containerized state is a common task. It highlights the architectural difference in how software is packaged and executed.",
+    "synonyms": [
+      "non-containerized",
+      "native",
+      "legacy"
+    ],
+    "antonyms": [
+      "containerized",
+      "packaged",
+      "virtualized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "uncontainerize",
+    "adjectiveForm": "uncontainerized",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps, cloud computing, and logistics",
+    "usageTip": "Use it to differentiate between modern and legacy deployment styles.",
+    "commonMistake": "Assuming all applications are containerized.",
+    "collocations": [
+      "uncontainerized application",
+      "uncontainerized service",
+      "uncontainerized environment"
+    ]
+  }
+]

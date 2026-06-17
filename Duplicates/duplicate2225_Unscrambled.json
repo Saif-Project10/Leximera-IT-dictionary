@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unscrambled",
+    "meaning": "Made intelligible from a mixed or coded state",
+    "shortMeaning": "decoded",
+    "example": "The data was unscrambled after receiving the security key.",
+    "example2": "We successfully unscrambled the message sent over the network.",
+    "example3": "The algorithm unscrambled the encrypted file efficiently.",
+    "Explanation": "Unscrambled means turning jumbled or encoded data back into a readable format. While similar to 'decrypted', it is often used for simpler obfuscation methods rather than true, high-security encryption. It is often used in digital signals or simple data obfuscation where information is intentionally mixed up to prevent easy reading. Once the right process or key is applied, the data is unscrambled.",
+    "synonyms": [
+      "decoded",
+      "deciphered",
+      "clarified"
+    ],
+    "antonyms": [
+      "scrambled",
+      "encoded",
+      "jumbled"
+    ],
+    "nounForm": "scramble",
+    "verbForm": "scramble",
+    "adjectiveForm": "unscrambled",
+    "partOfSpeech": "verb",
+    "commonContext": "Data transmission, signal processing",
+    "usageTip": "Use this when data was intentionally mixed for transit.",
+    "commonMistake": "Using 'unscrambled' for secure encryption; use 'decrypted' for that.",
+    "collocations": [
+      "successfully unscrambled",
+      "unscrambled data",
+      "process to unscramble"
+    ]
+  },
+  {
+    "word": "Unscrambled",
+    "meaning": "The act of turning jumbled or encrypted data back into its original, readable form.",
+    "shortMeaning": "decoded",
+    "example": "The software unscrambled the signal to reveal the image.",
+    "example2": "Can the program unscramble this encrypted message?",
+    "example3": "Once unscrambled, the file was easy to read.",
+    "Explanation": "'Unscrambled' means to reverse the process of mixing, jumbling, or encrypting data. It implies that there was an original structure that was intentionally or accidentally disrupted. In technical contexts, it often refers to decoding a simple cipher or recovering data from a scrambled stream. Once the data is unscrambled, it should match the original format. It is a simple term for a process that can technically be quite complex.",
+    "synonyms": [
+      "decoded",
+      "decrypted",
+      "recovered"
+    ],
+    "antonyms": [
+      "scrambled",
+      "encrypted",
+      "jumbled"
+    ],
+    "nounForm": "unscrambling",
+    "verbForm": "unscramble",
+    "adjectiveForm": "unscrambled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data recovery, communication",
+    "usageTip": "Use this for recovering scrambled data.",
+    "commonMistake": "Using it for professional encryption, where 'decrypt' is better.",
+    "collocations": [
+      "unscrambled data",
+      "unscrambled signal",
+      "successfully unscrambled"
+    ]
+  }
+]

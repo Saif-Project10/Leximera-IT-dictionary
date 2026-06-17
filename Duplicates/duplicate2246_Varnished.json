@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Varnished",
+    "meaning": "Covered with a protective or shiny coating.",
+    "shortMeaning": "coated",
+    "example": "The wooden desk is nicely varnished.",
+    "example2": "The circuit board has a thin, varnished finish.",
+    "example3": "Carefully apply the varnished layer to the component.",
+    "Explanation": "Varnished refers to an item that has been treated with a protective clear coating. In hardware, this is sometimes done to protect electronics from moisture, dust, or corrosion. It creates a barrier that can also improve appearance. While not a software term, it is used in hardware fabrication and repair. It ensures long-term durability of physical parts. Always handle varnished parts with care to avoid scratching the finish.",
+    "synonyms": [
+      "coated",
+      "polished",
+      "lacquered"
+    ],
+    "antonyms": [
+      "unfinished",
+      "raw"
+    ],
+    "nounForm": "varnish",
+    "verbForm": "varnish",
+    "adjectiveForm": "varnished",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware fabrication, repair",
+    "usageTip": "Use this to describe protective coatings on hardware.",
+    "commonMistake": "Using 'varnished' to mean 'updated' in software.",
+    "collocations": [
+      "varnished finish",
+      "varnished surface",
+      "thinly varnished"
+    ]
+  },
+  {
+    "word": "Varnished",
+    "meaning": "Coated with a protective layer",
+    "shortMeaning": "coated",
+    "example": "The hardware casing is polished and varnished.",
+    "example2": "The finish is a high-quality varnished surface.",
+    "example3": "Ensure the device is clean before it is varnished.",
+    "Explanation": "The word 'varnished' refers to a surface that has been covered with a protective layer, usually for hardware protection or aesthetic purposes. In a technical context, it is rare but might be used when describing the finishing process of hardware devices or prototypes. It implies a final, protective step. It is unlikely to be used in software development unless discussing physical product design or material science.",
+    "synonyms": [
+      "coated",
+      "finished",
+      "polished"
+    ],
+    "antonyms": [
+      "raw",
+      "uncoated",
+      "unfinished"
+    ],
+    "nounForm": "varnish",
+    "verbForm": "varnish",
+    "adjectiveForm": "varnished",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware and physical design",
+    "usageTip": "Use for physical materials and surfaces.",
+    "commonMistake": "Using 'varnished' to describe software processes.",
+    "collocations": [
+      "varnished surface",
+      "varnished finish"
+    ]
+  }
+]

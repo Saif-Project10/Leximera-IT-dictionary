@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Crypto",
+    "meaning": "Short for cryptocurrency or cryptography; relating to digital currencies or secret codes.",
+    "shortMeaning": "cryptocurrency; secret",
+    "example": "He invested heavily in various crypto assets.",
+    "example2": "The message was protected by crypto algorithms.",
+    "example3": "The crypto market is known for its volatility.",
+    "Explanation": "'Crypto' is a prefix and an informal noun. As a prefix (from Greek 'kryptos' meaning hidden), it appears in words like cryptography and cryptology. As a standalone noun in modern slang, it is a clipped form of 'cryptocurrency' (like Bitcoin, Ethereum). This usage has exploded in finance and technology. It can also be an adjective ('crypto investor'). Context is crucial: in a tech security talk, 'crypto' means cryptography; in a finance discussion, it means cryptocurrency. It's a buzzword of the digital age.",
+    "synonyms": [
+      "cryptocurrency",
+      "digital currency"
+    ],
+    "antonyms": [
+      "fiat currency",
+      "plaintext"
+    ],
+    "nounForm": "crypto (informal), cryptocurrency",
+    "verbForm": "N/A",
+    "adjectiveForm": "crypto",
+    "partOfSpeech": "noun, adjective",
+    "commonContext": "Finance, technology, investing, security",
+    "usageTip": "In formal writing, specify 'cryptocurrency' or 'cryptography' instead of the ambiguous 'crypto'.",
+    "commonMistake": "Using 'crypto' to mean only Bitcoin; it refers to the entire asset class of cryptocurrencies.",
+    "collocations": [
+      "crypto wallet",
+      "crypto exchange",
+      "crypto mining"
+    ]
+  },
+  {
+    "word": "Crypto",
+    "meaning": "Short for cryptocurrency or cryptography",
+    "shortMeaning": "slang for digital currency or security",
+    "example": "He invests a lot of money in crypto.",
+    "example2": "The company uses advanced crypto to protect user data.",
+    "example3": "Everyone is talking about the latest crypto market trends.",
+    "Explanation": "Crypto is an informal term used in two distinct ways. In the financial world, it refers to digital or virtual currencies like Bitcoin or Ethereum. In the computer science world, it is shorthand for cryptography (the practice of secure communication). Because of this, context is vital. Most people today use it for the currency market, but programmers still use it for security protocols.",
+    "synonyms": [
+      "cryptocurrency",
+      "digital assets"
+    ],
+    "antonyms": [
+      "fiat currency"
+    ],
+    "nounForm": "cryptocurrency",
+    "verbForm": "N/A",
+    "adjectiveForm": "crypto",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Finance, technology, informal speech",
+    "usageTip": "Identify if the speaker means money or security based on context.",
+    "commonMistake": "Assuming 'crypto' always refers to Bitcoin.",
+    "collocations": [
+      "crypto market",
+      "crypto wallet",
+      "crypto security"
+    ]
+  }
+]

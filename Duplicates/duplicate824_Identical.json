@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Identical",
+    "meaning": "Exactly the same; alike in every detail.",
+    "shortMeaning": "exactly the same",
+    "example": "The two sisters are identical twins.",
+    "example2": "He was wearing an identical jacket to mine.",
+    "example3": "Your answer is identical to hers.",
+    "Explanation": "'Identical' is an adjective used for things that are indistinguishable from each other. It implies a perfect match, with no differences whatsoever. It is stronger than 'similar'. In mathematics, 'identical to' means exactly equal. The word is often used in science, law (identical copies), and everyday comparisons. The adverb is 'identically'. The concept of identity is central to this word—if two things are identical, they share the same identity in the qualities being compared.",
+    "synonyms": [
+      "same",
+      "indistinguishable",
+      "duplicate",
+      "alike"
+    ],
+    "antonyms": [
+      "different",
+      "dissimilar",
+      "distinct",
+      "unlike"
+    ],
+    "nounForm": "identity",
+    "verbForm": "identify",
+    "adjectiveForm": "identical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Twins, copies, comparisons, matches",
+    "usageTip": "Use 'identical' when two things are exactly the same in the aspects you are considering. It is often followed by 'to' or 'with'.",
+    "commonMistake": "Saying 'exactly identical' is redundant because 'identical' already means 'exactly the same'.",
+    "collocations": [
+      "identical to",
+      "identical twins",
+      "nearly identical",
+      "virtually identical"
+    ]
+  },
+  {
+    "word": "Identical",
+    "meaning": "Exactly the same in every detail",
+    "shortMeaning": "Exactly the same",
+    "example": "The two servers have identical configurations.",
+    "example2": "Ensure the output is identical to the source.",
+    "example3": "They created two identical test environments.",
+    "Explanation": "The word 'identical' denotes absolute equivalence. In IT, this is a strong term used to ensure consistency across clusters, test environments, or data copies. It is an adjective. Be very careful with this word; it implies there is no difference at all. If there is even a minor version difference or setting discrepancy, they are 'similar', not 'identical'. It is critical for reproducibility.",
+    "synonyms": [
+      "exact",
+      "equal",
+      "indistinguishable"
+    ],
+    "antonyms": [
+      "different",
+      "unique",
+      "dissimilar"
+    ],
+    "nounForm": "identity",
+    "verbForm": "N/A",
+    "adjectiveForm": "identical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cluster management, testing, data syncing",
+    "usageTip": "Use when there is no difference between two items.",
+    "commonMistake": "Using 'identical' when you mean 'similar' or 'comparable'.",
+    "collocations": [
+      "identical configuration",
+      "identical copy",
+      "identical results"
+    ]
+  }
+]

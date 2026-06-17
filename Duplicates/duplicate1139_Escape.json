@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Escape",
+    "meaning": "To break free from confinement or control; to avoid something unpleasant",
+    "shortMeaning": "get free or avoid",
+    "example": "The prisoner managed to escape from jail.",
+    "example2": "We escaped the city for a quiet weekend in the country.",
+    "example3": "His name escapes me at the moment.",
+    "Explanation": "'Escape' is a common verb and noun. It means to get free from a place of confinement (like prison), to avoid danger or an unpleasant situation, or to be forgotten ('escape one's memory'). The noun refers to the act of escaping or a means of escape (a fire escape). This word implies a desire for freedom, safety, or relief. It can be literal (escaping a burning building) or metaphorical (escaping reality through books). It's a fundamental word for survival and coping.",
+    "synonyms": [
+      "flee, get away, break free (verb); getaway, flight (noun)"
+    ],
+    "antonyms": [
+      "capture, confront, face"
+    ],
+    "nounForm": "escape",
+    "verbForm": "escape",
+    "adjectiveForm": "escapist",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Prisons, danger, stress, holidays, memory",
+    "usageTip": "Use 'escape from' a place or situation. Use 'escape' (without from) for avoiding something abstract: 'escape punishment'.",
+    "commonMistake": "Saying 'escape out of'. 'Escape' already implies 'out of', so 'escape from' is sufficient.",
+    "collocations": [
+      "narrow escape",
+      "escape route",
+      "escape from reality"
+    ]
+  },
+  {
+    "word": "Escape",
+    "meaning": "To get free from something or to avoid something",
+    "shortMeaning": "get free",
+    "example": "The prisoner tried to escape from the jail.",
+    "example2": "You can press the 'Esc' key to escape the full-screen mode.",
+    "example3": "Make sure no data can escape through unencrypted channels.",
+    "Explanation": "In general English, 'escape' means to run away from danger or confinement. In IT, it has two main uses. First, the 'Escape' key (Esc) is used to cancel actions or close menus. Second, it refers to data 'escaping' or leaking from a secure environment. It is a very common verb used in both physical and digital contexts. It implies moving from a restricted area to a free area. It is also used in creative writing and storytelling.",
+    "synonyms": [
+      "flee",
+      "avoid",
+      "break out"
+    ],
+    "antonyms": [
+      "enter",
+      "remain",
+      "capture"
+    ],
+    "nounForm": "escape",
+    "verbForm": "escape",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "General situations and UI interactions",
+    "usageTip": "In computing, use it for cancelling an action or referring to the 'Esc' key.",
+    "commonMistake": "Confusing 'escape' with 'exit'; 'escape' usually implies an abrupt or forced departure.",
+    "collocations": [
+      "escape room",
+      "narrow escape",
+      "escape character"
+    ]
+  }
+]

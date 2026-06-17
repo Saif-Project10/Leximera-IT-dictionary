@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Updatable",
+    "meaning": "Capable of being changed or made more modern.",
+    "shortMeaning": "can be updated",
+    "example": "The software is updatable via the internet.",
+    "example2": "We need to ensure the database record is updatable by the admin.",
+    "example3": "This old hardware is no longer updatable to the latest version.",
+    "Explanation": "Something is 'updatable' if it allows for modifications or improvements. In databases, an 'updatable view' is one where you can change the data. In software, 'updatable' refers to the ability to install patches or new versions. This is a key feature for security, as it allows developers to fix bugs after the product is released. If a system is not updatable (like some old embedded chips), it becomes a permanent security risk if a flaw is found.",
+    "synonyms": [
+      "modifiable",
+      "renewable",
+      "patchable"
+    ],
+    "antonyms": [
+      "fixed",
+      "static",
+      "read-only"
+    ],
+    "nounForm": "updatability",
+    "verbForm": "update",
+    "adjectiveForm": "updatable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, databases, and firmware",
+    "usageTip": "Use 'updatable' to describe anything that can receive a new version or change.",
+    "commonMistake": "Spelling it as 'updateable' (both are okay, but 'updatable' is more common in tech).",
+    "collocations": [
+      "updatable software",
+      "updatable database",
+      "easily updatable"
+    ]
+  },
+  {
+    "word": "Updatable",
+    "meaning": "Capable of being refreshed, corrected, or changed to a newer version.",
+    "shortMeaning": "can be updated",
+    "example": "The database record is not currently updatable.",
+    "example2": "Make sure all software is updatable.",
+    "example3": "The firmware is updatable via USB.",
+    "Explanation": "The word 'updatable' means that a file, system, or setting can be changed to a current or newer version. In software design, making fields 'updatable' is a common requirement for user forms. The verb is 'update'. Using this term clarifies that the system supports growth or correction. It is important to define which parts of a system are updatable to ensure proper maintenance.",
+    "synonyms": [
+      "modifiable",
+      "refreshable",
+      "changeable"
+    ],
+    "antonyms": [
+      "static",
+      "fixed",
+      "non-updatable"
+    ],
+    "nounForm": "update",
+    "verbForm": "update",
+    "adjectiveForm": "updatable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, database management, and maintenance",
+    "usageTip": "Use 'updatable' to define if a resource can be changed.",
+    "commonMistake": "Assuming everything in a system is updatable.",
+    "collocations": [
+      "is updatable",
+      "not updatable",
+      "remotely updatable"
+    ]
+  },
+  {
+    "word": "Updatable",
+    "meaning": "Capable of being refreshed or modified with newer information",
+    "shortMeaning": "can be updated",
+    "example": "The firmware on this router is updatable.",
+    "example2": "Make sure the software version is updatable.",
+    "example3": "The database contains updatable records.",
+    "Explanation": "Updatable refers to software, hardware, or data that can receive updates or modifications to improve performance or fix issues. Being updatable is a crucial feature for modern technology, as it allows devices to remain current and secure over time without needing to be replaced. Developers design systems to be updatable by including modular components or APIs for patches. If a component is not updatable, it becomes obsolete faster and cannot be easily fixed if a security flaw is discovered.",
+    "synonyms": [
+      "refreshable",
+      "modifiable",
+      "upgradable"
+    ],
+    "antonyms": [
+      "static",
+      "fixed",
+      "immutable"
+    ],
+    "nounForm": "update",
+    "verbForm": "update",
+    "adjectiveForm": "updatable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software and firmware management",
+    "usageTip": "Use it to highlight ease of maintenance.",
+    "commonMistake": "Using 'updatable' for something that requires a complete reinstall.",
+    "collocations": [
+      "updatable firmware",
+      "updatable software",
+      "fully updatable"
+    ]
+  }
+]

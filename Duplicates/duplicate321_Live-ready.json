@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Live-ready",
+    "meaning": "Fully prepared to be used or broadcast in a real, active environment, especially for websites, software, or events",
+    "shortMeaning": "ready to go live",
+    "example": "The new website is live-ready and can be launched anytime.",
+    "example2": "We need a live-ready backup system in case the main one fails.",
+    "example3": "The broadcast team confirmed the feed was live-ready.",
+    "Explanation": "The adjective 'live-ready' describes something that is fully prepared to be activated or made publicly available in its real, operational context. It's common in media (broadcasting) and technology (websites, apps). It implies that final checks are done, and it is safe to switch from a testing/staging state to a public one. It's similar to 'production-ready' but often used for immediate public-facing activation.",
+    "synonyms": [
+      "go-live ready",
+      "production-ready",
+      "launch-ready"
+    ],
+    "antonyms": [
+      "in staging",
+      "in development",
+      "offline"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "live-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Websites, broadcasting, software launches, events",
+    "usageTip": "Used when something is about to be made publicly active, often at a specific planned time.",
+    "commonMistake": "Confusing it with 'live', which means it is already active.",
+    "collocations": [
+      "live-ready status",
+      "live-ready environment",
+      "get the system live-ready"
+    ]
+  },
+  {
+    "word": "Live-ready",
+    "meaning": "Prepared and tested for immediate deployment",
+    "shortMeaning": "ready for launch",
+    "example": "The new update is finally live-ready.",
+    "example2": "We need to ensure the code is live-ready by Friday.",
+    "example3": "His project is live-ready after final QA testing.",
+    "Explanation": "Live-ready describes a product, code, or system that has passed all development and testing phases and is prepared to be launched to the public. It signifies that the work is stable, bug-free enough for production, and ready for user interaction. Developers use this term to signal the end of the development cycle. It creates a clear distinction between 'feature-complete' and 'production-ready'. It is a sign of confidence in the quality of the software.",
+    "synonyms": [
+      "production-ready",
+      "deployment-ready"
+    ],
+    "antonyms": [
+      "experimental",
+      "untested"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "live-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, project management",
+    "usageTip": "Use when confirming a task is finished and safe to launch.",
+    "commonMistake": "Using 'live-ready' for software that hasn't been tested.",
+    "collocations": [
+      "live-ready code",
+      "live-ready application",
+      "make it live-ready"
+    ]
+  }
+]

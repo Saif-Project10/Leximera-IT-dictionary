@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Withdraw",
+    "meaning": "1. To remove or take away. 2. To take money out of an account. 3. To cease to participate or to retreat.",
+    "shortMeaning": "remove; take out; pull back",
+    "example": "The company decided to withdraw the product from the market. (remove)",
+    "example2": "I need to withdraw some cash from the ATM. (take out)",
+    "example3": "The army was ordered to withdraw. (retreat)",
+    "Explanation": "'Withdraw' is a formal verb meaning to pull back, remove, or extract. It implies a deliberate reversal of a previous action (like depositing money or entering a competition). In banking, it's the opposite of 'deposit'. In social contexts, to withdraw can mean to become quiet and unsociable. The past tense is 'withdrew', and the past participle is 'withdrawn'. It is a word of action and change, often used in official or serious situations.",
+    "synonyms": [
+      "remove",
+      "retreat",
+      "pull out",
+      "extract"
+    ],
+    "antonyms": [
+      "deposit",
+      "enter",
+      "advance",
+      "insert"
+    ],
+    "nounForm": "withdrawal",
+    "verbForm": "withdraw",
+    "adjectiveForm": "withdrawn",
+    "partOfSpeech": "verb",
+    "commonContext": "Banking, military, competitions, social behavior",
+    "usageTip": "Use 'withdraw' for the act of taking something back, out, or away.",
+    "commonMistake": "Mispronouncing the past tense 'withdrew' as 'withdrawed'.",
+    "collocations": [
+      "withdraw money",
+      "withdraw from",
+      "withdraw troops",
+      "withdraw a statement"
+    ]
+  },
+  {
+    "word": "Withdraw",
+    "meaning": "To remove a component, take back an offer, or pull out financial assets from a secure repository system",
+    "shortMeaning": "remove, extract, or retract",
+    "example": "The banking software allows authenticated clients to withdraw up to fifty thousand rupees a day from the portal.",
+    "example2": "The development group decided to withdraw the buggy software patch from the update stream distribution.",
+    "example3": "You can withdraw your application from the design competition if your project layout is incomplete.",
+    "Explanation": "The word 'withdraw' is a versatile verb meaning removal, retraction, or extraction. In financial technology fields, it describes a user pulling money out of a checking account, digital wallet, or ATM terminal interface. In engineering project workflows, it refers to retracting a software build, pulling a broken product version off the market, or removing oneself from an active contract agreement due to changes in system scoping requirements or team timelines.",
+    "synonyms": [
+      "extract",
+      "retract",
+      "remove",
+      "recall",
+      "pull out"
+    ],
+    "antonyms": [
+      "deposit",
+      "insert",
+      "submit",
+      "introduce"
+    ],
+    "nounForm": "withdrawal",
+    "verbForm": "withdraw",
+    "adjectiveForm": "withdrawn",
+    "partOfSpeech": "verb",
+    "commonContext": "Financial ATM banking transactions, removing broken application versions, and retracting formal project submissions",
+    "usageTip": "Use 'withdraw' when describing the literal extraction of funds or the formal retraction of code versions, proposals, or entries.",
+    "commonMistake": "Spelling the noun form as 'withdrawl' without the second 'a'; the correct spelling is always 'withdrawal'.",
+    "collocations": [
+      "withdraw money from bank",
+      "withdraw a software build",
+      "withdraw from competition"
+    ]
+  }
+]

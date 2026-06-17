@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Quartile",
+    "meaning": "A value that divides a set of data into four equal parts",
+    "shortMeaning": "one-fourth divider",
+    "example": "The first quartile (Q1) represents the bottom 25% of the test scores.",
+    "example2": "Our app's response time is in the top quartile of performance.",
+    "example3": "Data scientists use quartiles to identify the spread of information.",
+    "Explanation": "A quartile is a type of 'quantile' used in statistics. When you sort a data set from smallest to largest, quartiles act as the markers that split the data into four groups. The first quartile (Q1) is the 25th percentile, the second (Q2) is the median (50th percentile), and the third (Q3) is the 75th percentile. They are extremely helpful for understanding the distribution of data and finding outliers. For example, if a company says their salaries are in the 'upper quartile', it means they pay more than 75% of other companies. It provides more detail than a simple average.",
+    "synonyms": [
+      "quarter",
+      "statistical division"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "quartile",
+    "verbForm": "N/A",
+    "adjectiveForm": "quartile",
+    "partOfSpeech": "noun",
+    "commonContext": "Data analysis, finance, and performance metrics",
+    "usageTip": "Use quartiles to create 'box plots' for visualizing data distribution.",
+    "commonMistake": "Confusing 'quartile' (the point) with 'quarter' (the group itself).",
+    "collocations": [
+      "upper quartile",
+      "lower quartile",
+      "interquartile range"
+    ]
+  },
+  {
+    "word": "Quartile",
+    "meaning": "One of four equal parts of a dataset that has been sorted",
+    "shortMeaning": "statistical group",
+    "example": "The performance metrics fall into the top quartile.",
+    "example2": "We analyze data distribution by quartile.",
+    "example3": "The bottom quartile shows the slowest response times.",
+    "Explanation": "A quartile is a statistical term used to divide data into four equal groups after sorting it from lowest to highest. It helps in understanding the distribution and identifying outliers. In IT analytics, quartiles are used to measure performance, such as load times or user engagement. By looking at the top or bottom quartile, you can quickly see which parts of your system are performing well or need improvement.",
+    "synonyms": [
+      "quarter",
+      "division"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "quartile",
+    "verbForm": "N/A",
+    "adjectiveForm": "quartile",
+    "partOfSpeech": "noun",
+    "commonContext": "Data analysis, statistics, performance reporting",
+    "usageTip": "Use this when comparing performance across a range of data points.",
+    "commonMistake": "Confusing quartile (four parts) with percentile (hundred parts).",
+    "collocations": [
+      "top quartile",
+      "bottom quartile",
+      "quartile distribution"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unnecessary",
+    "meaning": "Not needed; more than is necessary",
+    "shortMeaning": "not needed",
+    "example": "Buying a new car is unnecessary when the old one works fine.",
+    "example2": "He apologized for the unnecessary delay.",
+    "example3": "Avoid using unnecessary words in your report.",
+    "Explanation": "'Unnecessary' is a common adjective with a negative connotation, meaning something is not required or is surplus to requirements. It often implies waste, excess, or avoidable trouble. This word is used in everyday language to critique actions, expenses, or complications. The adverb is 'unnecessarily'. Identifying what is unnecessary is a key part of efficiency, simplicity, and clear communication. It encourages focusing on what is essential.",
+    "synonyms": [
+      "needless",
+      "superfluous",
+      "redundant",
+      "unneeded"
+    ],
+    "antonyms": [
+      "necessary",
+      "essential",
+      "required",
+      "vital"
+    ],
+    "nounForm": "unnecessariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unnecessary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Critiquing waste, simplifying tasks, budgeting, writing style",
+    "usageTip": "Use 'unnecessary' to point out something that could be omitted without any loss or negative effect.",
+    "commonMistake": "Misspelling as 'unecessary' (missing an 'n'). Remember: un-nec-ess-ary.",
+    "collocations": [
+      "unnecessary expense",
+      "completely unnecessary",
+      "unnecessary risk"
+    ]
+  },
+  {
+    "word": "Unnecessary",
+    "meaning": "Not needed; not essential for a task",
+    "shortMeaning": "not needed",
+    "example": "The code contains many unnecessary comments that should be removed.",
+    "example2": "We removed unnecessary dependencies to speed up the build.",
+    "example3": "Unnecessary data transfers increase network costs.",
+    "Explanation": "Unnecessary refers to anything that does not provide value or is not required for a function to perform correctly. In software, this often involves 'bloat'—extra code, libraries, or files that make a program larger and slower without adding features. Removing unnecessary elements is a key part of refactoring and optimization. It is important to identify what is truly needed versus what is simply taking up space or resources.",
+    "synonyms": [
+      "needless",
+      "superfluous",
+      "redundant"
+    ],
+    "antonyms": [
+      "necessary",
+      "essential",
+      "required"
+    ],
+    "nounForm": "necessity",
+    "verbForm": "N/A",
+    "adjectiveForm": "unnecessary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Optimization, refactoring, code quality",
+    "usageTip": "Use this when suggesting removals to improve system performance.",
+    "commonMistake": "Deleting things without knowing if they are truly unnecessary.",
+    "collocations": [
+      "unnecessary code",
+      "unnecessary dependency",
+      "remove unnecessary"
+    ]
+  },
+  {
+    "word": "Unnecessary",
+    "meaning": "Something that is not required or is not needed in a specific situation.",
+    "shortMeaning": "not needed",
+    "example": "These unnecessary background processes are slowing down the PC.",
+    "example2": "Please remove any unnecessary files from the root directory.",
+    "example3": "Adding extra comments to clean code can sometimes be unnecessary.",
+    "Explanation": "The word 'unnecessary' points to something that serves no purpose or is redundant within a system. In coding, it often refers to bloated code, duplicate variables, or logic that does not affect the outcome. Identifying and removing unnecessary elements is a core part of optimization and refactoring. It helps in maintaining efficiency and readability in software projects. Use this term to justify deleting or disabling non-essential features.",
+    "synonyms": [
+      "needless",
+      "redundant",
+      "superfluous"
+    ],
+    "antonyms": [
+      "necessary",
+      "essential",
+      "required"
+    ],
+    "nounForm": "unnecessariness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unnecessary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code optimization, system resource management",
+    "usageTip": "Use 'unnecessary' to suggest optimization or cleaning.",
+    "commonMistake": "Confusing it with 'unused', which implies it exists but is not called.",
+    "collocations": [
+      "unnecessary data",
+      "unnecessary complexity",
+      "unnecessary overhead"
+    ]
+  }
+]

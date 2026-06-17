@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Complicated",
+    "meaning": "Consisting of many interconnecting parts or elements; intricate; difficult to analyze or understand.",
+    "shortMeaning": "complex; difficult",
+    "example": "The instructions for assembling the furniture were very complicated.",
+    "example2": "He's in a complicated relationship.",
+    "example3": "The human brain is a complicated organ.",
+    "Explanation": "Complicated is an adjective describing something with many connected parts, making it hard to understand, analyze, or deal with. It often has a negative connotation of unnecessary difficulty, but can be neutral for inherently complex systems (a complicated machine). The verb is 'complicate.' A common mistake is using it as a synonym for 'complex'; 'complicated' often implies convolution and difficulty, while 'complex' can be neutral or even positive (a complex idea). This word is used to express frustration with difficulty or to acknowledge the intricacy of a subject.",
+    "synonyms": [
+      "complex",
+      "intricate",
+      "involved",
+      "convoluted",
+      "difficult"
+    ],
+    "antonyms": [
+      "simple",
+      "straightforward",
+      "easy",
+      "uncomplicated"
+    ],
+    "nounForm": "complication",
+    "verbForm": "complicate",
+    "adjectiveForm": "complicated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Instructions, relationships, systems, and problems.",
+    "usageTip": "Use 'complicated' when something is hard to understand because of many parts or factors. Use 'complex' for something with many interconnected parts, not necessarily hard.",
+    "commonMistake": "Overusing 'complicated' to describe any slightly difficult task, diluting its meaning.",
+    "collocations": [
+      "highly complicated",
+      "complicated process",
+      "it's complicated"
+    ]
+  },
+  {
+    "word": "Complicated",
+    "meaning": "Difficult to understand, explain, or deal with, often because it is messy or poorly designed",
+    "shortMeaning": "hard to manage",
+    "example": "The spaghetti code makes this system very complicated to fix.",
+    "example2": "We tried to simplify the user interface because the original was too complicated.",
+    "example3": "Trying to maintain these legacy scripts is a complicated and time-consuming job.",
+    "Explanation": "The word 'Complicated' is similar to 'complex' but often carries a negative, frustrating undertone. While a complex system might be necessary for success, a complicated system is usually one that is hard to use or maintain due to poor design. It is an adjective. When you hear the word 'complicated' in a team meeting, it is usually a signal to start simplifying the process or documentation. Try to replace 'complicated' systems with cleaner, simpler alternatives.",
+    "synonyms": [
+      "messy",
+      "difficult",
+      "convoluted"
+    ],
+    "antonyms": [
+      "simple",
+      "easy",
+      "intuitive"
+    ],
+    "nounForm": "complication",
+    "verbForm": "complicate",
+    "adjectiveForm": "complicated",
+    "partOfSpeech": "adjective",
+    "commonContext": "User experience design, maintenance, legacy software",
+    "usageTip": "Use 'complicated' when something is unnecessarily hard to work with or fix.",
+    "commonMistake": "Confusing 'complicated' (negative, hard) with 'complex' (multi-part, often neutral).",
+    "collocations": [
+      "too complicated",
+      "complicated mess",
+      "make things complicated"
+    ]
+  }
+]

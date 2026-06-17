@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Upload",
+    "meaning": "To send data from a local computer to a central server or the internet.",
+    "shortMeaning": "send data online",
+    "example": "It took ten minutes to upload the large video file to YouTube.",
+    "example2": "The app allows you to upload photos directly from your phone.",
+    "example3": "Make sure you have a stable connection before you start the upload.",
+    "Explanation": "Upload is the opposite of 'download'. When you post a photo on Instagram, send an email, or save a file to Google Drive, you are uploading. The data moves 'up' from your device to a remote server. In technical terms, the client initiates the transfer to the server. Most home internet connections have slower upload speeds than download speeds because users usually download more than they send.",
+    "synonyms": [
+      "transfer",
+      "send",
+      "post"
+    ],
+    "antonyms": [
+      "download",
+      "fetch",
+      "receive"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploaded",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Internet usage, cloud storage, and social media",
+    "usageTip": "Use 'upload' when data is leaving your device and going to the cloud.",
+    "commonMistake": "Using 'download' when you actually mean 'upload'.",
+    "collocations": [
+      "upload a file",
+      "upload speed",
+      "successful upload"
+    ]
+  },
+  {
+    "word": "Upload",
+    "meaning": "To transfer data files or media assets from a local computer or phone up over a network link to a centralized remote server or cloud system",
+    "shortMeaning": "send data to a server",
+    "example": "The web application allows users to upload a custom profile picture layout directly from their local device storage.",
+    "example2": "It takes a few seconds to upload large JSON data objects over a high-speed fiber-optic internet connection.",
+    "example3": "Make sure you upload the finished HTML and CSS website code files to the hosting platform today.",
+    "Explanation": "The word 'upload' operates heavily as both a noun and a verb across the digital universe. As a verb, it describes moving a copy of a file from your small local ecosystem (like your desktop computer or mobile phone) across the internet network into a larger server destination (like Amazon AWS, Google Drive, or GitHub repositories). As a noun, it refers to the actual file package being transferred or the speed rating of your internet connection stream when sending data out. It is a fundamental element of web user interfaces and online resource sharing.",
+    "synonyms": [
+      "transmit data",
+      "send files",
+      "transfer upstream",
+      "publish online"
+    ],
+    "antonyms": [
+      "download"
+    ],
+    "nounForm": "upload / uploader",
+    "verbForm": "upload",
+    "adjectiveForm": "uploaded",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Web application interfaces, file-sharing platforms, code repository commits, and network performance speed tests",
+    "usageTip": "Design clean web layouts with progress bars whenever you ask users to upload massive data structures, so they know the app is working.",
+    "commonMistake": "Confusing 'upload' with 'download'; upload means sending data *away* from your device, while download means pulling data *to* your device.",
+    "collocations": [
+      "upload files",
+      "upload speed",
+      "click to upload"
+    ]
+  }
+]

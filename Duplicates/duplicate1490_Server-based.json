@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Server-based",
+    "meaning": "Relying on or centered around a server; where the main processing or storage happens on a server.",
+    "shortMeaning": "centered on a server",
+    "example": "It's a server-based application, so you need an internet connection.",
+    "example2": "Their backup solution is server-based for greater security.",
+    "example3": "Server-based computing allows thin clients to access powerful software.",
+    "Explanation": "'Server-based' is a compound adjective describing systems, applications, or architectures where the primary logic, data storage, or processing occurs on a server computer. The client devices (like your laptop or phone) are often just used for display and input. This contrasts with 'client-based' or 'desktop' applications where most work happens on the local machine. It's a key term in cloud computing and modern web applications. The model centralizes control and updates but requires a network connection.",
+    "synonyms": [
+      "centralized",
+      "hosted"
+    ],
+    "antonyms": [
+      "client-based",
+      "desktop",
+      "local"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, networking, cloud services",
+    "usageTip": "Often hyphenated. It describes where the 'brains' of the operation are located.",
+    "commonMistake": "Confusing it with 'server-side'; they are closely related, but 'server-based' often describes the whole system's design philosophy.",
+    "collocations": [
+      "server-based system",
+      "server-based software",
+      "server-based model"
+    ]
+  },
+  {
+    "word": "Server-based",
+    "meaning": "Running on or dependent on a server",
+    "shortMeaning": "runs on server",
+    "example": "This is a server-based application, not a desktop one.",
+    "example2": "Server-based security ensures all data is centralized.",
+    "example3": "The game uses a server-based architecture.",
+    "Explanation": "Server-based means that the software or service relies on a centralized computer (a server) to process data, manage users, and store information. Instead of all the heavy lifting happening on your local device (the client), the server does the hard work. This is the foundation of the modern internet and cloud computing. It makes data sharing and collaboration easier, but it also means the system will stop working if the server goes offline. It is a defining term for architecture.",
+    "synonyms": [
+      "centralized",
+      "cloud-based",
+      "networked"
+    ],
+    "antonyms": [
+      "client-side",
+      "local",
+      "offline"
+    ],
+    "nounForm": "server",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, architecture, web apps",
+    "usageTip": "Use 'server-based' to highlight where the application logic actually lives.",
+    "commonMistake": "Confusing 'server-based' with 'client-side' (local processing).",
+    "collocations": [
+      "server-based application",
+      "server-based architecture",
+      "purely server-based"
+    ]
+  },
+  {
+    "word": "Server-based",
+    "meaning": "Managed or running on a central server",
+    "shortMeaning": "centralized",
+    "example": "This is a server-based application, not a desktop one.",
+    "example2": "We prefer server-based backups for easier management.",
+    "example3": "The system uses server-based authentication for security.",
+    "Explanation": "Server-based means the software or data is hosted on a central server instead of the user's local device. This makes it easier to manage, update, and secure because the IT team has full control. Users just need to connect to the server to use the application. This model is the foundation of cloud computing and SaaS. It is popular because it reduces the hardware requirements for the end user's machine.",
+    "synonyms": [
+      "hosted",
+      "cloud-based",
+      "centralized"
+    ],
+    "antonyms": [
+      "local",
+      "client-side"
+    ],
+    "nounForm": "server",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, SaaS",
+    "usageTip": "Use this to highlight that the app lives on a server.",
+    "commonMistake": "Confusing 'server-based' with 'online only'.",
+    "collocations": [
+      "server-based application",
+      "server-based system",
+      "server-based backup"
+    ]
+  }
+]

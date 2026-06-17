@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Tabular",
+    "meaning": "Arranged in rows and columns",
+    "shortMeaning": "table-like",
+    "example": "The data is presented in a tabular format.",
+    "example2": "Tabular reports are easier to read for accountants.",
+    "example3": "We need to convert this list into a tabular structure.",
+    "Explanation": "The word 'tabular' describes information organized in a grid of rows and columns, similar to a spreadsheet or a database table. It is the most common way to represent structured data. Because it allows for quick scanning and comparison, tabular data is essential in business, analytics, and database design. If you are describing a report or a data display, 'tabular' is the correct term to use. It indicates clarity and logical organization.",
+    "synonyms": [
+      "grid-like",
+      "organized",
+      "columnar"
+    ],
+    "antonyms": [
+      "narrative",
+      "unstructured",
+      "random"
+    ],
+    "nounForm": "table",
+    "verbForm": "N/A",
+    "adjectiveForm": "tabular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data reporting, databases, UI design",
+    "usageTip": "Use when describing grids or tables of data.",
+    "commonMistake": "Using 'tabular' for lists; tables must be specifically rows and columns.",
+    "collocations": [
+      "tabular format",
+      "tabular data",
+      "tabular display"
+    ]
+  },
+  {
+    "word": "Tabular",
+    "meaning": "Arranged in columns and rows, like a table",
+    "shortMeaning": "table-based",
+    "example": "The database stores information in a tabular format.",
+    "example2": "Tabular data is easy to process for reporting.",
+    "example3": "We presented the results in a clear, tabular layout.",
+    "Explanation": "Tabular describes data organized in a grid of rows and columns. This is the foundation of relational databases and spreadsheets. It is the standard way to represent structured data for analysis, storage, and presentation. Understanding tabular structures is essential for SQL and data management. It emphasizes readability, structure, and organized, searchable information. It is a clear and simple term for any data that fits into an Excel-like grid.",
+    "synonyms": [
+      "structured",
+      "grid-based",
+      "columnar"
+    ],
+    "antonyms": [
+      "unstructured",
+      "random",
+      "linear"
+    ],
+    "nounForm": "table",
+    "verbForm": "N/A",
+    "adjectiveForm": "tabular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database, spreadsheets, data visualization",
+    "usageTip": "Use to describe data stored in rows and columns.",
+    "commonMistake": "Using 'tabular' for unstructured text files.",
+    "collocations": [
+      "tabular data",
+      "tabular format",
+      "tabular layout"
+    ]
+  }
+]

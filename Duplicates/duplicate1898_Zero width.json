@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Zero width",
+    "meaning": "Something that exists in a document or code but has no physical size on the screen",
+    "shortMeaning": "invisible size",
+    "example": "The character has zero width, so you cannot see it when reading.",
+    "example2": "The designer used a zero width element to manage the layout.",
+    "example3": "Zero width spaces can sometimes break a search engine's indexing.",
+    "Explanation": "In the world of digital text and web design, 'zero width' refers to elements or characters that take up no horizontal space. Even though they are present in the code and occupy memory, they are invisible to the user. These are often used for invisible 'hints' to the computer, such as where it is okay to break a long word if it hits the end of a line. In web design (HTML/CSS), an element might have its width set to zero to hide it or to use it as a reference point for other animations.",
+    "synonyms": [
+      "invisible",
+      "non-printing"
+    ],
+    "antonyms": [
+      "fixed width",
+      "visible width"
+    ],
+    "nounForm": "zero-width",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-width",
+    "partOfSpeech": "adjective",
+    "commonContext": "Typography, web design, and programming",
+    "usageTip": "Be careful with zero width characters in code, as they can cause bugs that are very hard to find.",
+    "commonMistake": "Assuming that because you can't see it, it's not there; zero width items still affect the code.",
+    "collocations": [
+      "zero width space",
+      "zero width joiner",
+      "zero width character"
+    ]
+  },
+  {
+    "word": "Zero width",
+    "meaning": "Having no actual width; usually refers to special characters that occupy no space.",
+    "shortMeaning": "no visible space",
+    "example": "A zero width space is used to break words without adding a visible gap.",
+    "example2": "Check for zero width characters if your text is causing layout issues.",
+    "example3": "The developer inserted a zero width joiner to modify the glyph.",
+    "Explanation": "The term 'zero width' describes a character or object that has no horizontal space or 'width' in a document or interface. These are often non-printing characters used to control how text is rendered, such as breaking long words or joining symbols together. They are invisible to the user but highly important to rendering engines. If someone copies text that contains these characters, it might cause unexpected behavior or errors in code. Being aware of them is helpful when troubleshooting strange text-based formatting problems.",
+    "synonyms": [
+      "non-spacing",
+      "invisible"
+    ],
+    "antonyms": [
+      "fixed-width",
+      "proportional-width"
+    ],
+    "nounForm": "zero width character",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-width",
+    "partOfSpeech": "adjective",
+    "commonContext": "Typography, web development, text rendering",
+    "usageTip": "Use 'zero width' when dealing with specialized Unicode characters that affect text layout.",
+    "commonMistake": "Forgetting that these invisible characters still count as bytes in a file.",
+    "collocations": [
+      "zero width space",
+      "zero width joiner",
+      "zero width character"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Tagged",
+    "meaning": "Labeled or marked with a tag; in computing, assigned a reference point (like a version)",
+    "shortMeaning": "labeled or assigned a version",
+    "example": "All the items in the warehouse were tagged with barcodes.",
+    "example2": "She tagged her friend in the photo on social media.",
+    "example3": "The development team tagged the code as version 2.0.0.",
+    "Explanation": "'Tagged' means having a label attached. Physically, it can be a price tag. On social media, it means identifying someone in a post. In software version control (like Git), a 'tag' is a named marker for a specific commit, usually for releases (v1.0, v2.0). Tagging a release is a crucial step as it creates a permanent reference point for that version of the code, which is essential for maintenance and deployment.",
+    "synonyms": [
+      "labeled",
+      "marked",
+      "identified",
+      "versioned"
+    ],
+    "antonyms": [
+      "untagged",
+      "unlabeled"
+    ],
+    "nounForm": "tag",
+    "verbForm": "tag",
+    "adjectiveForm": "tagged",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Retail, social media, version control (Git), wildlife research",
+    "usageTip": "In Git, the command is `git tag`. A 'tagged release' is an official, stable version.",
+    "commonMistake": "Confusing a Git 'tag' (a static label) with a 'branch' (a moving line of development).",
+    "collocations": [
+      "tagged release",
+      "tagged with",
+      "git tagged",
+      "price-tagged"
+    ]
+  },
+  {
+    "word": "Tagged",
+    "meaning": "Labeled or marked with a keyword or identifier",
+    "shortMeaning": "labeled",
+    "example": "The photo was tagged with relevant keywords.",
+    "example2": "All files are tagged by date and user.",
+    "example3": "He tagged the code version as 'v1.0'.",
+    "Explanation": "The word 'tagged' means to assign a label or metadata to an object to make it easier to search, categorize, or identify. In version control (like Git), 'tagging' a commit gives it a human-readable name like 'v1.0'. In web development, tagging content helps with SEO and organization. It is a fundamental practice for data management and searchability. Use this to describe any process where you add identifiers to help manage large collections of items.",
+    "synonyms": [
+      "labeled",
+      "marked",
+      "indexed"
+    ],
+    "antonyms": [
+      "untagged",
+      "unlabeled"
+    ],
+    "nounForm": "tag",
+    "verbForm": "tag",
+    "adjectiveForm": "tagged",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data management, version control, SEO",
+    "usageTip": "Use when discussing searchability and metadata.",
+    "commonMistake": "Forgetting to update tags when moving or changing files.",
+    "collocations": [
+      "tagged data",
+      "tagged version",
+      "tagged item"
+    ]
+  },
+  {
+    "word": "Tagged",
+    "meaning": "Marked with a label or a specific identifier for tracking or sorting",
+    "shortMeaning": "labeled",
+    "example": "All the files were tagged by date.",
+    "example2": "The products are tagged with serial numbers.",
+    "example3": "He tagged the images with keywords for easier search.",
+    "Explanation": "The word 'tagged' refers to the act of attaching a tag or label to an item, digital object, or person. It is commonly used in IT for data organization, social media, and inventory management. By tagging items, they become easier to find, categorize, or track within a system. The noun form is 'tag', and the verb form is 'tag'. It is an essential term for database management and online content tagging systems.",
+    "synonyms": [
+      "labeled",
+      "marked",
+      "identified"
+    ],
+    "antonyms": [
+      "untagged",
+      "unlabeled"
+    ],
+    "nounForm": "tag",
+    "verbForm": "tag",
+    "adjectiveForm": "tagged",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "IT systems, social media, database management",
+    "usageTip": "Use 'tagged' when referring to assigning metadata or a label to something.",
+    "commonMistake": "Mixing up 'tagged' with 'flagged', which often implies a warning.",
+    "collocations": [
+      "tagged with",
+      "properly tagged",
+      "tagged as"
+    ]
+  }
+]

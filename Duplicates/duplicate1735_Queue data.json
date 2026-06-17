@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Queue data",
+    "meaning": "The actual items or information waiting in a line to be processed",
+    "shortMeaning": "waiting information",
+    "example": "The queue data includes all the emails waiting to be sent.",
+    "example2": "We need to clear the old queue data to save memory.",
+    "example3": "The system monitors the queue data to prevent delays.",
+    "Explanation": "In computing, queue data refers to the specific messages, tasks, or packets currently sitting in a queue. A queue follows the 'First-In, First-Out' (FIFO) rule, meaning the oldest data is handled first. If a system is busy, it stores new data as 'queue data' until it can get to it. This is very common in print servers, task managers, and network routers. Managing this data effectively prevents the system from crashing. If the amount of queue data becomes too large, the system might slow down or start losing information. It is a key concept in data management.",
+    "synonyms": [
+      "queued items",
+      "pending data",
+      "waiting tasks"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "queue data",
+    "adjectiveForm": "queued",
+    "partOfSpeech": "noun",
+    "commonContext": "Data structures and system processing",
+    "usageTip": "Use this term when referring to the contents of a queue.",
+    "commonMistake": "Thinking 'queue data' is only for text; it can be any digital object or task.",
+    "collocations": [
+      "process queue data",
+      "store queue data",
+      "clear queue data"
+    ]
+  },
+  {
+    "word": "Queue data",
+    "meaning": "The actual items, objects, or information stored inside a queue",
+    "shortMeaning": "information inside a queue",
+    "example": "The system monitors the queue data to ensure no sensitive fields are exposed.",
+    "example2": "We serialized the payload before saving it as queue data.",
+    "example3": "The worker processes the queue data one item at a time.",
+    "Explanation": "The noun phrase 'queue data' refers specifically to the information content waiting inside a queue structure. It represents the payload or parameters needed by a worker process to perform a background job. For instance, in an e-commerce site, queue data might contain a user ID and an email address to send a receipt. It is distinct from the queue structure itself, focusing purely on the data payload. Managing this efficiently prevents high memory usage.",
+    "synonyms": [
+      "queue payload",
+      "buffered data",
+      "enqueued items"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "queue data",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Data storage, message brokers, and backend systems",
+    "usageTip": "Use this term when referring to the content or structure of the message inside a queue.",
+    "commonMistake": "Confusing 'queue data' with the total count or length of the queue.",
+    "collocations": [
+      "process queue data",
+      "serialize queue data",
+      "inspect queue data"
+    ]
+  }
+]

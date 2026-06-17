@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Zoomed",
+    "meaning": "Viewed at a higher or lower magnification level",
+    "shortMeaning": "magnified",
+    "example": "The map is zoomed into the city center.",
+    "example2": "He zoomed out to see the entire graph.",
+    "example3": "Ensure the image is zoomed for better detail.",
+    "Explanation": "Zoomed refers to the state of an image, map, or UI element that has been magnified or minimized. Users often need to zoom to see details or get a wider view. In UI design, handling zoomed states is important for responsiveness and accessibility. It allows users to control their focus. Understanding how to manage and trigger zoom events is a standard part of frontend development.",
+    "synonyms": [
+      "magnified",
+      "enlarged"
+    ],
+    "antonyms": [
+      "shrunken"
+    ],
+    "nounForm": "zoom",
+    "verbForm": "zoom",
+    "adjectiveForm": "zoomed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI/UX, graphics, maps",
+    "usageTip": "Use this to describe magnification levels.",
+    "commonMistake": "Confusing zoomed state with actual image resolution.",
+    "collocations": [
+      "zoomed in",
+      "zoomed out",
+      "zoomed image"
+    ]
+  },
+  {
+    "word": "Zoomed",
+    "meaning": "Having been magnified or scaled to see more detail or a larger view.",
+    "shortMeaning": "magnified view",
+    "example": "The image was zoomed in to check the pixel details.",
+    "example2": "The UI layout looks better when the view is zoomed out.",
+    "example3": "He zoomed into the code to focus on the function definition.",
+    "Explanation": "The term 'zoomed' describes the state of changing the magnification of a view on a screen, like in an image editor, browser, or map application. 'Zooming in' makes objects appear larger to show detail, while 'zooming out' makes them smaller to show a wider context. In UI design, it is a key functionality for accessibility and productivity. It is a straightforward term used in almost every piece of graphical software today to help users see precisely what they need to see on their screens.",
+    "synonyms": [
+      "magnified",
+      "enlarged",
+      "scaled"
+    ],
+    "antonyms": [
+      "shrunk",
+      "miniaturized",
+      "zoomed out"
+    ],
+    "nounForm": "zoom",
+    "verbForm": "zoom",
+    "adjectiveForm": "zoomed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Graphical user interfaces, imaging, web design",
+    "usageTip": "Use 'zoomed' to describe the level of magnification or focus on a specific area.",
+    "commonMistake": "Confusing zoom with resolution; zooming only changes the view, not the underlying quality.",
+    "collocations": [
+      "zoomed in",
+      "zoomed out",
+      "zoomed view"
+    ]
+  }
+]

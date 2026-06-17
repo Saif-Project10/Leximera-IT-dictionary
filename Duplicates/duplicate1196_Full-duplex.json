@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Full-duplex",
+    "meaning": "A system of communication where both parties can send and receive signals simultaneously",
+    "shortMeaning": "simultaneous two-way communication",
+    "example": "Telephone conversations are full-duplex.",
+    "example2": "Modern network switches operate in full-duplex mode.",
+    "example3": "Full-duplex radio allows pilots to talk and listen at the same time.",
+    "Explanation": "'Full-duplex' is a technical adjective from telecommunications and networking. It describes a communication channel that allows data to flow in both directions at the same time, like a telephone call. This contrasts with 'half-duplex' (walkie-talkies, where only one can talk at a time) and 'simplex' (one-way, like TV broadcast). It is a key feature for efficient, natural conversation and data transfer. The term is specific to engineering and computing but underpins everyday technologies like phones and modern internet connections.",
+    "synonyms": [
+      "bidirectional simultaneous"
+    ],
+    "antonyms": [
+      "half-duplex",
+      "simplex"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "full-duplex",
+    "partOfSpeech": "adjective",
+    "commonContext": "Telecommunications, networking, radio, data transmission",
+    "usageTip": "Use 'full-duplex' only in technical contexts to describe systems where two-way simultaneous communication is possible.",
+    "commonMistake": "Using it in non-technical conversation. In everyday terms, you'd say 'like a phone call'.",
+    "collocations": [
+      "full-duplex communication",
+      "full-duplex mode",
+      "full-duplex operation"
+    ]
+  },
+  {
+    "word": "Full-duplex",
+    "meaning": "Communication in both directions simultaneously.",
+    "shortMeaning": "two-way simultaneous",
+    "example": "The network protocol supports full-duplex communication.",
+    "example2": "Full-duplex is faster than half-duplex for data transfer.",
+    "example3": "Most modern routers are full-duplex.",
+    "Explanation": "The term 'full-duplex' refers to a communication system where data can be transmitted and received at the same time. This is standard in modern networking, whereas 'half-duplex' only allows one-way traffic at any given moment. It is a crucial concept for understanding network performance and throughput. Use this term when describing how your system handles concurrent data streams. It is an technical adjective describing hardware or protocol capability.",
+    "synonyms": [
+      "simultaneous two-way"
+    ],
+    "antonyms": [
+      "half-duplex",
+      "simplex"
+    ],
+    "nounForm": "full-duplex",
+    "verbForm": "N/A",
+    "adjectiveForm": "full-duplex",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, protocols, communications",
+    "usageTip": "Use 'full-duplex' for simultaneous two-way traffic.",
+    "commonMistake": "Confusing it with half-duplex where traffic takes turns.",
+    "collocations": [
+      "full-duplex connection",
+      "full-duplex mode",
+      "full-duplex transmission"
+    ]
+  }
+]

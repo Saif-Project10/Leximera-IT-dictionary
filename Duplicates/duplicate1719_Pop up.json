@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Pop up",
+    "meaning": "A small window that suddenly appears in the foreground of a website or app",
+    "shortMeaning": "foreground window",
+    "example": "A pop up appeared asking me to subscribe to the newsletter.",
+    "example2": "I hate it when a pop up blocks the article I'm reading.",
+    "example3": "The software uses a pop up to confirm if you want to delete a file.",
+    "Explanation": "A pop up is a graphical user interface (GUI) element that 'pops' into view on top of the main content. It is used for many things: ads, warnings, login forms, or helpful tips. In the early days of the web, they were mostly used for annoying ads, which is why 'pop up blockers' became famous. Today, 'modals' (a type of pop up) are very common for user interaction because they force the user to pay attention to a specific task. They are a key part of modern web design when used correctly.",
+    "synonyms": [
+      "dialog box",
+      "modal",
+      "overlay window"
+    ],
+    "antonyms": [
+      "pop under",
+      "background window"
+    ],
+    "nounForm": "pop up",
+    "verbForm": "pop up",
+    "adjectiveForm": "pop-up",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing, apps, and OS alerts",
+    "usageTip": "Use 'pop up' to describe any window that appears on top of your current work.",
+    "commonMistake": "Using 'pop up' to describe a menu; a menu is usually part of the window, whereas a pop up is separate.",
+    "collocations": [
+      "pop up window",
+      "pop up message",
+      "close the pop up"
+    ]
+  },
+  {
+    "word": "Pop up",
+    "meaning": "A small window that suddenly appears in front of the main content on a screen",
+    "shortMeaning": "sudden foreground window",
+    "example": "A pop up appeared asking me to subscribe to the newsletter.",
+    "example2": "You can disable the pop up notifications in the app settings.",
+    "example3": "Be careful not to click on any suspicious pop up links.",
+    "Explanation": "A 'pop up' is a window that jumps out on top of your current application or webpage. They are used for many things, such as alerts, menus, login forms, or advertisements. While some are helpful (like a warning that your battery is low), many people find them annoying when used for marketing. Developers use them to grab the user's immediate attention. Most web browsers include a 'pop-up blocker' to prevent websites from opening too many of them. They are a staple of modern user interface design.",
+    "synonyms": [
+      "overlay",
+      "modal",
+      "dialog box"
+    ],
+    "antonyms": [
+      "pop under",
+      "background window"
+    ],
+    "nounForm": "pop-up",
+    "verbForm": "pop up",
+    "adjectiveForm": "pop-up",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Websites, software interfaces, and mobile apps",
+    "usageTip": "In professional UI design, refer to these as 'modals' or 'dialogs' for more accuracy.",
+    "commonMistake": "Spelling the noun as 'popup' without a hyphen, though this is becoming common informally.",
+    "collocations": [
+      "pop-up window",
+      "pop-up blocker",
+      "pop-up notification"
+    ]
+  }
+]

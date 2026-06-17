@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Skeletal",
+    "meaning": "Having only the essential parts; minimal or structural in form.",
+    "shortMeaning": "basic structure",
+    "example": "We created a skeletal version of the app to start.",
+    "example2": "The skeletal code provides the basic framework.",
+    "example3": "Only a skeletal team is working on the weekend.",
+    "Explanation": "The word 'skeletal' describes something reduced to its core structure, like a frame without the details. In coding, a 'skeletal framework' is a template that provides the bare essentials for a project. It is useful for getting started quickly because it provides the structure, and you fill in the functionality later. It is a very common approach in early-stage development.",
+    "synonyms": [
+      "basic",
+      "minimalist",
+      "structural"
+    ],
+    "antonyms": [
+      "complete",
+      "detailed",
+      "elaborate"
+    ],
+    "nounForm": "skeleton",
+    "verbForm": "N/A",
+    "adjectiveForm": "skeletal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Development and planning",
+    "usageTip": "Use 'skeletal' for plans or code that are in the early, structural phase.",
+    "commonMistake": "Thinking 'skeletal' means 'incomplete' in a broken way (it means essential).",
+    "collocations": [
+      "skeletal structure",
+      "skeletal code",
+      "skeletal framework"
+    ]
+  },
+  {
+    "word": "Skeletal",
+    "meaning": "Consisting of a basic framework or outline",
+    "shortMeaning": "basic framework",
+    "example": "We created a skeletal structure for the new database schema.",
+    "example2": "The initial project code was just a skeletal outline of the final app.",
+    "example3": "The skeletal interface allows developers to test functionality quickly.",
+    "Explanation": "The word 'skeletal' refers to the bare-bones version or the underlying structure of a larger project. In programming, it describes code that has the essential skeleton but lacks the full implementation or UI design. It is often used during the early stages of development to establish the main hierarchy. This helps in understanding the layout before adding complex details. It is an adjective that implies a 'work in progress' state.",
+    "synonyms": [
+      "basic",
+      "foundational",
+      "rudimentary"
+    ],
+    "antonyms": [
+      "complete",
+      "detailed",
+      "elaborate"
+    ],
+    "nounForm": "skeleton",
+    "verbForm": "N/A",
+    "adjectiveForm": "skeletal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, architecture planning",
+    "usageTip": "Use this to describe the initial, minimal version of a system.",
+    "commonMistake": "Assuming a 'skeletal' design is final or ready for production.",
+    "collocations": [
+      "skeletal structure",
+      "skeletal code",
+      "skeletal framework"
+    ]
+  }
+]

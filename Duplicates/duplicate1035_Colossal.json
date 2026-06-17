@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Colossal",
+    "meaning": "Extremely large; gigantic.",
+    "shortMeaning": "huge; gigantic",
+    "example": "The project required a colossal amount of funding.",
+    "example2": "They faced colossal difficulties in rebuilding after the earthquake.",
+    "example3": "The statue was of colossal proportions.",
+    "Explanation": "'Colossal' is an adjective meaning extraordinarily large in size, extent, or degree. It comes from the Colossus of Rhodes, an ancient giant statue. It suggests something impressively or awesomely huge, often beyond ordinary scale. It's used for physical size (colossal building) or metaphorical magnitude (colossal mistake, colossal success). It's more dramatic than 'big' or 'large', implying something monumental. It's generally used in positive or neutral contexts, though it can describe negative things of great scale.",
+    "synonyms": [
+      "huge",
+      "enormous",
+      "gigantic",
+      "massive"
+    ],
+    "antonyms": [
+      "tiny",
+      "minute",
+      "minuscule",
+      "insignificant"
+    ],
+    "nounForm": "colossus",
+    "verbForm": "N/A",
+    "adjectiveForm": "colossal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Size descriptions, projects, achievements, mistakes",
+    "usageTip": "Often used for emphasis: 'colossal waste', 'colossal undertaking', 'colossal statue'.",
+    "commonMistake": "Confusing with 'colonic' (related to colon). They sound similar but are unrelated.",
+    "collocations": [
+      "colossal failure",
+      "colossal task",
+      "colossal size"
+    ]
+  },
+  {
+    "word": "Colossal",
+    "meaning": "Extremely large, huge, or massive in size, importance, or capacity",
+    "shortMeaning": "huge or massive",
+    "example": "The company faced a colossal data breach that compromised millions of accounts.",
+    "example2": "The developer had to refactor a colossal codebase that was built over ten years.",
+    "example3": "They set up a colossal cloud storage cluster to handle the influx of data.",
+    "Explanation": "The word 'Colossal' describes something of enormous scale. In IT, it is used to highlight major projects, massive databases, giant hardware deployments, or severe system errors. It conveys the idea that the object being discussed is much larger than normal expectations. Whether describing a codebase size, a hardware server capacity, or the impact of an event, 'colossal' emphasizes the sheer magnitude, which often requires significant resources or strategic intervention to manage properly.",
+    "synonyms": [
+      "enormous",
+      "massive",
+      "gigantic"
+    ],
+    "antonyms": [
+      "tiny",
+      "minuscule",
+      "small"
+    ],
+    "nounForm": "colossus",
+    "verbForm": "N/A",
+    "adjectiveForm": "colossal",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, project scope, large-scale data incidents",
+    "usageTip": "Use 'colossal' to emphasize that something is exceptionally large and requires major attention.",
+    "commonMistake": "Using 'colossal' to describe small errors; it should be reserved for items of massive scale.",
+    "collocations": [
+      "colossal codebase",
+      "colossal data",
+      "colossal error"
+    ]
+  }
+]

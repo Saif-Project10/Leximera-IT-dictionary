@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Top-down",
+    "meaning": "Starting from the most general or high-level view and moving to specific details",
+    "shortMeaning": "general to specific",
+    "example": "We used a top-down design strategy for the software architecture.",
+    "example2": "A top-down approach helps to clarify overall system requirements.",
+    "example3": "The management style is very top-down.",
+    "Explanation": "The 'top-down' approach is a common methodology in project management and programming where you start with the big picture and break it down into smaller, manageable parts. In software design, this ensures that the overall architecture is sound before coding individual modules. While it is highly effective for clarity, some developers prefer 'bottom-up' approaches for certain tasks. It is also used to describe organizations where decisions are made by leadership and passed down. Understand that it implies a structured, hierarchical flow of information.",
+    "synonyms": [
+      "hierarchical",
+      "macro-to-micro"
+    ],
+    "antonyms": [
+      "bottom-up",
+      "incremental"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "top-down",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design, management, project planning",
+    "usageTip": "Use 'top-down' when discussing strategy or high-level architecture.",
+    "commonMistake": "Confusing this with 'top-level', which refers to a position.",
+    "collocations": [
+      "top-down approach",
+      "top-down design",
+      "top-down management"
+    ]
+  },
+  {
+    "word": "Top-down",
+    "meaning": "Starting from the most general level to specific details",
+    "shortMeaning": "general-to-specific",
+    "example": "We used a top-down approach for system design.",
+    "example2": "Top-down programming makes large projects easier to manage.",
+    "example3": "The audit follows a top-down structure.",
+    "Explanation": "A 'top-down' approach involves breaking a large system into smaller parts, starting from the high-level architecture and drilling down to specific functions. It is a standard design philosophy in software engineering and management. By starting with the 'big picture', you ensure that the overall design is solid before getting lost in code-level details. It is highly efficient for complex systems where consistency is important. It is the opposite of a bottom-up approach.",
+    "synonyms": [
+      "structured",
+      "general-to-specific",
+      "hierarchical"
+    ],
+    "antonyms": [
+      "bottom-up",
+      "incremental",
+      "chaotic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "top-down",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software design, management, planning",
+    "usageTip": "Use to describe a design philosophy that starts with big-picture architecture.",
+    "commonMistake": "Using 'top-down' when an 'incremental' approach might be more flexible.",
+    "collocations": [
+      "top-down approach",
+      "top-down design",
+      "top-down structure"
+    ]
+  }
+]

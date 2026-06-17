@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Securely",
+    "meaning": "In a fixed or stable manner; in a way that is free from danger or threat.",
+    "shortMeaning": "firmly, safely",
+    "example": "Make sure the ladder is securely positioned before climbing.",
+    "example2": "Your data is stored securely on our servers.",
+    "example3": "She held the child's hand securely as they crossed the street.",
+    "Explanation": "'Securely' is the adverb form of 'secure'. It describes an action done in a way that is safe, firm, or protected. It can refer to physical attachment (tied securely), digital safety (encrypted securely), or emotional state (feeling securely loved). The word emphasizes reliability and absence of risk. It's a common word in instructions, safety guidelines, and technology descriptions. Using something 'securely' gives confidence that it will not fail, come loose, or be compromised. The adjective is 'secure'.",
+    "synonyms": [
+      "firmly",
+      "tightly",
+      "safely",
+      "confidently"
+    ],
+    "antonyms": [
+      "insecurely",
+      "loosely",
+      "dangerously"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adverb",
+    "commonContext": "Safety, IT, construction, parenting",
+    "usageTip": "Often used with verbs like 'fasten', 'attach', 'store', 'hold'.",
+    "commonMistake": "Using 'securely' to mean 'secretly'; that is 'discreetly' or 'in secret'.",
+    "collocations": [
+      "securely fastened",
+      "securely stored",
+      "securely attached",
+      "feel securely"
+    ]
+  },
+  {
+    "word": "Securely",
+    "meaning": "In a manner that is safe and protected",
+    "shortMeaning": "in a safe way",
+    "example": "Data must be stored securely at all times.",
+    "example2": "We configured the server to transmit files securely.",
+    "example3": "Please sign in securely using two-factor authentication.",
+    "Explanation": "Securely is the adverb form of 'secure'. It describes how an action is performed: with protective measures in place. In IT, we do things 'securely' by using encryption, following best practices for coding, and verifying identity before granting access. Everything from data storage to user communication must be done securely to avoid breaches. It is a fundamental operational standard, not an optional extra, in professional technology environments.",
+    "synonyms": [
+      "safely",
+      "protectedly"
+    ],
+    "antonyms": [
+      "insecurely",
+      "vulnerably"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adverb",
+    "commonContext": "Programming, networking, data handling",
+    "usageTip": "Use to describe how a process is carried out.",
+    "commonMistake": "Overlooking small processes that also need to be done securely.",
+    "collocations": [
+      "stored securely",
+      "transmit securely",
+      "connect securely"
+    ]
+  }
+]

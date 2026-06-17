@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Hard fork",
+    "meaning": "A major change to a blockchain's protocol that makes old versions incompatible",
+    "shortMeaning": "permanent blockchain split",
+    "example": "The community decided on a hard fork to implement new security features.",
+    "example2": "A hard fork can result in the creation of a completely new cryptocurrency.",
+    "example3": "Users must upgrade their software to follow the new path after a hard fork.",
+    "Explanation": "In blockchain technology (like Bitcoin or Ethereum), a hard fork is a radical change to the network's rules. It is like a 'software update' that is so big it is not backward-compatible. If some people upgrade and others don't, the blockchain splits into two separate versions. This often happens because of a disagreement in the community or to fix a major hack. The most famous example is when Ethereum split into Ethereum and Ethereum Classic. After a hard fork, nodes running the old version will no longer be recognized by the new version. It is a permanent 'branch' in the history of the data. It requires total consensus or it leads to a split.",
+    "synonyms": [
+      "blockchain split",
+      "protocol upgrade"
+    ],
+    "antonyms": [
+      "soft fork"
+    ],
+    "nounForm": "hard fork",
+    "verbForm": "hard fork",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cryptocurrency and decentralized systems",
+    "usageTip": "Use 'hard fork' when describing a change that creates two incompatible versions of a network.",
+    "commonMistake": "Confusing a hard fork with a soft fork; a soft fork is backward-compatible, a hard fork is not.",
+    "collocations": [
+      "contentious hard fork",
+      "planned hard fork",
+      "hard fork event"
+    ]
+  },
+  {
+    "word": "Hard fork",
+    "meaning": "A major change to a blockchain protocol that makes previously invalid blocks valid, or vice versa",
+    "shortMeaning": "permanent blockchain split",
+    "example": "The community decided on a hard fork to implement new security features.",
+    "example2": "A hard fork often creates two separate versions of a cryptocurrency.",
+    "example3": "Users must update their software to follow the hard fork.",
+    "Explanation": "In the world of Cryptocurrency and Blockchain, a 'hard fork' is a radical change. It is like a split in the road. One group of users follows the new rules, and another group might stay with the old ones. This results in the creation of a new currency (like Bitcoin vs. Bitcoin Cash). It is called 'hard' because it is not 'backward compatible'—the old software cannot understand the new blocks. It is a major event that requires everyone to agree and upgrade.",
+    "synonyms": [
+      "blockchain split",
+      "protocol upgrade",
+      "N/A"
+    ],
+    "antonyms": [
+      "soft fork",
+      "N/A"
+    ],
+    "nounForm": "hard fork",
+    "verbForm": "hard fork",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Blockchain and Cryptocurrency",
+    "usageTip": "Use this term when discussing permanent splits in decentralized networks.",
+    "commonMistake": "Thinking a 'hard fork' is just a normal software update; it is a fundamental rule change.",
+    "collocations": [
+      "execute a hard fork",
+      "contentious hard fork",
+      "N/A"
+    ]
+  }
+]

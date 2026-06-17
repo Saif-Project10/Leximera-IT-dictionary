@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Bypassing",
+    "meaning": "Going around or avoiding something, especially a rule or usual route.",
+    "shortMeaning": "going around; avoiding",
+    "example": "They are bypassing the manager and going straight to the director.",
+    "example2": "The new highway bypasses the city center, reducing traffic.",
+    "example3": "He fixed the problem by bypassing the broken component.",
+    "Explanation": "Bypassing is the present participle of the verb 'bypass'. It means to avoid something by going around it, either physically (a road bypasses a town) or figuratively (bypassing official channels). It often implies finding an alternative, sometimes quicker or more direct, route. In medicine, a 'bypass surgery' creates a new path for blood flow. The word can have a neutral (efficient) or negative (subversive) connotation depending on whether the thing being avoided is an obstacle or a necessary control.",
+    "synonyms": [
+      "circumventing",
+      "avoiding",
+      "skirting",
+      "going around",
+      "evading"
+    ],
+    "antonyms": [
+      "following",
+      "going through",
+      "obeying"
+    ],
+    "nounForm": "bypass",
+    "verbForm": "bypass",
+    "adjectiveForm": "bypassing",
+    "partOfSpeech": "verb (present participle)",
+    "commonContext": "Transportation, procedures, authority, technology",
+    "usageTip": "Often used with the thing being avoided: bypassing traffic, bypassing security, bypassing regulations.",
+    "commonMistake": "Using 'passing by', which means to go past something, not to avoid it deliberately.",
+    "collocations": [
+      "bypassing the system",
+      "bypass surgery",
+      "bypassing filters",
+      "bypassing steps"
+    ]
+  },
+  {
+    "word": "Bypassing",
+    "meaning": "The ongoing action of going around or avoiding an obstacle or step",
+    "shortMeaning": "going around something",
+    "example": "Bypassing form validation can allow malicious data into databases.",
+    "example2": "We are bypassing the old API because the new one is faster.",
+    "example3": "He is troubleshooting by bypassing the faulty switch network entirely.",
+    "Explanation": "The word 'bypassing' is the present participle (-ing) form of bypass. It represents the active process of navigating around a rule, system layer, or physical device. In network administration, bypassing a broken node ensures continuous system uptime. In application development, bypassing secure coding practices to rush a launch increases vulnerability risks. It describes a routing action happening in real-time or as a continuous state.",
+    "synonyms": [
+      "avoiding",
+      "skipping",
+      "circumventing"
+    ],
+    "antonyms": [
+      "following",
+      "enforcing",
+      "confronting"
+    ],
+    "nounForm": "bypass",
+    "verbForm": "bypass",
+    "adjectiveForm": "bypassing",
+    "partOfSpeech": "verb (present participle) / noun (gerund)",
+    "commonContext": "Diagnostic procedures, security discussions, and logic routing",
+    "usageTip": "Use 'bypassing' as a gerund noun to describe dangerous coding habits, such as 'bypassing security checks'.",
+    "commonMistake": "Spelling it as 'bipassing' with an 'i' instead of a 'y'.",
+    "collocations": [
+      "bypassing authentication",
+      "bypassing rules",
+      "bypassing validation"
+    ]
+  }
+]

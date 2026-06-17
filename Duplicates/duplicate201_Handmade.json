@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Handmade",
+    "meaning": "Made by hand, not by machine | Made by hand, not by machine.",
+    "shortMeaning": "made by hand",
+    "example": "She sells beautiful handmade pottery.",
+    "example2": "The gift was a handmade card from her children.",
+    "example3": "Handmade leather goods often have unique character.",
+    "Explanation": "The adjective 'handmade' describes items created primarily using human skill and hands, with minimal or no use of automated machinery. It often implies craftsmanship, uniqueness, and traditional methods. In marketing, it suggests higher quality and care compared to mass-produced items. It can be used for food, clothing, art, and furniture. The verb form is simply 'make'.",
+    "synonyms": [
+      "Artisanal",
+      "Hand-Wrought",
+      "Handcrafted",
+      "Home-Made"
+    ],
+    "antonyms": [
+      "Factory-Made",
+      "Machine-Made",
+      "Mass-Produced"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "make",
+    "adjectiveForm": "handmade",
+    "partOfSpeech": "adjective",
+    "commonContext": "Crafts, gifts, artisanal food, luxury goods",
+    "usageTip": "Often used to emphasize quality, care, and uniqueness in product descriptions.",
+    "commonMistake": "Confusing 'handmade' with 'home-made', which just means made at home.",
+    "collocations": [
+      "handmade paper",
+      "handmade jewelry",
+      "handmade with care"
+    ]
+  },
+  {
+    "word": "Handmade",
+    "meaning": "Made by a person rather than a machine",
+    "shortMeaning": "manually made",
+    "example": "The visual assets were handmade in Photoshop.",
+    "example2": "He keeps a collection of handmade interface designs.",
+    "example3": "The system architecture is a handmade custom build.",
+    "Explanation": "The word 'handmade' emphasizes that the item or piece of code was created by a person without relying on automated generators or templates. In the digital world, this implies a sense of custom creation and personal effort. While it shows skill, it is also harder to scale. If you choose to use handmade assets or designs, ensure they are optimized, as custom work can sometimes be less efficient than optimized machine-generated outputs. Use it to indicate uniqueness.",
+    "synonyms": [
+      "custom",
+      "manual",
+      "crafted"
+    ],
+    "antonyms": [
+      "automated",
+      "template",
+      "machine-made"
+    ],
+    "nounForm": "handwork",
+    "verbForm": "N/A",
+    "adjectiveForm": "handmade",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, creative assets",
+    "usageTip": "Use 'handmade' for assets created personally.",
+    "commonMistake": "Using 'handmade' for things that are not carefully made.",
+    "collocations": [
+      "handmade design",
+      "handmade assets",
+      "handmade build"
+    ]
+  }
+]

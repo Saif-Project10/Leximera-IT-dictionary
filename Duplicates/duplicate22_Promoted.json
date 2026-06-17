@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Promoted",
+    "meaning": "Raised to a higher position or rank; helped to grow or develop; advertised",
+    "shortMeaning": "raised in rank or advertised",
+    "example": "She was promoted to Senior Manager after two years.",
+    "example2": "The company promoted the new product with a big campaign.",
+    "example3": "Exercise promotes good health.",
+    "Explanation": "'Promoted' has three main meanings. First, in a career, it means being given a more important job. Second, in marketing, it means advertising something. Third, it can mean to encourage the growth or development of something (promote peace). The context defines the meaning. The noun form is 'promotion'. It is generally a positive word associated with advancement, support, and increased visibility.",
+    "synonyms": [
+      "advanced",
+      "elevated",
+      "advertised",
+      "boosted",
+      "fostered"
+    ],
+    "antonyms": [
+      "demoted",
+      "hindered",
+      "suppressed",
+      "concealed"
+    ],
+    "nounForm": "promotion",
+    "verbForm": "promote",
+    "adjectiveForm": "promoted",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Career advancement, marketing and sales, health and education, social causes",
+    "usageTip": "Check the context: job title (career), product (marketing), or idea/condition (encouragement).",
+    "commonMistake": "Confusing the career meaning with the marketing meaning.",
+    "collocations": [
+      "promoted to manager",
+      "heavily promoted",
+      "promote growth",
+      "get promoted"
+    ]
+  },
+  {
+    "word": "Promoted",
+    "meaning": "Advanced in rank or encouraged to grow",
+    "shortMeaning": "advanced/pushed",
+    "example": "The new feature was promoted on the main page.",
+    "example2": "He was promoted to lead developer.",
+    "example3": "The app is promoted through social media.",
+    "Explanation": "The word 'promoted' means either to be raised to a higher position (like a job promotion) or to be actively advertised or encouraged (like marketing a feature). The base verb is 'promote'. In IT marketing, a feature is 'promoted' to users to increase its adoption. If you are promoted, it means your skills and contribution are recognized. Use this term to clarify whether you are talking about career growth or marketing efforts.",
+    "synonyms": [
+      "advanced",
+      "marketed",
+      "pushed"
+    ],
+    "antonyms": [
+      "demoted",
+      "hidden",
+      "discouraged"
+    ],
+    "nounForm": "promotion",
+    "verbForm": "promote",
+    "adjectiveForm": "promoted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Marketing, career, UI",
+    "usageTip": "Use to discuss either job rank or advertising.",
+    "commonMistake": "Confusing 'promoted' (advertised) with 'pushed' (in Git/code).",
+    "collocations": [
+      "promoted feature",
+      "promoted to",
+      "well-promoted"
+    ]
+  }
+]

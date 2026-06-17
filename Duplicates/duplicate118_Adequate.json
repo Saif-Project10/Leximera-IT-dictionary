@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Adequate",
+    "meaning": "Sufficient or acceptable in quality or quantity; good enough for a specific need.",
+    "shortMeaning": "good enough",
+    "example": "The hotel room was small but adequate for our needs.",
+    "example2": "He didn't get a high score, but his preparation was adequate to pass the test.",
+    "example3": "The company must ensure adequate safety measures are in place.",
+    "Explanation": "'Adequate' is an adjective that describes something that meets the basic requirement or need, but often without being outstanding or abundant. It sits between 'insufficient' and 'excellent'. It can have a slightly neutral or even negative connotation, implying mere sufficiency rather than plenty or high quality. For example, 'adequate performance' might mean it was just okay. It's a useful word for setting minimum standards or describing something that is passable but not impressive.",
+    "synonyms": [
+      "sufficient",
+      "acceptable",
+      "satisfactory",
+      "passable"
+    ],
+    "antonyms": [
+      "inadequate",
+      "insufficient",
+      "unsatisfactory",
+      "excellent"
+    ],
+    "nounForm": "adequacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "adequate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Evaluations, requirements, resources, preparation",
+    "usageTip": "Often used in formal or official contexts to state minimum standards.",
+    "commonMistake": "Using it to mean 'good' or 'great'; it means 'just good enough'.",
+    "collocations": [
+      "perfectly adequate",
+      "barely adequate",
+      "adequate supply",
+      "adequate for"
+    ]
+  },
+  {
+    "word": "Adequate",
+    "meaning": "Good enough or satisfactory for a specific need or technical requirement",
+    "shortMeaning": "enough or satisfactory",
+    "example": "The current power supply unit is adequate for running a basic graphics card.",
+    "example2": "Make sure you provide adequate testing coverage before the product launch.",
+    "example3": "An adequate cooling system prevents computer processors from overheating.",
+    "Explanation": "The word 'adequate' means having enough quality or quantity to meet baseline standards. It does not mean excellent or outstanding; it simply means satisfactory or sufficient. In IT, adequate bandwidth ensures a video call doesn't drop, even if it isn't lightning fast. The noun form is 'adequacy', and the adverb form is 'adequately'. It helps set minimum requirements in service level agreements.",
+    "synonyms": [
+      "sufficient",
+      "enough",
+      "satisfactory"
+    ],
+    "antonyms": [
+      "inadequate",
+      "insufficient",
+      "deficient"
+    ],
+    "nounForm": "adequacy",
+    "verbForm": "N/A",
+    "adjectiveForm": "adequate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resource allocation, hardware specifications, system testing",
+    "usageTip": "Use 'adequate' when you want to convey that something meets the minimum requirements perfectly fine.",
+    "commonMistake": "Using 'adequate' to mean superior or top-tier; it only means good enough.",
+    "collocations": [
+      "adequate resources",
+      "adequate security",
+      "perfectly adequate"
+    ]
+  }
+]

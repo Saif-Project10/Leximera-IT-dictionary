@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Zero day",
+    "meaning": "A time when a software vulnerability is discovered but not yet fixed",
+    "shortMeaning": "newly found flaw",
+    "example": "The hackers used a zero day to break into the secure server.",
+    "example2": "The software company worked all night to patch the zero day.",
+    "example3": "A zero day can be sold for a lot of money on the dark web.",
+    "Explanation": "The term 'zero day' refers to the fact that the developers have had 'zero days' to fix the problem because they just found out about it (or haven't found out yet). It represents a period of extreme risk. If a hacker finds a zero day before the company does, they can attack systems without any defense being in place. Once the bug is publicly known, it is still a 'zero day' until a patch is released. Cybersecurity teams prioritize these above almost everything else because of their high potential for damage.",
+    "synonyms": [
+      "0-day",
+      "unpatched flaw"
+    ],
+    "antonyms": [
+      "patched vulnerability",
+      "known bug"
+    ],
+    "nounForm": "zero day",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-day",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Cybersecurity and software development",
+    "usageTip": "Use 'zero day' to describe the vulnerability itself or the attack that uses it.",
+    "commonMistake": "Thinking a zero day is a virus; it is actually the 'hole' the virus uses to get in.",
+    "collocations": [
+      "zero day threat",
+      "zero day protection",
+      "zero day discovery"
+    ]
+  },
+  {
+    "word": "Zero day",
+    "meaning": "A software vulnerability that is unknown to the vendor and has no available patch yet.",
+    "shortMeaning": "unknown security flaw",
+    "example": "The hackers used a zero day exploit to breach the secure server.",
+    "example2": "Companies are always racing to patch zero day vulnerabilities.",
+    "example3": "A zero day attack can be devastating because there is no fix ready.",
+    "Explanation": "A 'zero day' vulnerability is a flaw that the software creator is not aware of, meaning they have had 'zero days' to create a fix. Because there is no patch available, these are extremely dangerous and highly sought after by cybercriminals. When an exploit is released for a zero day, it can be used to attack systems before anyone has a chance to protect them. IT security teams prioritize detecting and mitigating these risks above almost everything else.",
+    "synonyms": [
+      "zero-day vulnerability",
+      "unknown exploit"
+    ],
+    "antonyms": [
+      "known vulnerability",
+      "patched flaw"
+    ],
+    "nounForm": "zero day",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero day",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Cybersecurity and threat analysis",
+    "usageTip": "Always treat a zero day alert as an emergency situation.",
+    "commonMistake": "Confusing a zero day with a regular vulnerability that already has an update available.",
+    "collocations": [
+      "zero day exploit",
+      "zero day attack",
+      "zero day vulnerability"
+    ]
+  }
+]

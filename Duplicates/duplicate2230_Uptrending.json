@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uptrending",
+    "meaning": "Showing a steady increase or upward movement.",
+    "shortMeaning": "increasing",
+    "example": "Server load is uptrending during peak hours.",
+    "example2": "We noticed an uptrending graph in sales data.",
+    "example3": "The uptrending metrics suggest we need more capacity.",
+    "Explanation": "The word 'uptrending' describes a metric or value that is consistently increasing over time. In system monitoring and data analysis, 'uptrending' data helps identify potential growth needs or emerging issues. It is an adjective. While less formal than 'increasing', it is common in business intelligence and IT performance reviews. Always look for the source data when reporting an uptrending metric.",
+    "synonyms": [
+      "increasing",
+      "rising",
+      "growing"
+    ],
+    "antonyms": [
+      "downtrending",
+      "decreasing",
+      "falling"
+    ],
+    "nounForm": "uptrend",
+    "verbForm": "uptrend",
+    "adjectiveForm": "uptrending",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis, performance monitoring, and business logic",
+    "usageTip": "Use 'uptrending' to describe growth patterns in data.",
+    "commonMistake": "Assuming an uptrending metric will continue forever.",
+    "collocations": [
+      "uptrending graph",
+      "uptrending metric",
+      "uptrending load"
+    ]
+  },
+  {
+    "word": "Uptrending",
+    "meaning": "A trend showing consistent growth or increase over time",
+    "shortMeaning": "increasing trend",
+    "example": "The market analytics dashboard shows an uptrending graph.",
+    "example2": "We are focusing on uptrending keywords in our SEO strategy.",
+    "example3": "The uptrending metrics indicate better system engagement.",
+    "Explanation": "Uptrending describes data, metrics, or market indicators that are moving in an upward direction. In IT, this term is frequently used in analytics, business intelligence, and performance monitoring. When a specific metric is uptrending, it suggests that the system or feature being measured is gaining popularity, processing more data, or performing at a higher level. Visualizing uptrending data helps teams make informed decisions about resource allocation and growth. It is a positive indicator that suggests current strategies are effective.",
+    "synonyms": [
+      "growing",
+      "increasing",
+      "rising"
+    ],
+    "antonyms": [
+      "downtrending",
+      "decreasing",
+      "falling"
+    ],
+    "nounForm": "uptrend",
+    "verbForm": "uptrend",
+    "adjectiveForm": "uptrending",
+    "partOfSpeech": "adjective",
+    "commonContext": "Analytics and performance metrics",
+    "usageTip": "Use it to describe positive growth in graphs.",
+    "commonMistake": "Confusing a short spike with a long-term uptrending pattern.",
+    "collocations": [
+      "uptrending data",
+      "uptrending metrics",
+      "consistent uptrending"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Loop back",
+    "meaning": "The routing of signals or data back to their source without intentional processing",
+    "shortMeaning": "signal return",
+    "example": "The technician used a loop back to test the network port.",
+    "example2": "Data will loop back to the sender if the destination is unreachable.",
+    "example3": "A loop back cable connects the transmit pin to the receive pin.",
+    "Explanation": "Loop back (often written as 'loopback') is a diagnostic technique in telecommunications and networking. It involves sending a signal and immediately receiving it back at the same device. If the sent data matches the received data, the hardware and local software are working correctly. This helps isolate problems; if the loop back works but the connection to a remote server fails, the issue is likely in the external network. It can be implemented via software or using a physical 'loopback plug'.",
+    "synonyms": [
+      "feedback loop",
+      "wrap-around test"
+    ],
+    "antonyms": [
+      "one-way transmission"
+    ],
+    "nounForm": "loopback",
+    "verbForm": "loop back",
+    "adjectiveForm": "loopback",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Network troubleshooting and hardware testing",
+    "usageTip": "Use a loop back to verify that your network card is functioning properly.",
+    "commonMistake": "Confusing a loop back with a network bridge or switch loop.",
+    "collocations": [
+      "loop back plug",
+      "software loop back",
+      "loop back signal"
+    ]
+  },
+  {
+    "word": "Loop back",
+    "meaning": "To return to an earlier point in a process or to send a signal back to its source",
+    "shortMeaning": "return to start",
+    "example": "Let's loop back to the first item on the agenda.",
+    "example2": "The network interface uses a loop back address (127.0.0.1) for testing.",
+    "example3": "After finishing the task, the software will loop back to wait for new input.",
+    "Explanation": "In networking, 'loopback' refers to a signal being sent back to the same device that sent it, usually for testing purposes. In general business or IT project management, it means returning to a previous topic or stage to re-examine it. It is a way of ensuring that nothing was missed. It implies a circular movement in logic or communication. It is a very common phrase in technical meetings.",
+    "synonyms": [
+      "return",
+      "revisit",
+      "recycle"
+    ],
+    "antonyms": [
+      "proceed",
+      "advance"
+    ],
+    "nounForm": "loopback",
+    "verbForm": "loop back",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Networking, meetings, process management",
+    "usageTip": "Use 'loop back' when you want to discuss a previous topic again.",
+    "commonMistake": "Using 'loop back' when you just mean 'to reply' (use 'get back to' instead).",
+    "collocations": [
+      "loop back address",
+      "loop back to a topic",
+      "loop back testing"
+    ]
+  }
+]

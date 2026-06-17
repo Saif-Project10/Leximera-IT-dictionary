@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Normalize",
+    "meaning": "To make something normal, standard, or acceptable; to return to a normal state | To make something normal, standard, or accepted; to bring back to a usual state.",
+    "shortMeaning": "make normal",
+    "example": "The two countries worked to normalize diplomatic relations.",
+    "example2": "Over time, society began to normalize remote work.",
+    "example3": "The doctor said her blood pressure would normalize with medication.",
+    "Explanation": "The verb 'normalize' means to cause something to conform to a standard or to become usual. It can refer to technical processes like adjusting data, or social processes like making a behavior acceptable. It implies bringing something into alignment with what is considered typical or expected. The noun form is 'normalization'. It's a common word in politics, sociology, statistics, and health.",
+    "synonyms": [
+      "Legitimize",
+      "Regularize",
+      "Stabilize",
+      "Standardize"
+    ],
+    "antonyms": [
+      "Abnormalize",
+      "Denormalize",
+      "Disrupt",
+      "Stigmatize"
+    ],
+    "nounForm": "normalization",
+    "verbForm": "normalize",
+    "adjectiveForm": "normal",
+    "partOfSpeech": "verb",
+    "commonContext": "Relations, data, behavior, health",
+    "usageTip": "Often used in discussions about social change or technical adjustments.",
+    "commonMistake": "Confusing it with 'formalize', which is about making something official.",
+    "collocations": [
+      "normalize relations",
+      "normalize data",
+      "normalize the situation"
+    ]
+  },
+  {
+    "word": "Normalize",
+    "meaning": "To adjust values measured on different scales to a notionally common scale",
+    "shortMeaning": "standardize data",
+    "example": "We need to normalize the database to reduce redundancy.",
+    "example2": "The software will normalize the audio levels automatically.",
+    "example3": "Normalization helps in comparing scores from different tests.",
+    "Explanation": "Normalize is a fundamental concept in data management and statistics. It involves organizing data to ensure there is no duplication and that dependencies make sense. In a database context, it means dividing large tables into smaller ones and defining relationships between them. This process improves data integrity and efficiency. It is also used in machine learning to scale input variables to a standard range.",
+    "synonyms": [
+      "standardize",
+      "regulate",
+      "adjust"
+    ],
+    "antonyms": [
+      "disorganize",
+      "randomize",
+      "complicate"
+    ],
+    "nounForm": "normalization",
+    "verbForm": "normalize",
+    "adjectiveForm": "normal",
+    "partOfSpeech": "verb",
+    "commonContext": "Databases, statistics, and machine learning",
+    "usageTip": "Use this word when talking about making data consistent and efficient.",
+    "commonMistake": "Confusing it with simply 'averaging' numbers; normalization is about the scale.",
+    "collocations": [
+      "normalize data",
+      "normalize database",
+      "normalize scores"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Comprise",
+    "meaning": "To consist of; to be made up of.",
+    "shortMeaning": "consist of; include",
+    "example": "The team comprises five engineers and two designers.",
+    "example2": "The book comprises three main sections.",
+    "example3": "The apartment comprises a living room, kitchen, and bedroom.",
+    "Explanation": "'Comprise' is a verb meaning to include or contain, to be composed of. It indicates that the whole consists of the parts. The correct usage is: 'The whole comprises the parts' (NOT 'is comprised of', though this is commonly used). It's a formal alternative to 'consist of' or 'be made up of'. It's commonly used in descriptions of organizations, systems, collections, and structures. Careful writers maintain the distinction between 'comprise' (whole→parts) and 'compose' (parts→whole).",
+    "synonyms": [
+      "consist of",
+      "include",
+      "contain",
+      "embrace"
+    ],
+    "antonyms": [
+      "exclude",
+      "omit"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "comprise",
+    "adjectiveForm": "comprised",
+    "partOfSpeech": "verb",
+    "commonContext": "Descriptions, definitions, organizational structures",
+    "usageTip": "Correct: 'The Union comprises 50 states.' Incorrect but common: 'The Union is comprised of 50 states.' Use 'consists of' instead.",
+    "commonMistake": "Using 'comprised of' which is considered incorrect by traditional grammarians, though widely used.",
+    "collocations": [
+      "comprise members",
+      "comprise elements",
+      "comprise parts"
+    ]
+  },
+  {
+    "word": "Comprise",
+    "meaning": "To consist of; to be made up of certain parts",
+    "shortMeaning": "consist of",
+    "example": "The collection comprises over a thousand antique coins.",
+    "example2": "The design team will comprise five designers and two managers.",
+    "example3": "The suite comprises several tools for data analysis.",
+    "Explanation": "Comprise is a formal way to say 'is made of'. It is often used to describe the components of a group or a system. A common rule in English is that the 'whole' comprises the 'parts'. For example, 'A computer comprises a CPU, RAM, and storage.' It is slightly more professional than 'made of' and is frequently seen in technical specifications, legal contracts, and academic writing. It helps clearly define the boundaries and components of an object or organization.",
+    "synonyms": [
+      "include",
+      "contain",
+      "consist of"
+    ],
+    "antonyms": [
+      "exclude",
+      "lack"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "comprise",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Technical specs, formal descriptions, and legal documents",
+    "usageTip": "Avoid saying 'comprised of'—although common, 'comprises' is usually enough (e.g., 'The team comprises five people').",
+    "commonMistake": "Using 'comprise' when you mean 'compose'. (Parts compose the whole; the whole comprises the parts).",
+    "collocations": [
+      "system comprises",
+      "kit comprises",
+      "team comprises"
+    ]
+  }
+]

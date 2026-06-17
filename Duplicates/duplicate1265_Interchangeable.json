@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Interchangeable",
+    "meaning": "Able to be exchanged with each other without making a difference.",
+    "shortMeaning": "able to be swapped",
+    "example": "The parts are interchangeable between different models.",
+    "example2": "In many contexts, the two terms are interchangeable.",
+    "example3": "The team has several interchangeable players.",
+    "Explanation": "'Interchangeable' is an adjective meaning capable of being exchanged or substituted for one another. It suggests that two or more things are so similar in function, size, or meaning that one can replace another without affecting performance or understanding. In manufacturing, interchangeable parts revolutionized production. In language, interchangeable words have similar meanings in certain contexts. The concept enables flexibility, efficiency, and standardization. Things aren't identical but functionally equivalent for the purpose. The noun is 'interchangeability'. It's a practical concept in engineering, linguistics, team management, and any situation where substitution is possible.",
+    "synonyms": [
+      "exchangeable",
+      "substitutable",
+      "equivalent",
+      "fungible"
+    ],
+    "antonyms": [
+      "unique",
+      "irreplaceable",
+      "non-interchangeable",
+      "incompatible"
+    ],
+    "nounForm": "interchangeability",
+    "verbForm": "interchange",
+    "adjectiveForm": "interchangeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Parts, terms, players, components, roles",
+    "usageTip": "Often followed by 'with': 'interchangeable with the older model', 'interchangeable with each other'.",
+    "commonMistake": "Thinking interchangeable means identical. They can be swapped for a purpose but may have differences.",
+    "collocations": [
+      "interchangeable parts",
+      "virtually interchangeable",
+      "interchangeable with"
+    ]
+  },
+  {
+    "word": "Interchangeable",
+    "meaning": "Able to be swapped without loss of function",
+    "shortMeaning": "Can be swapped",
+    "example": "The server components are modular and interchangeable.",
+    "example2": "Are these two cable types interchangeable?",
+    "example3": "They designed the API for interchangeable plugins.",
+    "Explanation": "The word 'interchangeable' means that two or more parts, components, or modules can be swapped for one another without affecting the system's overall function. It is an adjective. This is a critical principle in modular software and hardware design. If parts are interchangeable, it makes maintenance, scaling, and repair much cheaper and faster. It is a key goal in professional engineering.",
+    "synonyms": [
+      "swappable",
+      "compatible",
+      "exchangeable"
+    ],
+    "antonyms": [
+      "incompatible",
+      "unique",
+      "fixed"
+    ],
+    "nounForm": "interchangeability",
+    "verbForm": "interchange",
+    "adjectiveForm": "interchangeable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, hardware, modular design",
+    "usageTip": "Use when components can replace each other perfectly.",
+    "commonMistake": "Confusing 'interchangeable' with 'identical'.",
+    "collocations": [
+      "completely interchangeable",
+      "interchangeable parts",
+      "designed to be interchangeable"
+    ]
+  }
+]

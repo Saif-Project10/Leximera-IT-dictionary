@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Step in",
+    "meaning": "To become involved in a situation, especially to help or take control.",
+    "shortMeaning": "intervene to help or control",
+    "example": "When the debate got too personal, the moderator had to step in.",
+    "example2": "Could you step in for me at the meeting while I'm at the doctor?",
+    "example3": "The government stepped in to rescue the failing bank.",
+    "Explanation": "Step in is a common, informal phrasal verb very similar to 'intervene'. It conjures the image of physically stepping into a space to take action. It often implies a temporary or substitute role (stepping in for someone) or a necessary intervention in a crisis. It's less formal than 'intervene' and very versatile. The phrase emphasizes taking initiative and active participation at a crucial moment. It's generally seen as a positive, helpful action, though context can make it neutral.",
+    "synonyms": [
+      "intervene",
+      "intercede",
+      "take over",
+      "fill in",
+      "pitch in"
+    ],
+    "antonyms": [
+      "step back",
+      "withdraw",
+      "avoid",
+      "ignore"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "step in",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Conflicts, emergencies, substitute roles, management",
+    "usageTip": "Often used with 'for' (step in for someone) or 'to' (step in to help/to stop something).",
+    "commonMistake": "Confusing 'step in' (intervene) with 'step into' (enter a role: 'step into a leadership position').",
+    "collocations": [
+      "had to step in",
+      "step in and help",
+      "asked to step in"
+    ]
+  },
+  {
+    "word": "Step in",
+    "meaning": "To enter a situation, function, or system process to help, correct an error, or take control",
+    "shortMeaning": "intervene to help",
+    "example": "The senior engineer had to step in when the junior developer accidentally deleted the data.",
+    "example2": "When the automated deployment fails, human administrators must step in manually.",
+    "example3": "An AI agent can step in to answer customer queries when human support is offline.",
+    "Explanation": "The phrase 'step in' means to actively intervene or get involved in a technical issue or process. In IT environments, it implies a transition from automated execution to manual human handling because an exception occurred. It can also describe a leadership action where an expert takes over a troubled project to guide it to completion. In debugging tools, 'step in' (or step into) means executing the very next line of code, moving deep inside a specific function to analyze it closely.",
+    "synonyms": [
+      "intervene",
+      "take over",
+      "interfere",
+      "assist"
+    ],
+    "antonyms": [
+      "withdraw",
+      "leave",
+      "ignore",
+      "bypass"
+    ],
+    "nounForm": "intervention",
+    "verbForm": "step in",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Team collaboration, system debugging, incident management",
+    "usageTip": "Use 'step in' when describing necessary human actions taken during automated system failures.",
+    "commonMistake": "Confusing 'step in' with 'step into' inside debugger tools, which specifically enters sub-functions.",
+    "collocations": [
+      "step in manually",
+      "manager had to step in",
+      "step in to help"
+    ]
+  }
+]

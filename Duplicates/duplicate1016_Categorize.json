@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Categorize",
+    "meaning": "To place something in a particular category or group based on shared characteristics.",
+    "shortMeaning": "classify, sort",
+    "example": "We need to categorize these expenses for the tax report.",
+    "example2": "The app can automatically categorize your emails.",
+    "example3": "It's difficult to categorize his music into a single genre.",
+    "Explanation": "'Categorize' is a verb meaning to sort or arrange things into classes or types. It is a fundamental cognitive and organizational process used in science, business, library science, and daily life. It involves identifying common features and making decisions about where items belong. The noun is 'category'. It is a systematic verb that helps bring order to complexity. The ability to categorize effectively is important for data analysis and clear communication.",
+    "synonyms": [
+      "classify",
+      "sort",
+      "group"
+    ],
+    "antonyms": [
+      "mix up",
+      "jumble",
+      "lump together"
+    ],
+    "nounForm": "category",
+    "verbForm": "categorize",
+    "adjectiveForm": "categorical",
+    "partOfSpeech": "verb",
+    "commonContext": "Data analysis, filing, science, retail",
+    "usageTip": "Often used with 'as' or 'into' (e.g., 'categorized as urgent', 'categorized into three groups').",
+    "commonMistake": "Misspelling as 'catagorize' (the correct spelling has an 'e' after the 'g').",
+    "collocations": [
+      "categorize data",
+      "difficult to categorize",
+      "broadly categorize"
+    ]
+  },
+  {
+    "word": "Categorize",
+    "meaning": "To place things into specific groups based on their features",
+    "shortMeaning": "group items",
+    "example": "The software can categorize emails into 'Work' and 'Personal'.",
+    "example2": "We need to categorize these support tickets by urgency.",
+    "example3": "It is difficult to categorize every single user behavior.",
+    "Explanation": "Categorizing is the act of sorting items into groups to make them easier to manage. In IT, this is done with files, users, bugs, or network traffic. It helps in applying different rules to different groups. For example, high-priority bugs are categorized differently than minor ones. Good categorization is the backbone of efficient data management and user interface design.",
+    "synonyms": [
+      "classify",
+      "sort",
+      "group"
+    ],
+    "antonyms": [
+      "randomize",
+      "mix",
+      "jumble"
+    ],
+    "nounForm": "categorization",
+    "verbForm": "categorize",
+    "adjectiveForm": "categorical",
+    "partOfSpeech": "verb",
+    "commonContext": "Data management, machine learning, and organization",
+    "usageTip": "Use 'categorize' when you are sorting things into defined buckets.",
+    "commonMistake": "Confusing 'categorize' with 'labeling'; labeling can be more flexible.",
+    "collocations": [
+      "categorize by type",
+      "automatically categorize",
+      "categorize data"
+    ]
+  }
+]

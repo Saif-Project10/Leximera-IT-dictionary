@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Zipfian",
+    "meaning": "Following Zipf's Law, where frequency is inversely proportional to rank",
+    "shortMeaning": "following Zipf's Law",
+    "example": "The word distribution follows a Zipfian pattern.",
+    "example2": "Many web traffic models are Zipfian.",
+    "example3": "We observe a Zipfian distribution in the dataset.",
+    "Explanation": "Zipfian describes a statistical distribution where the frequency of any item is inversely proportional to its rank in the frequency table. For example, in many languages, the most frequent word appears twice as often as the second most frequent. This pattern appears in web traffic, file sizes, and many other data sets. Recognizing Zipfian distributions is vital for optimizing caches and indexing systems for performance.",
+    "synonyms": [
+      "power-law"
+    ],
+    "antonyms": [
+      "uniform"
+    ],
+    "nounForm": "Zipf's law",
+    "verbForm": "N/A",
+    "adjectiveForm": "Zipfian",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data analysis, performance optimization",
+    "usageTip": "Use this for datasets that are skewed towards a few popular items.",
+    "commonMistake": "Expecting uniform distribution when data is Zipfian.",
+    "collocations": [
+      "Zipfian distribution",
+      "Zipfian pattern",
+      "Zipfian curve"
+    ]
+  },
+  {
+    "word": "Zipfian",
+    "meaning": "Relating to a distribution where the frequency of an item is inversely proportional to its rank.",
+    "shortMeaning": "frequency follows rank",
+    "example": "Web search queries follow a Zipfian distribution.",
+    "example2": "Our data access patterns turned out to be Zipfian.",
+    "example3": "Many natural languages exhibit a Zipfian frequency in their words.",
+    "Explanation": "The term 'Zipfian' describes a statistical pattern where a few items are very common while the vast majority are very rare. It is named after George Zipf and appears everywhere, from word counts in books to website traffic patterns. In IT, understanding Zipfian distribution is vital for optimizing caches and databases. If you know that a small subset of data is accessed most of the time, you can design systems to store that specific data in faster memory. It is a key concept for efficiency.",
+    "synonyms": [
+      "power-law distribution",
+      "frequency-ranked"
+    ],
+    "antonyms": [
+      "uniform distribution",
+      "random distribution"
+    ],
+    "nounForm": "Zipf's Law",
+    "verbForm": "N/A",
+    "adjectiveForm": "Zipfian",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data analysis, system design",
+    "usageTip": "Use 'Zipfian' when discussing data where popularity is heavily skewed toward a small minority.",
+    "commonMistake": "Thinking all skewed distributions are Zipfian; Zipfian has a specific mathematical definition.",
+    "collocations": [
+      "Zipfian distribution",
+      "Zipfian curve",
+      "Zipfian pattern"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Soldered",
+    "meaning": "Joined metal components by melting metal between them",
+    "shortMeaning": "permanently joined",
+    "example": "The memory chip was soldered directly to the board.",
+    "example2": "Make sure the wires are soldered securely.",
+    "example3": "Soldered components are hard to replace.",
+    "Explanation": "The word 'soldered' refers to the process of connecting electronic components to a printed circuit board (PCB) or to each other by melting a metal alloy (solder). This creates a very strong, permanent electrical connection. In IT hardware, 'soldered' components (like RAM on thin laptops) mean the item cannot be upgraded by the user. It is a fundamental manufacturing process for all modern electronic devices. If something is soldered, think of it as a permanent fix.",
+    "synonyms": [
+      "fused",
+      "joined",
+      "bonded"
+    ],
+    "antonyms": [
+      "unplugged",
+      "socketed",
+      "removable"
+    ],
+    "nounForm": "solder",
+    "verbForm": "solder",
+    "adjectiveForm": "soldered",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Hardware engineering, repairs",
+    "usageTip": "Use 'soldered' for permanent hardware connections.",
+    "commonMistake": "Thinking 'soldered' can be easily undone without special tools.",
+    "collocations": [
+      "soldered to the board",
+      "soldered component"
+    ]
+  },
+  {
+    "word": "Soldered",
+    "meaning": "Joined metal parts together using a melted metal alloy.",
+    "shortMeaning": "joined by metal",
+    "example": "The wires were carefully soldered to the circuit board.",
+    "example2": "He soldered the loose connection to fix the device.",
+    "example3": "The components are soldered directly onto the motherboard.",
+    "Explanation": "The term 'soldered' refers to the process of connecting electrical components to a circuit board using a filler metal called solder. It is a critical skill in hardware engineering and electronics repair. The base verb is 'solder'. When components are soldered, they create a permanent, conductive electrical connection. It is important to note that 'soldering' is a delicate task requiring heat and precision to avoid damaging the board or the components. Always use this word when discussing hardware-level connectivity.",
+    "synonyms": [
+      "welded",
+      "fused",
+      "joined"
+    ],
+    "antonyms": [
+      "desoldered",
+      "disconnected"
+    ],
+    "nounForm": "solder",
+    "verbForm": "solder",
+    "adjectiveForm": "soldered",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Electronics, hardware repair, PCB design",
+    "usageTip": "Use 'soldered' when describing fixed electronic connections.",
+    "commonMistake": "Pronouncing the 'l' in 'solder' (it is silent).",
+    "collocations": [
+      "soldered connection",
+      "hand-soldered",
+      "cold solder"
+    ]
+  }
+]

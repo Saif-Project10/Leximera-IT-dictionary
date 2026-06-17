@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Soap",
+    "meaning": "A substance used for washing and cleaning, typically made from fats and an alkali.",
+    "shortMeaning": "cleaning substance",
+    "example": "Wash your hands with soap and water.",
+    "example2": "A bar of soap fell in the shower.",
+    "example3": "Soap operas are dramatic television series.",
+    "Explanation": "'Soap' is a common noun for the cleaning agent used with water for washing. It can be a solid bar, a liquid, or a powder. The word is also part of the term 'soap opera', a genre of television drama, named after the soap manufacturers who originally sponsored such radio shows. Soap is a basic household item and a symbol of cleanliness. The verb 'to soap' means to apply soap. It's a simple, concrete word with one primary meaning and a few cultural derivatives.",
+    "synonyms": [
+      "cleanser",
+      "detergent",
+      "lather"
+    ],
+    "antonyms": [
+      "dirt",
+      "grime"
+    ],
+    "nounForm": "soap",
+    "verbForm": "soap",
+    "adjectiveForm": "soapy",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Hygiene, cleaning, television",
+    "usageTip": "The phrase 'no soap' is old-fashioned slang meaning 'no luck' or 'it didn't work'.",
+    "commonMistake": "Confusing 'soap' with 'soup' (a liquid food).",
+    "collocations": [
+      "bar of soap",
+      "liquid soap",
+      "soap opera",
+      "soap dish"
+    ]
+  },
+  {
+    "word": "Soap",
+    "meaning": "A legacy protocol for exchanging structured information in web services using XML data formats. The engineering team chose SOAP because it features built-in error handling rules.",
+    "shortMeaning": "XML web service protocol",
+    "example": "Old banking infrastructure often relies on SOAP for secure financial transactions.",
+    "example2": "Unlike REST which uses JSON, SOAP requires all messages to be formatted in XML.",
+    "example3": "The engineering team chose SOAP because it features built-in error handling rules.",
+    "Explanation": "SOAP, which originally stood for Simple Object Access Protocol, is a strict messaging protocol specification for web services. It relies completely on XML to define its message structures, making it heavy but highly standardized. It contains formal rules for security, transaction compliance, and error messaging. While modern web development prefers REST or GraphQL for speed and JSON simplicity, SOAP remains vital in enterprise corporate networks. It guarantees high security and reliable messaging for legacy systems.",
+    "synonyms": [
+      "SOAP protocol",
+      "XML web protocol",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "SOAP",
+    "verbForm": "N/A",
+    "adjectiveForm": "SOAP-based",
+    "partOfSpeech": "noun (acronym)",
+    "commonContext": "Enterprise software architecture, banking APIs, and legacy system integration",
+    "usageTip": "Capitalize SOAP and use it when discussing traditional corporate or financial web services.",
+    "commonMistake": "Spelling it 'Soap' in lowercase or confusing it with modern lightweight JSON APIs.",
+    "collocations": [
+      "SOAP API",
+      "SOAP request",
+      "SOAP service"
+    ]
+  }
+]

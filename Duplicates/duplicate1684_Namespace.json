@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Namespace",
+    "meaning": "A container that holds a set of identifiers or names to keep them organized",
+    "shortMeaning": "name container",
+    "example": "In C++, we use a namespace to avoid global name conflicts.",
+    "example2": "The XML namespace defines where the tags come from.",
+    "example3": "You must import the correct namespace to use the library functions.",
+    "Explanation": "A namespace is like a folder for names in programming. It ensures that variables, functions, or classes with the same name do not crash or confuse the system. For example, two different libraries might both have a function called 'calculate'. By putting them in different namespaces, the computer knows which one to use. This is essential for large-scale software development and organized code.",
+    "synonyms": [
+      "scope",
+      "context",
+      "domain"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "namespace",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Programming, XML, and Cloud Computing",
+    "usageTip": "Use namespaces to keep your code clean and prevent naming errors.",
+    "commonMistake": "Thinking a namespace is a physical file; it is a logical grouping.",
+    "collocations": [
+      "global namespace",
+      "namespace declaration",
+      "import a namespace"
+    ]
+  },
+  {
+    "word": "Namespace",
+    "meaning": "A set of signs that are used to identify and distinguish names used in different contexts",
+    "shortMeaning": "naming container",
+    "example": "The developer used a namespace to avoid naming conflicts in the library.",
+    "example2": "XML namespaces help distinguish between different sets of tags.",
+    "example3": "Each module in this project has its own unique namespace.",
+    "Explanation": "A namespace is a declarative region that provides a scope to the identifiers inside it. It is used to organize code into logical groups and to prevent name collisions that can occur when multiple libraries are used together. For instance, two different libraries might both have a function called 'init', but if they are in different namespaces, the compiler can tell them apart. It acts like a container for related names. This concept is vital in C++, C#, Java, and web technologies like XML.",
+    "synonyms": [
+      "scope",
+      "context",
+      "domain"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "namespace",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Software architecture, XML, and directory structures",
+    "usageTip": "Use namespaces to organize large codebases so that common names don't clash.",
+    "commonMistake": "Creating overly deep or nested namespaces that make the code hard to read.",
+    "collocations": [
+      "global namespace",
+      "namespace declaration",
+      "root namespace"
+    ]
+  }
+]

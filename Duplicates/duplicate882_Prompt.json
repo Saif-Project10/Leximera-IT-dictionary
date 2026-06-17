@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Prompt",
+    "meaning": "1. Done without delay; punctual. 2. To cause or bring about an action or feeling. 3. A cue or reminder.",
+    "shortMeaning": "on time; to cause; a reminder",
+    "example": "Thank you for your prompt reply. (on time)",
+    "example2": "The news prompted a public outcry. (caused)",
+    "example3": "The actor needed a prompt to remember his lines. (cue)",
+    "Explanation": "'Prompt' is an adjective, verb, and noun. As an adjective, it means immediate or on time. As a verb, it means to incite, inspire, or cause someone to do something. As a noun, it's a cue given to a performer or a symbol on a computer screen indicating readiness for input. The word emphasizes timeliness and stimulation. A prompt response is good; a prompt can start a chain of events; a computer prompt awaits your command. It's a versatile and useful word.",
+    "synonyms": [
+      "immediate",
+      "punctual",
+      "induce",
+      "reminder"
+    ],
+    "antonyms": [
+      "slow",
+      "delayed",
+      "discourage"
+    ],
+    "nounForm": "prompt",
+    "verbForm": "prompt",
+    "adjectiveForm": "prompt",
+    "partOfSpeech": "adjective, verb, noun",
+    "commonContext": "Communication, computing, theater, causes",
+    "usageTip": "As an adjective, use 'prompt' to praise timely action. As a verb, use it to describe what triggers an action or thought.",
+    "commonMistake": "Confusing the verb 'prompt' with 'promote' (to support or advertise).",
+    "collocations": [
+      "prompt payment",
+      "prompted by",
+      "command prompt",
+      "need a prompt"
+    ]
+  },
+  {
+    "word": "Prompt",
+    "meaning": "Acting quickly, or a message asking for input",
+    "shortMeaning": "fast/request",
+    "example": "The system gave a prompt to enter the password.",
+    "example2": "We appreciate your prompt response to the issue.",
+    "example3": "The command line shows a cursor at the prompt.",
+    "Explanation": "The word 'prompt' has two main meanings in IT: 1) To act immediately or quickly. 2) A screen message asking the user to provide input or perform an action (like a command prompt). The noun form is 'prompt'. Being 'prompt' is a highly valued trait in professional settings. In UI design, a good 'prompt' helps the user know exactly what to do next. Ensure your prompts are clear and informative to reduce user confusion.",
+    "synonyms": [
+      "quick",
+      "request",
+      "cue"
+    ],
+    "antonyms": [
+      "delayed",
+      "slow",
+      "ignore"
+    ],
+    "nounForm": "prompt",
+    "verbForm": "prompt",
+    "adjectiveForm": "prompt",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "UI/UX, communication, command line",
+    "usageTip": "Use 'prompt' for both speed and user requests.",
+    "commonMistake": "Creating vague prompts that don't explain what the user needs to enter.",
+    "collocations": [
+      "command prompt",
+      "prompt response",
+      "clear prompt"
+    ]
+  },
+  {
+    "word": "Prompt",
+    "meaning": "A message or sign that asks a user for input, or acting quickly without delay",
+    "shortMeaning": "request for input / quick",
+    "example": "The computer will show a prompt asking for your password.",
+    "example2": "The company gave a prompt response to my complaint.",
+    "example3": "You need to write a good prompt to get a useful answer from an AI.",
+    "Explanation": "In the world of AI and computing, a 'prompt' is the text you type to tell the machine what to do. Historically, a 'command prompt' was the little blinking line where you typed instructions. As an adjective, 'prompt' means being on time or doing something fast (e.g., 'a prompt delivery'). It is a very important word in modern technology because 'prompt engineering' has become a new skill for working with AI models. It acts as the trigger for an action.",
+    "synonyms": [
+      "cue",
+      "reminder",
+      "quick"
+    ],
+    "antonyms": [
+      "slow",
+      "delayed",
+      "late"
+    ],
+    "nounForm": "prompt",
+    "verbForm": "prompt",
+    "adjectiveForm": "prompt",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "AI, customer service, and command lines",
+    "usageTip": "Be very specific in your AI prompts to get the best results.",
+    "commonMistake": "Confusing 'prompt' with 'print' (printing is showing output, prompting is asking for input).",
+    "collocations": [
+      "command prompt",
+      "prompt action",
+      "AI prompt"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Pre-assembled",
+    "meaning": "Put together partly or wholly before being sold or delivered | Assembled or put together before being sold or delivered.",
+    "shortMeaning": "partly built before sale",
+    "example": "We bought a pre-assembled desk to save time.",
+    "example2": "The kitchen cabinets come pre-assembled.",
+    "example3": "The toy was pre-assembled, so it was easy for the child to use.",
+    "Explanation": "The adjective 'pre-assembled' describes an item that has been put together by the manufacturer before it reaches the customer. This is common for furniture, toys, and equipment. It saves the customer time and effort compared to a kit that requires full assembly. 'Pre-' is a prefix meaning 'before'. The verb form is simply 'assemble'. It is often hyphenated.",
+    "synonyms": [
+      "Factory-Assembled",
+      "Partially Assembled",
+      "Partly Assembled",
+      "Prefabricated",
+      "Ready-Built",
+      "Ready-Made"
+    ],
+    "antonyms": [
+      "Disassembled",
+      "In Kit Form",
+      "In Pieces",
+      "Knock-Down",
+      "Unassembled"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "assemble",
+    "adjectiveForm": "pre-assembled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Furniture (IKEA), toys, equipment, DIY products",
+    "usageTip": "Often used in advertising and product descriptions to highlight convenience.",
+    "commonMistake": "Thinking it means 'fully assembled'; it can mean partially or fully.",
+    "collocations": [
+      "pre-assembled furniture",
+      "pre-assembled kit",
+      "comes pre-assembled"
+    ]
+  },
+  {
+    "word": "Pre-assembled",
+    "meaning": "Put together in advance before being shipped or installed.",
+    "shortMeaning": "assembled early",
+    "example": "The rack-mount server comes pre-assembled for easier installation.",
+    "example2": "Using pre-assembled modules speeds up our hardware setup.",
+    "example3": "The component is delivered pre-assembled and ready to test.",
+    "Explanation": "'Pre-assembled' describes hardware components that are already built at the factory rather than requiring assembly by the user. This reduces the time and complexity of deployment. In enterprise hardware, this is a major benefit as it minimizes the risk of errors during setup. It is very common in networking equipment, server enclosures, and workstations. By receiving it pre-assembled, you can focus on integration and configuration rather than the physical construction.",
+    "synonyms": [
+      "built-in",
+      "integrated",
+      "pre-built"
+    ],
+    "antonyms": [
+      "unassembled",
+      "component-based",
+      "DIY"
+    ],
+    "nounForm": "assembly",
+    "verbForm": "assemble",
+    "adjectiveForm": "pre-assembled",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware installation, logistics",
+    "usageTip": "Use to describe hardware that is ready to use out-of-the-box.",
+    "commonMistake": "Confusing 'pre-assembled' with 'pre-configured'.",
+    "collocations": [
+      "pre-assembled unit",
+      "comes pre-assembled",
+      "pre-assembled module"
+    ]
+  }
+]

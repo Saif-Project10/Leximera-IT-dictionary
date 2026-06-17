@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Rock",
+    "meaning": "The solid mineral material forming part of the surface of the earth; to move gently back and forth; a genre of music.",
+    "shortMeaning": "stone; sway; music genre",
+    "example": "The child threw a rock into the pond.",
+    "example2": "She gently rocked the baby to sleep.",
+    "example3": "He loves listening to classic rock.",
+    "Explanation": "'Rock' is a noun and verb with several common meanings. As a noun, it primarily means a stone. It also refers to a genre of music (rock and roll). As a verb, it means to move rhythmically back and forth or from side to side. The word is simple but context-dependent. 'Rock' as music is a cultural staple. The verb can be gentle (rock a cradle) or intense (the explosion rocked the building). It's a fundamental word in geology, childcare, and popular culture.",
+    "synonyms": [
+      "stone",
+      "boulder",
+      "sway",
+      "roll (music)"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "rock",
+    "verbForm": "rock",
+    "adjectiveForm": "rocky",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Geology, music, movement, stability",
+    "usageTip": "The phrase 'rock the boat' means to cause trouble by challenging the status quo.",
+    "commonMistake": "Confusing 'rock' (stone) with 'rack' (a framework for holding things).",
+    "collocations": [
+      "solid as a rock",
+      "rock music",
+      "rock back and forth",
+      "on the rocks"
+    ]
+  },
+  {
+    "word": "Rock",
+    "meaning": "To be exceptionally excellent or stable, or a highly reliable software component or team member",
+    "shortMeaning": "excellent or highly stable",
+    "example": "The new open-source CSS framework absolutely rocks because it is incredibly lightweight.",
+    "example2": "Our backend lead engineer is a total rock during critical database crash incidents.",
+    "example3": "This optimized script rocks compared to the old, slow implementation we had before.",
+    "Explanation": "The word 'rock' is used colloquially in tech industries as both a verb (meaning to perform phenomenally well) and a noun (meaning a stable foundation or person). In informal software environments, developers use it during code reviews or standups to praise efficient logic, clean code setups, or reliable coworkers. It represents dependability, high performance, and overall engineering excellence in casual, professional peer communication.",
+    "synonyms": [
+      "shine",
+      "excel",
+      "foundation"
+    ],
+    "antonyms": [
+      "fail",
+      "falter",
+      "liability"
+    ],
+    "nounForm": "rock",
+    "verbForm": "rock",
+    "adjectiveForm": "rocking",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Team communication, code praise, and informal software reviews",
+    "usageTip": "Use 'rock' in casual, supportive professional conversations to highlight exceptional system stability or personal effort.",
+    "commonMistake": "Using 'rock' in formal, strict technical specifications or official client agreements.",
+    "collocations": [
+      "you rock",
+      "solid as a rock",
+      "this framework rocks"
+    ]
+  }
+]

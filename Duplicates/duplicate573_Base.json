@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Base",
+    "meaning": "The lowest part or edge of something; a conceptual structure or foundation; a main location.",
+    "shortMeaning": "foundation; main location; lowest part",
+    "example": "The lamp has a heavy base to keep it stable.",
+    "example2": "The theory has a solid base in empirical evidence.",
+    "example3": "The company's base is in San Francisco.",
+    "Explanation": "Base is a highly versatile noun and verb. As a noun, it can mean the bottom support of something, a fundamental principle, a center of operations, or in chemistry, a substance that reacts with an acid. As a verb, it means to establish or found something on a particular principle or place ('based on'). A common mistake is confusing it with 'bass' (low sound or fish). This word is fundamental in geometry, military, business, and general description, representing stability, origin, and support.",
+    "synonyms": [
+      "foundation",
+      "bottom",
+      "headquarters",
+      "core",
+      "groundwork"
+    ],
+    "antonyms": [
+      "top",
+      "peak",
+      "summit"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "basic",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Geometry, military, business, chemistry, and general description.",
+    "usageTip": "Use 'base on' or 'base upon' to mean founded on (e.g., 'The movie is based on a true story').",
+    "commonMistake": "Saying 'base off of' – 'based on' is the standard phrase.",
+    "collocations": [
+      "military base",
+      "base camp",
+      "cover all bases"
+    ]
+  },
+  {
+    "word": "Base",
+    "meaning": "The lowest part or the foundation of something",
+    "shortMeaning": "foundation or starting point",
+    "example": "The lamp has a heavy base so it won't tip over.",
+    "example2": "All the code for this project is in the 'base' folder.",
+    "example3": "The team uses Karachi as their base for operations in Pakistan.",
+    "Explanation": "Base is the starting point or the bottom support. In mathematics, a 'base' is the number of digits in a system (like Base-10 or Base-2). In programming, a 'Base Class' is a parent class that other classes inherit from. It provides the essential structure upon which everything else is built. It is synonymous with 'root' or 'foundation.'",
+    "synonyms": [
+      "foundation",
+      "bottom",
+      "root"
+    ],
+    "antonyms": [
+      "top",
+      "peak",
+      "summit"
+    ],
+    "commonContext": "Architecture, mathematics, and OOP programming",
+    "usageTip": "In CSS, think of your 'Base' styles as the default settings for the whole website.",
+    "partOfSpeech": "noun"
+  }
+]

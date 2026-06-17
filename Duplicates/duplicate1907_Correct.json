@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Correct",
+    "meaning": "Free from error; in accordance with fact or truth",
+    "shortMeaning": "right/accurate",
+    "example": "That is the correct answer to the question.",
+    "example2": "Please ensure your syntax is correct.",
+    "example3": "He was correct about the server error.",
+    "Explanation": "The word 'correct' is the standard way to say something is right or accurate. It applies to facts, math, behavior, and code. In IT, 'correct' is used constantly to discuss whether code executes as intended. It is essential to distinguish between 'correct' (accurate) and 'precise' (detailed), although they are often used together in professional settings.",
+    "synonyms": [
+      "right",
+      "accurate",
+      "error-free"
+    ],
+    "antonyms": [
+      "incorrect",
+      "wrong",
+      "erroneous"
+    ],
+    "nounForm": "correction",
+    "verbForm": "correct",
+    "adjectiveForm": "correct",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "General use, testing, and coding",
+    "usageTip": "Use 'correct' for simple factual accuracy.",
+    "commonMistake": "Using 'correct' for something that is technically true but not the best approach.",
+    "collocations": [
+      "correct answer",
+      "correct syntax",
+      "technically correct"
+    ]
+  },
+  {
+    "word": "Correct",
+    "meaning": "To fix a mistake or make something accurate",
+    "shortMeaning": "fix",
+    "example": "Please correct the errors in the configuration file.",
+    "example2": "The developer was able to correct the bug quickly.",
+    "example3": "You should correct the spelling on the homepage.",
+    "Explanation": "Correcting is the process of identifying a fault and replacing it with the right information. In programming, this happens constantly during the debugging phase. It can apply to many things: code logic, visual design, data entry, or network settings. A 'correction' ensures that the output of a system matches what was intended. It is a fundamental part of quality assurance (QA). Always test your system after you correct something to make sure the fix didn't break anything else.",
+    "synonyms": [
+      "fix",
+      "rectify",
+      "amend"
+    ],
+    "antonyms": [
+      "damage",
+      "corrupt",
+      "break"
+    ],
+    "nounForm": "correction",
+    "verbForm": "correct",
+    "adjectiveForm": "corrective",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Debugging, editing, data entry",
+    "usageTip": "Use 'correct' as a verb when you are performing the action of fixing.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "correct a mistake",
+      "correct the path",
+      "correct the balance"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Hash",
+    "meaning": "A function that converts data into a fixed-size string of characters, which acts as a digital fingerprint; the '#' symbol",
+    "shortMeaning": "digital fingerprint or # symbol",
+    "example": "Git uses a SHA-1 hash to uniquely identify each commit.",
+    "example2": "Please enter the hash tag #travel on your social media post.",
+    "example3": "The system checks the file's hash to ensure it hasn't been corrupted.",
+    "Explanation": "In computing, a 'hash' is the output of a hash function—a unique string representing input data. Even a tiny change in input creates a completely different hash. This is used for data integrity (checksums), security (password storage), and identification (Git commits). Separately, the '#' symbol is called a hash, pound sign, or number sign, and in social media, a 'hashtag'. The meaning is entirely context-dependent.",
+    "synonyms": [
+      "checksum",
+      "digest",
+      "fingerprint",
+      "pound sign",
+      "hashtag"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "hash",
+    "verbForm": "hash",
+    "adjectiveForm": "hashed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cryptography, version control (Git), data structures, social media, telephones",
+    "usageTip": "In tech, it usually refers to the cryptographic fingerprint. In everyday life, it's the # symbol.",
+    "commonMistake": "Thinking a hash can be reversed to get the original data; hash functions are one-way.",
+    "collocations": [
+      "hash function",
+      "hash value",
+      "hash code",
+      "hash tag"
+    ]
+  },
+  {
+    "word": "Hash",
+    "meaning": "A value or key generated from a string of text using a mathematical algorithm",
+    "shortMeaning": "digital fingerprint",
+    "example": "Each file has a unique hash that changes if the file is modified.",
+    "example2": "The program uses a hash function to organize data in the table.",
+    "example3": "You can verify the integrity of the download by checking its MD5 hash.",
+    "Explanation": "In computing, a 'hash' is the output of a hash function. It takes an input (like a file or a word) and turns it into a fixed-length string of characters. A key feature is that even a tiny change in the input will result in a completely different hash. This makes hashes perfect for checking if data has been tampered with or for finding items quickly in a 'hash table.' It is a one-way process, meaning you cannot easily turn the hash back into the original text. It is a fundamental concept in data structures and cryptography.",
+    "synonyms": [
+      "checksum",
+      "digest",
+      "fingerprint"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "hash",
+    "verbForm": "hash",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cryptography, databases, and file integrity",
+    "usageTip": "Use 'hash' when you need to represent data as a unique, fixed-length code.",
+    "commonMistake": "Confusing a 'hash' with 'encryption' (encryption is two-way, hashing is one-way).",
+    "collocations": [
+      "hash function",
+      "hash table",
+      "unique hash"
+    ]
+  }
+]

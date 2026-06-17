@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Service",
+    "meaning": "1. The action of helping or doing work for someone. 2. A system supplying a public need (e.g., bus service). 3. A ceremony or routine maintenance.",
+    "shortMeaning": "help; system; maintenance",
+    "example": "The restaurant provides excellent service. (help)",
+    "example2": "The postal service delivers mail. (system)",
+    "example3": "I need to take my car in for a service. (maintenance)",
+    "Explanation": "A 'service' is essentially work done for the benefit of others. It is a broad noun covering everything from customer assistance and public utilities to religious ceremonies and military duty. In computing, a 'web service' or 'microservice' is a function provided over a network. The verb 'to service' means to maintain or repair. The concept is central to economics (service industry), ethics, and technology. It implies usefulness and action.",
+    "synonyms": [
+      "assistance",
+      "help",
+      "system",
+      "maintenance"
+    ],
+    "antonyms": [
+      "disservice",
+      "hindrance"
+    ],
+    "nounForm": "service",
+    "verbForm": "service",
+    "adjectiveForm": "serviceable",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Business, public utilities, IT, religion, automotive",
+    "usageTip": "Use 'service' to refer to the help provided, the system that provides it, or the maintenance of equipment.",
+    "commonMistake": "Using 'service' as a countable noun incorrectly. You can have 'a service' (one instance) or 'services' (multiple kinds).",
+    "collocations": [
+      "customer service",
+      "at your service",
+      "service industry",
+      "in service"
+    ]
+  },
+  {
+    "word": "Service",
+    "meaning": "An independent software program or background task layer built to perform a specific supportive utility role",
+    "shortMeaning": "supportive background software utility",
+    "example": "The application depends on an authentication service to check user security tokens.",
+    "example2": "We wrote a custom Windows service to handle file backups automatically every night.",
+    "example3": "The dictionary search feature connects directly to our core data index service module.",
+    "Explanation": "The word 'Service' functions as a critical noun and occasional verb in software engineering. As a noun, it describes a self-contained, independent software application or micro-program that runs quietly in the background to handle specific operational tasks—like database caching, email delivery, or processing credit cards—keeping the primary user interface clean and fast.",
+    "synonyms": [
+      "microservice",
+      "utility worker",
+      "background daemon program"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "service",
+    "verbForm": "service",
+    "adjectiveForm": "serviceable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Microservice system infrastructure layouts, background server task operations, and corporate API building models",
+    "usageTip": "Use 'service' to define an isolated code program or module dedicated entirely to a distinct supporting function.",
+    "commonMistake": "Using the word 'service' vaguely to describe any code function; it typically points to an entire isolated application unit.",
+    "collocations": [
+      "web service",
+      "microservice architecture",
+      "restart a service"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Polling-based",
+    "meaning": "Operating on the principle of repeatedly checking for updates at set intervals.",
+    "shortMeaning": "using repeated checks",
+    "example": "The old monitoring system was polling-based and inefficient.",
+    "example2": "A polling-based approach can waste resources if nothing has changed.",
+    "example3": "We replaced the polling-based script with an event-driven one.",
+    "Explanation": "'Polling-based' is an adjective that describes a system or method whose core function relies on the 'polling' technique. It is a technical term used in software and hardware design. Polling-based systems are simple to implement but can be inefficient because they use resources even when no action is needed. This term helps architects choose between different design patterns for handling data or events.",
+    "synonyms": [
+      "polling-reliant, interval-checking"
+    ],
+    "antonyms": [
+      "event-based, event-driven, interrupt-driven, push-based"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "polling-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, system design, API architecture",
+    "usageTip": "Use this term when discussing the pros and cons of different system communication methods.",
+    "commonMistake": "Using it outside of a technical context; it is specific to system design.",
+    "collocations": [
+      "polling-based system",
+      "polling-based architecture",
+      "polling-based communication"
+    ]
+  },
+  {
+    "word": "Polling-based",
+    "meaning": "Relying on repeatedly checking status to manage data",
+    "shortMeaning": "checked repeatedly",
+    "example": "The sensor uses a polling-based system to check for input.",
+    "example2": "Polling-based communication is simpler than interrupt-driven systems.",
+    "example3": "A polling-based approach can waste CPU resources if unchecked.",
+    "Explanation": "The term 'polling-based' describes a design where a system actively and repeatedly asks (polls) another system for data or status updates. This is a common way to handle hardware or network status checking. While it is simple to implement, it can be inefficient compared to interrupt-based systems because it consumes CPU cycles even when nothing is happening. It is important to decide if the frequency of polling is appropriate for the system's needs.",
+    "synonyms": [
+      "checked-based",
+      "iterative-request"
+    ],
+    "antonyms": [
+      "interrupt-driven",
+      "event-driven"
+    ],
+    "nounForm": "polling",
+    "verbForm": "poll",
+    "adjectiveForm": "polling-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Embedded systems, networking, hardware interfaces",
+    "usageTip": "Use this to explain how a device constantly asks for data.",
+    "commonMistake": "Using polling for high-performance apps where event-driven is needed.",
+    "collocations": [
+      "polling-based architecture",
+      "polling-based sensor"
+    ]
+  }
+]

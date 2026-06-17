@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Repetitive",
+    "meaning": "Involving or characterized by repetition; doing or saying the same thing many times.",
+    "shortMeaning": "repeating",
+    "example": "Factory work can be very repetitive and monotonous.",
+    "example2": "He complained of a repetitive strain injury from typing.",
+    "example3": "The song has a simple, repetitive melody that's easy to remember.",
+    "Explanation": "Repetitive describes an action, task, or pattern that is repeated over and over with little variation. It often carries a negative connotation of being boring, tedious, or mechanically monotonous. In a physical context, repetitive motions can cause injury. In music or art, repetition can be a deliberate stylistic choice. The word highlights the lack of novelty or change. In business process analysis, identifying repetitive tasks is the first step towards automation. The verb is 'repeat'. The noun is 'repetition'.",
+    "synonyms": [
+      "monotonous",
+      "recurring",
+      "repeated",
+      "reiterative"
+    ],
+    "antonyms": [
+      "varied",
+      "diverse",
+      "unique",
+      "changing"
+    ],
+    "nounForm": "repetitiveness",
+    "verbForm": "repeat",
+    "adjectiveForm": "repetitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Work descriptions, music, injuries, processes",
+    "usageTip": "Often used negatively. For a neutral or positive sense of regular recurrence, use 'recurrent' or 'periodic'.",
+    "commonMistake": "Confusing 'repetitive' (characterized by repetition) with 'repeated' (done again).",
+    "collocations": [
+      "repetitive task",
+      "repetitive strain injury",
+      "repetitive pattern"
+    ]
+  },
+  {
+    "word": "Repetitive",
+    "meaning": "Characterized by doing the same thing over and over",
+    "shortMeaning": "tedious, recurring",
+    "example": "Data entry can be very repetitive work.",
+    "example2": "Repetitive tasks are perfect for automation.",
+    "example3": "The error message was repetitive and annoying.",
+    "Explanation": "The word 'repetitive' often carries a negative connotation, implying that an action is boring, tedious, or excessive because it happens too often without variation. In IT, identifying repetitive tasks is the first step toward implementing automation or scripting solutions. The noun form is 'repetition' and the verb form is 'repeat'. While repetition can be good in logic, 'repetitive' usually highlights the weariness or inefficiency of a task for a human.",
+    "synonyms": [
+      "monotonous",
+      "tedious",
+      "iterative"
+    ],
+    "antonyms": [
+      "varied",
+      "diverse",
+      "interesting"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "repetitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, workflow analysis, UX design",
+    "usageTip": "Use 'repetitive' to describe tasks that should be automated.",
+    "commonMistake": "Using 'repetitive' for positive things like 'consistent'.",
+    "collocations": [
+      "repetitive task",
+      "repetitive work",
+      "repetitive strain"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Pending",
+    "meaning": "Awaiting a decision or settlement; not yet completed or resolved.",
+    "shortMeaning": "waiting to be decided",
+    "example": "My visa application is still pending.",
+    "example2": "The deal is pending approval from the board.",
+    "example3": "A lawsuit is pending against the company.",
+    "Explanation": "'Pending' is an adjective (and sometimes a preposition) that describes a state of being unfinished or undecided. It is often used in formal, legal, or bureaucratic contexts. Something that is pending is in progress but has not reached its final conclusion. It creates a sense of anticipation and temporary status. It is not used to describe people, but rather processes, applications, or events.",
+    "synonyms": [
+      "awaiting",
+      "unresolved",
+      "undecided",
+      "upcoming",
+      "imminent"
+    ],
+    "antonyms": [
+      "decided",
+      "resolved",
+      "completed",
+      "settled"
+    ],
+    "nounForm": "pendency",
+    "verbForm": "N/A",
+    "adjectiveForm": "pending",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legal documents, applications, approvals, business",
+    "usageTip": "Use 'pending' in formal writing to indicate something is waiting for an outcome.",
+    "commonMistake": "Using it as a verb (e.g., 'I am pending a reply'). Use 'awaiting' instead.",
+    "collocations": [
+      "pending approval",
+      "pending further notice",
+      "case pending"
+    ]
+  },
+  {
+    "word": "Pending",
+    "meaning": "Awaiting decision, completion, or action.",
+    "shortMeaning": "waiting",
+    "example": "The transaction is still pending.",
+    "example2": "I have several pending requests in my queue.",
+    "example3": "The update is pending until the server reboots.",
+    "Explanation": "The word 'pending' describes something that has been started but is not yet finished. It is currently in a state of 'in-progress' but stalled, waiting for an external event to happen. This is a very standard word in almost all IT systems, such as emails, payments, or task management boards. It helps users understand that their action was received, but they need to wait a bit longer for the final result.",
+    "synonyms": [
+      "waiting",
+      "unresolved",
+      "ongoing"
+    ],
+    "antonyms": [
+      "completed",
+      "resolved",
+      "finalized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "pend",
+    "adjectiveForm": "pending",
+    "partOfSpeech": "adjective",
+    "commonContext": "Task management, systems, finance",
+    "usageTip": "Use 'pending' to describe any status that is not yet done.",
+    "commonMistake": "Confusing 'pending' with 'failed'; pending means it might still work.",
+    "collocations": [
+      "pending approval",
+      "pending request",
+      "still pending"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Smoke test",
+    "meaning": "A quick preliminary test to see if a system's basic functions work",
+    "shortMeaning": "basic functionality test",
+    "example": "We ran a smoke test after the new build to ensure the app could at least open.",
+    "example2": "The smoke test failed because the login page wouldn't load.",
+    "example3": "A smoke test is not deep, but it saves time by catching big bugs early.",
+    "Explanation": "The term 'smoke test' comes from hardware testing, where a device is plugged in to see if it starts smoking. In software, it is a non-exhaustive set of tests that confirm the most important features work. If a smoke test fails, there is no point in doing more detailed testing until the main issues are fixed. It is usually the first step in a testing cycle. Smoke tests are often automated to run every time code is updated. They provide immediate feedback to developers on the health of the software.",
+    "synonyms": [
+      "sanity check",
+      "confidence test",
+      "intake test"
+    ],
+    "antonyms": [
+      "exhaustive test",
+      "regression test",
+      "deep-dive test"
+    ],
+    "nounForm": "smoke testing",
+    "verbForm": "smoke test",
+    "adjectiveForm": "smoke-tested",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software development and engineering",
+    "usageTip": "Use 'smoke test' for the very first, basic check of a new software version.",
+    "commonMistake": "Expecting a smoke test to find every small bug; it only finds 'showstoppers'.",
+    "collocations": [
+      "run a smoke test",
+      "automated smoke test",
+      "smoke test pass"
+    ]
+  },
+  {
+    "word": "Smoke test",
+    "meaning": "An initial software test to check if the most crucial functions of a program work properly",
+    "shortMeaning": "basic functional test",
+    "example": "The development team ran a quick smoke test after the new build was compiled.",
+    "example2": "If the smoke test fails, the software is rejected immediately.",
+    "example3": "We use a smoke test to make sure the login page loads after an update.",
+    "Explanation": "The term 'smoke test' comes from hardware testing, where a device was plugged in to see if it literally produced smoke. In software engineering, it refers to a rapid, preliminary test execution. It verifies that the core features of the application run without crashing. It does not look at small details or deep features. If this test passes, the build is ready for more detailed testing.",
+    "synonyms": [
+      "sanity test",
+      "intake test",
+      "preliminary test"
+    ],
+    "antonyms": [
+      "exhaustive test",
+      "deep testing"
+    ],
+    "nounForm": "smoke testing",
+    "verbForm": "smoke test",
+    "adjectiveForm": "smoke-tested",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software development lifecycles, DevOps, and continuous integration pipelines",
+    "usageTip": "Apply this term when talking about the very first, basic check of a new software version.",
+    "commonMistake": "Thinking a smoke test replaces deep, thorough quality assurance testing.",
+    "collocations": [
+      "run a smoke test",
+      "automated smoke test",
+      "smoke test failed"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Homogeneous",
+    "meaning": "Of the same kind; alike; uniform in composition.",
+    "shortMeaning": "uniform; all the same",
+    "example": "The student body was fairly homogeneous, with similar backgrounds.",
+    "example2": "Stir the mixture until it is homogeneous.",
+    "example3": "They aimed for a homogeneous look across all their stores.",
+    "Explanation": "This adjective describes something that is consistent and uniform throughout, with its parts being similar to each other. In chemistry, a homogeneous mixture is evenly mixed (like salt dissolved in water). In social contexts, it can describe a lack of diversity. The word often carries a neutral or slightly negative connotation when referring to groups, as it can imply monotony or lack of variety. The noun form is 'homogeneity'.",
+    "synonyms": [
+      "uniform",
+      "identical",
+      "consistent",
+      "alike"
+    ],
+    "antonyms": [
+      "heterogeneous",
+      "diverse",
+      "mixed",
+      "varied"
+    ],
+    "nounForm": "homogeneity",
+    "verbForm": "homogenize",
+    "adjectiveForm": "homogeneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Chemistry, sociology, products, groups",
+    "usageTip": "Use 'homogeneous' to describe something where all parts or members are very similar or the same.",
+    "commonMistake": "Spelling it as 'homogenous' (which is a biological term). The correct spelling for 'uniform' is 'homogeneous'.",
+    "collocations": [
+      "homogeneous group",
+      "homogeneous mixture",
+      "culturally homogeneous",
+      "relatively homogeneous"
+    ]
+  },
+  {
+    "word": "Homogeneous",
+    "meaning": "Consisting of parts that are all the same type.",
+    "shortMeaning": "uniform",
+    "example": "The cluster is composed of homogeneous server nodes.",
+    "example2": "We need a homogeneous dataset for testing.",
+    "example3": "The team prefers a homogeneous tech stack.",
+    "Explanation": "The word 'homogeneous' describes a system or group where everything is the same or uniform. It is an adjective. In IT, a 'homogeneous cluster' means all computers have the same hardware and OS. This makes management easier than in 'heterogeneous' (mixed) systems. It is a key term in infrastructure and data science. Always identify if you prefer uniformity or diversity in your stack and use the correct term.",
+    "synonyms": [
+      "uniform",
+      "consistent",
+      "alike"
+    ],
+    "antonyms": [
+      "heterogeneous",
+      "mixed",
+      "varied"
+    ],
+    "nounForm": "homogeneity",
+    "verbForm": "N/A",
+    "adjectiveForm": "homogeneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Infrastructure, data, team",
+    "usageTip": "Use for uniform systems or data.",
+    "commonMistake": "Confusing 'homogeneous' with 'homogeneous mixture' in chemistry.",
+    "collocations": [
+      "homogeneous cluster",
+      "homogeneous data",
+      "homogeneous environment"
+    ]
+  }
+]

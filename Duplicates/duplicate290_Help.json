@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Help",
+    "meaning": "To make it easier for someone to do something; to assist.",
+    "shortMeaning": "assist, aid",
+    "example": "Can you help me carry these boxes?",
+    "example2": "This guide will help you understand the process.",
+    "example3": "She helps her children with their homework.",
+    "Explanation": "The word 'help' is one of the most common and versatile verbs in English. It means to provide assistance or support to someone, making a task easier for them. It can be used in a wide range of contexts, from physical tasks to emotional support. It is often followed by an infinitive with or without 'to' (help do something / help to do something). A key thing to remember is that it is a positive, cooperative action. While 'aid' is more formal, 'help' is perfect for everyday use. It's also a noun, as in 'Thank you for your help.'",
+    "synonyms": [
+      "assist",
+      "aid",
+      "support"
+    ],
+    "antonyms": [
+      "hinder",
+      "harm",
+      "obstruct"
+    ],
+    "nounForm": "help",
+    "verbForm": "help",
+    "adjectiveForm": "helpful",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Daily tasks, learning, emergencies, work",
+    "usageTip": "You can say 'help someone do something' or 'help someone to do something'. Both are correct.",
+    "commonMistake": "Using 'help' without an object when one is needed. 'Can you help?' is fine, but 'Can you help me?' is clearer.",
+    "collocations": [
+      "help with",
+      "can't help",
+      "help out"
+    ]
+  },
+  {
+    "word": "Help",
+    "meaning": "To make it easier for someone to do something or to provide assistance",
+    "shortMeaning": "assist",
+    "example": "Can you help me fix this bug in the code?",
+    "example2": "The online documentation will help you understand the API.",
+    "example3": "She offered to help her colleague with the presentation.",
+    "Explanation": "The word 'help' is one of the most basic and important verbs in communication. It describes giving support, whether through physical work, advice, or providing tools. In software, 'Help' menus or 'Help' files provide guidance to users who are confused. In a technical sense, a 'helper function' is a small piece of code that supports a larger main function. It is a universal human activity and a core feature of user-centered design in technology.",
+    "synonyms": [
+      "assist",
+      "aid",
+      "support"
+    ],
+    "antonyms": [
+      "hinder",
+      "block",
+      "obstruct"
+    ],
+    "nounForm": "help / helper",
+    "verbForm": "help",
+    "adjectiveForm": "helpful",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Everyday life, customer support, and programming",
+    "usageTip": "Use 'help' whenever you are providing or requesting assistance.",
+    "commonMistake": "Using 'help' when the assistance is purely financial (use 'fund' or 'finance').",
+    "collocations": [
+      "help desk",
+      "seek help",
+      "helpful advice"
+    ]
+  }
+]

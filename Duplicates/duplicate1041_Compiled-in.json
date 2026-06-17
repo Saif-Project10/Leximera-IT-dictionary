@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Compiled-in",
+    "meaning": "Included or built into a program during compilation.",
+    "shortMeaning": "built-in during compilation",
+    "example": "The default settings are compiled-in and cannot be changed.",
+    "example2": "N/A",
+    "example3": "N/A",
+    "Explanation": "'Compiled-in' is a technical adjective used in computer programming. It describes features, values, or code that are included in a software program at the time it is compiled (translated from source code to executable code). These elements become fixed parts of the program and typically cannot be changed without recompiling. It contrasts with 'configurable' or 'runtime' options that can be changed while the program is running. It's a specialized term important for understanding software flexibility and performance characteristics.",
+    "synonyms": [
+      "built-in",
+      "hard-coded",
+      "embedded"
+    ],
+    "antonyms": [
+      "configurable",
+      "dynamic",
+      "runtime"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "compile in",
+    "adjectiveForm": "compiled-in",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer programming, software development",
+    "usageTip": "Hyphenated when used as adjective before noun: 'compiled-in constants', 'compiled-in defaults'.",
+    "commonMistake": "Assuming it's a general English term. It's specific to programming.",
+    "collocations": [
+      "compiled-in defaults",
+      "compiled-in values",
+      "compiled-in feature"
+    ]
+  },
+  {
+    "word": "Compiled-in",
+    "meaning": "Built directly into the core binary or executable file of a program, rather than being an external add-on",
+    "shortMeaning": "integrated",
+    "example": "The security features are compiled-in, so they cannot be removed from the executable.",
+    "example2": "Many standard libraries are compiled-in, making the software self-contained.",
+    "example3": "We changed the configuration from a separate file to a compiled-in constant.",
+    "Explanation": "The term 'Compiled-in' acts as a compound adjective to describe functionality that exists inside the software binary itself. When features are compiled-in, the program does not rely on external dynamic libraries (DLLs) to work. This makes for a very portable application but increases file size and makes updates harder. It is common in small utilities or mission-critical tools where dependencies must be avoided. Remember to hyphenate it when using it as a modifier before a noun.",
+    "synonyms": [
+      "integrated",
+      "hardcoded",
+      "internal"
+    ],
+    "antonyms": [
+      "external",
+      "modular",
+      "dynamic"
+    ],
+    "nounForm": "compilation",
+    "verbForm": "N/A",
+    "adjectiveForm": "compiled-in",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, system utilities, binary structure",
+    "usageTip": "Use the hyphen when you describe a 'compiled-in' feature or library.",
+    "commonMistake": "Writing 'compiled in' as two words when it is used to describe a feature.",
+    "collocations": [
+      "compiled-in feature",
+      "compiled-in constant",
+      "compiled-in library"
+    ]
+  }
+]

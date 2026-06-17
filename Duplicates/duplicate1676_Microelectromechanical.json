@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Microelectromechanical",
+    "meaning": "Relating to tiny systems that combine moving mechanical parts with electronic circuits",
+    "shortMeaning": "micro-moving-electronics",
+    "example": "The accelerometer in your phone is a microelectromechanical device.",
+    "example2": "Microelectromechanical sensors can detect the slightest movements.",
+    "example3": "We are studying microelectromechanical systems for medical use.",
+    "Explanation": "Microelectromechanical (MEMS) refers to technology at a very small scale, usually between 1 to 100 micrometers. These systems include tiny gears, mirrors, and sensors that are built onto a silicon chip alongside electronic circuits. For example, the tiny mirrors in a digital projector or the sensor that tells your phone to rotate the screen are both 'microelectromechanical'. It is a field that bridges the gap between mechanical engineering and electrical engineering at a microscopic level. It allows us to build machines that are too small to be seen by the human eye.",
+    "synonyms": [
+      "MEMS-based",
+      "micro-mechanical"
+    ],
+    "antonyms": [
+      "macro-mechanical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "microelectromechanical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sensors, smartphones, and medical technology",
+    "usageTip": "Use this to describe tiny devices that have physical moving parts.",
+    "commonMistake": "Thinking it just means 'small electronics'; it specifically implies 'mechanical' (moving) parts.",
+    "collocations": [
+      "microelectromechanical systems",
+      "microelectromechanical sensors",
+      "microelectromechanical technology"
+    ]
+  },
+  {
+    "word": "Microelectromechanical",
+    "meaning": "Relating to tiny integrated mechanical and electrical devices",
+    "shortMeaning": "tiny mechanical systems",
+    "example": "MEMS (microelectromechanical systems) are used in phone sensors.",
+    "example2": "The device uses microelectromechanical technology.",
+    "example3": "Microelectromechanical parts are fragile and tiny.",
+    "Explanation": "Microelectromechanical (often abbreviated as MEMS) refers to technology that integrates mechanical elements, sensors, and electronics on a tiny silicon chip. These are used in devices like accelerometers, gyroscopes, and pressure sensors found in smartphones. They bridge the gap between digital data and the physical world. It is a highly specialized field of hardware engineering. Understanding this is key for anyone involved in Internet of Things (IoT) hardware or robotics design.",
+    "synonyms": [
+      "MEMS"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "MEMS",
+    "verbForm": "N/A",
+    "adjectiveForm": "microelectromechanical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, IoT, sensors",
+    "usageTip": "Use when describing tiny mechanical sensors on chips.",
+    "commonMistake": "Confusing MEMS with basic electrical circuits.",
+    "collocations": [
+      "microelectromechanical systems",
+      "MEMS technology",
+      "MEMS sensor"
+    ]
+  }
+]

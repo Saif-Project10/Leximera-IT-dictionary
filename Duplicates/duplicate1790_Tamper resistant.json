@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Tamper resistant",
+    "meaning": "Designed to prevent or show evidence of unauthorized interference or changes",
+    "shortMeaning": "protected from interference",
+    "example": "The medicine bottle has a tamper resistant seal.",
+    "example2": "Companies use tamper resistant packaging to ensure food safety.",
+    "example3": "The evidence bag was sealed with tamper resistant tape.",
+    "Explanation": "The term 'tamper resistant' describes features or designs that make it difficult for someone to interfere with a product without being noticed. It is widely used in the pharmaceutical, food, and security industries to protect consumers. Unlike 'tamper-proof,' which implies interference is impossible, 'resistant' means it provides a strong barrier or visible proof of entry. This term is essential for maintaining safety standards and legal compliance in manufacturing. It often involves physical barriers like seals, specialized screws, or unique wrapping.",
+    "synonyms": [
+      "secure",
+      "protected",
+      "interference-proof"
+    ],
+    "antonyms": [
+      "accessible",
+      "vulnerable",
+      "unprotected"
+    ],
+    "nounForm": "tamper resistance",
+    "verbForm": "N/A",
+    "adjectiveForm": "tamper resistant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product packaging, security, and hardware design",
+    "usageTip": "Use this to describe items that are built to discourage unauthorized access.",
+    "commonMistake": "Confusing it with 'tamper evident,' which only shows proof after a change has occurred.",
+    "collocations": [
+      "tamper resistant seal",
+      "tamper resistant packaging",
+      "tamper resistant features"
+    ]
+  },
+  {
+    "word": "Tamper resistant",
+    "meaning": "Designed to prevent unauthorized modification",
+    "shortMeaning": "hard to change",
+    "example": "The hardware uses tamper resistant seals.",
+    "example2": "Our data storage is tamper resistant.",
+    "example3": "They installed a tamper resistant sensor.",
+    "Explanation": "The term 'tamper resistant' describes design choices that make it difficult for someone to modify, break, or interfere with a system without being noticed or without significant difficulty. It is not 'tamper-proof' (which is impossible to break), but it makes it much harder. It is an essential concept for physical security, software protection, and data integrity. Use this to describe features that increase the cost or difficulty of attacking your system.",
+    "synonyms": [
+      "protected",
+      "secure"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "open"
+    ],
+    "nounForm": "tampering",
+    "verbForm": "tamper",
+    "adjectiveForm": "tamper-resistant",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, hardware, data protection",
+    "usageTip": "Use to describe security features that discourage modification.",
+    "commonMistake": "Calling something 'tamper-proof'; 'tamper-resistant' is more accurate because nothing is truly invincible.",
+    "collocations": [
+      "tamper resistant seal",
+      "tamper resistant storage"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unlimited",
+    "meaning": "Without any limit or restriction in amount or size",
+    "shortMeaning": "no limit",
+    "example": "This phone plan offers unlimited data for a monthly fee.",
+    "example2": "The software gives you unlimited access to all premium features.",
+    "example3": "We have an unlimited supply of paper in the storage room.",
+    "Explanation": "The word 'unlimited' is used to describe something that has no fixed boundary or end point. In the IT world, it is a very popular marketing term for internet plans, cloud storage, and hosting. However, in technical reality, 'unlimited' often has a 'Fair Usage Policy' (FUP) hidden in the fine print. It implies that the user doesn't need to worry about counting their usage. It is a powerful word to attract customers because it suggests freedom and value. Outside of tech, it is used for anything from 'unlimited refills' at a restaurant to 'unlimited potential' in a person.",
+    "synonyms": [
+      "boundless",
+      "infinite",
+      "unrestricted"
+    ],
+    "antonyms": [
+      "limited",
+      "restricted",
+      "finite"
+    ],
+    "nounForm": "limitlessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlimited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Marketing, subscriptions, and data plans",
+    "usageTip": "Use 'unlimited' to emphasize that a user won't be charged extra for more usage.",
+    "commonMistake": "Believing 'unlimited' always means infinite; usually, there is a physical or legal limit.",
+    "collocations": [
+      "unlimited data",
+      "unlimited access",
+      "unlimited potential"
+    ]
+  },
+  {
+    "word": "Unlimited",
+    "meaning": "Having no limits or restrictions",
+    "shortMeaning": "without limit",
+    "example": "The cloud plan offers unlimited storage for all users.",
+    "example2": "We have unlimited access to the database during testing.",
+    "example3": "The potential for growth in this project is unlimited.",
+    "Explanation": "Unlimited means that something can grow, expand, or be used without any caps or boundaries. In IT, it is often used in marketing for services like hosting, storage, or bandwidth. However, technically, nothing is truly unlimited due to hardware capacity. It is important to check the terms of service when a provider promises unlimited resources. The word is frequently used to describe flexible system capabilities.",
+    "synonyms": [
+      "boundless",
+      "infinite",
+      "unrestricted"
+    ],
+    "antonyms": [
+      "limited",
+      "restricted",
+      "finite"
+    ],
+    "nounForm": "limit",
+    "verbForm": "limit",
+    "adjectiveForm": "unlimited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud services, pricing plans, capacity",
+    "usageTip": "Use this to describe services that do not have set caps.",
+    "commonMistake": "Believing 'unlimited' literally means infinite in a physical system.",
+    "collocations": [
+      "unlimited storage",
+      "unlimited access",
+      "unlimited bandwidth"
+    ]
+  },
+  {
+    "word": "Unlimited",
+    "meaning": "Having no limits or restrictions.",
+    "shortMeaning": "no limits",
+    "example": "The cloud plan offers unlimited storage space.",
+    "example2": "Some services provide unlimited API requests for developers.",
+    "example3": "Avoid settings that allow for unlimited connection attempts.",
+    "Explanation": "The term 'unlimited' is used when there are no constraints on quantity or usage. In IT service packages, it's a common marketing term for bandwidth, storage, or processing power. However, true 'unlimited' is rare due to physical resource costs. Always check the fine print, as there are often 'fair use' policies that limit how much you can actually use. Be careful when configuring your own systems, as an unlimited setting can leave you open to resource exhaustion attacks.",
+    "synonyms": [
+      "infinite",
+      "unrestricted",
+      "boundless"
+    ],
+    "antonyms": [
+      "limited",
+      "restricted",
+      "finite"
+    ],
+    "nounForm": "unlimitedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unlimited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud services and resource planning",
+    "usageTip": "Use to describe freedom from constraints.",
+    "commonMistake": "Believing 'unlimited' really means no cost or infinite capacity.",
+    "collocations": [
+      "unlimited storage",
+      "unlimited bandwidth",
+      "unlimited access"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Secured",
+    "meaning": "Made safe or fastened",
+    "shortMeaning": "made safe",
+    "example": "The database was secured with a strong password.",
+    "example2": "We have secured the server against external threats.",
+    "example3": "The data transmission must be secured.",
+    "Explanation": "The word 'secured' is the past participle of 'secure' (the verb). It describes a state where an object, data, or system has undergone a process to become protected. If you have 'secured' your network, you have already taken the necessary steps (like installing firewalls and patching). It highlights the completion of the protection task. It is the common way to describe systems that are ready and safe after proper configuration.",
+    "synonyms": [
+      "protected",
+      "defended",
+      "fastened"
+    ],
+    "antonyms": [
+      "insecure",
+      "exposed",
+      "vulnerable"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secured",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Cyber security, system hardening",
+    "usageTip": "Use 'secured' for systems that have already been protected.",
+    "commonMistake": "Using 'secured' when you mean 'locked'; secured is broader (security).",
+    "collocations": [
+      "secured connection",
+      "secured server",
+      "properly secured"
+    ]
+  },
+  {
+    "word": "Secured",
+    "meaning": "Made safe or protected against risks",
+    "shortMeaning": "already protected",
+    "example": "The database has been secured against SQL injection.",
+    "example2": "Ensure all API endpoints are properly secured.",
+    "example3": "The network was secured by a new firewall configuration.",
+    "Explanation": "The word 'secured' describes the completed state of making a system, application, or piece of data safe. It implies that protective measures—such as encryption, access controls, or firewalls—have been successfully implemented. A system is not just 'secure'; it has been 'secured' through active effort. This distinction is important for reporting and audit documentation, where you need to track which tasks are done and which are still pending.",
+    "synonyms": [
+      "protected",
+      "shielded",
+      "guarded"
+    ],
+    "antonyms": [
+      "insecure",
+      "vulnerable",
+      "exposed"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secured",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, infrastructure, development",
+    "usageTip": "Use when reporting on completed security tasks.",
+    "commonMistake": "Using 'secured' for something that only has a basic password.",
+    "collocations": [
+      "properly secured",
+      "secured against",
+      "the network is secured"
+    ]
+  }
+]

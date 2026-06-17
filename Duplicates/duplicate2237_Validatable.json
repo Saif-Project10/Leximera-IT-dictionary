@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Validatable",
+    "meaning": "Capable of being confirmed as accurate or correct.",
+    "shortMeaning": "can be tested",
+    "example": "The data entry format is easily validatable.",
+    "example2": "All inputs must be validatable by the backend server.",
+    "example3": "A validatable process is essential for security.",
+    "Explanation": "Validatable describes something that has the properties necessary to undergo a validation check. If a system is validatable, it means there are clear rules and tools in place to verify its correctness. It is a desirable trait in software design, as it makes testing and debugging much easier. If something is not validatable, it cannot be reliably used in production environments. Designers should aim for all inputs and workflows to be validatable.",
+    "synonyms": [
+      "testable",
+      "verifiable",
+      "checkable"
+    ],
+    "antonyms": [
+      "unverifiable",
+      "untestable"
+    ],
+    "nounForm": "validation",
+    "verbForm": "validate",
+    "adjectiveForm": "validatable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software testing, security, data science",
+    "usageTip": "Use this to describe data that can be checked against rules.",
+    "commonMistake": "Thinking validatable means it is already valid.",
+    "collocations": [
+      "validatable input",
+      "validatable data",
+      "easily validatable"
+    ]
+  },
+  {
+    "word": "Validatable",
+    "meaning": "Capable of being proved correct or compliant with standards.",
+    "shortMeaning": "can be verified",
+    "example": "The security protocol must be validatable by third parties.",
+    "example2": "Design your code to be easily validatable.",
+    "example3": "The input must be validatable against our database rules.",
+    "Explanation": "Something that is 'validatable' has been designed in a way that its correctness can be checked or proven. This is very important in complex IT systems where debugging is hard. If a data process is validatable, you can run tests to verify every step. This term is often used in software architecture to describe 'testable' features. Building validatable systems helps ensure high quality and makes it easier to troubleshoot errors.",
+    "synonyms": [
+      "verifiable",
+      "testable",
+      "provable"
+    ],
+    "antonyms": [
+      "unverifiable",
+      "untestable",
+      "N/A"
+    ],
+    "nounForm": "validatability",
+    "verbForm": "validate",
+    "adjectiveForm": "validatable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software testing and quality assurance",
+    "usageTip": "Use 'validatable' to describe systems that are easy to test.",
+    "commonMistake": "Using 'validatable' when you mean 'correct'.",
+    "collocations": [
+      "easily validatable",
+      "validatable process",
+      "validatable data"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Widespread",
+    "meaning": "Found or distributed over a large area or number of people.",
+    "shortMeaning": "extensive, common",
+    "example": "There is widespread support for the new law.",
+    "example2": "The disease became widespread throughout the region.",
+    "example3": "Widespread flooding followed the hurricane.",
+    "Explanation": "'Widespread' is an adjective meaning existing or happening over a wide area or affecting many people. It is often used to describe phenomena like beliefs, problems, practices, or weather events. It emphasizes scale and prevalence. It is a single word, not hyphenated like 'wide-ranging'. It usually has a neutral or negative connotation (widespread poverty, widespread damage), but can be neutral (widespread use). It's a common word in news reports.",
+    "synonyms": [
+      "extensive",
+      "prevalent",
+      "general"
+    ],
+    "antonyms": [
+      "localized",
+      "limited",
+      "uncommon"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "widespread",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social issues, disease, opinion, natural disasters",
+    "usageTip": "Use 'widespread' to emphasize how common or far-reaching something is.",
+    "commonMistake": "Spelling it as two words ('wide spread') when used as an adjective.",
+    "collocations": [
+      "widespread acceptance",
+      "widespread panic",
+      "widespread belief"
+    ]
+  },
+  {
+    "word": "Widespread",
+    "meaning": "Found or distributed over a large area or among many people",
+    "shortMeaning": "very common",
+    "example": "The bug caused widespread issues across all client devices.",
+    "example2": "Cloud computing now sees widespread adoption in the industry.",
+    "example3": "Widespread downtime was avoided by using backup servers.",
+    "Explanation": "Widespread describes something that is happening in many places at the same time or affecting a large number of systems or people. In IT, this usually refers to the adoption of a technology or the impact of a system error. Widespread outages are a top concern for engineers because they affect many users simultaneously. Widespread adoption is a sign of a successful, standard tool that many companies rely on.",
+    "synonyms": [
+      "common",
+      "extensive",
+      "pervasive"
+    ],
+    "antonyms": [
+      "isolated",
+      "limited",
+      "rare"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "widespread",
+    "partOfSpeech": "adjective",
+    "commonContext": "System failure, industry adoption",
+    "usageTip": "Use this for problems or technologies that affect everyone.",
+    "commonMistake": "Ignoring isolated errors that could become widespread.",
+    "collocations": [
+      "widespread adoption",
+      "widespread issue",
+      "widespread impact"
+    ]
+  },
+  {
+    "word": "Widespread",
+    "meaning": "Found or distributed over a large area or many people",
+    "shortMeaning": "common",
+    "example": "There is a widespread issue with the latest update.",
+    "example2": "Cloud computing has seen widespread adoption.",
+    "example3": "The vulnerability caused widespread panic among users.",
+    "Explanation": "The word 'widespread' is used to describe something that occurs in many places or affects many people simultaneously. In IT, it often refers to common software bugs, the popularity of a specific programming language, or the reach of a security threat. It implies that the impact is not isolated but is a common occurrence. It is a powerful word to use when communicating the severity or prevalence of a technical problem to stakeholders or the public.",
+    "synonyms": [
+      "common",
+      "prevalent",
+      "extensive"
+    ],
+    "antonyms": [
+      "isolated",
+      "rare",
+      "localized"
+    ],
+    "nounForm": "spread",
+    "verbForm": "spread",
+    "adjectiveForm": "widespread",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software adoption, bug tracking, threat intelligence",
+    "usageTip": "Use it to describe problems or trends affecting many users.",
+    "commonMistake": "Using it for a problem that is actually restricted to one location.",
+    "collocations": [
+      "widespread adoption",
+      "widespread issue",
+      "widespread support"
+    ]
+  }
+]

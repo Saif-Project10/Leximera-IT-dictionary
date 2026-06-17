@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Segmented",
+    "meaning": "Divided into distinct parts or groups",
+    "shortMeaning": "divided",
+    "example": "The network is segmented for better security.",
+    "example2": "We use segmented data for targeted marketing.",
+    "example3": "The hard drive is segmented into partitions.",
+    "Explanation": "The word 'segmented' means that something larger has been divided into smaller, independent units. 'Network segmentation' is a critical security practice where a network is split into smaller subnetworks to limit the impact of a breach. Segmenting data allows for better performance and organization. The verb is 'segment'. It is a core concept in system design, storage management, and networking where isolation and organization are required.",
+    "synonyms": [
+      "partitioned",
+      "divided",
+      "separated"
+    ],
+    "antonyms": [
+      "integrated",
+      "unified",
+      "whole"
+    ],
+    "nounForm": "segmentation",
+    "verbForm": "segment",
+    "adjectiveForm": "segmented",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, security, data management",
+    "usageTip": "Use 'segmented' for things split into separate groups.",
+    "commonMistake": "Confusing 'segmented' with 'broken'; segmentation is usually intentional and logical.",
+    "collocations": [
+      "segmented network",
+      "segmented data",
+      "network segmentation"
+    ]
+  },
+  {
+    "word": "Segmented",
+    "meaning": "Divided into smaller, separated parts",
+    "shortMeaning": "divided into segments",
+    "example": "The network is segmented to prevent unauthorized access.",
+    "example2": "We segmented the customer database for targeted marketing.",
+    "example3": "Segmented logs make it easier to isolate problems.",
+    "Explanation": "When you 'segment' something, you divide it into distinct, isolated sections. In networking, this is a vital security practice called network segmentation, which keeps different types of traffic apart. In data management, segmenting data makes it easier to analyze, process, or back up. It is a core strategy for increasing system stability, performance, and security. By isolating components, you ensure that errors or threats do not spread across your entire infrastructure.",
+    "synonyms": [
+      "partitioned",
+      "divided",
+      "isolated"
+    ],
+    "antonyms": [
+      "integrated",
+      "monolithic",
+      "combined"
+    ],
+    "nounForm": "segment",
+    "verbForm": "segment",
+    "adjectiveForm": "segmented",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, databases, marketing",
+    "usageTip": "Use when you need to partition systems.",
+    "commonMistake": "Segmenting without a clear policy can increase complexity.",
+    "collocations": [
+      "network segmented",
+      "segmented data",
+      "well segmented"
+    ]
+  }
+]

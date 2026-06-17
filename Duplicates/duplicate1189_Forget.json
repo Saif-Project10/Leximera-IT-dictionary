@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Forget",
+    "meaning": "To fail to remember; to unintentionally not think of someone or something",
+    "shortMeaning": "fail to remember",
+    "example": "I always forget my password.",
+    "example2": "Don't forget to call your mother.",
+    "example3": "Let's forget our differences and start fresh.",
+    "Explanation": "'Forget' is an extremely common verb (irregular: forget, forgot, forgotten). It means to be unable to recall information or an intention. It can be accidental (forgetting a name) or deliberate (choosing to forget a bad memory). The noun is 'forgetfulness'. Forgetting is a normal human memory process. The word is used in countless everyday situations, from simple reminders to profound emotional statements. Phrases like 'forget about it' are idiomatic. It's the opposite of 'remember'.",
+    "synonyms": [
+      "neglect",
+      "overlook",
+      "disregard",
+      "fail to remember"
+    ],
+    "antonyms": [
+      "remember",
+      "recall",
+      "recollect"
+    ],
+    "nounForm": "forgetfulness",
+    "verbForm": "forget",
+    "adjectiveForm": "forgetful",
+    "partOfSpeech": "verb",
+    "commonContext": "Memory, reminders, past events, tasks",
+    "usageTip": "Use 'forget to do' something (the action hasn't happened). Use 'forget doing' something (the action happened, but you don't remember it).",
+    "commonMistake": "Using 'forgot' as the past participle (e.g., 'I have forgot'). The correct past participle is 'forgotten'.",
+    "collocations": [
+      "forget about",
+      "forget to do",
+      "never forget"
+    ]
+  },
+  {
+    "word": "Forget",
+    "meaning": "To fail to remember something or to stop thinking about it",
+    "shortMeaning": "fail to remember",
+    "example": "Do not forget to save your code before you shut down.",
+    "example2": "I always forget my password if I don't write it down.",
+    "example3": "The system will forget your login details after 30 minutes.",
+    "Explanation": "Forget describes the loss of information from memory. In humans, it's a common mistake. In IT, a system might be programmed to 'forget' data for privacy or security reasons (like clearing cookies or session data). The 'Forget Me' right under GDPR laws allows users to ask companies to delete their data. It is a simple word but carries a lot of weight in data privacy discussions.",
+    "synonyms": [
+      "overlook",
+      "omit",
+      "unlearn"
+    ],
+    "antonyms": [
+      "remember",
+      "recall",
+      "retain"
+    ],
+    "nounForm": "forgetfulness",
+    "verbForm": "forget",
+    "adjectiveForm": "forgotten",
+    "partOfSpeech": "verb",
+    "commonContext": "Daily life and data privacy",
+    "usageTip": "Use 'forget' in tech when referring to systems clearing temporary user data.",
+    "commonMistake": "Saying 'the computer forgot' when you actually mean 'the data was deleted'.",
+    "collocations": [
+      "forget password",
+      "forget to save",
+      "right to be forgotten"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Proximate",
+    "meaning": "Very close in space, time, or relationship; directly relevant",
+    "shortMeaning": "very close, immediate",
+    "example": "The proximate cause of the fire was a faulty wire.",
+    "example2": "We live in proximate neighborhoods.",
+    "example3": "The report listed both proximate and underlying factors.",
+    "Explanation": "'Proximate' is a formal adjective meaning nearest or next in a chain of events, in space, or in connection. In law and philosophy, 'proximate cause' is the direct, immediate cause of an event, as opposed to remote or underlying causes. It is more precise than 'close'. It suggests a direct link or adjacency. It is not commonly used in everyday casual conversation but is important in technical, legal, and academic writing for pinpointing relationships.",
+    "synonyms": [
+      "immediate",
+      "direct",
+      "nearest"
+    ],
+    "antonyms": [
+      "distant",
+      "remote",
+      "ultimate"
+    ],
+    "nounForm": "proximity",
+    "verbForm": "N/A",
+    "adjectiveForm": "proximate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, philosophy, science, formal analysis",
+    "usageTip": "Often used in the phrase 'proximate cause' in legal and analytical contexts.",
+    "commonMistake": "Confusing it with 'approximate', which means 'roughly' or 'close to' in amount.",
+    "collocations": [
+      "proximate analysis",
+      "proximate location",
+      "proximate source"
+    ]
+  },
+  {
+    "word": "Proximate",
+    "meaning": "Closest in relationship or time",
+    "shortMeaning": "nearest",
+    "example": "The proximate cause of the system crash was a memory leak.",
+    "example2": "The proximate goal is to get the login page working.",
+    "example3": "We identified the proximate error in the database query.",
+    "Explanation": "The word 'proximate' describes something that is the nearest or closest in terms of sequence, time, or cause. In IT, 'proximate cause' is often used in root-cause analysis (post-mortems) to identify the immediate event that triggered a failure, even if the deeper, structural problem is more complex. It is a very precise term for incident reporting and logical reasoning. Use it when you want to distinguish between the immediate trigger and the underlying, long-term issues.",
+    "synonyms": [
+      "immediate",
+      "nearest",
+      "direct"
+    ],
+    "antonyms": [
+      "remote",
+      "distant",
+      "underlying"
+    ],
+    "nounForm": "proximity",
+    "verbForm": "N/A",
+    "adjectiveForm": "proximate",
+    "partOfSpeech": "adjective",
+    "commonContext": "Incident reporting, logic",
+    "usageTip": "Use 'proximate' to point to the immediate trigger of a problem.",
+    "commonMistake": "Confusing 'proximate' (immediate) with 'underlying' (root cause).",
+    "collocations": [
+      "proximate cause",
+      "proximate goal"
+    ]
+  }
+]

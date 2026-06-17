@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Shy",
+    "meaning": "Being nervous or timid in the company of other people; less than; to move suddenly due to fear.",
+    "shortMeaning": "timid; less than; startle",
+    "example": "She was too shy to speak in front of the class.",
+    "example2": "We are shy of our fundraising goal by $500.",
+    "example3": "The horse shied at the sudden noise.",
+    "Explanation": "'Shy' is primarily an adjective describing a personality trait of being reserved, bashful, or easily frightened in social situations. It can also be a verb (shy away from) meaning to avoid due to nervousness. In a different sense, it can be an adjective meaning 'short of' or 'lacking' (usually followed by 'of'). Additionally, as a verb, it describes a horse's sudden jump of fear. The most common meaning is the personality trait. The noun is 'shyness'. It's a common word for describing introverted or nervous behavior.",
+    "synonyms": [
+      "timid",
+      "bashful",
+      "reserved",
+      "diffident"
+    ],
+    "antonyms": [
+      "bold",
+      "confident",
+      "outgoing",
+      "extroverted"
+    ],
+    "nounForm": "shyness",
+    "verbForm": "shy (as in shy away)",
+    "adjectiveForm": "shy",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Personality, social situations, finance (informal), animal behavior",
+    "usageTip": "The phrase 'shy away from' means to avoid something difficult or unpleasant.",
+    "commonMistake": "Using 'shy' to mean 'scared' in all contexts; it specifically relates to social timidity or a startle reaction.",
+    "collocations": [
+      "camera-shy",
+      "shy person",
+      "shy away from",
+      "work-shy"
+    ]
+  },
+  {
+    "word": "Shy",
+    "meaning": "Lacking in a certain quantity or hesitant.",
+    "shortMeaning": "lacking or hesitant",
+    "example": "The disk space is a few gigabytes shy of the requirement.",
+    "example2": "He was shy about presenting his code to the team.",
+    "example3": "The project is a week shy of the final deadline.",
+    "Explanation": "In tech, 'shy' has two common meanings: one is lacking a specific amount (e.g., 'a few MB shy of the limit'), and the other describes a person who is hesitant or quiet. When discussing hardware or specs, 'shy' clearly means 'less than required'. When talking about team members, it describes personality. Be clear about the context so the meaning is not ambiguous. It is generally used in informal professional settings.",
+    "synonyms": [
+      "lacking",
+      "short of",
+      "hesitant"
+    ],
+    "antonyms": [
+      "exceeding",
+      "sufficient",
+      "confident"
+    ],
+    "nounForm": "shyness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Measurements, requirements, team dynamics",
+    "usageTip": "Use 'shy of' when discussing quantities that are below a target.",
+    "commonMistake": "Using 'shy' for large deficiencies (it implies a small amount).",
+    "collocations": [
+      "shy of the target",
+      "shy of requirements",
+      "a few megabytes shy"
+    ]
+  },
+  {
+    "word": "Shy",
+    "meaning": "Lacking sufficient amount or quantity",
+    "shortMeaning": "lacking",
+    "example": "We are a few gigabytes shy of the target storage.",
+    "example2": "The performance is a bit shy of our requirements.",
+    "example3": "The project is two developers shy of completion.",
+    "Explanation": "The word 'shy' means being slightly less than what is needed or expected. In IT, it is used to describe resource shortages, such as being 'a few MB shy' of storage. It is a common, slightly informal way to report that a target has not quite been reached. It implies that only a small amount is missing, which can usually be fixed to meet the final goal.",
+    "synonyms": [
+      "short",
+      "lacking",
+      "insufficient"
+    ],
+    "antonyms": [
+      "enough",
+      "sufficient",
+      "excess"
+    ],
+    "nounForm": "shyness",
+    "verbForm": "N/A",
+    "adjectiveForm": "shy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Storage, performance, staffing",
+    "usageTip": "Use 'shy' when you are almost, but not quite, at a goal.",
+    "commonMistake": "Confusing 'shy' (lacking) with 'shy' (timid person).",
+    "collocations": [
+      "a few shy",
+      "shy of target",
+      "performance shy"
+    ]
+  }
+]

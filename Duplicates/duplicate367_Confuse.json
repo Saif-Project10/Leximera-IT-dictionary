@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Confuse",
+    "meaning": "To make someone unable to think clearly or understand something.",
+    "shortMeaning": "bewilder, mix up",
+    "example": "The complicated instructions confused me.",
+    "example2": "Don't confuse the twins—they look very similar.",
+    "example3": "His sudden change of plan confused everyone.",
+    "Explanation": "The verb 'confuse' means to cause someone to become uncertain or to mistake one thing for another. It is a common word in learning and communication. The noun is 'confusion'. It can be accidental (a confusing map) or intentional (trying to confuse an opponent). A common mistake is confusing it with 'confute', which means to prove wrong. 'Confuse' is about creating mental disorder or misunderstanding. It's important in teaching to avoid confusing students. The adjective 'confused' describes the state of the person, while 'confusing' describes the thing causing it.",
+    "synonyms": [
+      "bewilder",
+      "perplex",
+      "mix up"
+    ],
+    "antonyms": [
+      "clarify",
+      "enlighten",
+      "explain"
+    ],
+    "nounForm": "confusion",
+    "verbForm": "confuse",
+    "adjectiveForm": "confused / confusing",
+    "partOfSpeech": "verb",
+    "commonContext": "Learning, instructions, identity, situations",
+    "usageTip": "Use 'confuse A with B' to mean mistake one for the other: 'People often confuse my sister with me.'",
+    "commonMistake": "Saying 'I am confusing' when you mean 'I am confused'. 'I am confusing' means you cause confusion in others.",
+    "collocations": [
+      "confuse the issue",
+      "easily confused",
+      "confuse with"
+    ]
+  },
+  {
+    "word": "Confuse",
+    "meaning": "To make someone unable to think clearly or understand something",
+    "shortMeaning": "mix up",
+    "example": "The messy code will confuse the next programmer.",
+    "example2": "Don't confuse the username with the email address.",
+    "example3": "The interface is so busy that it might confuse the user.",
+    "Explanation": "Confusion happens when information is not clear, or when two different things look very similar. In UI/UX design, a major goal is to avoid confusing the user by making the interface simple and logical. For programmers, using bad variable names can confuse teammates who read the code later. It is a very common word used to describe mistakes or lack of clarity. Keeping things simple and organized is the best way to prevent someone from becoming confused.",
+    "synonyms": [
+      "mix up",
+      "disorient",
+      "muddle"
+    ],
+    "antonyms": [
+      "clarify",
+      "simplify",
+      "order"
+    ],
+    "nounForm": "confusion",
+    "verbForm": "confuse",
+    "adjectiveForm": "confusing",
+    "partOfSpeech": "verb",
+    "commonContext": "User interfaces, code readability, instructions",
+    "usageTip": "Use 'confuse' when two things are being mistaken for each other.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "easily confuse",
+      "confuse the issue",
+      "confuse A with B"
+    ]
+  }
+]

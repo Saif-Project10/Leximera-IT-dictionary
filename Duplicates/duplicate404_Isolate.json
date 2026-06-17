@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Isolate",
+    "meaning": "To place or set apart from others; to identify something as separate. | To cause to be alone or apart from others.",
+    "shortMeaning": "set apart",
+    "example": "Patients with the infectious disease were isolated.",
+    "example2": "The scientist managed to isolate the gene responsible for the trait.",
+    "example3": "Feeling isolated in a new city is common.",
+    "Explanation": "The verb 'isolate' means to cause something to be alone or detached from its surroundings. This can be physical (isolating a virus in a lab), social (isolating a prisoner), or emotional (feeling isolated). In chemistry, it means to obtain a pure substance from a mixture. The noun form is 'isolation'. It can be a neutral scientific action, a protective measure (quarantine), or a negative state of loneliness. The adjective is 'isolated'. Context determines whether isolation is chosen or imposed.",
+    "synonyms": [
+      "Detach",
+      "Insulate",
+      "Quarantine",
+      "Segregate",
+      "Separate"
+    ],
+    "antonyms": [
+      "Combine",
+      "Connect",
+      "Include",
+      "Integrate",
+      "Unite"
+    ],
+    "nounForm": "isolation",
+    "verbForm": "isolate",
+    "adjectiveForm": "isolated",
+    "partOfSpeech": "verb",
+    "commonContext": "Medicine, science, psychology, geography",
+    "usageTip": "In health contexts, 'isolate' is for separating sick people; 'quarantine' can be for exposed people who may not be sick.",
+    "commonMistake": "Using 'insulate' (to protect from heat, cold, or sound) when you mean 'isolate' (to separate).",
+    "collocations": [
+      "isolate from",
+      "feel isolated",
+      "isolate the cause",
+      "in isolation"
+    ]
+  },
+  {
+    "word": "Isolate",
+    "meaning": "To separate something from others so that it is alone",
+    "shortMeaning": "separate",
+    "example": "We need to isolate the bug to see which line of code is causing it.",
+    "example2": "The technician will isolate the faulty server from the network.",
+    "example3": "In a laboratory, scientists isolate specific chemicals for testing.",
+    "Explanation": "Isolate means to pull something out of a group to prevent it from affecting others or to study it better. In IT, this is a very common term. We isolate networks for security (so hackers can't move between them), and we isolate bugs to fix them. It is a critical step in troubleshooting and cybersecurity. It involves creating a boundary between the 'isolated' item and everything else.",
+    "synonyms": [
+      "separate",
+      "detach",
+      "segregate"
+    ],
+    "antonyms": [
+      "combine",
+      "unite",
+      "integrate"
+    ],
+    "nounForm": "isolation",
+    "verbForm": "isolate",
+    "adjectiveForm": "isolated",
+    "partOfSpeech": "verb",
+    "commonContext": "Cybersecurity, debugging, science, medicine",
+    "usageTip": "Use 'isolate' when you are removing something from a group to keep things safe or to study it.",
+    "commonMistake": "Confusing 'isolate' with 'insulate' (which means to protect from heat or sound).",
+    "collocations": [
+      "isolate a problem",
+      "network isolation",
+      "isolate a variable"
+    ]
+  }
+]

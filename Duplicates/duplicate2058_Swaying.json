@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Swaying",
+    "meaning": "Moving slowly back and forth or from side to side",
+    "shortMeaning": "swinging gently",
+    "example": "The tall tower was swaying in the high wind.",
+    "example2": "The cursor was swaying across the screen due to a mouse issue.",
+    "example3": "He noticed the trees were swaying during the storm.",
+    "Explanation": "The word 'swaying' describes a rhythmic, back-and-forth movement. In a physical sense, it is common to see structures like antennas or trees swaying under force. In a technical or figurative sense, it might describe something unstable or moving in a way that is not fixed. While not a primary technical term, it is used to describe motion in physics simulations or hardware stability problems. Ensure the context is clear so it isn't confused with intentional animation.",
+    "synonyms": [
+      "swinging",
+      "oscillating",
+      "rocking"
+    ],
+    "antonyms": [
+      "steady",
+      "fixed",
+      "rigid"
+    ],
+    "nounForm": "sway",
+    "verbForm": "sway",
+    "adjectiveForm": "swaying",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Physics, hardware stability, motion",
+    "usageTip": "Use to describe unsteady back-and-forth motion.",
+    "commonMistake": "Confusing it with 'vibrating', which is much faster.",
+    "collocations": [
+      "swaying motion",
+      "swaying tree",
+      "swaying structure"
+    ]
+  },
+  {
+    "word": "Swaying",
+    "meaning": "Moving slowly back and forth or from side to side",
+    "shortMeaning": "moving side to side",
+    "example": "The tower was swaying in the high wind.",
+    "example2": "He was swaying while trying to balance the server rack.",
+    "example3": "The data charts showed the swaying trend of the market.",
+    "Explanation": "While 'swaying' primarily describes physical motion, in IT, it can be used figuratively to describe unstable metrics, fluctuations in performance, or a lack of stability in a system. It implies a lack of solid footing or continuous, rhythmic change. While less technical than other terms, it is descriptive when discussing hardware vibration or unstable data trends. Always check if a more technical word like 'fluctuating' or 'vibrating' fits the technical context better.",
+    "synonyms": [
+      "oscillating",
+      "vibrating",
+      "fluctuating"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "fixed"
+    ],
+    "nounForm": "sway",
+    "verbForm": "sway",
+    "adjectiveForm": "swaying",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Physical stability, data trends (metaphorical)",
+    "usageTip": "Use to describe physical motion or instability.",
+    "commonMistake": "Using it for digital data changes when 'fluctuating' is better.",
+    "collocations": [
+      "swaying motion",
+      "server swaying",
+      "swaying trends"
+    ]
+  }
+]

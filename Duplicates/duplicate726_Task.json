@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Task",
+    "meaning": "A piece of work to be done, especially one that is difficult or unpleasant.",
+    "shortMeaning": "piece of work",
+    "example": "My main task today is to write the report.",
+    "example2": "Completing the project on time was a daunting task.",
+    "example3": "The computer can handle multiple tasks at once.",
+    "Explanation": "A task is a specific unit of work, often with a clear goal. It can be small (a chore) or large (a mission). The word often implies something that requires effort, responsibility, or skill. In computing, a 'task' is a program in execution. The verb 'to task' means to assign a piece of work. Tasks are the building blocks of projects and daily to-do lists. Managing tasks effectively is key to productivity. The word is neutral but can have a negative connotation if the work is seen as burdensome.",
+    "synonyms": [
+      "job",
+      "duty",
+      "assignment",
+      "chore",
+      "mission"
+    ],
+    "antonyms": [
+      "leisure",
+      "hobby",
+      "pastime"
+    ],
+    "nounForm": "task",
+    "verbForm": "task",
+    "adjectiveForm": "tasking",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Work, projects, computing, household chores",
+    "usageTip": "Often used with verbs like 'complete', 'perform', 'assign', or 'carry out'.",
+    "commonMistake": "Confusing 'task' with 'test'. A task is work to be done; a test is an assessment of ability or knowledge.",
+    "collocations": [
+      "difficult task",
+      "task force",
+      "task manager",
+      "daily tasks"
+    ]
+  },
+  {
+    "word": "Task",
+    "meaning": "A single piece of work, job, process, or computational instruction that needs to be completed",
+    "shortMeaning": "piece of work",
+    "example": "The operating system assigns a specific ID to every running task in memory.",
+    "example2": "Your first task as a web developer is to fix the navigation alignment bug.",
+    "example3": "The automated backup task runs successfully every night at midnight.",
+    "Explanation": "The word 'task' is fundamental in both project management and computer operating systems. In agile software tracking tools like Jira or Trello, a task represents a discrete unit of work assigned to a developer. In computer science, a task is a running thread or process handled by the CPU scheduler. Asynchronous programming languages like JavaScript and C# use task concepts to run non-blocking actions in the background. Breaking massive features down into individual tasks makes development manageable.",
+    "synonyms": [
+      "job",
+      "process",
+      "assignment",
+      "operation"
+    ],
+    "antonyms": [
+      "idleness",
+      "leisure"
+    ],
+    "nounForm": "task",
+    "verbForm": "task",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Task managers, CPU scheduling, project task boards",
+    "usageTip": "Use 'task' to describe both a human assignment on a team and an automated background process in code.",
+    "commonMistake": "Confusing a 'task' with a 'project'; a project is a large collection of many individual tasks.",
+    "collocations": [
+      "background task",
+      "task manager",
+      "assign a task"
+    ]
+  }
+]

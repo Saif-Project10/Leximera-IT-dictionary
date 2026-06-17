@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Cellular",
+    "meaning": "Relating to or consisting of biological cells; relating to a mobile phone network.",
+    "shortMeaning": "related to cells; mobile phone",
+    "example": "Cellular biology studies the structure and function of cells.",
+    "example2": "The phone has poor cellular reception in this area.",
+    "example3": "Cellular respiration is a key process in living organisms.",
+    "Explanation": "'Cellular' is an adjective with two distinct modern meanings. First, in biology, it pertains to cells, the basic units of life. Second, in technology, it refers to systems that divide a geographic area into 'cells' served by transmitters, specifically mobile phone networks ('cellular data', 'cellular network'). The word derives from 'cell'. It's a precise technical term that is also part of everyday vocabulary due to the prevalence of mobile phones.",
+    "synonyms": [
+      "cell-based",
+      "mobile",
+      "wireless"
+    ],
+    "antonyms": [
+      "wired",
+      "landline",
+      "non-cellular"
+    ],
+    "nounForm": "cell",
+    "verbForm": "N/A",
+    "adjectiveForm": "cellular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Biology, mobile telecommunications, medicine",
+    "usageTip": "In a tech context, 'cellular' almost always means relating to mobile phone networks, not Wi-Fi.",
+    "commonMistake": "Using 'cellular' to mean just 'portable' or 'cordless'; it specifically refers to the network technology.",
+    "collocations": [
+      "cellular network",
+      "cellular phone",
+      "cellular structure"
+    ]
+  },
+  {
+    "word": "Cellular",
+    "meaning": "Relating to wireless mobile communication networks, or structured like small compartments",
+    "shortMeaning": "wireless or grid-like",
+    "example": "The smart device switches to a cellular network when Wi-Fi is unavailable.",
+    "example2": "IoT sensors use cellular data modules to transmit data from remote outdoor locations.",
+    "example3": "The database uses a cellular-style architecture to split up massive data sets.",
+    "Explanation": "The word 'Cellular' has a massive presence in technology, usually referring to mobile phone networks built using overlapping areas called 'cells'. It can also describe any layout that is split into small, independent blocks or grid units. It functions as an adjective. Understanding cellular technology is key for developers building mobile apps or IoT tracking gadgets that work outside standard office buildings. It is a highly common word in modern communications engineering. Do not confuse its wireless network meaning with its biological meaning unless working in medical computing.",
+    "synonyms": [
+      "mobile",
+      "wireless",
+      "segmented"
+    ],
+    "antonyms": [
+      "wired",
+      "broadband",
+      "N/A"
+    ],
+    "nounForm": "cell",
+    "verbForm": "N/A",
+    "adjectiveForm": "cellular",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile networks, IoT device setups, hardware architecture",
+    "usageTip": "Use 'cellular' when describing phone network connections like LTE, 4G, or 5G.",
+    "commonMistake": "Assuming 'cellular' always refers to human biology when reading a general networking manual.",
+    "collocations": [
+      "cellular network",
+      "cellular data",
+      "cellular modem"
+    ]
+  }
+]

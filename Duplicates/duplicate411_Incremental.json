@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Incremental",
+    "meaning": "Relating to or denoting an increase or addition, especially one of a series on a fixed scale. | Relating to or denoting an increase or addition, especially one of a series on a fixed scale",
+    "shortMeaning": "in small steps",
+    "example": "The software team makes incremental improvements with each weekly release.",
+    "example2": "She paid off her debt in incremental monthly payments.",
+    "example3": "The learning process is incremental; you build knowledge step by step.",
+    "Explanation": "Incremental describes progress made through a series of small, regular additions or improvements. It's the opposite of a radical, one-time overhaul. This approach is low-risk, manageable, and allows for continuous feedback. In software, 'incremental development' is a core Agile principle. In finance, it refers to additional costs or benefits. The word emphasizes gradualism and compounding small gains into significant results over time. It's a positive, pragmatic concept in project management, learning, and personal development. The noun is 'increment'.",
+    "synonyms": [
+      "Cumulative",
+      "Gradual",
+      "Piecemeal",
+      "Progressive",
+      "Step-By-Step"
+    ],
+    "antonyms": [
+      "All-At-Once",
+      "Comprehensive",
+      "Drastic",
+      "Radical",
+      "Revolutionary",
+      "Sudden",
+      "Wholesale"
+    ],
+    "nounForm": "increment",
+    "verbForm": "increment",
+    "adjectiveForm": "incremental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, business strategy, learning, finance",
+    "usageTip": "Often used with 'improvements', 'changes', 'progress', or 'steps'.",
+    "commonMistake": "Thinking 'incremental' means 'insignificant'; small steps can lead to major outcomes.",
+    "collocations": [
+      "incremental improvement",
+      "incremental approach",
+      "incremental cost"
+    ]
+  },
+  {
+    "word": "Incremental",
+    "meaning": "Increasing or adding by small amounts",
+    "shortMeaning": "step-by-step",
+    "example": "We are making incremental improvements to the system's speed.",
+    "breadcrumb": "The update was released in incremental stages.",
+    "example3": "Incremental backups save data changed since the last backup.",
+    "Explanation": "The word 'incremental' is a fundamental concept in software development. An 'incremental' approach means breaking a large task into small, manageable steps. This is the basis of Agile and Scrum methodologies. It is much safer and more reliable than trying to do everything at once. 'Incremental changes' allow you to test and fix small parts before moving on.",
+    "synonyms": [
+      "gradual",
+      "step-by-step",
+      "progressive"
+    ],
+    "antonyms": [
+      "total",
+      "sudden",
+      "drastic"
+    ],
+    "nounForm": "increment",
+    "verbForm": "increment",
+    "adjectiveForm": "incremental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Agile, development methodology, backups",
+    "usageTip": "Use 'incremental' for processes that happen in small steps.",
+    "commonMistake": "Confusing 'incremental' (step-by-step) with 'drastic' (all at once).",
+    "collocations": [
+      "incremental improvement",
+      "incremental change",
+      "incremental backup"
+    ]
+  }
+]

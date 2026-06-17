@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Well-suited",
+    "meaning": "Appropriate or fitting for a particular purpose, person, or situation",
+    "shortMeaning": "appropriate or fitting",
+    "example": "Her calm personality is well-suited for teaching young children.",
+    "example2": "This tool is well-suited to delicate work.",
+    "example3": "They are well-suited to each other as business partners.",
+    "Explanation": "'Well-suited' describes a good match between two things. It suggests compatibility and appropriateness. The hyphen is important when it comes before a noun (a well-suited candidate) but may be omitted when it follows a verb (The candidate is well suited). This term is useful when discussing whether skills match jobs, tools match tasks, or people match roles or each other. It implies not just adequacy but an especially good fit that leads to effectiveness or harmony.",
+    "synonyms": [
+      "appropriate",
+      "fitting",
+      "suitable",
+      "matched",
+      "compatible"
+    ],
+    "antonyms": [
+      "ill-suited",
+      "inappropriate",
+      "unsuitable",
+      "mismatched"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "suit",
+    "adjectiveForm": "well-suited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Job applications, tool selection, partnerships, character analysis",
+    "usageTip": "Often followed by 'for' (well-suited for the job) or 'to' (well-suited to the task).",
+    "commonMistake": "Forgetting the hyphen when it comes before a noun (a well suited candidate → incorrect).",
+    "collocations": [
+      "well-suited for",
+      "well-suited to",
+      "particularly well-suited",
+      "ideally well-suited"
+    ]
+  },
+  {
+    "word": "Well-suited",
+    "meaning": "Highly appropriate or ideal for a specific purpose",
+    "shortMeaning": "ideal fit",
+    "example": "Python is well-suited for data analysis tasks.",
+    "example2": "This hardware is well-suited for heavy rendering jobs.",
+    "example3": "The language was well-suited to our performance requirements.",
+    "Explanation": "Well-suited means something is a very good fit or has the right characteristics for a certain task. When evaluating tools or programming languages, engineers look for ones that are well-suited to the project's goals. If something is not well-suited, it will make the work harder, slower, or less effective. Choosing a well-suited tool is a fundamental part of good technical strategy and efficient development.",
+    "synonyms": [
+      "appropriate",
+      "ideal",
+      "fitting"
+    ],
+    "antonyms": [
+      "unsuitable",
+      "inappropriate",
+      "ill-suited"
+    ],
+    "nounForm": "suitability",
+    "verbForm": "suit",
+    "adjectiveForm": "well-suited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decision making, technical evaluation",
+    "usageTip": "Use this to recommend tools that fit the needs well.",
+    "commonMistake": "Picking a tool just because it's well-known, even if it is not well-suited.",
+    "collocations": [
+      "well-suited for",
+      "well-suited to",
+      "perfectly well-suited"
+    ]
+  }
+]

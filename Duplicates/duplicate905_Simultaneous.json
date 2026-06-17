@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Simultaneous",
+    "meaning": "Happening or done at the same time",
+    "shortMeaning": "at the same time",
+    "example": "There was a simultaneous translation in three languages.",
+    "example2": "The two explosions were nearly simultaneous.",
+    "example3": "They made simultaneous discoveries on different continents.",
+    "Explanation": "'Simultaneous' is an adjective describing events occurring together in time. It's a formal word used in technology (simultaneous downloads), events (simultaneous interpretation), and science. The adverb is 'simultaneously'. It emphasizes precise coordination or coincidence in timing. It's different from 'concurrent', which can mean overlapping in time but not necessarily starting and ending at the same exact moment. It's a key concept in describing synchronized actions.",
+    "synonyms": [
+      "concurrent",
+      "coinciding",
+      "synchronous"
+    ],
+    "antonyms": [
+      "sequential",
+      "separate",
+      "staggered"
+    ],
+    "nounForm": "simultaneity",
+    "verbForm": "N/A",
+    "adjectiveForm": "simultaneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Translations, broadcasts, scientific experiments, attacks",
+    "usageTip": "Often used with 'with' (simultaneous with another event).",
+    "commonMistake": "Misspelling it, e.g., 'simultanious' or 'simultaneus'.",
+    "collocations": [
+      "simultaneous equations",
+      "simultaneous release",
+      "almost simultaneous"
+    ]
+  },
+  {
+    "word": "Simultaneous",
+    "meaning": "Happening or occurring at the same time.",
+    "shortMeaning": "at the same time",
+    "example": "The server can handle thousands of simultaneous connections.",
+    "example2": "We observed simultaneous updates across all modules.",
+    "example3": "Simultaneous execution of threads requires careful management.",
+    "Explanation": "The word 'simultaneous' signifies that events occur at the exact same moment. In computing, managing simultaneous operations is a key aspect of multi-threading, parallel processing, and distributed systems. It requires mechanisms like locks or semaphores to prevent conflicts. It is crucial for high-performance computing where processing multiple inputs or tasks concurrently is needed.",
+    "synonyms": [
+      "concurrent",
+      "synchronous",
+      "coincident"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "sequential",
+      "separate"
+    ],
+    "nounForm": "simultaneity",
+    "verbForm": "N/A",
+    "adjectiveForm": "simultaneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Multi-threading and system performance",
+    "usageTip": "Use 'simultaneous' when talking about overlapping operations.",
+    "commonMistake": "Confusing 'simultaneous' (exact same time) with 'concurrent' (overlapping but potentially sequential).",
+    "collocations": [
+      "simultaneous connections",
+      "simultaneous access",
+      "simultaneous update"
+    ]
+  },
+  {
+    "word": "Simultaneous",
+    "meaning": "Happening at the very same time",
+    "shortMeaning": "happening together",
+    "example": "The server handles thousands of simultaneous connections.",
+    "example2": "Simultaneous updates caused a database lock.",
+    "example3": "He performed simultaneous tasks on two monitors.",
+    "Explanation": "The word 'simultaneous' describes events or actions that occur exactly at the same time. In IT, managing simultaneous operations (concurrency) is a classic challenge that can lead to performance issues or data race conditions. The adverb form is 'simultaneously'. It is often used in performance testing and multi-user environment descriptions.",
+    "synonyms": [
+      "concurrent",
+      "synchronous",
+      "coincident"
+    ],
+    "antonyms": [
+      "sequential",
+      "staggered",
+      "separate"
+    ],
+    "nounForm": "simultaneity",
+    "verbForm": "N/A",
+    "adjectiveForm": "simultaneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, concurrency, multi-tasking",
+    "usageTip": "Use 'simultaneous' for things happening at the same time.",
+    "commonMistake": "Confusing 'simultaneous' with 'sequential' (which is one after another).",
+    "collocations": [
+      "simultaneous connections",
+      "simultaneous access",
+      "simultaneous tasks"
+    ]
+  }
+]

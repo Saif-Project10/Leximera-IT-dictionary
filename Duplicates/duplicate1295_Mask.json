@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Mask",
+    "meaning": "A covering for all or part of the face, worn for protection, disguise, or entertainment; to conceal or disguise.",
+    "shortMeaning": "face covering; conceal",
+    "example": "Wear a mask in the hospital to prevent spreading germs.",
+    "example2": "He masked his disappointment with a smile.",
+    "example3": "The perfume masks the unpleasant odor.",
+    "Explanation": "'Mask' is both a noun and a verb. As a noun, it's an object that covers the face, used in health, safety, rituals, and performances. As a verb, it means to hide or disguise feelings, facts, or smells. In computing, 'masking' means hiding part of data. The word is rich with metaphors about concealment and protection. The COVID-19 pandemic made 'mask' an everyday term globally. It's a versatile word connecting physical objects with psychological and technical concepts of hiding and covering.",
+    "synonyms": [
+      "cover",
+      "disguise",
+      "conceal"
+    ],
+    "antonyms": [
+      "unmask",
+      "reveal",
+      "expose"
+    ],
+    "nounForm": "mask",
+    "verbForm": "mask",
+    "adjectiveForm": "masked",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Health, safety, theater, emotions, computing",
+    "usageTip": "As a verb, often used with 'with' (masked his fear with anger) or 'by' (the noise masked by the music).",
+    "commonMistake": "Confusing 'mask' (to hide) with 'mash' (to crush).",
+    "collocations": [
+      "gas mask",
+      "mask one's emotions",
+      "surgical mask"
+    ]
+  },
+  {
+    "word": "Mask",
+    "meaning": "To cover, hide, or protect something from view or interference.",
+    "shortMeaning": "to cover or conceal",
+    "example": "The software is designed to mask the user's IP address.",
+    "example2": "He wore a mask to hide his identity during the performance.",
+    "example3": "The developer added code to mask sensitive password input.",
+    "Explanation": "A mask functions as a shield or a cover, whether physical or digital. In technical contexts, it hides complex data or protects information from being exposed to unauthorized users. It is a fundamental concept in data privacy and network security. By masking values, developers ensure that sensitive info remains secure during processes. The word implies intentional hiding for protection or privacy reasons.",
+    "synonyms": [
+      "conceal",
+      "hide",
+      "cover"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose",
+      "unmask"
+    ],
+    "nounForm": "mask",
+    "verbForm": "mask",
+    "adjectiveForm": "masked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security, Privacy, Design",
+    "usageTip": "Use 'mask' to describe hiding data or identity.",
+    "commonMistake": "Confusing it with 'masquerade', which refers more to pretending.",
+    "collocations": [
+      "data mask",
+      "input mask",
+      "masking technique"
+    ]
+  }
+]

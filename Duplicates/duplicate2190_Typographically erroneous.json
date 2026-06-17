@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Typographically erroneous",
+    "meaning": "Containing mistakes in the visual arrangement or spelling of text.",
+    "shortMeaning": "having typos",
+    "example": "The source code contained a typographically erroneous variable name.",
+    "example2": "He corrected the typographically erroneous labels in the form.",
+    "example3": "It is important to fix any typographically erroneous documents.",
+    "Explanation": "This term describes something that contains errors related to typing, spelling, or formatting. It is often used in professional or technical writing to identify mistakes that impact clarity. The phrase is formal and specific to errors in the text's appearance or composition. It is more precise than simply saying 'wrong' because it highlights the nature of the error as being in the text itself. Ensuring accuracy prevents confusion for users or compilers.",
+    "synonyms": [
+      "misspelled",
+      "incorrectly typed",
+      "flawed"
+    ],
+    "antonyms": [
+      "correct",
+      "accurate",
+      "error-free"
+    ],
+    "nounForm": "typographical error",
+    "verbForm": "N/A",
+    "adjectiveForm": "typographically erroneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Editing, coding, documentation",
+    "usageTip": "Use this for formal descriptions of text-based mistakes.",
+    "commonMistake": "Overusing the phrase in casual conversation.",
+    "collocations": [
+      "typographically erroneous text",
+      "typographically erroneous entry",
+      "typographically erroneous code"
+    ]
+  },
+  {
+    "word": "Typographically erroneous",
+    "meaning": "Containing mistakes in the way text is displayed or spelled.",
+    "shortMeaning": "full of typos",
+    "example": "The code comments were typographically erroneous.",
+    "example2": "The report was rejected because it was typographically erroneous.",
+    "example3": "Make sure your documentation is not typographically erroneous.",
+    "Explanation": "This phrase describes text that has mistakes related to spelling, fonts, or arrangement. It is a formal way of saying that a document or string contains too many typos. It is rarely used in daily conversation and is usually reserved for formal assessments or documentation reviews. A document that is typographically erroneous reflects poorly on the author's attention to detail. Fixing these issues improves the overall professionalism and readability of any technical document.",
+    "synonyms": [
+      "full of typos",
+      "incorrectly spelled"
+    ],
+    "antonyms": [
+      "error-free",
+      "accurate"
+    ],
+    "nounForm": "typographical error",
+    "verbForm": "N/A",
+    "adjectiveForm": "typographically erroneous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Formal reports and documentation review",
+    "usageTip": "Use it to formally criticize spelling and formatting mistakes.",
+    "commonMistake": "Overusing it in casual conversation; it sounds very formal.",
+    "collocations": [
+      "typographically erroneous text",
+      "found typographically erroneous"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Reject",
+    "meaning": "To refuse to accept, consider, or use something. | To refuse to accept, consider, or use; a person or thing that is not accepted.",
+    "shortMeaning": "refuse, turn down",
+    "example": "The publisher rejected his manuscript.",
+    "example2": "Her body rejected the transplanted organ.",
+    "example3": "He felt rejected by his peers.",
+    "Explanation": "Reject means to dismiss or decline something offered, proposed, or submitted. It is a definitive negative response. Reasons for rejection can be qualitative (not good enough), inappropriate (not suitable), or physiological (immune rejection). The word can be harsh, carrying emotional weight, especially when applied to people. As a noun, a 'reject' is an item or person that has been rejected. It's a common word in applications, quality control, and social contexts. Learning to handle rejection is an important life skill.",
+    "synonyms": [
+      "Decline",
+      "Discard",
+      "Dismiss",
+      "Refuse",
+      "Spurn",
+      "Turn Down"
+    ],
+    "antonyms": [
+      "Accept",
+      "Approve",
+      "Embrace",
+      "Welcome"
+    ],
+    "nounForm": "rejection",
+    "verbForm": "reject",
+    "adjectiveForm": "rejected",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Job applications, product quality, relationships, biology",
+    "usageTip": "As a verb, it's often followed by a direct object: 'reject the offer', 'reject the hypothesis'.",
+    "commonMistake": "Using it to mean simply 'dislike'; it implies an official or definitive refusal.",
+    "collocations": [
+      "flatly reject",
+      "reject out of hand",
+      "letter of rejection"
+    ]
+  },
+  {
+    "word": "Reject",
+    "meaning": "To refuse to process an invalid API request, decline an unauthorized user action, or deny a code contribution during git reviews",
+    "shortMeaning": "decline or deny a request/code",
+    "example": "The application server will reject the submission form if any required fields are empty.",
+    "example2": "The senior engineer chose to reject the pull request due to a complete lack of unit testing.",
+    "example3": "A JavaScript Promise can either resolve with a success response or reject with an explicit error block.",
+    "Explanation": "The word 'reject' is used across system routing, API development, and code reviews. In web applications, data validation logic checks incoming user payloads; if structural errors or invalid values are discovered, the application will reject the input and return an error code (such as HTTP 400 Bad Request). In code workflows, developers use 'reject' when a proposed code change fails to meet quality standards during a review. Additionally, in JavaScript asynchronous operations, a Promise can explicitly 'reject' to signal that an asynchronous task failed.",
+    "synonyms": [
+      "deny",
+      "decline",
+      "dismiss"
+    ],
+    "antonyms": [
+      "accept",
+      "approve",
+      "resolve"
+    ],
+    "nounForm": "rejection",
+    "verbForm": "reject",
+    "adjectiveForm": "rejected",
+    "partOfSpeech": "verb",
+    "commonContext": "Form validation, API error processing, Git code reviews, JavaScript Promises",
+    "usageTip": "Use 'reject' when a system or reviewer actively drops an invalid input, asynchronous task, or unpolished code change.",
+    "commonMistake": "Forgetting to write catch blocks for rejected asynchronous promises, which causes unhandled rejection runtime errors in JavaScript.",
+    "collocations": [
+      "reject a pull request",
+      "reject invalid inputs",
+      "promise may reject"
+    ]
+  }
+]

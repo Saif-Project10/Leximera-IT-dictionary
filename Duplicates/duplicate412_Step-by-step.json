@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Step-by-step",
+    "meaning": "Done or happening in a series of small, logical, and consecutive stages.",
+    "shortMeaning": "in consecutive steps",
+    "example": "The recipe provides step-by-step instructions for beginners.",
+    "example2": "We will guide you through the process in a step-by-step manner.",
+    "example3": "He explained his reasoning in a clear, step-by-step fashion.",
+    "Explanation": "Step-by-step is an adjective or adverb describing a methodical, orderly process where each action follows logically from the previous one and leads to the next. It breaks down a complex task into manageable, sequential pieces. This approach is essential for teaching, troubleshooting, and executing precise procedures (like assembling furniture or writing code). It ensures nothing is missed and builds confidence as each step is completed. The phrase emphasizes clarity, patience, and a guaranteed path to completion if followed correctly.",
+    "synonyms": [
+      "gradual",
+      "systematic",
+      "sequential",
+      "methodical"
+    ],
+    "antonyms": [
+      "all at once",
+      "holistic",
+      "simultaneous",
+      "disorganized"
+    ],
+    "nounForm": "steps",
+    "verbForm": "N/A",
+    "adjectiveForm": "step-by-step",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Instructions, tutorials, guides, learning, processes",
+    "usageTip": "Usually hyphenated when used before a noun ('a step-by-step guide') but not always when after ('proceed step by step').",
+    "commonMistake": "Using it for processes that are not linear or have parallel steps.",
+    "collocations": [
+      "step-by-step guide",
+      "step-by-step process",
+      "follow step-by-step"
+    ]
+  },
+  {
+    "word": "Step-by-step",
+    "meaning": "Proceeding in a sequence; one action at a time.",
+    "shortMeaning": "sequential",
+    "example": "The documentation provides a step-by-step guide for installation.",
+    "example2": "Follow the step-by-step instructions to debug the error.",
+    "example3": "Debugging is easier with a step-by-step approach.",
+    "Explanation": "The term 'step-by-step' means breaking down a complex task into smaller, manageable, sequential actions. In IT, this is the best way to handle complex software installation, system configuration, or troubleshooting. By moving in steps, it is much easier to identify exactly where a problem occurs. Documentation that is 'step-by-step' is highly valued because it reduces user error and makes even complex tasks accessible to beginners.",
+    "synonyms": [
+      "sequential",
+      "incremental",
+      "gradual"
+    ],
+    "antonyms": [
+      "all-at-once",
+      "simultaneous",
+      "chaotic"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "step-by-step",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, troubleshooting, training",
+    "usageTip": "Use 'step-by-step' for clear, sequential guides.",
+    "commonMistake": "Skipping steps in a step-by-step guide (this causes errors).",
+    "collocations": [
+      "step-by-step guide",
+      "step-by-step instructions",
+      "step-by-step approach"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Client-server",
+    "meaning": "A system where one computer (the client) asks for something and another (the server) provides it",
+    "shortMeaning": "request-and-response model",
+    "example": "The internet is built on a client-server relationship.",
+    "example2": "In a client-server setup, the server handles the heavy data work.",
+    "example3": "Game developers use a client-server model to prevent players from cheating.",
+    "Explanation": "Client-server is the standard architecture of the digital world. The 'server' is a powerful computer that sits in a data center and holds all the data (like YouTube videos or Bank records). The 'client' is your phone or laptop. This model is efficient because it allows thousands of people to access the same information at once. It also allows the service owner to update the data in one central place. It is different from 'Peer-to-Peer' (P2P), where every computer is equal. Almost everything you do online—sending an email, buying a shirt, or watching a movie—is a client-server interaction.",
+    "synonyms": [
+      "distributed system",
+      "host-terminal",
+      "request-response architecture"
+    ],
+    "antonyms": [
+      "peer-to-peer",
+      "P2P"
+    ],
+    "nounForm": "client-server architecture",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-server",
+    "partOfSpeech": "adjective / noun phrase",
+    "commonContext": "Network design and general IT",
+    "usageTip": "Use 'client-server' to describe any system where a central computer serves many users.",
+    "commonMistake": "Thinking the 'client' and 'server' must be in different buildings; they can actually be two programs on the same computer.",
+    "collocations": [
+      "client-server architecture",
+      "client-server communication",
+      "standard client-server model"
+    ]
+  },
+  {
+    "word": "Client-server",
+    "meaning": "A network architecture model where computing tasks are divided between central resource providers (servers) and service requesters (clients)",
+    "shortMeaning": "divided network architecture",
+    "example": "The website uses a traditional client-server model to process user transactions safely.",
+    "example2": "In a client-server setup, the database always sits securely on the server side.",
+    "example3": "Understanding client-server communication protocols is vital for web developers.",
+    "Explanation": "The term 'client-server' describes a foundational concept in computer networking and web development. In this model, the 'client' (such as a web browser on a laptop) initiates a request over the network, and the 'server' (a powerful computer hosting the data) processes that request and sends back a response. This architecture allows data to be centralized, protected, and managed efficiently, while allowing thousands of individual clients to access the same central resource simultaneously.",
+    "synonyms": [
+      "distributed architecture",
+      "centralized network architecture"
+    ],
+    "antonyms": [
+      "peer-to-peer (P2P)",
+      "decentralized architecture"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "client-server",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network engineering, web development architecture, and API design",
+    "usageTip": "Use 'client-server' when explaining how a browser interacts with a backend database system.",
+    "commonMistake": "Assuming 'client-server' implies that the client and server are physically near each other; they can be located thousands of miles apart.",
+    "collocations": [
+      "client-server architecture",
+      "client-server model",
+      "client-server relationship"
+    ]
+  }
+]

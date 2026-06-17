@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Insert",
+    "meaning": "To put something inside something else.",
+    "shortMeaning": "put in",
+    "example": "Insert the key into the lock.",
+    "example2": "Please insert a coin to start the machine.",
+    "example3": "He inserted a new paragraph into the document.",
+    "Explanation": "The verb 'insert' means to place or fit something into something else. It often implies putting something into a specific space or opening. It is more formal than 'put in'. It is commonly used with technology (insert a USB drive), documents (insert a page), and objects (insert a card). The noun form is 'insertion'. A common mistake is using it for abstract ideas; it's best for physical or digital placement. Remember the spelling with 's' not 'c'. It suggests a careful or precise action of placing something where it belongs.",
+    "synonyms": [
+      "put in",
+      "place in",
+      "introduce"
+    ],
+    "antonyms": [
+      "remove",
+      "extract",
+      "take out"
+    ],
+    "nounForm": "insertion",
+    "verbForm": "insert",
+    "adjectiveForm": "inserted",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology, documents, objects, slots",
+    "usageTip": "Often followed by 'into' (insert A into B).",
+    "commonMistake": "Pronouncing it as 'in-sert' with the stress on the first syllable. The stress is on the second: in-SERT.",
+    "collocations": [
+      "insert a card",
+      "insert a comment",
+      "insert between"
+    ]
+  },
+  {
+    "word": "Insert",
+    "meaning": "To put something into something else",
+    "shortMeaning": "put in",
+    "example": "You need to insert the USB drive into the port.",
+    "example2": "The SQL command will insert a new row into the table.",
+    "example3": "Please insert your credit card to pay.",
+    "Explanation": "Insert is a common IT term used for both hardware and software. For hardware, it means physically plugging in a device. In software, especially databases, 'INSERT' is a fundamental command used to add new data. It implies placing an item into a specific, pre-existing slot or container. It is more precise than 'put' and is the standard term for adding records to a list or database.",
+    "synonyms": [
+      "add",
+      "embed",
+      "plug in"
+    ],
+    "antonyms": [
+      "remove",
+      "extract",
+      "delete"
+    ],
+    "nounForm": "insertion",
+    "verbForm": "insert",
+    "adjectiveForm": "inserted",
+    "partOfSpeech": "verb",
+    "commonContext": "Databases, hardware, document editing",
+    "usageTip": "Use 'insert' when adding a record to a database or a component to a machine.",
+    "commonMistake": "Confusing 'insert' with 'update' in databases (update changes existing data).",
+    "collocations": [
+      "insert row",
+      "insert record",
+      "insert disc"
+    ]
+  }
+]

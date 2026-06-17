@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Uniformly distributed",
+    "meaning": "Spread evenly so that every part has the same amount",
+    "shortMeaning": "evenly spread",
+    "example": "The requests were uniformly distributed across the server cluster.",
+    "example2": "Ensure the data is uniformly distributed for better processing.",
+    "example3": "The load balancer ensures traffic is uniformly distributed.",
+    "Explanation": "In statistics and computing, 'uniformly distributed' means that all values or outcomes have an equal probability of occurring, or that items are spread perfectly evenly. In system administration, this is the ideal state for load balancing—each server does exactly the same amount of work. If traffic is not uniformly distributed, some servers might become overloaded while others are under-utilized. It is a mathematical and technical ideal that we strive for in data analysis and resource management. Use this to describe efficiency and balance.",
+    "synonyms": [
+      "evenly distributed",
+      "equally spread",
+      "balanced"
+    ],
+    "antonyms": [
+      "clustered",
+      "uneven",
+      "concentrated"
+    ],
+    "nounForm": "uniform distribution",
+    "verbForm": "N/A",
+    "adjectiveForm": "uniformly distributed",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Load balancing, data analysis, statistics",
+    "usageTip": "Use this to describe efficient resource utilization.",
+    "commonMistake": "Assuming data is uniformly distributed without testing.",
+    "collocations": [
+      "uniformly distributed load",
+      "random and uniformly distributed"
+    ]
+  },
+  {
+    "word": "Uniformly distributed",
+    "meaning": "Spread evenly or consistently across a range or space.",
+    "shortMeaning": "evenly spread",
+    "example": "The load was uniformly distributed across the server cluster.",
+    "example2": "Ensure the items are uniformly distributed in the grid layout.",
+    "example3": "The random numbers were uniformly distributed between zero and one.",
+    "Explanation": "When something is 'uniformly distributed', it is balanced and equal across its designated area. In computing, this frequently refers to load balancing, where traffic is spread across multiple servers to prevent failure. It also applies to CSS grid layouts where elements are spaced perfectly. It ensures that no single part is overloaded while others remain idle. Achieving a uniform distribution is essential for performance and aesthetic balance.",
+    "synonyms": [
+      "evenly spread",
+      "balanced",
+      "proportional"
+    ],
+    "antonyms": [
+      "unevenly distributed",
+      "clumped",
+      "scattered"
+    ],
+    "nounForm": "uniform distribution",
+    "verbForm": "distribute",
+    "adjectiveForm": "uniformly distributed",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Load balancing and UI layout",
+    "usageTip": "Use this when describing perfect balance.",
+    "commonMistake": "Confusing uniform distribution with random distribution.",
+    "collocations": [
+      "uniformly distributed load",
+      "uniformly distributed data",
+      "uniformly distributed items"
+    ]
+  }
+]

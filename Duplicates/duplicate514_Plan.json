@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Plan",
+    "meaning": "(Noun) A detailed proposal for doing or achieving something. (Verb) To decide on and arrange in advance.",
+    "shortMeaning": "detailed proposal; decide in advance",
+    "example": "We need to make a plan for the weekend.",
+    "example2": "She plans to study abroad next year.",
+    "example3": "The architect drew up plans for the new house.",
+    "Explanation": "Plan is a fundamental concept of intentional action. As a noun, it's a roadmap—a set of intended actions with a goal. As a verb, it's the process of creating that roadmap. Planning involves thinking ahead, setting objectives, and devising steps to achieve them. It is essential in personal life, business, and projects. A good plan is flexible but provides direction. The phrase 'plan on' is common for intentions. The word is simple but represents the human capacity for foresight and organization. Failure to plan is often a recipe for problems.",
+    "synonyms": [
+      "scheme",
+      "strategy",
+      "blueprint",
+      "intend",
+      "organize"
+    ],
+    "antonyms": [
+      "improvise",
+      "act spontaneously",
+      "disorganize"
+    ],
+    "nounForm": "plan",
+    "verbForm": "plan",
+    "adjectiveForm": "planned",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Projects, travel, business, personal goals",
+    "usageTip": "As a verb, often followed by 'to' + verb (plan to go) or 'on' + gerund (plan on going).",
+    "commonMistake": "Confusing 'plan' (noun/verb) with 'plain' (adjective meaning simple or clear).",
+    "collocations": [
+      "strategic plan",
+      "make plans",
+      "plan ahead"
+    ]
+  },
+  {
+    "word": "Plan",
+    "meaning": "A detailed proposal for doing or achieving something",
+    "shortMeaning": "detailed proposal",
+    "example": "We need a solid plan before we start the migration.",
+    "example2": "Do you have a backup plan in case the server fails?",
+    "example3": "He carefully planned every step of the project.",
+    "Explanation": "A plan is a roadmap for the future. In IT, planning is the most important stage of the Software Development Life Cycle (SDLC). It involves defining the goal, the budget, the timeline, and the resources needed. Without a plan, projects often go over budget or fail to meet user needs. Planning can be high-level (business goals) or very low-level (sprint planning in Agile). It is a process of thinking before acting to ensure efficiency and success.",
+    "synonyms": [
+      "scheme",
+      "strategy",
+      "roadmap"
+    ],
+    "antonyms": [
+      "accident",
+      "chaos",
+      "disorder"
+    ],
+    "nounForm": "plan / planning",
+    "verbForm": "plan",
+    "adjectiveForm": "planned",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project management and daily life",
+    "usageTip": "Follow the 'fail to plan, plan to fail' rule in your development projects.",
+    "commonMistake": "Spending too much time planning and never actually starting the work.",
+    "collocations": [
+      "action plan",
+      "business plan",
+      "strategic plan"
+    ]
+  }
+]

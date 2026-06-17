@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Code-centric",
+    "meaning": "Placing primary emphasis and value on source code and programming practices.",
+    "shortMeaning": "focused on code",
+    "example": "The team has a code-centric culture, prioritizing clean code reviews.",
+    "example2": "A code-centric development process might involve test-driven development (TDD).",
+    "example3": "The tool is designed for code-centric engineers who prefer terminals over GUIs.",
+    "Explanation": "'Code-centric' is a compound adjective describing an attitude, culture, or methodology that treats source code as the most important artifact. It values practices like code reviews, refactoring, testing, and clear documentation. It's often associated with software craftsmanship and engineering excellence. A code-centric developer might prioritize the quality and maintainability of the code itself over rapid feature delivery. It's a more philosophical term than 'code-based', focusing on the centrality of code in the development mindset.",
+    "synonyms": [
+      "code-focused",
+      "development-centric"
+    ],
+    "antonyms": [
+      "business-centric",
+      "design-centric",
+      "marketing-centric"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-centric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering culture, methodology, tool design",
+    "usageTip": "Hyphenate. Describes a perspective or priority within a team or process.",
+    "commonMistake": "Confusing with 'code-based'; 'centric' is about focus and priority, 'based' is about implementation method.",
+    "collocations": [
+      "code-centric approach",
+      "code-centric mindset",
+      "code-centric view"
+    ]
+  },
+  {
+    "word": "Code-centric",
+    "meaning": "Focused primarily on the development and writing of source code",
+    "shortMeaning": "code-focused",
+    "example": "Our startup has a code-centric culture.",
+    "example2": "The interview was highly code-centric, focusing on algorithms.",
+    "example3": "We need a code-centric design for better performance.",
+    "Explanation": "The word 'code-centric' describes an approach, culture, or process where writing and optimizing source code is the absolute priority. In such teams, documentation, visual design, or meeting times are secondary to the quality and speed of programming. This approach is common in software-heavy startups and high-performance engineering departments where code craftsmanship is the core competitive advantage.",
+    "synonyms": [
+      "developer-focused",
+      "coding-priority",
+      "engineering-led"
+    ],
+    "antonyms": [
+      "design-centric",
+      "managerial",
+      "process-driven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "code-centric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering culture and technical interview styles",
+    "usageTip": "Use 'code-centric' to emphasize that programming is at the heart of your workflow.",
+    "commonMistake": "Using 'code-centric' in general business meetings; it is specific to software engineering.",
+    "collocations": [
+      "code-centric culture",
+      "code-centric design",
+      "code-centric approach"
+    ]
+  }
+]

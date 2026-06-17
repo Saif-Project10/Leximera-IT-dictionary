@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transient",
+    "meaning": "Lasting only for a short time; temporary",
+    "shortMeaning": "temporary",
+    "example": "Transient data is deleted as soon as the session ends.",
+    "example2": "The error was transient and did not reappear.",
+    "example3": "We use a cache for transient storage of user inputs.",
+    "Explanation": "Transient refers to things that are temporary and do not last long. In IT, a transient error is one that occurs once but goes away by itself, often due to a momentary network glitch. Transient data is information kept only for the duration of a specific process or session. Understanding what is transient is important for memory management and building robust systems that don't depend on things that might disappear. It is a key concept in reliability.",
+    "synonyms": [
+      "temporary",
+      "fleeting",
+      "short-lived"
+    ],
+    "antonyms": [
+      "persistent",
+      "permanent",
+      "durable"
+    ],
+    "nounForm": "transience",
+    "verbForm": "N/A",
+    "adjectiveForm": "transient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Memory management, network errors, data storage",
+    "usageTip": "Use this to describe things that are meant to disappear quickly.",
+    "commonMistake": "Confusing 'transient' with 'erroneous'; not all transient things are errors.",
+    "collocations": [
+      "transient error",
+      "transient data",
+      "transient state"
+    ]
+  },
+  {
+    "word": "Transient",
+    "meaning": "Lasting only for a short time; temporary",
+    "shortMeaning": "short-lived",
+    "example": "The transient error disappeared after a reboot.",
+    "example2": "The system deals with transient data streams.",
+    "example3": "Transient memory is cleared when the power goes off.",
+    "Explanation": "The word 'transient' describes something that exists or stays for a very brief time. In IT, we often talk about 'transient faults' (problems that happen and then stop) or 'transient data' (data that is meant to exist only during an operation). It is a more formal and professional word than 'temporary'. It emphasizes that the state is fleeting and will not last. It is very common in systems engineering and hardware analysis.",
+    "synonyms": [
+      "fleeting",
+      "ephemeral",
+      "temporary"
+    ],
+    "antonyms": [
+      "permanent",
+      "enduring",
+      "stable"
+    ],
+    "nounForm": "transience",
+    "verbForm": "N/A",
+    "adjectiveForm": "transient",
+    "partOfSpeech": "adjective",
+    "commonContext": "System stability, memory, data flows",
+    "usageTip": "Use 'transient' when referring to errors or data that won't last long.",
+    "commonMistake": "Confusing it with 'transitory'; they mean almost the same, but 'transient' is more technical.",
+    "collocations": [
+      "transient error",
+      "transient data",
+      "transient fault"
+    ]
+  }
+]

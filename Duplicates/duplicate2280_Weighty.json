@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Weighty",
+    "meaning": "Having great importance, seriousness, or significant size",
+    "shortMeaning": "very important",
+    "example": "The committee made a weighty decision regarding the architecture.",
+    "example2": "He was tasked with handling the weighty project documentation.",
+    "example3": "The software update includes some weighty changes to the core.",
+    "Explanation": "Weighty describes things that are very important, serious, or substantial in size and impact. In tech, a weighty decision might involve a complete platform shift. Weighty documentation refers to complex, long, or critical papers. It is a more formal and emphatic word than 'big' or 'important'. Use it when you want to emphasize the gravity or the large scope of a subject. It carries a sense of significant consequences.",
+    "synonyms": [
+      "significant",
+      "serious",
+      "substantial"
+    ],
+    "antonyms": [
+      "trivial",
+      "unimportant",
+      "minor"
+    ],
+    "nounForm": "weight",
+    "verbForm": "N/A",
+    "adjectiveForm": "weighty",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decision making, documentation, project impact",
+    "usageTip": "Use this for tasks or decisions with big impacts.",
+    "commonMistake": "Using 'weighty' for small, simple code updates.",
+    "collocations": [
+      "weighty decision",
+      "weighty documentation",
+      "weighty consequences"
+    ]
+  },
+  {
+    "word": "Weighty",
+    "meaning": "Important, serious, or having a significant impact",
+    "shortMeaning": "significant/heavy",
+    "example": "Handling such weighty data requires a very efficient database structure.",
+    "example2": "The decision to migrate the database is a weighty one.",
+    "example3": "He was tasked with the weighty responsibility of system security.",
+    "Explanation": "The term 'weighty' denotes something of great consequence or significant burden. In technical contexts, it often refers to tasks, responsibilities, or data loads that have a major impact on the system or business operations. While 'heavy' might refer to physical size or data volume, 'weighty' focuses on the significance or seriousness of the subject matter. Use it to convey that a choice or system change requires careful consideration.",
+    "synonyms": [
+      "significant",
+      "serious",
+      "consequential"
+    ],
+    "antonyms": [
+      "trivial",
+      "minor",
+      "light"
+    ],
+    "nounForm": "weight",
+    "verbForm": "N/A",
+    "adjectiveForm": "weighty",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, decision-making, and project management",
+    "usageTip": "Use when describing tasks or decisions with big consequences.",
+    "commonMistake": "Confusing 'weighty' with 'heavy' in a strictly physical sense.",
+    "collocations": [
+      "weighty responsibility",
+      "weighty decision",
+      "weighty task"
+    ]
+  }
+]

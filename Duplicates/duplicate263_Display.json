@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Display",
+    "meaning": "A collection of objects or information arranged for people to see; the act of showing something | To show or exhibit; a collection of objects arranged for public viewing.",
+    "shortMeaning": "public showing",
+    "example": "The museum has a fascinating display of dinosaur bones.",
+    "example2": "He made a display of his wealth by buying expensive cars.",
+    "example3": "The computer's display is very bright and clear.",
+    "Explanation": "The noun 'display' refers to an arrangement of things shown for people to look at, such as in a shop window or museum. It can also mean an electronic screen. Additionally, it refers to the act of showing a quality or emotion, sometimes in an exaggerated way. The verb form is also 'display'. It's a highly common word in retail, technology, and social behavior.",
+    "synonyms": [
+      "Exhibit",
+      "Exhibition",
+      "Present",
+      "Presentation",
+      "Screen",
+      "Show"
+    ],
+    "antonyms": [
+      "Conceal",
+      "Concealment",
+      "Hide",
+      "Hiding",
+      "Withdraw"
+    ],
+    "nounForm": "display",
+    "verbForm": "display",
+    "adjectiveForm": "displayed",
+    "partOfSpeech": "noun",
+    "commonContext": "Retail, museums, technology, behavior",
+    "usageTip": "For electronic screens, 'display' is the general term (e.g., LCD display).",
+    "commonMistake": "Confusing 'on display' (being shown) with 'in display' (incorrect).",
+    "collocations": [
+      "on display",
+      "display case",
+      "display of affection",
+      "visual display"
+    ]
+  },
+  {
+    "word": "Display",
+    "meaning": "To show something so that it can be seen",
+    "shortMeaning": "show",
+    "example": "The monitor will display the login screen.",
+    "example2": "She put her awards on display for everyone to see.",
+    "example3": "The error message was displayed in red text.",
+    "Explanation": "Display is used both as a noun (the screen itself) and a verb (the act of showing). In IT, 'display' is a fundamental term for how information is presented to the user. It can refer to the physical hardware (like an LCD display) or the software action (displaying data on a webpage). It implies making something visible or clear. In CSS, the `display` property is one of the most important tools for controlling the layout of a website. It is a very versatile word in both technical and non-technical English.",
+    "synonyms": [
+      "show",
+      "exhibit",
+      "present",
+      "reveal"
+    ],
+    "antonyms": [
+      "hide",
+      "conceal",
+      "cover"
+    ],
+    "nounForm": "display",
+    "verbForm": "display",
+    "adjectiveForm": "displayed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Electronics, art, and web design",
+    "usageTip": "Use 'display' as a verb when you want to sound more professional than 'show'.",
+    "commonMistake": "Thinking 'display' only refers to a screen; it can be any act of showing something.",
+    "collocations": [
+      "display an image",
+      "LCD display",
+      "on public display"
+    ]
+  }
+]

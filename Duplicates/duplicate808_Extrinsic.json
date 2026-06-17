@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Extrinsic",
+    "meaning": "Coming from or existing outside of something; not part of the essential nature.",
+    "shortMeaning": "coming from outside",
+    "example": "Her love for music was extrinsic; she played only to please her parents.",
+    "example2": "Extrinsic factors like the weather affected the crop yield.",
+    "example3": "The value of the medal is extrinsic, based on its history, not the metal itself.",
+    "Explanation": "'Extrinsic' is an adjective describing qualities, values, or factors that are external to the thing itself. It is the opposite of 'intrinsic'. In motivation, extrinsic motivation comes from outside rewards (money, praise), while intrinsic motivation comes from personal satisfaction. The word is often used in academic, scientific, and philosophical discussions to distinguish between internal and external causes or characteristics. Understanding this distinction is key in psychology, ethics, and analysis.",
+    "synonyms": [
+      "external",
+      "outward",
+      "alien",
+      "superficial"
+    ],
+    "antonyms": [
+      "intrinsic",
+      "inherent",
+      "internal",
+      "innate"
+    ],
+    "nounForm": "extrinsicality",
+    "verbForm": "N/A",
+    "adjectiveForm": "extrinsic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Motivation, value, factors, philosophy",
+    "usageTip": "Use 'extrinsic' to describe something that originates from outside and is not a fundamental part of the subject.",
+    "commonMistake": "Confusing 'extrinsic' with 'extraneous'. 'Extrinsic' means from outside; 'extraneous' means irrelevant or unrelated.",
+    "collocations": [
+      "extrinsic motivation",
+      "extrinsic value",
+      "extrinsic factors",
+      "extrinsic rewards"
+    ]
+  },
+  {
+    "word": "Extrinsic",
+    "meaning": "Coming from the outside rather than from within.",
+    "shortMeaning": "external",
+    "example": "Extrinsic factors can affect the system performance.",
+    "example2": "The error was caused by an extrinsic source.",
+    "example3": "We must account for extrinsic variables in the code.",
+    "Explanation": "The term 'extrinsic' denotes influences or factors that originate from outside a system or entity. In software development, it might refer to external dependencies or environmental variables that impact your application. It is the opposite of 'intrinsic', which refers to internal properties. Understanding extrinsic factors is crucial for debugging and system architecture. It is formal, academic, and highly technical.",
+    "synonyms": [
+      "external",
+      "outer",
+      "outside"
+    ],
+    "antonyms": [
+      "intrinsic",
+      "internal"
+    ],
+    "nounForm": "extrinsicality",
+    "verbForm": "N/A",
+    "adjectiveForm": "extrinsic",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design, software analysis",
+    "usageTip": "Use 'extrinsic' to describe external pressures or inputs.",
+    "commonMistake": "Confusing 'extrinsic' with 'intrinsic'.",
+    "collocations": [
+      "extrinsic factor",
+      "extrinsic motivation",
+      "extrinsic source"
+    ]
+  }
+]

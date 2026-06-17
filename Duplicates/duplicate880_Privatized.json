@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Privatized",
+    "meaning": "Transferred from government or public ownership and control to private enterprise.",
+    "shortMeaning": "sold to private owners",
+    "example": "The national railway was privatized in the 1990s.",
+    "example2": "Privatized utilities often lead to higher prices for consumers.",
+    "example3": "The debate over privatized healthcare continues.",
+    "Explanation": "This is the past participle of the verb 'privatize'. It describes a major economic and political process where services or industries owned by the state (like water, electricity, prisons) are sold to private companies. Proponents argue it increases efficiency; opponents argue it puts profit over public service. The noun is 'privatization'. The word is central to discussions about the role of government versus the market in providing services and managing assets.",
+    "synonyms": [
+      "denationalized",
+      "sold off",
+      "contracted out"
+    ],
+    "antonyms": [
+      "nationalized",
+      "socialized",
+      "state-controlled"
+    ],
+    "nounForm": "privatization",
+    "verbForm": "privatize",
+    "adjectiveForm": "privatized",
+    "partOfSpeech": "verb (past participle), adjective",
+    "commonContext": "Economics, politics, public services",
+    "usageTip": "Use 'privatized' to describe industries or services that were once publicly owned but are now run by private companies.",
+    "commonMistake": "Using 'privatized' to mean simply 'made private' in a personal sense. It specifically refers to the transfer from public to private sector.",
+    "collocations": [
+      "privatized industry",
+      "newly privatized",
+      "privatized company",
+      "be privatized"
+    ]
+  },
+  {
+    "word": "Privatized",
+    "meaning": "Converted from public or collective to private control",
+    "shortMeaning": "made private",
+    "example": "The company was privatized to increase its operational efficiency.",
+    "example2": "The previously public dataset was privatized for security.",
+    "example3": "They privatized the system to manage costs better.",
+    "Explanation": "The term 'privatized' means that something that was once public, collective, or free for all has been moved under the control of a private individual or company. While this is often used in business or government, in IT it can refer to moving a shared resource or service into a private or restricted environment. It implies that access is no longer open to everyone and is now governed by specific ownership rules or restricted policies. It indicates a significant change in how a resource is managed.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "exclusive"
+    ],
+    "antonyms": [
+      "publicized",
+      "open",
+      "liberalized"
+    ],
+    "nounForm": "privatization",
+    "verbForm": "privatize",
+    "adjectiveForm": "privatized",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Business, Data management, Infrastructure",
+    "usageTip": "Use when describing the shift of a resource to restricted control.",
+    "commonMistake": "Confusing 'privatized' with 'encrypted' or 'secured'.",
+    "collocations": [
+      "privatized system",
+      "privatized service",
+      "privatized data"
+    ]
+  }
+]

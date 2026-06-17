@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Implemented",
+    "meaning": "Put a decision, plan, or system into effect",
+    "shortMeaning": "put into action",
+    "example": "The new policy was implemented last month.",
+    "example2": "We have successfully implemented the software upgrade.",
+    "example3": "The changes will be implemented in phases.",
+    "Explanation": "The verb (past participle) 'implemented' means to have executed or carried out a plan, idea, design, or system. It is the action phase that follows planning and design. It is a formal word commonly used in business, technology, and policy contexts. The noun form is 'implementation'. It emphasizes the practical application and completion of making something real and operational.",
+    "synonyms": [
+      "executed",
+      "applied",
+      "enacted",
+      "carried out",
+      "deployed"
+    ],
+    "antonyms": [
+      "planned",
+      "designed",
+      "proposed",
+      "abandoned"
+    ],
+    "nounForm": "implementation",
+    "verbForm": "implement",
+    "adjectiveForm": "implemented",
+    "partOfSpeech": "verb (past participle)",
+    "commonContext": "Projects, software, policies, strategies",
+    "usageTip": "Often used in the passive voice in reports: 'The system was implemented on schedule.'",
+    "commonMistake": "Confusing it with 'implicated', which means shown to be involved in a crime.",
+    "collocations": [
+      "fully implemented",
+      "implemented successfully",
+      "implemented a plan",
+      "ease of implementation"
+    ]
+  },
+  {
+    "word": "Implemented",
+    "meaning": "Carried out, put into action, or built",
+    "shortMeaning": "built",
+    "example": "The new security feature was implemented last week.",
+    "example2": "He implemented the logic exactly as the specs required.",
+    "example3": "The software is fully implemented and ready for testing.",
+    "Explanation": "The word 'implemented' is used when a plan, feature, or design has been turned into actual working software or hardware. It means the work is done and it is now functional. You 'implement' code to solve a problem. Once something is implemented, it needs to be tested to ensure it works correctly and meets the requirements. It is a fundamental term in the software development lifecycle. Always document how a feature was implemented to help others understand your code.",
+    "synonyms": [
+      "built",
+      "executed",
+      "developed"
+    ],
+    "antonyms": [
+      "planned",
+      "proposed",
+      "theoretical"
+    ],
+    "nounForm": "implementation",
+    "verbForm": "implement",
+    "adjectiveForm": "implemented",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Software development, project execution",
+    "usageTip": "Use 'implemented' when code or hardware is built and working.",
+    "commonMistake": "Using 'implemented' for something that is only planned.",
+    "collocations": [
+      "feature implemented",
+      "successfully implemented",
+      "implemented logic"
+    ]
+  }
+]

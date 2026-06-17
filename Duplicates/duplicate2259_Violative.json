@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Violative",
+    "meaning": "Causing or constituting a violation",
+    "shortMeaning": "breaking rules",
+    "example": "The code contains violative content that breaches policy.",
+    "example2": "Such behavior is violative of our security standards.",
+    "example3": "The script is violative of our privacy guidelines.",
+    "Explanation": "The word 'violative' describes any action, content, or system that breaks a rule, policy, or law. In IT security, identifying 'violative' activities—like accessing restricted files or ignoring security protocols—is key to keeping a network safe. It is a formal term used in audit reports and policy documentation to define why an action was blocked or why a user was penalized. It suggests a clear breach of established norms.",
+    "synonyms": [
+      "breaching",
+      "infringing",
+      "non-compliant"
+    ],
+    "antonyms": [
+      "compliant",
+      "observant",
+      "adhering"
+    ],
+    "nounForm": "violation",
+    "verbForm": "violate",
+    "adjectiveForm": "violative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, auditing, compliance",
+    "usageTip": "Use to describe actions that break official policies.",
+    "commonMistake": "Confusing 'violative' with simply 'wrong'.",
+    "collocations": [
+      "violative content",
+      "violative of policy",
+      "highly violative"
+    ]
+  },
+  {
+    "word": "Violative",
+    "meaning": "Tending to violate or showing disregard for rules or terms.",
+    "shortMeaning": "breaking rules",
+    "example": "The post was removed for being violative of the community guidelines.",
+    "example2": "The script contained violative code that breached security protocols.",
+    "example3": "It is important to flag any violative content immediately.",
+    "Explanation": "‘Violative’ is used to characterize something that breaks established rules, standards, or contracts. In IT, this often refers to content on a platform that goes against user agreements, or code that ignores API policies and security standards. It is a formal way of saying 'illegal' or 'inappropriate' in the context of policy enforcement. Moderators and security systems are often programmed to automatically detect and flag violative behavior.",
+    "synonyms": [
+      "non-compliant",
+      "breaching",
+      "infringing"
+    ],
+    "antonyms": [
+      "compliant",
+      "observant",
+      "adherent"
+    ],
+    "nounForm": "violation",
+    "verbForm": "violate",
+    "adjectiveForm": "violative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Policy enforcement and security",
+    "usageTip": "Use when discussing rules or standard compliance.",
+    "commonMistake": "Confusing 'violative' with 'volatile' (the two sound similar).",
+    "collocations": [
+      "violative content",
+      "violative behavior",
+      "violative of guidelines"
+    ]
+  }
+]

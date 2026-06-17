@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Check",
+    "meaning": "To examine something in order to determine its accuracy, quality, or condition. | To examine something to ensure accuracy or condition; a pattern of squares; a bill at a restaurant; a written order to a bank.",
+    "shortMeaning": "examine, verify",
+    "example": "Check the weather before you decide to go out.",
+    "example2": "The teacher will check the homework for errors.",
+    "example3": "I need to check my bank balance.",
+    "Explanation": "Check is a very common, multi-purpose verb meaning to inspect or verify. It's less formal than 'verify' or 'authenticate'. You can check facts, check a list, check your work, or check on someone's well-being. It implies a quick or routine examination to ensure everything is as it should be. As a noun, it can mean an inspection, a bill in a restaurant, or a pattern of squares. The phrase 'check in' means to register, and 'check out' means to leave or examine. It's an essential word for daily life and work.",
+    "synonyms": [
+      "Examine",
+      "Inspect",
+      "Look Over",
+      "Test",
+      "Verify"
+    ],
+    "antonyms": [
+      "Assume",
+      "Ignore",
+      "Overlook"
+    ],
+    "nounForm": "check",
+    "verbForm": "check",
+    "adjectiveForm": "checked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Everyday tasks, quality control, travel, finance",
+    "usageTip": "Often used with 'for': 'check for errors', 'check for updates'.",
+    "commonMistake": "Using 'check' in very formal writing where 'verify' or 'examine' might be more appropriate.",
+    "collocations": [
+      "double-check",
+      "check out",
+      "run a check"
+    ]
+  },
+  {
+    "word": "Check",
+    "meaning": "To examine something to see if it is correct, safe, or in good condition",
+    "shortMeaning": "examine / verify",
+    "example": "Please check your code for any syntax errors.",
+    "example2": "I need to check if the server is online.",
+    "example3": "Check the settings before you start the installation.",
+    "Explanation": "Check is one of the most frequent actions in IT. It involves verifying status, validating data, or inspecting work for quality. You check logs, check connections, and check requirements. It is a fundamental step in debugging and maintenance. The goal of checking is to prevent errors before they cause a system failure. It is both a verb (the action) and a noun (the process of inspection).",
+    "synonyms": [
+      "inspect",
+      "verify",
+      "examine"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "overlook"
+    ],
+    "nounForm": "check",
+    "verbForm": "check",
+    "adjectiveForm": "checked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Testing and verification",
+    "usageTip": "Use 'check' whenever you are looking for errors or confirming status.",
+    "commonMistake": "Using 'check' when 'verify' (which is more formal) might be needed for official reports.",
+    "collocations": [
+      "check for errors",
+      "double check",
+      "background check"
+    ]
+  }
+]

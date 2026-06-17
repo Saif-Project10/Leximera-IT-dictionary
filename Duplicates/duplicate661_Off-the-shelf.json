@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Off-the-shelf",
+    "meaning": "Available for immediate purchase or use from existing stock; not custom-made",
+    "shortMeaning": "ready-made",
+    "example": "We bought an off-the-shelf software solution.",
+    "example2": "They used off-the-shelf components to build the robot.",
+    "example3": "An off-the-shelf suit won't fit as well as a tailored one.",
+    "Explanation": "This compound adjective describes products that are standard, mass-produced, and available for immediate sale, as opposed to custom or bespoke items. It implies convenience, lower cost, and quicker availability, but sometimes at the expense of perfect fit or specific features. It's a common term in business, computing, and retail. The phrase comes from the idea of taking an item directly from the retailer's shelf.",
+    "synonyms": [
+      "ready-made",
+      "standard",
+      "pre-packaged",
+      "stock"
+    ],
+    "antonyms": [
+      "custom",
+      "bespoke",
+      "tailor-made",
+      "custom-built"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "off-the-shelf",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software, hardware, retail, products",
+    "usageTip": "Use 'off-the-shelf' to describe a standard product you can buy immediately without waiting for it to be made.",
+    "commonMistake": "Hyphenating it incorrectly or not at all. It should be hyphenated when used as an adjective before a noun.",
+    "collocations": [
+      "off-the-shelf software",
+      "off-the-shelf product",
+      "buy off-the-shelf"
+    ]
+  },
+  {
+    "word": "Off-the-shelf",
+    "meaning": "Ready-made software or hardware available for purchase",
+    "shortMeaning": "pre-made",
+    "example": "We bought an off-the-shelf solution instead of building one.",
+    "example2": "The code relies on off-the-shelf libraries.",
+    "example3": "Off-the-shelf components are cheaper but less custom.",
+    "Explanation": "'Off-the-shelf' refers to software or hardware that you can buy and use immediately without needing any custom development. It is the opposite of 'custom-built' or 'bespoke' software. 'Off-the-shelf' products are great for saving time and development costs, but they may lack specific features you need or come with unnecessary 'bloat'. IT managers often have to decide whether to buy an 'off-the-shelf' package or invest the time to build a custom solution.",
+    "synonyms": [
+      "ready-made",
+      "standard",
+      "commercial"
+    ],
+    "antonyms": [
+      "custom",
+      "bespoke",
+      "proprietary"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "off-the-shelf",
+    "partOfSpeech": "adjective",
+    "commonContext": "Procurement and project management",
+    "usageTip": "Use 'off-the-shelf' for ready-made tools.",
+    "commonMistake": "Thinking 'off-the-shelf' means 'free' (it just means ready-to-buy).",
+    "collocations": [
+      "off-the-shelf solution",
+      "off-the-shelf software"
+    ]
+  }
+]

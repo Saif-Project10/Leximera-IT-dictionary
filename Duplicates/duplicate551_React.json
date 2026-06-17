@@ -1,0 +1,64 @@
+[
+  {
+    "word": "React",
+    "meaning": "A popular open-source JavaScript library for building user interfaces, particularly single-page applications.",
+    "shortMeaning": "UI library",
+    "example": "We built the front end of our application using React.",
+    "example2": "React allows developers to create reusable UI components.",
+    "example3": "Learning React is a valuable skill for web developers.",
+    "Explanation": "React (also known as React.js or ReactJS) is a JavaScript library maintained by Facebook (Meta) and a community of developers. It is used for building interactive UIs. Its core concept is the component—a reusable piece of code that controls a part of the UI. React uses a virtual DOM for efficient updates. A common mistake is calling it a framework; it's a library focused on the view layer. It's often used with other libraries for routing, state management, etc. React has a huge ecosystem and is one of the most in-demand skills in front-end development. It has revolutionized how dynamic web apps are built.",
+    "synonyms": [
+      "React.js",
+      "ReactJS",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "React",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun (proper)",
+    "commonContext": "Web development, front-end engineering",
+    "usageTip": "Always capitalized, as it's a brand name.",
+    "commonMistake": "Pronouncing it as 'Re-act' like the verb. It's pronounced as one word: 'Ree-act'.",
+    "collocations": [
+      "learn React",
+      "React component",
+      "React application"
+    ]
+  },
+  {
+    "word": "React",
+    "meaning": "To respond to a specific action, event, trigger, or change in an environment",
+    "shortMeaning": "respond to an action",
+    "example": "The web page will react immediately when a user clicks the button.",
+    "example2": "Our monitoring software is designed to react to security threats automatically.",
+    "example3": "The system did not react well to the sudden surge in web traffic.",
+    "Explanation": "The word 'React' means to perform an action in response to some stimulus or external trigger. In computer programming, software is often built to be reactive, meaning it listens for user inputs, network events, or data changes and updates itself immediately. It is also the name of a famous JavaScript library used for building interactive user interfaces. Reacting quickly is a key feature of high-quality software, as users expect instant feedback when they interact with apps. Designing smooth reactive systems requires clean event handling logic.",
+    "synonyms": [
+      "respond",
+      "answer",
+      "reply"
+    ],
+    "antonyms": [
+      "ignore",
+      "remain passive",
+      "neglect"
+    ],
+    "nounForm": "reaction",
+    "verbForm": "react",
+    "adjectiveForm": "reactive",
+    "partOfSpeech": "verb",
+    "commonContext": "User interfaces, event-driven programming, security monitoring",
+    "usageTip": "Use 'react' to describe how a system or application answers to an external action or change.",
+    "commonMistake": "Capitalizing 'react' when using it as a general verb, unless you are specifically referring to the React JS library.",
+    "collocations": [
+      "react to a click",
+      "react automatically",
+      "react to changes"
+    ]
+  }
+]

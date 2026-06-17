@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Fluttering",
+    "meaning": "Moving with a light, quick, and irregular motion, like a bird's wings or a flag in a breeze",
+    "shortMeaning": "moving lightly and quickly",
+    "example": "The flag was fluttering in the wind.",
+    "example2": "I felt my heart fluttering with excitement.",
+    "example3": "Butterflies were fluttering among the flowers.",
+    "Explanation": "'Fluttering' is the present participle of the verb 'flutter'. It describes a specific kind of movement: light, rapid, and often trembling or irregular. This word is commonly used for wings, flags, eyelids, or hearts. It can describe physical movement or a feeling (e.g., heart fluttering from nerves). The word evokes delicacy, fragility, and a lack of steady control. It's often used in poetic or descriptive writing to create a vivid image of gentle, agitated motion.",
+    "synonyms": [
+      "flapping",
+      "quivering",
+      "trembling",
+      "flickering"
+    ],
+    "antonyms": [
+      "still",
+      "steady",
+      "motionless"
+    ],
+    "nounForm": "flutter",
+    "verbForm": "flutter",
+    "adjectiveForm": "fluttering",
+    "partOfSpeech": "verb (present participle) / adjective",
+    "commonContext": "Describing flags, wings, hearts, eyelashes, leaves",
+    "usageTip": "Use 'fluttering' to describe a light, quick, and often nervous or irregular movement.",
+    "commonMistake": "Confusing 'fluttering' with 'flattering'. They sound similar but have different meanings.",
+    "collocations": [
+      "heart fluttering",
+      "fluttering eyelids",
+      "fluttering flag"
+    ]
+  },
+  {
+    "word": "Fluttering",
+    "meaning": "Moving with quick, light, shaking motions",
+    "shortMeaning": "light shaking",
+    "example": "The cursor was fluttering due to a mouse driver issue.",
+    "example2": "A fluttering alert icon caught the user's attention.",
+    "example3": "The signal indicator was fluttering on and off.",
+    "Explanation": "The word 'fluttering' describes a light, rapid, and often irregular shaking or flickering motion. In software, it often describes UI elements, cursors, or indicators that are unstable and vibrate slightly on the screen. It can also refer to weak or unstable connections that appear to flicker. This motion is usually unintentional and signals a technical bug or hardware glitch. It is best to fix the underlying issue causing the flickering movement to ensure a smooth user experience.",
+    "synonyms": [
+      "flickering",
+      "trembling",
+      "vibrating"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "fixed"
+    ],
+    "nounForm": "flutter",
+    "verbForm": "flutter",
+    "adjectiveForm": "fluttering",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI stability, signal issues",
+    "usageTip": "Use 'fluttering' to describe an unstable, light, shaking movement.",
+    "commonMistake": "Confusing 'fluttering' with 'blinking' (which is rhythmic).",
+    "collocations": [
+      "fluttering cursor",
+      "fluttering signal",
+      "fluttering motion"
+    ]
+  }
+]

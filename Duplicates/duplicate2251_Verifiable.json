@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Verifiable",
+    "meaning": "Able to be proven or confirmed as true",
+    "shortMeaning": "can be proven",
+    "example": "The audit trail makes the data changes verifiable.",
+    "example2": "Ensure all user inputs are verifiable by the security system.",
+    "example3": "This is a verifiable fact based on the system logs.",
+    "Explanation": "Something is 'verifiable' if there is evidence or a process available to confirm its correctness. In IT, verification is essential for security, data integrity, and reliability. Systems are built with checkpoints, signatures, or checksums to make data 'verifiable' so that errors or tampering can be detected immediately. A system that cannot be verified is inherently untrustworthy. Always prioritize making your system output verifiable through logs, tests, or digital signatures.",
+    "synonyms": [
+      "provable",
+      "confirmable",
+      "authenticatable"
+    ],
+    "antonyms": [
+      "unverifiable",
+      "doubtful",
+      "unproven"
+    ],
+    "nounForm": "verifiability",
+    "verbForm": "verify",
+    "adjectiveForm": "verifiable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, data integrity, testing",
+    "usageTip": "Use 'verifiable' when referring to data integrity.",
+    "commonMistake": "Assuming everything is verifiable without having a logging system.",
+    "collocations": [
+      "verifiable proof",
+      "verifiable data",
+      "easily verifiable"
+    ]
+  },
+  {
+    "word": "Verifiable",
+    "meaning": "Able to be proven or tested to be true",
+    "shortMeaning": "testable",
+    "example": "The claims made in the report must be verifiable.",
+    "example2": "We require a verifiable source for this data.",
+    "example3": "The security protocol creates verifiable logs.",
+    "Explanation": "A 'verifiable' item is one that can be checked against a standard to confirm its accuracy or truth. In IT, verifiability is a pillar of security and quality assurance. If a system or process is not verifiable, it is prone to hidden errors or security compromises. Strive to make your designs and data sources verifiable. It builds confidence in the system and provides a path for auditing and accountability.",
+    "synonyms": [
+      "testable",
+      "provable",
+      "confirmable"
+    ],
+    "antonyms": [
+      "unverifiable",
+      "unproven",
+      "questionable"
+    ],
+    "nounForm": "verifiability",
+    "verbForm": "verify",
+    "adjectiveForm": "verifiable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Quality assurance and security",
+    "usageTip": "Use to describe information that can be checked.",
+    "commonMistake": "Confusing 'verifiable' with 'verified' (one is potential, one is complete).",
+    "collocations": [
+      "verifiable source",
+      "verifiable results",
+      "easily verifiable"
+    ]
+  }
+]

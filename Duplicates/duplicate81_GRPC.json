@@ -1,0 +1,63 @@
+[
+  {
+    "word": "GRPC",
+    "meaning": "A high-performance, open-source remote procedure call (RPC) framework that can run in any environment, using HTTP/2 for transport and Protocol Buffers as its interface definition language.",
+    "shortMeaning": "modern RPC framework",
+    "example": "Microservices in our system communicate internally using gRPC for speed.",
+    "example2": "gRPC uses .proto files to define the service methods and message structures.",
+    "example3": "Because it uses binary serialization, gRPC is faster and uses less bandwidth than JSON-based APIs.",
+    "Explanation": "gRPC (gRPC Remote Procedure Calls) is a modern RPC framework initially developed by Google. It allows a client application to call a method on a server application on a different machine as if it were a local object. Its key advantages are performance (due to HTTP/2 and binary Protocol Buffers), strong API contracts via .proto files, and built-in support for streaming, authentication, and load balancing. It's ideal for low-latency, highly scalable communications between internal services, like in a microservices architecture. It is less suited for browser-to-server communication where REST/GraphQL are more common.",
+    "synonyms": [
+      "binary RPC",
+      "protobuf RPC",
+      "high-performance RPC"
+    ],
+    "antonyms": [
+      "REST API",
+      "text-based API",
+      "slow serialization"
+    ],
+    "nounForm": "gRPC",
+    "verbForm": "call (using gRPC)",
+    "adjectiveForm": "gRPC (as in gRPC service)",
+    "partOfSpeech": "noun",
+    "commonContext": "Microservices, internal service communication, mobile client-server, cloud-native applications",
+    "usageTip": "Pronounced 'J-R-P-C' or 'gee-R-P-C'. It's often compared to REST for internal APIs.",
+    "commonMistake": "Trying to use gRPC directly from a web browser. While possible via gRPC-Web, it requires a proxy and is more complex than REST for public-facing APIs.",
+    "collocations": [
+      "gRPC service",
+      "gRPC client",
+      "define a gRPC proto",
+      "gRPC streaming",
+      "gRPC call"
+    ]
+  },
+  {
+    "word": "GRPC",
+    "meaning": "A high-performance, open-source remote procedure call framework.",
+    "shortMeaning": "remote call protocol",
+    "example": "We use GRPC for internal service communication.",
+    "example2": "GRPC is faster than traditional REST APIs.",
+    "example3": "The service implements a GRPC interface.",
+    "Explanation": "GRPC stands for Google Remote Procedure Call. It is a modern framework used to connect services in a distributed system, often using protocol buffers as the interface description language. It is highly efficient and supports bi-directional streaming. It is an adjective/noun used to describe the communication style of microservices. It is a very popular choice for high-performance backends. Always use it when discussing fast service-to-service communication.",
+    "synonyms": [
+      "remote-call-protocol"
+    ],
+    "antonyms": [
+      "REST",
+      "SOAP"
+    ],
+    "nounForm": "GRPC",
+    "verbForm": "N/A",
+    "adjectiveForm": "GRPC",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Microservices, backend, APIs",
+    "usageTip": "Use 'GRPC' for high-performance service calls.",
+    "commonMistake": "Confusing it with traditional RESTful APIs.",
+    "collocations": [
+      "GRPC service",
+      "GRPC communication",
+      "GRPC endpoint"
+    ]
+  }
+]

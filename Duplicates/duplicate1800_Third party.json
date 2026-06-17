@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Third party",
+    "meaning": "An outside company or individual that provides a product or service to another company",
+    "shortMeaning": "external provider",
+    "example": "We use a third party to handle our payment processing.",
+    "example2": "The software includes several third party components.",
+    "example3": "Third party security audits are required for our compliance.",
+    "Explanation": "In the context of IT, a third party is any entity that is not the developer (first party) or the user (second party). This could be a cloud provider like AWS, a payment processor like Stripe, or a vendor providing a specific tool. Companies use third parties to save time and money instead of building everything themselves. However, using a third party requires careful management of security and reliability. It is a very common term in business contracts and software licensing.",
+    "synonyms": [
+      "external vendor",
+      "outside provider",
+      "outsourced service"
+    ],
+    "antonyms": [
+      "in-house",
+      "internal",
+      "first-party"
+    ],
+    "nounForm": "third party",
+    "verbForm": "N/A",
+    "adjectiveForm": "third-party",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Business, software development, and security",
+    "usageTip": "Use 'third-party' (with a hyphen) when it acts as an adjective before a noun.",
+    "commonMistake": "Assuming that a third party is always less secure than an internal solution.",
+    "collocations": [
+      "third party software",
+      "third party vendor",
+      "third party access"
+    ]
+  },
+  {
+    "word": "Third party",
+    "meaning": "An entity that is not directly involved in the main relationship between two parties",
+    "shortMeaning": "external entity",
+    "example": "We use third party software to manage our database.",
+    "example2": "The security audit was performed by a third party.",
+    "example3": "Do not share data with any third party without permission.",
+    "Explanation": "A 'third party' is a person or organization that is not the user or the provider, but is involved in the service or product. In IT, this usually refers to vendors, external software developers, or service providers. Using 'third party' tools can be risky, so it is important to check for reliability and security. It is a standard business and technical term. It implies an external source beyond the primary internal team.",
+    "synonyms": [
+      "external provider",
+      "vendor",
+      "outside party"
+    ],
+    "antonyms": [
+      "internal",
+      "first-party",
+      "direct"
+    ],
+    "nounForm": "third party",
+    "verbForm": "N/A",
+    "adjectiveForm": "third-party",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software development, security, business contracts",
+    "usageTip": "Use 'third party' to refer to external sources or tools.",
+    "commonMistake": "Confusing 'third party' with 'middleman' (they are similar, but third party is the professional term).",
+    "collocations": [
+      "third party software",
+      "third party vendor",
+      "third party integration"
+    ]
+  }
+]

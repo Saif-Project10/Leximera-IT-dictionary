@@ -1,0 +1,63 @@
+[
+  {
+    "word": "App-like",
+    "meaning": "Having the characteristics, smoothness, or functionality of a native mobile application.",
+    "shortMeaning": "like an application",
+    "example": "The new website has an app-like feel with smooth transitions and offline capabilities.",
+    "example2": "Progressive Web Apps (PWAs) deliver app-like experiences in a browser.",
+    "example3": "The goal was to create an app-like interface for the web portal.",
+    "Explanation": "'App-like' is a compound adjective used to describe websites, web experiences, or software that mimics the look, feel, and performance of a native mobile app. This typically involves fast loading, smooth animations, gesture support, and sometimes offline functionality. It's a goal in modern web development to bridge the gap between websites and native apps. The term highlights user experience (UX) qualities rather than the underlying technology.",
+    "synonyms": [
+      "native-like",
+      "application-style"
+    ],
+    "antonyms": [
+      "clunky",
+      "web-page-like",
+      "static"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "app-like",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, user experience (UX) design, software reviews",
+    "usageTip": "Always hyphenate. Used to praise a web product for its superior, seamless user experience.",
+    "commonMistake": "Using it to describe an actual native app (redundant). It's for non-app things that feel like apps.",
+    "collocations": [
+      "app-like experience",
+      "app-like performance",
+      "app-like UI"
+    ]
+  },
+  {
+    "word": "App-like",
+    "meaning": "Resembling a mobile or desktop application in speed, design, and user experience",
+    "shortMeaning": "Behaving like an app",
+    "example": "Progressive Web Apps provide an app-like experience inside a standard web browser.",
+    "example2": "The designer gave the website a clean, app-like interface with smooth animations.",
+    "example3": "Users love the app-like feel of this new cloud dashboard.",
+    "Explanation": "The word 'app-like' is a modern technical descriptor used primarily in web design and front-end development. It is used to describe websites or web applications that run so smoothly, quickly, and interactively that they feel like software installed directly on a computer or phone, rather than an old, slow web page that reloads constantly. It implies modern design patterns, high responsiveness, and touch-friendly layouts. It does not have noun or verb variations.",
+    "synonyms": [
+      "responsive",
+      "native-feeling",
+      "interactive"
+    ],
+    "antonyms": [
+      "static",
+      "website-like",
+      "clunky"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "app-like",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, UI/UX design, mobile web optimization",
+    "usageTip": "Use 'app-like' to describe high-performance web systems that feature smooth animations and immediate user feedback.",
+    "commonMistake": "Using 'app-like' to describe an actual mobile app; it is only used for things that are *not* apps but mimic them.",
+    "collocations": [
+      "app-like experience",
+      "app-like feel",
+      "app-like interface"
+    ]
+  }
+]

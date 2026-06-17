@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Hyperlink",
+    "meaning": "A clickable icon or piece of text that takes you to another page or location on the internet",
+    "shortMeaning": "web link",
+    "example": "Please click the hyperlink below to download the report.",
+    "example2": "A broken hyperlink results in the famous '404 Not Found' error.",
+    "example3": "Most hyperlinks turn blue and get underlined when you hover over them.",
+    "Explanation": "A hyperlink is the basic building block of the World Wide Web. It connects one document to another. A hyperlink consists of two parts: the 'address' (URL) and the 'anchor' (the text or image you actually see). Without hyperlinks, the internet would just be a collection of isolated files. They allow for 'non-linear' reading, meaning you can jump from one topic to a related one instantly. In HTML code, they are created using the  tag. They can point to other websites, specific sections of the same page, or even trigger an email or a file download.",
+    "synonyms": [
+      "link",
+      "web link",
+      "hotlink",
+      "anchor"
+    ],
+    "antonyms": [
+      "plain text"
+    ],
+    "nounForm": "hyperlink",
+    "verbForm": "hyperlink",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing, digital documents, and emails",
+    "usageTip": "Make sure your hyperlink text is descriptive (e.g., 'Download PDF') rather than just saying 'Click Here'.",
+    "commonMistake": "Forgetting to include 'https://' in the background URL, which can make the hyperlink fail.",
+    "collocations": [
+      "click a hyperlink",
+      "broken hyperlink",
+      "embedded hyperlink"
+    ]
+  },
+  {
+    "word": "Hyperlink",
+    "meaning": "A digital link in a document that takes you to a different page or location when you click it",
+    "shortMeaning": "clickable link",
+    "example": "Click on the hyperlink to read the full article.",
+    "example2": "You can add a hyperlink to any word in your document.",
+    "example3": "Broken hyperlinks are frustrating for website visitors.",
+    "Explanation": "The 'hyperlink' is the basic building block of the World Wide Web. It is what connects one page to another. You can turn text, images, or buttons into hyperlinks. In HTML, we use the `<a>` (anchor) tag to create them. Hyperlinks allow users to navigate the internet easily without knowing exactly where a file is stored. They can link to another website, a file (like a PDF), or even a different part of the same page. Without hyperlinks, the internet would just be a collection of disconnected documents.",
+    "synonyms": [
+      "link",
+      "web link",
+      "anchor"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "hyperlink",
+    "verbForm": "hyperlink",
+    "adjectiveForm": "hyperlinked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing, writing, and HTML",
+    "usageTip": "Use 'hyperlink' to refer to the clickable text or image on a page.",
+    "commonMistake": "Thinking a hyperlink is just the URL—the hyperlink is the clickable part, the URL is the address it goes to.",
+    "collocations": [
+      "internal hyperlink",
+      "external hyperlink",
+      "insert hyperlink"
+    ]
+  }
+]

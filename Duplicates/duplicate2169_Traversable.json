@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Traversable",
+    "meaning": "Able to be moved across or traveled through",
+    "shortMeaning": "can be navigated",
+    "example": "The binary tree is fully traversable.",
+    "example2": "Make sure the file directory is traversable.",
+    "example3": "The path in the graph is traversable by the algorithm.",
+    "Explanation": "Traversable refers to something that can be navigated or explored. In IT, this is frequently used when talking about data structures like trees, graphs, or directories. If a structure is traversable, you can write an algorithm to visit every node or element within it. This is essential for searching, sorting, and analyzing data. A structure that is not traversable might be broken or inaccessible. Understanding how to traverse data is a core computer science skill.",
+    "synonyms": [
+      "navigable",
+      "accessible",
+      "explorable"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "blocked"
+    ],
+    "nounForm": "traversal",
+    "verbForm": "traverse",
+    "adjectiveForm": "traversable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data structures, algorithms, file systems",
+    "usageTip": "Use this for graphs, trees, or paths that need to be navigated.",
+    "commonMistake": "Thinking 'traversable' is only for physical paths.",
+    "collocations": [
+      "traversable graph",
+      "fully traversable",
+      "traversable path"
+    ]
+  },
+  {
+    "word": "Traversable",
+    "meaning": "Able to be traveled across or navigated through",
+    "shortMeaning": "navigable",
+    "example": "The data graph is easily traversable.",
+    "example2": "The file structure is not fully traversable by this tool.",
+    "example3": "He designed a traversable path for the game character.",
+    "Explanation": "The word 'traversable' means you can go from start to end, moving through the parts in between. In programming, 'traversing' a tree or a graph means going through each node systematically. If a structure is 'traversable', it means the software can read every part of it without hitting a dead end. It is a fundamental concept in data structures and game design. It describes the navigability of the structure.",
+    "synonyms": [
+      "navigable",
+      "accessible",
+      "explorable"
+    ],
+    "antonyms": [
+      "impassable",
+      "blocked"
+    ],
+    "nounForm": "traversal",
+    "verbForm": "traverse",
+    "adjectiveForm": "traversable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data structures, game development, algorithms",
+    "usageTip": "Use 'traversable' when describing if a graph or tree can be fully read.",
+    "commonMistake": "Confusing it with 'travelable' (which is for physical roads).",
+    "collocations": [
+      "traversable graph",
+      "traversable path",
+      "fully traversable"
+    ]
+  }
+]

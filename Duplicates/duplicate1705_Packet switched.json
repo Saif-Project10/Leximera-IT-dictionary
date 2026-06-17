@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Packet switched",
+    "meaning": "A method of grouping data into packets for transmission over a digital network",
+    "shortMeaning": "data sent in blocks",
+    "example": "The internet is a packet switched network.",
+    "example2": "Packet switched technology is much more efficient than circuit switching.",
+    "example3": "Our modern phone calls are now mostly packet switched.",
+    "Explanation": "Packet switched refers to a networking technology where data is broken into small pieces called packets. These packets are sent independently across the network and can even take different routes to reach the same destination. This is the foundation of the modern internet. It is very efficient because multiple people can use the same physical lines at the same time. This is the opposite of 'circuit switching,' which was used in old telephone systems where a dedicated line was kept open for just one conversation. It allows for flexible and robust communication.",
+    "synonyms": [
+      "packet-based",
+      "connectionless"
+    ],
+    "antonyms": [
+      "circuit switched"
+    ],
+    "nounForm": "packet switching",
+    "verbForm": "N/A",
+    "adjectiveForm": "packet switched",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network architecture and telecommunications",
+    "usageTip": "Use this to describe the nature of a network like the Internet or a LAN.",
+    "commonMistake": "Confusing it with 'circuit switched', which is for older, dedicated lines.",
+    "collocations": [
+      "packet switched network",
+      "packet switched data",
+      "packet switched services"
+    ]
+  },
+  {
+    "word": "Packet switched",
+    "meaning": "Method of grouping data into packets for transmission",
+    "shortMeaning": "data-packet based",
+    "example": "The internet is a packet switched network.",
+    "example2": "Packet switched systems are highly efficient.",
+    "example3": "Old phone systems were not packet switched.",
+    "Explanation": "A 'packet switched' network is a digital networking communications method that groups all transmitted data into blocks called packets. These packets are sent independently and reassembled at the destination. It is the core of modern internet traffic, unlike 'circuit switching' which reserves a dedicated path. The noun form is 'packet switching'. Understanding this is fundamental to networking, as it explains how data travels globally. It allows for multiple users to share a single channel.",
+    "synonyms": [
+      "networked",
+      "data-packet-based",
+      "distributed"
+    ],
+    "antonyms": [
+      "circuit switched",
+      "dedicated",
+      "line-based"
+    ],
+    "nounForm": "packet switching",
+    "verbForm": "N/A",
+    "adjectiveForm": "packet-switched",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, communications",
+    "usageTip": "Use when explaining how data moves on the internet.",
+    "commonMistake": "Assuming all data transmission is packet switched.",
+    "collocations": [
+      "packet switched network",
+      "packet switched data",
+      "packet switching technology"
+    ]
+  }
+]

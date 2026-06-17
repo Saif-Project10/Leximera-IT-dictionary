@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Chronicle",
+    "meaning": "A factual written account of important or historical events in the order of their occurrence.",
+    "shortMeaning": "historical record",
+    "example": "The book is a chronicle of the war years.",
+    "example2": "Medieval monks kept chronicles of daily events.",
+    "example3": "The documentary chronicles the life of the artist.",
+    "Explanation": "Chronicle is primarily a noun meaning a historical record of events presented in chronological order. It implies accuracy, detail, and a focus on recording facts over time. As a verb, it means to record events in such a way. It is more formal and structured than 'story' or 'account' and is associated with history, journalism, and documentaries. A common mistake is using it for any long story; a chronicle specifically emphasizes the sequence and recording of real events. This word is valuable for discussing history, biographies, and any detailed, time-based reporting.",
+    "synonyms": [
+      "record",
+      "history",
+      "annals",
+      "log",
+      "narrative"
+    ],
+    "antonyms": [
+      "fiction",
+      "fable",
+      "N/A"
+    ],
+    "nounForm": "chronicle",
+    "verbForm": "chronicle",
+    "adjectiveForm": "chronicled",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "History books, journalism, documentaries, and diaries.",
+    "usageTip": "Use 'chronicle' as a noun for a detailed historical record, or as a verb meaning 'to document over time.'",
+    "commonMistake": "Pronouncing it as 'chron-i-cal'; the correct pronunciation is 'KRON-i-kuhl.'",
+    "collocations": [
+      "historical chronicle",
+      "chronicle of events",
+      "to chronicle"
+    ]
+  },
+  {
+    "word": "Chronicle",
+    "meaning": "A factual written account of important or historical events in the order of their occurrence",
+    "shortMeaning": "historical record",
+    "example": "The log files chronicle every attempt to log into the server.",
+    "example2": "We need to chronicle the development of the software from day one.",
+    "example3": "The database acts as a chronicle of all customer transactions.",
+    "Explanation": "In a digital context, to 'chronicle' means to record events as they happen over time. This is often done through 'logging'. A chronicle provides a timeline that is essential for auditing and debugging. If a system fails, the chronicle (logs) allows engineers to see exactly what happened before the crash. It implies a detailed and continuous record-keeping process rather than just a summary. It is about maintaining history.",
+    "synonyms": [
+      "record",
+      "log",
+      "archive"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "chronicle",
+    "verbForm": "chronicle",
+    "adjectiveForm": "chronological",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Logging, history, and documentation",
+    "usageTip": "Use 'chronicle' to describe the act of keeping a detailed history of events.",
+    "commonMistake": "Confusing it with a 'story'; a chronicle is strictly about the order of facts.",
+    "collocations": [
+      "chronicle events",
+      "daily chronicle",
+      "chronological order"
+    ]
+  }
+]

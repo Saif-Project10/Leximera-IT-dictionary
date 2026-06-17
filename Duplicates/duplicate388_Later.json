@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Later",
+    "meaning": "At a time in the future; after the present time or the time mentioned",
+    "shortMeaning": "after now; afterward",
+    "example": "I'll finish my homework later.",
+    "example2": "See you later!",
+    "example3": "The details were added in a later edition of the book.",
+    "Explanation": "The adverb 'later' is one of the most basic and frequently used time words in English. It simply refers to a point in time after the current moment or after a specified time. It can also be used as an adjective (a later chapter). It is informal and versatile. 'Later' is less formal than 'subsequently' and less final than 'eventually'. It's essential for scheduling and casual conversation.",
+    "synonyms": [
+      "afterward",
+      "subsequently",
+      "in a while",
+      "by and by"
+    ],
+    "antonyms": [
+      "now",
+      "immediately",
+      "earlier",
+      "before"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "later",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Everyday conversation, scheduling, narratives",
+    "usageTip": "Use 'later' to postpone something informally: 'Let's talk about this later.'",
+    "commonMistake": "Confusing 'later' (time) with 'latter' (the second of two things mentioned).",
+    "collocations": [
+      "later on",
+      "see you later",
+      "sooner or later",
+      "years later"
+    ]
+  },
+  {
+    "word": "Later",
+    "meaning": "At a time in the future or after a specific point",
+    "shortMeaning": "at a future time",
+    "example": "We can address this bug later in the development cycle.",
+    "example2": "The system will automatically restart later tonight.",
+    "example3": "I will check the logs later today.",
+    "Explanation": "The word 'later' refers to a point in time that comes after the current moment or after a mentioned event. In programming, you might schedule tasks to occur later to avoid blocking the main thread. It is a common term in task management and workflow planning. Always clarify exactly when 'later' is if you are working in a team, as it is subjective. It helps in prioritizing tasks by moving less urgent items to a future slot.",
+    "synonyms": [
+      "afterwards",
+      "subsequently",
+      "in the future"
+    ],
+    "antonyms": [
+      "earlier",
+      "now",
+      "immediately"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "later",
+    "partOfSpeech": "adverb / adjective",
+    "commonContext": "Task management, scheduling, workflows",
+    "usageTip": "Use 'later' when you need to postpone a non-critical task.",
+    "commonMistake": "Using 'later' without defining a clear timeframe for teammates.",
+    "collocations": [
+      "later today",
+      "later stage",
+      "come back later"
+    ]
+  }
+]

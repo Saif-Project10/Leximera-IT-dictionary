@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Serial",
+    "meaning": "Operating one after another, or referring to a type of data transmission",
+    "shortMeaning": "one at a time",
+    "example": "The data is sent via a serial connection.",
+    "example2": "Serial processing involves doing tasks one at a time.",
+    "example3": "Check the serial port configuration.",
+    "Explanation": "Serial usually refers to the method of sending data one bit at a time, one after another. In broader computing, it means doing things one by one rather than all together. Serial connections were common for old keyboards and mice. Today, 'serial' is used to describe everything from communication protocols to the way a database handles incoming requests. It is a very common term for describing a linear, sequential approach to tasks or data.",
+    "synonyms": [
+      "linear",
+      "sequential",
+      "successive"
+    ],
+    "antonyms": [
+      "parallel",
+      "simultaneous",
+      "concurrent"
+    ],
+    "nounForm": "series",
+    "verbForm": "N/A",
+    "adjectiveForm": "serial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, processing, hardware",
+    "usageTip": "Use 'serial' to describe data sent bit-by-bit or tasks done one after another.",
+    "commonMistake": "Confusing 'serial' (one by one) with 'parallel' (many at once).",
+    "collocations": [
+      "serial port",
+      "serial communication",
+      "serial processing"
+    ]
+  },
+  {
+    "word": "Serial",
+    "meaning": "Arranged or done in a series; one after another",
+    "shortMeaning": "in a series",
+    "example": "We use a serial port to connect the hardware.",
+    "example2": "The data is sent in serial format.",
+    "example3": "Serial communication is slower than parallel, but more reliable.",
+    "Explanation": "Serial refers to the transmission of data bit-by-bit over a single line or channel. It is a fundamental communication method for many hardware devices, like keyboards or older mice. While once the standard, modern tech often uses faster parallel methods for high-speed data. However, serial remains very important for low-cost, long-distance, or simple device connectivity. It is a foundational term in electronics and network communication.",
+    "synonyms": [
+      "sequential",
+      "successive"
+    ],
+    "antonyms": [
+      "parallel"
+    ],
+    "nounForm": "series",
+    "verbForm": "N/A",
+    "adjectiveForm": "serial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Electronics, networking",
+    "usageTip": "Use 'serial' when referring to data transmitted one bit at a time.",
+    "commonMistake": "Confusing 'serial' with 'sequential' in all contexts.",
+    "collocations": [
+      "serial port",
+      "serial communication",
+      "serial data"
+    ]
+  }
+]

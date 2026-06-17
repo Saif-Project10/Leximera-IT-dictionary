@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Code",
+    "meaning": "A system of words, letters, figures, or symbols used to represent others, especially for secrecy; instructions for a computer program.",
+    "shortMeaning": "secret system; computer instructions",
+    "example": "The spies communicated using a secret code.",
+    "example2": "She writes code for a living as a software engineer.",
+    "example3": "Please enter your access code.",
+    "Explanation": "Code is a noun and verb with two primary modern meanings. First, it's a system of signals or symbols for communication, often secret. Second, and dominantly in tech, it's the written instructions in a programming language that a computer can execute. As a verb, it means to write software or to encode a message. 'Source code' is the human-readable version. A common mistake is thinking 'code' is mysterious; it's simply a precise set of instructions. This word is central to computer science, cryptography, and any field involving programmed systems.",
+    "synonyms": [
+      "program",
+      "script",
+      "cipher",
+      "instructions"
+    ],
+    "antonyms": [
+      "plaintext",
+      "N/A"
+    ],
+    "nounForm": "code",
+    "verbForm": "code",
+    "adjectiveForm": "coded",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming, cryptography, security, and law (legal code).",
+    "usageTip": "In tech, 'code' is usually uncountable (e.g., 'lines of code,' not 'codes'). 'Codes' can refer to multiple distinct systems (e.g., 'bar codes').",
+    "commonMistake": "Using 'coding' to mean only programming; it can also mean categorizing data in research.",
+    "collocations": [
+      "source code",
+      "code of conduct",
+      "break the code"
+    ]
+  },
+  {
+    "word": "Code",
+    "meaning": "To write instructions for a computer using a programming language",
+    "shortMeaning": "program",
+    "example": "She spent the afternoon trying to code a new feature for the app.",
+    "example2": "I need to learn how to code in Python.",
+    "example3": "The code for the website is open source.",
+    "Explanation": "Code is the language used to communicate with computers. As a verb, 'to code' is the act of creating software. As a noun, it refers to the lines of text written by a developer. Code can range from simple HTML for a website to complex C++ for an operating system. Coding requires logical thinking and attention to detail. It is the foundation of all digital technology we use today.",
+    "synonyms": [
+      "program",
+      "develop",
+      "script"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "code / coder / coding",
+    "verbForm": "code",
+    "adjectiveForm": "coded",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Software development",
+    "usageTip": "Use 'code' as a general term for programming.",
+    "commonMistake": "Using 'codes' as a plural for software; 'code' is usually uncountable in this context.",
+    "collocations": [
+      "source code",
+      "write code",
+      "clean code"
+    ]
+  }
+]

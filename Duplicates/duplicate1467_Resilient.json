@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Resilient",
+    "meaning": "Able to withstand or recover quickly from difficult conditions",
+    "shortMeaning": "tough, able to bounce back",
+    "example": "Children are often very resilient.",
+    "example2": "The economy has shown itself to be resilient.",
+    "example3": "This material is resilient to heat and corrosion.",
+    "Explanation": "'Resilient' is a positive adjective describing the capacity to endure stress, shock, or adversity and return to form. It can apply to people (emotional resilience), materials (physical resilience), systems (economic resilience), or ecosystems. The noun is 'resilience'. It's a highly valued trait in individuals and designs because it implies strength, flexibility, and durability. In psychology, building resilience is a key goal for mental health. It's about more than just surviving; it's about adapting and thriving.",
+    "synonyms": [
+      "tough",
+      "durable",
+      "flexible"
+    ],
+    "antonyms": [
+      "fragile",
+      "vulnerable",
+      "weak"
+    ],
+    "nounForm": "resilience",
+    "verbForm": "N/A",
+    "adjectiveForm": "resilient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Psychology, materials science, ecology, business",
+    "usageTip": "Often followed by 'to' (resilient to pressure) or 'in the face of' (resilient in the face of disaster).",
+    "commonMistake": "Confusing it with 'resistant'. Resilient means able to recover; resistant means able to prevent damage.",
+    "collocations": [
+      "highly resilient",
+      "resilient economy",
+      "resilient spirit"
+    ]
+  },
+  {
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from problems or failures",
+    "shortMeaning": "tough, quick-recovering",
+    "example": "The system must be resilient to network failures.",
+    "example2": "We designed a highly resilient cloud architecture.",
+    "example3": "Resilient software continues working even under pressure.",
+    "Explanation": "The term 'resilient' is highly positive in IT, describing systems that can withstand and bounce back from hardware or software failures. A 'resilient system' doesn't necessarily mean it never breaks; it means it recovers quickly without losing data or functionality. The noun form is 'resilience'. This is a key requirement for modern cloud-native systems, which are expected to survive individual service outages without impacting the end user.",
+    "synonyms": [
+      "robust",
+      "tough",
+      "durable"
+    ],
+    "antonyms": [
+      "fragile",
+      "brittle",
+      "weak"
+    ],
+    "nounForm": "resilience",
+    "verbForm": "N/A",
+    "adjectiveForm": "resilient",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems architecture, cloud infrastructure, reliability",
+    "usageTip": "Use 'resilient' to describe systems that handle failures well.",
+    "commonMistake": "Using 'resilient' to mean 'immune to errors'; it means 'recovers from them'.",
+    "collocations": [
+      "resilient system",
+      "highly resilient",
+      "resilient infrastructure"
+    ]
+  }
+]

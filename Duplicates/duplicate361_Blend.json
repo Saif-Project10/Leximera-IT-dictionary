@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Blend",
+    "meaning": "To mix substances together smoothly so they combine inseparably; a mixture of different things that combine well.",
+    "shortMeaning": "mix smoothly; harmonious mixture",
+    "example": "Blend the soup until it is smooth.",
+    "example2": "The spices blend together to create a unique flavor.",
+    "example3": "His painting is a perfect blend of realism and imagination.",
+    "Explanation": "Blend implies a thorough, harmonious mixing where the individual components lose their distinct identity and create a uniform or cohesive whole. It's more specific than 'mix'. You blend ingredients in a blender to make a smoothie. Figuratively, it describes things that combine well without clashing, like colors that blend or ideas that blend seamlessly. As a noun, it's a mixture, often one that is skillfully created (a tea blend). The word carries connotations of smoothness, integration, and harmony.",
+    "synonyms": [
+      "mix",
+      "combine",
+      "merge",
+      "fuse",
+      "amalgamate"
+    ],
+    "antonyms": [
+      "separate",
+      "clash",
+      "divide"
+    ],
+    "nounForm": "blend",
+    "verbForm": "blend",
+    "adjectiveForm": "blended",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Cooking, art, design, language, coffee/tea",
+    "usageTip": "Often used with 'in' or 'into': 'blend into the background', 'blend the butter into the flour'.",
+    "commonMistake": "Using 'blend' when you mean a rough combination; use 'mix' for that.",
+    "collocations": [
+      "blend in",
+      "perfect blend",
+      "spice blend"
+    ]
+  },
+  {
+    "word": "Blend",
+    "meaning": "To mix two or more things together so they become a single thing",
+    "shortMeaning": "mix together",
+    "example": "The designer used a tool to blend the two colors smoothly on the website.",
+    "example2": "Good software should blend high performance with an easy-to-use interface.",
+    "example3": "You can blend multiple audio tracks to create a custom sound effect.",
+    "Explanation": "Blending is about creating a smooth transition. In graphic design, 'layer blending' determines how two images interact (e.g., making one more transparent). In CSS, the `mix-blend-mode` property allows developers to blend an element's content with its background. It is also used metaphorically in business to describe a 'blended learning' approach that combines online and in-person teaching.",
+    "synonyms": [
+      "merge",
+      "fuse",
+      "combine",
+      "mingle"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "isolate"
+    ],
+    "nounForm": "blend",
+    "verbForm": "blend",
+    "adjectiveForm": "blended",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Graphic design, web UI, audio editing, education",
+    "usageTip": "Use the 'Multiply' blend mode in Photoshop to make shadows look more realistic.",
+    "commonMistake": "Blending too many different styles, which can make a website look messy.",
+    "collocations": [
+      "blend in",
+      "perfect blend",
+      "seamlessly blend"
+    ]
+  }
+]

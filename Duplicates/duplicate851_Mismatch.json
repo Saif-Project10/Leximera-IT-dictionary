@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Mismatch",
+    "meaning": "A failure to correspond or match; a bad match.",
+    "shortMeaning": "bad match; failure to correspond",
+    "example": "There is a mismatch between his skills and the job requirements.",
+    "example2": "The socks were a mismatch; one was blue, one was black.",
+    "example3": "The mismatch in strength made the game unfair.",
+    "Explanation": "As a noun, a 'mismatch' is a combination of things that do not go well together because they are unequal or incompatible. As a verb, 'to mismatch' means to match unsuitably. The word highlights discord, imbalance, or unsuitability. It is used in sports (mismatched opponents), employment (skills mismatch), relationships, and design. Recognizing a mismatch is important for solving problems of fit, whether in hiring, manufacturing, or pairing.",
+    "synonyms": [
+      "discrepancy",
+      "incompatibility",
+      "misfit",
+      "incongruity"
+    ],
+    "antonyms": [
+      "match",
+      "correspondence",
+      "compatibility",
+      "fit"
+    ],
+    "nounForm": "mismatch",
+    "verbForm": "mismatch",
+    "adjectiveForm": "mismatched",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Skills, sports, relationships, data",
+    "usageTip": "Use 'mismatch' to point out where two things that are supposed to go together are actually unsuitable for each other.",
+    "commonMistake": "Using 'mismatch' as an adjective. The adjective is 'mismatched' (e.g., mismatched socks).",
+    "collocations": [
+      "skills mismatch",
+      "mismatch between",
+      "gross mismatch",
+      "create a mismatch"
+    ]
+  },
+  {
+    "word": "Mismatch",
+    "meaning": "A failure to correspond or match; two things that are not compatible",
+    "shortMeaning": "unsuitable pair",
+    "example": "There is a data type mismatch between the database and the code.",
+    "example2": "A mismatch between the software and the hardware can cause the system to crash.",
+    "example3": "We noticed a mismatch in the numbers reported by the two different tools.",
+    "Explanation": "Mismatch is a very common technical term. A 'Type Mismatch' error in programming happens when you try to treat a piece of text (string) as a number. In networking, an 'MTU mismatch' can stop data from flowing between two routers. It basically means two things that should be the same or work together are actually different. This can lead to bugs, crashes, or security flaws. Fixing a mismatch usually requires changing one of the items so that they follow the same rules or formats. It is a sign that something is out of balance.",
+    "synonyms": [
+      "discrepancy",
+      "incompatibility",
+      "clash"
+    ],
+    "antonyms": [
+      "match",
+      "agreement",
+      "correspondence"
+    ],
+    "nounForm": "mismatch",
+    "verbForm": "mismatch",
+    "adjectiveForm": "mismatched",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Programming, data analysis, hardware compatibility",
+    "usageTip": "Use 'mismatch' when two related things are different in a way that causes problems.",
+    "commonMistake": "Using 'mismatch' when you mean 'missing'; mismatch means it's there but it's wrong.",
+    "collocations": [
+      "data type mismatch",
+      "mismatch in settings",
+      "perfect mismatch"
+    ]
+  }
+]

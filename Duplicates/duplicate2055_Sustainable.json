@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sustainable",
+    "meaning": "Able to be maintained or continued over a long time",
+    "shortMeaning": "long-term",
+    "example": "We need a sustainable growth strategy for the app.",
+    "example2": "The current workload is not sustainable for the team.",
+    "example3": "Sustainable design focuses on minimizing environmental impact.",
+    "Explanation": "The word 'sustainable' means something that can last and continue indefinitely without depleting its resources or causing burnout. While often used for the environment (like 'sustainable energy'), in business, it refers to systems, growth, or workflows that won't cause failure or fatigue. A 'sustainable' pace of work ensures the team stays healthy and the project stays on track. It is a core value for modern business and engineering.",
+    "synonyms": [
+      "maintainable",
+      "durable",
+      "long-term"
+    ],
+    "antonyms": [
+      "unsustainable",
+      "temporary",
+      "short-lived"
+    ],
+    "nounForm": "sustainability",
+    "verbForm": "sustain",
+    "adjectiveForm": "sustainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, business, environment",
+    "usageTip": "Use 'sustainable' for processes that need to last a long time.",
+    "commonMistake": "Confusing 'sustainable' with 'profitable' (it means long-lasting, not necessarily making money).",
+    "collocations": [
+      "sustainable growth",
+      "sustainable design",
+      "sustainable pace"
+    ]
+  },
+  {
+    "word": "Sustainable",
+    "meaning": "Able to be maintained over the long term without causing harm",
+    "shortMeaning": "long-lasting",
+    "example": "We need a sustainable solution for our power needs.",
+    "example2": "The project is not sustainable due to high maintenance costs.",
+    "example3": "Building sustainable IT infrastructure is a priority.",
+    "Explanation": "Sustainable means something that can continue for a long time without failing or causing damage. In IT, this often refers to energy efficiency, cost-effective scaling, or code that is easy to maintain. It is a buzzword that is becoming very important in 'Green IT'. Using 'sustainable' means you are thinking about the future, not just fixing a problem for today. It implies durability, efficiency, and responsibility.",
+    "synonyms": [
+      "maintainable",
+      "durable",
+      "long-term"
+    ],
+    "antonyms": [
+      "unsustainable",
+      "temporary",
+      "wasteful"
+    ],
+    "nounForm": "sustainability",
+    "verbForm": "sustain",
+    "adjectiveForm": "sustainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Green IT, project management, system architecture",
+    "usageTip": "Use 'sustainable' for solutions that are meant to last a long time.",
+    "commonMistake": "Using 'sustainable' when you just mean 'cheap' (it's about the future, not just price).",
+    "collocations": [
+      "sustainable development",
+      "sustainable solution",
+      "long-term sustainability"
+    ]
+  }
+]

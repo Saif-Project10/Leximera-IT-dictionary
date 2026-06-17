@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Solved",
+    "meaning": "Successfully fixed or answered",
+    "shortMeaning": "fixed",
+    "example": "The ticket was marked as solved after the patch.",
+    "example2": "We finally solved the infinite loop issue.",
+    "example3": "The mystery of the performance drop is solved.",
+    "Explanation": "The word 'solved' is the past participle of 'solve'. It means that a problem, bug, or technical mystery has been addressed and fixed. In help-desk and project management software, 'solved' is a status used to show that no more work is required. It is one of the most rewarding words in IT, as it represents a successful conclusion to an issue. Always ensure a 'solved' issue has been verified by testing before closing the task for good.",
+    "synonyms": [
+      "fixed",
+      "resolved",
+      "addressed"
+    ],
+    "antonyms": [
+      "unresolved",
+      "open",
+      "pending"
+    ],
+    "nounForm": "solution",
+    "verbForm": "solve",
+    "adjectiveForm": "solved",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Help desk, bug tracking, support",
+    "usageTip": "Use 'solved' when an issue is completely finished.",
+    "commonMistake": "Marking an issue 'solved' without testing the fix.",
+    "collocations": [
+      "issue solved",
+      "solved the bug"
+    ]
+  },
+  {
+    "word": "Solved",
+    "meaning": "Successfully found an answer or fix to a problem.",
+    "shortMeaning": "fixed or answered",
+    "example": "We have solved the server connectivity issue.",
+    "example2": "The mystery of the slow login was solved yesterday.",
+    "example3": "The issue is marked as solved in the ticket system.",
+    "Explanation": "The word 'solved' is the past participle of 'solve'. It means that a problem or mystery has been addressed and the outcome is settled. In technical support and software development, 'solved' is a very important status indicating that a task is finished and the error is gone. It represents the final stage of the troubleshooting lifecycle. It is a standard term used in databases, Jira, and customer service desks. Ensure you use it only when the issue is confirmed to be resolved.",
+    "synonyms": [
+      "fixed",
+      "resolved",
+      "answered"
+    ],
+    "antonyms": [
+      "unresolved",
+      "open",
+      "pending"
+    ],
+    "nounForm": "solution",
+    "verbForm": "solve",
+    "adjectiveForm": "solved",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Troubleshooting, support tickets, puzzles",
+    "usageTip": "Use 'solved' to indicate a task is fully complete.",
+    "commonMistake": "Marking a ticket 'solved' before testing the fix.",
+    "collocations": [
+      "solved the problem",
+      "issue solved",
+      "successfully solved"
+    ]
+  }
+]

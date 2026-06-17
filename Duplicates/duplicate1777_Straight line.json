@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Straight line",
+    "meaning": "A line that does not curve; in computing, a sequence that follows a direct path",
+    "shortMeaning": "direct path",
+    "example": "The light travels in a straight line from the source.",
+    "example2": "The algorithm follows a straight line without any complex branches.",
+    "example3": "Draw a straight line to connect the two data points.",
+    "Explanation": "While a 'straight line' is a basic geometric concept, in IT it often refers to how a process or code flows. If a program is a 'straight line', it means it goes from start to finish without jumping around or making complicated decisions. It is the simplest path possible. In data visualization, a straight line is often used to show a steady trend or a direct relationship between two things. It is synonymous with being direct, simple, and predictable.",
+    "synonyms": [
+      "direct",
+      "linear",
+      "unswerving"
+    ],
+    "antonyms": [
+      "curved",
+      "winding",
+      "indirect"
+    ],
+    "nounForm": "straight line",
+    "verbForm": "N/A",
+    "adjectiveForm": "straight-line",
+    "partOfSpeech": "noun",
+    "commonContext": "Geometry, graphics, and simple programming logic",
+    "usageTip": "Use 'straight line' to describe something that has no curves or no deviations.",
+    "commonMistake": "Spelling it as 'strait line' (which refers to water).",
+    "collocations": [
+      "draw a straight line",
+      "straight line path",
+      "straight line distance"
+    ]
+  },
+  {
+    "word": "Straight line",
+    "meaning": "A path between two points with no curves",
+    "shortMeaning": "direct path",
+    "example": "The UI design features a straight line connecting the nodes.",
+    "example2": "The graph shows a straight line for linear growth.",
+    "example3": "The robot moves in a straight line toward the goal.",
+    "Explanation": "A 'straight line' in IT is often used in graphics, charts, and pathfinding algorithms. It represents the shortest distance between two points. In design, it signifies clarity, directness, and simplicity. It is also used metaphorically to describe a direct, linear approach to a problem. When coding paths or animations, straight lines are the most basic and common element to work with.",
+    "synonyms": [
+      "linear",
+      "direct",
+      "straight"
+    ],
+    "antonyms": [
+      "curve",
+      "jagged",
+      "complex"
+    ],
+    "nounForm": "line",
+    "verbForm": "N/A",
+    "adjectiveForm": "linear",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Graphics, pathfinding, charts",
+    "usageTip": "Use to describe direct paths or linear relationships.",
+    "commonMistake": "Confusing 'straight line' with 'diagonal' in specific layouts.",
+    "collocations": [
+      "straight line graph",
+      "straight line path"
+    ]
+  }
+]

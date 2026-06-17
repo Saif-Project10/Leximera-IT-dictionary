@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Opt in",
+    "meaning": "To choose to take part in something or join a particular group",
+    "shortMeaning": "choose to join",
+    "example": "You must opt in to receive our weekly newsletter.",
+    "example2": "The user decided to opt in for beta testing the new app.",
+    "example3": "The service is disabled by default; you have to opt in.",
+    "Explanation": "The phrase 'opt in' describes an active choice made by a user to participate in a program, service, or data collection. In IT, this usually refers to privacy settings or marketing emails. Instead of being automatically included, the user must tick a box or click a button to join. It is a fundamental concept in modern data protection laws like GDPR. This ensures that a person's consent is intentional rather than accidental. It is often contrasted with 'opt out' where the user is joined automatically and must ask to leave.",
+    "synonyms": [
+      "join",
+      "subscribe",
+      "participate"
+    ],
+    "antonyms": [
+      "opt out",
+      "withdraw",
+      "decline"
+    ],
+    "nounForm": "opt-in",
+    "verbForm": "opt in",
+    "adjectiveForm": "opt-in",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Email marketing and privacy settings",
+    "usageTip": "Use 'opt in' as a verb phrase (two words) when describing the action.",
+    "commonMistake": "Using 'opt in' as a noun; for the noun/adjective form, use a hyphen ('opt-in').",
+    "collocations": [
+      "explicitly opt in",
+      "opt in to emails",
+      "opt in process"
+    ]
+  },
+  {
+    "word": "Opt in",
+    "meaning": "To choose to participate in or receive something, especially an email list or a program",
+    "shortMeaning": "choose to join",
+    "example": "You must opt in to receive our weekly newsletter.",
+    "example2": "The employee had to opt in to the company's pension scheme.",
+    "example3": "New users can opt in for beta testing features.",
+    "Explanation": "Opting in is an active choice to join something. In the digital world, it is a privacy standard where companies cannot send you marketing emails unless you specifically click a button to 'opt in.' It puts the power in the hands of the user. It is the opposite of being included by default. This term is very common in marketing, data privacy laws (like GDPR), and subscription services.",
+    "synonyms": [
+      "subscribe",
+      "join",
+      "enroll"
+    ],
+    "antonyms": [
+      "opt out",
+      "unsubscribe",
+      "withdraw"
+    ],
+    "nounForm": "opt-in",
+    "verbForm": "opt in",
+    "adjectiveForm": "opt-in",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Marketing, privacy settings, and member programs",
+    "usageTip": "Use 'opt in' when a user must give permission to be included.",
+    "commonMistake": "Confusing 'opt in' (the action) with 'opt-in' (the description, e.g., 'opt-in form').",
+    "collocations": [
+      "double opt in",
+      "opt in to emails",
+      "opt in process"
+    ]
+  }
+]

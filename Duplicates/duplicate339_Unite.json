@@ -1,0 +1,71 @@
+[
+  {
+    "word": "Unite",
+    "meaning": "To join together for a common purpose or action; to become one.",
+    "shortMeaning": "join together",
+    "example": "The communities united to rebuild after the flood.",
+    "example2": "The two companies united to form a larger corporation.",
+    "example3": "The campaign aimed to unite people from all backgrounds.",
+    "Explanation": "To 'unite' means to bring different people or things together to form a single unit or to work towards a shared goal. It implies harmony, cooperation, and a loss of separate identity for a greater purpose. It is stronger than 'meet'; it suggests bonding and integration. The noun form is 'unity'. It is a positive, powerful word often used in politics, social movements, and team-building. The opposite is 'divide'. A 'united' front is a strong front.",
+    "synonyms": [
+      "join",
+      "merge",
+      "combine",
+      "unify",
+      "bring together"
+    ],
+    "antonyms": [
+      "divide",
+      "separate",
+      "split",
+      "disunite"
+    ],
+    "nounForm": "unity",
+    "verbForm": "unite",
+    "adjectiveForm": "united",
+    "partOfSpeech": "verb",
+    "commonContext": "Politics, teams, communities, families",
+    "usageTip": "Often used in the passive voice: 'The people were united in their desire for change.'",
+    "commonMistake": "Using it to mean simply 'meet'; uniting implies a deeper, more permanent joining.",
+    "collocations": [
+      "unite against",
+      "unite behind",
+      "united front",
+      "unite the country"
+    ]
+  },
+  {
+    "word": "Unite",
+    "meaning": "To join two or more distinct entities, technical teams, or data components together for a common purpose",
+    "shortMeaning": "join distinct elements together",
+    "example": "We plan to unite the design group and frontend developers into a single product engineering unit.",
+    "example2": "The software update will unite separate messaging channels into a single dashboard container.",
+    "example3": "To solve the severe server crash, we must unite our security experts and network administrators.",
+    "Explanation": "The word 'unite' implies bringing separate individuals, ideas, or physical parts together to create a stronger, cohesive force. In technology operations, it can describe organizational changes, such as uniting separate testing and engineering departments into a streamlined DevOps structure. It can also describe software platforms uniting disparate user feeds into a single interface matrix.",
+    "synonyms": [
+      "combine",
+      "merge",
+      "join",
+      "amalgamate",
+      "link"
+    ],
+    "antonyms": [
+      "divide",
+      "separate",
+      "split",
+      "disconnect"
+    ],
+    "nounForm": "unity / union",
+    "verbForm": "unite",
+    "adjectiveForm": "united",
+    "partOfSpeech": "verb",
+    "commonContext": "Organizational restructure, high-level system integrations, and collaborative workflow designs",
+    "usageTip": "Use 'unite' when focusing on the cooperative or collective power gained by combining separate human teams or high-level application tools.",
+    "commonMistake": "Confusing 'unite' with literal code merging keywords like 'join' or 'concat' used in database script formats.",
+    "collocations": [
+      "unite teams",
+      "unite platforms",
+      "unite efforts"
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "word": "Top",
+    "meaning": "The highest point or part; the best or most important position.",
+    "shortMeaning": "highest; best",
+    "example": "We climbed to the top of the mountain.",
+    "example2": "She is a top student in her class.",
+    "example3": "Put the lid on top of the jar.",
+    "Explanation": "Top is a noun, adjective, and verb. As a noun, it's the highest point or surface. As an adjective, it means best, foremost, or highest in rank (top priority). As a verb, it means to exceed or be at the highest point (top the charts). It's used literally (top shelf) and figuratively (top secret). It's a simple, powerful word for hierarchy, quality, and location. Phrases like 'on top of', 'top off', and 'top-notch' are common. Its opposite is 'bottom'. It's essential for describing position and status.",
+    "synonyms": [
+      "peak",
+      "summit",
+      "best",
+      "foremost",
+      "leading"
+    ],
+    "antonyms": [
+      "bottom",
+      "base",
+      "worst",
+      "lowest"
+    ],
+    "nounForm": "top",
+    "verbForm": "top",
+    "adjectiveForm": "top",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Geography, rankings, lists, clothing, containers",
+    "usageTip": "As an adjective, it usually comes before the noun (top speed, top floor).",
+    "commonMistake": "Confusing 'top' with 'tap'. A top is the highest part; a tap is a faucet or a light blow.",
+    "collocations": [
+      "top priority",
+      "top level",
+      "top secret",
+      "on top of"
+    ]
+  },
+  {
+    "word": "Top",
+    "meaning": "The highest, most important, or leading position",
+    "shortMeaning": "highest",
+    "example": "The server is at the top of the network hierarchy.",
+    "example2": "He is the top performer in our IT department.",
+    "example3": "Check the top of the file for the header information.",
+    "Explanation": "The word 'top' is used to denote the peak of a hierarchy, a list, or a physical stack. In programming, 'top' is also a famous command-line utility in Unix-based systems used to monitor system processes and resource usage in real-time. Because of this, it has a dual meaning: a general superlative and a specific technical command. It is one of the most common words in English, but in IT, it almost always carries a connotation of priority or visibility. Be mindful of this ambiguity in technical conversations.",
+    "synonyms": [
+      "peak",
+      "summit",
+      "highest"
+    ],
+    "antonyms": [
+      "bottom",
+      "lowest"
+    ],
+    "nounForm": "top",
+    "verbForm": "N/A",
+    "adjectiveForm": "top",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "General usage, Linux administration, management",
+    "usageTip": "When speaking to Linux users, distinguish between the command and the location.",
+    "commonMistake": "Using 'top' when 'maximum' or 'optimal' is more precise.",
+    "collocations": [
+      "top level",
+      "top priority",
+      "top process"
+    ]
+  },
+  {
+    "word": "Top",
+    "meaning": "The highest level or the beginning of a data structure",
+    "shortMeaning": "highest",
+    "example": "The top of the stack is the most recently added item.",
+    "example2": "He scrolled to the top of the webpage.",
+    "example3": "We need to optimize the top-level directory.",
+    "Explanation": "In data structures (like a Stack), the 'top' is the position where the most recent element resides. In UI and organizational structures, 'top' refers to the highest-level element, navigation bar, or main category. It is a simple word with significant directional and logical meaning in computing. Whether referring to a file system, a stack, or a webpage layout, it is used to define location or hierarchy.",
+    "synonyms": [
+      "peak",
+      "start",
+      "highest"
+    ],
+    "antonyms": [
+      "bottom",
+      "end",
+      "base"
+    ],
+    "nounForm": "top",
+    "verbForm": "top",
+    "adjectiveForm": "top-level",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Data structures, UI design, hierarchy",
+    "usageTip": "Use to describe location in data or on a page.",
+    "commonMistake": "Confusing 'top' with 'root' (though they are often similar).",
+    "collocations": [
+      "top of stack",
+      "top-level",
+      "scroll to top"
+    ]
+  },
+  {
+    "word": "Top",
+    "meaning": "The highest part, surface, rank, or position of an object, system, list, or hierarchy",
+    "shortMeaning": "highest position",
+    "example": "Please place the most important navigation links at the top of the webpage layout.",
+    "example2": "He worked hard for years to reach the top position in his software engineering firm.",
+    "example3": "The CSS property allows you to align the image block with the top margin of the screen container.",
+    "Explanation": "The word 'top' can function as a noun, verb, or adjective. In everyday English, it refers to the highest physical point of an object like a mountain or building. In web development and UI design, the top area of a screen is prime real estate where developers position headers, logos, and primary menus because users look there first. In computer data structures, 'top' refers to the most recently added item in a stack element array. As a verb, it means to exceed or do better than a specific score or limit. It is an essential term used across design, data management, and daily dialogue.",
+    "synonyms": [
+      "highest point",
+      "summit",
+      "peak",
+      "apex",
+      "vertex"
+    ],
+    "antonyms": [
+      "bottom",
+      "base",
+      "lowest point"
+    ],
+    "nounForm": "top",
+    "verbForm": "top",
+    "adjectiveForm": "topmost",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Web layouts, data stack configurations, high-ranking company roles, and coordinate measurements",
+    "usageTip": "In front-end design, use 'top' to specify vertical alignment coordinates when positioning absolute layout blocks.",
+    "commonMistake": "Confusing 'top' with 'header'; a header is a structural UI section, while top is simply a relative directional position on the screen.",
+    "collocations": [
+      "top of the page",
+      "top priority",
+      "top navigation bar"
+    ]
+  }
+]

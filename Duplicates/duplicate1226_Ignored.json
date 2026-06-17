@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Ignored",
+    "meaning": "Was disregarded or paid no attention to (past tense of ignore).",
+    "shortMeaning": "disregarded",
+    "example": "She ignored his rude comments.",
+    "example2": "The problem was ignored until it became a crisis.",
+    "example3": "He felt ignored by his colleagues.",
+    "Explanation": "'Ignored' is the past tense and past participle of 'ignore', meaning was disregarded or not taken into account. It describes completed actions of intentional disregard. People feel ignored when their presence or contributions are overlooked. Problems worsen when ignored. Advice has consequences when ignored. The word suggests that attention was withheld despite something deserving or requiring it. As past participle, it's used in perfect tenses (has ignored) and passive voice (was ignored). It's a common word in stories of neglect, whether personal, professional, or societal, where things were not addressed when they should have been.",
+    "synonyms": [
+      "disregarded",
+      "overlooked",
+      "neglected",
+      "snubbed"
+    ],
+    "antonyms": [
+      "acknowledged",
+      "noticed",
+      "heeded",
+      "attended to"
+    ],
+    "nounForm": "ignorance",
+    "verbForm": "ignore",
+    "adjectiveForm": "ignored",
+    "partOfSpeech": "verb (past tense/participle), adjective",
+    "commonContext": "Problems, people, advice, warnings, feelings",
+    "usageTip": "Can indicate past action: 'He ignored me.' Or state: 'I felt ignored.'",
+    "commonMistake": "Using 'ignorant' when past tense is needed. 'He was ignorant of me' means he didn't know me; 'He ignored me' means he disregarded me.",
+    "collocations": [
+      "ignored the warning",
+      "felt ignored",
+      "completely ignored"
+    ]
+  },
+  {
+    "word": "Ignored",
+    "meaning": "Deliberately disregarded or left out",
+    "shortMeaning": "Disregarded",
+    "example": "The compiler ignored the extra white space.",
+    "example2": "He ignored the warning logs.",
+    "example3": "The file was ignored by the version control system.",
+    "Explanation": "The word 'ignored' means that a piece of data, a command, or a warning was intentionally bypassed or excluded. It is the past tense or past participle of 'ignore'. In IT, this is common in configurations (e.g., '.gitignore' files) or error handling (e.g., catching an error and doing nothing). It implies a deliberate decision to treat something as if it were not there.",
+    "synonyms": [
+      "disregarded",
+      "skipped",
+      "excluded"
+    ],
+    "antonyms": [
+      "processed",
+      "included",
+      "acknowledged"
+    ],
+    "nounForm": "ignorance",
+    "verbForm": "ignore",
+    "adjectiveForm": "ignored",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Configuration, logging, programming",
+    "usageTip": "Use when something is deliberately skipped or left out.",
+    "commonMistake": "Using 'ignored' when something was simply 'missed'.",
+    "collocations": [
+      "ignored warning",
+      "ignored by system",
+      "deliberately ignored"
+    ]
+  }
+]

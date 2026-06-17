@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Added",
+    "meaning": "Joined or attached so as to increase in size, number, or amount; included as an extra.",
+    "shortMeaning": "joined or included as an extra",
+    "example": "She added sugar to her coffee.",
+    "example2": "The new feature was added in the latest update.",
+    "example3": "He added that the project was ahead of schedule.",
+    "Explanation": "Added is the past tense and past participle of the verb 'add.' It means to combine or include something with something else so as to increase or improve it. It can refer to physical objects, numbers, features, or remarks in conversation. The noun is 'addition.' A common mistake is using it when 'increased' might be more precise for non-physical quantities. This is one of the most fundamental verbs for describing combination, enhancement, and supplementation in everyday language, mathematics, and development.",
+    "synonyms": [
+      "included",
+      "incorporated",
+      "appended",
+      "supplemented"
+    ],
+    "antonyms": [
+      "removed",
+      "subtracted",
+      "took away",
+      "deducted"
+    ],
+    "nounForm": "addition",
+    "verbForm": "add",
+    "adjectiveForm": "added",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Cooking, mathematics, software updates, and conversation.",
+    "usageTip": "Use 'added to' for the thing being increased (e.g., 'She added a chapter to the book').",
+    "commonMistake": "Saying 'added on' unnecessarily (e.g., 'He added on a room' is less common than 'He added a room').",
+    "collocations": [
+      "added value",
+      "newly added",
+      "added bonus"
+    ]
+  },
+  {
+    "word": "Added",
+    "meaning": "Joined to something else to increase the size, value, or total amount",
+    "shortMeaning": "extra or joined",
+    "example": "The team added a new authentication layer to protect user records.",
+    "example2": "This feature provides added security for online bank transfers.",
+    "example3": "She added comments to the codebase to explain complex logic blocks.",
+    "Explanation": "The word 'added' functions as a past tense verb or an adjective to show that something extra has been integrated. In programming, code, variables, or plugins are added to baseline setups to scale up functionality. It emphasizes a clear increase in volume or utility. The root verb is 'add', and the related noun form is 'addition'. It is one of the most common words used in software version histories.",
+    "synonyms": [
+      "extra",
+      "additional",
+      "supplementary"
+    ],
+    "antonyms": [
+      "removed",
+      "subtracted",
+      "deleted"
+    ],
+    "nounForm": "addition",
+    "verbForm": "add",
+    "adjectiveForm": "added",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Feature updates, code reviews, pricing plans",
+    "usageTip": "Use 'added' to point out extra components that enhance an existing base setup.",
+    "commonMistake": "Using 'added' when the extra element completely replaces the original item instead of joining it.",
+    "collocations": [
+      "added value",
+      "added features",
+      "added security"
+    ]
+  }
+]

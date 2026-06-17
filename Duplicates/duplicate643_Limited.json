@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Limited",
+    "meaning": "Restricted in size, amount, or extent; not great.",
+    "shortMeaning": "restricted",
+    "example": "We have a limited budget for the party.",
+    "example2": "Seating is limited, so please book early.",
+    "example3": "His knowledge of the subject is rather limited.",
+    "Explanation": "Limited means having boundaries or constraints. It describes something that is not infinite, not abundant, or not fully developed. It can be neutral (limited edition), negative (limited understanding), or simply factual (limited space). In business, a 'limited company' (Ltd.) has liability limited to its assets. The word sets expectations by clarifying that something is not unlimited. It's the opposite of 'unlimited', 'extensive', or 'boundless'. The verb form is 'limit', meaning to set a restriction.",
+    "synonyms": [
+      "restricted",
+      "finite",
+      "confined",
+      "small",
+      "modest"
+    ],
+    "antonyms": [
+      "unlimited",
+      "infinite",
+      "extensive",
+      "boundless"
+    ],
+    "nounForm": "limitation",
+    "verbForm": "limit",
+    "adjectiveForm": "limited",
+    "partOfSpeech": "adjective",
+    "commonContext": "Resources, abilities, offers, time, space",
+    "usageTip": "It often comes before a noun (limited time, limited offer) or after a linking verb (space is limited).",
+    "commonMistake": "Using 'limited' to mean 'little' without implying a specific restriction. 'Limited' suggests there is a defined boundary.",
+    "collocations": [
+      "limited edition",
+      "limited resources",
+      "limited liability",
+      "time-limited"
+    ]
+  },
+  {
+    "word": "Limited",
+    "meaning": "Restricted in size, time, or ability",
+    "shortMeaning": "restricted",
+    "example": "The server has limited memory available for this task.",
+    "example2": "We have a limited amount of time to fix the production issue.",
+    "example3": "The free version offers limited functionality.",
+    "Explanation": "The word 'limited' refers to something that is capped, restricted, or not enough to satisfy all requirements. In IT, this often applies to physical resources (like CPU, memory, or bandwidth) or scope (like a 'limited' release of a feature). It signals to the developer that there are constraints they must work within. It is important to identify these limits early in the development lifecycle to prevent performance problems or feature gaps. Being aware of limitations is key to writing robust and optimized software.",
+    "synonyms": [
+      "restricted",
+      "constrained",
+      "finite"
+    ],
+    "antonyms": [
+      "unlimited",
+      "boundless",
+      "infinite"
+    ],
+    "nounForm": "limitation",
+    "verbForm": "limit",
+    "adjectiveForm": "limited",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Resource management and project scope",
+    "usageTip": "Use when describing constraints on time, resources, or features.",
+    "commonMistake": "Confusing 'limited' with 'small', as limited refers to a constraint.",
+    "collocations": [
+      "limited resources",
+      "limited time",
+      "limited functionality"
+    ]
+  }
+]

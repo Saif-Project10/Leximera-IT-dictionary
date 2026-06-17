@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Phased",
+    "meaning": "Done or carried out in distinct stages or steps over time.",
+    "shortMeaning": "done in stages",
+    "example": "The new policy will be phased in over the next two years.",
+    "example2": "The project has a phased approach, with three main phases.",
+    "example3": "The withdrawal of troops was carefully phased.",
+    "Explanation": "'Phased' describes an action or process that is broken down into separate, sequential parts (phases). This approach allows for better management, testing, and adjustment. It's common in project management, software rollouts, and policy implementation. The term often appears in the phrasal verb 'phase in' (introduce gradually) and 'phase out' (remove gradually). It emphasizes a planned, controlled transition rather than an abrupt change. The word comes from the noun 'phase', meaning a distinct period or stage in a process.",
+    "synonyms": [
+      "staged",
+      "gradual",
+      "step-by-step",
+      "incremental"
+    ],
+    "antonyms": [
+      "sudden",
+      "immediate",
+      "all-at-once"
+    ],
+    "nounForm": "phase",
+    "verbForm": "phase",
+    "adjectiveForm": "phased",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, implementation, transitions, engineering",
+    "usageTip": "Often used with 'in' or 'out' to describe gradual introduction or removal.",
+    "commonMistake": "Using 'phased' to mean 'confused' (like 'dazed'); it relates to stages, not confusion.",
+    "collocations": [
+      "phased approach",
+      "phased implementation",
+      "phased rollout",
+      "phased withdrawal"
+    ]
+  },
+  {
+    "word": "Phased",
+    "meaning": "Carried out in stages or steps",
+    "shortMeaning": "done in stages",
+    "example": "The software migration was a phased approach.",
+    "example2": "He planned a phased deployment to reduce risks.",
+    "example3": "Phased implementation ensures the system remains stable.",
+    "Explanation": "The term 'phased' means that a project or process is broken down into distinct stages. This is a very common strategy in IT project management because it allows teams to test, iterate, and fix issues in small chunks rather than trying to do everything at once. It helps manage complexity and minimize the impact of failures. If a deployment is phased, it might roll out to a few users first, then to the whole company. It signifies a careful and structured strategy.",
+    "synonyms": [
+      "staged",
+      "gradual",
+      "sequential"
+    ],
+    "antonyms": [
+      "instant",
+      "sudden",
+      "all-at-once"
+    ],
+    "nounForm": "phase",
+    "verbForm": "phase",
+    "adjectiveForm": "phased",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project Management, Software Deployment",
+    "usageTip": "Use to describe how large projects are handled over time.",
+    "commonMistake": "Confusing 'phased' with 'paused'.",
+    "collocations": [
+      "phased approach",
+      "phased deployment",
+      "phased implementation"
+    ]
+  }
+]

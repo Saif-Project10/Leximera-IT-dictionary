@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Underfitted",
+    "meaning": "A model that is too simple to capture patterns",
+    "shortMeaning": "too simple",
+    "example": "The model is underfitted and fails to learn the data trends.",
+    "example2": "An underfitted neural network performs poorly on training data.",
+    "example3": "We need more features to avoid an underfitted state.",
+    "Explanation": "Underfitted is a machine learning term for a model that lacks the complexity to represent the underlying data. It acts as if it is 'ignoring' important relationships, resulting in high error rates on both training and test data. To fix an underfitted model, one might add more parameters, feature engineering, or a more sophisticated algorithm. It is the opposite of 'overfitted', where a model is too complex and captures noise.",
+    "synonyms": [
+      "too simple",
+      "insufficient"
+    ],
+    "antonyms": [
+      "overfitted",
+      "too complex"
+    ],
+    "nounForm": "underfitting",
+    "verbForm": "underfit",
+    "adjectiveForm": "underfitted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Machine learning, data science",
+    "usageTip": "Use when a model doesn't learn from data.",
+    "commonMistake": "Confusing underfitting (simple) with overfitting (complex).",
+    "collocations": [
+      "underfitted model",
+      "highly underfitted",
+      "avoid underfitted"
+    ]
+  },
+  {
+    "word": "Underfitted",
+    "meaning": "A model that is too simple to capture patterns in data",
+    "shortMeaning": "too simple",
+    "example": "The machine learning model is clearly underfitted.",
+    "example2": "An underfitted model performs poorly on training data.",
+    "example3": "Adjust the parameters to fix the underfitted state.",
+    "Explanation": "In machine learning, the word 'underfitted' describes a model that is not complex enough to learn the underlying trend of the data. It results in poor accuracy because the model misses key information. This is distinct from 'overfitting', where a model is too complex and learns noise. Identifying an underfitted model is the first step toward improving a system's predictive performance. It is a highly specialized term used primarily in AI and data science.",
+    "synonyms": [
+      "simple",
+      "under-trained",
+      "inadequate"
+    ],
+    "antonyms": [
+      "overfitted",
+      "complex",
+      "optimized"
+    ],
+    "nounForm": "underfitting",
+    "verbForm": "underfit",
+    "adjectiveForm": "underfitted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Machine learning and statistics",
+    "usageTip": "Use this only in the context of predictive models.",
+    "commonMistake": "Confusing 'underfitted' with 'unfitted' (which is not a standard term).",
+    "collocations": [
+      "highly underfitted",
+      "underfitted model",
+      "result of underfitting"
+    ]
+  }
+]

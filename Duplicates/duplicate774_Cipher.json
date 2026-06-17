@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Cipher",
+    "meaning": "A secret or disguised way of writing; a code; a person of no importance.",
+    "shortMeaning": "code; unimportant person",
+    "example": "The message was written in a complex cipher.",
+    "example2": "Ancient spies used ciphers to communicate securely.",
+    "example3": "He felt like a mere cipher in the large corporation.",
+    "Explanation": "Cipher has two main meanings. First, it's a cryptographic system for encrypting text so it can't be read without a key. Second, it's a disparaging term for a person considered insignificant or lacking individuality. The first meaning is technical and related to cybersecurity and espionage. The second is literary and metaphorical. The word comes from Arabic for 'zero', highlighting the idea of something being null or hidden. In mathematics, a cipher is an arithmetical symbol (especially zero). Context clarifies which meaning is intended.",
+    "synonyms": [
+      "code",
+      "cryptogram",
+      "nonentity",
+      "nobody",
+      "zero"
+    ],
+    "antonyms": [
+      "plaintext",
+      "somebody",
+      "personality"
+    ],
+    "nounForm": "cipher",
+    "verbForm": "encipher",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Cryptography, espionage, literature, mathematics",
+    "usageTip": "In security, a 'cipher' is the algorithm for encryption; a 'code' often substitutes words.",
+    "commonMistake": "Confusing 'cipher' with 'cypher', which is an alternative spelling but less common.",
+    "collocations": [
+      "secret cipher",
+      "break a cipher",
+      "mathematical cipher",
+      "mere cipher"
+    ]
+  },
+  {
+    "word": "Cipher",
+    "meaning": "An algorithm or secret way of writing for performing encryption or decryption",
+    "shortMeaning": "encryption code",
+    "example": "The AES cipher is commonly used to protect sensitive data.",
+    "example2": "Ancient civilizations used a simple Caesar cipher to hide messages.",
+    "example3": "Without the correct key, the cipher text is impossible to read.",
+    "Explanation": "A cipher is the actual math or set of rules used to turn readable text into 'garbage' text (ciphertext) to keep it safe. In cybersecurity, ciphers are the foundation of privacy. When you see 'HTTPS' on a website, a cipher is working in the background to encrypt your connection. Modern ciphers are incredibly complex and would take billions of years for a standard computer to crack. Understanding ciphers is the core of cryptography.",
+    "synonyms": [
+      "code",
+      "algorithm",
+      "cryptograph"
+    ],
+    "antonyms": [
+      "plaintext"
+    ],
+    "nounForm": "cipher",
+    "verbForm": "encipher / cipher",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cryptography and cybersecurity",
+    "usageTip": "Use 'cipher' when referring to the mathematical logic of encryption.",
+    "commonMistake": "Using 'cipher' to mean 'zero'; though it can mean zero, it's rarely used that way in IT.",
+    "collocations": [
+      "block cipher",
+      "cipher suite",
+      "stream cipher"
+    ]
+  }
+]

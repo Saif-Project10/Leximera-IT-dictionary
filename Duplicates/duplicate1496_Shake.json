@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Shake",
+    "meaning": "To move back and forth or up and down with quick, forceful movements.",
+    "shortMeaning": "tremble, vibrate",
+    "example": "Shake the bottle well before use.",
+    "example2": "His voice began to shake with emotion.",
+    "example3": "Let's shake hands on the deal.",
+    "Explanation": "To 'shake' is a common verb meaning to agitate or tremble. It can be transitive (shake something) or intransitive (something shakes). It describes a wide range of motions, from mixing a drink to trembling from fear or cold. The noun form is 'shake'. It's also used in social rituals (handshake) and idioms (shake off, shake up). The word is simple but vivid, conveying physical movement often linked to emotion, force, or instability. The past tense is 'shook'; past participle is 'shaken'.",
+    "synonyms": [
+      "tremble",
+      "vibrate",
+      "jiggle",
+      "agitate"
+    ],
+    "antonyms": [
+      "steady",
+      "stabilize",
+      "calm"
+    ],
+    "nounForm": "shake",
+    "verbForm": "shake",
+    "adjectiveForm": "shaky",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Physical actions, emotions, mixing, greetings",
+    "usageTip": "'Shake' can mean a milkshake in informal American English.",
+    "commonMistake": "Using the wrong past tense; it's 'shook', not 'shaked'.",
+    "collocations": [
+      "shake hands",
+      "shake your head",
+      "shake well",
+      "shake with fear"
+    ]
+  },
+  {
+    "word": "Shake",
+    "meaning": "A continuous vibrating movement, or an action to dismiss alerts by moving a smartphone device quickly side to side",
+    "shortMeaning": "vibrate or move device quickly",
+    "example": "You can shake your phone to undo the last sentence typed inside the application layout.",
+    "example2": "The visual element will shake on the screen if a user enters an incorrect password string.",
+    "example3": "The developer added a shake gesture to let users send bug reports instantly.",
+    "Explanation": "The word 'shake' has two primary uses in modern technology layouts. First, as a physical interaction, it describes mobile device sensor patterns where a user shakes their smartphone to clear fields or undo actions. Second, as a visual UI element, a 'shake animation' is a short, rapid side-to-side movement applied to an entry box (like a password field) to let a user know their input was invalid. It is a highly popular pattern in intuitive UI/UX design.",
+    "synonyms": [
+      "vibrate",
+      "jolt",
+      "quiver"
+    ],
+    "antonyms": [
+      "stabilize",
+      "still",
+      "steady"
+    ],
+    "nounForm": "shake / shaker",
+    "verbForm": "shake",
+    "adjectiveForm": "shaking / shaky",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Mobile sensor gestures, frontend CSS error animations, and UI response patterns",
+    "usageTip": "Use 'shake' to describe rapid motion animations for input error indicators or physical device movement gestures.",
+    "commonMistake": "Confusing a visual shake animation with a hardware notification vibrate pattern; they serve separate feedback purposes.",
+    "collocations": [
+      "shake animation",
+      "shake gesture",
+      "shake to undo"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Request-response",
+    "meaning": "A communication pattern where one party sends a request and the other sends a response",
+    "shortMeaning": "a pattern of ask-and-answer",
+    "example": "HTTP is a request-response protocol for the web.",
+    "example2": "The API uses a simple request-response model.",
+    "example3": "In a request-response cycle, the client initiates the communication.",
+    "Explanation": "'Request-response' is a compound adjective (or noun) used in computing and networking. It describes the most fundamental pattern of communication on systems like the web: a client sends a request to a server, and the server sends back a response. This model is synchronous, meaning the client typically waits for the response. It is the backbone of how browsers get web pages and how many APIs work. The term is technical and specific to system design and protocols.",
+    "synonyms": [
+      "client-server interaction"
+    ],
+    "antonyms": [
+      "publish-subscribe",
+      "event-driven"
+    ],
+    "nounForm": "request-response model",
+    "verbForm": "N/A",
+    "adjectiveForm": "request-response",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, networking, API design",
+    "usageTip": "Always hyphenated when used as a compound modifier.",
+    "commonMistake": "Thinking it's the only communication model; others like streaming or messaging exist.",
+    "collocations": [
+      "request-response protocol",
+      "request-response cycle",
+      "request-response pattern"
+    ]
+  },
+  {
+    "word": "Request-response",
+    "meaning": "A communication style where one party asks and the other answers",
+    "shortMeaning": "ask-answer cycle",
+    "example": "HTTP is a classic request-response protocol.",
+    "example2": "The architecture follows a request-response model.",
+    "example3": "Latency increases in a synchronous request-response flow.",
+    "Explanation": "The 'request-response' model is the foundation of most internet communication. A client sends a request (the 'ask'), and the server provides a response (the 'answer'). It is a synchronous process, meaning the client usually waits for the response before proceeding. Understanding this model is essential for web development, API design, and network communication. It is different from asynchronous models where the client might not wait for an immediate response.",
+    "synonyms": [
+      "synchronous",
+      "transactional",
+      "query-response"
+    ],
+    "antonyms": [
+      "asynchronous",
+      "push-based",
+      "broadcast"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "request-response",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Networking, APIs, web protocols",
+    "usageTip": "Use 'request-response' to describe standard client-server communication.",
+    "commonMistake": "Assuming all communication is request-response; message queuing is different.",
+    "collocations": [
+      "request-response model",
+      "request-response cycle",
+      "request-response protocol"
+    ]
+  }
+]

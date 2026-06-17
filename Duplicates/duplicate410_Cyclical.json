@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Cyclical",
+    "meaning": "Occurring in cycles; regularly repeated over a period of time.",
+    "shortMeaning": "occurring in cycles",
+    "example": "The economy goes through cyclical periods of boom and bust.",
+    "example2": "Her mood swings were cyclical, often tied to the seasons.",
+    "example3": "The maintenance schedule is cyclical, repeating every quarter.",
+    "Explanation": "Cyclical refers to events or phenomena that follow a predictable, repeating pattern or cycle. The cycle has distinct phases that return to a starting point, like the seasons, economic cycles, or biological rhythms. It implies a natural, often inevitable, ebb and flow. This is different from 'repetitive', which focuses on the act of repeating itself; 'cyclical' focuses on the structured pattern of the repetition. The word is neutral and is used in economics, nature, history, and many sciences. The noun is 'cycle'.",
+    "synonyms": [
+      "periodic",
+      "recurrent",
+      "cyclic",
+      "seasonal"
+    ],
+    "antonyms": [
+      "linear",
+      "non-repeating",
+      "random",
+      "secular (long-term trend)"
+    ],
+    "nounForm": "cycle",
+    "verbForm": "cycle",
+    "adjectiveForm": "cyclical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Economics, biology, history, astronomy, business trends",
+    "usageTip": "Often used to describe patterns in nature, markets, or behavior that are not simply linear.",
+    "commonMistake": "Confusing 'cyclical' with 'circular'. 'Cyclical' is about time-based patterns; 'circular' is about shape.",
+    "collocations": [
+      "cyclical nature",
+      "cyclical trends",
+      "cyclical unemployment"
+    ]
+  },
+  {
+    "word": "Cyclical",
+    "meaning": "Happening in regular periods or stages.",
+    "shortMeaning": "periodically repeating",
+    "example": "The hardware industry often experiences cyclical demand cycles.",
+    "example2": "The team noticed a cyclical pattern in the server traffic.",
+    "example3": "Cyclical updates are part of the maintenance schedule.",
+    "Explanation": "The word 'cyclical' describes events or patterns that repeat over time. While very similar to 'cyclic', it is more frequently applied to trends, economic cycles, or processes that span longer durations. It is used to suggest that something will return to a previous state eventually. In IT management, you might refer to cyclical reporting or cyclical hardware replacement cycles. Using this word effectively helps in describing long-term planning and performance monitoring.",
+    "synonyms": [
+      "periodic",
+      "seasonal",
+      "recurrent"
+    ],
+    "antonyms": [
+      "constant",
+      "irregular",
+      "static"
+    ],
+    "nounForm": "Cycle",
+    "verbForm": "Cycle",
+    "adjectiveForm": "Cyclical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business analysis, trends, and scheduling",
+    "usageTip": "Use 'cyclical' when referring to patterns over time, especially in business or trends.",
+    "commonMistake": "Using 'cyclical' for tiny, fast-paced technical loops where 'cyclic' is more appropriate.",
+    "collocations": [
+      "cyclical trend",
+      "cyclical demand",
+      "cyclical pattern"
+    ]
+  }
+]

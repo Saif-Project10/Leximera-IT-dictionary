@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Stale",
+    "meaning": "No longer fresh or new; old and dry, or uninteresting.",
+    "shortMeaning": "not fresh; old",
+    "example": "The bread became stale after a few days.",
+    "example2": "The joke was stale and no one laughed.",
+    "example3": "Stale air filled the closed room.",
+    "Explanation": "'Stale' is primarily an adjective. It originally describes food, especially bread, that is hard and dry because it is not fresh. It is also used for air that is not circulating and feels old. Figuratively, it describes ideas, jokes, or situations that are no longer interesting or original because they have been around too long. It carries a negative meaning of being past its best. There is no common verb form.",
+    "synonyms": [
+      "old",
+      "dry",
+      "musty",
+      "unoriginal"
+    ],
+    "antonyms": [
+      "fresh",
+      "new",
+      "original",
+      "crisp"
+    ],
+    "nounForm": "staleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stale",
+    "partOfSpeech": "adjective",
+    "commonContext": "Food, air, ideas, humor",
+    "usageTip": "For food, use 'stale'. For ideas, use 'stale' to mean unoriginal or overused.",
+    "commonMistake": "Confusing 'stale' with 'rotten'. Stale bread is dry but may still be safe to eat; rotten food is spoiled.",
+    "collocations": [
+      "stale bread",
+      "stale air",
+      "stale joke"
+    ]
+  },
+  {
+    "word": "Stale",
+    "meaning": "No longer new, fresh, or accurate",
+    "shortMeaning": "outdated",
+    "example": "The cache data is stale and needs to be updated.",
+    "example2": "He was working with stale information.",
+    "example3": "Stale cookies can lead to authentication errors.",
+    "Explanation": "The word 'stale' describes something that has lost its freshness or accuracy due to time. In computing, 'stale data' is information that was correct at one time but is now outdated, often stored in a cache. If the cache is not refreshed, your program will use the old, incorrect data. It is a constant problem in systems that rely on caching. Use this term to explain why a system is not showing the latest information or why an error occurred due to old data.",
+    "synonyms": [
+      "outdated",
+      "old",
+      "expired"
+    ],
+    "antonyms": [
+      "fresh",
+      "updated",
+      "current"
+    ],
+    "nounForm": "staleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stale",
+    "partOfSpeech": "adjective",
+    "commonContext": "Caching, data management",
+    "usageTip": "Use when discussing outdated information in a cache.",
+    "commonMistake": "Assuming all old data is 'stale'; 'stale' usually implies it *should* have been updated.",
+    "collocations": [
+      "stale data",
+      "stale cache",
+      "stale information"
+    ]
+  },
+  {
+    "word": "Stale",
+    "meaning": "No longer fresh, original, or useful due to time",
+    "shortMeaning": "old or outdated",
+    "example": "The cache contained stale data that needed to be refreshed.",
+    "example2": "The authentication token is now stale and must be renewed.",
+    "example3": "Working with stale documentation caused many errors during development.",
+    "Explanation": "The word 'stale' refers to information or resources that have become outdated and are no longer accurate. In IT, 'stale data' is a common issue when caches are not properly synchronized with the live database. Using stale code or documentation leads to bugs and confusion. It signifies that the content has 'expired' in terms of its validity. It is a frequent concern in database management and web development.",
+    "synonyms": [
+      "outdated",
+      "obsolete",
+      "old"
+    ],
+    "antonyms": [
+      "fresh",
+      "updated",
+      "current"
+    ],
+    "nounForm": "staleness",
+    "verbForm": "stale",
+    "adjectiveForm": "stale",
+    "partOfSpeech": "adjective",
+    "commonContext": "Caching, data integrity, documentation",
+    "usageTip": "Use 'stale' when data should have been updated but was not.",
+    "commonMistake": "Confusing it with 'broken'; stale data might work, but it is incorrect.",
+    "collocations": [
+      "stale data",
+      "stale cache",
+      "stale information"
+    ]
+  }
+]

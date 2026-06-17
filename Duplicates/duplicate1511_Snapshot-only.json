@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Snapshot-only",
+    "meaning": "Capable only of taking snapshots (static images); limited to a single, static view or version.",
+    "shortMeaning": "only static images; static view",
+    "example": "The basic version of the app is snapshot-only; it can't record video.",
+    "example2": "The dashboard provides a snapshot-only view of the data, not a live feed.",
+    "example3": "This is a snapshot-only backup, not a continuous one.",
+    "Explanation": "'Snapshot-only' is a compound adjective, typically used in technology and data management. It describes a system, feature, or view that is restricted to capturing or displaying a static image ('snapshot') at a specific moment in time, without the ability for continuous recording, live updating, or interaction. It implies a limitation compared to more dynamic or continuous alternatives. The term is specific and technical, often found in software specifications, camera features, and data reporting tools.",
+    "synonyms": [
+      "static-only",
+      "single-image"
+    ],
+    "antonyms": [
+      "continuous",
+      "live",
+      "dynamic",
+      "video-capable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "snapshot-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "Photography apps, data dashboards, backup systems",
+    "usageTip": "This is a niche technical term. In conversation, you might say 'it only takes pictures, not video' or 'it's a static report'.",
+    "commonMistake": "Using it outside of technical contexts where it would not be understood.",
+    "collocations": [
+      "snapshot-only mode",
+      "snapshot-only view",
+      "snapshot-only feature"
+    ]
+  },
+  {
+    "word": "Snapshot-only",
+    "meaning": "Available or functioning only via saved states",
+    "shortMeaning": "only via snapshot",
+    "example": "This database mode is snapshot-only.",
+    "example2": "The backup is snapshot-only for read-only access.",
+    "example3": "We use a snapshot-only policy for these logs.",
+    "Explanation": "The term 'snapshot-only' describes a system or data state that cannot be modified live and can only be viewed or restored as a 'snapshot'—a saved, frozen state of the data at a specific point in time. This is common in backup strategies and distributed systems to maintain data integrity. You cannot perform operations on the live stream; you must work from the captured snapshot. It is an important distinction for users who need to know if they are seeing real-time or historical data.",
+    "synonyms": [
+      "static",
+      "read-only",
+      "frozen-state"
+    ],
+    "antonyms": [
+      "real-time",
+      "live",
+      "dynamic"
+    ],
+    "nounForm": "snapshot",
+    "verbForm": "N/A",
+    "adjectiveForm": "snapshot-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "Backup, data warehousing, cloud storage",
+    "usageTip": "Use this for systems that only provide historical saved states.",
+    "commonMistake": "Thinking 'snapshot-only' means it can update automatically.",
+    "collocations": [
+      "snapshot-only mode",
+      "snapshot-only backup"
+    ]
+  }
+]

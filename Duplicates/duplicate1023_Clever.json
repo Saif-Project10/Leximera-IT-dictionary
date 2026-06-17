@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Clever",
+    "meaning": "Quick to understand, learn, and devise ideas; skillful.",
+    "shortMeaning": "smart, intelligent",
+    "example": "She found a clever solution to the problem.",
+    "example2": "That was a clever trick!",
+    "example3": "He's clever with his hands and can fix anything.",
+    "Explanation": "'Clever' is an adjective describing intelligence, especially of a practical, inventive, or quick-witted kind. It can describe people, ideas, or devices. It sometimes has a connotation of slyness or cunning, especially in British English ('too clever by half'). It's generally a compliment, praising ingenuity and mental agility. It's less formal than 'intelligent' and often implies a specific, clever act or idea rather than general high intelligence. The noun is 'cleverness'.",
+    "synonyms": [
+      "smart",
+      "intelligent",
+      "ingenious"
+    ],
+    "antonyms": [
+      "stupid",
+      "foolish",
+      "dull"
+    ],
+    "nounForm": "cleverness",
+    "verbForm": "N/A",
+    "adjectiveForm": "clever",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem-solving, tricks, compliments, children",
+    "usageTip": "Use 'clever' to praise a specific smart idea or solution. For general high IQ, 'intelligent' might be better.",
+    "commonMistake": "Using 'clever' to describe something that is just complicated or complex, without the element of smart ingenuity.",
+    "collocations": [
+      "clever idea",
+      "clever marketing",
+      "clever clogs (idiomatic)"
+    ]
+  },
+  {
+    "word": "Clever",
+    "meaning": "Quick to understand, learn, and devise ingenious methods; showing intelligence or skill",
+    "shortMeaning": "smart or ingenious",
+    "example": "The programmer found a clever workaround to fix the legacy system bug.",
+    "example2": "Her design was a clever use of minimal space on a mobile screen layout.",
+    "example3": "Be careful, because sometimes a clever solution is too hard for others to maintain.",
+    "Explanation": "The adjective 'clever' describes someone who is mentally sharp or a solution that is uniquely inventive. In software engineering, 'clever code' can sometimes be a double-edged sword. While it displays high intelligence and solves a problem using fewer lines, it can also be overly complex or obscure, making it difficult for team members to read or maintain later. Therefore, in professional programming, simple and readable solutions are often preferred over excessively clever ones.",
+    "synonyms": [
+      "smart",
+      "intelligent",
+      "ingenious",
+      "witty"
+    ],
+    "antonyms": [
+      "foolish",
+      "stupid",
+      "unintelligent",
+      "clumsy"
+    ],
+    "nounForm": "cleverness",
+    "verbForm": "N/A",
+    "adjectiveForm": "clever",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem solving, everyday descriptions, puzzles, and innovative designs",
+    "usageTip": "Use 'clever' to describe creative solutions, but remember that clean, simple code is better than tricky, clever code.",
+    "commonMistake": "Using 'clever' as an absolute compliment in programming; it can imply that the code is hard for others to read.",
+    "collocations": [
+      "clever solution",
+      "clever trick",
+      "clever idea"
+    ]
+  }
+]

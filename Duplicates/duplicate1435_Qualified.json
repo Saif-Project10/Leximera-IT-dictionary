@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Qualified",
+    "meaning": "Officially recognized as being trained to perform a particular job; or limited in some way",
+    "shortMeaning": "officially skilled, or limited",
+    "example": "She is a qualified engineer.",
+    "example2": "He gave a qualified approval to the plan.",
+    "example3": "You need a qualified opinion from a doctor.",
+    "Explanation": "'Qualified' has two main meanings. The positive, common meaning is having the necessary skills, knowledge, or certifications for a job or task (a qualified teacher). The second meaning is to modify or limit a statement, making it less absolute (qualified success, qualified endorsement). This means there are reservations or conditions. The context tells you which meaning is intended: people are qualified for jobs; statements are qualified with conditions. Both are common.",
+    "synonyms": [
+      "certified",
+      "competent",
+      "conditional"
+    ],
+    "antonyms": [
+      "unqualified",
+      "incompetent",
+      "absolute"
+    ],
+    "nounForm": "qualification",
+    "verbForm": "qualify",
+    "adjectiveForm": "qualified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Job applications, professional services, formal statements",
+    "usageTip": "For jobs, it's often 'qualified in' or 'qualified as' something.",
+    "commonMistake": "Thinking 'qualified' only means skilled. A 'qualified compliment' is a partial or hesitant one.",
+    "collocations": [
+      "highly qualified",
+      "qualified personnel",
+      "qualified remark"
+    ]
+  },
+  {
+    "word": "Qualified",
+    "meaning": "Having the necessary skills, experience, or certifications.",
+    "shortMeaning": "skilled / vetted",
+    "example": "We only hire qualified engineers for this role.",
+    "example2": "The user is qualified to access these sensitive files.",
+    "example3": "A qualified professional must sign off on the security review.",
+    "Explanation": "'Qualified' means someone has met a specific set of requirements—like passing a test, having a degree, or holding a certificate—that proves they are ready for a task. It ensures standards are met. In IT, 'qualified' personnel are expected to follow best practices and have the technical background to do the job right. It gives the organization peace of mind that the person or the system process is trustworthy and capable.",
+    "synonyms": [
+      "vetted",
+      "certified",
+      "competent"
+    ],
+    "antonyms": [
+      "unqualified",
+      "inexperienced",
+      "incompetent"
+    ],
+    "nounForm": "qualification",
+    "verbForm": "qualify",
+    "adjectiveForm": "qualified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hiring, security, standards",
+    "usageTip": "Use when confirming someone has the right credentials.",
+    "commonMistake": "Confusing 'qualified' with 'experienced'; you can be qualified without being experienced.",
+    "collocations": [
+      "qualified engineer",
+      "fully qualified",
+      "highly qualified"
+    ]
+  }
+]

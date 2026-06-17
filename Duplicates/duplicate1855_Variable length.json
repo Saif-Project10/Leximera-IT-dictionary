@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Variable length",
+    "meaning": "A quality where the size or duration of something is not fixed and can change",
+    "shortMeaning": "non-fixed size",
+    "example": "The database supports variable length strings to save storage space.",
+    "example2": "The audio files have a variable length depending on the recording time.",
+    "example3": "Arrays in some languages are fixed, while others allow variable length.",
+    "Explanation": "Variable length refers to data or objects that do not have a set, constant size. In computing, this is often used for strings or records where one entry might be 5 characters and another might be 50. This is more efficient for storage because you don't waste space on unused 'padding'. However, it can make data processing slightly more complex because the system doesn't know exactly where one piece of data ends and the next begins without extra markers. It is the opposite of 'fixed length'.",
+    "synonyms": [
+      "adjustable size",
+      "dynamic length",
+      "flexible length"
+    ],
+    "antonyms": [
+      "fixed length",
+      "static length",
+      "constant length"
+    ],
+    "nounForm": "length",
+    "verbForm": "N/A",
+    "adjectiveForm": "variable-length",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, data structures, and file formats",
+    "usageTip": "Use this when describing data that can be any size within a range.",
+    "commonMistake": "Assuming all data fields are variable length; many legacy systems use fixed length.",
+    "collocations": [
+      "variable length record",
+      "variable length field",
+      "variable length array"
+    ]
+  },
+  {
+    "word": "Variable length",
+    "meaning": "A value or structure that does not have a fixed size",
+    "shortMeaning": "not fixed size",
+    "example": "The database uses variable length strings for storage.",
+    "example2": "Variable length records allow for more flexibility.",
+    "example3": "The array supports variable length input.",
+    "Explanation": "In IT, 'variable length' describes data structures that can expand or shrink as needed, rather than being confined to a pre-set number of bytes. This is common in memory management and database design to save space. While it provides flexibility, it can also lead to more complex indexing and processing requirements compared to fixed-length structures. Understanding how your system handles variable length data is key to optimizing performance. It is a fundamental concept in storage and protocol design.",
+    "synonyms": [
+      "dynamic length",
+      "flexible size"
+    ],
+    "antonyms": [
+      "fixed length",
+      "static size"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "variable-length",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, databases, and programming",
+    "usageTip": "Use to describe structures that adapt their size.",
+    "commonMistake": "Assuming fixed-length processing works for variable-length data.",
+    "collocations": [
+      "variable length string",
+      "variable length record",
+      "support variable length"
+    ]
+  }
+]

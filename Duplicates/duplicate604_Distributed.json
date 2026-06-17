@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Distributed",
+    "meaning": "Spread or scattered over an area; shared among several.",
+    "shortMeaning": "spread out or shared",
+    "example": "The company has a distributed workforce across three continents.",
+    "example2": "The seeds were distributed evenly across the field.",
+    "example3": "In computing, a distributed system uses multiple networked computers.",
+    "Explanation": "Distributed is the past participle of 'distribute', meaning to give out or spread things among a group or over an area. It describes something that is not centralized in one location but exists in multiple places. In modern business, a 'distributed team' works remotely from different locations. In computing, a 'distributed system' is a key concept where tasks are shared across multiple machines. The word emphasizes decentralization and wide dispersal. It often implies an organized, intentional spreading, not a random scattering.",
+    "synonyms": [
+      "dispersed",
+      "scattered",
+      "spread out",
+      "allocated",
+      "circulated"
+    ],
+    "antonyms": [
+      "centralized",
+      "concentrated",
+      "gathered",
+      "collected"
+    ],
+    "nounForm": "distribution",
+    "verbForm": "distribute",
+    "adjectiveForm": "distributed",
+    "partOfSpeech": "adjective (often past participle)",
+    "commonContext": "Business (teams), computing (systems), logistics, geography",
+    "usageTip": "In tech, 'distributed' means across multiple computers; 'decentralized' is a similar concept in networks.",
+    "commonMistake": "Thinking 'distributed' means the same as 'distributive', which relates to mathematical distribution.",
+    "collocations": [
+      "distributed system",
+      "widely distributed",
+      "distributed network",
+      "distributed ledger"
+    ]
+  },
+  {
+    "word": "Distributed",
+    "meaning": "Given out or spread over an area",
+    "shortMeaning": "spread out",
+    "example": "The flyers were distributed to everyone in the neighborhood.",
+    "example2": "The work was distributed equally among the team members.",
+    "example3": "We use a distributed system for our database.",
+    "Explanation": "The word 'distributed' means that something has been given out or spread across multiple people or locations. In computing, 'distributed systems' are networks of computers working together. It suggests that nothing is in one place, but rather shared or dispersed. It is a key term in logistics, IT, and general business. Use it to describe how resources or information are delivered or allocated across a group or network.",
+    "synonyms": [
+      "shared",
+      "spread",
+      "allocated"
+    ],
+    "antonyms": [
+      "centralized",
+      "collected",
+      "gathered"
+    ],
+    "nounForm": "distribution",
+    "verbForm": "distribute",
+    "adjectiveForm": "distributed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Logistics, IT, team management",
+    "usageTip": "Use for things shared out or spread over space.",
+    "commonMistake": "Confusing it with 'contributed'.",
+    "collocations": [
+      "distributed system",
+      "widely distributed",
+      "evenly distributed"
+    ]
+  }
+]

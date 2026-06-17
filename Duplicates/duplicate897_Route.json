@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Route",
+    "meaning": "A way or course taken to get from one place to another",
+    "shortMeaning": "path, course",
+    "example": "What is the fastest route to the airport?",
+    "example2": "The bus route goes through the city center.",
+    "example3": "He chose a career route in engineering.",
+    "Explanation": "'Route' is primarily a noun meaning a path for travel. It can be physical (roads) or metaphorical (career path). In computing, it refers to the path data takes across a network. It is often confused with 'root' (origin of a plant or problem). Pronunciation can differ (rhyming with 'boot' or 'out'). It's a fundamental word for navigation, planning, and describing processes in many fields.",
+    "synonyms": [
+      "path",
+      "course",
+      "itinerary"
+    ],
+    "antonyms": [
+      "destination",
+      "dead end"
+    ],
+    "nounForm": "route",
+    "verbForm": "route",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Travel, transportation, delivery, networking, careers",
+    "usageTip": "As a verb, it means to send along a specific path (e.g., 'The call was routed through London').",
+    "commonMistake": "Misspelling as 'root' or mispronouncing it.",
+    "collocations": [
+      "en route",
+      "scenic route",
+      "delivery route"
+    ]
+  },
+  {
+    "word": "Route",
+    "meaning": "A path for network traffic, a specific website URL path, or to send data along a chosen path",
+    "shortMeaning": "path identifier / direct data flows",
+    "example": "The network router will select the fastest available route to send data packets.",
+    "example2": "The backend application defines a specific route for the contact page layout.",
+    "example3": "We need to route all user requests through a secure proxy server architecture.",
+    "Explanation": "The word 'route' serves as an essential noun and verb in computer networking and web development. As a noun in web coding, it refers to a URL path string (like '/products') that maps to specific code views. In networking, it represents the digital path across hardware switches. As a verb, it means the act of guiding data packets or client queries along optimal pathways to their destination.",
+    "synonyms": [
+      "pathway",
+      "course / direct",
+      "steer"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "route / routing",
+    "verbForm": "route",
+    "adjectiveForm": "routed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web application routing, network packet engineering, and URL structure definitions",
+    "usageTip": "Use 'route' to describe either static URL addresses in your code or the action of directing internet data.",
+    "commonMistake": "Pronouncing it identically to 'root' in contexts where it could confuse server system 'root directories'.",
+    "collocations": [
+      "define a route",
+      "network route",
+      "route traffic"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Commercial off-the-shelf",
+    "meaning": "A variation of the term used to describe ready-made technology (often hyphenated)",
+    "shortMeaning": "ready-made tech",
+    "example": "The drone was built using commercial off-the-shelf components to save money.",
+    "example2": "They prefer commercial off-the-shelf solutions for their internal database.",
+    "example3": "The military is increasingly using commercial off-the-shelf parts for communication.",
+    "Explanation": "This is essentially the same as 'commercial off the shelf' but is frequently hyphenated when used as a direct adjective before a noun. It refers to the market availability of a product. In the tech industry, this term is used to distinguish between a unique invention and a product that can be ordered from a catalog. Using such technology often means there is a large community of users and existing documentation, which reduces the learning curve for staff. It is widely used in engineering and systems integration.",
+    "synonyms": [
+      "COTS",
+      "standardized",
+      "mass-produced"
+    ],
+    "antonyms": [
+      "customized",
+      "made-to-order"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "off-the-shelf",
+    "partOfSpeech": "adjective",
+    "commonContext": "Engineering, military tech, and corporate IT",
+    "usageTip": "Hyphenate 'off-the-shelf' when it comes right before the noun it describes.",
+    "commonMistake": "Confusing it with 'open source'; COTS is usually paid and proprietary.",
+    "collocations": [
+      "off-the-shelf components",
+      "off-the-shelf software",
+      "off-the-shelf hardware"
+    ]
+  },
+  {
+    "word": "Commercial off-the-shelf",
+    "meaning": "Ready-made software or hardware products that are sold to the general public, not custom-built",
+    "shortMeaning": "ready-made products",
+    "example": "The company chose commercial off-the-shelf software to save on development time.",
+    "example2": "We implemented a commercial off-the-shelf server solution to meet initial demands.",
+    "example3": "Using commercial off-the-shelf components allows for faster hardware upgrades.",
+    "Explanation": "The term 'Commercial off-the-shelf' (COTS) describes products that are commercially available and ready to use, as opposed to custom-built solutions designed specifically for one client. In IT, COTS solutions are popular because they are often cheaper, easier to maintain, and come with existing support teams. However, they lack the flexibility of custom-engineered solutions. Businesses must weigh the cost of buying a ready-made product against the long-term benefits of building a solution that fits their exact needs.",
+    "synonyms": [
+      "COTS",
+      "ready-made",
+      "off-the-shelf"
+    ],
+    "antonyms": [
+      "custom-built",
+      "bespoke",
+      "tailor-made"
+    ],
+    "nounForm": "off-the-shelf product",
+    "verbForm": "N/A",
+    "adjectiveForm": "commercial off-the-shelf",
+    "partOfSpeech": "adjective / noun phrase",
+    "commonContext": "Business procurement, software purchasing, project management",
+    "usageTip": "Use 'commercial off-the-shelf' when discussing the choice between buying ready-made tools versus building custom ones.",
+    "commonMistake": "Thinking 'commercial off-the-shelf' means 'cheap' or 'poor quality'; it simply means 'ready-made'.",
+    "collocations": [
+      "commercial off-the-shelf software",
+      "commercial off-the-shelf solutions",
+      "COTS products"
+    ]
+  }
+]

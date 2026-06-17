@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Tackle",
+    "meaning": "To make a determined effort to deal with a difficult problem or task.",
+    "shortMeaning": "confront and deal with",
+    "example": "The government must tackle the issue of homelessness.",
+    "example2": "He tackled the difficult math problem head-on.",
+    "example3": "We need a new strategy to tackle falling sales.",
+    "Explanation": "Tackle is a verb that implies a vigorous, direct, and determined approach to dealing with a challenge. It comes from sports (to tackle an opponent) and carries that sense of forceful engagement. It is stronger and more active than 'handle' or 'deal with.' It's often used for significant social, economic, or technical problems. A common mistake is using it for very minor tasks where it sounds overly dramatic. This word is effective in motivational language, policy discussions, and project planning, conveying a sense of proactive and energetic problem-solving.",
+    "synonyms": [
+      "confront",
+      "address",
+      "take on",
+      "grapple with",
+      "attack"
+    ],
+    "antonyms": [
+      "avoid",
+      "ignore",
+      "sidestep",
+      "neglect"
+    ],
+    "nounForm": "tackle (sports equipment)",
+    "verbForm": "tackle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Social issues, difficult projects, sports, and major obstacles.",
+    "usageTip": "Use 'tackle' when you want to emphasize a direct, energetic, and serious effort to solve a big problem.",
+    "commonMistake": "Using 'tackle with' (e.g., 'tackle with the issue'); it's usually just 'tackle the issue.'",
+    "collocations": [
+      "tackle a problem",
+      "tackle climate change",
+      "tackle head-on"
+    ]
+  },
+  {
+    "word": "Tackle",
+    "meaning": "To deliberately confront, troubleshoot, and resolve a difficult bug, technical problem, or task",
+    "shortMeaning": "confront and resolve problem",
+    "example": "The senior engineer will tackle the database lockup problem tomorrow morning.",
+    "example2": "Our team needs to tackle these security vulnerabilities before the audit begins.",
+    "example3": "How should we tackle the performance issues found in our mobile application?",
+    "Explanation": "In IT and software development teams, 'tackle' is an action verb used when addressing challenging technical tasks. It implies taking a focused, proactive approach to solve a problem like a system bottleneck, a complex feature request, or an unpredictable software crash. Teams use development meetings to assign complex tickets to specific engineers so everyone knows who is responsible for tackling each problem. It shows a determined effort to fix underlying code issues.",
+    "synonyms": [
+      "address",
+      "handle",
+      "confront",
+      "solve",
+      "troubleshoot"
+    ],
+    "antonyms": [
+      "ignore",
+      "avoid",
+      "neglect",
+      "postpone"
+    ],
+    "nounForm": "tackler",
+    "verbForm": "tackle",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Bug fixing sprints, task assignments, and system troubleshooting discussions",
+    "usageTip": "Use this verb to describe taking charge of a difficult task or complex code bug.",
+    "commonMistake": "Using 'tackle' for tiny, trivial actions; it is best reserved for noticeable problems or core tasks.",
+    "collocations": [
+      "tackle a bug",
+      "tackle a problem",
+      "tackle technical debt"
+    ]
+  }
+]

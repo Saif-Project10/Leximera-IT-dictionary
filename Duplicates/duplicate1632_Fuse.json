@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Fuse",
+    "meaning": "A safety device that protects an electrical circuit from excessive current",
+    "shortMeaning": "circuit protector",
+    "example": "The fuse blew when I plugged in too many appliances at once.",
+    "example2": "Always turn off the power before you replace a blown fuse.",
+    "example3": "A fuse contains a thin wire that melts if the current gets too high.",
+    "Explanation": "A fuse is a critical component in electrical systems designed to prevent fires and damage to electronics. It works by having a small wire that is designed to melt if the electricity flowing through it exceeds a safe level. Once the wire melts, the circuit is broken, and the power stops flowing. Unlike circuit breakers, which can be reset, most fuses must be replaced after they blow. They are found in cars, household appliances, and industrial machinery. They provide a simple and reliable way to ensure electrical safety.",
+    "synonyms": [
+      "circuit breaker (related)",
+      "safety link",
+      "protector"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "fuse",
+    "verbForm": "fuse (to join)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Electrical engineering and home maintenance",
+    "usageTip": "Use 'blow a fuse' to describe when the device breaks due to high current.",
+    "commonMistake": "Replacing a fuse with a higher-rated one, which can be a fire hazard.",
+    "collocations": [
+      "blown fuse",
+      "electrical fuse",
+      "replace a fuse"
+    ]
+  },
+  {
+    "word": "Fuse",
+    "meaning": "To join two or more things together to form a single entity, or a safety device in a circuit",
+    "shortMeaning": "join or safety wire",
+    "example": "The two companies decided to fuse their resources into one brand.",
+    "example2": "The heat was so intense that the wires began to fuse.",
+    "example3": "Check the fuse box if the lights go out suddenly.",
+    "Explanation": "As a verb, 'fuse' means to blend or melt things together so they become one. This is used in metalworking, science, and even music (fusion). As a noun, a 'fuse' is a small safety component in an electrical circuit that melts and breaks the connection if the current is too high, preventing a fire. The concept of 'fusing' always involves creating a unified whole from separate parts. It is used in both physical (melting metal) and abstract (merging ideas) contexts.",
+    "synonyms": [
+      "merge",
+      "blend",
+      "unite"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "break"
+    ],
+    "nounForm": "fusion / fuse",
+    "verbForm": "fuse",
+    "adjectiveForm": "fusible",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Electricity, cooking, and business mergers",
+    "usageTip": "Use 'fuse' when the items being joined cannot be easily separated again.",
+    "commonMistake": "Confusing 'fuse' (to join) with 'fuzz' (blurriness).",
+    "collocations": [
+      "blown fuse",
+      "fuse box",
+      "nuclear fusion"
+    ]
+  }
+]

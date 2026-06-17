@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Add",
+    "meaning": "To put something with another thing or group; to say something more.",
+    "shortMeaning": "put with, include",
+    "example": "Add sugar to your coffee if you like it sweet.",
+    "example2": "She added that we should arrive early.",
+    "example3": "The new evidence adds to the mystery.",
+    "Explanation": "'Add' is a fundamental verb meaning to join something to something else to increase the number, amount, or importance. It is used in mathematics (addition), cooking, conversation, and many other contexts. It is a simple, direct word. The noun form is 'addition'. A common error is confusing it with 'ad' (short for advertisement). Remember the double 'd'. You add something *to* something else. In speaking, 'add' is often used to introduce an extra comment. It is a versatile and essential word for everyday life.",
+    "synonyms": [
+      "include",
+      "append",
+      "sum"
+    ],
+    "antonyms": [
+      "subtract",
+      "remove",
+      "deduct"
+    ],
+    "nounForm": "addition",
+    "verbForm": "add",
+    "adjectiveForm": "additive",
+    "partOfSpeech": "verb",
+    "commonContext": "Math, cooking, conversation, lists",
+    "usageTip": "In math, the symbol '+' is read as 'plus' or 'add'.",
+    "commonMistake": "Misspelling it as 'ad' (which is an advertisement).",
+    "collocations": [
+      "add up",
+      "add to",
+      "add value"
+    ]
+  },
+  {
+    "word": "Add",
+    "meaning": "To put something extra or to join numbers together",
+    "shortMeaning": "join or sum",
+    "example": "Click the button to add a new item to your shopping cart.",
+    "example2": "If you add 5 and 10, the result is 15.",
+    "example3": "We should add a search bar to the top of the webpage.",
+    "Explanation": "Add is one of the most basic and common words in English. In IT, it refers to inserting data into a list, database, or UI. In math and programming, it is the process of addition. It is also used in instructions for adding new features or users to a system. It is a simple, direct action. It is the opposite of 'subtract' (in math) or 'remove' (in data management).",
+    "synonyms": [
+      "insert",
+      "include",
+      "sum"
+    ],
+    "antonyms": [
+      "subtract",
+      "remove",
+      "delete"
+    ],
+    "nounForm": "addition",
+    "verbForm": "add",
+    "adjectiveForm": "additional",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday use, math, and UI design",
+    "usageTip": "Use 'add' for putting something new into a group or system.",
+    "commonMistake": "Using 'add' when you mean 'append' (append specifically means adding to the end).",
+    "collocations": [
+      "add a comment",
+      "add a feature",
+      "add numbers"
+    ]
+  }
+]

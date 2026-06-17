@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Momentary",
+    "meaning": "Lasting for a very short time; brief.",
+    "shortMeaning": "brief, fleeting",
+    "example": "There was a momentary silence after the explosion.",
+    "example2": "She felt a momentary pang of regret.",
+    "example3": "The power outage was only momentary.",
+    "Explanation": "The adjective 'momentary' describes something that happens or exists for just a moment—an extremely short period. It emphasizes brevity. It is often used to describe pauses, feelings, lapses, or interruptions. Do not confuse it with 'momentous', which means very important. 'Momentary' is a more common word in everyday descriptions of time. It suggests that something passed quickly and did not have a lasting effect.",
+    "synonyms": [
+      "brief",
+      "fleeting",
+      "transient",
+      "short-lived"
+    ],
+    "antonyms": [
+      "permanent",
+      "lasting",
+      "enduring",
+      "long-lasting"
+    ],
+    "nounForm": "moment",
+    "verbForm": "N/A",
+    "adjectiveForm": "momentary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotions, pauses, interruptions, gaps in time",
+    "usageTip": "Often used before nouns like 'lapse', 'silence', 'hesitation', 'feeling'.",
+    "commonMistake": "Confusing 'momentary' (brief) with 'momentous' (very significant).",
+    "collocations": [
+      "momentary lapse",
+      "momentary confusion",
+      "momentary shock",
+      "momentary delay"
+    ]
+  },
+  {
+    "word": "Momentary",
+    "meaning": "Lasting for a very short time; brief",
+    "shortMeaning": "brief",
+    "example": "There was a momentary loss of connection.",
+    "example2": "He experienced a momentary lapse in concentration.",
+    "example3": "The error was only momentary.",
+    "Explanation": "The word 'momentary' describes something that happens and disappears very quickly—lasting for just a moment. It is often used to describe small, temporary hiccups in IT systems, like a network flicker or a very fast spike in CPU usage. It helps distinguish between a permanent problem (that requires a fix) and a transient one (that resolves itself). It implies that the event is insignificant because of its brief nature.",
+    "synonyms": [
+      "brief",
+      "transient",
+      "short-lived"
+    ],
+    "antonyms": [
+      "permanent",
+      "lasting",
+      "constant"
+    ],
+    "nounForm": "moment",
+    "verbForm": "N/A",
+    "adjectiveForm": "momentary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance, issues, system logs",
+    "usageTip": "Use for transient, non-serious issues.",
+    "commonMistake": "Confusing 'momentary' (brief) with 'momentous' (important).",
+    "collocations": [
+      "momentary lapse",
+      "momentary pause",
+      "momentary delay"
+    ]
+  }
+]

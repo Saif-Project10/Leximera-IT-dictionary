@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Pre-shipment",
+    "meaning": "Relating to the period or activities that occur before goods are sent to a customer",
+    "shortMeaning": "before-shipping phase",
+    "example": "The pre-shipment inspection ensured that the products were not damaged.",
+    "example2": "We need to complete the pre-shipment paperwork by tomorrow.",
+    "example3": "Pre-shipment testing is mandatory for all electronic components.",
+    "Explanation": "Pre-shipment covers everything that happens once an order is ready but hasn't left the warehouse. This includes quality checks, final packaging, documentation, and weighing. In international trade, pre-shipment inspections are often required to verify that the goods match the order description and meet safety standards. It is the final chance for a company to prevent errors before the product reaches the customer. Effective pre-shipment processes reduce the number of returns and customer complaints. It is a vital part of the supply chain.",
+    "synonyms": [
+      "pre-delivery",
+      "outbound processing"
+    ],
+    "antonyms": [
+      "post-shipment",
+      "delivery"
+    ],
+    "nounForm": "pre-shipment",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-shipment",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Logistics, manufacturing, e-commerce",
+    "usageTip": "Use this term for tasks like quality checks or packing that happen right before the carrier picks up the item.",
+    "commonMistake": "Confusing pre-shipment with the manufacturing stage; pre-shipment starts once the product is already made.",
+    "collocations": [
+      "pre-shipment inspection",
+      "pre-shipment documents",
+      "pre-shipment testing"
+    ]
+  },
+  {
+    "word": "Pre-shipment",
+    "meaning": "Events or actions happening before the shipping of goods.",
+    "shortMeaning": "before shipping",
+    "example": "We perform a pre-shipment inspection of all hardware components.",
+    "example2": "Pre-shipment testing is required for our server racks.",
+    "example3": "The pre-shipment documentation must be completed today.",
+    "Explanation": "Pre-shipment refers to the stage where goods are checked, packed, and processed before they leave the facility. This is a critical quality control step in manufacturing and logistics. Ensuring everything is correct during the pre-shipment phase prevents expensive returns or errors after the product is delivered. It is a standard procedure in high-stakes environments where reliability is paramount. Proper documentation at this stage is essential for tracking and compliance.",
+    "synonyms": [
+      "pre-dispatch",
+      "pre-delivery"
+    ],
+    "antonyms": [
+      "post-shipment",
+      "delivery"
+    ],
+    "nounForm": "pre-shipment",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-shipment",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logistics, quality control, hardware",
+    "usageTip": "Use this when discussing checks done before sending products to customers.",
+    "commonMistake": "Assuming pre-shipment only refers to checking the quality, not the paperwork.",
+    "collocations": [
+      "pre-shipment inspection",
+      "pre-shipment testing",
+      "pre-shipment process"
+    ]
+  }
+]

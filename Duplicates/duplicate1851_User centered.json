@@ -1,0 +1,62 @@
+[
+  {
+    "word": "User centered",
+    "meaning": "Focusing primarily on the needs, wants, and limitations of the person using the product",
+    "shortMeaning": "user-focused",
+    "example": "The new app design is very user centered and easy to navigate.",
+    "example2": "Companies that are user centered usually have higher customer loyalty.",
+    "example3": "We need a user centered approach to solve these interface problems.",
+    "Explanation": "The term 'user centered' describes a philosophy where the end-user is the main priority during development. Instead of building something based on technical ease, developers look at what the user actually requires. This approach involves constant testing and empathy for the person using the tool. It aims to reduce frustration and increase efficiency for the human involved. In the IT world, being user centered is considered a best practice for successful products.",
+    "synonyms": [
+      "user-focused",
+      "customer-centric",
+      "human-centric"
+    ],
+    "antonyms": [
+      "technology-centered",
+      "developer-centric",
+      "system-centered"
+    ],
+    "nounForm": "user-centeredness",
+    "verbForm": "N/A",
+    "adjectiveForm": "user-centered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Product design, software development, and marketing",
+    "usageTip": "Use this to describe a product or strategy that prioritizes the person using it.",
+    "commonMistake": "Thinking 'user centered' only applies to how an app looks, rather than how it works.",
+    "collocations": [
+      "user centered approach",
+      "user centered perspective",
+      "user centered mindset"
+    ]
+  },
+  {
+    "word": "User centered",
+    "meaning": "Designed with the needs and preferences of the user at the forefront",
+    "shortMeaning": "user-focused",
+    "example": "The team adopted a user centered design approach.",
+    "github-example2": "Creating user centered applications improves customer loyalty.",
+    "example3": "Our new website is completely user centered.",
+    "Explanation": "User centered describes a development philosophy where the primary goal is to solve the user's problems and meet their expectations. Instead of starting with technical limitations, designers focus on how the user will interact with the system. This leads to more intuitive, accessible, and successful software. User centered design includes extensive research, feedback loops, and usability testing to ensure the end product is truly helpful. It is considered the gold standard for creating modern, consumer-facing technology.",
+    "synonyms": [
+      "user-focused",
+      "human-centric"
+    ],
+    "antonyms": [
+      "developer-centric",
+      "tech-focused"
+    ],
+    "nounForm": "user-centered design",
+    "verbForm": "N/A",
+    "adjectiveForm": "user-centered",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design and software development",
+    "usageTip": "Use it to demonstrate that you prioritize user needs.",
+    "commonMistake": "Thinking user centered means just asking the user what they want.",
+    "collocations": [
+      "user centered design",
+      "user centered approach",
+      "user centered focus"
+    ]
+  }
+]

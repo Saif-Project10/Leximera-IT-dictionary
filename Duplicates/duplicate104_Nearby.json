@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Nearby",
+    "meaning": "Not far away; close at hand. | Not far away in distance; close at hand",
+    "shortMeaning": "close by",
+    "example": "There's a great coffee shop nearby.",
+    "example2": "We searched for a nearby parking spot.",
+    "example3": "The explosion was heard by people in nearby towns.",
+    "Explanation": "'Nearby' functions as both an adverb and an adjective to indicate short distance. As an adjective, it comes before a noun (a nearby park). As an adverb, it usually comes after a verb (live nearby). It is a single word, unlike 'close to' or 'far away'. It is a practical, commonly used word in directions, descriptions, and everyday conversation. It implies convenience and accessibility. It is less formal than 'adjacent' or 'in the vicinity' but perfectly acceptable in most written and spoken contexts.",
+    "synonyms": [
+      "Adjacent",
+      "At Hand",
+      "Close",
+      "Close By",
+      "In The Vicinity",
+      "Near",
+      "Not Far Off"
+    ],
+    "antonyms": [
+      "Distant",
+      "Far",
+      "Far Off",
+      "Remote"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "nearby",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Giving directions, describing locations, urban planning, everyday conversation",
+    "usageTip": "Remember it's one word. As an adjective, it often comes before the noun it describes.",
+    "commonMistake": "Writing it as two words ('near by'). The standard form is the single word 'nearby'.",
+    "collocations": [
+      "nearby city",
+      "located nearby",
+      "shop nearby",
+      "nearby area"
+    ]
+  },
+  {
+    "word": "Nearby",
+    "meaning": "Close in distance or proximity",
+    "shortMeaning": "close",
+    "example": "There is a nearby server rack for local storage.",
+    "example2": "He works at a nearby facility.",
+    "example3": "The nearby node handles the data requests.",
+    "Explanation": "The word 'nearby' describes something that is physically close or within a short distance. In IT, it is often used when discussing hardware placement, data centers, or network nodes that have low latency because of their physical proximity. It is a simple but important concept for understanding network performance and physical infrastructure layout. It can function as both an adjective and an adverb. Avoid using it for things that are logically close but physically distant.",
+    "synonyms": [
+      "close",
+      "adjacent",
+      "neighboring"
+    ],
+    "antonyms": [
+      "far",
+      "distant",
+      "remote"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "nearby",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Hardware, networking, infrastructure",
+    "usageTip": "Use to describe physical proximity between two points.",
+    "commonMistake": "Confusing 'nearby' with 'near', which acts differently in sentences.",
+    "collocations": [
+      "nearby node",
+      "nearby server",
+      "nearby office"
+    ]
+  }
+]

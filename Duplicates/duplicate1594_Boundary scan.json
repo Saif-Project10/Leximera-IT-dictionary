@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Boundary scan",
+    "meaning": "A method for testing the physical connections between integrated circuits on a printed circuit board",
+    "shortMeaning": "PCB hardware testing",
+    "example": "Boundary scan allows us to test chips without needing physical access to their pins.",
+    "example2": "The JTAG standard is the most common way to perform a boundary scan.",
+    "example3": "Using boundary scan significantly reduces the cost of manufacturing testing.",
+    "Explanation": "As electronics became smaller, it became impossible for engineers to touch every tiny pin on a chip with a needle to test it. Boundary scan solves this by adding 'test cells' inside the chip itself. These cells can 'see' and 'control' the signals at the edges (the boundaries) of the chip. By sending a series of 1s and 0s through these cells, engineers can check if the chip is soldered correctly to the board. It is like having a tiny internal diagnostic team inside every chip. ",
+    "synonyms": [
+      "JTAG testing",
+      "boundary scan architecture",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "boundary scan",
+    "verbForm": "boundary scan",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Hardware Manufacturing and Electronics",
+    "usageTip": "Incorporate boundary scan into your PCB design to make repairs and testing much easier.",
+    "commonMistake": "Thinking boundary scan tests the 'logic' inside the chip; it primarily tests the 'connections' between chips.",
+    "collocations": [
+      "boundary scan standard",
+      "perform a boundary scan",
+      "boundary scan testing"
+    ]
+  },
+  {
+    "word": "Boundary scan",
+    "meaning": "A method for testing the connections on a printed circuit board without using physical probes",
+    "shortMeaning": "electronic board testing",
+    "example": "Engineers use a boundary scan to find broken circuits on complex chips.",
+    "example2": "The JTAG interface is the standard used to perform a boundary scan.",
+    "example3": "Boundary scan is faster than manually checking every pin on a microprocessor.",
+    "Explanation": "A boundary scan is an advanced hardware testing technique. Instead of touching a board with needles to see if it works, special 'cells' are built into the chips. These cells can send and receive signals to 'scan' the connections between components. This is part of the JTAG (Joint Test Action Group) standard. It is essential for modern electronics because the parts are now too small for humans to test manually with traditional tools.",
+    "synonyms": [
+      "JTAG testing",
+      "in-circuit testing"
+    ],
+    "antonyms": [
+      "manual probing"
+    ],
+    "nounForm": "boundary scan",
+    "verbForm": "boundary scan",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Electrical engineering, chip manufacturing, hardware repair",
+    "usageTip": "Learn about JTAG if you want to get into advanced hardware hacking or repair.",
+    "commonMistake": "Thinking boundary scan tests the 'software'; it actually tests the 'physical connections' inside the hardware.",
+    "collocations": [
+      "boundary scan architecture",
+      "perform a boundary scan",
+      "standard for boundary scan"
+    ]
+  }
+]

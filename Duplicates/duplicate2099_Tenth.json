@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Tenth",
+    "meaning": "The position after the ninth; one of ten equal parts.",
+    "shortMeaning": "position 10",
+    "example": "This is the tenth iteration of the software.",
+    "example2": "We are on the tenth release of the project.",
+    "example3": "The error was located in the tenth module.",
+    "Explanation": "The word 'tenth' is an ordinal number. In programming, remember that most languages use zero-based indexing, meaning the 'tenth' item is actually at index 9. This is a common area of confusion for new developers. 'Tenth' is used to describe sequences, versions, or list positions in documentation or project planning. Always double-check your index numbering to avoid off-by-one errors.",
+    "synonyms": [
+      "10th"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "ten",
+    "verbForm": "N/A",
+    "adjectiveForm": "tenth",
+    "partOfSpeech": "adjective",
+    "commonContext": "Sequences and versioning",
+    "usageTip": "Use 'tenth' for ordering; remember zero-based indexing in code.",
+    "commonMistake": "Treating the 'tenth' item as index 10 (it's index 9).",
+    "collocations": [
+      "tenth iteration",
+      "tenth release"
+    ]
+  },
+  {
+    "word": "Tenth",
+    "meaning": "The number 10 in a sequence or one of ten equal parts",
+    "shortMeaning": "10th position",
+    "example": "This is the tenth version of the software.",
+    "example2": "He finished in tenth place.",
+    "example3": "One tenth of the files are corrupted.",
+    "Explanation": "The word 'tenth' is an ordinal number. It represents the position 10 in a sequence or a fraction representing one of ten parts ($1/10$). It is used in software versioning (e.g., the 10th iteration), counting items, or specifying parts of a whole. It follows standard English numbering rules. There is no verb or adjective form beyond the word itself (which acts as both). It is basic but necessary vocabulary.",
+    "synonyms": [
+      "10th",
+      "one in ten"
+    ],
+    "antonyms": [
+      "N/A",
+      "first",
+      "last"
+    ],
+    "nounForm": "ten",
+    "verbForm": "N/A",
+    "adjectiveForm": "tenth",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Counting, sequencing, fractions, versioning",
+    "usageTip": "Use 'tenth' for ordering or splitting things into ten parts.",
+    "commonMistake": "Confusing 'tenth' (position) with 'ten' (the number itself).",
+    "collocations": [
+      "tenth version",
+      "tenth place",
+      "one tenth"
+    ]
+  }
+]

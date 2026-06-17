@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Lowered",
+    "meaning": "Moved or made to be in a lower position, level, or amount.",
+    "shortMeaning": "reduced, brought down",
+    "example": "She lowered the volume of the music.",
+    "example2": "The company lowered its prices to compete more effectively.",
+    "example3": "He lowered himself into the chair with a sigh.",
+    "Explanation": "'Lowered' is the past tense and past participle of the verb 'lower'. It means to cause something to move down, to reduce height, intensity, quantity, or value. It is a versatile word used in both physical (lower a flag) and abstract (lower expectations) contexts. It is the direct opposite of 'raised'. The action is usually deliberate. As an adjective, 'lowered' describes something that has been placed at a reduced level, like 'lowered suspension' on a car. It is a neutral, descriptive term.",
+    "synonyms": [
+      "reduced",
+      "decreased",
+      "dropped",
+      "brought down",
+      "diminished"
+    ],
+    "antonyms": [
+      "raised",
+      "increased",
+      "elevated",
+      "heightened"
+    ],
+    "nounForm": "lowering",
+    "verbForm": "lower",
+    "adjectiveForm": "lowered",
+    "partOfSpeech": "verb (past tense/participle) / adjective",
+    "commonContext": "Volume, prices, flags, expectations, mechanisms",
+    "usageTip": "Use 'lower' for things you control: 'lower your voice'. Use 'fall' for things that drop on their own: 'prices fell'.",
+    "commonMistake": "Using 'lower' intransitively; it is usually a transitive verb requiring an object.",
+    "collocations": [
+      "lowered expectations",
+      "lowered into",
+      "lowered the cost",
+      "lowered his eyes"
+    ]
+  },
+  {
+    "word": "Lowered",
+    "meaning": "Reduced in height, level, or intensity",
+    "shortMeaning": "decreased",
+    "example": "We lowered the CPU clock speed to reduce heat.",
+    "example2": "The lowered noise threshold improved data accuracy.",
+    "example3": "The server's priority was lowered to save resources.",
+    "Explanation": "The word 'lowered' signifies a deliberate reduction in status, priority, or physical level. In IT, you might lower a user's permissions, lower a threshold in an alert system, or lower the priority of a process in the OS scheduler. It is a simple but clear term used to describe an adjustment that makes something less intense, less privileged, or physically smaller. It is used in both hardware adjustments and software configuration management.",
+    "synonyms": [
+      "reduced",
+      "decreased",
+      "dropped"
+    ],
+    "antonyms": [
+      "raised",
+      "increased",
+      "boosted"
+    ],
+    "nounForm": "lowering",
+    "verbForm": "lower",
+    "adjectiveForm": "lowered",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Configuration and performance optimization",
+    "usageTip": "Use 'lowered' when adjusting settings down.",
+    "commonMistake": "Using 'lowered' to mean 'deleted'; lowering is just adjusting the level.",
+    "collocations": [
+      "lowered threshold",
+      "lowered priority",
+      "lowered setting"
+    ]
+  }
+]

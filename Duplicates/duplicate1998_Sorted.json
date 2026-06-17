@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sorted",
+    "meaning": "Arranged in a systematic or logical order",
+    "shortMeaning": "ordered",
+    "example": "The files were sorted by date of creation.",
+    "example2": "A sorted list is much faster to search through.",
+    "example3": "He sorted the data into alphabetical categories.",
+    "Explanation": "The word 'sorted' means that items have been organized or arranged based on a specific rule or attribute. In computer science, sorting is a fundamental operation that makes retrieving information faster and more efficient. Data can be sorted numerically, alphabetically, or by time. A 'sorted' state allows for more advanced search techniques like binary search. It implies that the disorder has been removed and the items now have a predictable sequence. It is a cornerstone of effective data management.",
+    "synonyms": [
+      "ordered",
+      "arranged",
+      "organized"
+    ],
+    "antonyms": [
+      "unsorted",
+      "random",
+      "chaotic"
+    ],
+    "nounForm": "sort",
+    "verbForm": "sort",
+    "adjectiveForm": "sorted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management, programming, file systems",
+    "usageTip": "Use 'sorted' to describe data that is ready for easier retrieval.",
+    "commonMistake": "Forgetting to specify the criteria (sorted by what?).",
+    "collocations": [
+      "sorted by date",
+      "alphabetically sorted",
+      "already sorted"
+    ]
+  },
+  {
+    "word": "Sorted",
+    "meaning": "Arranged in a specific order, or having dealt with a problem.",
+    "shortMeaning": "arranged or fixed",
+    "example": "The list was sorted alphabetically by username.",
+    "example2": "Don't worry, the network issue is all sorted.",
+    "example3": "Data should be sorted before processing.",
+    "Explanation": "The word 'sorted' has two common usages. First, it refers to the digital arrangement of data (e.g., sorting a database by date). Second, in British English, it is used informally to mean that a problem has been handled or fixed. When working with data, 'sorted' implies an orderly state. When talking about tasks, it means the job is done. It is a past participle of 'sort'. Always ensure the context is clear so people know whether you are talking about data structures or a fixed task.",
+    "synonyms": [
+      "ordered",
+      "arranged",
+      "resolved"
+    ],
+    "antonyms": [
+      "unsorted",
+      "messy",
+      "unresolved"
+    ],
+    "nounForm": "sort",
+    "verbForm": "sort",
+    "adjectiveForm": "sorted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data management, tasks, general communication",
+    "usageTip": "Use 'sorted' to describe organized data or a task you've completed.",
+    "commonMistake": "Assuming 'sorted' always means 'organized' (it also means 'finished').",
+    "collocations": [
+      "sorted data",
+      "already sorted",
+      "get it sorted"
+    ]
+  }
+]

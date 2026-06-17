@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Align",
+    "meaning": "To place or arrange things in a straight line; to bring into cooperation or agreement",
+    "shortMeaning": "line up or bring into agreement",
+    "example": "Align the text to the left margin.",
+    "example2": "Our goals need to align with the company's mission.",
+    "example3": "The wheels of the car need to be aligned.",
+    "Explanation": "'Align' is a verb with both physical and metaphorical meanings. Physically, it means to arrange in a line. Metaphorically, it means to adjust parts so they work harmoniously or to bring opinions/actions into agreement. This word is common in design, mechanics, business strategy, and teamwork. It suggests order, coordination, and purpose. The noun form is 'alignment'. A common goal is for team members to be 'aligned'. It is a key concept for efficiency and success.",
+    "synonyms": [
+      "line up",
+      "arrange",
+      "adjust",
+      "harmonize"
+    ],
+    "antonyms": [
+      "misalign",
+      "disarrange",
+      "disagree"
+    ],
+    "nounForm": "alignment",
+    "verbForm": "align",
+    "adjectiveForm": "aligned",
+    "partOfSpeech": "verb",
+    "commonContext": "Design, mechanics, business strategy, team objectives",
+    "usageTip": "Use 'align' for both physical straightening and metaphorical bringing into agreement.",
+    "commonMistake": "Misspelling as 'aline'. The correct spelling is 'align'.",
+    "collocations": [
+      "align with",
+      "align properly",
+      "strategic align"
+    ]
+  },
+  {
+    "word": "Align",
+    "meaning": "To place things in a straight line or in correct relative positions",
+    "shortMeaning": "straighten or arrange",
+    "example": "Use CSS Flexbox to align the items in the center of the screen.",
+    "example2": "The text should align with the edge of the image.",
+    "example3": "We need to align our project goals with the company's vision.",
+    "Explanation": "Align refers to the arrangement of elements. In UI/UX design, it means making sure buttons, text, and images look neat and organized. In a business context, it means making sure different teams are working toward the same goal. Good alignment makes a website look professional and easy to read. It is a fundamental concept in both visual arts and management.",
+    "synonyms": [
+      "arrange",
+      "straighten",
+      "coordinate"
+    ],
+    "antonyms": [
+      "disorder",
+      "tilt",
+      "misalign"
+    ],
+    "nounForm": "alignment",
+    "verbForm": "align",
+    "adjectiveForm": "aligned",
+    "partOfSpeech": "verb",
+    "commonContext": "Web design, UI/UX, and business strategy",
+    "usageTip": "Always check your alignment on mobile screens to ensure a responsive design.",
+    "commonMistake": "Relying on 'eyeballing' it instead of using grids or CSS properties like `align-items`.",
+    "collocations": [
+      "align center",
+      "left align",
+      "strategic alignment"
+    ]
+  }
+]

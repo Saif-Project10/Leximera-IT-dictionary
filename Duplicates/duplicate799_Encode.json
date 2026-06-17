@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Encode",
+    "meaning": "To convert information into a particular form, especially into a code.",
+    "shortMeaning": "convert into code",
+    "example": "Computers encode text into binary data.",
+    "example2": "Genes encode the instructions for building proteins.",
+    "example3": "The spy encoded the message before transmission.",
+    "Explanation": "To encode is to transform information from one form into another, usually for purposes of standardization, secrecy, compression, or transmission. In computing, encoding is fundamental (ASCII, UTF-8). In biology, DNA encodes genetic information. In communication, encoding is the first step in the sender-message-receiver model (the sender encodes an idea into words). The opposite is 'decode'. The process is 'encoding'. It's a technical term that has become common in the digital age, describing how we store and communicate all kinds of data in a machine-readable or secure format.",
+    "synonyms": [
+      "cipher",
+      "encrypt",
+      "convert",
+      "translate",
+      "symbolize"
+    ],
+    "antonyms": [
+      "decode",
+      "decipher",
+      "decrypt"
+    ],
+    "nounForm": "encoding",
+    "verbForm": "encode",
+    "adjectiveForm": "encoded",
+    "partOfSpeech": "verb",
+    "commonContext": "Computing, genetics, cryptography, communication",
+    "usageTip": "Often used with 'into' (encode data into a format) or 'as' (encode the letter as a number).",
+    "commonMistake": "Confusing 'encode' with 'encrypt'. All encryption is encoding, but not all encoding is encryption (some is just for format, not secrecy).",
+    "collocations": [
+      "encode data",
+      "encode a message",
+      "genetically encode",
+      "encode video"
+    ]
+  },
+  {
+    "word": "Encode",
+    "meaning": "To convert information into a particular form or code",
+    "shortMeaning": "convert into code",
+    "example": "We need to encode the message so it can be sent over the network.",
+    "example2": "The software will encode the data into a binary format.",
+    "example3": "The computer uses a specific algorithm to encode the input text.",
+    "Explanation": "The word 'encode' is a fundamental concept in computing and communication. It involves transforming data from one format into another for efficient transmission, storage, or processing. For instance, characters are encoded into bits using systems like ASCII or Unicode. It is important to remember that encoding is not the same as encryption; encoding is for data usability and compatibility, while encryption is for security. Understanding how to encode data is essential for web development and data science.",
+    "synonyms": [
+      "convert",
+      "translate",
+      "cipher",
+      "transform"
+    ],
+    "antonyms": [
+      "decode",
+      "interpret",
+      "decipher"
+    ],
+    "nounForm": "encoder",
+    "verbForm": "encode",
+    "adjectiveForm": "encoded",
+    "partOfSpeech": "verb",
+    "commonContext": "Data transmission, computer science, and linguistics",
+    "usageTip": "Use 'encode' when you are talking about changing the format of data for a system to read.",
+    "commonMistake": "Confusing 'encode' with 'encrypt' (encoding is about format, encryption is about privacy).",
+    "collocations": [
+      "encode data",
+      "base64 encode",
+      "automatically encode"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Intuition-based",
+    "meaning": "Relying on feelings or instincts rather than conscious reasoning or evidence.",
+    "shortMeaning": "based on gut feeling",
+    "example": "Her decision was more intuition-based than analytical.",
+    "example2": "Intuition-based judgments can sometimes be surprisingly accurate.",
+    "example3": "The old medicine was largely intuition-based, lacking scientific proof.",
+    "Explanation": "Intuition-based describes a method, decision, or belief that stems from intuition—an immediate understanding or feeling without conscious rational process. It contrasts with 'evidence-based' or 'analytical'. Intuition can be a valuable skill developed from experience, but intuition-based approaches can also be unreliable and subjective. The term is often hyphenated when used as an adjective before a noun. In some fields (like some management theories), intuition is respected; in others (like science), it's seen as inferior to empirical evidence. It acknowledges the role of subconscious processing.",
+    "synonyms": [
+      "instinctive",
+      "gut-feeling",
+      "unconscious",
+      "non-analytical"
+    ],
+    "antonyms": [
+      "evidence-based",
+      "analytical",
+      "rational",
+      "empirical"
+    ],
+    "nounForm": "intuition",
+    "verbForm": "intuit",
+    "adjectiveForm": "intuition-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decision-making, judgment, medicine, management",
+    "usageTip": "Often used to contrast with more systematic approaches, sometimes critically.",
+    "commonMistake": "Thinking 'intuition-based' means 'illogical'. Intuition can be a form of rapid, subconscious logic based on pattern recognition.",
+    "collocations": [
+      "intuition-based decision",
+      "intuition-based approach",
+      "largely intuition-based"
+    ]
+  },
+  {
+    "word": "Intuition-based",
+    "meaning": "Relying on gut feeling rather than data",
+    "shortMeaning": "gut-feeling",
+    "example": "His design decisions were mostly intuition-based.",
+    "example2": "While data is king, some early choices are intuition-based.",
+    "example3": "Avoid purely intuition-based debugging when logs exist.",
+    "Explanation": "The term 'intuition-based' describes approaches where decisions are made based on personal experience, 'gut feeling', or instinct rather than hard data or scientific proof. In IT, while experienced developers can have excellent intuition, critical architectural or security choices should ideally be data-driven. Relying on intuition-based methods can lead to hidden biases or errors. Use your intuition as a starting point, but always verify it with testing and evidence to ensure your solutions are robust and correct.",
+    "synonyms": [
+      "instinctive",
+      "gut-feeling"
+    ],
+    "antonyms": [
+      "data-driven",
+      "fact-based"
+    ],
+    "nounForm": "intuition",
+    "verbForm": "N/A",
+    "adjectiveForm": "intuition-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Decision-making, management",
+    "usageTip": "Use 'intuition-based' for decisions made by instinct.",
+    "commonMistake": "Confusing 'intuition-based' with 'calculated'.",
+    "collocations": [
+      "intuition-based decision",
+      "intuition-based approach",
+      "purely intuition-based"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Swappable",
+    "meaning": "Able to be exchanged or replaced with another",
+    "shortMeaning": "replaceable",
+    "example": "The laptop has swappable batteries for longer use.",
+    "example2": "We designed the UI to have swappable modules.",
+    "example3": "The hard drive is easily swappable.",
+    "Explanation": "The word 'swappable' describes components, parts, or data modules that can be removed and replaced with others of a similar type. This is huge in hardware (like modular devices) and software (like plugins or widgets). It emphasizes flexibility and ease of maintenance. When you say something is 'swappable,' you are telling the user or engineer that they can change the setup without breaking the whole system. It is a very practical and positive term.",
+    "synonyms": [
+      "replaceable",
+      "exchangeable",
+      "modular"
+    ],
+    "antonyms": [
+      "fixed",
+      "permanent",
+      "built-in"
+    ],
+    "nounForm": "swap",
+    "verbForm": "swap",
+    "adjectiveForm": "swappable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, software modularity",
+    "usageTip": "Use 'swappable' for items that users can easily change.",
+    "commonMistake": "Confusing 'swappable' (can be replaced) with 'configurable' (can be changed).",
+    "collocations": [
+      "swappable battery",
+      "swappable module",
+      "easily swappable"
+    ]
+  },
+  {
+    "word": "Swappable",
+    "meaning": "Capable of being exchanged or replaced with something else",
+    "shortMeaning": "exchangable",
+    "example": "These batteries are swappable between the two devices.",
+    "example2": "The modules in this system are swappable.",
+    "example3": "He bought a laptop with a swappable hard drive.",
+    "Explanation": "The term 'swappable' is commonly used in IT to describe components or parts that can be easily removed and replaced without complex tools or procedures. It implies modularity, allowing users to customize their hardware or maintain it more efficiently. It is frequently applied to batteries, storage drives, or software settings. When designing systems, making parts swappable increases flexibility and user satisfaction. It is an adjective derived from the verb 'swap'.",
+    "synonyms": [
+      "interchangeable",
+      "replaceable",
+      "exchangeable"
+    ],
+    "antonyms": [
+      "fixed",
+      "permanent",
+      "non-replaceable"
+    ],
+    "nounForm": "swap",
+    "verbForm": "swap",
+    "adjectiveForm": "swappable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, software modularity",
+    "usageTip": "Use this to describe components that can be changed easily.",
+    "commonMistake": "Thinking it only applies to software; it is very common in hardware.",
+    "collocations": [
+      "swappable battery",
+      "swappable component",
+      "easily swappable"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Zombified",
+    "meaning": "A computer infected and controlled by an external party",
+    "shortMeaning": "infected, controlled",
+    "example": "The server was zombified by a botnet.",
+    "example2": "A zombified machine is part of a larger attack network.",
+    "example3": "He identified a zombified node in the cluster.",
+    "Explanation": "Zombified describes a computer that has been compromised by malware, turning it into a 'zombie' that is controlled by a remote attacker without the owner's knowledge. These computers are then used to carry out malicious tasks like Distributed Denial of Service (DDoS) attacks or sending spam. A network of zombified computers is called a botnet. Identifying zombified systems is a primary goal of network security monitoring.",
+    "synonyms": [
+      "compromised",
+      "infected",
+      "botnet-controlled"
+    ],
+    "antonyms": [
+      "secure",
+      "clean"
+    ],
+    "nounForm": "zombie",
+    "verbForm": "zombify",
+    "adjectiveForm": "zombified",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, malware",
+    "usageTip": "Use this when discussing botnets or malicious control.",
+    "commonMistake": "Confusing zombified with just being slow.",
+    "collocations": [
+      "zombified computer",
+      "zombified node",
+      "zombified machine"
+    ]
+  },
+  {
+    "word": "Zombified",
+    "meaning": "Refers to a system or process that is still technically 'running' but is unresponsive or effectively dead.",
+    "shortMeaning": "unresponsive but running",
+    "example": "The process became zombified after the database connection failed.",
+    "example2": "We had to restart the server because a zombified task was locking resources.",
+    "example3": "The system monitors for zombified applications to prevent memory leaks.",
+    "Explanation": "The term 'zombified' describes a situation where an application or process is stuck in a state where it is not performing its intended job but hasn't fully exited. It might be consuming memory or holding onto system locks, causing issues for other tasks. In UNIX-based systems, a 'zombie' process is one that has finished executing but still has an entry in the system table. Being 'zombified' usually implies the system is in an unhealthy, hanging state that requires manual intervention to clear.",
+    "synonyms": [
+      "frozen",
+      "hung",
+      "unresponsive"
+    ],
+    "antonyms": [
+      "active",
+      "responsive",
+      "healthy"
+    ],
+    "nounForm": "zombie process",
+    "verbForm": "zombify",
+    "adjectiveForm": "zombified",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration, process management, debugging",
+    "usageTip": "Use 'zombified' to describe a process that is stuck or not functioning correctly.",
+    "commonMistake": "Confusing it with a 'crashed' process; a crashed process has usually disappeared, while a zombified one remains.",
+    "collocations": [
+      "zombified process",
+      "zombified system",
+      "zombified application"
+    ]
+  }
+]

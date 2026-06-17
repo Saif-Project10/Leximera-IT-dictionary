@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Separate codebases",
+    "meaning": "Two or more independent collections of source code for different projects or components.",
+    "shortMeaning": "independent code collections",
+    "example": "The mobile app and the web app are maintained as separate codebases.",
+    "example2": "Using separate codebases for the front-end and back-end is common.",
+    "example3": "The decision to keep them as separate codebases was due to different teams.",
+    "Explanation": "The noun phrase 'separate codebases' means maintaining distinct, independent bodies of code. This is the standard approach for unrelated projects or for enforcing clear boundaries (e.g., client vs. server). Each codebase has its own version history, release cycle, and possibly its own repository. A common mistake is creating separate codebases for things that should share code, leading to duplication. The opposite is a 'monorepo'. Separate codebases promote isolation and autonomy but can complicate sharing and synchronization. It's an architectural choice based on team structure and project boundaries.",
+    "synonyms": [
+      "distinct codebases",
+      "independent codebases",
+      "multiple codebases"
+    ],
+    "antonyms": [
+      "single codebase",
+      "monorepo",
+      "unified codebase"
+    ],
+    "nounForm": "separate codebases",
+    "verbForm": "separate codebases",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Software architecture, team organization, project management",
+    "usageTip": "Often a deliberate choice for microservices or multi-platform applications.",
+    "commonMistake": "Having too many separate codebases for small, related modules, creating unnecessary overhead.",
+    "collocations": [
+      "maintain separate codebases",
+      "multiple separate codebases",
+      "benefit of separate codebases"
+    ]
+  },
+  {
+    "word": "Separate codebases",
+    "meaning": "Maintaining distinct, isolated repository code stores for different application components like frontend and backend systems",
+    "shortMeaning": "independent project code stores",
+    "example": "Our development team uses separate codebases for the mobile application and the main web platform.",
+    "example2": "Managing separate codebases allows frontend and backend teams to release updates independently.",
+    "example3": "The enterprise firm split their monolithic application into several separate codebases.",
+    "Explanation": "The noun phrase 'Separate codebases' describes a software structure where different parts of an ecosystem keep their source code files in entirely separate project folders or repositories. For example, a web project might have one repository for its Vanilla JavaScript interface and another for its API server. This keeps project boundaries clean but requires clear API documentation to stay coordinated.",
+    "synonyms": [
+      "isolated code repositories",
+      "distinct source stores"
+    ],
+    "antonyms": [
+      "monolith repository",
+      "shared codebase"
+    ],
+    "nounForm": "separate codebases",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Project structure planning, microservice architectures, and multi-team repository workflows",
+    "usageTip": "Use this phrase when explaining the choice to host frontend and backend components in independent repositories.",
+    "commonMistake": "Thinking 'separate codebases' means teams cannot share data; they communicate easily via network API connections.",
+    "collocations": [
+      "maintain separate codebases",
+      "manage separate codebases",
+      "split into separate codebases"
+    ]
+  }
+]

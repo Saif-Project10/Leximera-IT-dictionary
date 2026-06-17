@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Zipped",
+    "meaning": "Compressed into a smaller file size",
+    "shortMeaning": "compressed",
+    "example": "The logs are zipped to save space.",
+    "example2": "Please send the zipped folder.",
+    "example3": "The file must be zipped before uploading.",
+    "Explanation": "Zipped refers to files that have been compressed using a utility, often using the .zip format. This is the standard way to combine multiple files into one and reduce their overall size for easier storage or transmission. Zipping files makes them faster to email or upload. It is a basic but essential daily task in IT. Always ensure you have a tool installed to unzip the files on the other end.",
+    "synonyms": [
+      "compressed",
+      "packed"
+    ],
+    "antonyms": [
+      "extracted",
+      "unzipped",
+      "decompressed"
+    ],
+    "nounForm": "zip",
+    "verbForm": "zip",
+    "adjectiveForm": "zipped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "File management, sharing",
+    "usageTip": "Use this for compressed files or folders.",
+    "commonMistake": "Forgetting that zipping a file that is already compressed (like a JPEG) doesn't save much space.",
+    "collocations": [
+      "zipped folder",
+      "zipped file",
+      "zipped logs"
+    ]
+  },
+  {
+    "word": "Zipped",
+    "meaning": "Compressed into a single file to reduce size for storage or transfer.",
+    "shortMeaning": "compressed file",
+    "example": "I zipped the folder before sending it over email.",
+    "example2": "The backup files are all zipped to save space on the drive.",
+    "example3": "You need to extract the zipped content before opening the files.",
+    "Explanation": "The term 'zipped' refers to files that have been processed with compression software to make them smaller. This is standard practice in IT for sharing batches of documents, code, or images. By archiving files into a 'zip' container, you save storage space and make transferring data faster. It also helps keep related files together in one place. Most operating systems can handle zipped files natively, making them the most common way to package and share software or data archives.",
+    "synonyms": [
+      "compressed",
+      "archived",
+      "packed"
+    ],
+    "antonyms": [
+      "uncompressed",
+      "extracted",
+      "unzipped"
+    ],
+    "nounForm": "ZIP file",
+    "verbForm": "zip",
+    "adjectiveForm": "zipped",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "File management, data transfer, storage",
+    "usageTip": "Use 'zipped' to describe a compressed file that needs to be unpacked.",
+    "commonMistake": "Thinking zipping a file removes the data; it only reduces the file size temporarily.",
+    "collocations": [
+      "zipped file",
+      "zipped archive",
+      "zipped folder"
+    ]
+  }
+]

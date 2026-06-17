@@ -1,0 +1,66 @@
+[
+  {
+    "word": "All-or-nothing",
+    "meaning": "Describing a situation where you must either have complete success or accept total failure; no middle ground",
+    "shortMeaning": "total success or total failure",
+    "example": "He has an all-or-nothing attitude towards fitness.",
+    "example2": "This is an all-or-nothing gamble.",
+    "example3": "Negotiations failed because of their all-or-nothing demands.",
+    "Explanation": "'All-or-nothing' is a hyphenated adjective describing an extreme, binary approach. It means that only two outcomes are acceptable: complete attainment of the goal or nothing at all. This term is often used to describe risky attitudes, demands in negotiations, or high-stakes situations. It can imply recklessness or an uncompromising stance. The mindset leaves no room for partial success or compromise. It's a powerful idiom that conveys the high risk involved.",
+    "synonyms": [
+      "binary",
+      "extreme",
+      "uncompromising",
+      "win-or-bust"
+    ],
+    "antonyms": [
+      "compromising",
+      "gradual",
+      "moderate",
+      "flexible"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "all-or-nothing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing attitudes, risks, negotiations, sports mentality",
+    "usageTip": "Use 'all-or-nothing' to describe situations or mindsets that reject partial success.",
+    "commonMistake": "Writing it without hyphens: 'all or nothing' can be used as a phrase, but 'all-or-nothing' is the standard adjectival form.",
+    "collocations": [
+      "all-or-nothing approach",
+      "all-or-nothing deal",
+      "all-or-nothing mentality"
+    ]
+  },
+  {
+    "word": "All-or-nothing",
+    "meaning": "Relating to a situation or process where either the entire task must succeed or nothing changes at all",
+    "shortMeaning": "complete or none",
+    "example": "Database transactions use an all-or-nothing approach to protect data integrity.",
+    "example2": "The smart contract operates on an all-or-nothing execution logic.",
+    "example3": "Deploying the critical code update was an all-or-nothing decision for the company.",
+    "Explanation": "The word 'all-or-nothing' describes a strict binary condition where partial success is impossible or rejected. In computing, this concept is central to 'atomic operations' in databases, where a set of changes must either fully save or safely roll back completely if an error occurs. This prevents broken, corrupt, or half-finished states within a system. There are no direct noun or verb forms for this hyphenated phrase. It highlights risk management and systemic stability.",
+    "synonyms": [
+      "binary",
+      "atomic",
+      "absolute"
+    ],
+    "antonyms": [
+      "partial",
+      "incremental",
+      "fractional"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "all-or-nothing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database transactions, network protocols, and system deployments",
+    "usageTip": "Use 'all-or-nothing' to describe processes that roll back entirely if any single part fails.",
+    "commonMistake": "Confusing 'all-or-nothing' with 'pass-fail', which is an assessment style rather than an operational rollback logic.",
+    "collocations": [
+      "all-or-nothing approach",
+      "all-or-nothing transaction",
+      "all-or-nothing strategy"
+    ]
+  }
+]

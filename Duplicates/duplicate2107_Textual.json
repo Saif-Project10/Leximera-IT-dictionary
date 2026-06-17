@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Textual",
+    "meaning": "Relating to or consisting of text.",
+    "shortMeaning": "consisting of text",
+    "example": "The report provides a textual summary of the data.",
+    "example2": "We perform textual analysis on the logs.",
+    "example3": "The data is textual, not numeric.",
+    "Explanation": "The word 'textual' describes information that is in the form of words. In IT, we distinguish between 'textual' data and 'binary' data or 'numerical' data. Textual information is great for logs, user input, and documentation. When performing data analysis, you often need different techniques for 'textual' data (like Natural Language Processing) versus numerical data (like statistics).",
+    "synonyms": [
+      "text-based",
+      "written"
+    ],
+    "antonyms": [
+      "numerical",
+      "binary",
+      "visual"
+    ],
+    "nounForm": "text",
+    "verbForm": "N/A",
+    "adjectiveForm": "textual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data handling and communication",
+    "usageTip": "Use 'textual' to describe content that is in written word format.",
+    "commonMistake": "Confusing 'textual' (the content) with 'text-based' (the technology).",
+    "collocations": [
+      "textual data",
+      "textual summary",
+      "textual analysis"
+    ]
+  },
+  {
+    "word": "Textual",
+    "meaning": "Relating to or based on text",
+    "shortMeaning": "related to text",
+    "example": "The report includes both visual and textual data.",
+    "example2": "He provided a textual analysis of the code.",
+    "example3": "Ensure the textual content is consistent.",
+    "Explanation": "Textual pertains to information presented in the form of words or characters. It is broader than text-based, describing the content itself rather than just the interface. It is often used when distinguishing between images/icons and written descriptions. In documentation and design, balance is needed between visual elements and textual information. Use textual when referring to the linguistic aspect of the content.",
+    "synonyms": [
+      "written",
+      "verbal",
+      "linguistic"
+    ],
+    "antonyms": [
+      "graphical",
+      "visual"
+    ],
+    "nounForm": "text",
+    "verbForm": "N/A",
+    "adjectiveForm": "textual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, content management, design",
+    "usageTip": "Use to distinguish the written words from other types of media.",
+    "commonMistake": "Using textual to describe the interface instead of the content.",
+    "collocations": [
+      "textual content",
+      "textual representation",
+      "textual analysis"
+    ]
+  }
+]

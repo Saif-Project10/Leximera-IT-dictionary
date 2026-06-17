@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Proof-of-concept",
+    "meaning": "Evidence, typically from a small-scale experiment or project, that demonstrates the feasibility of a concept or theory.",
+    "shortMeaning": "demonstration that an idea works",
+    "example": "The team built a proof-of-concept prototype to attract investors.",
+    "example2": "A successful proof-of-concept is the first step in product development.",
+    "example3": "The study served as a proof-of-concept for the new treatment.",
+    "Explanation": "This compound noun (often hyphenated) refers to a practical demonstration that a certain idea or method is viable. It is not a finished product but a model or experiment that shows the core function works. A proof-of-concept (POC) is crucial in research, software development, and engineering to secure funding, gauge technical challenges, and validate assumptions before committing to full-scale development. It's a milestone that turns theory into tangible possibility.",
+    "synonyms": [
+      "feasibility study",
+      "prototype",
+      "demonstration model"
+    ],
+    "antonyms": [
+      "final product",
+      "production version"
+    ],
+    "nounForm": "proof-of-concept",
+    "verbForm": "N/A",
+    "adjectiveForm": "proof-of-concept (e.g., POC project)",
+    "partOfSpeech": "noun",
+    "commonContext": "Research and development, startups, technology, engineering",
+    "usageTip": "Use 'proof-of-concept' to describe an early, simplified demonstration that a core idea is practical.",
+    "commonMistake": "Confusing it with a 'prototype'. A proof-of-concept is often rougher and focuses on feasibility; a prototype is closer to a working model of the final product.",
+    "collocations": [
+      "develop a proof-of-concept",
+      "successful proof-of-concept",
+      "proof-of-concept stage",
+      "serve as a proof-of-concept"
+    ]
+  },
+  {
+    "word": "Proof-of-concept",
+    "meaning": "A small project to test if an idea is feasible",
+    "shortMeaning": "testing an idea",
+    "example": "We built a proof-of-concept to show the client the technology works.",
+    "example2": "The proof-of-concept phase was successful and showed great potential.",
+    "example3": "We are currently evaluating the proof-of-concept for the new system.",
+    "Explanation": "The term 'proof-of-concept' refers to a pilot project or prototype designed to demonstrate that a specific idea, theory, or technical approach is actually workable in the real world. It is a critical stage in the software development lifecycle that helps identify potential risks before committing significant resources. By focusing on core functionality, it proves that the proposed solution can meet business requirements. It is not intended to be a final product but rather a proof of feasibility.",
+    "synonyms": [
+      "POC",
+      "prototype",
+      "pilot"
+    ],
+    "antonyms": [
+      "final product",
+      "mass production"
+    ],
+    "nounForm": "proof-of-concept",
+    "verbForm": "N/A",
+    "adjectiveForm": "proof-of-concept",
+    "partOfSpeech": "noun",
+    "commonContext": "Project management, software development",
+    "usageTip": "Use 'POC' as an abbreviation in professional settings, but define it as 'proof-of-concept' in formal reports.",
+    "commonMistake": "Confusing a proof-of-concept with a minimum viable product (MVP); POC is for proving feasibility, MVP is for launching to customers.",
+    "collocations": [
+      "build a proof-of-concept",
+      "successful proof-of-concept",
+      "POC phase"
+    ]
+  }
+]

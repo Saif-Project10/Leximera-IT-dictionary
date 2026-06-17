@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Trained",
+    "meaning": "Prepared through education or learning, often referring to machine learning models",
+    "shortMeaning": "educated",
+    "example": "The machine learning model was trained on a massive dataset.",
+    "example2": "The new team members were trained on our internal systems.",
+    "example3": "We have a highly trained staff for support.",
+    "Explanation": "In an IT context, 'trained' most frequently refers to machine learning models that have processed data to learn patterns and make predictions. Before a model is 'trained', it cannot perform its task. It also refers to employees who have learned how to use a software or hardware system. It implies a process of instruction or learning that leads to competence. Be clear about whether you are talking about software or people when using this word, as the contexts are very different.",
+    "synonyms": [
+      "educated",
+      "prepared",
+      "instructed"
+    ],
+    "antonyms": [
+      "untrained",
+      "inexperienced"
+    ],
+    "nounForm": "training",
+    "verbForm": "train",
+    "adjectiveForm": "trained",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Machine learning, professional development, software onboarding",
+    "usageTip": "Use 'trained on' when talking about datasets for ML models.",
+    "commonMistake": "Confusing training for ML with generic testing.",
+    "collocations": [
+      "trained on",
+      "highly trained",
+      "properly trained"
+    ]
+  },
+  {
+    "word": "Trained",
+    "meaning": "Instructed, practiced, or prepared for a specific task",
+    "shortMeaning": "instructed",
+    "example": "The model was trained on a massive dataset.",
+    "example2": "He is a trained expert in network security.",
+    "example3": "The system must be trained to recognize patterns.",
+    "Explanation": "The word 'trained' describes someone or something that has acquired knowledge or capabilities through guided experience or practice. In IT, this is widely used in Machine Learning (a 'trained' model) and human resource development (a 'trained' technician). Being 'trained' implies a process of refinement, where the entity has been exposed to inputs and given feedback to improve. It suggests competence and specialized ability. It is a critical term for AI and professional growth.",
+    "synonyms": [
+      "taught",
+      "prepared",
+      "skilled"
+    ],
+    "antonyms": [
+      "untrained",
+      "unskilled",
+      "novice"
+    ],
+    "nounForm": "training",
+    "verbForm": "train",
+    "adjectiveForm": "trained",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "AI, education, skills",
+    "usageTip": "Use to describe expertise or models that have learned.",
+    "commonMistake": "Confusing 'trained' with 'educated' in a general sense.",
+    "collocations": [
+      "trained model",
+      "highly trained",
+      "properly trained"
+    ]
+  }
+]

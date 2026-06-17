@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Backend",
+    "meaning": "The part of a computer system or application that is not directly accessed by the user, responsible for data storage, processing, and business logic.",
+    "shortMeaning": "server-side of an application",
+    "example": "He is a backend developer, working on the server and database.",
+    "example2": "The frontend sends a request to the backend to fetch user data.",
+    "example3": "Our backend is built with Node.js and MongoDB.",
+    "Explanation": "In software architecture, especially web development, the backend (or back end) is the server-side part of the application. It includes the server, database, and application logic that runs on the server. It's responsible for processing requests from the frontend (client-side), interacting with the database, and sending appropriate responses (often in JSON). It's contrasted with the 'frontend,' which is what users see and interact with. A common mistake is spelling it as two words ('back end'); as a technical adjective, it's often hyphenated or written as one word. Understanding this separation is fundamental to modern app development.",
+    "synonyms": [
+      "server-side",
+      "back end"
+    ],
+    "antonyms": [
+      "frontend",
+      "client-side"
+    ],
+    "nounForm": "backend",
+    "verbForm": "N/A",
+    "adjectiveForm": "backend",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Web development, software engineering, system architecture.",
+    "usageTip": "Can be written as 'backend,' 'back-end,' or 'back end.' 'Backend' is common in tech jargon.",
+    "commonMistake": "Pronouncing it as 'back-end' with a strong separate 'end'; it's often said as 'BAK-end.'",
+    "collocations": [
+      "backend developer",
+      "backend service",
+      "backend logic"
+    ]
+  },
+  {
+    "word": "Backend",
+    "meaning": "The hidden technical part of a website or piece of software that handles data and logic",
+    "shortMeaning": "server system",
+    "example": "We need to optimize the backend to make the mobile app load faster.",
+    "example2": "The backend connects directly to the database to fetch product information.",
+    "example3": "Security flaws in the backend can expose sensitive customer passwords.",
+    "Explanation": "The word 'backend' is the solid noun form of 'back-end'. It refers to the complete engine room of an application, encompassing servers, databases, security protocols, and APIs. While users see visual designs, the backend performs the hidden work of processing forms and storing files safely. Writing efficient backend systems ensures apps don't crash under pressure. It forms the backbone of web infrastructure.",
+    "synonyms": [
+      "server-side",
+      "core engine",
+      "internal system"
+    ],
+    "antonyms": [
+      "frontend",
+      "user interface"
+    ],
+    "nounForm": "backend",
+    "verbForm": "N/A",
+    "adjectiveForm": "backend",
+    "partOfSpeech": "noun",
+    "commonContext": "Software engineering discussions, infrastructure plans, and server diagnostics",
+    "usageTip": "Write 'backend' as a single unhyphenated word when using it purely as a standalone noun.",
+    "commonMistake": "Thinking the backend is visible to users; it can only be accessed by admins or code scripts.",
+    "collocations": [
+      "backend engineering",
+      "backend system",
+      "robust backend"
+    ]
+  }
+]

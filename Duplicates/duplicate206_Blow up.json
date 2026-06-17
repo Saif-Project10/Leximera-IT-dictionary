@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Blow up",
+    "meaning": "To explode; to inflate; to become very angry; to enlarge a photograph",
+    "shortMeaning": "explode; inflate; get angry",
+    "example": "The engineers had to blow up the old bridge.",
+    "example2": "Can you help me blow up these balloons?",
+    "example3": "My dad will blow up if he sees the mess.",
+    "Explanation": "'Blow up' is a phrasal verb with several common meanings. It can mean to destroy with an explosion, to fill something with air, to suddenly become very angry, or to make a photograph larger. The meaning depends entirely on the context. It's an informal but very versatile phrase. The noun form for an explosion or angry outburst is 'blow-up' (hyphenated).",
+    "synonyms": [
+      "explode",
+      "detonate",
+      "inflate",
+      "lose one's temper"
+    ],
+    "antonyms": [
+      "deflate",
+      "calm down",
+      "implode"
+    ],
+    "nounForm": "blow-up",
+    "verbForm": "blow up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Explosions, parties (balloons), arguments, photography",
+    "usageTip": "For the anger meaning, it's very informal. A more formal alternative is 'become enraged'.",
+    "commonMistake": "Taking the literal 'explode' meaning when the context is about anger.",
+    "collocations": [
+      "blow up a building",
+      "blow up balloons",
+      "blow up at someone",
+      "blow up a photo"
+    ]
+  },
+  {
+    "word": "Blow up",
+    "meaning": "To explode, to lose one's temper, or to enlarge an image",
+    "shortMeaning": "explode or enlarge",
+    "example": "The hacker tried to blow up the server by sending too many requests at once.",
+    "example2": "Don't try to blow up that small photo or it will look very blurry.",
+    "example3": "He will blow up if he finds out the project is going to be late again.",
+    "Explanation": "In a technical sense, 'blow up' often refers to scaling an image (magnification). If you 'blow up' a low-resolution image, you get 'pixelation.' In software engineering, it is slang for a system failure (e.g., 'the code blew up on line 50'). It means the program crashed spectacularly. In social media, it means a post became suddenly very popular. It is a versatile phrasal verb used differently depending on the situation.",
+    "synonyms": [
+      "explode",
+      "magnify",
+      "fail",
+      "erupt"
+    ],
+    "antonyms": [
+      "shrink",
+      "compress",
+      "succeed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "blow up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Photography, software debugging, social media, emotions",
+    "usageTip": "Use vector graphics (SVG) if you need to blow up an icon without losing quality.",
+    "commonMistake": "Using 'blow up' in a formal technical report; it's better to say 'crashed' or 'scaled'.",
+    "collocations": [
+      "blow up an image",
+      "blow up in your face",
+      "about to blow up"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Neglect",
+    "meaning": "To fail to care for something or someone properly; to not do something you should do. | To fail to care for or give attention to someone or something",
+    "shortMeaning": "fail to care",
+    "example": "The garden was neglected and full of weeds.",
+    "example2": "He neglected his studies and failed the exam.",
+    "example3": "Animal neglect is a serious crime.",
+    "Explanation": "'Neglect' is a verb and noun meaning a serious failure to give proper care or attention. It implies a disregard for responsibility, often over time. It is stronger and more negative than 'overlook' or 'forget'. It can apply to people, animals, duties, or objects. The adjective is 'negligent'. A key mistake is using it for minor, one-time oversights. 'Neglect' suggests a pattern of irresponsible behavior that leads to harm or decline. It is a word often used in legal and social welfare contexts.",
+    "synonyms": [
+      "Abandon",
+      "Disregard",
+      "Ignore"
+    ],
+    "antonyms": [
+      "Attend To",
+      "Care For",
+      "Nurture"
+    ],
+    "nounForm": "neglect",
+    "verbForm": "neglect",
+    "adjectiveForm": "negligent",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Responsibilities, children, animals, maintenance",
+    "usageTip": "Use 'neglect' for serious failures of duty that cause damage, not small oversights.",
+    "commonMistake": "Confusing 'neglect' (failure to act) with 'reject' (refuse to accept).",
+    "collocations": [
+      "total neglect",
+      "neglect one's duty",
+      "child neglect"
+    ]
+  },
+  {
+    "word": "Neglect",
+    "meaning": "To fail to care for something properly",
+    "shortMeaning": "to ignore",
+    "example": "Don't neglect the documentation while writing code.",
+    "example2": "The server failed because the administrator neglected the security updates.",
+    "example3": "If you neglect your health, you won't be able to work efficiently.",
+    "Explanation": "Neglect means to ignore or fail to give enough attention to something that requires it. In IT, this often refers to 'technical debt'—when developers neglect to refactor code or update libraries, leading to long-term problems. It can also refer to neglecting user feedback. Unlike a 'mistake' which is an accident, neglect often implies a continuous failure to act over a period of time. It is a common cause of system failures and security vulnerabilities.",
+    "synonyms": [
+      "ignore",
+      "disregard",
+      "overlook"
+    ],
+    "antonyms": [
+      "cherish",
+      "maintain",
+      "attend"
+    ],
+    "nounForm": "neglect",
+    "verbForm": "neglect",
+    "adjectiveForm": "neglectful",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Maintenance, documentation, and personal care",
+    "usageTip": "Use 'neglect' when someone fails to do a routine task like updating or cleaning.",
+    "commonMistake": "Confusing 'neglect' with 'reject'; neglect is ignoring, while reject is actively saying no.",
+    "collocations": [
+      "neglect duties",
+      "gross neglect",
+      "neglect maintenance"
+    ]
+  }
+]

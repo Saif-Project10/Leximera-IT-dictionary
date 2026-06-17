@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Stateful",
+    "meaning": "Keeping track of previous interactions or 'state'.",
+    "shortMeaning": "remembers state",
+    "example": "A stateful firewall monitors the context of connections.",
+    "example2": "The web application is stateful, so it remembers your login.",
+    "example3": "Stateful protocols like TCP require established sessions.",
+    "Explanation": "A 'stateful' system or service maintains data about the current session or previous interactions. It 'remembers' where you are in a process. This is the opposite of 'stateless', where each request is independent. While stateful systems provide a smoother user experience, they are harder to scale because the server must remember details for every single user. This requires more memory and careful management of session data in distributed environments.",
+    "synonyms": [
+      "context-aware",
+      "persistent",
+      "session-based"
+    ],
+    "antonyms": [
+      "stateless",
+      "independent",
+      "non-persistent"
+    ],
+    "nounForm": "statefulness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stateful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, web development, architecture",
+    "usageTip": "Use 'stateful' when referring to systems that track session information.",
+    "commonMistake": "Confusing 'stateful' with 'synchronous'.",
+    "collocations": [
+      "stateful application",
+      "stateful firewall",
+      "stateful protocol"
+    ]
+  },
+  {
+    "word": "Stateful",
+    "meaning": "Retaining information from previous interactions",
+    "shortMeaning": "remembers state",
+    "example": "The application is stateful, so it remembers the user's session.",
+    "example2": "Stateful connections are necessary for long-running user sessions.",
+    "example3": "Managing a stateful system requires more memory than a stateless one.",
+    "Explanation": "The word 'stateful' describes a system that keeps a record of user interactions or data across multiple requests. For example, a website that remembers what is in your shopping cart is stateful. While this is very useful for user experience, it makes the system more complex to scale. Developers must carefully manage the data stored. It is a core concept in backend architecture and network communication.",
+    "synonyms": [
+      "remembering",
+      "interactive",
+      "continuous"
+    ],
+    "antonyms": [
+      "stateless",
+      "memoryless",
+      "discrete"
+    ],
+    "nounForm": "state",
+    "verbForm": "N/A",
+    "adjectiveForm": "stateful",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web applications, networking, architecture",
+    "usageTip": "Use 'stateful' when talking about systems that track users.",
+    "commonMistake": "Assuming stateful systems are always easier to scale than stateless ones.",
+    "collocations": [
+      "stateful application",
+      "stateful connection",
+      "stateful system"
+    ]
+  }
+]

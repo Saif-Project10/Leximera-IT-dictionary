@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Manageable",
+    "meaning": "Able to be controlled or dealt with without great difficulty.",
+    "shortMeaning": "easy to control or handle",
+    "example": "We broke the project into manageable tasks.",
+    "example2": "Her hair is thick but manageable.",
+    "example3": "The debt level is now manageable.",
+    "Explanation": "This adjective describes something that is within one's capacity to handle, control, or endure. It implies that a task, problem, or object is not too large, complex, or difficult. The word comes from the verb 'manage'. It is a positive, reassuring word often used in planning, problem-solving, and stress management. If something is unmanageable, it is overwhelming. Making large problems manageable by breaking them down is a key strategy for success.",
+    "synonyms": [
+      "controllable",
+      "handleable",
+      "tolerable",
+      "feasible"
+    ],
+    "antonyms": [
+      "unmanageable",
+      "overwhelming",
+      "impossible"
+    ],
+    "nounForm": "manageability",
+    "verbForm": "manage",
+    "adjectiveForm": "manageable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workloads, tasks, behavior, size",
+    "usageTip": "Use 'manageable' to describe a task or situation that you can handle successfully without being overwhelmed.",
+    "commonMistake": "Confusing 'manageable' with 'managerial' (relating to a manager).",
+    "collocations": [
+      "easily manageable",
+      "manageable size",
+      "keep it manageable",
+      "more manageable"
+    ]
+  },
+  {
+    "word": "Manageable",
+    "meaning": "Easy to handle, control, or deal with",
+    "shortMeaning": "easy to handle",
+    "example": "Break the big project into smaller, manageable tasks.",
+    "example2": "The bug list is finally manageable.",
+    "example3": "The memory usage is now at a manageable level.",
+    "Explanation": "The word 'manageable' describes something that can be handled successfully. In software engineering, this is often the goal when refactoring complex code or project plans. Something that is 'manageable' is clearly defined and not overwhelming. It implies that resources, time, and effort are appropriately balanced to handle the scope of the work. It is a positive quality when talking about complexity.",
+    "synonyms": [
+      "controllable",
+      "doable",
+      "organized"
+    ],
+    "antonyms": [
+      "unmanageable",
+      "overwhelming",
+      "complex"
+    ],
+    "nounForm": "management",
+    "verbForm": "manage",
+    "adjectiveForm": "manageable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, complexity, work planning",
+    "usageTip": "Use to indicate that something is within one's capability.",
+    "commonMistake": "Ignoring the scale; what is manageable for one person might be overwhelming for another.",
+    "collocations": [
+      "manageable task",
+      "manageable complexity",
+      "manageable size"
+    ]
+  }
+]

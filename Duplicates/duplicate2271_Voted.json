@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Voted",
+    "meaning": "Selected or decided through a process of consensus or ranking",
+    "shortMeaning": "selected",
+    "example": "The community voted on the most requested new feature.",
+    "example2": "He voted for the migration to the new cloud provider.",
+    "example3": "The committee voted on the budget allocation.",
+    "Explanation": "In IT teams and community-driven projects (like open-source), 'voted' refers to the process of gathering collective input to make a final decision. Voting can be used to rank feature requests, approve budget plans, or choose between technologies. This democratic process helps ensure team buy-in and project alignment. It is common in agile teams and product management. Be sure to document the results of any vote clearly to ensure transparency and accountability in the project management process.",
+    "synonyms": [
+      "selected",
+      "decided",
+      "polled"
+    ],
+    "antonyms": [
+      "opposed"
+    ],
+    "nounForm": "vote",
+    "verbForm": "vote",
+    "adjectiveForm": "voted",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Product management, community, team decisions",
+    "usageTip": "Use this when reporting on group decisions.",
+    "commonMistake": "Assuming a vote implies total team agreement.",
+    "collocations": [
+      "voted on",
+      "voted for",
+      "community voted"
+    ]
+  },
+  {
+    "word": "Voted",
+    "meaning": "Expressed a choice or preference in an election or decision-making process.",
+    "shortMeaning": "made a choice",
+    "example": "The community voted for the next software feature.",
+    "example2": "The consensus was reached after the members voted.",
+    "example3": "She voted in favor of the new policy change.",
+    "Explanation": "To vote is to participate in a selection process. In software development, 'voting' is often used in open-source governance (like in the Apache Software Foundation) or roadmap planning to let users or contributors decide what to prioritize. It is a formal way to gauge community preference. Voting can be done via online polls, forums, or specific voting systems embedded in platforms like GitHub. It helps prioritize development in a democratic way.",
+    "synonyms": [
+      "elected",
+      "chose",
+      "selected"
+    ],
+    "antonyms": [
+      "vetoed",
+      "refused"
+    ],
+    "nounForm": "vote",
+    "verbForm": "vote",
+    "adjectiveForm": "voted",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "Governance, community management, roadmap planning",
+    "usageTip": "Use this for decisions made through consensus.",
+    "commonMistake": "Confusing voting with 'polling' (which is just collecting data).",
+    "collocations": [
+      "voted for",
+      "voted on",
+      "voted against"
+    ]
+  }
+]

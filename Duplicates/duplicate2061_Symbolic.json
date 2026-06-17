@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Symbolic",
+    "meaning": "Serving as a sign or representation of something else",
+    "shortMeaning": "representative",
+    "example": "We use symbolic links to reference files in other directories.",
+    "example2": "The icon is a symbolic representation of the app.",
+    "example3": "Symbolic math involves manipulating equations rather than numbers.",
+    "Explanation": "The word 'symbolic' refers to something that stands for or represents another concept, value, or object. In computing, 'symbolic links' (symlinks) are shortcuts that point to a file's location. In mathematics and AI, 'symbolic' refers to systems that process symbols (like variables) rather than just raw numerical values. It is a very versatile term that is essential for describing how systems interpret and reference data or concepts.",
+    "synonyms": [
+      "representative",
+      "metaphorical",
+      "iconic"
+    ],
+    "antonyms": [
+      "literal",
+      "numerical",
+      "factual"
+    ],
+    "nounForm": "symbol",
+    "verbForm": "symbolize",
+    "adjectiveForm": "symbolic",
+    "partOfSpeech": "adjective",
+    "commonContext": "File systems, programming, math",
+    "usageTip": "Use to describe how something represents another thing.",
+    "commonMistake": "Confusing 'symbolic' with 'virtual' in file system contexts.",
+    "collocations": [
+      "symbolic link",
+      "symbolic representation",
+      "symbolic logic"
+    ]
+  },
+  {
+    "word": "Symbolic",
+    "meaning": "Representing something else through signs or symbols",
+    "shortMeaning": "representative",
+    "example": "Symbolic AI uses high-level symbols to solve problems.",
+    "example2": "The icon is a symbolic representation of the app.",
+    "example3": "He performed symbolic math using the software.",
+    "Explanation": "In IT, 'symbolic' often contrasts with 'numerical' or 'connectionist' approaches. Symbolic AI (or GOFAI) relies on explicit symbols and rules to model human cognition. Beyond AI, it refers to icons, variables in programming that stand for data, or mathematical notation. It is a conceptual word, distinguishing between raw data and the meaning assigned to that data. It is a critical distinction in fields like software engineering and artificial intelligence.",
+    "synonyms": [
+      "representative",
+      "metaphorical",
+      "iconic"
+    ],
+    "antonyms": [
+      "literal",
+      "numerical",
+      "actual"
+    ],
+    "nounForm": "symbol",
+    "verbForm": "symbolize",
+    "adjectiveForm": "symbolic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Artificial intelligence, programming, UI design",
+    "usageTip": "Use to describe abstract representation.",
+    "commonMistake": "Confusing 'symbolic' with 'graphical' or 'visual'.",
+    "collocations": [
+      "symbolic AI",
+      "symbolic logic",
+      "symbolic variable"
+    ]
+  }
+]

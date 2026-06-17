@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Layer",
+    "meaning": "A sheet, quantity, or thickness of material that covers a surface or forms one level in a stack.",
+    "shortMeaning": "a level or sheet in a stack",
+    "example": "The cake has three layers of sponge.",
+    "example2": "He wore several layers of clothing to stay warm.",
+    "example3": "In graphic design, you work with different layers in the software.",
+    "Explanation": "A 'layer' is a single thickness or level within a stratified structure. It is a fundamental concept in many fields: geology (rock layers), cooking (layered dip), computing (network layers, Photoshop layers), and clothing (layering for warmth). The word implies organization, separation, and the building up of complexity from simpler, flat components. The verb 'to layer' means to arrange in layers. It is a versatile and commonly used noun and verb.",
+    "synonyms": [
+      "stratum",
+      "tier",
+      "level",
+      "coating"
+    ],
+    "antonyms": [
+      "whole",
+      "aggregate"
+    ],
+    "nounForm": "layer",
+    "verbForm": "layer",
+    "adjectiveForm": "layered",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Cooking, geology, clothing, computing, design",
+    "usageTip": "Use 'layer' to describe one of several levels that are stacked on top of each other.",
+    "commonMistake": "Confusing 'layer' with 'player' (a participant in a game).",
+    "collocations": [
+      "top layer",
+      "layer of paint",
+      "ozone layer",
+      "layer cake"
+    ]
+  },
+  {
+    "word": "Layer",
+    "meaning": "A single thickness of a material or a specific level in a system",
+    "shortMeaning": "level / sheet",
+    "example": "The application has a data layer and a presentation layer.",
+    "example2": "In Photoshop, you can put the text on a separate layer.",
+    "example3": "The OSI model has seven different layers of networking.",
+    "Explanation": "Layering is a fundamental concept in IT architecture. It involves breaking a complex system into smaller, manageable levels. For example, in web development, you might have a 'frontend layer' and a 'backend layer'. This allows developers to work on one part without breaking the others. In image editing, layers allow you to stack images and text on top of each other. It is key to building modular and organized systems.",
+    "synonyms": [
+      "level",
+      "tier",
+      "stratum"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "layer",
+    "verbForm": "layer",
+    "adjectiveForm": "layered",
+    "partOfSpeech": "noun/verb",
+    "commonContext": "Software architecture, networking, image editing",
+    "usageTip": "Use 'layer' to describe levels in a hierarchy or parts of a digital image.",
+    "commonMistake": "Using 'tier' and 'layer' interchangeably; usually, 'tier' refers to physical hardware and 'layer' to software logic.",
+    "collocations": [
+      "data layer",
+      "network layer",
+      "add a layer"
+    ]
+  }
+]

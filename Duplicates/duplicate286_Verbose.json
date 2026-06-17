@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Verbose",
+    "meaning": "Using more words than needed; wordy",
+    "shortMeaning": "excessively wordy",
+    "example": "The lawyer's verbose contract was difficult to understand.",
+    "example2": "His verbose speaking style put the audience to sleep.",
+    "example3": "Academic writing is sometimes criticized for being unnecessarily verbose.",
+    "Explanation": "Verbose is a formal synonym for 'wordy'. It specifically describes an overabundance of words, often in a way that obscures meaning rather than clarifies it. It suggests a style that is tediously long and full of superfluous detail. A verbose person might love the sound of their own voice or use complex language to appear intelligent. It is always a criticism. The noun is 'verbosity'. While 'wordy' is common in everyday critique, 'verbose' is more likely in formal or literary criticism.",
+    "synonyms": [
+      "wordy",
+      "long-winded",
+      "prolix",
+      "loquacious"
+    ],
+    "antonyms": [
+      "concise",
+      "succinct",
+      "laconic",
+      "terse"
+    ],
+    "nounForm": "verbosity",
+    "verbForm": "N/A",
+    "adjectiveForm": "verbose",
+    "partOfSpeech": "adjective",
+    "commonContext": "Formal writing critique, legal language, academic style",
+    "usageTip": "A stronger, more formal word than 'wordy'. Use it for severe cases of excessive wordiness.",
+    "commonMistake": "Using 'verbose' to simply mean 'talkative'; it specifically means using *too many* words.",
+    "collocations": [
+      "verbose style",
+      "notoriously verbose",
+      "verbose document"
+    ]
+  },
+  {
+    "word": "Verbose",
+    "meaning": "Containing more words or data than necessary",
+    "shortMeaning": "too wordy",
+    "example": "The verbose output makes the logs hard to read.",
+    "example2": "We need to change the logging level to be less verbose.",
+    "example3": "His verbose documentation was difficult to follow.",
+    "Explanation": "In IT, 'verbose' refers to system output, logging, or code that produces excessive detail. A verbose mode provides comprehensive information about every step of a process, which is very helpful for debugging but can overwhelm storage and make log analysis slow. On the other hand, a non-verbose (concise) mode is better for standard production environments to save resources. Managing verbosity is a balance between having enough information to fix problems and keeping system performance high. It is common to adjust verbosity levels as needed.",
+    "synonyms": [
+      "wordy",
+      "detailed",
+      "long-winded"
+    ],
+    "antonyms": [
+      "concise",
+      "brief",
+      "terse"
+    ],
+    "nounForm": "verbosity",
+    "verbForm": "N/A",
+    "adjectiveForm": "verbose",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logging, debugging, documentation",
+    "usageTip": "Use 'verbose' when referring to overly detailed logs.",
+    "commonMistake": "Confusing 'verbose' with 'detailed' in a positive sense.",
+    "collocations": [
+      "verbose output",
+      "verbose logging",
+      "too verbose"
+    ]
+  },
+  {
+    "word": "Verbose",
+    "meaning": "Using more words or code than necessary",
+    "shortMeaning": "too wordy",
+    "example": "The log files are too verbose and take up space.",
+    "example2": "Write clean code rather than verbose code.",
+    "example3": "The error messages were too verbose to read.",
+    "Explanation": "In IT, 'verbose' describes systems, code, or logs that output excessive information. While verbosity can be helpful during debugging because it provides extra detail, it is generally undesirable in production because it clutters logs, uses extra memory, and is hard to scan. Balancing the need for helpful detail with conciseness is a key skill in software development. 'Verbose' is a standard term for describing output that needs trimming.",
+    "synonyms": [
+      "wordy",
+      "detailed",
+      "excessive"
+    ],
+    "antonyms": [
+      "concise",
+      "brief",
+      "compact"
+    ],
+    "nounForm": "verbosity",
+    "verbForm": "N/A",
+    "adjectiveForm": "verbose",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding and system logging",
+    "usageTip": "Use to describe output that is too detailed.",
+    "commonMistake": "Confusing 'verbose' with 'detailed' (verbose implies unnecessary length).",
+    "collocations": [
+      "verbose logging",
+      "verbose output",
+      "too verbose"
+    ]
+  }
+]

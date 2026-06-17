@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Trajectorial",
+    "meaning": "Relating to the path followed by an object or data through a space",
+    "shortMeaning": "path-related",
+    "example": "The software calculated the trajectorial change of the particles.",
+    "example2": "He analyzed the trajectorial data from the simulation.",
+    "example3": "The model predicts the trajectorial movement of the cursor.",
+    "Explanation": "The word 'trajectorial' describes something related to a trajectory—the path or course an object takes as it moves through space or data space. In IT, this is used in fields like physics simulations, robotics, cursor tracking, or data flow visualization. It is quite rare and very formal. You will mostly encounter it in academic papers, high-end simulation software, or complex algorithm design. If you need a simpler word, 'path-related' or 'movement-based' is often better. Use it only when discussing specific trajectory math or physics.",
+    "synonyms": [
+      "path-based",
+      "movement-related"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "trajectory",
+    "verbForm": "N/A",
+    "adjectiveForm": "trajectorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Simulation, robotics, data analysis, physics",
+    "usageTip": "Use only in highly technical or academic contexts.",
+    "commonMistake": "Using 'trajectorial' instead of the simpler 'path'.",
+    "collocations": [
+      "trajectorial analysis",
+      "trajectorial movement",
+      "trajectorial data"
+    ]
+  },
+  {
+    "word": "Trajectorial",
+    "meaning": "Related to the path, course, or movement of something",
+    "shortMeaning": "path-related",
+    "example": "The trajectorial data shows the path of the package.",
+    "example2": "We analyzed the trajectorial shifts of the system traffic.",
+    "example3": "Trajectorial analysis is rare in this type of software.",
+    "Explanation": "The word 'trajectorial' refers to the path or course taken by something over time. While rare in common IT conversation, it is used in specialized fields like robotics, gaming physics, or big data analysis where tracking the movement or 'trajectory' of entities is important. It describes the curve or line of movement. Use it only when specifically discussing the path-like flow or evolution of objects. It implies a sense of motion and duration along a specific course.",
+    "synonyms": [
+      "pathway",
+      "directional",
+      "course-related"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "trajectory",
+    "verbForm": "N/A",
+    "adjectiveForm": "trajectorial",
+    "partOfSpeech": "adjective",
+    "commonContext": "Physics, robotics, analytics",
+    "usageTip": "Use only when describing the specific path of movement.",
+    "commonMistake": "Using 'trajectorial' when 'path' is sufficient.",
+    "collocations": [
+      "trajectorial data",
+      "trajectorial path",
+      "trajectorial analysis"
+    ]
+  }
+]

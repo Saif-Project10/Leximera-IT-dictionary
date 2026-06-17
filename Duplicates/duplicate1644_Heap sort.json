@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Heap sort",
+    "meaning": "A comparison-based sorting algorithm that uses a heap data structure",
+    "shortMeaning": "sorting with heaps",
+    "example": "Heap sort is known for having a reliable performance in the worst case.",
+    "example2": "We implemented heap sort to organize the list of integers.",
+    "example3": "Unlike quicksort, heap sort does not have a slow 'worst-case' scenario.",
+    "Explanation": "Heap sort is a popular algorithm used to put items in a specific order (like 1 to 10). It works by first turning the list of items into a 'Max Heap' structure. It then repeatedly takes the largest item from the top and moves it to the end of the list, rebuilding the heap each time. It is efficient because it sorts 'in-place,' meaning it doesn't need extra memory. While it is often slightly slower than quicksort in practice, its performance is very consistent and predictable.",
+    "synonyms": [
+      "heapsort"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "heap sort",
+    "verbForm": "heap sort",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Algorithms and data structures",
+    "usageTip": "Use this when you need a sorting algorithm with guaranteed performance and low memory use.",
+    "commonMistake": "Confusing it with 'merge sort', which also has good performance but uses more memory.",
+    "collocations": [
+      "implement heap sort",
+      "heap sort complexity",
+      "efficient heap sort"
+    ]
+  },
+  {
+    "word": "Heap sort",
+    "meaning": "A comparison-based sorting algorithm that uses a binary heap data structure",
+    "shortMeaning": "efficient sorting algorithm",
+    "example": "Heap sort is preferred when you need a stable, worst-case $O(n \\log n)$ performance.",
+    "example2": "I learned how to implement heap sort in my data structures class.",
+    "example3": "Heap sort is an in-place algorithm, meaning it doesn't need extra memory.",
+    "Explanation": "Heap sort is a popular and efficient sorting algorithm. It works by first building a 'Max-Heap' from the input data. A Max-Heap is a tree where the largest item is always at the top (the root). The algorithm repeatedly removes the largest item from the heap and places it at the end of the array, then 're-heaps' the remaining elements. This continues until the entire array is sorted. It is very reliable because its performance is always $O(n \\log n)$, regardless of whether the data is already partially sorted or completely random.",
+    "synonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "heap sort",
+    "verbForm": "heap sort",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / verb",
+    "commonContext": "Computer science and algorithm analysis",
+    "usageTip": "Use this term when discussing sorting large datasets where memory and guaranteed speed are important.",
+    "commonMistake": "Thinking heap sort is faster than quick sort (quick sort is usually faster on average).",
+    "collocations": [
+      "heap sort algorithm",
+      "perform a heap sort",
+      "binary heap sort"
+    ]
+  }
+]

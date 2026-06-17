@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Tutorial",
+    "meaning": "A period of instruction or a guide that teaches a specific task",
+    "shortMeaning": "instructional guide",
+    "example": "I followed a YouTube tutorial to learn how to code in Java.",
+    "example2": "The software comes with a built-in tutorial for new users.",
+    "example3": "The professor held a tutorial to help students with the complex math problems.",
+    "Explanation": "A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task. In computing, tutorials are often step-by-step videos or articles that walk a user through a software feature. They are essential for self-directed learning and onboarding new employees. A good tutorial is clear, concise, and easy to follow. They can range from basic beginner guides to advanced technical walkthroughs.",
+    "synonyms": [
+      "guide",
+      "lesson",
+      "walkthrough"
+    ],
+    "antonyms": [
+      "exam",
+      "test",
+      "final assessment"
+    ],
+    "nounForm": "tutorial",
+    "verbForm": "tutor",
+    "adjectiveForm": "tutorial",
+    "partOfSpeech": "noun",
+    "commonContext": "Education and software training",
+    "usageTip": "Use 'tutorial' when referring to step-by-step instructions for learning something new.",
+    "commonMistake": "Confusing 'tutorial' with a 'manual', which is often just a reference list without lessons.",
+    "collocations": [
+      "online tutorial",
+      "video tutorial",
+      "step-by-step tutorial"
+    ]
+  },
+  {
+    "word": "Tutorial",
+    "meaning": "A lesson or guide that explains how to do something.",
+    "shortMeaning": "a guide",
+    "example": "I followed a tutorial to learn Python.",
+    "example2": "This tutorial covers the basics of network configuration.",
+    "example3": "Can you recommend a tutorial for this tool?",
+    "Explanation": "A 'tutorial' is an educational document or video meant to teach a specific skill or process. In the IT world, tutorials are essential for learning new software, languages, or hardware setup. They are usually step-by-step. The noun is 'tutorial' and there is no verb form. Use the word 'tutorial' when referring to self-paced learning material. It is different from 'documentation' because it is instructional rather than descriptive.",
+    "synonyms": [
+      "guide",
+      "walkthrough",
+      "lesson"
+    ],
+    "antonyms": [
+      "manual",
+      "specification"
+    ],
+    "nounForm": "tutorial",
+    "verbForm": "N/A",
+    "adjectiveForm": "tutorial",
+    "partOfSpeech": "noun",
+    "commonContext": "Learning, documentation, and technical support",
+    "usageTip": "Use 'tutorial' to refer to a step-by-step guide.",
+    "commonMistake": "Calling a long technical manual a 'tutorial'.",
+    "collocations": [
+      "video tutorial",
+      "step-by-step tutorial",
+      "online tutorial"
+    ]
+  },
+  {
+    "word": "Tutorial",
+    "meaning": "A guide or lesson that teaches how to do something",
+    "shortMeaning": "learning guide",
+    "example": "I followed a tutorial to learn React.",
+    "example2": "The tutorial explains how to set up the API.",
+    "example3": "He created a tutorial for the new tool.",
+    "Explanation": "A tutorial is a structured guide designed to help users learn a skill or complete a specific task. In IT, tutorials are essential for learning new frameworks, libraries, or languages. A good tutorial should be clear, step-by-step, and provide examples. It is different from documentation because it focuses on a workflow rather than a reference list. Always check if a tutorial is up-to-date.",
+    "synonyms": [
+      "guide",
+      "lesson",
+      "walkthrough"
+    ],
+    "antonyms": [
+      "reference",
+      "documentation"
+    ],
+    "nounForm": "tutorial",
+    "verbForm": "N/A",
+    "adjectiveForm": "tutorial",
+    "partOfSpeech": "noun",
+    "commonContext": "Learning, training, documentation",
+    "usageTip": "Use 'tutorial' when referring to a step-by-step learning guide.",
+    "commonMistake": "Calling reference documentation a 'tutorial'.",
+    "collocations": [
+      "step-by-step tutorial",
+      "coding tutorial",
+      "follow a tutorial"
+    ]
+  }
+]

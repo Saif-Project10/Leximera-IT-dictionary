@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Cast",
+    "meaning": "To change a variable from one data type to another in a computer program",
+    "shortMeaning": "change data type",
+    "example": "I had to cast the input string into an integer to perform the math.",
+    "example2": "Be careful when you cast a large number into a smaller type, as data might be lost.",
+    "example3": "The compiler will often cast types automatically in simple situations.",
+    "Explanation": "In programming, 'casting' is the process of telling the computer to treat a piece of data as a different type. For example, if you have the text '100', you cannot add 5 to it because one is a word and the other is a number. By 'casting' the text '100' into a number (integer), you can then do math with it. There are two types: 'Explicit' (where you write the code to do it) and 'Implicit' (where the computer does it for you). It is a vital concept for managing memory and ensuring program accuracy.",
+    "synonyms": [
+      "type conversion",
+      "typecasting",
+      "coercion"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "cast",
+    "verbForm": "cast",
+    "adjectiveForm": "casted (rarely used)",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming, data processing, and software development",
+    "usageTip": "Always use explicit casting when working with sensitive data like money to avoid rounding errors.",
+    "commonMistake": "Casting a 'null' or empty value, which often causes the program to crash.",
+    "collocations": [
+      "explicit cast",
+      "implicit cast",
+      "cast as integer"
+    ]
+  },
+  {
+    "word": "Cast",
+    "meaning": "To change a data type or to send a signal to a screen",
+    "shortMeaning": "convert type or stream",
+    "example": "You need to cast the variable from a string to an integer.",
+    "example2": "I can cast my phone screen to the smart TV.",
+    "example3": "The actor was cast in the new tech-themed movie.",
+    "Explanation": "In programming, 'casting' is the process of converting a variable from one data type to another, like turning a number stored as text into an actual number. In modern consumer tech, 'casting' means wirelessly sending content from a small screen to a large one (e.g., Google Cast). It essentially means projecting or transforming something into a different form or location. It is a fundamental concept in both coding and multimedia.",
+    "synonyms": [
+      "convert",
+      "transform",
+      "stream"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "cast / casting",
+    "verbForm": "cast",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming (data types) and media streaming",
+    "usageTip": "Use 'cast' when you are changing how the computer treats a piece of data.",
+    "commonMistake": "Assuming 'cast' and 'convert' are always identical; casting is often more direct in code.",
+    "collocations": [
+      "type casting",
+      "screen casting",
+      "cast to TV"
+    ]
+  }
+]

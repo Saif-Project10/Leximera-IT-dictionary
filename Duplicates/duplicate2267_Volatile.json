@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Volatile",
+    "meaning": "Temporary and easily lost if power is turned off",
+    "shortMeaning": "temporary",
+    "example": "RAM is a type of volatile memory.",
+    "example2": "Do not store critical data in volatile storage.",
+    "example3": "The system clear the volatile cache on restart.",
+    "Explanation": "In computer science, 'volatile' memory is storage that requires power to maintain the stored information. When the power is removed, all the data in volatile memory is lost. RAM (Random Access Memory) is the classic example of volatile storage, while hard drives are 'non-volatile'. Understanding the difference is vital for developers and admins, as you must save data to non-volatile storage to make it permanent. The term is also used in programming to describe a variable that may change unexpectedly by external factors.",
+    "synonyms": [
+      "temporary",
+      "unstable",
+      "non-permanent"
+    ],
+    "antonyms": [
+      "non-volatile",
+      "permanent",
+      "stable"
+    ],
+    "nounForm": "volatility",
+    "verbForm": "N/A",
+    "adjectiveForm": "volatile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, memory management, programming",
+    "usageTip": "Use 'volatile' to warn about data that might be lost on shutdown.",
+    "commonMistake": "Assuming all memory types keep data after restart.",
+    "collocations": [
+      "volatile memory",
+      "volatile storage",
+      "volatile cache"
+    ]
+  },
+  {
+    "word": "Volatile",
+    "meaning": "Describes memory that loses its data when the power is turned off.",
+    "shortMeaning": "data lost when power off",
+    "example": "RAM is a type of volatile memory.",
+    "example2": "Save your work often because RAM is volatile.",
+    "example3": "The volatile storage was cleared upon system restart.",
+    "Explanation": "'Volatile' in computing is the exact opposite of 'non-volatile' (like hard drives or flash memory). Volatile memory requires power to maintain the stored information. When the system shuts down or loses power, all data in volatile memory is wiped out instantly. This is why computers have a secondary, non-volatile storage drive. It is a fundamental concept in hardware architecture and memory management. Always distinguish between volatile and persistent storage.",
+    "synonyms": [
+      "temporary",
+      "unstable",
+      "non-persistent"
+    ],
+    "antonyms": [
+      "non-volatile",
+      "persistent",
+      "permanent"
+    ],
+    "nounForm": "volatility",
+    "verbForm": "N/A",
+    "adjectiveForm": "volatile",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer memory, RAM, hardware architecture",
+    "usageTip": "Use this to warn about memory that clears on restart.",
+    "commonMistake": "Thinking volatile memory is for permanent storage.",
+    "collocations": [
+      "volatile memory",
+      "volatile storage",
+      "high volatility"
+    ]
+  }
+]

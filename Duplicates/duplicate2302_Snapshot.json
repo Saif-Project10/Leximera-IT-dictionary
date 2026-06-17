@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Snapshot",
+    "meaning": "A state of a system or data at a specific point in time",
+    "shortMeaning": "point-in-time record",
+    "example": "The backup took a snapshot of the database.",
+    "example2": "We analyzed a snapshot of the network traffic.",
+    "example3": "You can restore the virtual machine from a snapshot.",
+    "Explanation": "A snapshot represents a static copy of a system, file, or database at a particular moment. It is essential for disaster recovery and version control in software development. Unlike a full backup, a snapshot is often lightweight and used for quick reverts. It allows developers to 'freeze' a configuration to test changes. It is a critical concept in virtualization and cloud computing environments.",
+    "synonyms": [
+      "capture",
+      "image",
+      "record"
+    ],
+    "antonyms": [
+      "stream",
+      "live data",
+      "process"
+    ],
+    "nounForm": "snapshot",
+    "verbForm": "snapshot",
+    "adjectiveForm": "snapshot",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Backup, virtualization, version control",
+    "usageTip": "Use 'snapshot' when referring to system states at a specific time.",
+    "commonMistake": "Confusing a snapshot with a complete system backup.",
+    "collocations": [
+      "database snapshot",
+      "system snapshot",
+      "create a snapshot"
+    ]
+  },
+  {
+    "word": "Snapshot",
+    "meaning": "A recorded state of a system, database, or storage drive at a specific moment in time",
+    "shortMeaning": "system state record",
+    "example": "I took a snapshot of the virtual machine before installing the new upgrade.",
+    "example2": "You can restore the database from yesterday's snapshot if an error occurs.",
+    "example3": "Cloud systems automatically generate a snapshot of your storage drive every midnight.",
+    "Explanation": "In IT, a 'snapshot' is an instantaneous copy of a system's state or data at a precise point in time. It behaves like a photograph of the digital environment, capturing files and settings exactly as they were. It does not always create a full separate backup file, but rather marks a point to which you can roll back. This allows systems administrators to experiment safely with system settings. If something breaks, they simply return to the saved snapshot state.",
+    "synonyms": [
+      "state backup",
+      "point-in-time image",
+      "capture"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "snapshot",
+    "verbForm": "snapshot (used informally)",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Virtual machine management, cloud computing, and database administration",
+    "usageTip": "Use 'snapshot' to describe quick restore points before making major system changes.",
+    "commonMistake": "Assuming a snapshot is a permanent backup that survives complete hardware destruction.",
+    "collocations": [
+      "take a snapshot",
+      "restore a snapshot",
+      "volume snapshot"
+    ]
+  }
+]

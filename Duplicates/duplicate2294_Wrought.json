@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Wrought",
+    "meaning": "Past tense of 'work', often used to describe something shaped or created (as in wrought iron).",
+    "shortMeaning": "created/shaped",
+    "example": "The changes he wrought on the code base were significant.",
+    "example2": "The havoc wrought by the malware was immense.",
+    "example3": "It is a system wrought with complexity.",
+    "Explanation": "The word 'wrought' is an older, formal past tense of 'work', meaning to create, shape, or cause something. In IT, it is sometimes used metaphorically to describe the impact or changes made to a system. It is an adjective or verb. Because it is formal/archaic, avoid using it in everyday communication; use 'created', 'shaped', or 'caused' instead. It typically appears in high-level analytical reports regarding software systems.",
+    "synonyms": [
+      "created",
+      "shaped",
+      "caused"
+    ],
+    "antonyms": [
+      "destroyed",
+      "ruined"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "work",
+    "adjectiveForm": "wrought",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Formal reports, technical analysis",
+    "usageTip": "Use 'wrought' only in formal, professional writing.",
+    "commonMistake": "Using 'wrought' incorrectly instead of 'worked'.",
+    "collocations": [
+      "havoc wrought",
+      "wrought with complexity",
+      "changes wrought"
+    ]
+  },
+  {
+    "word": "Wrought",
+    "meaning": "Shaped or created by hammering, or past of work",
+    "shortMeaning": "shaped or created",
+    "example": "The change wrought significant improvements in performance.",
+    "example2": "Wrought iron is used in some heavy server frames.",
+    "example3": "The update wrought chaos in the system.",
+    "Explanation": "The word 'wrought' is a formal way of saying 'shaped', 'fashioned', or 'created'. It is the archaic past tense of 'work'. While you won't use this in daily coding, you might see it in descriptive literature about hardware or complex system changes. It often carries a sense of significant effort or transformation. It is not common in modern technical documentation, but understanding it helps when reading older engineering texts.",
+    "synonyms": [
+      "formed",
+      "created",
+      "shaped"
+    ],
+    "antonyms": [
+      "destroyed",
+      "ruined"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "work",
+    "adjectiveForm": "wrought",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Formal writing, engineering history",
+    "usageTip": "Use 'wrought' only in formal writing or when referring to things shaped by effort.",
+    "commonMistake": "Using 'wrought' instead of 'worked' in everyday speech.",
+    "collocations": [
+      "wrought iron",
+      "wrought change",
+      "wrought by"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Miscalculate",
+    "meaning": "To calculate or judge something wrongly.",
+    "shortMeaning": "calculate wrongly",
+    "example": "I miscalculated the total and was short on cash.",
+    "example2": "The team miscalculated the time needed for the project.",
+    "example3": "He miscalculated the risk and suffered heavy losses.",
+    "Explanation": "'Miscalculate' means to make an error in a calculation or in your judgment. It is a verb formed by adding the prefix 'mis-' (meaning 'wrongly') to 'calculate'. This word is often used in contexts involving numbers, time, plans, or risks. When you miscalculate, the result is usually a mistake or an unexpected problem. It is important to double-check work to avoid miscalculations.",
+    "synonyms": [
+      "misjudge",
+      "err",
+      "misestimate"
+    ],
+    "antonyms": [
+      "calculate correctly",
+      "get right"
+    ],
+    "nounForm": "miscalculation",
+    "verbForm": "miscalculate",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Math, planning, budgeting, risk assessment",
+    "usageTip": "The prefix 'mis-' often indicates an error, as in 'misunderstand' or 'mislead'.",
+    "commonMistake": "Confusing 'miscalculate' with 'misjudge'; 'miscalculate' often relates more to numbers.",
+    "collocations": [
+      "miscalculate a distance",
+      "miscalculate badly",
+      "miscalculate the cost"
+    ]
+  },
+  {
+    "word": "Miscalculate",
+    "meaning": "To make a mistake in a mathematical calculation or an assessment",
+    "shortMeaning": "calculate wrongly",
+    "example": "The software might crash if you miscalculate the array size.",
+    "example2": "We miscalculate the bandwidth needed for the new video platform.",
+    "example3": "A small error in the formula caused the program to miscalculate the taxes.",
+    "Explanation": "Miscalculation in IT can be very dangerous. It could be a simple math error in a line of code, like adding numbers incorrectly. Or it could be a 'strategic' miscalculation, like guessing wrongly how much storage a project will need. In programming, miscalculating memory or timing can lead to 'buffer overflows' or 'race conditions', which are major security risks. Computers do exactly what they are told, so if the human gives a wrong formula, the computer will provide a wrong result. Double-checking logic is a vital part of coding.",
+    "synonyms": [
+      "miscount",
+      "err",
+      "blunder"
+    ],
+    "antonyms": [
+      "calculate correctly",
+      "assess accurately"
+    ],
+    "nounForm": "miscalculation",
+    "verbForm": "miscalculate",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Math, coding logic, project planning",
+    "usageTip": "Use 'miscalculate' for both number errors and errors in judgment.",
+    "commonMistake": "Confusing 'miscalculate' (math error) with 'misinterpret' (understanding error).",
+    "collocations": [
+      "miscalculate the cost",
+      "miscalculate the risk",
+      "severely miscalculate"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Sessional",
+    "meaning": "Relating to or occurring during a session",
+    "shortMeaning": "related to session",
+    "example": "We have sessional limits on user activity.",
+    "example2": "The sessional data is stored in a temporary file.",
+    "example3": "This is a sessional cookie.",
+    "Explanation": "The word 'sessional' refers to anything that is specific to or happens during a single 'session'. A session is a period of time that a user spends in an application. Sessional information is usually temporary and is often deleted or reset after the session ends. For instance, a sessional variable might store that you have a specific item in your shopping cart before you check out. Use this word to talk about data, limits, or states that are only active during one visit.",
+    "synonyms": [
+      "temporary",
+      "session-based"
+    ],
+    "antonyms": [
+      "permanent",
+      "persistent"
+    ],
+    "nounForm": "session",
+    "verbForm": "N/A",
+    "adjectiveForm": "sessional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, sessions",
+    "usageTip": "Use when describing something that lasts only as long as the user's visit.",
+    "commonMistake": "Confusing 'sessional' with 'seasonal', which is about time of year.",
+    "collocations": [
+      "sessional data",
+      "sessional storage",
+      "sessional limits"
+    ]
+  },
+  {
+    "word": "Sessional",
+    "meaning": "Relating to or occurring during a session, often used in administrative or temporal contexts.",
+    "shortMeaning": "pertaining to a session",
+    "example": "The sessional settings are reset upon logout.",
+    "example2": "We tracked the sessional duration for all users.",
+    "example3": "Sessional data is stored in the temporary cache.",
+    "Explanation": "The word 'sessional' refers to things that happen within or are limited to the duration of a specific session. In IT, this could apply to temporary data, preferences, or logs that only exist while the user is actively logged in. It is an adjective. It helps distinguish between information that is permanent and information that is temporary. It is less commonly used than 'session-based', but refers to the same concepts of duration and scope.",
+    "synonyms": [
+      "temporary",
+      "time-bound"
+    ],
+    "antonyms": [
+      "permanent",
+      "long-term"
+    ],
+    "nounForm": "session",
+    "verbForm": "N/A",
+    "adjectiveForm": "sessional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data logging, administration, web sessions",
+    "usageTip": "Use 'sessional' to describe data that only lasts for one session.",
+    "commonMistake": "Overusing 'sessional' when 'temporary' or 'session-specific' is clearer.",
+    "collocations": [
+      "sessional data",
+      "sessional settings",
+      "sessional duration"
+    ]
+  }
+]

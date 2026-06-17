@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Self-repeating",
+    "meaning": "Having the ability or tendency to repeat itself without external input.",
+    "shortMeaning": "repeats itself",
+    "example": "The song has a self-repeating chorus that gets stuck in your head.",
+    "example2": "The algorithm entered a self-repeating loop and had to be stopped.",
+    "example3": "The pattern on the wallpaper is self-repeating every 10 centimeters.",
+    "Explanation": "Self-repeating describes a pattern, process, or structure that cycles or replicates on its own. The 'self-' prefix indicates that the cause of repetition is internal to the thing itself. In computing, a self-repeating loop (infinite loop) is a bug. In design, a self-repeating pattern is a tessellation. In behavior, it can describe a habit that reinforces itself. The term is descriptive and neutral, though in logic or programming, a self-repeating process without an exit condition is problematic. It is similar to 'cyclic' but emphasizes the automatic, internal nature of the repetition.",
+    "synonyms": [
+      "repetitive",
+      "cyclic",
+      "recurrent",
+      "iterative"
+    ],
+    "antonyms": [
+      "non-repeating",
+      "unique",
+      "linear",
+      "progressive"
+    ],
+    "nounForm": "self-repetition",
+    "verbForm": "self-repeat",
+    "adjectiveForm": "self-repeating",
+    "partOfSpeech": "adjective",
+    "commonContext": "Patterns, algorithms, music, behavior",
+    "usageTip": "Often used in technical descriptions of patterns or processes that are defined by their own repetition.",
+    "commonMistake": "Confusing it with 'repeating itself', which is a phrase; 'self-repeating' is a compound adjective.",
+    "collocations": [
+      "self-repeating pattern",
+      "self-repeating cycle",
+      "self-repeating code"
+    ]
+  },
+  {
+    "word": "Self-repeating",
+    "meaning": "A process that repeats itself",
+    "shortMeaning": "cyclical",
+    "example": "The background process is self-repeating every hour.",
+    "example2": "A self-repeating pattern appeared in the data.",
+    "example3": "We use a self-repeating task for system health checks.",
+    "Explanation": "Self-repeating describes an action, pattern, or task that happens over and over again without needing new input. It is common in background jobs, timers, or fractal designs. Unlike 'self-calling' (which is logic-driven recursion), self-repeating usually implies a time-based cycle or a repeated structural pattern. It is important to ensure such processes do not consume too many resources by running too frequently. It is often used in automation and monitoring to ensure consistency over time.",
+    "synonyms": [
+      "cyclical",
+      "iterative",
+      "recurring"
+    ],
+    "antonyms": [
+      "one-time",
+      "unique",
+      "non-repeating"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "self-repeating",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, scheduling, patterns",
+    "usageTip": "Use 'self-repeating' to describe tasks scheduled to run continuously.",
+    "commonMistake": "Confusing it with 'self-calling' (recursion vs. scheduling).",
+    "collocations": [
+      "self-repeating task",
+      "self-repeating pattern",
+      "self-repeating loop"
+    ]
+  },
+  {
+    "word": "Self-repeating",
+    "meaning": "A sequence or action that happens again on its own",
+    "shortMeaning": "recurring",
+    "example": "The self-repeating error log slowed down the server.",
+    "example2": "We designed a self-repeating backup schedule.",
+    "example3": "The UI has a self-repeating animation effect.",
+    "Explanation": "The term 'self-repeating' refers to processes, signals, or code patterns that run periodically without being told to restart. This is common in scheduled tasks, monitoring agents that check a server every minute, or loops in multimedia design. While useful for automation, a self-repeating process that goes out of control can quickly consume all system resources. It is vital to include mechanisms that allow you to stop or pause any self-repeating task. Always monitor their frequency.",
+    "synonyms": [
+      "recurring",
+      "periodic",
+      "cyclical"
+    ],
+    "antonyms": [
+      "one-time",
+      "manual"
+    ],
+    "nounForm": "repetition",
+    "verbForm": "repeat",
+    "adjectiveForm": "self-repeating",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, scheduling, UI/UX",
+    "usageTip": "Use 'self-repeating' for tasks that run on a timer.",
+    "commonMistake": "Overlooking the impact of self-repeating tasks on performance.",
+    "collocations": [
+      "self-repeating task",
+      "self-repeating loop"
+    ]
+  }
+]

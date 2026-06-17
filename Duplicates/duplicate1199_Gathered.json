@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Gathered",
+    "meaning": "Brought together; collected; came together in one place",
+    "shortMeaning": "collected or came together",
+    "example": "The children gathered around the teacher.",
+    "example2": "She gathered information from various sources.",
+    "example3": "Dark clouds gathered on the horizon.",
+    "Explanation": "'Gathered' is the past tense and past participle of the verb 'gather'. It means to bring together or collect things or people into one place or group. It can also mean to understand or infer ('I gathered that he was unhappy'). The word is used for physical collection (gather flowers), social assembly (people gathered), and abstract accumulation (gather strength). It implies a movement from dispersion to concentration. The adjective 'gathered' can describe fabric that is drawn together. It's a fundamental word for describing collection and assembly.",
+    "synonyms": [
+      "collected, assembled, accumulated, convened, amassed"
+    ],
+    "antonyms": [
+      "dispersed, scattered, separated"
+    ],
+    "nounForm": "gathering",
+    "verbForm": "gather",
+    "adjectiveForm": "gathered",
+    "partOfSpeech": "verb (past tense/participle) / adjective",
+    "commonContext": "Collections, meetings, crowds, information, clouds",
+    "usageTip": "Use 'gathered' to describe people coming together or things being collected in the past.",
+    "commonMistake": "Using 'gathered' to mean 'thought' in the present. That's 'I gather' (present).",
+    "collocations": [
+      "gathered information",
+      "crowd gathered",
+      "gathered from"
+    ]
+  },
+  {
+    "word": "Gathered",
+    "meaning": "Collected or brought together from different sources",
+    "shortMeaning": "collected",
+    "example": "Data was gathered from multiple servers.",
+    "example2": "He gathered the requirements for the project.",
+    "example3": "The logs are gathered into one central file.",
+    "Explanation": "The word 'gathered' means the act of bringing information, resources, or items into one place. In data engineering, 'gathering' is the first step of the ETL (Extract, Transform, Load) process. It is used to describe pulling information from distributed systems. It implies that the data was originally separate and has now been consolidated. It is a very standard and clear word for collection processes.",
+    "synonyms": [
+      "collected",
+      "assembled",
+      "aggregated"
+    ],
+    "antonyms": [
+      "distributed",
+      "scattered",
+      "dispersed"
+    ],
+    "nounForm": "gathering",
+    "verbForm": "gather",
+    "adjectiveForm": "gathered",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Data engineering, research, administration",
+    "usageTip": "Use 'gathered' when you consolidate information from many places.",
+    "commonMistake": "Confusing 'gathered' (collected) with 'gathered' (a physical crowd).",
+    "collocations": [
+      "gathered data",
+      "gathered information",
+      "gathered requirements"
+    ]
+  }
+]

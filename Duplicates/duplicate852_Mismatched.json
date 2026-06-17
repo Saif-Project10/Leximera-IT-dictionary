@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Mismatched",
+    "meaning": "Not matching; unsuitably paired.",
+    "shortMeaning": "not matching; poorly paired",
+    "example": "She was wearing mismatched shoes.",
+    "example2": "The couple seemed mismatched in personality.",
+    "example3": "The furniture was an odd collection of mismatched pieces.",
+    "Explanation": "This adjective describes items or people that are put together but do not match in style, size, color, or character. It can be a deliberate style choice (mismatched earrings) or an accident (mismatched socks). It often implies a lack of harmony or coordination. The word is formed from the verb 'mismatch'. While sometimes a problem, in fashion and design, a 'mismatched' look can be intentional and creative.",
+    "synonyms": [
+      "unmatched",
+      "clashing",
+      "incongruous",
+      "ill-suited"
+    ],
+    "antonyms": [
+      "matched",
+      "coordinated",
+      "matching",
+      "harmonious"
+    ],
+    "nounForm": "mismatch",
+    "verbForm": "mismatch",
+    "adjectiveForm": "mismatched",
+    "partOfSpeech": "adjective",
+    "commonContext": "Clothing, furniture, couples, teams",
+    "usageTip": "Use 'mismatched' to describe things that are supposed to be a pair or set but are different from each other.",
+    "commonMistake": "Using 'mismatched' to mean simply 'different'. It implies an unsuccessful or awkward pairing.",
+    "collocations": [
+      "mismatched pair",
+      "deliberately mismatched",
+      "mismatched colors",
+      "seemingly mismatched"
+    ]
+  },
+  {
+    "word": "Mismatched",
+    "meaning": "Not fitting or compatible with something else",
+    "shortMeaning": "incompatible",
+    "example": "The software version was mismatched with the database requirements.",
+    "example2": "We found mismatched data fields in the import file.",
+    "example3": "The hardware cables and ports were mismatched.",
+    "Explanation": "A 'mismatched' item is one that does not properly connect or work with the other piece it is supposed to be paired with. This is a very common source of errors in IT, such as when your frontend expects an integer but the API sends a string, or when your hardware uses one connector type but your cable uses another. Identifying these mismatches early in the development cycle is critical to ensuring your system components integrate smoothly.",
+    "synonyms": [
+      "incompatible",
+      "unsuitable",
+      "conflicting"
+    ],
+    "antonyms": [
+      "matched",
+      "compatible",
+      "synced"
+    ],
+    "nounForm": "mismatch",
+    "verbForm": "mismatch",
+    "adjectiveForm": "mismatched",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Integration, data, and hardware",
+    "usageTip": "Use 'mismatched' when things do not fit together.",
+    "commonMistake": "Assuming mismatched parts will work; they will almost always cause errors.",
+    "collocations": [
+      "mismatched data",
+      "mismatched version",
+      "mismatched component"
+    ]
+  }
+]

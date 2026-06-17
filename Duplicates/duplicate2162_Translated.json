@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Translated",
+    "meaning": "Expressed in a different language or format",
+    "shortMeaning": "converted format",
+    "example": "The documentation was translated into several languages.",
+    "example2": "The user input is translated into a machine-readable format.",
+    "example3": "We translated the design concepts into actual code.",
+    "Explanation": "Translated means taking information from one language or format and changing it into another while keeping the same meaning. In technical fields, this can mean converting natural language text for an interface or changing abstract design ideas into functional code. Translation ensures that information is accessible or usable in a different context. It is a vital process for global software products that need to reach many different users.",
+    "synonyms": [
+      "converted",
+      "rendered",
+      "interpreted"
+    ],
+    "antonyms": [
+      "original",
+      "untranslated"
+    ],
+    "nounForm": "translation",
+    "verbForm": "translate",
+    "adjectiveForm": "translated",
+    "partOfSpeech": "verb",
+    "commonContext": "Internationalization, coding, communication",
+    "usageTip": "Use this when moving information across different languages or systems.",
+    "commonMistake": "Confusing software translation with code compilation.",
+    "collocations": [
+      "translated text",
+      "translated code",
+      "translation memory"
+    ]
+  },
+  {
+    "word": "Translated",
+    "meaning": "Changed from one language or form into another",
+    "shortMeaning": "converted",
+    "example": "The code was translated into a new programming language.",
+    "example2": "He translated the documentation for our international users.",
+    "example3": "The error message was translated by the system.",
+    "Explanation": "The word 'translated' is the past participle of 'translate'. It means that meaning or function has been moved from one language or format to another. In computing, we 'translate' high-level code (like C++) into machine code (binary). It is a process of conversion while keeping the meaning or function the same. It is a fundamental concept in software development and internationalization.",
+    "synonyms": [
+      "converted",
+      "interpreted",
+      "transferred"
+    ],
+    "antonyms": [
+      "untranslated",
+      "original"
+    ],
+    "nounForm": "translation",
+    "verbForm": "translate",
+    "adjectiveForm": "translated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Programming (compilers), internationalization, documentation",
+    "usageTip": "Use 'translated' for languages or code conversions.",
+    "commonMistake": "Confusing 'translated' with 'transpiled' (which is code-to-code).",
+    "collocations": [
+      "translated code",
+      "translated document",
+      "translated into"
+    ]
+  }
+]

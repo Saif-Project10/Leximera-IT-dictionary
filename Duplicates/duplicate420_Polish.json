@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Polish",
+    "meaning": "To make something smooth and shiny by rubbing; to refine or perfect something by making small improvements.",
+    "shortMeaning": "make shiny; refine",
+    "example": "He polished his shoes before the interview.",
+    "example2": "The writer spent weeks polishing the final draft of her novel.",
+    "example3": "The presentation is good, but it needs a little more polish.",
+    "Explanation": "Polish has a literal meaning (cleaning and shining a surface) and a figurative one (refining work to a high standard). The figurative sense involves adding finishing touches, correcting minor errors, and improving style and presentation. It's the final stage of preparation before something is presented to the public. A 'polished' performance or product appears professional, smooth, and well-prepared. The word implies attention to detail and pride in one's work. As a noun, it can mean shine or refinement ('the polish of a professional').",
+    "synonyms": [
+      "shine",
+      "burnish",
+      "refine",
+      "perfect",
+      "hone"
+    ],
+    "antonyms": [
+      "tarnish",
+      "roughen",
+      "neglect",
+      "draft (early version)"
+    ],
+    "nounForm": "polish",
+    "verbForm": "polish",
+    "adjectiveForm": "polished",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Cleaning, writing, presentations, performance, software UI",
+    "usageTip": "Figuratively, often used with 'up': 'polish up your resume', 'polish up your act'.",
+    "commonMistake": "Confusing the verb with 'Polish' (from Poland). The pronunciation is the same.",
+    "collocations": [
+      "polish off (finish)",
+      "final polish",
+      "polish your skills"
+    ]
+  },
+  {
+    "word": "Polish",
+    "meaning": "To make something smooth and shiny, or to improve the final details of a project",
+    "shortMeaning": "refine / shine",
+    "example": "I need to polish the shoes before the interview.",
+    "example2": "The app is functional, but it needs some polish before we release it.",
+    "example3": "The developer spent the weekend trying to polish the user interface.",
+    "Explanation": "In general English, you polish metal or wood. In software, 'polish' refers to the final 5% of work that makes an app feel high-quality. This includes fixing small visual glitches, making animations smoother, and ensuring the text is perfect. An unpolished app might work, but it feels 'cheap' or 'unfinished'. It is a sign of a professional product and a dedicated development team.",
+    "synonyms": [
+      "refine",
+      "perfect",
+      "shine"
+    ],
+    "antonyms": [
+      "ruin",
+      "neglect",
+      "mar"
+    ],
+    "nounForm": "polish",
+    "verbForm": "polish",
+    "adjectiveForm": "polished",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physical objects and software UI/UX",
+    "usageTip": "Use 'polish' to describe the stage of a project where you improve small details.",
+    "commonMistake": "Thinking 'polish' is only for looks; it can also mean making the code run more smoothly.",
+    "collocations": [
+      "add some polish",
+      "polished surface",
+      "highly polished app"
+    ]
+  }
+]

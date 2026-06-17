@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Collected",
+    "meaning": "Brought together from various places; or calm and controlled.",
+    "shortMeaning": "gathered; calm",
+    "example": "The data was collected over several months. (gathered)",
+    "example2": "She remained calm and collected during the crisis. (composed)",
+    "example3": "His collected works fill three volumes. (assembled)",
+    "Explanation": "'Collected' has two distinct meanings. As the past participle of 'collect', it means gathered or assembled. As an adjective describing a person, it means calm, composed, and in control of one's emotions. The context makes the meaning clear. 'Collected works' refers to all the works of an author gathered in one publication. 'Collected and calm' is a common phrase describing someone who maintains composure under pressure. It's a versatile word with both literal and psychological applications.",
+    "synonyms": [
+      "gathered",
+      "assembled",
+      "calm",
+      "composed"
+    ],
+    "antonyms": [
+      "scattered",
+      "dispersed",
+      "agitated",
+      "flustered"
+    ],
+    "nounForm": "collection",
+    "verbForm": "collect",
+    "adjectiveForm": "collected",
+    "partOfSpeech": "adjective, verb (past participle)",
+    "commonContext": "Data gathering, personal composure, published works",
+    "usageTip": "For composure: 'calm and collected' is a common pairing. For gathering: 'data collected', 'taxes collected'.",
+    "commonMistake": "Confusing 'collected' (calm) with 'collective' (shared by a group). They are different adjectives.",
+    "collocations": [
+      "calm and collected",
+      "collected works",
+      "data collected"
+    ]
+  },
+  {
+    "word": "Collected",
+    "meaning": "Brought together, or showing calm and controlled behavior",
+    "shortMeaning": "gathered or calm",
+    "example": "The application has collected all user logs in a central folder.",
+    "example2": "She remained collected even during the critical system crash.",
+    "example3": "We have collected enough data to start our analysis.",
+    "Explanation": "The word 'collected' describes things that have been gathered together. In technical contexts, a 'collected' system or function gathers data from many places. As a personality adjective, 'collected' describes someone who stays calm and focused, even under pressure. Developers who remain collected during a system outage are very valuable because they can think clearly and fix problems without panicking.",
+    "synonyms": [
+      "gathered",
+      "calm",
+      "composed"
+    ],
+    "antonyms": [
+      "scattered",
+      "panicked",
+      "disorganized"
+    ],
+    "nounForm": "collection",
+    "verbForm": "collect",
+    "adjectiveForm": "collected",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Data management, behavior, and organization",
+    "usageTip": "Use 'collected' to describe data gathered together or a calm person.",
+    "commonMistake": "Confusing 'collected' (adjective of calm) with 'collected' (verb of gathering).",
+    "collocations": [
+      "data collected",
+      "stay collected",
+      "centrally collected"
+    ]
+  }
+]

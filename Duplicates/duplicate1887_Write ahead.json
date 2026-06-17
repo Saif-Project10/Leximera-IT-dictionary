@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Write ahead",
+    "meaning": "The act of recording a change in a log before actually making the change in the database",
+    "shortMeaning": "log before change",
+    "example": "The system will write ahead all transactions to ensure data safety.",
+    "example2": "Always write ahead to the log so you can recover from a power failure.",
+    "example3": "A write ahead policy prevents data corruption during a crash.",
+    "Explanation": "Write ahead is a strategy used in databases and file systems to ensure reliability. Before the computer changes the actual data (which might take a while), it quickly writes a small note in a 'log' file saying what it *intends* to do. If the power goes out halfway through, the computer can look at the log when it restarts and finish the job or fix the mistake. It is like writing a 'to-do' list before starting a big project so you don't get lost if you are interrupted.",
+    "synonyms": [
+      "pre-logging",
+      "journaling",
+      "N/A"
+    ],
+    "antonyms": [
+      "lazy writing",
+      "direct write",
+      "N/A"
+    ],
+    "nounForm": "write-ahead",
+    "verbForm": "write ahead",
+    "adjectiveForm": "write-ahead",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Database management and data integrity",
+    "usageTip": "Use this to describe a safety mechanism that protects data from crashes.",
+    "commonMistake": "Thinking it slows down the system too much; the safety it provides is worth the small delay.",
+    "collocations": [
+      "write ahead protocol",
+      "write ahead log",
+      "write ahead mechanism"
+    ]
+  },
+  {
+    "word": "Write ahead",
+    "meaning": "A technique where changes are logged before being applied",
+    "shortMeaning": "log before apply",
+    "example": "The database uses write ahead logging to ensure data integrity.",
+    "example2": "Write ahead mechanisms help in recovering lost data.",
+    "example3": "Enable write ahead for better fault tolerance.",
+    "Explanation": "A 'write ahead' strategy, specifically 'Write Ahead Logging' (WAL), is a standard practice in databases to ensure data consistency. Before actually changing the data in the main storage, the system records the intended change in a separate log file. If the system crashes, it can use this log to recover the data. It is a critical concept for reliability, ensuring that data is safe even if a power failure or crash occurs during an update.",
+    "synonyms": [
+      "logging-first",
+      "pre-commit logging"
+    ],
+    "antonyms": [
+      "direct write",
+      "in-place write"
+    ],
+    "nounForm": "write ahead logging",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / adjective",
+    "commonContext": "Databases, data integrity, system architecture",
+    "usageTip": "Use this term when discussing robust database logging and crash recovery mechanisms.",
+    "commonMistake": "Thinking 'write ahead' means the data is written to the final location instantly.",
+    "collocations": [
+      "write ahead logging",
+      "use write ahead",
+      "enable write ahead"
+    ]
+  },
+  {
+    "word": "Write ahead",
+    "meaning": "A technique where data changes are recorded in a log file before they are actually applied to the main database",
+    "shortMeaning": "log before saving data",
+    "example": "The database system uses a write-ahead log to prevent data loss during sudden crashes.",
+    "example2": "We need to enable the write ahead feature to guarantee transaction safety.",
+    "example3": "A write ahead strategy ensures that the system can recover to a stable state.",
+    "Explanation": "The term 'write ahead' comes from database management and transaction logging mechanisms, most commonly known as Write-Ahead Logging (WAL). This concept ensures data integrity by mandating that any modification to the database must first be written into a secure, sequential log file on disk before the changes are actually applied to the main database tables. This way, if a system crash or power outage occurs midway through an update, the database engine can read the log file upon restarting to complete or rollback the transactions, preventing data corruption.",
+    "synonyms": [
+      "pre-logging",
+      "advance logging",
+      "WAL"
+    ],
+    "antonyms": [
+      "deferred writing",
+      "lazy writing",
+      "N/A"
+    ],
+    "nounForm": "write-ahead logging",
+    "verbForm": "write ahead",
+    "adjectiveForm": "write-ahead",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Database administration, backend engineering, transaction management",
+    "usageTip": "Use this phrase when explaining fault-tolerance and crash-recovery mechanisms in databases.",
+    "commonMistake": "Thinking 'write ahead' means predicting user input instead of logging data before updating a system.",
+    "collocations": [
+      "write-ahead log",
+      "write-ahead mechanism",
+      "write-ahead policy"
+    ]
+  }
+]

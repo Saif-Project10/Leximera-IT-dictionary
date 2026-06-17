@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Hot",
+    "meaning": "Having a high temperature; very popular or successful.",
+    "shortMeaning": "high temperature; popular",
+    "example": "Be careful—the coffee is very hot.",
+    "example2": "That restaurant is the hot new place in town.",
+    "example3": "The debate became hot when they discussed politics.",
+    "Explanation": "'Hot' is a basic adjective with both literal (high temperature) and figurative (popular, intense) meanings. Literally, it describes thermal heat. Figuratively, it can mean popular (hot trend), spicy (hot sauce), emotionally intense (hot temper), stolen (hot goods), or physically attractive (hot date). The word is incredibly versatile in English, appearing in countless idioms: 'hot topic', 'hot off the press', 'in hot water', 'hot potato'. Its core meaning relates to heat, but its extensions cover popularity, intensity, freshness, and danger. Context determines which meaning applies.",
+    "synonyms": [
+      "heated",
+      "warm",
+      "popular",
+      "spicy"
+    ],
+    "antonyms": [
+      "cold",
+      "cool",
+      "unpopular",
+      "mild"
+    ],
+    "nounForm": "heat",
+    "verbForm": "heat",
+    "adjectiveForm": "hot",
+    "partOfSpeech": "adjective",
+    "commonContext": "Temperature, popularity, food, emotions, trends",
+    "usageTip": "Literal: 'hot water'. Figurative: 'hot topic', 'hot commodity'. Slang: 'hot' meaning attractive.",
+    "commonMistake": "Overusing figurative meanings where literal would be clearer. 'The soup is hot' (temperature) vs. 'The news is hot' (fresh).",
+    "collocations": [
+      "hot water",
+      "hot topic",
+      "red hot"
+    ]
+  },
+  {
+    "word": "Hot",
+    "meaning": "Currently active, running, or available for immediate use",
+    "shortMeaning": "active or immediate",
+    "example": "Keep the database connection hot for quick queries.",
+    "example2": "This is a hot topic in the IT industry.",
+    "example3": "A hot site has all our servers ready to run.",
+    "Explanation": "In IT, 'hot' usually describes systems, data, or processes that are 'live' or ready for immediate use. For example, a 'hot backup' is done while the database is still running, without stopping it. A 'hot site' is a backup location ready to take over instantly. It implies that there is no waiting time; the resource is active and ready right now.",
+    "synonyms": [
+      "live",
+      "active",
+      "ready"
+    ],
+    "antonyms": [
+      "cold",
+      "offline",
+      "standby"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "hot",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data storage, backups, networking",
+    "usageTip": "Use 'hot' to describe systems that are live and running.",
+    "commonMistake": "Confusing it with physical temperature; in IT, it means 'live'.",
+    "collocations": [
+      "hot backup",
+      "hot site",
+      "hot data"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transferable",
+    "meaning": "Able to be moved or used in a different place or system",
+    "shortMeaning": "can be moved",
+    "example": "The skills learned in this course are transferable to other projects.",
+    "example2": "Is the user data transferable to the new platform?",
+    "example3": "We need a transferable format for the document files.",
+    "Explanation": "Something is transferable if it can be easily moved, reassigned, or used in a new environment. In IT, this often refers to data, software licenses, or even professional skills. A transferable file format is one that can be opened by many different programs. Designing systems with transferable components makes them more flexible and easier to maintain long-term. This quality is highly valued in modular software architecture.",
+    "synonyms": [
+      "portable",
+      "movable",
+      "adaptable"
+    ],
+    "antonyms": [
+      "fixed",
+      "static",
+      "non-transferable"
+    ],
+    "nounForm": "transferability",
+    "verbForm": "transfer",
+    "adjectiveForm": "transferable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data portability, software design, skill development",
+    "usageTip": "Use this to describe things that can move between systems or contexts.",
+    "commonMistake": "Assuming all data formats are easily transferable without conversion.",
+    "collocations": [
+      "transferable skills",
+      "transferable data",
+      "highly transferable"
+    ]
+  },
+  {
+    "word": "Transferable",
+    "meaning": "Able to be moved or handed over from one person or place to another",
+    "shortMeaning": "movable",
+    "example": "These skills are easily transferable to other projects.",
+    "example2": "The license is not transferable to another user.",
+    "example3": "He sought a transferable file format.",
+    "Explanation": "The word 'transferable' indicates that something can be moved, reassigned, or carried over. In IT, it applies to data, licenses, software rights, or even professional skills. It means that the item or quality is not 'stuck' in one spot. It is a very common word in legal terms and professional development. It helps explain portability and reuse. If something is transferable, it maintains its value during the move.",
+    "synonyms": [
+      "portable",
+      "movable",
+      "reassignable"
+    ],
+    "antonyms": [
+      "fixed",
+      "non-transferable",
+      "static"
+    ],
+    "nounForm": "transfer",
+    "verbForm": "transfer",
+    "adjectiveForm": "transferable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Licensing, software, skills, asset management",
+    "usageTip": "Use 'transferable' to describe things that can legally or technically be moved.",
+    "commonMistake": "Assuming 'transferable' is only for physical items; it is used for digital rights too.",
+    "collocations": [
+      "transferable license",
+      "transferable skills",
+      "easily transferable"
+    ]
+  }
+]

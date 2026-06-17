@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Empty",
+    "meaning": "Containing nothing; not filled or occupied.",
+    "shortMeaning": "containing nothing",
+    "example": "The bottle was empty, so I threw it away.",
+    "example2": "The house felt empty after the children left for college.",
+    "example3": "His promises were just empty words.",
+    "Explanation": "The adjective 'empty' means having no contents or occupants. It is used for physical spaces (an empty room), containers (an empty glass), and abstract concepts (empty threats, an empty feeling). It often carries a neutral or slightly negative connotation of absence, lack, or worthlessness. The verb is 'empty', meaning to remove the contents. It is a very common word. Distinguishing between 'empty' (nothing inside) and 'blank' (no marks on a surface) is important for precise description.",
+    "synonyms": [
+      "vacant",
+      "void",
+      "hollow",
+      "unfilled",
+      "deserted"
+    ],
+    "antonyms": [
+      "full",
+      "occupied",
+      "packed",
+      "brimming"
+    ],
+    "nounForm": "emptiness",
+    "verbForm": "empty",
+    "adjectiveForm": "empty",
+    "partOfSpeech": "adjective",
+    "commonContext": "Containers, spaces, statements, feelings",
+    "usageTip": "Use 'empty' for three-dimensional spaces and containers. Use 'blank' for flat surfaces like paper or screens.",
+    "commonMistake": "Using 'empty' to describe a person's expression; 'blank' is more accurate for that.",
+    "collocations": [
+      "empty handed",
+      "empty nest",
+      "empty space",
+      "run on empty"
+    ]
+  },
+  {
+    "word": "Empty",
+    "meaning": "Containing nothing; not occupied",
+    "shortMeaning": "nothing inside",
+    "example": "The glass was empty after he drank the water.",
+    "example2": "He felt empty after his best friend moved away.",
+    "example3": "The parking lot was empty on Sunday morning.",
+    "Explanation": "The word 'empty' describes a state of having nothing inside or being vacant. It can refer to physical containers, rooms, or abstract feelings like sadness or loneliness. It is a basic but powerful adjective. Note that it can also be a verb, meaning to remove the contents of something. Understanding the difference between the physical state of 'empty' and the emotional state is important for correct usage.",
+    "synonyms": [
+      "vacant",
+      "hollow",
+      "void"
+    ],
+    "antonyms": [
+      "full",
+      "occupied",
+      "filled"
+    ],
+    "nounForm": "emptiness",
+    "verbForm": "empty",
+    "adjectiveForm": "empty",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Containers, rooms, emotions",
+    "usageTip": "Use for things that have nothing inside.",
+    "commonMistake": "Confusing it with 'blank' (which is for surface).",
+    "collocations": [
+      "empty glass",
+      "empty room",
+      "feeling empty"
+    ]
+  },
+  {
+    "word": "Empty",
+    "meaning": "Containing nothing; not filled or occupied",
+    "shortMeaning": "blank or void",
+    "example": "The 'Recycle Bin' is empty after you delete all the files.",
+    "example2": "Make sure the input field is not empty before submitting the form.",
+    "example3": "We need to empty the database table before we start the new test.",
+    "Explanation": "In daily life, an empty glass has no water. In IT, 'empty' is a critical term for data structures. An 'empty string' is a text variable with zero characters (\"\"). An 'empty array' is a list with no items ([]). Programming logic often checks if a variable is empty before doing anything else to prevent errors. You can also use 'empty' as a verb, meaning to remove everything from a container, such as 'emptying the cache.' It is a fundamental concept in coding, database management, and UI design (showing an 'empty state' when a list has no items).",
+    "synonyms": [
+      "void",
+      "vacant",
+      "blank"
+    ],
+    "antonyms": [
+      "full",
+      "filled",
+      "occupied"
+    ],
+    "nounForm": "emptiness",
+    "verbForm": "empty",
+    "adjectiveForm": "empty",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Coding logic, databases, and everyday life",
+    "usageTip": "Use 'empty' to describe strings or arrays that have a length of zero.",
+    "commonMistake": "Confusing 'empty' with 'null' or 'undefined' in coding; 'empty' usually means a container exists but is just blank.",
+    "collocations": [
+      "empty string",
+      "empty set",
+      "empty the trash"
+    ]
+  }
+]

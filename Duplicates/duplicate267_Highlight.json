@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Highlight",
+    "meaning": "To emphasize something, making it stand out as particularly important or interesting",
+    "shortMeaning": "emphasize as important",
+    "example": "The report highlights the need for more funding.",
+    "example2": "She used a marker to highlight the important text.",
+    "example3": "The tour will highlight the city's historical sites.",
+    "Explanation": "The verb 'highlight' means to draw special attention to something, to make it the most noticeable part. It can be literal, like using a bright color on text, or figurative, like emphasizing a point in a speech. The noun form means the best or most exciting part of something. It's an active verb used in education, presentation, writing, and event planning to focus attention.",
+    "synonyms": [
+      "emphasize",
+      "accentuate",
+      "spotlight",
+      "underline"
+    ],
+    "antonyms": [
+      "downplay",
+      "minimize",
+      "de-emphasize"
+    ],
+    "nounForm": "highlight",
+    "verbForm": "highlight",
+    "adjectiveForm": "highlighted",
+    "partOfSpeech": "verb",
+    "commonContext": "Presentations, reports, study notes, travel",
+    "usageTip": "Often used to introduce a key finding or point: 'I want to highlight three main issues.'",
+    "commonMistake": "Misspelling as 'highlite' (correct spelling is 'highlight').",
+    "collocations": [
+      "highlight the importance",
+      "highlight of the day",
+      "highlight text"
+    ]
+  },
+  {
+    "word": "Highlight",
+    "meaning": "To pick out or emphasize the most important part of something",
+    "shortMeaning": "emphasize",
+    "example": "The report will highlight the main achievements of the year.",
+    "example2": "Use your mouse to highlight the text you want to copy.",
+    "example3": "The speaker used a red laser to highlight the key data on the slide.",
+    "Explanation": "To 'highlight' is to draw attention to a specific part of a larger whole. In computing, this often means changing the background color of text or an icon to show it is selected. In writing or speaking, it means emphasizing a specific point. It can be a physical act (using a fluorescent marker) or a digital one. In software development, 'syntax highlighting' refers to making different parts of code (like keywords and strings) different colors to make it easier to read. It's about making the important things stand out.",
+    "synonyms": [
+      "emphasize",
+      "stress",
+      "underline"
+    ],
+    "antonyms": [
+      "downplay",
+      "ignore",
+      "obscure"
+    ],
+    "nounForm": "highlight",
+    "verbForm": "highlight",
+    "adjectiveForm": "highlighted",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Reading, presentations, and software interfaces",
+    "usageTip": "Use 'highlight' when you want to make a specific part of your data or text prominent.",
+    "commonMistake": "Highlighting too much information (which makes nothing stand out).",
+    "collocations": [
+      "highlight the issue",
+      "syntax highlighting",
+      "highlight reel"
+    ]
+  }
+]

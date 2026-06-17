@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Secondary",
+    "meaning": "Coming after, and less important than, something primary; relating to education for teenagers",
+    "shortMeaning": "less important, high school level",
+    "example": "That is a secondary concern; let's focus on the main issue.",
+    "example2": "She teaches at a secondary school.",
+    "example3": "The primary source is the diary; the biography is a secondary source.",
+    "Explanation": "'Secondary' is an adjective describing something of second rank, importance, or stage. It contrasts with 'primary'. In education, it refers to schools following primary/elementary school. In research, a 'secondary source' analyzes primary sources. It often implies being derived from or depending on something else. It's a fundamental word for categorization and prioritization in many academic and professional fields.",
+    "synonyms": [
+      "subordinate",
+      "lesser",
+      "auxiliary"
+    ],
+    "antonyms": [
+      "primary",
+      "main",
+      "principal"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "secondary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Education, importance, sources, effects",
+    "usageTip": "Use 'secondary to' to show what something is less important than (e.g., 'Speed is secondary to safety').",
+    "commonMistake": "Using 'secondary' to mean 'second' in a sequence (e.g., 'my secondary child' is incorrect).",
+    "collocations": [
+      "secondary education",
+      "secondary role",
+      "secondary market"
+    ]
+  },
+  {
+    "word": "Secondary",
+    "meaning": "Not the main priority or comes after the primary",
+    "shortMeaning": "backup, following",
+    "example": "The secondary server handles failover.",
+    "example2": "This is a secondary task for now.",
+    "example3": "We use a secondary index for faster lookups.",
+    "Explanation": "The word 'secondary' means something that is second in importance, rank, or time. In IT, it often refers to 'secondary storage' (backups) or 'secondary systems' that take over if the 'primary' system fails. It is used to prioritize tasks or hardware. A secondary system is not the main one used for day-to-day work, but it is essential for reliability. The noun form is 'second' or 'secondary', and there is no direct verb form.",
+    "synonyms": [
+      "auxiliary",
+      "backup",
+      "subordinate"
+    ],
+    "antonyms": [
+      "primary",
+      "main",
+      "major"
+    ],
+    "nounForm": "secondary",
+    "verbForm": "N/A",
+    "adjectiveForm": "secondary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware architecture, task management",
+    "usageTip": "Use 'secondary' for items that serve as backups or are less critical.",
+    "commonMistake": "Confusing 'secondary' with 'secondary' school; ensure context is IT.",
+    "collocations": [
+      "secondary server",
+      "secondary storage",
+      "secondary index"
+    ]
+  },
+  {
+    "word": "Secondary",
+    "meaning": "Less important or coming after the primary",
+    "shortMeaning": "not primary",
+    "example": "This is a secondary task and can wait until tomorrow.",
+    "example2": "We have a secondary server for disaster recovery.",
+    "example3": "The primary goal is speed, but security is a secondary concern.",
+    "Explanation": "In IT, 'secondary' is used to classify components or tasks that are not essential for immediate functionality but are necessary for stability, backup, or future scalability. For example, a secondary database acts as a standby in case the primary fails. Identifying primary vs. secondary priorities is crucial for resource management. It helps teams focus on the most important work first while ensuring that supportive or backup systems are not completely neglected in the project plan.",
+    "synonyms": [
+      "backup",
+      "auxiliary",
+      "supplementary"
+    ],
+    "antonyms": [
+      "primary",
+      "main",
+      "essential"
+    ],
+    "nounForm": "secondary",
+    "verbForm": "N/A",
+    "adjectiveForm": "secondary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Infrastructure, prioritization, project management",
+    "usageTip": "Use to distinguish backup from main components.",
+    "commonMistake": "Treating secondary components as 'unimportant' instead of 'supportive'.",
+    "collocations": [
+      "secondary server",
+      "secondary goal",
+      "secondary storage"
+    ]
+  }
+]

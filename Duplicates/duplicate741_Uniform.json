@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Uniform",
+    "meaning": "Not changing in form or character; the same in all cases and at all times.",
+    "shortMeaning": "same; consistent clothing",
+    "example": "The bricks should be of uniform size. (adjective)",
+    "example2": "Students must wear school uniform. (noun)",
+    "example3": "The temperature was maintained at a uniform level.",
+    "Explanation": "Uniform has two primary meanings. As an adjective, it means unchanging, consistent, or homogeneous. As a noun, it's the distinctive clothing worn by members of an organization (army, school, nurses). The adjective emphasizes lack of variation, which can be good (uniform quality) or bad (uniform dullness). The noun emphasizes identity and belonging. The word comes from Latin roots meaning 'one form'. It's a key concept in manufacturing (for consistency) and organizations (for discipline and equality).",
+    "synonyms": [
+      "consistent",
+      "constant",
+      "unvarying",
+      "standardized",
+      "outfit"
+    ],
+    "antonyms": [
+      "variable",
+      "inconsistent",
+      "changing",
+      "different"
+    ],
+    "nounForm": "uniform",
+    "verbForm": "N/A",
+    "adjectiveForm": "uniform",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Quality control, clothing, distribution, appearance",
+    "usageTip": "As an adjective, it's often followed by 'in' (uniform in color) or used before a noun (uniform distribution).",
+    "commonMistake": "Using 'uniform' as a verb. The verb is 'standardize' or 'make uniform'.",
+    "collocations": [
+      "school uniform",
+      "uniform distribution",
+      "in uniform",
+      "uniform size"
+    ]
+  },
+  {
+    "word": "Uniform",
+    "meaning": "Consistent, unchanged, or the same throughout",
+    "shortMeaning": "consistent",
+    "example": "The coding style across the project should be uniform.",
+    "example2": "We applied a uniform policy to all user accounts.",
+    "example3": "The data formatting is uniform across all reports.",
+    "Explanation": "The word 'uniform' describes something that has the same structure, appearance, or behavior everywhere. In programming, 'uniform coding standards' ensure that all developers write code in the same way, making it easier to read and maintain. In networking, a 'uniform configuration' across devices prevents issues. When things are not uniform, it is hard to scale or predict behavior. This word emphasizes quality through consistency. It is a cornerstone of professional software engineering and system architecture best practices.",
+    "synonyms": [
+      "consistent",
+      "standardized",
+      "even"
+    ],
+    "antonyms": [
+      "irregular",
+      "variable",
+      "non-uniform"
+    ],
+    "nounForm": "uniformity",
+    "verbForm": "N/A",
+    "adjectiveForm": "uniform",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, configuration management, standard design",
+    "usageTip": "Use this to justify the need for standards or conventions.",
+    "commonMistake": "Confusing 'uniform' with 'simple'.",
+    "collocations": [
+      "uniform distribution",
+      "uniform style",
+      "keep it uniform"
+    ]
+  },
+  {
+    "word": "Uniform",
+    "meaning": "Staying the same in all cases and at all times; consistent.",
+    "shortMeaning": "consistent",
+    "example": "The application must have a uniform design across all pages.",
+    "example2": "We applied a uniform style to all the button elements.",
+    "example3": "Uniform data formatting makes the file easier to parse.",
+    "Explanation": "The word 'uniform' means having the same form or style throughout. In UI/UX design, uniform styling ensures that users have a predictable and pleasant experience. It avoids confusing users with different colors or layouts on different pages. In programming, it often refers to maintaining consistent coding standards or data formats. This regularity is a hallmark of high-quality software, as it shows attention to detail and professional planning.",
+    "synonyms": [
+      "consistent",
+      "standardized",
+      "regular"
+    ],
+    "antonyms": [
+      "irregular",
+      "inconsistent",
+      "varied"
+    ],
+    "nounForm": "uniformity",
+    "verbForm": "N/A",
+    "adjectiveForm": "uniform",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design and coding standards",
+    "usageTip": "Use 'uniform' to emphasize consistency.",
+    "commonMistake": "Using 'uniform' to describe identical logic when only the style is the same.",
+    "collocations": [
+      "uniform design",
+      "uniform style",
+      "uniform distribution"
+    ]
+  }
+]

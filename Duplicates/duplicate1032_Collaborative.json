@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Collaborative",
+    "meaning": "Involving two or more people working together for a special purpose.",
+    "shortMeaning": "involving teamwork",
+    "example": "We use a collaborative approach to problem-solving.",
+    "example2": "The software supports collaborative editing by multiple users.",
+    "example3": "A collaborative environment encourages sharing ideas.",
+    "Explanation": "'Collaborative' is an adjective describing something that involves or is designed for collaboration. It emphasizes the process of working together rather than competing. It's become a buzzword in modern business and education, describing workplaces, tools (collaborative software), and cultures that promote teamwork. It's the adjective form of 'collaborate'. It suggests openness, shared responsibility, and collective achievement. In today's interconnected world, collaborative skills are highly valued.",
+    "synonyms": [
+      "cooperative",
+      "joint",
+      "team-based",
+      "participatory"
+    ],
+    "antonyms": [
+      "competitive",
+      "individual",
+      "solo",
+      "independent"
+    ],
+    "nounForm": "collaboration",
+    "verbForm": "collaborate",
+    "adjectiveForm": "collaborative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace culture, software, education, projects",
+    "usageTip": "Often used before nouns: 'collaborative work', 'collaborative spirit', 'collaborative tool'.",
+    "commonMistake": "Confusing with 'cooperative'. They're similar, but 'collaborative' often implies more active, creative partnership.",
+    "collocations": [
+      "collaborative effort",
+      "collaborative learning",
+      "collaborative project"
+    ]
+  },
+  {
+    "word": "Collaborative",
+    "meaning": "Involving two or more people working together to achieve a goal",
+    "shortMeaning": "working together",
+    "example": "We use collaborative tools like Git to share our code.",
+    "essential": "Collaborative environments help teams learn and grow faster.",
+    "example3": "The project was a collaborative effort between developers and designers.",
+    "Explanation": "The word 'collaborative' describes any task or process that requires teamwork. In software development, tools like GitHub, Figma, and Slack enable developers, designers, and managers to be highly collaborative, even when working from different countries. Collaborative work creates better results by combining different skills and perspectives. It is a cornerstone of modern, agile development teams.",
+    "synonyms": [
+      "team-based",
+      "cooperative",
+      "joint"
+    ],
+    "antonyms": [
+      "individual",
+      "solo",
+      "isolated"
+    ],
+    "nounForm": "collaboration",
+    "verbForm": "collaborate",
+    "adjectiveForm": "collaborative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Agile teams, software tools, and project management",
+    "usageTip": "Use 'collaborative' to highlight that a task requires team effort.",
+    "commonMistake": "Using 'collaborative' for everything; some tasks are actually better done solo for focus.",
+    "collocations": [
+      "collaborative effort",
+      "collaborative tools",
+      "collaborative environment"
+    ]
+  }
+]

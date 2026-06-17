@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Strict",
+    "meaning": "Demanding that rules are followed exactly; precise or rigid.",
+    "shortMeaning": "exact or rigid",
+    "example": "The language has strict syntax rules for variable declaration.",
+    "example2": "We follow a strict set of security policies.",
+    "example3": "The compiler is very strict about type compatibility.",
+    "Explanation": "The word 'strict' refers to an environment where rules and standards are applied without flexibility. In programming, 'strict' environments are often helpful because they catch errors early and enforce consistent code quality. While it can be frustrating to deal with a 'strict' compiler, it ultimately leads to more stable and maintainable software. 'Strict' can also describe adherence to protocols or design guidelines.",
+    "synonyms": [
+      "precise",
+      "rigid",
+      "stringent"
+    ],
+    "antonyms": [
+      "lenient",
+      "flexible",
+      "relaxed"
+    ],
+    "nounForm": "strictness",
+    "verbForm": "N/A",
+    "adjectiveForm": "strict",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and rules",
+    "usageTip": "Use 'strict' when rules must be followed exactly.",
+    "commonMistake": "Confusing 'strict' with 'complex'; something can be strict and very simple.",
+    "collocations": [
+      "strict rules",
+      "strict compliance",
+      "strict mode"
+    ]
+  },
+  {
+    "word": "Strict",
+    "meaning": "Demanding that rules are followed exactly; very precise.",
+    "shortMeaning": "exact or firm",
+    "example": "The language uses strict syntax rules.",
+    "example2": "We follow a strict code of conduct for commits.",
+    "example3": "The compiler has strict type checking enabled.",
+    "Explanation": "The word 'strict' refers to a high level of adherence to rules or standards. In programming, 'strict' modes or types ensure that code follows exact syntax, preventing common bugs by not allowing 'lazy' coding practices. It is a key term in languages like JavaScript ('use strict'). It implies there is little to no room for error. The noun form is 'strictness'. Using this term indicates a preference for quality, security, and predictability in software engineering.",
+    "synonyms": [
+      "precise",
+      "rigid",
+      "formal"
+    ],
+    "antonyms": [
+      "loose",
+      "flexible",
+      "lax"
+    ],
+    "nounForm": "strictness",
+    "verbForm": "N/A",
+    "adjectiveForm": "strict",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming languages, security, rules",
+    "usageTip": "Use 'strict' to describe mandatory, error-free rules.",
+    "commonMistake": "Confusing 'strict' (the rule) with 'strictness' (the state).",
+    "collocations": [
+      "strict mode",
+      "strict rules",
+      "strict typing"
+    ]
+  }
+]

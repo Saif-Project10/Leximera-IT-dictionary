@@ -1,0 +1,70 @@
+[
+  {
+    "word": "Leave",
+    "meaning": "To go away from a place; to allow something to remain; permission to be absent.",
+    "shortMeaning": "go away; let stay; permission for absence",
+    "example": "What time does the train leave? (go away)",
+    "example2": "Leave the door open, please. (let stay)",
+    "example3": "She has two weeks of annual leave. (permission to be absent)",
+    "Explanation": "Leave is a common verb and noun with several core meanings. As a verb, its main meanings are to depart and to allow something to stay in a place or state. It is an irregular verb (leave, left, left). As a noun, it refers to authorized time off from work or duty (e.g., maternity leave, sick leave). The verb is used in many phrasal verbs (leave out, leave behind, leave for). Context is vital: 'I leave at 5' means departure, while 'I leave it to you' means entrusting.",
+    "synonyms": [
+      "depart",
+      "go away",
+      "abandon",
+      "let remain",
+      "vacation"
+    ],
+    "antonyms": [
+      "arrive",
+      "come",
+      "stay",
+      "remove"
+    ],
+    "nounForm": "leave",
+    "verbForm": "leave",
+    "adjectiveForm": "leaving",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Travel, work permissions, instructions, abandonment",
+    "usageTip": "Use 'leave for' to indicate destination (I leave for Paris). Use 'leave' without 'from' (I leave home, not I leave from home).",
+    "commonMistake": "Confusing 'leave' with 'let'. 'Leave' is for departing or leaving something; 'let' is for allowing someone to do something.",
+    "collocations": [
+      "leave a message",
+      "leave home",
+      "on leave",
+      "leave alone"
+    ]
+  },
+  {
+    "word": "Leave",
+    "meaning": "To go away from a place or to allow something to remain in a particular state",
+    "shortMeaning": "go away / remain",
+    "example": "Don't forget to leave the office keys on the desk.",
+    "example2": "You should leave the default settings if you are not sure what to change.",
+    "example3": "He had to leave the meeting early for a client call.",
+    "Explanation": "The word 'leave' has two main meanings. First, it means to depart or exit from a location or situation. Second, it means to let something stay exactly as it is without changing or moving it. In a technical context, it is often used when giving instructions about configuration files or code where certain parts should not be edited. It can also refer to 'time off' from work, such as 'annual leave' or 'sick leave'. It is a very common and versatile verb in both general and professional English.",
+    "synonyms": [
+      "depart",
+      "exit",
+      "abandon",
+      "remain"
+    ],
+    "antonyms": [
+      "arrive",
+      "stay",
+      "enter",
+      "change"
+    ],
+    "nounForm": "leave / departure",
+    "verbForm": "leave",
+    "adjectiveForm": "left",
+    "partOfSpeech": "verb",
+    "commonContext": "Daily Life, Workplace, Technical Instructions",
+    "usageTip": "In IT instructions, 'leave' often means 'do not modify'.",
+    "commonMistake": "Confusing 'leave' with 'let'. You 'leave' a room, but you 'let' someone enter.",
+    "collocations": [
+      "leave a message",
+      "leave as is",
+      "annual leave"
+    ]
+  }
+]

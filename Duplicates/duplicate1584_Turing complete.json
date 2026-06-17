@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Turing complete",
+    "meaning": "A term used to describe a system or language that can perform any calculation that a computer is theoretically capable of",
+    "shortMeaning": "Fully programmable",
+    "example": "Because Python is Turing complete, you can use it to write any program imaginable.",
+    "example2": "Even some simple games like Minecraft are technically Turing complete.",
+    "example3": "A language that isn't Turing complete might be easier to secure but less flexible.",
+    "Explanation": "If a system is 'Turing complete,' it means it can simulate a Universal Turing Machine. In simple terms, if you give it enough time and memory, it can solve any computational problem. Most modern programming languages (C++, Java, JavaScript) are Turing complete. This is a crucial concept because it tells us that all these languages are equally 'powerful' in what they can compute, even if some are faster or easier to use than others. It is the benchmark for a 'real' programming language.",
+    "synonyms": [
+      "computationally universal"
+    ],
+    "antonyms": [
+      "Turing incomplete"
+    ],
+    "nounForm": "completeness",
+    "verbForm": "N/A",
+    "adjectiveForm": "Turing-complete",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Programming language theory and computer science",
+    "usageTip": "Check if a new blockchain's smart contract language is Turing complete to see how complex its logic can be.",
+    "commonMistake": "Thinking 'Turing complete' means a language is 'good'; it just means it can do any calculation.",
+    "collocations": [
+      "Turing complete language",
+      "prove Turing completeness",
+      "theoretically Turing complete"
+    ]
+  },
+  {
+    "word": "Turing complete",
+    "meaning": "Able to solve any computational problem given enough time",
+    "shortMeaning": "computationally capable",
+    "example": "Most programming languages are Turing complete.",
+    "example2": "The system is Turing complete, allowing complex logic.",
+    "example3": "Is the smart contract language Turing complete?",
+    "Explanation": "Turing complete is a standard for judging the power of a language or machine. If a system is Turing complete, it can theoretically solve any problem that any computer can solve. This includes languages like Python, C, and Java. Some limited languages (like simple HTML or basic regex) are not Turing complete because they cannot handle complex logic. It is a fundamental benchmark in computer science.",
+    "synonyms": [
+      "computationally universal"
+    ],
+    "antonyms": [
+      "limited",
+      "Turing-incomplete"
+    ],
+    "nounForm": "Turing completeness",
+    "verbForm": "N/A",
+    "adjectiveForm": "Turing complete",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, programming theory, blockchain",
+    "usageTip": "Use this to describe if a language can handle any computational task.",
+    "commonMistake": "Thinking every computer program or language is Turing complete.",
+    "collocations": [
+      "Turing complete language",
+      "Turing complete system",
+      "Turing complete machine"
+    ]
+  }
+]

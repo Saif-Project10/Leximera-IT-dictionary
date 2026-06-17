@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Maintainable",
+    "meaning": "Able to be kept in good condition or continued at a certain level; in software, easy to update and repair.",
+    "shortMeaning": "able to be maintained",
+    "example": "We need to write maintainable code that other developers can understand.",
+    "example2": "The garden is designed to be easily maintainable.",
+    "example3": "A maintainable lead is one that can be defended.",
+    "Explanation": "'Maintainable' is an adjective describing something that can be maintained effectively. In everyday use, it means easy to keep in good condition. In software engineering, it's a critical quality attribute: maintainable code is well-structured, documented, and follows standards, making it easy to modify, debug, and extend over time. It's a positive term that emphasizes long-term usability and cost-effectiveness, contrasting with quick, messy solutions that are hard to work with later. The verb is 'maintain'.",
+    "synonyms": [
+      "sustainable",
+      "serviceable",
+      "supportable"
+    ],
+    "antonyms": [
+      "unmaintainable",
+      "unsustainable",
+      "obsolete"
+    ],
+    "nounForm": "maintainability",
+    "verbForm": "maintain",
+    "adjectiveForm": "maintainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, engineering, gardening, sports",
+    "usageTip": "In tech, it's often paired with other desirable code qualities like 'readable', 'scalable', and 'testable'.",
+    "commonMistake": "Using it to mean 'able to be obtained'; that's 'attainable'. Maintainable is about keeping, not getting.",
+    "collocations": [
+      "easily maintainable",
+      "highly maintainable",
+      "maintainable standard"
+    ]
+  },
+  {
+    "word": "Maintainable",
+    "meaning": "Easy to keep in good condition, update, or fix",
+    "shortMeaning": "easy to update",
+    "example": "Writing clean code is essential for creating a maintainable application.",
+    "example2": "The architecture should be simple and maintainable.",
+    "example3": "The script is not maintainable because it is too complex.",
+    "Explanation": "The word 'maintainable' is a key quality in software development. It refers to how easily code can be understood, fixed, or updated as requirements change over time. Highly maintainable code is modular, well-documented, and follows standard practices. Lack of maintainability often leads to 'technical debt', where it becomes too hard or expensive to add new features. It is a vital metric for software long-term success.",
+    "synonyms": [
+      "manageable",
+      "supportable",
+      "clean"
+    ],
+    "antonyms": [
+      "unmaintainable",
+      "complex",
+      "fragile"
+    ],
+    "nounForm": "maintainability",
+    "verbForm": "maintain",
+    "adjectiveForm": "maintainable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software engineering, code quality",
+    "usageTip": "Use to describe good, sustainable code quality.",
+    "commonMistake": "Focusing only on current functionality and ignoring long-term maintainability.",
+    "collocations": [
+      "highly maintainable",
+      "maintainable code",
+      "maintainable architecture"
+    ]
+  }
+]

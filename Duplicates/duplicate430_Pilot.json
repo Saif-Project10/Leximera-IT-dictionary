@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Pilot",
+    "meaning": "A person who operates an aircraft; a preliminary test or trial of a project, idea, or TV show.",
+    "shortMeaning": "aviator, trial run",
+    "example": "The pilot announced we were landing soon.",
+    "example2": "They filmed a pilot episode for a new television series.",
+    "example3": "The company is running a pilot program in three cities.",
+    "Explanation": "The noun 'pilot' is commonly known as someone who flies a plane. In business and media, it has a second important meaning: a small-scale initial test of a new project or product to see if it works before full implementation. As an adjective, it describes this test phase (pilot project, pilot study). A common mistake is not recognizing this business meaning. The pilot phase is critical for identifying problems with minimal risk. It's about guiding a new idea, similar to how a pilot guides a plane.",
+    "synonyms": [
+      "aviator",
+      "trial",
+      "test run"
+    ],
+    "antonyms": [
+      "full implementation",
+      "final version",
+      "N/A"
+    ],
+    "nounForm": "pilot",
+    "verbForm": "pilot",
+    "adjectiveForm": "pilot",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Aviation, television, business projects, research",
+    "usageTip": "For a test project, always use 'pilot' as an adjective: 'a pilot program', not 'a program pilot'.",
+    "commonMistake": "Thinking 'pilot' only refers to someone who flies.",
+    "collocations": [
+      "pilot episode",
+      "pilot project",
+      "pilot study"
+    ]
+  },
+  {
+    "word": "Pilot",
+    "meaning": "An initial small-scale test or trial project",
+    "shortMeaning": "trial test",
+    "example": "We are running a pilot of the new software in one office.",
+    "example2": "The pilot phase was successful and showed great results.",
+    "example3": "We need to gather feedback during the pilot.",
+    "Explanation": "In a business or IT project context, a 'pilot' is a limited-scope test of a new system, product, or service. Its goal is to prove the concept and identify any major bugs before rolling it out to everyone. It is a risk-reduction strategy that allows teams to see how things work in a real-world setting without exposing the whole organization to potential errors. A successful pilot usually precedes a full-scale deployment. It implies that the final product is not yet fully decided.",
+    "synonyms": [
+      "trial",
+      "test",
+      "experiment"
+    ],
+    "antonyms": [
+      "full-scale",
+      "production"
+    ],
+    "nounForm": "pilot",
+    "verbForm": "pilot",
+    "adjectiveForm": "pilot",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Project Management, Business Strategy",
+    "usageTip": "Use to describe the testing phase of a new implementation.",
+    "commonMistake": "Ignoring the lessons learned from a pilot before a full launch.",
+    "collocations": [
+      "pilot project",
+      "pilot phase",
+      "pilot test"
+    ]
+  },
+  {
+    "word": "Pilot",
+    "meaning": "A small-scale experiment or project done to test if a larger one will work",
+    "shortMeaning": "test run",
+    "example": "We are running a pilot project before launching the app worldwide.",
+    "example2": "The pilot program showed that users wanted more features.",
+    "example3": "The pilot study helped identify potential problems with the design.",
+    "Explanation": "A pilot is a trial version of a project or system. In the corporate world and IT, a 'pilot launch' involves releasing a product to a small, controlled group of users. This allows the team to gather feedback and fix bugs before spending a lot of money on a full release. If the pilot is successful, the project proceeds to full production. If it fails, the company can change its strategy without having wasted too many resources. It is a standard risk-management step.",
+    "synonyms": [
+      "trial",
+      "prototype",
+      "experiment"
+    ],
+    "antonyms": [
+      "full release",
+      "final production"
+    ],
+    "nounForm": "pilot",
+    "verbForm": "pilot",
+    "adjectiveForm": "pilot",
+    "partOfSpeech": "noun / verb / adjective",
+    "commonContext": "Project management, research, and software testing",
+    "usageTip": "Use 'pilot' to describe the 'test version' of a service or business plan.",
+    "commonMistake": "Confusing 'pilot' (trial) with 'beta' (almost finished software version).",
+    "collocations": [
+      "pilot project",
+      "pilot study",
+      "pilot program"
+    ]
+  }
+]

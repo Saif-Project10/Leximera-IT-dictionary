@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Supersonic",
+    "meaning": "Involving or denotes a speed greater than the speed of sound",
+    "shortMeaning": "faster than sound",
+    "example": "The aircraft reached supersonic speeds during the test flight.",
+    "example2": "A sonic boom is heard when an object goes supersonic.",
+    "example3": "Engineers are developing new supersonic transport planes.",
+    "Explanation": "The term 'supersonic' describes anything that travels faster than the speed of sound, which is approximately 767 miles per hour. It is a critical concept in aerodynamics and aviation technology. When an object breaks this barrier, it creates a shock wave known as a sonic boom. This word is almost exclusively used in technical, military, or aerospace contexts. It is important to distinguish it from 'hypersonic', which refers to speeds much higher than supersonic.",
+    "synonyms": [
+      "faster-than-sound",
+      "ultrasonic",
+      "high-speed"
+    ],
+    "antonyms": [
+      "subsonic",
+      "slow"
+    ],
+    "nounForm": "supersonics",
+    "verbForm": "N/A",
+    "adjectiveForm": "supersonic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Aviation, physics, and aerospace engineering",
+    "usageTip": "Use 'supersonic' specifically when referring to speeds exceeding Mach 1.",
+    "commonMistake": "Using 'supersonic' to mean just 'very fast' in a general sense.",
+    "collocations": [
+      "supersonic aircraft",
+      "supersonic flow",
+      "supersonic flight"
+    ]
+  },
+  {
+    "word": "Supersonic",
+    "meaning": "Moving faster than the speed of sound",
+    "shortMeaning": "faster than sound",
+    "example": "The jet reached supersonic speeds during the test.",
+    "example2": "Supersonic airflow is complex to model in simulations.",
+    "example3": "He designed a probe for supersonic travel.",
+    "Explanation": "The word 'supersonic' refers to any movement or phenomenon that happens at a speed faster than sound travels through the air. This causes shock waves and unique aerodynamic conditions. It is frequently used in aerospace engineering and physics. While it sounds exciting, it is a very specific physical measurement. Supersonic vehicles require special materials and designs to handle the intense pressure and heat. It is a clear term that defines a specific velocity range.",
+    "synonyms": [
+      "transonic",
+      "ultrasonic (note: this is different)"
+    ],
+    "antonyms": [
+      "subsonic"
+    ],
+    "nounForm": "supersonic",
+    "verbForm": "N/A",
+    "adjectiveForm": "supersonic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Aerospace, physics, engineering",
+    "usageTip": "Use 'supersonic' for speeds exceeding the speed of sound.",
+    "commonMistake": "Confusing 'supersonic' (faster than sound) with 'ultrasonic' (higher frequency than human hearing).",
+    "collocations": [
+      "supersonic speed",
+      "supersonic flow",
+      "supersonic jet"
+    ]
+  },
+  {
+    "word": "Supersonic",
+    "meaning": "Faster than the speed of sound",
+    "shortMeaning": "faster than sound",
+    "example": "The aircraft traveled at supersonic speeds.",
+    "example2": "Supersonic flight requires specialized aerodynamic engineering.",
+    "example3": "The data transfer was so fast it was almost supersonic (metaphorically).",
+    "Explanation": "Supersonic literally refers to speeds exceeding the speed of sound (Mach 1). In engineering and hardware, it is used to describe objects or fluid flows moving at these high speeds. While rare in standard IT, it is sometimes used metaphorically to describe extremely fast data transmission or processing. Be precise when using this term to avoid confusion with general 'fast' speeds. It is an objective physical measurement.",
+    "synonyms": [
+      "fast",
+      "hypersonic (faster than supersonic)",
+      "high-speed"
+    ],
+    "antonyms": [
+      "subsonic",
+      "slow"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "supersonic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Aerospace, physics, high-speed engineering",
+    "usageTip": "Use 'supersonic' to describe actual physical speed greater than sound.",
+    "commonMistake": "Using 'supersonic' for any fast computer; it is specifically about sound barrier speeds.",
+    "collocations": [
+      "supersonic speed",
+      "supersonic flight",
+      "supersonic jet"
+    ]
+  }
+]

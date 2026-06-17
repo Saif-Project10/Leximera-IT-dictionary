@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unbounded",
+    "meaning": "Not having a limit or a defined edge.",
+    "shortMeaning": "no limit",
+    "example": "The system processes an unbounded stream of data.",
+    "example2": "The search space is practically unbounded.",
+    "example3": "Avoid creating unbounded loops in your code.",
+    "Explanation": "Unbounded means that something has no specific boundaries or constraints. In computing, an 'unbounded loop' or 'unbounded buffer' can lead to crashes or memory issues because it keeps growing or running indefinitely. It is important to design systems with appropriate bounds to manage resources safely. It describes something infinite or unchecked. Being aware of unbounded processes is vital for stable application performance.",
+    "synonyms": [
+      "limitless",
+      "infinite",
+      "unchecked"
+    ],
+    "antonyms": [
+      "bounded",
+      "limited",
+      "restricted"
+    ],
+    "nounForm": "bound",
+    "verbForm": "bound",
+    "adjectiveForm": "unbounded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms, performance, memory management",
+    "usageTip": "Use this to describe processes that do not have a defined end.",
+    "commonMistake": "Thinking 'unbounded' is always good (it often implies danger).",
+    "collocations": [
+      "unbounded stream",
+      "unbounded loop",
+      "unbounded buffer"
+    ]
+  },
+  {
+    "word": "Unbounded",
+    "meaning": "Having no limits or constraints.",
+    "shortMeaning": "limitless",
+    "example": "The buffer is unbounded, so it can grow indefinitely.",
+    "example2": "An unbounded search might take too long to complete.",
+    "example3": "The queue is unbounded in our current design.",
+    "Explanation": "In computer science, 'unbounded' describes a structure like a list, queue, or buffer that has no fixed size. While this sounds flexible, it can be dangerous because it might consume all available memory if not managed correctly. 'Unbounded' systems are the opposite of 'bounded' or 'fixed-size' systems. They are powerful but require careful monitoring to prevent system crashes. This term is frequently used in discussions about algorithm efficiency.",
+    "synonyms": [
+      "limitless",
+      "infinite",
+      "unrestricted"
+    ],
+    "antonyms": [
+      "bounded",
+      "limited",
+      "restricted"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unbounded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data structures and memory management",
+    "usageTip": "Use 'unbounded' for structures that can grow without a limit.",
+    "commonMistake": "Assuming 'unbounded' is always good for system performance.",
+    "collocations": [
+      "unbounded queue",
+      "unbounded buffer",
+      "unbounded search"
+    ]
+  }
+]

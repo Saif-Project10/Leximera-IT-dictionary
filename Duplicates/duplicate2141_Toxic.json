@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Toxic",
+    "meaning": "Harmful, destructive, or detrimental to a system or team culture",
+    "shortMeaning": "harmful",
+    "example": "The developer had a toxic attitude that ruined team morale.",
+    "example2": "A toxic build environment can cause project failure.",
+    "example3": "We must remove toxic dependencies from the code.",
+    "Explanation": "In IT, 'toxic' is used figuratively to describe either software dependencies that cause constant bugs or, more commonly, team members whose behavior is destructive to productivity and morale. It implies something that is poisoning a productive environment. While the literal meaning is 'poisonous', the usage in the workplace refers to social or technical 'poison'. Using it for a person is quite serious and reflects poor performance or professional behavior. It is a strong word that should be used carefully.",
+    "synonyms": [
+      "harmful",
+      "destructive",
+      "poisonous"
+    ],
+    "antonyms": [
+      "healthy",
+      "productive",
+      "supportive"
+    ],
+    "nounForm": "toxicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "toxic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Team culture, code dependencies, work environment",
+    "usageTip": "Use 'toxic' sparingly, as it is a strong criticism.",
+    "commonMistake": "Calling a hard worker 'toxic' just because they are demanding.",
+    "collocations": [
+      "toxic environment",
+      "toxic culture",
+      "toxic dependency"
+    ]
+  },
+  {
+    "word": "Toxic",
+    "meaning": "Harmful, poisonous, or destructive to a system or environment",
+    "shortMeaning": "destructive",
+    "example": "The team suffered from a toxic work culture.",
+    "example2": "Toxic comments in the forums are being moderated.",
+    "example3": "We must remove toxic dependencies from the codebase.",
+    "Explanation": "The word 'toxic' is used metaphorically in IT to describe elements that degrade the health of a codebase, a team, or an environment. In code, a 'toxic' library or dependency is one that causes bugs or security issues. In a workplace, a 'toxic' environment discourages productivity and creativity. It signifies a negative, corrupting influence that needs to be addressed or removed. It is a strong word that implies a need for urgent cleanup or cultural change.",
+    "synonyms": [
+      "harmful",
+      "destructive",
+      "poisonous"
+    ],
+    "antonyms": [
+      "healthy",
+      "supportive",
+      "beneficial"
+    ],
+    "nounForm": "toxicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "toxic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Culture, code quality, social media",
+    "usageTip": "Use 'toxic' to describe things that damage health or stability.",
+    "commonMistake": "Using 'toxic' to describe something that is just difficult.",
+    "collocations": [
+      "toxic environment",
+      "toxic dependency",
+      "toxic behavior"
+    ]
+  }
+]

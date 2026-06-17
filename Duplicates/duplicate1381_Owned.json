@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Owned",
+    "meaning": "Possessed; belonging to someone; or (slang) utterly defeated or humiliated",
+    "shortMeaning": "possessed by someone",
+    "example": "The company is owned by a large corporation.",
+    "example2": "He owned up to his mistake. (confessed)",
+    "example3": "In the debate, she totally owned her opponent.",
+    "Explanation": "'Owned' is primarily the past tense and past participle of 'own', meaning to legally possess something. It is a fundamental verb in discussions of property, business, and rights. In informal, especially online, slang, 'owned' (or 'pwned') means to be completely dominated, defeated, or embarrassed, often in a game or argument. Additionally, 'owned up' is a phrasal verb meaning to admit or confess to something. The context determines the meaning.",
+    "synonyms": [
+      "possessed",
+      "had",
+      "dominated (slang)"
+    ],
+    "antonyms": [
+      "disowned",
+      "leased",
+      "lost to"
+    ],
+    "nounForm": "owner",
+    "verbForm": "own",
+    "adjectiveForm": "owned",
+    "partOfSpeech": "verb (past tense/participle)",
+    "commonContext": "Business, property law, gaming slang, admissions",
+    "usageTip": "In formal writing, stick to the possession meaning. The slang meaning is for informal contexts only.",
+    "commonMistake": "Using the slang 'owned' in formal business or academic documents.",
+    "collocations": [
+      "privately owned",
+      "wholly owned subsidiary",
+      "publicly owned"
+    ]
+  },
+  {
+    "word": "Owned",
+    "meaning": "Possessed by someone or something",
+    "shortMeaning": "belonging to",
+    "example": "The project is owned by the engineering team.",
+    "example2": "The file is owned by the root user.",
+    "example3": "They owned the infrastructure for years.",
+    "Explanation": "To be 'owned' means that a person or entity has legal or administrative possession or responsibility for something. In IT, this refers to ownership of processes, files, or infrastructure. The base verb is 'own'. Proper ownership management is critical in security and access control. It defines who can modify, read, or delete resources. Always ensure clear ownership of system components to prevent confusion.",
+    "synonyms": [
+      "possessed",
+      "held",
+      "controlled"
+    ],
+    "antonyms": [
+      "unowned",
+      "free",
+      "open"
+    ],
+    "nounForm": "owner",
+    "verbForm": "own",
+    "adjectiveForm": "owned",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "System administration, security",
+    "usageTip": "Use 'owned by' to define resource responsibility.",
+    "commonMistake": "Ignoring the distinction between file permissions and 'ownership'.",
+    "collocations": [
+      "owned by",
+      "privately owned",
+      "resource owned"
+    ]
+  }
+]

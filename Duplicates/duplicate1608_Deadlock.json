@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Deadlock",
+    "meaning": "A situation where two or more processes are waiting for each other and cannot move",
+    "shortMeaning": "stuck state",
+    "example": "The operating system crashed because of a resource deadlock.",
+    "example2": "The two programs reached a deadlock, both waiting for the same file.",
+    "example3": "Restarting the server is one way to break a deadlock.",
+    "Explanation": "A deadlock is a specific problem in computing where two or more tasks are blocked forever. This happens when Task A is waiting for a resource held by Task B, while Task B is waiting for a resource held by Task A. Neither can proceed, and the system stops responding. It is like two people trying to cross a narrow bridge from opposite sides, and neither is willing to back up. Deadlocks are a major challenge in database management and multi-threaded programming.",
+    "synonyms": [
+      "stalemate",
+      "standstill",
+      "halt"
+    ],
+    "antonyms": [
+      "progress",
+      "resolution",
+      "throughput"
+    ],
+    "nounForm": "deadlock",
+    "verbForm": "deadlock",
+    "adjectiveForm": "deadlocked",
+    "partOfSpeech": "noun",
+    "commonContext": "Operating systems, databases, and multi-threading",
+    "usageTip": "Use 'deadlock' to describe a situation where software gets 'stuck' due to resource competition.",
+    "commonMistake": "Confusing a 'deadlock' with a slow program or an infinite loop.",
+    "collocations": [
+      "prevent a deadlock",
+      "resource deadlock",
+      "detect a deadlock"
+    ]
+  },
+  {
+    "word": "Deadlock",
+    "meaning": "A situation where two or more processes are unable to proceed because each is waiting for the other to finish",
+    "shortMeaning": "complete standstill",
+    "example": "The server stopped responding because of a database deadlock.",
+    "example2": "Poorly written code can lead to a deadlock in multi-threaded applications.",
+    "example3": "The negotiations reached a deadlock, and no progress was made.",
+    "Explanation": "In computer science, a deadlock is a specific type of error. Imagine two people each needing two keys to open a door. If Person A has Key 1 and Person B has Key 2, and neither will give theirs up until they get the other, they are in a deadlock. In software, this happens with 'resources' like memory or files. If the computer doesn't have a way to break this cycle, the program will hang or crash. Learning how to prevent and detect deadlocks is a key skill for backend and systems programmers. It requires careful management of how tasks are prioritized.",
+    "synonyms": [
+      "stalemate",
+      "standstill",
+      "impasse"
+    ],
+    "antonyms": [
+      "progress",
+      "resolution",
+      "flow"
+    ],
+    "nounForm": "deadlock",
+    "verbForm": "deadlock",
+    "adjectiveForm": "deadlocked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Operating systems, databases, and negotiations",
+    "usageTip": "Use 'deadlock' when two things are stuck waiting for each other.",
+    "commonMistake": "Confusing it with a simple 'bottleneck'; a bottleneck is a slow-down, but a deadlock is a total stop.",
+    "collocations": [
+      "resource deadlock",
+      "reach a deadlock",
+      "break the deadlock"
+    ]
+  }
+]

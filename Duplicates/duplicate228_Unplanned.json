@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Unplanned",
+    "meaning": "Not planned or thought out in advance",
+    "shortMeaning": "not planned",
+    "example": "We took an unplanned road trip for the weekend.",
+    "example2": "The unplanned expenses strained their budget.",
+    "example3": "The meeting was unplanned but very productive.",
+    "Explanation": "Unplanned simply means something that was not arranged or intended beforehand. It lacks the negative connotation that 'accident' sometimes has; an unplanned event can be positive, negative, or neutral. It emphasizes the absence of prior organization or schedule. It's a straightforward, practical word used in project management (unplanned work), travel, and daily life. While similar to 'spontaneous', 'unplanned' is more neutral and descriptive, whereas 'spontaneous' often implies a positive, impulsive energy. It's the direct opposite of 'planned' or 'scheduled'.",
+    "synonyms": [
+      "spontaneous",
+      "impromptu",
+      "unintended",
+      "ad hoc"
+    ],
+    "antonyms": [
+      "planned",
+      "scheduled",
+      "intended",
+      "deliberate"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unplanned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Travel, projects, expenses, events",
+    "usageTip": "Often used to describe positive surprises or unexpected complications.",
+    "commonMistake": "Assuming 'unplanned' always means 'bad'; it can describe a fun surprise.",
+    "collocations": [
+      "unplanned pregnancy",
+      "unplanned event",
+      "unplanned downtime"
+    ]
+  },
+  {
+    "word": "Unplanned",
+    "meaning": "Not scheduled or prepared for in advance",
+    "shortMeaning": "no schedule",
+    "example": "The system failure led to an unplanned downtime of several hours.",
+    "electric": "unplanned changes can cause significant bugs in code.",
+    "example3": "We avoid unplanned deployments to production servers.",
+    "Explanation": "Unplanned describes something that happens without preparation or scheduling. In IT management, unplanned tasks or outages are disruptive because they don't follow established processes. Unplanned downtime is especially bad because it disrupts users and can hurt productivity. While agile development tries to be flexible, unplanned changes in code during a release cycle are generally considered poor practice due to the lack of testing.",
+    "synonyms": [
+      "unexpected",
+      "unscheduled",
+      "spontaneous"
+    ],
+    "antonyms": [
+      "planned",
+      "scheduled",
+      "intended"
+    ],
+    "nounForm": "plan",
+    "verbForm": "plan",
+    "adjectiveForm": "unplanned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, system maintenance, downtime",
+    "usageTip": "Use this for events that happen without notice or scheduling.",
+    "commonMistake": "Confusing 'unplanned' with 'impossible'; it just means not prepared.",
+    "collocations": [
+      "unplanned downtime",
+      "unplanned change",
+      "unplanned outage"
+    ]
+  },
+  {
+    "word": "Unplanned",
+    "meaning": "Something that occurs without prior design, schedule, or preparation.",
+    "shortMeaning": "not scheduled",
+    "example": "The system crash was an unplanned event.",
+    "example2": "We had an unplanned meeting to fix the server issue.",
+    "example3": "Unplanned downtime can cost a company thousands.",
+    "Explanation": "The word 'unplanned' describes occurrences that happen outside of a defined schedule or project scope. In IT project management, unplanned work is a common source of delays and stress. It represents an interruption to the workflow, such as an emergency bug fix or a sudden server outage. While sometimes necessary, excessive unplanned activity indicates poor planning or instability. It is the opposite of 'scheduled' or 'premeditated' project milestones.",
+    "synonyms": [
+      "unscheduled",
+      "spontaneous",
+      "unexpected"
+    ],
+    "antonyms": [
+      "planned",
+      "scheduled",
+      "deliberate"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unplanned",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, system stability",
+    "usageTip": "Use this for work or events that disrupt the schedule.",
+    "commonMistake": "Confusing it with 'accidental', as unplanned work can be deliberate.",
+    "collocations": [
+      "unplanned downtime",
+      "unplanned work",
+      "unplanned outage"
+    ]
+  }
+]

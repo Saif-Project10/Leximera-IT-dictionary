@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Thread",
+    "meaning": "The smallest unit of execution within a computer process",
+    "shortMeaning": "execution unit",
+    "example": "The application started a new thread to download the file in the background.",
+    "example2": "Multi-threading allows a program to do several things at once.",
+    "example3": "The main thread handles the user interface updates.",
+    "Explanation": "In computing, a thread is a sequence of instructions that the CPU can execute independently. A single 'process' can have multiple threads running at the same time, sharing the same memory. This is what allows your web browser to play a video while you scroll a page simultaneously. If a thread 'freezes', it can sometimes crash the whole process. Developers use threads to make programs run faster and remain responsive to users. It is a fundamental concept in multi-tasking software.",
+    "synonyms": [
+      "execution path",
+      "sub-process",
+      "lightweight process"
+    ],
+    "antonyms": [
+      "process (in some contexts)",
+      "single-task"
+    ],
+    "nounForm": "threading",
+    "verbForm": "thread",
+    "adjectiveForm": "threaded",
+    "partOfSpeech": "noun",
+    "commonContext": "Operating systems and programming",
+    "usageTip": "Use 'multi-threading' when talking about running multiple tasks in one program.",
+    "commonMistake": "Confusing a 'thread' with a 'process'; threads share memory, while processes usually do not.",
+    "collocations": [
+      "main thread",
+      "background thread",
+      "multi-threaded application"
+    ]
+  },
+  {
+    "word": "Thread",
+    "meaning": "The smallest sequence of programmed instructions that can be managed independently by an operating system",
+    "shortMeaning": "smallest instruction execution unit",
+    "example": "The application started a separate background thread to process the heavy user image download.",
+    "example2": "If the main thread gets blocked, the web application user interface will freeze completely.",
+    "example3": "Multi-core processors are designed to run multiple code threads at the exact same time.",
+    "Explanation": "In computer operating systems and software programming, a 'thread' is a lightweight path of execution within a running process. A single application can launch multiple threads to complete distinct tasks concurrently. For example, one thread handles the visible user interface inputs while another background thread fetches large data chunks from an online API. Managing threads effectively ensures software remains highly responsive and leverages modern multi-core processor hardware.",
+    "synonyms": [
+      "execution path",
+      "lightweight process",
+      "instruction stream"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "thread",
+    "verbForm": "thread (informal concurrency action)",
+    "adjectiveForm": "threaded",
+    "partOfSpeech": "noun",
+    "commonContext": "Asynchronous programming, multi-threading architectures, and operating system scheduling",
+    "usageTip": "Use 'thread' when discussing how an application breaks down concurrent processing tasks inside system memory channels.",
+    "commonMistake": "Confusing a 'thread' with a full 'process'; threads share the same parent process memory space, whereas processes are isolated.",
+    "collocations": [
+      "main thread",
+      "background thread",
+      "multi-threaded application"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Made",
+    "meaning": "Past tense and past participle of 'make'; created or produced.",
+    "shortMeaning": "created",
+    "example": "She made a delicious cake for the party.",
+    "example2": "This table is made of solid oak.",
+    "example3": "He has made a lot of progress this year.",
+    "Explanation": "'Made' is the irregular past tense and past participle of the verb 'make'. It indicates that an act of creation, construction, or causation has been completed. It is one of the most common verbs in English. It appears in countless expressions and phrasal verbs (made up, made for, made of). As an adjective in compounds, it describes origin or composition (man-made, homemade, custom-made). Understanding 'made' is essential for talking about the past, describing how things are produced, and using the passive voice (is made).",
+    "synonyms": [
+      "created",
+      "constructed",
+      "built",
+      "formed",
+      "produced"
+    ],
+    "antonyms": [
+      "destroyed",
+      "ruined",
+      "unmade"
+    ],
+    "nounForm": "making",
+    "verbForm": "make",
+    "adjectiveForm": "made",
+    "partOfSpeech": "verb (past tense/participle) / adjective (in compounds)",
+    "commonContext": "Manufacturing, cooking, causing, past actions",
+    "usageTip": "Use 'made of' for the material something consists of (visible). Use 'made from' if the material is transformed (not visible).",
+    "commonMistake": "Confusing 'made' with 'make' in present tense sentences (e.g., 'Yesterday I make' is wrong; use 'made').",
+    "collocations": [
+      "made in",
+      "made of",
+      "made for",
+      "handmade",
+      "well-made"
+    ]
+  },
+  {
+    "word": "Made",
+    "meaning": "Created, built, or produced",
+    "shortMeaning": "created",
+    "example": "The software was made in a professional development environment.",
+    "example2": "He made several changes to the configuration file.",
+    "example3": "This database was made for high-volume storage.",
+    "Explanation": "The word 'made' is a simple, universal term for the act of creation or production. In IT, it is often replaced with more technical terms like 'developed', 'compiled', 'implemented', or 'engineered', but it remains useful for clear, direct communication. When describing how a project was put together, saying it was 'made' can be a clear way to emphasize the effort and process involved in its creation.",
+    "synonyms": [
+      "created",
+      "developed",
+      "built"
+    ],
+    "antonyms": [
+      "destroyed",
+      "removed",
+      "broken"
+    ],
+    "nounForm": "make",
+    "verbForm": "make",
+    "adjectiveForm": "made",
+    "partOfSpeech": "verb",
+    "commonContext": "General development and project work",
+    "usageTip": "Use 'made' for simple descriptions of creation.",
+    "commonMistake": "Using 'made' when a more professional term like 'implemented' is better for formal docs.",
+    "collocations": [
+      "made by",
+      "made with",
+      "made for"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Same",
+    "meaning": "Identical; not different or changed.",
+    "shortMeaning": "identical; exactly like",
+    "example": "We went to the same school.",
+    "example2": "I'll have the same as she's having.",
+    "example3": "My opinion remains the same.",
+    "Explanation": "'Same' is used to indicate that two or more things are exactly alike or are one single thing. It is almost always used with 'the' (the same). It is a fundamental word for making comparisons and stating equality. Phrases like 'all the same' and 'just the same' are common. It is a simple but essential adjective and pronoun in everyday English, used constantly to avoid repetition and to point out similarity.",
+    "synonyms": [
+      "identical",
+      "equal",
+      "equivalent",
+      "unaltered"
+    ],
+    "antonyms": [
+      "different",
+      "other",
+      "changed"
+    ],
+    "nounForm": "sameness",
+    "verbForm": "N/A",
+    "adjectiveForm": "same",
+    "partOfSpeech": "adjective, pronoun",
+    "commonContext": "Comparisons, descriptions, preferences",
+    "usageTip": "Always use 'the' before 'same' when it is an adjective (the same car) or a pronoun (I want the same).",
+    "commonMistake": "Using 'same' without 'the' (e.g., 'We have same book') which is incorrect in standard English.",
+    "collocations": [
+      "the same",
+      "all the same",
+      "at the same time",
+      "same here"
+    ]
+  },
+  {
+    "word": "Same",
+    "meaning": "Identical, not different, or one and the same.",
+    "shortMeaning": "identical",
+    "example": "The two servers have the same configuration.",
+    "example2": "We encountered the same error again.",
+    "example3": "They live in the same building as the office.",
+    "Explanation": "The word 'same' is used to identify items, people, or situations that are identical or equal. It signifies no difference in quality, quantity, or type. In programming, comparing values to see if they are the 'same' is a core operation for logic and control flows. It is a very common word in English, used to convey consistency or repetition.",
+    "synonyms": [
+      "identical",
+      "equal",
+      "equivalent"
+    ],
+    "antonyms": [
+      "different",
+      "unique",
+      "distinct"
+    ],
+    "nounForm": "sameness",
+    "verbForm": "N/A",
+    "adjectiveForm": "same",
+    "partOfSpeech": "adjective",
+    "commonContext": "General comparisons and programming logic",
+    "usageTip": "Use 'same' to point out uniformity or lack of variation.",
+    "commonMistake": "Misusing it when comparing objects that are similar but not identical.",
+    "collocations": [
+      "same time",
+      "same thing",
+      "the very same"
+    ]
+  }
+]

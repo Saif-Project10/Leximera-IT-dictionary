@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unsteady",
+    "meaning": "Not stable or consistent; prone to shaking or changing",
+    "shortMeaning": "not stable",
+    "example": "The network connection is unsteady and often drops.",
+    "example2": "He noticed an unsteady frame rate while testing the game.",
+    "example3": "Unsteady system performance makes testing very difficult.",
+    "Explanation": "Unsteady describes performance or conditions that fluctuate frequently. In IT, an unsteady connection or application performance is a serious issue because it creates an inconsistent user experience. It often results from resource contention, poor hardware, or unstable software components. Identifying the cause of unsteady behavior is a common challenge for system admins and developers who need to ensure reliability.",
+    "synonyms": [
+      "unstable",
+      "fluctuating",
+      "inconsistent"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "consistent"
+    ],
+    "nounForm": "steadiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsteady",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network performance, software stability, system monitoring",
+    "usageTip": "Use this for systems that perform inconsistently.",
+    "commonMistake": "Confusing 'unsteady' with 'down'; unsteady is still up, just fluctuating.",
+    "collocations": [
+      "unsteady connection",
+      "unsteady performance",
+      "remains unsteady"
+    ]
+  },
+  {
+    "word": "Unsteady",
+    "meaning": "Not firm, stable, or consistent in performance.",
+    "shortMeaning": "not stable",
+    "example": "The internet connection is unsteady and keeps dropping.",
+    "example2": "Unsteady frame rates can ruin a gaming experience.",
+    "example3": "The server's performance was unsteady throughout the day.",
+    "Explanation": "'Unsteady' refers to something that is wobbling or lacking consistency. In IT, this usually describes a performance or a connection that fluctuates significantly rather than staying at a steady level. If a system's speed or connectivity is unsteady, users notice it immediately. It can be caused by network congestion, hardware issues, or resource contention. It is a sign that the system is not operating at peak reliability.",
+    "synonyms": [
+      "unstable",
+      "fluctuating",
+      "inconsistent"
+    ],
+    "antonyms": [
+      "steady",
+      "stable",
+      "consistent"
+    ],
+    "nounForm": "unsteadiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsteady",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, performance tracking",
+    "usageTip": "Use this to describe fluctuating performance.",
+    "commonMistake": "Using 'unsteady' for software logic when 'inconsistent' is better.",
+    "collocations": [
+      "unsteady connection",
+      "unsteady performance",
+      "unsteady frame rate"
+    ]
+  }
+]

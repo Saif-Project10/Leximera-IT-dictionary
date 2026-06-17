@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Witness",
+    "meaning": "A person who sees an event happen, especially a crime or accident",
+    "shortMeaning": "observer",
+    "example": "The witness described the suspect to the police.",
+    "example2": "He was called to witness the signing of the contract.",
+    "example3": "There were several witnesses to the car crash.",
+    "Explanation": "A witness is someone who has first-hand knowledge of an event because they were present. In law, a witness provides testimony in court to help determine the truth. Outside of law, you can 'witness' a historic moment or a beautiful sunset. It can also be a verb, meaning 'to see' something happen. In digital security, a 'witness' might be a third-party server that confirms a transaction or a change in a database.",
+    "synonyms": [
+      "observer",
+      "onlooker",
+      "testifier"
+    ],
+    "antonyms": [
+      "participant (in some contexts)",
+      "N/A"
+    ],
+    "nounForm": "witness",
+    "verbForm": "witness",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Legal cases and everyday observations",
+    "usageTip": "You can use 'witness' as both the person (noun) and the action of seeing (verb).",
+    "commonMistake": "Confusing 'witness' with 'victim'; a witness sees the event, a victim suffers from it.",
+    "collocations": [
+      "eyewitness",
+      "expert witness",
+      "witness a crime"
+    ]
+  },
+  {
+    "word": "Witness",
+    "meaning": "To personally see an event happen, or a person who observes an occurrence or verifies a formal signature transaction",
+    "shortMeaning": "observe an event or verify a signature",
+    "example": "We could witness a massive improvement in loading speeds after optimizing the vanilla JavaScript loop array.",
+    "example2": "The security logs can witness the exact moment the server network experienced an external traffic flood.",
+    "example3": "You need a trusted colleague to witness the signing of the software freelance project contract document.",
+    "Explanation": "The word 'witness' operates as both an observation verb and a legal verification noun. Metaphorically in IT systems, diagnostic logging scripts, tracking dashboards, and data analytics tools serve to witness and record runtime behaviors, memory spikes, or successful system compilation tasks. Legally and professionally, a physical witness observes contract handshakes or security authorizations to verify authenticity, ensuring that agreements between design groups and enterprise clients are properly verified.",
+    "synonyms": [
+      "observe",
+      "behold",
+      "testify",
+      "spectator / verifier"
+    ],
+    "antonyms": [
+      "miss",
+      "ignore",
+      "overlook"
+    ],
+    "nounForm": "witness / testimony",
+    "verbForm": "witness",
+    "adjectiveForm": "witnessed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Observing performance changes, logging system history tracks, and signing formal freelance engineering agreements",
+    "usageTip": "Use 'witness' as a verb when describing seeing an event occur, or as a noun for a person confirming a document signature.",
+    "commonMistake": "Using 'witness' as a technical variable string name; it should be preserved for descriptive sentences, logs, or legal descriptions.",
+    "collocations": [
+      "witness an improvement",
+      "act as a witness",
+      "witness the transaction signature"
+    ]
+  }
+]

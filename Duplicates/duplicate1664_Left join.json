@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Left join",
+    "meaning": "A database operation that returns all records from the left table and the matched records from the right table.",
+    "shortMeaning": "LEFT OUTER JOIN",
+    "example": "A left join between 'Customers' and 'Orders' will show all customers, even if they haven't placed an order.",
+    "example2": "Use a left join when you don't want to lose data from your primary table.",
+    "example3": "If there is no match in the right table, the result will show NULL for those columns.",
+    "Explanation": "A Left Join (also called Left Outer Join) is a common SQL command. It ensures that every single row from the first table mentioned is included in the output. If the second table has a matching row, it is added. If not, the computer just puts 'NULL' (empty) in those spots. This is very useful for finding 'missing' relationships. For example, if you want a list of all students and their exam scores, but some students haven't taken the exam yet, a left join keeps those students in the list.",
+    "synonyms": [
+      "left outer join"
+    ],
+    "antonyms": [
+      "right join",
+      "inner join"
+    ],
+    "nounForm": "left join",
+    "verbForm": "left join",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Database queries and SQL",
+    "usageTip": "Always use a left join if you want a 'complete' list from your main table.",
+    "commonMistake": "Forgetting that 'left' refers to the table listed before the JOIN keyword in the code.",
+    "collocations": [
+      "perform a left join",
+      "left join syntax",
+      "SQL left join"
+    ]
+  },
+  {
+    "word": "Left join",
+    "meaning": "A database operation that returns all records from the left table and matched records from the right table",
+    "shortMeaning": "SQL left-side merge",
+    "example": "I used a left join to see all customers, even those who haven't placed an order.",
+    "example2": "A left join will return NULL for the right table if there is no match.",
+    "example3": "The report requires a left join between the 'Employees' and 'Projects' tables.",
+    "Explanation": "In SQL (Structured Query Language), a 'Left Join' is a way to combine rows from two tables based on a related column. The 'left' table is the one written first in the code. This type of join is special because it keeps every single row from the left table. If there is a match in the 'right' table, it shows that data too. If there is no match, the columns for the right table will simply show 'NULL'. It is very useful for finding missing information or generating complete lists that include items with no associated data.",
+    "synonyms": [
+      "left outer join",
+      "N/A",
+      "N/A"
+    ],
+    "antonyms": [
+      "right join",
+      "inner join",
+      "full join"
+    ],
+    "nounForm": "left join",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb (action)",
+    "commonContext": "Databases, SQL Programming, Data Analysis",
+    "usageTip": "Use a 'Left Join' when you want to make sure you don't lose any data from your primary (left) table.",
+    "commonMistake": "Swapping the table order; in a left join, the order of the tables completely changes the result.",
+    "collocations": [
+      "SQL left join",
+      "perform a left join",
+      "left join on column"
+    ]
+  }
+]

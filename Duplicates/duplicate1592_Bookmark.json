@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Bookmark",
+    "meaning": "A saved link to a specific website or location in a document for quick access later",
+    "shortMeaning": "saved link",
+    "example": "I created a bookmark for the documentation page so I can find it easily.",
+    "example2": "You can organize your bookmarks into folders in your browser.",
+    "example3": "The PDF reader allows you to add a bookmark to the current page.",
+    "Explanation": "A bookmark is a simple but essential tool in web browsers and document readers. It functions as a digital pointer to a Uniform Resource Locator (URL) or a specific page number. When a user 'bookmarks' a site, the browser stores the title and the address in a local database. This saves the user from having to remember or re-type long web addresses. Most modern browsers allow 'bookmark syncing' across different devices, so your saved links on your phone appear on your laptop. In code editors, bookmarks are used to jump between specific lines of code quickly.",
+    "synonyms": [
+      "favorite",
+      "saved link",
+      "shortcut"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "bookmark",
+    "verbForm": "bookmark",
+    "adjectiveForm": "bookmarked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing and document management",
+    "usageTip": "Use 'bookmark' as a verb when you want to save a page for later.",
+    "commonMistake": "Thinking bookmarks are stored on the website; they are usually stored in your specific browser profile.",
+    "collocations": [
+      "browser bookmark",
+      "add a bookmark",
+      "bookmark manager"
+    ]
+  },
+  {
+    "word": "Bookmark",
+    "meaning": "To save a website address so you can find it easily later",
+    "shortMeaning": "save a web link",
+    "example": "You should bookmark this documentation page so you can refer to it while coding.",
+    "example2": "I have a bookmark folder for all my favorite design inspiration sites.",
+    "example3": "In a physical book, a bookmark helps you remember which page you were reading.",
+    "Explanation": "In web browsers, a bookmark is a stored shortcut to a URL. It allows users to return to a site without typing the address. Modern browsers allow you to sync bookmarks across your phone and laptop. In PDF readers, 'bookmarks' act as a table of contents, allowing you to jump to different chapters. As a verb, it means the act of saving that link. It is a fundamental tool for organizing information on the internet.",
+    "synonyms": [
+      "favorite",
+      "save link",
+      "mark"
+    ],
+    "antonyms": [
+      "remove",
+      "unmark"
+    ],
+    "nounForm": "bookmark",
+    "verbForm": "bookmark",
+    "adjectiveForm": "bookmarked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web browsing, PDF reading, physical books",
+    "usageTip": "Organize your bookmarks into folders like 'Work', 'Learn', and 'Social' to stay productive.",
+    "commonMistake": "Bookmarking too many pages and never looking at them again (this is called 'bookmark hoarding').",
+    "collocations": [
+      "add a bookmark",
+      "bookmark manager",
+      "sync bookmarks"
+    ]
+  }
+]

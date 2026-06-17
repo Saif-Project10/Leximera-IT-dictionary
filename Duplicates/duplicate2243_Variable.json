@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Variable",
+    "meaning": "Something that can change or vary in amount or state.",
+    "shortMeaning": "something that changes",
+    "example": "The loop uses a counter variable to track progress.",
+    "example2": "Temperature is an important variable in this experiment.",
+    "example3": "The results depend on several key variables.",
+    "Explanation": "A variable is a value that can change. In programming, a variable is a named storage location that holds data, which can be modified during the execution of a program. It is one of the most fundamental concepts in coding. Variables allow software to be dynamic and respond to different inputs. Understanding how to declare, assign, and manipulate variables is essential for every developer. It is the building block of data logic.",
+    "synonyms": [
+      "changing",
+      "adjustable",
+      "parameter"
+    ],
+    "antonyms": [
+      "constant",
+      "fixed",
+      "stable"
+    ],
+    "nounForm": "variable",
+    "verbForm": "vary",
+    "adjectiveForm": "variable",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Programming, mathematics, science",
+    "usageTip": "Use this for anything that is not constant.",
+    "commonMistake": "Confusing a variable with a constant.",
+    "collocations": [
+      "global variable",
+      "set a variable",
+      "key variable"
+    ]
+  },
+  {
+    "word": "Variable",
+    "meaning": "A value or element that can change or be changed.",
+    "shortMeaning": "changing element",
+    "example": "The function uses a variable to store user input.",
+    "example2": "Speed is a key variable in this calculation.",
+    "example3": "You must define the variable before using it.",
+    "Explanation": "A 'variable' is one of the most fundamental concepts in computer science. It is a storage location paired with an associated name that contains a known or unknown quantity of information. Variables are used to store data that needs to be accessed, modified, or updated during the execution of a program. Understanding how to declare, assign, and manage variables is the first step in learning any programming language. They are the building blocks of data manipulation.",
+    "synonyms": [
+      "parameter",
+      "factor",
+      "placeholder"
+    ],
+    "antonyms": [
+      "constant",
+      "fixed",
+      "static"
+    ],
+    "nounForm": "variable",
+    "verbForm": "vary",
+    "adjectiveForm": "variable",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Programming and mathematics",
+    "usageTip": "Use 'variable' for values that change during code execution.",
+    "commonMistake": "Confusing 'variable' with 'constant'.",
+    "collocations": [
+      "define variable",
+      "global variable",
+      "local variable"
+    ]
+  }
+]

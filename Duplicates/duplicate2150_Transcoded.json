@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Transcoded",
+    "meaning": "Converted from one digital encoding format to another",
+    "shortMeaning": "encoded again",
+    "example": "The video was transcoded to a more compressed format.",
+    "example2": "The server automatically transcoded the audio for the web player.",
+    "example3": "We transcoded the files to ensure compatibility with mobile devices.",
+    "Explanation": "Transcoding is the process of changing a digital file from one format to another, like converting a large raw video file into a smaller MP4 file. This is very common in streaming media where different devices require different formats or bitrates. It involves decoding the original data and re-encoding it into a new stream. It is a resource-intensive process often handled by specialized media servers. It is essential for web compatibility across different browsers and screens.",
+    "synonyms": [
+      "converted",
+      "re-encoded",
+      "transformed"
+    ],
+    "antonyms": [
+      "raw",
+      "original"
+    ],
+    "nounForm": "transcoding",
+    "verbForm": "transcode",
+    "adjectiveForm": "transcoded",
+    "partOfSpeech": "verb",
+    "commonContext": "Video streaming, audio processing",
+    "usageTip": "Use this when talking about changing media formats for compatibility.",
+    "commonMistake": "Confusing transcoding with simple file renaming.",
+    "collocations": [
+      "transcoded video",
+      "transcoded file",
+      "batch transcoding"
+    ]
+  },
+  {
+    "word": "Transcoded",
+    "meaning": "Converted from one digital format or encoding to another",
+    "shortMeaning": "converted format",
+    "example": "The video was transcoded to a more efficient file format.",
+    "example2": "We transcoded the audio files for better compatibility.",
+    "example3": "Large media files are often transcoded for streaming.",
+    "Explanation": "The word 'transcoded' refers to the process of converting a digital file from one codec or format to another. This is standard in media IT, such as when uploading a video that must be converted into multiple resolutions (e.g., 4K to 1080p). Transcoding changes the file size, quality, and compatibility. It is a resource-intensive process that can be performed in real-time for live streaming or in batch for on-demand content distribution. It is vital for digital media workflows.",
+    "synonyms": [
+      "converted",
+      "re-encoded",
+      "transformed"
+    ],
+    "antonyms": [
+      "original",
+      "raw"
+    ],
+    "nounForm": "transcoding",
+    "verbForm": "transcode",
+    "adjectiveForm": "transcoded",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Media, video streaming, file handling",
+    "usageTip": "Use when converting media from one format to another.",
+    "commonMistake": "Confusing 'transcoded' with 'compressed'.",
+    "collocations": [
+      "transcoded video",
+      "transcoded file",
+      "batch transcoded"
+    ]
+  }
+]

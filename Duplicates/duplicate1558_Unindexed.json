@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Unindexed",
+    "meaning": "Not included in an index; in computing, not organized for fast search and retrieval",
+    "shortMeaning": "not in an index",
+    "example": "The book's appendix is unindexed, making it hard to find specific terms.",
+    "example2": "Searching through unindexed data is very slow.",
+    "example3": "The database column was unindexed, causing poor query performance.",
+    "Explanation": "The adjective 'unindexed' has meanings in publishing and computing. In publishing, it means not listed in the index of a book. In computing, it is a crucial performance concept: data (like a database column) that is unindexed has not been given a separate, optimized data structure (an index) to speed up searches. Queries on unindexed data require a full scan, which is computationally expensive and slow. Database administrators work to identify and index critical columns. The term is technical but fundamental for anyone dealing with large datasets, search engines, or database optimization. It describes a state that is typically suboptimal for retrieval.",
+    "synonyms": [
+      "unlisted (in publishing)",
+      "non-indexed",
+      "un-cataloged"
+    ],
+    "antonyms": [
+      "indexed",
+      "cataloged",
+      "listed"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "index",
+    "adjectiveForm": "unindexed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management, publishing, information retrieval",
+    "usageTip": "In tech, it's a common cause of performance issues that developers need to fix.",
+    "commonMistake": "Thinking an unindexed database can't be searched; it can, but slowly.",
+    "collocations": [
+      "unindexed database",
+      "unindexed column",
+      "unindexed pages",
+      "unindexed data"
+    ]
+  },
+  {
+    "word": "Unindexed",
+    "meaning": "Not stored in a searchable database index",
+    "shortMeaning": "not searchable",
+    "example": "The large table was slow because the column was unindexed.",
+    "example2": "Searching through unindexed files takes much longer.",
+    "example3": "We need to index this field to improve performance.",
+    "Explanation": "An index in a database is like an index in a book; it allows the system to find data instantly without scanning every page. 'Unindexed' data forces the database to look at every single record to find what it needs, which is extremely slow. In IT, identifying unindexed columns is a primary step in 'query optimization' (making searches faster). If your application feels sluggish when searching, an unindexed database field is often the culprit. It is a critical performance concept in database administration.",
+    "synonyms": [
+      "unsearched",
+      "unsorted",
+      "unmapped"
+    ],
+    "antonyms": [
+      "indexed",
+      "searchable",
+      "optimized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unindexed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management, performance optimization",
+    "usageTip": "Use this to explain why a search is performing slowly.",
+    "commonMistake": "Indexing every single column (which slows down writes).",
+    "collocations": [
+      "unindexed column",
+      "unindexed data",
+      "query on unindexed field"
+    ]
+  },
+  {
+    "word": "Unindexed",
+    "meaning": "Data that has not been processed for quick searching.",
+    "shortMeaning": "not searchable",
+    "example": "Searching through unindexed records is very slow.",
+    "example2": "The database needs an index, otherwise, it remains unindexed.",
+    "example3": "Large unindexed files take longer to load.",
+    "Explanation": "In database systems, indexing creates a shortcut to data to make queries faster. 'Unindexed' data means no such shortcut exists, forcing the computer to scan every row to find a match. This is extremely inefficient for large datasets. IT professionals must ensure that frequently searched columns are indexed to maintain high performance. An unindexed table will eventually cause a website or application to slow down significantly as it grows in size.",
+    "synonyms": [
+      "not indexed",
+      "unordered"
+    ],
+    "antonyms": [
+      "indexed",
+      "organized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "index",
+    "adjectiveForm": "unindexed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management and performance tuning",
+    "usageTip": "Use this to explain slow search performance.",
+    "commonMistake": "Indexing every single column, which creates unnecessary overhead.",
+    "collocations": [
+      "unindexed column",
+      "unindexed data",
+      "unindexed search"
+    ]
+  }
+]

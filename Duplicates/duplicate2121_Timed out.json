@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Timed out",
+    "meaning": "Exceeded the time limit allowed for a process",
+    "shortMeaning": "time limit exceeded",
+    "example": "The connection timed out due to slow response.",
+    "example2": "The user session timed out after ten minutes.",
+    "example3": "The server request timed out.",
+    "Explanation": "Timed out happens when a process or connection exceeds the pre-defined limit for completion. It is a protective mechanism that prevents systems from waiting forever for a response that might never come. This is common in network requests, database queries, and user logins. Once a process times out, it is usually terminated to free up resources. Troubleshooting often involves increasing the timeout limit if the operation is slow but legitimate.",
+    "synonyms": [
+      "expired",
+      "terminated"
+    ],
+    "antonyms": [
+      "active",
+      "connected"
+    ],
+    "nounForm": "timeout",
+    "verbForm": "time out",
+    "adjectiveForm": "timed-out",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Networking, sessions, databases",
+    "usageTip": "Use to explain why a request failed.",
+    "commonMistake": "Confusing timeout with a server crash.",
+    "collocations": [
+      "timed out connection",
+      "request timed out",
+      "session timed out"
+    ]
+  },
+  {
+    "word": "Timed out",
+    "meaning": "Stopped because a set period of time passed without activity",
+    "shortMeaning": "expired",
+    "example": "The server request timed out due to slow response.",
+    "example2": "The session timed out for security reasons.",
+    "example3": "Make sure the process doesn't time out during backup.",
+    "Explanation": "A 'timeout' is an error or state occurring when a system stops waiting for a response that takes too long. This is a common mechanism in networking, database queries, and user sessions. It protects the system from hanging indefinitely if a connection is lost or a process fails. It is one of the most frequent errors reported in web development. Understanding how to adjust timeout settings is crucial for managing unstable connections or slow-running background jobs.",
+    "synonyms": [
+      "expired",
+      "terminated",
+      "interrupted"
+    ],
+    "antonyms": [
+      "connected",
+      "active",
+      "responding"
+    ],
+    "nounForm": "timeout",
+    "verbForm": "time out",
+    "adjectiveForm": "timed-out",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Networking, user authentication, database queries",
+    "usageTip": "Use to explain why a request failed or a session closed.",
+    "commonMistake": "Confusing 'timed out' (the event) with a 'hang' (the system freezing).",
+    "collocations": [
+      "timed out error",
+      "connection timed out",
+      "session timed out"
+    ]
+  }
+]

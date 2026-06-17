@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Prepend",
+    "meaning": "To add something to the beginning of something else, especially text or data.",
+    "shortMeaning": "add to the beginning",
+    "example": "You need to prepend the country code to the phone number.",
+    "example2": "The system automatically prepends a timestamp to each log entry.",
+    "example3": "Prepend 'http://' to the website address.",
+    "Explanation": "This is a technical verb, primarily used in computing and data processing. It is the opposite of 'append' (add to the end). You prepend text, characters, or data to the start of a string, file, or list. The word is a blend of 'pre-' (before) and 'append'. It is a concise and precise term in programming, scripting, and IT operations. While not common in everyday English, it is standard jargon in tech fields.",
+    "synonyms": [
+      "add to the beginning",
+      "prefix (as a verb)",
+      "attach at the start"
+    ],
+    "antonyms": [
+      "append",
+      "add to the end"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "prepend",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, data entry, scripting, telecommunications",
+    "usageTip": "Use 'prepend' in technical contexts when you need to specify adding something to the start of a data sequence.",
+    "commonMistake": "Using 'prepend' in non-technical conversation where 'put at the beginning' would be clearer.",
+    "collocations": [
+      "prepend to",
+      "prepend the string",
+      "automatically prepend"
+    ]
+  },
+  {
+    "word": "Prepend",
+    "meaning": "To add something to the very beginning of a string, list, or file",
+    "shortMeaning": "add to the front",
+    "example": "In Javascript, you can prepend a new item to an HTML list.",
+    "example2": "We will prepend the current date to every log file name.",
+    "example3": "Make sure to prepend 'https://' to the URL before saving it.",
+    "Explanation": "Prepend is a technical word that is the opposite of 'append.' While append means adding to the end, prepend means adding to the start. For example, if you have the word 'World' and you prepend 'Hello ', you get 'Hello World.' This is very common in programming when you want to put a new message at the top of a list so the user sees it first. It is also used in file management and data processing. Even though it is a common technical term, it is rarely used in casual, everyday conversation.",
+    "synonyms": [
+      "prefix",
+      "add to front",
+      "attach at start"
+    ],
+    "antonyms": [
+      "append",
+      "add to end"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "prepend",
+    "adjectiveForm": "prepended",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, Data Management, and Text Editing",
+    "usageTip": "Use 'prepend' when you are working with code or data and want to add something at the beginning.",
+    "commonMistake": "Using 'append' when you actually meant to add something to the start.",
+    "collocations": [
+      "prepend to list",
+      "prepend string",
+      "array prepend"
+    ]
+  }
+]

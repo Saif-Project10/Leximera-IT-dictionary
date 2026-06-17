@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Shrunken",
+    "meaning": "Made smaller in size or reduced in scale.",
+    "shortMeaning": "reduced in size",
+    "example": "The shrunken icon is no longer visible on the screen.",
+    "example2": "We have a shrunken version of the database for testing.",
+    "example3": "The resolution was shrunken to fit the mobile device.",
+    "Explanation": "The word 'shrunken' describes something that has been significantly reduced in size, scale, or scope. In computing, this often refers to images, UI elements, or data sets that have been downscaled. It implies a reduction that might sometimes compromise quality or detail. While 'shortened' refers to length, 'shrunken' specifically refers to a reduction in dimensions, volume, or overall scale. It is often used in performance optimization and responsive design.",
+    "synonyms": [
+      "reduced",
+      "downscaled",
+      "minimized"
+    ],
+    "antonyms": [
+      "expanded",
+      "enlarged",
+      "magnified"
+    ],
+    "nounForm": "shrinkage",
+    "verbForm": "shrink",
+    "adjectiveForm": "shrunken",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design, graphics, data storage",
+    "usageTip": "Use 'shrunken' to describe objects reduced in dimensions.",
+    "commonMistake": "Confusing 'shrunken' with 'compressed' (compression refers to data size).",
+    "collocations": [
+      "shrunken icon",
+      "shrunken image",
+      "shrunken version"
+    ]
+  },
+  {
+    "word": "Shrunken",
+    "meaning": "Reduced in size, value, or scope",
+    "shortMeaning": "made smaller",
+    "example": "The disk space has shrunken due to excessive logs.",
+    "example2": "The shrunken budget requires more efficiency.",
+    "example3": "The image appeared shrunken on the mobile screen.",
+    "Explanation": "The word 'shrunken' means something has become smaller than its original state. In IT, it can refer to files that have been compressed, a budget that has been reduced, or a UI element that has been minimized. It implies a loss of scale or capacity. It is a useful word when describing a change that negatively or significantly reduces the available resources or physical size.",
+    "synonyms": [
+      "reduced",
+      "contracted",
+      "minimized"
+    ],
+    "antonyms": [
+      "enlarged",
+      "expanded",
+      "grown"
+    ],
+    "nounForm": "shrinkage",
+    "verbForm": "shrink",
+    "adjectiveForm": "shrunken",
+    "partOfSpeech": "adjective",
+    "commonContext": "Budgeting, storage, UI design",
+    "usageTip": "Use 'shrunken' to describe something that has noticeably lost size.",
+    "commonMistake": "Using 'shrunken' to mean 'deleted'.",
+    "collocations": [
+      "shrunken budget",
+      "shrunken file",
+      "image shrunken"
+    ]
+  }
+]

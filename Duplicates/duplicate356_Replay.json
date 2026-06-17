@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Replay",
+    "meaning": "To play something again, such as a recording, a game, or a sequence of events. | Play again (a recording); or a replayed match or sequence",
+    "shortMeaning": "play again",
+    "example": "Let's replay the last five minutes of the game to see the goal.",
+    "example2": "The security camera footage replayed the incident in slow motion.",
+    "example3": "He kept replaying the conversation in his mind.",
+    "Explanation": "Replay means to experience or cause something to be experienced again. It can be literal, like replaying a video or a sports match. It can also be figurative, like mentally replaying a memory or event. As a noun, a 'replay' is the act of playing again or a recorded instance (instant replay). The word is central to modern media, sports, and computing (replaying a sequence of commands). It allows for review, analysis, and enjoyment of past moments. The prefix 're-' clearly indicates repetition.",
+    "synonyms": [
+      "Play Again",
+      "Play Back",
+      "Rematch (Sports)",
+      "Repeat",
+      "Rerun",
+      "Rewatch"
+    ],
+    "antonyms": [
+      "Experience Live",
+      "First Run",
+      "Live",
+      "Play For The First Time"
+    ],
+    "nounForm": "replay",
+    "verbForm": "replay",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Sports, video, audio, memories, debugging",
+    "usageTip": "Common as both a verb ('replay the tape') and a noun ('watch the replay').",
+    "commonMistake": "Using 'replay' only for videos; it can be used for audio, games, and mental thoughts.",
+    "collocations": [
+      "instant replay",
+      "replay value",
+      "replay the message"
+    ]
+  },
+  {
+    "word": "Replay",
+    "meaning": "To play a recorded video, audio clip, or sequence of data events again from the beginning",
+    "shortMeaning": "play back again",
+    "example": "The media app allows users to replay the video as many times as they want.",
+    "example2": "We can replay the recorded network logs to analyze how the system crashed.",
+    "example3": "The software test suite will replay user clicks to check for bugs automatically.",
+    "Explanation": "The word 'Replay' means playing back a recorded sequence, stream of data, or media asset. In technical troubleshooting and security auditing, replaying data inputs or network traffic logs helps engineers recreate complex errors in a safe environment. This allows them to study how a system handles specific actions without testing on live users. In consumer apps, a replay feature is standard for video or music players. It implies running an identical, previously captured series of events over again.",
+    "synonyms": [
+      "playback",
+      "re-execute",
+      "rerun"
+    ],
+    "antonyms": [
+      "pause",
+      "stop",
+      "N/A"
+    ],
+    "nounForm": "replay",
+    "verbForm": "replay",
+    "adjectiveForm": "replayed",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Media players, software automated testing, security log analysis",
+    "usageTip": "Use 'replay' when you are running a recorded track or data sequence exactly as it originally occurred.",
+    "commonMistake": "Confusing it with a 'replay attack', which is a specific malicious security threat where hackers intercept and reuse valid data.",
+    "collocations": [
+      "replay a video",
+      "replay network logs",
+      "automatic replay"
+    ]
+  }
+]

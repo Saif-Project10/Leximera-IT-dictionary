@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unrelated",
+    "meaning": "Not connected or associated; having no relationship.",
+    "shortMeaning": "not connected",
+    "example": "The two crimes appear to be completely unrelated.",
+    "example2": "He brought up an unrelated topic during the meeting.",
+    "example3": "They have the same last name but are unrelated.",
+    "Explanation": "Unrelated is an adjective meaning lacking any kind of connection, whether familial, logical, causal, or thematic. It is used to clarify that two things are separate and should not be considered together. This is important in analysis, conversation, and investigation to avoid false associations. The prefix 'un-' negates 'related.' A common mistake is using it to mean 'irrelevant'; something can be related (connected) but still irrelevant to the point. This word is a tool for precision, helping to isolate variables in science, separate issues in debate, and clarify family trees in genealogy.",
+    "synonyms": [
+      "unconnected",
+      "separate",
+      "dissociated",
+      "independent",
+      "distinct"
+    ],
+    "antonyms": [
+      "related",
+      "connected",
+      "associated",
+      "linked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Discussions, investigations, data analysis, and family history.",
+    "usageTip": "Use 'unrelated to' to explicitly state that something has no bearing or connection to the subject at hand.",
+    "commonMistake": "Saying 'non-related' – 'unrelated' is the standard and more common form.",
+    "collocations": [
+      "completely unrelated",
+      "seemingly unrelated",
+      "unrelated incident"
+    ]
+  },
+  {
+    "word": "Unrelated",
+    "meaning": "Having no connection to the subject at hand",
+    "shortMeaning": "not relevant",
+    "example": "The logs contain unrelated entries that make troubleshooting difficult.",
+    "example2": "These two modules are completely unrelated.",
+    "example3": "Avoid mixing unrelated code in a single file.",
+    "Explanation": "Unrelated refers to information, code, or modules that don't have a functional connection to the current task. In complex projects, finding unrelated code mixed into the same module causes confusion and maintenance problems. Keeping unrelated components separate is a key principle of good modular design. When you encounter unrelated errors or data in logs, it is often a sign of poor system organization.",
+    "synonyms": [
+      "irrelevant",
+      "unconnected",
+      "distinct"
+    ],
+    "antonyms": [
+      "related",
+      "relevant",
+      "connected"
+    ],
+    "nounForm": "relation",
+    "verbForm": "relate",
+    "adjectiveForm": "unrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Code organization, logging, project management",
+    "usageTip": "Use this to isolate or remove non-essential information.",
+    "commonMistake": "Trying to force a relationship between two unrelated things.",
+    "collocations": [
+      "unrelated entries",
+      "unrelated modules",
+      "completely unrelated"
+    ]
+  },
+  {
+    "word": "Unrelated",
+    "meaning": "Not connected to the subject, matter, or topic at hand.",
+    "shortMeaning": "no connection",
+    "example": "These files are completely unrelated to the main project.",
+    "example2": "The bug was caused by an unrelated library update.",
+    "example3": "Avoid mixing unrelated functions in the same module.",
+    "Explanation": "'Unrelated' is used when items, processes, or data have no logical or functional connection. In modular programming, keeping modules 'unrelated' to each other ensures that changing one does not break the other (low coupling). If an error occurs that seems unrelated to the code you are working on, it often suggests a problem elsewhere in the system. Identifying unrelated components is a key part of organizing and cleaning up software architectures.",
+    "synonyms": [
+      "irrelevant",
+      "disconnected",
+      "separate"
+    ],
+    "antonyms": [
+      "related",
+      "connected",
+      "relevant"
+    ],
+    "nounForm": "unrelatedness",
+    "verbForm": "N/A",
+    "adjectiveForm": "unrelated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Modular design, debugging, documentation",
+    "usageTip": "Use this to describe things that don't belong together.",
+    "commonMistake": "Assuming that things are unrelated when they might share a common dependency.",
+    "collocations": [
+      "unrelated files",
+      "unrelated bug",
+      "unrelated data"
+    ]
+  }
+]

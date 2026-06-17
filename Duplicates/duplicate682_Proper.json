@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Proper",
+    "meaning": "Correct or suitable for a particular purpose or occasion.",
+    "shortMeaning": "correct; suitable",
+    "example": "Please use the proper tools for the job.",
+    "example2": "It's important to eat a proper meal.",
+    "example3": "He's not a proper doctor; he's a veterinarian.",
+    "Explanation": "Proper means conforming to established standards of behavior or manner; appropriate. It can mean correct in behavior ('proper conduct'), real or genuine ('a proper house, not a hut'), or complete/thorough ('a proper investigation'). In British English, it's used for emphasis ('a proper mess'). It's a versatile adjective that sets a benchmark for what is acceptable or right. It often carries a sense of social or functional correctness. The noun form is 'propriety'. It's a common word in both formal and informal English.",
+    "synonyms": [
+      "correct",
+      "appropriate",
+      "suitable",
+      "right",
+      "real"
+    ],
+    "antonyms": [
+      "improper",
+      "inappropriate",
+      "wrong",
+      "unsuitable"
+    ],
+    "nounForm": "propriety",
+    "verbForm": "N/A",
+    "adjectiveForm": "proper",
+    "partOfSpeech": "adjective",
+    "commonContext": "Etiquette, language, tools, meals, names",
+    "usageTip": "Often placed before the noun it describes (the proper way, a proper answer).",
+    "commonMistake": "Confusing 'proper' with 'appropriate'. They are similar, but 'proper' can imply a stronger sense of correctness or even moral rightness.",
+    "collocations": [
+      "proper name",
+      "proper noun",
+      "proper way",
+      "perfectly proper"
+    ]
+  },
+  {
+    "word": "Proper",
+    "meaning": "Correct, suitable, or according to standards",
+    "shortMeaning": "correct/suitable",
+    "example": "Ensure you have the proper permissions before accessing the database.",
+    "example2": "The developer did not follow the proper coding guidelines.",
+    "example3": "A proper backup strategy is vital for data safety.",
+    "Explanation": "The word 'proper' is used to define something that follows established rules, protocols, or best practices. In an IT environment, 'proper' setup, configuration, or documentation is essential for reliability and security. It suggests that there is a standard way of doing things and that this way is being adhered to. It is a highly positive and professional term that implies competence and careful attention to technical standards and requirements.",
+    "synonyms": [
+      "correct",
+      "appropriate",
+      "standard"
+    ],
+    "antonyms": [
+      "improper",
+      "incorrect",
+      "unsuitable"
+    ],
+    "nounForm": "propriety",
+    "verbForm": "N/A",
+    "adjectiveForm": "proper",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding standards, security, configurations",
+    "usageTip": "Use 'proper' to indicate that a task was completed according to formal requirements.",
+    "commonMistake": "Using 'proper' too generally without defining what the 'proper' standard actually is.",
+    "collocations": [
+      "proper configuration",
+      "proper documentation",
+      "proper procedure"
+    ]
+  }
+]

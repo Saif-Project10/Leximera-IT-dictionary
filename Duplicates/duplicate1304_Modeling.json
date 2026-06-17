@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Modeling",
+    "meaning": "The act of creating a simplified representation (a model) of a system or concept to understand, analyze, or simulate it. | The work of a fashion model; the act of creating a representation or simulation of something.",
+    "shortMeaning": "creating a representation",
+    "example": "3D modeling is used to create characters for video games.",
+    "example2": "Financial modeling helps predict a company's future performance.",
+    "example3": "Object-oriented programming involves modeling real-world entities as software objects.",
+    "Explanation": "Modeling is a fundamental activity in many fields, from software engineering to science to design. It involves abstraction—focusing on the essential features of something while ignoring irrelevant details. A good model accurately captures the behavior and relationships of the thing it represents, allowing for experimentation, prediction, and communication without the cost or risk of manipulating the real thing. In software, we model data, processes, and business domains. The spelling 'modeling' is American English; British English uses 'modelling'.",
+    "synonyms": [
+      "Designing",
+      "Mapping",
+      "Posing",
+      "Representing",
+      "Simulating"
+    ],
+    "antonyms": [
+      "Dismantling",
+      "Implementing (The Real Thing)",
+      "N/A"
+    ],
+    "nounForm": "model",
+    "verbForm": "model",
+    "adjectiveForm": "modeled",
+    "partOfSpeech": "verb (gerund/noun)",
+    "commonContext": "Software design (UML), data science, engineering, architecture, finance",
+    "usageTip": "Use 'modeling' when describing the design and planning phase before building the actual system.",
+    "commonMistake": "Spelling confusion between 'modeling' (AmE) and 'modelling' (BrE).",
+    "collocations": [
+      "data modeling",
+      "process modeling",
+      "object modeling",
+      "accurate modeling"
+    ]
+  },
+  {
+    "word": "Modeling",
+    "meaning": "The activity of creating models for analysis, simulation, or design",
+    "shortMeaning": "creating models",
+    "example": "Data modeling is a crucial part of database design.",
+    "example2": "She enjoys 3D modeling for games.",
+    "example3": "He is learning advanced financial modeling.",
+    "Explanation": "The word 'modeling' refers to the process of creating a model. This can be conceptual (diagrams), mathematical (formulas), or physical/digital (3D objects). It is an iterative process of defining, building, and refining a representation. In IT, modeling covers everything from data structures (database modeling) to system architecture (UML modeling). It is the foundation for almost all systematic development and problem-solving.",
+    "synonyms": [
+      "simulation",
+      "representation",
+      "design"
+    ],
+    "antonyms": [
+      "implementation",
+      "execution"
+    ],
+    "nounForm": "modeling",
+    "verbForm": "model",
+    "adjectiveForm": "modeling",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software engineering, database design, 3D graphics",
+    "usageTip": "Use to describe the process of creating models.",
+    "commonMistake": "Focusing only on the tool rather than the modeling process itself.",
+    "collocations": [
+      "data modeling",
+      "3D modeling",
+      "modeling process"
+    ]
+  }
+]

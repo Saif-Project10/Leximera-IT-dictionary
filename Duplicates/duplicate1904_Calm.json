@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Calm",
+    "meaning": "Peaceful, quiet, free from agitation, or operating smoothly without errors or stress",
+    "shortMeaning": "peaceful and quiet",
+    "example": "The project manager remained calm despite the critical server crash.",
+    "example2": "After a hectic deployment week, the support team finally had a calm day.",
+    "example3": "Keep your user interface calm and clean to avoid overwhelming the audience.",
+    "Explanation": "The word 'Calm' describes a state of peace, stillness, and lack of chaos. In professional IT environments, it refers to a workplace atmosphere where systems are running stable without emergency bugs or outages. It also describes a professional attitude during a technical crisis; staying calm helps engineers think logically and debug code effectively. Additionally, in UI/UX design, a 'calm' interface uses soft colors and minimal text to prevent user frustration.",
+    "synonyms": [
+      "peaceful",
+      "stable",
+      "serene"
+    ],
+    "antonyms": [
+      "chaotic",
+      "hectic",
+      "agitated"
+    ],
+    "nounForm": "calmness",
+    "verbForm": "calm",
+    "adjectiveForm": "calm",
+    "partOfSpeech": "adjective / noun / verb",
+    "commonContext": "Workplace communication, UI/UX design philosophy, incident management",
+    "usageTip": "Use 'calm' to describe a stable system state or a professional mindset during an outage.",
+    "commonMistake": "Using 'calm' to mean 'slow'; a system can be running very fast while remaining calm and error-free.",
+    "collocations": [
+      "remain calm",
+      "calm environment",
+      "calm interface"
+    ]
+  },
+  {
+    "word": "Calm",
+    "meaning": "To make something or someone peaceful, quiet, or free from agitation or disturbance",
+    "shortMeaning": "make peaceful or free from agitation",
+    "example": "The manager stayed calm during the system outage to keep the team focused.",
+    "example2": "She calmed her nerves before presenting the technical report to the board.",
+    "example3": "The support agent's calm tone helped resolve the customer's frustration quickly.",
+    "Explanation": "The word calm describes a state of being peaceful, quiet, and free from excitement or disturbance. As a verb, to calm means to bring someone or something into that state. In professional and technical contexts, maintaining calm under pressure is considered an important skill, especially during incidents, outages, or difficult client interactions. In UX and product design, calm technology refers to systems that operate without demanding unnecessary attention from users. Calm is used across everyday language, psychology, and professional communication and can describe both a state and the act of reaching that state.",
+    "synonyms": [
+      "composed",
+      "serene",
+      "tranquil"
+    ],
+    "antonyms": [
+      "agitated",
+      "anxious",
+      "panicked"
+    ],
+    "nounForm": "calmness",
+    "verbForm": "calm",
+    "adjectiveForm": "calm",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Communication, psychology, workplace behavior, UX design, conflict resolution",
+    "usageTip": "Use 'calm' to describe a composed, untroubled state or as a verb when reducing tension or agitation in a person or situation.",
+    "commonMistake": "Confusing calm with passive; a calm person can still be assertive and engaged, they are simply not reactive or agitated.",
+    "collocations": [
+      "stay calm",
+      "calm down",
+      "calm tone"
+    ]
+  }
+]

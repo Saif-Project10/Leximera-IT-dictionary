@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Hand off",
+    "meaning": "The process of transferring responsibility or a connection from one entity to another",
+    "shortMeaning": "transfer of control",
+    "example": "There was a smooth hand off between the morning and evening support teams.",
+    "example2": "Apple's 'Handoff' feature lets you start an email on your phone and finish it on your Mac.",
+    "example3": "A bad hand off can lead to lost information during a project transition.",
+    "Explanation": "In general business, a 'hand off' is when one person finishes their part of a task and gives it to the next person. In IT, this concept is used for features that sync data across devices. For example, if you are looking at a map on your smartwatch and then open your phone, the phone 'takes over' the map. This requires the two devices to communicate quickly in the background. It is also a key part of 'Project Management'—the moment when a developer hands the finished code to the testing (QA) team. A clean hand off requires good documentation and clear communication.",
+    "synonyms": [
+      "transfer",
+      "passing over",
+      "transition"
+    ],
+    "antonyms": [
+      "takeover (without permission)",
+      "retention"
+    ],
+    "nounForm": "handoff",
+    "verbForm": "hand off",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project management and cross-device software",
+    "usageTip": "Use the two-word 'hand off' as a verb and the one-word 'handoff' as a noun.",
+    "commonMistake": "Forgetting to define the state of the task before the hand off; the receiver needs to know what is done.",
+    "collocations": [
+      "smooth hand off",
+      "project hand off",
+      "automatic hand off"
+    ]
+  },
+  {
+    "word": "Hand off",
+    "meaning": "To give control or responsibility of something to another person or system",
+    "shortMeaning": "transfer control",
+    "example": "The designer will hand off the final assets to the developer.",
+    "example2": "In mobile networks, a hand off occurs when you move from one tower to another.",
+    "example3": "The manager will hand off the project to his successor tomorrow.",
+    "Explanation": "A hand off (or handoff) is the transition of a task between two parties. In the IT world, a 'Design Handoff' is a critical moment where a UI designer gives the layouts and images to a coder. In telecommunications, a handoff happens automatically as you drive while talking on the phone, moving from one cell tower's range to another without dropping the call. It requires clear communication and preparation to ensure that nothing is lost during the switch. It is a common part of every professional workflow.",
+    "synonyms": [
+      "transfer",
+      "pass over",
+      "delegate"
+    ],
+    "antonyms": [
+      "take over",
+      "retain",
+      "keep"
+    ],
+    "nounForm": "handoff",
+    "verbForm": "hand off",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb / noun",
+    "commonContext": "Project management and mobile networking",
+    "usageTip": "Create a checklist before you hand off a project to ensure the next person has everything they need.",
+    "commonMistake": "Using 'hand over' and 'hand off' interchangeably; 'hand off' is more common for tasks/signals.",
+    "collocations": [
+      "project handoff",
+      "design handoff",
+      "seamless handoff"
+    ]
+  }
+]

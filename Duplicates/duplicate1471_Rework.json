@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Rework",
+    "meaning": "To make changes to something in order to improve it or adapt it for a new purpose.",
+    "shortMeaning": "revise, redo",
+    "example": "The author had to rework the final chapter of her book.",
+    "example2": "The design was reworked based on client feedback.",
+    "example3": "They reworked the old song for a modern audience.",
+    "Explanation": "To 'rework' is a verb meaning to revise or alter something, often substantially. It implies that the original version needed improvement or was not suitable for its current purpose. It is common in creative fields (rework a draft), manufacturing (rework a defective part), and business (rework a plan). The noun form is also 'rework'. The word suggests a process of refinement and correction. It is more specific than 'change' and implies a purposeful effort to fix or update.",
+    "synonyms": [
+      "revise",
+      "redo",
+      "modify",
+      "overhaul"
+    ],
+    "antonyms": [
+      "preserve",
+      "keep",
+      "finalize"
+    ],
+    "nounForm": "rework",
+    "verbForm": "rework",
+    "adjectiveForm": "reworked",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Writing, design, engineering, manufacturing",
+    "usageTip": "Often used in the past participle as an adjective: 'a reworked version'.",
+    "commonMistake": "Confusing 'rework' with 'reword' (to change the wording). Rework is broader, involving structure or form.",
+    "collocations": [
+      "rework a plan",
+      "extensive rework",
+      "rework the code",
+      "require rework"
+    ]
+  },
+  {
+    "word": "Rework",
+    "meaning": "To extensively modify, correct, or redesign an unpolished code component or system feature to ensure it complies with required standards",
+    "shortMeaning": "redesign or correct a component",
+    "example": "The testing group discovered several structural bugs, forcing us to rework the entire application checkout logic.",
+    "example2": "You will need to rework your CSS styling sheets if the layout breaks down on mobile devices.",
+    "example3": "Instead of patching errors repeatedly, it is often better to step back and rework the foundational script.",
+    "Explanation": "The word 'rework' implies an extensive, hands-on modification phase of an existing software component, interface, or database feature. Unlike minor refactoring or polishing, a rework is needed when code functions poorly, contains major architectural flaws, or fails to meet security baselines. It involves opening up the source files, analyzing the broken logic patterns, and restructuring the system to ensure it operates reliably and meets production requirements.",
+    "synonyms": [
+      "reconstruct",
+      "re-engineer",
+      "overhaul logic"
+    ],
+    "antonyms": [
+      "leave alone",
+      "approve raw build",
+      "N/A"
+    ],
+    "nounForm": "rework",
+    "verbForm": "rework",
+    "adjectiveForm": "reworked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Bug fixing phases, quality assurance overhauls, correcting layout errors",
+    "usageTip": "Use 'rework' when describing a major, necessary overhaul of a broken or poorly written feature to bring it up to team standards.",
+    "commonMistake": "Using 'rework' to describe adding brand-new features; it specifically means correcting and rebuilding existing assets.",
+    "collocations": [
+      "rework the whole system",
+      "require significant rework",
+      "rework the code logic"
+    ]
+  }
+]

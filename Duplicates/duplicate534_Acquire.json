@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Acquire",
+    "meaning": "To buy or obtain an asset or object for oneself; to learn or develop a skill, habit, or quality.",
+    "shortMeaning": "obtain, especially by effort",
+    "example": "The company plans to acquire a smaller startup.",
+    "example2": "She acquired fluency in French after living in Paris for a year.",
+    "example3": "He acquired a taste for classical music.",
+    "Explanation": "Acquire is a more formal verb than 'get' or 'obtain.' It often implies a process of gaining something, usually through effort, transaction, or gradual development. In business, it means to purchase another company. For skills or habits, it implies learning or absorption over time. It suggests a sense of permanence or addition to one's possessions or characteristics. The noun is 'acquisition.' A common mistake is using it for trivial, momentary possessions ('I acquired a coffee' sounds odd; 'I got a coffee' is better). This word is key in corporate, educational, and personal development contexts.",
+    "synonyms": [
+      "obtain",
+      "get",
+      "procure",
+      "gain",
+      "secure"
+    ],
+    "antonyms": [
+      "lose",
+      "relinquish",
+      "sell",
+      "divest"
+    ],
+    "nounForm": "acquisition",
+    "verbForm": "acquire",
+    "adjectiveForm": "acquired",
+    "partOfSpeech": "verb",
+    "commonContext": "Business, learning, collecting, and personal development.",
+    "usageTip": "Use 'acquire' for significant, permanent, or effortful obtaining, such as companies, skills, property, or tastes.",
+    "commonMistake": "Using 'acquire' interchangeably with 'require' (to need).",
+    "collocations": [
+      "acquire knowledge",
+      "acquire a company",
+      "newly acquired"
+    ]
+  },
+  {
+    "word": "Acquire",
+    "meaning": "To get or obtain something, like data, a company, or a skill",
+    "shortMeaning": "obtain",
+    "example": "The system needs to acquire data from the sensor every second.",
+    "example2": "Large tech companies often acquire smaller startups for their talent.",
+    "example3": "It takes time to acquire advanced programming skills.",
+    "Explanation": "Acquire is a formal way to say 'get'. In a business context, it refers to one company buying another (an acquisition). In technical contexts, it refers to a system obtaining resources like memory, locks, or data from an external source. It implies a formal or planned process of obtaining something. It is very common in technical documentation. It is often used for the initial step of a process, such as 'acquiring a signal'.",
+    "synonyms": [
+      "obtain",
+      "get",
+      "gain"
+    ],
+    "antonyms": [
+      "lose",
+      "forfeit",
+      "release"
+    ],
+    "nounForm": "acquisition",
+    "verbForm": "acquire",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Business deals, data collection, and skill building",
+    "usageTip": "Use 'acquire' in formal or technical writing instead of 'get'.",
+    "commonMistake": "Misspelling as 'aquire' (it needs a 'c').",
+    "collocations": [
+      "acquire data",
+      "acquire a company",
+      "acquire skills"
+    ]
+  }
+]

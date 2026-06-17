@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Virtual",
+    "meaning": "Almost or nearly as described, but not completely or according to strict definition; in computing, not physically existing as such but made by software to appear to do so",
+    "shortMeaning": "almost like; simulated by computer",
+    "example": "The company has a virtual monopoly in this market.",
+    "example2": "We held a virtual meeting using video conferencing.",
+    "example3": "She explored a virtual model of the ancient city.",
+    "Explanation": "The adjective 'virtual' has two dominant meanings. The traditional meaning is 'being such in essence or effect, though not formally recognized' (e.g., virtual stranger, virtual certainty). The modern, pervasive meaning relates to computing: something that is simulated by a computer, existing in digital form rather than physical reality. This includes virtual reality (VR), virtual machines, virtual assistants, and virtual events. The word bridges the gap between the real and the digital. It suggests something that functions *as if* it were real. Its meaning has expanded dramatically with the rise of digital technology, making it a defining word of the internet age.",
+    "synonyms": [
+      "simulated",
+      "digital",
+      "online",
+      "near",
+      "effective"
+    ],
+    "antonyms": [
+      "actual",
+      "physical",
+      "real",
+      "tangible"
+    ],
+    "nounForm": "virtuality",
+    "verbForm": "virtualize",
+    "adjectiveForm": "virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, technology, business, everyday description",
+    "usageTip": "In tech, it means 'simulated by software'. In general use, it means 'for all practical purposes'.",
+    "commonMistake": "Using 'virtual' to mean 'almost' in contexts where it sounds unnatural (e.g., 'virtual empty' is wrong).",
+    "collocations": [
+      "virtual reality",
+      "virtual meeting",
+      "virtual machine",
+      "virtual world"
+    ]
+  },
+  {
+    "word": "Virtual",
+    "meaning": "Simulated or existing in a digital environment",
+    "shortMeaning": "not physical",
+    "example": "The server is running on a virtual machine.",
+    "example2": "They held a virtual meeting instead of a physical one.",
+    "example3": "Virtual reality creates immersive digital worlds.",
+    "Explanation": "In IT, 'virtual' refers to something that is not physical but acts like it is, usually through software simulation. This includes virtual servers (VMs), virtual memory, virtual storage, and virtual reality. Virtualization is a core technology that allows companies to run many different apps on the same physical hardware, massively improving efficiency. 'Virtual' essentially bridges the gap between hardware reality and software flexibility. It is one of the most important concepts in modern computing. ",
+    "synonyms": [
+      "simulated",
+      "digital",
+      "intangible"
+    ],
+    "antonyms": [
+      "physical",
+      "tangible",
+      "real"
+    ],
+    "nounForm": "virtualization",
+    "verbForm": "N/A",
+    "adjectiveForm": "virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Virtualization, cloud, networking",
+    "usageTip": "Use 'virtual' for things created by software, not hardware.",
+    "commonMistake": "Confusing virtual with 'imaginary' (it is very real and functional).",
+    "collocations": [
+      "virtual machine",
+      "virtual reality",
+      "virtual storage"
+    ]
+  },
+  {
+    "word": "Virtual",
+    "meaning": "Simulated or created by software; existing in a digital form.",
+    "shortMeaning": "digital",
+    "example": "We held the meeting in a virtual environment.",
+    "example2": "The server is running on a virtual machine.",
+    "example3": "Virtual reality is changing how we interact with software.",
+    "Explanation": "‘Virtual’ is one of the most fundamental concepts in IT. It describes something that acts like the real thing but is entirely software-based. This allows for massive flexibility and efficiency. Instead of needing 10 physical servers, you can run 10 'virtual' servers on one machine. It is the basis for cloud computing, remote work, and modern simulation technology. When you see 'virtual', think of it as a logical representation replacing a physical one.",
+    "synonyms": [
+      "simulated",
+      "digital",
+      "logical"
+    ],
+    "antonyms": [
+      "physical",
+      "real",
+      "hardware"
+    ],
+    "nounForm": "virtuality",
+    "verbForm": "N/A",
+    "adjectiveForm": "virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing and virtualization",
+    "usageTip": "Use to contrast software simulations with physical hardware.",
+    "commonMistake": "Assuming 'virtual' means non-existent; it is very functional.",
+    "collocations": [
+      "virtual machine",
+      "virtual environment",
+      "virtual reality"
+    ]
+  }
+]

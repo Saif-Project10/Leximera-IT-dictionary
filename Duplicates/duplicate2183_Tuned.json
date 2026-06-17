@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Tuned",
+    "meaning": "Adjusted to achieve the best performance or correct frequency.",
+    "shortMeaning": "adjusted",
+    "example": "The database was tuned for faster queries.",
+    "example2": "We have tuned the algorithm for better accuracy.",
+    "example3": "The antenna is tuned to the right frequency.",
+    "Explanation": "The word 'tuned' means that something has been refined or adjusted for optimal performance. In IT, this usually refers to 'tuning' performance, settings, or parameters. The base verb is 'tune'. Being 'tuned' implies a level of expertise was used to make the system run better than its default state. Always specify what is being tuned, such as 'performance-tuned' or 'frequency-tuned'.",
+    "synonyms": [
+      "adjusted",
+      "optimized",
+      "refined"
+    ],
+    "antonyms": [
+      "untuned",
+      "unadjusted",
+      "poorly-performing"
+    ],
+    "nounForm": "tuning",
+    "verbForm": "tune",
+    "adjectiveForm": "tuned",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Performance optimization, hardware settings, and algorithms",
+    "usageTip": "Use 'tuned' to describe a system that has been optimized.",
+    "commonMistake": "Using it for hardware that was just turned on without adjustments.",
+    "collocations": [
+      "tuned for",
+      "performance-tuned",
+      "finely tuned"
+    ]
+  },
+  {
+    "word": "Tuned",
+    "meaning": "Adjusted to achieve the best performance",
+    "shortMeaning": "optimized",
+    "example": "The database queries are finely tuned.",
+    "example2": "He tuned the server for high traffic.",
+    "example3": "The model was tuned on a large dataset.",
+    "Explanation": "Tuned refers to the process of making fine adjustments to improve performance, efficiency, or accuracy. You can tune an engine, a network, or a machine learning model. Tuning is the final step of optimization after the basic functionality is working. It involves analyzing metrics and tweaking parameters. A well-tuned system handles more load with fewer resources.",
+    "synonyms": [
+      "optimized",
+      "adjusted",
+      "calibrated"
+    ],
+    "antonyms": [
+      "untouched",
+      "unoptimized",
+      "misconfigured"
+    ],
+    "nounForm": "tuning",
+    "verbForm": "tune",
+    "adjectiveForm": "tuned",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Performance optimization, AI, databases",
+    "usageTip": "Use 'tuned' to describe a system that has been adjusted for better speed.",
+    "commonMistake": "Assuming tuning is a one-time thing; it usually requires ongoing monitoring.",
+    "collocations": [
+      "finely tuned",
+      "performance tuned",
+      "tuned for speed"
+    ]
+  }
+]

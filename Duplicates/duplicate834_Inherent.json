@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Inherent",
+    "meaning": "Existing as a natural, permanent, or essential quality.",
+    "shortMeaning": "natural and permanent",
+    "example": "There is an inherent risk in any investment.",
+    "example2": "The design has an inherent flaw that cannot be fixed.",
+    "example3": "She has an inherent talent for music.",
+    "Explanation": "Inherent describes a characteristic that is intrinsic, innate, and inseparable from the nature of something. It's not added from outside; it's built-in. Inherent properties define what something is. Inherent rights are those you are born with. Inherent dangers are those that come with the activity itself. The word is formal and common in philosophy, law, science, and risk assessment. It's similar to 'intrinsic'. The opposite is 'extrinsic' or 'acquired'. Recognizing inherent qualities helps in understanding fundamental strengths, weaknesses, or risks.",
+    "synonyms": [
+      "intrinsic",
+      "innate",
+      "built-in",
+      "essential",
+      "natural"
+    ],
+    "antonyms": [
+      "extrinsic",
+      "acquired",
+      "external",
+      "superficial"
+    ],
+    "nounForm": "inherence",
+    "verbForm": "inhere",
+    "adjectiveForm": "inherent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Rights, risks, qualities, flaws, talents",
+    "usageTip": "Almost always followed by 'in' (the risks inherent in the process, qualities inherent in the material).",
+    "commonMistake": "Pronouncing it as 'in-HER-ent'. The stress is on the second syllable: 'in-HEER-ent'.",
+    "collocations": [
+      "inherent risk",
+      "inherent quality",
+      "inherently dangerous",
+      "inherent vice"
+    ]
+  },
+  {
+    "word": "Inherent",
+    "meaning": "Existing as a natural or essential part of something",
+    "shortMeaning": "naturally part of",
+    "example": "There are inherent risks in using legacy software.",
+    "example2": "Security is an inherent part of our design.",
+    "example3": "Cloud computing has inherent advantages.",
+    "Explanation": "The word 'inherent' describes a quality that is built-in and cannot be separated from the thing itself. For example, a web app has an 'inherent' risk of being exposed to the internet. You didn't cause it, but it comes with the territory. It is a very useful word for explaining limitations or natural features to stakeholders or clients.",
+    "synonyms": [
+      "built-in",
+      "intrinsic",
+      "essential"
+    ],
+    "antonyms": [
+      "external",
+      "added",
+      "optional"
+    ],
+    "nounForm": "inherence",
+    "verbForm": "N/A",
+    "adjectiveForm": "inherent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Risk management, system design",
+    "usageTip": "Use 'inherent' to explain features or risks that come automatically.",
+    "commonMistake": "Confusing 'inherent' with 'inherited'; one is built-in, one is received.",
+    "collocations": [
+      "inherent risk",
+      "inherent advantage",
+      "inherent feature"
+    ]
+  }
+]

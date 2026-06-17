@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Cloud",
+    "meaning": "To make something less clear or transparent; a visible mass of water droplets in the sky. | A network of remote servers hosted on the internet to store, manage, and process data, rather than on a local server or personal computer.",
+    "shortMeaning": "obscure, sky vapor",
+    "example": "Tears clouded her vision.",
+    "example2": "His judgment was clouded by anger.",
+    "example3": "White clouds drifted across the blue sky.",
+    "Explanation": "The verb 'cloud' means to make something unclear, confused, or less pure. It is a metaphorical use based on the noun for the white/gray formations in the sky that obscure the sun. It is often used for judgment, memory, vision, and issues. The noun is, of course, 'cloud'. In modern technology, 'the cloud' refers to internet-based storage and computing. A common mistake is not recognizing the verb form. It's a poetic and effective way to describe something becoming muddled or dimmed. It suggests a partial, not total, obstruction.",
+    "synonyms": [
+      "Befog",
+      "Cloud Computing",
+      "Internet-Based",
+      "Muddy",
+      "Obscure",
+      "Remote Servers"
+    ],
+    "antonyms": [
+      "Clarify",
+      "Clear Up",
+      "Desktop",
+      "Illuminate",
+      "Local Server",
+      "On-Premises"
+    ],
+    "nounForm": "cloud",
+    "verbForm": "cloud",
+    "adjectiveForm": "cloudy",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Judgment, vision, computing, weather",
+    "usageTip": "Often used in the passive voice: 'His thinking was clouded by emotion.'",
+    "commonMistake": "Thinking 'cloud' as a verb only relates to weather. Its metaphorical use is very common.",
+    "collocations": [
+      "cloud one's judgment",
+      "cloud over",
+      "on cloud nine"
+    ]
+  },
+  {
+    "word": "Cloud",
+    "meaning": "A network of remote servers used to store, manage, and process data over the internet",
+    "shortMeaning": "internet-based computing",
+    "example": "We store our company files in the cloud for easy access.",
+    "example2": "Cloud computing allows startups to scale without buying hardware.",
+    "example3": "Is the data stored locally or in the cloud?",
+    "Explanation": "The 'Cloud' is not a physical place in the sky; it's just someone else's computer that you access over the internet. Instead of keeping a big server in your office, you rent space from companies like Google, Amazon, or Microsoft. This allows you to access your files from anywhere in the world. It is highly flexible and usually cheaper than buying your own hardware. Most modern apps and websites run entirely on the cloud today.",
+    "synonyms": [
+      "remote server",
+      "online storage"
+    ],
+    "antonyms": [
+      "on-premise",
+      "local storage"
+    ],
+    "nounForm": "cloud",
+    "verbForm": "N/A",
+    "adjectiveForm": "cloud-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Computing and data storage",
+    "usageTip": "Use 'the cloud' when you want your data to be accessible from multiple devices.",
+    "commonMistake": "Thinking the cloud is 'invisible'; it is still made of physical servers in giant buildings.",
+    "collocations": [
+      "cloud computing",
+      "cloud storage",
+      "public cloud",
+      "private cloud"
+    ]
+  }
+]

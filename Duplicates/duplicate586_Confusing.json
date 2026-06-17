@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Confusing",
+    "meaning": "Causing a feeling of being mixed up or unable to understand.",
+    "shortMeaning": "hard to understand",
+    "example": "The map was confusing and we got lost.",
+    "example2": "He gave a confusing explanation that left us with more questions.",
+    "example3": "The signs at the airport were very confusing.",
+    "Explanation": "The word 'confusing' describes something that makes it difficult for people to think clearly or understand. It is an adjective that focuses on the thing causing the confusion. It's different from 'confused', which describes the person's state of mind. Something can be confusing because it's complex, poorly explained, or full of contradictions. In everyday use, it's a common way to express frustration with unclear instructions, directions, or information.",
+    "synonyms": [
+      "puzzling",
+      "bewildering",
+      "perplexing",
+      "unclear",
+      "complicated"
+    ],
+    "antonyms": [
+      "clear",
+      "straightforward",
+      "simple",
+      "lucid"
+    ],
+    "nounForm": "confusion",
+    "verbForm": "confuse",
+    "adjectiveForm": "confusing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Instructions, explanations, situations, directions",
+    "usageTip": "Use 'confusing' to describe the thing that causes the confusion. Use 'confused' for the person feeling it.",
+    "commonMistake": "Saying 'I am confusing' when you mean 'I am confused' (which means you feel mixed up).",
+    "collocations": [
+      "confusing situation",
+      "confusing instructions",
+      "highly confusing",
+      "find it confusing"
+    ]
+  },
+  {
+    "word": "Confusing",
+    "meaning": "Difficult to understand or follow; lacking clarity",
+    "shortMeaning": "causing lack of clarity",
+    "example": "The cluttered interface made the website very confusing for new visitors.",
+    "example2": "A confusing naming convention in the code led to bugs.",
+    "example3": "It is confusing when the same button has different functions on different pages.",
+    "Explanation": "The word 'confusing' describes something that lacks logical structure or clarity, causing the observer to feel lost or uncertain. In UX/UI design, identifying confusing patterns is the first step toward creating a user-friendly product. When something is confusing, it usually implies that the underlying design or logic is not consistent, intuitive, or well-explained. Eliminating confusing elements is the primary goal of any technical documentation or website refactoring project.",
+    "synonyms": [
+      "perplexing",
+      "misleading",
+      "ambiguous"
+    ],
+    "antonyms": [
+      "clear",
+      "obvious",
+      "unambiguous"
+    ],
+    "nounForm": "confusion",
+    "verbForm": "confuse",
+    "adjectiveForm": "confusing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design feedback, code reviews, general clarity",
+    "usageTip": "Use 'confusing' to label any part of your website, app, or code that you think could be simplified.",
+    "commonMistake": "Thinking that because a feature is 'cool', it cannot be 'confusing' for the average user.",
+    "collocations": [
+      "confusing interface",
+      "confusing logic",
+      "very confusing"
+    ]
+  }
+]

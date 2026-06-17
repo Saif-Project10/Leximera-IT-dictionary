@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Step up",
+    "meaning": "To increase the intensity, speed, or level of something",
+    "shortMeaning": "increase level",
+    "example": "The server needs to step up its processing capacity.",
+    "example2": "They decided to step up security measures for the app.",
+    "example3": "We must step up our efforts to meet the project deadline.",
+    "Explanation": "To 'step up' means to improve or increase the scale of an activity. It is used when a situation demands higher performance or better results. In project management, it involves increasing resources or focusing more attention on a task. It implies a positive change in direction or effort. It is a common professional term used to encourage team members to achieve a higher standard of work or output.",
+    "synonyms": [
+      "increase",
+      "boost",
+      "enhance"
+    ],
+    "antonyms": [
+      "decrease",
+      "reduce",
+      "slow"
+    ],
+    "nounForm": "step-up",
+    "verbForm": "step up",
+    "adjectiveForm": "step-up",
+    "partOfSpeech": "verb",
+    "commonContext": "Project management, performance, strategy",
+    "usageTip": "Use when describing a necessary increase in effort.",
+    "commonMistake": "Confusing 'step up' with 'scale up' which is more technical.",
+    "collocations": [
+      "step up efforts",
+      "step up performance"
+    ]
+  },
+  {
+    "word": "Step up",
+    "meaning": "To increase performance, scale infrastructure, improve security, or take on more responsibility",
+    "shortMeaning": "increase or improve",
+    "example": "We must step up our server capacity to handle the massive Black Friday traffic.",
+    "example2": "The company decided to step up its cybersecurity measures after the data breach.",
+    "example3": "The developer had to step up and lead the project when the manager left.",
+    "Explanation": "The phrase 'step up' means to increase efforts, power, capacity, or responsibility within an organization or system. In infrastructure management, stepping up server capacity might involve vertical or horizontal auto-scaling in the cloud. In security management, it means implementing stricter protocols like zero-trust networks due to growing threat landscapes. On a human level, it describes an IT professional advancing their career by taking ownership of complex code architectures during difficult periods.",
+    "synonyms": [
+      "increase",
+      "escalate",
+      "boost",
+      "enhance"
+    ],
+    "antonyms": [
+      "decrease",
+      "reduce",
+      "step down",
+      "diminish"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "step up",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Infrastructure scaling, security updates, professional growth",
+    "usageTip": "Use 'step up' to motivate teams or explain technical upgrades required for heavy loads.",
+    "commonMistake": "Confusing 'step up' with 'step down', which means resigning or reducing system configurations.",
+    "collocations": [
+      "step up security",
+      "step up performance",
+      "step up production"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Two factor",
+    "meaning": "Using two different ways to prove who you are",
+    "shortMeaning": "dual verification",
+    "example": "I set up two factor security on my email to keep it safe.",
+    "example2": "The bank requires two factor identification for all online transfers.",
+    "example3": "Two factor methods usually involve a password and a phone code.",
+    "Explanation": "The term 'two factor' refers to a security process that requires two independent pieces of evidence to verify a user's identity. This is based on three possible things: something you know (like a password), something you have (like a phone or a key), or something you are (like a fingerprint). By requiring two of these, it becomes much harder for hackers to get into an account. Even if they steal your password, they still won't have your physical phone. This has become a standard requirement for most secure online services. It is often abbreviated as 2FA.",
+    "synonyms": [
+      "multi-factor",
+      "dual-layer",
+      "2-step"
+    ],
+    "antonyms": [
+      "single-factor",
+      "password-only"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-factor",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and online accounts",
+    "usageTip": "Use 'two factor' to describe a system that adds an extra layer of protection beyond a password.",
+    "commonMistake": "Thinking that having two passwords counts as two-factor (they are both 'something you know').",
+    "collocations": [
+      "two factor authentication",
+      "two factor verification",
+      "two factor setup"
+    ]
+  },
+  {
+    "word": "Two factor",
+    "meaning": "A security method that requires two different forms of identification.",
+    "shortMeaning": "double verification",
+    "example": "You should enable two factor authentication on your email.",
+    "example2": "The bank uses two factor security to protect your account.",
+    "example3": "Logging in requires a password and a code, which is two factor.",
+    "Explanation": "Two factor refers to an authentication process that provides extra security by requiring two distinct types of evidence to verify a user's identity. This typically involves something the user knows, like a password, and something the user possesses, like a mobile phone receiving a text code. It significantly reduces the risk of unauthorized access compared to a single password. Using this is now a standard practice in most online platforms and services. Ensure you keep your backup codes safe when using two factor systems.",
+    "synonyms": [
+      "2FA",
+      "dual-factor",
+      "multi-factor"
+    ],
+    "antonyms": [
+      "single-factor"
+    ],
+    "nounForm": "two-factor authentication",
+    "verbForm": "N/A",
+    "adjectiveForm": "two-factor",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Cybersecurity and account login",
+    "usageTip": "It is often abbreviated as 2FA.",
+    "commonMistake": "Thinking it only applies to passwords.",
+    "collocations": [
+      "two factor authentication",
+      "two factor security",
+      "two factor verification"
+    ]
+  }
+]

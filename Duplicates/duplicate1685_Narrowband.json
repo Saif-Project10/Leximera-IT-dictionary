@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Narrowband",
+    "meaning": "A type of communication channel that uses a limited range of frequencies and carries data slowly",
+    "shortMeaning": "low-speed connection",
+    "example": "Dial-up internet is a classic example of a narrowband connection.",
+    "example2": "Narrowband is still used for simple devices like pagers or remote sensors.",
+    "example3": "The data transfer was slow because the system was restricted to narrowband.",
+    "Explanation": "Narrowband refers to a communication medium that has a small bandwidth (the 'pipe' for data is small). Because the frequency range is limited, it cannot carry a lot of information at once. It was the standard for early internet access but has mostly been replaced by broadband. However, it is still very useful for things that don't need much data, like voice signals or simple text messages. It is often cheaper and can travel longer distances with less power. In the modern world, it is mostly used in specialized industrial and radio applications.",
+    "synonyms": [
+      "low bandwidth",
+      "limited frequency"
+    ],
+    "antonyms": [
+      "broadband",
+      "wideband"
+    ],
+    "nounForm": "narrowband",
+    "verbForm": "N/A",
+    "adjectiveForm": "narrowband",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telecommunications and networking",
+    "usageTip": "Use 'narrowband' when describing slow or basic data transmission.",
+    "commonMistake": "Thinking narrowband is 'broken' just because it is slower than broadband.",
+    "collocations": [
+      "narrowband internet",
+      "narrowband signal",
+      "narrowband network"
+    ]
+  },
+  {
+    "word": "Narrowband",
+    "meaning": "A communication channel with a limited frequency range and data capacity",
+    "shortMeaning": "low bandwidth",
+    "example": "The remote sensors use narrowband for long-range communication.",
+    "example2": "Narrowband connections are not suitable for video streaming.",
+    "example3": "We optimized the data for a narrowband channel.",
+    "Explanation": "A 'narrowband' connection is a networking channel that carries only a small amount of data at once. It is the opposite of 'broadband'. While narrowband is much slower, it is often more reliable over long distances and requires less power. It is frequently used in IoT (Internet of Things) devices—like smart meters or agricultural sensors—that only need to send tiny packets of information periodically. Understanding the limits of narrowband is key for developers designing for remote or low-power hardware.",
+    "synonyms": [
+      "low-bandwidth",
+      "slow"
+    ],
+    "antonyms": [
+      "broadband",
+      "high-speed"
+    ],
+    "nounForm": "narrowband",
+    "verbForm": "N/A",
+    "adjectiveForm": "narrowband",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking and IoT",
+    "usageTip": "Use when discussing slow but reliable data connections.",
+    "commonMistake": "Expecting high-speed performance from a narrowband device.",
+    "collocations": [
+      "narrowband connection",
+      "narrowband network"
+    ]
+  }
+]

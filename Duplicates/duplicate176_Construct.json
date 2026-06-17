@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Construct",
+    "meaning": "To build or form something by putting parts together.",
+    "shortMeaning": "build",
+    "example": "They plan to construct a new hospital.",
+    "example2": "Children construct sentences as they learn language.",
+    "example3": "The theory is constructed on solid evidence.",
+    "Explanation": "Construct is a verb meaning to create something systematically, often something physical like a building, but also abstract things like an argument or a sentence. It implies a planned, deliberate process of assembly. The noun form is 'construction,' which can refer to the process or the finished structure. A common mistake is using it only for large buildings; it can be used for ideas and small things too. It is more formal than 'build.' Using 'construct' correctly conveys a sense of deliberate creation and organization, which is valuable in technical, educational, and creative writing.",
+    "synonyms": [
+      "build",
+      "assemble",
+      "erect",
+      "fabricate",
+      "create"
+    ],
+    "antonyms": [
+      "demolish",
+      "destroy",
+      "dismantle"
+    ],
+    "nounForm": "construction",
+    "verbForm": "construct",
+    "adjectiveForm": "constructive",
+    "partOfSpeech": "verb",
+    "commonContext": "Building, engineering, linguistics, and theory development.",
+    "usageTip": "Use 'construct' for anything that is built from parts, whether physical (a model) or abstract (an idea).",
+    "commonMistake": "Limiting 'construct' to only large buildings; it applies to sentences, theories, etc.",
+    "collocations": [
+      "construct a model",
+      "under construction",
+      "social construct"
+    ]
+  },
+  {
+    "word": "Construct",
+    "meaning": "To build or create something complex, like a building or a software system",
+    "shortMeaning": "build",
+    "example": "The team will construct a new database for the project.",
+    "example2": "It takes time to construct a high-quality website.",
+    "example3": "The engineer helped construct the network architecture.",
+    "Explanation": "Constructing is the act of putting pieces together to make a whole. While 'build' is common, 'construct' is more formal and often refers to something with many parts. In programming, we construct 'objects' or 'classes' using specific code. We also construct 'queries' to get information from a database. It implies a logical and planned approach to creation. Whether it is a physical bridge or a digital platform, the word suggests that there is a design being followed. It is a very professional term used in engineering and development.",
+    "synonyms": [
+      "build",
+      "create",
+      "assemble"
+    ],
+    "antonyms": [
+      "destroy",
+      "demolish",
+      "dismantle"
+    ],
+    "nounForm": "construction / constructor",
+    "verbForm": "construct",
+    "adjectiveForm": "constructive",
+    "partOfSpeech": "verb",
+    "commonContext": "Software engineering, architecture, logic",
+    "usageTip": "In programming, a 'constructor' is a special function that creates a new object.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "construct a query",
+      "construct an object",
+      "carefully construct"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Non-repetitive",
+    "meaning": "Not characterized by repetition; varied or unique.",
+    "shortMeaning": "not repeating",
+    "example": "She enjoys her new job because the tasks are creative and non-repetitive.",
+    "example2": "The artist's non-repetitive style makes each piece a surprise.",
+    "example3": "We need a non-repetitive sequence of numbers for the security code.",
+    "Explanation": "Non-repetitive means lacking repetition. It describes work, patterns, or sequences that are diverse, changing, or unique. This is generally seen as positive, especially in work environments, as it reduces monotony and boredom. In design or art, it avoids predictability. In mathematics or cryptography, a non-repetitive sequence is important for certain properties. It is the direct antonym of 'repetitive'. The word highlights variety and the absence of the tedious sameness associated with repetitive tasks.",
+    "synonyms": [
+      "varied",
+      "diverse",
+      "unique",
+      "non-monotonous",
+      "changing"
+    ],
+    "antonyms": [
+      "repetitive",
+      "monotonous",
+      "recurring",
+      "repeated"
+    ],
+    "nounForm": "non-repetitiveness",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-repetitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Job descriptions, art criticism, mathematics, sequence generation",
+    "usageTip": "Often used to describe desirable qualities in a role or creative work.",
+    "commonMistake": "Assuming 'non-repetitive' means 'completely random'; it just means not doing the same thing over and over.",
+    "collocations": [
+      "non-repetitive work",
+      "non-repetitive pattern",
+      "non-repetitive task"
+    ]
+  },
+  {
+    "word": "Non-repetitive",
+    "meaning": "Not repeating the same action or pattern",
+    "shortMeaning": "no repeating",
+    "example": "The task is non-repetitive, requiring human creativity.",
+    "example2": "We designed the process to be non-repetitive and varied.",
+    "example3": "Non-repetitive patterns make security keys stronger.",
+    "Explanation": "The term 'non-repetitive' describes work, data, or patterns that do not repeat. In automation, we often try to identify and remove repetitive tasks, but some jobs are inherently 'non-repetitive'—they require unique logic or manual intervention every time. In security or data analysis, 'non-repetitive' data (like truly random numbers) is essential for security and accuracy. It highlights a lack of redundancy or predictable cycles.",
+    "synonyms": [
+      "varied",
+      "unique",
+      "random"
+    ],
+    "antonyms": [
+      "repetitive",
+      "redundant",
+      "cyclical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-repetitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Automation, security, task management",
+    "usageTip": "Use when describing work or patterns.",
+    "commonMistake": "Confusing 'non-repetitive' with 'efficient'; they are not always the same thing.",
+    "collocations": [
+      "non-repetitive task",
+      "non-repetitive pattern",
+      "completely non-repetitive"
+    ]
+  }
+]

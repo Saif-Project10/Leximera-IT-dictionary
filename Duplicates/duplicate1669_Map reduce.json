@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Map reduce",
+    "meaning": "A programming model for processing and generating large data sets with a parallel, distributed algorithm on a cluster",
+    "shortMeaning": "big data processing model",
+    "example": "Google originally developed MapReduce to handle the massive amount of data on the web.",
+    "example2": "Map reduce works by breaking a big problem into small pieces and then combining the results.",
+    "example3": "We used a map reduce approach to analyze a terabyte of log files in under an hour.",
+    "Explanation": "MapReduce is a revolutionary concept in big data. It consists of two main steps: **Map** and **Reduce**. In the Map step, a large task is split into smaller chunks and sent to many different computers. Each computer processes its chunk and creates 'intermediate' results. In the Reduce step, all those small results are gathered and combined into one final answer. For example, to count every word in a library, you 'map' the work by giving one book to each person, and you 'reduce' the work by adding everyone's totals together. This allows for incredibly fast processing of data that is too big for a single computer.",
+    "synonyms": [
+      "distributed processing",
+      "parallel data processing"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "MapReduce",
+    "verbForm": "map reduce",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase / verb",
+    "commonContext": "Big data, cloud computing, and Hadoop",
+    "usageTip": "Use MapReduce when you have so much data that it doesn't fit on one server's hard drive.",
+    "commonMistake": "Thinking MapReduce is a software; it's a 'model' or 'strategy', though software like Hadoop uses it.",
+    "collocations": [
+      "map reduce job",
+      "map reduce algorithm",
+      "Hadoop map reduce"
+    ]
+  },
+  {
+    "word": "Map reduce",
+    "meaning": "A programming model used to process very large amounts of data across many computers",
+    "shortMeaning": "big data processing",
+    "example": "Google originally developed MapReduce to handle its massive search index.",
+    "example2": "You can use MapReduce to count every word in millions of books at once.",
+    "example3": "Hadoop is a popular platform that implements the MapReduce model.",
+    "Explanation": "MapReduce is a way of solving a 'Big Data' problem by breaking it into two steps. First, the 'Map' step takes a huge pile of data and organizes it into smaller chunks. Then, the 'Reduce' step combines those chunks to get a final answer (like a total sum or an average). Because it breaks the work into pieces, you can use hundreds of computers to work on it at the same time. This makes it much faster than using one single computer. It is a foundational concept in modern data science and large-scale web services.",
+    "synonyms": [
+      "distributed processing",
+      "parallel computing"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "MapReduce",
+    "verbForm": "map reduce",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb phrase",
+    "commonContext": "Big data, data engineering, cloud computing",
+    "usageTip": "Use this term when discussing the processing of massive datasets that are too big for one PC.",
+    "commonMistake": "Thinking MapReduce is a specific software; it is actually a 'model' or a 'way of doing things'.",
+    "collocations": [
+      "MapReduce algorithm",
+      "run a MapReduce job",
+      "MapReduce framework"
+    ]
+  }
+]

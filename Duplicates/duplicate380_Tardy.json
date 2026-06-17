@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Tardy",
+    "meaning": "Delayed beyond the expected or proper time; late.",
+    "shortMeaning": "late (especially for school/work)",
+    "example": "Students who are tardy must report to the office.",
+    "example2": "He received a warning for being tardy too often.",
+    "example3": "The company has a strict policy against tardy arrivals.",
+    "Explanation": "Tardy is a formal or slightly old-fashioned adjective specifically meaning late, especially for school, work, or appointments. It carries a stronger sense of fault or blame than 'late' and is often used in institutional rules and warnings. It is less common in casual conversation. The noun is 'tardiness.' A common mistake is using it in informal contexts where 'late' would sound more natural. This word implies a failure to be punctual according to a set schedule or rule. It is a standard term in educational and some professional disciplinary contexts.",
+    "synonyms": [
+      "late",
+      "behindhand",
+      "overdue",
+      "delayed"
+    ],
+    "antonyms": [
+      "punctual",
+      "on time",
+      "early",
+      "prompt"
+    ],
+    "nounForm": "tardiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "tardy",
+    "partOfSpeech": "adjective",
+    "commonContext": "School attendance, workplace punctuality, and formal reprimands.",
+    "usageTip": "Use 'tardy' in formal contexts, especially when referring to being late for scheduled events like classes or meetings.",
+    "commonMistake": "Pronouncing it to rhyme with 'hardy'; it's pronounced 'TAR-dee.'",
+    "collocations": [
+      "chronically tardy",
+      "tardy slip",
+      "tardy policy"
+    ]
+  },
+  {
+    "word": "Tardy",
+    "meaning": "Delayed beyond the expected time or deadline.",
+    "shortMeaning": "late",
+    "example": "The report was tardy by three days.",
+    "example2": "A tardy response from the API slowed down the process.",
+    "example3": "Avoid tardy deliveries in a fast-paced environment.",
+    "Explanation": "The word 'tardy' means late or behind schedule. It is often used to describe reports, responses, or project deliverables that missed their deadline. While 'late' is the more common, everyday word, 'tardy' sounds slightly more formal. In technical contexts, it is sometimes used to describe systems or processes that have high latency or are sluggish in their response times.",
+    "synonyms": [
+      "late",
+      "delayed",
+      "overdue"
+    ],
+    "antonyms": [
+      "punctual",
+      "on-time",
+      "early"
+    ],
+    "nounForm": "tardiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "tardy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, scheduling",
+    "usageTip": "Use 'tardy' to professionally describe delays in work.",
+    "commonMistake": "Using 'tardy' to describe slow hardware (use 'laggy' instead).",
+    "collocations": [
+      "tardy report",
+      "tardy response",
+      "tardy delivery"
+    ]
+  },
+  {
+    "word": "Tardy",
+    "meaning": "Delayed, slow to act, or arriving after the expected time",
+    "shortMeaning": "late",
+    "example": "The system recovery was tardy due to hardware failures.",
+    "example2": "Tardy updates can leave the network vulnerable.",
+    "example3": "She received a warning for her tardy response.",
+    "Explanation": "The word 'tardy' means late or behind schedule. In an IT environment, tardy processes—like slow software patches, late backups, or delayed server responses—can cause significant operational issues. It implies a lack of speed or punctuality in handling required tasks. While it can apply to people, it is also frequently used to describe sluggish system performance or delayed project milestones. It is a formal way to describe a lack of efficiency or timeliness.",
+    "synonyms": [
+      "late",
+      "delayed",
+      "slow"
+    ],
+    "antonyms": [
+      "prompt",
+      "timely",
+      "punctual"
+    ],
+    "nounForm": "tardiness",
+    "verbForm": "N/A",
+    "adjectiveForm": "tardy",
+    "partOfSpeech": "adjective",
+    "commonContext": "Deadlines, process speed, performance",
+    "usageTip": "Use 'tardy' to describe something that is behind schedule.",
+    "commonMistake": "Using 'tardy' to describe something that is completely broken.",
+    "collocations": [
+      "tardy response",
+      "tardy update",
+      "tardy delivery"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Refuse",
+    "meaning": "To indicate or show that one is not willing to do something; to decline.",
+    "shortMeaning": "decline, say no",
+    "example": "She refused to answer the question.",
+    "example2": "He refused the job offer because the salary was too low.",
+    "example3": "The door refused to open, no matter how hard I pushed.",
+    "Explanation": "To 'refuse' is a common verb meaning to say no or to not accept something offered. It is stronger and more direct than 'decline'. It can be used with a direct object (refuse an offer) or with an infinitive (refuse to go). The noun form (pronounced REF-yoos) means trash or discarded items. The verb is about rejection, while the noun is about waste. Context and pronunciation distinguish them. The verb is essential for expressing denial or non-compliance in personal, professional, and formal situations.",
+    "synonyms": [
+      "decline",
+      "reject",
+      "turn down",
+      "say no"
+    ],
+    "antonyms": [
+      "accept",
+      "agree to",
+      "consent"
+    ],
+    "nounForm": "refuse (waste)",
+    "verbForm": "refuse",
+    "adjectiveForm": "refusable",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Offers, requests, instructions, permissions",
+    "usageTip": "The verb is pronounced re-FUSE. The noun (trash) is pronounced REF-use.",
+    "commonMistake": "Confusing the verb and noun due to different pronunciations.",
+    "collocations": [
+      "refuse to accept",
+      "flatly refuse",
+      "refuse permission",
+      "refuse entry"
+    ]
+  },
+  {
+    "word": "Refuse",
+    "meaning": "To decline, reject, or block an incoming connection request, user permission, or data transfer operation due to a lack of authorization",
+    "shortMeaning": "decline or block a request",
+    "example": "The remote server will refuse the network connection if you use an invalid port number.",
+    "example2": "The operating system will refuse to run the application if it does not have admin permissions.",
+    "example3": "Browsers will refuse connection attempts to websites that do not utilize valid SSL security certificates.",
+    "Explanation": "In server infrastructure, security systems, and hardware networking, 'refuse' represents an active barrier operation. When a system or hardware firewall refuses an action (such as an incoming API request or file execution command), it means the system evaluated the request parameters and deliberately chose to stop it from completing. This often happens because the caller lacked credentials, attempted to access a closed network port, or violated predefined system validation rules. Unlike a crash or timeout, a refusal is an orderly, defensive response where the server returns a clear status message (like 'Connection Refused') to maintain security boundaries.",
+    "synonyms": [
+      "reject",
+      "deny",
+      "block"
+    ],
+    "antonyms": [
+      "accept",
+      "allow",
+      "permit"
+    ],
+    "nounForm": "refusal",
+    "verbForm": "refuse",
+    "adjectiveForm": "refused",
+    "partOfSpeech": "verb",
+    "commonContext": "Network firewalls, server connections, operating system permissions",
+    "usageTip": "Use 'refuse' when describing a system that actively blocks an unauthorized transaction, file operation, or connection request.",
+    "commonMistake": "Confusing 'connection refused' (server actively blocked it) with 'connection timed out' (server never responded at all).",
+    "collocations": [
+      "refuse connection",
+      "refuse to execute",
+      "refuse access"
+    ]
+  }
+]

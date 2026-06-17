@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Managed",
+    "meaning": "Succeeded in doing or dealing with something, especially something difficult; was in charge of | Was in charge of or succeeded in handling (past tense).",
+    "shortMeaning": "succeeded; was in charge",
+    "example": "She managed to finish the project on time.",
+    "example2": "He managed a team of twenty people.",
+    "example3": "We barely managed to catch the train.",
+    "Explanation": "'Managed' is the past tense of 'manage'. It has two primary meanings. First, it means to have succeeded in coping with or achieving something, often despite difficulties. Second, it means to have been responsible for controlling or administering an organization, team, or system. It is an extremely common verb in professional and everyday contexts, conveying a sense of control and accomplishment.",
+    "synonyms": [
+      "Administered",
+      "Coped",
+      "Handled",
+      "Ran",
+      "Succeeded"
+    ],
+    "antonyms": [
+      "Bungled",
+      "Failed",
+      "Mismanaged",
+      "Neglected"
+    ],
+    "nounForm": "management",
+    "verbForm": "manage",
+    "adjectiveForm": "managerial",
+    "partOfSpeech": "verb (past)",
+    "commonContext": "Business, personal challenges, projects, time",
+    "usageTip": "Use 'managed to' to highlight achieving something difficult: 'He managed to convince them.'",
+    "commonMistake": "Using 'managed' to mean simply 'did' when no difficulty was involved.",
+    "collocations": [
+      "managed to do",
+      "managed the company",
+      "well-managed",
+      "time-managed"
+    ]
+  },
+  {
+    "word": "Managed",
+    "meaning": "Controlled, organized, or taken care of by a process or service",
+    "shortMeaning": "controlled",
+    "example": "We use a managed database service to handle backups.",
+    "example2": "The infrastructure is fully managed by our cloud provider.",
+    "example3": "He managed the user accounts and permissions.",
+    "Explanation": "The word 'managed' refers to something that is handled, monitored, or controlled by an automated system or a third-party service. In cloud computing, a 'managed service' means the provider takes care of patching, backups, and scaling, so the user doesn't have to. It conveys a sense of reduced administrative burden and increased reliance on an external or automated system. It is a very common term in professional IT environments.",
+    "synonyms": [
+      "controlled",
+      "administered",
+      "automated"
+    ],
+    "antonyms": [
+      "unmanaged",
+      "manual",
+      "self-hosted"
+    ],
+    "nounForm": "management",
+    "verbForm": "manage",
+    "adjectiveForm": "managed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Cloud services, IT operations",
+    "usageTip": "Use to describe services that offload administration to a provider.",
+    "commonMistake": "Assuming 'managed' means you have no control; usually, you still have some configuration.",
+    "collocations": [
+      "managed service",
+      "managed database",
+      "fully managed"
+    ]
+  }
+]

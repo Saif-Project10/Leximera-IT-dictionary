@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Warning",
+    "meaning": "A statement or event that indicates a possible danger, problem, or other unpleasant situation.",
+    "shortMeaning": "caution, alert",
+    "example": "The government issued a storm warning.",
+    "example2": "She ignored all the warning signs.",
+    "example3": "Let that be a warning to you.",
+    "Explanation": "The noun 'warning' is an advance notice of danger or something bad. Its purpose is to allow someone to prepare or avoid harm. It can be verbal, written, or a natural sign. The verb is 'warn'. Warnings are crucial for safety. A common phrase is 'without warning'. A common mistake is not heeding warnings. In grammar, an 'exclamation mark' is sometimes called a 'warning sign' in informal contexts. Warnings can be friendly advice or official alerts. They range from mild ('a word of warning') to severe ('final warning').",
+    "synonyms": [
+      "caution",
+      "alert",
+      "advance notice"
+    ],
+    "antonyms": [
+      "encouragement",
+      "all clear",
+      "N/A"
+    ],
+    "nounForm": "warning",
+    "verbForm": "warn",
+    "adjectiveForm": "warning",
+    "partOfSpeech": "noun",
+    "commonContext": "Safety, weather, health, behavior",
+    "usageTip": "Often used with 'give', 'issue', or 'heed': 'give a warning', 'heed the warning'.",
+    "commonMistake": "Confusing 'warning' (pre-danger) with 'threat' (promise to cause harm).",
+    "collocations": [
+      "early warning",
+      "warning sign",
+      "without warning"
+    ]
+  },
+  {
+    "word": "Warning",
+    "meaning": "A message indicating a potential problem or minor error",
+    "shortMeaning": "alert",
+    "example": "The compiler issued a warning but continued to run.",
+    "example2": "Check the system warning logs for any unusual activity.",
+    "example3": "The warning message caught the error before it became critical.",
+    "Explanation": "A 'warning' is an alert that indicates something might be wrong or that a system is operating at a boundary, but it has not caused a total failure. Unlike an 'error,' which usually stops the program, a warning informs you of the potential issue while the system keeps working. Paying attention to these warnings is key to preventative maintenance. Ignoring them often leads to critical errors later. They are standard parts of logs, IDEs, and system health monitors.",
+    "synonyms": [
+      "alert",
+      "notification",
+      "caution"
+    ],
+    "antonyms": [
+      "error",
+      "failure",
+      "success"
+    ],
+    "nounForm": "warning",
+    "verbForm": "warn",
+    "adjectiveForm": "warning",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Coding, system monitoring, troubleshooting",
+    "usageTip": "Use 'warning' for non-critical alerts.",
+    "commonMistake": "Ignoring compiler warnings (they are there for a reason).",
+    "collocations": [
+      "system warning",
+      "warning message",
+      "compiler warning"
+    ]
+  },
+  {
+    "word": "Warning",
+    "meaning": "A notification or signal that indicates a potential problem or risk.",
+    "shortMeaning": "alert/notice",
+    "example": "The server sent a warning about low disk space.",
+    "example2": "Do not ignore the warning signs in the logs.",
+    "example3": "He fixed the bug before the warning became an error.",
+    "Explanation": "A warning is a message from a system designed to alert the user or administrator that something is not right, but the system is still running. It is less severe than an 'error' or a 'critical' alert, which usually indicate that something has already failed. Warnings are intended to give you time to fix an issue (like memory usage creeping up) before it causes a crash. Always pay attention to warning logs to prevent future downtime.",
+    "synonyms": [
+      "alert",
+      "notification",
+      "notice"
+    ],
+    "antonyms": [
+      "error",
+      "failure",
+      "success"
+    ],
+    "nounForm": "warning",
+    "verbForm": "warn",
+    "adjectiveForm": "warning",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "System logs, debugging, security",
+    "usageTip": "Use this to describe non-critical but important alerts.",
+    "commonMistake": "Ignoring warnings because they are not 'errors'.",
+    "collocations": [
+      "issue a warning",
+      "warning message",
+      "warning sign"
+    ]
+  }
+]

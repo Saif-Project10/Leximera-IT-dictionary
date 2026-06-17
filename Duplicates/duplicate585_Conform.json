@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Conform",
+    "meaning": "To behave according to social rules, standards, or laws.",
+    "shortMeaning": "follow rules or standards",
+    "example": "Students must conform to the school's dress code.",
+    "example2": "The product does not conform to safety regulations.",
+    "example3": "He felt pressure to conform to his friends' expectations.",
+    "Explanation": "To conform means to match, obey, or be similar to what is expected or required. It often involves adjusting one's behavior, appearance, or output to fit a pattern. The word can have a neutral meaning (like complying with standards) or a negative one (like losing individuality). It is frequently followed by the preposition 'to' or 'with'. Understanding whether conformity is positive (safety) or negative (peer pressure) depends entirely on the context provided.",
+    "synonyms": [
+      "comply",
+      "follow",
+      "adhere",
+      "obey",
+      "fit in"
+    ],
+    "antonyms": [
+      "deviate",
+      "rebel",
+      "differ",
+      "defy"
+    ],
+    "nounForm": "conformity",
+    "verbForm": "conform",
+    "adjectiveForm": "conforming",
+    "partOfSpeech": "verb",
+    "commonContext": "Social behavior, quality standards, regulations",
+    "usageTip": "Use 'conform to' or 'conform with' when talking about following rules or matching standards.",
+    "commonMistake": "Saying 'conform into' instead of the correct 'conform to' or 'conform with'.",
+    "collocations": [
+      "conform to standards",
+      "conform to regulations",
+      "pressure to conform",
+      "refuse to conform"
+    ]
+  },
+  {
+    "word": "Conform",
+    "meaning": "To follow the rules, standards, or a specific design",
+    "shortMeaning": "follow rules",
+    "example": "The code must conform to the company's style guide.",
+    "example2": "This device does not conform to safety regulations.",
+    "example3": "Ensure that the data format conforms to the API requirements.",
+    "Explanation": "The word 'conform' means to behave or be created according to a set of established standards. In technical fields, it is used to ensure that everything is consistent and works within a specific framework. For example, a website should conform to web accessibility standards so everyone can use it. If something does not conform, it might be rejected by a system or fail a quality check. It is an essential concept for maintaining high-quality and interoperable systems.",
+    "synonyms": [
+      "comply",
+      "follow",
+      "obey"
+    ],
+    "antonyms": [
+      "rebel",
+      "differ",
+      "deviate"
+    ],
+    "nounForm": "conformity",
+    "verbForm": "conform",
+    "adjectiveForm": "conformable",
+    "partOfSpeech": "verb",
+    "commonContext": "Coding standards, industry regulations, data formats",
+    "usageTip": "Use 'conform to' followed by the rule or standard you are following.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "conform to standards",
+      "conform to rules",
+      "strictly conform"
+    ]
+  }
+]

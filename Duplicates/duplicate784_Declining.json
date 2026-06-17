@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Declining",
+    "meaning": "Becoming smaller, fewer, or weaker; decreasing.",
+    "shortMeaning": "decreasing; going down",
+    "example": "The town's population has been declining for years.",
+    "example2": "She is declining the invitation due to a prior commitment.",
+    "example3": "His health has been in a declining state.",
+    "Explanation": "'Declining' is the present participle of the verb 'decline'. It has two main uses: as an adjective describing a downward trend (declining sales) and as a verb meaning to politely refuse (declining an offer). The first meaning is about reduction and deterioration, often used in economics, demographics, and health. The second is about courteous refusal. Context makes the meaning clear. It is a common word in reports, news, and formal communication.",
+    "synonyms": [
+      "decreasing",
+      "diminishing",
+      "deteriorating",
+      "refusing"
+    ],
+    "antonyms": [
+      "increasing",
+      "improving",
+      "accepting"
+    ],
+    "nounForm": "decline",
+    "verbForm": "decline",
+    "adjectiveForm": "declining",
+    "partOfSpeech": "adjective, verb (present participle)",
+    "commonContext": "Economics, health, population, formal refusals",
+    "usageTip": "Use 'declining' to describe a negative trend or to indicate you are politely saying 'no' to something.",
+    "commonMistake": "Using 'declining' to mean 'sloping downward' (which is correct but less common) in everyday conversation.",
+    "collocations": [
+      "declining health",
+      "declining offer",
+      "steadily declining",
+      "in declining order"
+    ]
+  },
+  {
+    "word": "Declining",
+    "meaning": "Becoming less in amount, power, or quality",
+    "shortMeaning": "decreasing",
+    "example": "The declining interest in the project is concerning.",
+    "example2": "Server traffic is declining during off-hours.",
+    "example3": "Declining performance needs immediate attention.",
+    "Explanation": "Declining refers to a downward trend. It is used in metrics, performance reports, and market analysis. The verb is 'decline', and the noun is 'decline'. Distinguish it from 'decaying' (losing physical strength or quality) as 'declining' often refers specifically to statistical values, popularity, or performance figures. Always track these trends to manage potential failures.",
+    "synonyms": [
+      "decreasing",
+      "falling",
+      "dropping"
+    ],
+    "antonyms": [
+      "rising",
+      "growing",
+      "increasing"
+    ],
+    "nounForm": "decline",
+    "verbForm": "decline",
+    "adjectiveForm": "declining",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Metrics, trends, reporting",
+    "usageTip": "Use for trends, numbers, or performance metrics.",
+    "commonMistake": "Using 'declining' for a sudden crash (it implies a trend).",
+    "collocations": [
+      "declining performance",
+      "declining trend",
+      "declining numbers"
+    ]
+  }
+]

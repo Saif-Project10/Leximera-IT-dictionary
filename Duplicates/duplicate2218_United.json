@@ -1,0 +1,63 @@
+[
+  {
+    "word": "United",
+    "meaning": "Joined together for a common purpose",
+    "shortMeaning": "joined",
+    "example": "The team was united in their efforts to fix the bug.",
+    "example2": "We have a united codebase for the web and mobile apps.",
+    "example3": "The data from different departments is now united.",
+    "Explanation": "In an IT context, 'united' refers to resources, teams, or software components that have been consolidated to act as one. A 'united' team communicates well and shares goals, while a 'united' system architecture shares data across platforms. It carries a positive connotation of harmony and collaboration. While less technical than 'integrated,' it is often used to describe the human and operational side of tech projects. Using this word emphasizes synergy and cooperation within your technical organization.",
+    "synonyms": [
+      "joined",
+      "combined",
+      "collaborative"
+    ],
+    "antonyms": [
+      "divided",
+      "isolated",
+      "separated"
+    ],
+    "nounForm": "unity",
+    "verbForm": "unite",
+    "adjectiveForm": "united",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Team management, project strategy",
+    "usageTip": "Use this when talking about team alignment.",
+    "commonMistake": "Using 'united' instead of 'integrated' for systems.",
+    "collocations": [
+      "united effort",
+      "united team"
+    ]
+  },
+  {
+    "word": "United",
+    "meaning": "Joined together as a single group or combined effort.",
+    "shortMeaning": "joined together",
+    "example": "The developers worked in a united team to finish the project.",
+    "example2": "The application is a united effort of several departments.",
+    "example3": "A united front helps resolve technical issues faster.",
+    "Explanation": "The word 'united' emphasizes cooperation and common goals. In an IT context, it usually refers to a team working together or different systems being joined to form one cohesive service. A united team can solve problems more efficiently than individuals working in isolation. Similarly, a united software suite provides a seamless experience for the user. It highlights the power of collaboration and integration in tech projects.",
+    "synonyms": [
+      "combined",
+      "joint",
+      "collaborative"
+    ],
+    "antonyms": [
+      "divided",
+      "separate",
+      "split"
+    ],
+    "nounForm": "unity",
+    "verbForm": "unite",
+    "adjectiveForm": "united",
+    "partOfSpeech": "adjective",
+    "commonContext": "Team collaboration and system design",
+    "usageTip": "Use to describe collaborative effort.",
+    "commonMistake": "Confusing 'united' (people) with 'unified' (systems).",
+    "collocations": [
+      "united team",
+      "united effort",
+      "united approach"
+    ]
+  }
+]

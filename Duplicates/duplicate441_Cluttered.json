@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Cluttered",
+    "meaning": "Filled or covered with a disorganized collection of objects; littered.",
+    "shortMeaning": "filled with too many things",
+    "example": "The counter was cluttered with old mail and keys.",
+    "example2": "His mind felt cluttered with worries.",
+    "example3": "Avoid cluttered design on your website.",
+    "Explanation": "Cluttered is an adjective that describes a space overloaded with too many items, creating visual and physical chaos. It implies a congestion that makes it hard to find things or move freely. It can be used literally (a cluttered room) or figuratively (cluttered thoughts). The verb is 'clutter,' and the noun is 'clutter.' A common mistake is thinking it's just a synonym for 'messy'; clutter specifically refers to an overabundance of things in a space. This word is key in discussions about minimalism, productivity, and design, where clearing clutter is seen as creating calm and efficiency.",
+    "synonyms": [
+      "crowded",
+      "jumbled",
+      "littered",
+      "overfilled",
+      "messy"
+    ],
+    "antonyms": [
+      "uncluttered",
+      "clear",
+      "sparse",
+      "minimal",
+      "tidy"
+    ],
+    "nounForm": "clutter",
+    "verbForm": "clutter",
+    "adjectiveForm": "cluttered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Homes, workspaces, digital files, and mental states.",
+    "usageTip": "Use 'cluttered' when there are too many items in a space, creating a sense of chaos and obstruction.",
+    "commonMistake": "Using 'cluttered' for a space that is simply dirty; clutter is about an excess of objects, not dirt.",
+    "collocations": [
+      "cluttered space",
+      "cluttered with",
+      "visually cluttered"
+    ]
+  },
+  {
+    "word": "Cluttered",
+    "meaning": "Filled with too many objects, making things messy or hard to use",
+    "shortMeaning": "messy or crowded",
+    "example": "The desktop screen is too cluttered with icons.",
+    "example2": "A cluttered UI can confuse users during navigation.",
+    "example3": "Please clean up the cluttered folder structure.",
+    "Explanation": "The word 'cluttered' describes an environment or interface that has too much stuff in it. A cluttered desk is messy; a cluttered web design is difficult to navigate because it has too many buttons, colors, or images. Keeping interfaces clean and organized is a key goal in UI/UX design. Reducing clutter helps users focus on the most important tasks without feeling overwhelmed by unnecessary details.",
+    "synonyms": [
+      "messy",
+      "crowded",
+      "disorganized"
+    ],
+    "antonyms": [
+      "organized",
+      "tidy",
+      "clean"
+    ],
+    "nounForm": "clutter",
+    "verbForm": "clutter",
+    "adjectiveForm": "cluttered",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, file organization, and office spaces",
+    "usageTip": "Use 'cluttered' to criticize a design or space that lacks focus due to excess elements.",
+    "commonMistake": "Confusing 'cluttered' with 'complex'; a system can be complex but still be clean and organized.",
+    "collocations": [
+      "cluttered interface",
+      "cluttered desktop",
+      "highly cluttered"
+    ]
+  }
+]

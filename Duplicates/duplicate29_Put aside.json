@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Put aside",
+    "meaning": "To save or reserve something for later use; to stop focusing on something temporarily",
+    "shortMeaning": "save for later or ignore temporarily",
+    "example": "Let's put aside our differences and work together.",
+    "example2": "She put aside some money every month for her vacation.",
+    "example3": "We need to put this issue aside and focus on the deadline.",
+    "Explanation": "The phrasal verb 'put aside' has two related meanings. First, it means to physically place something to one side to use or deal with later. Second, it means to temporarily stop thinking about or dealing with an issue, often an emotional one like an argument, in order to focus on something more important. It implies a deliberate choice to delay action, not forgetfulness. It's about managing priorities and resources.",
+    "synonyms": [
+      "set aside",
+      "save",
+      "reserve",
+      "shelve",
+      "disregard temporarily"
+    ],
+    "antonyms": [
+      "address immediately",
+      "use now",
+      "focus on",
+      "confront"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "put aside",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Time management, conflict resolution, financial planning, meeting agendas",
+    "usageTip": "Often used for abstract concepts like differences, feelings, or time, as well as physical things like money.",
+    "commonMistake": "Confusing 'put aside' (reserve) with 'put away' (store in its proper place).",
+    "collocations": [
+      "put aside money",
+      "put aside differences",
+      "put aside time",
+      "put aside feelings"
+    ]
+  },
+  {
+    "word": "Put aside",
+    "meaning": "To temporarily save, store, or reserve resources, code changes, or budget allocations for future implementation or emergency use",
+    "shortMeaning": "temporarily reserve or store",
+    "example": "You can put aside your current code changes using Git stash to work on an urgent bug.",
+    "example2": "The project manager decided to put aside ten percent of the cloud budget for unexpected scaling costs.",
+    "example3": "Let's put aside this feature request until we finish debugging the main application interface.",
+    "Explanation": "The phrasal verb 'put aside' means to save something or delay action on an item so that you can focus on a more immediate priority. In code environments, developers often put aside their incomplete scripts using version control features like shelving or stashing, allowing them to shift cleanly to a critical server patch without losing work. In project management, putting aside time or technical resources creates buffers that guard against sudden roadblocks. It implies an intentional, organized pause on a task or asset with the absolute expectation of returning to it at a more appropriate time.",
+    "synonyms": [
+      "stash",
+      "reserve",
+      "shelve"
+    ],
+    "antonyms": [
+      "consume immediately",
+      "discard",
+      "abandon"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "put aside",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Task management, version control workflows, resource budgeting",
+    "usageTip": "Use 'put aside' when talking about pausing work on a feature or storing resources with the plan to reuse them later.",
+    "commonMistake": "Using 'put aside' when you mean permanently deleting or canceling a feature with no intention of reopening it.",
+    "collocations": [
+      "put aside code",
+      "put aside a task",
+      "put aside resources"
+    ]
+  }
+]

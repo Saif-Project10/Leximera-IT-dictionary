@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Temporal",
+    "meaning": "Relating to time or sequences in time.",
+    "shortMeaning": "related to time",
+    "example": "The database tracks the temporal changes in user behavior.",
+    "example2": "Temporal resolution is important for high-speed cameras.",
+    "example3": "We added a temporal filter to the data stream.",
+    "Explanation": "The word 'temporal' is used in IT to describe data or events that are organized by or relate to time. It often refers to time-series data or operations that depend on the order of events. In database design, 'temporal tables' store information about how data changes over time, including start and end timestamps. Understanding temporal logic is key for building systems that track history rather than just the current state.",
+    "synonyms": [
+      "time-related",
+      "chronological"
+    ],
+    "antonyms": [
+      "atemporal",
+      "timeless"
+    ],
+    "nounForm": "time",
+    "verbForm": "N/A",
+    "adjectiveForm": "temporal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database management and data analysis",
+    "usageTip": "Use 'temporal' when referring to time-based data or properties.",
+    "commonMistake": "Confusing 'temporal' (time) with 'temporary' (short-lived).",
+    "collocations": [
+      "temporal data",
+      "temporal logic",
+      "temporal resolution"
+    ]
+  },
+  {
+    "word": "Temporal",
+    "meaning": "Relating to time or a limited period of time",
+    "shortMeaning": "time-related",
+    "example": "There is a temporal gap between the two events.",
+    "example2": "Temporal logic is used in database systems.",
+    "example3": "We must account for temporal changes in the data.",
+    "Explanation": "The word 'temporal' is a formal way to describe something related to time. It is used in technical contexts like databases (temporal databases), logic, and science. It means that something is subject to time, exists for a period, or follows a sequence. It is distinct from 'temporary', which specifically means short-lived. 'Temporal' is broader and refers to the nature of time itself.",
+    "synonyms": [
+      "time-based",
+      "sequential",
+      "chronological"
+    ],
+    "antonyms": [
+      "timeless",
+      "eternal",
+      "permanent"
+    ],
+    "nounForm": "temporality",
+    "verbForm": "N/A",
+    "adjectiveForm": "temporal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database theory, logic, science, philosophy",
+    "usageTip": "Use 'temporal' in formal or technical contexts to refer to time.",
+    "commonMistake": "Confusing it with 'temporary' (short-lived).",
+    "collocations": [
+      "temporal logic",
+      "temporal database",
+      "temporal pattern"
+    ]
+  }
+]

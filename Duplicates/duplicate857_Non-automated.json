@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Non-automated",
+    "meaning": "Not operated or controlled by machines or computers; requiring human intervention.",
+    "shortMeaning": "not automated",
+    "example": "The factory still has several non-automated assembly lines.",
+    "example2": "This is a non-automated process, so it takes longer.",
+    "example3": "We offer both automated and non-automated billing options.",
+    "Explanation": "Non-automated describes processes, systems, or tasks that are performed manually by humans, without the use of self-operating machinery or software. It's the opposite of 'automated'. Non-automated work can be slower, more prone to error, but sometimes allows for more flexibility and human judgment. The word is hyphenated when used as a compound adjective before a noun. In an increasingly automated world, identifying non-automated steps is the first step toward potential efficiency improvements, though some tasks may intentionally remain manual.",
+    "synonyms": [
+      "manual",
+      "hand-operated",
+      "human-driven",
+      "non-mechanized"
+    ],
+    "antonyms": [
+      "automated",
+      "mechanized",
+      "computerized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "automate",
+    "adjectiveForm": "non-automated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Manufacturing, processes, services, systems",
+    "usageTip": "Hyphenated because 'non' is a prefix and 'automated' is a past participle acting as an adjective.",
+    "commonMistake": "Writing it as 'nonautomated' (one word). With 'non', a hyphen is usually used, especially before a past participle.",
+    "collocations": [
+      "non-automated process",
+      "non-automated system",
+      "non-automated teller",
+      "largely non-automated"
+    ]
+  },
+  {
+    "word": "Non-automated",
+    "meaning": "Requiring manual human intervention to complete",
+    "shortMeaning": "done manually",
+    "example": "The deployment process is still non-automated and slow.",
+    "example2": "He performs non-automated checks on the server every morning.",
+    "example3": "We are replacing non-automated tasks with scripts.",
+    "Explanation": "A 'non-automated' task is one that a human must perform step-by-step. While manual tasks are sometimes necessary, they are prone to human error and consume significant time. In IT, the goal is usually to move as many processes as possible from 'non-automated' to 'automated' to save time, reduce mistakes, and increase consistency. If a process is frequently repeated, it should almost always be considered a candidate for automation.",
+    "synonyms": [
+      "manual",
+      "hand-done"
+    ],
+    "antonyms": [
+      "automated",
+      "scripted"
+    ],
+    "nounForm": "manual work",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-automated",
+    "partOfSpeech": "adjective",
+    "commonContext": "DevOps and process management",
+    "usageTip": "Use 'non-automated' for tasks requiring manual effort.",
+    "commonMistake": "Keeping a process non-automated just because 'that is how we have always done it'.",
+    "collocations": [
+      "non-automated process",
+      "non-automated task",
+      "non-automated check"
+    ]
+  }
+]

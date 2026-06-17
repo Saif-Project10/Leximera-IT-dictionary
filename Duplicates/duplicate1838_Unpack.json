@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Unpack",
+    "meaning": "To extract files from a compressed container or to break down data",
+    "shortMeaning": "extract or decompress",
+    "example": "I need to unpack the ZIP file to see the documents inside.",
+    "example2": "In Python, you can unpack a list into multiple variables.",
+    "example3": "The installer will unpack the necessary files to your hard drive.",
+    "Explanation": "In computing, 'unpack' can mean two things. First, it refers to extracting files from an archive (like a .zip or .rar file). Second, in programming, it refers to 'tuple unpacking' or 'sequence unpacking,' where you take a collection of items and assign them to individual variables in one go. For example, if you have a list `[10, 20]`, you can unpack it so that `x = 10` and `y = 20`. The word implies taking something that is bundled together and opening it up for use. It is a very common verb used by both regular computer users and software developers.",
+    "synonyms": [
+      "extract",
+      "decompress",
+      "unzip"
+    ],
+    "antonyms": [
+      "pack",
+      "compress",
+      "zip"
+    ],
+    "nounForm": "unpacker",
+    "verbForm": "unpack",
+    "adjectiveForm": "unpacked",
+    "partOfSpeech": "verb",
+    "commonContext": "File management and programming",
+    "usageTip": "Use 'unpack' when you are moving data from a container to separate locations.",
+    "commonMistake": "Using 'unpack' when you just mean 'open' a document.",
+    "collocations": [
+      "unpack a ZIP",
+      "unpack a list",
+      "automatic unpack"
+    ]
+  },
+  {
+    "word": "Unpack",
+    "meaning": "To extract compressed archive files, or to deconstruct data values rapidly from an array structural group",
+    "shortMeaning": "extract compressed or grouped values",
+    "example": "The installer script will unpack all compressed media assets into the application directory.",
+    "example2": "Modern JavaScript features allow developers to unpack array variables using a clean destructuring layout.",
+    "example3": "Make sure you have enough hard disk storage before you unpack the large ZIP data package.",
+    "Explanation": "The word 'unpack' carries physical and programming meanings. In asset management, it means extracting files from compressed formats like ZIP, RAR, or TAR archives. In programming syntax (such as JavaScript or Python), unpacking means using language tools to extract individual values out of structured arrays or objects and assign them straight to separate variable targets in a single, clean line of script.",
+    "synonyms": [
+      "extract",
+      "decompress",
+      "destructure",
+      "unzip"
+    ],
+    "antonyms": [
+      "pack",
+      "compress",
+      "zip"
+    ],
+    "nounForm": "unpacking",
+    "verbForm": "unpack",
+    "adjectiveForm": "unpacked",
+    "partOfSpeech": "verb",
+    "commonContext": "Software deployment scripts, archive asset extractions, and variable assignment patterns",
+    "usageTip": "Use 'unpack' when describing extractions of compressed folder files or destructuring data coordinates out of array chains.",
+    "commonMistake": "Using 'unpack' when you simply mean reading a single item from an array via its index position index [0].",
+    "collocations": [
+      "unpack archive files",
+      "unpack array values",
+      "automatically unpack"
+    ]
+  }
+]

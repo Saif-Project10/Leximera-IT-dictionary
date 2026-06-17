@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Processed",
+    "meaning": "Treated or prepared by a special method, especially in manufacturing; or (of food) altered from its natural state",
+    "shortMeaning": "treated or prepared",
+    "example": "Processed cheese melts easily.",
+    "example2": "Your application is being processed.",
+    "example3": "Avoid foods high in processed sugar.",
+    "Explanation": "'Processed' is the past participle of the verb 'process'. As an adjective, it describes something that has undergone a series of mechanical or chemical operations. In food, it often has a negative connotation, implying additives and lower nutritional value. In data or administration, it is neutral, meaning information or requests have been handled through a system. The word emphasizes the transformation from a raw or initial state to a finished or usable one.",
+    "synonyms": [
+      "treated",
+      "refined",
+      "manufactured"
+    ],
+    "antonyms": [
+      "raw",
+      "natural",
+      "unprocessed"
+    ],
+    "nounForm": "process",
+    "verbForm": "process",
+    "adjectiveForm": "processed",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Food industry, data management, administrative tasks",
+    "usageTip": "In a health context, 'processed foods' is a common warning phrase.",
+    "commonMistake": "Thinking all processing is bad; data processing is necessary and neutral.",
+    "collocations": [
+      "highly processed",
+      "processed meat",
+      "processed application"
+    ]
+  },
+  {
+    "word": "Processed",
+    "meaning": "Having been subjected to a series of operations or changes",
+    "shortMeaning": "changed/handled",
+    "example": "The processed data is stored in the database.",
+    "example2": "Once processed, the image is ready for display.",
+    "example3": "The server has already processed the request.",
+    "Explanation": "The word 'processed' indicates that data or materials have undergone an action or a series of steps to achieve a result. The base verb is 'process'. In IT, this usually refers to information that has been transformed by a program or algorithm. Processed data is often cleaner, structured, or more useful than the raw original version. Always keep track of what has been processed to avoid duplicating work, which can lead to errors or unnecessary resource consumption.",
+    "synonyms": [
+      "treated",
+      "handled",
+      "transformed"
+    ],
+    "antonyms": [
+      "raw",
+      "unprocessed",
+      "unhandled"
+    ],
+    "nounForm": "process",
+    "verbForm": "process",
+    "adjectiveForm": "processed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data management, computing",
+    "usageTip": "Use when describing the state of data after a task.",
+    "commonMistake": "Confusing 'processed' (past) with 'processing' (present).",
+    "collocations": [
+      "processed data",
+      "already processed",
+      "processed successfully"
+    ]
+  }
+]

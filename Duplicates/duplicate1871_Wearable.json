@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Wearable",
+    "meaning": "A general term for technology that can be worn on the body as an accessory or clothing",
+    "shortMeaning": "worn technology",
+    "example": "The Apple Watch is the most famous wearable on the market today.",
+    "example2": "The fitness industry has been transformed by wearable sensors.",
+    "example3": "Is this new smart ring considered a wearable?",
+    "Explanation": "The word 'wearable' refers to any electronic device small and light enough to be worn. These devices often contain sensors to track movement, heart rate, or location. They are designed to be part of the user's daily life without being intrusive. While the term is often used as a noun, it can also be an adjective. Wearables bridge the gap between fashion and technology. They usually connect to a smartphone to display data and provide notifications.",
+    "synonyms": [
+      "wearable tech",
+      "body-borne computer",
+      "smart accessory"
+    ],
+    "antonyms": [
+      "stationary device",
+      "handheld device"
+    ],
+    "nounForm": "wearable",
+    "verbForm": "N/A",
+    "adjectiveForm": "wearable",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Consumer electronics, fitness, and health",
+    "usageTip": "Use 'wearable' as a noun to refer to the device itself (e.g., 'I bought a new wearable').",
+    "commonMistake": "Thinking 'wearable' only means smartwatches; it includes rings, glasses, and even smart clothing.",
+    "collocations": [
+      "wearable technology",
+      "smart wearable",
+      "wearable market"
+    ]
+  },
+  {
+    "word": "Wearable",
+    "meaning": "Small electronic device designed to be worn on the body",
+    "shortMeaning": "body-worn device",
+    "example": "The new wearable tracks heart rate and daily activity.",
+    "example2": "Developers are building apps for the latest wearable device.",
+    "example3": "The market for wearable technology is growing rapidly.",
+    "Explanation": "Wearable refers to a category of electronics that can be worn, such as smartwatches, fitness trackers, or smart glasses. These devices typically collect data about the user or provide alerts and information directly on the person. In software development, creating apps for wearables requires optimizing for very small screens and battery constraints. They represent a significant shift in how we interact with technology, moving it closer to our daily lives and physical health monitoring.",
+    "synonyms": [
+      "body-worn",
+      "smart-accessory"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "wearable",
+    "verbForm": "N/A",
+    "adjectiveForm": "wearable",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Mobile development, IoT, health tech",
+    "usageTip": "Use this for devices that provide data and fit on the body.",
+    "commonMistake": "Treating a wearable app the same way as a smartphone app.",
+    "collocations": [
+      "wearable technology",
+      "wearable device",
+      "wearable app"
+    ]
+  },
+  {
+    "word": "Wearable",
+    "meaning": "A device designed to be worn on the body, usually smart electronics",
+    "shortMeaning": "body-worn device",
+    "example": "The new fitness wearable tracks your daily heart rate.",
+    "example2": "He is developing software for a wrist-based wearable.",
+    "example3": "The wearable market has grown rapidly in recent years.",
+    "Explanation": "A 'wearable' refers to electronic technology or computers incorporated into clothing or accessories worn on the body. These devices often track health, provide notifications, or perform specific computing tasks. Common examples include smartwatches, fitness trackers, and smart glasses. They rely on sensors, miniaturized hardware, and wireless connectivity. The term describes the entire class of devices that focus on personalization and continuous data collection.",
+    "synonyms": [
+      "smart device",
+      "body-worn technology"
+    ],
+    "antonyms": [
+      "stationary",
+      "desktop",
+      "handheld"
+    ],
+    "nounForm": "wearable",
+    "verbForm": "N/A",
+    "adjectiveForm": "wearable",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Consumer electronics and IoT",
+    "usageTip": "Use to refer to smart devices worn on the body.",
+    "commonMistake": "Calling any handheld device a wearable.",
+    "collocations": [
+      "wearable technology",
+      "wearable device",
+      "wearable sensor"
+    ]
+  }
+]

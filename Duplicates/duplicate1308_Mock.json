@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Mock",
+    "meaning": "To tease or laugh at someone or something in a scornful or unkind way; not real, imitation.",
+    "shortMeaning": "make fun of, fake",
+    "example": "The older kids mocked his accent.",
+    "example2": "Before the debate, they held a mock election.",
+    "example3": "She gave a mock sigh of disappointment, but she was smiling.",
+    "Explanation": "'Mock' can be a verb meaning to ridicule or make fun of someone. It can also be an adjective meaning not genuine, as in a 'mock exam' (a practice test). The tone is often negative when used as a verb, suggesting cruelty. As an adjective, it is neutral, meaning simulated or for practice. The noun form is 'mockery'. It's important to distinguish between harmless mock practice and hurtful mockery of a person.",
+    "synonyms": [
+      "ridicule",
+      "tease",
+      "imitate",
+      "fake"
+    ],
+    "antonyms": [
+      "praise",
+      "respect",
+      "genuine",
+      "real"
+    ],
+    "nounForm": "mockery",
+    "verbForm": "mock",
+    "adjectiveForm": "mock",
+    "partOfSpeech": "verb, adjective",
+    "commonContext": "Bullying, practice tests, imitation products",
+    "usageTip": "As an adjective, it often comes before nouns like 'exam', 'battle', 'interview'.",
+    "commonMistake": "Thinking 'mock' always means cruel teasing; it can also mean a practice version.",
+    "collocations": [
+      "mock exam",
+      "mock battle",
+      "mock someone's efforts",
+      "make a mockery of"
+    ]
+  },
+  {
+    "word": "Mock",
+    "meaning": "An imitation or prototype used for testing instead of real objects",
+    "shortMeaning": "imitation",
+    "example": "We use a mock API for testing the frontend.",
+    "example2": "He created a mock object to simulate the database connection.",
+    "example3": "The team ran a mock test of the disaster recovery plan.",
+    "Explanation": "A 'mock' is a fake version of a system or component used for testing. When you are testing your application, you don't always want to use the *real* database or the *real* payment service (which costs money or could cause real issues). Instead, you use a 'mock' that acts like the real thing without actually affecting any real data. It is a critical part of unit testing and development to ensure your system can be safely tested in isolation.",
+    "synonyms": [
+      "fake",
+      "imitation",
+      "simulated"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "live"
+    ],
+    "nounForm": "mock",
+    "verbForm": "mock",
+    "adjectiveForm": "mock",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Testing and development",
+    "usageTip": "Use 'mock' to refer to a fake system used for testing.",
+    "commonMistake": "Confusing 'mock' with 'broken'; a mock is intentionally fake but functional for testing.",
+    "collocations": [
+      "mock API",
+      "mock object",
+      "mock test"
+    ]
+  },
+  {
+    "word": "Mock",
+    "meaning": "To create a fake or simplified version of something for testing or design",
+    "shortMeaning": "fake version",
+    "example": "We can mock the API response so we can keep developing the frontend.",
+    "example2": "A mock-up of the website helps the client see the design before we start coding.",
+    "example3": "The developer created a mock database for the unit tests.",
+    "Explanation": "In software development, 'mocking' is a very important technique. If your app needs to get data from a server that isn't finished yet, you create a 'mock'—a fake server that sends back fixed data. This allows you to keep working without waiting. In design, a 'mock-up' is a high-fidelity image of what the final app will look like. Mocking is essential for 'Unit Testing', where you want to test one small piece of code without worrying about other parts of the system. It saves time and makes development much smoother. It is about creating a simulation of reality.",
+    "synonyms": [
+      "simulate",
+      "imitate",
+      "fake"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "genuine"
+    ],
+    "nounForm": "mock-up",
+    "verbForm": "mock",
+    "adjectiveForm": "mocked",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "UI/UX design, software testing, API development",
+    "usageTip": "Use 'mock' when you are building a temporary, fake version of something for work.",
+    "commonMistake": "Using 'mock' to mean 'make fun of'; in IT, it is a neutral technical term for simulation.",
+    "collocations": [
+      "mock API",
+      "mock object",
+      "design mock-up"
+    ]
+  }
+]

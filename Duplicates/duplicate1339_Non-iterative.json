@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Non-iterative",
+    "meaning": "Not involving repetition or a cyclical process; done in a single, linear sequence",
+    "shortMeaning": "not repetitive, linear",
+    "example": "The old software development model was non-iterative.",
+    "example2": "They used a non-iterative approach to solve the equation.",
+    "example3": "Non-iterative processes can be risky if errors are found late.",
+    "Explanation": "'Non-iterative' is a technical adjective, especially common in software development, engineering, and project management. It describes a process that moves from start to finish in a straight line without loops or repeated cycles of testing and refinement. This contrasts with modern 'iterative' or 'agile' methods. Non-iterative approaches are often seen as more rigid and less adaptable to change. The term is used to categorize methodologies.",
+    "synonyms": [
+      "linear",
+      "sequential",
+      "waterfall"
+    ],
+    "antonyms": [
+      "iterative",
+      "cyclical",
+      "agile"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "iterate",
+    "adjectiveForm": "non-iterative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, project management, problem-solving",
+    "usageTip": "Frequently used when comparing different project management or development philosophies.",
+    "commonMistake": "Using it to mean 'not repeated' in a general sense outside of process descriptions.",
+    "collocations": [
+      "non-iterative process",
+      "non-iterative method",
+      "non-iterative design"
+    ]
+  },
+  {
+    "word": "Non-iterative",
+    "meaning": "Not using a loop or a repeating cycle to reach a result",
+    "shortMeaning": "no repeating loop",
+    "example": "This non-iterative algorithm calculates the result in one step.",
+    "example2": "We prefer a non-iterative approach for performance reasons.",
+    "example3": "The calculation is non-iterative and very fast.",
+    "Explanation": "The word 'non-iterative' refers to a process or function that does not use loops (like 'for' or 'while' loops) to calculate a result. Instead, it might use a mathematical formula (direct solution) or a recursive approach. In performance-critical software, 'non-iterative' solutions are often sought because they can be significantly faster by avoiding the overhead of thousands of loop cycles. It is a specific type of algorithmic optimization.",
+    "synonyms": [
+      "direct",
+      "non-looping"
+    ],
+    "antonyms": [
+      "iterative",
+      "repetitive",
+      "looped"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-iterative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms, math, optimization",
+    "usageTip": "Use to highlight algorithmic efficiency.",
+    "commonMistake": "Thinking non-iterative means 'not improved'; it refers to the method, not the quality.",
+    "collocations": [
+      "non-iterative algorithm",
+      "non-iterative method",
+      "non-iterative solution"
+    ]
+  }
+]

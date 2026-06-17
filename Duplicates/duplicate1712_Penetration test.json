@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Penetration test",
+    "meaning": "A simulated cyberattack on a computer system to check for exploitable vulnerabilities",
+    "shortMeaning": "pen test / ethical hack",
+    "example": "The bank hires experts to perform a penetration test every year.",
+    "example2": "A penetration test helps identify weak spots in the firewall.",
+    "example3": "The results of the penetration test were surprising.",
+    "Explanation": "Often called a 'pen test', this is a proactive security measure. Ethical hackers try to break into a system just like a real criminal would, but with permission. The goal is to find security holes before the bad guys do. It involves testing software, hardware, and even human employees (via phishing). It is a standard requirement for many industries to ensure they are protected from real attacks. It is much more than a simple scan; it involves actual attempts to gain access.",
+    "synonyms": [
+      "pen test",
+      "ethical hacking",
+      "security audit"
+    ],
+    "antonyms": [
+      "real cyberattack"
+    ],
+    "nounForm": "penetration",
+    "verbForm": "penetrate",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Cybersecurity and IT auditing",
+    "usageTip": "Use 'pen test' as a shorter, professional version of this term.",
+    "commonMistake": "Confusing a 'penetration test' (active) with a 'vulnerability scan' (passive/automated).",
+    "collocations": [
+      "conduct a penetration test",
+      "annual penetration test",
+      "external penetration test"
+    ]
+  },
+  {
+    "word": "Penetration test",
+    "meaning": "A controlled attack on a computer system to find and fix security weaknesses",
+    "shortMeaning": "security testing",
+    "example": "The bank hired a company to perform a penetration test on its mobile app.",
+    "example2": "A regular penetration test is required for many companies to stay compliant.",
+    "example3": "The penetration test revealed several major flaws in our server setup.",
+    "Explanation": "A penetration test (often called a 'pentest') is a simulated cyberattack. Ethical hackers use the same tools and techniques as criminals to see if they can break into a system. Unlike a real attack, they do this with permission and provide a report on how to fix the holes they find. It is a proactive way to ensure security. There are different types, such as 'white box' (hacker has full info) and 'black box' (hacker has no info). It is one of the most important jobs in the cybersecurity industry.",
+    "synonyms": [
+      "security audit",
+      "ethical hacking",
+      "vulnerability assessment"
+    ],
+    "antonyms": [
+      "N/A",
+      "security breach",
+      "real attack"
+    ],
+    "nounForm": "penetration test",
+    "verbForm": "to penetration test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cybersecurity and corporate IT security",
+    "usageTip": "Abbreviate it as 'pentest' in casual professional settings, but use the full term in reports.",
+    "commonMistake": "Thinking a penetration test is only for websites; it's for networks, apps, and hardware too.",
+    "collocations": [
+      "conduct a penetration test",
+      "annual penetration test",
+      "penetration test report"
+    ]
+  }
+]

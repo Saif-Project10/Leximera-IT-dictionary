@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Trying",
+    "meaning": "Difficult to endure or causing frustration/strain.",
+    "shortMeaning": "frustrating",
+    "example": "These are trying times for the IT department.",
+    "example2": "He is going through a trying period at work.",
+    "example3": "The hardware setup was very trying.",
+    "Explanation": "The word 'trying' is an adjective used to describe situations that are difficult, exhausting, or mentally taxing. It is distinct from the verb 'to try' (to attempt something). When you describe a project as 'trying', you are implying that it is draining your energy or patience. Use it in professional settings only when you want to highlight that a task is particularly burdensome.",
+    "synonyms": [
+      "difficult",
+      "taxing",
+      "exhausting"
+    ],
+    "antonyms": [
+      "easy",
+      "pleasant",
+      "calm"
+    ],
+    "nounForm": "trial",
+    "verbForm": "try",
+    "adjectiveForm": "trying",
+    "partOfSpeech": "adjective / verb (participle)",
+    "commonContext": "Work stress, project management, and team atmosphere",
+    "usageTip": "Use 'trying' to describe a situation that tests your patience.",
+    "commonMistake": "Confusing it with the verb 'attempting'.",
+    "collocations": [
+      "trying situation",
+      "trying times",
+      "trying experience"
+    ]
+  },
+  {
+    "word": "Trying",
+    "meaning": "Attempting to perform a task or solve a problem",
+    "shortMeaning": "attempting",
+    "example": "He is trying to fix the memory leak.",
+    "example2": "They are trying out a new deployment strategy.",
+    "example3": "Stop trying to force the script to work.",
+    "Explanation": "Trying refers to the process of attempting an action. In IT, 'trying' can be a standard first step in debugging or learning. However, professional work aims to 'do' rather than 'try'. If you are trying, you are in a testing or exploration phase. Once you have a solution, you stop trying and start implementing. It can also describe a difficult situation that tests your patience.",
+    "synonyms": [
+      "attempting",
+      "testing",
+      "experimenting"
+    ],
+    "antonyms": [
+      "succeeding",
+      "doing",
+      "completing"
+    ],
+    "nounForm": "try",
+    "verbForm": "try",
+    "adjectiveForm": "trying",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Learning, debugging, testing",
+    "usageTip": "Use 'trying' when you are in the middle of attempting a solution.",
+    "commonMistake": "Overusing 'trying' in documentation; use 'implementing' or 'executing'.",
+    "collocations": [
+      "trying to fix",
+      "trying out",
+      "trying to implement"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Set associative",
+    "meaning": "A cache design where each block of memory can be placed in a specific set of locations",
+    "shortMeaning": "grouped cache mapping",
+    "example": "Most modern CPUs use a set associative cache to balance speed and cost.",
+    "example2": "An 8-way set associative cache allows for eight possible spots for each memory block.",
+    "example3": "Set associative mapping reduces the number of cache misses compared to direct mapping.",
+    "Explanation": "Set associative is a type of cache memory organization. It is a middle ground between 'direct-mapped' (where each data block has only one possible spot) and 'fully associative' (where data can go anywhere). In a set associative cache, the cache is divided into sets, and a memory block can be stored in any slot within its assigned set. This helps prevent conflicts and makes the computer run faster. It is a fundamental concept in computer architecture.",
+    "synonyms": [
+      "n-way associative",
+      "cache mapping"
+    ],
+    "antonyms": [
+      "direct mapped",
+      "fully associative"
+    ],
+    "nounForm": "set associativity",
+    "verbForm": "N/A",
+    "adjectiveForm": "set associative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer architecture and hardware design",
+    "usageTip": "Use this when discussing how CPU cache handles data storage.",
+    "commonMistake": "Confusing 'set associative' with 'fully associative'.",
+    "collocations": [
+      "n-way set associative",
+      "set associative mapping",
+      "set associative cache"
+    ]
+  },
+  {
+    "word": "Set associative",
+    "meaning": "A type of memory caching where memory is divided into sets",
+    "shortMeaning": "cache architecture",
+    "example": "The CPU uses set associative cache for efficiency.",
+    "example2": "This design utilizes a set associative approach.",
+    "Explanation": "'Set associative' refers to a specific, high-performance method used in computer memory (cache) to organize and retrieve data. It divides memory into groups called 'sets'. It is a middle-ground between direct-mapped cache (fast but restrictive) and fully associative cache (flexible but slow/expensive). By using sets, the computer balances speed and efficiency. This is a technical term used primarily by hardware and system software developers. You will likely only use this when discussing computer architecture.",
+    "synonyms": [
+      "associative mapping"
+    ],
+    "antonyms": [
+      "direct-mapped"
+    ],
+    "nounForm": "associativity",
+    "verbForm": "N/A",
+    "adjectiveForm": "set associative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer architecture, memory",
+    "usageTip": "Use only when discussing hardware cache systems.",
+    "commonMistake": "Trying to apply this term to general coding; it is hardware-specific.",
+    "collocations": [
+      "set associative cache",
+      "set associative memory",
+      "set associative architecture"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "word": "Maximal independent",
+    "meaning": "A state where a group of items is not connected to each other and no more items can be added without creating a connection",
+    "shortMeaning": "saturated unconnected set",
+    "example": "In this graph, the set of vertices is maximal independent.",
+    "example2": "Finding a maximal independent arrangement is a common problem in computer science.",
+    "example3": "The maximal independent property ensures that no two chosen nodes share an edge.",
+    "Explanation": "The term 'maximal independent' refers to a concept in graph theory. An independent set is a set of vertices in a graph where no two vertices are adjacent (connected by an edge). A 'maximal' independent set is one that is not a subset of any other independent set. This means if you tried to add even one more vertex from the graph into this set, it would be connected to at least one vertex already in the set. It is an important concept in distributed computing and scheduling where you want to perform tasks that don't interfere with each other.",
+    "synonyms": [
+      "saturated independent set"
+    ],
+    "antonyms": [
+      "dependent set"
+    ],
+    "nounForm": "maximal independent set",
+    "verbForm": "N/A",
+    "adjectiveForm": "maximal independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graph theory and discrete mathematics",
+    "usageTip": "Use 'maximal' when you mean it cannot be grown further; use 'maximum' when you mean it is the largest possible size.",
+    "commonMistake": "Confusing 'maximal' with 'maximum'. A maximal set isn't always the biggest one in the whole graph.",
+    "collocations": [
+      "maximal independent set",
+      "maximal independent vertices"
+    ]
+  },
+  {
+    "word": "Maximal independent",
+    "meaning": "A set in a graph where no nodes are connected and it cannot be increased",
+    "shortMeaning": "graph theory set",
+    "example": "The algorithm finds a maximal independent set.",
+    "example2": "This is a key problem in graph theory and optimization.",
+    "example3": "The network relies on maximal independent nodes.",
+    "Explanation": "Maximal independent refers to a concept in graph theory. An 'independent set' is a collection of nodes in a graph where no two nodes are connected by an edge. A 'maximal' independent set is one to which you cannot add any more nodes without breaking that rule. Finding these sets is a classic problem in computer science, used for scheduling, resource allocation, and networking. It is a highly technical term for optimization.",
+    "synonyms": [
+      "MIS"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "maximal independent set",
+    "verbForm": "N/A",
+    "adjectiveForm": "maximal independent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Graph theory, optimization, algorithms",
+    "usageTip": "Use only when discussing graph algorithms.",
+    "commonMistake": "Confusing 'maximal' with 'maximum' (they are different in graph theory).",
+    "collocations": [
+      "maximal independent set"
+    ]
+  }
+]

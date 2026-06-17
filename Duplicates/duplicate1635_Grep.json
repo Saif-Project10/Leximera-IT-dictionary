@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Grep",
+    "meaning": "A command-line tool used to search for specific text within files",
+    "shortMeaning": "text search tool",
+    "example": "You can use grep to find every error message in a huge log file.",
+    "example2": "The programmer used grep to search for a specific function name in the code.",
+    "example3": "Grep stands for 'Global Regular Expression Print'.",
+    "Explanation": "Grep is one of the most powerful and famous tools in the Unix/Linux world. It allows a user to scan through thousands of lines of text in seconds to find a specific word or pattern. It uses 'Regular Expressions' (Regex), which are special codes for advanced searching (like finding words that start with 'A' and end with 'Z'). It is a fundamental skill for system administrators and developers. You can use it to filter the output of other commands, making it a key part of 'command-line piping'. It is fast, reliable, and available on almost every server in the world.",
+    "synonyms": [
+      "text filter",
+      "search utility"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "grep",
+    "verbForm": "grep (e.g., 'grep the file')",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Linux Terminal, Coding, Debugging",
+    "usageTip": "Use `grep -i` to search without worrying about capital or small letters (case-insensitive).",
+    "commonMistake": "Forgetting that grep is case-sensitive by default (it treats 'Error' and 'error' as different).",
+    "collocations": [
+      "grep command",
+      "recursive grep",
+      "pipe to grep"
+    ]
+  },
+  {
+    "word": "Grep",
+    "meaning": "A command-line tool used to search for specific text inside files",
+    "shortMeaning": "search text tool",
+    "example": "I will grep the log file to find all the error messages.",
+    "example2": "Use grep to find your name in this large document.",
+    "example3": "The grep command is essential for Linux users.",
+    "Explanation": "Grep stands for 'Global Regular Expression Print.' It is one of the most famous tools in the Unix and Linux operating systems. As a verb, IT professionals say 'I will grep the file,' meaning they will search it for a specific word or pattern. It is incredibly fast and can search thousands of files in seconds. It uses 'regular expressions' (regex) to find complex patterns, not just simple words. Every backend developer and system administrator should know how to use it.",
+    "synonyms": [
+      "search",
+      "filter",
+      "find"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "grep",
+    "verbForm": "grep",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software development and server management",
+    "usageTip": "Use 'grep -r' to search through all files in a folder and its subfolders.",
+    "commonMistake": "Thinking 'grep' is a word in general English; it is strictly a technical term.",
+    "collocations": [
+      "grep command",
+      "grep a file",
+      "piped into grep"
+    ]
+  }
+]

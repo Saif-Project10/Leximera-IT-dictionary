@@ -1,0 +1,90 @@
+[
+  {
+    "word": "Server-side",
+    "meaning": "Relating to processes that occur on the server, as opposed to the client (user's device).",
+    "shortMeaning": "on the server",
+    "example": "The validation logic is handled server-side for security.",
+    "example2": "He is a server-side developer specializing in Python and databases.",
+    "example3": "Server-side scripting languages include PHP, Java, and Node.js.",
+    "Explanation": "'Server-side' is an adjective (often hyphenated) that is fundamental to web and software development. It distinguishes operations, code, or logic that runs on the web server from those that run in the user's browser (client-side). Server-side tasks typically involve databases, complex calculations, authentication, and anything that shouldn't be exposed to the user. The term defines a major division of labor in application architecture. A 'server-side' developer works on the backend. It's a core concept for anyone building web applications.",
+    "synonyms": [
+      "backend",
+      "on the server"
+    ],
+    "antonyms": [
+      "client-side",
+      "frontend",
+      "browser-side"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-side",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, software architecture",
+    "usageTip": "Almost always hyphenated when used before a noun: 'server-side code'.",
+    "commonMistake": "Using it to refer to the physical location of a server; it refers to the processing location in a software architecture.",
+    "collocations": [
+      "server-side rendering",
+      "server-side logic",
+      "server-side language",
+      "server-side include"
+    ]
+  },
+  {
+    "word": "Server-side",
+    "meaning": "Occurring or running on the server",
+    "shortMeaning": "on the server",
+    "example": "All authentication logic is handled server-side.",
+    "example2": "Server-side validation is more secure than client-side.",
+    "example3": "We are migrating to a server-side architecture.",
+    "Explanation": "The term 'server-side' refers to everything that happens on the server rather than on the user's local device. This includes database access, security checks, and backend processing. Because the user cannot see or change the code running on the server, server-side operations are considered much more secure. For example, validating a password should always happen server-side so it cannot be bypassed. This is the foundation of modern backend web development. It is the opposite of the client-side.",
+    "synonyms": [
+      "backend",
+      "server-based"
+    ],
+    "antonyms": [
+      "client-side",
+      "frontend"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-side",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, security",
+    "usageTip": "Use when explaining where specific tasks are performed.",
+    "commonMistake": "Mixing up the responsibilities of client-side and server-side.",
+    "collocations": [
+      "server-side validation",
+      "server-side processing",
+      "server-side script"
+    ]
+  },
+  {
+    "word": "Server-side",
+    "meaning": "Related to operations performed on the server",
+    "shortMeaning": "backend-side",
+    "example": "We need to add more server-side validation for the form.",
+    "example2": "Server-side scripts handle the database updates.",
+    "example3": "Security is stronger with server-side logic.",
+    "Explanation": "Server-side refers to code, actions, or data that exist and run on the server, out of reach of the user's browser. This is essential for protecting sensitive data, managing databases, and keeping the application logic secure. You should never trust user input from the client without checking it on the server-side. It is the core of backend development and the primary way to build secure, robust applications.",
+    "synonyms": [
+      "backend"
+    ],
+    "antonyms": [
+      "client-side",
+      "frontend"
+    ],
+    "nounForm": "server",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-side",
+    "partOfSpeech": "adjective",
+    "commonContext": "Backend development, security",
+    "usageTip": "Use this to distinguish server tasks from user-browser tasks.",
+    "commonMistake": "Putting sensitive business logic in client-side code.",
+    "collocations": [
+      "server-side code",
+      "server-side validation",
+      "server-side logic"
+    ]
+  }
+]

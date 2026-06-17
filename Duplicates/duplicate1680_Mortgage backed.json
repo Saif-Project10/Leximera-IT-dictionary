@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Mortgage backed",
+    "meaning": "Financed by or guaranteed by a collection of home or property loans",
+    "shortMeaning": "supported by home loans",
+    "example": "The bank issued a mortgage backed bond to raise money.",
+    "example2": "Mortgage backed assets were a major part of the 2008 financial crisis.",
+    "example3": "Investors often look for mortgage backed products for steady income.",
+    "Explanation": "In finance, 'backed' means that if something goes wrong, there is an asset (like a house) that can be sold to get the money back. When a financial product is 'mortgage backed,' it means the money for that product comes from thousands of people paying their monthly home loans. It turns many individual 'illiquid' debts into one 'liquid' investment that can be traded on the stock market. While they are usually considered safe, they can be dangerous if too many people stop paying their mortgages at the same time, as happened in the late 2000s.",
+    "synonyms": [
+      "secured",
+      "asset-backed"
+    ],
+    "antonyms": [
+      "unsecured",
+      "unbacked"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "mortgage backed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Finance, banking, and real estate",
+    "usageTip": "Use 'mortgage backed' to describe investments that rely on home loan payments.",
+    "commonMistake": "Thinking 'mortgage backed' means the government guarantees the money; it usually doesn't.",
+    "collocations": [
+      "mortgage backed security",
+      "mortgage backed asset",
+      "mortgage backed bond"
+    ]
+  },
+  {
+    "word": "Mortgage backed",
+    "meaning": "An investment or asset secured by a pool of mortgages",
+    "shortMeaning": "mortgage secured",
+    "example": "The system tracks mortgage backed security performance.",
+    "example2": "He works on software for mortgage backed assets.",
+    "example3": "The database contains mortgage backed financial records.",
+    "Explanation": "The term 'mortgage backed' refers to assets, usually financial, that are supported by the value of underlying home loans. In the fintech and banking software sector, developers often build systems to calculate risks, track payments, or manage portfolios of these assets. It is a highly specialized financial term. When building these systems, accuracy and regulatory compliance are essential because they deal with complex investments and large-scale data handling.",
+    "synonyms": [
+      "asset-backed",
+      "collateralized"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "mortgage-backed security",
+    "verbForm": "N/A",
+    "adjectiveForm": "mortgage-backed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Fintech, finance, banking software",
+    "usageTip": "Use this only in banking or financial software contexts.",
+    "commonMistake": "Confusing it with general 'secured' loans.",
+    "collocations": [
+      "mortgage backed security",
+      "mortgage backed asset"
+    ]
+  }
+]

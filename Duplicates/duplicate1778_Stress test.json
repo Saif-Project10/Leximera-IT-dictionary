@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Stress test",
+    "meaning": "A test to see how a system performs under extreme or difficult conditions",
+    "shortMeaning": "extreme performance test",
+    "example": "We performed a stress test on the website to see if it could handle 10,000 users at once.",
+    "example2": "The server failed the stress test after only five minutes of heavy traffic.",
+    "example3": "The bank underwent a stress test to ensure it could survive a financial crisis.",
+    "Explanation": "A stress test pushes a system beyond its normal limits to find the breaking point. It is not about how the system works on a typical day, but how it handles a 'worst-case scenario'. In IT, this usually means overwhelming a CPU, memory, or network. The goal is to identify weaknesses and ensure the system fails gracefully rather than crashing completely. It is a standard part of the Quality Assurance (QA) process in software development.",
+    "synonyms": [
+      "load test",
+      "torture test",
+      "break-point test"
+    ],
+    "antonyms": [
+      "usability test",
+      "normal operation"
+    ],
+    "nounForm": "stress test",
+    "verbForm": "stress test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software testing, engineering, and finance",
+    "usageTip": "Use 'stress test' when you want to see what happens when things go wrong or get too busy.",
+    "commonMistake": "Confusing 'stress test' with 'load test'; a load test checks normal heavy use, a stress test checks the breaking point.",
+    "collocations": [
+      "conduct a stress test",
+      "system stress test",
+      "pass a stress test"
+    ]
+  },
+  {
+    "word": "Stress test",
+    "meaning": "To deliberately push a system, database, or network beyond its normal operational limits to find breaking points",
+    "shortMeaning": "test under extreme pressure",
+    "example": "We need to stress test our e-commerce server before the massive online holiday shopping sale begins.",
+    "example2": "The team will stress test the new database app by simulating one million simultaneous user actions.",
+    "example3": "A proper stress test helps developers figure out how software behaves during heavy crashes.",
+    "Explanation": "The term 'stress test' acts as both a verb and a noun in technology management. It describes an evaluation practice where engineers subject software or infrastructure to extreme, unnatural workloads. This helps find hidden memory leaks, bandwidth limitations, hardware vulnerabilities, and database errors that would not appear under regular everyday conditions. Knowing exactly when and how a system breaks allows teams to build fail-safes and improve overall infrastructure resilience before real users face critical service downtime.",
+    "synonyms": [
+      "load test",
+      "pressure test",
+      "overload evaluation"
+    ],
+    "antonyms": [
+      "idle test",
+      "simulate normal load",
+      "rest system"
+    ],
+    "nounForm": "stress test",
+    "verbForm": "stress test",
+    "adjectiveForm": "stress-tested",
+    "partOfSpeech": "verb phrase / noun",
+    "commonContext": "Software quality assurance, server maintenance infrastructure, and stability evaluations",
+    "usageTip": "Use this term when discussing testing systems under deliberate, massive traffic overloads to locate failure points.",
+    "commonMistake": "Do not confuse a stress test with a normal functional test; functional tests check features, stress tests check limits.",
+    "collocations": [
+      "conduct a stress test",
+      "stress test the servers",
+      "comprehensive stress test"
+    ]
+  }
+]

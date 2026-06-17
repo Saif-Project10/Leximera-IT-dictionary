@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Quit",
+    "meaning": "To leave a job, place, or activity; to stop doing something",
+    "shortMeaning": "stop; resign",
+    "example": "He quit his job to travel the world.",
+    "example2": "I'm trying to quit eating sugary snacks.",
+    "example3": "The game doesn't save your progress if you quit early.",
+    "Explanation": "Quit means to stop or leave permanently. It's direct and informal. You can quit a job, quit a habit (like smoking), or quit an activity (like a game). It often implies a final decision. The past tense is also 'quit'. It's similar to 'give up', but 'quit' can sound more decisive and is specifically used for leaving employment. 'Quit' can also be used as an adjective meaning 'released from obligation' (e.g., 'I'm quit of him'). It's a short, powerful word that conveys a definitive end.",
+    "synonyms": [
+      "leave",
+      "resign",
+      "stop",
+      "give up",
+      "abandon"
+    ],
+    "antonyms": [
+      "start",
+      "begin",
+      "continue",
+      "persist",
+      "join"
+    ],
+    "nounForm": "quitter",
+    "verbForm": "quit",
+    "adjectiveForm": "quit (rare)",
+    "partOfSpeech": "verb",
+    "commonContext": "Employment, bad habits, games, teams",
+    "usageTip": "Use 'quit' + noun (quit my job) or 'quit' + gerund (quit smoking).",
+    "commonMistake": "Calling someone a 'quitter' is very negative, implying they lack perseverance.",
+    "collocations": [
+      "quit smoking",
+      "quit while you're ahead",
+      "notice to quit"
+    ]
+  },
+  {
+    "word": "Quit",
+    "meaning": "To stop or exit a program or process",
+    "shortMeaning": "stop or exit",
+    "example": "The program will quit if it encounters an error.",
+    "example2": "You can quit the application using this shortcut.",
+    "example3": "He had to quit the script to save memory.",
+    "Explanation": "Quit is a command or action to end a running program or process. In software, it is the standard way to close a tool completely. Unlike 'pause' or 'suspend', 'quit' means the program is no longer running at all. It releases the resources used by the application. While rare as a technical verb for complex tasks, it is the most common term for ending an application.",
+    "synonyms": [
+      "exit",
+      "stop",
+      "close"
+    ],
+    "antonyms": [
+      "start",
+      "run",
+      "continue"
+    ],
+    "nounForm": "quitting",
+    "verbForm": "quit",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Software usage, system processes",
+    "usageTip": "Use 'quit' to indicate a clean exit from an application.",
+    "commonMistake": "Using 'quit' to describe a process that is meant to be killed or forced.",
+    "collocations": [
+      "quit the program",
+      "quit the application",
+      "forced to quit"
+    ]
+  },
+  {
+    "word": "Quit",
+    "meaning": "To exit an application, stop a process, or leave a job",
+    "shortMeaning": "exit or stop",
+    "example": "You can press Ctrl+C to quit the running local server console.",
+    "example2": "The application will quit automatically if an unhandled error occurs.",
+    "example3": "He decided to quit his current job to join a remote tech company.",
+    "Explanation": "The word 'quit' is a versatile verb used across daily life and computing environments. In technology, it refers to closing a program completely, ensuring it stops running and frees up system memory. This is different from minimizing a window, which leaves the process active. It is also standard terminology for leaving employment. It implies a clean termination of an ongoing state or activity.",
+    "synonyms": [
+      "exit",
+      "terminate",
+      "resign"
+    ],
+    "antonyms": [
+      "start",
+      "launch",
+      "continue"
+    ],
+    "nounForm": "quitter",
+    "verbForm": "quit",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Application menus, terminal commands, and career discussions",
+    "usageTip": "Use 'quit' when describing the complete closure of an application or terminal session.",
+    "commonMistake": "Confusing 'quit' (stop completely) with 'pause' (stop temporarily).",
+    "collocations": [
+      "quit the application",
+      "unexpectedly quit",
+      "force quit"
+    ]
+  }
+]

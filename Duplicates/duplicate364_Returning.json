@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Returning",
+    "meaning": "The act of going or coming back to a place, person, or state.",
+    "shortMeaning": "going back, coming back",
+    "example": "We look forward to your returning to the office.",
+    "example2": "The returning soldiers were greeted as heroes.",
+    "example3": "He is returning the book to the library.",
+    "Explanation": "The gerund/noun 'returning' is the action of coming or going back. It is one of the most common concepts, used in travel, everyday movement, and metaphorically (returning to a habit). The verb is 'return'. It implies a cycle or a reversal of direction. A common phrase is 'returning a favor' or 'returning an item'. A common mistake is using 'give back' in formal writing where 'return' is better. It can express both physical movement and abstract concepts like returning to health or returning a phone call.",
+    "synonyms": [
+      "coming back",
+      "going back",
+      "restoring"
+    ],
+    "antonyms": [
+      "leaving",
+      "departing",
+      "keeping"
+    ],
+    "nounForm": "return",
+    "verbForm": "return",
+    "adjectiveForm": "returning",
+    "partOfSpeech": "noun (gerund)",
+    "commonContext": "Travel, commerce, habits, communication",
+    "usageTip": "Use 'return to' for going back to a place or state: 'return to normal', 'return to school'.",
+    "commonMistake": "Saying 'return back' which is redundant. 'Return' already means 'go back'.",
+    "collocations": [
+      "returning home",
+      "returning customer",
+      "look forward to returning"
+    ]
+  },
+  {
+    "word": "Returning",
+    "meaning": "Coming or going back to a place or state",
+    "shortMeaning": "going back",
+    "example": "The function is returning a list of users.",
+    "example2": "He is returning to his hometown next week.",
+    "example3": "The system is returning an error message.",
+    "Explanation": "The word 'returning' describes the action of going back to a location or, in programming, sending a value back from a function to the main part of a program. It is a very common action in daily life and computer logic. In technical terms, it signifies that a process has finished its task and sent its result back to the caller. Understanding this concept is essential for writing efficient code and managing data flow. Keep in mind that the subject can be a person, an object, or a piece of software code.",
+    "synonyms": [
+      "going back",
+      "coming back",
+      "reverting"
+    ],
+    "antonyms": [
+      "departing",
+      "leaving",
+      "staying"
+    ],
+    "nounForm": "return",
+    "verbForm": "return",
+    "adjectiveForm": "returning",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Programming, travel, general movement",
+    "usageTip": "Use 'returning' for actions where something ends up where it started.",
+    "commonMistake": "Using 'returning back', which is redundant as 'return' implies back.",
+    "collocations": [
+      "returning a value",
+      "returning home",
+      "returning an error"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Streamed",
+    "meaning": "Transmitted or received in a continuous flow of data, especially audio or video over the internet",
+    "shortMeaning": "sent as a continuous flow",
+    "example": "We streamed the concert live on our website.",
+    "example2": "The movie was streamed to millions of viewers.",
+    "example3": "She prefers music that is streamed rather than downloaded.",
+    "Explanation": "'Streamed' is the past tense of the verb 'stream'. In modern usage, it predominantly refers to the method of delivering multimedia content (audio, video) over the internet in a continuous flow, allowing playback to start before the entire file is downloaded. This is different from 'downloading', where the file is saved first. The term is central to services like Netflix, Spotify, and YouTube. It can also refer to the general concept of data flowing continuously, such as in data processing (e.g., 'streamed data').",
+    "synonyms": [
+      "broadcast",
+      "transmitted",
+      "webcast",
+      "fed"
+    ],
+    "antonyms": [
+      "downloaded",
+      "stored",
+      "saved"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streaming",
+    "partOfSpeech": "verb (past tense)",
+    "commonContext": "Online media, entertainment, data processing, live events",
+    "usageTip": "Use 'streamed' for past events. For current or habitual action, use 'stream' or 'streaming'.",
+    "commonMistake": "Confusing 'streamed' with 'downloaded'. Streaming is for immediate playback; downloading is for saving a file.",
+    "collocations": [
+      "live streamed",
+      "streamed online",
+      "streamed content",
+      "streamed video"
+    ]
+  },
+  {
+    "word": "Streamed",
+    "meaning": "Transmitted continuously, usually audio or video, so it can be played as it arrives.",
+    "shortMeaning": "continuously transmitted",
+    "example": "The video was streamed directly to the user's browser.",
+    "example2": "The data is streamed from the sensor to the server.",
+    "example3": "He watched a streamed event on his tablet.",
+    "Explanation": "The word 'streamed' refers to the action of delivering media or data in a continuous flow. When something is streamed, the end user does not need to download the entire file before they start accessing it. This is the technology behind sites like Netflix, YouTube, or live gaming platforms. It requires a stable connection to prevent buffering, which happens if the flow of data is interrupted.",
+    "synonyms": [
+      "broadcast",
+      "transmitted",
+      "played"
+    ],
+    "antonyms": [
+      "downloaded",
+      "buffered",
+      "saved"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streamed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Media and network communication",
+    "usageTip": "Use 'streamed' for media that plays while it is still arriving.",
+    "commonMistake": "Confusing 'streamed' with 'downloaded', which is saved locally before playback.",
+    "collocations": [
+      "streamed content",
+      "live streamed",
+      "streamed data"
+    ]
+  },
+  {
+    "word": "Streamed",
+    "meaning": "Sent or received in a continuous flow of data, usually over the internet.",
+    "shortMeaning": "continuously transmitted",
+    "example": "The video was streamed directly to his device.",
+    "example2": "Audio was streamed without any buffering.",
+    "example3": "We streamed the sensor data to the cloud in real-time.",
+    "Explanation": "The word 'streamed' is the past participle of 'stream'. It implies that media or data was delivered in small, sequential packets, allowing it to be used while still being downloaded. This is the foundation of modern media consumption like Netflix or live gaming. In technical terms, it refers to a non-stop data pipe. When data is streamed, it is not stored entirely on the local device before usage. Ensure you use this when discussing real-time or buffer-based media delivery systems.",
+    "synonyms": [
+      "broadcast",
+      "transmitted",
+      "flowed"
+    ],
+    "antonyms": [
+      "downloaded",
+      "buffered",
+      "stored"
+    ],
+    "nounForm": "stream",
+    "verbForm": "stream",
+    "adjectiveForm": "streamed",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Media, networking, IoT",
+    "usageTip": "Use 'streamed' for real-time media or continuous data flows.",
+    "commonMistake": "Confusing 'streamed' with 'downloaded' (which is the full file).",
+    "collocations": [
+      "live streamed",
+      "streamed data",
+      "streamed content"
+    ]
+  }
+]

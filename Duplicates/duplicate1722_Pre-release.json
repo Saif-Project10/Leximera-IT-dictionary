@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Pre-release",
+    "meaning": "An early version of software shared with a limited group for testing purposes",
+    "shortMeaning": "early access version",
+    "example": "The pre-release version of the app had a few crashes on older phones.",
+    "example2": "Users can opt-in to receive pre-release updates for the browser.",
+    "example3": "Pre-release notes describe the new features and known issues.",
+    "Explanation": "Pre-release is the status of software that is mostly done but still needs 'real-world' testing. It is the bridge between the 'Beta' phase and the final 'Stable' launch. Companies use pre-releases to find the last few bugs that their internal testers might have missed. For developers, a pre-release is a chance to prepare their own tools for the upcoming changes. It is usually stable enough to use, but comes with a warning: 'Use at your own risk.' It builds a community of early adopters.",
+    "synonyms": [
+      "beta build",
+      "preview",
+      "RC (Release Candidate)"
+    ],
+    "antonyms": [
+      "stable release",
+      "final version",
+      "GA"
+    ],
+    "nounForm": "pre-release",
+    "verbForm": "pre-release",
+    "adjectiveForm": "pre-release",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software updates and game launches",
+    "usageTip": "Use this for software that is 'almost finished' but not yet official for everyone.",
+    "commonMistake": "Expecting 100% stability from a pre-release version.",
+    "collocations": [
+      "pre-release testing",
+      "pre-release build",
+      "pre-release software"
+    ]
+  },
+  {
+    "word": "Pre-release",
+    "meaning": "A version of software made available to users before the final, stable version is released.",
+    "shortMeaning": "early access version",
+    "example": "The pre-release version has some known bugs.",
+    "example2": "Join the program to get access to pre-release features.",
+    "example3": "Testing the pre-release build helps identify issues.",
+    "Explanation": "'Pre-release' describes early builds (often called Beta, Alpha, or Preview versions) that are released to get user feedback or allow for final testing. These versions may not be perfectly stable, but they show what is coming. They are essential for identifying edge cases that internal testing might miss. Using a pre-release version is always at your own risk, but it lets you see new features and help improve the product before it goes live to the masses.",
+    "synonyms": [
+      "beta",
+      "alpha",
+      "early-access"
+    ],
+    "antonyms": [
+      "final",
+      "production",
+      "stable"
+    ],
+    "nounForm": "pre-release",
+    "verbForm": "N/A",
+    "adjectiveForm": "pre-release",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Software testing, feedback, versioning",
+    "usageTip": "Use to describe a non-final version of a product.",
+    "commonMistake": "Expecting a pre-release to be 100% stable.",
+    "collocations": [
+      "pre-release version",
+      "pre-release build",
+      "get pre-release access"
+    ]
+  },
+  {
+    "word": "Pre-release",
+    "meaning": "Something that is made available to a small group before the official public launch",
+    "shortMeaning": "early version",
+    "example": "The developers gave us a pre-release version of the app to test for bugs.",
+    "example2": "The song's pre-release on social media created a lot of excitement.",
+    "example3": "Check the documentation for any known issues in the pre-release software.",
+    "Explanation": "A pre-release version is an early copy of software, a game, or media. It is often used for testing (beta testing) or to build hype before the official date. In IT, pre-release software might be unstable and is not recommended for important daily work. It allows developers to get feedback from real users and fix problems before millions of people use the product. It can also refer to a specific phase in the software life cycle between 'alpha' and 'stable'. It is a great way to engage with a community of early adopters.",
+    "synonyms": [
+      "beta version",
+      "preview",
+      "early access"
+    ],
+    "antonyms": [
+      "stable release",
+      "final version",
+      "production"
+    ],
+    "nounForm": "pre-release",
+    "verbForm": "pre-release",
+    "adjectiveForm": "pre-release",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Software development, music, and movies",
+    "usageTip": "Only use pre-release software on a secondary device to avoid losing data.",
+    "commonMistake": "Expecting a pre-release version to be 100% bug-free.",
+    "collocations": [
+      "pre-release build",
+      "pre-release software",
+      "available in pre-release"
+    ]
+  }
+]

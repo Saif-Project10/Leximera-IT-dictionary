@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Unconfirmed",
+    "meaning": "Not yet verified or proven true",
+    "shortMeaning": "not verified",
+    "example": "These are unconfirmed reports of the vulnerability.",
+    "example2": "The user's account remains unconfirmed.",
+    "example3": "Unconfirmed transactions were rejected by the system.",
+    "Explanation": "Unconfirmed refers to data, reports, or states that have not been validated. In cybersecurity and systems administration, acting on unconfirmed data can be dangerous. Verification processes are necessary to ensure the integrity and reliability of inputs. An unconfirmed status often prevents further access or processing until validation is completed. Always treat unconfirmed information with caution until it can be verified.",
+    "synonyms": [
+      "unverified",
+      "pending",
+      "unproven"
+    ],
+    "antonyms": [
+      "confirmed",
+      "verified",
+      "proven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unconfirmed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data integrity, security, access control",
+    "usageTip": "Use for data waiting for validation.",
+    "commonMistake": "Trusting unconfirmed data in critical workflows.",
+    "collocations": [
+      "unconfirmed report",
+      "unconfirmed transaction",
+      "remain unconfirmed"
+    ]
+  },
+  {
+    "word": "Unconfirmed",
+    "meaning": "Not yet verified or proven to be true",
+    "shortMeaning": "unverified",
+    "example": "There are unconfirmed reports of a data breach.",
+    "example2": "The user account is currently unconfirmed.",
+    "example3": "He received an unconfirmed error message.",
+    "Explanation": "The term 'unconfirmed' is used when information or status is waiting for validation. In IT, this often applies to emails, account registrations, or bug reports that have not been vetted. Something unconfirmed should not be treated as a fact or a completed action. It implies a state of uncertainty that requires further action to resolve. It is a very common status label in many software platforms.",
+    "synonyms": [
+      "unverified",
+      "pending",
+      "unproven"
+    ],
+    "antonyms": [
+      "confirmed",
+      "verified",
+      "proven"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "unconfirm",
+    "adjectiveForm": "unconfirmed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data validation and account management",
+    "usageTip": "Use it for status updates that are still in progress.",
+    "commonMistake": "Treating unconfirmed information as a absolute fact.",
+    "collocations": [
+      "unconfirmed report",
+      "unconfirmed status",
+      "remain unconfirmed"
+    ]
+  }
+]

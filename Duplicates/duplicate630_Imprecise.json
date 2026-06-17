@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Imprecise",
+    "meaning": "Not exact, accurate, or clearly defined.",
+    "shortMeaning": "not exact",
+    "example": "The map was imprecise, so we got lost.",
+    "example2": "He gave an imprecise description of the suspect.",
+    "example3": "Imprecise language can lead to misunderstandings.",
+    "Explanation": "Imprecise means lacking in precision, accuracy, or clarity. It describes information, measurements, language, or actions that are vague, approximate, or fuzzy. It is a formal word for 'not exact'. In technical fields like science, engineering, or law, imprecision is a serious problem. In everyday conversation, it might simply mean being a bit vague. The word helps criticize the quality of information. The prefix 'im-' means 'not', and 'precise' means 'exact'. It's the direct opposite of 'precise'.",
+    "synonyms": [
+      "inexact",
+      "vague",
+      "approximate",
+      "fuzzy",
+      "loose"
+    ],
+    "antonyms": [
+      "precise",
+      "exact",
+      "accurate",
+      "specific"
+    ],
+    "nounForm": "imprecision",
+    "verbForm": "N/A",
+    "adjectiveForm": "imprecise",
+    "partOfSpeech": "adjective",
+    "commonContext": "Measurements, descriptions, instructions, data",
+    "usageTip": "Use it when you need to highlight a lack of accuracy or detail.",
+    "commonMistake": "Using 'imprecise' to mean 'wrong'. Something can be correct but imprecise (e.g., 'sometime next week').",
+    "collocations": [
+      "imprecise measurements",
+      "imprecise wording",
+      "imprecise estimate",
+      "highly imprecise"
+    ]
+  },
+  {
+    "word": "Imprecise",
+    "meaning": "Lacking exactness or clarity",
+    "shortMeaning": "not exact",
+    "example": "The error report was imprecise and hard to debug.",
+    "example2": "Avoid imprecise language when writing technical documentation.",
+    "example3": "Imprecise measurements led to the system failure.",
+    "Explanation": "The word 'imprecise' describes something that is not exact, accurate, or clear. In IT, being 'imprecise' in your requirements, documentation, or code can lead to misunderstandings and errors. Precision is a core value in engineering. If your instructions are imprecise, the system or the team may misinterpret them. Always strive to be as precise as possible by defining variables clearly and writing exact, unambiguous documentation. It is the opposite of precision.",
+    "synonyms": [
+      "inaccurate",
+      "vague",
+      "unclear"
+    ],
+    "antonyms": [
+      "precise",
+      "accurate",
+      "exact"
+    ],
+    "nounForm": "imprecision",
+    "verbForm": "N/A",
+    "adjectiveForm": "imprecise",
+    "partOfSpeech": "adjective",
+    "commonContext": "Documentation, debugging, accuracy",
+    "usageTip": "Use 'imprecise' for things that are not exact.",
+    "commonMistake": "Accepting imprecise data when precision is needed.",
+    "collocations": [
+      "imprecise language",
+      "imprecise data",
+      "imprecise results"
+    ]
+  }
+]

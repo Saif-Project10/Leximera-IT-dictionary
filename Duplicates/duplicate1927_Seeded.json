@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Seeded",
+    "meaning": "Provided with an initial value or sample data",
+    "shortMeaning": "initialized",
+    "example": "The random number generator was seeded with a timestamp.",
+    "example2": "The database was seeded with sample data for testing.",
+    "example3": "The cache should be seeded before deployment.",
+    "Explanation": "The word 'seeded' means initializing something with a starting value or sample content. In algorithms (like random number generators), a 'seed' ensures the process starts from a specific point. In databases or applications, 'seeding' refers to populating a clean environment with sample data so that it can be tested or used. The verb is 'seed' and the noun is 'seed'. It is a standard procedure in testing and algorithmic development.",
+    "synonyms": [
+      "initialized",
+      "populated",
+      "started"
+    ],
+    "antonyms": [
+      "empty",
+      "cleared"
+    ],
+    "nounForm": "seed",
+    "verbForm": "seed",
+    "adjectiveForm": "seeded",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Algorithm development, testing, database management",
+    "usageTip": "Use 'seeded' when referring to initialization data or values.",
+    "commonMistake": "Confusing it with 'planted' (though the origin is the same).",
+    "collocations": [
+      "random number seeded",
+      "seeded with data",
+      "database seeding"
+    ]
+  },
+  {
+    "word": "Seeded",
+    "meaning": "Initialized with specific starting values or data",
+    "shortMeaning": "initialized",
+    "example": "The database was seeded with sample user data for testing.",
+    "example2": "We seeded the random number generator for consistent results.",
+    "example3": "The application needs to be seeded before it can run.",
+    "Explanation": "In IT, 'seeding' refers to filling a database, array, or system with a baseline set of data, either for testing or to provide a starting point. For instance, you might seed a development database with hundreds of 'fake' accounts to verify that the UI works correctly. It is also used in algorithms, where you 'seed' a random function to get a predictable sequence of numbers—important for testing and reproducibility. It is a standard procedure in development and testing.",
+    "synonyms": [
+      "initialized",
+      "populated",
+      "pre-filled"
+    ],
+    "antonyms": [
+      "empty",
+      "uninitialized"
+    ],
+    "nounForm": "seed",
+    "verbForm": "seed",
+    "adjectiveForm": "seeded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Databases, testing, algorithms",
+    "usageTip": "Use when providing starting data.",
+    "commonMistake": "Forgetting to clean up seeded test data before production.",
+    "collocations": [
+      "seeded with data",
+      "database seeding",
+      "random seed"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Approximate",
+    "meaning": "Close to the actual, but not completely exact or accurate.",
+    "shortMeaning": "close to, roughly",
+    "example": "The approximate cost of the repair will be $200.",
+    "example2": "Can you give me an approximate time of arrival?",
+    "example3": "The map shows the approximate location of the village.",
+    "Explanation": "The word 'approximate' is used when we do not have or need the exact number, amount, or detail. It indicates an estimation. It is commonly used in math, science, and everyday planning. The verb form means to estimate or be close to. A common mistake is to use it when exact information is required. Remember, 'approximate' implies a degree of uncertainty, so it should not be used in contexts where precision is critical, like legal documents or specific instructions.",
+    "synonyms": [
+      "rough",
+      "estimated",
+      "near"
+    ],
+    "antonyms": [
+      "exact",
+      "precise",
+      "accurate"
+    ],
+    "nounForm": "approximation",
+    "verbForm": "approximate",
+    "adjectiveForm": "approximate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Numbers, estimates, measurements, time",
+    "usageTip": "Often used with numbers, times, and locations to indicate they are not precise.",
+    "commonMistake": "Using 'approximate' when an exact figure is needed or known.",
+    "collocations": [
+      "approximate figure",
+      "approximate date",
+      "approximate value"
+    ]
+  },
+  {
+    "word": "Approximate",
+    "meaning": "Close to the actual value, amount, or time, but not completely accurate",
+    "shortMeaning": "Close estimate",
+    "example": "The approximate time required to complete the software migration is three hours.",
+    "example2": "Can you give me an approximate cost for building this e-commerce app?",
+    "example3": "The tool calculates the approximate distance between two network nodes.",
+    "Explanation": "The word 'approximate' is used when you cannot provide an exact number, time, or cost, but you can provide a close estimate based on logic or past data. In programming, 'approximate computing' is an optimization field where systems sacrifice complete precision to calculate results much faster. The adverb form is 'approximately', and the noun form is 'approximation'. The word can also act as a verb (to come close to).",
+    "synonyms": [
+      "estimated",
+      "rough",
+      "close"
+    ],
+    "antonyms": [
+      "exact",
+      "precise",
+      "accurate"
+    ],
+    "nounForm": "approximation",
+    "verbForm": "approximate",
+    "adjectiveForm": "approximate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Project estimations, statistics, informal calculations",
+    "usageTip": "Use 'approximate' when giving ballpark figures or rough timelines to clients to avoid committing to rigid deadlines prematurely.",
+    "commonMistake": "Using 'approximate' when you have the exact figures readily available; it looks unprofessional.",
+    "collocations": [
+      "approximate value",
+      "approximate time",
+      "approximate cost"
+    ]
+  },
+  {
+    "word": "Approximate",
+    "meaning": "Close to the actual amount or number, but not completely accurate",
+    "shortMeaning": "nearly correct",
+    "example": "The approximate cost of the project is ten thousand dollars.",
+    "example2": "Can you give me an approximate time for your arrival?",
+    "example3": "The figures are approximate, so they might change slightly.",
+    "Explanation": "The word 'approximate' is used when you don't have the exact data but have a very close estimate. It is helpful in planning and quick calculations. As an adjective, it describes a number or time. As a verb (pronounced differently), it means to come close to something. It is widely used in science, math, and daily planning.",
+    "synonyms": [
+      "estimated",
+      "rough",
+      "near"
+    ],
+    "antonyms": [
+      "exact",
+      "precise",
+      "accurate"
+    ],
+    "nounForm": "approximation",
+    "verbForm": "approximate",
+    "adjectiveForm": "approximate",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Mathematics, budget estimates, and time planning",
+    "usageTip": "Use 'approximate' when you want to avoid promising an exact figure.",
+    "commonMistake": "Using 'approximate' when you actually know the exact number.",
+    "collocations": [
+      "approximate value",
+      "approximate time",
+      "give an approximation"
+    ]
+  }
+]

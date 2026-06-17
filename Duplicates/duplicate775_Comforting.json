@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Comforting",
+    "meaning": "Providing a feeling of comfort, relief, or consolation.",
+    "shortMeaning": "making someone feel better",
+    "example": "Her words were very comforting during that difficult time.",
+    "example2": "The smell of fresh bread is comforting.",
+    "example3": "He gave her a comforting hug.",
+    "Explanation": "'Comforting' is an adjective that describes anything—words, actions, sounds, smells—that soothes emotional pain, anxiety, or distress. It provides a sense of safety and reassurance. The verb form is 'comfort'. It is a positive, warm word often associated with care, kindness, and support. The feeling it provides is often gentle and calming, helping to ease worries rather than solve them outright. It is a fundamental aspect of empathy and human connection.",
+    "synonyms": [
+      "soothing",
+      "reassuring",
+      "consoling",
+      "heartening"
+    ],
+    "antonyms": [
+      "disturbing",
+      "upsetting",
+      "unsettling",
+      "worrying"
+    ],
+    "nounForm": "comfort",
+    "verbForm": "comfort",
+    "adjectiveForm": "comforting",
+    "partOfSpeech": "adjective",
+    "commonContext": "Emotional support, difficult times, familiar things",
+    "usageTip": "Use 'comforting' to describe something that makes you feel less sad, worried, or afraid.",
+    "commonMistake": "Confusing 'comforting' with 'comfortable'. 'Comforting' provides emotional relief; 'comfortable' describes physical ease.",
+    "collocations": [
+      "deeply comforting",
+      "find comforting",
+      "comforting thought",
+      "comforting presence"
+    ]
+  },
+  {
+    "word": "Comforting",
+    "meaning": "Providing a feeling of reassurance, support, or relief from stress",
+    "shortMeaning": "reassuring or soothing",
+    "example": "The clear success message after the transaction was comforting to the user.",
+    "example2": "Having a reliable offline backup solution is very comforting during system migrations.",
+    "example3": "The developer's comforting explanation helped the client understand the technical error.",
+    "Explanation": "The word 'Comforting' describes something that removes worry and provides reassurance. In IT, software systems can be 'comforting' when they act predictably—for example, a progress bar that consistently updates or a secure system that sends automated confirmation emails. It is a key element of 'trust-based design.' When users know that an application is handling their data securely and providing clear feedback, it creates a comforting sense of control, which is essential for long-term customer retention.",
+    "synonyms": [
+      "reassuring",
+      "soothing",
+      "supportive"
+    ],
+    "antonyms": [
+      "alarming",
+      "stressful",
+      "worrying"
+    ],
+    "nounForm": "comfort",
+    "verbForm": "comfort",
+    "adjectiveForm": "comforting",
+    "partOfSpeech": "adjective / verb (continuous)",
+    "commonContext": "User experience, support communication, security documentation",
+    "usageTip": "Use 'comforting' to describe system features that reassure users during sensitive or complex processes.",
+    "commonMistake": "Using 'comforting' when you mean 'comfortable'; comforting means giving comfort, comfortable means receiving comfort.",
+    "collocations": [
+      "comforting feedback",
+      "comforting response",
+      "comforting sign"
+    ]
+  }
+]

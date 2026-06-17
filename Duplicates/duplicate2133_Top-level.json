@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Top-level",
+    "meaning": "The most important or highest-ranking part of a hierarchy or directory structure",
+    "shortMeaning": "highest level",
+    "example": "The configuration file is in the top-level directory.",
+    "example2": "We need to discuss this with the top-level management.",
+    "example3": "The top-level domain for the site is .com.",
+    "Explanation": "The term 'top-level' describes the highest hierarchy within a system, such as the root directory in a file system or the most senior tier of a company. In web domains, 'top-level domain' (TLD) refers to the part after the last dot (e.g., .com, .org). It indicates primacy and serves as a reference point for everything underneath it. This term is essential for navigating file paths, network domains, and organizational charts. It is almost always used as an adjective modifying a noun.",
+    "synonyms": [
+      "highest",
+      "root",
+      "senior"
+    ],
+    "antonyms": [
+      "low-level",
+      "nested"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "top-level",
+    "partOfSpeech": "adjective",
+    "commonContext": "File systems, web domains, organizational structures",
+    "usageTip": "Use this when referring to the root of a structure.",
+    "commonMistake": "Confusing 'top-level' with 'top-down' (a method, not a location).",
+    "collocations": [
+      "top-level domain",
+      "top-level directory",
+      "top-level management"
+    ]
+  },
+  {
+    "word": "Top-level",
+    "meaning": "Relating to the most important or highest position in a structure or organization",
+    "shortMeaning": "highest level",
+    "example": "We need to discuss this with top-level management.",
+    "example2": "The top-level domain for the website is .com.",
+    "example3": "Focus on the top-level architecture before detailing components.",
+    "Explanation": "The term 'top-level' refers to the highest tier of a hierarchy, whether it is an organizational structure, a file system, or a network protocol. In software, it often denotes the root directory or the most general layer of code that controls broader logic. Using this term helps distinguish high-level strategic decisions from low-level implementation details. It suggests oversight, broad scope, and ultimate authority in a system or company. It is frequently used in technical documentation to define hierarchy.",
+    "synonyms": [
+      "highest",
+      "uppermost",
+      "supreme"
+    ],
+    "antonyms": [
+      "low-level",
+      "base",
+      "bottom"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "top-level",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hierarchy, management, file structures",
+    "usageTip": "Use 'top-level' to refer to the highest category or position.",
+    "commonMistake": "Confusing 'top-level' with 'high-level' which is more abstract.",
+    "collocations": [
+      "top-level domain",
+      "top-level management",
+      "top-level directory"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Deny",
+    "meaning": "To state that something is not true; to refuse to give or allow something requested. | To state that something is not true; to refuse to grant or allow.",
+    "shortMeaning": "declare untrue; refuse",
+    "example": "The accused denied all charges against him.",
+    "example2": "She was denied entry to the club because she was underage.",
+    "example3": "He couldn't deny the evidence that was presented.",
+    "Explanation": "Deny has two primary meanings. First, to contradict a statement or allegation, declaring it false. Second, to refuse a request or withhold something. It's a strong, often negative word. Denying facts can be seen as dishonest, while denying requests can be seen as unfair. In law, a 'denial' is a formal rejection of a claim. The word implies an active opposition or withholding. The noun is 'denial', which can also refer to a psychological defense mechanism of refusing to acknowledge reality.",
+    "synonyms": [
+      "Contradict",
+      "Dispute",
+      "Refuse",
+      "Refute",
+      "Reject",
+      "Withhold"
+    ],
+    "antonyms": [
+      "Admit",
+      "Allow",
+      "Confirm",
+      "Grant"
+    ],
+    "nounForm": "denial",
+    "verbForm": "deny",
+    "adjectiveForm": "denied",
+    "partOfSpeech": "verb",
+    "commonContext": "Law, arguments, access control, psychology",
+    "usageTip": "Often used with a direct object or a 'that' clause: 'deny the accusation', 'deny that he was involved'.",
+    "commonMistake": "Confusing 'deny' with 'refute'; 'deny' is simply saying it's not true, 'refute' is proving it's not true.",
+    "collocations": [
+      "categorically deny",
+      "deny access",
+      "deny responsibility"
+    ]
+  },
+  {
+    "word": "Deny",
+    "meaning": "To say that something is not true or to refuse to give something",
+    "shortMeaning": "refuse or disagree",
+    "example": "The server will deny access to users who enter the wrong password.",
+    "example2": "The company issued a statement to deny the rumors of a merger.",
+    "example3": "He cannot deny that the results were very impressive.",
+    "Explanation": "The word 'deny' has two main uses. First, it means claiming something is false (e.g., denying an accusation). Second, it means refusing a request or blocking access. In IT, 'deny' is common in security settings, such as firewall rules that 'deny' certain traffic. It is a powerful and direct word. In programming, an API might deny a request if the user is not authenticated. It is the opposite of 'allow' or 'admit'.",
+    "synonyms": [
+      "refuse",
+      "reject",
+      "disavow"
+    ],
+    "antonyms": [
+      "allow",
+      "admit",
+      "accept"
+    ],
+    "nounForm": "denial",
+    "verbForm": "deny",
+    "adjectiveForm": "deniable",
+    "partOfSpeech": "verb",
+    "commonContext": "Security, legal statements, and everyday conversation",
+    "usageTip": "In tech, use 'deny' to describe blocking a user or a network connection.",
+    "commonMistake": "Confusing 'deny' with 'ignore'; denying is a specific action of saying 'no'.",
+    "collocations": [
+      "deny access",
+      "deny a request",
+      "firmly deny"
+    ]
+  }
+]

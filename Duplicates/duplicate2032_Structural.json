@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Structural",
+    "meaning": "Relating to the underlying organization or framework of something.",
+    "shortMeaning": "related to framework",
+    "example": "The issue is structural, so we need to rewrite the core.",
+    "example2": "Structural changes to the database will take time.",
+    "example3": "The design needs more structural integrity.",
+    "Explanation": "The word 'structural' refers to the organization or 'skeleton' of a project or system. When we talk about a 'structural issue' in software, we mean the basic design is flawed and needs to be rebuilt, not just patched. It's about how the parts fit together. 'Structural' changes usually have a widespread impact on the entire system, so they are always carefully planned.",
+    "synonyms": [
+      "organizational",
+      "framework",
+      "fundamental"
+    ],
+    "antonyms": [
+      "superficial",
+      "minor",
+      "decorative"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structural",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design and architecture",
+    "usageTip": "Use 'structural' when talking about core design or organization.",
+    "commonMistake": "Confusing 'structural' (design) with 'functional' (what it does).",
+    "collocations": [
+      "structural change",
+      "structural issue",
+      "structural design"
+    ]
+  },
+  {
+    "word": "Structural",
+    "meaning": "Relating to the construction, organization, or framework of something.",
+    "shortMeaning": "framework-related",
+    "example": "The structural design of the database is efficient.",
+    "example2": "We are making structural changes to the code.",
+    "example3": "Structural integrity is key for large-scale systems.",
+    "Explanation": "The word 'structural' refers to the fundamental build, layout, or organization of a system, website, or data model. It isn't about the content, but about how everything fits together. If you change a 'structural' element, it might affect everything else. The noun form is 'structure'. It is an adjective commonly used in engineering, architecture, and backend development. Use it when talking about the foundation or the organizational schema of your project rather than minor surface-level details.",
+    "synonyms": [
+      "organizational",
+      "foundational",
+      "framework"
+    ],
+    "antonyms": [
+      "superficial",
+      "cosmetic",
+      "decorative"
+    ],
+    "nounForm": "structure",
+    "verbForm": "structure",
+    "adjectiveForm": "structural",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, coding, database design",
+    "usageTip": "Use 'structural' for foundational changes, not just design tweaks.",
+    "commonMistake": "Confusing 'structural' (the frame) with 'functional' (the behavior).",
+    "collocations": [
+      "structural change",
+      "structural design",
+      "structural integrity"
+    ]
+  }
+]

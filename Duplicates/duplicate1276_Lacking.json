@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Lacking",
+    "meaning": "Deficient or missing something necessary or desirable",
+    "shortMeaning": "deficient, missing",
+    "example": "The plan is lacking in detail.",
+    "example2": "He is completely lacking in common sense.",
+    "example3": "The report was thorough, lacking only a summary.",
+    "Explanation": "'Lacking' is the present participle of the verb 'lack', but is most commonly used as an adjective. It describes the state of not having enough of something or being without something required. This word is often used in criticisms or evaluations to point out an absence or shortcoming. It can be followed by 'in' (lacking in confidence) or stand alone (something is lacking). It is more formal than 'missing' in some contexts. Identifying what is lacking is a key step in improvement or problem-solving.",
+    "synonyms": [
+      "deficient",
+      "wanting",
+      "missing",
+      "inadequate",
+      "without"
+    ],
+    "antonyms": [
+      "abundant",
+      "sufficient",
+      "full of",
+      "possessing"
+    ],
+    "nounForm": "lack",
+    "verbForm": "lack",
+    "adjectiveForm": "lacking",
+    "partOfSpeech": "adjective / verb (present participle)",
+    "commonContext": "Critiques, evaluations, descriptions of deficiency",
+    "usageTip": "Use 'lacking' as an adjective to describe something that does not have enough of a particular quality.",
+    "commonMistake": "Using 'lacking of'. The correct preposition is usually 'in' (lacking in) or no preposition (is lacking).",
+    "collocations": [
+      "found lacking",
+      "lacking evidence",
+      "seriously lacking"
+    ]
+  },
+  {
+    "word": "Lacking",
+    "meaning": "Not having or being without something that is needed or wanted",
+    "shortMeaning": "missing or not enough",
+    "example": "The documentation is lacking in detail regarding the API.",
+    "example2": "The system is lacking memory to process the request.",
+    "example3": "His code was lacking clear comments.",
+    "Explanation": "The word 'lacking' means that something is missing or insufficient. It is used to point out a deficiency in a person, process, or object. It is a formal yet common way to express that there is not enough of something important. In technical writing, it is useful for giving constructive feedback, such as stating that a project is lacking specific features. It usually requires a preposition like 'in' or 'of' to clarify what is missing.",
+    "synonyms": [
+      "missing",
+      "deficient",
+      "insufficient"
+    ],
+    "antonyms": [
+      "plentiful",
+      "complete",
+      "sufficient"
+    ],
+    "nounForm": "lack",
+    "verbForm": "lack",
+    "adjectiveForm": "lacking",
+    "partOfSpeech": "adjective",
+    "commonContext": "Feedback, reviews, system status",
+    "usageTip": "Use 'lacking in [something]' to provide feedback.",
+    "commonMistake": "Using 'lacking' as a verb; it is an adjective or participle (e.g., 'it is lacking' is okay, but 'I lack' is preferred for the verb).",
+    "collocations": [
+      "lacking in detail",
+      "lacking experience",
+      "lacking memory"
+    ]
+  }
+]

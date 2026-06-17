@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Drill down",
+    "meaning": "To look at information in more detail by moving through layers of data",
+    "shortMeaning": "seeing more detail",
+    "example": "You can drill down into the sales report to see which individual stores are doing well.",
+    "example2": "The software allows users to drill down from yearly data to daily data.",
+    "example3": "Click on the chart to drill down and see the customer names.",
+    "Explanation": "In data analysis and business software, 'drill down' means moving from a high-level summary to more specific information. Imagine looking at a map of the world and then 'drilling down' into a specific country, then a city, then a street. It is a common feature in dashboards and spreadsheets. Instead of showing all the tiny details at once (which would be confusing), the software shows a summary first. The user then 'drills down' into the specific parts they care about. This helps in finding the root cause of a problem or identifying specific trends. It is a fundamental way of navigating complex data.",
+    "synonyms": [
+      "dig deeper",
+      "zoom in",
+      "detailed analysis"
+    ],
+    "antonyms": [
+      "roll up",
+      "zoom out",
+      "summarize"
+    ],
+    "nounForm": "drill-down (often hyphenated as a noun)",
+    "verbForm": "drill down",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Business intelligence, software usage, and data reports",
+    "usageTip": "Use 'drill down' when you want to see the specific facts behind a general number.",
+    "commonMistake": "Using 'drill down' to mean simply searching; it specifically means moving from a summary to a detail.",
+    "collocations": [
+      "drill down into data",
+      "drill down feature",
+      "ability to drill down"
+    ]
+  },
+  {
+    "word": "Drill down",
+    "meaning": "To look at information in more detail by moving from a general summary to specific facts",
+    "shortMeaning": "look into details",
+    "example": "We need to drill down into the sales data to see which city is performing best.",
+    "example2": "The dashboard allows you to drill down from yearly reports to daily records.",
+    "example3": "Drill down into the error logs to find the exact line of code that failed.",
+    "Explanation": "This is a very common phrase in data analysis and business. Imagine you are looking at a map of a country. 'Drilling down' means zooming in to a city, then to a street, and then to a house. In a software context, it means clicking on a summary (like a total price) to see the individual items that make up that total. It is the process of getting more specific to find the root cause of a problem or a deep insight.",
+    "synonyms": [
+      "investigate",
+      "examine closely",
+      "zoom in"
+    ],
+    "antonyms": [
+      "summarize",
+      "zoom out"
+    ],
+    "nounForm": "drill-down",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Data analysis, business reports, and troubleshooting",
+    "usageTip": "Use 'drill down' when you want to find the 'why' behind a big number.",
+    "commonMistake": "Thinking 'drill down' means just looking at more data; it specifically means going from broad to specific.",
+    "collocations": [
+      "drill down into data",
+      "drill-down report",
+      "drill down for more info"
+    ]
+  }
+]

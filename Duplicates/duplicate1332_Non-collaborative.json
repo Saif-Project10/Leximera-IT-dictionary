@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Non-collaborative",
+    "meaning": "Not involving or characterized by working together with others",
+    "shortMeaning": "not working together",
+    "example": "His non-collaborative attitude hurt the team project.",
+    "example2": "The meeting was non-collaborative and unproductive.",
+    "example3": "They work in a non-collaborative silo structure.",
+    "Explanation": "'Non-collaborative' describes a person, behavior, process, or environment that lacks cooperation and joint effort. It has a negative connotation in modern workplaces and educational settings that value teamwork. It suggests isolation, unwillingness to share, or a structure that hinders cooperation. The prefix 'non-' simply negates the positive quality of 'collaborative'. It is often used in critiques of work culture or individual behavior.",
+    "synonyms": [
+      "uncooperative",
+      "isolated",
+      "individualistic"
+    ],
+    "antonyms": [
+      "collaborative",
+      "cooperative",
+      "team-oriented"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-collaborative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Workplace dynamics, team projects, organizational culture",
+    "usageTip": "Use to describe a lack of teamwork as a negative trait.",
+    "commonMistake": "Confusing it with 'competitive'. One can be competitive but still collaborative within a team.",
+    "collocations": [
+      "non-collaborative work style",
+      "non-collaborative environment",
+      "non-collaborative approach"
+    ]
+  },
+  {
+    "word": "Non-collaborative",
+    "meaning": "Not designed for or allowing team input",
+    "shortMeaning": "solo/no team",
+    "example": "The tool has a non-collaborative environment.",
+    "example2": "Some old software is strictly non-collaborative.",
+    "example3": "He switched to a tool that supports collaborative, not non-collaborative, workflows.",
+    "Explanation": "In modern IT, 'non-collaborative' tools are becoming rare. These tools prevent users from sharing their work, editing simultaneously, or leaving comments. This is a hindrance in modern dev teams that rely on pair programming, code reviews, and constant communication. If your development tool is non-collaborative, it might be time to look for a modern alternative that allows the team to work together seamlessly to speed up development and share knowledge.",
+    "synonyms": [
+      "solo",
+      "isolated"
+    ],
+    "antonyms": [
+      "collaborative"
+    ],
+    "nounForm": "isolation",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-collaborative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Collaboration and team tools",
+    "usageTip": "Use 'non-collaborative' to describe tools that lack team features.",
+    "commonMistake": "Using a non-collaborative tool when a team project requires shared visibility.",
+    "collocations": [
+      "non-collaborative environment",
+      "non-collaborative tool",
+      "non-collaborative workflow"
+    ]
+  }
+]

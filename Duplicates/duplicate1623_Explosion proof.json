@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Explosion proof",
+    "meaning": "Equipment designed to contain an internal explosion and prevent it from igniting the outside atmosphere",
+    "shortMeaning": "spark-safe",
+    "example": "The oil rig requires explosion proof lights for safety.",
+    "example2": "We installed an explosion proof enclosure for the electrical panel.",
+    "example3": "Explosion proof devices are mandatory in chemical plants.",
+    "Explanation": "Explosion proof doesn't mean the device can survive a giant bomb. It means that if a spark or explosion happens *inside* the device, the heavy casing will contain it so it doesn't cause a fire in the dangerous gases outside. This is critical in places like gas stations, mines, or labs. These devices are usually made of thick steel or aluminum. They are strictly regulated and must be certified. Using non-explosion proof gear in a hazardous area is extremely dangerous and often illegal. It is a vital safety standard for industrial environments.",
+    "synonyms": [
+      "flameproof",
+      "intrinsically safe (related)"
+    ],
+    "antonyms": [
+      "flammable",
+      "non-certified"
+    ],
+    "nounForm": "explosion",
+    "verbForm": "N/A",
+    "adjectiveForm": "explosion proof",
+    "partOfSpeech": "adjective",
+    "commonContext": "Industrial safety and engineering",
+    "usageTip": "Check for official certification (like ATEX or UL) on explosion proof equipment.",
+    "commonMistake": "Thinking 'explosion proof' means the device is indestructible; it only means it won't start an external fire.",
+    "collocations": [
+      "explosion proof enclosure",
+      "explosion proof lighting",
+      "certified explosion proof"
+    ]
+  },
+  {
+    "word": "Explosion proof",
+    "meaning": "Designed to prevent an explosion from occurring or spreading",
+    "shortMeaning": "safe from explosion",
+    "example": "The sensors are housed in explosion-proof containers.",
+    "example2": "In industrial IT, explosion-proof hardware is necessary for certain environments.",
+    "example3": "The wiring was routed through an explosion-proof conduit.",
+    "Explanation": "The term 'explosion proof' describes equipment designed to contain or withstand potential explosions. This is critical in hazardous environments like factories or refineries where electronics might spark. It is a highly specialized term used in industrial engineering and hardware specification. You will rarely use this for standard web or desktop applications, but it is standard for industrial automation and hardware infrastructure. It denotes a very high level of safety and protection.",
+    "synonyms": [
+      "flame-proof",
+      "spark-proof"
+    ],
+    "antonyms": [
+      "flammable",
+      "vulnerable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "explosion-proof",
+    "partOfSpeech": "adjective",
+    "commonContext": "Industrial hardware, safety standards, and engineering",
+    "usageTip": "Use 'explosion proof' only when referring to hardware safety ratings.",
+    "commonMistake": "Using 'explosion proof' for software code; it is a hardware term.",
+    "collocations": [
+      "explosion-proof enclosure",
+      "explosion-proof sensor",
+      "explosion-proof design"
+    ]
+  }
+]

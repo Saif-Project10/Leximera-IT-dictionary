@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Resolve",
+    "meaning": "To find a solution to a problem or dispute; to decide firmly on a course of action.",
+    "shortMeaning": "solve or decide firmly",
+    "example": "The mediator helped them resolve their conflict.",
+    "example2": "She resolved to exercise more in the new year.",
+    "example3": "The technical issue has been resolved.",
+    "Explanation": "Resolve is a verb that means to settle a problem or disagreement conclusively. It implies reaching a final solution that removes the difficulty. It also means to make a firm decision (resolve to do something). The noun 'resolve' means determination. A common mistake is using it interchangeably with 'solve'; 'resolve' often applies to conflicts, disputes, or complex issues involving people, while 'solve' is for puzzles, equations, or technical problems. This word conveys finality, determination, and the successful conclusion of a challenging situation. It's a key term in conflict resolution and personal development.",
+    "synonyms": [
+      "solve",
+      "settle",
+      "sort out",
+      "determine",
+      "decide"
+    ],
+    "antonyms": [
+      "worsen",
+      "aggravate",
+      "hesitate",
+      "avoid"
+    ],
+    "nounForm": "resolution, resolve (determination)",
+    "verbForm": "resolve",
+    "adjectiveForm": "resolved",
+    "partOfSpeech": "verb",
+    "commonContext": "Conflicts, technical problems, personal goals, and decision-making.",
+    "usageTip": "Use 'resolve' for ending disputes or making very firm decisions. Use 'solve' for finding answers to puzzles or technical issues.",
+    "commonMistake": "Saying 'resolve a problem' when you mean a simple technical fix; 'solve' might be more common there.",
+    "collocations": [
+      "resolve an issue",
+      "resolve differences",
+      "strong resolve (noun)"
+    ]
+  },
+  {
+    "word": "Resolve",
+    "meaning": "To find a solution to a problem, or to translate an identifier into its underlying value",
+    "shortMeaning": "solve or translate",
+    "example": "Our technical support team works diligently to resolve customer bugs within an hour.",
+    "example2": "The DNS system must resolve the website domain name into an IP address.",
+    "example3": "The JavaScript promise will resolve once the data is downloaded completely.",
+    "Explanation": "The word 'resolve' has dual meanings in technology. First, it means fixing software errors, bug tickets, or system exceptions. Second, in core system logic, it means translating a human-readable abstraction (like an active domain URL or a variable name) into a target asset, actual IP address, or memory pointer address. The noun form is 'resolution'. It is a key milestone concept across development workflows.",
+    "synonyms": [
+      "solve",
+      "translate",
+      "settle"
+    ],
+    "antonyms": [
+      "complicate",
+      "reject",
+      "fail"
+    ],
+    "nounForm": "resolution",
+    "verbForm": "resolve",
+    "adjectiveForm": "resolved",
+    "partOfSpeech": "verb",
+    "commonContext": "DNS configurations, asynchronous programming promises, and bug tracking systems",
+    "usageTip": "Use 'resolve' when a system successfully maps a term to an address, or when a developer fixes a software issue.",
+    "commonMistake": "Confusing the programming promise term 'resolve' with 'reject' (reject is for handled failures).",
+    "collocations": [
+      "resolve a bug",
+      "resolve DNS",
+      "resolve an issue"
+    ]
+  }
+]

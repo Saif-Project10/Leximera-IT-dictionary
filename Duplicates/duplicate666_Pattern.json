@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Pattern",
+    "meaning": "A repeated decorative design; a regular and intelligible form or sequence",
+    "shortMeaning": "repeated design; model",
+    "example": "The fabric has a floral pattern.",
+    "example2": "We noticed a pattern in the data.",
+    "example3": "She cut the dress using a paper pattern.",
+    "Explanation": "A 'pattern' is any regularly repeated arrangement. It can be visual (on wallpaper), behavioral (sleep patterns), or mathematical (number patterns). It implies order and predictability. Recognizing patterns is a key skill in science, art, and problem-solving. The word can also mean a model or template used as a guide. It is a common and useful noun across many disciplines, from design to psychology to computing.",
+    "synonyms": [
+      "design",
+      "model,",
+      "sequence",
+      "template"
+    ],
+    "antonyms": [
+      "randomness",
+      "chaos",
+      "irregularity"
+    ],
+    "nounForm": "pattern",
+    "verbForm": "pattern (to model)",
+    "adjectiveForm": "patterned",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Design, behavior, mathematics, sewing",
+    "usageTip": "Use 'pattern' to describe something that repeats in a predictable way, or a template for making something.",
+    "commonMistake": "Confusing 'pattern' with 'patent' (a legal right to an invention).",
+    "collocations": [
+      "behavior pattern",
+      "weather pattern",
+      "set a pattern",
+      "pattern of behavior"
+    ]
+  },
+  {
+    "word": "Pattern",
+    "meaning": "A repeated decorative design, or a regular way in which something happens or is done",
+    "shortMeaning": "repeated design or behavior",
+    "example": "The shirt has a nice blue and white stripe pattern.",
+    "example2": "Scientists are studying the weather pattern to predict the next storm.",
+    "example3": "The detective noticed a pattern in the thief's behavior.",
+    "Explanation": "A pattern is something that repeats. It can be visual, like the shapes on a wallpaper, or behavioral, like a person who always eats lunch at 1 PM. In computer science, 'Design Patterns' are standard solutions to common problems that programmers use over and over again. Identifying patterns is one of the most important skills in math and science because it allows us to predict what will happen next based on what happened before.",
+    "synonyms": [
+      "design",
+      "sequence",
+      "model"
+    ],
+    "antonyms": [
+      "chaos",
+      "randomness",
+      "disorder"
+    ],
+    "nounForm": "pattern",
+    "verbForm": "pattern",
+    "adjectiveForm": "patterned",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Art, nature, and problem solving",
+    "usageTip": "Use 'pattern' to describe anything that happens in a predictable, repeating way.",
+    "commonMistake": "Thinking a pattern must be visual; it can be data, numbers, or actions.",
+    "collocations": [
+      "behavioral pattern",
+      "geometric pattern",
+      "identify a pattern"
+    ]
+  }
+]

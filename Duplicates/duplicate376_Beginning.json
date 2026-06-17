@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Beginning",
+    "meaning": "The point in time or space at which something starts.",
+    "shortMeaning": "the start",
+    "example": "The beginning of the movie was very exciting.",
+    "example2": "She was there from the beginning to the end.",
+    "example3": "I'm reading a book about the beginning of the universe.",
+    "Explanation": "Beginning is a noun (and the present participle of 'begin') that refers to the first part or the start of something. It is the opposite of 'end.' It can refer to time (beginning of the year), space (beginning of a road), or an abstract concept (beginning of an idea). The phrase 'in the beginning' is used to start narratives. A common mistake is confusing it with 'beginning' as a verb form. This word is fundamental for storytelling, planning, and understanding sequences. It marks the origin or commencement of any process, event, or entity.",
+    "synonyms": [
+      "start",
+      "commencement",
+      "onset",
+      "outset",
+      "origin"
+    ],
+    "antonyms": [
+      "end",
+      "finish",
+      "conclusion",
+      "termination"
+    ],
+    "nounForm": "beginning",
+    "verbForm": "begin",
+    "adjectiveForm": "beginning (e.g., beginning level)",
+    "partOfSpeech": "noun / verb (present participle)",
+    "commonContext": "Stories, projects, historical events, and courses.",
+    "usageTip": "Use 'at the beginning' to specify a point in time or space. Use 'in the beginning' to refer to the early stages of a process or story.",
+    "commonMistake": "Misspelling as 'begining' (only one 'n' after the 'g').",
+    "collocations": [
+      "from the beginning",
+      "new beginning",
+      "beginning of the end"
+    ]
+  },
+  {
+    "word": "Beginning",
+    "meaning": "Relating to the first part, start, or entry-level stage of a process, timeline, or skill level",
+    "shortMeaning": "starting",
+    "example": "This course is designed for beginning developers who have never written code before.",
+    "example2": "In the beginning phase of the project, we focus entirely on design mockups.",
+    "example3": "The textbook explains JavaScript concepts starting from a beginning level.",
+    "Explanation": "The word 'beginning' functions as a participial adjective or noun. In educational settings, tech training, and documentation, it specifies that the content or program is tuned for absolute novices or introductory stages. The noun form is 'beginning' and the verb form is 'begin'. It sets a clear operational expectation for scope, complexity, and target audience readiness.",
+    "synonyms": [
+      "initial",
+      "starting",
+      "introductory"
+    ],
+    "antonyms": [
+      "ending",
+      "advanced",
+      "final"
+    ],
+    "nounForm": "beginning",
+    "verbForm": "begin",
+    "adjectiveForm": "beginning",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Course design titles, initial development stages, and beginner-friendly documentation",
+    "usageTip": "Use 'beginning' before a noun to show that the target audience or phase has zero prior advancement.",
+    "commonMistake": "Spelling it with a single 'n' in the middle; ensure it is spelled with double 'n' as 'beginning'.",
+    "collocations": [
+      "beginning level",
+      "beginning stage",
+      "beginning developer"
+    ]
+  }
+]

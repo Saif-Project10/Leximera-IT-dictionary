@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Passive infrared",
+    "meaning": "A technology that detects motion by measuring changes in the heat (infrared radiation) emitted by objects",
+    "shortMeaning": "heat-based detection",
+    "example": "The security lights use passive infrared to turn on when someone walks by.",
+    "example2": "Passive infrared technology is very energy-efficient because it doesn't emit any light itself.",
+    "example3": "Animals and humans are easily spotted by passive infrared sensors due to their body heat.",
+    "Explanation": "Passive infrared (PIR) is a technology that 'sees' heat rather than light. Everything that is warm (like humans, cars, or dogs) gives off infrared radiation. A PIR device has a special sensor that stays quiet as long as the heat level in front of it is constant. When something warm moves past, the sensor detects the change and triggers an action, like sounding an alarm or opening a door. It is called 'passive' because it doesn't send out any beams or signals; it only 'receives' the heat that is already there. It is the most common technology for motion sensors.",
+    "synonyms": [
+      "PIR",
+      "thermal detection"
+    ],
+    "antonyms": [
+      "active infrared"
+    ],
+    "nounForm": "passive infrared",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive infrared",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Security systems and smart home devices",
+    "usageTip": "Use passive infrared sensors for energy-saving lights in hallways and garages.",
+    "commonMistake": "Expecting PIR to work through glass; glass blocks most infrared radiation, so the sensor won't see you.",
+    "collocations": [
+      "passive infrared technology",
+      "passive infrared receiver",
+      "passive infrared detection"
+    ]
+  },
+  {
+    "word": "Passive infrared",
+    "meaning": "A technology that detects motion by measuring changes in infrared light (heat) emitted by objects.",
+    "shortMeaning": "heat-based motion sensor",
+    "example": "The security camera uses a passive infrared sensor to detect intruders.",
+    "example2": "Passive infrared sensors are standard in smart home lighting.",
+    "example3": "PIR is a common abbreviation for passive infrared technology.",
+    "Explanation": "'Passive infrared' (PIR) is a specific type of sensor technology used primarily for motion detection. It is called 'passive' because it does not emit any energy or radiation; it only detects the infrared energy naturally emitted by humans and animals. This makes it very energy-efficient and reliable for security and automation systems. You will often see it abbreviated as PIR in manuals for alarm systems and lighting controls. It is a standard component in modern IoT and home automation hardware.",
+    "synonyms": [
+      "PIR",
+      "infrared motion sensor"
+    ],
+    "antonyms": [
+      "active infrared"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "passive infrared",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security systems, IoT, automation",
+    "usageTip": "Usually referred to by its acronym, PIR, in technical environments.",
+    "commonMistake": "Thinking the sensor sends out a beam; it only receives heat.",
+    "collocations": [
+      "passive infrared sensor",
+      "PIR detector",
+      "passive infrared technology"
+    ]
+  }
+]

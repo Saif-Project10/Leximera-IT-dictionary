@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Voice chat",
+    "meaning": "A real-time conversation over the internet using voice instead of text",
+    "shortMeaning": "talking online",
+    "example": "We had a long voice chat last night to discuss the project.",
+    "example2": "Voice chat is much faster than typing when you are in the middle of a game.",
+    "example3": "The app allows for both text and voice chat features.",
+    "Explanation": "Voice chat is the digital version of a phone call, usually done over apps like WhatsApp, Discord, or Telegram. It is different from a traditional phone call because it uses 'VoIP' (Voice over Internet Protocol). It is very popular in gaming and remote work because it allows for hands-free, fast communication. Voice chat can be 'one-to-one' or in large groups. Users often prefer it because it conveys tone and emotion better than text. However, it requires a stable internet connection to avoid 'lag'.",
+    "synonyms": [
+      "voice call",
+      "audio chat",
+      "VoIP"
+    ],
+    "antonyms": [
+      "text chat",
+      "instant messaging"
+    ],
+    "nounForm": "voice chat",
+    "verbForm": "voice chat",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Gaming, social media, and remote work",
+    "usageTip": "You can use 'voice chat' as a verb (e.g., 'Let's voice chat later').",
+    "commonMistake": "Thinking 'voice chat' and 'video call' are the same; voice chat is audio only.",
+    "collocations": [
+      "start a voice chat",
+      "voice chat room",
+      "active voice chat"
+    ]
+  },
+  {
+    "word": "Voice chat",
+    "meaning": "A real-time network communication feature that enables users to transmit and receive spoken audio data streams over internet connections",
+    "shortMeaning": "real-time audio communication",
+    "example": "Gamers use the application's built-in voice chat feature to talk about strategy choices during match plays.",
+    "example2": "We integrated a web voice chat library to allow customer support agents to talk with web clients.",
+    "example3": "If your voice chat connection experiences high packet jitter, the audio streaming quality will drop.",
+    "Explanation": "The term 'voice chat' refers to bidirectional voice streaming systems powered by Voice over IP (VoIP) and WebRTC technologies. Building voice chat features requires processing audio inputs, compressing raw sound bytes via specialized codecs, and transmitting them with minimal latency. High network jitter or packet loss can degrade voice chat quality, causing broken audio or lag during real-time online conversations.",
+    "synonyms": [
+      "audio call",
+      "VoIP stream",
+      "voice communication link"
+    ],
+    "antonyms": [
+      "text chat",
+      "silent messaging"
+    ],
+    "nounForm": "voice chat",
+    "verbForm": "voice chat",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Collaboration applications, online gaming platforms, real-time web communication hubs",
+    "usageTip": "Use 'voice chat' when describing live, interactive audio communication features built directly into software applications.",
+    "commonMistake": "Spelling the phrase as 'voice-chat' with an unnecessary hyphen when used as a standard noun form in technical text layouts.",
+    "collocations": [
+      "enable voice chat",
+      "voice chat feature",
+      "voice chat room"
+    ]
+  }
+]

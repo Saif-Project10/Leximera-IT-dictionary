@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Thermometric",
+    "meaning": "Related to the measurement of temperature",
+    "shortMeaning": "related to temperature measurement",
+    "example": "The device has thermometric sensors to monitor internal heat.",
+    "example2": "Thermometric data is logged to ensure the server stays cool.",
+    "example3": "The thermometric system tracks temperature changes in real-time.",
+    "Explanation": "Thermometric relates to the instruments or methods used to measure temperature. In an IT environment, thermometric devices are essential for monitoring the thermal state of servers, processors, and data centers. Accurate thermometric readings help automate cooling systems by triggering fans or throttling performance when temperatures rise. It is a technical term often found in hardware specifications and environmental monitoring documentation. It focuses specifically on the act or capability of measuring heat levels.",
+    "synonyms": [
+      "temperature-measuring",
+      "thermal-sensing"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "thermometry",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermometric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware monitoring, sensors, data centers",
+    "usageTip": "Use when referring to the science or tools of measuring temperature.",
+    "commonMistake": "Using it to describe heat itself rather than the measurement of heat.",
+    "collocations": [
+      "thermometric sensor",
+      "thermometric data",
+      "thermometric system"
+    ]
+  },
+  {
+    "word": "Thermometric",
+    "meaning": "Relating to the measurement of temperature",
+    "shortMeaning": "temperature-measuring",
+    "example": "The sensor uses thermometric properties to detect heat changes.",
+    "example2": "Thermometric devices are essential for climate control systems.",
+    "example3": "The research team analyzed the thermometric data recorded by the server.",
+    "Explanation": "The word 'thermometric' relates to the science and methods used for measuring temperature. It is often used in technical hardware contexts where precise thermal monitoring is required. In IT, this applies to cooling systems, CPU temperature sensors, and environmental monitoring in data centers. It is a formal, scientific adjective. Remember that it describes the method or device used to measure heat, not the temperature itself.",
+    "synonyms": [
+      "thermal",
+      "temperature-related"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "thermometer",
+    "verbForm": "N/A",
+    "adjectiveForm": "thermometric",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware engineering, environmental monitoring",
+    "usageTip": "Use 'thermometric' when describing the process or tools of temperature measurement.",
+    "commonMistake": "Confusing 'thermometric' with 'thermodynamic' (which relates to heat and energy flow).",
+    "collocations": [
+      "thermometric sensor",
+      "thermometric reading",
+      "thermometric device"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Shadowed",
+    "meaning": "Having a shadow added, or following someone closely",
+    "shortMeaning": "has a shadow",
+    "example": "The text is shadowed to make it stand out.",
+    "example2": "I shadowed the senior developer for a week.",
+    "example3": "The box has a soft shadowed edge.",
+    "Explanation": "The word 'shadowed' has two main meanings. In design, it refers to adding a 'drop shadow' to an object, like text or a button, to make it look 3D or separated from the background. In a professional context, it means to follow someone closely to learn how they do their job, like 'job shadowing'. Both meanings involve something being 'attached' to the primary object or person. Use this word when discussing either visual design effects or learning by observation.",
+    "synonyms": [
+      "following",
+      "outlined",
+      "hidden"
+    ],
+    "antonyms": [
+      "unshadowed",
+      "leading"
+    ],
+    "nounForm": "shadow",
+    "verbForm": "shadow",
+    "adjectiveForm": "shadowed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Design, learning, training",
+    "usageTip": "Use to describe objects with shadows or people learning by watching.",
+    "commonMistake": "Confusing design 'shadowing' with professional 'job shadowing'.",
+    "collocations": [
+      "shadowed text",
+      "shadowed object",
+      "job shadowed"
+    ]
+  },
+  {
+    "word": "Shadowed",
+    "meaning": "Having a shadow effect applied, or following closely (as in shadowing a user).",
+    "shortMeaning": "shadow applied/followed",
+    "example": "The text was shadowed to make it stand out.",
+    "example2": "I shadowed the senior engineer for two weeks.",
+    "example3": "The UI element is shadowed to create depth.",
+    "Explanation": "The word 'shadowed' has two meanings in IT: one is visual (adding a drop shadow to an element), and the other is procedural (following a colleague to learn their job). As a visual effect, it adds depth to UI components. As a learning process, 'shadowing' is a common onboarding technique where you observe a veteran developer to learn best practices. The base verb is 'shadow'. Context usually makes it clear which meaning is intended.",
+    "synonyms": [
+      "followed",
+      "outlined",
+      "darkened"
+    ],
+    "antonyms": [
+      "unshadowed",
+      "unfollowed"
+    ],
+    "nounForm": "shadow",
+    "verbForm": "shadow",
+    "adjectiveForm": "shadowed",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "UI design, onboarding, training",
+    "usageTip": "Use 'shadowed' for both visual design and procedural training.",
+    "commonMistake": "Confusing visual shadow with the act of shadowing a person.",
+    "collocations": [
+      "shadowed text",
+      "shadowed the engineer",
+      "shadowed element"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Intrinsic",
+    "meaning": "Belonging naturally; essential to the nature of something",
+    "shortMeaning": "natural and essential",
+    "example": "The intrinsic value of gold makes it desirable.",
+    "example2": "She has an intrinsic motivation to help others.",
+    "example3": "The intrinsic beauty of the landscape took our breath away.",
+    "Explanation": "'Intrinsic' describes qualities that come from within something, not from outside sources. These are fundamental characteristics that cannot be separated from the thing itself. For example, the intrinsic hardness of a diamond is part of what makes it a diamond. This contrasts with 'extrinsic' qualities, which come from outside. The word is used in philosophy, value theory, and everyday language to discuss what things are really like at their core, beyond surface appearances.",
+    "synonyms": [
+      "inherent",
+      "innate",
+      "essential",
+      "built-in",
+      "natural"
+    ],
+    "antonyms": [
+      "extrinsic",
+      "external",
+      "superficial",
+      "acquired"
+    ],
+    "nounForm": "intrinsicality",
+    "verbForm": "N/A",
+    "adjectiveForm": "intrinsic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Philosophy, value assessment, motivation psychology, material science",
+    "usageTip": "Often followed by 'to' (intrinsic to human nature) or used before 'value', 'motivation', or 'quality'.",
+    "commonMistake": "Confusing 'intrinsic' (internal nature) with 'integral' (necessary part of a whole).",
+    "collocations": [
+      "intrinsic value",
+      "intrinsic motivation",
+      "intrinsic quality",
+      "intrinsic to"
+    ]
+  },
+  {
+    "word": "Intrinsic",
+    "meaning": "Belonging naturally; essential",
+    "shortMeaning": "natural",
+    "example": "Security should be an intrinsic part of the design process.",
+    "example2": "The software has an intrinsic value to the business.",
+    "example3": "Data integrity is an intrinsic requirement for this database.",
+    "Explanation": "The word 'intrinsic' describes a quality that is built-in, natural, or essential to something. It is not added on top; it is part of the core identity. In IT, we speak of security, performance, or reliability as being 'intrinsic' features—meaning they are baked into the system from the start rather than applied as an afterthought. Recognizing what is 'intrinsic' to your work helps you prioritize what matters most in your architecture and development process.",
+    "synonyms": [
+      "natural",
+      "essential",
+      "inherent"
+    ],
+    "antonyms": [
+      "extrinsic",
+      "added",
+      "superficial"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "intrinsic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Design, philosophy, business",
+    "usageTip": "Use 'intrinsic' for things that are built-in.",
+    "commonMistake": "Confusing 'intrinsic' with 'extrinsic'.",
+    "collocations": [
+      "intrinsic value",
+      "intrinsic part",
+      "intrinsic property"
+    ]
+  }
+]

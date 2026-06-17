@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Synthetic",
+    "meaning": "Made by chemical synthesis, especially to imitate a natural product; not genuine or natural",
+    "shortMeaning": "artificially made",
+    "example": "This jacket is made from synthetic fibers like polyester.",
+    "example2": "The lab produced a synthetic version of the virus for study.",
+    "example3": "His apology felt synthetic and insincere.",
+    "Explanation": "'Synthetic' is primarily an adjective describing something human-made through chemical processes, often designed to mimic or replace a natural material (e.g., synthetic rubber, synthetic diamonds). It carries connotations of being artificial, manufactured, and sometimes inferior in quality to the natural counterpart, though not always. It can also be used figuratively to describe emotions, behavior, or experiences that seem fake, contrived, or insincere. In philosophy, 'synthetic' statements add information beyond definition. The noun form refers to a synthetic material or product.",
+    "synonyms": [
+      "artificial",
+      "man-made",
+      "fabricated",
+      "imitation"
+    ],
+    "antonyms": [
+      "natural",
+      "organic",
+      "genuine",
+      "real"
+    ],
+    "nounForm": "synthetic",
+    "verbForm": "synthesize",
+    "adjectiveForm": "synthetic",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Materials science, chemistry, textiles, criticism",
+    "usageTip": "In technical contexts, it's neutral. In everyday language, it can have a negative connotation of being 'fake'.",
+    "commonMistake": "Assuming all synthetic things are bad; many are highly advanced and useful.",
+    "collocations": [
+      "synthetic material",
+      "synthetic fuel",
+      "synthetic voice",
+      "synthetic chemistry"
+    ]
+  },
+  {
+    "word": "Synthetic",
+    "meaning": "Made by chemical or artificial processes; not natural",
+    "shortMeaning": "artificial",
+    "example": "We use synthetic data to test our algorithms.",
+    "entity2": "The synthetic fiber is highly durable.",
+    "example3": "Synthetic voices are becoming more natural-sounding.",
+    "Explanation": "The word 'synthetic' means artificial—produced rather than naturally occurring. In tech, 'synthetic data' is increasingly important; it is data created by software to train AI models without needing to gather private user information. Because it is artificial, it can be perfect for testing edge cases. Use 'synthetic' when you need to distinguish between real-world inputs and artificially generated ones. It is a cornerstone of modern AI research and testing.",
+    "synonyms": [
+      "artificial",
+      "man-made",
+      "simulated"
+    ],
+    "antonyms": [
+      "natural",
+      "organic",
+      "real"
+    ],
+    "nounForm": "synthesis",
+    "verbForm": "synthesize",
+    "adjectiveForm": "synthetic",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, data testing, materials science",
+    "usageTip": "Use to describe data or materials that are artificially made.",
+    "commonMistake": "Thinking 'synthetic' means 'fake' in a negative sense; it's often a neutral, useful term.",
+    "collocations": [
+      "synthetic data",
+      "synthetic voice",
+      "synthetic material"
+    ]
+  },
+  {
+    "word": "Synthetic",
+    "meaning": "Man-made or artificially produced, rather than natural",
+    "shortMeaning": "artificial",
+    "example": "Synthetic data is used to train AI models.",
+    "example2": "They created a synthetic environment for testing.",
+    "example3": "Synthetic voices sound almost human now.",
+    "Explanation": "In technology, 'synthetic' describes anything created artificially to mimic real-world phenomena. This is common in AI, where 'synthetic data' simulates reality to train models without needing private or hard-to-collect data. It represents a powerful way to expand capabilities, speed up testing, and ensure security. It is essentially the opposite of 'natural' or 'collected from reality'. It is a standard, very common term in modern AI and simulation engineering.",
+    "synonyms": [
+      "artificial",
+      "man-made",
+      "simulated"
+    ],
+    "antonyms": [
+      "natural",
+      "real",
+      "authentic"
+    ],
+    "nounForm": "synthesis",
+    "verbForm": "synthesize",
+    "adjectiveForm": "synthetic",
+    "partOfSpeech": "adjective",
+    "commonContext": "AI, simulation, testing",
+    "usageTip": "Use to describe man-made data or environments.",
+    "commonMistake": "Using 'synthetic' in a negative sense; it is often neutral or positive in IT.",
+    "collocations": [
+      "synthetic data",
+      "synthetic environment",
+      "synthetic intelligence"
+    ]
+  }
+]

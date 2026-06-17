@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Sponsor",
+    "meaning": "A person or organization that provides funds or support for a project",
+    "shortMeaning": "financial supporter",
+    "example": "The tech conference is looking for a corporate sponsor.",
+    "example2": "Microsoft was a main sponsor for the hackathon.",
+    "example3": "You need a project sponsor to get approval for the budget.",
+    "Explanation": "In IT and business, a sponsor is an entity that provides the necessary resources—usually money, time, or authority—to make a project happen. A project sponsor is often a senior executive who champions the project at a high level. In marketing, a sponsor pays to have their brand associated with an event or content. Without a sponsor, many large-scale IT initiatives or community events would fail due to lack of funding. It involves a relationship where the sponsor gets value, such as publicity or a finished product.",
+    "synonyms": [
+      "patron",
+      "backer",
+      "supporter"
+    ],
+    "antonyms": [
+      "competitor",
+      "opponent"
+    ],
+    "nounForm": "sponsor / sponsorship",
+    "verbForm": "sponsor",
+    "adjectiveForm": "sponsored",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project management and events",
+    "usageTip": "Use 'sponsor' to identify who is paying for or backing an initiative.",
+    "commonMistake": "Using 'sponsor' when you actually mean 'partner' (partners usually share work, sponsors share money).",
+    "collocations": [
+      "project sponsor",
+      "corporate sponsor",
+      "official sponsor"
+    ]
+  },
+  {
+    "word": "Sponsor",
+    "meaning": "An organization or individual that provides funds, resources, or support for an open-source project or tech event",
+    "shortMeaning": "financial or resource supporter",
+    "example": "A major cloud provider agreed to sponsor our annual hackathon event.",
+    "example2": "You can sponsor independent open-source developers through GitHub Sponsors.",
+    "example3": "The company acts as a official sponsor for the Linux Foundation development team.",
+    "Explanation": "In the technology industry, a 'sponsor' plays an important role in sustaining innovation, especially within the open-source ecosystem. Many tools, libraries, and frameworks used by corporations are maintained by volunteers. When a company chooses to sponsor a project, they contribute financial backing or infrastructure resources (like free server hosting) to ensure continuous maintenance and feature updates. Sponsoring can also apply to tech conferences and educational workshops, allowing organizations to advertise their brand while supporting the developer community.",
+    "synonyms": [
+      "backer",
+      "patron",
+      "supporter",
+      "funder"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "sponsor / sponsorship",
+    "verbForm": "sponsor",
+    "adjectiveForm": "sponsored",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Open-source development, tech conferences, and community projects",
+    "usageTip": "Use this term when talking about corporate funding for software projects or community meetups.",
+    "commonMistake": "Assuming a sponsor owns the project; sponsoring provides support but doesn't grant direct ownership.",
+    "collocations": [
+      "corporate sponsor",
+      "sponsor an open-source project",
+      "financial sponsor"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Collateral",
+    "meaning": "Something pledged as security for repayment of a loan, to be forfeited in the event of a default",
+    "shortMeaning": "loan security",
+    "example": "He used his house as collateral to get a business loan from the bank.",
+    "example2": "The lender requires collateral for all high-value transactions.",
+    "example3": "In crypto, users often lock their tokens as collateral to borrow stablecoins.",
+    "Explanation": "Collateral is an asset that a borrower offers to a lender to secure a loan. If the borrower stops making payments, the lender has the legal right to take the collateral and sell it to recover their money. This reduces the risk for the lender. Common types of collateral include real estate, vehicles, or financial assets like stocks. In the modern tech world, digital assets and 'smart contracts' are often used to manage collateral automatically without a middleman.",
+    "synonyms": [
+      "security",
+      "guarantee",
+      "pledge"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "collateral",
+    "verbForm": "collateralize",
+    "adjectiveForm": "collateral",
+    "partOfSpeech": "noun",
+    "commonContext": "Banking, finance, and decentralized finance (DeFi)",
+    "usageTip": "Use 'collateral' when discussing loans or financial agreements.",
+    "commonMistake": "Confusing 'collateral' with 'insurance'; collateral is an asset you give up if you fail, insurance is a service you buy for protection.",
+    "collocations": [
+      "put up collateral",
+      "collateral requirements",
+      "seize collateral"
+    ]
+  },
+  {
+    "word": "Collateral",
+    "meaning": "Related but secondary to the main subject, or an asset pledged as a guarantee",
+    "shortMeaning": "secondary or guarantee",
+    "example": "The fix had some collateral effects on other system modules.",
+    "example2": "We must manage collateral risks during the server upgrade.",
+    "example3": "She pledged her house as collateral for the business loan.",
+    "Explanation": "The word 'collateral' has two main meanings. In tech, 'collateral effects' are unexpected side effects that occur when you change something. If you fix one bug but break another part of the code, that new bug is a collateral issue. In finance, 'collateral' is an asset—like money or property—that someone offers as security to get a loan. Both meanings imply something secondary that is connected to the primary goal.",
+    "synonyms": [
+      "secondary",
+      "side",
+      "security"
+    ],
+    "antonyms": [
+      "main",
+      "primary",
+      "direct"
+    ],
+    "nounForm": "collateral",
+    "verbForm": "N/A",
+    "adjectiveForm": "collateral",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Software side effects, finance, and risk management",
+    "usageTip": "Use 'collateral effects' to describe bugs that happen as a side effect of a fix.",
+    "commonMistake": "Thinking 'collateral' always means 'loan security'; in tech, it almost always means 'side effect'.",
+    "collocations": [
+      "collateral effects",
+      "collateral damage",
+      "manage collateral"
+    ]
+  }
+]

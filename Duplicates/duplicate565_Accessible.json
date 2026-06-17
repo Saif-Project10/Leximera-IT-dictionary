@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Accessible",
+    "meaning": "Easy to approach, reach, enter, use, or understand; available to people with disabilities.",
+    "shortMeaning": "easy to reach, use, or understand",
+    "example": "The website is designed to be accessible to screen readers.",
+    "example2": "The professor makes complex topics accessible to beginners.",
+    "example3": "The park is easily accessible by public transport.",
+    "Explanation": "Accessible is an adjective describing something that can be easily used, reached, or understood. In a social and legal context, it strongly implies compliance with standards that allow people with disabilities to participate fully (e.g., wheelchair-accessible ramps, accessible websites). It's a positive term denoting inclusivity, usability, and clarity. The noun is 'accessibility.' A common mistake is using it only in the physical sense; digital and intellectual accessibility are equally important. This word is key in design, education, and policy, emphasizing the removal of barriers.",
+    "synonyms": [
+      "available",
+      "approachable",
+      "understandable",
+      "usable",
+      "inclusive"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "unavailable",
+      "exclusive",
+      "unapproachable"
+    ],
+    "nounForm": "accessibility",
+    "verbForm": "access",
+    "adjectiveForm": "accessible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design, disability rights, user experience, and general usability.",
+    "usageTip": "Use 'accessible to' a group or person (e.g., 'accessible to all users'). Use 'accessible for' a purpose (less common).",
+    "commonMistake": "Confusing 'accessible' (easy to use) with 'approachable' (friendly in demeanor).",
+    "collocations": [
+      "easily accessible",
+      "accessible design",
+      "accessible format"
+    ]
+  },
+  {
+    "word": "Accessible",
+    "meaning": "Easy to approach, enter, use, understand, or reach, especially for people with disabilities",
+    "shortMeaning": "easy to access or use",
+    "example": "Web developers must design accessible websites that work well with screen readers.",
+    "example2": "The server room is only accessible to authorized IT personnel.",
+    "example3": "Keep your code documentation in an accessible location for the whole team.",
+    "Explanation": "The word 'accessible' has immense importance in software engineering, digital product design, and general communications. In IT and web development, accessibility (often shortened to a11y) refers to building web platforms that everyone can navigate, including people with visual, auditory, or motor impairments. In infrastructure security, it describes directories or physical areas that can be opened or accessed. It highlights openness, usability, and inclusivity across systems.",
+    "synonyms": [
+      "reachable",
+      "usable",
+      "inclusive",
+      "approachable"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "restricted",
+      "unreachable",
+      "exclusive"
+    ],
+    "nounForm": "accessibility",
+    "verbForm": "access",
+    "adjectiveForm": "accessible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web accessibility standards (WCAG), security permissions, file storage",
+    "usageTip": "Use 'accessible' when talking about web interfaces that are properly optimized for disabled users using assistive tools.",
+    "commonMistake": "Spelling it as 'accessable' with an 'a' in the suffix instead of an 'i'.",
+    "collocations": [
+      "web accessible",
+      "publicly accessible",
+      "accessible design"
+    ]
+  }
+]

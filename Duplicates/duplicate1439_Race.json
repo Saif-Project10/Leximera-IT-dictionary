@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Race",
+    "meaning": "A competition of speed, as in running or driving; a group of people sharing physical or genetic traits.",
+    "shortMeaning": "speed contest; ethnic group",
+    "example": "He won the 100-meter race.",
+    "example2": "We shouldn't discriminate based on race or religion.",
+    "example3": "The cars raced around the track.",
+    "Explanation": "'Race' is a noun and a verb with two primary, very different meanings. The first is a contest of speed. The second is a major grouping of humankind based on shared physical characteristics. The verb means to compete in a speed contest or to move very fast. The word is common in sports, sociology, and everyday language. Context is crucial. In sensitive discussions about identity, 'ethnicity' is often a more precise term than 'race'. The sporting meaning is straightforward and universally understood.",
+    "synonyms": [
+      "contest (sport)",
+      "ethnicity",
+      "sprint",
+      "dash"
+    ],
+    "antonyms": [
+      "walk",
+      "amble (for verb)"
+    ],
+    "nounForm": "race",
+    "verbForm": "race",
+    "adjectiveForm": "racial (pertaining to ethnic race), racing (pertaining to contest)",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Sports, sociology, identity, transportation",
+    "usageTip": "Be mindful of context. 'Human race' refers to all of humanity.",
+    "commonMistake": "Using 'race' as the sole indicator of a person's cultural background; 'ethnicity' is broader.",
+    "collocations": [
+      "horse race",
+      "arms race",
+      "race against time",
+      "race relations"
+    ]
+  },
+  {
+    "word": "Race",
+    "meaning": "A competition of speed, or an unstable system condition where events overlap",
+    "shortMeaning": "speed competition / system conflict",
+    "example": "A race condition occurs when two threads try to modify data at once.",
+    "example2": "The tech companies are in a race to build the fastest AI model.",
+    "example3": "We must fix the race bug before deploying the code to production.",
+    "Explanation": "While 'race' in general English means a competition based on speed, in computer science it forms part of a critical concept: a 'race condition'. This happens when the output of a system depends on the unpredictable sequence or timing of uncontrollable events. It is a major source of bugs in multi-threaded programming or asynchronous applications. Resolving these races requires proper resource locking mechanisms. It is vital for system stability.",
+    "synonyms": [
+      "competition",
+      "contest",
+      "concurrency conflict"
+    ],
+    "antonyms": [
+      "synchronized state"
+    ],
+    "nounForm": "race",
+    "verbForm": "race",
+    "adjectiveForm": "racial (unrelated)",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Concurrency, multi-threaded systems, and business competition",
+    "usageTip": "In IT, use 'race' primarily in the phrase 'race condition' to describe timing bugs.",
+    "commonMistake": "Assuming a 'race condition' just means the code is running fast.",
+    "collocations": [
+      "race condition",
+      "AI race",
+      "prevent a race"
+    ]
+  }
+]

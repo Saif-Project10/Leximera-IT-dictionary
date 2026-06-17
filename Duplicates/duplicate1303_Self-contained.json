@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Self-contained",
+    "meaning": "Complete in itself; needing no additional parts, support, or explanation to function or be understood.",
+    "shortMeaning": "independent and complete",
+    "example": "A good module should be a self-contained unit with a clear purpose.",
+    "example2": "The studio apartment is a self-contained living space with its own kitchen and bathroom.",
+    "example3": "Each chapter of the book is self-contained, so you can read them in any order.",
+    "Explanation": "Something described as 'self-contained' operates independently. It has all the necessary components within itself and does not rely heavily on external context or resources. In software, a self-contained module or component minimizes dependencies, making the code easier to test, reuse, and maintain. The term is often positive, implying neatness, efficiency, and portability. It's important to note that 'self-contained' doesn't mean it has no connections at all, but that its core functionality is internally managed.",
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "standalone",
+      "complete",
+      "integrated"
+    ],
+    "antonyms": [
+      "dependent",
+      "interconnected",
+      "reliant",
+      "incomplete"
+    ],
+    "nounForm": "self-containment",
+    "verbForm": "N/A",
+    "adjectiveForm": "self-contained",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software modules, living spaces, units of learning, systems",
+    "usageTip": "Hyphenate the word when it comes before a noun (a self-contained unit) but not necessarily after (the unit is self contained).",
+    "commonMistake": "Confusing 'self-contained' with 'isolated'. Something can be self-contained yet still interact with other parts.",
+    "collocations": [
+      "self-contained system",
+      "self-contained apartment",
+      "self-contained entity",
+      "entirely self-contained"
+    ]
+  },
+  {
+    "word": "Self-contained",
+    "meaning": "Complete within itself and not needing outside support",
+    "shortMeaning": "complete",
+    "example": "The script is self-contained and requires no external libraries.",
+    "example2": "A self-contained system is easier to deploy.",
+    "example3": "Each module is designed to be self-contained.",
+    "Explanation": "Self-contained describes something that has all the necessary parts to function without depending on outside help. In software, a self-contained application includes all its dependencies, making it portable and easy to install. This design pattern reduces compatibility issues between different systems. It signifies autonomy and reliability, as you do not need to worry about missing external files or services. Using self-contained units makes debugging and maintenance much simpler for the development team.",
+    "synonyms": [
+      "independent",
+      "autonomous",
+      "standalone"
+    ],
+    "antonyms": [
+      "dependent",
+      "interconnected",
+      "reliant"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "self-contained",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, system architecture",
+    "usageTip": "Use this to describe components that run perfectly without extra setups.",
+    "commonMistake": "Confusing it with 'self-managed' (which refers to operation rather than completeness).",
+    "collocations": [
+      "self-contained system",
+      "self-contained module",
+      "fully self-contained"
+    ]
+  },
+  {
+    "word": "Self-contained",
+    "meaning": "Complete and independent of external parts",
+    "shortMeaning": "independent",
+    "example": "The module is self-contained and requires no extra libraries.",
+    "example2": "He built a self-contained container for the app.",
+    "example3": "The script is a self-contained unit of work.",
+    "Explanation": "A 'self-contained' system or component holds everything it needs to function inside itself. This is highly desirable in modern development, especially with microservices and Docker containers, because it makes deployment easy and prevents issues with missing dependencies or version conflicts on the host system. If a piece of code is self-contained, it is easier to move from one environment to another without it breaking. It implies stability and portability. Developers strive for this to create clean, modular architectures.",
+    "synonyms": [
+      "independent",
+      "modular",
+      "complete"
+    ],
+    "antonyms": [
+      "dependent",
+      "interconnected",
+      "reliant"
+    ],
+    "nounForm": "self-containment",
+    "verbForm": "N/A",
+    "adjectiveForm": "self-contained",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, deployment, modularity",
+    "usageTip": "Use to describe code that doesn't need external help.",
+    "commonMistake": "Overestimating how truly self-contained a component is.",
+    "collocations": [
+      "self-contained module",
+      "self-contained app"
+    ]
+  }
+]

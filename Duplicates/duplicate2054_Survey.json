@@ -1,0 +1,91 @@
+[
+  {
+    "word": "Survey",
+    "meaning": "A method of gathering data by asking questions or examining a site",
+    "shortMeaning": "gathering information",
+    "example": "We sent a survey to all users to get their feedback.",
+    "example2": "The engineer conducted a site survey for the installation.",
+    "example3": "The survey results indicate high customer satisfaction.",
+    "Explanation": "A 'survey' is a systematic way of collecting information. It can be a set of questions for people (to gather opinions) or a technical examination of a physical space (like a 'site survey' before building a network). It is a key tool in market research, UX design, and project planning. Using a survey helps you base decisions on actual data rather than just guessing. It is a very common and essential word in professional research and planning.",
+    "synonyms": [
+      "poll",
+      "examination",
+      "assessment"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "survey",
+    "verbForm": "survey",
+    "adjectiveForm": "surveyed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Market research, engineering, planning",
+    "usageTip": "Use 'survey' when you need to gather broad information or feedback.",
+    "commonMistake": "Confusing 'survey' (gathering data) with 'analysis' (interpreting data).",
+    "collocations": [
+      "customer survey",
+      "site survey",
+      "conduct a survey"
+    ]
+  },
+  {
+    "word": "Survey",
+    "meaning": "A general look at something or a set of questions to gather data",
+    "shortMeaning": "inspection or inquiry",
+    "example": "The team conducted a survey of the network infrastructure.",
+    "example2": "We sent out a survey to collect user feedback.",
+    "example3": "A survey of the codebase revealed several issues.",
+    "Explanation": "Survey has two IT meanings. One is a questionnaire to collect user data. The second is an investigation or high-level inspection of a system (like a 'site survey' for Wi-Fi). It is a common tool for data gathering and planning. When used as a verb, it means to inspect. When used as a noun, it refers to the collection of information. It is essential for planning and analysis.",
+    "synonyms": [
+      "inspection",
+      "study",
+      "assessment"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "survey",
+    "verbForm": "survey",
+    "adjectiveForm": "surveyed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Project planning, user feedback, IT infrastructure",
+    "usageTip": "Use 'survey' to refer to either a questionnaire or an inspection.",
+    "commonMistake": "Confusing 'survey' with 'review' (a review is usually about quality; a survey is about data gathering).",
+    "collocations": [
+      "conduct a survey",
+      "site survey",
+      "user survey"
+    ]
+  },
+  {
+    "word": "Survey",
+    "meaning": "An investigation, set of questions, or examination used to collect data, opinions, map areas, or assess a situation",
+    "shortMeaning": "gather data or inspect",
+    "example": "We sent a user experience survey to get direct customer feedback on the new mobile dashboard app layout.",
+    "example2": "Engineers need to survey the physical server room before installing the new cooling racks.",
+    "example3": "The system will survey the active database nodes to ensure load balancing is perfectly even.",
+    "Explanation": "The word 'survey' functions as both a noun and a verb. As a noun, it usually means an opinion questionnaire or a data collection sheet given to an audience (e.g., 'customer survey'). As a verb, it means to look over, inspect, or analyze a broad situation, technical environment, or physical landscape to understand its condition before taking action. In software development, teams survey the available open-source landscape before deciding which specific framework to use for a new long-term product build. It is widely applied across business, engineering, and data science.",
+    "synonyms": [
+      "poll",
+      "questionnaire",
+      "examine",
+      "inspect",
+      "appraise"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "survey / surveyor",
+    "verbForm": "survey",
+    "adjectiveForm": "surveying",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "User feedback collection, site inspections, system state assessments, and market research",
+    "usageTip": "Use 'survey' as a noun when talking about Google Forms or Typeforms sent to collect user feedback answers.",
+    "commonMistake": "Pronouncing or treating the noun and verb identically in formal speech; emphasis sits on the first syllable for the noun ('SUR-vey') and second for the verb ('sur-VEY').",
+    "collocations": [
+      "conduct a survey",
+      "user feedback survey",
+      "survey the environment"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Strategic",
+    "meaning": "Relating to long-term planning and the achievement of major goals.",
+    "shortMeaning": "long-term planning",
+    "example": "The company made a strategic decision to switch to cloud services.",
+    "example2": "We have a strategic plan for our software roadmap.",
+    "example3": "Strategic investments in security pay off over time.",
+    "Explanation": "The word 'strategic' describes actions taken with a long-term goal in mind. It is about the 'big picture' rather than immediate, short-term tasks. In IT, a strategic approach involves planning for future scalability, security, and market needs. It often involves making difficult choices now to ensure stability and growth later. It is a key term used by management and senior developers.",
+    "synonyms": [
+      "planned",
+      "calculated",
+      "deliberate"
+    ],
+    "antonyms": [
+      "tactical",
+      "random",
+      "short-sighted"
+    ],
+    "nounForm": "strategy",
+    "verbForm": "N/A",
+    "adjectiveForm": "strategic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management and project planning",
+    "usageTip": "Use 'strategic' when discussing long-term goals and planning.",
+    "commonMistake": "Confusing 'strategic' (long-term) with 'tactical' (short-term execution).",
+    "collocations": [
+      "strategic plan",
+      "strategic decision",
+      "strategic goal"
+    ]
+  },
+  {
+    "word": "Strategic",
+    "meaning": "Relating to a high-level plan or long-term goals",
+    "shortMeaning": "high-level planning",
+    "example": "The company has a strategic plan for digital growth.",
+    "example2": "He makes strategic decisions about technology stack.",
+    "example3": "This is a strategic move to capture more market share.",
+    "Explanation": "A 'strategic' approach involves looking at the big picture and setting long-term goals rather than just focusing on immediate tasks. In IT, this means choosing technologies, architectures, or designs that will remain relevant and effective for years. It involves balancing current needs with future scalability. Strategic thinking is essential for tech leads and project managers who need to guide a development team effectively.",
+    "synonyms": [
+      "planned",
+      "calculated",
+      "high-level"
+    ],
+    "antonyms": [
+      "tactical",
+      "short-sighted",
+      "impulsive"
+    ],
+    "nounForm": "strategy",
+    "verbForm": "strategize",
+    "adjectiveForm": "strategic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, architecture, planning",
+    "usageTip": "Use when discussing long-term plans rather than immediate tasks.",
+    "commonMistake": "Confusing 'strategic' (long-term) with 'tactical' (immediate).",
+    "collocations": [
+      "strategic plan",
+      "strategic decision"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "In-place",
+    "meaning": "Established and operational; existing and ready to be used",
+    "shortMeaning": "established, operational",
+    "example": "The emergency procedures are already in-place.",
+    "example2": "We have a backup system in-place.",
+    "example3": "The new policy will be put in-place next week.",
+    "Explanation": "'In-place' is a hyphenated adjective phrase (or sometimes an adverb) meaning that something is set up, installed, or functioning in its proper position. It emphasizes readiness and the completion of setup. This term is common in business, technology, and project management. For example, 'in-place upgrades' update software without a full reinstall. It is similar to 'implemented' but often implies a physical or structural readiness. It's a practical term for describing systems, processes, or measures that are active and available.",
+    "synonyms": [
+      "established",
+      "operative",
+      "functional",
+      "set up",
+      "active"
+    ],
+    "antonyms": [
+      "not in place",
+      "disorganized",
+      "inactive",
+      "unprepared"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "in-place",
+    "partOfSpeech": "adjective (phrase)",
+    "commonContext": "Procedures, systems, backups, upgrades, measures",
+    "usageTip": "Use 'in-place' before a noun to describe something that is already set up and ready: 'an in-place agreement'.",
+    "commonMistake": "Writing it as one word ('inplace') or as three separate words when used as a compound adjective before a noun.",
+    "collocations": [
+      "already in-place",
+      "put in-place",
+      "in-place system"
+    ]
+  },
+  {
+    "word": "In-place",
+    "meaning": "Occurring directly where the data or object resides, without moving or copying it",
+    "shortMeaning": "on-site, direct",
+    "example": "The script performs an in-place modification of the array.",
+    "example2": "In-place upgrades are faster because they don't require migration.",
+    "example3": "We used an in-place sort to save memory space.",
+    "Explanation": "In computing, 'in-place' means changing data exactly where it is stored. This is often done to optimize performance and save memory, as it avoids creating duplicates or temporary copies. However, it can be risky because if an error occurs during the operation, the original data might be damaged. It is a key term in algorithm design and database management.",
+    "synonyms": [
+      "direct",
+      "on-the-spot",
+      "in-situ"
+    ],
+    "antonyms": [
+      "copied",
+      "relocated",
+      "external"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "in-place",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithm design, database maintenance, systems engineering",
+    "usageTip": "Use 'in-place' when you are modifying data without moving it elsewhere.",
+    "commonMistake": "Confusing 'in-place' with 'in-situ' (they are similar but used in different fields).",
+    "collocations": [
+      "in-place update",
+      "in-place sort",
+      "in-place modification"
+    ]
+  }
+]

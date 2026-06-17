@@ -1,0 +1,49 @@
+[
+  {
+    "word": "Breadboard",
+    "meaning": "A reusable board with holes used for building and testing temporary electronic circuits without soldering",
+    "shortMeaning": "circuit testing board",
+    "example": "I built a simple LED flasher on a breadboard before making the permanent version.",
+    "example2": "The breadboard makes it easy to swap out components like resistors and capacitors.",
+    "example3": "Wires are pushed into the breadboard holes to connect different parts together.",
+    "Explanation": "A breadboard is a fundamental tool for electronics hobbyists and engineers. It is a rectangular plastic board with a grid of small holes. Under the holes are metal strips that connect the holes in specific rows or columns. This allows you to 'plug in' components and wires to create a working circuit instantly. Because nothing is permanently 'soldered' (glued with metal), you can easily take the circuit apart and reuse the board and components for a different project. It is called a 'breadboard' because, in the old days, people literally used wooden boards meant for cutting bread to build their circuits. ",
+    "synonyms": [
+      "protoboard",
+      "solderless breadboard"
+    ],
+    "antonyms": [
+      "PCB (Printed Circuit Board)"
+    ],
+    "nounForm": "breadboard",
+    "verbForm": "breadboard",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Electronics prototyping and education",
+    "usageTip": "Use a breadboard for the 'experimental' phase of your hardware project.",
+    "commonMistake": "Thinking the holes are connected randomly; usually, side rails are for power, and middle rows are for components.",
+    "collocations": [
+      "solderless breadboard",
+      "breadboard layout",
+      "mini breadboard"
+    ]
+  },
+  {
+    "word": "Breadboard",
+    "meaning": "A board used for making temporary circuits and prototyping electronics without soldering",
+    "shortMeaning": "electronics prototype board",
+    "example": "Before building the final robot, we tested the sensors on a breadboard.",
+    "example2": "You can easily move wires around on a breadboard to fix mistakes.",
+    "example3": "The electronics kit includes a power supply and a large breadboard.",
+    "Explanation": "A breadboard is a plastic base with many holes. Inside, these holes are connected by metal strips. It allows engineers and students to plug in components like LEDs, resistors, and microchips to see if a circuit works. Since you don't use 'solder' (permanent glue), you can reuse the parts many times. It is the 'scratchpad' for electronic hardware design.",
+    "synonyms": [
+      "protoboard",
+      "solderless board"
+    ],
+    "antonyms": [
+      "PCB (Printed Circuit Board)"
+    ],
+    "commonContext": "Electronics, engineering, and DIY projects",
+    "usageTip": "Use a breadboard to test your logic before moving to a permanent Printed Circuit Board.",
+    "partOfSpeech": "noun / verb"
+  }
+]

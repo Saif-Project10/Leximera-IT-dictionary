@@ -1,0 +1,123 @@
+[
+  {
+    "word": "Landscape",
+    "meaning": "All the visible features of an area of land; or, the overall situation or context in which something operates.",
+    "shortMeaning": "physical scenery; overall context",
+    "example": "The mountainous landscape was breathtaking.",
+    "example2": "The digital marketing landscape is constantly changing.",
+    "example3": "The report maps the competitive landscape for electric vehicles.",
+    "Explanation": "This word has a concrete meaning (the physical appearance of an area) and a powerful metaphorical meaning. Metaphorically, a 'landscape' refers to the complete set of circumstances, competitors, technologies, or trends that define a particular field at a given time (e.g., business landscape, political landscape). It implies a broad, interconnected view where one can see the 'lay of the land'. This figurative use is extremely common in business, technology, and analysis to help people understand complex environments and their position within them.",
+    "synonyms": [
+      "terrain",
+      "scenery",
+      "environment",
+      "context",
+      "scene",
+      "arena"
+    ],
+    "antonyms": [
+      "vacuum",
+      "isolation"
+    ],
+    "nounForm": "landscape",
+    "verbForm": "landscape",
+    "adjectiveForm": "landscape (e.g., landscape orientation)",
+    "partOfSpeech": "noun",
+    "commonContext": "Geography, art, business strategy, technology trends, market analysis",
+    "usageTip": "In its figurative sense, it's often modified (technology landscape, regulatory landscape). It encourages a big-picture perspective.",
+    "commonMistake": "Using it only in its literal, geographical sense. Its metaphorical use is very widespread in professional discourse.",
+    "collocations": [
+      "competitive landscape",
+      "changing landscape",
+      "political landscape",
+      "navigate the landscape"
+    ]
+  },
+  {
+    "word": "Landscape",
+    "meaning": "The overall scene or situation; also, a horizontal screen orientation",
+    "shortMeaning": "scene or horizontal view",
+    "example": "The competitive landscape for cloud computing is changing rapidly.",
+    "example2": "Please rotate your phone to landscape mode.",
+    "example3": "We need to analyze the current software landscape.",
+    "Explanation": "The word 'landscape' has two main meanings: it refers to the broad, overall environment or situation of a field (e.g., the 'tech landscape'), and it describes a horizontal screen orientation (wider than it is tall), which is the opposite of 'portrait'. In technology, it is very commonly used to discuss market trends, competing technologies, or user interface design requirements. It is a versatile word used to convey a big-picture view or orientation.",
+    "synonyms": [
+      "environment",
+      "setting",
+      "horizontal orientation"
+    ],
+    "antonyms": [
+      "portrait",
+      "vertical"
+    ],
+    "nounForm": "landscape",
+    "verbForm": "N/A",
+    "adjectiveForm": "landscape",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Business, UI design, environment",
+    "usageTip": "Use 'landscape mode' for screen orientation.",
+    "commonMistake": "Using 'landscape' in business contexts without specifying what you are describing.",
+    "collocations": [
+      "competitive landscape",
+      "landscape mode",
+      "tech landscape"
+    ]
+  },
+  {
+    "word": "Landscape",
+    "meaning": "The horizontal orientation of a page or screen layout",
+    "shortMeaning": "horizontal orientation",
+    "example": "Change the printer settings to landscape mode.",
+    "example2": "The video was shot in landscape for a wider view.",
+    "example3": "The web design works better in landscape on desktop screens.",
+    "Explanation": "In IT, landscape refers to a display format where the width is greater than the height. This is the standard orientation for most monitors and televisions. It contrasts with portrait mode, which is taller than it is wide. When preparing documents or presentations, selecting landscape provides more horizontal space for tables and charts. It is essential to ensure user interfaces adapt correctly to this orientation.",
+    "synonyms": [
+      "horizontal",
+      "wide-format"
+    ],
+    "antonyms": [
+      "portrait"
+    ],
+    "nounForm": "landscape",
+    "verbForm": "N/A",
+    "adjectiveForm": "landscape",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Document design, screen orientation, graphics",
+    "usageTip": "Always check if your UI elements look good in landscape mode.",
+    "commonMistake": "Confusing landscape settings with portrait settings in printing.",
+    "collocations": [
+      "landscape orientation",
+      "landscape mode",
+      "landscape view"
+    ]
+  },
+  {
+    "word": "Landscape",
+    "meaning": "A horizontal orientation of a page or screen; also a general overview of a situation",
+    "shortMeaning": "horizontal / overview",
+    "example": "Please print the spreadsheet in landscape mode.",
+    "example2": "The security landscape is constantly changing with new threats.",
+    "example3": "Most tablets are designed to be used in landscape.",
+    "Explanation": "Landscape has two main meanings in IT. First, it refers to the orientation where the width is greater than the height (opposite of 'portrait'). Second, it refers to the 'environment' or 'market' of a particular field, such as the 'cloud landscape'. It helps professionals visualize the broad context of their work. In UI design, making a website responsive for landscape mode is a common task.",
+    "synonyms": [
+      "orientation",
+      "environment",
+      "setting"
+    ],
+    "antonyms": [
+      "portrait"
+    ],
+    "nounForm": "landscape",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Printing, UI design, industry analysis",
+    "usageTip": "Use 'landscape' when referring to a screen that is wider than it is tall.",
+    "commonMistake": "Using 'landscape' when you mean 'background'.",
+    "collocations": [
+      "landscape mode",
+      "threat landscape",
+      "competitive landscape"
+    ]
+  }
+]

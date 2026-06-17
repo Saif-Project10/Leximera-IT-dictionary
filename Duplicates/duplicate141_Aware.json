@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Aware",
+    "meaning": "Having knowledge or perception of a situation or fact.",
+    "shortMeaning": "conscious, knowing",
+    "example": "Are you aware of the new policy changes?",
+    "example2": "She was acutely aware of everyone staring at her.",
+    "example3": "We need to be more environmentally aware.",
+    "Explanation": "'Aware' is an adjective that describes a state of consciousness or knowledge about something. It is not a verb; you cannot 'aware' something. You *are* aware. It is almost always followed by 'of' or a 'that' clause. It is used in personal, social, and professional contexts to indicate understanding or attention. The noun form is 'awareness'. A common error is confusing it with 'beware', which is a warning. 'Aware' is about knowledge; 'beware' is a command to be cautious.",
+    "synonyms": [
+      "Cognizant",
+      "Conscious",
+      "Informed",
+      "Knowledgeable",
+      "Mindful"
+    ],
+    "antonyms": [
+      "Ignorant",
+      "Oblivious",
+      "Unaware",
+      "Uninformed"
+    ],
+    "nounForm": "awareness",
+    "verbForm": "N/A",
+    "adjectiveForm": "aware",
+    "partOfSpeech": "adjective",
+    "commonContext": "Knowledge, social issues, surroundings, feelings",
+    "usageTip": "Use the structure 'aware of + noun' or 'aware that + clause'.",
+    "commonMistake": "Using 'aware' as a verb, e.g., 'I aware the problem' instead of 'I am aware of the problem'.",
+    "collocations": [
+      "fully aware",
+      "politically aware",
+      "become aware"
+    ]
+  },
+  {
+    "word": "Aware",
+    "meaning": "Knowing or realizing that something exists or is happening",
+    "shortMeaning": "conscious of",
+    "example": "Developers must be aware of security vulnerabilities when writing APIs.",
+    "example2": "The monitoring tool makes us aware of server performance drops instantly.",
+    "example3": "Are you aware that the database schema changed yesterday morning?",
+    "Explanation": "The word 'aware' means having knowledge, information, or consciousness about a specific situation or fact. In information technology, being aware of system statuses, user needs, and cyber threats is crucial. It allows engineers to respond fast to incidents or user complaints. The noun form is 'awareness', which is used in cybersecurity training concepts. It describes a state of alert readiness.",
+    "synonyms": [
+      "conscious",
+      "informed",
+      "mindful"
+    ],
+    "antonyms": [
+      "unaware",
+      "ignorant",
+      "oblivious"
+    ],
+    "nounForm": "awareness",
+    "verbForm": "N/A",
+    "adjectiveForm": "aware",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security briefings, team meetings, and user interface alerts",
+    "usageTip": "Follow 'aware' with the preposition 'of' when pointing out a specific fact.",
+    "commonMistake": "Using 'aware' as a verb; say 'I am aware of it' instead of 'I aware it'.",
+    "collocations": [
+      "security aware",
+      "context aware",
+      "fully aware"
+    ]
+  },
+  {
+    "word": "Aware",
+    "meaning": "Having knowledge or perception of a situation",
+    "shortMeaning": "knowledgeable",
+    "example": "Make sure users are aware of the new login procedures.",
+    "example2": "The system is aware of its current resource limitations.",
+    "example3": "We need to keep the team aware of the upcoming server maintenance.",
+    "Explanation": "Being aware means having the necessary information about a current state or change. In IT, 'context-aware' systems can adjust their behavior based on variables like time, location, or user identity. For developers and teams, staying 'aware' of changes in documentation, security updates, or project milestones is vital for efficiency. It is the opposite of being uninformed, which often leads to errors, delays, and security gaps.",
+    "synonyms": [
+      "informed",
+      "conscious",
+      "knowledgeable"
+    ],
+    "antonyms": [
+      "unaware",
+      "ignorant",
+      "oblivious"
+    ],
+    "nounForm": "awareness",
+    "verbForm": "N/A",
+    "adjectiveForm": "aware",
+    "partOfSpeech": "adjective",
+    "commonContext": "Monitoring, UX, project communication",
+    "usageTip": "Use for systems or people with information.",
+    "commonMistake": "Assuming someone is aware without formal notification.",
+    "collocations": [
+      "security-aware",
+      "keep aware",
+      "fully aware"
+    ]
+  }
+]

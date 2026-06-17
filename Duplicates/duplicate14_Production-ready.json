@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Production-ready",
+    "meaning": "Fully developed and tested, ready for real-world use by customers",
+    "shortMeaning": "ready for real use",
+    "example": "The software is now production-ready and can be launched.",
+    "example2": "We need to ensure the code is production-ready before deployment.",
+    "example3": "A production-ready product has passed all quality tests.",
+    "Explanation": "'Production-ready' is a key term in software development and manufacturing. It means a product or feature is stable, reliable, and meets all requirements for release. It has been tested for performance, security, and usability. The code is clean, documented, and can handle real user traffic. This status is the goal before any public launch or deployment.",
+    "synonyms": [
+      "deployable",
+      "release-ready",
+      "market-ready",
+      "finished"
+    ],
+    "antonyms": [
+      "prototype",
+      "experimental",
+      "unstable",
+      "in development"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "production-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software development, product launches, manufacturing, quality assurance",
+    "usageTip": "Use as a hyphenated adjective to describe the final state before launch.",
+    "commonMistake": "Using it for products still in beta testing or with known major bugs.",
+    "collocations": [
+      "production-ready code",
+      "production-ready software",
+      "make it production-ready",
+      "production-ready state"
+    ]
+  },
+  {
+    "word": "Production-ready",
+    "meaning": "Tested and stable enough for real-world use",
+    "shortMeaning": "ready for live use",
+    "example": "The API is finally production-ready.",
+    "example2": "We cannot launch until the code is production-ready.",
+    "example3": "This version is stable and production-ready.",
+    "Explanation": "The term 'production-ready' describes software, hardware, or documentation that has passed all testing phases and is considered safe, stable, and reliable for live deployment to users. It implies that the item is no longer in development or 'beta' mode. Reaching this stage is a major milestone in any project. Before marking anything as production-ready, ensure all tests have passed and all documentation is accurate for the end users or production environment.",
+    "synonyms": [
+      "stable",
+      "tested",
+      "ready-for-release"
+    ],
+    "antonyms": [
+      "experimental",
+      "beta",
+      "in-development"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "production-ready",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, project management",
+    "usageTip": "Use to signal that a project is safe to release.",
+    "commonMistake": "Marking code as production-ready before thorough testing is complete.",
+    "collocations": [
+      "production-ready code",
+      "production-ready status",
+      "is it production-ready?"
+    ]
+  }
+]

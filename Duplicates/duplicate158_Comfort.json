@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Comfort",
+    "meaning": "A state of physical ease, relaxation, or emotional reassurance.",
+    "shortMeaning": "ease or relief",
+    "example": "The soft sofa provided great comfort after a long day.",
+    "example2": "She found comfort in her friend's words.",
+    "example3": "The hotel room offered all the comforts of home.",
+    "Explanation": "Comfort is a versatile word that describes a pleasant feeling of being relaxed and free from worry or pain. It can be physical, like a comfortable chair, or emotional, like reassurance from someone. The word is used in many contexts, from describing objects to feelings. A common mistake is using it as a verb when you mean to console; 'comfort' as a verb means to soothe someone, while the noun is the state itself. It’s important to distinguish it from 'comfortable,' which is the adjective form. Using 'comfort' correctly makes your descriptions of ease and support more precise.",
+    "synonyms": [
+      "ease",
+      "solace",
+      "relief",
+      "coziness"
+    ],
+    "antonyms": [
+      "discomfort",
+      "distress",
+      "unease"
+    ],
+    "nounForm": "comfort",
+    "verbForm": "comfort",
+    "adjectiveForm": "comfortable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Describing physical ease, emotional support, or reassuring someone.",
+    "usageTip": "Use 'comfort' as a noun for a state of ease and as a verb for the act of consoling.",
+    "commonMistake": "Using 'comfort' as an adjective instead of 'comfortable' (e.g., 'I feel comfort' should be 'I feel comfortable').",
+    "collocations": [
+      "comfort zone",
+      "words of comfort",
+      "creature comforts"
+    ]
+  },
+  {
+    "word": "Comfort",
+    "meaning": "A state of physical ease or the act of providing relief",
+    "shortMeaning": "ease or relief",
+    "example": "The ergonomic keyboard provides more comfort for long coding sessions.",
+    "example2": "We should comfort the customer by explaining that their data is safe.",
+    "example3": "User comfort is important when designing long-form reading apps.",
+    "Explanation": "In IT, 'comfort' is often related to 'ergonomics' (physical health while using tech) and 'user trust'. If a user feels 'comfortable' with an app, it means the app is easy to use and doesn't make them feel anxious or confused. Providing comfort to a client during a system crash involves clear communication and reassurance. It is a human-centric term that reminds developers that there are real people with feelings on the other side of the screen.",
+    "synonyms": [
+      "ease",
+      "relief",
+      "reassurance"
+    ],
+    "antonyms": [
+      "discomfort",
+      "anxiety",
+      "pain"
+    ],
+    "nounForm": "comfort",
+    "verbForm": "comfort",
+    "adjectiveForm": "comfortable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Ergonomics and customer support",
+    "usageTip": "Prioritize user comfort by making interfaces predictable and calm.",
+    "commonMistake": "Thinking 'comfort' isn't a technical goal; in UX, it is a key metric.",
+    "collocations": [
+      "user comfort",
+      "ergonomic comfort",
+      "comfort the user"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Asynchronous",
+    "meaning": "Not happening at the same time; tasks that start now and finish later without stopping the rest of the program",
+    "shortMeaning": "Non-blocking",
+    "example": "Downloading a file is an asynchronous task because you can still use the computer while it happens.",
+    "example2": "The asynchronous nature of the web allows pages to load images while you read the text.",
+    "example3": "Asynchronous communication means I don't need an immediate reply to my message.",
+    "Explanation": "Asynchronous (often shortened to 'async') is a fundamental concept in computing and communication. In a synchronous system, tasks happen one by one; if one task takes 10 seconds, the whole system stops for 10 seconds. In an asynchronous system, the program can start a long task, move on to other work, and then come back to the result later. This 'non-blocking' behavior is what makes modern websites feel fast—it allows the browser to talk to a server in the background while the user continues to interact with the page. It is essential for high-performance servers and smooth user interfaces.",
+    "synonyms": [
+      "non-blocking",
+      "parallel",
+      "delayed"
+    ],
+    "antonyms": [
+      "synchronous",
+      "real-time"
+    ],
+    "nounForm": "asynchrony",
+    "verbForm": "N/A",
+    "adjectiveForm": "asynchronous",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, networking, and daily life (like email)",
+    "usageTip": "Describe a process as asynchronous if it doesn't require the sender and receiver to be active at exactly the same time.",
+    "commonMistake": "Confusing 'asynchronous' with 'instant'; async tasks often take longer, they just don't block other tasks.",
+    "collocations": [
+      "asynchronous call",
+      "asynchronous processing",
+      "asynchronous event"
+    ]
+  },
+  {
+    "word": "Asynchronous",
+    "meaning": "Not occurring at the same time, specifically capitalized to represent a formal system design or property",
+    "shortMeaning": "non-blocking system property",
+    "example": "The design specs require an Asynchronous JavaScript and XML (AJAX) structure.",
+    "example2": "Asynchronous replication ensures data is copied to the backup server without delaying the primary database.",
+    "example3": "We implemented an Asynchronous messaging queue to decouple our microservices.",
+    "Explanation": "This entry for 'Asynchronous' highlights its role as a capitalized proper noun component or technical design classification in enterprise IT. For example, in database management, Asynchronous Replication allows data transfers to backup nodes without forcing the primary system to pause for verification. It represents an architecture style that prioritizes system availability and speed over immediate consistency. The word follows the exact same linguistic roots as its lowercase counterpart.",
+    "synonyms": [
+      "non-blocking",
+      "decoupled",
+      "independent"
+    ],
+    "antonyms": [
+      "Synchronous",
+      "blocking"
+    ],
+    "nounForm": "Asynchrony",
+    "verbForm": "N/A",
+    "adjectiveForm": "Asynchronous",
+    "partOfSpeech": "adjective / proper modifier",
+    "commonContext": "System architecture design, database administration, enterprise networking",
+    "usageTip": "Capitalize 'Asynchronous' when it forms part of a specific framework title, acronym definition, or formal product specification.",
+    "commonMistake": "Assuming Asynchronous database replication provides instant data matching across all servers simultaneously.",
+    "collocations": [
+      "Asynchronous Replication",
+      "Asynchronous JavaScript",
+      "Asynchronous Queue"
+    ]
+  }
+]

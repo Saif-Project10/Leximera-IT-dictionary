@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Overrun",
+    "meaning": "When a process or task takes more time or resources than allowed",
+    "shortMeaning": "exceeding limits",
+    "example": "The project had a significant cost overrun.",
+    "example2": "The buffer will overrun if the data arrives too quickly.",
+    "example3": "We must prevent the scheduled task from an overrun.",
+    "Explanation": "In IT, an 'overrun' occurs when a process exceeds its allocated limits, such as memory, time, or budget. A common technical example is a 'buffer overrun,' where data overflows the space set aside for it. This can lead to system crashes or security vulnerabilities. It is also used in project management to describe going over budget or past a deadline. Understanding overruns is vital for maintaining system stability and financial control.",
+    "synonyms": [
+      "overflow",
+      "exceed",
+      "surpass"
+    ],
+    "antonyms": [
+      "underrun",
+      "shortfall",
+      "deficit"
+    ],
+    "nounForm": "overrun",
+    "verbForm": "overrun",
+    "adjectiveForm": "overrun",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Memory management, project budgeting, and scheduling",
+    "usageTip": "Use 'overrun' when talking about hitting a limit and continuing past it.",
+    "commonMistake": "Confusing 'overrun' with 'overlap', which means things happening at the same time.",
+    "collocations": [
+      "buffer overrun",
+      "cost overrun",
+      "schedule overrun"
+    ]
+  },
+  {
+    "word": "Overrun",
+    "meaning": "Extending beyond the intended time, space, or limits",
+    "shortMeaning": "extended beyond limits",
+    "example": "The project had a massive budget overrun.",
+    "example2": "The meeting overrun by thirty minutes.",
+    "example3": "The memory buffer was overrun by the input data.",
+    "Explanation": "The word 'overrun' describes exceeding a boundary, whether that is time, budget, or data buffer capacity. In IT, a 'buffer overrun' is a serious security vulnerability where a program writes data beyond the allocated memory. It can also refer to projects that take longer or cost more than expected. The noun form is also 'overrun'. It is a key term in software security and project management for describing failures to stay within set bounds.",
+    "synonyms": [
+      "exceeded",
+      "surpassed",
+      "overflowed"
+    ],
+    "antonyms": [
+      "under-run",
+      "stayed within",
+      "limited"
+    ],
+    "nounForm": "overrun",
+    "verbForm": "overrun",
+    "adjectiveForm": "overrun",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Security, project management",
+    "usageTip": "Use 'buffer overrun' specifically for memory issues.",
+    "commonMistake": "Using 'overrun' for physical space when 'overflow' is more appropriate.",
+    "collocations": [
+      "budget overrun",
+      "buffer overrun",
+      "project overrun"
+    ]
+  },
+  {
+    "word": "Overrun",
+    "meaning": "To exceed a limit, especially in time or cost, or to fill an area in large numbers",
+    "shortMeaning": "exceeding a limit",
+    "example": "The project was overran by two months due to technical difficulties.",
+    "example2": "The data buffer began to overrun because the input was too fast.",
+    "example3": "We must avoid a cost overrun on this software development project.",
+    "Explanation": "Overrun is commonly used in project management to describe when a project takes longer or costs more than planned (time overrun or cost overrun). In technical terms, a 'buffer overrun' (also called buffer overflow) is a situation where a program writes data beyond the boundary of a buffer. This is a major security risk because it can overwrite adjacent memory and potentially allow a hacker to take control of the system. Managing limits is the best way to prevent overruns.",
+    "synonyms": [
+      "exceed",
+      "surpass",
+      "overflow"
+    ],
+    "antonyms": [
+      "underrun",
+      "stay within"
+    ],
+    "nounForm": "overrun",
+    "verbForm": "overrun",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Project management and memory safety",
+    "usageTip": "Use 'overrun' when a project or a memory buffer goes past its allowed limit.",
+    "commonMistake": "Confusing 'overrun' with 'overwork'; overrun is about limits, overwork is about effort.",
+    "collocations": [
+      "buffer overrun",
+      "cost overrun",
+      "project overrun"
+    ]
+  }
+]

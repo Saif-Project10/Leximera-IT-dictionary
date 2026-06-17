@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Transactional",
+    "meaning": "Relating to the exchange of data or business between two parties",
+    "shortMeaning": "relating to exchanges",
+    "example": "The database uses transactional logging to ensure data integrity.",
+    "example2": "A transactional system must handle many requests simultaneously.",
+    "example3": "The API handles transactional data securely.",
+    "Explanation": "In IT, transactional refers to processes that involve the completion of a unit of work. These operations must be 'atomic', meaning they either fully succeed or fully fail. This ensures that a database remains consistent even if a system crashes during an operation. It is commonly used in e-commerce and banking systems to track every single action. Understanding transactional integrity is crucial for any developer building reliable database applications.",
+    "synonyms": [
+      "operational",
+      "exchange-based"
+    ],
+    "antonyms": [
+      "non-transactional",
+      "static"
+    ],
+    "nounForm": "transaction",
+    "verbForm": "transact",
+    "adjectiveForm": "transactional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, e-commerce, banking",
+    "usageTip": "Use this to describe processes that need to be reliable and completed as a whole unit.",
+    "commonMistake": "Thinking that all database operations are transactional by default.",
+    "collocations": [
+      "transactional database",
+      "transactional integrity",
+      "transactional processing"
+    ]
+  },
+  {
+    "word": "Transactional",
+    "meaning": "Relating to the exchange of data or business activities",
+    "shortMeaning": "exchange-based",
+    "example": "The database is optimized for transactional processing.",
+    "example2": "Transactional emails are sent automatically after a purchase.",
+    "example3": "We need a transactional system that ensures data consistency.",
+    "Explanation": "The word 'transactional' relates to transactions—the processing of discrete, atomic operations. In IT, 'transactional' systems must guarantee that either all parts of an operation happen or none of them do (ACID compliance). This is critical for databases, e-commerce, and banking. A transactional approach ensures that data remains consistent, even if a power failure or error occurs during processing. It is distinct from analytical processing, which focuses on long-term data reporting.",
+    "synonyms": [
+      "exchanging",
+      "business-oriented",
+      "process-based"
+    ],
+    "antonyms": [
+      "analytical",
+      "informational"
+    ],
+    "nounForm": "transaction",
+    "verbForm": "transact",
+    "adjectiveForm": "transactional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, e-commerce, banking",
+    "usageTip": "Use to describe systems focused on discrete, immediate operations.",
+    "commonMistake": "Confusing 'transactional' with 'analytical' data.",
+    "collocations": [
+      "transactional database",
+      "transactional processing",
+      "transactional integrity"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Tarmacked",
+    "meaning": "Surfaced or covered with tarmac",
+    "shortMeaning": "covered with tarmac",
+    "example": "The newly tarmacked driveway looked very neat.",
+    "example2": "The path through the park was recently tarmacked.",
+    "example3": "We landed on a well-tarmacked runway.",
+    "Explanation": "'Tarmacked' is the adjective (or past participle) form of the verb 'tarmac'. It describes a surface that has been paved or covered with tarmac, the black, bituminous material used for roads and runways. It indicates a finished, smooth, and durable surface suitable for vehicles. The word is primarily used in British English. It's a descriptive term in construction, urban planning, and aviation contexts. Using 'tarmacked' instead of just 'paved' specifies the material, giving a clearer image of the black, asphalt-like surface.",
+    "synonyms": [
+      "asphalted",
+      "paved",
+      "blacktopped"
+    ],
+    "antonyms": [
+      "unpaved",
+      "dirt",
+      "gravel"
+    ],
+    "nounForm": "tarmac",
+    "verbForm": "tarmac",
+    "adjectiveForm": "tarmacked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Construction, roadworks, property description",
+    "usageTip": "Common in UK English. In US English, 'asphalted' or 'paved with asphalt' is more frequent.",
+    "commonMistake": "Misspelling it as 'tarmaced' (with one 'k').",
+    "collocations": [
+      "newly tarmacked",
+      "tarmacked surface",
+      "tarmacked area",
+      "poorly tarmacked"
+    ]
+  },
+  {
+    "word": "Tarmacked",
+    "meaning": "Covered with asphalt or similar material (often used metaphorically in IT).",
+    "shortMeaning": "paved",
+    "example": "The network path was tarmacked with new hardware.",
+    "example2": "He tarmacked the road for the new server room access.",
+    "example3": "The area was tarmacked to ensure a stable foundation.",
+    "Explanation": "Literally, 'tarmacked' means to pave with tarmac (asphalt). In IT, this is very rarely used literally. It might be used as a metaphor to describe 'paving the way' for a new project, setting up a solid infrastructure, or making a process smooth and stable. Because it is highly non-standard, you should only use it in a metaphorical sense if the audience understands your creative intent, or stick to 'paved' or 'prepared'.",
+    "synonyms": [
+      "paved",
+      "prepared",
+      "surfaced"
+    ],
+    "antonyms": [
+      "unpaved",
+      "rough",
+      "unprepared"
+    ],
+    "nounForm": "tarmac",
+    "verbForm": "tarmac",
+    "adjectiveForm": "tarmacked",
+    "partOfSpeech": "adjective",
+    "commonContext": "Metaphorical (infrastructure/prep)",
+    "usageTip": "Use only metaphorically for 'paving the way' for infrastructure.",
+    "commonMistake": "Using it literally where it sounds unprofessional.",
+    "collocations": [
+      "tarmacked road",
+      "tarmacked area"
+    ]
+  },
+  {
+    "word": "Tarmacked",
+    "meaning": "Covered with a hard, flat surface (often used metaphorically in infrastructure)",
+    "shortMeaning": "paved",
+    "example": "The new server room floor was tarmacked for durability.",
+    "example2": "The project path was tarmacked to ensure a smooth transition.",
+    "example3": "We need the infrastructure area tarmacked.",
+    "Explanation": "The word 'tarmacked' refers to surfacing an area with tarmac, a mixture of tar and stone. While primarily a construction term, in IT infrastructure, it is sometimes used to describe preparing physical spaces for hardware, such as data centers or external server buildings. It ensures a stable, clean, and durable environment for equipment. Its use is rare in software but common when discussing physical data center facility management. It emphasizes stability and completion.",
+    "synonyms": [
+      "paved",
+      "surfaced",
+      "covered"
+    ],
+    "antonyms": [
+      "uneven",
+      "unpaved",
+      "rough"
+    ],
+    "nounForm": "tarmac",
+    "verbForm": "tarmac",
+    "adjectiveForm": "tarmacked",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Physical infrastructure, facility management",
+    "usageTip": "Use when referring to preparing physical surfaces.",
+    "commonMistake": "Using this word in a software context where it does not fit.",
+    "collocations": [
+      "tarmacked area",
+      "tarmacked surface",
+      "properly tarmacked"
+    ]
+  }
+]

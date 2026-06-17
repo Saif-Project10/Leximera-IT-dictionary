@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Recede",
+    "meaning": "To move back or away; to become more distant; to diminish.",
+    "shortMeaning": "move back, diminish",
+    "example": "The floodwaters finally began to recede.",
+    "example2": "His hairline is starting to recede.",
+    "example3": "Memories of the event slowly receded from her mind.",
+    "Explanation": "To 'recede' is a verb meaning to go or shrink back from a previous position or level. It is often used for physical things moving backward (water, hairline, coastline) or for intangible things fading away (sound, memory, hope). The word implies a gradual withdrawal or lessening. The noun form is 'recession' (an economic downturn is a 'receding' of economic activity). It is a descriptive word that creates an image of something retreating or becoming less prominent. The opposite is 'advance' or 'grow'.",
+    "synonyms": [
+      "retreat",
+      "withdraw",
+      "subside",
+      "diminish"
+    ],
+    "antonyms": [
+      "advance",
+      "approach",
+      "grow",
+      "increase"
+    ],
+    "nounForm": "recession",
+    "verbForm": "recede",
+    "adjectiveForm": "receding",
+    "partOfSpeech": "verb",
+    "commonContext": "Water levels, hair loss, memories, sounds",
+    "usageTip": "Often used with 'from' (recede from view) or 'into' (recede into the background).",
+    "commonMistake": "Confusing 'recede' (go back) with 'receed' (incorrect spelling) or 'reseed' (to sow again).",
+    "collocations": [
+      "recede into the distance",
+      "receding hairline",
+      "slowly recede"
+    ]
+  },
+  {
+    "word": "Recede",
+    "meaning": "To move back or further away from a previous position",
+    "shortMeaning": "move back",
+    "example": "The floodwaters began to recede after the heavy rain stopped.",
+    "example2": "The software engineer noticed the network latency recede after the patch.",
+    "example3": "His hairline started to recede when he was in his late twenties.",
+    "Explanation": "The word 'recede' means to move away, withdraw, or diminish. In IT and network contexts, it can describe a temporary surge in traffic or a security threat that is finally dropping back to normal levels. It is mostly used as a verb to describe physical distances, water levels, or abstract quantities moving downward. The noun form is 'recession' or 'recedence', though 'recession' usually has economic meanings. Be careful not to misspell it as 'receed'.",
+    "synonyms": [
+      "retreat",
+      "withdraw",
+      "diminish"
+    ],
+    "antonyms": [
+      "advance",
+      "approach",
+      "increase"
+    ],
+    "nounForm": "recession",
+    "verbForm": "recede",
+    "adjectiveForm": "receding",
+    "partOfSpeech": "verb",
+    "commonContext": "Data signals, water levels, or receding hairlines",
+    "usageTip": "Use 'recede' when something is moving backward or decreasing in intensity.",
+    "commonMistake": "Spelling the word as 'receed' instead of 'recede'.",
+    "collocations": [
+      "recede into the background",
+      "waters recede",
+      "glaciers recede"
+    ]
+  }
+]

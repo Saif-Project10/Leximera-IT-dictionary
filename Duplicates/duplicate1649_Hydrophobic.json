@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Hydrophobic",
+    "meaning": "A substance that is 'water-fearing' and repels water",
+    "shortMeaning": "water-repelling",
+    "example": "Oil is hydrophobic, so it does not mix with water.",
+    "example2": "The leaves of the lotus plant are naturally hydrophobic.",
+    "example3": "He used a hydrophobic spray to protect his new shoes from the rain.",
+    "Explanation": "Hydrophobic substances do not have the right charge to bond with water. Because water molecules 'prefer' to stick to each other, they push the hydrophobic molecules away. This is why oil floats in blobs on top of water. In the world of technology, hydrophobic materials are used to make 'self-cleaning' windows, waterproof electronics, and stain-resistant clothes. In biology, the 'tails' of cell membranes are hydrophobic, creating a barrier that protects the cell. It is a very useful property for keeping things dry.",
+    "synonyms": [
+      "water-repellent",
+      "non-polar"
+    ],
+    "antonyms": [
+      "hydrophilic"
+    ],
+    "nounForm": "hydrophobicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "hydrophobic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Chemistry, fashion, and electronics",
+    "usageTip": "Use this to describe anything that 'hates' water or pushes it away.",
+    "commonMistake": "Thinking hydrophobic means 'scared of water' in a living way; it's a chemical property, not a feeling.",
+    "collocations": [
+      "hydrophobic effect",
+      "hydrophobic material",
+      "super hydrophobic"
+    ]
+  },
+  {
+    "word": "Hydrophobic",
+    "meaning": "Repelling water; not mixing with water",
+    "shortMeaning": "water-repelling",
+    "example": "The circuit board has a hydrophobic layer.",
+    "example2": "We use hydrophobic coatings to prevent corrosion.",
+    "example3": "The material is highly hydrophobic.",
+    "Explanation": "The word 'hydrophobic' describes a material that repels water. This is actually a very desirable trait for hardware engineers! By making a circuit board hydrophobic, you protect it from moisture, rain, or accidental spills, significantly increasing its life in the real world. It is a common term in protective hardware design, manufacturing, and high-end industrial engineering.",
+    "synonyms": [
+      "water-repelling",
+      "waterproof"
+    ],
+    "antonyms": [
+      "hydrophilic"
+    ],
+    "nounForm": "hydrophobicity",
+    "verbForm": "N/A",
+    "adjectiveForm": "hydrophobic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware design, engineering",
+    "usageTip": "Use 'hydrophobic' to describe moisture-proof materials.",
+    "commonMistake": "Confusing it with hydrophilic (water-attracting).",
+    "collocations": [
+      "hydrophobic coating",
+      "hydrophobic layer",
+      "hydrophobic material"
+    ]
+  }
+]

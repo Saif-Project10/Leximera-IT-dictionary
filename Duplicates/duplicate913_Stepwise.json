@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Stepwise",
+    "meaning": "Done or happening in a series of distinct steps or stages.",
+    "shortMeaning": "in steps",
+    "example": "The software installation proceeds in a stepwise manner.",
+    "example2": "They followed a stepwise approach to solve the complex equation.",
+    "example3": "The patient showed stepwise improvement over several weeks.",
+    "Explanation": "'Stepwise' is an adjective or adverb. It describes a process that advances from one clearly defined step or stage to the next, without skipping. It emphasizes order, sequence, and gradual progression. It is common in technical, scientific, and instructional contexts. It is a compound word from 'step' and 'wise' (in the sense of 'manner'). It is a formal synonym for 'gradual' but with a stronger implication of discrete, identifiable stages.",
+    "synonyms": [
+      "gradual",
+      "sequential",
+      "incremental"
+    ],
+    "antonyms": [
+      "sudden",
+      "all at once",
+      "simultaneous"
+    ],
+    "nounForm": "step",
+    "verbForm": "N/A",
+    "adjectiveForm": "stepwise",
+    "partOfSpeech": "adjective, adverb",
+    "commonContext": "Science, computing, mathematics, procedures",
+    "usageTip": "Often used before nouns like 'manner', 'fashion', 'process', or 'approach'.",
+    "commonMistake": "Using it in casual conversation where 'step-by-step' or 'gradual' would be more natural.",
+    "collocations": [
+      "stepwise procedure",
+      "stepwise refinement",
+      "stepwise regression"
+    ]
+  },
+  {
+    "word": "Stepwise",
+    "meaning": "Occurring in small, incremental stages.",
+    "shortMeaning": "incremental",
+    "example": "The algorithm uses a stepwise approach to reach the solution.",
+    "example2": "Stepwise regression helps identify the most important variables.",
+    "example3": "We migrated the data in a stepwise fashion.",
+    "Explanation": "The word 'stepwise' describes a method or process that advances in small, distinct stages rather than all at once. This is common in statistical analysis, algorithm development, and migration projects. A stepwise approach is usually safer, as it allows for validation after every small change, making it much easier to recover if something goes wrong. It is a conservative, highly controlled, and reliable way to manage complex technical tasks.",
+    "synonyms": [
+      "incremental",
+      "gradual",
+      "staged"
+    ],
+    "antonyms": [
+      "abrupt",
+      "instantaneous",
+      "simultaneous"
+    ],
+    "nounForm": "step",
+    "verbForm": "step",
+    "adjectiveForm": "stepwise",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, migration, software development",
+    "usageTip": "Use 'stepwise' for incremental, well-controlled processes.",
+    "commonMistake": "Assuming stepwise is just slow (it is also safer).",
+    "collocations": [
+      "stepwise approach",
+      "stepwise regression",
+      "stepwise migration"
+    ]
+  },
+  {
+    "word": "Stepwise",
+    "meaning": "Moving or changing by small, distinct increments",
+    "shortMeaning": "in small steps",
+    "example": "The algorithm uses a stepwise approach to reach the solution.",
+    "example2": "The installation happens in a stepwise fashion.",
+    "example3": "We evaluated the model using stepwise refinement.",
+    "Explanation": "The term 'stepwise' refers to a method where progress is made through a series of discrete, sequential steps. It is often used in scientific computing and statistical analysis, such as stepwise regression. It allows for better control and monitoring of how a system evolves. Each step builds upon the results of the previous one. This helps in identifying exactly where an error might occur in a complex workflow.",
+    "synonyms": [
+      "sequential",
+      "incremental",
+      "gradual"
+    ],
+    "antonyms": [
+      "instantaneous",
+      "abrupt",
+      "non-linear"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "stepwise",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Algorithms, statistics, modeling",
+    "usageTip": "Use to describe processes that advance in small, distinct units.",
+    "commonMistake": "Using 'stepwise' for processes that are random.",
+    "collocations": [
+      "stepwise approach",
+      "stepwise regression"
+    ]
+  }
+]

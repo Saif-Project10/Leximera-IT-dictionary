@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Link",
+    "meaning": "A relationship or connection between things; to make such a connection",
+    "shortMeaning": "connection or to connect",
+    "example": "There is a clear link between diet and health.",
+    "example2": "Click the link to visit the website.",
+    "example3": "The bridge links the two sides of the city.",
+    "Explanation": "'Link' is an extremely common noun and verb in the digital age. As a noun, it means a connecting element, whether physical (a chain link), abstract (a causal link), or digital (a hyperlink). As a verb, it means to connect or associate. In computing, 'to link' often means to create a hyperlink or to combine code modules. The word implies a bond that joins separate entities, enabling communication or interaction. It's a fundamental concept in networks, reasoning, and relationships.",
+    "synonyms": [
+      "connection, tie, bond, relationship (noun); connect, join, associate (verb)"
+    ],
+    "antonyms": [
+      "separation, gap (noun); separate, disconnect (verb)"
+    ],
+    "nounForm": "link",
+    "verbForm": "link",
+    "adjectiveForm": "linked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Computing, relationships, chains, causality, transportation",
+    "usageTip": "Use 'link' as a noun for the connection itself. Use as a verb for the action of creating that connection.",
+    "commonMistake": "Confusing 'link' with 'lynx' (the animal).",
+    "collocations": [
+      "click the link",
+      "link to",
+      "missing link"
+    ]
+  },
+  {
+    "word": "Link",
+    "meaning": "A connection between two things, such as a URL on a webpage or a physical wire between computers",
+    "shortMeaning": "connection",
+    "example": "Click the link below to download the software.",
+    "example2": "There is a strong link between poor security and old software.",
+    "example3": "The technician had to check the physical link between the router and the modem.",
+    "Explanation": "A 'link' is any kind of connection. In the digital world, the most famous link is the 'Hyperlink' (the blue clickable text on websites). In networking, a 'link' refers to the communication path between two nodes. In programming, 'linking' is the process of joining different parts of code together to make a single executable program. The concept of a link is fundamental to the internet (The World Wide Web is basically a giant collection of links). It can be physical (a cable) or logical (a reference in code).",
+    "synonyms": [
+      "connection",
+      "bond",
+      "tie",
+      "hyperlink"
+    ],
+    "antonyms": [
+      "detachment",
+      "disconnection",
+      "gap",
+      "N/A"
+    ],
+    "nounForm": "link / linkage",
+    "verbForm": "link",
+    "adjectiveForm": "linked",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web Browsing, Networking, Programming",
+    "usageTip": "Use 'link' as a verb when you want to connect two pieces of information or hardware.",
+    "commonMistake": "Confusing a 'link' (the connection) with the 'target' (the actual page you go to).",
+    "collocations": [
+      "broken link",
+      "direct link",
+      "link together"
+    ]
+  }
+]

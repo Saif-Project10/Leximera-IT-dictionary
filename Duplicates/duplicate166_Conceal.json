@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Conceal",
+    "meaning": "To keep something from being seen or known; to hide. | To keep something secret or hidden.",
+    "shortMeaning": "hide",
+    "example": "He tried to conceal his disappointment with a smile.",
+    "example2": "The treasure was concealed behind a false wall.",
+    "example3": "She could not conceal the truth any longer.",
+    "Explanation": "Conceal is a verb that means to deliberately place something out of sight or to keep information secret. It involves an active effort to prevent discovery. It is more formal than 'hide' and often implies intention or secrecy. There is no common adjective form; 'concealed' is the past participle used as an adjective (e.g., a concealed weapon). A common mistake is using it interchangeably with 'hide' in all contexts, but 'conceal' is better for intentional acts of secrecy. The noun form is 'concealment.' Using this word adds a tone of deliberateness to descriptions of hiding.",
+    "synonyms": [
+      "Cover",
+      "Disguise",
+      "Hide",
+      "Mask",
+      "Suppress"
+    ],
+    "antonyms": [
+      "Disclose",
+      "Expose",
+      "Reveal",
+      "Show"
+    ],
+    "nounForm": "concealment",
+    "verbForm": "conceal",
+    "adjectiveForm": "concealed (past participle)",
+    "partOfSpeech": "verb",
+    "commonContext": "Secrets, emotions, objects, and mysteries.",
+    "usageTip": "Use 'conceal' when there is a deliberate attempt to hide something, especially from knowledge.",
+    "commonMistake": "Saying 'conceal away' – 'conceal' itself means to hide, so 'away' is redundant.",
+    "collocations": [
+      "conceal the truth",
+      "concealed weapon",
+      "conceal one's identity"
+    ]
+  },
+  {
+    "word": "Conceal",
+    "meaning": "To hide something or keep it from being seen or known",
+    "shortMeaning": "hide",
+    "example": "The spy had to conceal his true identity.",
+    "example2": "You can use a hidden folder to conceal sensitive documents on your PC.",
+    "example3": "He tried to conceal his mistake by deleting the logs.",
+    "Explanation": "To conceal is to intentionally keep something secret. In IT, this could mean 'hiding' code using a technique called obfuscation, or using encryption to 'conceal' a message from hackers. It can also refer to user interface design, where you 'conceal' advanced settings to keep the screen simple for beginners. Unlike 'lost', something concealed is there on purpose but is made invisible. It is a more formal word than 'hide' and is often used in security and privacy contexts.",
+    "synonyms": [
+      "hide",
+      "mask",
+      "obscure",
+      "cover"
+    ],
+    "antonyms": [
+      "reveal",
+      "expose",
+      "display",
+      "uncover"
+    ],
+    "nounForm": "concealment",
+    "verbForm": "conceal",
+    "adjectiveForm": "concealed",
+    "partOfSpeech": "verb",
+    "commonContext": "Security, privacy, and social situations",
+    "usageTip": "Use 'conceal' when something is hidden on purpose to protect it or keep it secret.",
+    "commonMistake": "Confusing 'conceal' with 'cancel'.",
+    "collocations": [
+      "conceal the truth",
+      "conceal information",
+      "carefully concealed"
+    ]
+  }
+]

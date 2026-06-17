@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Trackable",
+    "meaning": "Possible to monitor or keep a record of over time",
+    "shortMeaning": "monitorable",
+    "example": "User activity is trackable via our analytics tool.",
+    "example2": "We make all our inventory trackable through barcodes.",
+    "example3": "The process is not currently trackable.",
+    "Explanation": "If something is 'trackable', it means there is a system in place to monitor its status, location, or movement over time. In IT, this usually refers to tracking user behavior, logistics, or project progress. Unlike 'traceable', which often looks backward at what happened, 'trackable' usually looks forward or monitors real-time activity. It is a key term in analytics and project management. Ensure the methods used to track are clearly defined, as 'trackable' usually implies an active system is watching.",
+    "synonyms": [
+      "monitorable",
+      "measurable",
+      "observable"
+    ],
+    "antonyms": [
+      "untrackable",
+      "invisible"
+    ],
+    "nounForm": "trackability",
+    "verbForm": "track",
+    "adjectiveForm": "trackable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Analytics, logistics, project management",
+    "usageTip": "Use this to describe data or processes that you can monitor.",
+    "commonMistake": "Using 'trackable' for things that cannot be measured.",
+    "collocations": [
+      "easily trackable",
+      "fully trackable",
+      "not trackable"
+    ]
+  },
+  {
+    "word": "Trackable",
+    "meaning": "Capable of being followed, monitored, or measured",
+    "shortMeaning": "can be measured",
+    "example": "The progress of the project is now fully trackable.",
+    "example2": "We need to make our goals trackable with data.",
+    "example3": "Every request has a trackable ID.",
+    "Explanation": "The word 'trackable' means that there is a way to measure or observe the movement or state of something over time. In IT, this refers to user activity, performance metrics, or task completion status. Making things trackable allows for better decision-making based on data. If something is trackable, it means it leaves a footprint or can be monitored in real-time. It is essential for project management and site analytics. It helps teams stay accountable and reach milestones.",
+    "synonyms": [
+      "traceable",
+      "measurable",
+      "observable"
+    ],
+    "antonyms": [
+      "untrackable",
+      "hidden",
+      "vague"
+    ],
+    "nounForm": "trackability",
+    "verbForm": "track",
+    "adjectiveForm": "trackable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Analytics, management, monitoring",
+    "usageTip": "Use when something can be measured or monitored.",
+    "commonMistake": "Confusing 'trackable' with 'traceable' (which usually implies history).",
+    "collocations": [
+      "trackable progress",
+      "trackable metrics",
+      "fully trackable"
+    ]
+  }
+]

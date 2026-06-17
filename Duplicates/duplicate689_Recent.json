@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Recent",
+    "meaning": "Having happened or been done not long ago.",
+    "shortMeaning": "not long ago",
+    "example": "In recent years, technology has changed dramatically.",
+    "example2": "Her most recent book was a bestseller.",
+    "example3": "Do you have any recent photos of your children?",
+    "Explanation": "Recent refers to the near past. It is a relative term; what is recent depends on context (recent minutes, recent decades). It's used to describe events, developments, or things that are new or fresh. It helps distinguish between old and new information. The adverb is 'recently'. It's a neutral, factual word common in news, conversation, and analysis. It's less specific than 'yesterday' or 'last week' but provides a useful timeframe. It's a key word for discussing current events and trends.",
+    "synonyms": [
+      "new",
+      "latest",
+      "fresh",
+      "modern",
+      "current"
+    ],
+    "antonyms": [
+      "old",
+      "ancient",
+      "long-ago",
+      "outdated"
+    ],
+    "nounForm": "recency",
+    "verbForm": "N/A",
+    "adjectiveForm": "recent",
+    "partOfSpeech": "adjective",
+    "commonContext": "News, history, memory, changes",
+    "usageTip": "Usually placed before the noun it describes (recent event, recent study).",
+    "commonMistake": "Using 'recent' to mean 'soon'. Recent is about the past; 'soon' is about the near future.",
+    "collocations": [
+      "recent events",
+      "recently married",
+      "in recent times",
+      "recent past"
+    ]
+  },
+  {
+    "word": "Recent",
+    "meaning": "Having happened or started a short time ago",
+    "shortMeaning": "new",
+    "example": "The recent update fixed all major bugs.",
+    "example2": "Check the recent changes in the logs.",
+    "example3": "These are the most recent project files.",
+    "Explanation": "The word 'recent' refers to something that is close in time to the present. It implies freshness and relevance. In software development, 'recent' changes are often the first place to look when a new bug appears. It is a common term in UI elements like 'recent files' or 'recent history'. Using 'recent' helps organize data based on chronology. It is helpful to keep track of recent tasks to maintain productivity and stay updated on progress.",
+    "synonyms": [
+      "new",
+      "latest",
+      "up-to-date"
+    ],
+    "antonyms": [
+      "old",
+      "past",
+      "ancient"
+    ],
+    "nounForm": "recency",
+    "verbForm": "N/A",
+    "adjectiveForm": "recent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Logs, file organization, history",
+    "usageTip": "Use to describe events that happened just before now.",
+    "commonMistake": "Confusing 'recent' with 'current' (current is now, recent is slightly before).",
+    "collocations": [
+      "recent updates",
+      "most recent",
+      "recent history"
+    ]
+  }
+]

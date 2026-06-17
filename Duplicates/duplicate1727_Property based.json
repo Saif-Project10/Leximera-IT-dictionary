@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Property based",
+    "meaning": "Focusing on the characteristics or qualities of an object or system",
+    "shortMeaning": "characteristic-focused",
+    "example": "The UI is property based, meaning it changes based on the data it receives.",
+    "example2": "We are using a property based approach for our database design.",
+    "example3": "Property based security limits access based on user attributes.",
+    "Explanation": "In technology, 'property based' means that the logic of a system is driven by the 'properties' or attributes of its components. Instead of following a hard-coded sequence, the system looks at the current state or characteristics and reacts accordingly. For example, in CSS, the styling is property based (e.g., if color is red, show red). In security, 'Attribute-Based Access Control' (ABAC) is a property based system. It makes systems more flexible and easier to change because you are defining 'what' something is rather than 'how' it should behave in every single scenario.",
+    "synonyms": [
+      "attribute-driven",
+      "feature-based",
+      "state-based"
+    ],
+    "antonyms": [
+      "action-based",
+      "procedural",
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "property based",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Software design, security, UI styling",
+    "usageTip": "Use this to describe a system that reacts to data attributes.",
+    "commonMistake": "Confusing it with 'object-based'; objects have properties, but they aren't the same concept.",
+    "collocations": [
+      "property based design",
+      "property based access control",
+      "property based logic"
+    ]
+  },
+  {
+    "word": "Property based",
+    "meaning": "Systems or logic that rely on attributes or rules of data",
+    "shortMeaning": "attribute-focused",
+    "example": "We use property based testing to verify all possible inputs.",
+    "example2": "The configuration is property based, allowing for easy updates.",
+    "example3": "A property based access control system manages user roles.",
+    "Explanation": "The term 'property based' refers to systems, logic, or testing frameworks that focus on the attributes (properties) of an entity rather than specific data values. In 'property based testing', instead of testing one specific case, you write a script that tests thousands of random inputs based on defined properties (like 'a length must be positive'). This is much more effective at finding edge cases than traditional manual testing. It is a high-level approach that makes software more robust.",
+    "synonyms": [
+      "attribute-driven",
+      "characteristic-based"
+    ],
+    "antonyms": [
+      "value-based",
+      "hard-coded"
+    ],
+    "nounForm": "property",
+    "verbForm": "N/A",
+    "adjectiveForm": "property-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software testing, architecture design",
+    "usageTip": "Always use a hyphen ('property-based') when using this as an adjective.",
+    "commonMistake": "Confusing property-based testing with unit testing; unit testing is for specific cases, property-based is for generalized rules.",
+    "collocations": [
+      "property-based testing",
+      "property-based configuration"
+    ]
+  }
+]

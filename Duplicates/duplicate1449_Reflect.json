@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Reflect",
+    "meaning": "To throw back light, heat, or sound from a surface; to think deeply or carefully; to show or represent.",
+    "shortMeaning": "bounce back; think; show",
+    "example": "The moon's light reflects off the water.",
+    "example2": "I need time to reflect on what you've said.",
+    "example3": "His actions reflect his true character.",
+    "Explanation": "To 'reflect' is a versatile verb. Its primary meaning is physical: when light, heat, or sound bounces off a surface. Its second, very common meaning is mental: to think seriously about something. The third meaning is to be a sign or result of something, to show or mirror. The noun is 'reflection'. The word is used in science (physics), personal growth, and everyday description. It's a fundamental word for describing both physical phenomena and cognitive processes. The adjective is 'reflective'.",
+    "synonyms": [
+      "bounce back",
+      "think",
+      "ponder",
+      "mirror",
+      "indicate"
+    ],
+    "antonyms": [
+      "absorb",
+      "ignore",
+      "conceal"
+    ],
+    "nounForm": "reflection",
+    "verbForm": "reflect",
+    "adjectiveForm": "reflective",
+    "partOfSpeech": "verb",
+    "commonContext": "Physics, personal thought, behavior, mirrors",
+    "usageTip": "For thinking, it's often followed by 'on' or 'upon' (reflect on your life).",
+    "commonMistake": "Confusing 'reflect' (to think) with 'deflect' (to turn aside).",
+    "collocations": [
+      "reflect on",
+      "reflect light",
+      "reflect well on",
+      "reflect reality"
+    ]
+  },
+  {
+    "word": "Reflect",
+    "meaning": "To automatically show changes or express underlying system states, or to inspect code metadata at runtime using program analysis",
+    "shortMeaning": "show changes or inspect code",
+    "example": "The website dashboard will immediately reflect the new settings when you hit the save button.",
+    "example2": "Advanced development frameworks use reflection to inspect object properties and reflect their structures dynamically.",
+    "example3": "Make sure your local repository updates reflect the latest modifications completed by the team.",
+    "Explanation": "The word 'reflect' carries two prominent meanings in software development. In standard frontend application design, it means that a change in the underlying data state instantly mirrors or shows up visually within the user interface (e.g., updating a shopping cart array instantly reflects the new total on the screen). In advanced computer science contexts, 'reflect' relates to reflection capabilities. This is a powerful feature where a running application can dynamically inspect its own internal code structures, modules, classes, and metadata at runtime. This allows programs to adapt or generate logic on the fly based on what they find.",
+    "synonyms": [
+      "mirror",
+      "display",
+      "inspect dynamically"
+    ],
+    "antonyms": [
+      "hide",
+      "contradict",
+      "N/A"
+    ],
+    "nounForm": "reflection",
+    "verbForm": "reflect",
+    "adjectiveForm": "reflective",
+    "partOfSpeech": "verb",
+    "commonContext": "UI updates, state synchronization, dynamic code inspection (reflection)",
+    "usageTip": "Use 'reflect' to describe how visual elements update based on database state changes, or when discussing dynamic programming metadata.",
+    "commonMistake": "Expecting UI views to automatically reflect data updates in vanilla frameworks without setting up reactive bindings or manual renders.",
+    "collocations": [
+      "reflect changes immediately",
+      "reflect the state",
+      "dynamically reflect"
+    ]
+  }
+]

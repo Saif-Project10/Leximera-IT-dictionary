@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Support",
+    "meaning": "To bear the weight of something; to give assistance, encouragement, or approval.",
+    "shortMeaning": "hold up, back",
+    "example": "The pillars support the roof.",
+    "example2": "Her family supported her decision to study abroad.",
+    "example3": "I support the local football team.",
+    "Explanation": "The verb 'support' has both physical and abstract meanings. Physically, it means to hold something up. Figuratively, it means to help, encourage, or agree with a person, idea, or cause. It is stronger than 'help' in some contexts, implying sustained assistance or backing. As a noun, it refers to the act of supporting or a structure that holds something up. It's used in technical (IT support), emotional (emotional support), and financial (financial support) contexts. It's a word that conveys reliability and strength.",
+    "synonyms": [
+      "assist",
+      "uphold",
+      "back"
+    ],
+    "antonyms": [
+      "oppose",
+      "undermine",
+      "weaken"
+    ],
+    "nounForm": "support",
+    "verbForm": "support",
+    "adjectiveForm": "supportive",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Structures, causes, people, teams, technology",
+    "usageTip": "Use 'support' for ongoing or foundational help, and 'help' for more immediate, specific assistance.",
+    "commonMistake": "Confusing 'support' with 'suppose'. They sound different and have unrelated meanings.",
+    "collocations": [
+      "support system",
+      "technical support",
+      "lend support"
+    ]
+  },
+  {
+    "word": "Support",
+    "meaning": "To give assistance, hold up structurally, provide help, or ensure a system or person functions reliably over time",
+    "shortMeaning": "help or hold up",
+    "example": "Modern web browsers fully support new layout properties like CSS Grid.",
+    "example2": "The engineering team is always ready to support users experiencing system runtime errors.",
+    "example3": "You need strong structural columns to support the heavy weight of the ceiling.",
+    "Explanation": "The word 'support' is incredibly versatile, working as both a verb and a noun. In software engineering, it has two major meanings: compatibility (e.g., 'this browser supports JavaScript') and technical assistance (e.g., 'customer support'). Outside of tech, it means physically holding an object up or emotionally standing by a teammate. The noun form is 'support' or 'supporter', and the adjective form is 'supportive'. It is heavily featured in software documentation, customer help desks, and team project dynamics.",
+    "synonyms": [
+      "assist",
+      "help",
+      "maintain",
+      "uphold",
+      "back"
+    ],
+    "antonyms": [
+      "hinder",
+      "oppose",
+      "abandon",
+      "drop"
+    ],
+    "nounForm": "support / supporter",
+    "verbForm": "support",
+    "adjectiveForm": "supportive",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Customer service, technical software compatibility, teamwork, and physical building designs",
+    "usageTip": "Use 'support' to state that your application is compatible with a certain platform (e.g., 'we support Android and iOS').",
+    "commonMistake": "Saying 'give support to' repeatedly when you can simply use the direct verb form 'support' to keep sentences concise.",
+    "collocations": [
+      "technical support",
+      "customer support",
+      "support a feature"
+    ]
+  }
+]

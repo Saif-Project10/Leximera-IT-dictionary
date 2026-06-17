@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Step through",
+    "meaning": "To execute a computer program one line or one instruction at a time.",
+    "shortMeaning": "one-by-one execution",
+    "example": "I will step through the code to find where the error is happening.",
+    "example2": "The debugger allows you to step through each function call.",
+    "example3": "Step through the logic carefully to understand the flow.",
+    "Explanation": "In programming, to 'step through' means to run your code very slowly using a debugger. Instead of running the whole program in a second, you press a button to move to the very next line. This allows the programmer to see the value of every variable at every moment. It is the most powerful way to find 'logical' bugs that don't crash the program but produce the wrong answer. It is a fundamental skill for any software developer.",
+    "synonyms": [
+      "trace",
+      "single-step",
+      "walk through"
+    ],
+    "antonyms": [
+      "run",
+      "execute fully"
+    ],
+    "nounForm": "stepping",
+    "verbForm": "step through",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming and debugging",
+    "usageTip": "Use 'step through' when you have a bug and you don't know which line is causing it.",
+    "commonMistake": "Stepping through every single line of a giant library; use breakpoints to skip the boring parts.",
+    "collocations": [
+      "step through code",
+      "step through debugging",
+      "step through instructions"
+    ]
+  },
+  {
+    "word": "Step through",
+    "meaning": "To examine, execute, or review a process, code snippet, or wizard one single stage at a time",
+    "shortMeaning": "execute step-by-step",
+    "example": "A debugger tool allows developers to step through code to find exactly where it crashes.",
+    "example2": "Let us step through the installation wizard together to ensure correct settings.",
+    "example3": "The tutorial will step through the process of setting up a secure cloud server.",
+    "Explanation": "The phrase 'step through' describes an analytical, slow approach to executing or inspecting a technical process. In software development, developers use debuggers to step through their code line by line to watch memory variables update in real time. This helps pinpoint exactly where logical fallacies or exceptions occur. It can also refer to a user interface manual where a wizard helps a non-technical customer complete configuration forms sequentially. It emphasizes absolute precision and attention to detail.",
+    "synonyms": [
+      "walk through",
+      "examine sequentially",
+      "analyze step-by-step"
+    ],
+    "antonyms": [
+      "skip",
+      "rush",
+      "bypass",
+      "fast-forward"
+    ],
+    "nounForm": "walkthrough",
+    "verbForm": "step through",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Code debugging, software tutorials, system setups",
+    "usageTip": "Use 'step through' when explaining how to debug deep backend logical code issues carefully.",
+    "commonMistake": "Using 'step through' when you just look at code superficially without checking it line-by-line.",
+    "collocations": [
+      "step through code",
+      "step through line by line",
+      "step through the process"
+    ]
+  }
+]

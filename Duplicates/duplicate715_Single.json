@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Single",
+    "meaning": "1. Only one; individual. 2. Not married or in a romantic relationship. 3. Designed for one person.",
+    "shortMeaning": "one only; unmarried",
+    "example": "There wasn't a single person in the room. (one)",
+    "example2": "He's been single for a year now. (unmarried)",
+    "example3": "I booked a single room. (for one)",
+    "Explanation": "'Single' emphasizes oneness. It can be an adjective (a single cookie), a noun (a hit in baseball), or a verb (to single out). As an adjective, it's used to stress individuality ('every single time') or marital status. In computing, 'single-threaded' means processing one command at a time. It's a basic but powerful word for counting, describing status, and emphasizing uniqueness or isolation.",
+    "synonyms": [
+      "one",
+      "individual",
+      "sole",
+      "unmarried"
+    ],
+    "antonyms": [
+      "multiple",
+      "double",
+      "married",
+      "attached"
+    ],
+    "nounForm": "single",
+    "verbForm": "single (out)",
+    "adjectiveForm": "single",
+    "partOfSpeech": "adjective, noun, verb",
+    "commonContext": "Quantity, marital status, accommodations, music",
+    "usageTip": "Use 'single' to emphasize 'one' or to describe someone who is not in a relationship.",
+    "commonMistake": "Confusing 'single' with 'singular'. 'Single' means one; 'singular' means unique or exceptional.",
+    "collocations": [
+      "single parent",
+      "single out",
+      "single file",
+      "single bed"
+    ]
+  },
+  {
+    "word": "Single",
+    "meaning": "Consisting of only one; individual.",
+    "shortMeaning": "one",
+    "example": "The application runs as a single process.",
+    "example2": "Do not delete a single line of code without testing.",
+    "example3": "We use a single point of entry for security.",
+    "Explanation": "The word 'single' represents the number one. In IT, 'single' often refers to architectural decisions like 'Single Source of Truth' or 'Single Point of Failure'. While 'single' implies simplicity, it can also create risks if that one thing is critical for the whole system. Careful evaluation is required whenever you decide to rely on a single component or pathway.",
+    "synonyms": [
+      "individual",
+      "sole",
+      "unique"
+    ],
+    "antonyms": [
+      "multiple",
+      "many",
+      "various"
+    ],
+    "nounForm": "singleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "single",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture and logic",
+    "usageTip": "Use 'single' to emphasize individuality or focus on one component.",
+    "commonMistake": "Overlooking the risk of a single point of failure.",
+    "collocations": [
+      "single point",
+      "single source",
+      "single instance"
+    ]
+  },
+  {
+    "word": "Single",
+    "meaning": "Only one; individual",
+    "shortMeaning": "one",
+    "example": "A single server is not enough for this load.",
+    "example2": "He made a single point of failure in the design.",
+    "objective": "We need a single source of truth for the data.",
+    "Explanation": "The word 'single' means exactly one. It is a foundational concept in IT, often used to describe architecture (e.g., 'single-user', 'single-node') or to identify risks (e.g., 'single point of failure'). It is important to distinguish between single and multiple components in system design. There is no specific noun or verb form for 'single' as an adjective, though it can act as a noun in specific contexts.",
+    "synonyms": [
+      "individual",
+      "sole",
+      "lone"
+    ],
+    "antonyms": [
+      "multiple",
+      "many",
+      "several"
+    ],
+    "nounForm": "singleness",
+    "verbForm": "N/A",
+    "adjectiveForm": "single",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, data structure",
+    "usageTip": "Use 'single' to emphasize that there is only one of something.",
+    "commonMistake": "Using 'single' when the system design actually requires redundancy.",
+    "collocations": [
+      "single point of failure",
+      "single user",
+      "single source"
+    ]
+  }
+]

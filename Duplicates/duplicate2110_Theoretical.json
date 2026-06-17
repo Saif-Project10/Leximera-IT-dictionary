@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Theoretical",
+    "meaning": "Relating to theory or logical models rather than practical application.",
+    "shortMeaning": "related to theory",
+    "example": "The theoretical performance limit is much higher.",
+    "example2": "We have a theoretical model for the network traffic.",
+    "example3": "It is a theoretical possibility that the system could fail.",
+    "Explanation": "The word 'theoretical' describes something that exists in theory. It is often used to establish boundaries—like 'theoretical speed' (what it could do in a perfect world) vs. 'real-world throughput' (what it actually does). It is essential to recognize the gap between the two when planning projects or setting client expectations. Being aware of these limits prevents over-promising on performance.",
+    "synonyms": [
+      "hypothetical",
+      "abstract"
+    ],
+    "antonyms": [
+      "practical",
+      "real-world"
+    ],
+    "nounForm": "theory",
+    "verbForm": "N/A",
+    "adjectiveForm": "theoretical",
+    "partOfSpeech": "adjective",
+    "commonContext": "System design and analysis",
+    "usageTip": "Use 'theoretical' to set expectations vs. reality.",
+    "commonMistake": "Ignoring the gap between theoretical limits and actual results.",
+    "collocations": [
+      "theoretical limit",
+      "theoretical model"
+    ]
+  },
+  {
+    "word": "Theoretical",
+    "meaning": "Concerned with the principles of a subject rather than practice",
+    "shortMeaning": "based on theory",
+    "example": "There is a theoretical limit to processing speed.",
+    "example2": "His paper presents a theoretical model.",
+    "example3": "Theoretical knowledge is important, but practice is better.",
+    "Explanation": "Theoretical refers to ideas, concepts, or models that exist in theory but might not have been applied in practice yet. It is the opposite of practical or applied. In IT, theoretical concepts often precede practical implementations in new technologies. Understanding theory helps in designing better systems, even if they aren't fully implemented. It is a common term in research and academic discussions.",
+    "synonyms": [
+      "hypothetical",
+      "conceptual",
+      "abstract"
+    ],
+    "antonyms": [
+      "practical",
+      "applied",
+      "empirical"
+    ],
+    "nounForm": "theory",
+    "verbForm": "theorize",
+    "adjectiveForm": "theoretical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Academic research, system design, innovation",
+    "usageTip": "Use to distinguish between concepts and actual working code.",
+    "commonMistake": "Dismissing theoretical work as useless; it forms the basis of all practical tech.",
+    "collocations": [
+      "theoretical framework",
+      "theoretical knowledge",
+      "theoretical model"
+    ]
+  },
+  {
+    "word": "Theoretical",
+    "meaning": "Concerned with the principles of a subject rather than practice",
+    "shortMeaning": "based on theory",
+    "example": "There is a theoretical limit to processing speed.",
+    "example2": "His paper presents a theoretical model.",
+    "example3": "Theoretical knowledge is important, but practice is better.",
+    "Explanation": "Theoretical refers to ideas, concepts, or models that exist in theory but might not have been applied in practice yet. It is the opposite of practical or applied. In IT, this often applies to algorithm design, cryptography, and complex system architectures. Understanding theory helps in designing better systems, even if they aren't fully implemented. It is a common term in research and academic discussions.",
+    "synonyms": [
+      "hypothetical",
+      "conceptual",
+      "abstract"
+    ],
+    "antonyms": [
+      "practical",
+      "applied",
+      "empirical"
+    ],
+    "nounForm": "theory",
+    "verbForm": "theorize",
+    "adjectiveForm": "theoretical",
+    "partOfSpeech": "adjective",
+    "commonContext": "Academic research, system design, innovation",
+    "usageTip": "Use to distinguish between concepts and actual working code.",
+    "commonMistake": "Dismissing theoretical work as useless; it forms the basis of all practical tech.",
+    "collocations": [
+      "theoretical framework",
+      "theoretical knowledge",
+      "theoretical model"
+    ]
+  }
+]

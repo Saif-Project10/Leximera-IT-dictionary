@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unintegrated",
+    "meaning": "Not combined or coordinated into a unified whole; separate or isolated",
+    "shortMeaning": "not combined into a whole",
+    "example": "The new software remained unintegrated with our existing systems.",
+    "example2": "Unintegrated communities often face social and economic challenges.",
+    "example3": "His ideas felt unintegrated and disjointed.",
+    "Explanation": "The adjective 'unintegrated' describes parts, systems, groups, or ideas that exist separately and have not been brought together to function as a cohesive unit. In technology, it refers to software or hardware that doesn't work seamlessly with other systems. In social contexts, it can describe groups that are not assimilated into the larger society. The word often carries a negative connotation of inefficiency, fragmentation, or lack of harmony. The process of making things integrated is 'integration', which is generally seen as beneficial for efficiency, coherence, and strength. 'Unintegrated' is the starting point or problematic state before integration.",
+    "synonyms": [
+      "separate",
+      "disconnected",
+      "isolated",
+      "disjointed",
+      "non-integrated"
+    ],
+    "antonyms": [
+      "integrated",
+      "unified",
+      "combined",
+      "cohesive",
+      "assimilated"
+    ],
+    "nounForm": "lack of integration",
+    "verbForm": "integrate",
+    "adjectiveForm": "unintegrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology systems, social policy, organizational structure",
+    "usageTip": "Often used to criticize a lack of planning or coordination between components.",
+    "commonMistake": "Confusing it with 'disintegrated', which means broken apart from a former whole.",
+    "collocations": [
+      "unintegrated systems",
+      "unintegrated approach",
+      "unintegrated data",
+      "socially unintegrated"
+    ]
+  },
+  {
+    "word": "Unintegrated",
+    "meaning": "Not connected or working together with other systems",
+    "shortMeaning": "disconnected",
+    "example": "The software modules are currently unintegrated and work separately.",
+    "example2": "We have many unintegrated legacy tools.",
+    "example3": "An unintegrated system is difficult to maintain.",
+    "Explanation": "To be 'unintegrated' means that parts of a system do not communicate or share data with each other. This creates 'data silos'—pockets of information that are hard to access collectively. In software architecture, the goal is often to create an integrated ecosystem where data flows smoothly between services (e.g., via APIs). Unintegrated systems are often a result of 'technical debt' (taking shortcuts) or buying software that doesn't talk to your existing stack. Addressing unintegrated components is a major part of digital transformation.",
+    "synonyms": [
+      "disconnected",
+      "isolated",
+      "separate"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected",
+      "cohesive"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintegrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems architecture, API development, enterprise software",
+    "usageTip": "Use this to point out inefficient, disconnected workflows.",
+    "commonMistake": "Confusing 'unintegrated' with 'broken'.",
+    "collocations": [
+      "unintegrated systems",
+      "unintegrated data"
+    ]
+  },
+  {
+    "word": "Unintegrated",
+    "meaning": "Not connected or combined with other parts or systems.",
+    "shortMeaning": "not connected",
+    "example": "The legacy module remains unintegrated with the new dashboard.",
+    "example2": "We need to fix these unintegrated data silos.",
+    "example3": "The plugin is currently unintegrated with the main application.",
+    "Explanation": "In software development, systems work best when they talk to each other. 'Unintegrated' means components exist as separate, isolated pieces that cannot share data. This makes processes slow and manual. Integration usually involves using APIs or database connections to make systems work as one. If a part of your application is unintegrated, it may create bottlenecks and make data consistency difficult to achieve.",
+    "synonyms": [
+      "disconnected",
+      "isolated",
+      "detached"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected",
+      "unified"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "integrate",
+    "adjectiveForm": "unintegrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Systems architecture and software integration",
+    "usageTip": "Use this to describe gaps between software parts.",
+    "commonMistake": "Assuming all modules are integrated by default.",
+    "collocations": [
+      "unintegrated system",
+      "unintegrated component",
+      "remains unintegrated"
+    ]
+  }
+]

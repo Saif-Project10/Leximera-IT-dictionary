@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Malicious",
+    "meaning": "Intending or intended to do harm.",
+    "shortMeaning": "intending harm",
+    "example": "He was accused of spreading malicious gossip.",
+    "example2": "The virus was a malicious piece of software.",
+    "example3": "Her comments were not critical; they were malicious.",
+    "Explanation": "'Malicious' is a strong adjective describing actions, software, or people that are motivated by a desire to cause harm, injury, or distress. It implies ill will, spite, or evil intent. It's commonly used in legal contexts (malicious prosecution), computing (malicious code/malware), and personal behavior (malicious intent). The noun is 'malice'. It's more severe than 'unkind' or 'mean'; it suggests a deliberate and harmful purpose. Distinguishing between critical feedback and malicious slander often hinges on proving this intent.",
+    "synonyms": [
+      "spiteful",
+      "malevolent",
+      "vindictive"
+    ],
+    "antonyms": [
+      "benevolent",
+      "kind",
+      "well-meaning"
+    ],
+    "nounForm": "malice",
+    "verbForm": "N/A",
+    "adjectiveForm": "malicious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Law, cybersecurity, personal attacks, behavior",
+    "usageTip": "Often used before nouns like 'intent', 'software', 'gossip', or 'damage'.",
+    "commonMistake": "Confusing 'malicious' with 'malicious' (the correct spelling) or with 'delicious' (tasty).",
+    "collocations": [
+      "malicious intent",
+      "malicious prosecution",
+      "malicious mischief"
+    ]
+  },
+  {
+    "word": "Malicious",
+    "meaning": "Intended to cause harm, damage, or unauthorized access",
+    "shortMeaning": "harmful",
+    "example": "The firewall blocked malicious traffic from an unknown IP.",
+    "example2": "He wrote a script to detect malicious code.",
+    "example3": "Malicious actors are targeting the company database.",
+    "Explanation": "The word 'malicious' describes actions, software, or intent designed to harm a computer system, steal data, or disrupt operations. It is a foundational concept in cybersecurity. Malware (malicious software) is the most common manifestation. Identifying and blocking 'malicious' behavior is the primary goal of security tools like antivirus and intrusion detection systems. It is used to describe serious security threats.",
+    "synonyms": [
+      "harmful",
+      "hostile",
+      "damaging"
+    ],
+    "antonyms": [
+      "benign",
+      "safe",
+      "harmless"
+    ],
+    "nounForm": "malice",
+    "verbForm": "N/A",
+    "adjectiveForm": "malicious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, network security",
+    "usageTip": "Use when describing threats or dangerous code.",
+    "commonMistake": "Confusing 'malicious' with 'erroneous' (an error is an accident; malicious is intentional).",
+    "collocations": [
+      "malicious code",
+      "malicious activity",
+      "malicious intent"
+    ]
+  }
+]

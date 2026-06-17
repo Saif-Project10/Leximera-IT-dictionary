@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Late",
+    "meaning": "Doing something or happening after the expected, usual, or proper time.",
+    "shortMeaning": "after the expected time",
+    "example": "The train is ten minutes late.",
+    "example2": "She apologized for being late to the meeting.",
+    "example3": "He worked until late at night.",
+    "Explanation": "Late is primarily an adjective and adverb relating to time. It means occurring or arriving after the scheduled time. It can also mean near the end of a period (late afternoon, late 20th century) or deceased (the late president). The comparative is 'later,' and the superlative is 'latest.' A common mistake is confusing 'late' (delayed) with 'lately' (recently). This word is used constantly in daily life to discuss punctuality, historical periods, and stages of life. It often carries a negative connotation when referring to tardiness but is neutral when referring to time periods.",
+    "synonyms": [
+      "delayed",
+      "tardy",
+      "behind schedule",
+      "overdue"
+    ],
+    "antonyms": [
+      "early",
+      "punctual",
+      "on time",
+      "premature"
+    ],
+    "nounForm": "lateness",
+    "verbForm": "N/A",
+    "adjectiveForm": "late",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Punctuality, historical eras, time of day, and referring to deceased people.",
+    "usageTip": "Use 'the late' before a person's name to mean they are recently deceased (e.g., 'the late Mr. Smith').",
+    "commonMistake": "Saying 'I am late' when you mean 'I am running late' or 'I will be late.'",
+    "collocations": [
+      "too late",
+      "late fee",
+      "late bloomer"
+    ]
+  },
+  {
+    "word": "Late",
+    "meaning": "Happening after the expected or planned time",
+    "shortMeaning": "behind schedule",
+    "example": "The project delivery is running late.",
+    "example2": "He submitted the code late, missing the deadline.",
+    "example3": "Late updates can cause security vulnerabilities.",
+    "Explanation": "The word 'late' indicates that an event occurred or a task was completed after the designated time. In software development, being late often causes delays in the entire project timeline. It is important to track tasks to avoid being late on milestones. Late software patches or updates can also leave systems open to hackers. Always try to provide updates before the deadline to maintain a good schedule.",
+    "synonyms": [
+      "delayed",
+      "behind schedule",
+      "overdue"
+    ],
+    "antonyms": [
+      "early",
+      "punctual",
+      "on-time"
+    ],
+    "nounForm": "lateness",
+    "verbForm": "N/A",
+    "adjectiveForm": "late",
+    "partOfSpeech": "adjective / adverb",
+    "commonContext": "Project management, scheduling, updates",
+    "usageTip": "Use 'late' to warn about delays in software releases.",
+    "commonMistake": "Using 'lately' when you mean 'late' regarding a specific deadline.",
+    "collocations": [
+      "running late",
+      "late delivery",
+      "late patch"
+    ]
+  }
+]

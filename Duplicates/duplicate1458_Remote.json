@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Remote",
+    "meaning": "Far away in distance or time; or having very little connection",
+    "shortMeaning": "far away, distant",
+    "example": "They live in a remote village in the mountains.",
+    "example2": "There is only a remote possibility of success.",
+    "example3": "Use the remote control to change the channel.",
+    "Explanation": "'Remote' is an adjective with several related meanings. Its primary sense is being far away geographically. It can also mean far in time (the remote past), slight (a remote chance), or emotionally detached (a remote manner). As a noun, it's short for 'remote control'. The word often implies isolation, difficulty of access, or minimal connection. In computing, 'remote access' means accessing a computer from a distance. It conveys a sense of separation from the observer or the center of activity.",
+    "synonyms": [
+      "distant",
+      "far-off",
+      "isolated"
+    ],
+    "antonyms": [
+      "close",
+      "nearby",
+      "central"
+    ],
+    "nounForm": "remoteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "remote",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Geography, probability, emotions, technology",
+    "usageTip": "For a slight chance, use 'remote' (a remote possibility), not 'far'.",
+    "commonMistake": "Using 'remote' to mean 'removed'. 'Remote' describes location/likelihood; 'removed' describes something taken away.",
+    "collocations": [
+      "remote control",
+      "remote area",
+      "remote chance"
+    ]
+  },
+  {
+    "word": "Remote",
+    "meaning": "Located far away; accessed over a network.",
+    "shortMeaning": "far away",
+    "example": "I am connecting to the remote server via SSH.",
+    "example2": "Remote work is standard for our development team.",
+    "example3": "The remote sensor data is updated every hour.",
+    "Explanation": "In IT, 'remote' describes anything that is not in your immediate physical location. You have 'remote servers', 'remote work', and 'remote access'. It implies distance, usually bridged by the internet. It is a fundamental concept for modern global teams, cloud computing, and IoT (Internet of Things). Understanding how to securely manage remote systems is a core requirement for almost every IT job today, as most infrastructure is now remote.",
+    "synonyms": [
+      "distant",
+      "off-site",
+      "networked"
+    ],
+    "antonyms": [
+      "local",
+      "on-site",
+      "nearby"
+    ],
+    "nounForm": "remoteness",
+    "verbForm": "N/A",
+    "adjectiveForm": "remote",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, cloud, work culture",
+    "usageTip": "Use to distinguish between things running on your machine vs. the network.",
+    "commonMistake": "Confusing 'remote' (access) with 'local' (host).",
+    "collocations": [
+      "remote server",
+      "remote access",
+      "remote work"
+    ]
+  }
+]

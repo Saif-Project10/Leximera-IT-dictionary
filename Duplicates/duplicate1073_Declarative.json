@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Declarative",
+    "meaning": "Making a statement or declaration; in computing, describing what to do rather than how. | A programming paradigm that expresses the logic of a computation without describing its control flow.",
+    "shortMeaning": "making statements; descriptive",
+    "example": "SQL is a declarative programming language.",
+    "example2": "She made a declarative statement about her intentions.",
+    "example3": "Declarative sentences state facts or opinions.",
+    "Explanation": "'Declarative' is an adjective with two main uses. In general language, it means making a clear statement or declaration. In grammar, 'declarative sentences' make statements (as opposed to interrogative or imperative). In computing, 'declarative programming' focuses on describing what the program should accomplish rather than the step-by-step instructions (imperative programming). It's a technical term in programming paradigms, contrasting with imperative and procedural approaches. It emphasizes results over processes.",
+    "synonyms": [
+      "Assertive",
+      "Descriptive",
+      "Expressive",
+      "Outcome-Focused",
+      "Stating",
+      "What-Oriented"
+    ],
+    "antonyms": [
+      "How-Focused",
+      "Imperative",
+      "Interrogative",
+      "Procedural"
+    ],
+    "nounForm": "declaration",
+    "verbForm": "declare",
+    "adjectiveForm": "declarative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, grammar, law, statements",
+    "usageTip": "In computing: 'declarative programming', 'declarative language'. In grammar: 'declarative sentence'.",
+    "commonMistake": "Confusing with 'declaratory' which is similar but more often used in legal contexts.",
+    "collocations": [
+      "declarative programming",
+      "declarative sentence",
+      "declarative style"
+    ]
+  },
+  {
+    "word": "Declarative",
+    "meaning": "Programming style that describes what to do, not how",
+    "shortMeaning": "what-focused",
+    "example": "SQL is a declarative language.",
+    "example2": "React uses a declarative approach to UI.",
+    "example3": "Declarative configuration makes the system easier to manage.",
+    "Explanation": "Declarative programming focuses on the result (what to achieve) rather than the sequence of steps (how to achieve it). This contrasts with 'imperative' programming. The noun is 'declaration'. It is highly beneficial for readability, maintenance, and debugging. You tell the system the desired state, and the system handles the underlying steps to reach that state.",
+    "synonyms": [
+      "descriptive",
+      "non-procedural"
+    ],
+    "antonyms": [
+      "imperative",
+      "procedural",
+      "step-by-step"
+    ],
+    "nounForm": "declaration",
+    "verbForm": "declare",
+    "adjectiveForm": "declarative",
+    "partOfSpeech": "adjective",
+    "commonContext": "Coding, SQL, configuration",
+    "usageTip": "Use when describing languages or frameworks that simplify complex logic.",
+    "commonMistake": "Mixing imperative code into a declarative structure.",
+    "collocations": [
+      "declarative language",
+      "declarative programming",
+      "declarative syntax"
+    ]
+  }
+]

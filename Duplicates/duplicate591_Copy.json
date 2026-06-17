@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Copy",
+    "meaning": "A thing made to be like another thing; to make a copy of something.",
+    "shortMeaning": "duplicate; to duplicate",
+    "example": "Please make a copy of this document for our files. (noun)",
+    "example2": "She copied the homework answers from her friend. (verb)",
+    "example3": "He bought a copy of today's newspaper. (noun)",
+    "Explanation": "Copy is both a noun and a verb. As a noun, it means a reproduction or duplicate of an original item, like a photocopy or a book. As a verb, it means to reproduce, imitate, or duplicate something. In the context of behavior, to 'copy' someone is to imitate them. In computing, 'copy' is a fundamental command. The word does not imply a lower quality than the original; a copy can be perfect. It's a simple, everyday word used in offices, schools, and digital environments.",
+    "synonyms": [
+      "duplicate",
+      "replica",
+      "reproduction",
+      "imitate",
+      "replicate"
+    ],
+    "antonyms": [
+      "original",
+      "create",
+      "originate"
+    ],
+    "nounForm": "copy",
+    "verbForm": "copy",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Office work, publishing, school, computing, art",
+    "usageTip": "As a verb, it's often followed by 'from' (copy from a source). The noun is often used with 'make' or 'take'.",
+    "commonMistake": "Confusing 'copy' with 'copyright'. A 'copy' is the item; 'copyright' is the legal right to it.",
+    "collocations": [
+      "make a copy",
+      "hard copy",
+      "copy and paste",
+      "carbon copy"
+    ]
+  },
+  {
+    "word": "Copy",
+    "meaning": "To make an exact duplicate of something",
+    "shortMeaning": "duplicate",
+    "example": "Please copy this file to the backup drive.",
+    "example2": "You can copy and paste the text using keyboard shortcuts.",
+    "example3": "Don't copy someone else's work without permission.",
+    "Explanation": "Copy is one of the most fundamental actions in computing. It means taking data from one location and creating an identical version in another location, leaving the original unchanged. This is different from 'moving', which removes the original. We copy files, text, images, and code every day. In programming, 'copying' can be complex (like 'shallow copy' vs 'deep copy'). It is also a term used in radio communication to mean 'I understand your message'.",
+    "synonyms": [
+      "duplicate",
+      "replicate",
+      "clone"
+    ],
+    "antonyms": [
+      "original",
+      "cut (in context of move)",
+      "delete"
+    ],
+    "nounForm": "copy / copier",
+    "verbForm": "copy",
+    "adjectiveForm": "copied",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Daily computing, office work, and legal (copyright)",
+    "usageTip": "Use Ctrl+C to copy text quickly on a computer.",
+    "commonMistake": "Confusing 'copy' with 'move'; moving deletes the source, copying doesn't.",
+    "collocations": [
+      "make a copy",
+      "copy and paste",
+      "hard copy"
+    ]
+  }
+]

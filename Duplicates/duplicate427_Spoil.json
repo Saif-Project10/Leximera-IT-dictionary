@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Spoil",
+    "meaning": "To diminish or destroy the value, quality, or pleasure of something; to overindulge a child.",
+    "shortMeaning": "ruin, overindulge",
+    "example": "The rain spoiled our picnic.",
+    "example2": "Too much salt will spoil the soup.",
+    "example3": "Grandparents often spoil their grandchildren.",
+    "Explanation": "The verb 'spoil' has two common meanings. First, to ruin or damage something good, making it less enjoyable or effective. Second, to treat someone, especially a child, too kindly or leniently, harming their character. The past tense and past participle is 'spoiled' or 'spoilt'. It's a versatile word for everyday frustrations. A common mistake is using it only for food (which goes bad or spoils). It applies to plans, moods, and children's behavior. It suggests an action that takes away from perfection or appropriateness.",
+    "synonyms": [
+      "ruin",
+      "mar",
+      "indulge"
+    ],
+    "antonyms": [
+      "improve",
+      "enhance",
+      "discipline"
+    ],
+    "nounForm": "spoilage / spoils",
+    "verbForm": "spoil",
+    "adjectiveForm": "spoiled",
+    "partOfSpeech": "verb",
+    "commonContext": "Food, plans, fun, child-rearing",
+    "usageTip": "For food, 'spoil' means to become rotten. For children, it means to give them everything they want.",
+    "commonMistake": "Using 'spoil' to mean 'split' (as in divide). They are unrelated.",
+    "collocations": [
+      "spoil the fun",
+      "spoiled child",
+      "spoilt for choice"
+    ]
+  },
+  {
+    "word": "Spoil",
+    "meaning": "To corrupt, damage, or lower the quality of data, code, or hardware functionality",
+    "shortMeaning": "corrupt or damage quality",
+    "example": "A sudden power outage during a write operation can spoil the database file.",
+    "example2": "Do not mix unstable experimental libraries with stable code, as it might spoil the project.",
+    "example3": "Dust accumulation inside the server chassis can spoil the cooling system performance.",
+    "Explanation": "While 'spoil' is a common everyday word, in technical contexts it describes the deterioration or corruption of a system's status or data integrity. It implies that an external negative factor has degraded an asset that was previously in good working condition. For instance, poor error handling might spoil user data entries, or a messy git merge can spoil a clean code repository. Recognizing what variables or environments can spoil system integrity allows IT engineers to build defensive barriers, backups, and error catches.",
+    "synonyms": [
+      "corrupt",
+      "ruin",
+      "damage",
+      "degrade"
+    ],
+    "antonyms": [
+      "fix",
+      "enhance",
+      "optimize",
+      "preserve"
+    ],
+    "nounForm": "spoilage",
+    "verbForm": "spoil",
+    "adjectiveForm": "spoiled",
+    "partOfSpeech": "verb",
+    "commonContext": "Data management, system performance, and code repositories",
+    "usageTip": "Use 'spoil' to express that something has lost its usefulness or structural integrity due to an error.",
+    "commonMistake": "Using 'spoil' when 'corrupt' is the more standard, formal term for broken database files.",
+    "collocations": [
+      "spoil the data",
+      "spoil the code repository",
+      "spoil system performance"
+    ]
+  }
+]

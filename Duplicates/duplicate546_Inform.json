@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Inform",
+    "meaning": "To give someone facts or information; to tell | To give someone facts or information; to tell.",
+    "shortMeaning": "tell; give information",
+    "example": "Please inform me of any changes to the schedule.",
+    "example2": "The leaflet informs visitors about the museum's history.",
+    "example3": "He was officially informed of his promotion.",
+    "Explanation": "The verb 'inform' is a basic, neutral term for the act of communicating knowledge or facts to someone. It is the foundation of information exchange. It can be formal ('inform the authorities') or informal ('just informing you'). It's often used in business and official communication. The noun form is 'information'. It's one of the most common and essential verbs in the language.",
+    "synonyms": [
+      "Advise",
+      "Apprise",
+      "Brief",
+      "Notify",
+      "Tell"
+    ],
+    "antonyms": [
+      "Deceive",
+      "Misinform",
+      "Withhold Information"
+    ],
+    "nounForm": "information",
+    "verbForm": "inform",
+    "adjectiveForm": "informative",
+    "partOfSpeech": "verb",
+    "commonContext": "Communication, news, education, updates",
+    "usageTip": "Often followed by 'of' or 'about': 'inform someone of something.'",
+    "commonMistake": "Using 'inform to' (e.g., 'I will inform to him') which is incorrect; it's 'I will inform him'.",
+    "collocations": [
+      "inform the police",
+      "keep informed",
+      "regret to inform you",
+      "well-informed"
+    ]
+  },
+  {
+    "word": "Inform",
+    "meaning": "To give someone facts or information",
+    "shortMeaning": "tell",
+    "example": "The system will inform the user when the download is complete.",
+    "example2": "Please inform the IT department about the server issue.",
+    "example3": "The dashboard is designed to inform stakeholders of progress.",
+    "Explanation": "To inform is the act of communicating specific data or facts to a recipient. In technical documentation, it is used to describe how a system alerts or notifies a user. It is a professional way to say 'tell' or 'notify'. It usually implies a one-way flow of information from a source to an audience. The information shared is typically factual and useful for decision-making.",
+    "synonyms": [
+      "notify",
+      "apprise",
+      "advise"
+    ],
+    "antonyms": [
+      "mislead",
+      "conceal",
+      "hide"
+    ],
+    "nounForm": "information",
+    "verbForm": "inform",
+    "adjectiveForm": "informative",
+    "partOfSpeech": "verb",
+    "commonContext": "Notifications, reporting, communication",
+    "usageTip": "Use 'inform' in formal emails or system messages to provide status updates.",
+    "commonMistake": "Using 'inform' without an object (e.g., say 'inform the team' not just 'inform').",
+    "collocations": [
+      "inform the public",
+      "keep informed",
+      "well-informed"
+    ]
+  }
+]

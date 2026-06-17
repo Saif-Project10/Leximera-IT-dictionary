@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Receiver operating",
+    "meaning": "Relating to how a device or system performs while receiving signals or data",
+    "shortMeaning": "reception activity",
+    "example": "The receiver operating parameters must be checked during the test.",
+    "example2": "We monitored the receiver operating status throughout the broadcast.",
+    "example3": "Receiver operating efficiency is crucial for satellite communications.",
+    "Explanation": "This term generally refers to the active state or characteristics of a component designed to take in signals (like a radio, modem, or sensor). It involves looking at how well the receiver filters out noise, handles signal strength, and processes incoming information. In broader technical terms, it sets the stage for the 'Receiver Operating Characteristic' (ROC), which is a way to measure the performance of detectors. It is a fundamental concept in telecommunications and signal processing.",
+    "synonyms": [
+      "reception mode",
+      "active receiving"
+    ],
+    "antonyms": [
+      "transmitter operating"
+    ],
+    "nounForm": "receiver operation",
+    "verbForm": "N/A",
+    "adjectiveForm": "receiver operating",
+    "partOfSpeech": "adjective",
+    "commonContext": "Signal processing, radio communications, and data reception",
+    "usageTip": "Use this as a descriptor for the state of a receiving device.",
+    "commonMistake": "Using 'receiving' and 'receiver operating' interchangeably; 'operating' implies the whole functional state.",
+    "collocations": [
+      "receiver operating state",
+      "receiver operating conditions",
+      "receiver operating frequency"
+    ]
+  },
+  {
+    "word": "Receiver operating",
+    "meaning": "Relating to the performance of a signal detector",
+    "shortMeaning": "detection accuracy",
+    "example": "We analyzed the receiver operating characteristic curve.",
+    "example2": "The model's receiver operating performance is excellent.",
+    "example3": "Receiver operating curves measure classification quality.",
+    "Explanation": "The term 'receiver operating' is often used in 'Receiver Operating Characteristic' (ROC) analysis, a method for evaluating the performance of classification models in data science. The noun form is 'receiver'. It describes how well a system can distinguish between classes by plotting true positive rates against false positive rates. It is a highly technical term used in machine learning and system evaluation. Understanding it helps you gauge how accurate your model is at making predictions.",
+    "synonyms": [
+      "detection",
+      "classification",
+      "performance"
+    ],
+    "antonyms": [
+      "N/A",
+      "inaccuracy",
+      "randomness"
+    ],
+    "nounForm": "receiver",
+    "verbForm": "N/A",
+    "adjectiveForm": "receiver-operating",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Data science, machine learning",
+    "usageTip": "Use when discussing model performance graphs.",
+    "commonMistake": "Ignoring the trade-off between sensitivity and specificity.",
+    "collocations": [
+      "receiver operating characteristic",
+      "receiver operating curve",
+      "high receiver operating performance"
+    ]
+  }
+]

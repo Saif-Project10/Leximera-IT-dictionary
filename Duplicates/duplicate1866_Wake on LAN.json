@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Wake on LAN",
+    "meaning": "A technology that allows a computer to be turned on remotely through a network signal",
+    "shortMeaning": "remote power-on",
+    "example": "I used wake on LAN to turn on my office computer from my house.",
+    "example2": "For wake on LAN to work, the motherboard must support the 'Magic Packet' standard.",
+    "example3": "The IT team uses wake on LAN to start computers for after-hours updates.",
+    "Explanation": "Wake on LAN (WoL) is a networking standard that allows a computer to be 'woken up' from a low-power state (like sleep or hibernation) or even when it is turned off. It works by sending a specific data packet, called a 'Magic Packet,' to the network card of the target computer. Even when the computer is off, the network card stays slightly powered and 'listens' for this specific signal. Once received, the card triggers the power supply to turn the system on. This is incredibly useful for system administrators who need to manage hundreds of computers without walking to each desk. It requires both hardware support and specific settings in the OS.",
+    "synonyms": [
+      "WoL",
+      "remote wake-up",
+      "resume on LAN"
+    ],
+    "antonyms": [
+      "manual power-on",
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "wake",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / phrase",
+    "commonContext": "Network administration and remote access",
+    "usageTip": "Commonly abbreviated as WoL; check BIOS settings to enable it.",
+    "commonMistake": "Thinking it works over Wi-Fi easily; it usually requires a wired Ethernet connection.",
+    "collocations": [
+      "enable wake on LAN",
+      "wake on LAN packet",
+      "wake on LAN support"
+    ]
+  },
+  {
+    "word": "Wake on LAN",
+    "meaning": "A feature that allows a computer to be turned on or awakened by a network message.",
+    "shortMeaning": "remote power-on",
+    "example": "We use Wake on LAN to perform overnight updates.",
+    "example2": "Is Wake on LAN enabled in the BIOS settings?",
+    "example3": "Wake on LAN helps save energy by keeping PCs off until needed.",
+    "Explanation": "Wake on LAN (WoL) is a networking standard that lets you power on a computer remotely by sending a specific network packet (a 'magic packet') to it. This is widely used in enterprise IT for remote management, maintenance, and power-saving operations. To use WoL, both the motherboard and the network card must support it, and it must be enabled in the BIOS/UEFI. It is a powerful tool for system administrators.",
+    "synonyms": [
+      "WoL",
+      "remote-power-up"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Wake on LAN",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / feature",
+    "commonContext": "Network administration, power management",
+    "usageTip": "Use this when talking about remote computer management.",
+    "commonMistake": "Thinking WoL works over the internet (it usually works only within the local network).",
+    "collocations": [
+      "enable Wake on LAN",
+      "Wake on LAN support",
+      "Wake on LAN magic packet"
+    ]
+  }
+]

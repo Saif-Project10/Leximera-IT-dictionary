@@ -1,0 +1,93 @@
+[
+  {
+    "word": "Uploading",
+    "meaning": "The process of transferring data from a local computer or device to a remote system or server",
+    "shortMeaning": "sending data to a server",
+    "example": "The uploading of the video to the website took an hour.",
+    "example2": "She is uploading the photos from her camera to the cloud.",
+    "example3": "Please wait while the file is uploading.",
+    "Explanation": "'Uploading' is the present participle or gerund of the verb 'upload'. It refers to the act of sending files or data from a user's device (like a phone or laptop) to a central server or another device on a network. This is the opposite of 'downloading'. Common uploading activities include posting photos to social media, saving files to cloud storage, submitting assignments online, or publishing a website. The speed of uploading depends on your internet connection. The term is a staple of the digital age, essential for sharing, backing up, and publishing content online. It's a routine part of using the internet.",
+    "synonyms": [
+      "transferring up",
+      "sending",
+      "posting",
+      "pushing"
+    ],
+    "antonyms": [
+      "downloading",
+      "receiving",
+      "pulling"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploading",
+    "partOfSpeech": "verb (present participle) / noun",
+    "commonContext": "Internet use, cloud computing, social media, file sharing",
+    "usageTip": "Use 'uploading' for the ongoing process. 'Upload' is the general action or the noun.",
+    "commonMistake": "Confusing 'upload' with 'download'; upload is send to the internet, download is receive from it.",
+    "collocations": [
+      "uploading files",
+      "uploading photos",
+      "uploading speed",
+      "currently uploading"
+    ]
+  },
+  {
+    "word": "Uploading",
+    "meaning": "The process of transferring data to a remote system.",
+    "shortMeaning": "sending to server",
+    "example": "The uploading process is taking longer than expected.",
+    "example2": "He is currently uploading the large database backup.",
+    "example3": "We are optimizing the uploading speed.",
+    "Explanation": "The word 'uploading' refers to the active, ongoing process of sending files or information to a server. It is the action occurring during the transfer. The noun form can also be 'upload'. It is a common term used in progress bars and status updates. Use 'uploading' when describing the current activity of a system or user transferring data. Be aware of network bandwidth constraints during this time.",
+    "synonyms": [
+      "transferring",
+      "sending"
+    ],
+    "antonyms": [
+      "downloading"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploaded",
+    "partOfSpeech": "verb (gerund) / noun",
+    "commonContext": "Networking, file management",
+    "usageTip": "Use 'uploading' to describe the active transfer of data.",
+    "commonMistake": "Ignoring the status of the transfer while uploading.",
+    "collocations": [
+      "currently uploading",
+      "uploading process",
+      "uploading speed"
+    ]
+  },
+  {
+    "word": "Uploading",
+    "meaning": "The act of transferring data to a remote system",
+    "shortMeaning": "transferring data",
+    "example": "The application is currently uploading your photos.",
+    "example2": "Uploading large files may take some time.",
+    "example3": "Keep the connection stable while uploading.",
+    "Explanation": "Uploading refers to the active process of moving data from a local system to a remote one. It is a continuous action that requires a stable network link. During the uploading process, the system often shows a progress bar or indicator to keep the user informed. Efficient uploading is vital for web applications that depend on user-submitted content. Large data transfers require careful management to prevent timeouts or server-side bottlenecks. Once the action is finished, the files are typically confirmed as uploaded.",
+    "synonyms": [
+      "transferring",
+      "sending",
+      "posting"
+    ],
+    "antonyms": [
+      "downloading",
+      "receiving"
+    ],
+    "nounForm": "upload",
+    "verbForm": "upload",
+    "adjectiveForm": "uploading",
+    "partOfSpeech": "verb",
+    "commonContext": "Data management and user interfaces",
+    "usageTip": "Use it to describe the current state of a transfer.",
+    "commonMistake": "Ignoring the impact of uploading on bandwidth.",
+    "collocations": [
+      "is uploading",
+      "currently uploading",
+      "uploading process"
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "word": "Unauthorized",
+    "meaning": "Not having official permission or approval.",
+    "shortMeaning": "not approved",
+    "example": "Unauthorized access to the server is strictly prohibited.",
+    "example2": "The biography was published without his consent, making it an unauthorized account.",
+    "example3": "He made an unauthorized withdrawal from the company account.",
+    "Explanation": "Unauthorized means done without proper permission, license, or authority. It's a formal word often used in legal, security, and organizational contexts to describe actions that break rules or protocols. It carries a strong negative connotation, implying illegality, breach of trust, or security risk. An 'unauthorized biography' is one not approved by its subject. The prefix 'un-' means 'not', and 'authorized' means 'given authority'. It's the opposite of 'authorized' or 'approved'. It's a key term for setting boundaries and enforcing rules.",
+    "synonyms": [
+      "unapproved",
+      "unsanctioned",
+      "illegal",
+      "unofficial",
+      "unlicensed"
+    ],
+    "antonyms": [
+      "authorized",
+      "approved",
+      "sanctioned",
+      "official"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "authorize",
+    "adjectiveForm": "unauthorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, law, finance, publishing, access control",
+    "usageTip": "Often used before nouns like 'access', 'use', 'transaction', 'publication', or 'personnel'.",
+    "commonMistake": "Confusing it with 'unauthoritative', which means not reliable or not an authority on a subject.",
+    "collocations": [
+      "unauthorized access",
+      "unauthorized use",
+      "unauthorized person",
+      "unauthorized biography"
+    ]
+  },
+  {
+    "word": "Unauthorized",
+    "meaning": "Without official permission or approval.",
+    "shortMeaning": "no permission",
+    "example": "Unauthorized access is strictly prohibited.",
+    "example2": "The user made an unauthorized change to the settings.",
+    "example3": "Prevent unauthorized use of the system.",
+    "Explanation": "Unauthorized describes actions or access attempts that lack the required permission. This is one of the most critical terms in cybersecurity. Every professional system needs mechanisms to detect and block unauthorized requests. It implies a violation of policy or security protocols. An unauthorized person should never be able to view or modify sensitive data. It is widely used in error messages and system logs.",
+    "synonyms": [
+      "forbidden",
+      "banned",
+      "illegal"
+    ],
+    "antonyms": [
+      "authorized",
+      "permitted",
+      "approved"
+    ],
+    "nounForm": "authorization",
+    "verbForm": "authorize",
+    "adjectiveForm": "unauthorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, permissions, system administration",
+    "usageTip": "Use this when talking about security violations or blocked access.",
+    "commonMistake": "Confusing 'unauthorized' with 'unauthenticated'.",
+    "collocations": [
+      "unauthorized access",
+      "unauthorized user",
+      "unauthorized modification"
+    ]
+  },
+  {
+    "word": "Unauthorized",
+    "meaning": "Not having official permission or approval.",
+    "shortMeaning": "not allowed",
+    "example": "Unauthorized access to the server is strictly prohibited.",
+    "example2": "The system blocked an unauthorized attempt to change settings.",
+    "example3": "An unauthorized user cannot view these files.",
+    "Explanation": "The word 'unauthorized' is a standard term in IT security. It refers to any activity or user that does not have the necessary permissions. Protecting systems from 'unauthorized' access is one of the main jobs of a security professional. If you see this in an error message, it means the current user identity does not have the rights to perform the requested action. It is a very common term in access control lists and log files.",
+    "synonyms": [
+      "forbidden",
+      "illegal",
+      "prohibited"
+    ],
+    "antonyms": [
+      "authorized",
+      "permitted",
+      "allowed"
+    ],
+    "nounForm": "unauthorization",
+    "verbForm": "N/A",
+    "adjectiveForm": "unauthorized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and access control",
+    "usageTip": "Use 'unauthorized' to describe forbidden actions or users.",
+    "commonMistake": "Confusing 'unauthorized' with 'authenticated'.",
+    "collocations": [
+      "unauthorized access",
+      "unauthorized attempt",
+      "unauthorized user"
+    ]
+  }
+]

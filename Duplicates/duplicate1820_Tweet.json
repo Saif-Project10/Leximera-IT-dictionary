@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Tweet",
+    "meaning": "A short post or update shared on the social media platform X (formerly Twitter)",
+    "shortMeaning": "short social post",
+    "example": "The CEO sent out a tweet about the new product launch.",
+    "example2": "Her tweet went viral and was shared by thousands of people.",
+    "example3": "I use my phone to check my tweets every morning.",
+    "Explanation": "A 'tweet' is the primary unit of communication on the platform now known as X. Originally limited to 140 characters, and later 280, it is designed for brief, real-time updates. Tweets can contain text, images, videos, and links. They are used for everything from personal thoughts to breaking news and corporate announcements. Because they are short, they are easy to consume and share. The act of posting on the platform is also called 'tweeting.' Even though the platform rebranded, the term 'tweet' remains widely understood and used globally.",
+    "synonyms": [
+      "post",
+      "micro-blog",
+      "update"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tweet",
+    "verbForm": "tweet",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Social media and digital communication",
+    "usageTip": "Use 'tweet' when specifically talking about the X platform; use 'post' for other sites.",
+    "commonMistake": "Spelling it as 'tweat'.",
+    "collocations": [
+      "send a tweet",
+      "viral tweet",
+      "delete a tweet"
+    ]
+  },
+  {
+    "word": "Tweet",
+    "meaning": "A short digital message or post published online through the social network platform X, formerly known as Twitter",
+    "shortMeaning": "short social media post",
+    "example": "The tech company posted a quick tweet announcing their new frontend framework launch.",
+    "example2": "You can embed a popular tweet directly into your educational website contact layout page.",
+    "example3": "He likes to tweet about modern vanilla JavaScript coding techniques everyday.",
+    "Explanation": "The word 'tweet' originated as a casual term for the sound a small bird makes, but it transformed globally into a standard digital technology term. It functions as a noun for the social post itself and a verb meaning the action of publishing that post on the X platform. Tweets are well-known for their strict character length limitations, forcing users to communicate ideas with great clarity and conciseness. In IT, tracking public tweets via APIs is a common practice for real-time data analysis.",
+    "synonyms": [
+      "post",
+      "microblog entry",
+      "digital update"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "tweet",
+    "verbForm": "tweet",
+    "adjectiveForm": "tweeted",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Social media marketing updates, personal networking, and digital communication feeds",
+    "usageTip": "Use 'tweet' specifically when referencing posts on the X platform, rather than platforms like Facebook or LinkedIn.",
+    "commonMistake": "Capitalizing 'tweet' inside general sentences when it should be written in simple lowercase format.",
+    "collocations": [
+      "send a tweet",
+      "viral tweet",
+      "tweet about code"
+    ]
+  }
+]

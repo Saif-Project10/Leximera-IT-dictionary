@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Complex",
+    "meaning": "Consisting of many connected parts; intricate, complicated, or difficult to understand. | Consisting of many connected parts; complicated.",
+    "shortMeaning": "complicated",
+    "example": "The instructions for assembling the furniture were very complex.",
+    "example2": "Human emotions are a complex subject.",
+    "example3": "They live in a large apartment complex.",
+    "Explanation": "Complex describes something that is not simple, made up of numerous interrelated elements. It can refer to ideas, systems, buildings (a group of buildings), or situations. The word suggests that understanding or dealing with the thing requires effort. It is different from 'complicated,' which often has a more negative connotation of being unnecessarily difficult. The noun form can also mean a group of related buildings or a strong, often unconscious, feeling. A common mistake is overusing it for things that are just slightly difficult. Using 'complex' accurately helps convey the true nature of multifaceted subjects.",
+    "synonyms": [
+      "Complicated",
+      "Intricate",
+      "Involved",
+      "Multifaceted",
+      "Sophisticated"
+    ],
+    "antonyms": [
+      "Basic",
+      "Clear",
+      "Simple",
+      "Straightforward",
+      "Uncomplicated"
+    ],
+    "nounForm": "complex (e.g., building complex; inferiority complex)",
+    "verbForm": "N/A",
+    "adjectiveForm": "complex",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Science, technology, psychology, and describing difficult systems.",
+    "usageTip": "Use 'complex' to describe something with many connected parts, not just something hard.",
+    "commonMistake": "Using 'complex' and 'complicated' as exact synonyms; 'complex' is more neutral, 'complicated' often implies problematic difficulty.",
+    "collocations": [
+      "complex issue",
+      "complex system",
+      "sports complex"
+    ]
+  },
+  {
+    "word": "Complex",
+    "meaning": "Consisting of many different, connected parts that make it difficult to understand or analyze",
+    "shortMeaning": "complicated",
+    "example": "The microservices architecture is too complex for our small development team.",
+    "example2": "Building a complex database schema requires careful planning and documentation.",
+    "example3": "The logic behind this algorithm is quite complex, so we added comments to explain it.",
+    "Explanation": "The word 'Complex' describes something with many layers, dependencies, or pieces. In technology, this is usually a neutral term—sometimes you need complexity to handle difficult tasks. It is an adjective. However, too much complexity leads to bugs, security holes, and high maintenance costs. Good engineers strive to manage or reduce unnecessary complexity. Don't confuse it with 'complicated', which implies something is frustrating or broken; 'complex' just means it is multi-faceted.",
+    "synonyms": [
+      "intricate",
+      "layered",
+      "multi-part"
+    ],
+    "antonyms": [
+      "simple",
+      "basic",
+      "straightforward"
+    ],
+    "nounForm": "complexity",
+    "verbForm": "N/A",
+    "adjectiveForm": "complex",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture, algorithm design, business logic",
+    "usageTip": "Use 'complex' when describing something that is inherently multi-layered.",
+    "commonMistake": "Using 'complex' to describe a process that is just poorly written or messy.",
+    "collocations": [
+      "complex system",
+      "complex architecture",
+      "complex algorithm"
+    ]
+  }
+]

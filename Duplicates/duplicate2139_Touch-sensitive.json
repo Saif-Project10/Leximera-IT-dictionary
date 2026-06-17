@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Touch-sensitive",
+    "meaning": "Able to react to the lightest touch or pressure",
+    "shortMeaning": "sensitive to touch",
+    "example": "The keypad is touch-sensitive and very responsive.",
+    "example2": "The volume control is touch-sensitive.",
+    "example3": "He preferred a touch-sensitive trackpad.",
+    "Explanation": "The term 'touch-sensitive' describes hardware or buttons that register input based on touch or pressure, rather than requiring a physical click or mechanical movement. It is often used for volume sliders, trackpads, or control panels on household appliances. While similar to a touch-screen, it is often used for smaller controls rather than entire displays. It suggests a high level of sensitivity and responsiveness in the hardware design. It is a specific technical quality that users notice when interacting with physical devices.",
+    "synonyms": [
+      "responsive",
+      "sensitive"
+    ],
+    "antonyms": [
+      "unresponsive",
+      "mechanical"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "touch-sensitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, input devices, appliance design",
+    "usageTip": "Use this to praise responsive hardware buttons.",
+    "commonMistake": "Confusing 'touch-sensitive' with 'touch-screen'.",
+    "collocations": [
+      "touch-sensitive keypad",
+      "touch-sensitive control",
+      "highly touch-sensitive"
+    ]
+  },
+  {
+    "word": "Touch-sensitive",
+    "meaning": "Capable of detecting and responding to light touch",
+    "shortMeaning": "reactive to touch",
+    "example": "The keyboard features touch-sensitive controls.",
+    "example2": "The panel is touch-sensitive to allow for quick adjustments.",
+    "example3": "Our touch-sensitive pads track pressure and location.",
+    "Explanation": "The term 'touch-sensitive' refers to surfaces that detect physical contact or pressure. Unlike a standard click-based button, touch-sensitive inputs react to the presence of a finger, often using capacitive or resistive sensing technology. This is common in modern appliances, trackpads, and smart devices. It allows for sleek, buttonless designs that are easier to clean and aesthetically pleasing. In IT, this technology bridges the gap between hardware and software interaction.",
+    "synonyms": [
+      "responsive",
+      "capacitive",
+      "tactile"
+    ],
+    "antonyms": [
+      "insensitive",
+      "mechanical",
+      "static"
+    ],
+    "nounForm": "sensitivity",
+    "verbForm": "N/A",
+    "adjectiveForm": "touch-sensitive",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, electronics, sensors",
+    "usageTip": "Use to describe hardware that detects physical touch.",
+    "commonMistake": "Confusing 'touch-sensitive' with 'touch-screen'.",
+    "collocations": [
+      "touch-sensitive panel",
+      "touch-sensitive control",
+      "touch-sensitive surface"
+    ]
+  }
+]

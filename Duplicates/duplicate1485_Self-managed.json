@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Self-managed",
+    "meaning": "Managed or directed by oneself, without external control.",
+    "shortMeaning": "managing oneself",
+    "example": "The team is self-managed and decides its own workflow.",
+    "example2": "He is a self-managed investor who makes his own decisions.",
+    "example3": "The project uses a self-managed model where employees set their own goals.",
+    "Explanation": "'Self-managed' is a compound adjective describing a person, team, or system that operates with a high degree of autonomy. It implies responsibility, initiative, and internal discipline. In business, 'self-managed teams' are groups that plan, organize, and monitor their own work. In personal development, it refers to individuals who regulate their own behavior and time effectively. The word is positive, associated with empowerment, agility, and modern organizational theory. It contrasts with top-down, micromanaged approaches.",
+    "synonyms": [
+      "autonomous",
+      "self-directed",
+      "self-governing",
+      "independent"
+    ],
+    "antonyms": [
+      "micromanaged",
+      "controlled",
+      "directed",
+      "dependent"
+    ],
+    "nounForm": "self-management",
+    "verbForm": "self-manage",
+    "adjectiveForm": "self-managed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Team organization, personal productivity, investing",
+    "usageTip": "Often hyphenated. It's a key concept in agile and flat organizational structures.",
+    "commonMistake": "Thinking 'self-managed' means no rules; it means the group internally creates and follows its own rules.",
+    "collocations": [
+      "self-managed team",
+      "self-managed learning",
+      "self-managed super fund"
+    ]
+  },
+  {
+    "word": "Self-managed",
+    "meaning": "Able to handle its own operations and maintenance tasks",
+    "shortMeaning": "auto-managed",
+    "example": "The cloud database is self-managed and scales automatically.",
+    "example2": "We look for self-managed solutions to save admin time.",
+    "example3": "Self-managed services handle their own patches.",
+    "Explanation": "Self-managed describes a service or product that performs its own administrative tasks like backups, updates, and scaling. It is different from self-hosted because the vendor often still runs the service, but the system handles its own maintenance without needing you to click a button. This is highly popular in modern cloud services where efficiency is key. It allows developers to focus on building features rather than managing infrastructure. It is the hallmark of modern, high-level cloud architecture.",
+    "synonyms": [
+      "automated",
+      "autonomous",
+      "managed"
+    ],
+    "antonyms": [
+      "manually managed",
+      "operator-dependent"
+    ],
+    "nounForm": "management",
+    "verbForm": "manage",
+    "adjectiveForm": "self-managed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud services, database management",
+    "usageTip": "Use this to describe services that require very little human intervention.",
+    "commonMistake": "Confusing 'self-managed' with 'self-hosted'.",
+    "collocations": [
+      "self-managed database",
+      "self-managed service",
+      "self-managed solution"
+    ]
+  },
+  {
+    "word": "Self-managed",
+    "meaning": "Able to look after its own state or resources",
+    "shortMeaning": "autonomous",
+    "example": "The cluster is self-managed and handles load balancing.",
+    "example2": "Modern systems are becoming more self-managed.",
+    "example3": "He designed a self-managed queue for the message broker.",
+    "Explanation": "A 'self-managed' system has built-in logic that allows it to monitor and adjust itself without requiring constant human intervention. For instance, a self-managed database might automatically create backups, scale up during traffic spikes, or clean up dead processes. This improves efficiency and reliability. The goal is to reduce the burden on system administrators. While 'self-managed' systems are very helpful, they still require initial configuration and monitoring to ensure the automation is working as expected.",
+    "synonyms": [
+      "autonomous",
+      "automated",
+      "self-regulating"
+    ],
+    "antonyms": [
+      "manually-managed",
+      "human-controlled"
+    ],
+    "nounForm": "self-management",
+    "verbForm": "self-manage",
+    "adjectiveForm": "self-managed",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cloud computing, infrastructure, reliability",
+    "usageTip": "Use 'self-managed' to highlight autonomy.",
+    "commonMistake": "Assuming self-managed means 'maintenance-free'.",
+    "collocations": [
+      "self-managed system",
+      "self-managed service"
+    ]
+  }
+]

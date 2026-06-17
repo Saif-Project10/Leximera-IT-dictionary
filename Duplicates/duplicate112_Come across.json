@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Come across",
+    "meaning": "To find or encounter something or someone by chance.",
+    "shortMeaning": "find by chance",
+    "example": "I came across an old photo album while cleaning the attic.",
+    "example2": "You might come across some technical terms in this article.",
+    "example3": "She comes across as very confident in meetings.",
+    "Explanation": "'Come across' is a common phrasal verb with two main meanings. The first is to find or meet something/someone unexpectedly. The second is to make a particular impression on others (e.g., 'He comes across as friendly'). It is inseparable, meaning the object can come after 'across' or, if it's a pronoun, must come between 'come' and 'across' (e.g., 'I came across it'). It's a versatile phrase used in both casual and formal English to describe discoveries and perceptions.",
+    "synonyms": [
+      "encounter",
+      "find",
+      "stumble upon",
+      "seem"
+    ],
+    "antonyms": [
+      "avoid",
+      "miss",
+      "ignore"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "come across",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Everyday conversation, storytelling, describing impressions",
+    "usageTip": "For the 'find' meaning, it's often followed by the thing found. For the 'impression' meaning, it's followed by 'as'.",
+    "commonMistake": "Confusing it with 'come over', which means to visit.",
+    "collocations": [
+      "come across as",
+      "come across something",
+      "come across well/poorly"
+    ]
+  },
+  {
+    "word": "Come across",
+    "meaning": "To find or encounter something by chance",
+    "shortMeaning": "find unexpectedly",
+    "example": "I did come across an interesting bug while testing the beta version.",
+    "example2": "Users might come across this error if they use an outdated browser.",
+    "example3": "While searching for a solution, I did come across a very helpful tutorial.",
+    "Explanation": "In a professional IT context, 'come across' is used when describing unexpected discoveries. Whether it is a bug that wasn't found during QA, an interesting library while browsing GitHub, or a strange behavior in a production environment. It suggests a lack of active seeking—the item was found during the course of other work. It is a common way for developers to report new findings during team stand-up meetings.",
+    "synonyms": [
+      "encounter",
+      "stumble upon",
+      "find"
+    ],
+    "antonyms": [
+      "seek",
+      "search for",
+      "miss"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "come across",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Troubleshooting and general research",
+    "usageTip": "Use 'come across' when you want to report something you found by accident.",
+    "commonMistake": "Using 'come across' when you were specifically and actively searching for that exact thing.",
+    "collocations": [
+      "come across an error",
+      "come across a solution"
+    ]
+  }
+]

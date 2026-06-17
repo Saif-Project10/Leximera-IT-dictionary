@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Modify",
+    "meaning": "To make partial or minor changes to something in order to improve it or make it more suitable.",
+    "shortMeaning": "change, alter",
+    "example": "You can modify the settings to suit your needs.",
+    "example2": "The designer will modify the dress based on your measurements.",
+    "example3": "We need to modify our strategy to reach more customers.",
+    "Explanation": "'Modify' is a verb meaning to change something, but not completely. The changes are often improvements or adaptations. It is less extreme than 'transform'. In grammar, we modify sentences with adjectives and adverbs. The word is common in formal and technical writing, such as in engineering, computing, and law. The noun form is 'modification'. Remember, to modify something is to tweak it, not to create something entirely new from scratch.",
+    "synonyms": [
+      "alter",
+      "adjust",
+      "adapt",
+      "change"
+    ],
+    "antonyms": [
+      "preserve",
+      "keep",
+      "maintain"
+    ],
+    "nounForm": "modification",
+    "verbForm": "modify",
+    "adjectiveForm": "modifiable",
+    "partOfSpeech": "verb",
+    "commonContext": "Design, software, behavior, plans, grammar",
+    "usageTip": "Think of it as making tweaks or refinements rather than a complete overhaul.",
+    "commonMistake": "Confusing 'modify' with 'change' in general; 'modify' implies a specific, often smaller, adjustment.",
+    "collocations": [
+      "modify behavior",
+      "modify a plan",
+      "modify equipment",
+      "modify slightly"
+    ]
+  },
+  {
+    "word": "Modify",
+    "meaning": "To make small changes to something to improve it or adapt it to a purpose.",
+    "shortMeaning": "to change slightly",
+    "example": "You can modify the source code to add new features.",
+    "example2": "The user had to modify the settings for better performance.",
+    "example3": "Please modify the plan based on the client's feedback.",
+    "Explanation": "Modify means to alter something slightly without changing its fundamental nature. In programming, it is the most common verb for changing variables, functions, or database records. It implies a targeted and intentional adjustment. This word is used frequently in software documentation and user manuals. It is a neutral term for change.",
+    "synonyms": [
+      "alter",
+      "adjust",
+      "edit"
+    ],
+    "antonyms": [
+      "preserve",
+      "leave unchanged"
+    ],
+    "nounForm": "modification",
+    "verbForm": "modify",
+    "adjectiveForm": "modified",
+    "partOfSpeech": "verb",
+    "commonContext": "Programming, General usage",
+    "usageTip": "Use 'modify' for intentional and specific changes.",
+    "commonMistake": "Using 'modify' when you have completely rebuilt something.",
+    "collocations": [
+      "modify a file",
+      "modify settings",
+      "modify behavior"
+    ]
+  }
+]

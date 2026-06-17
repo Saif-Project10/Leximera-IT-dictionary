@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Rolling",
+    "meaning": "Moving by turning over and over; happening continuously",
+    "shortMeaning": "turning, continuous",
+    "example": "The ball is rolling down the hill.",
+    "example2": "The company has rolling admissions throughout the year.",
+    "example3": "Rolling blackouts affected the city.",
+    "Explanation": "'Rolling' is the present participle of 'roll'. As a verb, it describes circular motion. As an adjective, it describes something that is shaped like a roll (rolling hills) or, more importantly, something that happens continuously in a series (rolling deadlines, rolling news). This continuous sense is very common in business and media. It suggests something ongoing without a fixed single endpoint.",
+    "synonyms": [
+      "turning",
+      "ongoing",
+      "continuous"
+    ],
+    "antonyms": [
+      "stationary",
+      "fixed",
+      "intermittent"
+    ],
+    "nounForm": "roll",
+    "verbForm": "roll",
+    "adjectiveForm": "rolling",
+    "partOfSpeech": "verb (present participle), adjective",
+    "commonContext": "Motion, landscapes, business processes, media",
+    "usageTip": "Use 'rolling' as an adjective to describe systems or events that are continuously recurring.",
+    "commonMistake": "Confusing 'rolling' (continuous) with 'recurring' (happening repeatedly at intervals).",
+    "collocations": [
+      "rolling stone",
+      "rolling pin",
+      "rolling average"
+    ]
+  },
+  {
+    "word": "Rolling",
+    "meaning": "Continuing to move, happen, or be updated constantly",
+    "shortMeaning": "continuous",
+    "example": "We use a rolling release cycle for our software.",
+    "example2": "The rolling update happens every hour.",
+    "example3": "There is a rolling average of user logins.",
+    "Explanation": "The word 'rolling' refers to something that is continuous or ongoing, rather than happening at one fixed point in time. A 'rolling release' means software is updated frequently and gradually instead of in one big, risky update. A 'rolling average' is a calculation that changes as new data comes in. It implies constant motion, change, or updates. Use this word to describe processes that never really 'stop' but are always moving forward or updating themselves based on new info.",
+    "synonyms": [
+      "continuous",
+      "ongoing",
+      "constant"
+    ],
+    "antonyms": [
+      "static",
+      "fixed",
+      "one-time"
+    ],
+    "nounForm": "roll",
+    "verbForm": "roll",
+    "adjectiveForm": "rolling",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software updates, data statistics",
+    "usageTip": "Use to describe things that are always updating or moving.",
+    "commonMistake": "Thinking it only refers to the movement of wheels.",
+    "collocations": [
+      "rolling release",
+      "rolling update",
+      "rolling average"
+    ]
+  }
+]

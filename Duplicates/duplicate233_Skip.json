@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Skip",
+    "meaning": "To not do something that you usually do or that you should do; to move lightly by hopping.",
+    "shortMeaning": "omit, hop",
+    "example": "I'm going to skip lunch today.",
+    "example2": "He skipped the boring chapter in the book.",
+    "example3": "The children skipped across the playground.",
+    "Explanation": "'Skip' is a verb with two main meanings. Informally, it means to omit or miss something intentionally, like a meal or a task. Physically, it means to move with light, hopping steps. The first meaning is very common in casual conversation. It suggests a casual or optional omission. A common mistake is using it for serious, mandatory omissions; 'skip' often implies a choice. It is less formal than 'omit' or 'exclude'. Remember, you skip *over* something or skip it entirely.",
+    "synonyms": [
+      "omit",
+      "miss",
+      "hop"
+    ],
+    "antonyms": [
+      "attend",
+      "include",
+      "participate"
+    ],
+    "nounForm": "skip",
+    "verbForm": "skip",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Meals, tasks, parts of a book, physical movement",
+    "usageTip": "Use 'skip' for informal omissions or when you choose to not do something.",
+    "commonMistake": "Using 'skip' in formal writing. 'Omit' or 'exclude' are better for formal contexts.",
+    "collocations": [
+      "skip a meal",
+      "skip class",
+      "skip a beat"
+    ]
+  },
+  {
+    "word": "Skip",
+    "meaning": "To bypass a specific instruction line, data entry, test loop item, or processing phase during software execution",
+    "shortMeaning": "bypass an execution step",
+    "example": "You can add a 'continue' statement in your JavaScript loops to skip specific array items under clear conditions.",
+    "example2": "The test runner allows you to skip slow network tests when checking basic local script operations.",
+    "example3": "The migration engine will skip database tables that have already been updated to the latest schema version.",
+    "Explanation": "The word 'Skip' describes skipping steps or data elements during execution. Programmers use conditional statements (like 'continue' or 'break') to skip array rows that do not match specific criteria. Test suites also include options to skip unfinished tests, keeping automated deployment pipelines moving forward efficiently.",
+    "synonyms": [
+      "bypass",
+      "omit processing steps",
+      "overlook element"
+    ],
+    "antonyms": [
+      "process step",
+      "include",
+      "execute item"
+    ],
+    "nounForm": "skip",
+    "verbForm": "skip",
+    "adjectiveForm": "skippable",
+    "partOfSpeech": "verb",
+    "commonContext": "Loop logic conditions, automated testing configurations, and data migration paths",
+    "usageTip": "Use 'skip' to describe bypassing code blocks, loop steps, or test routines under specific criteria.",
+    "commonMistake": "Accidentally skipping critical validation checks in code loops, which can let incorrect data pass into a database.",
+    "collocations": [
+      "skip a loop step",
+      "skip tests",
+      "option to skip"
+    ]
+  }
+]

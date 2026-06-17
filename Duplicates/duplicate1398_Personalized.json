@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Personalized",
+    "meaning": "Designed or tailored to meet an individual's specific needs, tastes, or characteristics.",
+    "shortMeaning": "made for an individual",
+    "example": "She received a personalized letter with her name at the top.",
+    "example2": "The app offers a personalized news feed based on your interests.",
+    "example3": "He bought a personalized mug with his initials on it.",
+    "Explanation": "'Personalized' is an adjective that has become very common in marketing and technology. It means something has been customized for a particular person. This can be simple (adding a name) or complex (an algorithm tailoring content). It suggests a move away from one-size-fits-all to individual attention. It's related to, but stronger than, 'customized', as it implies a focus on the person.",
+    "synonyms": [
+      "customized, individualized, tailored, made-to-order, bespoke"
+    ],
+    "antonyms": [
+      "generic, standard, mass-produced, impersonal, one-size-fits-all"
+    ],
+    "nounForm": "personalization",
+    "verbForm": "personalize",
+    "adjectiveForm": "personalized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Marketing, gifts, software, services",
+    "usageTip": "Use 'personalized' when something is uniquely adapted for one person's details or preferences.",
+    "commonMistake": "Confusing it with 'personable', which means friendly and pleasant.",
+    "collocations": [
+      "personalized service",
+      "personalized learning",
+      "personalized gift"
+    ]
+  },
+  {
+    "word": "Personalized",
+    "meaning": "Adapted to the needs or interests of a particular person",
+    "shortMeaning": "tailored to you",
+    "example": "The website offers a personalized experience based on history.",
+    "example2": "We received personalized recommendations for software tools.",
+    "example3": "He set up a personalized dashboard in the app.",
+    "Explanation": "Something that is 'personalized' has been customized or designed to meet the preferences of a specific user. This is a massive trend in UX/UI and software development. By using machine learning or saved settings, a platform can provide a unique experience for every person. It makes technology feel more helpful and relevant. Always ensure that personalization does not cross into intrusive tracking. It is a key factor in improving user retention and engagement on modern digital platforms.",
+    "synonyms": [
+      "customized",
+      "tailored",
+      "individualized"
+    ],
+    "antonyms": [
+      "generic",
+      "standard",
+      "impersonal"
+    ],
+    "nounForm": "personalization",
+    "verbForm": "personalize",
+    "adjectiveForm": "personalized",
+    "partOfSpeech": "adjective",
+    "commonContext": "User Interface, Marketing, Software development",
+    "usageTip": "Use to describe features that change based on user input or behavior.",
+    "commonMistake": "Confusing 'personalized' (active) with 'personal' (passive).",
+    "collocations": [
+      "personalized experience",
+      "personalized recommendations",
+      "personalized settings"
+    ]
+  }
+]

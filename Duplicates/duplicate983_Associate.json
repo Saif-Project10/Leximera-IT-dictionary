@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Associate",
+    "meaning": "To connect someone or something in your mind; a partner or colleague in business.",
+    "shortMeaning": "connect; partner",
+    "example": "People often associate the color red with danger.",
+    "example2": "He is an associate professor at the university.",
+    "example3": "She works as an associate at a law firm.",
+    "Explanation": "'Associate' is a verb and a noun. As a verb, it means to link ideas, feelings, or people together mentally. As a noun, it often refers to a partner or colleague, especially one with a slightly junior or non-full status (associate director, research associate). In business, 'an associate' can be an employee. The word comes from Latin for 'to join'. It's a very common word in professional titles and for describing mental connections.",
+    "synonyms": [
+      "connect",
+      "link",
+      "colleague"
+    ],
+    "antonyms": [
+      "dissociate",
+      "separate",
+      "disconnect"
+    ],
+    "nounForm": "association, associate",
+    "verbForm": "associate",
+    "adjectiveForm": "associated",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Psychology, business, academia, ideas",
+    "usageTip": "As a verb, use 'associate with' (e.g., 'I associate summer with vacation'). As a noun, it's often a job title.",
+    "commonMistake": "Confusing the verb pronunciation (uh-SOH-shee-ate) with the noun/adjective pronunciation (uh-SOH-shee-it).",
+    "collocations": [
+      "associate degree",
+      "close associate",
+      "associate member"
+    ]
+  },
+  {
+    "word": "Associate",
+    "meaning": "To connect one thing with another in your mind or in a system",
+    "shortMeaning": "link or connect",
+    "example": "Many people associate the color blue with the internet.",
+    "example2": "In this database, we will associate each order with a customer ID.",
+    "example3": "You can associate your phone number with your email account for extra security.",
+    "Explanation": "To 'associate' means to form a link between two things. In databases and coding, it means connecting two pieces of data so that when you find one, you can find the other (like connecting a username to a profile picture). In general language, it means thinking of two things together. For example, you might associate a specific brand with high quality. It is a very flexible word used in psychology, marketing, and computer science. It implies a relationship between two separate items.",
+    "synonyms": [
+      "link",
+      "connect",
+      "relate"
+    ],
+    "antonyms": [
+      "dissociate",
+      "disconnect",
+      "separate"
+    ],
+    "nounForm": "association",
+    "verbForm": "associate",
+    "adjectiveForm": "associative",
+    "partOfSpeech": "verb",
+    "commonContext": "Database relationships, branding, mental connections",
+    "usageTip": "Use 'associate' when explaining how two different ideas or pieces of data are related.",
+    "commonMistake": "Confusing 'associate' with 'attach'; association is a logical link, while attachment is often physical or a direct file addition.",
+    "collocations": [
+      "closely associate",
+      "associate with a file",
+      "logical association"
+    ]
+  }
+]

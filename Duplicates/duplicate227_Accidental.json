@@ -1,0 +1,69 @@
+[
+  {
+    "word": "Accidental",
+    "meaning": "Happening by chance or without intention; not planned",
+    "shortMeaning": "unintentional",
+    "example": "The fire was accidental, not arson.",
+    "example2": "She made an accidental discovery that changed the project.",
+    "example3": "Our meeting was completely accidental.",
+    "Explanation": "Accidental is the adjective form of 'accident'. It describes something that happens without being designed or intended. It is a neutral descriptor; the outcome can be bad (an accidental injury), good (an accidental discovery), or neutral. In music, an 'accidental' is a note that is not part of the key signature. The adverb is 'accidentally'. It's a very common word used to clarify that an action was not deliberate, which can be important for assigning blame or understanding causes. It's more formal than 'by chance' but very widely used.",
+    "synonyms": [
+      "unintentional",
+      "unplanned",
+      "chance",
+      "fortuitous",
+      "inadvertent"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "planned",
+      "designed"
+    ],
+    "nounForm": "accident",
+    "verbForm": "N/A",
+    "adjectiveForm": "accidental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Describing causes, discoveries, meetings, mistakes",
+    "usageTip": "Place it before a noun: 'accidental damage', 'an accidental hero'.",
+    "commonMistake": "Confusing 'accidental' (unintended) with 'incidental' (secondary or minor).",
+    "collocations": [
+      "accidental death",
+      "purely accidental",
+      "accidental discovery"
+    ]
+  },
+  {
+    "word": "Accidental",
+    "meaning": "Happening by chance, unintentionally, or unexpectedly",
+    "shortMeaning": "unintentional or by chance",
+    "example": "The database admin set up strict rules to prevent the accidental deletion of user data.",
+    "example2": "An accidental click on a malicious link caused the ransomware infection.",
+    "example3": "The developer fixed an accidental infinite loop in the script.",
+    "Explanation": "The word 'accidental' describes events or actions that were not planned or done on purpose. In computing, accidental errors are common, ranging from code typos to mistaken commands that wipe cloud instances. Mitigating accidental risks is a primary goal of software testing, UX safety prompts (like 'Are you sure you want to delete this?'), and system backups. It highlights a complete absence of intent behind an outcome.",
+    "synonyms": [
+      "unintentional",
+      "inadvertent",
+      "chance",
+      "unplanned"
+    ],
+    "antonyms": [
+      "intentional",
+      "deliberate",
+      "planned",
+      "purposeful"
+    ],
+    "nounForm": "accident",
+    "verbForm": "N/A",
+    "adjectiveForm": "accidental",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security incidents, user errors, software bug discovery",
+    "usageTip": "Use 'accidental' to emphasize that an event took place without any human intention or malice behind it.",
+    "commonMistake": "Using 'accidental' when you mean 'incidental'; incidental means minor or secondary, whereas accidental means unintended.",
+    "collocations": [
+      "accidental deletion",
+      "accidental discovery",
+      "accidental click"
+    ]
+  }
+]

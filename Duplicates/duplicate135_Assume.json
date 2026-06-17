@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Assume",
+    "meaning": "To accept something as true without proof; to take on a role or responsibility.",
+    "shortMeaning": "suppose, take on",
+    "example": "I assume you will be at the meeting tomorrow.",
+    "example2": "She assumed control of the company after her father retired.",
+    "example3": "We should not assume everyone has internet access.",
+    "Explanation": "'Assume' is a verb with two main uses. First, it means to believe something is true based on probability, not confirmation. Second, it means to begin a role, duty, or identity. It is a common word in both casual and formal English. A key mistake is confusing it with 'presume', which is stronger and based on evidence. When you assume, you might be wrong. It's often used in instructions or arguments to state a starting point. The noun form is 'assumption'.",
+    "synonyms": [
+      "presume",
+      "suppose",
+      "take on"
+    ],
+    "antonyms": [
+      "conclude",
+      "prove",
+      "abdicate"
+    ],
+    "nounForm": "assumption",
+    "verbForm": "assume",
+    "adjectiveForm": "assumed",
+    "partOfSpeech": "verb",
+    "commonContext": "Beliefs, theories, roles, responsibilities",
+    "usageTip": "Often used to start a sentence when making a guess: 'I assume that...' or 'Assuming that...'.",
+    "commonMistake": "Confusing 'assume' with 'presume'. 'Presume' implies more confidence or evidence.",
+    "collocations": [
+      "assume responsibility",
+      "assume control",
+      "safely assume"
+    ]
+  },
+  {
+    "word": "Assume",
+    "meaning": "To believe something is true without having proof, or to take on a role",
+    "shortMeaning": "suppose or take on",
+    "example": "Never assume the user has a fast internet connection.",
+    "example2": "I assume you have already backed up your data.",
+    "example3": "The vice president will assume the role of president next month.",
+    "Explanation": "To 'assume' is a very common word with two meanings. The most frequent is to take something as a fact even if you aren't sure. In IT, this is dangerous; if you assume a piece of code works without testing it, it might fail. The second meaning is to 'take on' a responsibility or a position. For example, a server might 'assume' the master role if the primary server fails. In logic and math, you 'assume' a starting point to see where the logic leads.",
+    "synonyms": [
+      "suppose",
+      "presume",
+      "take on"
+    ],
+    "antonyms": [
+      "prove",
+      "know",
+      "relinquish"
+    ],
+    "nounForm": "assumption",
+    "verbForm": "assume",
+    "adjectiveForm": "assumptive",
+    "partOfSpeech": "verb",
+    "commonContext": "Everyday communication, logic, leadership",
+    "usageTip": "In coding, use 'if' statements to check facts instead of assuming they are true.",
+    "commonMistake": "Using 'assume' when you have actual proof; if you have proof, use 'know' or 'confirm'.",
+    "collocations": [
+      "assume responsibility",
+      "safe to assume",
+      "assume the worst"
+    ]
+  }
+]

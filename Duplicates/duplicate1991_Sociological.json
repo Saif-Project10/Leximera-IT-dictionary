@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Sociological",
+    "meaning": "Relating to the study of society and how people interact",
+    "shortMeaning": "related to society",
+    "example": "There are sociological factors behind this technology adoption.",
+    "example2": "The team analyzed the sociological impact of the app.",
+    "example3": "Sociological trends influence our interface design.",
+    "Explanation": "The term 'sociological' relates to sociology, the study of human society, relationships, and institutions. In IT, we consider sociological impacts to see how technology changes communities, jobs, or social dynamics. For example, how does a new remote work tool change how people interact with their coworkers? Understanding these factors is important for large-scale systems that affect thousands of people. It provides the bigger picture, moving from 'does it work?' to 'how does it change society?'.",
+    "synonyms": [
+      "societal",
+      "social",
+      "cultural"
+    ],
+    "antonyms": [
+      "individualistic",
+      "personal"
+    ],
+    "nounForm": "sociology",
+    "verbForm": "N/A",
+    "adjectiveForm": "sociological",
+    "partOfSpeech": "adjective",
+    "commonContext": "HCI, ethics, large-scale systems",
+    "usageTip": "Use this to describe the impact of tech on groups of people.",
+    "commonMistake": "Confusing it with 'psychological' (psychology is individual; sociology is group).",
+    "collocations": [
+      "sociological impact",
+      "sociological factors"
+    ]
+  },
+  {
+    "word": "Sociological",
+    "meaning": "Related to the study of the development, structure, and functioning of human society",
+    "shortMeaning": "related to sociology",
+    "example": "The team conducted a sociological study of internet users.",
+    "example2": "There is a sociological impact to these new regulations.",
+    "example3": "We analyzed the sociological patterns of the online forum.",
+    "Explanation": "Sociological refers to anything dealing with sociology, the study of how people interact in groups and societies. In the IT context, it is used when analyzing how digital tools influence cultural habits and community structures. It helps in understanding why certain digital trends emerge or fail. It is a broad term used for high-level analysis of user communities. It emphasizes societal patterns over individual behavior.",
+    "synonyms": [
+      "social",
+      "cultural",
+      "community-focused"
+    ],
+    "antonyms": [
+      "individual",
+      "private",
+      "isolated"
+    ],
+    "nounForm": "sociology",
+    "verbForm": "N/A",
+    "adjectiveForm": "sociological",
+    "partOfSpeech": "adjective",
+    "commonContext": "Research, community management, ethics",
+    "usageTip": "Use when discussing the impact of tech on society.",
+    "commonMistake": "Using 'sociological' when 'psychological' is more appropriate.",
+    "collocations": [
+      "sociological study",
+      "sociological impact"
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "word": "Put",
+    "meaning": "To move or place something in a particular position.",
+    "shortMeaning": "place",
+    "example": "Put the keys on the table.",
+    "example2": "She put a lot of effort into her work.",
+    "example3": "I put my trust in you.",
+    "Explanation": "'Put' is an extremely common and irregular verb (put, put, put) meaning to move something to a specific location or state. It's one of the most versatile verbs, used in countless phrasal verbs and expressions: put on (wear), put off (postpone), put up with (tolerate), put out (extinguish). It can be used literally (place an object) or figuratively (express an idea, invest effort). Its simplicity and breadth make it fundamental. Mastering its many phrasal verb combinations is key to fluent English.",
+    "synonyms": [
+      "place",
+      "set",
+      "lay",
+      "position",
+      "express"
+    ],
+    "antonyms": [
+      "remove",
+      "take away"
+    ],
+    "nounForm": "put (as in a throw in sports)",
+    "verbForm": "put",
+    "adjectiveForm": "put",
+    "partOfSpeech": "verb",
+    "commonContext": "Physical placement, effort, expression, phrasal verbs",
+    "usageTip": "It's often followed by a preposition or adverb to change its meaning (put down, put back).",
+    "commonMistake": "Confusing 'put' with 'place'. 'Put' is more common and casual; 'place' is more formal and precise.",
+    "collocations": [
+      "put it on",
+      "put away",
+      "put together",
+      "put forward"
+    ]
+  },
+  {
+    "word": "Put",
+    "meaning": "To place, set, or position something.",
+    "shortMeaning": "place or set",
+    "example": "Put the configuration file in the main directory.",
+    "example2": "We put the data into a temporary storage bucket.",
+    "example3": "He put the server into maintenance mode.",
+    "Explanation": "'Put' is one of the most common and versatile verbs in English. In IT, it is used frequently in technical instructions. You 'put' files in folders, you 'put' systems in specific modes, and you 'put' data into databases. While there are more technical verbs (like 'deploy', 'upload', 'configure'), 'put' is perfectly fine for clear, simple communication. It is straightforward and leaves little room for misunderstanding.",
+    "synonyms": [
+      "place",
+      "set",
+      "position"
+    ],
+    "antonyms": [
+      "remove",
+      "take",
+      "extract"
+    ],
+    "nounForm": "put",
+    "verbForm": "put",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Instructions, tasks, commands",
+    "usageTip": "Use for simple, clear instructions where technical jargon is unnecessary.",
+    "commonMistake": "Overcomplicating instructions by avoiding simple words like 'put'.",
+    "collocations": [
+      "put into",
+      "put in",
+      "put on"
+    ]
+  },
+  {
+    "word": "Put",
+    "meaning": "An HTTP method used in web development to upload a payload that completely replaces an existing resource or creates it if it does not exist",
+    "shortMeaning": "HTTP replace method",
+    "example": "To update a user's entire profile information, you should send a PUT request to the API.",
+    "example2": "The developer configured the router to handle GET, POST, and PUT operations.",
+    "example3": "A PUT request must be idempotent, meaning multiple identical requests produce the same result.",
+    "Explanation": "While 'put' is an everyday English verb, it takes on a highly specific and strict meaning within RESTful API design and web protocol specifications. Written in all capitals as 'PUT', it represents an HTTP request method. When a frontend application sends a PUT request to a backend server, it attaches a complete data payload intended to replace the target resource at that exact URL. If the resource already exists, PUT overwrites it entirely with the incoming dataset. A vital rule of PUT is idempotency: if you run the exact same PUT request ten times in a row, the state of the server remains identical to running it once, making it predictable for data synchronization tasks.",
+    "synonyms": [
+      "replace resource",
+      "overwrite",
+      "update entirely"
+    ],
+    "antonyms": [
+      "DELETE",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "PUT request",
+    "verbForm": "put",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "RESTful API development, HTTP protocol standards, backend routing",
+    "usageTip": "Use PUT when you intend to replace an entire resource completely. If you only want to modify a single field, use PATCH instead.",
+    "commonMistake": "Confusing PUT with PATCH. PUT replaces the whole object; sending partial data with PUT can accidentally wipe out omitted fields.",
+    "collocations": [
+      "PUT request",
+      "send a PUT",
+      "handle PUT methods"
+    ]
+  }
+]

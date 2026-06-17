@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Searchable",
+    "meaning": "Able to be easily found via a search function",
+    "shortMeaning": "findable",
+    "example": "Make sure all your logs are searchable.",
+    "example2": "The database is fully searchable by ID.",
+    "example3": "Searchable archives are necessary for compliance.",
+    "Explanation": "The word 'searchable' describes data or content that has been indexed or organized in a way that allows users to find specific information quickly using a search tool. In IT, making data 'searchable' is a major part of database design and documentation. If something is not searchable, it is often considered 'lost' or inaccessible. The noun form is 'searchability'. It is a key requirement for modern, large-scale systems and user-facing platforms.",
+    "synonyms": [
+      "findable",
+      "indexable",
+      "accessible"
+    ],
+    "antonyms": [
+      "hidden",
+      "unsearchable",
+      "inaccessible"
+    ],
+    "nounForm": "searchability",
+    "verbForm": "N/A",
+    "adjectiveForm": "searchable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data management, documentation, web design",
+    "usageTip": "Use 'searchable' when talking about content that can be found via query.",
+    "commonMistake": "Assuming large datasets are automatically searchable; they need indexing.",
+    "collocations": [
+      "searchable database",
+      "easily searchable",
+      "searchable logs"
+    ]
+  },
+  {
+    "word": "Searchable",
+    "meaning": "Able to be easily searched through for information",
+    "shortMeaning": "easy to search",
+    "example": "The documentation needs to be fully searchable.",
+    "example2": "We have made all historical logs searchable for audit purposes.",
+    "example3": "A searchable database is essential for efficiency.",
+    "Explanation": "Being searchable means that a system has an index or mechanism allowing users to find specific data quickly. In large-scale IT projects, making data searchable is a priority, as unorganized data is often unusable. Efficient search functionality requires proper tagging, indexing, and often high-performance database queries. If a system is not searchable, it becomes a storage burden rather than a useful knowledge base. Providing a search feature is a fundamental requirement for most modern user interfaces.",
+    "synonyms": [
+      "indexed",
+      "navigable",
+      "retrievable"
+    ],
+    "antonyms": [
+      "unorganized",
+      "inaccessible"
+    ],
+    "nounForm": "searchability",
+    "verbForm": "N/A",
+    "adjectiveForm": "searchable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Databases, documentation, UX",
+    "usageTip": "Use when describing data access features.",
+    "commonMistake": "Assuming all data is searchable without planning an index.",
+    "collocations": [
+      "fully searchable",
+      "searchable database",
+      "easily searchable"
+    ]
+  }
+]

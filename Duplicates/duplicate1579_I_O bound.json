@@ -1,0 +1,61 @@
+[
+  {
+    "word": "I/O bound",
+    "meaning": "A condition where the speed of a computer system is limited by the time it takes to perform input/output operations.",
+    "shortMeaning": "Limited by data transfer speed",
+    "example": "The database query is I/O bound because it has to read millions of rows from the hard drive.",
+    "example2": "Upgrading the SSD fixed the I/O bound performance issues of the server.",
+    "example3": "A program that downloads many small files is typically I/O bound.",
+    "Explanation": "I/O bound (Input/Output bound) occurs when the time taken to complete a task is determined mainly by the speed of the storage or network rather than the speed of the processor (CPU). For example, if a program is waiting for a slow hard drive to load data or a slow internet connection to download a file, the CPU stays idle. In this state, buying a faster CPU won't help; you need faster disks or better network bandwidth. This is very common in web servers and database management systems. Identifying if a system is I/O bound is a primary step in performance tuning and IT troubleshooting.",
+    "synonyms": [
+      "Input/Output limited",
+      "Disk bound",
+      "Network bound"
+    ],
+    "antonyms": [
+      "CPU bound",
+      "Compute bound"
+    ],
+    "nounForm": "I/O boundness",
+    "verbForm": "N/A",
+    "adjectiveForm": "I/O-bound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software performance, system administration, and hardware optimization",
+    "usageTip": "Use 'I/O bound' to explain why a computer is slow despite having a fast processor.",
+    "commonMistake": "Thinking a computer is always 'slow' because of the CPU; often it is actually I/O bound.",
+    "collocations": [
+      "I/O bound application",
+      "I/O bound task",
+      "I/O bound bottleneck"
+    ]
+  },
+  {
+    "word": "I/O bound",
+    "meaning": "A system or process limited by the speed of input/output operations",
+    "shortMeaning": "Waiting for I/O",
+    "example": "The application is I/O bound because of the slow database.",
+    "example2": "I/O bound tasks spend more time waiting than computing.",
+    "example3": "Upgrade the disk if the process is I/O bound.",
+    "Explanation": "An 'I/O bound' process is one where performance is limited by the time taken to read or write data, rather than by the CPU's processing speed. This is a crucial concept for performance tuning and choosing appropriate hardware. It is an adjective. If a task is I/O bound, adding more CPU power will not improve speed; instead, faster disks or networks are required. It is very common in server logs.",
+    "synonyms": [
+      "disk-bound",
+      "throughput-limited"
+    ],
+    "antonyms": [
+      "CPU-bound",
+      "processor-bound"
+    ],
+    "nounForm": "I/O",
+    "verbForm": "N/A",
+    "adjectiveForm": "I/O-bound",
+    "partOfSpeech": "adjective",
+    "commonContext": "Performance tuning, system architecture",
+    "usageTip": "Use when identifying why a system is slow.",
+    "commonMistake": "Trying to solve I/O bound problems with better CPUs.",
+    "collocations": [
+      "I/O bound process",
+      "I/O bound task",
+      "heavily I/O bound"
+    ]
+  }
+]

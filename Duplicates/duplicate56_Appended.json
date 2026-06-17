@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Appended",
+    "meaning": "Added or attached to the end of a document, message, or other item",
+    "shortMeaning": "added to the end",
+    "example": "The contract had several clauses appended to it.",
+    "example2": "I appended my signature to the letter.",
+    "example3": "The data was appended to the existing file.",
+    "Explanation": "'Appended' is the past tense of 'append', meaning to attach or add something, especially to the end of a written document or data structure. In computing, you append data to a file. In formal writing, you append supplementary material. It suggests the addition is secondary or supplementary, not part of the main body. The noun form is 'appendix' (plural: appendices). This word is more specific than 'added'—it specifically means added to the end.",
+    "synonyms": [
+      "attached",
+      "added",
+      "annexed",
+      "tacked on"
+    ],
+    "antonyms": [
+      "detached",
+      "removed",
+      "prepended"
+    ],
+    "nounForm": "appendix",
+    "verbForm": "append",
+    "adjectiveForm": "appended",
+    "partOfSpeech": "adjective / verb (past tense)",
+    "commonContext": "Document preparation, programming, formal reports, emails with attachments",
+    "usageTip": "Common in technical and formal writing. In emails, 'please find appended' means attached to this message.",
+    "commonMistake": "Using 'appended' when you mean 'prepended' (added to the beginning).",
+    "collocations": [
+      "appended to the document",
+      "appended file",
+      "appended note",
+      "appended below"
+    ]
+  },
+  {
+    "word": "Appended",
+    "meaning": "Added as a supplement, attachment, or extra data at the end of a document or file",
+    "shortMeaning": "Added to the end",
+    "example": "The system automatically appended a timestamp to every error log entry.",
+    "example2": "The user appended a detailed signature to the end of the email.",
+    "example3": "New data rows were appended to the existing database table.",
+    "Explanation": "The word 'appended' is the past tense or past participle of the verb 'append'. In programming and data management, appending means adding new information specifically to the *end* of an existing file, string, or database table without changing what is already there. This is different from 'prepending', which means adding data to the beginning. The noun form is 'appendix' or 'appendage'. It is a precise and crucial term in backend programming and data manipulation.",
+    "synonyms": [
+      "added",
+      "attached",
+      "affixed"
+    ],
+    "antonyms": [
+      "removed",
+      "deleted",
+      "prepended"
+    ],
+    "nounForm": "appendix",
+    "verbForm": "append",
+    "adjectiveForm": "appended",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data programming, file operations, database management",
+    "usageTip": "Use 'appended' exclusively when data or text is attached directly to the bottom or end of something.",
+    "commonMistake": "Using 'appended' generally for any addition, even when data is inserted in the middle or beginning.",
+    "collocations": [
+      "appended data",
+      "appended file",
+      "automatically appended"
+    ]
+  }
+]

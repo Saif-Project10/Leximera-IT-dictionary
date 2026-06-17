@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Sandbox",
+    "meaning": "A testing environment that isolates untested code changes from the production environment.",
+    "shortMeaning": "isolated test environment",
+    "example": "Developers can play with new configurations in the sandbox without risk.",
+    "example2": "The security software runs in a sandbox to prevent harm to the system.",
+    "example3": "We set up a sandbox to test the new payment gateway.",
+    "Explanation": "The noun 'sandbox' is a metaphor from a child's sandbox—a safe, contained area to play in. In computing, it is an isolated environment where software can be run without affecting the system or network. It is used for testing, security, and development. A common mistake is not having a sandbox and testing directly on production systems. Sandboxes are essential for safe experimentation, training, and quality assurance. They allow developers and testers to 'break things' without real consequences. It's a standard concept in IT and cybersecurity.",
+    "synonyms": [
+      "test environment",
+      "playground",
+      "isolated environment"
+    ],
+    "antonyms": [
+      "production environment",
+      "live environment",
+      "N/A"
+    ],
+    "nounForm": "sandbox",
+    "verbForm": "sandbox",
+    "adjectiveForm": "sandboxed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Software testing, cybersecurity, web development",
+    "usageTip": "Often used as an adjective: 'sandbox environment', 'sandbox mode'.",
+    "commonMistake": "Thinking a sandbox is only for security. It's also a crucial development and testing tool.",
+    "collocations": [
+      "development sandbox",
+      "security sandbox",
+      "play in the sandbox"
+    ]
+  },
+  {
+    "word": "Sandbox",
+    "meaning": "An isolated, safe environment used to run untested code or dangerous programs without hurting the main system",
+    "shortMeaning": "isolated testing environment",
+    "example": "You should run that suspicious email file inside a secure sandbox first.",
+    "example2": "The payment gateway provides a sandbox where developers can simulate test transactions.",
+    "example3": "Modern web browsers isolate each website tab inside its own software sandbox.",
+    "Explanation": "The word 'Sandbox' refers to a highly critical concept in software development and cybersecurity. It is a completely isolated testing environment configured to mimic a real production system. If a piece of code crashes or turns out to contain malicious malware, the damage is restricted entirely inside the sandbox, leaving the outside computer completely safe. Payment companies use sandboxes so programmers can test payment workflows safely without moving real money. It encourages experimentation by eliminating the risk of system-wide damage.",
+    "synonyms": [
+      "isolated environment",
+      "testing ground",
+      "virtual container"
+    ],
+    "antonyms": [
+      "production system",
+      "live environment",
+      "N/A"
+    ],
+    "nounForm": "sandbox",
+    "verbForm": "sandbox",
+    "adjectiveForm": "sandboxed",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Malware analysis, payment API integration, testing software applications",
+    "usageTip": "Use 'sandbox' to describe a digital testing zone where actions have zero risk of harming live databases.",
+    "commonMistake": "Capitalizing 'sandbox' unless it is part of a specific brand name like the Google Sandbox tool.",
+    "collocations": [
+      "developer sandbox",
+      "test in a sandbox",
+      "sandbox environment"
+    ]
+  }
+]

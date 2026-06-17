@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Special",
+    "meaning": "Better, greater, or different from what is usual",
+    "shortMeaning": "unique or exceptional",
+    "example": "This is a special edition of the software.",
+    "example2": "He has a special talent for solving technical problems.",
+    "example3": "We need special permissions to access this database.",
+    "Explanation": "The word 'special' describes something that is not ordinary; it is unique, exceptional, or designed for a specific purpose. It is a broad word used in many different contexts. In IT, a 'special character' is one that is not a letter or number, like a symbol. 'Special access' means elevated or restricted rights. Because the word is so broad, try to use more descriptive words (like 'custom,' 'unique,' or 'restricted') when possible to be more precise in your technical writing.",
+    "synonyms": [
+      "unique",
+      "exceptional",
+      "custom"
+    ],
+    "antonyms": [
+      "ordinary",
+      "common",
+      "normal"
+    ],
+    "nounForm": "specialty",
+    "verbForm": "N/A",
+    "adjectiveForm": "special",
+    "partOfSpeech": "adjective",
+    "commonContext": "General usage, permissions, symbols",
+    "usageTip": "Use 'special' for things that are unique, but use more precise words for technical tasks.",
+    "commonMistake": "Using 'special' when 'specific' (precise) is actually meant.",
+    "collocations": [
+      "special character",
+      "special permissions",
+      "special edition"
+    ]
+  },
+  {
+    "word": "Special",
+    "meaning": "Better, different, or more important than what is usual.",
+    "shortMeaning": "distinct or unique",
+    "example": "This special function is only for administrators.",
+    "example2": "We have a special build for the testing environment.",
+    "example3": "Handle this file with special care.",
+    "Explanation": "The word 'special' is a general adjective meaning 'not ordinary'. In IT, it describes features, configurations, or permissions that are distinct or set apart from the default. While useful, it is a bit vague, so it is often better to be more specific (e.g., 'custom' or 'privileged'). The noun form is 'specialty' or 'specialness'. It is one of the most common words in English. Always consider if there is a more technical word (like 'custom' or 'restricted') that might be clearer than 'special'.",
+    "synonyms": [
+      "unique",
+      "distinct",
+      "custom"
+    ],
+    "antonyms": [
+      "general",
+      "ordinary",
+      "standard"
+    ],
+    "nounForm": "specialty",
+    "verbForm": "N/A",
+    "adjectiveForm": "special",
+    "partOfSpeech": "adjective",
+    "commonContext": "General usage, configuration, permissions",
+    "usageTip": "Use 'special' sparingly; prefer 'custom' or 'privileged' for accuracy.",
+    "commonMistake": "Overusing 'special' when a more precise technical word exists.",
+    "collocations": [
+      "special characters",
+      "special request",
+      "special build"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Primary",
+    "meaning": "Most important; first in order or stage.",
+    "shortMeaning": "most important; first",
+    "example": "Our primary goal is customer satisfaction.",
+    "example2": "Children attend primary school before secondary school.",
+    "example3": "Red, blue, and yellow are primary colors.",
+    "Explanation": "Primary means foremost in importance, order, or development. It can refer to the main goal (primary objective), the first stage (primary education), or fundamental elements (primary colors/sources). In elections, a 'primary' is a preliminary contest to choose candidates. It implies a hierarchy or sequence where the primary thing is the foundation or the most critical. It's a common adjective in academic, business, and everyday contexts to distinguish the main thing from secondary or supporting things. It's a synonym for 'main' but often more formal.",
+    "synonyms": [
+      "main",
+      "principal",
+      "chief",
+      "first",
+      "fundamental"
+    ],
+    "antonyms": [
+      "secondary",
+      "minor",
+      "subsidiary",
+      "last"
+    ],
+    "nounForm": "primary",
+    "verbForm": "N/A",
+    "adjectiveForm": "primary",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Education, elections, objectives, colors, research",
+    "usageTip": "As an adjective, it usually comes before the noun it describes (primary source, primary reason).",
+    "commonMistake": "Confusing 'primary' with 'primarily'. 'Primary' is an adjective; 'primarily' is an adverb meaning 'mainly'.",
+    "collocations": [
+      "primary school",
+      "primary care",
+      "primary source",
+      "primary election"
+    ]
+  },
+  {
+    "word": "Primary",
+    "meaning": "Main, most important, or first in order",
+    "shortMeaning": "main",
+    "example": "The primary goal of this project is to fix the latency.",
+    "example2": "He is the primary contact for system outages.",
+    "example3": "The primary key identifies each row in the database.",
+    "Explanation": "The word 'primary' defines something as being the most important or fundamental. In database design, a 'primary key' is the unique identifier for a record. In system architecture, a 'primary' server is the main one that handles requests, as opposed to a 'backup' or 'secondary' server. Understanding what is 'primary' allows you to prioritize tasks and resources effectively. It helps eliminate confusion by clearly stating the main priority, person, or technical component in any given context.",
+    "synonyms": [
+      "main",
+      "principal",
+      "chief"
+    ],
+    "antonyms": [
+      "secondary",
+      "minor",
+      "supplementary"
+    ],
+    "nounForm": "primary",
+    "verbForm": "N/A",
+    "adjectiveForm": "primary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database design, Project management, Architecture",
+    "usageTip": "Use when identifying the most important item or task.",
+    "commonMistake": "Confusing 'primary' with 'first' (they are related but primary emphasizes importance).",
+    "collocations": [
+      "primary goal",
+      "primary key",
+      "primary server"
+    ]
+  }
+]

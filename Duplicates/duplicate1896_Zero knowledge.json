@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Zero knowledge",
+    "meaning": "A situation where a system proves it knows something without sharing the actual information",
+    "shortMeaning": "proof without disclosure",
+    "example": "The login system uses zero knowledge to verify my password.",
+    "example2": "Zero knowledge protocols are the future of online privacy.",
+    "example3": "I have zero knowledge of how that machine works.",
+    "Explanation": "In a general sense, 'zero knowledge' means having no information about a topic. However, in IT and cryptography, it refers to a very specific and powerful concept. It is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true, without conveying any information apart from the fact that the statement is indeed true. For example, proving you know a password without actually sending the password over the network. This prevents hackers from intercepting sensitive data.",
+    "synonyms": [
+      "privacy-preserving",
+      "non-disclosure"
+    ],
+    "antonyms": [
+      "full disclosure",
+      "knowledge-sharing"
+    ],
+    "nounForm": "zero-knowledge",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-knowledge",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Cryptography and data privacy",
+    "usageTip": "Use 'zero knowledge' when discussing advanced security systems that protect user data.",
+    "commonMistake": "Confusing 'zero knowledge' with 'cluelessness' in a technical conversation.",
+    "collocations": [
+      "zero knowledge architecture",
+      "zero knowledge system",
+      "zero knowledge protocol"
+    ]
+  },
+  {
+    "word": "Zero knowledge",
+    "meaning": "A method where one party proves to another that a statement is true without revealing the information itself.",
+    "shortMeaning": "proving without revealing",
+    "example": "Zero knowledge proofs are essential for privacy in blockchain.",
+    "example2": "The system uses zero knowledge authentication to secure user data.",
+    "example3": "She researched how zero knowledge protocols protect sensitive credentials.",
+    "Explanation": "The term 'zero knowledge' refers to cryptographic protocols that allow one party to verify that a statement or secret is correct without actually learning the secret. This is highly important in security, finance, and digital identity management. It ensures that sensitive information is never shared or exposed during the verification process. By using complex mathematical challenges, the prover convinces the verifier of their knowledge. It represents a significant advancement in privacy-preserving technology in modern IT systems.",
+    "synonyms": [
+      "privacy-preserving",
+      "anonymous verification"
+    ],
+    "antonyms": [
+      "open disclosure",
+      "data exposure"
+    ],
+    "nounForm": "zero knowledge proof",
+    "verbForm": "N/A",
+    "adjectiveForm": "zero-knowledge",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Cryptography, cybersecurity, blockchain",
+    "usageTip": "Use this term when discussing secure data validation where privacy is the top priority.",
+    "commonMistake": "Confusing it with encryption; zero knowledge is about proof, while encryption is about hiding content.",
+    "collocations": [
+      "zero knowledge proof",
+      "zero knowledge protocol",
+      "zero knowledge system"
+    ]
+  }
+]

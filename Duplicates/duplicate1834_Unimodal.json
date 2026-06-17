@@ -1,0 +1,87 @@
+[
+  {
+    "word": "Unimodal",
+    "meaning": "Describing a set of data that has only one peak or 'mode'",
+    "shortMeaning": "single-peaked",
+    "example": "The test scores followed a unimodal distribution, with most students scoring in the middle.",
+    "example2": "A unimodal curve looks like a single hill on a graph.",
+    "example3": "Height in humans is generally unimodal.",
+    "Explanation": "In statistics, the 'mode' is the most frequent value. If a dataset is 'unimodal,' it means there is one clear value (or range of values) that appears most often. On a chart, this looks like a single hump or peak. This is very common in nature and data science. For example, if you measure the time it takes for a website to load, you might find a unimodal distribution where most loads happen at 2 seconds, with fewer taking 1 second or 5 seconds. If there were two peaks, it would be 'bimodal.'",
+    "synonyms": [
+      "single-mode",
+      "one-peak"
+    ],
+    "antonyms": [
+      "bimodal",
+      "multimodal",
+      "uniform"
+    ],
+    "nounForm": "unimodality",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimodal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Statistics, data analysis, and biology",
+    "usageTip": "Use this to describe the shape of a graph or the trend in a group of numbers.",
+    "commonMistake": "Confusing it with 'normal distribution'; all normal distributions are unimodal, but not all unimodal ones are normal.",
+    "collocations": [
+      "unimodal distribution",
+      "unimodal curve",
+      "unimodal data set"
+    ]
+  },
+  {
+    "word": "Unimodal",
+    "meaning": "Having only one peak or mode in a distribution",
+    "shortMeaning": "single-peaked",
+    "example": "The traffic data shows a unimodal distribution with a peak at noon.",
+    "example2": "Most response times follow a unimodal pattern.",
+    "example3": "The system performance is unimodal.",
+    "Explanation": "In statistics, a 'unimodal' distribution is one where there is a single clear peak in the data. This is common in many IT metrics, such as CPU usage over a standard workday. If your data is unimodal, it is usually easy to analyze and predict. If it has two peaks, it is 'bimodal' and indicates more complex behavior. This term is used by data scientists and performance analysts when looking at graphs or histograms. Understanding whether your data is unimodal or multimodal helps in choosing the right analytical tools.",
+    "synonyms": [
+      "single-peaked"
+    ],
+    "antonyms": [
+      "multimodal",
+      "bimodal"
+    ],
+    "nounForm": "unimodality",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimodal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science, performance analysis, statistics",
+    "usageTip": "Use this when discussing data patterns or distributions.",
+    "commonMistake": "Confusing 'unimodal' with 'average'.",
+    "collocations": [
+      "unimodal distribution",
+      "unimodal pattern"
+    ]
+  },
+  {
+    "word": "Unimodal",
+    "meaning": "Having only one mode or a single peak in data distribution.",
+    "shortMeaning": "single-peaked",
+    "example": "The dataset showed a unimodal distribution of response times.",
+    "example2": "A unimodal frequency curve suggests a single common outcome.",
+    "example3": "Statistical analysis confirmed the data was unimodal.",
+    "Explanation": "In statistics and data analysis, 'unimodal' refers to a distribution that has one distinct peak. This means one value occurs more frequently than others. In IT, developers analyze data patterns to optimize performance; a unimodal result is usually easier to predict and manage than a multimodal one, which has multiple peaks. Understanding whether your data is unimodal or multimodal helps in choosing the right algorithms for processing and reporting.",
+    "synonyms": [
+      "single-peaked"
+    ],
+    "antonyms": [
+      "multimodal",
+      "bimodal"
+    ],
+    "nounForm": "unimodality",
+    "verbForm": "N/A",
+    "adjectiveForm": "unimodal",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data analysis and performance monitoring",
+    "usageTip": "Use this when describing a frequency distribution.",
+    "commonMistake": "Thinking unimodal means only one data point exists.",
+    "collocations": [
+      "unimodal distribution",
+      "unimodal curve",
+      "unimodal data"
+    ]
+  }
+]

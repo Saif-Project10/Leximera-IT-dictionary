@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Volumetric",
+    "meaning": "Relating to the measurement of volume or space",
+    "shortMeaning": "space-related",
+    "example": "The 3D engine supports volumetric lighting effects.",
+    "example2": "We analyzed the volumetric growth of the data storage.",
+    "example3": "Volumetric data is essential for medical imaging.",
+    "Explanation": "In 3D graphics and data science, 'volumetric' refers to data that represents a volume or a 3D space, rather than just a 2D surface. Volumetric lighting, for instance, allows light to interact with fog or dust, creating more realistic 3D scenes in games. In medical imaging (like CT scans), volumetric data gives a full view of internal body structures. It involves complex math and heavy computational power. If you are working in rendering or 3D modeling, this is a key term in your daily technical vocabulary.",
+    "synonyms": [
+      "3D",
+      "spatial"
+    ],
+    "antonyms": [
+      "flat",
+      "2D"
+    ],
+    "nounForm": "volume",
+    "verbForm": "N/A",
+    "adjectiveForm": "volumetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "3D graphics, medical imaging, data visualization",
+    "usageTip": "Use this when discussing 3D or space-filling properties.",
+    "commonMistake": "Confusing 'volumetric' with 'voltammetric'.",
+    "collocations": [
+      "volumetric data",
+      "volumetric lighting"
+    ]
+  },
+  {
+    "word": "Volumetric",
+    "meaning": "Relating to the measurement of volume.",
+    "shortMeaning": "related to volume",
+    "example": "The 3D scanner provides volumetric data for analysis.",
+    "example2": "Volumetric rendering is used in medical imaging.",
+    "example3": "He studied the volumetric changes in the container.",
+    "Explanation": "Volumetric refers to three-dimensional measurement. In computer graphics, medical imaging (like MRI/CT scans), and GIS (Geographic Information Systems), 'volumetric data' is used to represent 3D objects instead of just flat surfaces. Volumetric rendering creates images that show the internal structure of 3D data. This is a complex area of graphics programming. It is crucial for high-fidelity simulations and spatial analysis in modern software.",
+    "synonyms": [
+      "3D",
+      "three-dimensional",
+      "voluminous"
+    ],
+    "antonyms": [
+      "linear",
+      "two-dimensional"
+    ],
+    "nounForm": "volume",
+    "verbForm": "N/A",
+    "adjectiveForm": "volumetric",
+    "partOfSpeech": "adjective",
+    "commonContext": "3D graphics, medical imaging, data science",
+    "usageTip": "Use this to describe data that includes 3D space.",
+    "commonMistake": "Confusing it with 'voluminous' (which means large).",
+    "collocations": [
+      "volumetric data",
+      "volumetric rendering",
+      "volumetric analysis"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Treelike",
+    "meaning": "Having the shape or appearance of a tree",
+    "shortMeaning": "tree-shaped",
+    "example": "The growth pattern of the data was treelike.",
+    "example2": "We created a treelike diagram to explain the project steps.",
+    "example3": "The interface has a treelike menu system.",
+    "Explanation": "Treelike describes something that has branches and a hierarchy that looks like a tree. It is often used to describe how data is visualized or organized. A treelike structure can make complex information much simpler to read because it shows clear relationships between different items. It is a common design pattern for menus, diagrams, and organizational charts. It is an intuitive way for people to understand complex dependencies.",
+    "synonyms": [
+      "branching",
+      "hierarchical"
+    ],
+    "antonyms": [
+      "linear",
+      "flat"
+    ],
+    "nounForm": "tree",
+    "verbForm": "N/A",
+    "adjectiveForm": "treelike",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data visualization, UI design",
+    "usageTip": "Use this to describe how something is visually organized.",
+    "commonMistake": "Using 'treelike' for something that is simply messy or tangled.",
+    "collocations": [
+      "treelike structure",
+      "treelike diagram",
+      "treelike menu"
+    ]
+  },
+  {
+    "word": "Treelike",
+    "meaning": "Resembling the branching form of a tree",
+    "shortMeaning": "branching-like",
+    "example": "The project map has a treelike structure.",
+    "example2": "He created a treelike diagram to show the relationships.",
+    "example3": "The growth of the system is treelike in complexity.",
+    "Explanation": "The word 'treelike' (or tree-like) describes anything that branches out in a way similar to a natural tree. It is used in architecture, diagrams, flowcharts, and file system maps. It implies that the structure has a main trunk and many branches. It is a very visual term that helps people understand complex relationships. It is similar to 'tree-structured' but is more descriptive of the visual form.",
+    "synonyms": [
+      "branching",
+      "hierarchical",
+      "spreading"
+    ],
+    "antonyms": [
+      "linear",
+      "straight",
+      "single-line"
+    ],
+    "nounForm": "tree",
+    "verbForm": "N/A",
+    "adjectiveForm": "treelike",
+    "partOfSpeech": "adjective",
+    "commonContext": "Diagramming, flowcharts, design, structure",
+    "usageTip": "Use 'treelike' when you want to describe a visual branching structure.",
+    "commonMistake": "Confusing it with 'tree-structured' (which is more technical/data-focused).",
+    "collocations": [
+      "treelike structure",
+      "treelike diagram",
+      "treelike pattern"
+    ]
+  }
+]

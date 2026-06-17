@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Visualized",
+    "meaning": "Represented by a picture, diagram, or chart",
+    "shortMeaning": "shown visually",
+    "example": "The data was visualized using a bar chart.",
+    "example2": "He visualized the network topology before configuring it.",
+    "example3": "The tool visualized the server traffic in real-time.",
+    "Explanation": "The word 'visualized' refers to the process of turning raw data or abstract concepts into a graphical format that is easier for humans to understand. In IT, this is crucial for monitoring, troubleshooting, and presenting technical information. By visualizing complex datasets, administrators can quickly spot trends, anomalies, or performance bottlenecks. It is a fundamental technique in data science, dashboard design, and software architecture. Always ensure that the visualization accurately represents the underlying data without misleading the viewer.",
+    "synonyms": [
+      "charted",
+      "graphed",
+      "mapped"
+    ],
+    "antonyms": [
+      "hidden",
+      "obscured"
+    ],
+    "nounForm": "visualization",
+    "verbForm": "visualize",
+    "adjectiveForm": "visual",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Data analysis, monitoring, UI/UX design",
+    "usageTip": "Use this when describing how you represent data to others.",
+    "commonMistake": "Confusing 'visualized' with 'imagined'.",
+    "collocations": [
+      "data visualized",
+      "visualized information",
+      "visualized trends"
+    ]
+  },
+  {
+    "word": "Visualized",
+    "meaning": "To have converted data into a visual format like charts or models.",
+    "shortMeaning": "graphed/modeled",
+    "example": "The sales data was visualized in an interactive dashboard.",
+    "example2": "We visualized the system architecture to find bottlenecks.",
+    "example3": "The network traffic is now easily visualized in real-time.",
+    "Explanation": "‘Visualized’ is the outcome of data visualization. It is the process of taking complex, raw data and turning it into something graphical (charts, heatmaps, trees) that helps people identify patterns, trends, and problems. IT engineers use 'visualized' data to debug performance issues or explain system architecture to non-technical stakeholders. It is a critical skill for any developer who needs to communicate their work effectively to a team.",
+    "synonyms": [
+      "graphed",
+      "mapped",
+      "plotted"
+    ],
+    "antonyms": [
+      "raw",
+      "hidden",
+      "abstracted"
+    ],
+    "nounForm": "visualization",
+    "verbForm": "visualize",
+    "adjectiveForm": "visualized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data science and performance monitoring",
+    "usageTip": "Use when talking about turning raw data into charts.",
+    "commonMistake": "Visualizing too much data at once, making it cluttered.",
+    "collocations": [
+      "visualized data",
+      "visualized architecture",
+      "visualized trends"
+    ]
+  }
+]

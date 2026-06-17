@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Pre-fabricated",
+    "meaning": "Manufactured in sections in advance, ready for quick assembly on site.",
+    "shortMeaning": "built in advance in sections",
+    "example": "They built the house using pre-fabricated walls.",
+    "example2": "The bridge was made from pre-fabricated concrete segments.",
+    "example3": "Pre-fabricated buildings can be erected very quickly.",
+    "Explanation": "Pre-fabricated (often shortened to 'prefab') describes parts of a structure that are made in a factory and then transported to the construction site for assembly. This method is faster, cheaper, and sometimes higher quality than traditional on-site building. It's common for houses, office buildings, and bridges. The word emphasizes efficiency and standardization. The process is called 'prefabrication'. It's a key term in modern construction and manufacturing, representing a shift from craft-based to industrial production methods for buildings.",
+    "synonyms": [
+      "pre-built",
+      "modular",
+      "factory-made",
+      "ready-made"
+    ],
+    "antonyms": [
+      "custom-built",
+      "on-site construction",
+      "handcrafted"
+    ],
+    "nounForm": "prefabrication",
+    "verbForm": "prefabricate",
+    "adjectiveForm": "pre-fabricated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Construction, architecture, manufacturing",
+    "usageTip": "The hyphen is sometimes omitted ('prefabricated'). It's often used before nouns like 'components', 'units', or 'homes'.",
+    "commonMistake": "Thinking 'pre-fabricated' means low quality. Modern prefab can be high-quality and innovative.",
+    "collocations": [
+      "pre-fabricated home",
+      "pre-fabricated parts",
+      "pre-fabricated structure"
+    ]
+  },
+  {
+    "word": "Pre-fabricated",
+    "meaning": "Manufactured in sections that are ready for final assembly.",
+    "shortMeaning": "made in sections",
+    "example": "The modular server room uses pre-fabricated panels.",
+    "example2": "These pre-fabricated cable runs make installation simple.",
+    "example3": "We chose a pre-fabricated design for our data center setup.",
+    "Explanation": "'Pre-fabricated' (or prefab) means that components or structures were built in a factory and then moved to the installation site to be put together. In IT, this is common in infrastructure—like modular data center pods. Instead of building walls or complex cable management from scratch on-site, you bring in prefab components. This significantly speeds up construction and ensures high quality control. It is very popular in enterprise-scale infrastructure projects where site-specific conditions are challenging.",
+    "synonyms": [
+      "modular",
+      "pre-built",
+      "off-site-manufactured"
+    ],
+    "antonyms": [
+      "site-built",
+      "custom-on-site"
+    ],
+    "nounForm": "pre-fabrication",
+    "verbForm": "pre-fabricate",
+    "adjectiveForm": "pre-fabricated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Infrastructure, data centers, construction",
+    "usageTip": "Use to describe modular or off-site built components.",
+    "commonMistake": "Thinking 'pre-fabricated' means low-quality; it is often highly efficient.",
+    "collocations": [
+      "pre-fabricated panels",
+      "pre-fabricated modules",
+      "pre-fabricated infrastructure"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Experiment",
+    "meaning": "A scientific procedure to make a discovery, test a hypothesis, or demonstrate a fact; to try something new.",
+    "shortMeaning": "scientific test; try something new",
+    "example": "They conducted an experiment to test the new drug.",
+    "example2": "The chef likes to experiment with different flavors.",
+    "example3": "It was an interesting experiment in communal living.",
+    "Explanation": "'Experiment' is both a noun and a verb central to the scientific method. As a noun, it's a controlled test. As a verb, it means to try out new ideas or methods. It implies a process of trial, observation, and learning. The adjective is 'experimental'. Experiments are the foundation of empirical science. In a broader sense, any trial of a new approach can be called an experiment. The word carries connotations of curiosity, innovation, and a willingness to take risks to gain knowledge.",
+    "synonyms": [
+      "test",
+      "trial",
+      "investigation"
+    ],
+    "antonyms": [
+      "certainty",
+      "proven fact"
+    ],
+    "nounForm": "experiment",
+    "verbForm": "experiment",
+    "adjectiveForm": "experimental",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Science, cooking, art, social policy",
+    "usageTip": "As a verb, use 'experiment with' or 'experiment on' (e.g., 'experiment with styles', 'experiment on animals').",
+    "commonMistake": "Confusing 'experiment' (a test) with 'experience' (knowledge from doing or living).",
+    "collocations": [
+      "controlled experiment",
+      "thought experiment",
+      "experiment on"
+    ]
+  },
+  {
+    "word": "Experiment",
+    "meaning": "A scientific test done to learn something or discover if something works",
+    "shortMeaning": "test or trial",
+    "example": "The scientists conducted an experiment to test the new drug.",
+    "example2": "It was just an experiment to see if the code would run faster.",
+    "example3": "We are doing an experiment with a new design for the homepage.",
+    "Explanation": "An 'experiment' is a structured way of testing a hypothesis. In IT, we often run experiments to see how users react to a new feature (A/B testing). It involves a controlled environment where you change one variable and observe the result. It can be a noun (the test itself) or a verb (the act of testing). Mastery of experimentation is key to innovation in both science and software development.",
+    "synonyms": [
+      "test",
+      "trial",
+      "investigation"
+    ],
+    "antonyms": [
+      "fact",
+      "certainty",
+      "N/A"
+    ],
+    "nounForm": "experimentation",
+    "verbForm": "experiment",
+    "adjectiveForm": "experimental",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Science labs and software beta testing",
+    "usageTip": "Use 'experiment' when you are not sure of the outcome yet.",
+    "commonMistake": "Calling a routine check an 'experiment'.",
+    "collocations": [
+      "scientific experiment",
+      "conduct an experiment",
+      "experimental phase"
+    ]
+  }
+]

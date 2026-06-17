@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Templated",
+    "meaning": "Using a template to create or format content.",
+    "shortMeaning": "formatted",
+    "example": "The report is templated to ensure brand consistency.",
+    "example2": "We templated the emails for faster customer support.",
+    "example3": "The UI components are templated for reuse.",
+    "Explanation": "Something that is 'templated' has been generated or formatted using a predefined structure, or 'template'. This is standard practice in IT to ensure consistency, speed up development, and simplify maintenance. Instead of writing the same code or document from scratch, you use a templated version that has the basic elements already in place, filling in only the specific content that changes.",
+    "synonyms": [
+      "standardized",
+      "formatted",
+      "predefined"
+    ],
+    "antonyms": [
+      "custom",
+      "manual",
+      "bespoke"
+    ],
+    "nounForm": "template",
+    "verbForm": "template",
+    "adjectiveForm": "templated",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Web development, email, documentation",
+    "usageTip": "Use 'templated' for things built from a reusable pattern.",
+    "commonMistake": "Assuming templated content cannot be customized.",
+    "collocations": [
+      "templated report",
+      "templated email",
+      "templated component"
+    ]
+  },
+  {
+    "word": "Templated",
+    "meaning": "Created using a pre-designed pattern or structure",
+    "shortMeaning": "based on a template",
+    "example": "The website uses a templated design.",
+    "example3": "He sent a templated response to the inquiry.",
+    "example2": "Most of the pages in this report are templated.",
+    "Explanation": "The word 'templated' describes something that has been made by filling in the details of an existing template. It is an adjective that highlights efficiency, consistency, or lack of customization. While 'templated' often implies standardization, it is a very efficient way to handle large volumes of work in software or office tasks. It shows that the structure is fixed, and only the content varies. The root is the noun 'template'.",
+    "synonyms": [
+      "standardized",
+      "preformatted",
+      "automated"
+    ],
+    "antonyms": [
+      "custom",
+      "original",
+      "hand-made"
+    ],
+    "nounForm": "template",
+    "verbForm": "template",
+    "adjectiveForm": "templated",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web design, document creation, email responses",
+    "usageTip": "Use 'templated' to describe things that follow a fixed structure.",
+    "commonMistake": "Using 'templated' to imply 'bad quality'; it just means efficient.",
+    "collocations": [
+      "templated design",
+      "templated response",
+      "templated structure"
+    ]
+  }
+]

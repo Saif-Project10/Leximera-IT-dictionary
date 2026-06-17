@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Aim",
+    "meaning": "A goal or objective that someone tries to achieve; to point or direct something toward a target",
+    "shortMeaning": "goal; point at target",
+    "example": "Her main aim is to become a doctor.",
+    "example2": "He aimed the camera at the beautiful sunset.",
+    "example3": "The charity's aims include helping homeless people.",
+    "Explanation": "Aim can be both a noun (a desired outcome) and a verb (to point something). As a noun, it's similar to 'goal' or 'objective', but can sound slightly less formal. As a verb, it's about direction and intention, either literally (aiming a weapon) or figuratively (aiming to succeed). Having an aim gives focus to efforts. The phrase 'take aim' means to prepare to shoot. It's a versatile and common word in both everyday and professional contexts.",
+    "synonyms": [
+      "goal",
+      "objective",
+      "intention",
+      "target",
+      "point"
+    ],
+    "antonyms": [
+      "aimlessness",
+      "randomness"
+    ],
+    "nounForm": "aim",
+    "verbForm": "aim",
+    "adjectiveForm": "aimless",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Target shooting, personal goals, business objectives",
+    "usageTip": "As a verb, use 'aim to' + verb (I aim to finish) or 'aim at' + noun (He aimed at the target).",
+    "commonMistake": "Using 'aim for' incorrectly. It's usually 'aim to do something' or 'aim at something'.",
+    "collocations": [
+      "take aim",
+      "main aim",
+      "aim high"
+    ]
+  },
+  {
+    "word": "Aim",
+    "meaning": "To point something at a target or to have a specific goal in mind",
+    "shortMeaning": "goal or target",
+    "example": "We aim to finish the LexiCore project by the end of the month.",
+    "example2": "The developer adjusted the CSS to aim for a pixel-perfect layout.",
+    "example3": "Our primary aim is to improve the user experience of the app.",
+    "Explanation": "Aim describes both a physical action and a mental objective. In business and software development, 'aiming' refers to setting targets, such as a release date or a performance benchmark. It implies focus and direction. Without a clear aim, projects often suffer from scope creep or lose their way. It is a fundamental word for planning and strategy.",
+    "synonyms": [
+      "goal",
+      "objective",
+      "target"
+    ],
+    "antonyms": [
+      "aimlessness",
+      "neglect",
+      "N/A"
+    ],
+    "nounForm": "aim",
+    "verbForm": "aim",
+    "adjectiveForm": "aimless",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Project management and personal goals",
+    "usageTip": "Use 'aim' when discussing the high-level purpose of a task.",
+    "commonMistake": "Confusing 'aim' with 'claim' (to state something as a fact).",
+    "collocations": [
+      "achieve an aim",
+      "main aim",
+      "take aim"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Deteriorate",
+    "meaning": "To become progressively worse.",
+    "shortMeaning": "become worse over time",
+    "example": "The old building's condition has deteriorated due to neglect.",
+    "example2": "Relations between the two countries began to deteriorate.",
+    "example3": "Her eyesight deteriorated with age.",
+    "Explanation": "Deteriorate implies a gradual, often inevitable, process of decline or decay. It suggests a breaking down from a former, better state. It's used for physical things (materials, health), abstract things (situations, relationships), and quality (service, performance). The decline is usually steady and noticeable over time. It's a more formal word than 'worsen' and often carries a sense of inevitability or neglect. The noun is 'deterioration'. It's a common term in medicine, engineering, and political analysis to describe negative trends.",
+    "synonyms": [
+      "worsen",
+      "decline",
+      "decay",
+      "degenerate",
+      "erode"
+    ],
+    "antonyms": [
+      "improve",
+      "ameliorate",
+      "recover",
+      "strengthen"
+    ],
+    "nounForm": "deterioration",
+    "verbForm": "deteriorate",
+    "adjectiveForm": "deteriorated",
+    "partOfSpeech": "verb",
+    "commonContext": "Health, infrastructure, diplomatic relations, product quality",
+    "usageTip": "Often used to describe a slow, continuous negative process.",
+    "commonMistake": "Using it for a sudden, one-time negative event; 'worsen' or 'damage' is better for that.",
+    "collocations": [
+      "rapidly deteriorate",
+      "deteriorate into chaos",
+      "mental state deteriorate"
+    ]
+  },
+  {
+    "word": "Deteriorate",
+    "meaning": "To become worse in quality, value, or strength over time",
+    "shortMeaning": "get worse",
+    "example": "If you don't maintain the hardware, the performance will deteriorate.",
+    "example2": "The weather conditions began to deteriorate as the storm approached.",
+    "example3": "Poor coding habits cause the software's maintainability to deteriorate.",
+    "Explanation": "Deterioration is a gradual process of falling apart or losing quality. In a technical sense, it often describes physical things like old batteries losing charge or cables becoming brittle. It can also describe software 'rot,' where an old application becomes harder to use because it wasn't updated. Unlike a sudden crash, a deterioration is slow and steady. It is a very useful word for describing the negative progression of a condition or the aging process of a system.",
+    "synonyms": [
+      "worsen",
+      "decline",
+      "degenerate"
+    ],
+    "antonyms": [
+      "improve",
+      "strengthen",
+      "advance"
+    ],
+    "nounForm": "deterioration",
+    "verbForm": "deteriorate",
+    "adjectiveForm": "deteriorating",
+    "partOfSpeech": "verb",
+    "commonContext": "Performance, physical condition, and health",
+    "usageTip": "Use 'deteriorate' when something is slowly losing its original good state.",
+    "commonMistake": "Spelling it 'deteriate' (forgetting the 'oro').",
+    "collocations": [
+      "rapidly deteriorate",
+      "condition deteriorates",
+      "deteriorate over time"
+    ]
+  }
+]

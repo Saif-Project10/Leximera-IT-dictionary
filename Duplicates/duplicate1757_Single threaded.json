@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Single threaded",
+    "meaning": "Processing one command at a time in a single sequence",
+    "shortMeaning": "one task at a time",
+    "example": "JavaScript is traditionally a single threaded language.",
+    "example2": "The script failed because it was single threaded and got blocked by a long task.",
+    "example3": "A single threaded process cannot utilize multiple CPU cores effectively.",
+    "Explanation": "In computing, a single threaded process is one that executes instructions in a linear, one-after-another fashion. This means that the program follows a single path of execution. If one task takes a long time to complete, the entire program must wait for it to finish before moving to the next line of code. This is common in older software or specific languages like Python (due to the GIL) and JavaScript. While simpler to write, it can lead to performance bottlenecks in modern multi-core processors.",
+    "synonyms": [
+      "sequential processing",
+      "serial execution",
+      "uniprocessing"
+    ],
+    "antonyms": [
+      "multithreaded",
+      "concurrent",
+      "parallel"
+    ],
+    "nounForm": "single threading",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-threaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming and CPU architecture",
+    "usageTip": "Use 'single threaded' to describe an environment where concurrency is not natively used.",
+    "commonMistake": "Assuming 'single threaded' means the software is slow; it just means it is sequential.",
+    "collocations": [
+      "single threaded application",
+      "single threaded environment",
+      "single threaded performance"
+    ]
+  },
+  {
+    "word": "Single threaded",
+    "meaning": "Executing only one command at a time",
+    "shortMeaning": "one-task-at-a-time",
+    "example": "The old application is single threaded and cannot use multiple cores.",
+    "example2": "Single threaded code is easier to debug.",
+    "example3": "We need to move from single threaded to multi-threaded architecture.",
+    "Explanation": "A 'single threaded' program executes its tasks in a single sequence. This means it cannot perform two things at the exact same time, limiting performance on modern multi-core processors. While it is easier to write and debug, it often lacks the power of multi-threaded systems. The term is essential for understanding performance and scalability in software development.",
+    "synonyms": [
+      "sequential",
+      "non-concurrent"
+    ],
+    "antonyms": [
+      "multi-threaded",
+      "concurrent",
+      "parallel"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "single-threaded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software performance, multi-tasking, CPU usage",
+    "usageTip": "Use 'single threaded' when describing limitations in multi-core performance.",
+    "commonMistake": "Confusing 'single threaded' with 'simple'.",
+    "collocations": [
+      "single threaded application",
+      "single threaded code"
+    ]
+  }
+]

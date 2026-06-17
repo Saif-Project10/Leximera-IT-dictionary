@@ -1,0 +1,64 @@
+[
+  {
+    "word": "On-premises",
+    "meaning": "Located within the physical buildings or site of an organization, as opposed to in a remote cloud or data center.",
+    "shortMeaning": "on-site, local",
+    "example": "The company uses on-premises servers for its sensitive data.",
+    "example2": "They chose an on-premises software solution for greater control.",
+    "example3": "Maintaining on-premises hardware requires a dedicated IT team.",
+    "Explanation": "'On-premises' (often shortened to 'on-prem') is an adjective used in information technology. It describes software, servers, or infrastructure that is installed and runs on computers located within the organization's own physical location. This contrasts with cloud-based solutions hosted remotely by a provider. The term emphasizes physical ownership and direct control over the technology. It is commonly used in business and tech discussions about deployment models and IT strategy. The phrase is always hyphenated.",
+    "synonyms": [
+      "on-site",
+      "local",
+      "in-house"
+    ],
+    "antonyms": [
+      "cloud-based",
+      "hosted",
+      "remote"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "on-premises",
+    "partOfSpeech": "adjective",
+    "commonContext": "IT, software deployment, data security, business infrastructure",
+    "usageTip": "Often used before nouns like 'software', 'servers', 'infrastructure', or 'solution'.",
+    "commonMistake": "Misspelling as 'on-premise'; the correct term is 'on-premises' (with an 's').",
+    "collocations": [
+      "on-premises software",
+      "on-premises deployment",
+      "on-premises data center"
+    ]
+  },
+  {
+    "word": "On-premises",
+    "meaning": "Located inside the building or facility of a business",
+    "shortMeaning": "in-house",
+    "example": "We have an on-premises security policy for data.",
+    "example2": "The on-premises systems are more secure from external hacks.",
+    "example3": "He manages the on-premises network equipment.",
+    "Explanation": "The term 'on-premises' (often abbreviated to 'on-prem') refers to any technology infrastructure housed within a company's physical control. It implies that the company owns the hardware and is responsible for its physical security, power, and climate control. While cloud computing has become popular, many large enterprises still use on-premises systems for sensitive data or legacy applications. Note that 'premises' is plural, and 'on-premises' is the grammatically correct form of the adjective.",
+    "synonyms": [
+      "in-house",
+      "internal",
+      "local"
+    ],
+    "antonyms": [
+      "off-site",
+      "cloud",
+      "remote"
+    ],
+    "nounForm": "premises",
+    "verbForm": "N/A",
+    "adjectiveForm": "on-premises",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business, server management, IT",
+    "usageTip": "Use 'on-premises' as the grammatically correct term for in-house infrastructure.",
+    "commonMistake": "Using 'on-premise' (singular) instead of 'on-premises' (plural).",
+    "collocations": [
+      "on-premises data center",
+      "on-premises deployment",
+      "on-premises system"
+    ]
+  }
+]

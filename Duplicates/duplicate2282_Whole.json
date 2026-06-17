@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Whole",
+    "meaning": "Complete, total, or entire",
+    "shortMeaning": "entire",
+    "example": "The whole system crashed during the update.",
+    "example2": "We reviewed the whole codebase before refactoring.",
+    "example3": "The whole process took less than an hour.",
+    "Explanation": "Whole refers to the entire extent or the full set of something. It means nothing is left out. In IT, this often refers to assessing a whole system, the whole infrastructure, or the whole project lifecycle. It is a simple but powerful word to emphasize completeness. When engineers need to look at the 'big picture', they look at the whole system rather than just one component.",
+    "synonyms": [
+      "entire",
+      "complete",
+      "total"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete",
+      "fragmented"
+    ],
+    "nounForm": "whole",
+    "verbForm": "N/A",
+    "adjectiveForm": "whole",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, system evaluation",
+    "usageTip": "Use this to emphasize completeness.",
+    "commonMistake": "Using 'whole' when you only mean a large part.",
+    "collocations": [
+      "whole system",
+      "whole process",
+      "whole codebase"
+    ]
+  },
+  {
+    "word": "Whole",
+    "meaning": "Complete or containing all parts",
+    "shortMeaning": "complete",
+    "example": "The whole system crashed during the update.",
+    "example2": "We rebuilt the whole website from scratch.",
+    "example3": "He spent the whole day debugging the code.",
+    "Explanation": "The word 'whole' refers to an entirety, meaning nothing is missing or excluded. In IT, it is often used to emphasize the scope of a problem, a process, or a data set. For instance, you might talk about the 'whole infrastructure' to indicate every single component in a network. It is important to distinguish this from 'hole', which is a technical term for a security gap or a missing piece. Use 'whole' to provide context for full coverage or full impact.",
+    "synonyms": [
+      "entire",
+      "complete",
+      "total"
+    ],
+    "antonyms": [
+      "partial",
+      "incomplete",
+      "fragmented"
+    ],
+    "nounForm": "whole",
+    "verbForm": "N/A",
+    "adjectiveForm": "whole",
+    "partOfSpeech": "adjective",
+    "commonContext": "System management, project scope, troubleshooting",
+    "usageTip": "Use 'whole' to describe the entire scope of a project.",
+    "commonMistake": "Confusing it with the noun 'hole' (a security gap).",
+    "collocations": [
+      "whole system",
+      "whole process",
+      "whole project"
+    ]
+  }
+]

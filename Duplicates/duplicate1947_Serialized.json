@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Serialized",
+    "meaning": "Converted into a flat format for storage or transfer",
+    "shortMeaning": "converted to flat format",
+    "example": "The data was serialized to a text file.",
+    "example2": "Serialized objects are easier to move across the network.",
+    "example3": "He serialized the user session to store it in Redis.",
+    "Explanation": "Serialized is the past participle of 'serialize.' It means the object has already been converted into a stream of data that is ready for storage or transmission. When data is serialized, it loses its complex structure (like parent-child relationships) and becomes a flat sequence of bits. It is a vital step in nearly every modern software project that involves databases or network communication. You must 'deserialize' it later to use it again in your code.",
+    "synonyms": [
+      "encoded",
+      "formatted",
+      "flattened"
+    ],
+    "antonyms": [
+      "deserialized",
+      "active",
+      "complex"
+    ],
+    "nounForm": "serialization",
+    "verbForm": "serialize",
+    "adjectiveForm": "serialized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Data storage, networking, database management",
+    "usageTip": "Use 'serialized' to describe the status of data ready to be saved.",
+    "commonMistake": "Trying to use a serialized object directly without deserializing it.",
+    "collocations": [
+      "serialized data",
+      "already serialized",
+      "serialized to JSON"
+    ]
+  },
+  {
+    "word": "Serialized",
+    "meaning": "Converted into a stream for storage or transmission",
+    "shortMeaning": "converted to stream",
+    "example": "The user profile is serialized before being sent to the API.",
+    "example2": "All session data is serialized and stored in Redis.",
+    "example3": "Once the data is serialized, it can be easily logged.",
+    "Explanation": "Serialized is the past participle describing data that has undergone the process of serialization. It is now in a flat, linear format that is ready to be moved or stored. Because serialized data is just a sequence of characters or bytes, it can be transmitted via HTTP, saved in a text file, or kept in memory. After transmission, the receiver must deserialize it to use it as an object again.",
+    "synonyms": [
+      "flattened",
+      "encoded"
+    ],
+    "antonyms": [
+      "deserialized"
+    ],
+    "nounForm": "serialization",
+    "verbForm": "serialize",
+    "adjectiveForm": "serialized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "APIs, data storage, caching",
+    "usageTip": "Use this to describe data that has already been converted.",
+    "commonMistake": "Forgetting to deserialize data after receiving it.",
+    "collocations": [
+      "data serialized",
+      "serialized object",
+      "keep serialized"
+    ]
+  }
+]

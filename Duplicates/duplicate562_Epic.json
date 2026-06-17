@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Epic",
+    "meaning": "A large user story that cannot be delivered within a single sprint and must be broken down into smaller stories.",
+    "shortMeaning": "large body of work",
+    "example": "'Improve the checkout experience' is an epic that contains many smaller user stories.",
+    "example2": "During backlog refinement, we break epics down into manageable user stories.",
+    "example3": "The product roadmap is often expressed as a series of epics.",
+    "Explanation": "In Agile, an epic is a large body of work that is too big to be completed in one sprint. It represents a significant feature or chunk of functionality. Epics are useful for high-level planning and roadmapping. Over time, as more is known, epics are decomposed into smaller, sprint-sized user stories. A common mistake is starting development on an epic without breaking it down, which leads to poor estimation and planning. Epics help organize work thematically. They sit above user stories in the hierarchy (Epic -> User Stories -> Tasks). They provide context for the smaller stories and show how they contribute to a larger goal.",
+    "synonyms": [
+      "theme",
+      "major feature",
+      "initiative"
+    ],
+    "antonyms": [
+      "user story",
+      "task",
+      "small item"
+    ],
+    "nounForm": "epic",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun",
+    "commonContext": "Agile planning, product management, roadmapping",
+    "usageTip": "Often used in tools like Jira to group related user stories together.",
+    "commonMistake": "Using 'epic' to mean any cool or large feature in casual conversation, losing its specific Agile meaning.",
+    "collocations": [
+      "break down an epic",
+      "epic owner",
+      "portfolio epic"
+    ]
+  },
+  {
+    "word": "Epic",
+    "meaning": "A very large, long-term project; in Agile, a high-level task containing many smaller stories.",
+    "shortMeaning": "large project or task",
+    "example": "We have an epic dedicated to the new mobile app launch.",
+    "example2": "The team broke the epic into smaller, manageable tasks.",
+    "example3": "The epic is expected to take three months to complete.",
+    "Explanation": "In Agile project management, an Epic is a large body of work that is too big to be completed in a single development cycle. It is composed of multiple smaller tasks called 'stories'. An Epic represents a significant goal or feature set. Using 'Epic' helps teams organize their work and keep track of long-term progress. It is a fundamental term for any team using Scrum or Kanban.",
+    "synonyms": [
+      "large-scale project",
+      "major task"
+    ],
+    "antonyms": [
+      "task",
+      "story",
+      "small-job"
+    ],
+    "nounForm": "epic",
+    "verbForm": "N/A",
+    "adjectiveForm": "epic",
+    "partOfSpeech": "noun",
+    "commonContext": "Agile, Scrum, project management",
+    "usageTip": "Use 'epic' to describe a big project in your Jira or task board.",
+    "commonMistake": "Treating an 'epic' as a single small task.",
+    "collocations": [
+      "Agile epic",
+      "epic project",
+      "breaking down an epic"
+    ]
+  }
+]

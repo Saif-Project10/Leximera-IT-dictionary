@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Stateless",
+    "meaning": "Not storing or remembering previous interactions; each request is independent",
+    "shortMeaning": "no memory of past",
+    "example": "HTTP is a stateless protocol by design.",
+    "example2": "A stateless server is easier to scale horizontally.",
+    "example3": "The function was written to be completely stateless.",
+    "Explanation": "In computing, 'stateless' describes a system, protocol, or function that does not retain information or state from previous interactions. Each transaction or request is processed independently, without knowledge of what came before. This is a key characteristic of protocols like HTTP and is a principle in designing scalable microservices and serverless functions. It contrasts with 'stateful' systems, which remember past interactions (like a user's login session). The term is technical but fundamental to modern web architecture and distributed systems design.",
+    "synonyms": [
+      "sessionless",
+      "independent",
+      "idempotent (in some contexts)"
+    ],
+    "antonyms": [
+      "stateful",
+      "session-based",
+      "persistent"
+    ],
+    "nounForm": "statelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stateless",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computer science, web protocols, API design, cloud computing",
+    "usageTip": "Use it to describe systems, protocols, or application design where no client data is stored between requests.",
+    "commonMistake": "Confusing it with 'stateless' in a political context (referring to a person without citizenship).",
+    "collocations": [
+      "stateless protocol",
+      "stateless architecture",
+      "stateless application",
+      "stateless design"
+    ]
+  },
+  {
+    "word": "Stateless",
+    "meaning": "Processing each request independently with no memory of past requests.",
+    "shortMeaning": "no session memory",
+    "example": "REST APIs are designed to be stateless.",
+    "example2": "A stateless architecture makes scaling much easier.",
+    "example3": "The server treats every request as a new one, making it stateless.",
+    "Explanation": "A 'stateless' system does not store any information about previous requests. Each interaction is entirely independent. Because the server does not have to remember user sessions, stateless systems are much easier to scale horizontally—any server in a cluster can handle any request. This is the foundational principle of modern web architectures like REST. However, it means the client must provide all necessary information (like tokens or data) with every single request.",
+    "synonyms": [
+      "independent",
+      "non-persistent",
+      "request-based"
+    ],
+    "antonyms": [
+      "stateful",
+      "persistent",
+      "session-based"
+    ],
+    "nounForm": "statelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stateless",
+    "partOfSpeech": "adjective",
+    "commonContext": "API design, web services, cloud scaling",
+    "usageTip": "Use 'stateless' to describe scalable, independent request processing.",
+    "commonMistake": "Thinking stateless means the data is not saved at all.",
+    "collocations": [
+      "stateless API",
+      "stateless architecture",
+      "stateless service"
+    ]
+  },
+  {
+    "word": "Stateless",
+    "meaning": "Treating each interaction as independent, without memory",
+    "shortMeaning": "no memory",
+    "example": "The API is stateless; every request must contain all necessary data.",
+    "example2": "Stateless services are much easier to scale in cloud environments.",
+    "example3": "We converted the backend to a stateless design to improve performance.",
+    "Explanation": "The word 'stateless' refers to a system that does not store any information about previous interactions. Every request is handled as if it were the first time the server has ever seen the user. This design is highly scalable because any server in a cluster can handle the request. This is the foundation of modern, highly distributed web services and RESTful APIs. It is a major architecture goal in cloud computing.",
+    "synonyms": [
+      "memoryless",
+      "independent",
+      "transient"
+    ],
+    "antonyms": [
+      "stateful",
+      "remembering"
+    ],
+    "nounForm": "statelessness",
+    "verbForm": "N/A",
+    "adjectiveForm": "stateless",
+    "partOfSpeech": "adjective",
+    "commonContext": "REST APIs, cloud architecture",
+    "usageTip": "Use 'stateless' when talking about scalable API design.",
+    "commonMistake": "Confusing 'stateless' with having no data; it just means no session memory.",
+    "collocations": [
+      "stateless API",
+      "stateless service",
+      "stateless design"
+    ]
+  }
+]

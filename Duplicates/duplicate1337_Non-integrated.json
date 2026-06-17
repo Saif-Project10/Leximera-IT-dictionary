@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Non-integrated",
+    "meaning": "Not combined or coordinated into a unified whole; separate",
+    "shortMeaning": "not combined into a whole",
+    "example": "The old system uses non-integrated databases.",
+    "example2": "Non-integrated marketing efforts can confuse customers.",
+    "example3": "The report was criticized for its non-integrated approach.",
+    "Explanation": "'Non-integrated' describes systems, processes, or parts that operate independently and are not connected or working together seamlessly. In business and technology, this is often seen as a disadvantage because it leads to inefficiency, data silos, and poor user experience. It is the opposite of the modern ideal of 'integrated systems'. The term is used to identify a problem area that needs a solution for better coordination and information sharing.",
+    "synonyms": [
+      "separate",
+      "disconnected",
+      "standalone"
+    ],
+    "antonyms": [
+      "integrated",
+      "unified",
+      "connected"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "integrate",
+    "adjectiveForm": "non-integrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "IT systems, business processes, software applications",
+    "usageTip": "Used to highlight a lack of connection where connection would be beneficial.",
+    "commonMistake": "Confusing it with 'disintegrated', which means something that has fallen apart.",
+    "collocations": [
+      "non-integrated systems",
+      "non-integrated data",
+      "non-integrated approach"
+    ]
+  },
+  {
+    "word": "Non-integrated",
+    "meaning": "Operating separately without connection to other parts of a system",
+    "shortMeaning": "disconnected/separate",
+    "example": "The accounting software remained non-integrated with the sales module.",
+    "example2": "Non-integrated systems cause massive data silos.",
+    "example3": "We are fixing the non-integrated parts of the workflow.",
+    "Explanation": "A 'non-integrated' system operates in a silo—it does not talk to other applications, share data, or automate cross-system workflows. While this might be safe for simple tasks, it is a huge efficiency killer in modern IT. To be successful, organizations need to connect these systems (via APIs, databases, or middleware). Non-integrated systems create 'data silos' where information is trapped, making it impossible to get a full view of your organization's performance.",
+    "synonyms": [
+      "disconnected",
+      "siloed",
+      "standalone"
+    ],
+    "antonyms": [
+      "integrated",
+      "connected"
+    ],
+    "nounForm": "disconnection",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-integrated",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture and operations",
+    "usageTip": "Use 'non-integrated' for systems that don't connect.",
+    "commonMistake": "Assuming non-integrated systems are always safer; they are usually just inefficient.",
+    "collocations": [
+      "non-integrated system",
+      "non-integrated module",
+      "keep as non-integrated"
+    ]
+  }
+]

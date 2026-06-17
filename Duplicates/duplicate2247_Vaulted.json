@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Vaulted",
+    "meaning": "Secured in a strong room or protected environment.",
+    "shortMeaning": "protected in a vault",
+    "example": "The encryption keys are stored in a vaulted database.",
+    "example2": "We use a vaulted system for high-security credentials.",
+    "example3": "Vaulted data is inaccessible to unauthorized users.",
+    "Explanation": "Vaulted refers to something that is stored within a secure, protected area or system, often called a 'vault'. In IT, this refers to specialized software services like HashiCorp Vault that protect sensitive data like passwords, API keys, and certificates. Being 'vaulted' means it is heavily encrypted and access is strictly controlled. It is a gold standard for security. It ensures that even if a server is breached, the keys remain protected.",
+    "synonyms": [
+      "secured",
+      "protected",
+      "encrypted"
+    ],
+    "antonyms": [
+      "exposed",
+      "unprotected",
+      "public"
+    ],
+    "nounForm": "vault",
+    "verbForm": "vault",
+    "adjectiveForm": "vaulted",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Cybersecurity, credential management",
+    "usageTip": "Use this to describe secrets stored in secure containers.",
+    "commonMistake": "Confusing 'vaulted' with 'hidden'.",
+    "collocations": [
+      "vaulted database",
+      "vaulted credential",
+      "kept vaulted"
+    ]
+  },
+  {
+    "word": "Vaulted",
+    "meaning": "Secured within a vault or arched",
+    "shortMeaning": "secured / arched",
+    "example": "The sensitive data is kept in a vaulted storage system.",
+    "example2": "The architecture has a vaulted design.",
+    "example3": "All keys must be stored in the vaulted database.",
+    "Explanation": "The word 'vaulted' can refer to a physical arched structure or, more commonly in IT, to a highly secure storage area or system, often called a 'vault'. When data is 'vaulted', it is encrypted and kept in an isolated, secure location, away from the standard production environment. It implies high levels of security, restricted access, and long-term protection. It is a vital term in cybersecurity and data backup operations.",
+    "synonyms": [
+      "secured",
+      "protected",
+      "arched"
+    ],
+    "antonyms": [
+      "exposed",
+      "public",
+      "unprotected"
+    ],
+    "nounForm": "vault",
+    "verbForm": "vault",
+    "adjectiveForm": "vaulted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity and data storage",
+    "usageTip": "Use for highly secure, isolated data storage.",
+    "commonMistake": "Confusing 'vaulted' with 'hidden' (vaulted is explicitly secured).",
+    "collocations": [
+      "vaulted storage",
+      "vaulted data",
+      "highly vaulted"
+    ]
+  }
+]

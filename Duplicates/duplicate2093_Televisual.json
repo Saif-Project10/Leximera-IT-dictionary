@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Televisual",
+    "meaning": "Relating to television and its visual style.",
+    "shortMeaning": "TV-related",
+    "example": "The new interactive app has a distinct televisual style.",
+    "example2": "We used televisual effects to enhance the product demo.",
+    "example3": "The interface feels televisual, not software-like.",
+    "Explanation": "The word 'televisual' relates to the medium of television, especially its visual qualities, pacing, and style. In software design, this is sometimes used to describe an interface that feels more like an immersive, broadcast-style experience (like a high-end streaming service) rather than a utility or business app. It implies a high level of polish, animation, and visual impact.",
+    "synonyms": [
+      "broadcast-style",
+      "TV-based"
+    ],
+    "antonyms": [
+      "static",
+      "text-based",
+      "minimalist"
+    ],
+    "nounForm": "television",
+    "verbForm": "N/A",
+    "adjectiveForm": "televisual",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX design, streaming media",
+    "usageTip": "Use 'televisual' for broadcast-like, high-end interfaces.",
+    "commonMistake": "Using it for any UI (it implies a specific, TV-like quality).",
+    "collocations": [
+      "televisual style",
+      "televisual effects",
+      "televisual experience"
+    ]
+  },
+  {
+    "word": "Televisual",
+    "meaning": "Relating to or suitable for television",
+    "shortMeaning": "television-related",
+    "example": "The event has a strong televisual appeal.",
+    "example2": "He has a great televisual presence.",
+    "example3": "The televisual quality of the show is high.",
+    "Explanation": "The word 'televisual' describes things that are specifically designed for or related to television. It is often used in a professional or academic way to describe how well something works on TV or how it is styled for the medium. It can describe a person's appearance, a show's production style, or a concept. It is not commonly used in everyday speech, but appears in media criticism and broadcasting industry discussions.",
+    "synonyms": [
+      "broadcast-quality",
+      "visual",
+      "media-friendly"
+    ],
+    "antonyms": [
+      "unsuited",
+      "radio-oriented"
+    ],
+    "nounForm": "television",
+    "verbForm": "N/A",
+    "adjectiveForm": "televisual",
+    "partOfSpeech": "adjective",
+    "commonContext": "Broadcasting, media, journalism, show production",
+    "usageTip": "Use 'televisual' when talking about things made for the TV screen.",
+    "commonMistake": "Using it to describe anything visual; it specifically refers to TV.",
+    "collocations": [
+      "televisual style",
+      "televisual quality",
+      "televisual appeal"
+    ]
+  }
+]

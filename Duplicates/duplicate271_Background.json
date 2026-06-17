@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Background",
+    "meaning": "The part of a scene or situation that is behind the main subject; a person's experience, education, and social circumstances",
+    "shortMeaning": "rear part; personal history",
+    "example": "Mountains formed a beautiful background in the photograph.",
+    "example2": "She has a strong background in computer science.",
+    "example3": "The political background of the conflict is complex.",
+    "Explanation": "Background refers to what is at the back or the context from which something emerges. In visuals, it's the area behind the main focus. For a person, it's their history—education, family, and past experiences that shape them. In any situation, understanding the background means understanding the context and history that led to the current moment. It’s a crucial concept in photography, design, storytelling, and social analysis. It helps explain why things are the way they are.",
+    "synonyms": [
+      "context",
+      "history",
+      "setting",
+      "environment"
+    ],
+    "antonyms": [
+      "foreground",
+      "focus",
+      "spotlight"
+    ],
+    "nounForm": "background",
+    "verbForm": "N/A",
+    "adjectiveForm": "background",
+    "partOfSpeech": "noun",
+    "commonContext": "Photography, personal resumes, history, research",
+    "usageTip": "Use 'in the background' for a physical location. Use 'a background in' for experience in a field.",
+    "commonMistake": "Confusing 'background' (context/history) with 'backdrop' (a physical background, especially on a stage).",
+    "collocations": [
+      "background check",
+      "background information",
+      "background noise"
+    ]
+  },
+  {
+    "word": "Background",
+    "meaning": "The area behind the main objects, or processes that run quietly hidden from view",
+    "shortMeaning": "hidden layer or process",
+    "example": "The CSS script changes the background color of the web page to dark mode.",
+    "example2": "The smartphone app downloads massive media updates in the background.",
+    "example3": "He has a strong academic background in computer science and mathematics.",
+    "Explanation": "The word 'background' has two distinct meanings in information technology. Visually, it is the underlying color, image, or design behind user interface text and elements. Operationally, it refers to tasks or scripts that run quietly without interrupting the active user experience. Examples include antivirus scans, background syncs, and file downloads. It keeps applications fluid.",
+    "synonyms": [
+      "backdrop",
+      "rear",
+      "underlying process"
+    ],
+    "antonyms": [
+      "foreground",
+      "active window",
+      "surface"
+    ],
+    "nounForm": "background",
+    "verbForm": "background",
+    "adjectiveForm": "background",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "UI/UX design properties, operating system tasks, and professional resumes",
+    "usageTip": "Use 'background' to describe tasks that shouldn't interrupt what the user is currently doing.",
+    "commonMistake": "Spelling it as 'back ground' with a space; it is always a single compound word.",
+    "collocations": [
+      "background process",
+      "background color",
+      "background task"
+    ]
+  }
+]

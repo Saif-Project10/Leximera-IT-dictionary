@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Retreat",
+    "meaning": "To withdraw from enemy forces; to move back to a quiet or safe place; a quiet or secluded place.",
+    "shortMeaning": "withdraw, fall back; quiet place",
+    "example": "The army was forced to retreat.",
+    "example2": "He retreats to his cabin in the woods to write.",
+    "example3": "The yoga retreat offered peace and meditation.",
+    "Explanation": "'Retreat' can be a verb or a noun. As a verb, it means to move back, especially from danger or confrontation. It can be literal (military) or metaphorical (retreat from an argument). As a noun, it means the act of retreating or a place of privacy and safety, often for rest or meditation. The word carries connotations of seeking safety, solitude, or regrouping. It's a common word in military history, personal wellness, and real estate (a mountain retreat).",
+    "synonyms": [
+      "withdraw",
+      "fall back",
+      "seclude oneself",
+      "sanctuary"
+    ],
+    "antonyms": [
+      "advance",
+      "progress",
+      "charge",
+      "confront"
+    ],
+    "nounForm": "retreat",
+    "verbForm": "retreat",
+    "adjectiveForm": "retreating",
+    "partOfSpeech": "verb, noun",
+    "commonContext": "Military, personal space, wellness, religion",
+    "usageTip": "A 'strategic retreat' is a planned withdrawal to gain a better position.",
+    "commonMistake": "Using it only in a military sense; it's widely used for any kind of withdrawal to safety or privacy.",
+    "collocations": [
+      "beat a retreat",
+      "retreat into silence",
+      "spiritual retreat",
+      "in full retreat"
+    ]
+  },
+  {
+    "word": "Retreat",
+    "meaning": "To roll back a software deployment or move a system state back to a previous secure level during an active failure",
+    "shortMeaning": "roll back or withdraw",
+    "example": "When the cloud server deployment failed, the devops team had to retreat to the previous stable software version.",
+    "example2": "The security team decided to retreat from the network upgrade when unexpected bugs appeared.",
+    "example3": "We must retreat to our secondary backup server array until the main hub is cleared of malware.",
+    "Explanation": "While 'Retreat' is commonly a military or military strategy term, in IT infrastructure, it is used metaphorically or contextually to describe pulling back from a failed operation. If a software launch or server update goes horribly wrong, engineers cannot push forward blindly. They must retreat, meaning they execute rollback procedures, reverse code changes, or return to safe, historical configurations until they understand what caused the failure.",
+    "synonyms": [
+      "roll back",
+      "withdraw configuration",
+      "revert state"
+    ],
+    "antonyms": [
+      "advance deployment",
+      "push forward",
+      "proceed blindly"
+    ],
+    "nounForm": "retreat",
+    "verbForm": "retreat",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Disaster recovery, emergency deployment rollbacks, and incident mitigation",
+    "usageTip": "Use this term to describe withdrawing an unstable update or returning to a safe system baseline during a crisis.",
+    "commonMistake": "Confusing it with quitting software development; it is an organized, strategic system rollback action.",
+    "collocations": [
+      "retreat to backup version",
+      "forced to retreat",
+      "retreat from deployment changes"
+    ]
+  }
+]

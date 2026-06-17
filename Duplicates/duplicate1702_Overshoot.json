@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Overshoot",
+    "meaning": "When a signal or value goes past its intended target before settling",
+    "shortMeaning": "going past target",
+    "example": "The voltage showed a slight overshoot before stabilizing at 5V.",
+    "example2": "The cursor may overshoot the icon if the sensitivity is too high.",
+    "example3": "Control systems must be tuned to minimize overshoot.",
+    "Explanation": "Overshoot is a term used in electronics, control systems, and graphics. It describes the occurrence where a value 'jumps' higher than the target level before coming back down. For instance, in a power supply, the voltage might hit 5.5V for a microsecond before settling at 5V. In user interfaces, it refers to an animation that goes slightly too far to create a 'bouncy' feel. Excessive overshoot in hardware can damage components, so it is often suppressed using filters.",
+    "synonyms": [
+      "exceeding",
+      "overstepping",
+      "transient peak"
+    ],
+    "antonyms": [
+      "undershoot",
+      "steady state"
+    ],
+    "nounForm": "overshoot",
+    "verbForm": "overshoot",
+    "adjectiveForm": "overshot",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Electrical engineering, UI animation, and Control theory",
+    "usageTip": "Use this to describe a signal that is 'too enthusiastic' and passes its limit.",
+    "commonMistake": "Thinking overshoot is always bad; sometimes it is intentional in UI design.",
+    "collocations": [
+      "maximum overshoot",
+      "voltage overshoot",
+      "overshoot and ringing"
+    ]
+  },
+  {
+    "word": "Overshoot",
+    "meaning": "To go past a target or a limit accidentally",
+    "shortMeaning": "going too far",
+    "example": "The car began to overshoot the stopping line on the wet road.",
+    "example2": "The budget was $1000, but we managed to overshoot it by $200.",
+    "example3": "In UI animation, an overshoot makes the element bounce past its final position.",
+    "Explanation": "Overshoot means to exceed a target. In engineering and control systems (like a thermostat), it happens when a system tries to reach a set point but goes slightly past it before coming back. In UI/UX animation, an 'overshoot' effect is often used intentionally to create a 'bouncy' or 'organic' feel for menus or buttons. However, in project planning, an overshoot usually indicates a failure to accurately predict resources or time. It is about momentum carrying something past its goal.",
+    "synonyms": [
+      "exceed",
+      "go beyond",
+      "surpass"
+    ],
+    "antonyms": [
+      "undershoot",
+      "fall short"
+    ],
+    "nounForm": "overshoot",
+    "verbForm": "overshoot",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Physics, animations, and finance",
+    "usageTip": "Use 'overshoot' to describe when something goes past its intended destination.",
+    "commonMistake": "Confusing 'overshoot' with 'overrun'; overshoot is usually about a specific target point, while overrun is about a broad limit.",
+    "collocations": [
+      "overshoot the target",
+      "overshoot the budget",
+      "animation overshoot"
+    ]
+  }
+]

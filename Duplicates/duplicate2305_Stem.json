@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Stem",
+    "meaning": "To originate from or stop the flow of something",
+    "shortMeaning": "to originate or stop",
+    "example": "The security issues stem from poor input validation.",
+    "example2": "We need to stem the rise in server errors immediately.",
+    "example3": "Most of the problems stem from a single misconfigured firewall.",
+    "Explanation": "The word 'stem' has two common IT meanings. First, it refers to the origin or cause of something (e.g., 'the bug stems from...'). Second, it refers to stopping the flow of something, like 'stemming the tide' of invalid requests. Both usages are very frequent in professional reporting and debugging. It helps identify either the source of a problem or the need to halt a negative trend.",
+    "synonyms": [
+      "originate",
+      "arise",
+      "halt"
+    ],
+    "antonyms": [
+      "result",
+      "begin",
+      "flow"
+    ],
+    "nounForm": "stem",
+    "verbForm": "stem",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Debugging, cause analysis, security",
+    "usageTip": "Use 'stem' to clearly link a problem to its source.",
+    "commonMistake": "Confusing the source with the result.",
+    "collocations": [
+      "stem from",
+      "stem the flow",
+      "problem stems from"
+    ]
+  },
+  {
+    "word": "Stem",
+    "meaning": "To originate from a specific source, or to stop the flow or progression of an unwanted issue",
+    "shortMeaning": "originate or stop",
+    "example": "Most of the current application bugs stem from a poorly written database connection script.",
+    "example2": "The security patch managed to stem the flow of malicious traffic hitting the network.",
+    "example3": "Our current server slowdowns stem from outdated hardware components.",
+    "Explanation": "The word 'stem' has two main technical contextual meanings. When followed by 'from', it means that a problem or feature originates from a foundational source or root cause. As a direct verb, it means to block, check, or halt the progress of something negative, like a data leak or cyberattack. In system debugging, finding out where errors stem from helps developers create permanent fixes rather than temporary workarounds. It helps map out causal relationships within complex software architectures.",
+    "synonyms": [
+      "originate",
+      "arise",
+      "halt",
+      "restrict"
+    ],
+    "antonyms": [
+      "cause",
+      "encourage",
+      "promote",
+      "induce"
+    ],
+    "nounForm": "stem",
+    "verbForm": "stem",
+    "adjectiveForm": "stemming",
+    "partOfSpeech": "verb",
+    "commonContext": "Root cause analysis, incident response, network filtering",
+    "usageTip": "Combine with 'from' ('stem from') to clearly explain the origin of an application crash or bug.",
+    "commonMistake": "Using 'stem' without 'from' when you are trying to explain the cause of a software glitch.",
+    "collocations": [
+      "stem from",
+      "stem the flow",
+      "stem the crisis"
+    ]
+  }
+]

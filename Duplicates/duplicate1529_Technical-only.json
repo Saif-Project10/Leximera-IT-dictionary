@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Technical-only",
+    "meaning": "Involving or restricted to technical aspects, details, or personnel; excluding non-technical considerations",
+    "shortMeaning": "limited to technical matters",
+    "example": "The first meeting was technical-only, focusing on the software architecture.",
+    "example2": "Access to that server room is technical-only staff.",
+    "example3": "The document provides a technical-only overview without business context.",
+    "Explanation": "'Technical-only' is a compound adjective used to specify that something is confined purely to technical elements. It excludes business, financial, artistic, or user-experience perspectives. It's often used to label meetings, discussions, documentation, or access permissions that are intended for engineers, IT staff, or specialists. This term helps set boundaries and expectations, indicating that the conversation will be deep, specific, and may use jargon. It's common in project planning to separate phases: a 'technical-only' review vs. a 'business review'. It emphasizes a narrow, specialized focus.",
+    "synonyms": [
+      "specialist-only",
+      "engineering-focused",
+      "nuts-and-bolts"
+    ],
+    "antonyms": [
+      "holistic",
+      "business-focused",
+      "non-technical",
+      "general"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "technical-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, IT, engineering, meetings",
+    "usageTip": "Use it to clarify the scope of a discussion or resource, often hyphenated.",
+    "commonMistake": "Assuming 'technical-only' meetings are unimportant; they are crucial for implementation details.",
+    "collocations": [
+      "technical-only meeting",
+      "technical-only discussion",
+      "technical-only access",
+      "technical-only document"
+    ]
+  },
+  {
+    "word": "Technical-only",
+    "meaning": "Limited strictly to technical subject matter or requirements.",
+    "shortMeaning": "exclusively technical",
+    "example": "This is a technical-only documentation space.",
+    "example2": "We held a technical-only discussion about database performance.",
+    "example3": "The project brief is technical-only, no marketing fluff.",
+    "Explanation": "The term 'technical-only' is used when a discussion, document, or requirement set is intentionally restricted to technical matters. It excludes business strategy, user design, or other non-technical concerns. This is useful for filtering communication, ensuring that experts can talk about architecture and implementation without being interrupted by non-technical stakeholders, thus keeping the focus on precise, engineering-heavy goals.",
+    "synonyms": [
+      "strictly-technical",
+      "engineering-only"
+    ],
+    "antonyms": [
+      "business-oriented",
+      "general-purpose",
+      "user-centric"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "technical-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, documentation, meetings",
+    "usageTip": "Use 'technical-only' to clarify the scope of a conversation.",
+    "commonMistake": "Ignoring the value of business context in technical-only meetings.",
+    "collocations": [
+      "technical-only meeting",
+      "technical-only documentation",
+      "technical-only brief"
+    ]
+  }
+]

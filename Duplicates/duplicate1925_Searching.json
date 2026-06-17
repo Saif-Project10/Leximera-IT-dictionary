@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Searching",
+    "meaning": "The process of looking for data or information",
+    "shortMeaning": "looking",
+    "example": "The script is searching for a specific pattern.",
+    "example2": "We are searching for a better performance solution.",
+    "example3": "Searching large datasets can be slow.",
+    "Explanation": "The word 'searching' refers to the active task of finding something. In IT, this can be an algorithmic search through a list, looking for a bug in a file, or researching a technical solution to a problem. The noun form is 'search' and the verb is 'search'. While simple, it covers everything from a user's web search to complex computational algorithms. It is a fundamental operation in almost every application and system.",
+    "synonyms": [
+      "looking for",
+      "querying",
+      "seeking"
+    ],
+    "antonyms": [
+      "finding",
+      "discarding"
+    ],
+    "nounForm": "search",
+    "verbForm": "search",
+    "adjectiveForm": "searching",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Programming, user interaction, data analysis",
+    "usageTip": "Use 'searching' for the action of querying or looking through data.",
+    "commonMistake": "Confusing it with 'querying'; searching is the broad act, query is the specific request.",
+    "collocations": [
+      "searching for data",
+      "binary searching",
+      "searching logs"
+    ]
+  },
+  {
+    "word": "Searching",
+    "meaning": "The act of looking for something specific within a set",
+    "shortMeaning": "looking for data",
+    "example": "The system is currently searching through the large dataset.",
+    "example2": "He is searching for the root cause of the error.",
+    "example3": "We are searching for a better algorithm to optimize results.",
+    "Explanation": "Searching is the process of querying a database, memory, or file system to locate specific items. It is one of the most common and vital functions in computing. Different search algorithms, such as linear search or binary search, have different performance impacts depending on the size of the data. Efficient searching is critical for application responsiveness. As datasets grow into the millions, developing smarter, faster searching methods becomes a core challenge for software engineers.",
+    "synonyms": [
+      "querying",
+      "looking",
+      "scanning"
+    ],
+    "antonyms": [
+      "hiding",
+      "ignoring"
+    ],
+    "nounForm": "search",
+    "verbForm": "search",
+    "adjectiveForm": "searching",
+    "partOfSpeech": "verb",
+    "commonContext": "Algorithms, data management, UX",
+    "usageTip": "Use when describing the action of querying data.",
+    "commonMistake": "Confusing 'searching' with 'indexing' (indexing prepares for searching).",
+    "collocations": [
+      "searching for data",
+      "efficient searching",
+      "searching the database"
+    ]
+  }
+]

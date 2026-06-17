@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Stable",
+    "meaning": "Not likely to change, fall, or move; steady.",
+    "shortMeaning": "steady; unchanging",
+    "example": "After the medication, her condition is now stable.",
+    "example2": "He has a stable job with a good income.",
+    "example3": "The ladder must be stable before you climb it.",
+    "Explanation": "Stable means firmly fixed, balanced, or not subject to sudden or extreme change. It describes physical objects that won't fall over, conditions that are constant, emotions that are calm, and situations that are reliable. In economics, a stable market is predictable. A stable person is emotionally balanced. The word conveys security and reliability. The opposite is 'unstable', which implies danger or unpredictability. It's also a noun for a building where horses are kept. The context makes the meaning clear.",
+    "synonyms": [
+      "steady",
+      "firm",
+      "secure",
+      "constant",
+      "balanced"
+    ],
+    "antonyms": [
+      "unstable",
+      "shaky",
+      "volatile",
+      "unpredictable"
+    ],
+    "nounForm": "stability",
+    "verbForm": "stabilize",
+    "adjectiveForm": "stable",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Health, economics, structures, emotions, software",
+    "usageTip": "Use it to describe things that are reliable and not likely to change or fail unexpectedly.",
+    "commonMistake": "Confusing 'stable' (adjective) with 'staple' (a basic food item or main product).",
+    "collocations": [
+      "stable condition",
+      "stable relationship",
+      "politically stable",
+      "stable release"
+    ]
+  },
+  {
+    "word": "Stable",
+    "meaning": "Not easily changed, broken, or likely to fail",
+    "shortMeaning": "steady",
+    "example": "This is the most stable version of the software.",
+    "example2": "The connection must be stable for the video to work.",
+    "example3": "He needs a stable environment to perform the tests.",
+    "Explanation": "The word 'stable' is one of the most important terms in technology. It describes something that is consistent, reliable, and does not crash or change unexpectedly. A 'stable' release is the version of software ready for general use because all major bugs are fixed. When you say something is stable, you are giving it your trust. Use this word to describe the state of your code, your connection, or your infrastructure. It is the gold standard for production environments.",
+    "synonyms": [
+      "reliable",
+      "steady",
+      "fixed"
+    ],
+    "antonyms": [
+      "unstable",
+      "fragile",
+      "fluctuating"
+    ],
+    "nounForm": "stability",
+    "verbForm": "N/A",
+    "adjectiveForm": "stable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software releases, networks, engineering",
+    "usageTip": "Use to reassure users that the software works well.",
+    "commonMistake": "Calling software 'stable' when it still has frequent bugs.",
+    "collocations": [
+      "stable version",
+      "stable connection",
+      "stable release"
+    ]
+  }
+]

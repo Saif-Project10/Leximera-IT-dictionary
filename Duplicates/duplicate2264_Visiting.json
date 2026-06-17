@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Visiting",
+    "meaning": "Going to a place or website briefly",
+    "shortMeaning": "accessing",
+    "example": "Visiting the website triggers a cookie request.",
+    "example2": "The user is visiting the site from a mobile device.",
+    "example3": "Log all IPs visiting the secure portal.",
+    "Explanation": "In IT, 'visiting' refers to the act of a user or a bot accessing a website or a network resource. When you track site traffic, you are essentially logging how many unique users are 'visiting' each page. This term is central to analytics, web security, and server load estimation. Knowing the difference between 'visiting' (a request for access) and 'active usage' (interacting with the service) is important for accurately assessing your infrastructure needs.",
+    "synonyms": [
+      "accessing",
+      "browsing",
+      "navigating"
+    ],
+    "antonyms": [
+      "exiting",
+      "departing"
+    ],
+    "nounForm": "visitor",
+    "verbForm": "visit",
+    "adjectiveForm": "visiting",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Analytics, web development, traffic tracking",
+    "usageTip": "Use 'visiting' for web traffic and access.",
+    "commonMistake": "Confusing 'visiting' with 'connecting' (visiting is a high-level request).",
+    "collocations": [
+      "visiting the site",
+      "visiting user",
+      "track visiting IPs"
+    ]
+  },
+  {
+    "word": "Visiting",
+    "meaning": "Temporarily present at a place or within a system.",
+    "shortMeaning": "temporary presence",
+    "example": "The visiting developer helped us optimize our API.",
+    "example2": "The server logs show a visiting process from an external IP.",
+    "example3": "Visiting users often have restricted permissions.",
+    "Explanation": "In an IT context, 'visiting' usually describes an entity—a person (like a consultant), a bot, or a process—that is not part of the core infrastructure but is temporarily connected to it. Visiting users or bots are often treated differently by security filters. This term distinguishes between permanent, internal components and temporary, external guests that require specific monitoring to ensure they don't impact system stability.",
+    "synonyms": [
+      "temporary",
+      "guest",
+      "transient"
+    ],
+    "antonyms": [
+      "permanent",
+      "resident",
+      "internal"
+    ],
+    "nounForm": "visit",
+    "verbForm": "visit",
+    "adjectiveForm": "visiting",
+    "partOfSpeech": "adjective",
+    "commonContext": "Access management and security",
+    "usageTip": "Use for temporary access or external guests.",
+    "commonMistake": "Confusing a 'visiting process' with a resident system process.",
+    "collocations": [
+      "visiting user",
+      "visiting expert",
+      "visiting process"
+    ]
+  }
+]

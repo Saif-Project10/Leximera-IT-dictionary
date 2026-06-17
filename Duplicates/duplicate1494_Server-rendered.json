@@ -1,0 +1,88 @@
+[
+  {
+    "word": "Server-rendered",
+    "meaning": "Having its HTML structure generated on the server before being sent to the client browser.",
+    "shortMeaning": "rendered on the server",
+    "example": "The site uses server-rendered pages for better initial load performance.",
+    "example2": "Server-rendered content is generally better for SEO.",
+    "example3": "We switched from a client-rendered React app to a server-rendered Next.js app.",
+    "Explanation": "'Server-rendered' is a compound adjective specific to web development. It describes a web page whose final HTML is assembled on the server. When a user requests a page, the server runs the necessary code to create the full HTML document and sends it. The browser receives ready-to-display HTML. This contrasts with 'client-rendered' where the browser receives a minimal HTML file and JavaScript that builds the page. Server-rendering is often praised for faster initial page loads and search engine optimization (SEO).",
+    "synonyms": [
+      "server-side rendered (SSR)",
+      "back-end rendered"
+    ],
+    "antonyms": [
+      "client-rendered",
+      "client-side rendered (CSR)"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-rendered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, frontend architecture, SEO",
+    "usageTip": "This is a highly technical term within web development. Often abbreviated as SSR.",
+    "commonMistake": "Confusing it with 'server-generated'; they are very similar, but 'rendered' specifically refers to creating the final visual output (HTML).",
+    "collocations": [
+      "server-rendered application",
+      "server-rendered HTML",
+      "server-rendered views"
+    ]
+  },
+  {
+    "word": "Server-rendered",
+    "meaning": "The process of converting HTML pages to full content on the server",
+    "shortMeaning": "rendered on server",
+    "example": "We use server-rendered pages for better SEO.",
+    "example2": "The initial view is server-rendered for faster loading.",
+    "example3": "Server-rendered sites are easier for search bots to read.",
+    "Explanation": "In 'server-rendered' websites, the server prepares the final HTML of a webpage and sends it to the browser. The browser then displays it immediately. This contrasts with client-side rendering, where the browser must download a script and build the page itself. Server-rendering is highly beneficial for SEO because search engine crawlers receive a complete, ready-to-read page. It is a preferred method for content-heavy sites. Remember that it puts more load on the server than client-side rendering.",
+    "synonyms": [
+      "SSR",
+      "server-side rendered"
+    ],
+    "antonyms": [
+      "client-rendered",
+      "client-side rendered"
+    ],
+    "nounForm": "server-side rendering",
+    "verbForm": "N/A",
+    "adjectiveForm": "server-rendered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, SEO",
+    "usageTip": "Use this term when discussing page load performance and SEO.",
+    "commonMistake": "Ignoring the increased server load that comes with this method.",
+    "collocations": [
+      "server-rendered content",
+      "server-rendered pages",
+      "server-rendered HTML"
+    ]
+  },
+  {
+    "word": "Server-rendered",
+    "meaning": "The page is built by the server and sent to the browser",
+    "shortMeaning": "server-built",
+    "example": "The website uses server-rendered pages for faster initial loads.",
+    "example2": "We prefer server-rendered content for better SEO performance.",
+    "example3": "The dashboard is server-rendered to save client memory.",
+    "Explanation": "Server-rendered refers to a web page that is constructed completely on the server side and then sent as finished HTML to the user's browser. This is very good for SEO and provides a faster initial view for the user. Unlike client-side rendering, where the browser does the work, server-rendering reduces the processing burden on the user's phone or computer. It is a classic and highly effective web development strategy.",
+    "synonyms": [
+      "SSR"
+    ],
+    "antonyms": [
+      "client-rendered",
+      "CSR"
+    ],
+    "nounForm": "rendering",
+    "verbForm": "render",
+    "adjectiveForm": "server-rendered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web development, SEO",
+    "usageTip": "Use this to describe how your website builds its pages.",
+    "commonMistake": "Thinking server-rendered is always better than client-rendered.",
+    "collocations": [
+      "server-rendered pages",
+      "server-rendered content",
+      "server-rendered app"
+    ]
+  }
+]

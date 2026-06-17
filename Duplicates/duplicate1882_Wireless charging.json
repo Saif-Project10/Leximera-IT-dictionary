@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Wireless charging",
+    "meaning": "The process of charging a battery without a physical plug or cable",
+    "shortMeaning": "cordless charging",
+    "example": "I put my phone on the pad to start wireless charging.",
+    "example2": "Wireless charging is convenient because you don't have to fumble with cables.",
+    "example3": "Many new cars now include a built-in mat for wireless charging.",
+    "Explanation": "Wireless charging, also known as inductive charging, uses electromagnetic fields to transfer energy between two objects. Usually, a charging station or pad creates an alternating electromagnetic field, and a portable device uses an induction coil to take power from it. The most common standard for this is called 'Qi'. It is widely used for smartphones, smartwatches, and electric toothbrushes. While convenient, it is generally slower and less energy-efficient than using a traditional cable.",
+    "synonyms": [
+      "inductive charging",
+      "cordless power",
+      "Qi charging"
+    ],
+    "antonyms": [
+      "wired charging",
+      "plug-in charging"
+    ],
+    "nounForm": "wireless charger",
+    "verbForm": "charge wirelessly",
+    "adjectiveForm": "wireless-charging",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Consumer electronics and mobile accessories",
+    "usageTip": "Make sure your phone case is thin enough for wireless charging to work.",
+    "commonMistake": "Thinking wireless charging means the charger itself doesn't have a wire; the pad still needs power.",
+    "collocations": [
+      "wireless charging pad",
+      "fast wireless charging",
+      "wireless charging station"
+    ]
+  },
+  {
+    "word": "Wireless charging",
+    "meaning": "Powering a device by placing it on a charging pad without plugging in a cable",
+    "shortMeaning": "charging without cables",
+    "example": "His phone supports wireless charging.",
+    "example2": "Place the device on the mat for wireless charging.",
+    "example3": "Wireless charging is convenient but sometimes slower.",
+    "Explanation": "Wireless charging uses magnetic induction to transfer energy from a pad to a device. It eliminates the need for physical charging ports or cables, which can wear out over time. This technology is becoming standard in smartphones, wearables, and some laptops. Users must place the device in the correct position for the energy transfer to occur efficiently. It is important to note that the device still requires a source of power for the base station.",
+    "synonyms": [
+      "inductive charging",
+      "cordless charging"
+    ],
+    "antonyms": [
+      "wired charging",
+      "plug-in charging"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun phrase",
+    "commonContext": "Consumer electronics, mobile devices",
+    "usageTip": "Use this term when discussing modern methods of powering devices without physical connectors.",
+    "commonMistake": "Assuming wireless charging is as fast as fast-wired charging.",
+    "collocations": [
+      "wireless charging pad",
+      "support wireless charging",
+      "slow wireless charging"
+    ]
+  }
+]

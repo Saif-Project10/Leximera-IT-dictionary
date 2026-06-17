@@ -1,0 +1,129 @@
+[
+  {
+    "word": "Secure",
+    "meaning": "1. Fixed or fastened so as not to give way. 2. Free from danger or threat. 3. To obtain or lock something.",
+    "shortMeaning": "safe; firmly fixed; to obtain",
+    "example": "Make sure the ladder is secure before climbing. (fixed)",
+    "example2": "Your data is secure with our encryption. (safe)",
+    "example3": "He managed to secure a loan from the bank. (obtain)",
+    "Explanation": "'Secure' is an adjective meaning safe, stable, or protected. As a verb, it means to fasten, protect, or obtain (especially something desirable, like a job or deal). In computing, security is paramount, meaning protection from unauthorized access. The word conveys confidence and stability. It is used in physical contexts (secure door), emotional contexts (feel secure), and digital contexts (secure connection). The noun form is 'security'.",
+    "synonyms": [
+      "safe",
+      "protected",
+      "stable",
+      "acquire"
+    ],
+    "antonyms": [
+      "insecure",
+      "vulnerable",
+      "loose",
+      "lose"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adjective, verb",
+    "commonContext": "Safety, IT, finance, construction, emotions",
+    "usageTip": "As an adjective, use 'secure' to describe something that is safe or firmly attached. As a verb, it often means 'to get' in a formal context.",
+    "commonMistake": "Using 'secure' as a verb to mean only 'to lock'. It has a broader meaning of 'to obtain' (e.g., secure funding).",
+    "collocations": [
+      "secure connection",
+      "secure a deal",
+      "feel secure",
+      "financially secure"
+    ]
+  },
+  {
+    "word": "Secure",
+    "meaning": "Protected against threats or unauthorized access",
+    "shortMeaning": "safe, protected",
+    "example": "We need a secure connection to the database.",
+    "example2": "Ensure your code is secure from injection.",
+    "example3": "The data is stored in a secure location.",
+    "Explanation": "The word 'secure' means that a system, network, or piece of data is safe from attack, theft, or unauthorized access. It is one of the most important concepts in IT. The noun is 'security' and the verb is 'secure'. 'Securing' a system involves implementing protocols like encryption, authentication, and firewalls. A 'secure' system is one that has been hardened against known vulnerabilities and is monitored for potential threats.",
+    "synonyms": [
+      "safe",
+      "protected",
+      "hardened"
+    ],
+    "antonyms": [
+      "insecure",
+      "vulnerable",
+      "exposed"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, cyber security, data privacy",
+    "usageTip": "Use 'secure' to describe assets that are protected.",
+    "commonMistake": "Thinking 'secure' means 'completely unhackable'; it just means well-protected.",
+    "collocations": [
+      "secure connection",
+      "secure storage",
+      "secure code"
+    ]
+  },
+  {
+    "word": "Secure",
+    "meaning": "Protected against danger, theft, or unauthorized access",
+    "shortMeaning": "protected",
+    "example": "We need to ensure the application is secure from attacks.",
+    "example2": "The file is transferred over a secure connection.",
+    "example3": "Make sure your database is secure before going live.",
+    "Explanation": "Being secure means that a system, network, or application has been built with protections to prevent unauthorized use or data loss. In IT, 'secure' is not just a state but a continuous process involving encryption, authentication, testing, and regular updates. A secure system is resilient against common threats like hacking or data leaks. It is one of the most fundamental requirements for any professional-grade software development project today.",
+    "synonyms": [
+      "protected",
+      "safe",
+      "shielded"
+    ],
+    "antonyms": [
+      "insecure",
+      "vulnerable",
+      "exposed"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Security, networking, development",
+    "usageTip": "Use to describe protected systems.",
+    "commonMistake": "Assuming a system is secure just because it has a password.",
+    "collocations": [
+      "secure connection",
+      "highly secure",
+      "keep secure"
+    ]
+  },
+  {
+    "word": "Secure",
+    "meaning": "To protect software, networks, data, or hardware devices from unauthorized access, cyberattacks, or damage",
+    "shortMeaning": "protect from attacks",
+    "example": "Developers must use strong hashing algorithms to secure user passwords in the database storage.",
+    "example2": "It is important to secure your office wireless network with a strong security password.",
+    "example3": "The cloud provider uses advanced firewall systems to keep your hosted infrastructure secure.",
+    "Explanation": "The word 'Secure' is one of the most critical terms in the IT industry, acting as both a verb and an adjective. As a verb, it means applying protective tools like encryption, authentication, and firewalls to keep data safe. As an adjective, it describes a system that is completely safe from known risks, exploits, or hacks. Securing systems is an ongoing process because new software vulnerabilities are discovered by hackers every day.",
+    "synonyms": [
+      "protect",
+      "harden",
+      "safeguard"
+    ],
+    "antonyms": [
+      "expose",
+      "endanger",
+      "vulnerable"
+    ],
+    "nounForm": "security",
+    "verbForm": "secure",
+    "adjectiveForm": "secure",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Cybersecurity practices, database settings, and network configurations",
+    "usageTip": "Use 'secure' when talking about making an application safe from external malicious attacks or data leaks.",
+    "commonMistake": "Believing a system is one hundred percent secure forever; security requires constant updates and monitoring.",
+    "collocations": [
+      "secure connection",
+      "secure database",
+      "secure data transmission"
+    ]
+  }
+]

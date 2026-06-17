@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Victorious",
+    "meaning": "Having won a victory or succeeded",
+    "shortMeaning": "winning",
+    "example": "The team was victorious after fixing the major outage.",
+    "example2": "He felt victorious when the script finally ran without errors.",
+    "example3": "The project was victorious in securing the final budget.",
+    "Explanation": "The word 'victorious' describes someone or a team that has achieved success after a challenge or conflict. In IT, this is a more dramatic term, often used to describe the feeling after successfully completing a difficult migration, solving a persistent bug, or winning a hard-fought competition. While not a standard technical term, it captures the human element of technology—the triumph of skill over complex technical problems. Use it to highlight accomplishments.",
+    "synonyms": [
+      "successful",
+      "winning",
+      "triumphant"
+    ],
+    "antonyms": [
+      "defeated",
+      "unsuccessful",
+      "failed"
+    ],
+    "nounForm": "victory",
+    "verbForm": "win",
+    "adjectiveForm": "victorious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Team success, milestones, project completion",
+    "usageTip": "Use 'victorious' to describe significant project successes.",
+    "commonMistake": "Overusing it; save it for truly difficult tasks.",
+    "collocations": [
+      "feeling victorious",
+      "victorious team",
+      "emerge victorious"
+    ]
+  },
+  {
+    "word": "Victorious",
+    "meaning": "Having won a victory or finished successfully.",
+    "shortMeaning": "winning",
+    "example": "The development team felt victorious after solving the major bug.",
+    "example2": "The new software update emerged victorious in the performance tests.",
+    "example3": "A victorious outcome boosted the team's morale.",
+    "Explanation": "In an IT context, 'victorious' is used figuratively to describe the successful completion of a difficult project, the defeat of a persistent technical challenge, or the superior performance of a system under stress. It implies a struggle or competition has taken place, and the result is a clear win. It is not a standard technical term, but it is often used in project management or team communication to celebrate significant milestones and achievements.",
+    "synonyms": [
+      "successful",
+      "triumphant",
+      "winning"
+    ],
+    "antonyms": [
+      "defeated",
+      "unsuccessful",
+      "failed"
+    ],
+    "nounForm": "victory",
+    "verbForm": "N/A",
+    "adjectiveForm": "victorious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project completion and team achievements",
+    "usageTip": "Use this to celebrate success after overcoming a difficult challenge.",
+    "commonMistake": "Using this for minor tasks; reserve it for significant accomplishments.",
+    "collocations": [
+      "victorious team",
+      "victorious outcome",
+      "emerged victorious"
+    ]
+  }
+]

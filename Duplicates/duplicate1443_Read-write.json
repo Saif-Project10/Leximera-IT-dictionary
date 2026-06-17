@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Read-write",
+    "meaning": "Capable of both reading and writing data; having both read and write permissions.",
+    "shortMeaning": "both readable and writable",
+    "example": "Make sure the file is in a read-write format.",
+    "example2": "The user needs read-write access to the database.",
+    "example3": "A read-write memory chip allows data to be stored and changed.",
+    "Explanation": "'Read-write' is a compound adjective used in computing and data storage. It describes a device, file, or permission that allows data to be both retrieved (read) and modified or saved (write). This contrasts with 'read-only', which only allows viewing. It's a technical term essential for understanding file systems, user permissions, and hardware capabilities like RAM or flash drives. The term is always hyphenated. It's a fundamental concept for anyone working with computers, programming, or IT administration.",
+    "synonyms": [
+      "editable",
+      "modifiable"
+    ],
+    "antonyms": [
+      "read-only"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "read-write",
+    "partOfSpeech": "adjective",
+    "commonContext": "Computing, file permissions, data storage",
+    "usageTip": "Often used in phrases like 'read-write access', 'read-write head' (on a hard drive), 'read-write memory'.",
+    "commonMistake": "Writing it as two separate words without the hyphen, which changes the meaning.",
+    "collocations": [
+      "read-write permission",
+      "read-write capability",
+      "read-write file"
+    ]
+  },
+  {
+    "word": "Read-write",
+    "meaning": "Permitting both viewing and modifying",
+    "shortMeaning": "full access",
+    "example": "The user requires read-write access to update the logs.",
+    "example2": "The drive was mounted in read-write mode.",
+    "example3": "He switched the database to read-write for the import.",
+    "Explanation": "'Read-write' describes a state where an account, user, or process has the permission to both read data and perform modifications like writing, updating, or deleting. This is the standard 'full access' level. It is powerful but also carries higher risk; if a process has read-write access, it has the ability to corrupt or destroy data. Therefore, it should be granted carefully, following the principle of least privilege.",
+    "synonyms": [
+      "full-access",
+      "editable"
+    ],
+    "antonyms": [
+      "read-only"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "read-write",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, Permissions, Databases",
+    "usageTip": "Use when someone needs full control over a file or system.",
+    "commonMistake": "Giving read-write access when read-only is enough.",
+    "collocations": [
+      "read-write access",
+      "read-write mode",
+      "read-write permission"
+    ]
+  }
+]

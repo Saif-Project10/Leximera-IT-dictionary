@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Centralized",
+    "meaning": "Concentrated and controlled from a single, main place or authority.",
+    "shortMeaning": "controlled from one center",
+    "example": "The company has a centralized IT department that supports all branches.",
+    "example2": "A centralized government holds most power at the national level.",
+    "example3": "Bitcoin is decentralized, unlike centralized banking systems.",
+    "Explanation": "Centralized is an adjective describing an organizational or system structure where planning, decision-making, and control are held by a single group or location. It contrasts with 'decentralized' or 'distributed.' Centralization can lead to efficiency, consistency, and clear accountability but can also create bottlenecks, single points of failure, and lack of local adaptability. The verb is 'centralize.' This concept is key in management, politics, computer networks, and blockchain discussions. Understanding the trade-offs between centralized and decentralized models is important for system design and governance.",
+    "synonyms": [
+      "concentrated",
+      "unified",
+      "consolidated"
+    ],
+    "antonyms": [
+      "decentralized",
+      "distributed",
+      "dispersed"
+    ],
+    "nounForm": "centralization",
+    "verbForm": "centralize",
+    "adjectiveForm": "centralized",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, government, computing, and finance.",
+    "usageTip": "Use 'centralized' to describe control or authority that comes from one core source.",
+    "commonMistake": "Confusing 'centralized' with 'centered' (located in the center).",
+    "collocations": [
+      "centralized system",
+      "centralized authority",
+      "highly centralized"
+    ]
+  },
+  {
+    "word": "Centralized",
+    "meaning": "Managed, stored, or controlled in a single central place rather than spread out across locations",
+    "shortMeaning": "concentrated",
+    "example": "The company moved all user files into a centralized cloud folder for better control.",
+    "example2": "A centralized database system is easier to patch than hundreds of separate desktop units.",
+    "example3": "We use a centralized authentication service to verify employee logins safely.",
+    "Explanation": "The word 'Centralized' describes a system architecture where power, data, or processing flows through a single main point. This is a foundational concept in IT, often contrasted directly with 'decentralized' or 'distributed' setups like blockchain. It functions as a past-tense verb or adjective. Centralized networks offer easy administration and uniform policy enforcement across a company. However, engineers must protect centralized setups because a single crash can block access for all users. Do not confuse it with physical location centering on a UI map.",
+    "synonyms": [
+      "concentrated",
+      "unified",
+      "consolidated"
+    ],
+    "antonyms": [
+      "decentralized",
+      "distributed",
+      "scattered"
+    ],
+    "nounForm": "centralization",
+    "verbForm": "centralize",
+    "adjectiveForm": "centralized",
+    "partOfSpeech": "verb (past tense) / adjective",
+    "commonContext": "System architecture, data storage strategies, user access management",
+    "usageTip": "Use 'centralized' when talking about bringing distributed data points together under one master system.",
+    "commonMistake": "Using 'centralized' to mean 'physically placed in the center of the office floor'.",
+    "collocations": [
+      "centralized database",
+      "centralized system",
+      "centralized management"
+    ]
+  }
+]

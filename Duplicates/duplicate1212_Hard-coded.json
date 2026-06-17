@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Hard-coded",
+    "meaning": "Referring to data or values that are directly written into a program's source code, rather than being variables that can be easily changed.",
+    "shortMeaning": "fixed in source code",
+    "example": "The URL was hard-coded, so we had to change the script to update it.",
+    "example2": "Avoid hard-coded passwords in your applications.",
+    "example3": "Hard-coded constants make software less flexible.",
+    "Explanation": "'Hard-coded' is a compound adjective used in software development. It describes information (like numbers, strings, or configuration details) that is embedded directly into the program's code. This is generally considered bad practice because it makes the software inflexible—any change requires modifying and recompiling the code. The preferred approach is to use configuration files, environment variables, or databases so settings can be changed without altering the code. It's a common term in code reviews and discussions about software maintainability.",
+    "synonyms": [
+      "embedded",
+      "fixed",
+      "literal"
+    ],
+    "antonyms": [
+      "configurable",
+      "dynamic",
+      "parameterized"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "hard-code",
+    "adjectiveForm": "hard-coded",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, software engineering, code quality",
+    "usageTip": "Always hyphenate. It's usually used with a negative connotation to criticize poor design.",
+    "commonMistake": "Using it to mean 'difficult to understand'; it's about where data is stored in the code, not its complexity.",
+    "collocations": [
+      "hard-coded value",
+      "hard-coded path",
+      "hard-coded IP address"
+    ]
+  },
+  {
+    "word": "Hard-coded",
+    "meaning": "Data written directly into the source code",
+    "shortMeaning": "written in code",
+    "example": "The configuration values were hard-coded instead of using a file.",
+    "example2": "Hard-coded passwords are a huge security risk.",
+    "example3": "Remove all hard-coded URLs to make the system flexible.",
+    "Explanation": "The term 'hard-coded' means that data (like configuration settings, passwords, or URLs) is written directly into the source code. This is generally considered a bad practice because it makes the code inflexible; to change a value, you have to edit and recompile the code. It also leads to security risks if sensitive data like secrets are hard-coded. Always use configuration files or environment variables instead of 'hard-coding' values for production environments.",
+    "synonyms": [
+      "fixed",
+      "embedded"
+    ],
+    "antonyms": [
+      "dynamic",
+      "configurable"
+    ],
+    "nounForm": "code",
+    "verbForm": "hard-code",
+    "adjectiveForm": "hard-coded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Software development, security",
+    "usageTip": "Use 'hard-coded' to warn against putting settings in code.",
+    "commonMistake": "Hard-coding sensitive keys like API tokens.",
+    "collocations": [
+      "hard-coded values",
+      "hard-coded URLs",
+      "avoid hard-coded settings"
+    ]
+  }
+]

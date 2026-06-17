@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Resolved",
+    "meaning": "Found a solution to a problem; firmly decided to do something",
+    "shortMeaning": "solved, decided",
+    "example": "The dispute was resolved through negotiation.",
+    "example2": "She resolved to study harder next semester.",
+    "example3": "All technical issues have been resolved.",
+    "Explanation": "'Resolved' is the past tense/participle of 'resolve'. As a verb, it means to settle a problem or conflict satisfactorily. It can also mean to make a firm decision ('resolved to'). As an adjective, it describes someone who is determined. It implies a finality and completeness in the solution or decision. It's stronger than 'solved' as it often involves complexities like disagreements or doubts.",
+    "synonyms": [
+      "solved",
+      "settled",
+      "determined"
+    ],
+    "antonyms": [
+      "aggravated",
+      "wavered",
+      "ignored"
+    ],
+    "nounForm": "resolution",
+    "verbForm": "resolve",
+    "adjectiveForm": "resolved",
+    "partOfSpeech": "verb (past tense/participle), adjective",
+    "commonContext": "Conflicts, technical support, personal goals",
+    "usageTip": "Use 'resolved' for problems that are completely settled or for firm personal decisions.",
+    "commonMistake": "Using 'resolved' for simple answers, where 'solved' or 'answered' is sufficient.",
+    "collocations": [
+      "resolved amicably",
+      "firmly resolved",
+      "resolved the matter"
+    ]
+  },
+  {
+    "word": "Resolved",
+    "meaning": "Firmly determined to do something or having settled a problem",
+    "shortMeaning": "determined or fixed",
+    "example": "He is resolved to finish the migration by tonight.",
+    "example2": "The server error was resolved after a reboot.",
+    "example3": "They have a resolved mindset regarding the merger.",
+    "Explanation": "Resolved has two main meanings: it describes a person who has made a firm decision, or a situation that has been settled. In IT, it is most frequently used to describe a bug or ticket that has been fixed. When a person is resolved, it suggests they have thought through their options and are moving forward with commitment. It is a standard term in professional status updates to communicate that an issue no longer needs attention or that a plan is finalized.",
+    "synonyms": [
+      "determined",
+      "settled",
+      "fixed"
+    ],
+    "antonyms": [
+      "undecided",
+      "unresolved",
+      "ongoing"
+    ],
+    "nounForm": "resolution",
+    "verbForm": "resolve",
+    "adjectiveForm": "resolved",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Status reports, decision making, IT support",
+    "usageTip": "In IT tickets, use 'resolved' to indicate a task is officially finished.",
+    "commonMistake": "Confusing 'resolved' with 'addressed,' as 'resolved' implies the root cause is gone.",
+    "collocations": [
+      "problem resolved",
+      "fully resolved",
+      "remain resolved"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Prolonged",
+    "meaning": "Lasting for a long time or longer than usual",
+    "shortMeaning": "extended in time",
+    "example": "The prolonged drought damaged crops.",
+    "example2": "She underwent prolonged medical treatment.",
+    "example3": "A prolonged period of silence followed.",
+    "Explanation": "'Prolonged' is an adjective that emphasizes the excessive or unusual length of time something takes or lasts. It often has a negative connotation, suggesting something difficult, tedious, or harmful has gone on too long. It is the past participle of 'prolong', meaning to extend duration. It is used for events, states, or conditions (prolonged exposure, prolonged negotiations). The word signals that the duration is noteworthy and often problematic.",
+    "synonyms": [
+      "extended",
+      "lengthy",
+      "protracted"
+    ],
+    "antonyms": [
+      "brief",
+      "short-lived",
+      "fleeting"
+    ],
+    "nounForm": "prolongation",
+    "verbForm": "prolong",
+    "adjectiveForm": "prolonged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Weather, illness, conflicts, discussions",
+    "usageTip": "Often used before nouns describing negative situations (prolonged suffering, prolonged delay).",
+    "commonMistake": "Confusing it with 'long'. 'Prolonged' implies an extension beyond the normal or expected.",
+    "collocations": [
+      "prolonged absence",
+      "prolonged use",
+      "prolonged contact"
+    ]
+  },
+  {
+    "word": "Prolonged",
+    "meaning": "Continuing for a long time",
+    "shortMeaning": "extended",
+    "example": "The prolonged testing phase caused a delay.",
+    "example2": "Prolonged usage can lead to hardware overheating.",
+    "example3": "The server experienced a prolonged outage.",
+    "Explanation": "The word 'prolonged' describes something that lasts for an unusually long time. It often implies that the duration is undesirable or excessive. The base verb is 'prolong'. In IT, a 'prolonged' delay, outage, or testing period can be problematic for project schedules. Always try to anticipate and manage factors that could lead to prolonged downtimes. Using this term clearly warns about an extended duration that might impact the project's overall success or timeline.",
+    "synonyms": [
+      "extended",
+      "lengthy",
+      "long-lasting"
+    ],
+    "antonyms": [
+      "short",
+      "brief",
+      "temporary"
+    ],
+    "nounForm": "prolongation",
+    "verbForm": "prolong",
+    "adjectiveForm": "prolonged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project timeline, system health",
+    "usageTip": "Use to describe issues that are taking too long.",
+    "commonMistake": "Confusing 'prolonged' with 'delayed' (delay is the cause, prolonged is the result).",
+    "collocations": [
+      "prolonged outage",
+      "prolonged delay",
+      "prolonged usage"
+    ]
+  }
+]

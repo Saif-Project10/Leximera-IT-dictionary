@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Field test",
+    "meaning": "A trial of a new product, system, or theory in a real-world environment instead of a laboratory",
+    "shortMeaning": "real-world trial",
+    "example": "The new software is undergoing a field test with a small group of users.",
+    "example2": "Before mass production, the rugged laptop must pass a rigorous field test.",
+    "example3": "The military conducted a field test of the new communication equipment.",
+    "Explanation": "A field test is the stage of development where a product is taken out of the controlled lab and put into the hands of actual users or exposed to natural elements. This helps identify bugs, durability issues, or usability problems that weren't apparent during initial testing. It is essential for hardware, software, and even scientific theories. Success in a field test usually precedes a full-scale public release or commercial deployment. It provides the most realistic data on how a product will perform in daily use.",
+    "synonyms": [
+      "practical trial",
+      "site test",
+      "beta test"
+    ],
+    "antonyms": [
+      "laboratory test",
+      "simulated test"
+    ],
+    "nounForm": "field testing",
+    "verbForm": "field test",
+    "adjectiveForm": "field-tested",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Product development, engineering, and software releases",
+    "usageTip": "Use 'field-tested' as an adjective to describe a product that has proven its reliability in real situations.",
+    "commonMistake": "Thinking a field test is the same as a beta test; field tests often involve hardware and physical environments.",
+    "collocations": [
+      "successful field test",
+      "conduct a field test",
+      "rigorous field test"
+    ]
+  },
+  {
+    "word": "Field test",
+    "meaning": "Testing a product or software in the actual environment where it will be used",
+    "shortMeaning": "real-world test",
+    "example": "Before the official release, we need to field test the app in areas with low internet.",
+    "example2": "The new hardware underwent a field test in the desert to check its durability.",
+    "example3": "Results from the field test showed that the UI was confusing for real users.",
+    "Explanation": "A field test moves beyond the controlled environment of a laboratory or developer's office. It involves putting the technology into the hands of real people in real situations. For example, if you build a navigation app, a field test would involve people driving with it in different cities. This helps identify 'edge cases' or problems that don't appear during internal testing. It is a crucial phase in the product development lifecycle. It ensures that the product is practical and reliable. In software, this is often similar to a 'Beta test'.",
+    "synonyms": [
+      "real-world test",
+      "practical test",
+      "beta test"
+    ],
+    "antonyms": [
+      "lab test",
+      "internal test",
+      "simulated test"
+    ],
+    "nounForm": "field test",
+    "verbForm": "field test",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Product development, hardware, and UX research",
+    "usageTip": "Use 'field test' when you want to see how your project works outside of the office.",
+    "commonMistake": "Thinking a 'field test' is just another bug check; it's about context and environment.",
+    "collocations": [
+      "conduct a field test",
+      "field test results",
+      "successful field test"
+    ]
+  }
+]

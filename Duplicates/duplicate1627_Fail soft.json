@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Fail soft",
+    "meaning": "A system that continues to work but with reduced features after a failure",
+    "shortMeaning": "partial operation",
+    "example": "When the main server went down, the website went into fail soft mode with limited features.",
+    "example2": "The car's engine has a fail soft mode that allows you to drive slowly to a repair shop.",
+    "example3": "Fail soft design is common in aerospace to keep planes flying after a small fault.",
+    "Explanation": "Fail soft (also called 'graceful degradation') is a strategy where a system doesn't just stop when something breaks. Instead, it turns off the 'fancy' or 'heavy' features and stays alive using only the basics. For example, if a video streaming app has a slow connection, it might stop showing high-definition video but keep playing the audio—this is 'failing soft'. It is very important for systems that cannot afford to stop completely, like medical monitors or communication satellites. It provides a 'better than nothing' experience. It is the middle ground between 'working perfectly' and 'crashing'. It keeps the most important parts of the system running.",
+    "synonyms": [
+      "graceful degradation",
+      "fail-operational"
+    ],
+    "antonyms": [
+      "fail-fast",
+      "total failure"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "fail soft",
+    "adjectiveForm": "fail-soft",
+    "partOfSpeech": "verb phrase / adjective",
+    "commonContext": "Cloud computing and critical infrastructure",
+    "usageTip": "Design your app to fail soft so users can still perform basic tasks during a server outage.",
+    "commonMistake": "Confusing 'fail soft' with 'fail safe'; fail soft is about 'operation', fail safe is about 'safety'.",
+    "collocations": [
+      "fail soft mode",
+      "fail soft strategy",
+      "implement fail soft"
+    ]
+  },
+  {
+    "word": "Fail soft",
+    "meaning": "A system that continues to operate with reduced capabilities even when some parts fail",
+    "shortMeaning": "partial operation",
+    "example": "The website will fail soft by showing text if the images cannot load.",
+    "example2": "A fail soft computer system keeps the most important tasks running during a crash.",
+    "example3": "Our goal is to fail soft so the user doesn't notice the error.",
+    "Explanation": "Fail soft (also known as graceful degradation) is a system's ability to keep working at a lower level instead of crashing completely. For example, if a car's engine has a minor problem, it might go into 'limp mode' to let you drive home slowly. In web design, if a fancy feature doesn't work, the basic content should still be readable. This is very important for user experience and critical infrastructure. It ensures that a small problem doesn't become a total disaster. It is a sign of high-quality engineering.",
+    "synonyms": [
+      "graceful degradation",
+      "partial failure"
+    ],
+    "antonyms": [
+      "total crash",
+      "hard failure"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "fail soft",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / phrase",
+    "commonContext": "Software engineering, hardware, and UX design",
+    "usageTip": "Use this when describing a system that stays partially functional during a problem.",
+    "commonMistake": "Thinking 'fail soft' means the error is not important; it's just about staying online.",
+    "collocations": [
+      "fail soft strategy",
+      "designed to fail soft"
+    ]
+  }
+]

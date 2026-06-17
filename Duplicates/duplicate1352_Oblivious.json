@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Oblivious",
+    "meaning": "Not aware of or not noticing what is happening around you.",
+    "shortMeaning": "unaware",
+    "example": "He was completely oblivious to the fact that everyone was staring at him.",
+    "example2": "She walked through the busy street, oblivious to the traffic.",
+    "example3": "They were oblivious of the dangers involved.",
+    "Explanation": "'Oblivious' is an adjective describing a state of being completely unaware, often in a way that seems careless or absorbed. It usually has a neutral or slightly negative connotation. People can be oblivious to things because they are distracted, ignorant, or simply not paying attention. It's a stronger word than 'unaware', implying a total lack of perception.",
+    "synonyms": [
+      "unaware",
+      "unconscious",
+      "heedless",
+      "ignorant"
+    ],
+    "antonyms": [
+      "aware",
+      "conscious",
+      "mindful",
+      "attentive"
+    ],
+    "nounForm": "obliviousness",
+    "verbForm": "N/A",
+    "adjectiveForm": "oblivious",
+    "partOfSpeech": "adjective",
+    "commonContext": "Social situations, describing distracted people, danger scenarios",
+    "usageTip": "It is often followed by 'to' (oblivious to the noise) or 'of' (oblivious of the rules).",
+    "commonMistake": "Using it to mean 'forgetful'; it means 'unaware in the moment', not 'prone to forgetting'.",
+    "collocations": [
+      "completely oblivious",
+      "oblivious to the fact",
+      "remain oblivious"
+    ]
+  },
+  {
+    "word": "Oblivious",
+    "meaning": "Not aware of or concerned about what is happening",
+    "shortMeaning": "unaware",
+    "example": "The user was oblivious to the system security risks.",
+    "example2": "The server was oblivious to the background errors.",
+    "example3": "He was oblivious to the update notifications.",
+    "Explanation": "'Oblivious' describes a state of being completely unaware of important facts, notifications, or changes happening around you. In IT, this usually refers to a user or a system that isn't seeing vital status updates, security warnings, or error logs. If a user is oblivious to security risks, it is the developer's responsibility to create better UI warnings. If a system is oblivious to an error, it needs better monitoring.",
+    "synonyms": [
+      "unaware",
+      "ignorant",
+      "unconscious"
+    ],
+    "antonyms": [
+      "aware",
+      "conscious",
+      "attentive"
+    ],
+    "nounForm": "oblivion",
+    "verbForm": "N/A",
+    "adjectiveForm": "oblivious",
+    "partOfSpeech": "adjective",
+    "commonContext": "User behavior, system status, UI design",
+    "usageTip": "Use 'oblivious' for users who miss important warnings.",
+    "commonMistake": "Using 'oblivious' when you mean 'ignoring' (oblivious is accidental).",
+    "collocations": [
+      "oblivious to",
+      "remained oblivious"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unsorted",
+    "meaning": "Not sorted or arranged into categories; mixed together",
+    "shortMeaning": "not categorized",
+    "example": "The mail was left in an unsorted pile on the desk.",
+    "example2": "We have a box of unsorted photographs from the trip.",
+    "example3": "The data arrived unsorted, so we had to organize it.",
+    "Explanation": "The adjective 'unsorted' is a straightforward term meaning that items have not been separated, classified, or arranged into any particular order or groups. It is often used for physical objects like mail, laundry, or data. It is neutral, simply describing a state prior to organization. The verb form is 'sort'. It's a common word in clerical, computing, and domestic contexts.",
+    "synonyms": [
+      "unorganized",
+      "unclassified",
+      "mixed",
+      "jumbled"
+    ],
+    "antonyms": [
+      "sorted",
+      "classified",
+      "organized",
+      "arranged"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "sort",
+    "adjectiveForm": "unsorted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data, mail, laundry, collections",
+    "usageTip": "Frequently used in computing: 'unsorted list', 'unsorted array'.",
+    "commonMistake": "Thinking it means 'dirty' or 'bad'; it just means 'not in order'.",
+    "collocations": [
+      "unsorted mail",
+      "unsorted data",
+      "unsorted list",
+      "left unsorted"
+    ]
+  },
+  {
+    "word": "Unsorted",
+    "meaning": "Not arranged in a specific order",
+    "shortMeaning": "no order",
+    "example": "The results remain unsorted until the algorithm processes them.",
+    "example2": "Searching through unsorted data is very slow.",
+    "example3": "Please provide an sorted list; this one is unsorted.",
+    "Explanation": "Unsorted refers to a collection of data where items are in no particular sequence. In computer science, an unsorted list must be processed (sorted) before certain operations, like binary search, can be used on it. Handling unsorted data is the default starting point for many algorithms. Keeping data unsorted can be efficient if you only need to add items quickly, but it makes finding specific information harder.",
+    "synonyms": [
+      "unordered",
+      "random",
+      "chaotic"
+    ],
+    "antonyms": [
+      "sorted",
+      "ordered",
+      "arranged"
+    ],
+    "nounForm": "sort",
+    "verbForm": "sort",
+    "adjectiveForm": "unsorted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Data structures, algorithms, search operations",
+    "usageTip": "Use this for raw lists before processing.",
+    "commonMistake": "Assuming data is sorted when it isn't.",
+    "collocations": [
+      "unsorted data",
+      "unsorted list",
+      "remains unsorted"
+    ]
+  },
+  {
+    "word": "Unsorted",
+    "meaning": "Items or data that are in a random order and have not been arranged by any criteria.",
+    "shortMeaning": "no order",
+    "example": "The list of IDs is currently unsorted.",
+    "example2": "You must sort the unsorted input before binary search.",
+    "example3": "The results appeared in an unsorted random order.",
+    "Explanation": "'Unsorted' indicates that data (like arrays or lists) is in no particular sequence. In programming, many algorithms require data to be sorted first to work efficiently (e.g., binary search). Unsorted data is often the result of adding items as they come, without applying an organizing algorithm. Sorting unsorted data is one of the most common and important tasks in computer science. It is a neutral state before processing begins.",
+    "synonyms": [
+      "unordered",
+      "random",
+      "jumbled"
+    ],
+    "antonyms": [
+      "sorted",
+      "ordered",
+      "arranged"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unsorted",
+    "partOfSpeech": "adjective",
+    "commonContext": "Algorithms, data structures",
+    "usageTip": "Use this to describe lists that need organizing.",
+    "commonMistake": "Confusing it with 'unsorted' in a logical sense (it is just a sequence issue).",
+    "collocations": [
+      "unsorted list",
+      "unsorted data",
+      "unsorted array"
+    ]
+  }
+]

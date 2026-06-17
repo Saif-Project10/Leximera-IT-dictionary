@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Incompatible",
+    "meaning": "Not able to exist or work together in harmony.",
+    "shortMeaning": "unable to work together",
+    "example": "Their schedules are incompatible, so they rarely meet.",
+    "example2": "This software is incompatible with the latest operating system.",
+    "example3": "He held views incompatible with the company's ethics.",
+    "Explanation": "Incompatible describes two or more things that are so different or opposed that they cannot coexist, combine, or function together without conflict. It's a stronger word than 'different'; it implies mutual exclusion. In technology, incompatible formats won't work together. In relationships, incompatible people have fundamental differences. In logic, incompatible statements cannot both be true. The word is used to diagnose problems in systems, partnerships, and plans. The prefix 'in-' means 'not', so it's the opposite of 'compatible'.",
+    "synonyms": [
+      "conflicting",
+      "mismatched",
+      "incongruous",
+      "unsuited",
+      "opposed"
+    ],
+    "antonyms": [
+      "compatible",
+      "harmonious",
+      "suited",
+      "consistent"
+    ],
+    "nounForm": "incompatibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "incompatible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Technology, relationships, ideas, schedules, chemicals",
+    "usageTip": "Often followed by 'with' (incompatible with our goals, incompatible with Windows).",
+    "commonMistake": "Using 'incompatible' for people who simply argue sometimes. It refers to deep-seated, fundamental mismatches.",
+    "collocations": [
+      "incompatible with",
+      "mutually incompatible",
+      "incompatible software",
+      "incompatible goals"
+    ]
+  },
+  {
+    "word": "Incompatible",
+    "meaning": "Not able to exist or work together",
+    "shortMeaning": "cannot work together",
+    "example": "The new software update is incompatible with older hardware.",
+    "example2": "These two libraries are incompatible and cause runtime errors.",
+    "example3": "Incompatible data formats cause the import process to fail.",
+    "Explanation": "The word 'incompatible' is a fundamental term for troubleshooting. When two things—whether software versions, hardware, or data types—cannot function together, they are incompatible. Before integrating any new tool, it is standard practice to check for compatibility. If you run into issues, 'incompatible' is often the first word used to describe why a system failed to connect or run.",
+    "synonyms": [
+      "conflicting",
+      "mismatched",
+      "clashing"
+    ],
+    "antonyms": [
+      "compatible",
+      "consistent"
+    ],
+    "nounForm": "incompatibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "incompatible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, integration, system requirements",
+    "usageTip": "Use 'incompatible' to explain why two things won't work together.",
+    "commonMistake": "Forgetting to check compatibility before starting an integration.",
+    "collocations": [
+      "incompatible with",
+      "incompatible software",
+      "incompatible data"
+    ]
+  }
+]

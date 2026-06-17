@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Loading",
+    "meaning": "The act of putting a load on or into something, like a vehicle or a computer program.",
+    "shortMeaning": "putting a load on/in",
+    "example": "The loading of the truck took two hours.",
+    "example2": "The website has a fast loading time.",
+    "example3": "Follow the loading instructions on the washing machine.",
+    "Explanation": "Loading is the noun form of the verb 'load'. It refers to the process of placing goods, data, or a burden onto or into something. In logistics, it's about packing vehicles. In computing, it's about transferring data into memory or starting a program (loading screen). It can also refer to the application of a force or weight. The word is neutral and descriptive, focusing on the action itself. Efficiency in loading is often important for saving time and resources in both physical and digital contexts.",
+    "synonyms": [
+      "uploading",
+      "packing",
+      "stowing",
+      "charging",
+      "burdening"
+    ],
+    "antonyms": [
+      "unloading",
+      "downloading",
+      "emptying"
+    ],
+    "nounForm": "loading",
+    "verbForm": "load",
+    "adjectiveForm": "loading",
+    "partOfSpeech": "noun",
+    "commonContext": "Shipping, computing, machinery, laundry",
+    "usageTip": "In computing, 'loading' is often followed by words like 'screen', 'time', 'bar', or 'process'.",
+    "commonMistake": "Confusing 'loading' (the process) with 'load' (the thing being carried or the amount).",
+    "collocations": [
+      "loading dock",
+      "loading screen",
+      "front-loading",
+      "loading zone"
+    ]
+  },
+  {
+    "word": "Loading",
+    "meaning": "The process of moving data into memory or display",
+    "shortMeaning": "in progress",
+    "example": "The website shows a loading icon while retrieving data.",
+    "example2": "Loading the large dataset took a few seconds.",
+    "example3": "Avoid cancelling while the system is loading.",
+    "Explanation": "Loading is the active process of fetching information from storage and moving it into memory, or preparing a user interface. Users typically see a 'loading' indicator when a program is working. It can also refer to initializing a module or a plugin. This is a common performance bottleneck in software development. Efficient loading practices are important for user experience, as slow loading times often lead to users leaving a page or application.",
+    "synonyms": [
+      "retrieving",
+      "initializing",
+      "starting"
+    ],
+    "antonyms": [
+      "complete",
+      "ready"
+    ],
+    "nounForm": "loading",
+    "verbForm": "load",
+    "adjectiveForm": "loading",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web design, software, memory",
+    "usageTip": "Use 'loading' to describe an ongoing transfer of data.",
+    "commonMistake": "Confusing 'loading' with 'executing' or 'processing'.",
+    "collocations": [
+      "loading time",
+      "loading screen",
+      "loading process"
+    ]
+  }
+]

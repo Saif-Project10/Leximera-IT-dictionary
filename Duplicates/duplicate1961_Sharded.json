@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Sharded",
+    "meaning": "Divided into smaller pieces, usually referring to databases",
+    "shortMeaning": "divided data",
+    "example": "The database is sharded across multiple servers.",
+    "example2": "We sharded the user data to improve speed.",
+    "example3": "A sharded database is harder to manage.",
+    "Explanation": "To 'shard' a database means to split its data into smaller, more manageable pieces across many servers. This is a common way to handle massive amounts of information that wouldn't fit or perform well on one server. Each 'shard' holds a part of the total data. It is a very technical, advanced scaling technique. Use this word only when talking about database architecture and large-scale performance. It is a powerful method but adds significant complexity to your system maintenance.",
+    "synonyms": [
+      "partitioned",
+      "divided",
+      "distributed"
+    ],
+    "antonyms": [
+      "centralized",
+      "monolithic"
+    ],
+    "nounForm": "shard",
+    "verbForm": "shard",
+    "adjectiveForm": "sharded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Database architecture, scaling",
+    "usageTip": "Use when explaining how a large database is managed.",
+    "commonMistake": "Thinking sharding is simple; it is one of the most complex scaling tasks.",
+    "collocations": [
+      "sharded database",
+      "sharded data",
+      "sharded architecture"
+    ]
+  },
+  {
+    "word": "Sharded",
+    "meaning": "Divided into smaller, more manageable pieces",
+    "shortMeaning": "partitioned",
+    "example": "The massive database is sharded across several servers.",
+    "example2": "Sharded clusters provide better performance.",
+    "example3": "We sharded the user table to improve query speed.",
+    "Explanation": "The term 'sharded' refers to a database architecture pattern where data is partitioned into smaller chunks, known as shards. Each shard is stored on a separate server or database instance. This is a common strategy for scaling applications that handle huge amounts of data. By being sharded, the system can handle more traffic because the load is distributed. It is a critical concept for high-availability systems.",
+    "synonyms": [
+      "partitioned",
+      "divided",
+      "distributed"
+    ],
+    "antonyms": [
+      "centralized",
+      "monolithic"
+    ],
+    "nounForm": "shard",
+    "verbForm": "shard",
+    "adjectiveForm": "sharded",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Database management, scaling, big data",
+    "usageTip": "Use 'sharded' when discussing horizontal scaling of databases.",
+    "commonMistake": "Sharding a database that is small enough to run on one server.",
+    "collocations": [
+      "sharded database",
+      "sharded cluster",
+      "sharded storage"
+    ]
+  }
+]

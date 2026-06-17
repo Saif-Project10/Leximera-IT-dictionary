@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Granted",
+    "meaning": "Admitted to be true; given or allowed.",
+    "shortMeaning": "admitted; given",
+    "example": "Granted, it's a difficult task, but we must try.",
+    "example2": "She was granted a scholarship to study abroad.",
+    "example3": "The judge granted him bail.",
+    "Explanation": "'Granted' is the past participle of the verb 'grant', often used as an adjective, adverb, or conjunction. It has two main uses. First, as a conjunction/adverb ('Granted,...'), it means 'admittedly', used to concede a point before making a counter-argument. Second, it means something that has been formally given or allowed, like permission, a request, or a right. It implies an authority has approved something. It's a common word in legal, academic, and everyday contexts for acknowledging facts or describing permissions received.",
+    "synonyms": [
+      "admittedly",
+      "given",
+      "awarded"
+    ],
+    "antonyms": [
+      "denied",
+      "refused",
+      "withheld"
+    ],
+    "nounForm": "grant",
+    "verbForm": "grant",
+    "adjectiveForm": "granted",
+    "partOfSpeech": "adverb, adjective, verb (past participle)",
+    "commonContext": "Arguments, permissions, awards, legal decisions",
+    "usageTip": "Use 'take for granted' to mean fail to appreciate something or assume it will always be available.",
+    "commonMistake": "Using 'granted' to mean 'guaranteed'; they are different. A grant is a gift or allowance, a guarantee is a promise.",
+    "collocations": [
+      "take for granted",
+      "granted that",
+      "land grant"
+    ]
+  },
+  {
+    "word": "Granted",
+    "meaning": "Formally given or allowed; accepted as true",
+    "shortMeaning": "Allowed or accepted",
+    "example": "The user was granted read access to the database.",
+    "example2": "Permissions are granted based on user roles.",
+    "example3": "Granted, the performance needs improvement, but it works.",
+    "Explanation": "The word 'granted' is frequently used in IT regarding permissions (e.g., access was granted). It signifies that a request for privilege or entry has been approved. It also functions as a phrase, 'granted that', to acknowledge a point before making a counter-argument. It is the past participle of the verb 'grant'. Being precise with 'granted' is critical in security and user management documentation.",
+    "synonyms": [
+      "authorized",
+      "allowed",
+      "approved"
+    ],
+    "antonyms": [
+      "denied",
+      "refused",
+      "withheld"
+    ],
+    "nounForm": "grant",
+    "verbForm": "grant",
+    "adjectiveForm": "granted",
+    "partOfSpeech": "verb / adjective",
+    "commonContext": "Access control and security",
+    "usageTip": "Use 'granted' to confirm official approval of access.",
+    "commonMistake": "Using 'granted' interchangeably with 'given' in technical contexts.",
+    "collocations": [
+      "granted access",
+      "permissions granted",
+      "granted approval"
+    ]
+  }
+]

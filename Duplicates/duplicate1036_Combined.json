@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Combined",
+    "meaning": "Joined or merged to form a single entity.",
+    "shortMeaning": "joined together",
+    "example": "Their combined efforts led to success.",
+    "example2": "The combined weight of the boxes was over 100 pounds.",
+    "example3": "She has a combined total of 10 years' experience.",
+    "Explanation": "'Combined' is the past participle of 'combine', used as an adjective meaning united, joined, or totaled. It describes things that have been brought together into one. It's commonly used in phrases like 'combined effort', 'combined income', 'combined effect'. It emphasizes the collective result of multiple elements working together. It differs from 'combination' (which is the process or result) - 'combined' is the state of having been combined. It's a practical word in statistics, teamwork, and descriptions of aggregated things.",
+    "synonyms": [
+      "united",
+      "joined",
+      "merged",
+      "aggregate"
+    ],
+    "antonyms": [
+      "separated",
+      "divided",
+      "individual"
+    ],
+    "nounForm": "combination",
+    "verbForm": "combine",
+    "adjectiveForm": "combined",
+    "partOfSpeech": "adjective",
+    "commonContext": "Teamwork, statistics, finance, effects",
+    "usageTip": "Usually comes before the noun it modifies: 'combined resources', 'combined experience'.",
+    "commonMistake": "Using 'combined' as a verb in present tense. 'We combine' not 'we combined' (unless past tense).",
+    "collocations": [
+      "combined effort",
+      "combined total",
+      "combined effect"
+    ]
+  },
+  {
+    "word": "Combined",
+    "meaning": "Joined, unified, or mixed together to form a single entity or result",
+    "shortMeaning": "joined together",
+    "example": "The team combined their efforts to finish the project ahead of the deadline.",
+    "example2": "The combined database performance increased after the migration to the new server.",
+    "example3": "We combined two API calls into one to reduce network latency.",
+    "Explanation": "The word 'Combined' describes the act of uniting multiple parts, functions, or resources into a single one. In IT, 'combined' can refer to merging code branches, joining multiple databases, or optimizing API endpoints by grouping multiple requests into one. This usually serves the purpose of efficiency, simplification, or enhancing performance. Understanding when to combine things is key in modular architecture—merging the right things creates simplicity, while merging the wrong things creates tangled dependencies.",
+    "synonyms": [
+      "merged",
+      "unified",
+      "integrated"
+    ],
+    "antonyms": [
+      "separated",
+      "split",
+      "divided"
+    ],
+    "nounForm": "combination",
+    "verbForm": "combine",
+    "adjectiveForm": "combined",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "API development, team projects, database management",
+    "usageTip": "Use 'combined' to describe the result of merging different components or efforts.",
+    "commonMistake": "Using 'combined' to mean 'added'; added usually refers to simple math, while combined implies a shift in structure.",
+    "collocations": [
+      "combined effort",
+      "combined performance",
+      "combined result"
+    ]
+  }
+]

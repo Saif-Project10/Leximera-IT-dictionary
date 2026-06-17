@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Veterinary",
+    "meaning": "Relating to the health and medical care of animals",
+    "shortMeaning": "animal medicine",
+    "example": "The software is used in veterinary clinics for health tracking.",
+    "example2": "He developed a database for veterinary medical records.",
+    "example3": "IT systems in veterinary research are very specialized.",
+    "Explanation": "This term relates to the medical care of animals. While it is not a core 'computer science' term, it is frequently used to describe IT applications built for this specific industry. This includes software for tracking health metrics, managing clinic appointments, or analyzing animal research data. IT solutions in this field have unique requirements, such as handling specialized biological data. It shows how technology crosses over into almost every professional industry today.",
+    "synonyms": [
+      "animal-health",
+      "zoological"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "veterinary",
+    "verbForm": "N/A",
+    "adjectiveForm": "veterinary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Specialized software, medical records, research",
+    "usageTip": "Use this to describe tech applications for animal health.",
+    "commonMistake": "Using it to describe standard medicine (it is animal-specific).",
+    "collocations": [
+      "veterinary clinic",
+      "veterinary software",
+      "veterinary database"
+    ]
+  },
+  {
+    "word": "Veterinary",
+    "meaning": "Relating to the health and medical care of animals",
+    "shortMeaning": "animal medicine",
+    "example": "The software is designed for veterinary record keeping.",
+    "example2": "She works in the field of veterinary science.",
+    "example3": "This database handles complex veterinary patient records.",
+    "Explanation": "The word 'veterinary' is specific to the healthcare of animals. In IT, this term appears when developing software for clinics, research, or diagnostic systems in the animal health field. It has specific domain-driven requirements, such as handling unique medical terminology and billing structures. If you are working on a project in this domain, ensure your research covers the specific standards of veterinary information management.",
+    "synonyms": [
+      "animal-related",
+      "zoological"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "veterinary science",
+    "verbForm": "N/A",
+    "adjectiveForm": "veterinary",
+    "partOfSpeech": "adjective",
+    "commonContext": "Domain-specific software development",
+    "usageTip": "Use only when discussing animal health software.",
+    "commonMistake": "Using 'veterinary' for human medical software.",
+    "collocations": [
+      "veterinary software",
+      "veterinary record"
+    ]
+  }
+]

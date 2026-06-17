@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Proxy-based",
+    "meaning": "Relying on or using a proxy (a person or thing that acts on behalf of another)",
+    "shortMeaning": "using a proxy",
+    "example": "A proxy-based voting system allows members to vote remotely.",
+    "example2": "The network uses a proxy-based filter for web content.",
+    "example3": "Proxy-based anonymity services hide a user's real IP address.",
+    "Explanation": "'Proxy-based' is a compound adjective used in technology, governance, and security. It describes a system, method, or service that operates through an intermediary—a proxy. In computing, a proxy server sits between a user and the internet. In organizations, proxy voting allows one person to vote for another. The term highlights the indirect nature of the action; the proxy acts as a substitute or representative. It's a technical term for a specific architectural or procedural choice.",
+    "synonyms": [
+      "intermediary-based",
+      "indirect"
+    ],
+    "antonyms": [
+      "direct",
+      "peer-to-peer"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "N/A",
+    "adjectiveForm": "proxy-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, cybersecurity, corporate governance, voting",
+    "usageTip": "Always hyphenated when used before a noun.",
+    "commonMistake": "Thinking 'proxy' only means a substitute person; in tech, it's often a server.",
+    "collocations": [
+      "proxy-based architecture",
+      "proxy-based access",
+      "proxy-based solution"
+    ]
+  },
+  {
+    "word": "Proxy-based",
+    "meaning": "A design that relies on proxy servers",
+    "shortMeaning": "using proxies",
+    "example": "Our security is proxy-based to protect against malicious traffic.",
+    "example2": "A proxy-based architecture simplifies our load balancing.",
+    "example3": "The service requires a proxy-based configuration for network access.",
+    "Explanation": "The term 'proxy-based' describes a system or architecture that relies on proxy agents for its functionality. Whether for filtering requests, caching content, or securing data, a proxy-based design centralizes traffic management. This provides a single point for logging, auditing, and enforcing rules. It is a standard and very effective architectural pattern for large-scale systems. Always ensure your proxy-based design is not a single point of failure by planning for high availability.",
+    "synonyms": [
+      "intermediary-reliant",
+      "relay-based"
+    ],
+    "antonyms": [
+      "direct-connect"
+    ],
+    "nounForm": "proxy",
+    "verbForm": "N/A",
+    "adjectiveForm": "proxy-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Network architecture, security",
+    "usageTip": "Use this to describe the core architectural pattern of your networking layer.",
+    "commonMistake": "Assuming that a proxy-based setup is always secure; the proxy must also be hardened.",
+    "collocations": [
+      "proxy-based architecture",
+      "proxy-based security"
+    ]
+  }
+]

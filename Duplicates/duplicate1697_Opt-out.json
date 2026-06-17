@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Opt-out",
+    "meaning": "A system where users are included by default and must take action to leave",
+    "shortMeaning": "leave-by-choice",
+    "example": "Many insurance plans are opt-out, meaning you are covered automatically.",
+    "example2": "The opt-out rate for the new tracking feature was surprisingly high.",
+    "example3": "Some people find opt-out marketing very annoying.",
+    "Explanation": "As a noun or adjective, 'opt-out' describes a situation where a user is signed up for something without asking for it, but is given the chance to quit. In IT, this is common in 'pre-selected' checkboxes during a software installation. While it helps companies get more participants, it is often criticized for being deceptive. Many users don't notice the default settings and end up with software or emails they never wanted. Therefore, modern UI/UX standards often discourage opt-out designs in favor of clearer, more honest opt-in methods.",
+    "synonyms": [
+      "pre-enrolled",
+      "default inclusion"
+    ],
+    "antonyms": [
+      "opt-in"
+    ],
+    "nounForm": "opt-out",
+    "verbForm": "N/A",
+    "adjectiveForm": "opt-out",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Marketing strategies and system defaults",
+    "usageTip": "Use 'opt-out' to describe the type of system or feature being used.",
+    "commonMistake": "Assuming 'opt-out' means there is no way to leave; it just means leaving requires action.",
+    "collocations": [
+      "opt-out clause",
+      "opt-out button",
+      "default opt-out"
+    ]
+  },
+  {
+    "word": "Opt-out",
+    "meaning": "A system where users are automatically included but can choose to be removed.",
+    "shortMeaning": "choice to leave",
+    "example": "The application has an opt-out feature in the settings menu.",
+    "example2": "Users can opt-out of data collection at any time.",
+    "example3": "Our default setting is opt-out for tracking analytics.",
+    "Explanation": "Opt-out is a model where a user is automatically part of a system, but they have the option to withdraw. This is often used for settings that the provider wants to be the default. While convenient for the service provider, it is often criticized by privacy advocates who prefer opt-in. In IT, you should always make the opt-out process as easy as possible to maintain user trust. It is crucial to respect the user's decision to stop receiving communications.",
+    "synonyms": [
+      "unsubscribe",
+      "withdraw"
+    ],
+    "antonyms": [
+      "opt-in"
+    ],
+    "nounForm": "opt-out",
+    "verbForm": "opt out",
+    "adjectiveForm": "opt-out",
+    "partOfSpeech": "noun / adjective / verb",
+    "commonContext": "Privacy, user preferences, settings",
+    "usageTip": "Ensure the opt-out button is easy to find to avoid frustrating users.",
+    "commonMistake": "Making the opt-out process intentionally difficult to discourage leaving.",
+    "collocations": [
+      "opt-out option",
+      "easy to opt-out",
+      "opt-out policy"
+    ]
+  }
+]

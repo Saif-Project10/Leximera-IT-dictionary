@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Vested",
+    "meaning": "Having a strong interest or stake in something",
+    "shortMeaning": "having a stake",
+    "example": "Stakeholders have a vested interest in the system's security.",
+    "example2": "The company has a vested right in the developed software.",
+    "example3": "He has a vested interest in the software's success.",
+    "Explanation": "The word 'vested' refers to a secured, fixed, or settled interest in something. In business and IT projects, those who provide funding or rely on the system for their daily operations are said to have a 'vested interest' in it. This means they are personally or professionally affected by its success or failure. It implies a deeper level of commitment and responsibility than just being involved. Recognizing who has a vested interest helps in getting stakeholder support for projects.",
+    "synonyms": [
+      "committed",
+      "interested",
+      "invested"
+    ],
+    "antonyms": [
+      "uninterested",
+      "detached"
+    ],
+    "nounForm": "vest",
+    "verbForm": "vest",
+    "adjectiveForm": "vested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management, business, stakeholders",
+    "usageTip": "Use 'vested' when someone has a serious stake in an outcome.",
+    "commonMistake": "Confusing 'vested' with 'invested' (though related, vested is more official).",
+    "collocations": [
+      "vested interest",
+      "have a vested interest",
+      "vested right"
+    ]
+  },
+  {
+    "word": "Vested",
+    "meaning": "Having a specific benefit or interest in an outcome",
+    "shortMeaning": "personally interested",
+    "example": "The management team has a vested interest in the project's success.",
+    "example2": "Stakeholders have vested roles in the system security.",
+    "example3": "He has a vested interest in improving server efficiency.",
+    "Explanation": "In a professional context, a 'vested' interest means you stand to gain from the success or failure of a project. It is common to hear this in meetings when discussing stakeholder alignment. While it can imply bias, it also implies commitment. Understanding who has a vested interest in a feature or system helps you prioritize work and navigate organizational decisions. It is a useful term for analyzing stakeholder behavior.",
+    "synonyms": [
+      "committed",
+      "invested",
+      "interested"
+    ],
+    "antonyms": [
+      "indifferent",
+      "unconcerned"
+    ],
+    "nounForm": "vest",
+    "verbForm": "vest",
+    "adjectiveForm": "vested",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project management and stakeholders",
+    "usageTip": "Use when discussing stakeholder commitment.",
+    "commonMistake": "Using 'vested' to mean 'invested' (though they are related, 'vested' refers specifically to interest).",
+    "collocations": [
+      "vested interest"
+    ]
+  }
+]

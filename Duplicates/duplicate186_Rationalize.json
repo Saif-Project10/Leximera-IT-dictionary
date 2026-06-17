@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Rationalize",
+    "meaning": "To try to explain or justify behavior or decisions with logical reasons, even if they are not the real reasons | To attempt to explain or justify behavior or an attitude with logical reasons, even if these are not true; to make more efficient.",
+    "shortMeaning": "justify logically",
+    "example": "He tried to rationalize his lateness by blaming the traffic.",
+    "example2": "She rationalized buying the expensive dress by saying she would wear it often.",
+    "example3": "Managers must rationalize the budget cuts to the staff.",
+    "Explanation": "'Rationalize' has two main meanings. The first is to make something more logical or efficient, similar to 'streamline'. The second, more common meaning, is to explain one's own or someone else's actions with seemingly logical reasons, often to avoid admitting the truth. This psychological meaning is widely used in everyday conversation. The noun form is 'rationalization'. Be careful, as it often implies the reasons are not entirely honest.",
+    "synonyms": [
+      "Defend",
+      "Explain Away",
+      "Justify",
+      "Reorganize",
+      "Streamline"
+    ],
+    "antonyms": [
+      "Complicate",
+      "Condemn",
+      "Irrationalize"
+    ],
+    "nounForm": "rationalization",
+    "verbForm": "rationalize",
+    "adjectiveForm": "rational",
+    "partOfSpeech": "verb",
+    "commonContext": "Psychology, personal behavior, business decisions",
+    "usageTip": "Often used when someone is making excuses for their actions.",
+    "commonMistake": "Confusing it with 'rational', which is an adjective meaning logical.",
+    "collocations": [
+      "rationalize a decision",
+      "rationalize behavior",
+      "rationalize expenses"
+    ]
+  },
+  {
+    "word": "Rationalize",
+    "meaning": "To redesign or reorganize a system to make it logical, efficient, and cost-effective",
+    "shortMeaning": "make efficient or logical",
+    "example": "The development team decided to rationalize the codebase by removing unused libraries.",
+    "example2": "We must rationalize our cloud server spending to save budget next quarter.",
+    "example3": "He tried to rationalize his bad coding choices during the meeting.",
+    "Explanation": "The word 'rationalize' has two distinct meanings. In technical project management and system design, it means to streamline or optimize processes to eliminate waste and improve structural logic. For example, rationalizing an archive means removing duplicate files. In everyday psychology, it means defending an action with logical excuses. In IT, focus on its optimization definition.",
+    "synonyms": [
+      "streamline",
+      "optimize",
+      "justify"
+    ],
+    "antonyms": [
+      "complicate",
+      "disorganize"
+    ],
+    "nounForm": "rationalization",
+    "verbForm": "rationalize",
+    "adjectiveForm": "rational",
+    "partOfSpeech": "verb",
+    "commonContext": "System architecture, cost optimization, and project management",
+    "usageTip": "Use 'rationalize' when describing clean-up operations that make architectures logical.",
+    "commonMistake": "Using 'rationalize' when you simply mean 'explain' something clearly.",
+    "collocations": [
+      "rationalize infrastructure",
+      "rationalize code architecture",
+      "rationalize operational expenses"
+    ]
+  }
+]

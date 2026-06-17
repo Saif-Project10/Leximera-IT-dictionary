@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Incoherent",
+    "meaning": "Not logical or clear; unable to speak in a clear and understandable way.",
+    "shortMeaning": "not clear; confused",
+    "example": "He was drunk and gave an incoherent answer.",
+    "example2": "The report was incoherent and full of contradictions.",
+    "example3": "She was incoherent with rage.",
+    "Explanation": "Incoherent describes speech, writing, or thought that is jumbled, disjointed, and difficult to follow. It lacks logical connection, consistency, or clarity. A person might be incoherent due to strong emotion, illness, or intoxication. An argument is incoherent if its parts don't fit together logically. The word implies a failure to communicate meaning effectively. The opposite is 'coherent'. It's a common criticism of poorly structured ideas or communication. It's stronger than 'unclear'; it suggests a breakdown in the basic structure of expression.",
+    "synonyms": [
+      "unclear",
+      "confused",
+      "disjointed",
+      "illogical",
+      "rambling"
+    ],
+    "antonyms": [
+      "coherent",
+      "clear",
+      "logical",
+      "lucid"
+    ],
+    "nounForm": "incoherence",
+    "verbForm": "N/A",
+    "adjectiveForm": "incoherent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Speech, writing, arguments, emotional states",
+    "usageTip": "Often used to describe someone's speech when they are upset, ill, or under the influence.",
+    "commonMistake": "Confusing 'incoherent' with 'incohesive'. Incoherent is about clarity and logic; incohesive is about things not sticking together.",
+    "collocations": [
+      "incoherent speech",
+      "incoherent ramblings",
+      "incoherent with",
+      "totally incoherent"
+    ]
+  },
+  {
+    "word": "Incoherent",
+    "meaning": "Lacking clarity, organization, or logical connection",
+    "shortMeaning": "not making sense",
+    "example": "The error log was incoherent and impossible to read.",
+    "example2": "The developer's explanation of the bug was incoherent.",
+    "example3": "The codebase became incoherent after many uncoordinated updates.",
+    "Explanation": "The word 'incoherent' means something is disorganized or unclear to the point of being incomprehensible. If someone speaks in a way that doesn't follow a logical flow, their argument is incoherent. If code is messy and doesn't follow any patterns, the codebase is incoherent. It is a serious critique, so use it carefully when discussing project quality or communication.",
+    "synonyms": [
+      "unclear",
+      "disorganized",
+      "confused"
+    ],
+    "antonyms": [
+      "coherent",
+      "clear",
+      "organized"
+    ],
+    "nounForm": "incoherence",
+    "verbForm": "N/A",
+    "adjectiveForm": "incoherent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Communication, debugging, code quality",
+    "usageTip": "Use 'incoherent' to describe things that completely lack logical structure.",
+    "commonMistake": "Using 'incoherent' for something that is just 'wrong' (it is specifically about lack of structure).",
+    "collocations": [
+      "incoherent code",
+      "incoherent message",
+      "incoherent explanation"
+    ]
+  }
+]

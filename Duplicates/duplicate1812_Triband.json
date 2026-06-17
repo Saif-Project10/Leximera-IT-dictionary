@@ -1,0 +1,89 @@
+[
+  {
+    "word": "Triband",
+    "meaning": "Operating on three different frequency bands or ranges",
+    "shortMeaning": "three frequency bands",
+    "example": "The new smartphone features triband support for better global roaming.",
+    "example2": "A triband router provides more channels for wireless devices.",
+    "example3": "Most modern telecommunication systems use triband technology.",
+    "Explanation": "The term 'triband' is used to describe electronic devices, particularly in telecommunications, that can function across three distinct frequency ranges. This is common in mobile phones that need to work in different countries where different carriers use different frequencies. By supporting three bands, a device is more versatile and less likely to lose signal. In networking, a triband router typically offers one 2.4GHz band and two 5GHz bands to reduce congestion. It is a technical adjective used to specify hardware capability.",
+    "synonyms": [
+      "triple-band",
+      "three-band"
+    ],
+    "antonyms": [
+      "single-band",
+      "monoband"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "triband",
+    "partOfSpeech": "adjective",
+    "commonContext": "Mobile phones and wireless networking",
+    "usageTip": "Use 'triband' when describing hardware that supports multiple connectivity standards.",
+    "commonMistake": "Thinking it means the device is three times faster, when it actually refers to frequency options.",
+    "collocations": [
+      "triband phone",
+      "triband router",
+      "triband technology"
+    ]
+  },
+  {
+    "word": "Triband",
+    "meaning": "Operating on or supporting three different frequency bands.",
+    "shortMeaning": "three-frequency support",
+    "example": "This router is a triband device.",
+    "example2": "Triband wireless technology helps reduce interference.",
+    "example3": "The phone supports triband connectivity for international travel.",
+    "Explanation": "The word 'triband' is technical jargon used to describe wireless communication equipment that can transmit or receive signals on three distinct frequency bands. This is common in routers and mobile phones to ensure better speed and connectivity. It indicates higher capability compared to single or dual-band devices. There is no specific noun or verb form; it is primarily used as an adjective. Ensure you specify the frequency range when discussing this term for maximum clarity.",
+    "synonyms": [
+      "tri-band",
+      "multi-band"
+    ],
+    "antonyms": [
+      "single-band",
+      "dual-band"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "triband",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, wireless technology, and hardware",
+    "usageTip": "Use 'triband' when discussing routers or mobile devices that handle three frequency channels.",
+    "commonMistake": "Assuming 'triband' automatically guarantees faster speeds than dual-band in all environments.",
+    "collocations": [
+      "triband router",
+      "triband technology",
+      "triband wifi"
+    ]
+  },
+  {
+    "word": "Triband",
+    "meaning": "Operating on three different radio frequency bands",
+    "shortMeaning": "three-band support",
+    "example": "This router is a triband device for better speed.",
+    "example2": "Triband technology reduces network congestion.",
+    "example3": "He upgraded to a triband system for his home office.",
+    "Explanation": "Triband refers to networking hardware that supports three distinct radio frequency bands. This allows the device to manage more traffic simultaneously without interference. It is very common in modern high-end routers to separate traffic between multiple devices. By using three bands, users experience faster speeds and better stability. It is a key feature for homes with many connected smart devices.",
+    "synonyms": [
+      "tri-band",
+      "multi-band"
+    ],
+    "antonyms": [
+      "single-band",
+      "dual-band"
+    ],
+    "nounForm": "triband",
+    "verbForm": "N/A",
+    "adjectiveForm": "triband",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, hardware, wireless technology",
+    "usageTip": "Use this when comparing router or modem wireless capabilities.",
+    "commonMistake": "Thinking more bands always means faster signal range; it means more capacity.",
+    "collocations": [
+      "triband router",
+      "triband technology",
+      "triband signal"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "View-only",
+    "meaning": "Providing the ability to see or read content but not to modify or edit it",
+    "shortMeaning": "can view, not edit",
+    "example": "The shared document was set to view-only mode.",
+    "example2": "Guest users have view-only access to the dashboard.",
+    "example3": "She sent a view-only link to the presentation.",
+    "Explanation": "The adjective 'view-only' is a common term in computing and file sharing. It describes a permission setting or a mode where a user can open and look at a file, webpage, or data, but cannot make any changes to it. This is a fundamental security and collaboration feature, allowing information to be shared widely for consumption without the risk of accidental or malicious alteration. It is often contrasted with 'edit' or 'write' permissions. The term is straightforward and is used in software interfaces (like Google Docs, SharePoint) and IT policies. It ensures that the integrity of the original content is preserved while still enabling distribution.",
+    "synonyms": [
+      "read-only",
+      "display-only"
+    ],
+    "antonyms": [
+      "editable",
+      "write-access",
+      "modifiable"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "view-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "File sharing, software permissions, cybersecurity",
+    "usageTip": "Almost always hyphenated. Used before a noun (e.g., 'view-only access').",
+    "commonMistake": "Confusing it with 'preview', which is a temporary or partial view.",
+    "collocations": [
+      "view-only mode",
+      "view-only access",
+      "view-only link",
+      "view-only document"
+    ]
+  },
+  {
+    "word": "View-only",
+    "meaning": "Restricted to reading and not allowed to edit",
+    "shortMeaning": "read-only",
+    "example": "The guest user has view-only access to the document.",
+    "example2": "The database is set to view-only for all external clients.",
+    "example3": "The logs are view-only to maintain integrity.",
+    "Explanation": "In IT security, 'view-only' is a permission level that allows a user to see data but prevents them from changing, deleting, or adding to it. This is a core part of the 'Principle of Least Privilege', which states users should only have the minimum level of access needed to do their job. 'View-only' is crucial for protecting sensitive files, configuration data, and logs from accidental or malicious modification. It is the safest way to share information.",
+    "synonyms": [
+      "read-only"
+    ],
+    "antonyms": [
+      "editable",
+      "write-access"
+    ],
+    "nounForm": "view-only access",
+    "verbForm": "N/A",
+    "adjectiveForm": "view-only",
+    "partOfSpeech": "adjective",
+    "commonContext": "Permissions, security, collaboration",
+    "usageTip": "Use this to describe restricted file access.",
+    "commonMistake": "Assuming view-only implies the user cannot copy the data.",
+    "collocations": [
+      "view-only access",
+      "view-only mode",
+      "view-only permission"
+    ]
+  }
+]

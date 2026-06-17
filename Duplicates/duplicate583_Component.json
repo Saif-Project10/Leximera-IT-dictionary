@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Component",
+    "meaning": "A part or element of a larger whole.",
+    "shortMeaning": "part of something",
+    "example": "A battery is a key component of a smartphone.",
+    "example2": "Trust is an essential component of any strong relationship.",
+    "example3": "The course has three main components: reading, writing, and speaking.",
+    "Explanation": "A component is a piece that helps form a complete system or object. It is often used in technical contexts like engineering, computing, or analysis, but also in everyday language. It suggests that the part has a specific function within the whole. Unlike 'part', 'component' often implies a more technical or essential role. It's important to use it for things that are distinct and contribute to a system's operation.",
+    "synonyms": [
+      "part",
+      "element",
+      "piece",
+      "unit",
+      "module"
+    ],
+    "antonyms": [
+      "whole",
+      "entirety",
+      "aggregate"
+    ],
+    "nounForm": "component",
+    "verbForm": "N/A",
+    "adjectiveForm": "component",
+    "partOfSpeech": "noun",
+    "commonContext": "Engineering, systems, analysis, manufacturing",
+    "usageTip": "Use 'component' when talking about a distinct, often functional, part of a system.",
+    "commonMistake": "Using 'component' for any small part, even when 'part' or 'piece' is more natural.",
+    "collocations": [
+      "key component",
+      "main component",
+      "electronic component",
+      "system component"
+    ]
+  },
+  {
+    "word": "Component",
+    "meaning": "A distinct part or piece that makes up a larger system or machine",
+    "shortMeaning": "part",
+    "example": "The navigation bar is a reusable UI component in our web framework.",
+    "example2": "Each software component must be tested independently before the final build.",
+    "example3": "The server includes several physical components like RAM, CPU, and storage drives.",
+    "Explanation": "The word 'Component' refers to a building block of a larger architecture, whether it's software, hardware, or a logical process. In modern frontend development (like React or Vue), 'components' are the standard way to build interfaces. It is a noun. Using components makes it easier to manage large systems because you can fix, update, or replace one small part without breaking the whole thing. The goal of modern design is to build modular systems using discrete components.",
+    "synonyms": [
+      "part",
+      "module",
+      "element"
+    ],
+    "antonyms": [
+      "system",
+      "whole",
+      "N/A"
+    ],
+    "nounForm": "component",
+    "verbForm": "N/A",
+    "adjectiveForm": "component-based",
+    "partOfSpeech": "noun",
+    "commonContext": "Software architecture, UI development, hardware engineering",
+    "usageTip": "Use 'component' to talk about individual parts of your code or physical machine.",
+    "commonMistake": "Overusing 'component' to describe a whole system or an entire page.",
+    "collocations": [
+      "UI component",
+      "software component",
+      "key component"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Form",
+    "meaning": "1. The shape or structure of something. 2. A document with blank spaces to be filled in. 3. A type or variety. 4. To make or create.",
+    "shortMeaning": "shape; document; to create",
+    "example": "The sculpture had an interesting form.",
+    "example2": "Please fill out this application form.",
+    "example3": "Ice is a solid form of water.",
+    "example4": "We need to form a plan.",
+    "Explanation": "'Form' is one of the most versatile and common words in English. It connects to the visible shape of things, official documents, categories, and the act of bringing something into existence. The verb 'to form' means to shape, create, or develop. It is a foundational word in art, bureaucracy, grammar, and science. Understanding its different uses is crucial for fluency.",
+    "synonyms": [
+      "shape",
+      "structure",
+      "document",
+      "create"
+    ],
+    "antonyms": [
+      "content",
+      "substance",
+      "destroy"
+    ],
+    "nounForm": "form",
+    "verbForm": "form",
+    "adjectiveForm": "formal",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Art, paperwork, grammar, science, organization",
+    "usageTip": "Use 'form' for the physical shape of something, a type of something, or the action of making it.",
+    "commonMistake": "Confusing 'form' (structure) with 'format' (arrangement or layout).",
+    "collocations": [
+      "in the form of",
+      "application form",
+      "take form",
+      "good form"
+    ]
+  },
+  {
+    "word": "Form",
+    "meaning": "A document or a part of a website where users can enter information",
+    "shortMeaning": "input container",
+    "example": "Please fill out the contact form on our website.",
+    "example2": "The login form requires a username and a password.",
+    "example3": "Water takes the form of the container it is in.",
+    "Explanation": "In web development, a 'form' (the `<form>` tag in HTML) is how you collect data from users. It can contain text boxes, checkboxes, and buttons. When a user clicks 'Submit', the form sends the data to a server. Designing easy-to-use forms is a huge part of UI/UX design. Outside of tech, 'form' refers to the shape or structure of something. It is one of the most basic and important concepts in web programming.",
+    "synonyms": [
+      "document",
+      "input",
+      "shape"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "form / formation",
+    "verbForm": "form",
+    "adjectiveForm": "formal",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Web design, data entry, and geometry",
+    "usageTip": "Ensure every form has a 'Submit' button and clear labels for users.",
+    "commonMistake": "Thinking a form is just a visual thing; it is a functional tool that handles data.",
+    "collocations": [
+      "contact form",
+      "registration form",
+      "form validation"
+    ]
+  }
+]

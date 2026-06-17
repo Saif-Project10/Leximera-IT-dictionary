@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Archaic",
+    "meaning": "Very old or old-fashioned; from a much earlier period.",
+    "shortMeaning": "very old-fashioned",
+    "example": "'Thou' and 'thee' are archaic pronouns no longer used in everyday English.",
+    "example2": "The law is based on archaic principles that need updating.",
+    "example3": "They found archaic tools from the Stone Age.",
+    "Explanation": "'Archaic' is an adjective describing something that belongs to an earlier time and is often considered outdated or obsolete. It can refer to language, laws, systems, or objects. It has a neutral to slightly negative connotation, suggesting something is no longer suitable for modern use. It is stronger than 'old-fashioned'. In archaeology, it refers to a specific early period in a culture's development. It's a useful word for critiquing traditions or describing historical artifacts.",
+    "synonyms": [
+      "obsolete",
+      "antiquated",
+      "outdated"
+    ],
+    "antonyms": [
+      "modern",
+      "contemporary",
+      "current"
+    ],
+    "nounForm": "archaism",
+    "verbForm": "N/A",
+    "adjectiveForm": "archaic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Language, law, history, technology",
+    "usageTip": "Use 'archaic' to emphasize that something is not just old, but belongs to a past era and is no longer functional.",
+    "commonMistake": "Confusing 'archaic' with 'arcane' (understood by few; mysterious).",
+    "collocations": [
+      "archaic language",
+      "archaic system",
+      "archaic laws"
+    ]
+  },
+  {
+    "word": "Archaic",
+    "meaning": "Very old, outdated, or no longer used in modern times",
+    "shortMeaning": "outdated or old-fashioned",
+    "example": "The company is finally replacing its archaic COBOL mainframe system with cloud infrastructure.",
+    "example2": "Using tables for complex web page layouts is considered an archaic practice today.",
+    "example3": "We found some archaic code comments that referred to servers shut down ten years ago.",
+    "Explanation": "The word 'archaic' describes technologies, practices, programming languages, or systems that are extremely old-fashioned and out of date. In information technology, running archaic software is a major security risk because it usually lacks modern security updates and patches. While 'deprecated' means a feature is officially discouraged, 'archaic' implies that the entire technology belongs to a completely different era of computing. It carries a strong negative tone of being obsolete.",
+    "synonyms": [
+      "obsolete",
+      "outdated",
+      "antique",
+      "superannuated"
+    ],
+    "antonyms": [
+      "modern",
+      "current",
+      "state-of-the-art",
+      "contemporary"
+    ],
+    "nounForm": "archaism",
+    "verbForm": "N/A",
+    "adjectiveForm": "archaic",
+    "partOfSpeech": "adjective",
+    "commonContext": "Legacy software codebases, outdated system infrastructure, old methodologies",
+    "usageTip": "Use 'archaic' to emphasize that a system or practice is so old that it creates problems for modern workflows.",
+    "commonMistake": "Confusing 'archaic' with 'broken'; an archaic system might still function perfectly, but its underlying tech is outdated.",
+    "collocations": [
+      "archaic system",
+      "archaic technology",
+      "archaic practice"
+    ]
+  }
+]

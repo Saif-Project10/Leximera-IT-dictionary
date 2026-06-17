@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Big-bang",
+    "meaning": "A sudden and comprehensive introduction or implementation of something.",
+    "shortMeaning": "sudden major implementation",
+    "example": "The company opted for a big-bang launch of the new software system.",
+    "example2": "The big-bang approach to organizational change can be disruptive.",
+    "example3": "Economic reforms were introduced in a big-bang manner.",
+    "Explanation": "Big-bang, often used as an adjective, describes a strategy where a major change is implemented all at once, rather than gradually. It comes from the 'Big Bang' theory of the universe's origin—a single, explosive event. In business and IT, a big-bang rollout or deployment replaces an old system entirely in one go. It's high-risk but can be fast. The term contrasts with 'phased' or 'incremental' approaches. It implies a dramatic, all-encompassing shift that leaves little room for gradual adjustment.",
+    "synonyms": [
+      "all-at-once",
+      "overnight",
+      "comprehensive",
+      "sudden"
+    ],
+    "antonyms": [
+      "phased",
+      "incremental",
+      "gradual",
+      "piecemeal"
+    ],
+    "nounForm": "big bang",
+    "verbForm": "N/A",
+    "adjectiveForm": "big-bang",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software deployment, organizational change, economic policy",
+    "usageTip": "Usually hyphenated when used as an adjective before a noun (big-bang deployment).",
+    "commonMistake": "Thinking it only refers to cosmology. In business, it's a common metaphor for sudden change.",
+    "collocations": [
+      "big-bang deployment",
+      "big-bang approach",
+      "big-bang theory",
+      "big-bang launch"
+    ]
+  },
+  {
+    "word": "Big-bang",
+    "meaning": "Relating to a strategy where an entire new system is deployed or launched all at once, replacing the old system instantly",
+    "shortMeaning": "all-at-once launch",
+    "example": "The company chose a big-bang migration strategy, taking the website down for an hour to deploy everything.",
+    "example2": "A big-bang implementation carries high risks if the new software contains hidden errors.",
+    "example3": "Instead of a gradual rollout, they decided on a big-bang launch for the corporate platform.",
+    "Explanation": "The term 'big-bang' is an adjective used in software deployment and business systems integration. It describes an immediate, total switchover to a new application or platform without running the old and new systems together or doing a phased rollout. While fast, it requires perfect execution and exhaustive alpha/beta testing because any failure can immediately disrupt users. There is no direct noun or verb form for this specific compound modifier.",
+    "synonyms": [
+      "all-at-once",
+      "immediate",
+      "instantaneous"
+    ],
+    "antonyms": [
+      "phased",
+      "incremental",
+      "gradual"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "big-bang",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software system deployments, database migrations, and product launches",
+    "usageTip": "Use 'big-bang' to describe a launch strategy where everything goes live simultaneously with zero transitional overlap.",
+    "commonMistake": "Using 'big-bang' to describe a chaotic or messy project; it specifically means an intentional, all-at-once deployment strategy.",
+    "collocations": [
+      "big-bang migration",
+      "big-bang deployment",
+      "big-bang approach"
+    ]
+  }
+]

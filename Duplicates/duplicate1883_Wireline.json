@@ -1,0 +1,92 @@
+[
+  {
+    "word": "Wireline",
+    "meaning": "A communication system that uses physical wires or cables",
+    "shortMeaning": "wired system",
+    "example": "The bank still uses a wireline connection for maximum security.",
+    "example2": "Wireline services are often more stable than wireless ones.",
+    "example3": "The technician repaired the damaged wireline in the basement.",
+    "Explanation": "Wireline refers to telecommunications or internet services that are delivered over physical cables. This includes copper telephone lines, fiber optics, and coaxial cables. While wireless is more convenient, wireline is generally faster, more secure, and less prone to atmospheric interference. It is the backbone of the internet, as most wireless towers eventually connect to a wireline network. It is often used in business environments where high reliability is required.",
+    "synonyms": [
+      "landline",
+      "hardwired",
+      "fixed-line"
+    ],
+    "antonyms": [
+      "wireless",
+      "cellular",
+      "mobile"
+    ],
+    "nounForm": "wireline",
+    "verbForm": "N/A",
+    "adjectiveForm": "wireline",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telecommunications and traditional telephony",
+    "usageTip": "Use 'wireline' when you want to emphasize a fixed, physical connection.",
+    "commonMistake": "Confusing 'wireline' only with old telephones; it also includes high-speed fiber optics.",
+    "collocations": [
+      "wireline service",
+      "wireline broadband",
+      "wireline infrastructure"
+    ]
+  },
+  {
+    "word": "Wireline",
+    "meaning": "Communication through a physical cable network, often in telecommunications.",
+    "shortMeaning": "cable communication",
+    "example": "The company provides wireline broadband services to the city.",
+    "example2": "Wireline infrastructure is more expensive to maintain than wireless.",
+    "example3": "The industry is shifting from wireline to satellite data.",
+    "Explanation": "The word 'wireline' refers to telecommunications technology that uses physical wires or optical fibers. It is commonly used in business and residential internet services. Unlike 'wireless', wireline provides very consistent bandwidth and security. The base noun is 'wire'. It is the traditional foundation of the global internet. While wireless is faster to deploy, wireline remains superior for high-capacity, long-distance data transmission that requires low latency and high stability.",
+    "synonyms": [
+      "cabled",
+      "fixed-line"
+    ],
+    "antonyms": [
+      "wireless",
+      "satellite"
+    ],
+    "nounForm": "wireline",
+    "verbForm": "N/A",
+    "adjectiveForm": "wireline",
+    "partOfSpeech": "adjective / noun",
+    "commonContext": "Telecommunications, ISP services, networking",
+    "usageTip": "Use 'wireline' to discuss traditional cable-based telecom services.",
+    "commonMistake": "Confusing 'wireline' with simple electrical wiring.",
+    "collocations": [
+      "wireline service",
+      "wireline infrastructure",
+      "wireline broadband"
+    ]
+  },
+  {
+    "word": "Wireline",
+    "meaning": "A system that uses physical cables to transmit data or communication",
+    "shortMeaning": "using physical cables",
+    "example": "The company provides wireline broadband services.",
+    "example2": "Wireline connections are often more stable than wireless.",
+    "example3": "He works in the wireline telecommunications sector.",
+    "Explanation": "Wireline refers specifically to telecommunications or data transmission carried through physical media like copper or fiber-optic cables. It is often used to contrast with wireless or mobile services. In the industry, wireline infrastructure provides the backbone for most internet services. It is generally associated with high reliability and fixed locations. Knowing the difference between wireline and wireless is crucial for network infrastructure discussions and planning.",
+    "synonyms": [
+      "fixed-line",
+      "cabled connection"
+    ],
+    "antonyms": [
+      "wireless",
+      "radio-based",
+      "mobile"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Telecommunications, internet infrastructure",
+    "usageTip": "Use 'wireline' when discussing traditional cable-based phone or internet networks.",
+    "commonMistake": "Using 'wireline' as a synonym for all types of networking.",
+    "collocations": [
+      "wireline services",
+      "wireline infrastructure",
+      "wireline broadband"
+    ]
+  }
+]

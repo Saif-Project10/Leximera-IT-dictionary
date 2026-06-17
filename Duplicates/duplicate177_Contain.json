@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Contain",
+    "meaning": "To have or hold something within. | To have or hold within; to include as a part",
+    "shortMeaning": "hold inside",
+    "example": "This box contains old photographs.",
+    "example2": "The medicine contains a strong ingredient.",
+    "example3": "He could hardly contain his excitement.",
+    "Explanation": "Contain means to have something inside as a part, component, or contents. It can refer to physical objects holding other objects, or abstract things like emotions or situations. The verb emphasizes enclosure or inclusion. The noun form is 'container.' A common mistake is confusing it with 'content,' which is what is inside. Also, 'contain' is often used in a controlling sense (contain an outbreak, contain your anger). This word is essential for descriptions in science (chemicals contain elements), everyday life (bottles contain water), and emotional expression. It's a straightforward but very common and useful verb.",
+    "synonyms": [
+      "Control",
+      "Enclose",
+      "Hold",
+      "Include",
+      "Incorporate",
+      "Restrain"
+    ],
+    "antonyms": [
+      "Exclude",
+      "Release",
+      "Spill"
+    ],
+    "nounForm": "container",
+    "verbForm": "contain",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Packaging, ingredients, emotions, and controlling situations.",
+    "usageTip": "Use 'contain' for what is inside something. The things inside are the 'contents.'",
+    "commonMistake": "Confusing 'contain' (verb) with 'content' (noun meaning what is inside).",
+    "collocations": [
+      "contains nuts",
+      "contain costs",
+      "contain multitudes"
+    ]
+  },
+  {
+    "word": "Contain",
+    "meaning": "To have something inside or as part of itself",
+    "shortMeaning": "hold inside",
+    "example": "This folder should contain all the necessary files.",
+    "example2": "The document does not contain any sensitive information.",
+    "example3": "We must contain the spread of the computer virus.",
+    "Explanation": "The word 'contain' means to hold or include something within boundaries. It can describe physical objects like boxes or digital ones like databases and variables. It can also mean to control or restrain something, such as containing an emotion or a fire. In programming, we often check if a list or string contains a specific value. It is a very common and essential word in both general English and technical fields.",
+    "synonyms": [
+      "include",
+      "hold",
+      "comprise"
+    ],
+    "antonyms": [
+      "exclude",
+      "release",
+      "omit"
+    ],
+    "nounForm": "container",
+    "verbForm": "contain",
+    "adjectiveForm": "contained",
+    "partOfSpeech": "verb",
+    "commonContext": "Storage, software, and general descriptions",
+    "usageTip": "Use 'contain' when talking about what is inside a file or a container.",
+    "commonMistake": "Confusing 'contain' (to hold) with 'consist of' (to be made of).",
+    "collocations": [
+      "contain information",
+      "contain a virus",
+      "contain the situation"
+    ]
+  }
+]

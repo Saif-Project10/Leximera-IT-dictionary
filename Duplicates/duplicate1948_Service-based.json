@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Service-based",
+    "meaning": "Structured around providing services rather than just products",
+    "shortMeaning": "service-focused",
+    "example": "Our company uses a service-based business model.",
+    "example2": "The API follows a service-based architecture.",
+    "example3": "A service-based approach allows for easier updates.",
+    "Explanation": "A 'service-based' structure organizes a system or business by breaking it down into distinct services that perform specific tasks. Each service acts independently, and they communicate to form a larger application. This makes the system more modular and easier to maintain. If one service fails, the others can often keep running. It is a fundamental concept in modern software design. Use this term to describe modular architectures that focus on specialized tasks and interaction between components.",
+    "synonyms": [
+      "modular",
+      "service-oriented"
+    ],
+    "antonyms": [
+      "monolithic",
+      "integrated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "service-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, business models",
+    "usageTip": "Use when describing how a system is organized into parts.",
+    "commonMistake": "Confusing it with 'product-based', which is less modular.",
+    "collocations": [
+      "service-based architecture",
+      "service-based model",
+      "service-based design"
+    ]
+  },
+  {
+    "word": "Service-based",
+    "meaning": "Organized around the provision of specific services rather than monolithic systems.",
+    "shortMeaning": "centered on services",
+    "example": "Our new architecture is a service-based system.",
+    "example2": "Many modern startups adopt a service-based delivery model.",
+    "example3": "Service-based applications are often easier to maintain.",
+    "Explanation": "The term 'service-based' describes a system that is composed of several smaller, independent services that interact with each other. This is common in microservices architectures where distinct business capabilities are separated into their own services. By using a service-based approach, teams can update or scale individual parts of an application without affecting the whole. It promotes modularity and independent development.",
+    "synonyms": [
+      "modular",
+      "service-oriented"
+    ],
+    "antonyms": [
+      "monolithic",
+      "integrated"
+    ],
+    "nounForm": "service",
+    "verbForm": "N/A",
+    "adjectiveForm": "service-based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, business models",
+    "usageTip": "Use 'service-based' when describing modular system designs.",
+    "commonMistake": "Confusing service-based with simple outsourcing.",
+    "collocations": [
+      "service-based architecture",
+      "service-based model",
+      "service-based application"
+    ]
+  }
+]

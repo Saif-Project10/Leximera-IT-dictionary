@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Teleconference",
+    "meaning": "A meeting held among people in different locations using telecommunication tools",
+    "shortMeaning": "remote meeting",
+    "example": "We have a teleconference scheduled with the London team at 3 PM.",
+    "example2": "The CEO used a teleconference to announce the company's new goals.",
+    "example3": "During the pandemic, every meeting became a teleconference.",
+    "Explanation": "A teleconference allows people to talk and share information without being in the same room. It can be audio-only (like a group phone call) or include video (often called a video conference). This saves time and money on travel. Participants can usually share their computer screens to show documents or presentations. It has become a standard part of modern work culture. Modern software like Zoom and Teams has made teleconferencing very easy and accessible to everyone.",
+    "synonyms": [
+      "video call",
+      "remote meeting",
+      "conference call"
+    ],
+    "antonyms": [
+      "in-person meeting",
+      "face-to-face gathering"
+    ],
+    "nounForm": "teleconference",
+    "verbForm": "teleconference",
+    "adjectiveForm": "teleconferencing",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Business meetings, education, and remote work",
+    "usageTip": "Use 'teleconference' as a general term for any remote meeting, whether voice or video.",
+    "commonMistake": "Thinking it only means 'video'; a group phone call is also a teleconference.",
+    "collocations": [
+      "hold a teleconference",
+      "join a teleconference",
+      "international teleconference"
+    ]
+  },
+  {
+    "word": "Teleconference",
+    "meaning": "To hold a virtual meeting or digital discussion with multiple people located in different places using video and audio software",
+    "shortMeaning": "hold virtual meeting",
+    "example": "The remote web development team will teleconference every morning to coordinate their coding tasks.",
+    "example2": "We use encrypted software channels to teleconference with our international enterprise clients.",
+    "example3": "It is easier to solve complex server deployment issues when engineers teleconference together live.",
+    "Explanation": "The word 'teleconference' serves as both a noun and a verb defining digital meetings over the web. Driven by modern remote-work trends, applications like Zoom, Microsoft Teams, and Google Meet allow technical teams to connect effortlessly. During an IT teleconference, features like screen-sharing enable developers to debug code blocks live, while project managers monitor roadmap progress. It requires high network bandwidth and low latency configurations to prevent audio lag and video compression glitches during corporate calls.",
+    "synonyms": [
+      "video call",
+      "virtual meeting",
+      "webinar",
+      "remote conference"
+    ],
+    "antonyms": [
+      "in-person meeting"
+    ],
+    "nounForm": "teleconference / teleconferencing",
+    "verbForm": "teleconference",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Remote work coordination, client consulting, agile scrum standups",
+    "usageTip": "Use 'teleconference' when describing official business meetings held across remote internet video software.",
+    "commonMistake": "Spelling it as 'telconferance' or thinking it only applies to old-fashioned phone-only calls.",
+    "collocations": [
+      "schedule a teleconference",
+      "join the teleconference",
+      "daily teleconference"
+    ]
+  }
+]

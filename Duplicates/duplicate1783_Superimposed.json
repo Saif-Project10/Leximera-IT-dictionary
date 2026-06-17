@@ -1,0 +1,94 @@
+[
+  {
+    "word": "Superimposed",
+    "meaning": "Placed or laid over something else so that both are visible",
+    "shortMeaning": "layered on top",
+    "example": "The map had a grid superimposed on it for easier navigation.",
+    "example2": "The subtitles were superimposed on the video in real-time.",
+    "example3": "The doctor compared the two X-rays by looking at one superimposed over the other.",
+    "Explanation": "Superimposed describes when one image, text, or object is placed on top of another. In the world of technology, this is common in video editing and augmented reality (AR). For example, in AR, digital information is superimposed on your view of the real world. In graphics, it involves layering different elements so they combine into one scene. The word implies that the original background is still there, but a new layer has been added to provide more information or change the appearance.",
+    "synonyms": [
+      "layered",
+      "overlaid",
+      "placed over"
+    ],
+    "antonyms": [
+      "underlying",
+      "separated",
+      "removed"
+    ],
+    "nounForm": "superimposition",
+    "verbForm": "superimpose",
+    "adjectiveForm": "superimposed",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Graphics, photography, and medical imaging",
+    "usageTip": "Use 'superimposed' when one thing is added on top of another without replacing it.",
+    "commonMistake": "Confusing it with 'replaced'; superimposing keeps the bottom layer visible.",
+    "collocations": [
+      "superimposed text",
+      "superimposed image",
+      "superimposed layer"
+    ]
+  },
+  {
+    "word": "Superimposed",
+    "meaning": "Placed or laid over something else",
+    "shortMeaning": "placed on top",
+    "example": "The warning icon is superimposed on the video feed.",
+    "example2": "The final layout has text superimposed over the image.",
+    "example3": "The data charts were superimposed to show the differences.",
+    "Explanation": "The word 'superimposed' means that one layer, image, or piece of data is placed directly on top of another. This is common in UI design, digital image editing, and data visualization. For example, adding labels onto a map or watermark on a photo are examples of superimposing. It suggests that both items are visible at once, with one acting as a layer on top of the other. It is a very precise term used in design and engineering.",
+    "synonyms": [
+      "overlaid",
+      "layered",
+      "superposed"
+    ],
+    "antonyms": [
+      "underlaid",
+      "removed"
+    ],
+    "nounForm": "superimposition",
+    "verbForm": "superimpose",
+    "adjectiveForm": "superimposed",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI/UX design, graphics, data visualization",
+    "usageTip": "Use 'superimposed' when talking about combining layers of content.",
+    "commonMistake": "Confusing 'superimposed' with 'replaced' (they coexist, not replace).",
+    "collocations": [
+      "superimposed over",
+      "superimposed layer",
+      "superimposed image"
+    ]
+  },
+  {
+    "word": "Superimposed",
+    "meaning": "Placed or laid over something else",
+    "shortMeaning": "laid over",
+    "example": "The text was superimposed on the background image.",
+    "example2": "Different wave patterns can be superimposed to create new ones.",
+    "example3": "The error logs were superimposed over the main dashboard.",
+    "Explanation": "Superimposed describes the action of placing one object or layer on top of another. In design, it is often used for UI overlays. In physics and signal processing, it refers to combining multiple waveforms into one output. It implies that the original object is still visible underneath. It is a standard term in graphic design, image editing, and signal theory. Make sure the context clarifies what is being layered on what.",
+    "synonyms": [
+      "layered",
+      "overlapped",
+      "placed over"
+    ],
+    "antonyms": [
+      "separated",
+      "removed",
+      "underneath"
+    ],
+    "nounForm": "superimposition",
+    "verbForm": "superimpose",
+    "adjectiveForm": "superimposed",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "UI/UX design, image processing, signal theory",
+    "usageTip": "Use 'superimposed' when discussing layers or overlapping data.",
+    "commonMistake": "Confusing 'superimposed' with 'replaced'.",
+    "collocations": [
+      "superimposed image",
+      "superimposed layer",
+      "superimposed signal"
+    ]
+  }
+]

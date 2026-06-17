@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Misunderstand",
+    "meaning": "To fail to understand something correctly",
+    "shortMeaning": "understand wrongly",
+    "example": "I think you misunderstand my intentions.",
+    "example2": "She misunderstood the instructions and did it wrong.",
+    "example3": "Let me clarify to avoid any misunderstanding.",
+    "Explanation": "'Misunderstand' is a verb meaning to interpret something incorrectly. It is a common source of confusion and conflict in communication. The noun form is 'misunderstanding'. The past tense is 'misunderstood'. It is important in both personal and professional settings to clarify statements to prevent misunderstandings. The word highlights the gap between what is said and what is heard or interpreted.",
+    "synonyms": [
+      "misinterpret",
+      "misconstrue",
+      "get wrong",
+      "confuse"
+    ],
+    "antonyms": [
+      "understand",
+      "comprehend",
+      "grasp",
+      "get"
+    ],
+    "nounForm": "misunderstanding",
+    "verbForm": "misunderstand",
+    "adjectiveForm": "misunderstood",
+    "partOfSpeech": "verb",
+    "commonContext": "Conversations, instructions, relationships, communication",
+    "usageTip": "Use 'misunderstand' when someone has not understood the correct meaning of what was said or written.",
+    "commonMistake": "Saying 'I am misunderstanding' (present continuous) is less common than 'I misunderstand' (simple present) or 'I misunderstood' (past).",
+    "collocations": [
+      "misunderstand each other",
+      "easy to misunderstand",
+      "clear up a misunderstanding"
+    ]
+  },
+  {
+    "word": "Misunderstand",
+    "meaning": "To fail to understand something correctly",
+    "shortMeaning": "wrong understanding",
+    "example": "I'm sorry, I think I misunderstand your request for the database design.",
+    "example2": "Users often misunderstand how the privacy settings work on this app.",
+    "example3": "If you misunderstand the problem, you will build the wrong solution.",
+    "Explanation": "Misunderstanding is usually a communication problem between people. In the tech world, this often happens between a client (who knows what they want) and a developer (who knows how to build it). If the developer misunderstands the requirements, the final product will not work as expected. This is why tools like 'User Stories' and 'Wireframes' are used—to make sure everyone has the same understanding. It can also happen when reading technical books or documentation. Asking questions and repeating back what you heard is the best way to avoid misunderstanding.",
+    "synonyms": [
+      "misinterpret",
+      "get the wrong idea",
+      "be confused"
+    ],
+    "antonyms": [
+      "understand",
+      "comprehend",
+      "grasp"
+    ],
+    "nounForm": "misunderstanding",
+    "verbForm": "misunderstand",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Client meetings, team discussions, learning",
+    "usageTip": "Use 'misunderstand' when the 'idea' or 'concept' was not captured correctly.",
+    "commonMistake": "Confusing 'misunderstand' with 'mishear'; you can hear the words perfectly but still misunderstand the point.",
+    "collocations": [
+      "completely misunderstand",
+      "easy to misunderstand",
+      "misunderstand the instructions"
+    ]
+  }
+]

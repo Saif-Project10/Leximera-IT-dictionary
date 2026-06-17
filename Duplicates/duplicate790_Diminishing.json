@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Diminishing",
+    "meaning": "Becoming smaller, fewer, or less; decreasing.",
+    "shortMeaning": "decreasing",
+    "example": "The company is facing diminishing profits each quarter.",
+    "example2": "There are diminishing returns if you study for more than five hours straight.",
+    "example3": "His influence in the party is diminishing.",
+    "Explanation": "Diminishing is the present participle of the verb 'diminish', used as an adjective. It describes a process of gradual reduction in size, importance, quantity, or intensity. It implies a trend that is ongoing. The phrase 'diminishing returns' is an economic principle where additional investment yields progressively smaller benefits. The word often carries a negative connotation of loss or decline, but it can be neutral. It's a useful word for describing trends in data, resources, influence, or effects over time.",
+    "synonyms": [
+      "decreasing",
+      "declining",
+      "shrinking",
+      "waning",
+      "fading"
+    ],
+    "antonyms": [
+      "increasing",
+      "growing",
+      "expanding",
+      "escalating"
+    ],
+    "nounForm": "diminishment",
+    "verbForm": "diminish",
+    "adjectiveForm": "diminishing",
+    "partOfSpeech": "adjective / verb (present participle)",
+    "commonContext": "Economics, resources, influence, effects, size",
+    "usageTip": "Often used before nouns (diminishing resources, diminishing role) or in the phrase 'diminishing returns'.",
+    "commonMistake": "Confusing it with 'minimizing'. Diminishing means becoming smaller; minimizing means making something as small as possible.",
+    "collocations": [
+      "diminishing returns",
+      "diminishing role",
+      "rapidly diminishing",
+      "law of diminishing returns"
+    ]
+  },
+  {
+    "word": "Diminishing",
+    "meaning": "Becoming smaller or less important over time.",
+    "shortMeaning": "becoming smaller",
+    "example": "We are facing diminishing returns on this old optimization strategy.",
+    "example2": "The effect of the update is slowly diminishing.",
+    "example3": "There is a diminishing interest in this legacy technology.",
+    "Explanation": "The word 'diminishing' is an active adjective describing something that is currently in the process of decreasing. It is most famous for the economic concept of 'diminishing returns,' where putting more effort into something gives less and less benefit. In IT, you might use it to describe a trend, a tool's relevance, or a server's performance. It implies that a change is happening and it should be monitored.",
+    "synonyms": [
+      "decreasing",
+      "declining",
+      "fading"
+    ],
+    "antonyms": [
+      "growing",
+      "increasing",
+      "rising"
+    ],
+    "nounForm": "Diminishment",
+    "verbForm": "Diminish",
+    "adjectiveForm": "Diminishing",
+    "partOfSpeech": "adjective",
+    "commonContext": "Trend analysis and project management",
+    "usageTip": "Use 'diminishing' for trends that are currently heading downwards.",
+    "commonMistake": "Confusing it with 'diminished' (the state vs. the process).",
+    "collocations": [
+      "diminishing returns",
+      "diminishing performance",
+      "diminishing influence"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Transmissible",
+    "meaning": "Able to be passed from one place or person to another",
+    "shortMeaning": "able to be sent",
+    "example": "Data that is transmissible via network should be encrypted.",
+    "example2": "The packet is transmissible across different protocols.",
+    "example3": "We ensure the information is easily transmissible between services.",
+    "Explanation": "Transmissible is used to describe something that can be sent or moved from one entity to another. In IT, it usually refers to data, packets, or files that need to be sent over a network. For something to be transmissible, it must be in a format that both the sender and receiver understand. This includes standardizing the way data is structured. It is a critical factor for communication in distributed systems.",
+    "synonyms": [
+      "transferable",
+      "communicable",
+      "sendable"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "nontransferable"
+    ],
+    "nounForm": "transmissibility",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmissible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Networking, data transmission",
+    "usageTip": "Use this for data or files that are designed to be sent across networks.",
+    "commonMistake": "Confusing it with 'transient' (which means temporary).",
+    "collocations": [
+      "transmissible data",
+      "easily transmissible",
+      "securely transmissible"
+    ]
+  },
+  {
+    "word": "Transmissible",
+    "meaning": "Able to be passed from one person or machine to another",
+    "shortMeaning": "contagious/transferable",
+    "example": "The virus is transmissible through email attachments.",
+    "example2": "The data is transmissible over a secure network.",
+    "example3": "He identified a transmissible bug in the network.",
+    "Explanation": "The word 'transmissible' means something can move or be passed on. While often used for diseases, in IT it is used to describe data, bugs, or viruses that spread through networks. It implies that the item is capable of crossing the gap between two endpoints. It is a technical term used in security and networking to discuss the risk of movement. It is often used in the context of 'transmissible data' or 'transmissible infection'.",
+    "synonyms": [
+      "communicable",
+      "transferable",
+      "spreadable"
+    ],
+    "antonyms": [
+      "contained",
+      "non-transmissible"
+    ],
+    "nounForm": "transmission",
+    "verbForm": "transmit",
+    "adjectiveForm": "transmissible",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, networking, viruses, data transfer",
+    "usageTip": "Use 'transmissible' to describe things that can move across a network.",
+    "commonMistake": "Only associating it with health; it is very common in cybersecurity.",
+    "collocations": [
+      "transmissible virus",
+      "transmissible data",
+      "transmissible bug"
+    ]
+  }
+]

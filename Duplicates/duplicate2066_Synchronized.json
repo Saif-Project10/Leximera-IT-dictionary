@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Synchronized",
+    "meaning": "Happening or working at exactly the same time",
+    "shortMeaning": "matched",
+    "example": "The servers are synchronized to maintain accuracy.",
+    "example2": "We have synchronized the user session state.",
+    "example3": "The clocks must be perfectly synchronized.",
+    "Explanation": "The word 'synchronized' indicates that multiple parts of a system have been brought into alignment, often in time or state. It is a formal, professional way of saying that everything is consistent. In complex systems, having synchronized states prevents errors and conflicts. It implies that a deliberate action was taken to ensure that all parts are acting in unison. Use this in formal documentation to describe the status of your data or processes.",
+    "synonyms": [
+      "aligned",
+      "coordinated",
+      "unified"
+    ],
+    "antonyms": [
+      "desynchronized",
+      "unaligned"
+    ],
+    "nounForm": "synchronization",
+    "verbForm": "synchronize",
+    "adjectiveForm": "synchronized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Networking, database management, time-keeping",
+    "usageTip": "Use in formal reports for clarity.",
+    "commonMistake": "Assuming synchronization happens instantly; it always has some delay.",
+    "collocations": [
+      "synchronized state",
+      "synchronized server",
+      "fully synchronized"
+    ]
+  },
+  {
+    "word": "Synchronized",
+    "meaning": "Operated or adjusted to be in agreement or at the same time",
+    "shortMeaning": "matched",
+    "example": "The audio and video were perfectly synchronized.",
+    "example2": "Synchronized computing prevents data errors.",
+    "example3": "He synchronized the local database with the cloud.",
+    "Explanation": "This is a repetition of the earlier entry 'synchronized'. As noted, it indicates perfect timing or matching states. Whether used for media, databases, or threads, it ensures harmony. It is a fundamental concept for reliability in IT. Use it when describing the result of a process that keeps components in lockstep, preventing discrepancies or delays. It is a professional and precise term suitable for all technical documentation.",
+    "synonyms": [
+      "aligned",
+      "coordinated",
+      "timed"
+    ],
+    "antonyms": [
+      "out-of-sync",
+      "desynchronized",
+      "independent"
+    ],
+    "nounForm": "synchronization",
+    "verbForm": "synchronize",
+    "adjectiveForm": "synchronized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Database management, media, system design",
+    "usageTip": "Use this as the preferred spelling in technical documentation.",
+    "commonMistake": "Using it when describing processes that only happen to occur at once by chance.",
+    "collocations": [
+      "perfectly synchronized",
+      "synchronized threads",
+      "synchronized clocks"
+    ]
+  }
+]

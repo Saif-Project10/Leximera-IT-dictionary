@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Conditional",
+    "meaning": "Subject to one or more conditions or requirements being met; not absolute",
+    "shortMeaning": "dependent on conditions",
+    "example": "Her job offer is conditional on passing a background check.",
+    "example2": "We made a conditional agreement to buy the house.",
+    "example3": "In grammar, 'would' is often used in conditional sentences.",
+    "Explanation": "'Conditional' is an adjective (and a noun in grammar) describing something that will happen or be true only if something else happens first. It is about dependence and contingency. This word is essential in contracts, offers, logic, and grammar (conditional clauses: 'if...then...'). It implies that the main action is not guaranteed. The opposite is 'unconditional'. Understanding conditions is key to negotiations and clear agreements. It's a logical and practical word used across many fields.",
+    "synonyms": [
+      "dependent",
+      "provisional",
+      "contingent",
+      "subject to"
+    ],
+    "antonyms": [
+      "unconditional",
+      "absolute",
+      "certain"
+    ],
+    "nounForm": "condition (also 'conditional' in grammar)",
+    "verbForm": "condition",
+    "adjectiveForm": "conditional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Contracts, job offers, logic, grammar, agreements",
+    "usageTip": "Use 'conditional' to describe an offer, agreement, or situation that depends on specific terms being met.",
+    "commonMistake": "Using it to mean 'temporary'. It's about dependency, not duration.",
+    "collocations": [
+      "conditional offer",
+      "conditional upon",
+      "conditional approval"
+    ]
+  },
+  {
+    "word": "Conditional",
+    "meaning": "Depending on specific circumstances or a specific condition being met",
+    "shortMeaning": "depending on conditions",
+    "example": "The script includes conditional logic to handle different user inputs.",
+    "example2": "Access to the data is conditional on user verification.",
+    "example3": "Conditional formatting in the spreadsheet highlights errors.",
+    "Explanation": "Conditional means something is not automatic but happens only if a requirement (a condition) is satisfied. In programming, 'conditionals' (like 'if-then-else' statements) are the building blocks of decision-making. If the condition is true, the code executes; otherwise, it skips it. The noun form is 'condition', and the verb form is 'condition'.",
+    "synonyms": [
+      "dependent",
+      "provisional"
+    ],
+    "antonyms": [
+      "unconditional",
+      "absolute"
+    ],
+    "nounForm": "condition",
+    "verbForm": "condition",
+    "adjectiveForm": "conditional",
+    "partOfSpeech": "adjective",
+    "commonContext": "Programming, Logic",
+    "usageTip": "Use 'conditional' when talking about code logic or requirements.",
+    "commonMistake": "Confusing 'conditional' with 'contingent'.",
+    "collocations": [
+      "conditional logic",
+      "conditional formatting"
+    ]
+  }
+]

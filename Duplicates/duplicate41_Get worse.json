@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Get worse",
+    "meaning": "To become more bad, severe, or unpleasant",
+    "shortMeaning": "become more bad",
+    "example": "His cough seemed to get worse overnight.",
+    "example2": "Traffic congestion gets worse every year.",
+    "example3": "If you ignore a problem, it usually gets worse.",
+    "Explanation": "'Get worse' is a common phrasal verb describing a decline in condition, quality, or situation. It's used for health, weather, conflicts, and general states. It's informal and used in everyday speech. The opposite is 'get better'. This phrase is simple but very useful for describing negative trends. It focuses on the process of deterioration. Note that 'worse' is the comparative form of 'bad'.",
+    "synonyms": [
+      "deteriorate",
+      "decline",
+      "worsen",
+      "degenerate"
+    ],
+    "antonyms": [
+      "get better",
+      "improve",
+      "recover"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "get worse",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "Health, weather, economic conditions, relationships, quality",
+    "usageTip": "An informal but very common phrase. For more formal writing, use 'deteriorate' or 'worsen'.",
+    "commonMistake": "Saying 'more worse' is incorrect because 'worse' is already the comparative form.",
+    "collocations": [
+      "getting worse",
+      "got worse",
+      "make things worse",
+      "rapidly get worse"
+    ]
+  },
+  {
+    "word": "Get worse",
+    "meaning": "To decline in quality, health, or performance",
+    "shortMeaning": "decline",
+    "example": "The bug reports started to get worse after the last update.",
+    "example2": "My laptop's battery life is starting to get worse.",
+    "example3": "If we don't fix the server, the downtime will get worse.",
+    "Explanation": "The phrase 'get worse' is used to describe a negative change or a downward trend. In IT, this might refer to increasing latency, a growing number of security vulnerabilities, or a decrease in code quality (often called 'code rot'). It is an informal expression often heard during troubleshooting or project meetings. Recognizing when a situation is getting worse is key to preventing major system failures. In formal technical writing, terms like 'deteriorate', 'decline', or 'exacerbate' are often preferred over 'get worse'.",
+    "synonyms": [
+      "decline",
+      "deteriorate",
+      "worsen"
+    ],
+    "antonyms": [
+      "get better",
+      "improve",
+      "refine"
+    ],
+    "nounForm": "deterioration",
+    "verbForm": "get worse",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrase",
+    "commonContext": "System errors, health, and declining performance",
+    "usageTip": "Use this phrase to warn about a negative trend that needs attention.",
+    "commonMistake": "Confusing 'get worse' with 'get bad'; 'get worse' implies a change, 'get bad' just describes the state.",
+    "collocations": [
+      "get significantly worse",
+      "get progressively worse",
+      "things get worse"
+    ]
+  }
+]

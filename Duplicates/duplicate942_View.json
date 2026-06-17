@@ -1,0 +1,62 @@
+[
+  {
+    "word": "View",
+    "meaning": "The ability to see something or be seen; an opinion or belief; what you can see from a place.",
+    "shortMeaning": "sight, opinion, scenery",
+    "example": "We have a beautiful view of the mountains from our window.",
+    "example2": "In my view, we should wait for more information.",
+    "example3": "The video has had over a million views.",
+    "Explanation": "'View' is a highly common noun and verb. As a noun, its three main meanings are: 1) what is seen (scenery), 2) a personal opinion, and 3) the act of seeing. As a verb, it means to look at, consider, or watch. It's a versatile word used in tourism, discussion, and technology (page views). The context is crucial for understanding which meaning is intended. It's a fundamental word for perception and perspective.",
+    "synonyms": [
+      "opinion",
+      "vista",
+      "perspective"
+    ],
+    "antonyms": [
+      "blindness",
+      "ignorance"
+    ],
+    "nounForm": "view",
+    "verbForm": "view",
+    "adjectiveForm": "viewable",
+    "partOfSpeech": "noun, verb",
+    "commonContext": "Opinions, landscapes, television, internet",
+    "usageTip": "For opinion, use 'in my view' or 'from my point of view'. For scenery, 'a view of' something.",
+    "commonMistake": "Confusing 'view' (opinion) with 'review' (a formal assessment or critique).",
+    "collocations": [
+      "point of view",
+      "bird's-eye view",
+      "in view of"
+    ]
+  },
+  {
+    "word": "View",
+    "meaning": "A virtual database table built from a saved query, or the user interface layer displayed to a user",
+    "shortMeaning": "virtual table or UI display",
+    "example": "We created a database view to show user profile details without exposing password hashes.",
+    "example2": "The frontend application updates the view automatically whenever the underlying data changes.",
+    "example3": "You can modify this CSS code to improve how the product gallery view looks on mobile screens.",
+    "Explanation": "The word 'view' has two primary meanings in software engineering. In database administration, a view is a virtual table created by saving a SQL query. It displays dynamic data without saving it separately, helping simplify access controls and hide sensitive columns. In software architectures like MVC (Model-View-Controller), the view refers specifically to the user interface layer—the HTML, CSS, and visual elements that the end user interacts with on their screen.",
+    "synonyms": [
+      "virtual table",
+      "display layer",
+      "user interface",
+      "perspective"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "view",
+    "verbForm": "view",
+    "adjectiveForm": "viewable",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "SQL database structures, backend architecture templates (MVC), and frontend UI design sheets",
+    "usageTip": "Use 'view' to describe either a virtual query table in your database or the visual layout components of your application UI.",
+    "commonMistake": "Confusing a database view with a physical table; a view runs its underlying query dynamically every time it is accessed.",
+    "collocations": [
+      "create a database view",
+      "update the UI view",
+      "list view layout"
+    ]
+  }
+]

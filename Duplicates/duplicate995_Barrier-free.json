@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Barrier-free",
+    "meaning": "Designed without obstacles to access, especially for people with disabilities.",
+    "shortMeaning": "accessible to all",
+    "example": "The new building is completely barrier-free.",
+    "example2": "We're working to create barrier-free access to public transportation.",
+    "example3": "Barrier-free design benefits everyone, not just people with disabilities.",
+    "Explanation": "'Barrier-free' is an adjective describing environments, buildings, or systems designed to be accessible to everyone, including people with disabilities. It's a key concept in universal design and disability rights. It goes beyond wheelchair ramps to include considerations for visual, auditory, and cognitive accessibility. The term promotes inclusion and equal opportunity. It's increasingly important in architecture, urban planning, and web design as societies work toward greater accessibility.",
+    "synonyms": [
+      "accessible",
+      "unobstructed",
+      "inclusive"
+    ],
+    "antonyms": [
+      "inaccessible",
+      "obstructed",
+      "restrictive"
+    ],
+    "nounForm": "barrier-free access",
+    "verbForm": "N/A",
+    "adjectiveForm": "barrier-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Architecture, disability rights, urban planning, web design",
+    "usageTip": "Often used before nouns like 'design', 'access', 'environment', or 'society'.",
+    "commonMistake": "Thinking barrier-free only means wheelchair accessible. It includes all types of disabilities.",
+    "collocations": [
+      "barrier-free design",
+      "barrier-free environment",
+      "barrier-free access"
+    ]
+  },
+  {
+    "word": "Barrier-free",
+    "meaning": "Designed so that everyone, including people with disabilities, can use it easily",
+    "shortMeaning": "accessible to all",
+    "example": "We designed a barrier-free user interface that supports screen reader software.",
+    "example2": "The new operating system update ensures a barrier-free experience for users.",
+    "example3": "Creating a barrier-free internet layout requires following global WCAG standards.",
+    "Explanation": "The compound word 'barrier-free' means fully accessible, inclusive, and open to all users without obstacles. In front-end web development, building barrier-free websites means adding proper image alt-text, good color contrast, and clean keyboard navigation. This helps individuals with visual, audio, or motor impairments enjoy tech apps seamlessly. It matches digital accessibility laws.",
+    "synonyms": [
+      "accessible",
+      "unrestricted",
+      "open"
+    ],
+    "antonyms": [
+      "restricted",
+      "inaccessible",
+      "blocked"
+    ],
+    "nounForm": "barrier-free accessibility",
+    "verbForm": "N/A",
+    "adjectiveForm": "barrier-free",
+    "partOfSpeech": "adjective",
+    "commonContext": "Web accessibility standards (WCAG), user experience design, and software product compliance",
+    "usageTip": "Use 'barrier-free' when describing software layouts optimized for inclusive accessibility.",
+    "commonMistake": "Writing 'barrier free' without the hyphen when placing it directly before a noun.",
+    "collocations": [
+      "barrier-free access",
+      "barrier-free web",
+      "barrier-free environment"
+    ]
+  }
+]

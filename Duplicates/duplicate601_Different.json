@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Different",
+    "meaning": "Not the same as another or each other.",
+    "shortMeaning": "not the same",
+    "example": "My sister and I have very different personalities.",
+    "example2": "They visited five different countries last year.",
+    "example3": "I feel different about the issue now.",
+    "Explanation": "Different is a fundamental adjective for expressing dissimilarity or variety. It is used to compare two or more things and highlight how they are not alike. It is often followed by 'from', 'to' (British English), or 'than' (American English), though 'from' is considered most correct by some. The noun form is 'difference'. The word is essential for making distinctions and describing diversity. It's a neutral word that simply states a lack of sameness, without implying that one is better than the other.",
+    "synonyms": [
+      "dissimilar",
+      "distinct",
+      "various",
+      "diverse",
+      "unlike"
+    ],
+    "antonyms": [
+      "same",
+      "similar",
+      "identical",
+      "alike"
+    ],
+    "nounForm": "difference",
+    "verbForm": "differ",
+    "adjectiveForm": "different",
+    "partOfSpeech": "adjective",
+    "commonContext": "Comparisons, descriptions, expressing variety",
+    "usageTip": "In formal writing, 'different from' is widely accepted. 'Different than' is common in American English.",
+    "commonMistake": "Using 'different' to mean 'various' incorrectly (e.g., 'many different people' is fine, but 'different people came' might be vague).",
+    "collocations": [
+      "completely different",
+      "different from",
+      "different kinds of",
+      "look different"
+    ]
+  },
+  {
+    "word": "Different",
+    "meaning": "Not the same; distinct or separate.",
+    "shortMeaning": "not same",
+    "example": "The two servers run on different operating systems.",
+    "example2": "They have different goals for the project's final phase.",
+    "example3": "We approached the problem from a different angle.",
+    "Explanation": "The word 'different' is one of the most basic English adjectives, used to show that two or more things are not identical. In IT, you often use it to compare versions, configurations, platforms, or data sets. It is important to be precise about *what* is different (e.g., 'the configurations are different' rather than just 'it's different'). While simple, it is essential for clear documentation and communication in technical teams.",
+    "synonyms": [
+      "distinct",
+      "dissimilar",
+      "varied"
+    ],
+    "antonyms": [
+      "same",
+      "identical",
+      "similar"
+    ],
+    "nounForm": "Difference",
+    "verbForm": "Differ",
+    "adjectiveForm": "Different",
+    "partOfSpeech": "adjective",
+    "commonContext": "Everyday communication and documentation",
+    "usageTip": "Use it clearly to compare two things; avoid vague uses.",
+    "commonMistake": "Using 'different' to mean 'unique' when you should say 'distinctive'.",
+    "collocations": [
+      "different approach",
+      "different version",
+      "different configuration"
+    ]
+  }
+]

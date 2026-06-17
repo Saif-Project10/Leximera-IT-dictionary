@@ -1,0 +1,59 @@
+[
+  {
+    "word": "Traceroute",
+    "meaning": "A network diagnostic tool that displays the path data takes to a destination",
+    "shortMeaning": "path tracker",
+    "example": "I'll run a traceroute to see which server is slowing down the connection.",
+    "example2": "The traceroute output showed 12 hops between my home and the website.",
+    "example3": "A traceroute is the best way to find a network routing loop.",
+    "Explanation": "Traceroute is both a concept and a specific command-line tool. It works by sending packets with increasing 'Time to Live' (TTL) values. Each router that receives the packet and passes it on decreases the TTL. When the TTL reaches zero, the router sends back an error message. By recording these messages, the tool builds a map of the path to the destination. It's the primary tool for diagnosing 'latency' (lag) and 'packet loss' (data going missing). It is essential for anyone managing a website or a corporate network.",
+    "synonyms": [
+      "tracert",
+      "pathping",
+      "network trace"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "traceroute",
+    "verbForm": "traceroute",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Networking and IT support",
+    "usageTip": "If a traceroute shows ' * * * ', it usually means a router is configured to hide its identity for security.",
+    "commonMistake": "Assuming the path you see is the only path; network traffic can change routes dynamically.",
+    "collocations": [
+      "run a traceroute",
+      "traceroute results",
+      "traceroute command"
+    ]
+  },
+  {
+    "word": "Traceroute",
+    "meaning": "A network diagnostic tool used to track the path that data packets take across the internet from a source computer to a destination server",
+    "shortMeaning": "network packet path tracker",
+    "example": "He ran a traceroute command in the terminal to see which internet routing hop was causing the high latency to the server.",
+    "example2": "The network admin used traceroute to pinpoint the exact location of a broken connection route down the line.",
+    "example3": "The traceroute results showed that our web traffic was traveling across three different cities before reaching the cloud data center.",
+    "Explanation": "The word 'traceroute' acts as both a noun (the tool itself) and a verb (the action of running the tool). In computer networking, when you visit a website, your data doesn't travel in a direct straight line; it hops across multiple routers, servers, and switches around the world. Running a traceroute command prints out a list of every single router hop your data packet passes through, along with the time it took for each hop to respond in milliseconds. This is incredibly helpful for diagnosing internet connection slowdowns, server routing loops, and network outages. It is a standard tool found in Windows (as 'tracert'), macOS, and Linux terminal consoles.",
+    "synonyms": [
+      "packet route tracing",
+      "network path diagnostic tracking"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "traceroute",
+    "verbForm": "traceroute",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Network administration troubleshooting, terminal command diagnostics, server connection testing, and internet infrastructure audits",
+    "usageTip": "Run a traceroute command if a website layout is loading extremely slowly to find out which global internet hub is causing the data delay.",
+    "commonMistake": "Spelling it as 'tracert' on Linux systems; 'tracert' is specifically for the Windows command prompt, while Linux uses the full word 'traceroute'.",
+    "collocations": [
+      "run a traceroute",
+      "traceroute command",
+      "traceroute results"
+    ]
+  }
+]

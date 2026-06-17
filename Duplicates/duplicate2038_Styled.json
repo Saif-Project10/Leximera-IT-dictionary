@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Styled",
+    "meaning": "Designed or given a specific look, appearance, or theme.",
+    "shortMeaning": "designed or themed",
+    "example": "The website was styled with a modern dark theme.",
+    "example2": "All components are styled using CSS classes.",
+    "example3": "The report was professionally styled for the client.",
+    "Explanation": "The word 'styled' refers to the visual presentation of elements. In web development, this is specifically handled by CSS, which defines the 'style' of HTML elements. Styling covers everything from colors and fonts to layout and spacing. A well-styled application not only works well but is also visually appealing and professional, making it much more pleasant for the user to navigate.",
+    "synonyms": [
+      "designed",
+      "themed",
+      "formatted"
+    ],
+    "antonyms": [
+      "unformatted",
+      "raw",
+      "plain"
+    ],
+    "nounForm": "style",
+    "verbForm": "style",
+    "adjectiveForm": "styled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI/UX design and CSS",
+    "usageTip": "Use 'styled' to describe the visual appearance of components.",
+    "commonMistake": "Over-styling, which can distract from the actual content.",
+    "collocations": [
+      "styled component",
+      "well-styled interface",
+      "professionally styled"
+    ]
+  },
+  {
+    "word": "Styled",
+    "meaning": "Given a specific visual look or formatting.",
+    "shortMeaning": "visually designed",
+    "example": "The text is styled with CSS classes.",
+    "example2": "Each button is styled differently for visibility.",
+    "example3": "The content is well-styled for better readability.",
+    "Explanation": "The word 'styled' means that a document, website, or data object has had design rules (like CSS) applied to it to define colors, fonts, and layout. It is the past participle of 'style'. In web development, 'styled components' is a popular approach for linking design directly to code. It is an essential term for front-end developers. Use it to indicate that a raw object has been visually enhanced for the end user. It distinguishes raw, unformatted output from a finished UI.",
+    "synonyms": [
+      "formatted",
+      "designed",
+      "customized"
+    ],
+    "antonyms": [
+      "raw",
+      "unformatted",
+      "plain"
+    ],
+    "nounForm": "style",
+    "verbForm": "style",
+    "adjectiveForm": "styled",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "UI/UX, CSS, front-end development",
+    "usageTip": "Use 'styled' to describe components with visual design applied.",
+    "commonMistake": "Confusing 'styled' with 'structured' (structure is organization, style is look).",
+    "collocations": [
+      "well-styled",
+      "styled components",
+      "dynamically styled"
+    ]
+  }
+]

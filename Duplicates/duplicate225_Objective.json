@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Objective",
+    "meaning": "(Noun) A specific, measurable goal. (Adjective) Not influenced by personal feelings; factual.",
+    "shortMeaning": "specific goal; unbiased",
+    "example": "The project's primary objective is to increase user satisfaction by 20%.",
+    "example2": "A journalist should try to be objective in reporting the news.",
+    "example3": "Our main objective for today is to complete the first draft.",
+    "Explanation": "Objective has two important meanings. As a noun, it's a formal word for a specific, often measurable, goal, common in business and military contexts. As an adjective, it means unbiased and based on facts, not personal opinions. This dual meaning is useful: you set objective (noun) goals and try to make objective (adjective) decisions. In philosophy, it refers to things that exist independently of the mind. It's a key word for clear thinking and effective planning.",
+    "synonyms": [
+      "goal",
+      "aim",
+      "target",
+      "impartial",
+      "unbiased"
+    ],
+    "antonyms": [
+      "subjective",
+      "biased",
+      "partial"
+    ],
+    "nounForm": "objective",
+    "verbForm": "objectify",
+    "adjectiveForm": "objective",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Business, military, journalism, science, evaluation",
+    "usageTip": "As a noun, it's often used in the plural: 'We have three main objectives.' As an adjective, it describes a neutral viewpoint.",
+    "commonMistake": "Confusing the adjective 'objective' (unbiased) with 'subjective' (based on personal opinion).",
+    "collocations": [
+      "primary objective",
+      "objective analysis",
+      "meet an objective"
+    ]
+  },
+  {
+    "word": "Objective",
+    "meaning": "Not influenced by personal feelings; based on facts",
+    "shortMeaning": "fact-based",
+    "example": "We need an objective assessment of the system.",
+    "example2": "The metrics provide an objective view of performance.",
+    "example3": "Base your decision on objective data, not opinion.",
+    "Explanation": "The word 'objective' means that a decision or analysis is based purely on facts, metrics, or evidence, without any personal bias or feelings involved. In IT, especially in performance reviews, system testing, and bug reporting, being objective is crucial. It ensures that the results are reliable and that teams can agree on the actual state of the project. Always strive to provide objective evidence when reporting issues.",
+    "synonyms": [
+      "impartial",
+      "unbiased",
+      "fact-based"
+    ],
+    "antonyms": [
+      "subjective",
+      "biased",
+      "opinionated"
+    ],
+    "nounForm": "objective",
+    "verbForm": "N/A",
+    "adjectiveForm": "objective",
+    "partOfSpeech": "adjective",
+    "commonContext": "Management, analysis, testing",
+    "usageTip": "Use 'objective' for performance measurements or bugs.",
+    "commonMistake": "Confusing 'objective' (fact) with 'goal' (target).",
+    "collocations": [
+      "objective assessment",
+      "objective data",
+      "objective view"
+    ]
+  }
+]

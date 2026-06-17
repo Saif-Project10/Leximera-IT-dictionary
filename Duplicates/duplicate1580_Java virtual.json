@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Java virtual",
+    "meaning": "Relating to the software-based simulation of a computer that runs Java code",
+    "shortMeaning": "Software-based Java environment",
+    "example": "The Java virtual environment allows code to run safely in a sandbox.",
+    "example2": "We use a Java virtual machine to execute our applications.",
+    "example3": "Java virtual technology makes the language platform-independent.",
+    "Explanation": "The term 'Java virtual' is almost always used as part of 'Java Virtual Machine' (JVM). It refers to the fact that the environment is 'virtual'—it is a piece of software that acts like a real computer but isn't one. This 'virtual' layer sits on top of your actual hardware (like your Intel or M1 chip) and your operating system (like Windows or Mac). By running code in this virtual space, Java achieves its famous portability. The virtual nature also provides security, because the program is 'sandboxed' and cannot easily damage your real computer. It is the heart of what makes Java unique and powerful.",
+    "synonyms": [
+      "Simulated",
+      "Emulated",
+      "Software-defined"
+    ],
+    "antonyms": [
+      "Physical",
+      "Hardware-based",
+      "Native"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "Java virtual",
+    "partOfSpeech": "adjective",
+    "commonContext": "System architecture and Java fundamentals",
+    "usageTip": "Use this term when discussing the layer between the code and the physical hardware.",
+    "commonMistake": "Confusing 'virtual' with 'fake'; it is a real, functioning software system.",
+    "collocations": [
+      "Java virtual machine",
+      "virtual environment",
+      "virtual execution"
+    ]
+  },
+  {
+    "word": "Java virtual",
+    "meaning": "Part of the JVM, referring to the machine environment that runs Java code",
+    "shortMeaning": "Java runtime environment",
+    "example": "The Java virtual machine is required to execute the program.",
+    "example2": "Memory management is handled by the Java virtual machine.",
+    "example3": "You must configure the Java virtual settings for optimal performance.",
+    "Explanation": "The Java Virtual Machine (JVM) is the engine that allows Java code to run on any hardware without needing to be rewritten for every specific processor. It acts as a bridge between your compiled Java code (bytecode) and the hardware. Because it manages memory, security, and execution, it is a very powerful environment. When you talk about 'Java virtual' settings, you are usually referring to heap size, garbage collection, or other runtime parameters that directly influence how the application behaves.",
+    "synonyms": [
+      "JVM",
+      "Java runtime"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "Java Virtual Machine",
+    "verbForm": "N/A",
+    "adjectiveForm": "Java virtual",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Java programming and software execution",
+    "usageTip": "Use 'Java virtual machine' (JVM) to describe the runtime environment.",
+    "commonMistake": "Confusing the JVM with the Java programming language itself; the JVM is the engine, the language is the source.",
+    "collocations": [
+      "Java virtual machine",
+      "JVM performance",
+      "JVM memory"
+    ]
+  }
+]

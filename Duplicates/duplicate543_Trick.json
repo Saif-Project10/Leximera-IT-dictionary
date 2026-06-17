@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Trick",
+    "meaning": "To deceive or outwit someone; a cunning or skillful act intended to deceive or amuse",
+    "shortMeaning": "deceive; a clever act",
+    "example": "He tricked me into giving him my lunch money.",
+    "example2": "The magician performed an amazing card trick.",
+    "example3": "She learned a new trick to solve the math problem faster.",
+    "Explanation": "The verb 'trick' means to deceive or cheat someone, often through cunning or a scheme. As a noun, it has a broader meaning: it can be a deceptive act (a mean trick), a clever technique (a programming trick), or a feat of magic or skill (a dog trick). The verb form is less formal than 'deceive' and can range from playful to malicious. The noun is extremely common.",
+    "synonyms": [
+      "deceive",
+      "fool",
+      "hoodwink",
+      "prank",
+      "technique",
+      "skill"
+    ],
+    "antonyms": [
+      "be honest with",
+      "enlighten",
+      "standard method"
+    ],
+    "nounForm": "trick",
+    "verbForm": "trick",
+    "adjectiveForm": "tricky",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Pranks, magic, problem-solving, deception",
+    "usageTip": "As a verb, often used with 'into': 'trick someone into doing something.'",
+    "commonMistake": "Using 'trick' to mean only a deceptive act; it can also be a neutral or positive skill.",
+    "collocations": [
+      "play a trick on",
+      "dirty trick",
+      "trick of the trade",
+      "trick question"
+    ]
+  },
+  {
+    "word": "Trick",
+    "meaning": "A clever workaround, programming shortcut, or a deceptive technique used by bad actors to bypass access controls",
+    "shortMeaning": "clever shortcut or deception",
+    "example": "Using a smart CSS trick allows web developers to center a div perfectly with just one line of code.",
+    "example2": "Phishing websites attempt to trick users into typing their master database credentials.",
+    "example3": "He discovered a useful shortcut trick that speeds up local server compilation setups.",
+    "Explanation": "The word 'trick' has two distinct meanings in IT. In a positive light, a 'code trick' refers to an ingenious, non-obvious solution or shortcut that simplifies a difficult programming layout task. In a security light, 'to trick' describes social engineering tactics where hackers manipulate human psychology to steal personal encryption hashes or login variables. Understanding both aspects helps developers write concise website styles while remaining alert against user experience security deceptions.",
+    "synonyms": [
+      "shortcut",
+      "hack",
+      "workaround",
+      "deceive"
+    ],
+    "antonyms": [
+      "standard procedure",
+      "expose truth"
+    ],
+    "nounForm": "trick / trickery",
+    "verbForm": "trick",
+    "adjectiveForm": "tricky",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "CSS styling adjustments, social engineering warnings, code optimization tips",
+    "usageTip": "Use 'trick' as a noun for smart, helpful layout hacks, and as a verb when warning about cybersecurity deception tactics.",
+    "commonMistake": "Relying on brittle, undocumented code tricks that break easily whenever a programming language updates its core framework.",
+    "collocations": [
+      "css trick",
+      "trick the user",
+      "clever programming trick"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "word": "Palettized",
+    "meaning": "Reduced to a specific, limited set of colors (a palette) to save space or meet technical limits",
+    "shortMeaning": "limited color set",
+    "example": "Old video games used palettized graphics because they had limited memory.",
+    "example2": "The image was palettized to 256 colors before being saved.",
+    "example3": "GIF is a common palettized image format.",
+    "Explanation": "When an image is 'palettized', it doesn't use the millions of colors available in modern displays. Instead, it chooses a small number of colors (like 16, 64, or 256) and stores them in a list called a 'palette'. Every pixel in the image then just points to a number in that list. This makes the file size much smaller. While this was very important in the 1980s and 90s, it is still used today for things like icons and simple animations where small file sizes are more important than perfect color detail.",
+    "synonyms": [
+      "indexed color",
+      "quantized"
+    ],
+    "antonyms": [
+      "TrueColor",
+      "high-color"
+    ],
+    "nounForm": "palette",
+    "verbForm": "palettize",
+    "adjectiveForm": "palettized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Computer graphics and file compression",
+    "usageTip": "Use 'palettized' when talking about images that have a restricted number of colors.",
+    "commonMistake": "Confusing 'palettized' with 'pixelated'; one refers to color, the other to blocky resolution.",
+    "collocations": [
+      "palettized color",
+      "palettized format",
+      "palettized textures"
+    ]
+  },
+  {
+    "word": "Palettized",
+    "meaning": "A method of image encoding using a limited set of colors defined in a palette",
+    "shortMeaning": "using a color palette",
+    "example": "The old graphics card used palettized color modes.",
+    "example2": "Converting to a palettized format reduces the file size.",
+    "example3": "Palettized images are limited to 256 colors or fewer.",
+    "Explanation": "The term 'palettized' refers to a technique where images represent colors using an index into a table (palette) rather than storing the actual color values for every pixel. This was historically very important for reducing file sizes and memory usage when display hardware had limited color capabilities. Modern graphics rarely use this, but it is still relevant in embedded systems, legacy software, and some specific file formats like GIF. It is important to remember that it limits the total color depth.",
+    "synonyms": [
+      "indexed",
+      "color-mapped"
+    ],
+    "antonyms": [
+      "true-color",
+      "24-bit"
+    ],
+    "nounForm": "palette",
+    "verbForm": "palettize",
+    "adjectiveForm": "palettized",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Graphics, image processing, embedded systems",
+    "usageTip": "Use this term when discussing legacy graphics or memory-efficient image storage.",
+    "commonMistake": "Confusing palettized images with high-color or true-color images.",
+    "collocations": [
+      "palettized image",
+      "palettized format",
+      "8-bit palettized"
+    ]
+  }
+]

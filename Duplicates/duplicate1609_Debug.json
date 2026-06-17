@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Debug",
+    "meaning": "To find and fix errors (bugs) in a computer program",
+    "shortMeaning": "fixing code errors",
+    "example": "I spent all afternoon trying to debug the login page.",
+    "example2": "You should debug your code before submitting it.",
+    "example3": "The software tool helps developers debug their apps faster.",
+    "Explanation": "To debug is the process of identifying, tracing, and fixing problems within software or hardware. Errors in code are called 'bugs', a term that comes from the early days of computing when an actual moth caused a machine to fail. Debugging involves running the code step-by-step to see exactly where it stops working correctly. It is a core skill for any programmer. Most developers use special software called 'debuggers' to help them find these mistakes. It requires a lot of patience and logical thinking to solve complex bugs.",
+    "synonyms": [
+      "troubleshoot",
+      "fix",
+      "resolve"
+    ],
+    "antonyms": [
+      "bug",
+      "corrupt"
+    ],
+    "nounForm": "debugger / debugging",
+    "verbForm": "debug",
+    "adjectiveForm": "debugged",
+    "partOfSpeech": "verb",
+    "commonContext": "Software engineering and technical support",
+    "usageTip": "Use 'debug' whenever you are talking about finding the cause of a software error.",
+    "commonMistake": "Thinking debugging only means fixing; it also includes the hard work of finding the error.",
+    "collocations": [
+      "debug a program",
+      "debug mode",
+      "debug the system"
+    ]
+  },
+  {
+    "word": "Debug",
+    "meaning": "To find and remove errors (bugs) from a computer program or system",
+    "shortMeaning": "fix code errors",
+    "example": "I spent all night trying to debug the login page.",
+    "example2": "The new update includes tools to help developers debug their apps faster.",
+    "example3": "It is much easier to debug code if you write clean comments.",
+    "Explanation": "Debugging is one of the most important parts of a developer's job. No code is perfect the first time it is written. When a program doesn't work as expected, the developer must 'debug' it by looking through the code, checking variables, and testing different parts to find out why it is failing. Most code editors (IDEs) have a built-in 'debugger' tool that allows you to pause the code and see exactly what is happening at every step. Debugging requires patience and logical thinking. It is as much a science as it is an art.",
+    "synonyms": [
+      "troubleshoot",
+      "fix",
+      "patch"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "debugger / debugging",
+    "verbForm": "debug",
+    "adjectiveForm": "debugged",
+    "partOfSpeech": "verb",
+    "commonContext": "Software development and engineering",
+    "usageTip": "Use 'debug' whenever you are fixing a problem in code or logic.",
+    "commonMistake": "Thinking debugging is only for beginners; even the best engineers spend most of their time debugging.",
+    "collocations": [
+      "debug code",
+      "debugging tools",
+      "remote debugging"
+    ]
+  }
+]

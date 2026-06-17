@@ -1,0 +1,65 @@
+[
+  {
+    "word": "Based",
+    "meaning": "Having a specified base or center of operations.",
+    "shortMeaning": "having a base in",
+    "example": "The company is based in New York.",
+    "example2": "Her argument was based on solid evidence.",
+    "example3": "It's a Linux-based operating system.",
+    "Explanation": "'Based' is primarily the past participle of the verb 'base', used as an adjective meaning founded on, located at, or derived from. It appears in many common phrases: 'based on' (founded on evidence), 'based in' (located in), 'based at' (stationed at). In technology, '-based' suffixes indicate what something is built upon (web-based, Java-based). It's an extremely versatile and common word in business, technology, and general description.",
+    "synonyms": [
+      "located",
+      "founded",
+      "established",
+      "derived"
+    ],
+    "antonyms": [
+      "unfounded",
+      "baseless",
+      "floating"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective",
+    "commonContext": "Business locations, arguments, technology, military",
+    "usageTip": "Use 'based on' for foundations of ideas; 'based in' for physical locations; '-based' as suffix for technological foundations.",
+    "commonMistake": "Saying 'base on' instead of 'based on'. 'Based' is the correct past participle form.",
+    "collocations": [
+      "based on",
+      "based in",
+      "London-based"
+    ]
+  },
+  {
+    "word": "Based",
+    "meaning": "Using something as a main foundation, core origin, or fundamental starting point",
+    "shortMeaning": "founded on",
+    "example": "Our new website framework is based on modern JavaScript components.",
+    "example2": "The tech firm is based in New York but works with global developers.",
+    "example3": "Decisions regarding system updates are based on user feedback surveys.",
+    "Explanation": "The word 'based' indicates the core foundation, location, or logic source of a tool or company. In software creation, an app can be cloud-based, Linux-based, or web-based depending on its fundamental operating system or design logic. It shows where an application gets its strength, rules, or execution environment from. It is often paired with nouns to build technical descriptors.",
+    "synonyms": [
+      "founded",
+      "grounded",
+      "rooted"
+    ],
+    "antonyms": [
+      "baseless",
+      "unsupported",
+      "floating"
+    ],
+    "nounForm": "base",
+    "verbForm": "base",
+    "adjectiveForm": "based",
+    "partOfSpeech": "adjective / verb past participle",
+    "commonContext": "Software foundations, company locations, and data analysis reports",
+    "usageTip": "Always follow 'based' with the preposition 'on' or 'in' to indicate its core foundation or location.",
+    "commonMistake": "Leaving out the 'ed' ending; write 'cloud-based system' instead of 'cloud-base system'.",
+    "collocations": [
+      "cloud-based",
+      "web-based",
+      "based on data"
+    ]
+  }
+]

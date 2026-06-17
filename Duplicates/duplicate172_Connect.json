@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Connect",
+    "meaning": "To bring together or into contact so that a link is established. | To bring together or into contact so that a link is established",
+    "shortMeaning": "link or join",
+    "example": "Connect the printer to the computer.",
+    "example2": "The bridge connects the two towns.",
+    "example3": "I can't connect to the internet.",
+    "Explanation": "Connect means to create a relationship, link, or association between two or more things. This can be physical (wires), abstract (ideas), or social (people). It's a fundamental word in technology, relationships, and transportation. The noun is 'connection.' A common mistake is using the wrong preposition; we connect one thing 'to' or 'with' another, though 'to' is often for physical links and 'with' for relationships. Also, in computing, 'connect to' a network is standard. The word emphasizes the establishment of a channel or bond, which is essential for communication and understanding in our interconnected world.",
+    "synonyms": [
+      "Associate",
+      "Attach",
+      "Couple",
+      "Join",
+      "Link",
+      "Unite"
+    ],
+    "antonyms": [
+      "Detach",
+      "Disconnect",
+      "Divide",
+      "Separate"
+    ],
+    "nounForm": "connection",
+    "verbForm": "connect",
+    "adjectiveForm": "connected",
+    "partOfSpeech": "verb",
+    "commonContext": "Technology, relationships, travel, and ideas.",
+    "usageTip": "Use 'connect to' for physical/technical links and 'connect with' for people/relationships.",
+    "commonMistake": "Saying 'connect together' – 'connect' implies bringing together, so 'together' is often redundant.",
+    "collocations": [
+      "connect the dots",
+      "high-speed connection",
+      "connect socially"
+    ]
+  },
+  {
+    "word": "Connect",
+    "meaning": "To join two or more things together",
+    "shortMeaning": "join",
+    "example": "You need to connect the laptop to the charger.",
+    "example2": "Wait for the computer to connect to the internet.",
+    "example3": "We can connect the database to our web application.",
+    "Explanation": "Connecting is a fundamental action in computing, referring to linking hardware, software, or networks. It can be physical, like plugging in a cable, or virtual, like linking two software modules. Without connection, devices and programs cannot share information. In the modern world, most of our work depends on staying connected to servers or cloud services. The word is used everywhere from simple hardware setups to complex network engineering. Ensuring a stable connection is vital for any digital system.",
+    "synonyms": [
+      "link",
+      "join",
+      "attach"
+    ],
+    "antonyms": [
+      "disconnect",
+      "separate",
+      "detach"
+    ],
+    "nounForm": "connection",
+    "verbForm": "connect",
+    "adjectiveForm": "connected",
+    "partOfSpeech": "verb",
+    "commonContext": "Hardware, internet, software integration",
+    "usageTip": "Use 'connect to' when referring to a destination like a server or Wi-Fi.",
+    "commonMistake": "N/A",
+    "collocations": [
+      "connect to the internet",
+      "connect a device",
+      "successfully connect"
+    ]
+  }
+]

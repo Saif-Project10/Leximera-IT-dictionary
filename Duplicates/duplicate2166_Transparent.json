@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Transparent",
+    "meaning": "Easily seen through or easily understood; open",
+    "shortMeaning": "clear or open",
+    "example": "The code structure is transparent to all developers.",
+    "example2": "We use a transparent process for project updates.",
+    "example3": "The API should be transparent about how it handles errors.",
+    "Explanation": "Transparent has two meanings in IT. Physically, it means allowing light through, like a transparent window in a UI. Figuratively, it means being open, clear, and honest. A transparent system is one where you can easily see how it works and what data it processes. This is key for security and trust. When something is 'transparent to the user', it means the user does not even notice it happening—it is handled automatically behind the scenes.",
+    "synonyms": [
+      "clear",
+      "open",
+      "understandable"
+    ],
+    "antonyms": [
+      "opaque",
+      "hidden",
+      "confusing"
+    ],
+    "nounForm": "transparency",
+    "verbForm": "N/A",
+    "adjectiveForm": "transparent",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, security, project management",
+    "usageTip": "Use this for open processes or invisible background operations.",
+    "commonMistake": "Confusing 'transparent' (open) with 'transparent' (invisible).",
+    "collocations": [
+      "transparent process",
+      "transparent background",
+      "highly transparent"
+    ]
+  },
+  {
+    "word": "Transparent",
+    "meaning": "Easy to see through, or easy to understand/open about processes",
+    "shortMeaning": "clear/open",
+    "example": "The process is transparent to the user.",
+    "example2": "We need transparent communication in our team.",
+    "example3": "The background of the image is transparent.",
+    "Explanation": "The word 'transparent' has two meanings. Literally, it means you can see through it (like glass or a file format with no background). Figuratively, in IT, it means a process that happens without the user needing to see or worry about it (it is invisible to them). It also means being 'open' about how things work. It is a highly positive and essential word in software design and team management.",
+    "synonyms": [
+      "clear",
+      "see-through",
+      "open"
+    ],
+    "antonyms": [
+      "opaque",
+      "hidden",
+      "secret"
+    ],
+    "nounForm": "transparency",
+    "verbForm": "N/A",
+    "adjectiveForm": "transparent",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI/UX, security, team collaboration, image editing",
+    "usageTip": "Use 'transparent' to describe things that are either invisible or open.",
+    "commonMistake": "Confusing 'transparent' (open/invisible) with 'translucent' (partly clear).",
+    "collocations": [
+      "transparent background",
+      "transparent process",
+      "fully transparent"
+    ]
+  }
+]

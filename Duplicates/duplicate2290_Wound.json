@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Wound",
+    "meaning": "Wrapped around something, or the act of wrapping.",
+    "shortMeaning": "wrapped",
+    "example": "The cable was tightly wound around the spool.",
+    "example2": "The wire was wound in multiple layers.",
+    "example3": "The internal coil is made of wound copper.",
+    "Explanation": "The word 'wound' is the past participle of 'wind' (to wrap). In hardware, it refers to components like inductors or coils where wire is wrapped around a core. It can also describe the physical state of a cable. The base verb is 'wind'. It is important not to confuse 'wound' (wrapped, pronounced like 'sound') with 'wound' (an injury, pronounced like 'sounded'). In IT, it almost always refers to cable or wire assembly.",
+    "synonyms": [
+      "wrapped",
+      "coiled",
+      "twisted"
+    ],
+    "antonyms": [
+      "unwound",
+      "uncoiled"
+    ],
+    "nounForm": "winding",
+    "verbForm": "wind",
+    "adjectiveForm": "wound",
+    "partOfSpeech": "verb (past participle) / adjective",
+    "commonContext": "Hardware engineering, cabling, electronics",
+    "usageTip": "Use 'wound' to describe how wire or cable is arranged.",
+    "commonMistake": "Confusing it with the word meaning an injury.",
+    "collocations": [
+      "tightly wound",
+      "wound around",
+      "wound copper"
+    ]
+  },
+  {
+    "word": "Wound",
+    "meaning": "Past tense of wind, or an injury to the body",
+    "shortMeaning": "past of wind or injury",
+    "example": "He wound the cable carefully around the device.",
+    "example2": "The deep wound needs professional medical care.",
+    "example3": "The wire was wound tightly around the spool.",
+    "Explanation": "The word 'wound' has two distinct meanings depending on pronunciation. As the past tense of 'wind' (rhymes with found), it means to wrap something around an object, like a cable or wire. As a noun (rhymes with spoon), it refers to a physical injury. In IT, you will often use the first definition when discussing cable management or mechanical components. Be mindful of which pronunciation you intend, as the meanings are unrelated.",
+    "synonyms": [
+      "wrapped",
+      "coiled",
+      "injury"
+    ],
+    "antonyms": [
+      "unwound",
+      "uncoiled",
+      "healing"
+    ],
+    "nounForm": "wound",
+    "verbForm": "wind",
+    "adjectiveForm": "wounded",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Cable management, physical injury",
+    "usageTip": "Use 'wound' as the past tense of 'wind' for wrapping cables, or as a noun for an injury.",
+    "commonMistake": "Confusing the two different meanings and pronunciations of 'wound'.",
+    "collocations": [
+      "wound tightly",
+      "wound around",
+      "deep wound"
+    ]
+  }
+]

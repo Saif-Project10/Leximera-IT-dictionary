@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Order by",
+    "meaning": "A command used to sort the results of a data query in a specific sequence",
+    "shortMeaning": "sorting command",
+    "example": "Use 'ORDER BY' to see the customers listed alphabetically by their last name.",
+    "example2": "The 'ORDER BY' command can sort data in ascending or descending order.",
+    "example3": "Sorting the report with 'ORDER BY' makes it much easier for the manager to read.",
+    "Explanation": "In the world of databases (SQL), 'ORDER BY' is the standard way to organize your data. When you ask a database for information, it usually gives it to you in a random order. Adding 'ORDER BY' tells the system to sort the list. You can sort by numbers (smallest to largest), text (A to Z), or dates (oldest to newest). It is one of the most frequently used commands because users almost always want to see information in a logical sequence, such as the highest sales first or the most recent orders at the top of the screen.",
+    "synonyms": [
+      "sort by",
+      "arrange by",
+      "sequence by"
+    ],
+    "antonyms": [
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "nounForm": "order",
+    "verbForm": "order by",
+    "adjectiveForm": "ordered",
+    "partOfSpeech": "verb phrase",
+    "commonContext": "Databases and SQL programming",
+    "usageTip": "By default, 'ORDER BY' sorts from smallest to largest (ASC). Use 'DESC' at the end to flip the order.",
+    "commonMistake": "Putting the 'ORDER BY' clause in the middle of a query; it must always come at the end.",
+    "collocations": [
+      "order by date",
+      "order by name",
+      "sql order by"
+    ]
+  },
+  {
+    "word": "Order by",
+    "meaning": "A command used to sort data in a specific sequence, such as by date or name",
+    "shortMeaning": "sort by",
+    "example": "I want to order by price to find the cheapest items.",
+    "example2": "In SQL, we use 'ORDER BY' to sort the results of a query.",
+    "example3": "You can order by date to see the newest files first.",
+    "Explanation": "In the world of databases and programming, 'Order by' is a specific instruction. It tells the computer how to display a list of information. For example, if you have a list of names, you can 'order by' name to see them from A to Z. If you have sales data, you can 'order by' amount. This helps users find information quickly and makes data more useful. It is most commonly used in SQL (Structured Query Language) and spreadsheet software like Excel. It is essential for organizing large amounts of digital information.",
+    "synonyms": [
+      "sort by",
+      "arrange by",
+      "N/A"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "order by",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "verb phrase / command",
+    "commonContext": "Databases, SQL, and Excel",
+    "usageTip": "Use this when explaining how you want a list to be sorted.",
+    "commonMistake": "Writing 'order to' instead of 'order by' when talking about sorting data.",
+    "collocations": [
+      "order by date",
+      "order by name",
+      "order by descending"
+    ]
+  }
+]

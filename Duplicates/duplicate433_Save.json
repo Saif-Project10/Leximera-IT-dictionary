@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Save",
+    "meaning": "To keep something for future use; to rescue from harm or danger.",
+    "shortMeaning": "keep, rescue",
+    "example": "Save your work before closing the computer.",
+    "example2": "The firefighter saved the child from the burning building.",
+    "example3": "We need to save money for our vacation.",
+    "Explanation": "The verb 'save' is extremely common and has two primary meanings. First, to keep or store something (like money, files, or energy) for later. Second, to rescue or prevent something from being lost, wasted, or harmed. It is a positive, proactive word. The noun is 'savings' (money) or 'save' (in sports). A common mistake is using 'safe' (adjective) when you mean 'save' (verb). It's a fundamental concept in computing, finance, and safety. The phrase 'save as' is critical in software for saving a copy with a new name.",
+    "synonyms": [
+      "preserve",
+      "rescue",
+      "store"
+    ],
+    "antonyms": [
+      "spend",
+      "waste",
+      "endanger"
+    ],
+    "nounForm": "savings / save",
+    "verbForm": "save",
+    "adjectiveForm": "saved",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "Computing, finance, emergencies, sports",
+    "usageTip": "In computing, remember to 'save' your document frequently to avoid losing work.",
+    "commonMistake": "Confusing 'save' (verb) with 'safe' (adjective). 'I want to save money' vs. 'The money is safe.'",
+    "collocations": [
+      "save time",
+      "save a life",
+      "save file"
+    ]
+  },
+  {
+    "word": "Save",
+    "meaning": "To store data permanently onto a hard drive, cloud server, or memory disk for future use",
+    "shortMeaning": "store data permanently",
+    "example": "Remember to save your code modifications before closing the editor window.",
+    "example2": "The web application will save user profile changes automatically.",
+    "example3": "You can press control plus S on your keyboard to save the document.",
+    "Explanation": "The word 'Save' is a foundational computing term that means moving temporary data from volatile memory (RAM) onto a stable storage disk (like an SSD or hard drive). This ensures that files remain intact even after the computer is turned off or restarted. Modern applications often feature auto-save options to prevent users from losing progress during unexpected crashes. In broader contexts, saving can also mean preserving resources, like reducing power or cloud costs. It is one of the first actions learned by any computer user.",
+    "synonyms": [
+      "store",
+      "record",
+      "preserve"
+    ],
+    "antonyms": [
+      "delete",
+      "discard",
+      "erase"
+    ],
+    "nounForm": "saving / savings",
+    "verbForm": "save",
+    "adjectiveForm": "saved",
+    "partOfSpeech": "verb / noun",
+    "commonContext": "File menu options, cloud database updates, everyday computer habits",
+    "usageTip": "Use 'save' as a verb when describing the act of storing data files so they are not lost.",
+    "commonMistake": "Confusing 'save' with 'safe'; safe is an adjective meaning secure, while save is the action verb.",
+    "collocations": [
+      "save file",
+      "auto save",
+      "save data"
+    ]
+  }
+]

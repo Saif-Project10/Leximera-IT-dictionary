@@ -1,0 +1,63 @@
+[
+  {
+    "word": "Sited",
+    "meaning": "Located or placed in a specific position or site.",
+    "shortMeaning": "located",
+    "example": "The server room is sited in the basement.",
+    "example2": "The antenna is optimally sited for signal reception.",
+    "example3": "The data center is sited far from the flood zone.",
+    "Explanation": "The word 'sited' means 'to be placed in a specific location'. In IT, this is common when discussing physical infrastructure like servers, networking equipment, or even where a service is logically 'sited' within a network. It emphasizes the importance of placement for reliability, performance, or environmental protection. It is a formal term often used in project planning and site assessments.",
+    "synonyms": [
+      "located",
+      "situated",
+      "placed"
+    ],
+    "antonyms": [
+      "unlocated",
+      "displaced"
+    ],
+    "nounForm": "site",
+    "verbForm": "site",
+    "adjectiveForm": "sited",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Infrastructure planning",
+    "usageTip": "Use 'sited' to indicate where something is fixed or placed.",
+    "commonMistake": "Using 'sited' when you mean 'cited' (which refers to references).",
+    "collocations": [
+      "properly sited",
+      "optimally sited",
+      "sited in"
+    ]
+  },
+  {
+    "word": "Sited",
+    "meaning": "Located or positioned in a particular place",
+    "shortMeaning": "located",
+    "example": "The server room is sited in the basement for better cooling.",
+    "example2": "The new data center was sited away from the flood zone.",
+    "example3": "The application's logic is sited within the protected controller folder.",
+    "Explanation": "The word 'sited' refers to the specific physical or logical placement of an object, building, or component. In an IT context, it can describe where hardware is physically located or where a specific software component resides in the architecture. It implies a deliberate choice of location. It is most commonly used in formal reports or technical documentation. Make sure not to confuse it with 'cited', which means to quote a source.",
+    "synonyms": [
+      "located",
+      "positioned",
+      "placed"
+    ],
+    "antonyms": [
+      "removed",
+      "displaced",
+      "unplaced"
+    ],
+    "nounForm": "site",
+    "verbForm": "site",
+    "adjectiveForm": "sited",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Infrastructure, facility management, architecture",
+    "usageTip": "Use 'sited' when referring to the strategic placement of something.",
+    "commonMistake": "Confusing it with the word 'cited' (referencing something).",
+    "collocations": [
+      "sited near",
+      "sited at",
+      "properly sited"
+    ]
+  }
+]

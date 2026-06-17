@@ -1,0 +1,95 @@
+[
+  {
+    "word": "Unprivileged",
+    "meaning": "Having only basic access rights without administrative power",
+    "shortMeaning": "low-level access",
+    "example": "An unprivileged user cannot install new software on this computer.",
+    "example2": "Most apps run in an unprivileged mode for security reasons.",
+    "example3": "The hacker was stuck in an unprivileged account, so they couldn't see secret files.",
+    "Explanation": "In computer security, users and processes are divided into 'privileged' (like an Administrator or Root) and 'unprivileged.' An unprivileged user can do basic things like browse the web or edit their own files, but they cannot change system settings or access other people's data. This is a fundamental security rule called the 'Principle of Least Privilege.' By keeping most users unprivileged, a company ensures that if one person makes a mistake or gets a virus, the whole network isn't destroyed. It limits the 'blast radius' of any security incident.",
+    "synonyms": [
+      "standard",
+      "restricted",
+      "limited"
+    ],
+    "antonyms": [
+      "privileged",
+      "administrator",
+      "root"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unprivileged",
+    "partOfSpeech": "adjective",
+    "commonContext": "System administration and cybersecurity",
+    "usageTip": "Use 'unprivileged' when talking about restricted accounts in a network.",
+    "commonMistake": "Thinking 'unprivileged' means the user has 'no' access; it just means they don't have 'extra' access.",
+    "collocations": [
+      "unprivileged user",
+      "unprivileged account",
+      "unprivileged mode"
+    ]
+  },
+  {
+    "word": "Unprivileged",
+    "meaning": "Lacking the necessary rights to perform certain actions",
+    "shortMeaning": "no high rights",
+    "example": "The application runs under an unprivileged user account for security.",
+    "example2": "Unprivileged users cannot access the admin panel.",
+    "example3": "We restricted the command to privileged roles, excluding unprivileged ones.",
+    "Explanation": "Unprivileged describes a user account or a process that has restricted access rights. In secure systems, 'least privilege' is a rule where you only give a user or process the rights they absolutely need. An unprivileged user cannot modify system files, install software, or change settings. This is the most common defense against malware; even if a program is compromised, an unprivileged account limits the damage it can do.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "guest"
+    ],
+    "antonyms": [
+      "privileged",
+      "admin",
+      "authorized"
+    ],
+    "nounForm": "privilege",
+    "verbForm": "N/A",
+    "adjectiveForm": "unprivileged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security, access control, user management",
+    "usageTip": "Use this for accounts designed for daily, safe tasks.",
+    "commonMistake": "Running applications as an administrator when they only need unprivileged access.",
+    "collocations": [
+      "unprivileged user",
+      "unprivileged account",
+      "run as unprivileged"
+    ]
+  },
+  {
+    "word": "Unprivileged",
+    "meaning": "Having limited access rights; not having administrative or elevated permissions.",
+    "shortMeaning": "low access",
+    "example": "The script runs under an unprivileged user account for safety.",
+    "example2": "Unprivileged processes cannot modify system files.",
+    "example3": "It is best practice to keep service accounts unprivileged.",
+    "Explanation": "'Unprivileged' describes an account, user, or process that lacks high-level administrative permissions. In cybersecurity, running programs as 'unprivileged' is a core principle of the 'Principle of Least Privilege'. If a program is compromised, an unprivileged user cannot easily harm the rest of the system. It is a security control designed to isolate and restrict what software can do. Most daily tasks should be performed in an unprivileged state.",
+    "synonyms": [
+      "restricted",
+      "limited",
+      "non-admin"
+    ],
+    "antonyms": [
+      "privileged",
+      "admin",
+      "elevated"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unprivileged",
+    "partOfSpeech": "adjective",
+    "commonContext": "Cybersecurity, user permissions",
+    "usageTip": "Use this to describe accounts with minimal permissions.",
+    "commonMistake": "Confusing 'unprivileged' with 'unauthorized'.",
+    "collocations": [
+      "unprivileged user",
+      "unprivileged account",
+      "unprivileged access"
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Apparent",
+    "meaning": "Clearly visible or understood; obvious; seeming real or true, but not necessarily so.",
+    "shortMeaning": "obvious or seeming",
+    "example": "For no apparent reason, he suddenly left the room.",
+    "example2": "It became apparent that we were lost.",
+    "example3": "His kindness was only apparent; in reality, he was quite selfish.",
+    "Explanation": "'Apparent' is a useful adjective with two main meanings. The first is 'clearly seen or understood' (e.g., the apparent cause). The second is 'seeming, as opposed to actual' (e.g., an apparent advantage that isn't real). This second meaning is often used in the phrase 'apparent contradiction'. The adverb form is 'apparently', which often means 'according to what seems to be true'. Understanding which meaning is intended requires attention to context.",
+    "synonyms": [
+      "obvious",
+      "evident",
+      "seeming",
+      "ostensible"
+    ],
+    "antonyms": [
+      "unclear",
+      "hidden",
+      "real",
+      "actual"
+    ],
+    "nounForm": "apparency",
+    "verbForm": "appear",
+    "adjectiveForm": "apparent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Observations, explanations, contradictions",
+    "usageTip": "Use it to describe something that is obvious to see or to introduce a surface-level observation that may be deceptive.",
+    "commonMistake": "Using 'apparent' to mean 'transparent' (see-through); that is a different meaning of 'appear'.",
+    "collocations": [
+      "for no apparent reason",
+      "immediately apparent",
+      "apparent contradiction",
+      "became apparent"
+    ]
+  },
+  {
+    "word": "Apparent",
+    "meaning": "Clearly visible or understood; obvious; seeming real but not necessarily so",
+    "shortMeaning": "Obvious or seeming",
+    "example": "The cause of the system error became apparent after analyzing the log files.",
+    "example2": "There was an apparent misunderstanding between the client and the developer.",
+    "example3": "Her apparent success in fixing the bug was cut short when the system crashed again.",
+    "Explanation": "The word 'apparent' has two distinct shades of meaning. First, it means something is completely obvious and clear to anyone looking at it. Second, it can mean something *seems* to be true on the surface, but might actually be false upon deeper inspection (e.g., 'apparent failure'). The adverb form is 'apparently', which is highly common in conversation. In technical communication, ensure the context clarifies whether you mean 'completely obvious' or just 'seeming'.",
+    "synonyms": [
+      "obvious",
+      "evident",
+      "seeming"
+    ],
+    "antonyms": [
+      "hidden",
+      "obscure",
+      "unclear"
+    ],
+    "nounForm": "apparentness",
+    "verbForm": "N/A",
+    "adjectiveForm": "apparent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Problem solving, incident reports, general observations",
+    "usageTip": "Use 'apparent' when a fact is easy to see, or when describing a situation that looks a certain way at first glance.",
+    "commonMistake": "Using 'apparent' to mean 'absolute truth' when you are using it in a context that implies it only *seems* true.",
+    "collocations": [
+      "become apparent",
+      "apparent reason",
+      "apparent contradiction"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Time out",
+    "meaning": "An error that occurs when a task takes longer than the allowed time to finish",
+    "shortMeaning": "time limit error",
+    "example": "The webpage failed to load and gave a gateway time out error.",
+    "example2": "The server connection reached a time out because the internet was too slow.",
+    "example3": "The game will time out if you don't make a move in 30 seconds.",
+    "Explanation": "In computing, a time out is a safety mechanism. It prevents a program from waiting forever for a response that might never come. If a server doesn't reply within a set window (like 30 seconds), the system stops trying and reports a 'time out'. This frees up resources for other tasks. It is common in networking, database queries, and user logins. Developers must decide on the appropriate length for a time out based on the user's patience and system capabilities.",
+    "synonyms": [
+      "expiration",
+      "termination",
+      "connection failure"
+    ],
+    "antonyms": [
+      "N/A"
+    ],
+    "nounForm": "timeout",
+    "verbForm": "time out",
+    "adjectiveForm": "timed-out",
+    "partOfSpeech": "noun / verb",
+    "commonContext": "Internet browsing, networking, and gaming",
+    "usageTip": "Use 'time out' (two words) as a verb and 'timeout' (one word) as a noun.",
+    "commonMistake": "Thinking a time out always means the server is down; it might just be busy.",
+    "collocations": [
+      "connection time out",
+      "session time out",
+      "request time out"
+    ]
+  },
+  {
+    "word": "Time out",
+    "meaning": "To stop a network connection or script execution because a pre-configured waiting limit has been exceeded",
+    "shortMeaning": "stop due to waiting limit",
+    "example": "The web application connection will time out if the backend server fails to respond within five seconds.",
+    "example2": "Slow database clusters cause client banking transactions to frequently time out.",
+    "example3": "The secure session is coded to time out after ten minutes of user inactivity to keep accounts safe.",
+    "Explanation": "The phrasal verb 'time out' (often written as the single noun 'timeout') describes a critical protection mechanism used across all network communications and security architectures. When a system initiates a data request or waits for user actions, it starts a timer. If the remote system fails to answer or the user stays completely idle before that timer hits its limit, the system cancels the track to save server resources and prevent security breaches.",
+    "synonyms": [
+      "expire",
+      "terminate connection",
+      "reach limit"
+    ],
+    "antonyms": [
+      "connect successfully",
+      "respond in time"
+    ],
+    "nounForm": "timeout",
+    "verbForm": "time out",
+    "adjectiveForm": "N/A",
+    "partOfSpeech": "phrasal verb",
+    "commonContext": "API communication networks, security login sessions, and database search configurations",
+    "usageTip": "Use 'time out' as an active phrasal verb when explaining that a connection dropped because it took way too long to respond.",
+    "commonMistake": "Spelling the phrasal verb as a single word 'timeout' when it is being used to describe the action inside a sentence template.",
+    "collocations": [
+      "request will time out",
+      "session timed out",
+      "connection time out error"
+    ]
+  }
+]

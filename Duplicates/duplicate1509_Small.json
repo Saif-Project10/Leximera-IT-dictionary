@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Small",
+    "meaning": "Of a size that is less than normal or usual; little.",
+    "shortMeaning": "little, not large",
+    "example": "They live in a small apartment.",
+    "example2": "She made a small donation to the charity.",
+    "example3": "It's a small world! (said when coincidences happen)",
+    "Explanation": "'Small' is one of the most fundamental adjectives in English. It describes something of limited size, degree, or importance. It is the opposite of 'big' or 'large'. The word is used in countless contexts, from physical dimensions (a small box) to amounts (a small number) to significance (a small problem). It can be neutral, descriptive, or sometimes belittling. The adverb is 'small' (e.g., 'write small') or 'smallly'. It's a simple, essential word for comparison and description in all areas of life.",
+    "synonyms": [
+      "little",
+      "tiny",
+      "miniature",
+      "petite"
+    ],
+    "antonyms": [
+      "big",
+      "large",
+      "huge",
+      "great"
+    ],
+    "nounForm": "smallness",
+    "verbForm": "N/A",
+    "adjectiveForm": "small",
+    "partOfSpeech": "adjective",
+    "commonContext": "Size, quantity, importance, scale",
+    "usageTip": "Often used in the phrase 'small talk' meaning light, casual conversation.",
+    "commonMistake": "Using 'small' for things that are short in height but not necessarily in other dimensions; 'short' is for height.",
+    "collocations": [
+      "small business",
+      "small change",
+      "small town",
+      "feel small"
+    ]
+  },
+  {
+    "word": "Small",
+    "meaning": "Of little size, degree, or capacity.",
+    "shortMeaning": "little",
+    "example": "Small files load faster than large ones.",
+    "example2": "We started with a small team of developers.",
+    "example3": "The app works well on small screens.",
+    "Explanation": "The word 'small' denotes limited size or amount. In IT, 'small' can be a compliment—as in 'small, lightweight code'—or a description of scale—like 'small-scale data'. It is a versatile word used to compare size and scope. Understanding scale is vital in programming, as small, modular pieces are generally easier to manage and debug than large, monolithic structures.",
+    "synonyms": [
+      "little",
+      "tiny",
+      "compact"
+    ],
+    "antonyms": [
+      "large",
+      "big",
+      "huge"
+    ],
+    "nounForm": "smallness",
+    "verbForm": "N/A",
+    "adjectiveForm": "small",
+    "partOfSpeech": "adjective",
+    "commonContext": "General comparisons",
+    "usageTip": "Use 'small' for objects or concepts with limited physical or logical size.",
+    "commonMistake": "Confusing 'small' (physical size) with 'minor' (low importance).",
+    "collocations": [
+      "small team",
+      "small screen",
+      "small file"
+    ]
+  },
+  {
+    "word": "Small",
+    "meaning": "Little in size, extent, or importance",
+    "shortMeaning": "not large",
+    "example": "We started with a small project to test our development skills.",
+    "example2": "Even a small bug can have a massive impact on security.",
+    "example3": "The team is small but works very efficiently together.",
+    "Explanation": "The word 'small' describes something with a low scale or dimensions. In IT, 'small' can refer to the size of a codebase, the number of team members, or the impact of a task. It is a neutral term that helps in categorizing items based on magnitude. Using this term helps in project planning and resource estimation. It is one of the most common adjectives in the English language.",
+    "synonyms": [
+      "tiny",
+      "little",
+      "compact"
+    ],
+    "antonyms": [
+      "large",
+      "huge",
+      "big"
+    ],
+    "nounForm": "smallness",
+    "verbForm": "N/A",
+    "adjectiveForm": "small",
+    "partOfSpeech": "adjective",
+    "commonContext": "Project size, hardware, database records",
+    "usageTip": "Use 'small' to define the scale of a task or component.",
+    "commonMistake": "Using 'small' to mean 'trivial' when it might still be important.",
+    "collocations": [
+      "small project",
+      "small team",
+      "small amount"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Decode",
+    "meaning": "To convert a coded message into understandable language.",
+    "shortMeaning": "figure out a code",
+    "example": "The spy worked to decode the secret message.",
+    "example2": "Scientists are trying to decode the dolphin's communication.",
+    "example3": "Can you decode this abbreviation for me?",
+    "Explanation": "To 'decode' is to interpret or translate something that has been written in code or a difficult-to-understand form back into plain language. It is the opposite of 'encode'. In computing, decoding is converting data from one format to another (like decoding a video file). Figuratively, it means to understand the meaning of complex behavior or communication. The word implies a process of analysis and interpretation to uncover hidden meaning.",
+    "synonyms": [
+      "decipher",
+      "interpret",
+      "decrypt",
+      "crack"
+    ],
+    "antonyms": [
+      "encode",
+      "encipher",
+      "encrypt"
+    ],
+    "nounForm": "decoder",
+    "verbForm": "decode",
+    "adjectiveForm": "decoded",
+    "partOfSpeech": "verb",
+    "commonContext": "Cryptography, computing, linguistics, espionage",
+    "usageTip": "Use 'decode' for the action of converting coded information or for figuring out something complicated.",
+    "commonMistake": "Confusing 'decode' with 'decompose' (to break down into parts, often rotting).",
+    "collocations": [
+      "decode a message",
+      "decode the meaning",
+      "hard to decode",
+      "decode DNA"
+    ]
+  },
+  {
+    "word": "Decode",
+    "meaning": "To convert a coded message or data back into its original, understandable format",
+    "shortMeaning": "translate code to data",
+    "example": "The browser needs to decode the HTML before it can display the page.",
+    "example2": "Can you decode this encrypted message for me?",
+    "example3": "The computer uses a specific algorithm to decode video files.",
+    "Explanation": "Decoding is the opposite of encoding. When data is sent over the internet, it is often compressed or turned into a special format (encoded). Once it reaches its destination, the receiving system must 'decode' it to use it. For example, base64 strings are decoded into images, and binary signals are decoded into text. It is a technical process that happens constantly in networking, video playback, and cryptography. Understanding decoding is essential for working with APIs and data streams.",
+    "synonyms": [
+      "decipher",
+      "interpret",
+      "translate"
+    ],
+    "antonyms": [
+      "encode",
+      "encrypt",
+      "scramble"
+    ],
+    "nounForm": "decoder / decoding",
+    "verbForm": "decode",
+    "adjectiveForm": "decodable",
+    "partOfSpeech": "verb",
+    "commonContext": "Data transmission, cryptography, and media playback",
+    "usageTip": "Use 'decode' when you are turning something technical into something readable.",
+    "commonMistake": "Confusing 'decode' with 'decrypt' (decryption specifically involves security keys).",
+    "collocations": [
+      "decode a message",
+      "video decoding",
+      "base64 decode"
+    ]
+  }
+]

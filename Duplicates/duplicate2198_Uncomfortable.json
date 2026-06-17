@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Uncomfortable",
+    "meaning": "Causing physical or mental unease",
+    "shortMeaning": "not comfortable",
+    "example": "The chair is uncomfortable for long coding sessions.",
+    "example2": "He felt uncomfortable working with the old legacy system.",
+    "example3": "The high temperature makes the server room uncomfortable.",
+    "Explanation": "Uncomfortable refers to a state of lack of ease, whether physical (ergonomics) or mental (uncertainty or bad process). In IT, this can apply to workspace design or the use of software that is unintuitive or prone to crashing. When a process feels uncomfortable, it often suggests that a change in workflow, tools, or environment is needed to improve productivity and well-being. Identifying these points is key to improving team morale.",
+    "synonyms": [
+      "uneasy",
+      "awkward",
+      "troublesome"
+    ],
+    "antonyms": [
+      "comfortable",
+      "pleasant",
+      "easy"
+    ],
+    "nounForm": "uncomfortableness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncomfortable",
+    "partOfSpeech": "adjective",
+    "commonContext": "Ergonomics, user experience, team environments",
+    "usageTip": "Use to describe poor ergonomics or stressful situations.",
+    "commonMistake": "Overusing it for minor technical bugs.",
+    "collocations": [
+      "feels uncomfortable",
+      "uncomfortable environment",
+      "uncomfortable experience"
+    ]
+  },
+  {
+    "word": "Uncomfortable",
+    "meaning": "Feeling uneasy or causing physical or mental discomfort.",
+    "shortMeaning": "uneasy",
+    "example": "The user felt uncomfortable with the new UI design.",
+    "example2": "He was uncomfortable giving a presentation on the complex topic.",
+    "example3": "Working in an uncomfortable chair can hurt your back.",
+    "Explanation": "In tech, 'uncomfortable' can refer to a physical experience, like an un-ergonomic workspace, or a digital experience, like an interface that feels confusing or unsafe. It describes a lack of ease. A designer's goal is to make a product that is comfortable to use. If a user is 'uncomfortable', they will likely stop using the product. This makes it an important metric for measuring the success of a user-friendly system.",
+    "synonyms": [
+      "uneasy",
+      "awkward",
+      "troubled"
+    ],
+    "antonyms": [
+      "comfortable",
+      "relaxed",
+      "at ease"
+    ],
+    "nounForm": "uncomfortableness",
+    "verbForm": "N/A",
+    "adjectiveForm": "uncomfortable",
+    "partOfSpeech": "adjective",
+    "commonContext": "UI design and workplace environment",
+    "usageTip": "Use 'uncomfortable' to describe a poor user experience.",
+    "commonMistake": "Using 'uncomfortable' to describe 'technical difficulty'.",
+    "collocations": [
+      "uncomfortable design",
+      "feel uncomfortable",
+      "uncomfortable experience"
+    ]
+  }
+]

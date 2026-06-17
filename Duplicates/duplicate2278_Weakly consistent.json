@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Weakly consistent",
+    "meaning": "Having a relaxed model where data updates do not immediately reflect everywhere",
+    "shortMeaning": "not immediately updated",
+    "example": "The distributed database is weakly consistent to improve write speed.",
+    "example2": "Applications must handle weakly consistent data during synchronization.",
+    "example3": "We chose a weakly consistent model for this high-traffic system.",
+    "Explanation": "Weakly consistent describes a distributed data system that prioritizes availability or speed over absolute, instant accuracy across all nodes. In such a system, an update made on one server might take time to propagate to others. This means a user could potentially see old data for a short period. It is a common design trade-off in systems that need to handle massive, rapid global traffic. Developers must design their applications to handle potential discrepancies.",
+    "synonyms": [
+      "eventually consistent",
+      "relaxed-consistency"
+    ],
+    "antonyms": [
+      "strongly consistent",
+      "strictly consistent"
+    ],
+    "nounForm": "weak consistency",
+    "verbForm": "N/A",
+    "adjectiveForm": "weakly consistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Distributed databases, cloud architecture",
+    "usageTip": "Use this to describe trade-offs between performance and data sync.",
+    "commonMistake": "Assuming all databases provide strict consistency by default.",
+    "collocations": [
+      "weakly consistent database",
+      "weakly consistent model",
+      "handle weakly consistent"
+    ]
+  },
+  {
+    "word": "Weakly consistent",
+    "meaning": "A system where data updates are not immediately guaranteed to be synchronized",
+    "shortMeaning": "eventually synchronized",
+    "example": "The database uses a weakly consistent model for faster read speeds.",
+    "example2": "In a weakly consistent system, you might see stale data briefly.",
+    "example3": "Distributed systems often trade strong for weakly consistent storage.",
+    "Explanation": "A 'weakly consistent' system allows for delays in synchronizing data across multiple nodes in a distributed environment. This design prioritizes availability and high performance over immediate accuracy. Users may access different versions of data for a short time until the system reaches eventual consistency. It is a critical trade-off in database architecture, often discussed in the context of the CAP theorem. Use this term when describing distributed storage strategies.",
+    "synonyms": [
+      "eventually consistent",
+      "loose",
+      "relaxed"
+    ],
+    "antonyms": [
+      "strongly consistent",
+      "strict",
+      "synchronous"
+    ],
+    "nounForm": "weak consistency",
+    "verbForm": "N/A",
+    "adjectiveForm": "weakly consistent",
+    "partOfSpeech": "adjective",
+    "commonContext": "Database architecture and distributed systems",
+    "usageTip": "Use to describe performance-focused database models.",
+    "commonMistake": "Assuming all databases must be strongly consistent.",
+    "collocations": [
+      "weakly consistent model",
+      "weakly consistent storage",
+      "weakly consistent database"
+    ]
+  }
+]

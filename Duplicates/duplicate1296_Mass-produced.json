@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Mass-produced",
+    "meaning": "Produced in large quantities by automated machinery, standardized.",
+    "shortMeaning": "made in large, standardized quantities",
+    "example": "Most cars are mass-produced in factories.",
+    "example2": "Mass-produced furniture is often cheaper but less unique.",
+    "example3": "The invention of the assembly line allowed for mass-produced goods.",
+    "Explanation": "'Mass-produced' is a compound adjective describing goods manufactured on a large scale using standardized processes and machinery, typically assembly lines. This method, pioneered by Henry Ford, dramatically reduces cost and increases availability but often at the expense of individuality and sometimes quality. It's the opposite of 'handmade' or 'bespoke'. The term is central to discussions of industrialization, consumer culture, and economics. It's a neutral descriptor of the dominant mode of production in the modern world, though it can carry negative connotations when criticizing uniformity.",
+    "synonyms": [
+      "assembly-line",
+      "standardized",
+      "factory-made"
+    ],
+    "antonyms": [
+      "handmade",
+      "bespoke",
+      "custom-made"
+    ],
+    "nounForm": "mass production",
+    "verbForm": "mass-produce",
+    "adjectiveForm": "mass-produced",
+    "partOfSpeech": "adjective",
+    "commonContext": "Manufacturing, consumer goods, economics, history",
+    "usageTip": "Always hyphenate. Often used to explain low cost and wide availability.",
+    "commonMistake": "Using it to mean simply 'many were made'; it specifically refers to the industrialized method of production.",
+    "collocations": [
+      "mass-produced goods",
+      "first mass-produced car",
+      "cheaply mass-produced"
+    ]
+  },
+  {
+    "word": "Mass-produced",
+    "meaning": "Manufactured in large quantities using standardized processes",
+    "shortMeaning": "factory made",
+    "example": "The hardware components are mass-produced.",
+    "example2": "Mass-produced devices are generally cheaper.",
+    "example3": "We avoid mass-produced parts for custom builds.",
+    "Explanation": "Mass-produced refers to items that are manufactured in massive numbers, usually on an assembly line. In the tech industry, this is how everything from smartphones to server components are made. It allows for lower costs through economies of scale. While mass-produced items are reliable and cheap, they lack the unique customization or high-quality precision of hand-crafted or limited-run hardware. It is the standard for consumer electronics.",
+    "synonyms": [
+      "factory-made",
+      "standardized",
+      "commercial"
+    ],
+    "antonyms": [
+      "hand-made",
+      "custom",
+      "prototype"
+    ],
+    "nounForm": "mass-production",
+    "verbForm": "mass-produce",
+    "adjectiveForm": "mass-produced",
+    "partOfSpeech": "adjective",
+    "commonContext": "Hardware, manufacturing, electronics",
+    "usageTip": "Use this for standard consumer tech products.",
+    "commonMistake": "Confusing mass-produced with custom-engineered hardware.",
+    "collocations": [
+      "mass-produced hardware",
+      "mass-produced items",
+      "mass-produced technology"
+    ]
+  }
+]

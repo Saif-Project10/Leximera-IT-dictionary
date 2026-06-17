@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Deferred",
+    "meaning": "Postponed or delayed to a later time; yielded to another's wishes or opinion",
+    "shortMeaning": "postponed; yielded",
+    "example": "He deferred his university admission for a year.",
+    "example2": "The payment can be deferred until next month.",
+    "example3": "I deferred to her greater experience in the matter.",
+    "Explanation": "The adjective/verb (past participle) 'deferred' has two distinct meanings. The first and most common is to have put off (an action or event) to a later time. This is a formal synonym for 'postponed'. The second meaning is to have politely submitted to or accepted the decision or judgment of another person ('deferred to'). The noun form is 'deferment' (for delay) or 'deference' (for respectful submission).",
+    "synonyms": [
+      "postponed",
+      "delayed",
+      "put off",
+      "yielded",
+      "submitted"
+    ],
+    "antonyms": [
+      "advanced",
+      "brought forward",
+      "insisted",
+      "asserted"
+    ],
+    "nounForm": "deferment / deference",
+    "verbForm": "defer",
+    "adjectiveForm": "deferred",
+    "partOfSpeech": "adjective / verb (past participle)",
+    "commonContext": "Finance (deferred payment), education, decision-making",
+    "usageTip": "For delay: 'deferred until'. For yielding: 'deferred to'.",
+    "commonMistake": "Using 'deferred' only for time delays; it also has a social meaning of respect.",
+    "collocations": [
+      "deferred payment",
+      "deferred admission",
+      "deferred to",
+      "deferred maintenance"
+    ]
+  },
+  {
+    "word": "Deferred",
+    "meaning": "Put off until a later time",
+    "shortMeaning": "postponed",
+    "example": "The update was deferred to the next release cycle.",
+    "example2": "He requested a deferred execution of the script.",
+    "example3": "Maintenance was deferred to avoid downtime.",
+    "Explanation": "The word 'deferred' means to delay an action to a later point. In programming, 'deferred execution' is a technique where a task is defined but not actually run until its result is needed. This is very useful for optimizing performance. It helps save resources by not doing unnecessary work until the very last moment. Always be clear about why something is being deferred.",
+    "synonyms": [
+      "postponed",
+      "delayed",
+      "rescheduled"
+    ],
+    "antonyms": [
+      "immediate",
+      "prompt",
+      "prioritized"
+    ],
+    "nounForm": "deferment",
+    "verbForm": "defer",
+    "adjectiveForm": "deferred",
+    "partOfSpeech": "adjective / verb",
+    "commonContext": "Scheduling and performance optimization",
+    "usageTip": "Use 'deferred' for tasks that are pushed to the future.",
+    "commonMistake": "Confusing it with 'cancelled' (deferred means it will still happen).",
+    "collocations": [
+      "deferred execution",
+      "deferred update",
+      "deferred maintenance"
+    ]
+  }
+]

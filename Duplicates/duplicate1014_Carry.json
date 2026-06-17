@@ -1,0 +1,64 @@
+[
+  {
+    "word": "Carry",
+    "meaning": "To support and move someone or something from one place to another",
+    "shortMeaning": "transport while supporting",
+    "example": "Can you help me carry these groceries?",
+    "example2": "This bag can carry up to 20 kg.",
+    "example3": "The bridge carries traffic across the river.",
+    "Explanation": "'Carry' is a fundamental verb with a core meaning of transporting something while bearing its weight. It has many extended meanings: to convey (a disease), to support (a load), to have as a feature (carries a warranty), or to win (carry an election). It is an irregular verb (carry, carried, carried). This word is used in countless physical and metaphorical contexts. Phrasal verbs like 'carry out' (execute) and 'carry on' (continue) are very common. It's a basic but essential word for describing movement and support.",
+    "synonyms": [
+      "transport",
+      "bear",
+      "convey",
+      "haul"
+    ],
+    "antonyms": [
+      "drop",
+      "leave behind"
+    ],
+    "nounForm": "carrier",
+    "verbForm": "carry",
+    "adjectiveForm": "carrying",
+    "partOfSpeech": "verb",
+    "commonContext": "Moving objects, travel, logistics, disease transmission, support",
+    "usageTip": "Use 'carry' for the physical act of moving something you are holding or supporting.",
+    "commonMistake": "Confusing 'carry' with 'bring' or 'take'. 'Carry' emphasizes the physical support; 'bring/take' emphasize direction.",
+    "collocations": [
+      "carry out",
+      "carry on",
+      "carry weight"
+    ]
+  },
+  {
+    "word": "Carry",
+    "meaning": "To support the weight of something or to move it from one place to another",
+    "shortMeaning": "transport or support",
+    "example": "Fiber optic cables carry data at very high speeds.",
+    "example2": "The battery can carry enough charge for eight hours of work.",
+    "example3": "Please carry the server rack carefully to the new room.",
+    "Explanation": "In tech, 'carry' often refers to signals, data, or electrical current moving through a medium. For example, wires carry electricity, and networks carry traffic. It can also refer to the capacity of a system to handle a certain load. In a physical sense, it means moving hardware. It is a very basic but essential word used to describe the flow of information or the transport of items.",
+    "synonyms": [
+      "transport",
+      "transmit",
+      "bear"
+    ],
+    "antonyms": [
+      "drop",
+      "stop",
+      "hold back"
+    ],
+    "nounForm": "carrier",
+    "verbForm": "carry",
+    "adjectiveForm": "portable (physical) / N/A",
+    "partOfSpeech": "verb",
+    "commonContext": "Data transmission and physical logistics",
+    "usageTip": "Use 'carry' when describing how data moves through a cable or network.",
+    "commonMistake": "Using 'bring' when the data is being transmitted over a distance automatically.",
+    "collocations": [
+      "carry data",
+      "carry a signal",
+      "carry a load"
+    ]
+  }
+]

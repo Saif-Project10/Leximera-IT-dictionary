@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Non-domain",
+    "meaning": "Not related to or associated with a specific domain, especially a internet domain or a specialized field",
+    "shortMeaning": "outside a specific domain",
+    "example": "The email came from a non-domain address.",
+    "example2": "He has expertise in both domain and non-domain areas.",
+    "example3": "The software filters out non-domain traffic.",
+    "Explanation": "'Non-domain' is a technical adjective formed by negating 'domain'. In computing, it often refers to email or network activity not originating from an official organizational domain (e.g., personal Gmail vs. company email). More broadly, it can mean something outside a particular area of knowledge or control. It's a niche term used for precise categorization, especially in IT administration and systems management. The hyphen is essential.",
+    "synonyms": [
+      "external",
+      "outsider",
+      "non-specific"
+    ],
+    "antonyms": [
+      "domain",
+      "internal",
+      "specific"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-domain",
+    "partOfSpeech": "adjective",
+    "commonContext": "IT administration, email systems, network security",
+    "usageTip": "Most commonly used in IT to categorize users, emails, or computers.",
+    "commonMistake": "Interpreting it too broadly; its meaning is highly dependent on the 'domain' in question.",
+    "collocations": [
+      "non-domain user",
+      "non-domain email",
+      "non-domain joined"
+    ]
+  },
+  {
+    "word": "Non-domain",
+    "meaning": "Relating to things outside of a specific field or area",
+    "shortMeaning": "outside the field",
+    "example": "The error was caused by non-domain specific configuration.",
+    "example2": "He was asked to handle a non-domain task outside his role.",
+    "example3": "The data includes both domain and non-domain information.",
+    "Explanation": "A 'domain' in IT refers to a specific area of expertise, a specific network environment, or a group of related data. 'Non-domain' refers to anything outside that boundary. For example, a network domain controls user access; any device or user not part of that group is 'non-domain'. Understanding what is inside your domain and what is outside is key for security, as you should apply stricter rules to your own domain and be more cautious with non-domain entities.",
+    "synonyms": [
+      "external",
+      "unrelated",
+      "out-of-scope"
+    ],
+    "antonyms": [
+      "domain-specific"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "non-domain",
+    "partOfSpeech": "adjective",
+    "commonContext": "Security and project scope",
+    "usageTip": "Use 'non-domain' for anything outside your current field or control.",
+    "commonMistake": "Treating non-domain assets with the same trust level as domain assets.",
+    "collocations": [
+      "non-domain device",
+      "non-domain traffic",
+      "non-domain data"
+    ]
+  }
+]

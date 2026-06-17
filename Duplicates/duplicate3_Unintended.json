@@ -1,0 +1,98 @@
+[
+  {
+    "word": "Unintended",
+    "meaning": "Not planned or meant to happen",
+    "shortMeaning": "not planned",
+    "example": "The new policy had several unintended consequences.",
+    "example2": "His harsh words caused unintended hurt.",
+    "example3": "She made an unintended error in the report.",
+    "Explanation": "'Unintended' describes outcomes or effects that were not part of the original plan. It is important in discussions about results, especially when actions lead to surprising or negative side effects. It is the opposite of 'intentional'. The word highlights the gap between what someone wanted to happen and what actually happened. Always use it to describe consequences, not the person.",
+    "synonyms": [
+      "accidental",
+      "unplanned",
+      "inadvertent",
+      "unexpected"
+    ],
+    "antonyms": [
+      "intended",
+      "deliberate",
+      "planned",
+      "intentional"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintended",
+    "partOfSpeech": "adjective",
+    "commonContext": "Discussing consequences, side effects, or mistakes",
+    "usageTip": "Use it to describe results or effects that were not the goal.",
+    "commonMistake": "Using 'unintended' to describe a person (e.g., 'He was unintended') instead of an outcome.",
+    "collocations": [
+      "unintended consequences",
+      "unintended effect",
+      "unintended result",
+      "unintended mistake"
+    ]
+  },
+  {
+    "word": "Unintended",
+    "meaning": "Not planned or foreseen as a result of an action",
+    "shortMeaning": "accidental",
+    "example": "The software update had an unintended side effect on the UI.",
+    "example2": "This was an unintended consequence of the new policy.",
+    "example3": "We must test for unintended interactions between plugins.",
+    "Explanation": "In software development, 'unintended' events are 'side effects' that occur even though the developer didn't design them. This is the source of most bugs. For instance, you might fix a security issue but accidentally break a login feature. This is an unintended result. Testing helps catch these before they reach production. Use this term to explain outcomes that were not part of the original design or intention. It is a common professional term used in retrospectives and bug analysis.",
+    "synonyms": [
+      "accidental",
+      "unplanned",
+      "unwanted"
+    ],
+    "antonyms": [
+      "intended",
+      "deliberate",
+      "planned"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "unintended",
+    "partOfSpeech": "adjective",
+    "commonContext": "Debugging, software testing, project retrospectives",
+    "usageTip": "Use this when analyzing bugs caused by updates.",
+    "commonMistake": "Confusing 'unintended' with 'negligent'.",
+    "collocations": [
+      "unintended side effect",
+      "unintended consequence",
+      "unintended outcome"
+    ]
+  },
+  {
+    "word": "Unintended",
+    "meaning": "Not planned or expected.",
+    "shortMeaning": "accidental",
+    "example": "The code change had an unintended effect on the UI.",
+    "example2": "Unintended behavior often stems from poorly tested logic.",
+    "example3": "There were several unintended consequences of the update.",
+    "Explanation": "When building software, developers aim for specific outcomes. 'Unintended' describes outcomes or bugs that were not part of the plan. This often happens because of complex interactions between different parts of the system. Finding and fixing unintended behavior is a major part of the QA process. Using automated testing helps catch these unintended issues before the code reaches the live production environment.",
+    "synonyms": [
+      "accidental",
+      "unplanned",
+      "unexpected"
+    ],
+    "antonyms": [
+      "intended",
+      "deliberate",
+      "expected"
+    ],
+    "nounForm": "unintendedness",
+    "verbForm": "intend",
+    "adjectiveForm": "unintended",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software testing and bug fixing",
+    "usageTip": "Use to discuss unexpected bugs or side effects.",
+    "commonMistake": "Using 'unintended' to excuse poor planning.",
+    "collocations": [
+      "unintended effect",
+      "unintended behavior",
+      "unintended consequence"
+    ]
+  }
+]

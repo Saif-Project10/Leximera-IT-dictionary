@@ -1,0 +1,61 @@
+[
+  {
+    "word": "Soft real time",
+    "meaning": "A type of computing where tasks should be completed on time, but occasional delays are acceptable",
+    "shortMeaning": "approximate real-time",
+    "example": "Online gaming is a classic example of a soft real time system.",
+    "example2": "The weather update operates in soft real time.",
+    "example3": "Soft real time is common in applications involving human interaction.",
+    "Explanation": "Soft real time is a design goal. It means the computer tries its hardest to finish a task within a certain timeframe. If it misses the deadline, the data is still useful, just less valuable. For instance, in a video call, if a packet arrives late, the video might stutter for a second. The call doesn't end; it just continues. Developers of soft real time systems focus on 'average' performance rather than 'worst-case' performance. It is used when high speed is needed but the risk of failure is low. It makes software more flexible and easier to build than strict hard real-time systems.",
+    "synonyms": [
+      "flexible real-time",
+      "soft timing",
+      "N/A"
+    ],
+    "antonyms": [
+      "hard real time",
+      "batch processing",
+      "N/A"
+    ],
+    "nounForm": "soft real time",
+    "verbForm": "N/A",
+    "adjectiveForm": "soft real-time",
+    "partOfSpeech": "noun / adjective",
+    "commonContext": "Operating systems, gaming, and media",
+    "usageTip": "Design for soft real time when you want to balance performance with ease of development.",
+    "commonMistake": "Assuming soft real time doesn't have any deadlines at all.",
+    "collocations": [
+      "soft real time operating system",
+      "soft real time constraint",
+      "soft real time application"
+    ]
+  },
+  {
+    "word": "Soft real time",
+    "meaning": "A system where missing a deadline reduces quality but doesn't cause failure",
+    "shortMeaning": "flexible timing",
+    "example": "Multimedia streaming often uses soft real time processing.",
+    "example2": "The app needs soft real time performance to keep audio synced.",
+    "example3": "Soft real time systems can tolerate slight delays.",
+    "Explanation": "Soft real time is a performance characteristic of systems where timing is important but not mission-critical. If a task is slightly late, the system continues to function but with reduced quality, such as dropped frames in a video. This differs from 'hard real time' where a missed deadline results in system failure. It is common in consumer electronics and media playback. It balances efficiency with quality.",
+    "synonyms": [
+      "flexible timing",
+      "non-critical timing"
+    ],
+    "antonyms": [
+      "hard real time",
+      "critical timing"
+    ],
+    "nounForm": "N/A",
+    "verbForm": "N/A",
+    "adjectiveForm": "soft real time",
+    "partOfSpeech": "adjective phrase",
+    "commonContext": "Multimedia, streaming, system architecture",
+    "usageTip": "Use for systems where deadlines are preferred but not fatal.",
+    "commonMistake": "Confusing soft real time with hard real time requirements.",
+    "collocations": [
+      "soft real time system",
+      "soft real time performance"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "word": "Layered",
+    "meaning": "Arranged in layers; having multiple levels or strata",
+    "shortMeaning": "arranged in layers",
+    "example": "She wore a layered outfit to stay warm.",
+    "example2": "The cake had a layered structure with cream in between.",
+    "example3": "The story has a layered meaning, not just a simple plot.",
+    "Explanation": "'Layered' is the past participle of 'layer', and is commonly used as an adjective. It describes something composed of multiple distinct levels stacked on top of each other. This can be physical (layered rocks, layered clothing) or abstract (a layered argument, layered personality). The word suggests complexity, depth, and intentional structure. In computing, 'layered architecture' separates concerns. In fashion, layered looks are stylish and practical. The adjective implies that there is more beneath the surface to be discovered.",
+    "synonyms": [
+      "stratified",
+      "tiered",
+      "multilayered",
+      "complex",
+      "tiered"
+    ],
+    "antonyms": [
+      "single-layered",
+      "simple",
+      "uniform"
+    ],
+    "nounForm": "layer",
+    "verbForm": "layer",
+    "adjectiveForm": "layered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Clothing, geology, cakes, arguments, software architecture",
+    "usageTip": "Use 'layered' to describe anything composed of multiple levels, whether concrete or abstract.",
+    "commonMistake": "Using 'layered' to mean 'placed down' (that's 'laid'). 'Layered' specifically means arranged in strata.",
+    "collocations": [
+      "layered approach",
+      "deeply layered",
+      "layered effect"
+    ]
+  },
+  {
+    "word": "Layered",
+    "meaning": "Having different levels or stacked components",
+    "shortMeaning": "having levels",
+    "example": "The architecture is built in a layered approach.",
+    "example2": "Security is improved by using a layered defense system.",
+    "example3": "We used a layered file system for better organization.",
+    "Explanation": "Layered refers to a design pattern where a system is separated into distinct levels, each with specific responsibilities. For instance, in software, you might have a data layer, a logic layer, and a presentation layer. This improves maintainability and security because each layer is isolated. A layered approach makes it easier to update one part of a system without breaking everything else. It is a fundamental concept in software architecture.",
+    "synonyms": [
+      "multi-level",
+      "stacked",
+      "tiered"
+    ],
+    "antonyms": [
+      "flat",
+      "integrated",
+      "monolithic"
+    ],
+    "nounForm": "layer",
+    "verbForm": "layer",
+    "adjectiveForm": "layered",
+    "partOfSpeech": "adjective",
+    "commonContext": "Software architecture, security, design",
+    "usageTip": "Use this to describe complex systems with distinct levels.",
+    "commonMistake": "Making too many layers that add unnecessary complexity.",
+    "collocations": [
+      "layered architecture",
+      "layered security",
+      "layered approach"
+    ]
+  }
+]
