@@ -266,35 +266,77 @@ main {
   max-width: 55%;
 }
 
-.filters {
+.mode-switcher {
   margin-top: 18px;
-}
-
-.filter-label {
-  font-size: 0.85rem;
-  color: var(--text-soft);
-  margin-bottom: 8px;
-}
-
-.alphabet {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.alpha-btn {
-  padding: 6px 10px;
-  border-radius: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  padding: 6px;
   border: 1px solid var(--border);
+  border-radius: 16px;
   background: var(--surface-2);
-  font-weight: 600;
-  cursor: pointer;
-  font-size: 0.85rem;
 }
 
-.alpha-btn.active {
+.mode-btn {
+  min-height: 42px;
+  border: none;
+  border-radius: 12px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-weight: 700;
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+}
+
+.mode-btn.active {
   background: var(--brand-ink);
   color: var(--brand-paper);
+  box-shadow: 0 8px 18px var(--shadow);
+}
+
+.qa-list,
+.mcq-options {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.qa-item,
+.mcq-option {
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+}
+
+.qa-item strong,
+.mcq-question {
+  display: block;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+
+.qa-item p,
+.mcq-option,
+.mcq-explanation {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.mcq-card {
+  cursor: default;
+}
+
+.mcq-card:hover {
+  transform: none;
+}
+
+.mcq-answer {
+  margin-top: 10px;
+}
+
+.mcq-explanation {
+  margin-top: 8px;
 }
 
 .stats {
@@ -626,6 +668,10 @@ main {
   .suggestion .meta {
     max-width: 100%;
     white-space: normal;
+  }
+
+  .mode-switcher {
+    grid-template-columns: 1fr;
   }
 
   .section-head {

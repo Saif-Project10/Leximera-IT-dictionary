@@ -1,15 +1,18 @@
 (() => {
   const state = {
+    activeMode: "dictionary",
     data: [],
+    qaData: [],
+    mcqData: [],
     index: [],
-    letterIndex: new Map(),
+    qaIndex: [],
+    mcqIndex: [],
     synonymIndex: new Map(),
     wordMap: new Map(),
     results: [],
     page: 0,
     pageSize: 30,
     query: "",
-    letter: "all",
     bookmarks: new Set(),
     recent: []
   };
@@ -37,14 +40,32 @@
 
   async function loadData() {
     try {
-      const res = await fetch("data.json");
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const raw = await res.json();
-      state.data = raw.map(normalizeEntry).filter(Boolean);
+      const [wordsRes, qaRes, mcqRes] = await Promise.all([
+        fetch("data.json"),
+        fetch("Ques-ans-data.json"),
+        fetch("Mcqs-data.json")
+      ]);
+      if (!wordsRes.ok) throw new Error(`data.json HTTP ${wordsRes.status}`);
+
+      const wordsRaw = await wordsRes.json();
+      state.data = wordsRaw.map(normalizeEntry).filter(Boolean);
+
+      if (qaRes.ok) {
+        const qaRaw = await qaRes.json();
+        state.qaData = qaRaw.map(normalizeQaEntry).filter(Boolean);
+      }
+
+      if (mcqRes.ok) {
+        const mcqRaw = await mcqRes.json();
+        state.mcqData = mcqRaw.map(normalizeMcqEntry).filter(Boolean);
+      }
+
       buildIndexes();
     } catch (err) {
-      console.error("Failed to load data.json", err);
+      console.error("Failed to load site data", err);
       state.data = [];
+      state.qaData = [];
+      state.mcqData = [];
     }
   }
 
@@ -86,14 +107,55 @@
     return value.map((v) => String(v || "").trim()).filter(Boolean);
   }
 
+  function normalizeQaEntry(entry) {
+    if (!entry || !entry.word) return null;
+
+    const questions = [];
+    for (let i = 1; i <= 10; i += 1) {
+      const question = String(entry[`Question${i}`] || "").trim();
+      const answer = String(entry[`Answer${i}`] || "").trim();
+      if (question || answer) questions.push({ question, answer });
+    }
+
+    if (!questions.length) return null;
+
+    return {
+      word: String(entry.word || "").trim(),
+      questions
+    };
+  }
+
+  function normalizeMcqEntry(entry) {
+    if (!entry || !entry.word) return null;
+
+    const mcqs = [];
+    for (let i = 1; i <= 10; i += 1) {
+      const question = String(entry[`mcqs${i}`] || "").trim();
+      const options = [1, 2, 3, 4]
+        .map((optionNumber) => String(entry[`mcqs${i}Option${optionNumber}`] || "").trim())
+        .filter(Boolean);
+      const correctAnswer = String(entry[`mcqs${i}CorrectAnswer`] || "").trim();
+      const explanation = String(entry[`mcqs${i}Explanation`] || "").trim();
+
+      if (question || options.length || correctAnswer || explanation) {
+        mcqs.push({ question, options, correctAnswer, explanation });
+      }
+    }
+
+    if (!mcqs.length) return null;
+
+    return {
+      word: String(entry.word || "").trim(),
+      mcqs
+    };
+  }
+
   function buildIndexes() {
     state.wordMap = new Map();
-    state.letterIndex = new Map();
     state.synonymIndex = new Map();
 
     state.index = state.data.map((entry, idx) => {
       const normalizedWord = normalizeSearchTerm(entry.word);
-      const firstLetter = normalizedWord.charAt(0);
 
       const searchText = [
         entry.word,
@@ -115,9 +177,6 @@
 
       state.wordMap.set(normalizedWord, entry);
 
-      if (!state.letterIndex.has(firstLetter)) state.letterIndex.set(firstLetter, []);
-      state.letterIndex.get(firstLetter).push(idx);
-
       entry.synonyms.forEach((syn) => {
         const key = normalizeSearchTerm(syn);
         if (!state.synonymIndex.has(key)) state.synonymIndex.set(key, new Set());
@@ -132,6 +191,30 @@
         collocationsText: entry.collocations.join(" ").toLowerCase()
       };
     });
+
+    state.qaIndex = state.qaData.map((entry, idx) => ({
+      idx,
+      word: normalizeSearchTerm(entry.word),
+      searchText: [entry.word, ...entry.questions.flatMap((item) => [item.question, item.answer])]
+        .join(" ")
+        .toLowerCase()
+    }));
+
+    state.mcqIndex = state.mcqData.map((entry, idx) => ({
+      idx,
+      word: normalizeSearchTerm(entry.word),
+      searchText: [
+        entry.word,
+        ...entry.mcqs.flatMap((item) => [
+          item.question,
+          item.correctAnswer,
+          item.explanation,
+          ...item.options
+        ])
+      ]
+        .join(" ")
+        .toLowerCase()
+    }));
   }
 
   function initTheme() {
@@ -192,9 +275,8 @@
         if (input) input.value = "";
         state.query = "";
         hideSuggestions();
-        resetResults();
         clearBtn.style.display = "none";
-        setResultsMeta("Start typing to discover words.");
+        performSearch("");
       });
     }
 
@@ -212,7 +294,7 @@
       });
     }
 
-    initAlphabetFilter();
+    initModeSwitcher();
 
     document.addEventListener("click", (event) => {
       const suggestions = qs("#suggestions");
@@ -240,6 +322,38 @@
     const totalWords = qs("#totalWords");
     const totalSynonyms = qs("#totalSynonyms");
     const totalExamples = qs("#totalExamples");
+    const totalWordsLabel = qs("#totalWordsLabel");
+    const totalSynonymsLabel = qs("#totalSynonymsLabel");
+    const totalExamplesLabel = qs("#totalExamplesLabel");
+
+    if (state.activeMode === "qa") {
+      const questionCount = state.qaData.reduce((acc, entry) => acc + entry.questions.length, 0);
+      const answerCount = questionCount;
+
+      if (totalWords) totalWords.textContent = state.qaData.length.toLocaleString();
+      if (totalSynonyms) totalSynonyms.textContent = questionCount.toLocaleString();
+      if (totalExamples) totalExamples.textContent = answerCount.toLocaleString();
+      if (totalWordsLabel) totalWordsLabel.textContent = "Q/A terms";
+      if (totalSynonymsLabel) totalSynonymsLabel.textContent = "Questions";
+      if (totalExamplesLabel) totalExamplesLabel.textContent = "Answers";
+      return;
+    }
+
+    if (state.activeMode === "mcq") {
+      const mcqCount = state.mcqData.reduce((acc, entry) => acc + entry.mcqs.length, 0);
+      const optionCount = state.mcqData.reduce(
+        (acc, entry) => acc + entry.mcqs.reduce((sum, mcq) => sum + mcq.options.length, 0),
+        0
+      );
+
+      if (totalWords) totalWords.textContent = state.mcqData.length.toLocaleString();
+      if (totalSynonyms) totalSynonyms.textContent = mcqCount.toLocaleString();
+      if (totalExamples) totalExamples.textContent = optionCount.toLocaleString();
+      if (totalWordsLabel) totalWordsLabel.textContent = "MCQ terms";
+      if (totalSynonymsLabel) totalSynonymsLabel.textContent = "MCQs";
+      if (totalExamplesLabel) totalExamplesLabel.textContent = "Options";
+      return;
+    }
 
     if (totalWords) totalWords.textContent = state.data.length.toLocaleString();
 
@@ -248,38 +362,24 @@
 
     const exampleCount = state.data.reduce((acc, entry) => acc + entry.examples.length, 0);
     if (totalExamples) totalExamples.textContent = exampleCount.toLocaleString();
+    if (totalWordsLabel) totalWordsLabel.textContent = "Total words";
+    if (totalSynonymsLabel) totalSynonymsLabel.textContent = "Synonyms";
+    if (totalExamplesLabel) totalExamplesLabel.textContent = "Examples";
   }
 
-  function initAlphabetFilter() {
-    const container = qs("#alphabetFilter");
-    if (!container) return;
-    container.innerHTML = "";
+  function initModeSwitcher() {
+    qsa(".mode-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const nextMode = btn.dataset.mode || "dictionary";
+        if (nextMode === state.activeMode) return;
 
-    const allBtn = buildAlphaBtn("All", "all");
-    allBtn.classList.add("active");
-    container.appendChild(allBtn);
-
-    for (let i = 65; i <= 90; i += 1) {
-      const letter = String.fromCharCode(i);
-      container.appendChild(buildAlphaBtn(letter, letter.toLowerCase()));
-    }
-  }
-
-  function buildAlphaBtn(label, value) {
-    const btn = document.createElement("button");
-    btn.type = "button";
-    btn.textContent = label;
-    btn.className = "alpha-btn";
-    btn.dataset.letter = value;
-
-    btn.addEventListener("click", () => {
-      qsa(".alpha-btn").forEach((el) => el.classList.remove("active"));
-      btn.classList.add("active");
-      state.letter = value;
-      performSearch(state.query);
+        state.activeMode = nextMode;
+        qsa(".mode-btn").forEach((el) => el.classList.toggle("active", el === btn));
+        hideSuggestions();
+        updateStats();
+        performSearch(state.query);
+      });
     });
-
-    return btn;
   }
 
   function handleSearchInput(event) {
@@ -324,20 +424,22 @@
   }
 
   function performSearch(query) {
-    if (!state.data.length) {
+    const source = getActiveData();
+
+    if (!source.length) {
       setResultsMeta("Data is still loading.");
       return;
     }
 
-    if (!query && state.letter === "all") {
+    if (!query) {
       state.results = [];
       resetResults();
       hideSuggestions();
-      setResultsMeta("Start typing to discover words.");
+      setResultsMeta(getEmptySearchMessage());
       return;
     }
 
-    const results = query ? search(query) : filterByLetter(state.letter);
+    const results = search(query);
     state.results = results;
     state.page = 0;
     renderResults(true);
@@ -345,6 +447,9 @@
   }
 
   function search(query) {
+    if (state.activeMode === "qa") return searchSimple(query, state.qaData, state.qaIndex);
+    if (state.activeMode === "mcq") return searchSimple(query, state.mcqData, state.mcqIndex);
+
     const term = normalizeSearchTerm(query);
     if (!term) return [];
 
@@ -352,7 +457,6 @@
 
     for (const item of state.index) {
       const entry = state.data[item.idx];
-      if (state.letter !== "all" && item.word.charAt(0) !== state.letter) continue;
 
       let score = 0;
 
@@ -376,10 +480,39 @@
     return matches.map((m) => m.entry);
   }
 
-  function filterByLetter(letter) {
-    if (letter === "all") return [];
-    const indices = state.letterIndex.get(letter) || [];
-    return indices.slice(0, 700).map((idx) => state.data[idx]);
+  function searchSimple(query, source, index) {
+    const term = normalizeSearchTerm(query);
+    if (!term) return [];
+
+    const matches = [];
+
+    for (const item of index) {
+      const entry = source[item.idx];
+      let score = 0;
+
+      if (item.word === term) score += 1000;
+      if (item.word.startsWith(term)) score += 800;
+      if (item.word.includes(term)) score += 500;
+      if (item.searchText.includes(term)) score += 180;
+      if (!score) score = fuzzyWordScore(item.word, term);
+
+      if (score > 0) matches.push({ entry, score });
+    }
+
+    matches.sort((a, b) => b.score - a.score || a.entry.word.localeCompare(b.entry.word));
+    return matches.map((m) => m.entry);
+  }
+
+  function getActiveData() {
+    if (state.activeMode === "qa") return state.qaData;
+    if (state.activeMode === "mcq") return state.mcqData;
+    return state.data;
+  }
+
+  function getEmptySearchMessage() {
+    if (state.activeMode === "qa") return "Search a word to see its questions and answers.";
+    if (state.activeMode === "mcq") return "Search a word to see its MCQs.";
+    return "Start typing to discover words.";
   }
 
   function renderSuggestions(results, query) {
@@ -405,9 +538,15 @@
       div.dataset.word = entry.word;
       div.innerHTML = `
         <div class="term">${highlight(entry.word, query)}</div>
-        <div class="meta">${highlight(entry.shortMeaning || entry.meaning, query)}</div>
+        <div class="meta">${highlight(getEntryPreview(entry), query)}</div>
       `;
-      div.addEventListener("click", () => openWordOrSearch(entry.word));
+      div.addEventListener("click", () => {
+        const input = qs("#searchInput");
+        if (input) input.value = entry.word;
+        state.query = entry.word;
+        hideSuggestions();
+        performSearch(state.query);
+      });
       container.appendChild(div);
     });
 
@@ -441,16 +580,9 @@
 
     slice.forEach((entry) => {
       const card = document.createElement("article");
-      card.className = "result-card";
-      card.innerHTML = `
-        <h4>${highlight(entry.word, state.query)}</h4>
-        <p>${highlight(entry.shortMeaning || entry.meaning, state.query)}</p>
-        <div class="meta-row">
-          <span class="badge">${escapeHtml(entry.partOfSpeech || "word")}</span>
-          <span class="badge">${entry.synonyms.length} synonyms</span>
-        </div>
-      `;
-      card.addEventListener("click", () => navigateToWord(entry.word));
+      card.className = state.activeMode === "mcq" ? "result-card mcq-card" : "result-card";
+      card.innerHTML = renderResultCard(entry);
+      if (state.activeMode === "dictionary") card.addEventListener("click", () => navigateToWord(entry.word));
       fragment.appendChild(card);
     });
 
@@ -460,7 +592,72 @@
     if (loadMore) loadMore.style.display = end < state.results.length ? "block" : "none";
 
     if (state.results.length) setResultsMeta(`${state.results.length.toLocaleString()} results`);
-    else if (state.query || state.letter !== "all") setResultsMeta("No results found.");
+    else if (state.query || state.activeMode !== "dictionary") setResultsMeta("No results found.");
+  }
+
+  function renderResultCard(entry) {
+    if (state.activeMode === "qa") {
+      return `
+        <h4>${highlight(entry.word, state.query)}</h4>
+        <div class="meta-row">
+          <span class="badge">${entry.questions.length} questions</span>
+        </div>
+        <div class="qa-list">
+          ${entry.questions.map((item, index) => `
+            <div class="qa-item">
+              <strong>Q${index + 1}. ${highlight(item.question, state.query)}</strong>
+              <p>${highlight(item.answer, state.query)}</p>
+            </div>
+          `).join("")}
+        </div>
+      `;
+    }
+
+    if (state.activeMode === "mcq") {
+      return `
+        <h4>${highlight(entry.word, state.query)}</h4>
+        <div class="meta-row">
+          <span class="badge">${entry.mcqs.length} MCQs</span>
+        </div>
+        <div class="qa-list">
+          ${entry.mcqs.map((item, index) => `
+            <div class="qa-item">
+              <strong class="mcq-question">Q${index + 1}. ${highlight(item.question, state.query)}</strong>
+              <div class="mcq-options">
+                ${item.options.map((option, optionIndex) => `
+                  <div class="mcq-option">${String.fromCharCode(65 + optionIndex)}. ${highlight(option, state.query)}</div>
+                `).join("")}
+              </div>
+              <div class="mcq-answer"><span class="badge">Answer: ${highlight(item.correctAnswer, state.query)}</span></div>
+              <p class="mcq-explanation">${highlight(item.explanation, state.query)}</p>
+            </div>
+          `).join("")}
+        </div>
+      `;
+    }
+
+    return `
+      <h4>${highlight(entry.word, state.query)}</h4>
+      <p>${highlight(entry.shortMeaning || entry.meaning, state.query)}</p>
+      <div class="meta-row">
+        <span class="badge">${escapeHtml(entry.partOfSpeech || "word")}</span>
+        <span class="badge">${entry.synonyms.length} synonyms</span>
+      </div>
+    `;
+  }
+
+  function getEntryPreview(entry) {
+    if (state.activeMode === "qa") {
+      const first = entry.questions[0];
+      return first ? first.question : "";
+    }
+
+    if (state.activeMode === "mcq") {
+      const first = entry.mcqs[0];
+      return first ? first.question : "";
+    }
+
+    return entry.shortMeaning || entry.meaning;
   }
 
   function setResultsMeta(text) {

@@ -47,23 +47,24 @@
           </div>
           <div id="suggestions" class="suggestions" aria-live="polite"></div>
 
-          <div class="filters">
-            <div class="filter-label">Quick alphabet</div>
-            <div id="alphabetFilter" class="alphabet"></div>
+          <div class="mode-switcher" aria-label="Content type">
+            <button class="mode-btn active" type="button" data-mode="dictionary">Dictionary</button>
+            <button class="mode-btn" type="button" data-mode="qa">Questions & Answers</button>
+            <button class="mode-btn" type="button" data-mode="mcq">MCQs</button>
           </div>
 
           <div class="stats">
             <div class="stat">
               <div class="stat-value" id="totalWords">—</div>
-              <div class="stat-label">Total words</div>
+              <div class="stat-label" id="totalWordsLabel">Total words</div>
             </div>
             <div class="stat">
               <div class="stat-value" id="totalSynonyms">—</div>
-              <div class="stat-label">Synonyms</div>
+              <div class="stat-label" id="totalSynonymsLabel">Synonyms</div>
             </div>
             <div class="stat">
               <div class="stat-value" id="totalExamples">—</div>
-              <div class="stat-label">Examples</div>
+              <div class="stat-label" id="totalExamplesLabel">Examples</div>
             </div>
           </div>
         </div>
