@@ -176,6 +176,15 @@ main {
   max-width: 520px;
 }
 
+.hero-actions {
+  margin-top: 22px;
+}
+
+.inline-btn {
+  display: inline-flex;
+  margin: 0;
+}
+
 .search-panel {
   background: var(--surface);
   border-radius: var(--radius-lg);
@@ -275,6 +284,40 @@ main {
   border: 1px solid var(--border);
   border-radius: 16px;
   background: var(--surface-2);
+}
+
+.preference-switcher {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  padding: 6px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-2);
+  margin-bottom: 8px;
+}
+
+.preference-btn {
+  min-height: 42px;
+  border: none;
+  border-radius: 12px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-weight: 700;
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+}
+
+.preference-btn.active {
+  background: var(--accent-sky);
+  color: #ffffff;
+  box-shadow: 0 8px 18px var(--shadow);
+}
+
+.preference-meta {
+  color: var(--text-soft);
+  font-size: 0.9rem;
+  margin: 0 0 14px 2px;
 }
 
 .mode-btn {
@@ -671,6 +714,10 @@ main {
   }
 
   .mode-switcher {
+    grid-template-columns: 1fr;
+  }
+
+  .preference-switcher {
     grid-template-columns: 1fr;
   }
 

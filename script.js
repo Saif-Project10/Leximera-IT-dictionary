@@ -1,6 +1,7 @@
 (() => {
   const state = {
     activeMode: "dictionary",
+    contentPreference: "robotic",
     data: [],
     qaData: [],
     mcqData: [],
@@ -17,6 +18,27 @@
     recent: []
   };
 
+  const preferenceFiles = {
+    robotic: {
+      label: "Robotic",
+      dictionary: "Data/Robotic/Basic-field-robotic-data.json",
+      qa: "Data/Robotic/Ques-ans-robotic-data.json",
+      mcq: "Data/Robotic/Mcqs-robotic-data.json"
+    },
+    humanized: {
+      label: "Humanized",
+      dictionary: "Data/Humanized/Basic-field-humanized-data.json",
+      qa: "Data/Humanized/Ques-ans-humanized-data.json",
+      mcq: "Data/Humanized/Mcqs-humanized-data.json"
+    },
+    hybrid: {
+      label: "Hybrid",
+      dictionary: "Data/Hybrid/Basic-field-hybrid-data.json",
+      qa: "Data/Hybrid/Ques-ans-hybrid-data.json",
+      mcq: "Data/Hybrid/Mcqs-hybrid-data.json"
+    }
+  };
+
   const qs = (sel) => document.querySelector(sel);
   const qsa = (sel) => Array.from(document.querySelectorAll(sel));
   const page = document.body.dataset.page;
@@ -24,10 +46,25 @@
   document.addEventListener("DOMContentLoaded", async () => {
     initTheme();
     loadUserData();
-    await loadData();
+
+    if (["home", "word", "bookmarks"].includes(page)) {
+      await loadData("root");
+    }
+
+    if (page === "content") {
+      await loadData("preference");
+    }
 
     if (page === "home") {
-      initHome();
+      initContentPage();
+      updateStats();
+      renderWordOfDay();
+      renderRecent();
+      hydrateQueryFromUrl();
+    }
+
+    if (page === "content") {
+      initContentPage();
       updateStats();
       renderWordOfDay();
       renderRecent();
@@ -38,14 +75,21 @@
     if (page === "bookmarks") initBookmarks();
   });
 
-  async function loadData() {
+  async function loadData(source = "preference") {
     try {
+      const files = source === "root"
+        ? {
+            dictionary: "data.json",
+            qa: "Ques-ans-data.json",
+            mcq: "Mcqs-data.json"
+          }
+        : preferenceFiles[state.contentPreference] || preferenceFiles.robotic;
       const [wordsRes, qaRes, mcqRes] = await Promise.all([
-        fetch("data.json"),
-        fetch("Ques-ans-data.json"),
-        fetch("Mcqs-data.json")
+        fetch(files.dictionary),
+        fetch(files.qa),
+        fetch(files.mcq)
       ]);
-      if (!wordsRes.ok) throw new Error(`data.json HTTP ${wordsRes.status}`);
+      if (!wordsRes.ok) throw new Error(`${files.dictionary} HTTP ${wordsRes.status}`);
 
       const wordsRaw = await wordsRes.json();
       state.data = wordsRaw.map(normalizeEntry).filter(Boolean);
@@ -250,6 +294,11 @@
     } catch (err) {
       state.recent = [];
     }
+
+    const storedPreference = localStorage.getItem("leximera-content-preference");
+    if (storedPreference && preferenceFiles[storedPreference]) {
+      state.contentPreference = storedPreference;
+    }
   }
 
   function saveBookmarks() {
@@ -260,7 +309,7 @@
     localStorage.setItem("leximera-recent", JSON.stringify(state.recent));
   }
 
-  function initHome() {
+  function initContentPage() {
     const input = qs("#searchInput");
     const clearBtn = qs("#clearSearch");
     const loadMore = qs("#loadMore");
@@ -294,7 +343,9 @@
       });
     }
 
+    initPreferenceSwitcher();
     initModeSwitcher();
+    syncPreferenceButtons();
 
     document.addEventListener("click", (event) => {
       const suggestions = qs("#suggestions");
@@ -382,6 +433,35 @@
     });
   }
 
+  function initPreferenceSwitcher() {
+    qsa(".preference-btn").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const nextPreference = btn.dataset.preference || "robotic";
+        if (nextPreference === state.contentPreference) return;
+
+        state.contentPreference = nextPreference;
+        localStorage.setItem("leximera-content-preference", nextPreference);
+        syncPreferenceButtons();
+        hideSuggestions();
+        await loadData();
+        updateStats();
+        renderWordOfDay(true);
+        renderRecent();
+        performSearch(state.query);
+      });
+    });
+  }
+
+  function syncPreferenceButtons() {
+    qsa(".preference-btn").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.preference === state.contentPreference);
+    });
+
+    const label = qs("#preferenceMeta");
+    const preference = preferenceFiles[state.contentPreference] || preferenceFiles.robotic;
+    if (label) label.textContent = `${preference.label} content selected`;
+  }
+
   function handleSearchInput(event) {
     state.query = event.target.value.trim();
     const clearBtn = qs("#clearSearch");
@@ -410,7 +490,7 @@
     if (event.key === "Enter") {
       event.preventDefault();
       const active = items[activeIndex];
-      if (active) openWordOrSearch(active.dataset.word);
+      if (active) selectSuggestion(active.dataset.word);
     }
   }
 
@@ -439,7 +519,7 @@
       return;
     }
 
-    const results = search(query);
+    const results = page === "content" ? searchContentPreference(query) : search(query);
     state.results = results;
     state.page = 0;
     renderResults(true);
@@ -480,6 +560,22 @@
     return matches.map((m) => m.entry);
   }
 
+  function searchContentPreference(query) {
+    const source = getActiveData();
+    const term = normalizeSearchTerm(query);
+    if (!term) return [];
+
+    const exact = source.find((entry) => normalizeSearchTerm(entry.word) === term);
+    if (exact) return [exact];
+
+    const prefixMatches = source.filter((entry) => normalizeSearchTerm(entry.word).startsWith(term));
+    if (prefixMatches.length) return prefixMatches.slice(0, 30);
+
+    return source
+      .filter((entry) => normalizeSearchTerm(entry.word).includes(term))
+      .slice(0, 30);
+  }
+
   function searchSimple(query, source, index) {
     const term = normalizeSearchTerm(query);
     if (!term) return [];
@@ -493,7 +589,6 @@
       if (item.word === term) score += 1000;
       if (item.word.startsWith(term)) score += 800;
       if (item.word.includes(term)) score += 500;
-      if (item.searchText.includes(term)) score += 180;
       if (!score) score = fuzzyWordScore(item.word, term);
 
       if (score > 0) matches.push({ entry, score });
@@ -540,13 +635,7 @@
         <div class="term">${highlight(entry.word, query)}</div>
         <div class="meta">${highlight(getEntryPreview(entry), query)}</div>
       `;
-      div.addEventListener("click", () => {
-        const input = qs("#searchInput");
-        if (input) input.value = entry.word;
-        state.query = entry.word;
-        hideSuggestions();
-        performSearch(state.query);
-      });
+      div.addEventListener("click", () => selectSuggestion(entry.word));
       container.appendChild(div);
     });
 
@@ -580,9 +669,13 @@
 
     slice.forEach((entry) => {
       const card = document.createElement("article");
-      card.className = state.activeMode === "mcq" ? "result-card mcq-card" : "result-card";
+      card.className = state.activeMode === "mcq" || (page === "content" && state.activeMode === "dictionary")
+        ? "result-card mcq-card"
+        : "result-card";
       card.innerHTML = renderResultCard(entry);
-      if (state.activeMode === "dictionary") card.addEventListener("click", () => navigateToWord(entry.word));
+      if (state.activeMode === "dictionary" && page !== "content") {
+        card.addEventListener("click", () => navigateToWord(entry.word));
+      }
       fragment.appendChild(card);
     });
 
@@ -595,7 +688,84 @@
     else if (state.query || state.activeMode !== "dictionary") setResultsMeta("No results found.");
   }
 
+  function selectSuggestion(word) {
+    const input = qs("#searchInput");
+    if (input) input.value = word;
+    state.query = word;
+    hideSuggestions();
+    performSearch(state.query);
+  }
+
   function renderResultCard(entry) {
+    if (state.activeMode === "dictionary" && page === "content") {
+      const examples = entry.examples.length ? entry.examples : ["No examples available."];
+
+      return `
+        <h4>${highlight(entry.word, state.query)}</h4>
+        <p>${highlight(entry.shortMeaning || entry.meaning, state.query)}</p>
+        <div class="meta-row">
+          <span class="badge">${escapeHtml(entry.partOfSpeech || "word")}</span>
+          <span class="badge">${entry.synonyms.length} synonyms</span>
+        </div>
+
+        <div class="detail-block">
+          <h3>Full meaning</h3>
+          <p>${highlight(entry.meaning || "No meaning available.", state.query)}</p>
+        </div>
+
+        <div class="detail-block">
+          <h3>Word forms</h3>
+          <div class="tag-list">
+            <span class="tag">Noun: ${escapeHtml(entry.nounForm || "N/A")}</span>
+            <span class="tag">Verb: ${escapeHtml(entry.verbForm || "N/A")}</span>
+            <span class="tag">Adjective: ${escapeHtml(entry.adjectiveForm || "N/A")}</span>
+          </div>
+        </div>
+
+        <div class="detail-block">
+          <h3>Examples</h3>
+          ${examples.map((ex) => `<div class="example">${highlight(ex, state.query)}</div>`).join("")}
+        </div>
+
+        <div class="detail-block">
+          <details open>
+            <summary><strong>Detailed explanation</strong></summary>
+            <p>${highlight(entry.explanation || "No explanation available.", state.query)}</p>
+          </details>
+        </div>
+
+        <div class="detail-block">
+          <h3>Synonyms</h3>
+          <div class="tag-list">${renderPlainTags(entry.synonyms, "synonym")}</div>
+        </div>
+
+        <div class="detail-block">
+          <h3>Antonyms</h3>
+          <div class="tag-list">${renderPlainTags(entry.antonyms, "antonym")}</div>
+        </div>
+
+        <div class="detail-block">
+          <h3>Collocations</h3>
+          <div class="tag-list">${renderPlainTags(entry.collocations, "collocation")}</div>
+        </div>
+
+        <div class="detail-block info-box">
+          <h3>Common context</h3>
+          <p>${highlight(entry.commonContext || "No context available.", state.query)}</p>
+        </div>
+
+        <div class="detail-block info-box">
+          <h3>Usage tip</h3>
+          <p>${highlight(entry.usageTip || "No usage tip available.", state.query)}</p>
+        </div>
+
+        <div class="detail-block warn-box">
+          <h3>Common mistake</h3>
+          <p>${highlight(entry.commonMistake || "No common mistake listed.", state.query)}</p>
+        </div>
+      `;
+    }
+
     if (state.activeMode === "qa") {
       return `
         <h4>${highlight(entry.word, state.query)}</h4>
@@ -660,6 +830,11 @@
     return entry.shortMeaning || entry.meaning;
   }
 
+  function renderPlainTags(list, type) {
+    if (!list.length) return `<span class="tag">No ${type}s</span>`;
+    return list.map((item) => `<span class="tag">${escapeHtml(item)}</span>`).join("");
+  }
+
   function setResultsMeta(text) {
     const meta = qs("#resultsMeta");
     if (meta) meta.textContent = text;
@@ -681,7 +856,12 @@
     `;
 
     const item = container.querySelector(".mini-item");
-    if (item) item.addEventListener("click", () => navigateToWord(entry.word));
+    if (item) {
+      item.addEventListener("click", () => {
+        if (page === "content") selectSuggestion(entry.word);
+        else navigateToWord(entry.word);
+      });
+    }
   }
 
   function daySeed() {
@@ -708,7 +888,10 @@
       const div = document.createElement("div");
       div.className = "mini-item";
       div.innerHTML = `<strong>${escapeHtml(entry.word)}</strong><p>${escapeHtml(entry.shortMeaning || entry.meaning)}</p>`;
-      div.addEventListener("click", () => navigateToWord(entry.word));
+      div.addEventListener("click", () => {
+        if (page === "content") selectSuggestion(entry.word);
+        else navigateToWord(entry.word);
+      });
       list.appendChild(div);
     });
   }
@@ -894,7 +1077,6 @@
   function renderNotFound(term) {
     const container = qs("#wordDetail");
     if (!container) return;
-
     container.innerHTML = `
       <div class="word-detail">
         <h2>Word not found</h2>
@@ -1015,10 +1197,16 @@
   }
 
   function navigateToSearch(term) {
-    window.location.href = `index.html?q=${encodeURIComponent(term || "")}`;
+    const searchPage = page === "content" ? "content-preferences.html" : "index.html";
+    window.location.href = `${searchPage}?q=${encodeURIComponent(term || "")}`;
   }
 
   function navigateToWord(word) {
+    if (page === "content") {
+      selectSuggestion(word);
+      return;
+    }
+
     window.location.href = `word.html?term=${encodeURIComponent(word)}`;
   }
 

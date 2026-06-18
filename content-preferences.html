@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Leximera — Modern Terminology Dictionary</title>
-  <meta name="description" content="Leximera is a premium, search-first terminology dictionary for advanced English words, meanings, and usage.">
+  <title>Leximera - Content Preferences</title>
+  <meta name="description" content="Choose Leximera content style and search dictionary, questions, answers, and MCQs.">
   <meta name="robots" content="index,follow">
   <link rel="stylesheet" href="style.css">
 </head>
-<body data-page="home">
+<body data-page="content">
   <div class="page">
     <header class="site-header">
       <a class="brand" href="index.html" aria-label="Leximera home">
@@ -36,15 +36,22 @@
     <main>
       <section class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">Precision vocabulary. Modern learning.</p>
-          <h1>Search-first dictionary for advanced terminology</h1>
-          <p class="lead">Explore 20,000+ words with full explanations, rich examples, and contextual usage guidance.</p>
+          <p class="eyebrow">Content Preferences</p>
+          <h1>Choose a content style, then search</h1>
+          <p class="lead">Select Robotic, Humanized, or Hybrid content for dictionary entries, questions, answers, and MCQs.</p>
         </div>
 
         <div class="search-panel" role="search">
+          <div class="preference-switcher" aria-label="Content preference">
+            <button class="preference-btn active" type="button" data-preference="robotic">Robotic</button>
+            <button class="preference-btn" type="button" data-preference="humanized">Humanized</button>
+            <button class="preference-btn" type="button" data-preference="hybrid">Hybrid</button>
+          </div>
+          <div id="preferenceMeta" class="preference-meta">Robotic content selected</div>
+
           <div class="search-box">
             <span class="search-icon" aria-hidden="true">⌕</span>
-            <input id="searchInput" class="search-input" type="text" autocomplete="off" spellcheck="false" placeholder="Search word, meaning, synonym, or collocation...">
+            <input id="searchInput" class="search-input" type="text" autocomplete="off" spellcheck="false" placeholder="Search a word...">
             <button id="clearSearch" class="icon-btn" aria-label="Clear search">×</button>
           </div>
           <div id="suggestions" class="suggestions" aria-live="polite"></div>
@@ -101,7 +108,7 @@
     </main>
 
     <footer class="site-footer">
-      <div>Leximera — modern terminology reference for focused learning.</div>
+      <div>Leximera - modern terminology reference for focused learning.</div>
       <div class="footer-links">
         <a href="index.html">Home</a>
         <a href="content-preferences.html">Content Preferences</a>
